@@ -1,0 +1,65 @@
+[
+{"entry": 3168, "blocks": [
+ {"box": [28, 307, 292, 328], "ink": "dark", "text": "Guardian Hand (Standard)", "align": "center", "bold": true, "size": 18},
+ {"box": [28, 345, 304, 412], "ink": "dark", "text": "A small monster released from the Guardian's arms.\nSprays oil.\nWeak to acid and electricity."}
+], "erase": [{"box": [28, 412, 170, 430], "ink": "dark"}]},
+{"entry": 3169, "blocks": [
+ {"box": [28, 307, 292, 328], "ink": "dark", "text": "Guardian Hand (Freeze)", "align": "center", "bold": true, "size": 18},
+ {"box": [28, 345, 304, 412], "ink": "dark", "text": "A small monster released from the Guardian's arms.\nSprays water.\nWeak to acid, electricity and heat."}
+], "erase": [{"box": [28, 412, 170, 430], "ink": "dark"}]},
+{"entry": 3170, "blocks": [
+ {"box": [28, 286, 292, 307], "ink": "dark", "text": "Guardian Hand (Heat)", "align": "center", "bold": true, "size": 18},
+ {"box": [34, 335, 304, 412], "ink": "dark", "text": "A small monster released from the arms of the Guardian Heat. Spews oil.\nWeak to acid, electricity and cold."}
+], "erase": [{"box": [30, 412, 160, 430], "ink": "dark"}]},
+{"entry": 3171, "blocks": [
+ {"box": [28, 304, 292, 325], "ink": "dark", "text": "Guardian Head", "align": "center", "bold": true, "size": 18},
+ {"box": [34, 354, 304, 408], "ink": "dark", "text": "The monster at the core of the Guardian series. By changing bodies, it acts in many different ways."}
+]},
+{"entry": 3172, "blocks": [
+ {"box": [114, 66, 234, 88], "ink": "light", "text": "Slave Demon", "align": "center", "bold": true, "size": 18},
+ {"box": [119, 104, 307, 364], "ink": "light", "text": "The name of a devil from ancient myth, said to serve Beal, the devil who rules fire. It became famous through \"The Forest of Thorns,\" a short work by Razuel, a playwright of a century ago, in which it appears as guardian devil of the \"Gate of Origin.\"\n\nThe Slave Demons in the ruins, as in the ancient myths, control fire at will. But drench one with water and it can no longer control its flames.", "size": 14}
+], "erase": [{"box": [124, 100, 298, 232], "ink": "dark"}, {"box": [155, 232, 298, 285], "ink": "dark"}, {"box": [124, 285, 298, 345], "ink": "dark"}]},
+{"entry": 3173, "blocks": [{"box": [40, 331, 280, 352], "ink": "dark", "text": "Lion (Male)", "align": "center", "bold": true, "size": 18}]},
+{"entry": 3174, "blocks": [{"box": [40, 334, 280, 355], "ink": "dark", "text": "Lion (Female)", "align": "center", "bold": true, "size": 18}]},
+{"entry": 3175, "blocks": [
+ {"box": [40, 278, 280, 298], "ink": "dark", "text": "Demi-Angel", "align": "center", "bold": true, "size": 18},
+ {"box": [40, 302, 304, 414], "ink": "dark", "text": "A pseudo-angel created by magic. Its looks, abilities and more differ greatly from those of a true angel.\nWeak to heat and fire; healed by cold and ice.\nElements held: Ice, Water"}
+], "erase": [{"box": [40, 258, 118, 273], "ink": "dark"}, {"box": [40, 412, 130, 430], "ink": "dark"}]},
+{"entry": 3176, "blocks": [
+ {"box": [30, 272, 280, 292], "ink": "dark", "text": "Frostson", "align": "center", "bold": true, "size": 18},
+ {"box": [32, 294, 304, 414], "ink": "dark", "text": "A pseudo-life form spawned by the Frostmum. Besides using magic, it attacks with cold on contact.\nWeak to heat and fire; healed by cold and ice.\nElements held: Mana"}
+], "erase": [{"box": [38, 244, 94, 246], "ink": "dark"}, {"box": [30, 412, 120, 430], "ink": "dark"}]},
+{"entry": 3177, "blocks": [
+ {"box": [28, 210, 280, 231], "ink": "dark", "text": "Frostmum", "align": "center", "bold": true, "size": 18},
+ {"box": [28, 274, 304, 414], "ink": "dark", "text": "A mid-level demon skilled in cold attacks. Besides spawning its kin, the Frostsons, it wields high-level magic.\nWeak to heat and fire; healed by cold and ice.\nElements held: Mana"}
+], "erase": [{"box": [28, 268, 226, 276], "ink": "dark"}, {"box": [28, 412, 110, 430], "ink": "dark"}]},
+{"entry": 3178, "blocks": [
+ {"box": [28, 230, 290, 251], "ink": "dark", "text": "Dust Angel", "align": "center", "bold": true, "size": 18},
+ {"box": [34, 280, 304, 414], "ink": "dark", "text": "A lesser angel of ice.\nIt imitates the angels of ice, but falls far short of their powers.\nWeak to heat and fire; healed by cold and ice.\nElements held: Dark"}
+], "erase": [{"box": [34, 412, 110, 430], "ink": "dark"}]},
+{"entry": 3179, "blocks": []},
+{"entry": 3180, "blocks": [
+ {"box": [28, 301, 292, 322], "ink": "dark", "text": "Guardian (Freeze)", "align": "center", "bold": true, "size": 18},
+ {"box": [34, 330, 304, 350], "ink": "dark", "text": "Weak to acid, electricity and heat."}
+]},
+{"entry": 3181, "blocks": [
+ {"box": [28, 292, 292, 313], "ink": "dark", "text": "Guardian (Standard)", "align": "center", "bold": true, "size": 18},
+ {"box": [28, 323, 304, 343], "ink": "dark", "text": "Weak to acid and electricity."}
+]},
+{"entry": 3182, "blocks": [{"box": [40, 302, 280, 322], "ink": "dark", "text": "Azazel", "align": "center", "bold": true, "size": 18}]},
+{"entry": 3183, "blocks": [{"box": [40, 285, 280, 306], "ink": "dark", "text": "Batosai", "align": "center", "bold": true, "size": 18}]},
+{"entry": 3184, "blocks": [{"box": [40, 280, 280, 300], "ink": "dark", "text": "Dalkiel", "align": "center", "bold": true, "size": 18}]},
+{"entry": 3185, "blocks": [{"box": [40, 278, 280, 298], "ink": "dark", "text": "Galkiel", "align": "center", "bold": true, "size": 18}]},
+{"entry": 3186, "blocks": [{"box": [40, 282, 280, 303], "ink": "dark", "text": "Barkiel", "align": "center", "bold": true, "size": 18}]},
+{"entry": 3187, "blocks": [{"box": [40, 272, 280, 292], "ink": "dark", "text": "Buyadani", "align": "center", "bold": true, "size": 18}]},
+{"entry": 3188, "blocks": [{"box": [40, 287, 280, 308], "ink": "dark", "text": "Ahrima", "align": "center", "bold": true, "size": 18}]},
+{"entry": 3189, "blocks": [{"box": [40, 280, 280, 301], "ink": "dark", "text": "Hamaliel", "align": "center", "bold": true, "size": 18}]},
+{"entry": 3190, "blocks": [{"box": [40, 273, 288, 293], "ink": "dark", "text": "Grotowa Child", "align": "center", "bold": true, "size": 18}]},
+{"entry": 3191, "blocks": [{"box": [40, 280, 280, 301], "ink": "dark", "text": "Dariljay", "align": "center", "bold": true, "size": 18}]},
+{"entry": 3192, "blocks": [{"box": [40, 281, 280, 302], "ink": "dark", "text": "Dauroa", "align": "center", "bold": true, "size": 18}]},
+{"entry": 3193, "blocks": [{"box": [40, 281, 280, 302], "ink": "dark", "text": "Fenrir", "align": "center", "bold": true, "size": 18}]},
+{"entry": 3194, "blocks": [{"box": [40, 277, 280, 298], "ink": "dark", "text": "Zemen", "align": "center", "bold": true, "size": 18}]},
+{"entry": 3195, "blocks": [{"box": [40, 279, 280, 300], "ink": "dark", "text": "Grotowa", "align": "center", "bold": true, "size": 18}]},
+{"entry": 3196, "blocks": [{"box": [40, 276, 280, 296], "ink": "dark", "text": "Hanma", "align": "center", "bold": true, "size": 18}]},
+{"entry": 3197, "blocks": [{"box": [30, 275, 298, 296], "ink": "dark", "text": "Guardian Ghost", "align": "center", "bold": true, "size": 18}]}
+]

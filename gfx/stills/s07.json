@@ -1,0 +1,143 @@
+[
+{"entry": 2799, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Longbow", "align": "center", "bold": true, "size": 18},
+ {"box": [148, 124, 312, 345], "ink": "light", "text": "A long wooden bow. True to its size, it hits harder than the Shortbow.\n\nMaterials were scarce once, it seems, and it was hard to come by, but it is now mass-produced and sold in shops."},
+ {"box": [148, 354, 230, 378], "ink": "light", "text": "Attack 13"}]},
+{"entry": 2800, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Wind Bow", "align": "center", "bold": true, "size": 18},
+ {"box": [68, 154, 178, 262], "ink": "light", "text": "A bow made of a strange material. It has the power to knock foes back."},
+ {"box": [68, 278, 170, 316], "ink": "light", "text": "Attack 14\nKnockback +5"}]},
+{"entry": 2801, "erase": [{"box": [172, 186, 290, 236], "ink": "light", "dim": true}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Barat's Bow", "align": "center", "bold": true, "size": 18},
+ {"box": [172, 112, 312, 234], "ink": "light", "text": "A bow made of a strange material. The arrows it looses are hot, as if on fire."},
+ {"box": [172, 260, 290, 336], "ink": "light", "text": "Attack 18\nFire attribute\nCold Resist -"}]},
+{"entry": 2802, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Hermit's Bow", "align": "center", "bold": true, "size": 18},
+ {"box": [150, 122, 312, 280], "ink": "light", "text": "A weapon said to have been made by the hermit Falma, hero of Northern myth.\n\nFalma is said to have called thunderclouds at will."},
+ {"box": [150, 296, 300, 350], "ink": "light", "text": "Attack 15\nLightning attribute"}]},
+{"entry": 2803, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Malka's Bow", "align": "center", "bold": true, "size": 18},
+ {"box": [66, 136, 188, 190], "ink": "light", "text": "A weapon made of a strange material."},
+ {"box": [66, 218, 188, 274], "ink": "light", "text": "It has the power to draw out its owner's Defense."},
+ {"box": [66, 286, 160, 334], "ink": "light", "text": "Attack 10\nDefense +2"}]},
+{"entry": 2804, "erase": [{"box": [156, 198, 166, 214], "ink": "light"}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Fakaral's Bow", "align": "center", "bold": true, "size": 18},
+ {"box": [60, 134, 155, 256], "ink": "light", "text": "A bow made of a strange material. The arrows it looses are as cold as ice."},
+ {"box": [60, 262, 140, 330], "ink": "light", "text": "Attack 15\nIce attribute\nHeat Resist -"}]},
+{"entry": 2805, "erase": [{"box": [160, 396, 236, 402], "ink": "dark"}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Anote's Bow", "align": "center", "bold": true, "size": 18},
+ {"box": [155, 112, 312, 190], "ink": "light", "text": "A weapon said to have been made by the mage Anote, hero of Eastern myth."},
+ {"box": [155, 222, 312, 300], "ink": "light", "text": "Easy to handle, and it seems able to send foes flying as well."},
+ {"box": [155, 318, 270, 386], "ink": "light", "text": "Attack 18\nDexterity +20\nKnockback +2"}]},
+{"entry": 2806, "erase": [{"box": [128, 146, 158, 205], "ink": "light"}], "blocks": [
+ {"box": [72, 46, 208, 72], "ink": "light", "text": "Gaius's Crossbow", "align": "center", "bold": true, "size": 18},
+ {"box": [18, 142, 132, 316], "ink": "light", "text": "A crossbow of Gaius's making. Beyond his skill as a swordsmith, he clearly has a gift for building weapons as intricate as this."},
+ {"box": [18, 318, 90, 342], "ink": "light", "text": "Attack 26"}]},
+{"entry": 2807, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Radamael's Bow", "align": "center", "bold": true, "size": 18},
+ {"box": [44, 122, 165, 220], "ink": "light", "text": "A weapon said to have been made by the angel Radamael to guard God."},
+ {"box": [44, 230, 160, 296], "ink": "light", "text": "It has the power to raise its user's Defense."},
+ {"box": [44, 304, 130, 354], "ink": "light", "text": "Attack 18\nDefense +5"}]},
+{"entry": 2808, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Arlail's Bow", "align": "center", "bold": true, "size": 18},
+ {"box": [48, 116, 165, 210], "ink": "light", "text": "A weapon said to have been made by the angel Arlail to carry out God's judgment."},
+ {"box": [48, 228, 165, 297], "ink": "light", "text": "It can deal Lightning damage."},
+ {"box": [48, 304, 170, 345], "ink": "light", "text": "Attack 20\nLightning attribute"}]},
+{"entry": 2809, "erase": [{"box": [50, 392, 118, 410], "ink": "light"}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Astaras's Bow", "align": "center", "bold": true, "size": 18},
+ {"box": [50, 120, 170, 176], "ink": "light", "text": "A magic bow made of a strange material."},
+ {"box": [50, 196, 170, 306], "ink": "light", "text": "It not only raises its owner's HP but also has the power to send foes flying."},
+ {"box": [50, 326, 150, 392], "ink": "light", "text": "Attack 22\nHP +30\nKnockback +3"}]},
+{"entry": 2810, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Gale Bow", "align": "center", "bold": true, "size": 18},
+ {"box": [72, 186, 172, 295], "ink": "light", "text": "A bow made of a strange material. It has the power to knock foes back."}]},
+{"entry": 2811, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Hadding", "align": "center", "bold": true, "size": 18},
+ {"box": [155, 122, 312, 165], "ink": "light", "text": "A magic bow from the legends of the frontier."},
+ {"box": [155, 202, 312, 256], "ink": "light", "text": "It raises HP, but lowers its user's Defense in exchange."},
+ {"box": [155, 272, 260, 345], "ink": "light", "text": "Attack 38\nHP +20\nDefense -5"}]},
+{"entry": 2812, "blocks": [
+ {"box": [72, 46, 208, 72], "ink": "light", "text": "Gaius's Crossbow+", "align": "center", "bold": true, "size": 18},
+ {"box": [10, 156, 145, 292], "ink": "light", "text": "A crossbow of Gaius's making.\n\nThe \"Gaius's Crossbow\" rebuilt to greater precision still."},
+ {"box": [10, 294, 95, 316], "ink": "light", "text": "Attack 46"}]},
+{"entry": 2813, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Revelation Bow", "align": "center", "bold": true, "size": 18},
+ {"box": [147, 130, 312, 190], "ink": "light", "text": "One of the magic arms, holding a strange magical power."},
+ {"box": [147, 208, 312, 256], "ink": "light", "text": "It gives off flame and can deal devastating damage."},
+ {"box": [147, 270, 260, 345], "ink": "light", "text": "Attack 38\nFire attribute\nCold Resist -"}]},
+{"entry": 2814, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Nether Bow", "align": "center", "bold": true, "size": 18},
+ {"box": [24, 98, 146, 144], "ink": "light", "text": "A weapon that rules ice and cold."},
+ {"box": [24, 180, 146, 298], "ink": "light", "text": "It can freeze any foe it wounds, but it lowers its user's Heat Resist."},
+ {"box": [24, 306, 130, 370], "ink": "light", "text": "Attack 26\nIce attribute\nHeat Resist -"}]},
+{"entry": 2815, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Drakehead Bow", "align": "center", "bold": true, "size": 18},
+ {"box": [46, 158, 175, 290], "ink": "light", "text": "One of the holy weapons of Tradoan myth, born when the world stood in peril. It is said to wield lightning at will."},
+ {"box": [46, 296, 172, 348], "ink": "light", "text": "Attack 38\nLightning attribute"}]},
+{"entry": 2816, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Chaos Bow", "align": "center", "bold": true, "size": 18},
+ {"box": [174, 136, 312, 265], "ink": "light", "text": "A magic bow from the legends of the frontier. It boasts a superb Attack, but lowers its owner's HP."},
+ {"box": [174, 282, 260, 326], "ink": "light", "text": "Attack 56\nHP -20"}]},
+{"entry": 2817, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Nameless Bow", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 122, 180, 305], "ink": "light", "text": "Gaius's finest masterpiece. It has no special powers like the weapons found in the ruins, but its destructive force is truly superb."},
+ {"box": [62, 324, 140, 346], "ink": "light", "text": "Attack 76"}]},
+{"entry": 2818, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "dark", "text": "Rusty Spear", "align": "center", "bold": true, "size": 18},
+ {"box": [70, 170, 250, 228], "ink": "light", "text": "A spear corroded by powerful acid. It has long since lost its original form."}]},
+{"entry": 2819, "erase": [
+ {"box": [0, 12, 300, 36], "ink": "light"},
+ {"box": [0, 36, 74, 112], "ink": "light"},
+ {"box": [206, 36, 280, 62], "ink": "light"},
+ {"box": [0, 86, 200, 112], "ink": "light"},
+ {"box": [0, 112, 232, 396], "ink": "light"},
+ {"box": [232, 112, 312, 130], "ink": "light"},
+ {"box": [232, 205, 312, 396], "ink": "light"},
+ {"box": [52, 404, 236, 436], "ink": "light"},
+ {"box": [56, 408, 232, 432], "ink": "dark"},
+ {"box": [68, 112, 150, 380], "ink": "dark"},
+ {"box": [0, 396, 40, 480], "ink": "light"},
+ {"box": [0, 446, 250, 480], "ink": "light"},
+ {"box": [248, 396, 312, 480], "ink": "light"},
+ {"box": [88, 50, 194, 72], "ink": "light"}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "dark", "text": "Rusty Lance", "align": "center", "bold": true, "size": 18},
+ {"box": [50, 200, 220, 260], "ink": "light", "text": "A lance corroded by powerful acid. It has long since lost its original form."}]},
+{"entry": 2820, "blocks": [
+ {"box": [72, 46, 208, 72], "ink": "light", "text": "Unfinished Spear", "align": "center", "bold": true, "size": 18},
+ {"box": [155, 220, 312, 290], "ink": "light", "text": "A spear left unfinished and abandoned in Gaius's smithy."},
+ {"box": [155, 302, 225, 324], "ink": "light", "text": "Attack 10"}]},
+{"entry": 2821, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Iron Spear", "align": "center", "bold": true, "size": 18},
+ {"box": [60, 240, 285, 310], "ink": "light", "text": "A spear of the simplest build. Even so, its long reach gives it a great advantage over the likes of a one-handed sword."},
+ {"box": [60, 322, 130, 344], "ink": "light", "text": "Attack 6"}]},
+{"entry": 2822, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Caim's Spear", "align": "center", "bold": true, "size": 18},
+ {"box": [120, 208, 312, 296], "ink": "light", "text": "A spear so worn it looks ready to fall apart. Its blade is chipped, so don't expect a keen edge, but its very weight makes it a weapon."},
+ {"box": [128, 312, 312, 382], "ink": "light", "text": "By the weapon's own power, its wielder's HP rises by 10, but Poison Resist falls."},
+ {"box": [30, 312, 122, 384], "ink": "light", "text": "Attack 12\nHP +10\nPoison Resist -"}]},
+{"entry": 2823, "erase": [{"box": [150, 218, 192, 262], "ink": "light"}, {"box": [155, 340, 196, 364], "ink": "light"}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Steel Spear", "align": "center", "bold": true, "size": 18},
+ {"box": [44, 206, 155, 362], "ink": "light", "text": "A spear of forged steel. Harder than the Iron Spear, but it takes higher heat and more labor to make, so few are made today."},
+ {"box": [44, 378, 110, 402], "ink": "light", "text": "Attack 9"}]},
+{"entry": 2824, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Nakiel's Spear", "align": "center", "bold": true, "size": 18},
+ {"box": [168, 128, 250, 150], "ink": "light", "text": "Attack 25"},
+ {"box": [64, 230, 172, 286], "ink": "light", "text": "A weapon made of a strange material."},
+ {"box": [64, 310, 172, 366], "ink": "light", "text": "High in Attack and easy to handle."}]},
+{"entry": 2825, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Lance", "align": "center", "bold": true, "size": 18},
+ {"box": [72, 160, 205, 266], "ink": "light", "text": "A lance of forged steel. Originally a cavalry weapon, this one has been slightly modified for foot soldiers."},
+ {"box": [72, 276, 140, 298], "ink": "light", "text": "Attack 14"}]},
+{"entry": 2826, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Wind Spear", "align": "center", "bold": true, "size": 18},
+ {"box": [58, 268, 165, 372], "ink": "light", "text": "A spear made of a strange material. It has the power to knock foes back."},
+ {"box": [58, 384, 160, 428], "ink": "light", "text": "Attack 12\nKnockback +6"}]},
+{"entry": 2827, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Barat's Spear", "align": "center", "bold": true, "size": 18},
+ {"box": [156, 136, 312, 205], "ink": "light", "text": "A spear made of a strange material. The blade at its tip is as hot as flame."},
+ {"box": [62, 292, 165, 364], "ink": "light", "text": "Attack 18\nHeat attribute\nCold Resist -"}]},
+{"entry": 2828, "blocks": [
+ {"box": [72, 46, 208, 72], "ink": "light", "text": "Hermit's Halberd", "align": "center", "bold": true, "size": 18},
+ {"box": [42, 96, 190, 240], "ink": "light", "text": "A weapon said to have been made by the hermit Falma, hero of Northern myth.\n\nFalma is said to have called thunderclouds at will."},
+ {"box": [195, 304, 312, 350], "ink": "light", "text": "Attack 15\nLightning attribute"}]}
+]

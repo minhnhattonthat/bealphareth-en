@@ -1,0 +1,128 @@
+[
+{"entry": 2737, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Excalibur", "align": "center", "bold": true, "size": 18},
+ {"box": [150, 124, 305, 264], "ink": "light", "text": "A sword from the legends of the frontier.\n\nIt has the power to raise its owner's HP, but it lowers their Defense as well."},
+ {"box": [152, 284, 240, 350], "ink": "light", "text": "Attack 45\nHP +30\nDefense -8"}]},
+{"entry": 2738, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Gaius's Sword+", "align": "center", "bold": true, "size": 18},
+ {"box": [64, 152, 205, 272], "ink": "light", "text": "A one-handed sword made by the master smith Gaius: a superb piece, the \"Gaius's Sword\" forged finer still."},
+ {"box": [66, 278, 150, 302], "ink": "light", "text": "Attack 50"}]},
+{"entry": 2739, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Dainsleif", "align": "center", "bold": true, "size": 18},
+ {"box": [148, 124, 305, 284], "ink": "light", "text": "A magic sword from legends handed down among the people since ancient times.\n\nHeavy and hard to handle, but a powerful weapon that also carries a poison effect."},
+ {"box": [148, 292, 270, 360], "ink": "light", "text": "Attack 50\nDexterity -20\nEffect: Poison"}]},
+{"entry": 2740, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Nameless Sword", "align": "center", "bold": true, "size": 18},
+ {"box": [60, 120, 176, 312], "ink": "light", "text": "Gaius's finest masterpiece. It has no special powers like the weapons found in the ruins, but its destructive force is truly superb."},
+ {"box": [64, 318, 150, 342], "ink": "light", "text": "Attack 80"}]},
+{"entry": 2741, "erase": [{"box": [10, 12, 320, 40], "ink": "light"}, {"box": [8, 40, 64, 80], "ink": "light"}, {"box": [204, 40, 320, 80], "ink": "light"}, {"box": [12, 80, 320, 372], "ink": "light"}, {"box": [12, 372, 118, 428], "ink": "light"}, {"box": [62, 48, 205, 74], "ink": "light"}, {"box": [62, 48, 205, 74], "ink": "dark"}, {"box": [124, 392, 182, 424], "ink": "light"}, {"box": [124, 392, 182, 424], "ink": "dark"}, {"box": [20, 56, 74, 100], "ink": "light", "dim": true}], "blocks": [
+ {"box": [72, 46, 208, 72], "ink": "light", "text": "Rusty Greatsword", "align": "center", "bold": true, "size": 18},
+ {"box": [40, 130, 165, 240], "ink": "light", "text": "A greatsword corroded by powerful acid. It has long since lost its original form."}]},
+{"entry": 2742, "erase": [{"box": [12, 20, 320, 40], "ink": "light"}, {"box": [8, 40, 64, 80], "ink": "light"}, {"box": [12, 80, 320, 372], "ink": "light"}, {"box": [12, 372, 118, 460], "ink": "light"}, {"box": [118, 428, 160, 460], "ink": "light"}, {"box": [62, 48, 290, 74], "ink": "light"}, {"box": [62, 48, 290, 74], "ink": "dark"}, {"box": [124, 372, 270, 392], "ink": "light"}, {"box": [124, 372, 270, 392], "ink": "dark"}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Rusty Axe", "align": "center", "bold": true, "size": 18},
+ {"box": [40, 130, 155, 240], "ink": "light", "text": "An axe corroded by powerful acid. It has long since lost its original form."}]},
+{"entry": 2743, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Bread Paddle", "align": "center", "bold": true, "size": 18},
+ {"box": [52, 180, 195, 272], "ink": "light", "text": "Eugen's favorite paddle, cut to a length that fits the depth of his oven."},
+ {"box": [55, 280, 130, 304], "ink": "light", "text": "Attack 3"}]},
+{"entry": 2744, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Ash's Battleaxe", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 108, 200, 198], "ink": "light", "text": "Ash's favorite double-bladed axe, apparently a gift from the village elder on leaving home."},
+ {"box": [190, 302, 262, 326], "ink": "light", "text": "Attack 10"}]},
+{"entry": 2745, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Hand Axe", "align": "center", "bold": true, "size": 18},
+ {"box": [64, 180, 198, 262], "ink": "light", "text": "A common single-bladed axe for chopping wood, not for battle."},
+ {"box": [66, 272, 140, 296], "ink": "light", "text": "Attack 7"}]},
+{"entry": 2746, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Caim's Battleaxe", "align": "center", "bold": true, "size": 18},
+ {"box": [122, 108, 300, 285], "ink": "light", "text": "A battleaxe made of a strange material, with the strange power to raise its owner's HP slightly. Heavy and awkward to handle, and its blade is chipped, so don't expect a keen edge -- but its very weight makes it a powerful weapon."}]},
+{"entry": 2747, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Steel Greatsword", "align": "center", "bold": true, "size": 18},
+ {"box": [60, 116, 190, 192], "ink": "light", "text": "A straight, double-edged two-handed sword of forged steel."},
+ {"box": [60, 204, 172, 300], "ink": "light", "text": "Making it takes high heat and much labor, so few are made today."},
+ {"box": [62, 324, 135, 348], "ink": "light", "text": "Attack 10"}]},
+{"entry": 2748, "blocks": [
+ {"box": [72, 46, 208, 72], "ink": "light", "text": "Nakiel Greatsword", "align": "center", "bold": true, "size": 18},
+ {"box": [64, 284, 305, 306], "ink": "light", "text": "A weapon made of a strange material."},
+ {"box": [64, 318, 305, 340], "ink": "light", "text": "High in Attack and easy to handle."},
+ {"box": [66, 354, 140, 378], "ink": "light", "text": "Attack 27"}]},
+{"entry": 2749, "erase": [{"box": [178, 132, 210, 186], "ink": "light"}, {"box": [150, 222, 166, 232], "ink": "light"}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Zweihander", "align": "center", "bold": true, "size": 18},
+ {"box": [38, 124, 184, 216], "ink": "light", "text": "A northern two-handed sword of Seltz steel, in wide use when the Kingdom of Asroit was a great military power."},
+ {"box": [38, 218, 146, 280], "ink": "light", "text": "But few knights in Asroit today could handle one."},
+ {"box": [184, 312, 256, 336], "ink": "light", "text": "Attack 16"}]},
+{"entry": 2751, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Barat's Battleaxe", "align": "center", "bold": true, "size": 18},
+ {"box": [160, 264, 305, 340], "ink": "light", "text": "A battleaxe made of a strange material. Its blade is as hot as flame."},
+ {"box": [162, 356, 270, 426], "ink": "light", "text": "Attack 18\nHeat attribute\nCold Resist -"}]},
+{"entry": 2752, "blocks": [
+ {"box": [72, 46, 208, 72], "ink": "light", "text": "Hermit Greatsword", "align": "center", "bold": true, "size": 18},
+ {"box": [44, 286, 305, 362], "ink": "light", "text": "A strange two-handed sword with the power to raise its owner's Intellect. It should be most effective used together with a ring of Canon Magic."}]},
+{"entry": 2753, "blocks": [
+ {"box": [72, 46, 208, 72], "ink": "light", "text": "Malka Greatsword", "align": "center", "bold": true, "size": 18},
+ {"box": [48, 252, 305, 274], "ink": "light", "text": "A weapon made of a strange material."},
+ {"box": [48, 284, 305, 322], "ink": "light", "text": "It has the power to draw out its owner's Defense."},
+ {"box": [50, 330, 130, 376], "ink": "light", "text": "Attack 12\nDefense +2"}]},
+{"entry": 2755, "erase": [{"box": [124, 358, 136, 372], "ink": "light", "dim": true}], "blocks": [
+ {"box": [72, 46, 208, 72], "ink": "light", "text": "Anote Greatsword", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 110, 200, 186], "ink": "light", "text": "A weapon said to have been made by the mage Anote, hero of Eastern myth."},
+ {"box": [62, 216, 190, 290], "ink": "light", "text": "Easy to handle, and it seems able to send foes flying as well."},
+ {"box": [64, 306, 165, 372], "ink": "light", "text": "Attack 22\nDexterity +20\nKnockback +2"}]},
+{"entry": 2756, "erase": [{"box": [190, 338, 206, 352], "ink": "light", "dim": true}, {"box": [168, 396, 232, 412], "ink": "dark"}], "blocks": [
+ {"box": [72, 46, 208, 72], "ink": "light", "text": "Gaius's Battleaxe", "align": "center", "bold": true, "size": 18},
+ {"box": [160, 196, 305, 378], "ink": "light", "text": "A battleaxe forged by the master smith Gaius. Plain and unadorned, yet it settles into the hand as if made for you alone."},
+ {"box": [165, 392, 240, 416], "ink": "light", "text": "Attack 30"}]},
+{"entry": 2757, "blocks": [
+ {"box": [66, 46, 214, 72], "ink": "light", "text": "Radamael Claymore", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 130, 195, 212], "ink": "light", "text": "A weapon said to have been made by the angel Radamael to guard God."},
+ {"box": [62, 224, 160, 296], "ink": "light", "text": "It has the power to raise its user's Defense."},
+ {"box": [64, 314, 138, 358], "ink": "light", "text": "Attack 22\nDefense 5"}]},
+{"entry": 2758, "blocks": [
+ {"box": [72, 46, 208, 72], "ink": "light", "text": "Arlail's Greatsword", "align": "center", "bold": true, "size": 18},
+ {"box": [60, 270, 305, 326], "ink": "light", "text": "A weapon said to have been made by the angel Arlail to carry out God's judgment."},
+ {"box": [60, 342, 300, 364], "ink": "light", "text": "It can deal Lightning damage."},
+ {"box": [62, 380, 200, 426], "ink": "light", "text": "Attack 24\nLightning attribute"}]},
+{"entry": 2759, "blocks": [
+ {"box": [72, 46, 208, 72], "ink": "light", "text": "Astaras Claymore", "align": "center", "bold": true, "size": 18},
+ {"box": [66, 106, 180, 160], "ink": "light", "text": "A magic sword made of a strange material."},
+ {"box": [66, 192, 176, 300], "ink": "light", "text": "It not only raises its owner's HP but also has the power to send foes flying."},
+ {"box": [68, 308, 165, 376], "ink": "light", "text": "Attack 28\nHP +30\nKnockback +3"}]},
+{"entry": 2760, "blocks": [
+ {"box": [72, 46, 208, 72], "ink": "light", "text": "Gale Greatsword", "align": "center", "bold": true, "size": 18},
+ {"box": [112, 186, 230, 296], "ink": "light", "text": "A two-handed sword made of a strange material. It has the power to knock foes back."}]},
+{"entry": 2761, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Hexagonal Club", "align": "center", "bold": true, "size": 18},
+ {"box": [44, 134, 172, 176], "ink": "light", "text": "An enormously heavy-looking club."},
+ {"box": [44, 190, 172, 300], "ink": "light", "text": "Yet, unlike its looks, it is easy to handle and can put a foe to sleep with a single blow."},
+ {"box": [46, 315, 170, 378], "ink": "light", "text": "Attack 48\nDexterity +30\nEffect: Sleep"}]},
+{"entry": 2762, "blocks": [
+ {"box": [72, 46, 208, 72], "ink": "light", "text": "Gaius Greatsword", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 116, 178, 306], "ink": "light", "text": "A two-handed sword forged by the master smith Gaius. Plain and unadorned, yet it settles into the hand as if made for you alone."},
+ {"box": [65, 316, 140, 340], "ink": "light", "text": "Attack 50"}]},
+{"entry": 2763, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Revelation Axe", "align": "center", "bold": true, "size": 18},
+ {"box": [44, 114, 250, 158], "ink": "light", "text": "One of the magic arms, holding a strange magical power."},
+ {"box": [44, 186, 205, 242], "ink": "light", "text": "It gives off flame and can deal devastating damage."},
+ {"box": [198, 300, 300, 368], "ink": "light", "text": "Attack 42\nFire attribute\nCold Resist -"}]},
+{"entry": 2764, "erase": [{"box": [176, 384, 234, 392], "ink": "light"}, {"box": [176, 384, 230, 398], "ink": "dark"}], "blocks": [
+ {"box": [72, 46, 208, 72], "ink": "light", "text": "Nether Battleaxe", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 112, 155, 184], "ink": "light", "text": "Attack 30\nIce attribute\nHeat Resist -"},
+ {"box": [172, 210, 305, 256], "ink": "light", "text": "A weapon that rules ice and cold."},
+ {"box": [172, 292, 305, 380], "ink": "light", "text": "It can freeze any foe it wounds, but it lowers its user's Heat Resist."}]},
+{"entry": 2765, "blocks": [
+ {"box": [72, 46, 208, 72], "ink": "light", "text": "Drakehead Blade", "align": "center", "bold": true, "size": 18},
+ {"box": [46, 114, 175, 244], "ink": "light", "text": "One of the holy weapons of Tradoan myth, born when the world stood in peril. It is said to wield lightning at will."},
+ {"box": [50, 254, 170, 298], "ink": "light", "text": "Attack 42\nLightning attribute"}]},
+{"entry": 2766, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Tyrfing", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 138, 205, 194], "ink": "light", "text": "A greatsword handed down in the frontier lands."},
+ {"box": [62, 200, 195, 256], "ink": "light", "text": "It has the power to raise its user's Defense."},
+ {"box": [64, 268, 150, 318], "ink": "light", "text": "Attack 50\nDefense +3"}]},
+{"entry": 2767, "blocks": [
+ {"box": [72, 46, 208, 72], "ink": "light", "text": "Nameless Claymore", "align": "center", "bold": true, "size": 18},
+ {"box": [64, 130, 180, 320], "ink": "light", "text": "Gaius's finest masterpiece. It has no special powers like the weapons found in the ruins, but its destructive force is truly superb."},
+ {"box": [66, 336, 140, 360], "ink": "light", "text": "Attack 80"}]},
+{"entry": 2768, "erase": [{"box": [12, 20, 320, 40], "ink": "light"}, {"box": [8, 40, 100, 80], "ink": "light"}, {"box": [12, 80, 320, 372], "ink": "light"}, {"box": [12, 372, 122, 430], "ink": "light"}, {"box": [100, 48, 205, 74], "ink": "light"}, {"box": [100, 48, 205, 74], "ink": "dark"}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Rusty Rapier", "align": "center", "bold": true, "size": 18},
+ {"box": [50, 130, 185, 240], "ink": "light", "text": "A rapier corroded by powerful acid. It has long since lost its original form."}]}
+]

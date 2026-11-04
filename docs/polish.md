@@ -450,3 +450,124 @@
 - [ ] RES#4117:fe40 - おう、いい顔だ - calque - "Yeah, that's more like it."
 - [ ] RES#4125:6bfd - いつ見ても人少ないね - "never anyone" overstates "few people" - "It's always so empty here, whenever you look."
 - [ ] RES#4125:7ab1 - 見つめ直して下さい - Sadiya's request softener dropped - "Please look into yourself once more."
+- [ ] 280e8 - Orpheus: why get hated more? - "stink in everyone's nostrils" is an odd calque - "You're already a nuisance to everyone as it is."
+- [ ] 2683c - Eugen's やあ諸君 - "boys and girls" too cute - "Well now, you lot, welcome to the Coffin of Kars!"
+- [ ] 24ae9, 261f1 - 信心深い田舎者 - "country boys" gendered - "pious country folk"
+- [ ] 29a5e - Noel flustered - too formal - "I-it's nothing to me, really..."
+- [ ] 2a5c4 - 誰か仲間を誘えよ - "comrades" stiff - "Go find yourself some partners."
+- [ ] 29e23 - 末期の酒 - "a man's last drink" reads as last round - "a dying man's last drink"
+- [ ] 29412, 2a31e - Dias, subjectless - stilted first person - "To the ruins. Follow if you wish." / "Back to my room. Call if you have need of me."
+- [ ] Eve all sections (28b9b, 28da1, 29555, 29c3e, 2a719, 28a46, 2b0e9, 5:b53d, 5:b64f, 5:b9ce, 5:bb0b, 9:4209d) - "dear" on nearly every bark - keep it for digs (5:b780, 69:29dcf, 71:17529), drop from neutral lines
+- [ ] 28159 - bark - no Luca hedge - "Please don't make me your next target... I may not look it, but I'm rather timid."
+- [ ] 29102 - Ash いまから行くぞ。いいな。 - too soft - "I'm going now. All right?"
+- [ ] 8:492d9, 9:41dd7, 72:14c8d - Pasca "ya" is Kadmon's marker - "you", with ain't/gonna
+- [ ] 67:1a121, 67:1bbee - Luca そ、そんな! - bolder than JP - "N-no... we are only trying to help someone..." / "N-no... We are here for Ash-san's..."
+- [ ] 69:2a612, 70:174fa - Luca contractions - "I am"
+- [ ] 69:296f8 - Sara これがラフメルだなんて - disbelief - "Oh no... This is Rahmel?"
+- [ ] 6:141f2/67:1ef35, 6:1426c/67:1efaf/8:49a59, 6:144e0/67:1f17d, 6:14763/67:1f405 - same JP, different English - harmonize to one wording each
+- [ ] 72:f7fe/72:1305c/72:148b7 - 次の城門が開く日 - pick one wording
+- [ ] 72:12ca3 - Orpheus - missing article - "from the old Kindness Peddler"
+- [ ] 67:1e58a, 67:1e758 - Kadmon アマ/野郎 - check the addressee so Luca/Eleanor are not misgendered
+- [ ] 72:120cb - Dias 課程 - "The route means nothing at present. We go on."
+- [ ] RES#94:19e2e/1c3cc, 94:1a09e/1c63b - Dias's martyr speech repeats differently - one version: "friends", "A laughable life."
+- [ ] RES#94:1cdf9 - Luca - "distortion" vs "warping" in 94:19c9a, 94:1a2b6 - "warping"
+- [ ] Luca all sections (94:1aec5, 95:15ef4, 95:16277, 94:1db8f, 94:1ddb1, 106:2d720) - contractions drift - "I am", "is it not?"
+- [ ] RES#100:2c967 - Fatum たった、だ。 - "Only. Only forty years have passed."
+- [ ] RES#101:23ea5 - two vocatives - "N-Nada... Sister!?"
+- [ ] RES#96:de14 - Dias - House made a duke - "Knights of the House of Durer, one of Asroit's four dukes..."
+- [ ] 100:2c72a, 97:1dcb4, 97:1dd68, 97:1dc20, 97:1de16 - Alexis's rank 副将 varies - pick one term
+- [ ] RES#104:1789b - Phantom "pal" is Kadmon's - "But I'm only using you, you know."
+- [ ] RES#104:1be84 - Jessica stiff - "I believe in you, got it?"
+- [ ] Jessica all sections (94:175f0, 94:1b310, 97:1b908, 74:15fa8, 78:29024, 79:3bd55, 89:28eb5, 82:1dce6) - "you know that?" about 25 times a section - keep on digs with a JP marker, drop on plain statements
+- [ ] Orpheus all sections (76:2e893, 79:3b5e8, 76:2b38d) - "I daresay" where the JP has no irony - thin; 90:40441, 90:404d6 slip register: "I shall accompany you anyway", "will not be of any use"
+- [ ] Eve more (94:17666, 97:1c10f, 101:24784, 104:1c723, 106:2c461, 107:22ec4, 76:2b0a7, 79:3b58c, 79:3b7fe, 88:da37, 81:17523) - "dear" - as the Eve line above
+- [ ] Arthur (97:1e034, 82:1eb00, 82:1f443, 93:e651) - contractions against his formal row - no contractions
+- [ ] RES#94:185fc - "Kingdom of God" capitalised once - lowercase
+- [ ] RES#101:27a91 - Eve unclear - "Since we've been mistaken for saviors anyway, we may as well topple God too, dear."
+- [ ] 76:2eabf - Noel - "thank you" softens her - "...Then I'll go."
+- [ ] 74:15fa8 - Jessica じゃん clumsy - "and now the room's nothing like it, geez..."
+- [ ] 72:15046, 76:2de31, 82:1e591 - Luca stammers on the wrong sound (JP stammers on あ) - drop the stammer or "A-actually... thank you!"
+- [ ] 76:2e0ee - Tiara - "...no effect at all, even on the merest scratch."
+- [ ] 73:16a66 - unlabelled line sounds formal between Sara/Scharn - check the plate in-game
+- [ ] 80:169cb - plate 戦士シャルン - normalise to plain "Scharn" if it is a JP slip
+- [ ] 81:16cff - Eve あの子の顔 - "that kid's face"
+- [ ] RES#230:22964 - Ash 大好きだよ - weak beside his top tier - "I really, really like you..."
+- [ ] RES#230:24161 - Eleanor あなたが好きです - the next line calls it a confession - "I love you. I love you with all my heart..."
+- [ ] RES#230:25df8 - Scharn 面白いくらいにね - garbled - "Yep, so clear it's funny!"
+- [ ] RES#230:26dff - Noel - stiff - "It couldn't have been clearer."
+- [ ] RES#230:26ab4 and its "Indeed, ..." run - Noel - off voice - "Yeah, stay here forever and..."
+- [ ] RES#178:2b0e1 - Dias 貴様には意味のない代物だな - cold insult lost - "Nothing in it for the likes of you."
+- [ ] RES#231:3854a - Eugen - odd - "You've waited a whole year for [HERO] to come home"
+- [ ] RES#231:383bc - Fatum かりそめの魂 - "borrowed" implies a lender - "the makeshift soul, as they call it"
+- [ ] RES#178:3005b - Lanz book 本来 - "rightly" implies legitimacy - "originally territory of..."
+- [ ] RES#178:29556, RES#181:2147b, RES#183:26ef6 - hero narration flips "It is"/"It's" - "It's"
+- [ ] RES#214:fd6e-ff5c - debug statue lines - speaker ladder shifted; debug only, waive unless trivial
+- [ ] RES#108:2a5d5 - Sara 聖者様達 - odd plural - "The Saints have lived ten thousand years, and we haven't even lived twenty"
+- [ ] RES#109:2c0a2, 2c465, 2c490, 107:256f7 - JP says Azazel where other variants say Avadail - check the JP; keep Azazel only if a separate Saint
+- [ ] RES#109:28851 - Orpheus - "star" added - "here comes our guest of honor at last. The last of the Thirteen Saints."
+- [ ] RES#109:2996d - Sara - double negative - "I don't think it's hopeless at all"
+- [ ] RES#109:2c490 - 使徒達 "Apostles" - "The Saints we fought before"
+- [ ] RES#171:254ec - Scharn cut off mid-sentence, EN invents a joke - "Eugen-san probably just uses an axe for the vegetables..."
+- [ ] 317:8b46, 317:8c17, 318:81c0 - Pasca on Rebecca あいつ - "that fool" adds an insult - "She's really gone now, huh...", "I knew she was strugglin' with somethin'...", "Gotta do her share too..."
+- [ ] 335:a829, 327:a673 - Orpheus to Jessica, softened under D11 - "your modest purse" is nonsense and the same speech differs - one wording, "a modesty so unlike your temperament" or the 327 version
+- [ ] 344:82fa - Orpheus on Dias - "Better that than a closet skirt-chaser."
+- [ ] 327 vs 335/336 - Orpheus's formality swings - prefer the lighter 327 level
+- [ ] 348:898f - Pasca 色男 "lover boy" - fine only if the branch is male-hero-only; check
+- [ ] 331:8fb5, 331:9233 - "[1].[2].[3]" pause codes - check they don't show in-game
+- [ ] RES#231:39349, 391cc, 392ab, 396ef, 39a5f - あいつ - "that one" repeated, stiff for rough speakers - "that idiot" or "they" in some repeats
+- [ ] RES#231:396ef, 3986e - Jessica - ungrammatical - "gets lonely more easily than you'd think"
+- [ ] RES#231:43212, 43646 - Sara はやくナーダさんにも紹介したい - reads as if Nada is introduced - "I can't wait to introduce [HERO]-san to you, Nada-san."
+- [ ] RES#244:42d08 - Dias ただのお尋ね者ではない - "Nor as a mere outlaw" wrong - "Not as a mere outlaw."
+- [ ] RES#238:57e0d - Eleanor 組織の中に身を置くのが嫌い - "We dislike" muddles the reply - "I dislike being part of an organization"
+- [ ] RES#243:43220 - Eve - two hedges - drop "of course"
+- [ ] RES#300:8a95 - Pasca - tag mixes forms - "ain't been found in decades, ain't it"
+- [ ] RES#241:43e30, 45948 - Boss B - "cute little missy" can read as the child - "that cute young lady's gonna get creamed"
+- [ ] RES#231:40087 - Orpheus 義姉さん - bare "Sister" - "Sister-in-law" at least once
+- [ ] RES#571:dafd - Orpheus なぁんて - gag blurred - "Just kidding. I've no intention of wallowing in sentiment. Let us be done with it and return to town, shall we."
+- [ ] RES#352:9074 - Stella Mira 3人みたいに - points at the wrong group - "people like those three who refuse what they don't want"
+- [ ] RES#364:fa2b - Leia 呆れさせてくれる - reads as admiration - "You exasperate me..."
+- [ ] RES#561:bc02 - wounded man 勝てよ - "You win, now..." weak - "Win, you hear?"
+- [ ] RES#571:104f7 - Eugen - "Geez" is Jessica's tic - "Hmph, what a sorry excuse for a fella."
+- [ ] RES#571:12bcc, 139bc - Eugen - inversion not his voice - "Damn impressive. Really."
+- [ ] RES#364:f2fd, RES#571:ddb9, RES#353:8ea3 - Luca refrain, same JP, EN varies - one form, "But if it gets dangerous, let us come back right away."
+- [ ] RES#364:1001e, 10091 - 挨拶 "pay your respects" sounds funerary - "say goodbye"
+- [ ] RES#351:84d5, 854f - joined line and choice fragments - check in-game
+- [ ] RES#706:108f2, 124c0, 12c49, 13308, 11996 - そ、そう - "so you're going" reads as hero alone - "I-I see... Yeah, let's go, then."
+- [ ] RES#1169:fef3 - Eugen あの坊主 - loses the monk - "That young monk, and Valdes too, chose their own deaths."
+- [ ] RES#1172:10d79 - Eugen バルデスほどじゃねえ - muddled - "Though not as unlucky as Valdes."
+- [ ] RES#955:15483 - Dias 意志の純度 - hard to parse - "Their will is not as pure as his."
+- [ ] RES#955:14ec5 - Eve - tag grammar - "But fretting here won't change a thing either, will it?"
+- [ ] RES#1169:d828 - "Kars mountains" - "Kars Mountains"
+- [ ] RES#792:1448e - Noel そのつもりよ - flat, past tense - "That is my intention."
+- [ ] RES#626:d2ac - Pasca - opaque out of context - check against the scene
+- [ ] RES#1194:16d0f, 16fb7 - Qumran - "those close to it" has no referent - "Only the heartfelt feelings of someone close to him can thaw a heart grown stubborn."
+- [ ] RES#1194:160be - Qumran 友だったのに - self-reproach reads as doubt - "...and yet... no, I believed he was, and still I let slip a plan that could succeed only at the cost of his life..."
+- [ ] RES#1173:16ec4 - "agin'" reads as again - "never growin' old and never dyin'"
+- [ ] RES#1199:f9f5 - Gaius - broken clause - "With everyone crying that the world is ending, do you think any fool would trust a note of debt?"
+- [ ] RES#1199:f0d6 - Gaius 貴様か - contempt dropped - "So it is you..."
+- [ ] RES#1188:b4eb - Scharn - "Well, excuse me!" too sarcastic for her - "Sorry, but that's me too!"
+- [ ] RES#1192:b028 - Pasca - "he" unclear - "why doesn't Ash just ride home with the medicine?"
+- [ ] RES#1333:9fef, 901e, a501, a75e - おっさん "old man Valdes" vs payoff "mister" at RES#1596:15641 - "Mister Valdes" in Jessica's lines
+- [ ] RES#1332:9864, RES#1684:c08c - "no few" - "not a few"
+- [ ] RES#1333:9963 - Sara - "You'll be so welcome" - "I bet they'd be so happy if you dropped by later, okay?"
+- [ ] RES#1573:f5cb - Valdes - third person stilted - "That's needed before the main part. Shut up and listen."
+- [ ] RES#1734:a20c - Jessica だって馬鹿じゃん - stiff - "Well, you are, though."
+- [ ] RES#1874:fe61 - Dias - "A poor taste, that." - "...... Not a commendable taste."
+- [ ] RES#1874:f2d4, f534 - ニュソス Nysos missing from glossary - add the row
+- [ ] RES#1944:96f8 - Ash - "and all" twice is heavier than せっかく - "After Sadiya-san went to all that trouble making the medicine... After everybody helped me..."
+- [ ] RES#1405:1624c - Jessica あたし達を助けたせいで - pronoun unclear - "because we all got saved"
+- [ ] RES#1945:b4bb, 1946:aead, 1947:acea, 1948:b149, 1958:b43c, 1959:b654, 1960:ab45 vs 1951:b223, 1952:afdf, 1953:abfd, 1954:b2a6, 1955:b045, 1956:ad8a, 1950:aabb, 1957:a668 - Qumran's suspended-animation reveal, two forms - one form throughout, keep the JP's Is variants at 1949:a8cf, 1950:aabb, 1957:a668, 1958:b43c
+- [ ] RES#1945:b5b2, 1946:afaa, 1947:addb, 1948:b28c, 1949:a99f, 1958:b50d, 1959:b768, 1960:ac27 - Qumran's apology "I apologize" vs "I am sorry" - pick one
+- [ ] RES#1946:a130, 1947:9ebc, 1948:a19e, 1949:9f79 vs 1951 onward - Welkail's call "Now" vs "Come, make your wish", and the "understand" sentence - unify
+- [ ] RES#1946:9973, 1947:94e4, 1952:96bf - Barkail "neither time nor space exists" vs "there is neither time nor space" - unify
+- [ ] RES#1946-1949, 1958:b151, 1959, 1960 vs 1950-1957 - 忘れない "I will never forget you" vs "I won't forget you" - pick one
+- [ ] RES#1946:a52f, 1947:a321, 1948:a7a2, 1949:a1f9, 1959:ac86 vs 1950 onward, 1955:a858, 1958:ad1c - Devil formula "you can become" vs "you become" - unify
+- [ ] RES#1947:9258 vs 4117:efa6, f082 - 内務大臣 "Home Minister" vs "Minister of the Interior" - "Minister of the Interior"
+- [ ] RES#1950:9fbc, a0cf - 若者よ "Young one" vs "young man" - "Young one" in both
+- [ ] RES#1950:9602 - stilted - "I have not forgotten you once in fourteen years..."
+- [ ] RES#1950:a1c2 - word order backwards - "P-please... And free me... f-from your painful memories..."
+- [ ] RES#1951:9fa2 - Scharn's Phantom, JP is present tense - "Say it: I don't really trust you."
+- [ ] RES#4100:a4e7 - "That mean if the world stays like this" - "Does that mean..."
+- [ ] RES#4100:bb2f - 男のマロン gag (ロマン misspoken) - "romanticals" loses it - a visible slip, "A man's ro... roman... marron? Rom-ance, that's it."
+- [ ] RES#4115:806f - Kadmon - broken phrase - "...of becoming that bastard's kingdom"
+- [ ] RES#4115:beac, bf4a - Kadmon "Valdes-shi" - 氏 is outside the honorific set - keep as pompous or "Mister Valdes"

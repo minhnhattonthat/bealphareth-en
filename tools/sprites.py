@@ -32,6 +32,7 @@ SIZE_MIN = 8
 JP = re.compile(r"[぀-ヿ一-鿿々]")
 MAX_PACK = 0x80
 PIECE_GAP = 12
+CRISP = 12
 
 
 def rle_encode(raw):
@@ -174,22 +175,26 @@ def layout(block):
     return fnt, lines, step, False
 
 
-def ramp(pal):
-    """Palette indices from dark to bright, the transparent one left out."""
+def ramp(pal, used):
+    """The indices the sheet's own lettering uses, dark to bright: a palette's other entries belong to other sprites."""
     rgb = palette_rgb(pal).astype(int)
     v = struct.unpack_from("<16H", pal)
-    idx = [i for i in range(16) if v[i] != 0]
+    idx = [i for i in np.unique(used).tolist() if v[i] != 0]
     return sorted(idx, key=lambda i: rgb[i] @ np.array([299, 587, 114]))
 
 
-def draw_block(px, block, pal):
-    """Text at the palette's brightest colour with a dark edge, as the game's lettering has it, 2x rendered down."""
+def draw_block(px, block, pal, used):
+    """Text at the lettering's brightest colour with a dark edge, as the game's has it."""
     x0, y0, x1, y1 = block["box"]
     fnt, lines, step, _ = layout(block)
     h, w = px.shape
     cover = Image.new("L", (w, h), 0)
     edge = Image.new("L", (w, h), 0)
     dc, de = ImageDraw.Draw(cover), ImageDraw.Draw(edge)
+    r = ramp(pal, used)
+    small = fnt.size <= CRISP
+    if small and len(r) < 6:  # smoothing small text with few greys turns it to mush
+        dc.fontmode = de.fontmode = "1"
     y = y0 + max(0, (y1 - y0 - step * len(lines)) // 2)
     for s in lines:
         x = x0 + (x1 - x0 - fnt.getlength(s)) / 2 if block.get("align") == "center" else x0
@@ -197,9 +202,12 @@ def draw_block(px, block, pal):
         de.text((x, y), s, font=fnt, fill=255, stroke_width=1, stroke_fill=255)
         y += step
     c, e = np.array(cover), np.array(edge)
-    r = ramp(pal)
     inside = np.zeros_like(px, bool)
     inside[y0:y1, x0:x1] = True
+    if small and len(r) >= 6:  # no edge: it would eat the counters; coverage picks the grey
+        level = np.array(r)[np.minimum(c.astype(int) * len(r) // 200, len(r) - 1)]
+        px[inside & (c >= 40)] = level[inside & (c >= 40)]
+        return px
     px[inside & (e > 96)] = r[0]
     for lo, hi in ((64, 128), (128, 192)):  # two steps of antialias between the dark edge and the ink
         pick = r[len(r) * lo // 256]
@@ -212,11 +220,14 @@ def edited(px, page, pal):
     out = px.copy()
     for x0, y0, x1, y1 in page.get("erase", []):
         out[y0:y1, x0:x1] = 0
+    used = []
     for block in page.get("blocks", []):
         x0, y0, x1, y1 = block["box"]
+        used.append(px[y0:y1, x0:x1].ravel())
         out[y0:y1, x0:x1] = 0
+    used = np.concatenate(used) if used else px.ravel()
     for block in page.get("blocks", []):
-        draw_block(out, block, pal)
+        draw_block(out, block, pal, used)
     return out
 
 

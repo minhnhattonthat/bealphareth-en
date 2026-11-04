@@ -1,0 +1,126 @@
+[
+{"entry": 2859, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Astaras's Dagger", "align": "center", "bold": true, "size": 18},
+ {"box": [52, 100, 164, 282], "ink": "light", "text": "A magic blade made of a strange material.\n\nIt not only raises its owner's HP but also has the power to send foes flying."},
+ {"box": [176, 205, 268, 282], "ink": "light", "text": "Attack 28\nHP +30\nKnockback +3"}]},
+{"entry": 2860, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Gale Dagger", "align": "center", "bold": true, "size": 18},
+ {"box": [36, 172, 148, 280], "ink": "light", "text": "A dagger made of a strange material. It has the power to knock foes far back."},
+ {"box": [36, 286, 140, 332], "ink": "light", "dim": true, "text": "Attack 28\nKnockback +10"}]},
+{"entry": 2861, "erase": [{"box": [58, 378, 124, 412], "ink": "light"}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Shadow Fang", "align": "center", "bold": true, "size": 18},
+ {"box": [55, 106, 192, 312], "ink": "light", "text": "Assassin's daggers, made as a pair.\n\nOnly the longer one is actually used as a weapon. It lowers its user's Defense, but can strike with poison."},
+ {"box": [58, 318, 190, 378], "ink": "light", "text": "Attack 42\nDefense -10\nEffect: Poison"}]},
+{"entry": 2862, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Gaius's Dagger+", "align": "center", "bold": true, "size": 18},
+ {"box": [64, 145, 200, 285], "ink": "light", "text": "A dagger made by the master smith Gaius: a superb piece, the \"Gaius's Dagger\" forged finer still."},
+ {"box": [70, 286, 150, 310], "ink": "light", "text": "Attack 46"}]},
+{"entry": 2863, "blocks": [
+ {"box": [72, 46, 208, 72], "ink": "light", "text": "Revelation Dagger", "align": "center", "bold": true, "size": 18},
+ {"box": [32, 124, 205, 182], "ink": "light", "text": "One of the magic arms, said to answer the end of the world."},
+ {"box": [32, 208, 205, 265], "ink": "light", "text": "It gives off flame and can deal devastating damage."},
+ {"box": [32, 280, 135, 358], "ink": "light", "dim": true, "text": "Attack 38\nFire attribute\nCold Resist -"}]},
+{"entry": 2864, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Nether Dagger", "align": "center", "bold": true, "size": 18},
+ {"box": [48, 100, 175, 150], "ink": "light", "text": "A weapon that rules ice and cold."},
+ {"box": [48, 180, 175, 285], "ink": "light", "text": "It can freeze any foe it wounds, but it lowers its user's Heat Resist."},
+ {"box": [50, 298, 150, 372], "ink": "light", "text": "Attack 26\nIce attribute\nHeat Resist -"}]},
+{"entry": 2865, "blocks": [
+ {"box": [72, 46, 208, 72], "ink": "light", "text": "Drakehead Dagger", "align": "center", "bold": true, "size": 18},
+ {"box": [30, 104, 188, 238], "ink": "light", "text": "One of the holy weapons of Tradoan myth, born when the world stood in peril. It is said to wield lightning at will."},
+ {"box": [30, 250, 150, 300], "ink": "light", "text": "Attack 38\nLightning attribute"}]},
+{"entry": 2866, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Leraje Knife", "align": "center", "bold": true, "size": 18},
+ {"box": [45, 150, 178, 238], "ink": "light", "text": "A magic blade from the legends of the frontier. A dagger with the power of flame."},
+ {"box": [45, 245, 150, 295], "ink": "light", "text": "Attack 47\nEffect: Fire"}]},
+{"entry": 2867, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Nameless Dagger", "align": "center", "bold": true, "size": 18},
+ {"box": [58, 244, 290, 350], "ink": "light", "text": "Gaius's finest masterpiece. It has no special powers like the weapons found in the ruins, but its destructive force is truly superb."},
+ {"box": [60, 354, 150, 380], "ink": "light", "text": "Attack 76"}]},
+{"entry": 2868, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Leather Whip", "align": "center", "bold": true, "size": 18},
+ {"box": [48, 222, 190, 314], "ink": "light", "text": "A common leather whip, used less as a weapon than for catching and training animals."}]},
+{"entry": 2869, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Acid Whip", "align": "center", "bold": true, "size": 18},
+ {"box": [53, 165, 175, 222], "ink": "light", "text": "A leather whip tipped with an acid needle."},
+ {"box": [53, 250, 175, 306], "ink": "light", "text": "As a weapon, its Attack is not very high."}]},
+{"entry": 2870, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Poison Whip", "align": "center", "bold": true, "size": 18},
+ {"box": [36, 165, 155, 222], "ink": "light", "text": "A leather whip tipped with a poison needle."},
+ {"box": [36, 245, 155, 300], "ink": "light", "text": "As a weapon, its Attack is not very high."}]},
+{"entry": 2871, "blocks": [
+ {"box": [72, 46, 208, 72], "ink": "light", "text": "Beast King's Whip", "align": "center", "bold": true, "size": 18},
+ {"box": [188, 286, 305, 345], "ink": "light", "text": "A chain made of a strange material."}]},
+{"entry": 2872, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Archangel's Whip", "align": "center", "bold": true, "size": 18},
+ {"box": [32, 238, 170, 282], "ink": "light", "text": "A chain from the legends of the frontier."},
+ {"box": [32, 286, 230, 366], "ink": "light", "text": "Legend says the angels used it to bind Glasya-Labolas, a devil in the form of a dog."}]},
+{"entry": 2873, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "World Tree Whip", "align": "center", "bold": true, "size": 18},
+ {"box": [184, 190, 312, 292], "ink": "light", "text": "A whip made of a strange material. It is said to be made from the roots of the World Tree."}]},
+{"entry": 2874, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Leyding", "align": "center", "bold": true, "size": 18},
+ {"box": [60, 216, 205, 372], "ink": "light", "text": "A chain from the legends of the frontier. Legend says it was used to capture the god Fenrir, who took the form of a wolf.\n(It was snapped with ease, however.)"}]},
+{"entry": 2875, "erase": [{"box": [165, 292, 248, 312], "ink": "light"}, {"box": [165, 320, 255, 338], "ink": "light"}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Dromi", "align": "center", "bold": true, "size": 18},
+ {"box": [163, 112, 305, 281], "ink": "light", "text": "A chain from the legends of the frontier. Legend says it was used to capture the god Fenrir, who took the form of a wolf.\n(It too was snapped with ease, if not quite as easily as Leyding.)"}]},
+{"entry": 2876, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Gleipnir", "align": "center", "bold": true, "size": 18},
+ {"box": [98, 214, 225, 345], "ink": "light", "text": "A chain from the legends of the frontier. Legend says it was used to capture the god Fenrir, who took the form of a wolf."}]},
+{"entry": 2877, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Nadel Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [66, 160, 225, 262], "ink": "light", "text": "A staff-shaped Magic Tool. It has no added effects at all, but its short length makes it a Magic Tool suited to beginners."},
+ {"box": [68, 282, 150, 306], "ink": "light", "text": "Attack 4"}]},
+{"entry": 2878, "erase": [{"box": [55, 378, 122, 408], "ink": "light"}, {"box": [57, 372, 116, 405], "ink": "light", "dim": true}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Bozum Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [55, 110, 212, 205], "ink": "light", "text": "A staff-shaped Magic Tool. Striking with this staff can deal damage with searing heat."},
+ {"box": [55, 245, 212, 315], "ink": "light", "text": "However, equipping it lowers your resistance to Cold attacks."},
+ {"box": [57, 322, 175, 378], "ink": "light", "text": "Attack 4\nHeat attribute\nCold Resist -"}]},
+{"entry": 2879, "erase": [{"box": [60, 378, 128, 412], "ink": "light"}, {"box": [62, 370, 116, 405], "ink": "light", "dim": true}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Koul Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 110, 212, 205], "ink": "light", "text": "A staff-shaped Magic Tool. Striking with this staff can deal damage with biting cold."},
+ {"box": [62, 245, 212, 315], "ink": "light", "text": "However, equipping it lowers your resistance to Heat attacks."},
+ {"box": [62, 322, 180, 378], "ink": "light", "text": "Attack 5\nCold attribute\nHeat Resist -"}]},
+{"entry": 2880, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Poizo Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [58, 162, 185, 236], "ink": "light", "text": "A staff-shaped Magic Tool. Its tip is laced with deadly poison."},
+ {"box": [60, 252, 160, 305], "ink": "light", "text": "Attack 2\nEffect: Poison"}]},
+{"entry": 2881, "erase": [{"box": [94, 56, 176, 70], "ink": "dark"}], "blocks": [
+ {"box": [68, 46, 188, 72], "ink": "light", "text": "War God's Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [48, 128, 178, 175], "ink": "light", "text": "A staff-shaped Magic Tool."},
+ {"box": [48, 182, 178, 285], "ink": "light", "text": "It boasts a truly superb Attack, but greatly lowers its wielder's Will."},
+ {"box": [50, 307, 165, 356], "ink": "light", "text": "Attack 75\nWill -100"}]},
+{"entry": 2882, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Raio Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [65, 124, 190, 172], "ink": "light", "text": "A staff-shaped Magic Tool."},
+ {"box": [65, 176, 180, 304], "ink": "light", "text": "Striking with this staff can deal Lightning damage."},
+ {"box": [65, 318, 190, 384], "ink": "light", "dim": true, "text": "Attack 5\nKnockback +2\nLightning attribute"}]},
+{"entry": 2883, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Kanone Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 140, 212, 268], "ink": "light", "text": "A staff-shaped Magic Tool. It has no added effects at all, but it is longer than the Nadel Staff and well suited to melee."},
+ {"box": [62, 272, 175, 322], "ink": "light", "text": "Attack 15\nKnockback +3"}]},
+{"entry": 2884, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Warrior's Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [64, 120, 192, 170], "ink": "light", "text": "A staff-shaped Magic Tool."},
+ {"box": [64, 172, 192, 258], "ink": "light", "text": "It boasts a superb Attack, but sacrifices its wielder's Will."},
+ {"box": [66, 278, 165, 322], "ink": "light", "dim": true, "text": "Attack 36\nWill -40"}]},
+{"entry": 2885, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Sage's Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [60, 120, 195, 200], "ink": "light", "text": "A staff-shaped Magic Tool. With a sage's protection, it raises Will."},
+ {"box": [60, 228, 195, 278], "ink": "light", "text": "However, it sacrifices its wielder's Defense."},
+ {"box": [62, 284, 160, 360], "ink": "light", "text": "Attack 7\nWill +20\nDefense -5"}]},
+{"entry": 2886, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Erde Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [46, 138, 175, 182], "ink": "light", "text": "A staff-shaped Magic Tool."},
+ {"box": [46, 186, 175, 245], "ink": "light", "text": "Foes it wounds take on the Water attribute."},
+ {"box": [48, 262, 155, 312], "ink": "light", "text": "Attack 6\nWater attribute"}]},
+{"entry": 2887, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Staff of Power", "align": "center", "bold": true, "size": 18},
+ {"box": [40, 118, 165, 210], "ink": "light", "text": "A staff-shaped Magic Tool. Merely holding it greatly raises Defense."},
+ {"box": [40, 228, 165, 285], "ink": "light", "text": "However, it sacrifices its wielder's Will."},
+ {"box": [42, 292, 130, 365], "ink": "light", "dim": true, "text": "Attack 25\nDefense +13\nWill -25"}]},
+{"entry": 2888, "erase": [{"box": [140, 400, 238, 417], "ink": "light"}, {"box": [140, 400, 230, 412], "ink": "dark"}, {"box": [140, 428, 240, 430], "ink": "light"}, {"box": [250, 376, 315, 425], "ink": "light"}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Sturz Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [56, 118, 170, 222], "ink": "light", "text": "Attack 18\nWill +80\nKnockback +9\nDefense -15"},
+ {"box": [146, 274, 315, 384], "ink": "light", "text": "A staff-shaped Magic Tool. It not only greatly raises Will but has the power to send foes flying. However, it greatly lowers its wielder's Defense."}]}
+]

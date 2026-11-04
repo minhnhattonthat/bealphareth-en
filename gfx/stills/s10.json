@@ -1,0 +1,122 @@
+[
+{"entry": 2889, "blocks": [
+ {"box": [78, 46, 202, 76], "ink": "light", "text": "Einhorn Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [56, 112, 198, 272], "ink": "light", "text": "A staff Magic Tool. Through a sage's blessing it raises Will.\n\nBut it costs its bearer dearly in Defense."},
+ {"box": [56, 278, 150, 366], "ink": "light", "text": "Attack 9\nWill +35\nDefense -9"}]},
+{"entry": 2890, "blocks": [
+ {"box": [100, 66, 250, 94], "ink": "light", "text": "Saint Letos Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [50, 164, 190, 284], "ink": "light", "text": "A sacred staff Magic Tool. It has no added effects at all, but it is better suited to melee than the \"Sacred Staff\"."},
+ {"box": [50, 294, 130, 318], "ink": "light", "text": "Attack 8"}]},
+{"entry": 2891, "blocks": [
+ {"box": [100, 66, 250, 94], "ink": "light", "text": "Fire Spirit Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [66, 122, 194, 310], "ink": "light", "text": "A sacred staff Magic Tool. It can damage foes with intense heat.\n\nBut equipping it lowers your resistance to Cold attacks."},
+ {"box": [66, 328, 170, 424], "ink": "light", "text": "Attack 5\nKnockback +1\nHeat attribute\nCold Resist -"}]},
+{"entry": 2892, "erase": [{"box": [258, 224, 282, 244], "ink": "light"}], "blocks": [
+ {"box": [118, 74, 228, 102], "ink": "light", "text": "Radiant Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [128, 190, 258, 254], "ink": "light", "text": "A sacred staff Magic Tool. It increases its user's MP."},
+ {"box": [128, 258, 220, 312], "ink": "light", "text": "Attack 6\nMP +50"}]},
+{"entry": 2893, "erase": [{"box": [40, 248, 60, 284], "ink": "dark"}], "blocks": [
+ {"box": [100, 60, 210, 88], "ink": "light", "text": "Ice Spirit Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [40, 120, 205, 310], "ink": "light", "text": "A sacred staff Magic Tool. It can damage foes with cold.\n\nBut equipping it lowers your resistance to Heat attacks."},
+ {"box": [40, 324, 170, 426], "ink": "light", "text": "Attack 5\nKnockback +1\nCold attribute\nHeat Resist -"}]},
+{"entry": 2894, "erase": [{"box": [110, 278, 150, 304], "ink": "light", "dim": true}], "blocks": [
+ {"box": [84, 70, 208, 98], "ink": "light", "text": "Power God's Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [66, 120, 190, 310], "ink": "light", "text": "A sacred staff Magic Tool.\n\nIt boasts superb Attack and the power to send foes flying. But it costs its bearer MP."},
+ {"box": [66, 324, 170, 404], "ink": "light", "text": "Attack 90\nMP -50\nKnockback +5"}]},
+{"entry": 2895, "blocks": [
+ {"box": [118, 68, 236, 96], "ink": "light", "text": "Sacred Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 172, 212, 288], "ink": "light", "text": "A sacred staff Magic Tool. It has no added effects at all, but its short length makes it a good Magic Tool for beginners."},
+ {"box": [62, 296, 130, 322], "ink": "light", "text": "Attack 4"}]},
+{"entry": 2896, "blocks": [
+ {"box": [100, 56, 248, 84], "ink": "light", "text": "Saphenas's Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [66, 156, 200, 272], "ink": "light", "text": "A sacred staff Magic Tool. Its blows can put foes to sleep, but don't expect much Attack."},
+ {"box": [66, 276, 170, 322], "ink": "light", "text": "Attack 2\nEffect: Sleep"}]},
+{"entry": 2897, "blocks": [
+ {"box": [100, 72, 250, 100], "ink": "light", "text": "Storm God's Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [66, 116, 186, 320], "ink": "light", "text": "A sacred staff Magic Tool.\n\nA blow from this staff deals Lightning damage to the foe."},
+ {"box": [66, 328, 200, 396], "ink": "light", "text": "Attack 8\nKnockback +2\nLightning attribute"}]},
+{"entry": 2898, "blocks": [
+ {"box": [100, 62, 244, 90], "ink": "light", "text": "Lore God's Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [145, 160, 256, 240], "ink": "light", "text": "A sacred staff Magic Tool. It greatly increases its user's MP."},
+ {"box": [145, 250, 236, 300], "ink": "light", "text": "Attack 8\nMP +80"}]},
+{"entry": 2899, "blocks": [
+ {"box": [100, 70, 208, 98], "ink": "light", "text": "Fire God's Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 134, 198, 298], "ink": "light", "text": "A sacred staff Magic Tool. It can damage foes with intense heat.\n\nBut equipping it lowers your resistance to Cold attacks."},
+ {"box": [62, 304, 160, 406], "ink": "light", "text": "Attack 4\nKnockback +2\nFire attribute\nCold Resist -"}]},
+{"entry": 2900, "erase": [{"box": [108, 68, 238, 92], "ink": "light", "dim": true}], "blocks": [
+ {"box": [84, 66, 262, 94], "ink": "light", "text": "Saint Letos Sanctuary Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [50, 116, 180, 216], "ink": "light", "text": "Priest Magic\nA sacred staff sealed with spells that cure status ailments."},
+ {"box": [50, 222, 186, 350], "ink": "light", "text": "Healing Blood Field\n (cures poison, within range)\nHealing Water Field\n (cures stone, within range)\nHealing Wind Field\n (cures mind, within range)", "size": 12},
+ {"box": [50, 362, 205, 412], "ink": "light", "text": "Made by Weapon Synthesis:\nHoly Drop Staff +\nWorld Tree Whip", "size": 13}]},
+{"entry": 2901, "erase": [{"box": [118, 66, 232, 94], "ink": "light", "dim": true}], "blocks": [
+ {"box": [100, 66, 250, 94], "ink": "light", "text": "Ose Sanctuary Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [50, 106, 258, 184], "ink": "light", "text": "Priest Magic\nA sacred staff sealed with spells that temporarily raise stats."},
+ {"box": [50, 202, 258, 392], "ink": "light", "text": "Sanctuary of Strength\n (raises Strength <STR>, within range)\nSanctuary of Life\n (raises Vitality <VIT>, within range)\nSanctuary of Speed\n (raises Strength <STR>, within range)\nSanctuary of Wisdom\n (raises Intellect <INT>, within range)\nSanctuary of Spirit\n (raises Will <WIL>, within range)", "size": 13}]},
+{"entry": 2902, "blocks": [
+ {"box": [106, 68, 250, 96], "ink": "light", "text": "Ice God's Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [60, 122, 196, 282], "ink": "light", "text": "A sacred staff Magic Tool. It can damage foes with cold.\n\nBut equipping it lowers your resistance to Heat attacks."},
+ {"box": [60, 286, 170, 392], "ink": "light", "text": "Attack 5\nKnockback +2\nIce attribute\nHeat Resist -"}]},
+{"entry": 2903, "erase": [{"box": [90, 250, 125, 268], "ink": "light", "dim": true}], "blocks": [
+ {"box": [106, 66, 232, 94], "ink": "light", "text": "Judgment Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [66, 140, 184, 280], "ink": "light", "text": "A sacred staff Magic Tool.\n\nIt boasts superb Attack, but it costs its bearer MP."},
+ {"box": [66, 286, 160, 342], "ink": "light", "text": "Attack 45\nMP -30"}]},
+{"entry": 2904, "blocks": [
+ {"box": [92, 58, 250, 86], "ink": "light", "text": "Saint Amalis Staff", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 180, 206, 292], "ink": "light", "text": "A sacred staff Magic Tool. It has no added effects at all, but it is better suited to melee than the \"Sacred Staff\"."},
+ {"box": [62, 296, 140, 320], "ink": "light", "text": "Attack 15"}]},
+{"entry": 2905, "blocks": [
+ {"box": [78, 46, 202, 76], "ink": "light", "text": "Semes Tablet", "align": "center", "bold": true, "size": 18},
+ {"box": [60, 150, 180, 262], "ink": "light", "text": "A tablet Magic Tool.\n\nA Magic Tool for beginners, traded at a low price."},
+ {"box": [60, 274, 130, 298], "ink": "light", "text": "Attack 4"}]},
+{"entry": 2906, "blocks": [
+ {"box": [78, 46, 202, 76], "ink": "light", "text": "En Tablet", "align": "center", "bold": true, "size": 18},
+ {"box": [54, 110, 186, 296], "ink": "light", "text": "A tablet Magic Tool.\n\nThe tablet gives off intense heat that damages foes. But it lowers its bearer's resistance to Cold."},
+ {"box": [54, 312, 150, 376], "ink": "light", "text": "Attack 12\nFire attribute\nCold Resist -"}]},
+{"entry": 2907, "blocks": [
+ {"box": [78, 46, 202, 76], "ink": "light", "text": "Ings Tablet", "align": "center", "bold": true, "size": 18},
+ {"box": [58, 116, 188, 246], "ink": "light", "text": "A tablet Magic Tool.\n\nIt raises Defense in exchange for its bearer's Will."},
+ {"box": [58, 250, 160, 356], "ink": "light", "dim": true, "text": "Attack 12\nDefense +2\nKnockback +1\nWill -10"}]},
+{"entry": 2908, "blocks": [
+ {"box": [78, 46, 202, 76], "ink": "light", "text": "Reki Tablet", "align": "center", "bold": true, "size": 18},
+ {"box": [40, 136, 178, 256], "ink": "light", "text": "A tablet Magic Tool.\n\nThe tablet gives off lightning that damages foes."},
+ {"box": [40, 268, 160, 332], "ink": "light", "text": "Attack 13\nKnockback +2\nLightning attribute"}]},
+{"entry": 2909, "erase": [{"box": [44, 232, 62, 282], "ink": "light", "dim": true}], "blocks": [
+ {"box": [78, 46, 202, 76], "ink": "light", "text": "Shin Tablet", "align": "center", "bold": true, "size": 18},
+ {"box": [40, 106, 174, 296], "ink": "light", "text": "A tablet Magic Tool.\n\nThe tablet gives off cold that damages foes. But it lowers its bearer's resistance to Heat."},
+ {"box": [40, 296, 140, 382], "ink": "light", "dim": true, "text": "Attack 12\nIce attribute\nHeat Resist -"}]},
+{"entry": 2910, "blocks": [
+ {"box": [78, 46, 202, 76], "ink": "light", "text": "Myura Tablet", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 120, 190, 250], "ink": "light", "text": "A tablet Magic Tool.\n\nIt raises Will in exchange for its bearer's Defense."},
+ {"box": [62, 260, 160, 340], "ink": "light", "text": "Attack 16\nWill +10\nDefense -2"}]},
+{"entry": 2911, "blocks": [
+ {"box": [78, 46, 202, 76], "ink": "light", "text": "Gelt Tablet", "align": "center", "bold": true, "size": 18},
+ {"box": [64, 116, 196, 244], "ink": "light", "text": "A tablet Magic Tool.\n\nIt raises Will in exchange for its bearer's Defense."},
+ {"box": [64, 260, 160, 342], "ink": "light", "dim": true, "text": "Attack 25\nDefense -5\nWill +20"}]},
+{"entry": 2912, "blocks": [
+ {"box": [78, 46, 202, 76], "ink": "light", "text": "Othel Tablet", "align": "center", "bold": true, "size": 18},
+ {"box": [46, 110, 212, 276], "ink": "light", "text": "A tablet Magic Tool.\n\nThe tablet gives off a deadly poison that damages foes, and it has the power to send them flying."},
+ {"box": [46, 284, 150, 360], "ink": "light", "text": "Attack 10\nKnockback +5\nEffect: Poison"}]},
+{"entry": 2913, "blocks": [
+ {"box": [78, 46, 202, 76], "ink": "light", "text": "Galbas Tablet", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 124, 196, 252], "ink": "light", "text": "A tablet Magic Tool.\n\nIt raises Defense in exchange for its bearer's Will."},
+ {"box": [62, 266, 160, 346], "ink": "light", "dim": true, "text": "Attack 25\nDefense +5\nWill -20"}]},
+{"entry": 2914, "erase": [{"box": [56, 384, 118, 398], "ink": "light"}, {"box": [122, 386, 134, 392], "ink": "light"}], "blocks": [
+ {"box": [78, 46, 202, 76], "ink": "light", "text": "Ansur Ring", "align": "center", "bold": true, "size": 18},
+ {"box": [56, 106, 194, 200], "ink": "light", "text": "A ring set with a stone meaning \"Ansur (to know)\"."},
+ {"box": [56, 214, 194, 270], "ink": "light", "text": "For now, though, it seems a mere ornament."},
+ {"box": [56, 298, 194, 376], "ink": "light", "text": "It seems to have some magical link to the \"Purple Orb\" in Qumran's house..."}]},
+{"entry": 2915, "blocks": [
+ {"box": [78, 46, 202, 76], "ink": "light", "text": "De-Poison Ring", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 150, 182, 284], "ink": "light", "text": "A ring with a green glow.\n\nHalves Poison damage dealt to its wearer."},
+ {"box": [62, 292, 170, 316], "ink": "light", "text": "Poison Resist +"}]},
+{"entry": 2916, "blocks": [
+ {"box": [78, 46, 202, 76], "ink": "light", "text": "De-Elec Ring", "align": "center", "bold": true, "size": 18},
+ {"box": [60, 150, 176, 280], "ink": "light", "text": "A purple ring.\n\nHalves Lightning damage dealt to its wearer."},
+ {"box": [60, 288, 190, 314], "ink": "light", "text": "Lightning Resist +"}]},
+{"entry": 2917, "blocks": [
+ {"box": [78, 46, 202, 76], "ink": "light", "dim": true, "text": "Is Ring", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 172, 176, 272], "ink": "light", "text": "Canon Magic.\nCasts Cold attack magic.\n(Forward attack range: Weak)", "size": 13}]},
+{"entry": 2918, "blocks": [
+ {"box": [78, 46, 202, 76], "ink": "light", "dim": true, "text": "Ken Ring", "align": "center", "bold": true, "size": 18},
+ {"box": [150, 188, 300, 288], "ink": "light", "text": "Canon Magic.\nCasts Fire attack magic.\n(Forward attack range: Weak)", "size": 13}]}
+]
