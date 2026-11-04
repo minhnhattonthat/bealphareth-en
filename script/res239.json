@@ -41,8 +41,9 @@
    "jp": "{1c:12}{0b:08}{e080} パスカ {e081}{0b:09}\n暇だよな・・・{0c:fe}",
    "read": "{1c:12}{0b:08}【 パスカ 】{0b:09}\n暇だよな・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Pasca 】{0b:09}\nBored, ain't we...{0c:fe}",
+   "status": "done",
+   "tl": "Bored, ain't we..."
   },
   {
    "id": "RES#239:2fdab",
@@ -63,8 +64,9 @@
    "jp": "{1c:12}すげえ暇だ・・・{0c:fe}",
    "read": "{1c:12}すげえ暇だ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Damn, I'm bored...{0c:fe}",
+   "status": "done",
+   "tl": "Damn, I'm bored..."
   },
   {
    "id": "RES#239:2fdc4",
@@ -85,8 +87,9 @@
    "jp": "{1c:17}そうそう、\nこの前クレンの{e083}に行ったとき\n聞いたんだけどさ、{1a}オレ達、この辺りの{e085}{e086}から\n『森の悪魔』って\n{e088}ばれてるんだってよ。{1a}だからなんだって?{1a}いや・{07:05}・{07:05}・{07:14}\n『悪魔』って{e088}び{e089}が\n妙に{e08b}かしかったりしてさ・・・{07:07}{1a}ま、それだけなんだけどな。{0c:fe}",
    "read": "{1c:17}そうそう、\nこの前クレンの村に行ったとき\n聞いたんだけどさ、{1a}オレ達、この辺りの領主から\n『森の悪魔』って\n呼ばれてるんだってよ。{1a}だからなんだって?{1a}いや・{07:05}・{07:05}・{07:14}\n『悪魔』って呼び名が\n妙に懐かしかったりしてさ・・・{07:07}{1a}ま、それだけなんだけどな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}Oh yeah, when I went to Kren village the\nother day, I heard something,{1a}the lord around here calls us the 'Devils\nof the Forest'.{1a}So what, you say?{1a}Well.{07:05}.{07:05}.{07:14} Being called 'devil' just kinda takes\nme back...{07:07}{1a}Anyway, that's all it is.{0c:fe}",
+   "status": "done",
+   "tl": "Oh yeah, when I went to Kren village the other day, I heard something, // the lord around here calls us the 'Devils of the Forest'. // So what, you say? // Well.[1].[2].[3] Being called 'devil' just kinda takes me back...[4] // Anyway, that's all it is."
   },
   {
    "id": "RES#239:2fe72",
@@ -107,8 +110,9 @@
    "jp": "{1c:17}何か面白いことねえかな・・・{0c:fe}",
    "read": "{1c:17}何か面白いことねえかな・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}Ain't there anything fun to do...{0c:fe}",
+   "status": "done",
+   "tl": "Ain't there anything fun to do..."
   },
   {
    "id": "RES#239:2fe93",
@@ -129,8 +133,9 @@
    "jp": "{0b:08}{e080} 子分 {e081}{0b:09}\n{10}親分、パスカ親分!{0c:2b5109fe}",
    "read": "{0b:08}【 子分 】{0b:09}\n{10}親分、パスカ親分!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Henchman 】{0b:09}\nBoss {10}, Boss Pasca!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Boss [HERO], Boss Pasca!"
   },
   {
    "id": "RES#239:2ff5b",
@@ -140,8 +145,9 @@
    "jp": "{0c:51082b531000}{0c:2b502351092b531000}{1c:17}{0b:08}{e080} パスカ {e081}{0b:09}\nその親分ってのやめてくれよ。{0c:2b5309fe}",
    "read": "{0c:51082b531000}{0c:2b502351092b531000}{1c:17}{0b:08}【 パスカ 】{0b:09}\nその親分ってのやめてくれよ。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b531000}{0c:2b502351092b531000}{1c:17}{0b:08}【 Pasca 】{0b:09}\nQuit calling me Boss, will you.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Quit calling me Boss, will you."
   },
   {
    "id": "RES#239:2ff97",
@@ -151,8 +157,9 @@
    "jp": "{0b:08}{e080} 子分 {e081}{0b:09}\nハウゼンのバカ{e08d}が\n速やかに{e08e}伏せよって使者を\nよこしてきやしたが・・・{0c:2b5109fe}",
    "read": "{0b:08}【 子分 】{0b:09}\nハウゼンのバカ殿が\n速やかに降伏せよって使者を\nよこしてきやしたが・・・{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Henchman 】{0b:09}\nThat fool Hausen-dono sent a\nmessenger, boss, saying to surrender\nright quick...{0c:2b5109fe}",
+   "status": "done",
+   "tl": "That fool Hausen-dono sent a messenger, boss, saying to surrender right quick..."
   },
   {
    "id": "RES#239:2ffdb",
@@ -162,8 +169,9 @@
    "jp": "{1c:11}{0b:08}{e080} パスカ {e081}{0b:09}\n懲りねえヤツだな・・・\nあれだけやられても\nまだ来るってのか?{0c:2b5309fe}",
    "read": "{1c:11}{0b:08}【 パスカ 】{0b:09}\n懲りねえヤツだな・・・\nあれだけやられても\nまだ来るってのか?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Pasca 】{0b:09}\nGuy never learns... Took all that beating\nand he's still coming?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Guy never learns... Took all that beating and he's still coming?"
   },
   {
    "id": "RES#239:30018",
@@ -173,8 +181,9 @@
    "jp": "{0c:5188}{0b:08}{e080} 子分 {e081}{0b:09}\n今{e08e}伏すると、\nオレ達全{e091}にもれなく貴{e092}の{e093}を\n{e094}えてくれるそうでやんすが。{0c:2b5109fe}",
    "read": "{0c:5188}{0b:08}【 子分 】{0b:09}\n今降伏すると、\nオレ達全員にもれなく貴族の位を\n与えてくれるそうでやんすが。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5188}{0b:08}【 Henchman 】{0b:09}\nSays if we surrender now, every last one\nof us gets a noble title, boss.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Says if we surrender now, every last one of us gets a noble title, boss."
   },
   {
    "id": "RES#239:30064",
@@ -184,8 +193,9 @@
    "jp": "{1c:17}{0b:08}{e080} パスカ {e081}{0b:09}\n欲しいのか?{0c:2b5309fe}",
    "read": "{1c:17}{0b:08}【 パスカ 】{0b:09}\n欲しいのか?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Pasca 】{0b:09}\nYou want one?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "You want one?"
   },
   {
    "id": "RES#239:30085",
@@ -195,8 +205,9 @@
    "jp": "{0c:5190}{0b:08}{e080} 子分 {e081}{0b:09}\n全然。{0c:2b5109fe}",
    "read": "{0c:5190}{0b:08}【 子分 】{0b:09}\n全然。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5190}{0b:08}【 Henchman 】{0b:09}\nNot a bit.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Not a bit."
   },
   {
    "id": "RES#239:300a4",
@@ -206,8 +217,9 @@
    "jp": "{0c:521000}{1c:17}{0b:08}{e080} パスカ {e081}{0b:09}\nだろ?\nとりあえず『帰れ』って\n伝えておいてくれよ。{0c:fe}",
    "read": "{0c:521000}{1c:17}{0b:08}【 パスカ 】{0b:09}\nだろ?\nとりあえず『帰れ』って\n伝えておいてくれよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521000}{1c:17}{0b:08}【 Pasca 】{0b:09}\nFigured. Just tell him 'Go home' for now.{0c:fe}",
+   "status": "done",
+   "tl": "Figured. Just tell him 'Go home' for now."
   },
   {
    "id": "RES#239:300df",
@@ -228,8 +240,9 @@
    "jp": "{0c:5198}{0b:08}{e080} 子分 {e081}{0b:09}\nへい。{0c:2b5109fe}",
    "read": "{0c:5198}{0b:08}【 子分 】{0b:09}\nへい。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5198}{0b:08}【 Henchman 】{0b:09}\nYessir.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Yessir."
   },
   {
    "id": "RES#239:3010e",
@@ -250,8 +263,9 @@
    "jp": "{1c:17}{0b:08}{e080} パスカ {e081}{0b:09}\n{e095}を{e08e}りてから、\nお前と再{e097}してから3{e098}か・・・{1a}いつの間にか{e095}{e099}の頭になっちまって、\nあぶれ者を大勢引き{e09b}れるご身分に\nなっちまったけど、\n中身は全然変わらないよな、オレ達。{1a}進歩がねえって言えなくもないけど、\nオレはこういうの悪くないと思う。{1a}お前とのこういう関係が\n一生続くかもしれない訳だしさ。{0c:fe}",
    "read": "{1c:17}{0b:08}【 パスカ 】{0b:09}\n山を降りてから、\nお前と再会してから3年か・・・{1a}いつの間にか山賊の頭になっちまって、\nあぶれ者を大勢引き連れるご身分に\nなっちまったけど、\n中身は全然変わらないよな、オレ達。{1a}進歩がねえって言えなくもないけど、\nオレはこういうの悪くないと思う。{1a}お前とのこういう関係が\n一生続くかもしれない訳だしさ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Pasca 】{0b:09}\nThree years since we came down off the\nmountain, since you and me met up\nagain...{1a}Somehow I ended up a bandit chief, with\na whole crowd of misfits trailing after\nme, but inside we ain't changed a bit,\nhave we.{1a}Guess you could say we ain't learned a\nthing, but I figure this ain't half bad.{1a}Me and you might just stay like this for\nlife.{0c:fe}",
+   "status": "done",
+   "tl": "Three years since we came down off the mountain, since you and me met up again... // Somehow I ended up a bandit chief, with a whole crowd of misfits trailing after me, but inside we ain't changed a bit, have we. // Guess you could say we ain't learned a thing, but I figure this ain't half bad. // Me and you might just stay like this for life."
   },
   {
    "id": "RES#239:301fc",
@@ -272,8 +286,9 @@
    "jp": "{1c:10}ありがとよ、{10}。\n戻ってきてくれて・・・{0c:fe}",
    "read": "{1c:10}ありがとよ、{10}。\n戻ってきてくれて・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Thanks, {10}. For coming back...{0c:fe}",
+   "status": "done",
+   "tl": "Thanks, [HERO]. For coming back..."
   },
   {
    "id": "RES#239:30221",
@@ -294,8 +309,9 @@
    "jp": "{0b:08}{e080} 子分 {e081}{0b:09}\nパスカ親分、{10}親分!{0c:2b5109fe}",
    "read": "{0b:08}【 子分 】{0b:09}\nパスカ親分、{10}親分!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Henchman 】{0b:09}\nBoss Pasca, Boss {10}!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Boss Pasca, Boss [HERO]!"
   },
   {
    "id": "RES#239:30265",
@@ -305,8 +321,9 @@
    "jp": "{0c:5108}{0c:2b502351092b531000}{1c:11}{0b:08}{e080} パスカ {e081}{0b:09}\nだからぁ、\nその親分ってのやめてくれよ!{0c:2b5309fe}",
    "read": "{0c:5108}{0c:2b502351092b531000}{1c:11}{0b:08}【 パスカ 】{0b:09}\nだからぁ、\nその親分ってのやめてくれよ!{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5108}{0c:2b502351092b531000}{1c:11}{0b:08}【 Pasca 】{0b:09}\nLike I said, quit calling me Boss!{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Like I said, quit calling me Boss!"
   },
   {
    "id": "RES#239:302a4",
@@ -316,8 +333,9 @@
    "jp": "{0c:5188}{0b:08}{e080} 子分 {e081}{0b:09}\n{03}アウステイン{e09c}爵{02}が\nこっちに来てるらしいっす{01}!{1a}兵{02}は{01}500以上{02}、\n{e09f}日の昼には森の入り口に\n到着するらしいっす{01}!{0c:2b5109fe}",
    "read": "{0c:5188}{0b:08}【 子分 】{0b:09}\n{03}アウステイン公爵{02}が\nこっちに来てるらしいっす{01}!{1a}兵{02}は{01}500以上{02}、\n明日の昼には森の入り口に\n到着するらしいっす{01}!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5188}{0b:08}【 Henchman 】{0b:09}\nDuke Austein's headed this way, they\nsay!{1a}Five hundred men or more, and they'll\nreach the forest entrance by noon\ntomorrow!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Duke Austein's headed this way, they say! // Five hundred men or more, and they'll reach the forest entrance by noon tomorrow!"
   },
   {
    "id": "RES#239:3030b",
@@ -327,8 +345,9 @@
    "jp": "{0c:5118}{0c:2b502351112b511000}{1c:10}{0b:08}{e080} パスカ {e081}{0b:09}\n{10}、\nオレ達の出番だぜ。{0c:fe}",
    "read": "{0c:5118}{0c:2b502351112b511000}{1c:10}{0b:08}【 パスカ 】{0b:09}\n{10}、\nオレ達の出番だぜ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5118}{0c:2b502351112b511000}{1c:10}{0b:08}【 Pasca 】{0b:09}\n{10}, that's our cue.{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], that's our cue."
   },
   {
    "id": "RES#239:3033f",
@@ -382,8 +401,9 @@
    "jp": "{1c:15}{0b:08}{e080} パスカ {e081}{0b:09}\nなあ、{10}・・・{0c:fe}",
    "read": "{1c:15}{0b:08}【 パスカ 】{0b:09}\nなあ、{10}・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Pasca 】{0b:09}\nHey, {10}...{0c:fe}",
+   "status": "done",
+   "tl": "Hey, [HERO]..."
   },
   {
    "id": "RES#239:30560",
@@ -404,8 +424,9 @@
    "jp": "{1c:16}いや、なんでもない。{0c:fe}",
    "read": "{1c:16}いや、なんでもない。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}Nah, it's nothing.{0c:fe}",
+   "status": "done",
+   "tl": "Nah, it's nothing."
   },
   {
    "id": "RES#239:30585",
@@ -426,8 +447,9 @@
    "jp": "{0c:512010031003}{1c:15}なあ、{10}・・・{0c:fe}",
    "read": "{0c:512010031003}{1c:15}なあ、{10}・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:512010031003}{1c:15}Hey, {10}...{0c:fe}",
+   "status": "done",
+   "tl": "Hey, [HERO]..."
   },
   {
    "id": "RES#239:305b1",
@@ -448,8 +470,9 @@
    "jp": "{0b:08}{e080} 子分 {e081}{0b:09}\nパスカの親分!{0c:2b5109fe}",
    "read": "{0b:08}【 子分 】{0b:09}\nパスカの親分!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Henchman 】{0b:09}\nBoss Pasca!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Boss Pasca!"
   },
   {
    "id": "RES#239:30684",
@@ -459,8 +482,9 @@
    "jp": "{0c:51282b531000}{0c:2b502351092b531000}{1c:11}{0b:08}{e080} パスカ {e081}{0b:09}\nな、なんだよ。\nそれと、その親分っての\nいい加減やめてくれよ。{0c:2b5309fe}",
    "read": "{0c:51282b531000}{0c:2b502351092b531000}{1c:11}{0b:08}【 パスカ 】{0b:09}\nな、なんだよ。\nそれと、その親分っての\nいい加減やめてくれよ。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51282b531000}{0c:2b502351092b531000}{1c:11}{0b:08}【 Pasca 】{0b:09}\nWh-what is it? And quit calling me Boss\nalready.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Wh-what is it? And quit calling me Boss already."
   },
   {
    "id": "RES#239:306d3",
@@ -470,8 +494,9 @@
    "jp": "{0b:08}{e080} 子分 {e081}{0b:09}\nハウゼンのバカ{e08d}が\n速やかに{e08e}伏せよって使者を\nよこしてきやしたが・・・{0c:2b5109fe}",
    "read": "{0b:08}【 子分 】{0b:09}\nハウゼンのバカ殿が\n速やかに降伏せよって使者を\nよこしてきやしたが・・・{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Henchman 】{0b:09}\nThat fool Hausen-dono sent a\nmessenger, boss, saying to surrender\nright quick...{0c:2b5109fe}",
+   "status": "done",
+   "tl": "That fool Hausen-dono sent a messenger, boss, saying to surrender right quick..."
   },
   {
    "id": "RES#239:30717",
@@ -481,8 +506,9 @@
    "jp": "{1c:11}{0b:08}{e080} パスカ {e081}{0b:09}\n懲りねえヤツだな・・・\nあれだけやられても\nまだ来るってのか?{0c:2b5309fe}",
    "read": "{1c:11}{0b:08}【 パスカ 】{0b:09}\n懲りねえヤツだな・・・\nあれだけやられても\nまだ来るってのか?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Pasca 】{0b:09}\nGuy never learns... Took all that beating\nand he's still coming?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Guy never learns... Took all that beating and he's still coming?"
   },
   {
    "id": "RES#239:30754",
@@ -492,8 +518,9 @@
    "jp": "{0c:5188}{0b:08}{e080} 子分 {e081}{0b:09}\n今{e08e}伏すると、\nオレ達全{e091}にもれなく貴{e092}の{e093}を\n{e094}えてくれるそうでやんすが。{0c:2b5109fe}",
    "read": "{0c:5188}{0b:08}【 子分 】{0b:09}\n今降伏すると、\nオレ達全員にもれなく貴族の位を\n与えてくれるそうでやんすが。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5188}{0b:08}【 Henchman 】{0b:09}\nSays if we surrender now, every last one\nof us gets a noble title, boss.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Says if we surrender now, every last one of us gets a noble title, boss."
   },
   {
    "id": "RES#239:307a0",
@@ -503,8 +530,9 @@
    "jp": "{1c:17}{0b:08}{e080} パスカ {e081}{0b:09}\n欲しいのか?{0c:2b5309fe}",
    "read": "{1c:17}{0b:08}【 パスカ 】{0b:09}\n欲しいのか?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Pasca 】{0b:09}\nYou want one?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "You want one?"
   },
   {
    "id": "RES#239:307c1",
@@ -514,8 +542,9 @@
    "jp": "{0c:5190}{0b:08}{e080} 子分 {e081}{0b:09}\n全然。{0c:2b5109fe}",
    "read": "{0c:5190}{0b:08}【 子分 】{0b:09}\n全然。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5190}{0b:08}【 Henchman 】{0b:09}\nNot a bit.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Not a bit."
   },
   {
    "id": "RES#239:307e0",
@@ -525,8 +554,9 @@
    "jp": "{1c:14}{0b:08}{e080} パスカ {e081}{0b:09}\nだろ?\nとりあえず『帰れ』って\n伝えておいてくれよ。{0c:2b5309fe}",
    "read": "{1c:14}{0b:08}【 パスカ 】{0b:09}\nだろ?\nとりあえず『帰れ』って\n伝えておいてくれよ。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Pasca 】{0b:09}\nFigured. Just tell him 'Go home' for now.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Figured. Just tell him 'Go home' for now."
   },
   {
    "id": "RES#239:30819",
@@ -536,8 +566,9 @@
    "jp": "{0b:08}{e080} 子分 {e081}{0b:09}\nへい。{0c:2b5109fe}",
    "read": "{0b:08}【 子分 】{0b:09}\nへい。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Henchman 】{0b:09}\nYessir.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Yessir."
   },
   {
    "id": "RES#239:30832",
@@ -558,8 +589,9 @@
    "jp": "{0c:51201003}{1c:16}{0b:08}{e080} パスカ {e081}{0b:09}\nで、考えてたんだけど・・・{1a}{0c:2b502351092b511000}やっぱさ、\nああいうことは何も言わなくても\n分かってくれるだろって思っていても\nやっぱ口に出して言うべきなんだよな。{1a}{10}、オレ・・・{0c:fe}",
    "read": "{0c:51201003}{1c:16}{0b:08}【 パスカ 】{0b:09}\nで、考えてたんだけど・・・{1a}{0c:2b502351092b511000}やっぱさ、\nああいうことは何も言わなくても\n分かってくれるだろって思っていても\nやっぱ口に出して言うべきなんだよな。{1a}{10}、オレ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51201003}{1c:16}{0b:08}【 Pasca 】{0b:09}\nSo, I been thinking...{1a}{0c:2b502351092b511000}Thing is, even when you figure somebody\ngets a thing like that without a word,\nyou still gotta say it out loud, right.{1a}{10}, I...{0c:fe}",
+   "status": "done",
+   "tl": "So, I been thinking... // [1]Thing is, even when you figure somebody gets a thing like that without a word, you still gotta say it out loud, right. // [HERO], I..."
   },
   {
    "id": "RES#239:308d5",
@@ -580,8 +612,9 @@
    "jp": "{0b:08}{e080} 子分 {e081}{0b:09}\nパスカの親分!{0c:2b5109fe}",
    "read": "{0b:08}【 子分 】{0b:09}\nパスカの親分!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Henchman 】{0b:09}\nBoss Pasca!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Boss Pasca!"
   },
   {
    "id": "RES#239:30911",
@@ -591,8 +624,9 @@
    "jp": "{0c:5128}{0c:2b502351092b531000}{1c:11}{0b:08}{e080} パスカ {e081}{0b:09}\nだからぁ、\nその親分ってのやめてくれよ!{0c:2b5309fe}",
    "read": "{0c:5128}{0c:2b502351092b531000}{1c:11}{0b:08}【 パスカ 】{0b:09}\nだからぁ、\nその親分ってのやめてくれよ!{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5128}{0c:2b502351092b531000}{1c:11}{0b:08}【 Pasca 】{0b:09}\nLike I said, quit calling me Boss!{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Like I said, quit calling me Boss!"
   },
   {
    "id": "RES#239:30950",
@@ -602,8 +636,9 @@
    "jp": "{0c:51a0}{0b:08}{e080} 子分 {e081}{0b:09}\nいや、すまねえ。{1a}で、クレンの森の見張りの\nエッジなんスけど・・・{0c:2b5109fe}",
    "read": "{0c:51a0}{0b:08}【 子分 】{0b:09}\nいや、すまねえ。{1a}で、クレンの森の見張りの\nエッジなんスけど・・・{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51a0}{0b:08}【 Henchman 】{0b:09}\nOh, sorry about that.{1a}So, about Edge, the lookout in Kren\nforest...{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Oh, sorry about that. // So, about Edge, the lookout in Kren forest..."
   },
   {
    "id": "RES#239:30994",
@@ -613,8 +648,9 @@
    "jp": "{0c:5130}{1c:17}{0b:08}{e080} パスカ {e081}{0b:09}\nああ、{e0a2}わりの人間を\n用意すりゃいいんだろ?\n手配しておくから。{0c:2b5309fe}",
    "read": "{0c:5130}{1c:17}{0b:08}【 パスカ 】{0b:09}\nああ、代わりの人間を\n用意すりゃいいんだろ?\n手配しておくから。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5130}{1c:17}{0b:08}【 Pasca 】{0b:09}\nYeah, you just need somebody to fill in,\nright? I'll get it done.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Yeah, you just need somebody to fill in, right? I'll get it done."
   },
   {
    "id": "RES#239:309da",
@@ -624,8 +660,9 @@
    "jp": "{0c:5198}{0b:08}{e080} 子分 {e081}{0b:09}\nへい。{0c:2b5109fe}",
    "read": "{0c:5198}{0b:08}【 子分 】{0b:09}\nへい。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5198}{0b:08}【 Henchman 】{0b:09}\nYessir.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Yessir."
   },
   {
    "id": "RES#239:309f7",
@@ -646,8 +683,9 @@
    "jp": "{0c:512010031003}{1c:16}{0b:08}{e080} パスカ {e081}{0b:09}\n{10}、ごめんな。{0c:fe}",
    "read": "{0c:512010031003}{1c:16}{0b:08}【 パスカ 】{0b:09}\n{10}、ごめんな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:512010031003}{1c:16}{0b:08}【 Pasca 】{0b:09}\n{10}, I'm sorry.{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], I'm sorry."
   },
   {
    "id": "RES#239:30a34",
@@ -668,8 +706,9 @@
    "jp": "{0c:5120}{1c:16}何がって・・・\nいや、なんつーか、\nすべてにおいてさ。{0c:fe}",
    "read": "{0c:5120}{1c:16}何がって・・・\nいや、なんつーか、\nすべてにおいてさ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5120}{1c:16}For what...? Well, I dunno, for everything,\nI guess.{0c:fe}",
+   "status": "done",
+   "tl": "For what...? Well, I dunno, for everything, I guess."
   },
   {
    "id": "RES#239:30a7a",
@@ -690,8 +729,9 @@
    "jp": "{1c:16}結{e0a3}、こんな何もない所に\nお前を押し{e0a4}めたのかもしれないし、\n気がつけばお前までお{e0a5}ね者だし・・・{0c:fe}",
    "read": "{1c:16}結局、こんな何もない所に\nお前を押し込めたのかもしれないし、\n気がつけばお前までお尋ね者だし・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}Maybe all I did was stuff you in here with\nnothing around, and next thing you know\nyou're a wanted outlaw too...{0c:fe}",
+   "status": "done",
+   "tl": "Maybe all I did was stuff you in here with nothing around, and next thing you know you're a wanted outlaw too..."
   },
   {
    "id": "RES#239:30acc",
@@ -712,8 +752,9 @@
    "jp": "{0c:5138}{1c:15}ありがと・・・{1a}って、言いたいことは\nこれじゃねえんだよな・・・{0c:fe}",
    "read": "{0c:5138}{1c:15}ありがと・・・{1a}って、言いたいことは\nこれじゃねえんだよな・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5138}{1c:15}Thanks...{1a}Damn, that ain't what I meant to say...{0c:fe}",
+   "status": "done",
+   "tl": "Thanks... // Damn, that ain't what I meant to say..."
   },
   {
    "id": "RES#239:30b07",
@@ -734,8 +775,9 @@
    "jp": "{1c:13}6才のとき親父が死んでから、\nオレは親父の友達夫婦に\n育てられたんだんだけど、{1a}そこの夫婦、\nすげえ仲のいい夫婦でさ。{1a}口で言うと性格悪い趣味だけど、\nオレ、そこの父ちゃんと\n{e0a9}ちゃんが喧嘩するのを\n見るのが好きだったんだ。{1a}{0c:5148}大きな声で怒鳴りあって、\nそこら辺のものを{e0ac}げ合って、\nでも、1時間後には\nもうすっかり仲良くなってる。{1a}喧嘩の最中だって、\n物{e0ac}げてても相手をケガさせない\nように配慮してるし、{1a}大声で怒鳴り合ってても、\n子供のオレに聞かせたらいけない\n言{e0ad}なんかに気を使ってるのが\n分かってさ・・・{1a}オレには、実の{e0ae}親の\nそういう{e0af}憶が何もねえから\n余計うらやましかった。ものすごく。{1a}{0c:5150}本{e0b1}でぶつかり合うけど、\nお互いのことも\nちゃんと気にしてる・・・{1a}そういう関係をいつか誰かと\nつくりたいって思ってた。{0c:fe}",
    "read": "{1c:13}6才のとき親父が死んでから、\nオレは親父の友達夫婦に\n育てられたんだんだけど、{1a}そこの夫婦、\nすげえ仲のいい夫婦でさ。{1a}口で言うと性格悪い趣味だけど、\nオレ、そこの父ちゃんと\n母ちゃんが喧嘩するのを\n見るのが好きだったんだ。{1a}{0c:5148}大きな声で怒鳴りあって、\nそこら辺のものを投げ合って、\nでも、1時間後には\nもうすっかり仲良くなってる。{1a}喧嘩の最中だって、\n物投げてても相手をケガさせない\nように配慮してるし、{1a}大声で怒鳴り合ってても、\n子供のオレに聞かせたらいけない\n言葉なんかに気を使ってるのが\n分かってさ・・・{1a}オレには、実の両親の\nそういう記憶が何もねえから\n余計うらやましかった。ものすごく。{1a}{0c:5150}本音でぶつかり合うけど、\nお互いのことも\nちゃんと気にしてる・・・{1a}そういう関係をいつか誰かと\nつくりたいって思ってた。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}After my old man died when I was six, I\ngot raised by a couple, friends of his,{1a}and those two got along real good.{1a}Sounds mean to say it, but I liked\nwatching the dad and mom there fight.{1a}{0c:5148}They'd holler at each other, throw\nwhatever was handy, but an hour later\nthey'd be thick as thieves again.{1a}Even in the middle of a fight, they took\ncare not to hurt each other with what\nthey threw,{1a}and even yelling their heads off, you\ncould tell they were careful about words\na kid like me shouldn't hear...{1a}I ain't got any memories like that of my\nreal parents, so I envied 'em all the more.\nSomething fierce.{1a}{0c:5150}They'd go at it straight from the heart,\nbut they still looked out for each other...{1a}I always figured someday I'd have\nsomething like that with somebody.{0c:fe}",
+   "status": "done",
+   "tl": "After my old man died when I was six, I got raised by a couple, friends of his, // and those two got along real good. // Sounds mean to say it, but I liked watching the dad and mom there fight. // [1]They'd holler at each other, throw whatever was handy, but an hour later they'd be thick as thieves again. // Even in the middle of a fight, they took care not to hurt each other with what they threw, // and even yelling their heads off, you could tell they were careful about words a kid like me shouldn't hear... // I ain't got any memories like that of my real parents, so I envied 'em all the more. Something fierce. // [2]They'd go at it straight from the heart, but they still looked out for each other... // I always figured someday I'd have something like that with somebody."
   },
   {
    "id": "RES#239:30ce4",
@@ -756,8 +798,9 @@
    "jp": "{1c:13}こんな{e0b2}庭的で地味な夢に\n憧れるなんて、男としては\n{e0b6}力ねえのかもしれねえけど、{1a}{0c:5160}{10}・・・\nオレはお前とそんな{e0b2}を\nつくりたいって思ってる・・・{1a}だから・・・オレと・・・{0c:fe}",
    "read": "{1c:13}こんな家庭的で地味な夢に\n憧れるなんて、男としては\n魅力ねえのかもしれねえけど、{1a}{0c:5160}{10}・・・\nオレはお前とそんな家を\nつくりたいって思ってる・・・{1a}だから・・・オレと・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}A homey, plain dream like this... ain't much\nof a man who longs for that, maybe, but{1a}{0c:5160}{10}... I wanna build a home like\nthat with you...{1a}So... with me...{0c:fe}",
+   "status": "done",
+   "tl": "A homey, plain dream like this... ain't much of a man who longs for that, maybe, but // [1][HERO]... I wanna build a home like that with you... // So... with me..."
   },
   {
    "id": "RES#239:30d60",
@@ -778,8 +821,9 @@
    "jp": "{0b:08}{e080} 子分 {e081}{0b:09}\nパスカ親分!{0c:2b5109fe}",
    "read": "{0b:08}【 子分 】{0b:09}\nパスカ親分!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Henchman 】{0b:09}\nBoss Pasca!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Boss Pasca!"
   },
   {
    "id": "RES#239:30dac",
@@ -789,8 +833,9 @@
    "jp": "{0c:5168}{1c:11}{0b:08}{e080} パスカ {e081}{0b:09}\nな、なんだよ、\n大事なシーンだったのによ!{0c:2b5309fe}",
    "read": "{0c:5168}{1c:11}{0b:08}【 パスカ 】{0b:09}\nな、なんだよ、\n大事なシーンだったのによ!{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5168}{1c:11}{0b:08}【 Pasca 】{0b:09}\nWh-what is it!? That was the big\nmoment, dammit!{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Wh-what is it!? That was the big moment, dammit!"
   },
   {
    "id": "RES#239:30de3",
@@ -800,8 +845,9 @@
    "jp": "{0c:5188}{0b:08}{e080} 子分 {e081}{0b:09}\n{03}アウステイン{e09c}爵{02}が\nこっちに来てるらしいっす{01}!{1a}兵{02}は{01}800以上{02}、\n{e09f}日の昼には森の入り口に\n到着するらしいっす{01}!{0c:2b5109fe}",
    "read": "{0c:5188}{0b:08}【 子分 】{0b:09}\n{03}アウステイン公爵{02}が\nこっちに来てるらしいっす{01}!{1a}兵{02}は{01}800以上{02}、\n明日の昼には森の入り口に\n到着するらしいっす{01}!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5188}{0b:08}【 Henchman 】{0b:09}\nDuke Austein's headed this way, they\nsay!{1a}Eight hundred men or more, and they'll\nreach the forest entrance by noon\ntomorrow!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Duke Austein's headed this way, they say! // Eight hundred men or more, and they'll reach the forest entrance by noon tomorrow!"
   },
   {
    "id": "RES#239:30e4a",
@@ -822,8 +868,9 @@
    "jp": "{1c:14}{0b:08}{e080} パスカ {e081}{0b:09}\nちっ、しょうがねえな・・・{1a}{0c:5170}{10}、行くぜ!{0c:fe}",
    "read": "{1c:14}{0b:08}【 パスカ 】{0b:09}\nちっ、しょうがねえな・・・{1a}{0c:5170}{10}、行くぜ!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Pasca 】{0b:09}\nTch, no help for it...{1a}{0c:5170}{10}, let's go!{0c:fe}",
+   "status": "done",
+   "tl": "Tch, no help for it... // [1][HERO], let's go!"
   },
   {
    "id": "RES#239:30e89",

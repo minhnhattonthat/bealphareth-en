@@ -41,8 +41,9 @@
    "jp": "{1c:11}{0b:08}{e080} アーサー=ルイトガルド {e081}{0b:09}\n{e082}前に{e083}がる灯{e085}、\nこの全てが敵なのか・・・{0c:fe}",
    "read": "{1c:11}{0b:08}【 アーサー=ルイトガルド 】{0b:09}\n眼前に広がる灯火、\nこの全てが敵なのか・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Arthur Luitgard 】{0b:09}\nAll these fires spread out before me... Is\nevery one of them the enemy...{0c:fe}",
+   "status": "done",
+   "tl": "All these fires spread out before me... Is every one of them the enemy..."
   },
   {
    "id": "RES#236:3001b",
@@ -63,8 +64,9 @@
    "jp": "{1c:12}{01}4百対2万{02}・・・{1a}今までは{e088}撃{e089}を{e08a}んで\n{03}ゲリラ戦{02}で対{e08b}していたから\n兵力の差をごまかすことも出来たけど、\n今回はそれも{e08d}用しない・・・{1a}彼らはどうしてもこの平原で\n{e08f}力戦をやりたいようだ。{0c:020201}{0c:040af4fe}",
    "read": "{1c:12}{01}4百対2万{02}・・・{1a}今までは遊撃隊を組んで\n{03}ゲリラ戦{02}で対抗していたから\n兵力の差をごまかすことも出来たけど、\n今回はそれも通用しない・・・{1a}彼らはどうしてもこの平原で\n総力戦をやりたいようだ。{0c:020201}{0c:040af4fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Four hundred against twenty thousand...{1a}Until now we've fought in raiding squads,\nwith guerrilla tactics, so we could hide\nthe gap in numbers, but that won't work\nthis time...{1a}It seems they're set on an all-out battle\non this plain.{0c:020201}{0c:040af4fe}",
+   "status": "done",
+   "tl": "Four hundred against twenty thousand... // Until now we've fought in raiding squads, with guerrilla tactics, so we could hide the gap in numbers, but that won't work this time... // It seems they're set on an all-out battle on this plain."
   },
   {
    "id": "RES#236:300b7",
@@ -74,8 +76,9 @@
    "jp": "{0c:51182b501000}{1c:12}すまない、{10}。\n君をこんな無謀な戦いに\n巻き{e091}んでしまって・・・{1a}{0c:2b502351012b511000}でも、君は{e092}{e093}の人間だ。\nここを去ってもいいんだぞ。{0c:020201}",
    "read": "{0c:51182b501000}{1c:12}すまない、{10}。\n君をこんな無謀な戦いに\n巻き込んでしまって・・・{1a}{0c:2b502351012b511000}でも、君は異国の人間だ。\nここを去ってもいいんだぞ。{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51182b501000}{1c:12}I'm sorry, {10}. I've dragged you\ninto such a reckless battle...{1a}{0c:2b502351012b511000}But you're a foreigner. You're free to\nleave.{0c:020201}",
+   "status": "done",
+   "tl": "I'm sorry, [HERO]. I've dragged you into such a reckless battle... // [1]But you're a foreigner. You're free to leave."
   },
   {
    "id": "RES#236:30119",
@@ -85,8 +88,9 @@
    "jp": "{0c:51182b501000}{1c:12}すまない、{10}。\n君をこんな無謀な戦いに\n巻き{e091}んでしまって・・・{1a}{0c:2b502351012b511000}でも、君の幼なじみが\n敵側にいる{e096}{e097}性もあるんだ。\nここを去ってもいいんだぞ。{0c:fe}",
    "read": "{0c:51182b501000}{1c:12}すまない、{10}。\n君をこんな無謀な戦いに\n巻き込んでしまって・・・{1a}{0c:2b502351012b511000}でも、君の幼なじみが\n敵側にいる可能性もあるんだ。\nここを去ってもいいんだぞ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51182b501000}{1c:12}I'm sorry, {10}. I've dragged you\ninto such a reckless battle...{1a}{0c:2b502351012b511000}But your childhood friend may well be on\nthe enemy's side. You're free to leave.{0c:fe}",
+   "status": "done",
+   "tl": "I'm sorry, [HERO]. I've dragged you into such a reckless battle... // [1]But your childhood friend may well be on the enemy's side. You're free to leave."
   },
   {
    "id": "RES#236:30188",
@@ -118,8 +122,9 @@
    "jp": "{0c:5120}{1c:10}ああ・・・\n君の性格ならそう答えると思ったよ。\n君には本当に感謝してる。{0c:020301}",
    "read": "{0c:5120}{1c:10}ああ・・・\n君の性格ならそう答えると思ったよ。\n君には本当に感謝してる。{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5120}{1c:10}Yes... Knowing you, I thought that's how\nyou would answer. I truly am grateful to\nyou.{0c:020301}",
+   "status": "done",
+   "tl": "Yes... Knowing you, I thought that's how you would answer. I truly am grateful to you."
   },
   {
    "id": "RES#236:301d9",
@@ -140,8 +145,9 @@
    "jp": "{0c:5120}{1c:10}ああ・・・\n君の勝ち気な性格なら\nそう答えると思ったよ。{1a}ありがとう、{10}・・・\nいつも僕を支えてくれて。\n君には本当に感謝してる。{0c:fe}",
    "read": "{0c:5120}{1c:10}ああ・・・\n君の勝ち気な性格なら\nそう答えると思ったよ。{1a}ありがとう、{10}・・・\nいつも僕を支えてくれて。\n君には本当に感謝してる。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5120}{1c:10}Yes... With that fighting spirit of yours, I\nthought that's how you would answer.{1a}Thank you, {10}... for always\nstanding by me. I truly am grateful to\nyou.{0c:fe}",
+   "status": "done",
+   "tl": "Yes... With that fighting spirit of yours, I thought that's how you would answer. // Thank you, [HERO]... for always standing by me. I truly am grateful to you."
   },
   {
    "id": "RES#236:3023e",
@@ -162,8 +168,9 @@
    "jp": "{1c:13}だが、どうすればよいのか・・・\n今回ばかりはいくら考えても\nいい策が思い浮かばないよ。{1a}僕達のゲリラ{e09b}戦を嫌い\n平原に陣地を構えた彼らが\nこの平原を動くことはないだろう。{1a}しかも、この平原を押さえるだけで、\nルイトガルド{e09d}{e09e}の{e09f}と{e0a0}糧は\n尽きてしまうのだから。{1a}{e0a3}の森は切り{e0a5}かれ\n後ろからの奇襲{e09b}戦も出来ない・・・{1a}くそっ、これでは戦力の差が\n強調されるばかりだ。{0c:fe}",
    "read": "{1c:13}だが、どうすればよいのか・・・\n今回ばかりはいくら考えても\nいい策が思い浮かばないよ。{1a}僕達のゲリラ作戦を嫌い\n平原に陣地を構えた彼らが\nこの平原を動くことはないだろう。{1a}しかも、この平原を押さえるだけで、\nルイトガルド領内の水と食糧は\n尽きてしまうのだから。{1a}南の森は切り開かれ\n後ろからの奇襲作戦も出来ない・・・{1a}くそっ、これでは戦力の差が\n強調されるばかりだ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}But what are we to do... Think as I might,\nthis time no good plan comes to me.{1a}They hate our guerrilla tactics and have\nmade camp on the plain, and they won't\nbudge from it.{1a}What's more, holding this plain is enough\nby itself to run Luitgard's lands out of\nwater and food.{1a}The southern forest has been cleared,\nso we can't surprise them from behind\neither...{1a}Damn it, this only makes the gap in\nstrength stand out.{0c:fe}",
+   "status": "done",
+   "tl": "But what are we to do... Think as I might, this time no good plan comes to me. // They hate our guerrilla tactics and have made camp on the plain, and they won't budge from it. // What's more, holding this plain is enough by itself to run Luitgard's lands out of water and food. // The southern forest has been cleared, so we can't surprise them from behind either... // Damn it, this only makes the gap in strength stand out."
   },
   {
    "id": "RES#236:30343",
@@ -184,8 +191,9 @@
    "jp": "{1c:15}しかも今回彼らは\n強力な魔{e0a7}具を扱う\n傭兵団を雇ったという。{1a}その中には\nカルス・バスティード出身の\n戦士も{e0ac}人いると聞いた・・・{1a}だとすれば、\n僕達の得手不得手を知っている\n人間がいても不思{e0ad}じゃない。{1a}今までと同じようには\nいかせてくれないだろう。{1a}相手が13の{e093}の寄せ集めで\n{e0ae}携の悪い{e0b0}が唯一の救いだけど、{1a}僕の父に対する彼らの恨みが\n彼らの戦意を{e0b2}揚させることも\n否定出来ない・・・{1a}それに、僕の{e0b5}下の中にも\n父への恨みは残っているだろう。\n悪い要素ばかりだ。\n打つ手もなさすぎる・・・{0c:fe}",
    "read": "{1c:15}しかも今回彼らは\n強力な魔法具を扱う\n傭兵団を雇ったという。{1a}その中には\nカルス・バスティード出身の\n戦士も数人いると聞いた・・・{1a}だとすれば、\n僕達の得手不得手を知っている\n人間がいても不思議じゃない。{1a}今までと同じようには\nいかせてくれないだろう。{1a}相手が13の国の寄せ集めで\n連携の悪い点が唯一の救いだけど、{1a}僕の父に対する彼らの恨みが\n彼らの戦意を高揚させることも\n否定出来ない・・・{1a}それに、僕の部下の中にも\n父への恨みは残っているだろう。\n悪い要素ばかりだ。\n打つ手もなさすぎる・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}What's more, I hear they've hired a\nmercenary band that wields powerful\nMagic Tools.{1a}Among them, they say, are several\nfighters from Kars Bastide...{1a}In that case, it wouldn't be strange if\nsomeone there knows our strengths and\nweaknesses.{1a}They won't let things go the way they\nhave so far.{1a}Our one saving grace is that they're a\npatchwork of thirteen nations, poorly\ncoordinated,{1a}but I can't deny that their grudge\nagainst my father fires their will to\nfight...{1a}And my own men must still resent my\nfather too. Nothing but bad signs. And\nso few moves left to us...{0c:fe}",
+   "status": "done",
+   "tl": "What's more, I hear they've hired a mercenary band that wields powerful Magic Tools. // Among them, they say, are several fighters from Kars Bastide... // In that case, it wouldn't be strange if someone there knows our strengths and weaknesses. // They won't let things go the way they have so far. // Our one saving grace is that they're a patchwork of thirteen nations, poorly coordinated, // but I can't deny that their grudge against my father fires their will to fight... // And my own men must still resent my father too. Nothing but bad signs. And so few moves left to us..."
   },
   {
    "id": "RES#236:304a2",
@@ -206,8 +214,9 @@
    "jp": "{1c:10}でも・{07:05}・{07:05}・{07:14}{0c:fe}",
    "read": "{1c:10}でも・{07:05}・{07:05}・{07:14}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}But.{07:05}.{07:05}.{07:14}{0c:fe}",
+   "status": "done",
+   "tl": "But.[1].[2]."
   },
   {
    "id": "RES#236:304bd",
@@ -217,8 +226,9 @@
    "jp": "{0c:51182b501000}{1c:10}何故か負ける気がしないよ。{07:2d}{1a}{0c:51181007}{01}5{e0b6}前{02}、君と一緒に\n神と戦ったあの頃と比べると、\nこの程度のことなんて\n困難ですらないように思えてくる。{07:07}{0c:fe}",
    "read": "{0c:51182b501000}{1c:10}何故か負ける気がしないよ。{07:2d}{1a}{0c:51181007}{01}5年前{02}、君と一緒に\n神と戦ったあの頃と比べると、\nこの程度のことなんて\n困難ですらないように思えてくる。{07:07}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51182b501000}{1c:10}Somehow, I don't feel we can lose.{07:2d}{1a}{0c:51181007}Compared with those days five years\nago, when you and I fought God\ntogether, this hardly seems a hardship\nat all.{07:07}{0c:fe}",
+   "status": "done",
+   "tl": "Somehow, I don't feel we can lose.[1] // [2]Compared with those days five years ago, when you and I fought God together, this hardly seems a hardship at all."
   },
   {
    "id": "RES#236:3052b",
@@ -228,8 +238,9 @@
    "jp": "{0c:51182b501000}{1c:10}ふっ・・・\n楽観的すぎるかな。{0c:fe}",
    "read": "{0c:51182b501000}{1c:10}ふっ・・・\n楽観的すぎるかな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51182b501000}{1c:10}Heh... Am I being too optimistic?{0c:fe}",
+   "status": "done",
+   "tl": "Heh... Am I being too optimistic?"
   },
   {
    "id": "RES#236:3054b",
@@ -261,8 +272,9 @@
    "jp": "{0b:08}{e080} 伝令 {e081}{0b:09}\nアーサー様!{1a}{0c:2b512351281003}{0c:2b502351012b531000}モルドレッドの別働{e089}3千が\nティンタエルの森を\n{e08d}過しているそうです!{0c:2b5109fe}",
    "read": "{0b:08}【 伝令 】{0b:09}\nアーサー様!{1a}{0c:2b512351281003}{0c:2b502351012b531000}モルドレッドの別働隊3千が\nティンタエルの森を\n通過しているそうです!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Courier 】{0b:09}\nArthur-sama!{1a}{0c:2b512351281003}{0c:2b502351012b531000}Mordred's detachment of three\nthousand is passing through the forest\nof Tintagel!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Arthur-sama! // [1]Mordred's detachment of three thousand is passing through the forest of Tintagel!"
   },
   {
    "id": "RES#236:3064e",
@@ -272,8 +284,9 @@
    "jp": "{1c:15}{0b:08}{e080} アーサー=ルイトガルド {e081}{0b:09}\nモルドレッドの別働{e089}?\nそうか、{e0b9}給{e0b5}{e089}か・・・{1a}で、今どの辺りに?{0c:2b5309fe}",
    "read": "{1c:15}{0b:08}【 アーサー=ルイトガルド 】{0b:09}\nモルドレッドの別働隊?\nそうか、補給部隊か・・・{1a}で、今どの辺りに?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Arthur Luitgard 】{0b:09}\nMordred's detachment? I see, the supply\ncorps...{1a}And where are they now?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Mordred's detachment? I see, the supply corps... // And where are they now?"
   },
   {
    "id": "RES#236:3069f",
@@ -283,8 +296,9 @@
    "jp": "{0b:08}{e080} 伝令 {e081}{0b:09}\n{e0bc}の橋を渡ったところです!{0c:2b5109fe}",
    "read": "{0b:08}【 伝令 】{0b:09}\n西の橋を渡ったところです!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Courier 】{0b:09}\nJust across the western bridge!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Just across the western bridge!"
   },
   {
    "id": "RES#236:306c6",
@@ -294,8 +308,9 @@
    "jp": "{0c:5130}{1c:10}{0b:08}{e080} アーサー=ルイトガルド {e081}{0b:09}\nありがとう。\n下がって休んでくれ。{0c:fe}",
    "read": "{0c:5130}{1c:10}{0b:08}【 アーサー=ルイトガルド 】{0b:09}\nありがとう。\n下がって休んでくれ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5130}{1c:10}{0b:08}【 Arthur Luitgard 】{0b:09}\nThank you. Go and get some rest.{0c:fe}",
+   "status": "done",
+   "tl": "Thank you. Go and get some rest."
   },
   {
    "id": "RES#236:306fd",
@@ -327,8 +342,9 @@
    "jp": "{1c:14}{10}、{e0bf}が見えたな!{1a}2万の大軍なら1日の{e0a0}糧だけで\n荷馬車50台分にもなる。\nあの大軍の{e0b9}給{e0c4}を叩けば\n{e0c5}乱は必定だ!{1a}彼らは援軍を{e0c6}遣してくるだろうが\n森の中なら勝機はある!{0c:fe}",
    "read": "{1c:14}{10}、光が見えたな!{1a}2万の大軍なら1日の食糧だけで\n荷馬車50台分にもなる。\nあの大軍の補給路を叩けば\n混乱は必定だ!{1a}彼らは援軍を派遣してくるだろうが\n森の中なら勝機はある!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{10}, there's a glimmer of hope!{1a}An army of twenty thousand needs\nfifty wagonloads of food for a single\nday. Strike that great army's supply line,\nand chaos is certain!{1a}They'll send reinforcements, but in the\nforest we have a chance to win!{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], there's a glimmer of hope! // An army of twenty thousand needs fifty wagonloads of food for a single day. Strike that great army's supply line, and chaos is certain! // They'll send reinforcements, but in the forest we have a chance to win!"
   },
   {
    "id": "RES#236:307bd",
@@ -349,8 +365,9 @@
    "jp": "{0b:08}{e080} 伝令 {e081}{0b:09}\nアーサー様、\n{0c:2b512351281003}{0c:2b502351012b531000}まもなく傭兵40{e0c8}が\nこちらに合流するそうです!{0c:2b5109fe}",
    "read": "{0b:08}【 伝令 】{0b:09}\nアーサー様、\n{0c:2b512351281003}{0c:2b502351012b531000}まもなく傭兵40騎が\nこちらに合流するそうです!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Courier 】{0b:09}\nArthur-sama, {0c:2b512351281003}{0c:2b502351012b531000}forty mercenary horsemen\nare to join us shortly!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Arthur-sama, [1]forty mercenary horsemen are to join us shortly!"
   },
   {
    "id": "RES#236:30829",
@@ -360,8 +377,9 @@
    "jp": "{1c:15}{0b:08}{e080} アーサー=ルイトガルド {e081}{0b:09}\n傭兵?\n契約した覚えはないが・・・{1a}一体誰なんだ・・・?{0c:2b5309fe}",
    "read": "{1c:15}{0b:08}【 アーサー=ルイトガルド 】{0b:09}\n傭兵?\n契約した覚えはないが・・・{1a}一体誰なんだ・・・?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Arthur Luitgard 】{0b:09}\nMercenaries? I don't recall any contract...{1a}Who in the world could they be...?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Mercenaries? I don't recall any contract... // Who in the world could they be...?"
   },
   {
    "id": "RES#236:30872",
@@ -371,8 +389,9 @@
    "jp": "{0b:08}{e080} 伝令 {e081}{0b:09}\n傭兵{e089}{e0ca}はアスロイト人、\nシャルン様という方でございます。{0c:2b5109fe}",
    "read": "{0b:08}【 伝令 】{0b:09}\n傭兵隊長はアスロイト人、\nシャルン様という方でございます。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Courier 】{0b:09}\nThe mercenary captain is an Asroitian,\none Scharn-sama, sir.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "The mercenary captain is an Asroitian, one Scharn-sama, sir."
   },
   {
    "id": "RES#236:308ae",
@@ -382,8 +401,9 @@
    "jp": "{1c:16}{0b:08}{e080} アーサー=ルイトガルド {e081}{0b:09}\nえっ、シャルンが!?{0c:2b5109fe}",
    "read": "{1c:16}{0b:08}【 アーサー=ルイトガルド 】{0b:09}\nえっ、シャルンが!?{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}{0b:08}【 Arthur Luitgard 】{0b:09}\nWhat, Scharn!?{0c:2b5109fe}",
+   "status": "done",
+   "tl": "What, Scharn!?"
   },
   {
    "id": "RES#236:308de",
@@ -393,8 +413,9 @@
    "jp": "{0c:51402b501000}{0c:2b502351012b511000}{1c:14}4{e0b6}ぶりか・・・{e0cb}かしいな。\n君を{e0cc}いかけてきたのかな。\n君は彼女に好意を持たれていたから。{0c:fe}",
    "read": "{0c:51402b501000}{0c:2b502351012b511000}{1c:14}4年ぶりか・・・懐かしいな。\n君を追いかけてきたのかな。\n君は彼女に好意を持たれていたから。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51402b501000}{0c:2b502351012b511000}{1c:14}Four years, is it... That takes me back.\nPerhaps she came chasing after you. She\ndid have a soft spot for you.{0c:fe}",
+   "status": "done",
+   "tl": "Four years, is it... That takes me back. Perhaps she came chasing after you. She did have a soft spot for you."
   },
   {
    "id": "RES#236:30931",
@@ -415,8 +436,9 @@
    "jp": "{1c:14}いくら僕が{e0cd}感でも\nそれくらい気付いてたよ。{1a}ところで知ってるかい?\n彼女はアスロイト{e0ce}{e0b5}の戦場で\n『{e0ce}方の戦姫』と{e0cf}ばれて\n敵に怖れられているそうだよ。{1a}でも、これでますます\n勝てるような気がしてきたよ。{1a}{10}、行こう!{0c:fe}",
    "read": "{1c:14}いくら僕が鈍感でも\nそれくらい気付いてたよ。{1a}ところで知ってるかい?\n彼女はアスロイト北部の戦場で\n『北方の戦姫』と呼ばれて\n敵に怖れられているそうだよ。{1a}でも、これでますます\n勝てるような気がしてきたよ。{1a}{10}、行こう!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}Dense as I am, even I noticed that much.{1a}By the way, did you know? On the\nbattlefields of northern Asroit they call\nher the 'War Princess of the North', and\nher enemies fear her.{1a}But with this, I feel more and more that\nwe can win.{1a}Let's go, {10}!{0c:fe}",
+   "status": "done",
+   "tl": "Dense as I am, even I noticed that much. // By the way, did you know? On the battlefields of northern Asroit they call her the 'War Princess of the North', and her enemies fear her. // But with this, I feel more and more that we can win. // Let's go, [HERO]!"
   },
   {
    "id": "RES#236:309ce",
@@ -448,8 +470,9 @@
    "jp": "{1c:14}{10}、{e0bf}が見えたな{01}!{1a}2万{02}の大軍なら{01}1日{02}の{e0a0}糧だけで\n荷馬車{01}50台分{02}にもなる。\nあの大軍の{e0b9}給を叩けば\n{e0c5}乱は必至だ{01}!{1a}彼{02}らは援軍を{e0c6}遣してくるだろうけど\n森の中なら勝機はある{01}!\n{10}{02}、行くぞ{01}!{0c:fe}",
    "read": "{1c:14}{10}、光が見えたな{01}!{1a}2万{02}の大軍なら{01}1日{02}の食糧だけで\n荷馬車{01}50台分{02}にもなる。\nあの大軍の補給を叩けば\n混乱は必至だ{01}!{1a}彼{02}らは援軍を派遣してくるだろうけど\n森の中なら勝機はある{01}!\n{10}{02}、行くぞ{01}!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{10}, there's a glimmer of hope!{1a}An army of twenty thousand needs\nfifty wagonloads of food for a single\nday. Strike that great army's supplies,\nand chaos is certain!{1a}They'll send reinforcements, but in the\nforest we have a chance to win!\n{10}, let's go!{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], there's a glimmer of hope! // An army of twenty thousand needs fifty wagonloads of food for a single day. Strike that great army's supplies, and chaos is certain! // They'll send reinforcements, but in the forest we have a chance to win! [HERO], let's go!"
   },
   {
    "id": "RES#236:30a86",

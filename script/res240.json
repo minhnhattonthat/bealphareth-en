@@ -41,8 +41,9 @@
    "jp": "{1c:10}{0b:08}{e080} シャルン {e081}{0b:09}\nこの峠を越えるとジースドルフ。{07:14}{1a}{0c:2b502351002b511000}うん、あたしの故{e084}ガスニッツも\nもうすぐだよ。{07:07}{1a}でも、行っても\n何も残ってないみたいだけどね。{0c:fe}",
    "read": "{1c:10}{0b:08}【 シャルン 】{0b:09}\nこの峠を越えるとジースドルフ。{07:14}{1a}{0c:2b502351002b511000}うん、あたしの故郷ガスニッツも\nもうすぐだよ。{07:07}{1a}でも、行っても\n何も残ってないみたいだけどね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Scharn 】{0b:09}\nPast this pass is Siesdorf.{07:14}{1a}{0c:2b502351002b511000}Yeah, my hometown Gasnitz is really\nclose now!{07:07}{1a}But when we get there, it looks like\nthere's nothing left.{0c:fe}",
+   "status": "done",
+   "tl": "Past this pass is Siesdorf.[1] // [2]Yeah, my hometown Gasnitz is really close now![3] // But when we get there, it looks like there's nothing left."
   },
   {
    "id": "RES#240:2fdbf",
@@ -63,8 +64,9 @@
    "jp": "{1c:13}4{e085}ぶりの故{e084}、か・・・{1a}{0c:2b502351001008}千{e085}もの間\nアスロイトの{e087}だったあの町も\n今ではもう廃墟になってて{1a}父さんの道場も\nあたしの思い出の町並みも\n何も残ってないらしいんだ。{1a}父さんは無事だったから\nひとまずは安心なんだけど。{0c:fe}",
    "read": "{1c:13}4年ぶりの故郷、か・・・{1a}{0c:2b502351001008}千年もの間\nアスロイトの都だったあの町も\n今ではもう廃墟になってて{1a}父さんの道場も\nあたしの思い出の町並みも\n何も残ってないらしいんだ。{1a}父さんは無事だったから\nひとまずは安心なんだけど。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}Home, after four years, huh...{1a}{0c:2b502351001008}That town was the capital of Asroit for\na thousand years, and now it's all ruins,{1a}and Dad's dojo and the streets I\nremember, there's nothing left of them,\nthey say.{1a}But Dad made it out safe, so that's a\nrelief, at least.{0c:fe}",
+   "status": "done",
+   "tl": "Home, after four years, huh... // [1]That town was the capital of Asroit for a thousand years, and now it's all ruins, // and Dad's dojo and the streets I remember, there's nothing left of them, they say. // But Dad made it out safe, so that's a relief, at least."
   },
   {
    "id": "RES#240:2fe64",
@@ -85,8 +87,9 @@
    "jp": "{0c:51002b501000}{1c:11}ねえ、{10}、{1a}{0c:2b502351002b511000}2人の旅も今日で丁度2{e085}目だね。{0c:fe}",
    "read": "{0c:51002b501000}{1c:11}ねえ、{10}、{1a}{0c:2b502351002b511000}2人の旅も今日で丁度2年目だね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51002b501000}{1c:11}Hey, {10},{1a}{0c:2b502351002b511000}today makes exactly two years of us\ntraveling together, huh.{0c:fe}",
+   "status": "done",
+   "tl": "Hey, [HERO], // [1]today makes exactly two years of us traveling together, huh."
   },
   {
    "id": "RES#240:2feae",
@@ -118,8 +121,9 @@
    "jp": "{1c:11}{e08c}行の{e08d}果と自分の{e08e}の{e08f}を\n人のために役立てたいって\nあたしが言い出して、\n{10}もそれに賛{e08d}してくれて、{1a}{03}サラ{02}の{e091}{e092}{e093}に寄付する\nお{e094}を{e095}ぐために\n{01}2人{02}で傭兵の仕事を始めたのが\nちょうど{01}2{e085}前{02}・・・{1a}出発する時に決めた、\n『絶対に強い方には味方しない』\n『絶対に悪い人には味方しない』{1a}『{e095}いだお{e094}は、生活{e099}を引いたら\n全額{03}サラ{02}の{e091}{e092}{e093}に寄付する』\nこの{01}3{02}つの誓いを守ってるおかげで{1a}贅沢は出来なかったけど\n毎日本当に楽しかった。{0c:020301}",
    "read": "{1c:11}修行の成果と自分の槍の腕を\n人のために役立てたいって\nあたしが言い出して、\n{10}もそれに賛成してくれて、{1a}{03}サラ{02}の孤児院に寄付する\nお金を稼ぐために\n{01}2人{02}で傭兵の仕事を始めたのが\nちょうど{01}2年前{02}・・・{1a}出発する時に決めた、\n『絶対に強い方には味方しない』\n『絶対に悪い人には味方しない』{1a}『稼いだお金は、生活費を引いたら\n全額{03}サラ{02}の孤児院に寄付する』\nこの{01}3{02}つの誓いを守ってるおかげで{1a}贅沢は出来なかったけど\n毎日本当に楽しかった。{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}I was the one who said I wanted to use\nwhat I got from training, and my skill\nwith the spear, to help people, and\n{10} agreed with me,{1a}and to earn money to donate to Sara's\norphanage, the two of us started\nworking as mercenaries. That was\nexactly two years ago...{1a}The vows we made when we set out:\n'Never side with the stronger.' 'Never\nside with bad people.'{1a}'After living costs, every bit of what we\nearn goes to Sara's orphanage.' Thanks\nto keeping those three vows,{1a}we could never afford any luxury, but\nevery single day was so much fun.{0c:020301}",
+   "status": "done",
+   "tl": "I was the one who said I wanted to use what I got from training, and my skill with the spear, to help people, and [HERO] agreed with me, // and to earn money to donate to Sara's orphanage, the two of us started working as mercenaries. That was exactly two years ago... // The vows we made when we set out: 'Never side with the stronger.' 'Never side with bad people.' // 'After living costs, every bit of what we earn goes to Sara's orphanage.' Thanks to keeping those three vows, // we could never afford any luxury, but every single day was so much fun."
   },
   {
    "id": "RES#240:2fffb",
@@ -140,8 +144,9 @@
    "jp": "{1c:11}{e08c}行の{e08d}果と自分の{e08e}の{e08f}を\n人のために役立てたいって\nあたしが言い出して、\n{10}もそれに賛{e08d}してくれて、{1a}{03}サラ{02}のお{e09f}さんがやってる{e091}{e092}{e093}に\n寄付するお{e094}を{e095}ぐために\n{01}2人{02}で傭兵の仕事を始めたのが\nちょうど{01}2{e085}前{02}・・・{1a}出発する時に決めた、{1a}『絶対に強い方には味方しない』\n『絶対に悪い人には味方しない』\n『{e095}いだお{e094}は、生活{e099}を引いたら\n全額{03}サラ{02}のお{e09f}さんに寄付する』{1a}この{01}3{02}つの誓いを守ってるおかげで\n贅沢は出来なかったけど\n毎日本当に楽しかった。{0c:fe}",
    "read": "{1c:11}修行の成果と自分の槍の腕を\n人のために役立てたいって\nあたしが言い出して、\n{10}もそれに賛成してくれて、{1a}{03}サラ{02}のお母さんがやってる孤児院に\n寄付するお金を稼ぐために\n{01}2人{02}で傭兵の仕事を始めたのが\nちょうど{01}2年前{02}・・・{1a}出発する時に決めた、{1a}『絶対に強い方には味方しない』\n『絶対に悪い人には味方しない』\n『稼いだお金は、生活費を引いたら\n全額{03}サラ{02}のお母さんに寄付する』{1a}この{01}3{02}つの誓いを守ってるおかげで\n贅沢は出来なかったけど\n毎日本当に楽しかった。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}I was the one who said I wanted to use\nwhat I got from training, and my skill\nwith the spear, to help people, and\n{10} agreed with me,{1a}and to earn money to donate to the\norphanage Sara's mother runs, the two\nof us started working as mercenaries.\nThat was exactly two years ago...{1a}The vows we made when we set out:{1a}'Never side with the stronger.' 'Never\nside with bad people.' 'After living costs,\nevery bit of what we earn goes to\nSara's mother.'{1a}Thanks to keeping those three vows, we\ncould never afford any luxury, but every\nsingle day was so much fun.{0c:fe}",
+   "status": "done",
+   "tl": "I was the one who said I wanted to use what I got from training, and my skill with the spear, to help people, and [HERO] agreed with me, // and to earn money to donate to the orphanage Sara's mother runs, the two of us started working as mercenaries. That was exactly two years ago... // The vows we made when we set out: // 'Never side with the stronger.' 'Never side with bad people.' 'After living costs, every bit of what we earn goes to Sara's mother.' // Thanks to keeping those three vows, we could never afford any luxury, but every single day was so much fun."
   },
   {
    "id": "RES#240:30140",
@@ -151,8 +156,9 @@
    "jp": "{0c:51002b501000}{1c:11}いろんなことがあったよね。{1a}各地を転戦してる間に\nいつの間にかその筋では\nすっかり有{e0a2}人になっちゃって、{1a}{e0a3}場で{e0a4}{e0a5}に{e0a6}い物してただけなのに、{1a}あたしの顔見た屈強そうな男の人が\n急に悲鳴をあげて逃げ出しちゃって、\n{e0a7}りの人からじろじろ見られたり・・・{1a}{0c:5108}1番ショックだったのは\n{10}がそれ見て\n大笑いしたことだけど。{0c:fe}",
    "read": "{0c:51002b501000}{1c:11}いろんなことがあったよね。{1a}各地を転戦してる間に\nいつの間にかその筋では\nすっかり有名人になっちゃって、{1a}市場で普通に買い物してただけなのに、{1a}あたしの顔見た屈強そうな男の人が\n急に悲鳴をあげて逃げ出しちゃって、\n周りの人からじろじろ見られたり・・・{1a}{0c:5108}1番ショックだったのは\n{10}がそれ見て\n大笑いしたことだけど。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51002b501000}{1c:11}So much has happened, hasn't it.{1a}While we fought our way from place to\nplace, before we knew it, we'd gotten\ntotally famous in certain circles,{1a}and even when I was just shopping at\nthe market like normal,{1a}some big burly man would see my face,\nscream out loud and run for it, and\neveryone around would stare at me...{1a}{0c:5108}The biggest shock of all was {10}\nseeing that and laughing out loud,\nthough.{0c:fe}",
+   "status": "done",
+   "tl": "So much has happened, hasn't it. // While we fought our way from place to place, before we knew it, we'd gotten totally famous in certain circles, // and even when I was just shopping at the market like normal, // some big burly man would see my face, scream out loud and run for it, and everyone around would stare at me... // [1]The biggest shock of all was [HERO] seeing that and laughing out loud, though."
   },
   {
    "id": "RES#240:30213",
@@ -173,8 +179,9 @@
    "jp": "{0c:51002b501000}{1c:11}本当にいろんなことがあったね・・・{1a}でも・・・{1a}{0c:5110}あたし達って全然\n変わってないような気がする。{0c:fe}",
    "read": "{0c:51002b501000}{1c:11}本当にいろんなことがあったね・・・{1a}でも・・・{1a}{0c:5110}あたし達って全然\n変わってないような気がする。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51002b501000}{1c:11}So much has really happened...{1a}But...{1a}{0c:5110}I feel like we haven't changed at all.{0c:fe}",
+   "status": "done",
+   "tl": "So much has really happened... // But... // [1]I feel like we haven't changed at all."
   },
   {
    "id": "RES#240:3026a",
@@ -195,8 +202,9 @@
    "jp": "{0c:51002b501000}{1c:11}『変わらない』って\n素敵なことなのかもしれないね。{1a}{0c:51001008}今なら『永遠』って言{e0a9}も\n素直に受け入れられる。{1a}ただし、あたし達の『永遠』は、\nあの人達の求めた『永遠』とは\n全く違うものだけど。{0c:fe}",
    "read": "{0c:51002b501000}{1c:11}『変わらない』って\n素敵なことなのかもしれないね。{1a}{0c:51001008}今なら『永遠』って言葉も\n素直に受け入れられる。{1a}ただし、あたし達の『永遠』は、\nあの人達の求めた『永遠』とは\n全く違うものだけど。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51002b501000}{1c:11}Maybe 'not changing' is a wonderful\nthing.{1a}{0c:51001008}Now I can honestly accept the word\n'eternity'.{1a}Only, our 'eternity' is completely\ndifferent from the 'eternity' those\npeople wanted.{0c:fe}",
+   "status": "done",
+   "tl": "Maybe 'not changing' is a wonderful thing. // [1]Now I can honestly accept the word 'eternity'. // Only, our 'eternity' is completely different from the 'eternity' those people wanted."
   },
   {
    "id": "RES#240:3030c",
@@ -217,8 +225,9 @@
    "jp": "{0c:51182b501000}{1c:11}この気持ちはこれからも\nずっと変わらないと思う・・・{1a}あなたと出逢えて本当によかった。\nあなたを好きになって本当によかった。{1a}きっと、ずっとそう思える。{1a}{0c:5120}ありがと、{10}、\nあたしの前に{e0ab}れてくれて。{0c:fe}",
    "read": "{0c:51182b501000}{1c:11}この気持ちはこれからも\nずっと変わらないと思う・・・{1a}あなたと出逢えて本当によかった。\nあなたを好きになって本当によかった。{1a}きっと、ずっとそう思える。{1a}{0c:5120}ありがと、{10}、\nあたしの前に現れてくれて。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51182b501000}{1c:11}I think this feeling will never change,\nfrom now on...{1a}I'm so glad I met you. I'm so glad I fell in\nlove with you.{1a}I know I'll always feel that way.{1a}{0c:5120}Thank you, {10}, for coming into\nmy life.{0c:fe}",
+   "status": "done",
+   "tl": "I think this feeling will never change, from now on... // I'm so glad I met you. I'm so glad I fell in love with you. // I know I'll always feel that way. // [1]Thank you, [HERO], for coming into my life."
   },
   {
    "id": "RES#240:303a7",
@@ -239,8 +248,9 @@
    "jp": "{0c:5128}{1c:12}じゃあ行こっ、{10}。\n2人の旅はまだまだ続くんだから!{0c:fe}",
    "read": "{0c:5128}{1c:12}じゃあ行こっ、{10}。\n2人の旅はまだまだ続くんだから!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5128}{1c:12}Okay, let's go, {10}. The two of\nus still have a long road ahead!{0c:fe}",
+   "status": "done",
+   "tl": "Okay, let's go, [HERO]. The two of us still have a long road ahead!"
   },
   {
    "id": "RES#240:303e6",
@@ -294,8 +304,9 @@
    "jp": "{1c:10}{0b:08}{e080} シャルン {e081}{0b:09}\nこの峠を越えるとジースドルフ。{1a}{0c:2b502351002b511000}うん、あたしの故{e084}ガスニッツも\nもうすぐだよ。{1a}でも、行っても\n何も残ってないみたいだけどね。{0c:fe}",
    "read": "{1c:10}{0b:08}【 シャルン 】{0b:09}\nこの峠を越えるとジースドルフ。{1a}{0c:2b502351002b511000}うん、あたしの故郷ガスニッツも\nもうすぐだよ。{1a}でも、行っても\n何も残ってないみたいだけどね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Scharn 】{0b:09}\nPast this pass is Siesdorf.{1a}{0c:2b502351002b511000}Yep, my hometown Gasnitz isn't far now,\neither.{1a}But it sounds like there's nothing left\nthere, even if we go.{0c:fe}",
+   "status": "done",
+   "tl": "Past this pass is Siesdorf. // [1]Yep, my hometown Gasnitz isn't far now, either. // But it sounds like there's nothing left there, even if we go."
   },
   {
    "id": "RES#240:30652",
@@ -316,8 +327,9 @@
    "jp": "{1c:13}4{e085}ぶりの故{e084}、か・・・{1a}{0c:2b502351001008}千{e085}もの間\nアスロイトの{e087}だったあの町も\n今ではもう廃墟になってて{1a}父さんの道場も\nあたしの思い出の町並みも\n何も残ってないらしいんだ。{1a}父さんは無事だったから\nひとまずは安心なんだけど。{0c:fe}",
    "read": "{1c:13}4年ぶりの故郷、か・・・{1a}{0c:2b502351001008}千年もの間\nアスロイトの都だったあの町も\n今ではもう廃墟になってて{1a}父さんの道場も\nあたしの思い出の町並みも\n何も残ってないらしいんだ。{1a}父さんは無事だったから\nひとまずは安心なんだけど。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}Home, after four years, huh...{1a}{0c:2b502351001008}That town was the capital of Asroit for\na thousand years, and now it's all ruins,{1a}and Dad's dojo and the streets I\nremember, there's nothing left of them,\nthey say.{1a}But Dad made it out safe, so that's a\nrelief, at least.{0c:fe}",
+   "status": "done",
+   "tl": "Home, after four years, huh... // [1]That town was the capital of Asroit for a thousand years, and now it's all ruins, // and Dad's dojo and the streets I remember, there's nothing left of them, they say. // But Dad made it out safe, so that's a relief, at least."
   },
   {
    "id": "RES#240:306f7",
@@ -338,8 +350,9 @@
    "jp": "{0c:51002b501000}{1c:11}ねえ、{10}、{1a}{0c:2b502351002b511000}2人の旅も今日で丁度2{e085}目だね。{0c:fe}",
    "read": "{0c:51002b501000}{1c:11}ねえ、{10}、{1a}{0c:2b502351002b511000}2人の旅も今日で丁度2年目だね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51002b501000}{1c:11}Hey, {10},{1a}{0c:2b502351002b511000}today makes exactly two years of us\ntraveling together, huh.{0c:fe}",
+   "status": "done",
+   "tl": "Hey, [HERO], // [1]today makes exactly two years of us traveling together, huh."
   },
   {
    "id": "RES#240:30741",
@@ -371,8 +384,9 @@
    "jp": "{1c:11}{e08c}行の{e08d}果と自分の{e08e}の{e08f}を\n人のために役立てたいって\nあたしが言い出して、{1a}{10}もそれに賛{e08d}してくれて、{1a}{03}サラ{02}の{e091}{e092}{e093}に寄付する\nお{e094}を{e095}ぐために\n{01}2人{02}で傭兵の仕事を始めたのが\nちょうど{01}2{e085}前{02}・・・{1a}出発する時に決めた、{1a}『絶対に強い方には味方しない』\n『絶対に悪い人には味方しない』\n『{e095}いだお{e094}は、生活{e099}を引いたら\n全額{03}サラ{02}の{e091}{e092}{e093}に寄付する』{1a}この{01}3{02}つの誓いを守ってるおかげで\n贅沢は出来なかったけど\n毎日本当に楽しかった。{0c:020301}",
    "read": "{1c:11}修行の成果と自分の槍の腕を\n人のために役立てたいって\nあたしが言い出して、{1a}{10}もそれに賛成してくれて、{1a}{03}サラ{02}の孤児院に寄付する\nお金を稼ぐために\n{01}2人{02}で傭兵の仕事を始めたのが\nちょうど{01}2年前{02}・・・{1a}出発する時に決めた、{1a}『絶対に強い方には味方しない』\n『絶対に悪い人には味方しない』\n『稼いだお金は、生活費を引いたら\n全額{03}サラ{02}の孤児院に寄付する』{1a}この{01}3{02}つの誓いを守ってるおかげで\n贅沢は出来なかったけど\n毎日本当に楽しかった。{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}I was the one who said I wanted to use\nwhat I got from training, and my skill\nwith the spear, to help people,{1a}and {10} agreed with me,{1a}and to earn money to donate to Sara's\norphanage, the two of us started\nworking as mercenaries. That was\nexactly two years ago...{1a}The vows we made when we set out:{1a}'Never side with the stronger.' 'Never\nside with bad people.' 'After living costs,\nevery bit of what we earn goes to\nSara's orphanage.'{1a}Thanks to keeping those three vows, we\ncould never afford any luxury, but every\nsingle day was so much fun.{0c:020301}",
+   "status": "done",
+   "tl": "I was the one who said I wanted to use what I got from training, and my skill with the spear, to help people, // and [HERO] agreed with me, // and to earn money to donate to Sara's orphanage, the two of us started working as mercenaries. That was exactly two years ago... // The vows we made when we set out: // 'Never side with the stronger.' 'Never side with bad people.' 'After living costs, every bit of what we earn goes to Sara's orphanage.' // Thanks to keeping those three vows, we could never afford any luxury, but every single day was so much fun."
   },
   {
    "id": "RES#240:3088e",
@@ -393,8 +407,9 @@
    "jp": "{1c:11}{e08c}行の{e08d}果と自分の{e08e}の{e08f}を\n人のために役立てたいって\nあたしが言い出して、\n{10}もそれに賛{e08d}してくれて、{1a}{03}サラ{02}のお{e09f}さんがやってる{e091}{e092}{e093}に\n寄付するお{e094}を{e095}ぐために\n{01}2人{02}で傭兵の仕事を始めたのが\nちょうど{01}2{e085}前{02}・・・{1a}出発する時に決めた、\n『絶対に強い方には味方しない』\n『絶対に悪い人には味方しない』{1a}『{e095}いだお{e094}は、生活{e099}を引いたら\n全額{03}サラ{02}のお{e09f}さんに寄付する』\nこの{01}3{02}つの誓いを守ってるおかげで{1a}贅沢は出来なかったけど\n毎日本当に楽しかった。{0c:fe}",
    "read": "{1c:11}修行の成果と自分の槍の腕を\n人のために役立てたいって\nあたしが言い出して、\n{10}もそれに賛成してくれて、{1a}{03}サラ{02}のお母さんがやってる孤児院に\n寄付するお金を稼ぐために\n{01}2人{02}で傭兵の仕事を始めたのが\nちょうど{01}2年前{02}・・・{1a}出発する時に決めた、\n『絶対に強い方には味方しない』\n『絶対に悪い人には味方しない』{1a}『稼いだお金は、生活費を引いたら\n全額{03}サラ{02}のお母さんに寄付する』\nこの{01}3{02}つの誓いを守ってるおかげで{1a}贅沢は出来なかったけど\n毎日本当に楽しかった。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}I was the one who said I wanted to use\nwhat I got from training, and my skill\nwith the spear, to help people, and\n{10} agreed with me,{1a}and to earn money to donate to the\norphanage Sara's mother runs, the two\nof us started working as mercenaries.\nThat was exactly two years ago...{1a}The vows we made when we set out:\n'Never side with the stronger.' 'Never\nside with bad people.'{1a}'After living costs, every bit of what we\nearn goes to Sara's mother.' Thanks to\nkeeping those three vows,{1a}we could never afford any luxury, but\nevery single day was so much fun.{0c:fe}",
+   "status": "done",
+   "tl": "I was the one who said I wanted to use what I got from training, and my skill with the spear, to help people, and [HERO] agreed with me, // and to earn money to donate to the orphanage Sara's mother runs, the two of us started working as mercenaries. That was exactly two years ago... // The vows we made when we set out: 'Never side with the stronger.' 'Never side with bad people.' // 'After living costs, every bit of what we earn goes to Sara's mother.' Thanks to keeping those three vows, // we could never afford any luxury, but every single day was so much fun."
   },
   {
    "id": "RES#240:309d3",
@@ -404,8 +419,9 @@
    "jp": "{0c:51002b501000}{1c:11}いろんなことがあったよね。{1a}口げんかもいっぱいしたし、\n{e0ac}{01}1日{02}、お互い一言も\n口聞かなかったこともあったし。{1a}女の{01}2人旅{02}だからって甘く見て\n嫌がらせしてきた男の人を\n{e0ad}にこてんぱんにやっつけたことも\n何度もあったし、{1a}各地を転戦してる間に\nいつの間にかその筋では\nすっかり有{e0a2}人になっちゃって、{1a}{e0a3}場で{e0a4}{e0a5}に{e0a6}い物してただけなのに、{1a}あたし達の顔見た屈強そうな男の人が\n急に悲鳴をあげて逃げ出しちゃって、\n{e0a7}りの人からじろじろ見られたり・・・{1a}{0c:5108}あの時はどっちの顔が怖いかで\nしばらくもめたよね。{0c:fe}",
    "read": "{0c:51002b501000}{1c:11}いろんなことがあったよね。{1a}口げんかもいっぱいしたし、\n丸{01}1日{02}、お互い一言も\n口聞かなかったこともあったし。{1a}女の{01}2人旅{02}だからって甘く見て\n嫌がらせしてきた男の人を\n逆にこてんぱんにやっつけたことも\n何度もあったし、{1a}各地を転戦してる間に\nいつの間にかその筋では\nすっかり有名人になっちゃって、{1a}市場で普通に買い物してただけなのに、{1a}あたし達の顔見た屈強そうな男の人が\n急に悲鳴をあげて逃げ出しちゃって、\n周りの人からじろじろ見られたり・・・{1a}{0c:5108}あの時はどっちの顔が怖いかで\nしばらくもめたよね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51002b501000}{1c:11}So much has happened, hasn't it.{1a}We had tons of arguments, and there\nwas that time we went a whole day\nwithout saying one word to each other.{1a}And lots of times, men took us lightly as\ntwo girls on the road and came to\npester us, and got beaten to a pulp\ninstead,{1a}and while we fought our way from place\nto place, before we knew it, we'd gotten\ntotally famous in certain circles,{1a}and even when we were just shopping at\nthe market like normal,{1a}some big burly man would see our faces,\nscream out loud and run for it, and\neveryone around would stare at us...{1a}{0c:5108}We argued for ages after that over\nwhose face was scarier, remember?{0c:fe}",
+   "status": "done",
+   "tl": "So much has happened, hasn't it. // We had tons of arguments, and there was that time we went a whole day without saying one word to each other. // And lots of times, men took us lightly as two girls on the road and came to pester us, and got beaten to a pulp instead, // and while we fought our way from place to place, before we knew it, we'd gotten totally famous in certain circles, // and even when we were just shopping at the market like normal, // some big burly man would see our faces, scream out loud and run for it, and everyone around would stare at us... // [1]We argued for ages after that over whose face was scarier, remember?"
   },
   {
    "id": "RES#240:30b15",
@@ -426,8 +442,9 @@
    "jp": "{0c:51002b501000}{1c:11}本当にいろんなことがあったね・・・{1a}でも・・・{1a}{0c:5110}あたし達って全然\n変わってないような気がする。{0c:fe}",
    "read": "{0c:51002b501000}{1c:11}本当にいろんなことがあったね・・・{1a}でも・・・{1a}{0c:5110}あたし達って全然\n変わってないような気がする。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51002b501000}{1c:11}So much has really happened...{1a}But...{1a}{0c:5110}I feel like we haven't changed at all.{0c:fe}",
+   "status": "done",
+   "tl": "So much has really happened... // But... // [1]I feel like we haven't changed at all."
   },
   {
    "id": "RES#240:30b6c",
@@ -448,8 +465,9 @@
    "jp": "{0c:51002b501000}{1c:11}『変わらない』って\n素敵なことなのかもしれないね。{1a}{0c:51001008}今なら『永遠』って言{e0a9}も\n素直に受け入れられる。{1a}ただし、あたし達の『永遠』は、\nあの人達の求めた『永遠』とは\n全く違うものだけど。{0c:fe}",
    "read": "{0c:51002b501000}{1c:11}『変わらない』って\n素敵なことなのかもしれないね。{1a}{0c:51001008}今なら『永遠』って言葉も\n素直に受け入れられる。{1a}ただし、あたし達の『永遠』は、\nあの人達の求めた『永遠』とは\n全く違うものだけど。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51002b501000}{1c:11}Maybe 'not changing' is a wonderful\nthing.{1a}{0c:51001008}Now I can honestly accept the word\n'eternity'.{1a}Only, our 'eternity' is completely\ndifferent from the 'eternity' those\npeople wanted.{0c:fe}",
+   "status": "done",
+   "tl": "Maybe 'not changing' is a wonderful thing. // [1]Now I can honestly accept the word 'eternity'. // Only, our 'eternity' is completely different from the 'eternity' those people wanted."
   },
   {
    "id": "RES#240:30c13",
@@ -470,8 +488,9 @@
    "jp": "{0c:51182b501000}{1c:11}この気持ちはこれからも\nずっと変わらないと思う・・・{1a}あなたと出逢えて本当によかった。\nあなたは最{e0ae}の友達だよ。{1a}{0c:5120}ありがと、{10}、\nあたしの前に{e0ab}れてくれて。{0c:fe}",
    "read": "{0c:51182b501000}{1c:11}この気持ちはこれからも\nずっと変わらないと思う・・・{1a}あなたと出逢えて本当によかった。\nあなたは最高の友達だよ。{1a}{0c:5120}ありがと、{10}、\nあたしの前に現れてくれて。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51182b501000}{1c:11}I think this feeling will never change,\nfrom now on...{1a}I'm so glad I met you. You're the best\nfriend there is.{1a}{0c:5120}Thank you, {10}, for coming into\nmy life.{0c:fe}",
+   "status": "done",
+   "tl": "I think this feeling will never change, from now on... // I'm so glad I met you. You're the best friend there is. // [1]Thank you, [HERO], for coming into my life."
   },
   {
    "id": "RES#240:30c9a",
@@ -492,8 +511,9 @@
    "jp": "{0c:5128}{1c:12}じゃあ行こっ、{10}。\n2人の旅はまだまだ続くんだから!{0c:fe}",
    "read": "{0c:5128}{1c:12}じゃあ行こっ、{10}。\n2人の旅はまだまだ続くんだから!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5128}{1c:12}Okay, let's go, {10}. The two of\nus still have a long road ahead!{0c:fe}",
+   "status": "done",
+   "tl": "Okay, let's go, [HERO]. The two of us still have a long road ahead!"
   },
   {
    "id": "RES#240:30cd9",

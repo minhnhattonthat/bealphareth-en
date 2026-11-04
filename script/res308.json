@@ -30,8 +30,9 @@
    "jp": "{0c:3160009a00881002501651003a00}{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\n何の用だ?{0c:1501}",
    "read": "{0c:3160009a00881002501651003a00}{1c:10}{0b:08}【 レイア 】{0b:09}\n何の用だ?{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:3160009a00881002501651003a00}{1c:10}{0b:08}【 Leia 】{0b:09}\nWhat is your business?{0c:1501}",
+   "status": "done",
+   "tl": "What is your business?"
   },
   {
    "id": "RES#308:7eb9",
@@ -52,8 +53,9 @@
    "jp": "{1c:10}わかった。",
    "read": "{1c:10}わかった。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Very well.",
+   "status": "done",
+   "tl": "Very well."
   },
   {
    "id": "RES#308:7ec5",
@@ -75,8 +77,9 @@
    "jp": "{1c:1c}{0b:08}{e080} レイア {e081}{0b:09}\n{e082}んだ覚えはない。",
    "read": "{1c:1c}{0b:08}【 レイア 】{0b:09}\n呼んだ覚えはない。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Leia 】{0b:09}\nI do not recall calling you.",
+   "status": "done",
+   "tl": "I do not recall calling you."
   },
   {
    "id": "RES#308:7eec",
@@ -86,8 +89,9 @@
    "jp": "{0c:3160009a00881002501651003a00}{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\n何の用だ?{0c:1501}",
    "read": "{0c:3160009a00881002501651003a00}{1c:10}{0b:08}【 レイア 】{0b:09}\n何の用だ?{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:3160009a00881002501651003a00}{1c:10}{0b:08}【 Leia 】{0b:09}\nWhat is your business?{0c:1501}",
+   "status": "done",
+   "tl": "What is your business?"
   },
   {
    "id": "RES#308:7f1b",
@@ -108,8 +112,9 @@
    "jp": "{1c:10}・・・わかった。",
    "read": "{1c:10}・・・わかった。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}...Very well.",
+   "status": "done",
+   "tl": "...Very well."
   },
   {
    "id": "RES#308:7f2a",
@@ -119,8 +124,9 @@
    "jp": "{1c:1c}断る。他を当たれ。",
    "read": "{1c:1c}断る。他を当たれ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}I refuse. Ask elsewhere.",
+   "status": "done",
+   "tl": "I refuse. Ask elsewhere."
   },
   {
    "id": "RES#308:7f39",
@@ -142,8 +148,9 @@
    "jp": "{1c:1c}{0b:08}{e080} レイア {e081}{0b:09}\n{e082}んだ覚えはない。",
    "read": "{1c:1c}{0b:08}【 レイア 】{0b:09}\n呼んだ覚えはない。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Leia 】{0b:09}\nI do not recall calling you.",
+   "status": "done",
+   "tl": "I do not recall calling you."
   },
   {
    "id": "RES#308:7f60",
@@ -153,8 +160,9 @@
    "jp": "{0c:3160010000c81002501651083a00}{0c:1000}{1c:10}何の用だ・・・?{0c:1501}",
    "read": "{0c:3160010000c81002501651083a00}{0c:1000}{1c:10}何の用だ・・・?{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:3160010000c81002501651083a00}{0c:1000}{1c:10}What is your business...?{0c:1501}",
+   "status": "done",
+   "tl": "What is your business...?"
   },
   {
    "id": "RES#308:7f86",
@@ -175,8 +183,9 @@
    "jp": "{1c:10}わかった。",
    "read": "{1c:10}わかった。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Very well.",
+   "status": "done",
+   "tl": "Very well."
   },
   {
    "id": "RES#308:7f92",
@@ -198,8 +207,9 @@
    "jp": "{0c:1000}{1c:10}用がないなら出ていけばどうだ?",
    "read": "{0c:1000}{1c:10}用がないなら出ていけばどうだ?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:1000}{1c:10}If you have no business here, why not\nleave?",
+   "status": "done",
+   "tl": "If you have no business here, why not leave?"
   },
   {
    "id": "RES#308:7fb7",
@@ -209,8 +219,9 @@
    "jp": "{0c:1000}{1c:10}お前達を{e082}んだ覚えはない。{0c:15}",
    "read": "{0c:1000}{1c:10}お前達を呼んだ覚えはない。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:1000}{1c:10}I do not recall calling any of you.{0c:15}",
+   "status": "done",
+   "tl": "I do not recall calling any of you."
   },
   {
    "id": "RES#308:7fd2",
@@ -220,8 +231,9 @@
    "jp": "{0c:1000}{1c:11}出ていけばどうだ?",
    "read": "{0c:1000}{1c:11}出ていけばどうだ?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:1000}{1c:11}Why not leave?",
+   "status": "done",
+   "tl": "Why not leave?"
   },
   {
    "id": "RES#308:7fe4",
@@ -254,8 +266,9 @@
    "jp": "{1c:10}・・・わかった。",
    "read": "{1c:10}・・・わかった。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}...Very well.",
+   "status": "done",
+   "tl": "...Very well."
   },
   {
    "id": "RES#308:8014",
@@ -265,8 +278,9 @@
    "jp": "{1c:11}断る。他を当たれ。",
    "read": "{1c:11}断る。他を当たれ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}I refuse. Ask elsewhere.",
+   "status": "done",
+   "tl": "I refuse. Ask elsewhere."
   },
   {
    "id": "RES#308:8023",
@@ -276,8 +290,9 @@
    "jp": "{0c:1000}{1c:11}消えろ。",
    "read": "{0c:1000}{1c:11}消えろ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:1000}{1c:11}Begone.",
+   "status": "done",
+   "tl": "Begone."
   },
   {
    "id": "RES#308:802f",
@@ -287,8 +302,9 @@
    "jp": "{0c:1000}{1c:11}・・・用はない。消えろ。",
    "read": "{0c:1000}{1c:11}・・・用はない。消えろ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:1000}{1c:11}...I have no business with you. Begone.",
+   "status": "done",
+   "tl": "...I have no business with you. Begone."
   },
   {
    "id": "RES#308:8044",
@@ -309,8 +325,9 @@
    "jp": "{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\n何の用だ?{0c:1501}",
    "read": "{1c:10}{0b:08}【 レイア 】{0b:09}\n何の用だ?{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Leia 】{0b:09}\nWhat is your business?{0c:1501}",
+   "status": "done",
+   "tl": "What is your business?"
   },
   {
    "id": "RES#308:807d",
@@ -331,8 +348,9 @@
    "jp": "{1c:10}わかった。",
    "read": "{1c:10}わかった。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Very well.",
+   "status": "done",
+   "tl": "Very well."
   },
   {
    "id": "RES#308:8089",
@@ -365,8 +383,9 @@
    "jp": "{1c:10}用がないなら出ていけばどうだ?",
    "read": "{1c:10}用がないなら出ていけばどうだ?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}If you have no business here, why not\nleave?",
+   "status": "done",
+   "tl": "If you have no business here, why not leave?"
   },
   {
    "id": "RES#308:80b1",
@@ -387,8 +406,9 @@
    "jp": "{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\n・・・何の用だ?{0c:15}",
    "read": "{1c:10}{0b:08}【 レイア 】{0b:09}\n・・・何の用だ?{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Leia 】{0b:09}\n...What is your business?{0c:15}",
+   "status": "done",
+   "tl": "...What is your business?"
   },
   {
    "id": "RES#308:80db",
@@ -398,8 +418,9 @@
    "jp": "{1c:10}用がないなら出ていけばどうだ?",
    "read": "{1c:10}用がないなら出ていけばどうだ?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}If you have no business here, why not\nleave?",
+   "status": "done",
+   "tl": "If you have no business here, why not leave?"
   },
   {
    "id": "RES#308:80f0",
@@ -420,8 +441,9 @@
    "jp": "{1c:11}{0b:08}{e080} レイア {e081}{0b:09}\n・・・何の用だ?{0c:1501}",
    "read": "{1c:11}{0b:08}【 レイア 】{0b:09}\n・・・何の用だ?{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Leia 】{0b:09}\n...What is your business?{0c:1501}",
+   "status": "done",
+   "tl": "...What is your business?"
   },
   {
    "id": "RES#308:812c",
@@ -442,8 +464,9 @@
    "jp": "{1c:10}・・・わかった。",
    "read": "{1c:10}・・・わかった。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}...Very well.",
+   "status": "done",
+   "tl": "...Very well."
   },
   {
    "id": "RES#308:813b",
@@ -453,8 +476,9 @@
    "jp": "{1c:1c}断る。他を当たれ。",
    "read": "{1c:1c}断る。他を当たれ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}I refuse. Ask elsewhere.",
+   "status": "done",
+   "tl": "I refuse. Ask elsewhere."
   },
   {
    "id": "RES#308:814a",
@@ -476,8 +500,9 @@
    "jp": "{1c:11}用がないなら出ていけばどうだ?",
    "read": "{1c:11}用がないなら出ていけばどうだ?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}If you have no business here, why not\nleave?",
+   "status": "done",
+   "tl": "If you have no business here, why not leave?"
   },
   {
    "id": "RES#308:816b",
@@ -498,8 +523,9 @@
    "jp": "{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\n・・・用はない。消えろ。",
    "read": "{1c:10}{0b:08}【 レイア 】{0b:09}\n・・・用はない。消えろ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Leia 】{0b:09}\n...I have no business with you. Begone.",
+   "status": "done",
+   "tl": "...I have no business with you. Begone."
   },
   {
    "id": "RES#308:8195",
@@ -509,8 +535,9 @@
    "jp": "{0c:3160009a00881002501651003a00}{1c:1b}{0b:08}{e080} レイア {e081}{0b:09}\n人が死んだのに何も感じない・・・\nただ心が渇くだけ・・・{1a}自分が冷たい女だということを\n再確認させられる・・・{0c:1501}",
    "read": "{0c:3160009a00881002501651003a00}{1c:1b}{0b:08}【 レイア 】{0b:09}\n人が死んだのに何も感じない・・・\nただ心が渇くだけ・・・{1a}自分が冷たい女だということを\n再確認させられる・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:3160009a00881002501651003a00}{1c:1b}{0b:08}【 Leia 】{0b:09}\nPeople have died, and I feel nothing... Only\nmy heart running dry...{1a}It reminds me once more that I am a cold\nwoman...{0c:1501}",
+   "status": "done",
+   "tl": "People have died, and I feel nothing... Only my heart running dry... // It reminds me once more that I am a cold woman..."
   },
   {
    "id": "RES#308:8200",
@@ -531,8 +558,9 @@
    "jp": "{1c:1b}・・・わかった、付き合おう。",
    "read": "{1c:1b}・・・わかった、付き合おう。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}...Very well. I will go with you.",
+   "status": "done",
+   "tl": "...Very well. I will go with you."
   },
   {
    "id": "RES#308:8217",
@@ -554,8 +582,9 @@
    "jp": "{1c:1b}{0b:08}{e080} レイア {e081}{0b:09}\n哀れな男だな・・・あの男も・・・{0c:15}",
    "read": "{1c:1b}{0b:08}【 レイア 】{0b:09}\n哀れな男だな・・・あの男も・・・{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Leia 】{0b:09}\nA pitiable man... that one as well...{0c:15}",
+   "status": "done",
+   "tl": "A pitiable man... that one as well..."
   },
   {
    "id": "RES#308:8249",
@@ -565,8 +594,9 @@
    "jp": "{1c:1b}なんでもない・・・",
    "read": "{1c:1b}なんでもない・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}It is nothing...",
+   "status": "done",
+   "tl": "It is nothing..."
   },
   {
    "id": "RES#308:8255",
@@ -576,8 +606,9 @@
    "jp": "{0c:3160009a00881002501651003a00}{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\nお前か・・・{07:0f}\n一体何の用だ?{07:05}{0c:1501}",
    "read": "{0c:3160009a00881002501651003a00}{1c:10}{0b:08}【 レイア 】{0b:09}\nお前か・・・{07:0f}\n一体何の用だ?{07:05}{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:3160009a00881002501651003a00}{1c:10}{0b:08}【 Leia 】{0b:09}\nYou...{07:0f} What is your business?{07:05}{0c:1501}",
+   "status": "done",
+   "tl": "You...[1] What is your business?"
   },
   {
    "id": "RES#308:8294",
@@ -598,8 +629,9 @@
    "jp": "{1c:10}わかった。",
    "read": "{1c:10}わかった。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Very well.",
+   "status": "done",
+   "tl": "Very well."
   },
   {
    "id": "RES#308:82a0",
@@ -609,8 +641,9 @@
    "jp": "{1c:1c}断る。お前はもう信用出来ない。",
    "read": "{1c:1c}断る。お前はもう信用出来ない。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}I refuse. I can no longer trust you.",
+   "status": "done",
+   "tl": "I refuse. I can no longer trust you."
   },
   {
    "id": "RES#308:82b8",
@@ -632,8 +665,9 @@
    "jp": "{0c:3160009a00881002501651003a00}{1c:1c}{0b:08}{e080} レイア {e081}{0b:09}\n誰が死のうと私には関係ない・・・{0c:1501}",
    "read": "{0c:3160009a00881002501651003a00}{1c:1c}{0b:08}【 レイア 】{0b:09}\n誰が死のうと私には関係ない・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:3160009a00881002501651003a00}{1c:1c}{0b:08}【 Leia 】{0b:09}\nWhoever dies is no concern of mine...{0c:1501}",
+   "status": "done",
+   "tl": "Whoever dies is no concern of mine..."
   },
   {
    "id": "RES#308:82fd",
@@ -654,8 +688,9 @@
    "jp": "{1c:10}・・・わかった。",
    "read": "{1c:10}・・・わかった。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}...Very well.",
+   "status": "done",
+   "tl": "...Very well."
   },
   {
    "id": "RES#308:830c",
@@ -677,8 +712,9 @@
    "jp": "{1c:1c}{0b:08}{e080} レイア {e081}{0b:09}\n誰が死のうと私には関係ない・・・{0c:15}",
    "read": "{1c:1c}{0b:08}【 レイア 】{0b:09}\n誰が死のうと私には関係ない・・・{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Leia 】{0b:09}\nWhoever dies is no concern of mine...{0c:15}",
+   "status": "done",
+   "tl": "Whoever dies is no concern of mine..."
   },
   {
    "id": "RES#308:8340",
@@ -700,8 +736,9 @@
    "jp": "{0c:3160009a00881002501651003a00}{1c:1c}{0b:08}{e080} レイア {e081}{0b:09}\n誰が死のうと私には関係ない・・・{0c:1501}",
    "read": "{0c:3160009a00881002501651003a00}{1c:1c}{0b:08}【 レイア 】{0b:09}\n誰が死のうと私には関係ない・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:3160009a00881002501651003a00}{1c:1c}{0b:08}【 Leia 】{0b:09}\nWhoever dies is no concern of mine...{0c:1501}",
+   "status": "done",
+   "tl": "Whoever dies is no concern of mine..."
   },
   {
    "id": "RES#308:8385",
@@ -722,8 +759,9 @@
    "jp": "{1c:10}わかった。",
    "read": "{1c:10}わかった。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Very well.",
+   "status": "done",
+   "tl": "Very well."
   },
   {
    "id": "RES#308:8391",
@@ -733,8 +771,9 @@
    "jp": "{1c:1c}断る。お前は信用出来ない。",
    "read": "{1c:1c}断る。お前は信用出来ない。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}I refuse. I cannot trust you.",
+   "status": "done",
+   "tl": "I refuse. I cannot trust you."
   },
   {
    "id": "RES#308:83a7",
@@ -756,8 +795,9 @@
    "jp": "{0c:3160009a00881002501651003a00}何の用だ?{0c:1501}",
    "read": "{0c:3160009a00881002501651003a00}何の用だ?{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:3160009a00881002501651003a00}What is your business?{0c:1501}",
+   "status": "done",
+   "tl": "What is your business?"
   },
   {
    "id": "RES#308:83cd",
@@ -778,8 +818,9 @@
    "jp": "たとえお前が悪魔であっても、\n行動を{e085}にすることに\nなんの迷いもない。{1a}私にはやらねばならないことがある。\n私の力が必要であればいつでも言え。\n私もお前を利用させてもらう。",
    "read": "たとえお前が悪魔であっても、\n行動を共にすることに\nなんの迷いもない。{1a}私にはやらねばならないことがある。\n私の力が必要であればいつでも言え。\n私もお前を利用させてもらう。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Even if you are a devil, I have no qualms\nabout traveling with you.{1a}I have things I must do. Say so whenever\nyou need my strength. I will make use of\nyou as well.",
+   "status": "done",
+   "tl": "Even if you are a devil, I have no qualms about traveling with you. // I have things I must do. Say so whenever you need my strength. I will make use of you as well."
   },
   {
    "id": "RES#308:8439",
@@ -801,8 +842,9 @@
    "jp": "お前達を{e082}んだ覚えはない。{0c:15}",
    "read": "お前達を呼んだ覚えはない。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I do not recall calling any of you.{0c:15}",
+   "status": "done",
+   "tl": "I do not recall calling any of you."
   },
   {
    "id": "RES#308:8455",
@@ -824,8 +866,9 @@
    "jp": "{0c:3160009a00881002501651003a00}命の{e086}さ云{e088}といった\n下らないことを語り合うのは\nお互い性分ではないだろうし、{1a}町の奴らのお前に対する評価にも\n興味はない。{1a}だが、考えもなしに、\nその場の衝動だけで行動している\nのだとしたら、\n私はお前を軽蔑する。{1a}{0c:1501}",
    "read": "{0c:3160009a00881002501651003a00}命の尊さ云々といった\n下らないことを語り合うのは\nお互い性分ではないだろうし、{1a}町の奴らのお前に対する評価にも\n興味はない。{1a}だが、考えもなしに、\nその場の衝動だけで行動している\nのだとしたら、\n私はお前を軽蔑する。{1a}{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:3160009a00881002501651003a00}Neither of us is the kind to discuss\ntrifles like the value of life,{1a}and what the townsfolk think of you\ndoes not interest me.{1a}But if you act with no thought, on the\nimpulse of the moment, I will despise you.{1a}{0c:1501}",
+   "status": "done",
+   "tl": "Neither of us is the kind to discuss trifles like the value of life, // and what the townsfolk think of you does not interest me. // But if you act with no thought, on the impulse of the moment, I will despise you."
   },
   {
    "id": "RES#308:84fa",
@@ -846,8 +889,9 @@
    "jp": "・・・わかった。行こう。",
    "read": "・・・わかった。行こう。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "...Very well. Let us go.",
+   "status": "done",
+   "tl": "...Very well. Let us go."
   },
   {
    "id": "RES#308:850c",
@@ -857,8 +901,9 @@
    "jp": "・・・気をつけろ。\nお前は殺されて当然のことを\nしたのだから。",
    "read": "・・・気をつけろ。\nお前は殺されて当然のことを\nしたのだから。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "...Have a care. What you have done, you\ndeserve to die for.",
+   "status": "done",
+   "tl": "...Have a care. What you have done, you deserve to die for."
   },
   {
    "id": "RES#308:8531",
@@ -868,8 +913,9 @@
    "jp": "命の{e086}さ云{e088}といった\n下らないことを語り合うのは\nお互い性分ではないだろうし、{1a}町の奴らのお前に対する評価にも\n興味はない。{1a}だが、考えもなしに、\nその場の衝動だけで行動している\nのだとしたら、\n私はお前を軽蔑する。{1a}{0c:15}",
    "read": "命の尊さ云々といった\n下らないことを語り合うのは\nお互い性分ではないだろうし、{1a}町の奴らのお前に対する評価にも\n興味はない。{1a}だが、考えもなしに、\nその場の衝動だけで行動している\nのだとしたら、\n私はお前を軽蔑する。{1a}{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Neither of us is the kind to discuss\ntrifles like the value of life,{1a}and what the townsfolk think of you\ndoes not interest me.{1a}But if you act with no thought, on the\nimpulse of the moment, I will despise you.{1a}{0c:15}",
+   "status": "done",
+   "tl": "Neither of us is the kind to discuss trifles like the value of life, // and what the townsfolk think of you does not interest me. // But if you act with no thought, on the impulse of the moment, I will despise you."
   },
   {
    "id": "RES#308:85be",
@@ -879,8 +925,9 @@
    "jp": "・・・気をつけろ。\nお前は殺されて当然のことを\nしたのだから。",
    "read": "・・・気をつけろ。\nお前は殺されて当然のことを\nしたのだから。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "...Have a care. What you have done, you\ndeserve to die for.",
+   "status": "done",
+   "tl": "...Have a care. What you have done, you deserve to die for."
   },
   {
    "id": "RES#308:85e3",
@@ -890,8 +937,9 @@
    "jp": "{0c:3160009a00881002501651003a00}私は{e085}に戦う者に\nモラルや友情は求めない。\n必要なのは強さだけだ。{0c:1501}",
    "read": "{0c:3160009a00881002501651003a00}私は共に戦う者に\nモラルや友情は求めない。\n必要なのは強さだけだ。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:3160009a00881002501651003a00}I ask neither morals nor friendship of\nthose I fight beside. All I require is\nstrength.{0c:1501}",
+   "status": "done",
+   "tl": "I ask neither morals nor friendship of those I fight beside. All I require is strength."
   },
   {
    "id": "RES#308:8625",
@@ -912,8 +960,9 @@
    "jp": "・・・わかった。\nたとえお前が悪魔であっても、\n私は行かねばならない・・・",
    "read": "・・・わかった。\nたとえお前が悪魔であっても、\n私は行かねばならない・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "...Very well. Even if you are a devil, I must\ngo...",
+   "status": "done",
+   "tl": "...Very well. Even if you are a devil, I must go..."
   },
   {
    "id": "RES#308:8654",
@@ -923,8 +972,9 @@
    "jp": "断る。お前は信用出来ない。",
    "read": "断る。お前は信用出来ない。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I refuse. I cannot trust you.",
+   "status": "done",
+   "tl": "I refuse. I cannot trust you."
   },
   {
    "id": "RES#308:8668",
@@ -934,8 +984,9 @@
    "jp": "ならば消えろ。",
    "read": "ならば消えろ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Then be gone.",
+   "status": "done",
+   "tl": "Then be gone."
   },
   {
    "id": "RES#308:8671",
@@ -945,8 +996,9 @@
    "jp": "{0c:3160009a00881002501651003a00}お前達を{e082}んだ覚えはない。\n用もないはずだ。消えろ。{0c:15}",
    "read": "{0c:3160009a00881002501651003a00}お前達を呼んだ覚えはない。\n用もないはずだ。消えろ。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:3160009a00881002501651003a00}I do not recall calling you here. You can\nhave no business with me. Be gone.{0c:15}",
+   "status": "done",
+   "tl": "I do not recall calling you here. You can have no business with me. Be gone."
   },
   {
    "id": "RES#308:86a5",
@@ -968,8 +1020,9 @@
    "jp": "{0c:3160009a00881002501651003a00}{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\n{e08c}士が必要であれば言ってくれ。{0c:1501}",
    "read": "{0c:3160009a00881002501651003a00}{1c:10}{0b:08}【 レイア 】{0b:09}\n剣士が必要であれば言ってくれ。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:3160009a00881002501651003a00}{1c:10}{0b:08}【 Leia 】{0b:09}\nIf you need a swordsman, tell me.{0c:1501}",
+   "status": "done",
+   "tl": "If you need a swordsman, tell me."
   },
   {
    "id": "RES#308:86e7",
@@ -990,8 +1043,9 @@
    "jp": "{1c:10}わかった。では行こう。",
    "read": "{1c:10}わかった。では行こう。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Very well. Then let us go.",
+   "status": "done",
+   "tl": "Very well. Then let us go."
   },
   {
    "id": "RES#308:86fa",
@@ -1001,8 +1055,9 @@
    "jp": "{1c:10}ならば話すことはない。\n出ていってくれ。",
    "read": "{1c:10}ならば話すことはない。\n出ていってくれ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Then we have nothing to discuss. Please\nleave.",
+   "status": "done",
+   "tl": "Then we have nothing to discuss. Please leave."
   },
   {
    "id": "RES#308:8713",
@@ -1012,8 +1067,9 @@
    "jp": "{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\nそれだけ人{e08d}がいれば\n私は必要ないだろう?{0c:15}",
    "read": "{1c:10}{0b:08}【 レイア 】{0b:09}\nそれだけ人数がいれば\n私は必要ないだろう?{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Leia 】{0b:09}\nWith that many in your party, you have\nno need of me, surely?{0c:15}",
+   "status": "done",
+   "tl": "With that many in your party, you have no need of me, surely?"
   },
   {
    "id": "RES#308:8744",
@@ -1023,8 +1079,9 @@
    "jp": "{1c:10}話すことはない。出ていってくれ。",
    "read": "{1c:10}話すことはない。出ていってくれ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}We have nothing to discuss. Please leave.",
+   "status": "done",
+   "tl": "We have nothing to discuss. Please leave."
   },
   {
    "id": "RES#308:8759",
@@ -1045,8 +1102,9 @@
    "jp": "{0c:520102}{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n確かレイアと言ったね。\n君も{e08c}を? 僕もなんだ。\nお互い頑張ろうな。{1a}・・・ところで、\n君はどこから来たんだい?\n何のために来たんだい?{0c:2903091501}",
    "read": "{0c:520102}{1c:13}{0b:08}【 アーサー 】{0b:09}\n確かレイアと言ったね。\n君も剣を? 僕もなんだ。\nお互い頑張ろうな。{1a}・・・ところで、\n君はどこから来たんだい?\n何のために来たんだい?{0c:2903091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520102}{1c:13}{0b:08}【 Arthur 】{0b:09}\nIt's Leia, isn't it? You use a sword too?\nSo do I. Let us both do our best.{1a}...By the way, where did you come from?\nAnd what brought you here?{0c:2903091501}",
+   "status": "done",
+   "tl": "It's Leia, isn't it? You use a sword too? So do I. Let us both do our best. // ...By the way, where did you come from? And what brought you here?"
   },
   {
    "id": "RES#308:8815",
@@ -1056,8 +1114,9 @@
    "jp": "{1c:1c}{0b:08}{e080} レイア {e081}{0b:09}\n何故お前に言う必要がある?{1a}{e08c}士が{e08e}にいるのなら\n私に用はないだろう。\n出ていってくれ。{0c:2b50091501}",
    "read": "{1c:1c}{0b:08}【 レイア 】{0b:09}\n何故お前に言う必要がある?{1a}剣士が既にいるのなら\n私に用はないだろう。\n出ていってくれ。{0c:2b50091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Leia 】{0b:09}\nWhy should I have to tell you?{1a}If you already have a swordsman, you\nhave no use for me. Please leave.{0c:2b50091501}",
+   "status": "done",
+   "tl": "Why should I have to tell you? // If you already have a swordsman, you have no use for me. Please leave."
   },
   {
    "id": "RES#308:8869",
@@ -1067,8 +1126,9 @@
    "jp": "{0c:520300}{1c:14}{0b:08}{e080} アーサー {e081}{0b:09}\nい、いや、\n話したくないのならいいんだ。{1a}ただ、この町には僕達と\n同じ身分の人間が少ないから、\n情報交換でもしたいなって\n思ったんだ。\n{0c:520406}今まで、平{e090}の人達とあまり\n付き合ったことがなかったから、\n彼等とどう接していいか\nわからなくて・・・{0c:2903091501}",
    "read": "{0c:520300}{1c:14}{0b:08}【 アーサー 】{0b:09}\nい、いや、\n話したくないのならいいんだ。{1a}ただ、この町には僕達と\n同じ身分の人間が少ないから、\n情報交換でもしたいなって\n思ったんだ。\n{0c:520406}今まで、平民の人達とあまり\n付き合ったことがなかったから、\n彼等とどう接していいか\nわからなくて・・・{0c:2903091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520300}{1c:14}{0b:08}【 Arthur 】{0b:09}\nN-no, if you would rather not talk,\nthat's fine.{1a}It's just that there are so few people\nof our station in this town, I thought we\nmight exchange information. {0c:520406}I have never\nhad much to do with commoners{1a}before, and I don't know how I ought to\ntreat them...{0c:2903091501}",
+   "status": "done",
+   "tl": "N-no, if you would rather not talk, that's fine. // It's just that there are so few people of our station in this town, I thought we might exchange information. [1]I have never had much to do with commoners before, and I don't know how I ought to treat them..."
   },
   {
    "id": "RES#308:891e",
@@ -1078,8 +1138,9 @@
    "jp": "{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\n生憎だったな。\n私は貴{e093}でもなんでもない。{0c:2b50091501}",
    "read": "{1c:10}{0b:08}【 レイア 】{0b:09}\n生憎だったな。\n私は貴族でもなんでもない。{0c:2b50091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Leia 】{0b:09}\nUnfortunately for you, I am no noble, nor\nanything of the kind.{0c:2b50091501}",
+   "status": "done",
+   "tl": "Unfortunately for you, I am no noble, nor anything of the kind."
   },
   {
    "id": "RES#308:8952",
@@ -1089,8 +1150,9 @@
    "jp": "{0c:520500}{1c:14}{0b:08}{e080} アーサー {e081}{0b:09}\nえっ?\nご、ごめん、てっきり・・・{0c:2903091501}",
    "read": "{0c:520500}{1c:14}{0b:08}【 アーサー 】{0b:09}\nえっ?\nご、ごめん、てっきり・・・{0c:2903091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520500}{1c:14}{0b:08}【 Arthur 】{0b:09}\nWhat? I-I'm sorry, I simply assumed...{0c:2903091501}",
+   "status": "done",
+   "tl": "What? I-I'm sorry, I simply assumed..."
   },
   {
    "id": "RES#308:8985",
@@ -1100,8 +1162,9 @@
    "jp": "{1c:12}{0b:08}{e080} レイア {e081}{0b:09}\n・・・・・・{1a}一体何しに来たのだ?\nお前達は・・・{0c:1501}",
    "read": "{1c:12}{0b:08}【 レイア 】{0b:09}\n・・・・・・{1a}一体何しに来たのだ?\nお前達は・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Leia 】{0b:09}\n......{1a}What did you come here to do, the lot of\nyou...?{0c:1501}",
+   "status": "done",
+   "tl": "...... // What did you come here to do, the lot of you...?"
   },
   {
    "id": "RES#308:89bd",
@@ -1122,8 +1185,9 @@
    "jp": "{1c:1c}{0b:08}{e080} レイア {e081}{0b:09}\n・・・仕方がない。行こう。{0c:1501}",
    "read": "{1c:1c}{0b:08}【 レイア 】{0b:09}\n・・・仕方がない。行こう。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Leia 】{0b:09}\n...It cannot be helped. Let us go.{0c:1501}",
+   "status": "done",
+   "tl": "...It cannot be helped. Let us go."
   },
   {
    "id": "RES#308:89ea",
@@ -1190,8 +1254,9 @@
    "jp": "{0c:520102}{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n確かレイアと言ったね。\n君も{e08c}を? 僕もなんだ。\nお互い頑張ろうな。{1a}ところで、君はどこから来たんだい?\n何のために来たんだい?{0c:2903091501}",
    "read": "{0c:520102}{1c:13}{0b:08}【 アーサー 】{0b:09}\n確かレイアと言ったね。\n君も剣を? 僕もなんだ。\nお互い頑張ろうな。{1a}ところで、君はどこから来たんだい?\n何のために来たんだい?{0c:2903091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520102}{1c:13}{0b:08}【 Arthur 】{0b:09}\nIt's Leia, isn't it? You use a sword too?\nSo do I. Let us both do our best.{1a}By the way, where did you come from?\nAnd what brought you here?{0c:2903091501}",
+   "status": "done",
+   "tl": "It's Leia, isn't it? You use a sword too? So do I. Let us both do our best. // By the way, where did you come from? And what brought you here?"
   },
   {
    "id": "RES#308:8acb",
@@ -1201,8 +1266,9 @@
    "jp": "{1c:1c}{0b:08}{e080} レイア {e081}{0b:09}\n何故お前に言う必要がある?{1a}{e08c}士が{e08e}にいるのなら\n私に用はないだろう。\n出ていってくれ。{0c:2b50091501}",
    "read": "{1c:1c}{0b:08}【 レイア 】{0b:09}\n何故お前に言う必要がある?{1a}剣士が既にいるのなら\n私に用はないだろう。\n出ていってくれ。{0c:2b50091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Leia 】{0b:09}\nWhy should I have to tell you?{1a}If you already have a swordsman, you\nhave no use for me. Please leave.{0c:2b50091501}",
+   "status": "done",
+   "tl": "Why should I have to tell you? // If you already have a swordsman, you have no use for me. Please leave."
   },
   {
    "id": "RES#308:8b1f",
@@ -1212,8 +1278,9 @@
    "jp": "{0c:520300}{1c:14}{0b:08}{e080} アーサー {e081}{0b:09}\nい、いや、\n話したくないのならいいんだ。{1a}ただ、この町には僕達と同じ\n身分の人間が少ないから、\n情報交換でもしたいなって\n思ったんだ。{1a}{0c:520406}今まで、平{e090}の人達とあまり\n付き合ったことがなかったから、\n彼等とどう接していいか\nわからなくて・・・{0c:2903091501}",
    "read": "{0c:520300}{1c:14}{0b:08}【 アーサー 】{0b:09}\nい、いや、\n話したくないのならいいんだ。{1a}ただ、この町には僕達と同じ\n身分の人間が少ないから、\n情報交換でもしたいなって\n思ったんだ。{1a}{0c:520406}今まで、平民の人達とあまり\n付き合ったことがなかったから、\n彼等とどう接していいか\nわからなくて・・・{0c:2903091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520300}{1c:14}{0b:08}【 Arthur 】{0b:09}\nN-no, if you would rather not talk,\nthat's fine.{1a}It's just that there are so few people\nof our station in this town, I thought we\nmight exchange information.{1a}{0c:520406}I have never had much to do with\ncommoners before, and I don't know how\nI ought to treat them...{0c:2903091501}",
+   "status": "done",
+   "tl": "N-no, if you would rather not talk, that's fine. // It's just that there are so few people of our station in this town, I thought we might exchange information. // [1]I have never had much to do with commoners before, and I don't know how I ought to treat them..."
   },
   {
    "id": "RES#308:8bd4",
@@ -1223,8 +1290,9 @@
    "jp": "{1c:1c}{0b:08}{e080} レイア {e081}{0b:09}\n生憎だったな。\n私は貴{e093}でもなんでもない。{0c:2b50091501}",
    "read": "{1c:1c}{0b:08}【 レイア 】{0b:09}\n生憎だったな。\n私は貴族でもなんでもない。{0c:2b50091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Leia 】{0b:09}\nUnfortunately for you, I am no noble, nor\nanything of the kind.{0c:2b50091501}",
+   "status": "done",
+   "tl": "Unfortunately for you, I am no noble, nor anything of the kind."
   },
   {
    "id": "RES#308:8c08",
@@ -1234,8 +1302,9 @@
    "jp": "{0c:520500}{1c:14}{0b:08}{e080} アーサー {e081}{0b:09}\nえっ?\nご、ごめん、てっきり・・・{0c:2903091501}",
    "read": "{0c:520500}{1c:14}{0b:08}【 アーサー 】{0b:09}\nえっ?\nご、ごめん、てっきり・・・{0c:2903091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520500}{1c:14}{0b:08}【 Arthur 】{0b:09}\nWhat? I-I'm sorry, I simply assumed...{0c:2903091501}",
+   "status": "done",
+   "tl": "What? I-I'm sorry, I simply assumed..."
   },
   {
    "id": "RES#308:8c3b",
@@ -1268,8 +1337,9 @@
    "jp": "{1c:1c}{0b:08}{e080} レイア {e081}{0b:09}\n話すことはない。\n出ていってくれ。",
    "read": "{1c:1c}{0b:08}【 レイア 】{0b:09}\n話すことはない。\n出ていってくれ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Leia 】{0b:09}\nWe have nothing to discuss. Please leave.",
+   "status": "done",
+   "tl": "We have nothing to discuss. Please leave."
   },
   {
    "id": "RES#308:8c8f",
@@ -1290,8 +1360,9 @@
    "jp": "{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\n{e08c}士が必要であれば言ってくれ。{0c:2b50091501}",
    "read": "{1c:10}{0b:08}【 レイア 】{0b:09}\n剣士が必要であれば言ってくれ。{0c:2b50091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Leia 】{0b:09}\nIf you need a swordsman, tell me.{0c:2b50091501}",
+   "status": "done",
+   "tl": "If you need a swordsman, tell me."
   },
   {
    "id": "RES#308:8cff",
@@ -1301,8 +1372,9 @@
    "jp": "{0c:5101}{1c:15}{0b:08}{e080} パスカ {e081}{0b:09}\nえらく無愛想な子だよな・・・{1a}{0c:5102}そういや、この町に来る途中でも\n一言も喋らなかったし、\n1度も笑ってるところ\n見たことねえもんな。{0c:2903091501}",
    "read": "{0c:5101}{1c:15}{0b:08}【 パスカ 】{0b:09}\nえらく無愛想な子だよな・・・{1a}{0c:5102}そういや、この町に来る途中でも\n一言も喋らなかったし、\n1度も笑ってるところ\n見たことねえもんな。{0c:2903091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5101}{1c:15}{0b:08}【 Pasca 】{0b:09}\nReal unfriendly girl, ain't she...{1a}{0c:5102}Come to think of it, she didn't say one\nword on the way to this town, and I ain't\nseen her smile even once.{0c:2903091501}",
+   "status": "done",
+   "tl": "Real unfriendly girl, ain't she... // [1]Come to think of it, she didn't say one word on the way to this town, and I ain't seen her smile even once."
   },
   {
    "id": "RES#308:8d71",
@@ -1312,8 +1384,9 @@
    "jp": "{0c:2b505501}{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\n私は{e097}びに来たわけじゃない。\nお前はここに{e097}びに来たのか?{0c:2b50091501}",
    "read": "{0c:2b505501}{1c:10}{0b:08}【 レイア 】{0b:09}\n私は遊びに来たわけじゃない。\nお前はここに遊びに来たのか?{0c:2b50091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b505501}{1c:10}{0b:08}【 Leia 】{0b:09}\nI did not come here to play. Did you come\nhere to play?{0c:2b50091501}",
+   "status": "done",
+   "tl": "I did not come here to play. Did you come here to play?"
   },
   {
    "id": "RES#308:8db5",
@@ -1323,8 +1396,9 @@
    "jp": "{1c:15}{0b:08}{e080} パスカ {e081}{0b:09}\nそりゃそうだけどさ、\n町にいるときくらい\n気楽にやってもいいじゃねえか。{1a}{0c:520304}これから地面の下で\nおっかねえ{e098}け物どもと\n戦わなきゃならねえっていうのによ、{1a}自分の{e099}{e09a}にいるときまで\n気を張ってちゃ、\nいざってときに力が出ねえぜ。{0c:2903091501}",
    "read": "{1c:15}{0b:08}【 パスカ 】{0b:09}\nそりゃそうだけどさ、\n町にいるときくらい\n気楽にやってもいいじゃねえか。{1a}{0c:520304}これから地面の下で\nおっかねえ化け物どもと\n戦わなきゃならねえっていうのによ、{1a}自分の部屋にいるときまで\n気を張ってちゃ、\nいざってときに力が出ねえぜ。{0c:2903091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Pasca 】{0b:09}\nWell, sure, but ya can take it easy while\nyou're in town, can't ya?{1a}{0c:520304}We gotta go underground and fight\nscary damn monsters from here on out,{1a}and if you're wound up tight even in your\nown room, you'll have nothin' left when it\ncounts.{0c:2903091501}",
+   "status": "done",
+   "tl": "Well, sure, but ya can take it easy while you're in town, can't ya? // [1]We gotta go underground and fight scary damn monsters from here on out, // and if you're wound up tight even in your own room, you'll have nothin' left when it counts."
   },
   {
    "id": "RES#308:8e56",
@@ -1334,8 +1408,9 @@
    "jp": "{1c:1c}{0b:08}{e080} レイア {e081}{0b:09}\n私には私のやり方がある。\n用がないのなら出ていってくれ。{0c:2b50091501}",
    "read": "{1c:1c}{0b:08}【 レイア 】{0b:09}\n私には私のやり方がある。\n用がないのなら出ていってくれ。{0c:2b50091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Leia 】{0b:09}\nI have my own way of doing things. If you\nhave no business here, please leave.{0c:2b50091501}",
+   "status": "done",
+   "tl": "I have my own way of doing things. If you have no business here, please leave."
   },
   {
    "id": "RES#308:8e91",
@@ -1345,8 +1420,9 @@
    "jp": "{1c:15}{0b:08}{e080} パスカ {e081}{0b:09}\nあのなあ・・・{1a}{0c:5105}そうだ、自{e09b}{e09c}{e09d}くらいしろよ。{0c:2903091501}",
    "read": "{1c:15}{0b:08}【 パスカ 】{0b:09}\nあのなあ・・・{1a}{0c:5105}そうだ、自己紹介くらいしろよ。{0c:2903091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Pasca 】{0b:09}\nLook, you...{1a}{0c:5105}Oh yeah, at least introduce yourself.{0c:2903091501}",
+   "status": "done",
+   "tl": "Look, you... // [1]Oh yeah, at least introduce yourself."
   },
   {
    "id": "RES#308:8eca",
@@ -1356,8 +1432,9 @@
    "jp": "{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\n私の{e09e}はレイア・・・{0c:2b50091501}",
    "read": "{1c:10}{0b:08}【 レイア 】{0b:09}\n私の名はレイア・・・{0c:2b50091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Leia 】{0b:09}\nMy name is Leia...{0c:2b50091501}",
+   "status": "done",
+   "tl": "My name is Leia..."
   },
   {
    "id": "RES#308:8ef1",
@@ -1367,8 +1444,9 @@
    "jp": "{1c:15}{0b:08}{e080} パスカ {e081}{0b:09}\nレイア・・・で、下の{e09e}は?{0c:2903091501}",
    "read": "{1c:15}{0b:08}【 パスカ 】{0b:09}\nレイア・・・で、下の名は?{0c:2903091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Pasca 】{0b:09}\nLeia... and your family name?{0c:2903091501}",
+   "status": "done",
+   "tl": "Leia... and your family name?"
   },
   {
    "id": "RES#308:8f1b",
@@ -1390,8 +1468,9 @@
    "jp": "{0c:520607}{1c:16}{0b:08}{e080} パスカ {e081}{0b:09}\nなあんだ、オレと同じ平{e090}か。\nてっきり、どこぞの貴{e093}の\nお嬢さんかと思ったよ。{1a}{0c:5108}よろしくな、レイア。\nまあ気楽にやろうぜ。{0c:2903091501}",
    "read": "{0c:520607}{1c:16}{0b:08}【 パスカ 】{0b:09}\nなあんだ、オレと同じ平民か。\nてっきり、どこぞの貴族の\nお嬢さんかと思ったよ。{1a}{0c:5108}よろしくな、レイア。\nまあ気楽にやろうぜ。{0c:2903091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520607}{1c:16}{0b:08}【 Pasca 】{0b:09}\nAw, so you're a commoner, same as me.\nFigured you for some noble's daughter or\nsomethin'.{1a}{0c:5108}Good to know ya, Leia. Let's just take it\neasy, huh?{0c:2903091501}",
+   "status": "done",
+   "tl": "Aw, so you're a commoner, same as me. Figured you for some noble's daughter or somethin'. // [1]Good to know ya, Leia. Let's just take it easy, huh?"
   },
   {
    "id": "RES#308:8fa7",
@@ -1424,8 +1503,9 @@
    "jp": "{1c:1c}{0b:08}{e080} レイア {e081}{0b:09}\nわかった。行こう。{0c:2b50091501}",
    "read": "{1c:1c}{0b:08}【 レイア 】{0b:09}\nわかった。行こう。{0c:2b50091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Leia 】{0b:09}\nVery well. Let us go.{0c:2b50091501}",
+   "status": "done",
+   "tl": "Very well. Let us go."
   },
   {
    "id": "RES#308:8ff3",
@@ -1435,8 +1515,9 @@
    "jp": "{0c:520304}{1c:16}{0b:08}{e080} パスカ {e081}{0b:09}\n気楽にな、レイア。{0c:2903091501}",
    "read": "{0c:520304}{1c:16}{0b:08}【 パスカ 】{0b:09}\n気楽にな、レイア。{0c:2903091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520304}{1c:16}{0b:08}【 Pasca 】{0b:09}\nTake it easy, Leia.{0c:2903091501}",
+   "status": "done",
+   "tl": "Take it easy, Leia."
   },
   {
    "id": "RES#308:901e",
@@ -1457,8 +1538,9 @@
    "jp": "{1c:1c}{0b:08}{e080} レイア {e081}{0b:09}\nならばもう話すことはない。{0c:2b50091501}",
    "read": "{1c:1c}{0b:08}【 レイア 】{0b:09}\nならばもう話すことはない。{0c:2b50091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Leia 】{0b:09}\nThen we have nothing more to discuss.{0c:2b50091501}",
+   "status": "done",
+   "tl": "Then we have nothing more to discuss."
   },
   {
    "id": "RES#308:9057",
@@ -1468,8 +1550,9 @@
    "jp": "{0c:520304}{1c:16}{0b:08}{e080} パスカ {e081}{0b:09}\nまた{e097}びに来るぜ。\nなんか、意地でも\n笑わせたくなったしな。{0c:2903091501}",
    "read": "{0c:520304}{1c:16}{0b:08}【 パスカ 】{0b:09}\nまた遊びに来るぜ。\nなんか、意地でも\n笑わせたくなったしな。{0c:2903091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520304}{1c:16}{0b:08}【 Pasca 】{0b:09}\nI'll drop by again. Now I'm damn set on\nmakin' ya smile, just outta spite.{0c:2903091501}",
+   "status": "done",
+   "tl": "I'll drop by again. Now I'm damn set on makin' ya smile, just outta spite."
   },
   {
    "id": "RES#308:9099",
@@ -1502,8 +1585,9 @@
    "jp": "{1c:1c}{0b:08}{e080} レイア {e081}{0b:09}\n用がないなら出ていけばどうだ?",
    "read": "{1c:1c}{0b:08}【 レイア 】{0b:09}\n用がないなら出ていけばどうだ?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Leia 】{0b:09}\nIf you have no business here, why not\nleave?",
+   "status": "done",
+   "tl": "If you have no business here, why not leave?"
   },
   {
    "id": "RES#308:90ec",
@@ -1524,8 +1608,9 @@
    "jp": "{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\nそれだけ人{e08d}がいれば\n私は必要ないだろう?{0c:2b50091501}",
    "read": "{1c:10}{0b:08}【 レイア 】{0b:09}\nそれだけ人数がいれば\n私は必要ないだろう?{0c:2b50091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Leia 】{0b:09}\nWith that many in your party, you have\nno need of me, surely?{0c:2b50091501}",
+   "status": "done",
+   "tl": "With that many in your party, you have no need of me, surely?"
   },
   {
    "id": "RES#308:9153",
@@ -1535,8 +1620,9 @@
    "jp": "{0c:5101}{1c:15}{0b:08}{e080} パスカ {e081}{0b:09}\nえらく無愛想な子だよな・・・{1a}{0c:5102}そういや、この町に来る途中でも\n一言も喋らなかったし、\n1度も笑ってるところ\n見たことねえもんな。{0c:2903091501}",
    "read": "{0c:5101}{1c:15}{0b:08}【 パスカ 】{0b:09}\nえらく無愛想な子だよな・・・{1a}{0c:5102}そういや、この町に来る途中でも\n一言も喋らなかったし、\n1度も笑ってるところ\n見たことねえもんな。{0c:2903091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5101}{1c:15}{0b:08}【 Pasca 】{0b:09}\nReal unfriendly girl, ain't she...{1a}{0c:5102}Come to think of it, she didn't say one\nword on the way to this town, and I ain't\nseen her smile even once.{0c:2903091501}",
+   "status": "done",
+   "tl": "Real unfriendly girl, ain't she... // [1]Come to think of it, she didn't say one word on the way to this town, and I ain't seen her smile even once."
   },
   {
    "id": "RES#308:91c5",
@@ -1546,8 +1632,9 @@
    "jp": "{0c:2b505501}{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\n私は{e097}びに来たわけじゃない。\nお前はここに{e097}びに来たのか?{0c:2b50091501}",
    "read": "{0c:2b505501}{1c:10}{0b:08}【 レイア 】{0b:09}\n私は遊びに来たわけじゃない。\nお前はここに遊びに来たのか?{0c:2b50091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b505501}{1c:10}{0b:08}【 Leia 】{0b:09}\nI did not come here to play. Did you come\nhere to play?{0c:2b50091501}",
+   "status": "done",
+   "tl": "I did not come here to play. Did you come here to play?"
   },
   {
    "id": "RES#308:9209",
@@ -1557,8 +1644,9 @@
    "jp": "{1c:15}{0b:08}{e080} パスカ {e081}{0b:09}\nそりゃそうだけどさ、\n町にいるときくらい\n気楽にやってもいいじゃねえか。{1a}{0c:520304}これから地面の下で\nおっかねえ{e098}け物どもと\n戦わなきゃならねえっていうのによ、{1a}自分の{e099}{e09a}にいるときまで\n気を張ってちゃ、\nいざってときに力が出ねえぜ。{0c:2903091501}",
    "read": "{1c:15}{0b:08}【 パスカ 】{0b:09}\nそりゃそうだけどさ、\n町にいるときくらい\n気楽にやってもいいじゃねえか。{1a}{0c:520304}これから地面の下で\nおっかねえ化け物どもと\n戦わなきゃならねえっていうのによ、{1a}自分の部屋にいるときまで\n気を張ってちゃ、\nいざってときに力が出ねえぜ。{0c:2903091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Pasca 】{0b:09}\nWell, sure, but ya can take it easy while\nyou're in town, can't ya?{1a}{0c:520304}We gotta go underground and fight\nscary damn monsters from here on out,{1a}and if you're wound up tight even in your\nown room, you'll have nothin' left when it\ncounts.{0c:2903091501}",
+   "status": "done",
+   "tl": "Well, sure, but ya can take it easy while you're in town, can't ya? // [1]We gotta go underground and fight scary damn monsters from here on out, // and if you're wound up tight even in your own room, you'll have nothin' left when it counts."
   },
   {
    "id": "RES#308:92aa",
@@ -1568,8 +1656,9 @@
    "jp": "{1c:1c}{0b:08}{e080} レイア {e081}{0b:09}\n私には私のやり方がある。\n用がないのなら出ていってくれ。{0c:2b50091501}",
    "read": "{1c:1c}{0b:08}【 レイア 】{0b:09}\n私には私のやり方がある。\n用がないのなら出ていってくれ。{0c:2b50091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Leia 】{0b:09}\nI have my own way of doing things. If you\nhave no business here, please leave.{0c:2b50091501}",
+   "status": "done",
+   "tl": "I have my own way of doing things. If you have no business here, please leave."
   },
   {
    "id": "RES#308:92e5",
@@ -1579,8 +1668,9 @@
    "jp": "{1c:15}{0b:08}{e080} パスカ {e081}{0b:09}\nあのなあ・・・{1a}{0c:5105}そうだ、{e09e}前くらい{e0a0}えろよ。{0c:2903091501}",
    "read": "{1c:15}{0b:08}【 パスカ 】{0b:09}\nあのなあ・・・{1a}{0c:5105}そうだ、名前くらい教えろよ。{0c:2903091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Pasca 】{0b:09}\nLook, you...{1a}{0c:5105}Oh yeah, at least tell me your name.{0c:2903091501}",
+   "status": "done",
+   "tl": "Look, you... // [1]Oh yeah, at least tell me your name."
   },
   {
    "id": "RES#308:931c",
@@ -1590,8 +1680,9 @@
    "jp": "{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\n私の{e09e}はレイア・・・{0c:2b50091501}",
    "read": "{1c:10}{0b:08}【 レイア 】{0b:09}\n私の名はレイア・・・{0c:2b50091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Leia 】{0b:09}\nMy name is Leia...{0c:2b50091501}",
+   "status": "done",
+   "tl": "My name is Leia..."
   },
   {
    "id": "RES#308:9343",
@@ -1601,8 +1692,9 @@
    "jp": "{1c:15}{0b:08}{e080} パスカ {e081}{0b:09}\nレイア・・・で、下の{e09e}は?{0c:2903091501}",
    "read": "{1c:15}{0b:08}【 パスカ 】{0b:09}\nレイア・・・で、下の名は?{0c:2903091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Pasca 】{0b:09}\nLeia... and your family name?{0c:2903091501}",
+   "status": "done",
+   "tl": "Leia... and your family name?"
   },
   {
    "id": "RES#308:936d",
@@ -1624,8 +1716,9 @@
    "jp": "{0c:520607}{1c:16}{0b:08}{e080} パスカ {e081}{0b:09}\nなあんだ、オレと同じ平{e090}か。\nてっきり、どこぞの貴{e093}の\nお嬢さんかと思ったよ。{1a}{0c:5108}よろしくな、レイア。\nまあ気楽にやろうぜ。{0c:2903091501}",
    "read": "{0c:520607}{1c:16}{0b:08}【 パスカ 】{0b:09}\nなあんだ、オレと同じ平民か。\nてっきり、どこぞの貴族の\nお嬢さんかと思ったよ。{1a}{0c:5108}よろしくな、レイア。\nまあ気楽にやろうぜ。{0c:2903091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520607}{1c:16}{0b:08}【 Pasca 】{0b:09}\nAw, so you're a commoner, same as me.\nFigured you for some noble's daughter or\nsomethin'.{1a}{0c:5108}Good to know ya, Leia. Let's just take it\neasy, huh?{0c:2903091501}",
+   "status": "done",
+   "tl": "Aw, so you're a commoner, same as me. Figured you for some noble's daughter or somethin'. // [1]Good to know ya, Leia. Let's just take it easy, huh?"
   },
   {
    "id": "RES#308:93f9",
@@ -1658,8 +1751,9 @@
    "jp": "{1c:1c}{0b:08}{e080} レイア {e081}{0b:09}\n話すことはない。\n出ていってくれ。",
    "read": "{1c:1c}{0b:08}【 レイア 】{0b:09}\n話すことはない。\n出ていってくれ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Leia 】{0b:09}\nWe have nothing to discuss. Please leave.",
+   "status": "done",
+   "tl": "We have nothing to discuss. Please leave."
   },
   {
    "id": "RES#308:9453",
@@ -1669,8 +1763,9 @@
    "jp": "{0c:3160009a00881002501651003a00}{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\n何の用だ?{0c:1501}",
    "read": "{0c:3160009a00881002501651003a00}{1c:10}{0b:08}【 レイア 】{0b:09}\n何の用だ?{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:3160009a00881002501651003a00}{1c:10}{0b:08}【 Leia 】{0b:09}\nWhat is your business?{0c:1501}",
+   "status": "done",
+   "tl": "What is your business?"
   },
   {
    "id": "RES#308:9482",
@@ -1691,8 +1786,9 @@
    "jp": "{1c:1c}誰が死のうと私には関係ない。\n人助けがしたいのであれば\n他をあたれ。{0c:16}",
    "read": "{1c:1c}誰が死のうと私には関係ない。\n人助けがしたいのであれば\n他をあたれ。{0c:16}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}Who dies is no concern of mine. If you\nwish to help people, look elsewhere.{0c:16}",
+   "status": "done",
+   "tl": "Who dies is no concern of mine. If you wish to help people, look elsewhere."
   },
   {
    "id": "RES#308:94b8",
@@ -1714,8 +1810,9 @@
    "jp": "{1c:1c}用がないなら出ていけばどうだ?",
    "read": "{1c:1c}用がないなら出ていけばどうだ?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}If you have no business here, why not\nleave?",
+   "status": "done",
+   "tl": "If you have no business here, why not leave?"
   },
   {
    "id": "RES#308:94d9",
@@ -1736,8 +1833,9 @@
    "jp": "{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\n何の用だ?{0c:1501}",
    "read": "{1c:10}{0b:08}【 レイア 】{0b:09}\n何の用だ?{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Leia 】{0b:09}\nWhat is your business?{0c:1501}",
+   "status": "done",
+   "tl": "What is your business?"
   },
   {
    "id": "RES#308:953e",
@@ -1758,8 +1856,9 @@
    "jp": "{1c:1c}{0b:08}{e080} レイア {e081}{0b:09}\n誰が死のうと私には関係ない。\n人助けがしたいのであれば\n他をあたれ。{0c:2b50091501}",
    "read": "{1c:1c}{0b:08}【 レイア 】{0b:09}\n誰が死のうと私には関係ない。\n人助けがしたいのであれば\n他をあたれ。{0c:2b50091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Leia 】{0b:09}\nWho dies is no concern of mine. If you\nwish to help people, look elsewhere.{0c:2b50091501}",
+   "status": "done",
+   "tl": "Who dies is no concern of mine. If you wish to help people, look elsewhere."
   },
   {
    "id": "RES#308:9588",
@@ -1769,8 +1868,9 @@
    "jp": "{1c:17}{0b:08}{e080} シャルン {e081}{0b:09}\nもう少し言い方を変えたら?{1a}手伝わないのは別にいいよ。\nあなたにも理由があるんだろうから。{1a}でも、そんな言い方してると、\n誰もあなたの事\n信じられなくなっちゃうよ。{0c:2903091501}",
    "read": "{1c:17}{0b:08}【 シャルン 】{0b:09}\nもう少し言い方を変えたら?{1a}手伝わないのは別にいいよ。\nあなたにも理由があるんだろうから。{1a}でも、そんな言い方してると、\n誰もあなたの事\n信じられなくなっちゃうよ。{0c:2903091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Scharn 】{0b:09}\nCouldn't you say it a little differently?{1a}It's fine if you don't want to help! You\nmust have your reasons.{1a}But if you talk like that, nobody's going\nto be able to trust you, you know!{0c:2903091501}",
+   "status": "done",
+   "tl": "Couldn't you say it a little differently? // It's fine if you don't want to help! You must have your reasons. // But if you talk like that, nobody's going to be able to trust you, you know!"
   },
   {
    "id": "RES#308:9605",
@@ -1780,8 +1880,9 @@
    "jp": "{1c:1c}{0b:08}{e080} レイア {e081}{0b:09}\n信じられたいとも思わない。{0c:2b50091501}",
    "read": "{1c:1c}{0b:08}【 レイア 】{0b:09}\n信じられたいとも思わない。{0c:2b50091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Leia 】{0b:09}\nI have no wish to be trusted.{0c:2b50091501}",
+   "status": "done",
+   "tl": "I have no wish to be trusted."
   },
   {
    "id": "RES#308:962e",
@@ -1791,8 +1892,9 @@
    "jp": "{0c:5101}{1c:18}{0b:08}{e080} シャルン {e081}{0b:09}\nさみしいね。\n1人で生きていく気?{0c:2903091501}",
    "read": "{0c:5101}{1c:18}{0b:08}【 シャルン 】{0b:09}\nさみしいね。\n1人で生きていく気?{0c:2903091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5101}{1c:18}{0b:08}【 Scharn 】{0b:09}\nThat's so lonely... You really mean to live\nall by yourself?{0c:2903091501}",
+   "status": "done",
+   "tl": "That's so lonely... You really mean to live all by yourself?"
   },
   {
    "id": "RES#308:9664",
@@ -1802,8 +1904,9 @@
    "jp": "{0c:5110}{1c:1c}{0b:08}{e080} レイア {e081}{0b:09}\n・・・用がないなら\n出ていけばどうだ?{0c:2b50091501}",
    "read": "{0c:5110}{1c:1c}{0b:08}【 レイア 】{0b:09}\n・・・用がないなら\n出ていけばどうだ?{0c:2b50091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5110}{1c:1c}{0b:08}【 Leia 】{0b:09}\n...If you have no business here, why do\nyou not leave?{0c:2b50091501}",
+   "status": "done",
+   "tl": "...If you have no business here, why do you not leave?"
   },
   {
    "id": "RES#308:9698",
@@ -1813,8 +1916,9 @@
    "jp": "{1c:18}{0b:08}{e080} シャルン {e081}{0b:09}\n人の生き方考え方を\nどうこう言うなんて\nあたしはそんなに偉くないけど、{1a}あなた見てると痛{e088}しいよ。{0c:2903091501}",
    "read": "{1c:18}{0b:08}【 シャルン 】{0b:09}\n人の生き方考え方を\nどうこう言うなんて\nあたしはそんなに偉くないけど、{1a}あなた見てると痛々しいよ。{0c:2903091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Scharn 】{0b:09}\nI'm not so great that I can tell people\nhow to live or think, but{1a}it hurts just watching you!{0c:2903091501}",
+   "status": "done",
+   "tl": "I'm not so great that I can tell people how to live or think, but // it hurts just watching you!"
   },
   {
    "id": "RES#308:96ee",
@@ -1835,8 +1939,9 @@
    "jp": "{1c:12}{0b:08}{e080} レイア {e081}{0b:09}\nお前達にわかるものか・・・{0c:020201}",
    "read": "{1c:12}{0b:08}【 レイア 】{0b:09}\nお前達にわかるものか・・・{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Leia 】{0b:09}\nAs if you could understand...{0c:020201}",
+   "status": "done",
+   "tl": "As if you could understand..."
   },
   {
    "id": "RES#308:971c",
@@ -1869,8 +1974,9 @@
    "jp": "{1c:1c}{0b:08}{e080} レイア {e081}{0b:09}\n用がないなら出ていけばどうだ?",
    "read": "{1c:1c}{0b:08}【 レイア 】{0b:09}\n用がないなら出ていけばどうだ?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Leia 】{0b:09}\nIf you have no business here, why not\nleave?",
+   "status": "done",
+   "tl": "If you have no business here, why not leave?"
   },
   {
    "id": "RES#308:976f",
@@ -1891,8 +1997,9 @@
    "jp": "{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\n誰が死のうと私には関係ない。\n人助けがしたいのであれば\n他をあたれ。{0c:2b50091501}",
    "read": "{1c:10}{0b:08}【 レイア 】{0b:09}\n誰が死のうと私には関係ない。\n人助けがしたいのであれば\n他をあたれ。{0c:2b50091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Leia 】{0b:09}\nWho dies is no concern of mine. If you\nwish to help people, look elsewhere.{0c:2b50091501}",
+   "status": "done",
+   "tl": "Who dies is no concern of mine. If you wish to help people, look elsewhere."
   },
   {
    "id": "RES#308:97f9",
@@ -1913,8 +2020,9 @@
    "jp": "{1c:19}{0b:08}{e080} オルフェウス {e081}{0b:09}\n残念だなあ。\nじゃあ他をあたりましょうか。{0c:1501}",
    "read": "{1c:19}{0b:08}【 オルフェウス 】{0b:09}\n残念だなあ。\nじゃあ他をあたりましょうか。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Orpheus 】{0b:09}\nWhat a pity. Well then, shall we try\nelsewhere?{0c:1501}",
+   "status": "done",
+   "tl": "What a pity. Well then, shall we try elsewhere?"
   },
   {
    "id": "RES#308:9832",
@@ -1935,8 +2043,9 @@
    "jp": "{0c:5102}{1c:19}{0b:08}{e080} オルフェウス {e081}{0b:09}\nそうそう、一言言い忘れました。\n『{e0a1}し物』があるのなら\n味方は多い方がよくありませんか?{0c:2903091501}",
    "read": "{0c:5102}{1c:19}{0b:08}【 オルフェウス 】{0b:09}\nそうそう、一言言い忘れました。\n『探し物』があるのなら\n味方は多い方がよくありませんか?{0c:2903091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5102}{1c:19}{0b:08}【 Orpheus 】{0b:09}\nOh, yes, I neglected to say one thing. If\nyou have 'something to find', surely you\nwould be better off with plenty of{1a}allies?{0c:2903091501}",
+   "status": "done",
+   "tl": "Oh, yes, I neglected to say one thing. If you have 'something to find', surely you would be better off with plenty of allies?"
   },
   {
    "id": "RES#308:989d",
@@ -1957,8 +2066,9 @@
    "jp": "{1c:1a}友達ってのは\n利用するためにあるんです。{1a}こういう時にこそ\n利用出来そうな駒を{e0a3}らなきゃ。\n要{e0a4}悪いですよ、レイアさん。{0c:2903091501}",
    "read": "{1c:1a}友達ってのは\n利用するためにあるんです。{1a}こういう時にこそ\n利用出来そうな駒を作らなきゃ。\n要領悪いですよ、レイアさん。{0c:2903091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}Friends exist to be used, you see.{1a}It is at times like this that one must\nmake a few useful pawns. How very inept\nof you, Leia-san.{0c:2903091501}",
+   "status": "done",
+   "tl": "Friends exist to be used, you see. // It is at times like this that one must make a few useful pawns. How very inept of you, Leia-san."
   },
   {
    "id": "RES#308:98ff",
@@ -1991,8 +2101,9 @@
    "jp": "{1c:1c}{0b:08}{e080} レイア {e081}{0b:09}\n用などあるまい。\n早く出ていけばどうだ?",
    "read": "{1c:1c}{0b:08}【 レイア 】{0b:09}\n用などあるまい。\n早く出ていけばどうだ?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Leia 】{0b:09}\nYou can have no business here. Why do\nyou not hurry and leave?",
+   "status": "done",
+   "tl": "You can have no business here. Why do you not hurry and leave?"
   },
   {
    "id": "RES#308:9978",
@@ -2002,8 +2113,9 @@
    "jp": "{0c:3160009a00881002501651003a00}{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\n何の用だ?{0c:1501}",
    "read": "{0c:3160009a00881002501651003a00}{1c:10}{0b:08}【 レイア 】{0b:09}\n何の用だ?{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:3160009a00881002501651003a00}{1c:10}{0b:08}【 Leia 】{0b:09}\nWhat is your business?{0c:1501}",
+   "status": "done",
+   "tl": "What is your business?"
   },
   {
    "id": "RES#308:99a7",
@@ -2024,8 +2136,9 @@
    "jp": "{1c:11}わかった。",
    "read": "{1c:11}わかった。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Very well.",
+   "status": "done",
+   "tl": "Very well."
   },
   {
    "id": "RES#308:99b3",
@@ -2047,8 +2160,9 @@
    "jp": "{1c:10}用がないなら出ていけばどうだ?",
    "read": "{1c:10}用がないなら出ていけばどうだ?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}If you have no business here, why not\nleave?",
+   "status": "done",
+   "tl": "If you have no business here, why not leave?"
   },
   {
    "id": "RES#308:99d4",
@@ -2092,8 +2206,9 @@
    "jp": "{1c:10}何のつもりだ!?{0c:51ffffffff54151e}",
    "read": "{1c:10}何のつもりだ!?{0c:51ffffffff54151e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}What do you think you are doing!?{0c:51ffffffff54151e}",
+   "status": "done",
+   "tl": "What do you think you are doing!?"
   },
   {
    "id": "RES#308:99f2",
@@ -2103,8 +2218,9 @@
    "jp": "{1c:10}何のつもりだと訊いている!",
    "read": "{1c:10}何のつもりだと訊いている!",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I asked what you think you are doing!",
+   "status": "done",
+   "tl": "I asked what you think you are doing!"
   },
   {
    "id": "RES#308:9a05",
@@ -2114,8 +2230,9 @@
    "jp": "{1c:10}容赦はしない!{0c:1501}",
    "read": "{1c:10}容赦はしない!{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I will show no mercy!{0c:1501}",
+   "status": "done",
+   "tl": "I will show no mercy!"
   },
   {
    "id": "RES#308:9a16",
@@ -2136,8 +2253,9 @@
    "jp": "{1c:10}何のつもりだ!!{0c:51ffffffff54151e}",
    "read": "{1c:10}何のつもりだ!!{0c:51ffffffff54151e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}What do you think you are doing!!{0c:51ffffffff54151e}",
+   "status": "done",
+   "tl": "What do you think you are doing!!"
   },
   {
    "id": "RES#308:9a40",
@@ -2159,8 +2277,9 @@
    "jp": "{1c:10}たとえお前でも容赦はしない!{0c:1501}",
    "read": "{1c:10}たとえお前でも容赦はしない!{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Even you will get no mercy from me!{0c:1501}",
+   "status": "done",
+   "tl": "Even you will get no mercy from me!"
   },
   {
    "id": "RES#308:9a62",
@@ -2181,8 +2300,9 @@
    "jp": "{1c:10}お前如きに倒されはしない!{0c:1501}",
    "read": "{1c:10}お前如きに倒されはしない!{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I will not fall to the likes of you!{0c:1501}",
+   "status": "done",
+   "tl": "I will not fall to the likes of you!"
   },
   {
    "id": "RES#308:9a8d",
@@ -2203,8 +2323,9 @@
    "jp": "{1c:10}続けるがいい。\n目的を遂げるのに必要なのは\nこの{e08c}だけ。他に何も要らない。{0c:153b0700}",
    "read": "{1c:10}続けるがいい。\n目的を遂げるのに必要なのは\nこの剣だけ。他に何も要らない。{0c:153b0700}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Go on, then. To reach my goal I need only\nthis sword. I require nothing else.{0c:153b0700}",
+   "status": "done",
+   "tl": "Go on, then. To reach my goal I need only this sword. I require nothing else."
   },
   {
    "id": "RES#308:9ad8",
@@ -2214,8 +2335,9 @@
    "jp": "{0c:5104}{1c:10}もう終いか?{0c:15}",
    "read": "{0c:5104}{1c:10}もう終いか?{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5104}{1c:10}Is that all?{0c:15}",
+   "status": "done",
+   "tl": "Is that all?"
   },
   {
    "id": "RES#308:9aea",
@@ -2225,8 +2347,9 @@
    "jp": "{0c:5104}{1c:10}お前の相手などするつもりはない。",
    "read": "{0c:5104}{1c:10}お前の相手などするつもりはない。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5104}{1c:10}I have no intention of dealing with you.",
+   "status": "done",
+   "tl": "I have no intention of dealing with you."
   },
   {
    "id": "RES#308:9b04",
@@ -2236,8 +2359,9 @@
    "jp": "{1c:10}好きにするがいい。{0c:153b0700}",
    "read": "{1c:10}好きにするがいい。{0c:153b0700}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Do as you please.{0c:153b0700}",
+   "status": "done",
+   "tl": "Do as you please."
   },
   {
    "id": "RES#308:9b17",
@@ -2247,8 +2371,9 @@
    "jp": "{1c:10}もう気がすんだのか?",
    "read": "{1c:10}もう気がすんだのか?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Are you satisfied now?",
+   "status": "done",
+   "tl": "Are you satisfied now?"
   },
   {
    "id": "RES#308:9b26",
@@ -2258,8 +2383,9 @@
    "jp": "{1c:10}好きにするがいい。\n目的を遂げるのに必要なのは\nこの{e08c}だけ。他に何も要らない。{0c:153b0800}",
    "read": "{1c:10}好きにするがいい。\n目的を遂げるのに必要なのは\nこの剣だけ。他に何も要らない。{0c:153b0800}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Do as you please. To reach my goal I\nneed only this sword. I require nothing\nelse.{0c:153b0800}",
+   "status": "done",
+   "tl": "Do as you please. To reach my goal I need only this sword. I require nothing else."
   },
   {
    "id": "RES#308:9b60",
@@ -2269,8 +2395,9 @@
    "jp": "{1c:10}好きにするがいい。",
    "read": "{1c:10}好きにするがいい。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Do as you please.",
+   "status": "done",
+   "tl": "Do as you please."
   },
   {
    "id": "RES#308:9b6d",
@@ -2280,8 +2407,9 @@
    "jp": "{1c:10}何がしたいのだ・・・?",
    "read": "{1c:10}何がしたいのだ・・・?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}What is it you want...?",
+   "status": "done",
+   "tl": "What is it you want...?"
   },
   {
    "id": "RES#308:9b7d",
@@ -2291,8 +2419,9 @@
    "jp": "{1c:10}好きにするがいい。\n目的を遂げるのに必要なのは\nこの{e08c}だけ。他に何も要らない。{0c:153b0800}",
    "read": "{1c:10}好きにするがいい。\n目的を遂げるのに必要なのは\nこの剣だけ。他に何も要らない。{0c:153b0800}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Do as you please. To reach my goal I\nneed only this sword. I require nothing\nelse.{0c:153b0800}",
+   "status": "done",
+   "tl": "Do as you please. To reach my goal I need only this sword. I require nothing else."
   },
   {
    "id": "RES#308:9bb7",
@@ -2302,8 +2431,9 @@
    "jp": "{1c:10}好きにするがいい・・・",
    "read": "{1c:10}好きにするがいい・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Do as you please...",
+   "status": "done",
+   "tl": "Do as you please..."
   },
   {
    "id": "RES#308:9bc6",
@@ -2313,8 +2443,9 @@
    "jp": "{1c:10}私にはお前が何をしたいのか\n解らない・・・",
    "read": "{1c:10}私にはお前が何をしたいのか\n解らない・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I do not understand what it is you want...",
+   "status": "done",
+   "tl": "I do not understand what it is you want..."
   },
   {
    "id": "RES#308:9be2",
@@ -2324,8 +2455,9 @@
    "jp": "{1c:10}くっ・・・この程度の傷など・・・",
    "read": "{1c:10}くっ・・・この程度の傷など・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Ngh... A wound like this is nothing...",
+   "status": "done",
+   "tl": "Ngh... A wound like this is nothing..."
   },
   {
    "id": "RES#308:9bf8",
@@ -2335,8 +2467,9 @@
    "jp": "{1c:10}心配するな・・・ \n裏切られるのはもう慣れた・・・",
    "read": "{1c:10}心配するな・・・ \n裏切られるのはもう慣れた・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Do not worry... I am used to betrayal by\nnow...",
+   "status": "done",
+   "tl": "Do not worry... I am used to betrayal by now..."
   },
   {
    "id": "RES#308:9c19",
@@ -2357,8 +2490,9 @@
    "jp": "お前が何をしようと私には関係ない。",
    "read": "お前が何をしようと私には関係ない。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "What you do is no concern of mine.",
+   "status": "done",
+   "tl": "What you do is no concern of mine."
   },
   {
    "id": "RES#308:9c34",
@@ -2379,8 +2513,9 @@
    "jp": "好きにするがいい・・・{1a}だが、考えもなしに行動することが\nどんなに危険なことか、{1a}そして、どんなに{e0a7}{e0a8}を\n不幸にするか・・・\nお前も知っておくべきだ。{0c:15}",
    "read": "好きにするがいい・・・{1a}だが、考えもなしに行動することが\nどんなに危険なことか、{1a}そして、どんなに周囲を\n不幸にするか・・・\nお前も知っておくべきだ。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Do as you please...{1a}But how dangerous it is to act without\nthought,{1a}and how much misery it brings on those\naround you... You should know that as\nwell.{0c:15}",
+   "status": "done",
+   "tl": "Do as you please... // But how dangerous it is to act without thought, // and how much misery it brings on those around you... You should know that as well."
   },
   {
    "id": "RES#308:9c93",
@@ -2413,8 +2548,9 @@
    "jp": "やるなら他の場所でやれ。",
    "read": "やるなら他の場所でやれ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "If you mean to do this, do it elsewhere.",
+   "status": "done",
+   "tl": "If you mean to do this, do it elsewhere."
   },
   {
    "id": "RES#308:9cae",
@@ -2436,8 +2572,9 @@
    "jp": "お前が何をしようと私には関係ない。",
    "read": "お前が何をしようと私には関係ない。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "What you do is no concern of mine.",
+   "status": "done",
+   "tl": "What you do is no concern of mine."
   },
   {
    "id": "RES#308:9ccf",
@@ -2459,8 +2596,9 @@
    "jp": "{10}・・・\nお前は何をそんなに焦っている?{0c:15}",
    "read": "{10}・・・\nお前は何をそんなに焦っている?{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{10}... What are you so desperate\nabout?{0c:15}",
+   "status": "done",
+   "tl": "[HERO]... What are you so desperate about?"
   },
   {
    "id": "RES#308:9cf5",
@@ -2494,8 +2632,9 @@
    "jp": "その場の衝動のみで\n行動する人間・・・\n見ていて反吐が出る。",
    "read": "その場の衝動のみで\n行動する人間・・・\n見ていて反吐が出る。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "People who act on nothing but the\nimpulse of the moment... It sickens me to\nwatch them.",
+   "status": "done",
+   "tl": "People who act on nothing but the impulse of the moment... It sickens me to watch them."
   }
  ],
  "entry": 308

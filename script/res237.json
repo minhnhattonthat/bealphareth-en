@@ -41,8 +41,9 @@
    "jp": "{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\nお前と始めた傭兵の仕事も\n{e084}日で丁度3{e085}か・・・{0c:fe}",
    "read": "{1c:10}{0b:08}【 レイア 】{0b:09}\nお前と始めた傭兵の仕事も\n明日で丁度3年か・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Leia 】{0b:09}\nTomorrow marks exactly three years\nsince you and I took up this mercenary\nwork...{0c:fe}",
+   "status": "done",
+   "tl": "Tomorrow marks exactly three years since you and I took up this mercenary work..."
   },
   {
    "id": "RES#237:42bf3",
@@ -63,8 +64,9 @@
    "jp": "{1c:10}この{01}3{e085}{02}、\n本当に{e086}{e087}な事があったな・・・{0c:022801f20300f4fe}",
    "read": "{1c:10}この{01}3年{02}、\n本当に色々な事があったな・・・{0c:022801f20300f4fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}These three years... So many things have\nhappened...{0c:022801f20300f4fe}",
+   "status": "done",
+   "tl": "These three years... So many things have happened..."
   },
   {
    "id": "RES#237:42c29",
@@ -85,8 +87,9 @@
    "jp": "{1c:10}そうだな・・・\n{e088}くないと言えば{e089}になる。{1a}相手は魔物じゃない、\n自分と同じ人間・・・{1a}しかも、何の恨みもない相手を\n{e08a}らねばならないのだから・・・{1a}でも大丈夫だ・・・\n心配はいらない、まだ戦える。{0c:fe}",
    "read": "{1c:10}そうだな・・・\n辛くないと言えば嘘になる。{1a}相手は魔物じゃない、\n自分と同じ人間・・・{1a}しかも、何の恨みもない相手を\n斬らねばならないのだから・・・{1a}でも大丈夫だ・・・\n心配はいらない、まだ戦える。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Yes... It would be a lie to say it is not\nhard.{1a}These are not monsters we face, but\npeople like myself...{1a}People, moreover, against whom I hold no\ngrudge, and whom I must cut down all the\nsame...{1a}But I am all right... You need not worry. I\ncan still fight.{0c:fe}",
+   "status": "done",
+   "tl": "Yes... It would be a lie to say it is not hard. // These are not monsters we face, but people like myself... // People, moreover, against whom I hold no grudge, and whom I must cut down all the same... // But I am all right... You need not worry. I can still fight."
   },
   {
    "id": "RES#237:42cb8",
@@ -107,8 +110,9 @@
    "jp": "{0c:5120}{1c:10}お前が・・・\n側にいてくれるなら・・・{0c:fe}",
    "read": "{0c:5120}{1c:10}お前が・・・\n側にいてくれるなら・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5120}{1c:10}As long as you... stay by my side...{0c:fe}",
+   "status": "done",
+   "tl": "As long as you... stay by my side..."
   },
   {
    "id": "RES#237:42ce6",
@@ -129,8 +133,9 @@
    "jp": "{1c:11}い、いや・・・なんでもない。\nただの独り言だ。{0c:fe}",
    "read": "{1c:11}い、いや・・・なんでもない。\nただの独り言だ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}N-no... it is nothing. I was only talking to\nmyself.{0c:fe}",
+   "status": "done",
+   "tl": "N-no... it is nothing. I was only talking to myself."
   },
   {
    "id": "RES#237:42d16",
@@ -151,8 +156,9 @@
    "jp": "{1c:11}な、なんでも・・・ない・・・{0c:fe}",
    "read": "{1c:11}な、なんでも・・・ない・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}N-nothing... it is... nothing...{0c:fe}",
+   "status": "done",
+   "tl": "N-nothing... it is... nothing..."
   },
   {
    "id": "RES#237:42d33",
@@ -173,8 +179,9 @@
    "jp": "{1c:11}もしかして・・・\n聞こえて・・・いたのか・・・?{0c:fe}",
    "read": "{1c:11}もしかして・・・\n聞こえて・・・いたのか・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Could it be... you heard... all of that...?{0c:fe}",
+   "status": "done",
+   "tl": "Could it be... you heard... all of that...?"
   },
   {
    "id": "RES#237:42d62",
@@ -195,8 +202,9 @@
    "jp": "{1c:12}どうも上手くいかないな・・・{1a}ナーダとあんな約束をしてから\nもう3{e085}も経つのに、\n努力はしているつもりなのに、{1a}まだ自分の気持ちを\n上手く言うことが出来ない・・・{1a}あの白い{e08e}の中では素直に言えたのに、\n気持ちはあの頃と変わらない、\nいや、より強くなっているのに、{1a}どうやってこの気持ちを\n{e08f}せばいいのか分からない・・・{1a}本当に{e090}愛くない女だ・・・\n自分が情けなくなる。{0c:fe}",
    "read": "{1c:12}どうも上手くいかないな・・・{1a}ナーダとあんな約束をしてから\nもう3年も経つのに、\n努力はしているつもりなのに、{1a}まだ自分の気持ちを\n上手く言うことが出来ない・・・{1a}あの白い光の中では素直に言えたのに、\n気持ちはあの頃と変わらない、\nいや、より強くなっているのに、{1a}どうやってこの気持ちを\n表せばいいのか分からない・・・{1a}本当に可愛くない女だ・・・\n自分が情けなくなる。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}It never goes well...{1a}Three years have passed since I made\nthat promise to Nada, and though I\nbelieve I have been trying,{1a}I still cannot put my feelings properly\ninto words...{1a}In that white light I could say it honestly,\nand my feelings are no different now...\nno, they have grown stronger,{1a}yet I do not know how to show them...{1a}Truly, I am an unlovable woman... It\nshames me.{0c:fe}",
+   "status": "done",
+   "tl": "It never goes well... // Three years have passed since I made that promise to Nada, and though I believe I have been trying, // I still cannot put my feelings properly into words... // In that white light I could say it honestly, and my feelings are no different now... no, they have grown stronger, // yet I do not know how to show them... // Truly, I am an unlovable woman... It shames me."
   },
   {
    "id": "RES#237:42e61",
@@ -217,8 +225,9 @@
    "jp": "{0c:5150}{1c:10}お前は本当に優しいな・・・{0c:fe}",
    "read": "{0c:5150}{1c:10}お前は本当に優しいな・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5150}{1c:10}You are truly kind...{0c:fe}",
+   "status": "done",
+   "tl": "You are truly kind..."
   },
   {
    "id": "RES#237:42e8b",
@@ -239,8 +248,9 @@
    "jp": "{1c:10}{01}3{e085}間{02}・・・か・・・{1a}{03}アルノ{02}も{01}16才{02}になったはず・・・\nでも、体の弱い子だったから、\nこんな時{e092}を{01}1人{02}で\n生きていけるのかが心配だ・・・{1a}{e093}上もお元気だろうか・・・{0c:fe}",
    "read": "{1c:10}{01}3年間{02}・・・か・・・{1a}{03}アルノ{02}も{01}16才{02}になったはず・・・\nでも、体の弱い子だったから、\nこんな時代を{01}1人{02}で\n生きていけるのかが心配だ・・・{1a}母上もお元気だろうか・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Three years... is it...{1a}Arno must be sixteen now... But he was\na sickly child. I worry whether he can\nsurvive alone in times like these...{1a}I wonder if Mother is well...{0c:fe}",
+   "status": "done",
+   "tl": "Three years... is it... // Arno must be sixteen now... But he was a sickly child. I worry whether he can survive alone in times like these... // I wonder if Mother is well..."
   },
   {
    "id": "RES#237:42f0f",
@@ -261,8 +271,9 @@
    "jp": "{0c:5158}{1c:11}ブランユの城に・・・か?{1a}あそこはカルスの{e095}を下りて\n{e096}っ先に向かったし、\nあの近辺は一軒一軒\n見てまわったが・・・{0c:fe}",
    "read": "{0c:5158}{1c:11}ブランユの城に・・・か?{1a}あそこはカルスの山を下りて\n真っ先に向かったし、\nあの近辺は一軒一軒\n見てまわったが・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5158}{1c:11}To Castle Blanyu...?{1a}That was the first place I went after\ncoming down from the Kars mountains,\nand I searched that area house by\nhouse...{0c:fe}",
+   "status": "done",
+   "tl": "To Castle Blanyu...? // That was the first place I went after coming down from the Kars mountains, and I searched that area house by house..."
   },
   {
    "id": "RES#237:42f75",
@@ -283,8 +294,9 @@
    "jp": "{1c:12}わかった。\nこの戦いが終わったら、\n子供の頃の思い出の場所を\nお前と一緒にまわろう。{1a}帰りには父の墓に\n寄ってもいいだろうか?{1a}お前を{e09a}{e09b}したいんだ。\n初めて好きになった男を・・・{1a}迷惑なら・・・構わないが・・・{0c:fe}",
    "read": "{1c:12}わかった。\nこの戦いが終わったら、\n子供の頃の思い出の場所を\nお前と一緒にまわろう。{1a}帰りには父の墓に\n寄ってもいいだろうか?{1a}お前を紹介したいんだ。\n初めて好きになった男を・・・{1a}迷惑なら・・・構わないが・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Very well. When this battle is over, let us\ngo around the places of my childhood\nmemories, you and I.{1a}On the way back, may we stop at my\nfather's grave?{1a}I want to introduce you to him. The first\nman I ever loved...{1a}If it troubles you... that is fine...{0c:fe}",
+   "status": "done",
+   "tl": "Very well. When this battle is over, let us go around the places of my childhood memories, you and I. // On the way back, may we stop at my father's grave? // I want to introduce you to him. The first man I ever loved... // If it troubles you... that is fine..."
   },
   {
    "id": "RES#237:4300f",
@@ -305,8 +317,9 @@
    "jp": "{0c:5160}{1c:12}ありがとう・{07:05}・{07:05}・{07:14}{1a}{0c:5120}でも本当にいいのか?\nお前にも故{e09c}があるのに、\n私はお前をずっと{e093}と弟を{e09e}す旅に\n付き合わせてしまっている・・・{07:07}{1a}デューラー{e0a0}{e0a1}が消滅し、\nこの地方の勢力地図が\n大きく変わってしまったため、{1a}{e093}と弟を知ってる人間も何処かに消え、\n今では当てもなく\nただ歩きまわっているのと\n同じだというのに・・・{0c:fe}",
    "read": "{0c:5160}{1c:12}ありがとう・{07:05}・{07:05}・{07:14}{1a}{0c:5120}でも本当にいいのか?\nお前にも故郷があるのに、\n私はお前をずっと母と弟を探す旅に\n付き合わせてしまっている・・・{07:07}{1a}デューラー公国が消滅し、\nこの地方の勢力地図が\n大きく変わってしまったため、{1a}母と弟を知ってる人間も何処かに消え、\n今では当てもなく\nただ歩きまわっているのと\n同じだというのに・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5160}{1c:12}Thank you.{07:05}.{07:05}.{07:14}{1a}{0c:5120}But are you truly sure? You have a\nhomeland of your own, and yet I keep\ndragging you along on this search for my\nmother and brother...{07:07}{1a}Now that the Duchy of Durer is gone\nand the balance of power in this region\nhas greatly changed,{1a}those who knew my mother and brother\nhave vanished somewhere, and all we do\nnow is wander without aim...{0c:fe}",
+   "status": "done",
+   "tl": "Thank you.[1].[2].[3] // [4]But are you truly sure? You have a homeland of your own, and yet I keep dragging you along on this search for my mother and brother...[5] // Now that the Duchy of Durer is gone and the balance of power in this region has greatly changed, // those who knew my mother and brother have vanished somewhere, and all we do now is wander without aim..."
   },
   {
    "id": "RES#237:430fc",
@@ -327,8 +340,9 @@
    "jp": "{0c:5168}{1c:12}本当に情けない女だ・・・{1a}私はお前の優しさに\n甘えてばかりだな・・・{0c:fe}",
    "read": "{0c:5168}{1c:12}本当に情けない女だ・・・{1a}私はお前の優しさに\n甘えてばかりだな・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5168}{1c:12}Truly, I am a sorry woman...{1a}I do nothing but lean on your kindness...{0c:fe}",
+   "status": "done",
+   "tl": "Truly, I am a sorry woman... // I do nothing but lean on your kindness..."
   },
   {
    "id": "RES#237:4313c",
@@ -349,8 +363,9 @@
    "jp": "{1c:13}{0b:08}{e080} レイア {e081}{0b:09}\nこの旗は・・・父上の・・・?{0c:fe}",
    "read": "{1c:13}{0b:08}【 レイア 】{0b:09}\nこの旗は・・・父上の・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Leia 】{0b:09}\nThis banner... It is Father's...?{0c:fe}",
+   "status": "done",
+   "tl": "This banner... It is Father's...?"
   },
   {
    "id": "RES#237:431d5",
@@ -371,8 +386,9 @@
    "jp": "{0b:08}{e080} 少{e085} {e081}{0b:09}\nそ、それに{e0a5}るな!!{0c:2b5109fe}",
    "read": "{0b:08}【 少年 】{0b:09}\nそ、それに触るな!!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Boy 】{0b:09}\nDon't touch th-that!!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Don't touch th-that!!"
   },
   {
    "id": "RES#237:43299",
@@ -405,8 +421,9 @@
    "jp": "{0b:08}{e080} 少{e085} {e081}{0b:09}\nこ、ここから早く消えろ!{0c:2b5109fe}",
    "read": "{0b:08}【 少年 】{0b:09}\nこ、ここから早く消えろ!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Boy 】{0b:09}\nGet away from h-here, now!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Get away from h-here, now!"
   },
   {
    "id": "RES#237:432ec",
@@ -427,8 +444,9 @@
    "jp": "{1c:11}{0b:08}{e080} レイア {e081}{0b:09}\nアルノ・・・?{0c:2b5609fe}",
    "read": "{1c:11}{0b:08}【 レイア 】{0b:09}\nアルノ・・・?{0c:2b5609fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Leia 】{0b:09}\nArno...?{0c:2b5609fe}",
+   "status": "done",
+   "tl": "Arno...?"
   },
   {
    "id": "RES#237:43315",
@@ -438,8 +456,9 @@
    "jp": "{0c:5110}{0b:08}{e080} 少{e085} {e081}{0b:09}\nえっ・・・{1a}ね・・・姉さん・・・?{0c:2b5109fe}",
    "read": "{0c:5110}{0b:08}【 少年 】{0b:09}\nえっ・・・{1a}ね・・・姉さん・・・?{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5110}{0b:08}【 Boy 】{0b:09}\nHuh...{1a}S-sister...?{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Huh... // S-sister...?"
   },
   {
    "id": "RES#237:43342",
@@ -449,8 +468,9 @@
    "jp": "{0c:5188}{1c:14}{0b:08}{e080} レイア {e081}{0b:09}\nアルノ!!{0c:fe}",
    "read": "{0c:5188}{1c:14}{0b:08}【 レイア 】{0b:09}\nアルノ!!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5188}{1c:14}{0b:08}【 Leia 】{0b:09}\nArno!!{0c:fe}",
+   "status": "done",
+   "tl": "Arno!!"
   },
   {
    "id": "RES#237:43361",
@@ -515,8 +535,9 @@
    "jp": "{1c:12}そうだな・・・\n{e088}くないと言えば{e089}になる。{1a}相手は魔物じゃない、\n自分と同じ人間・・・{1a}しかも、何の恨みもない相手を\n{e08a}らねばならないのだから・・・{1a}でも大丈夫だ。\n心配はいらない、まだ戦える・・・{0c:fe}",
    "read": "{1c:12}そうだな・・・\n辛くないと言えば嘘になる。{1a}相手は魔物じゃない、\n自分と同じ人間・・・{1a}しかも、何の恨みもない相手を\n斬らねばならないのだから・・・{1a}でも大丈夫だ。\n心配はいらない、まだ戦える・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Yes... It would be a lie to say it is not\nhard.{1a}These are not monsters we face, but\npeople like myself...{1a}People, moreover, against whom I hold no\ngrudge, and whom I must cut down all the\nsame...{1a}But I am all right. You need not worry. I\ncan still fight...{0c:fe}",
+   "status": "done",
+   "tl": "Yes... It would be a lie to say it is not hard. // These are not monsters we face, but people like myself... // People, moreover, against whom I hold no grudge, and whom I must cut down all the same... // But I am all right. You need not worry. I can still fight..."
   },
   {
    "id": "RES#237:43481",
@@ -526,8 +547,9 @@
    "jp": "{0c:5120}{1c:10}お前と一緒ならば・・・{0c:fe}",
    "read": "{0c:5120}{1c:10}お前と一緒ならば・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5120}{1c:10}As long as I am with you...{0c:fe}",
+   "status": "done",
+   "tl": "As long as I am with you..."
   },
   {
    "id": "RES#237:43499",
@@ -548,8 +570,9 @@
    "jp": "{1c:12}{01}3{e085}間{02}・・・か・・・{1a}{03}アルノ{02}も{01}16才{02}になったはず・・・\nでも、体の弱い子だったから、\nこんな時{e092}を{01}1人{02}で\n生きていけるのかが心配だ・・・{1a}{e093}上もお元気だろうか・・・{0c:fe}",
    "read": "{1c:12}{01}3年間{02}・・・か・・・{1a}{03}アルノ{02}も{01}16才{02}になったはず・・・\nでも、体の弱い子だったから、\nこんな時代を{01}1人{02}で\n生きていけるのかが心配だ・・・{1a}母上もお元気だろうか・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Three years... is it...{1a}Arno must be sixteen now... But he was\na sickly child. I worry whether he can\nsurvive alone in times like these...{1a}I wonder if Mother is well...{0c:fe}",
+   "status": "done",
+   "tl": "Three years... is it... // Arno must be sixteen now... But he was a sickly child. I worry whether he can survive alone in times like these... // I wonder if Mother is well..."
   },
   {
    "id": "RES#237:4352b",
@@ -570,8 +593,9 @@
    "jp": "{0c:51182b501000}{1c:11}ブランユの城に・・・か?{1a}あそこはカルスの{e095}を{e0a6}りて\n{e096}っ先に向かったし、\nあの近辺は一軒一軒\n見てまわったが・・・{0c:fe}",
    "read": "{0c:51182b501000}{1c:11}ブランユの城に・・・か?{1a}あそこはカルスの山を降りて\n真っ先に向かったし、\nあの近辺は一軒一軒\n見てまわったが・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51182b501000}{1c:11}To Castle Blanyu...?{1a}That was the first place I went after\ncoming down from the Kars mountains,\nand I searched that area house by\nhouse...{0c:fe}",
+   "status": "done",
+   "tl": "To Castle Blanyu...? // That was the first place I went after coming down from the Kars mountains, and I searched that area house by house..."
   },
   {
    "id": "RES#237:43599",
@@ -592,8 +616,9 @@
    "jp": "{1c:11}わかった。\nこの戦いが終わったら、\n子供の頃の思い出の場所を\nお前に{e09a}{e09b}しよう。{1a}もっとも、同じような景{e086}ばかりで\n2時間もすれば飽きるだろうがな。{1a}帰りには父の墓に\n寄ってもいいだろうか?{1a}お前を{e09a}{e09b}したいんだ。\n私の初めての友達を・・・{0c:fe}",
    "read": "{1c:11}わかった。\nこの戦いが終わったら、\n子供の頃の思い出の場所を\nお前に紹介しよう。{1a}もっとも、同じような景色ばかりで\n2時間もすれば飽きるだろうがな。{1a}帰りには父の墓に\n寄ってもいいだろうか?{1a}お前を紹介したいんだ。\n私の初めての友達を・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Very well. When this battle is over, I will\nshow you the places of my childhood\nmemories.{1a}Though the scenery is all much the same,\nso you will surely tire of it within two\nhours.{1a}On the way back, may we stop at my\nfather's grave?{1a}I want to introduce you to him. My first\nfriend...{0c:fe}",
+   "status": "done",
+   "tl": "Very well. When this battle is over, I will show you the places of my childhood memories. // Though the scenery is all much the same, so you will surely tire of it within two hours. // On the way back, may we stop at my father's grave? // I want to introduce you to him. My first friend..."
   },
   {
    "id": "RES#237:43647",
@@ -614,8 +639,9 @@
    "jp": "{1c:12}ありがとう・・・{1a}でも本当にいいのか?\nお前にも故{e09c}があるのに、\n私はお前をずっと{e093}と弟を{e09e}す旅に\n付き合わせてしまっている・・・{1a}デューラー{e0a0}{e0a1}が消滅し、\nこの地方の勢力地図が\n大きく変わってしまったため、{1a}{e093}と弟を知ってる人間も何処かに消え、\n今では当てもなく\nただ歩きまわっているのと\n同じだというのに・・・{0c:fe}",
    "read": "{1c:12}ありがとう・・・{1a}でも本当にいいのか?\nお前にも故郷があるのに、\n私はお前をずっと母と弟を探す旅に\n付き合わせてしまっている・・・{1a}デューラー公国が消滅し、\nこの地方の勢力地図が\n大きく変わってしまったため、{1a}母と弟を知ってる人間も何処かに消え、\n今では当てもなく\nただ歩きまわっているのと\n同じだというのに・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Thank you...{1a}But are you truly sure? You have a\nhomeland of your own, and yet I keep\ndragging you along on this search for my\nmother and brother...{1a}Now that the Duchy of Durer is gone\nand the balance of power in this region\nhas greatly changed,{1a}those who knew my mother and brother\nhave vanished somewhere, and all we do\nnow is wander without aim...{0c:fe}",
+   "status": "done",
+   "tl": "Thank you... // But are you truly sure? You have a homeland of your own, and yet I keep dragging you along on this search for my mother and brother... // Now that the Duchy of Durer is gone and the balance of power in this region has greatly changed, // those who knew my mother and brother have vanished somewhere, and all we do now is wander without aim..."
   },
   {
    "id": "RES#237:4371f",
@@ -636,8 +662,9 @@
    "jp": "{0c:5168}{1c:10}私はお前の優しさに\n甘えてばかりだな・・・{1a}ありがとう、{10}。{0c:fe}",
    "read": "{0c:5168}{1c:10}私はお前の優しさに\n甘えてばかりだな・・・{1a}ありがとう、{10}。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5168}{1c:10}I do nothing but lean on your kindness...{1a}Thank you, {10}.{0c:fe}",
+   "status": "done",
+   "tl": "I do nothing but lean on your kindness... // Thank you, [HERO]."
   },
   {
    "id": "RES#237:43757",
@@ -658,8 +685,9 @@
    "jp": "{1c:13}{0b:08}{e080} レイア {e081}{0b:09}\nこの旗は・・・父上の・・・?{0c:fe}",
    "read": "{1c:13}{0b:08}【 レイア 】{0b:09}\nこの旗は・・・父上の・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Leia 】{0b:09}\nThis banner... It is Father's...?{0c:fe}",
+   "status": "done",
+   "tl": "This banner... It is Father's...?"
   },
   {
    "id": "RES#237:437f0",
@@ -680,8 +708,9 @@
    "jp": "{0b:08}{e080} 少{e085} {e081}{0b:09}\nそ、それに{e0a5}るな!!{0c:2b5109fe}",
    "read": "{0b:08}【 少年 】{0b:09}\nそ、それに触るな!!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Boy 】{0b:09}\nDon't touch th-that!!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Don't touch th-that!!"
   },
   {
    "id": "RES#237:438b4",
@@ -714,8 +743,9 @@
    "jp": "{0b:08}{e080} 少{e085} {e081}{0b:09}\nこ、ここから早く消えろ!{0c:2b5109fe}",
    "read": "{0b:08}【 少年 】{0b:09}\nこ、ここから早く消えろ!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Boy 】{0b:09}\nGet away from h-here, now!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Get away from h-here, now!"
   },
   {
    "id": "RES#237:43907",
@@ -736,8 +766,9 @@
    "jp": "{1c:11}{0b:08}{e080} レイア {e081}{0b:09}\nアルノ・・・?{0c:2b5609fe}",
    "read": "{1c:11}{0b:08}【 レイア 】{0b:09}\nアルノ・・・?{0c:2b5609fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Leia 】{0b:09}\nArno...?{0c:2b5609fe}",
+   "status": "done",
+   "tl": "Arno...?"
   },
   {
    "id": "RES#237:43930",
@@ -747,8 +778,9 @@
    "jp": "{0c:5110}{0b:08}{e080} 少{e085} {e081}{0b:09}\nえっ・・・{1a}ね・・・姉さん・・・?{0c:2b5109fe}",
    "read": "{0c:5110}{0b:08}【 少年 】{0b:09}\nえっ・・・{1a}ね・・・姉さん・・・?{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5110}{0b:08}【 Boy 】{0b:09}\nHuh...{1a}S-sister...?{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Huh... // S-sister...?"
   },
   {
    "id": "RES#237:4395d",
@@ -758,8 +790,9 @@
    "jp": "{0c:5188}{1c:14}{0b:08}{e080} レイア {e081}{0b:09}\nアルノ!!{0c:2b5109fe}",
    "read": "{0c:5188}{1c:14}{0b:08}【 レイア 】{0b:09}\nアルノ!!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5188}{1c:14}{0b:08}【 Leia 】{0b:09}\nArno!!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Arno!!"
   },
   {
    "id": "RES#237:4397f",

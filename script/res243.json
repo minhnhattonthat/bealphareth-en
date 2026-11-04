@@ -41,8 +41,9 @@
    "jp": "{0b:08}{e080} 荒くれ者A {e082}{0b:09}\nおい女、今何て言った!?{0c:2b5109fe}",
    "read": "{0b:08}【 荒くれ者A 】{0b:09}\nおい女、今何て言った!?{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Ruffian A 】{0b:09}\nHey, woman, what'd ya just say!?{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Hey, woman, what'd ya just say!?"
   },
   {
    "id": "RES#243:430c6",
@@ -52,8 +53,9 @@
    "jp": "{1c:11}{0b:08}{e080} イヴ {e082}{0b:09}\n聞こえてたんでしょ?\n何度も言わせないでよ。{0c:2b5309fe}",
    "read": "{1c:11}{0b:08}【 イヴ 】{0b:09}\n聞こえてたんでしょ?\n何度も言わせないでよ。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Eve 】{0b:09}\nYou heard me, didn't you? Don't make\nme say it again.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "You heard me, didn't you? Don't make me say it again."
   },
   {
    "id": "RES#243:430fa",
@@ -63,8 +65,9 @@
    "jp": "{0c:5158}{0b:08}{e080} 荒くれ者A {e082}{0b:09}\nな、なんだと!?{0c:2b5409fe}",
    "read": "{0c:5158}{0b:08}【 荒くれ者A 】{0b:09}\nな、なんだと!?{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5158}{0b:08}【 Ruffian A 】{0b:09}\nW-what was that!?{0c:2b5409fe}",
+   "status": "done",
+   "tl": "W-what was that!?"
   },
   {
    "id": "RES#243:43122",
@@ -74,8 +77,9 @@
    "jp": "{0c:5190}{0b:08}{e080} 荒くれ者B {e082}{0b:09}\nてめえ!\nタダで済むとは\n思ってねえだろうなっ!!{0c:2b5109fe}",
    "read": "{0c:5190}{0b:08}【 荒くれ者B 】{0b:09}\nてめえ!\nタダで済むとは\n思ってねえだろうなっ!!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5190}{0b:08}【 Ruffian B 】{0b:09}\nWhy, you! Don't think you're gettin' away\nwith this!!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Why, you! Don't think you're gettin' away with this!!"
   },
   {
    "id": "RES#243:43160",
@@ -96,8 +100,9 @@
    "jp": "{1c:10}{0b:08}{e080} イヴ {e082}{0b:09}\n近寄らないで。\n息がクサイから。{0c:2b5409fe}",
    "read": "{1c:10}{0b:08}【 イヴ 】{0b:09}\n近寄らないで。\n息がクサイから。{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Eve 】{0b:09}\nKeep away. Your breath stinks.{0c:2b5409fe}",
+   "status": "done",
+   "tl": "Keep away. Your breath stinks."
   },
   {
    "id": "RES#243:431a7",
@@ -107,8 +112,9 @@
    "jp": "{0c:51a8}{0b:08}{e080} 荒くれ者B {e082}{0b:09}\nい、いい度胸だ!\nこのオレ達をここまで\n馬鹿にするとはよ!{0c:2b5309fe}",
    "read": "{0c:51a8}{0b:08}【 荒くれ者B 】{0b:09}\nい、いい度胸だ!\nこのオレ達をここまで\n馬鹿にするとはよ!{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51a8}{0b:08}【 Ruffian B 】{0b:09}\nY-you got some nerve! Makin' fools of\nus like this!{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Y-you got some nerve! Makin' fools of us like this!"
   },
   {
    "id": "RES#243:431ed",
@@ -118,8 +124,9 @@
    "jp": "{0c:5158}{0b:08}{e080} 荒くれ者A {e082}{0b:09}\n女だからといって容赦はしねえぞ!{0c:2b5109fe}",
    "read": "{0c:5158}{0b:08}【 荒くれ者A 】{0b:09}\n女だからといって容赦はしねえぞ!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5158}{0b:08}【 Ruffian A 】{0b:09}\nJust 'cause you're a woman don't mean\nwe'll go easy on ya!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Just 'cause you're a woman don't mean we'll go easy on ya!"
   },
   {
    "id": "RES#243:43220",
@@ -129,8 +136,9 @@
    "jp": "{1c:11}{0b:08}{e080} {03}イヴ {e082}{0b:09}\n{02}ひねりの無い台詞の{03}オンパレード{02}ね。{1a}型にはまった台詞しか\n頭に浮かばないのなら、\n無理に口を{e089}かなくてもいいのに。{1a}聞き飽きたし、{e08a}鮮味に欠けるし、\n次の台詞まで想{e08d}出来るし、\n第一、聞いてても面白くないし。{1a}それともその{03}パターン{e08e}{02}された台詞に\n様{e08f}美を感じてるの{01}?\n{02}「これこそ漢の言{e092}」って{03}カンジ{02}で。{1a}もしそうだとすれば、\n負けた時に出てくる言{e092}は\n当然「覚えてろよ{01}!{02}」なのかしら。{0c:2b5309fe}",
    "read": "{1c:11}{0b:08}【 {03}イヴ 】{0b:09}\n{02}ひねりの無い台詞の{03}オンパレード{02}ね。{1a}型にはまった台詞しか\n頭に浮かばないのなら、\n無理に口を開かなくてもいいのに。{1a}聞き飽きたし、新鮮味に欠けるし、\n次の台詞まで想像出来るし、\n第一、聞いてても面白くないし。{1a}それともその{03}パターン化{02}された台詞に\n様式美を感じてるの{01}?\n{02}「これこそ漢の言葉」って{03}カンジ{02}で。{1a}もしそうだとすれば、\n負けた時に出てくる言葉は\n当然「覚えてろよ{01}!{02}」なのかしら。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Eve 】{0b:09}\nWhat a parade of tired lines.{1a}If stock phrases are all that come to\nmind, you needn't force your mouths\nopen, you know.{1a}I've heard them all before, they're stale,\nI can guess the next line, and above all,\nthey're no fun to listen to.{1a}Or do you find some formal beauty in\nthose patterned lines of yours? As if to\nsay, \"These are the words of a real\nman.\"{1a}If so, the words that come out when you\nlose must be \"You'll pay for this!\", of\ncourse, I suppose.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "What a parade of tired lines. // If stock phrases are all that come to mind, you needn't force your mouths open, you know. // I've heard them all before, they're stale, I can guess the next line, and above all, they're no fun to listen to. // Or do you find some formal beauty in those patterned lines of yours? As if to say, \"These are the words of a real man.\" // If so, the words that come out when you lose must be \"You'll pay for this!\", of course, I suppose."
   },
   {
    "id": "RES#243:43332",
@@ -140,8 +148,9 @@
    "jp": "{0c:5160}{0b:08}{e080} 荒くれ者A {e082}{0b:09}\nこ、このアマ・・・{1a}女だからといって容赦はしねえ。\n外に出な!!{0c:2b5109fe}",
    "read": "{0c:5160}{0b:08}【 荒くれ者A 】{0b:09}\nこ、このアマ・・・{1a}女だからといって容赦はしねえ。\n外に出な!!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5160}{0b:08}【 Ruffian A 】{0b:09}\nY-you bitch...{1a}Just 'cause you're a woman don't mean\nwe'll go easy on ya. Get outside!!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Y-you bitch... // Just 'cause you're a woman don't mean we'll go easy on ya. Get outside!!"
   },
   {
    "id": "RES#243:43379",
@@ -151,8 +160,9 @@
    "jp": "{1c:11}{0b:08}{e080} イヴ {e082}{0b:09}\n見て分からないの?\n今あたしは自分の時間を\n楽しんでる最中なんだけど。{0c:2b5409fe}",
    "read": "{1c:11}{0b:08}【 イヴ 】{0b:09}\n見て分からないの?\n今あたしは自分の時間を\n楽しんでる最中なんだけど。{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Eve 】{0b:09}\nCan't you tell by looking? I'm in the\nmiddle of enjoying some time to myself.{0c:2b5409fe}",
+   "status": "done",
+   "tl": "Can't you tell by looking? I'm in the middle of enjoying some time to myself."
   },
   {
    "id": "RES#243:433c0",
@@ -162,8 +172,9 @@
    "jp": "{0c:5190}{0b:08}{e080} 荒くれ者B {e082}{0b:09}\n女は黙って男の言うこと\n聞いてりゃいいんだよ!!{0c:2b5109fe}",
    "read": "{0c:5190}{0b:08}【 荒くれ者B 】{0b:09}\n女は黙って男の言うこと\n聞いてりゃいいんだよ!!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5190}{0b:08}【 Ruffian B 】{0b:09}\nA woman oughta shut up and do what\nmen tell her!!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "A woman oughta shut up and do what men tell her!!"
   },
   {
    "id": "RES#243:433fd",
@@ -173,8 +184,9 @@
    "jp": "{1c:10}{0b:08}{e080} イヴ {e082}{0b:09}\n女は男に{e093}従すべき・・・\nこれも馬鹿な男の決まり文句ね。{1a}従{e095}な女がそんなに好きなの?\nほんと頭悪いわね。\n従{e095}なフリして、{e096}に女の思い{e097}りに\nコントロールされてるだけなのに。{1a}あたしは優しいから\nそんなことしないけど。{0c:2b5409fe}",
    "read": "{1c:10}{0b:08}【 イヴ 】{0b:09}\n女は男に服従すべき・・・\nこれも馬鹿な男の決まり文句ね。{1a}従順な女がそんなに好きなの?\nほんと頭悪いわね。\n従順なフリして、逆に女の思い通りに\nコントロールされてるだけなのに。{1a}あたしは優しいから\nそんなことしないけど。{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Eve 】{0b:09}\nA woman must obey a man... Another\nstock phrase of stupid men, isn't it.{1a}Do you like obedient women that much?\nHow dim you are. They only pretend to\nobey, and you end up controlled just the\nway they want.{1a}I'm too kind to do such a thing, though.{0c:2b5409fe}",
+   "status": "done",
+   "tl": "A woman must obey a man... Another stock phrase of stupid men, isn't it. // Do you like obedient women that much? How dim you are. They only pretend to obey, and you end up controlled just the way they want. // I'm too kind to do such a thing, though."
   },
   {
    "id": "RES#243:434a0",
@@ -184,8 +196,9 @@
    "jp": "{0b:08}{e080} 荒くれ者B {e082}{0b:09}\nう、うるせえ!!\n外が嫌ならここで{e098}ってやる!!{0c:fe}",
    "read": "{0b:08}【 荒くれ者B 】{0b:09}\nう、うるせえ!!\n外が嫌ならここで斬ってやる!!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Ruffian B 】{0b:09}\nS-shut up!! If ya don't want outside, I'll\ncut ya down right here!!{0c:fe}",
+   "status": "done",
+   "tl": "S-shut up!! If ya don't want outside, I'll cut ya down right here!!"
   },
   {
    "id": "RES#243:434d6",
@@ -206,8 +219,9 @@
    "jp": "{1c:12}{0b:08}{e080} イヴ {e082}{0b:09}\n無{e099}{e09a}の女を{e098}るの?\n随分な趣味ね。{0c:fe}",
    "read": "{1c:12}{0b:08}【 イヴ 】{0b:09}\n無抵抗の女を斬るの?\n随分な趣味ね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Eve 】{0b:09}\nCutting down a woman who won't\nresist? Quite the taste you have.{0c:fe}",
+   "status": "done",
+   "tl": "Cutting down a woman who won't resist? Quite the taste you have."
   },
   {
    "id": "RES#243:4351c",
@@ -228,8 +242,9 @@
    "jp": "{1c:10}でもお生憎さま。\n素直に{e098}られるほど\nあたしのカラダは安くないわよ。{0c:020d01f20300f4fe}",
    "read": "{1c:10}でもお生憎さま。\n素直に斬られるほど\nあたしのカラダは安くないわよ。{0c:020d01f20300f4fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}But too bad for you. My life isn't so\ncheap that I'd meekly let you cut me\ndown, you know.{0c:020d01f20300f4fe}",
+   "status": "done",
+   "tl": "But too bad for you. My life isn't so cheap that I'd meekly let you cut me down, you know."
   },
   {
    "id": "RES#243:4355c",
@@ -250,8 +265,9 @@
    "jp": "{0c:51082b501000}{1c:13}おかえり、{10}。\n随分早かったのね。{0c:fe}",
    "read": "{0c:51082b501000}{1c:13}おかえり、{10}。\n随分早かったのね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{1c:13}Welcome back, {10}. That was\nquick.{0c:fe}",
+   "status": "done",
+   "tl": "Welcome back, [HERO]. That was quick."
   },
   {
    "id": "RES#243:435a1",
@@ -272,8 +288,9 @@
    "jp": "{0c:51082b531000}{1c:12}この人達?{1a}{0c:51081001}さあ・・・知らないわ。\nただの酔っぱらいじゃないの?{0c:2b5409fe}",
    "read": "{0c:51082b531000}{1c:12}この人達?{1a}{0c:51081001}さあ・・・知らないわ。\nただの酔っぱらいじゃないの?{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b531000}{1c:12}These people?{1a}{0c:51081001}Hmm... I don't know them. Just drunks,\naren't they?{0c:2b5409fe}",
+   "status": "done",
+   "tl": "These people? // [1]Hmm... I don't know them. Just drunks, aren't they?"
   },
   {
    "id": "RES#243:435fc",
@@ -283,8 +300,9 @@
    "jp": "{0c:51b02b511000}{0b:08}{e080} 荒くれ者{01}B {e082}{0b:09}\n{02}「知らないわ」じゃねえ{01}!{1a}{0c:51b02b501000}{10}{02}とか言ったな、\n文句ならお前の女に\n地獄で言うんだな{01}!\n2人{02}まとめてぶっ殺してやる{01}!{0c:2b5309fe}",
    "read": "{0c:51b02b511000}{0b:08}【 荒くれ者{01}B 】{0b:09}\n{02}「知らないわ」じゃねえ{01}!{1a}{0c:51b02b501000}{10}{02}とか言ったな、\n文句ならお前の女に\n地獄で言うんだな{01}!\n2人{02}まとめてぶっ殺してやる{01}!{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51b02b511000}{0b:08}【 Ruffian B 】{0b:09}\nDon't gimme that \"I don't know them\"!{1a}{0c:51b02b501000}{10}, was it? Take your\ncomplaints to your woman, in hell! We'll kill\nthe pair of ya!{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Don't gimme that \"I don't know them\"! // [1][HERO], was it? Take your complaints to your woman, in hell! We'll kill the pair of ya!"
   },
   {
    "id": "RES#243:4366f",
@@ -294,8 +312,9 @@
    "jp": "{0b:08}{e080} 荒くれ者{01}A {e082}{0b:09}\n{10}{02}・・・{01}?{1a}{02}どこかで聞いた覚えが・・・{1a}{0c:5170}ま、まさか・・・\n{10}って、あの・・・{0c:2b5409fe}",
    "read": "{0b:08}【 荒くれ者{01}A 】{0b:09}\n{10}{02}・・・{01}?{1a}{02}どこかで聞いた覚えが・・・{1a}{0c:5170}ま、まさか・・・\n{10}って、あの・・・{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Ruffian A 】{0b:09}\n{10}...?{1a}I've heard that somewhere...{1a}{0c:5170}N-no way... {10}, as in that...{0c:2b5409fe}",
+   "status": "done",
+   "tl": "[HERO]...? // I've heard that somewhere... // [1]N-no way... [HERO], as in that..."
   },
   {
    "id": "RES#243:436b8",
@@ -305,8 +324,9 @@
    "jp": "{0c:51b02b531000}{0b:08}{e080} 荒くれ者B {e082}{0b:09}\nどうしたんだ?{0c:2b5309fe}",
    "read": "{0c:51b02b531000}{0b:08}【 荒くれ者B 】{0b:09}\nどうしたんだ?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51b02b531000}{0b:08}【 Ruffian B 】{0b:09}\nWhat's up with you?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "What's up with you?"
   },
   {
    "id": "RES#243:436e3",
@@ -316,8 +336,9 @@
    "jp": "{0b:08}{e080} 荒くれ者A {e082}{0b:09}\n{10}って・・・\nラーバの{e09e}討使{10}・・・?{0c:2b5109fe}",
    "read": "{0b:08}【 荒くれ者A 】{0b:09}\n{10}って・・・\nラーバの追討使{10}・・・?{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Ruffian A 】{0b:09}\n{10}... as in {10} the\nPursuer of Laba...?{0c:2b5109fe}",
+   "status": "done",
+   "tl": "[HERO]... as in [HERO] the Pursuer of Laba...?"
   },
   {
    "id": "RES#243:43717",
@@ -327,8 +348,9 @@
    "jp": "{0c:51082b501000}{1c:11}{0b:08}{e080} イヴ {e082}{0b:09}\nへえ、有{e09f}になったわね、あなたも。{0c:fe}",
    "read": "{0c:51082b501000}{1c:11}{0b:08}【 イヴ 】{0b:09}\nへえ、有名になったわね、あなたも。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{1c:11}{0b:08}【 Eve 】{0b:09}\nWell now, you have become famous,\nhaven't you.{0c:fe}",
+   "status": "done",
+   "tl": "Well now, you have become famous, haven't you."
   },
   {
    "id": "RES#243:43747",
@@ -349,8 +371,9 @@
    "jp": "{0b:08}{e080} 荒くれ者A {e082}{0b:09}\n{e09e}討使{10}と言えば{1a}契約{e0a1}を持ち逃げした傭兵団を\n地獄の底まで{e09e}いかけまわす\n対・傭兵{e0a6}{e0a7}の賞{e0a1}{e0a9}ぎ・・・{1a}たったの2人で200人の傭兵{e0aa}を\n全滅させたこともあるって噂の・・・{0c:2b5409fe}",
    "read": "{0b:08}【 荒くれ者A 】{0b:09}\n追討使{10}と言えば{1a}契約金を持ち逃げした傭兵団を\n地獄の底まで追いかけまわす\n対・傭兵専門の賞金稼ぎ・・・{1a}たったの2人で200人の傭兵隊を\n全滅させたこともあるって噂の・・・{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Ruffian A 】{0b:09}\n{10} the Pursuer, that's{1a}the bounty hunter who only goes after\nmercenaries, chasin' bands that run off\nwith their contract money down to the\npits of hell...{1a}Rumor says the two of 'em alone once\nwiped out a company of 200...{0c:2b5409fe}",
+   "status": "done",
+   "tl": "[HERO] the Pursuer, that's // the bounty hunter who only goes after mercenaries, chasin' bands that run off with their contract money down to the pits of hell... // Rumor says the two of 'em alone once wiped out a company of 200..."
   },
   {
    "id": "RES#243:437ef",
@@ -360,8 +383,9 @@
    "jp": "ほ、本物なのか・・・?{0c:020d01}",
    "read": "ほ、本物なのか・・・?{0c:020d01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "The r-real thing...?{0c:020d01}",
+   "status": "done",
+   "tl": "The r-real thing...?"
   },
   {
    "id": "RES#243:43803",
@@ -382,8 +406,9 @@
    "jp": "{0c:51082b501000}{1c:13}おかえり、{10}。\n随分早かったのね。{0c:fe}",
    "read": "{0c:51082b501000}{1c:13}おかえり、{10}。\n随分早かったのね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{1c:13}Welcome back, {10}. That was\nquick.{0c:fe}",
+   "status": "done",
+   "tl": "Welcome back, [HERO]. That was quick."
   },
   {
    "id": "RES#243:43848",
@@ -404,8 +429,9 @@
    "jp": "{0c:51082b531000}{1c:11}この人達?{1a}{0c:51081001}さあ・・・知らないわ。\nただの酔っぱらいじゃないの?{0c:2b5409fe}",
    "read": "{0c:51082b531000}{1c:11}この人達?{1a}{0c:51081001}さあ・・・知らないわ。\nただの酔っぱらいじゃないの?{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b531000}{1c:11}These people?{1a}{0c:51081001}Hmm... I don't know them. Just drunks,\naren't they?{0c:2b5409fe}",
+   "status": "done",
+   "tl": "These people? // [1]Hmm... I don't know them. Just drunks, aren't they?"
   },
   {
    "id": "RES#243:438a3",
@@ -415,8 +441,9 @@
    "jp": "{0c:51b02b511000}{0b:08}{e080} 荒くれ者{01}B {e082}{0b:09}\n{02}「知らないわ」じゃねえ{01}!{1a}{0c:51b02b501000}{10}{02}とか言ったな、\n文句ならお前の{e0ac}れに\n地獄で言うんだな{01}!\n2人{02}まとめてぶっ殺してやる{01}!{0c:2b5309fe}",
    "read": "{0c:51b02b511000}{0b:08}【 荒くれ者{01}B 】{0b:09}\n{02}「知らないわ」じゃねえ{01}!{1a}{0c:51b02b501000}{10}{02}とか言ったな、\n文句ならお前の連れに\n地獄で言うんだな{01}!\n2人{02}まとめてぶっ殺してやる{01}!{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51b02b511000}{0b:08}【 Ruffian B 】{0b:09}\nDon't gimme that \"I don't know them\"!{1a}{0c:51b02b501000}{10}, was it? Take your\ncomplaints to your partner, in hell! We'll\nkill the pair of ya!{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Don't gimme that \"I don't know them\"! // [1][HERO], was it? Take your complaints to your partner, in hell! We'll kill the pair of ya!"
   },
   {
    "id": "RES#243:43917",
@@ -426,8 +453,9 @@
    "jp": "{0b:08}{e080} 荒くれ者{01}A {e082}{0b:09}\n{10}{02}・・・{01}?{1a}{02}どこかで聞いた覚えが・・・{1a}{0c:5170}ま、まさか・・・\n{10}って、あの・・・{0c:2b5409fe}",
    "read": "{0b:08}【 荒くれ者{01}A 】{0b:09}\n{10}{02}・・・{01}?{1a}{02}どこかで聞いた覚えが・・・{1a}{0c:5170}ま、まさか・・・\n{10}って、あの・・・{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Ruffian A 】{0b:09}\n{10}...?{1a}I've heard that somewhere...{1a}{0c:5170}N-no way... {10}, as in that...{0c:2b5409fe}",
+   "status": "done",
+   "tl": "[HERO]...? // I've heard that somewhere... // [1]N-no way... [HERO], as in that..."
   },
   {
    "id": "RES#243:43960",
@@ -437,8 +465,9 @@
    "jp": "{0c:51b02b531000}{0b:08}{e080} 荒くれ者B {e082}{0b:09}\nどうしたんだ?{0c:2b5309fe}",
    "read": "{0c:51b02b531000}{0b:08}【 荒くれ者B 】{0b:09}\nどうしたんだ?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51b02b531000}{0b:08}【 Ruffian B 】{0b:09}\nWhat's up with you?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "What's up with you?"
   },
   {
    "id": "RES#243:4398b",
@@ -448,8 +477,9 @@
    "jp": "{0b:08}{e080} 荒くれ者A {e082}{0b:09}\n{10}って・・・\nラーバの{e09e}討使{10}・・・?{0c:2b5109fe}",
    "read": "{0b:08}【 荒くれ者A 】{0b:09}\n{10}って・・・\nラーバの追討使{10}・・・?{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Ruffian A 】{0b:09}\n{10}... as in {10} the\nPursuer of Laba...?{0c:2b5109fe}",
+   "status": "done",
+   "tl": "[HERO]... as in [HERO] the Pursuer of Laba...?"
   },
   {
    "id": "RES#243:439bf",
@@ -459,8 +489,9 @@
    "jp": "{0c:51082b501000}{1c:11}{0b:08}{e080} イヴ {e082}{0b:09}\nへえ、有{e09f}になったわね、あなたも。{0c:fe}",
    "read": "{0c:51082b501000}{1c:11}{0b:08}【 イヴ 】{0b:09}\nへえ、有名になったわね、あなたも。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{1c:11}{0b:08}【 Eve 】{0b:09}\nWell now, you have become famous,\nhaven't you.{0c:fe}",
+   "status": "done",
+   "tl": "Well now, you have become famous, haven't you."
   },
   {
    "id": "RES#243:439ef",
@@ -481,8 +512,9 @@
    "jp": "{0b:08}{e080} 荒くれ者A {e082}{0b:09}\n{e09e}討使{10}と言えば{1a}契約{e0a1}を持ち逃げした傭兵団を\n地獄の底まで{e09e}いかけまわす\n対・傭兵{e0a6}{e0a7}の女賞{e0a1}{e0a9}ぎ・・・{1a}たったの2人で200人の傭兵{e0aa}を\n全滅させたこともあるって噂の・・・{0c:2b5409fe}",
    "read": "{0b:08}【 荒くれ者A 】{0b:09}\n追討使{10}と言えば{1a}契約金を持ち逃げした傭兵団を\n地獄の底まで追いかけまわす\n対・傭兵専門の女賞金稼ぎ・・・{1a}たったの2人で200人の傭兵隊を\n全滅させたこともあるって噂の・・・{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Ruffian A 】{0b:09}\n{10} the Pursuer, that's{1a}the woman bounty hunter who only goes\nafter mercenaries, chasin' bands that\nrun off with their contract money down\nto the pits of hell...{1a}Rumor says the two of 'em alone once\nwiped out a company of 200...{0c:2b5409fe}",
+   "status": "done",
+   "tl": "[HERO] the Pursuer, that's // the woman bounty hunter who only goes after mercenaries, chasin' bands that run off with their contract money down to the pits of hell... // Rumor says the two of 'em alone once wiped out a company of 200..."
   },
   {
    "id": "RES#243:43a99",
@@ -492,8 +524,9 @@
    "jp": "{0b:08}{e080} 荒くれ者B {e082}{0b:09}\nほ、本物なのか・・・?{0c:fe}",
    "read": "{0b:08}【 荒くれ者B 】{0b:09}\nほ、本物なのか・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Ruffian B 】{0b:09}\nThe r-real thing...?{0c:fe}",
+   "status": "done",
+   "tl": "The r-real thing...?"
   },
   {
    "id": "RES#243:43abf",
@@ -514,8 +547,9 @@
    "jp": "{1c:11}{0b:08}{e080} イヴ {e082}{0b:09}\nどんどん話が大きくなるのね。\nあれなら80人もいなかったわ。{1a}それに、傭兵{e0a6}{e0a7}ってのもウソ。\nそれだけじゃ{e0ad}売にならないもの。\n{e0ae}本的に面白そうなら何でもやるわ。\nこそ泥{e0b0}しに猫{e0b0}しまでやったわよ。{1a}地獄の底までってのもウソね。\nあたし達飽きっぽいから。{0c:2b5309fe}",
    "read": "{1c:11}{0b:08}【 イヴ 】{0b:09}\nどんどん話が大きくなるのね。\nあれなら80人もいなかったわ。{1a}それに、傭兵専門ってのもウソ。\nそれだけじゃ商売にならないもの。\n基本的に面白そうなら何でもやるわ。\nこそ泥探しに猫探しまでやったわよ。{1a}地獄の底までってのもウソね。\nあたし達飽きっぽいから。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Eve 】{0b:09}\nThe story just keeps getting bigger,\ndoesn't it. There weren't even eighty of\nthem.{1a}And the part about only going after\nmercenaries is a lie too. You can't make\na living on that alone. Basically, we do\nanything that looks fun. We've even{1a}hunted petty thieves and lost cats.{1a}The pits of hell part is a lie as well. We\nget bored too easily.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "The story just keeps getting bigger, doesn't it. There weren't even eighty of them. // And the part about only going after mercenaries is a lie too. You can't make a living on that alone. Basically, we do anything that looks fun. We've even hunted petty thieves and lost cats. // The pits of hell part is a lie as well. We get bored too easily."
   },
   {
    "id": "RES#243:43b7b",
@@ -525,8 +559,9 @@
    "jp": "{0b:08}{e080} 荒くれ者A {e082}{0b:09}\nってことは・・・{1a}{0c:51782b511000}{0c:2b542351c02b511000}まさかお前は・・・{0c:2b5409fe}",
    "read": "{0b:08}【 荒くれ者A 】{0b:09}\nってことは・・・{1a}{0c:51782b511000}{0c:2b542351c02b511000}まさかお前は・・・{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Ruffian A 】{0b:09}\nWhich means...{1a}{0c:51782b511000}{0c:2b542351c02b511000}Don't tell me you're...{0c:2b5409fe}",
+   "status": "done",
+   "tl": "Which means... // [1]Don't tell me you're..."
   },
   {
    "id": "RES#243:43bbc",
@@ -536,8 +571,9 @@
    "jp": "{0b:08}{e080} 荒くれ者B {e082}{0b:09}\n{e0b2}髪の魔女イヴ・・・!?{0c:2b5109fe}",
    "read": "{0b:08}【 荒くれ者B 】{0b:09}\n銀髪の魔女イヴ・・・!?{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Ruffian B 】{0b:09}\nEve the Silver-Haired Witch...!?{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Eve the Silver-Haired Witch...!?"
   },
   {
    "id": "RES#243:43be9",
@@ -547,8 +583,9 @@
    "jp": "{0c:5110}{1c:11}{0b:08}{e080} イヴ {e082}{0b:09}\n知っていて下さって{e0b4}栄だけど、\n相変わらず恥ずかしい{e0b6}び{e09f}ね。{1a}こういうのって本人が\n選べないから最悪だわ。\nま、「{e0b7}サソリのイヴ」よりは\n何倍もマシだけど。{1a}あの{e0b6}び{e09f}を聞いた時は\nあまりのセンスの古さに\nさすがに頭が痛くなったもの。{0c:2b5309fe}",
    "read": "{0c:5110}{1c:11}{0b:08}【 イヴ 】{0b:09}\n知っていて下さって光栄だけど、\n相変わらず恥ずかしい呼び名ね。{1a}こういうのって本人が\n選べないから最悪だわ。\nま、「黒サソリのイヴ」よりは\n何倍もマシだけど。{1a}あの呼び名を聞いた時は\nあまりのセンスの古さに\nさすがに頭が痛くなったもの。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5110}{1c:11}{0b:08}【 Eve 】{0b:09}\nI'm honored you've heard of me, but\nthat's as embarrassing a name as ever.{1a}These things are dreadful, since you\nnever get to choose them yourself. Well,\nit's still many times better than \"Black\nScorpion Eve\".{1a}When I heard that one, the sheer stale\ntaste of it gave me quite a headache.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "I'm honored you've heard of me, but that's as embarrassing a name as ever. // These things are dreadful, since you never get to choose them yourself. Well, it's still many times better than \"Black Scorpion Eve\". // When I heard that one, the sheer stale taste of it gave me quite a headache."
   },
   {
    "id": "RES#243:43c9b",
@@ -558,8 +595,9 @@
    "jp": "{0b:08}{e080} 荒くれ者A {e082}{0b:09}\nま、まさか・・・\nほ、本物なのか・・・?{0c:2b5109fe}",
    "read": "{0b:08}【 荒くれ者A 】{0b:09}\nま、まさか・・・\nほ、本物なのか・・・?{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Ruffian A 】{0b:09}\nN-no way... The r-real thing...?{0c:2b5109fe}",
+   "status": "done",
+   "tl": "N-no way... The r-real thing...?"
   },
   {
    "id": "RES#243:43ccd",
@@ -569,8 +607,9 @@
    "jp": "{1c:13}{0b:08}{e080} イヴ {e082}{0b:09}\n確かめてみる?{0c:fe}",
    "read": "{1c:13}{0b:08}【 イヴ 】{0b:09}\n確かめてみる?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Eve 】{0b:09}\nCare to find out?{0c:fe}",
+   "status": "done",
+   "tl": "Care to find out?"
   },
   {
    "id": "RES#243:43ceb",
@@ -591,8 +630,9 @@
    "jp": "{0b:08}{e080} 荒くれ者B {e082}{0b:09}\nい、いいえ・・・{0c:fe}",
    "read": "{0b:08}【 荒くれ者B 】{0b:09}\nい、いいえ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Ruffian B 】{0b:09}\nN-no, ma'am...{0c:fe}",
+   "status": "done",
+   "tl": "N-no, ma'am..."
   },
   {
    "id": "RES#243:43d21",
@@ -613,8 +653,9 @@
    "jp": "{1c:11}{0b:08}{e080} イヴ {e082}{0b:09}\n今回の町もおいしい話\n何もなかったわね・・・{1a}ま、そもそも賞{e0a1}{e0a9}ぎってのが\n割に合わない仕事なんだけど。\n同じ{e0b9}なら傭兵やった方が\nお{e0a1}になるものね。{0c:fe}",
    "read": "{1c:11}{0b:08}【 イヴ 】{0b:09}\n今回の町もおいしい話\n何もなかったわね・・・{1a}ま、そもそも賞金稼ぎってのが\n割に合わない仕事なんだけど。\n同じ腕なら傭兵やった方が\nお金になるものね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Eve 】{0b:09}\nNothing good in this town either, was\nthere...{1a}Well, bounty hunting doesn't pay to begin\nwith. With the same skills, you'd make\nbetter money as a mercenary.{0c:fe}",
+   "status": "done",
+   "tl": "Nothing good in this town either, was there... // Well, bounty hunting doesn't pay to begin with. With the same skills, you'd make better money as a mercenary."
   },
   {
    "id": "RES#243:43e04",
@@ -635,8 +676,9 @@
    "jp": "{1c:13}でも、誰かの命令を聞いて\n動かされるってのも\nお互い好きじゃないし・・・{1a}ま、のんびり行きましょ。{0c:fe}",
    "read": "{1c:13}でも、誰かの命令を聞いて\n動かされるってのも\nお互い好きじゃないし・・・{1a}ま、のんびり行きましょ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}But neither of us likes being ordered\naround by someone else...{1a}Well, let's take it easy.{0c:fe}",
+   "status": "done",
+   "tl": "But neither of us likes being ordered around by someone else... // Well, let's take it easy."
   },
   {
    "id": "RES#243:43e53",
@@ -657,8 +699,9 @@
    "jp": "{1c:11}どうしたの?\n何か聞きたそうね。{0c:fe}",
    "read": "{1c:11}どうしたの?\n何か聞きたそうね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}What is it? You look like you want to ask\nsomething.{0c:fe}",
+   "status": "done",
+   "tl": "What is it? You look like you want to ask something."
   },
   {
    "id": "RES#243:43ea3",
@@ -679,8 +722,9 @@
    "jp": "{1c:11}それくらい分かるわよ。\nこうして2人で旅をするようになって\nもう2{e0bb}なんだから。{1a}・・・で、何?{0c:fe}",
    "read": "{1c:11}それくらい分かるわよ。\nこうして2人で旅をするようになって\nもう2年なんだから。{1a}・・・で、何?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}I can tell that much, you know. We've\nbeen traveling together like this for two\nyears now.{1a}...So, what is it?{0c:fe}",
+   "status": "done",
+   "tl": "I can tell that much, you know. We've been traveling together like this for two years now. // ...So, what is it?"
   },
   {
    "id": "RES#243:43ef6",
@@ -701,8 +745,9 @@
    "jp": "{0c:51182b501000}{1c:11}あたしがカルス・バスティードに\n行った本当の理由?{0c:fe}",
    "read": "{0c:51182b501000}{1c:11}あたしがカルス・バスティードに\n行った本当の理由?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51182b501000}{1c:11}My real reason for going to Kars\nBastide?{0c:fe}",
+   "status": "done",
+   "tl": "My real reason for going to Kars Bastide?"
   },
   {
    "id": "RES#243:43f2d",
@@ -723,8 +768,9 @@
    "jp": "{0c:51201001}{1c:11}何となく、よ。\n理由なんて本当に何も無いわ。{0c:fe}",
    "read": "{0c:51201001}{1c:11}何となく、よ。\n理由なんて本当に何も無いわ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51201001}{1c:11}Just because, that's all. There really was\nno reason at all.{0c:fe}",
+   "status": "done",
+   "tl": "Just because, that's all. There really was no reason at all."
   },
   {
    "id": "RES#243:43f66",
@@ -745,8 +791,9 @@
    "jp": "{1c:13}でも・・・{1a}あの世{e0bc}に入るまで\n自分でも気付かなかったけど・・・{1a}あたしは自分の居場所を\n{e0b0}してたのかもね・・・{0c:fe}",
    "read": "{1c:13}でも・・・{1a}あの世界に入るまで\n自分でも気付かなかったけど・・・{1a}あたしは自分の居場所を\n探してたのかもね・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}But...{1a}I didn't realize it myself until I entered\nthat world...{1a}Maybe I was looking for a place of my\nown...{0c:fe}",
+   "status": "done",
+   "tl": "But... // I didn't realize it myself until I entered that world... // Maybe I was looking for a place of my own..."
   },
   {
    "id": "RES#243:43fc9",
@@ -767,8 +814,9 @@
    "jp": "{1c:13}いろんな{e0be}を渡ってきたけど、\nあたしの居場所はどこにもなくて、\nどこに行っても\n白い{e0c0}で迎えられて・・・{1a}笑って生きていく気さえあれば\n今いる場所が{e0c2}{e0be}・・・\nそう自分に言い聞かせてはいたけど、{1a}結{e0c3}、心から笑えたことなんて\n1度もなかったのかもしれない・・・\n笑おうって努力はずっとしてたのに。{1a}哀しい女なんて思わないでね。\nあなたにそう思われると\nすごく腹が立つから。{0c:fe}",
    "read": "{1c:13}いろんな国を渡ってきたけど、\nあたしの居場所はどこにもなくて、\nどこに行っても\n白い眼で迎えられて・・・{1a}笑って生きていく気さえあれば\n今いる場所が天国・・・\nそう自分に言い聞かせてはいたけど、{1a}結局、心から笑えたことなんて\n1度もなかったのかもしれない・・・\n笑おうって努力はずっとしてたのに。{1a}哀しい女なんて思わないでね。\nあなたにそう思われると\nすごく腹が立つから。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}I've crossed so many countries, but\nthere was no place for me anywhere, and\nwherever I went, cold stares greeted\nme...{1a}As long as you mean to live with a smile,\nwherever you are is heaven... That's\nwhat I kept telling myself,{1a}but in the end, maybe I never once smiled\nfrom the heart... Even though I kept\ntrying to, all along.{1a}Don't go thinking I'm some sad woman. It\nwould make me terribly angry, if you\nthought that.{0c:fe}",
+   "status": "done",
+   "tl": "I've crossed so many countries, but there was no place for me anywhere, and wherever I went, cold stares greeted me... // As long as you mean to live with a smile, wherever you are is heaven... That's what I kept telling myself, // but in the end, maybe I never once smiled from the heart... Even though I kept trying to, all along. // Don't go thinking I'm some sad woman. It would make me terribly angry, if you thought that."
   },
   {
    "id": "RES#243:440c5",
@@ -789,8 +837,9 @@
    "jp": "{1c:12}どうしてあの町を選んだのかは\n自分でも分からないわ。\n何となくとしか言えないもの。{1a}でも・{07:05}・{07:05}・{07:14}{1a}今にして思えば、\nあなたに{e0c6}うためだったのかもね。{07:07}{0c:fe}",
    "read": "{1c:12}どうしてあの町を選んだのかは\n自分でも分からないわ。\n何となくとしか言えないもの。{1a}でも・{07:05}・{07:05}・{07:14}{1a}今にして思えば、\nあなたに会うためだったのかもね。{07:07}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Why I chose that town, I don't know\nmyself. All I can say is, just because.{1a}But.{07:05}.{07:05}.{07:14}{1a}Thinking back on it now, maybe it was to\nmeet you.{07:07}{0c:fe}",
+   "status": "done",
+   "tl": "Why I chose that town, I don't know myself. All I can say is, just because. // But.[1].[2].[3] // Thinking back on it now, maybe it was to meet you."
   },
   {
    "id": "RES#243:44136",
@@ -811,8 +860,9 @@
    "jp": "{1c:13}あたしはあの町で\n自分の居場所を見つけたわ。{1a}そして、これ以上ないお{e0c7}を\n手に入れた・・・{1a}ほんと、うれしい誤算よ。{0c:fe}",
    "read": "{1c:13}あたしはあの町で\n自分の居場所を見つけたわ。{1a}そして、これ以上ないお宝を\n手に入れた・・・{1a}ほんと、うれしい誤算よ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}In that town, I found a place of my own.{1a}And I got hold of the greatest treasure\nthere is...{1a}Truly, a happy miscalculation.{0c:fe}",
+   "status": "done",
+   "tl": "In that town, I found a place of my own. // And I got hold of the greatest treasure there is... // Truly, a happy miscalculation."
   },
   {
    "id": "RES#243:4419b",
@@ -833,8 +883,9 @@
    "jp": "{1c:13}何を手に入れたのかって?{1a}決まってるでしょ、\nあたし達2人の『{e0c9}来』の自由よ。{0c:fe}",
    "read": "{1c:13}何を手に入れたのかって?{1a}決まってるでしょ、\nあたし達2人の『未来』の自由よ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}What did I get, you ask?{1a}Isn't it obvious? The freedom of a\n'future' for the two of us.{0c:fe}",
+   "status": "done",
+   "tl": "What did I get, you ask? // Isn't it obvious? The freedom of a 'future' for the two of us."
   },
   {
    "id": "RES#243:441e9",

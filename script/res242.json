@@ -41,8 +41,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\n{e082}いてますよ、{10}さん。{0c:fe}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\n開いてますよ、{10}さん。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nIt's open, {10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "It's open, [HERO]-san."
   },
   {
    "id": "RES#242:301d2",
@@ -63,8 +64,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\n早いですね。あの砦、\nもう落としちゃったんですか?{0c:2b5309fe}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\n早いですね。あの砦、\nもう落としちゃったんですか?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nThat was quick. You've taken that fort\nalready?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "That was quick. You've taken that fort already?"
   },
   {
    "id": "RES#242:302a7",
@@ -74,8 +76,9 @@
    "jp": "{1c:13}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\nお久しぶりですね、\nオルフェウスさん。{0c:2b5109fe}",
    "read": "{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\nお久しぶりですね、\nオルフェウスさん。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nIt has been a long time, Orpheus-san.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "It has been a long time, Orpheus-san."
   },
   {
    "id": "RES#242:302de",
@@ -85,8 +88,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nえ・・・\nサディーヤさん・・・ですか?{0c:2b5309fe}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nえ・・・\nサディーヤさん・・・ですか?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nOh... Sadiya-san... is that you?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Oh... Sadiya-san... is that you?"
   },
   {
    "id": "RES#242:30310",
@@ -96,8 +100,9 @@
    "jp": "{1c:13}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\nええ。{1a}入ってもよろしいですか?{0c:2b5109fe}",
    "read": "{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\nええ。{1a}入ってもよろしいですか?{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nYes.{1a}May I come in?{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Yes. // May I come in?"
   },
   {
    "id": "RES#242:30343",
@@ -107,8 +112,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nええ、もちろん。{0c:fe}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nええ、もちろん。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nBy all means.{0c:fe}",
+   "status": "done",
+   "tl": "By all means."
   },
   {
    "id": "RES#242:30364",
@@ -129,8 +135,9 @@
    "jp": "{1c:11}{0b:08}{e080} オルフェウス {e081}{0b:09}\n4{e088}ぶりですか・・・\nでも全然変わってませんね。\n相変わらずお美しい。{0c:2b5309fe}",
    "read": "{1c:11}{0b:08}【 オルフェウス 】{0b:09}\n4年ぶりですか・・・\nでも全然変わってませんね。\n相変わらずお美しい。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Orpheus 】{0b:09}\nFour years, is it... Yet you haven't\nchanged at all. As lovely as ever.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Four years, is it... Yet you haven't changed at all. As lovely as ever."
   },
   {
    "id": "RES#242:303c5",
@@ -140,8 +147,9 @@
    "jp": "{0c:5121}{1c:13}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\nあなたも変わりませんね。{0c:2b5109fe}",
    "read": "{0c:5121}{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\nあなたも変わりませんね。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5121}{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nYou have not changed either.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "You have not changed either."
   },
   {
    "id": "RES#242:303f7",
@@ -151,8 +159,9 @@
    "jp": "{0c:5109}{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\n変わりましたよ。\n{e08a}{e08b}の{e08c}珠といわれた\nぼくの美しい肌もほらこの{e08f}り・・・{0c:2b5309fe}",
    "read": "{0c:5109}{1c:10}{0b:08}【 オルフェウス 】{0b:09}\n変わりましたよ。\n南海の真珠といわれた\nぼくの美しい肌もほらこの通り・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5109}{1c:10}{0b:08}【 Orpheus 】{0b:09}\nOh, but I have. This beautiful skin of\nmine, once called the pearl of the\nsouthern seas... look at it now.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Oh, but I have. This beautiful skin of mine, once called the pearl of the southern seas... look at it now."
   },
   {
    "id": "RES#242:30444",
@@ -162,8 +171,9 @@
    "jp": "{1c:13}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\nその軽口がですよ。{0c:2b5109fe}",
    "read": "{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\nその軽口がですよ。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nIt is that glib tongue I mean.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "It is that glib tongue I mean."
   },
   {
    "id": "RES#242:30470",
@@ -173,8 +183,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nこれがなくなったら\nぼくじゃなくなる。{1a}それに、この性格が\n1番性に合ってるんですよ。{1a}で、どうしてここに?\nひょっとして、ぼくの愛を・・・{0c:2b5309fe}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nこれがなくなったら\nぼくじゃなくなる。{1a}それに、この性格が\n1番性に合ってるんですよ。{1a}で、どうしてここに?\nひょっとして、ぼくの愛を・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nWithout it, I wouldn't be me.{1a}Besides, this temperament suits me\nbest.{1a}So, what brings you here? Could it be,\nyou have come for my love...{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Without it, I wouldn't be me. // Besides, this temperament suits me best. // So, what brings you here? Could it be, you have come for my love..."
   },
   {
    "id": "RES#242:304dc",
@@ -184,8 +195,9 @@
    "jp": "{1c:13}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\nいえ、{10}さんに\n招かれたんです・・・{0c:2b5109fe}",
    "read": "{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\nいえ、{10}さんに\n招かれたんです・・・{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nNo. {10}-san invited me...{0c:2b5109fe}",
+   "status": "done",
+   "tl": "No. [HERO]-san invited me..."
   },
   {
    "id": "RES#242:30510",
@@ -195,8 +207,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nあの間の抜けたブ男に?\nサディーヤさんも趣味が\n悪くなりましたね。{0c:2b5309fe}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nあの間の抜けたブ男に?\nサディーヤさんも趣味が\n悪くなりましたね。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nThat dim-witted ugly oaf? Your taste\nhas gone downhill, Sadiya-san.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "That dim-witted ugly oaf? Your taste has gone downhill, Sadiya-san."
   },
   {
    "id": "RES#242:30558",
@@ -206,8 +219,9 @@
    "jp": "{1c:12}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\n違いますよ。\nその・{07:05}・{07:05}・{07:11}オルフェウスさんの・{07:05}・{07:05}・{07:07}{0c:2b5109fe}",
    "read": "{1c:12}{0b:08}【 毒術師サディーヤ 】{0b:09}\n違いますよ。\nその・{07:05}・{07:05}・{07:11}オルフェウスさんの・{07:05}・{07:05}・{07:07}{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nThat is not it. It is.{07:05}.{07:05}.{07:11}Orpheus-san, your.{07:05}.{07:05}.{07:07}{0c:2b5109fe}",
+   "status": "done",
+   "tl": "That is not it. It is.[1].[2].[3]Orpheus-san, your.[4].[5]."
   },
   {
    "id": "RES#242:305a0",
@@ -217,8 +231,9 @@
    "jp": "{1c:11}{0b:08}{e080} オルフェウス {e081}{0b:09}\nわかってますよ。\nあのブ男はぼくの体を気遣って\nあなたを招いたのでしょうね。{1a}まったく、お節{e092}な奴だ、\nブ男のクセに。{0c:2b5309fe}",
    "read": "{1c:11}{0b:08}【 オルフェウス 】{0b:09}\nわかってますよ。\nあのブ男はぼくの体を気遣って\nあなたを招いたのでしょうね。{1a}まったく、お節介な奴だ、\nブ男のクセに。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Orpheus 】{0b:09}\nI know. No doubt that ugly oaf called you\nhere out of concern for my health.{1a}Honestly, what a meddling fellow, for an\nugly oaf.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "I know. No doubt that ugly oaf called you here out of concern for my health. // Honestly, what a meddling fellow, for an ugly oaf."
   },
   {
    "id": "RES#242:30606",
@@ -228,8 +243,9 @@
    "jp": "{0c:5129}{1c:12}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\nお{e093}を{e094}つか用意してきました。\n痛みを{e095}らげる程度しか\n出来ませんが・・・{0c:2b5109fe}",
    "read": "{0c:5129}{1c:12}{0b:08}【 毒術師サディーヤ 】{0b:09}\nお薬を幾つか用意してきました。\n痛みを和らげる程度しか\n出来ませんが・・・{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5129}{1c:12}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nI have prepared several medicines. They\ncan do little more than ease the pain,\nbut...{0c:2b5109fe}",
+   "status": "done",
+   "tl": "I have prepared several medicines. They can do little more than ease the pain, but..."
   },
   {
    "id": "RES#242:3065a",
@@ -239,8 +255,9 @@
    "jp": "{1c:11}{0b:08}{e080} {03}オルフェウス {e081}{0b:09}\n{02}ありがとうございます。\nでも別にいいですよ、\n死ぬ覚悟は出来てますから。{1a}それに、{01}4{02}・{01}5{e088}{02}で死ぬと\n言われていながら\n結{e096}もう{01}8{e088}{02}にもなるんです。{1a}むしろ感謝しなきゃ。{1a}ま、この悪運もそろそろ尽きようと\nしているようですが。{0c:2b5309fe}",
    "read": "{1c:11}{0b:08}【 {03}オルフェウス 】{0b:09}\n{02}ありがとうございます。\nでも別にいいですよ、\n死ぬ覚悟は出来てますから。{1a}それに、{01}4{02}・{01}5年{02}で死ぬと\n言われていながら\n結局もう{01}8年{02}にもなるんです。{1a}むしろ感謝しなきゃ。{1a}ま、この悪運もそろそろ尽きようと\nしているようですが。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Orpheus 】{0b:09}\nThank you. But there is really no need. I\nam quite ready to die.{1a}Besides, they told me I would be dead in\nfour or five years, and here it has been\neight.{1a}If anything, I ought to be grateful.{1a}Though this wicked luck of mine does\nseem about to run out at last.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Thank you. But there is really no need. I am quite ready to die. // Besides, they told me I would be dead in four or five years, and here it has been eight. // If anything, I ought to be grateful. // Though this wicked luck of mine does seem about to run out at last."
   },
   {
    "id": "RES#242:306fd",
@@ -250,8 +267,9 @@
    "jp": "{1c:12}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\nオルフェウスさん・・・{0c:2b5109fe}",
    "read": "{1c:12}{0b:08}【 毒術師サディーヤ 】{0b:09}\nオルフェウスさん・・・{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nOrpheus-san...{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Orpheus-san..."
   },
   {
    "id": "RES#242:30729",
@@ -261,8 +279,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nでも、この人生には満足しています。\n皆さんと出逢えて本当に良かった。\n{e09a}に{10}さんとは・・・{1a}ま、本人の前では\n死んでも言いませんけどね、\n彼が図に乗ると面倒ですから。{0c:2b5309fe}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nでも、この人生には満足しています。\n皆さんと出逢えて本当に良かった。\n特に{10}さんとは・・・{1a}ま、本人の前では\n死んでも言いませんけどね、\n彼が図に乗ると面倒ですから。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nStill, I am content with this life. I am\ntruly glad I met you all. {10}-san\nabove all...{1a}Of course, I wouldn't say so to his face\nif it killed me. It's such a bother when he\ngets above himself.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Still, I am content with this life. I am truly glad I met you all. [HERO]-san above all... // Of course, I wouldn't say so to his face if it killed me. It's such a bother when he gets above himself."
   },
   {
    "id": "RES#242:307ad",
@@ -272,8 +291,9 @@
    "jp": "{0c:5121}{1c:13}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\n本当に変わりませんね、\nオルフェウスさん。{1a}いえ、今はイレニウスさんでしたね。{0c:2b5109fe}",
    "read": "{0c:5121}{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\n本当に変わりませんね、\nオルフェウスさん。{1a}いえ、今はイレニウスさんでしたね。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5121}{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nYou truly have not changed,\nOrpheus-san.{1a}No, it is Irenius-san now, is it not?{0c:2b5109fe}",
+   "status": "done",
+   "tl": "You truly have not changed, Orpheus-san. // No, it is Irenius-san now, is it not?"
   },
   {
    "id": "RES#242:30801",
@@ -283,8 +303,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nオルフェウスでいいですよ。{1a}『イレニア人の父』だなんて\n小恥ずかしい{e09b}前、\nまったく誰が付けたのか・・・{0c:2b5309fe}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nオルフェウスでいいですよ。{1a}『イレニア人の父』だなんて\n小恥ずかしい名前、\nまったく誰が付けたのか・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nOrpheus will do.{1a}'Father of the Irenians'... Such an\nembarrassing name. Who on earth came\nup with it...{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Orpheus will do. // 'Father of the Irenians'... Such an embarrassing name. Who on earth came up with it..."
   },
   {
    "id": "RES#242:3085d",
@@ -294,8 +315,9 @@
    "jp": "{0c:5131}{1c:13}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\nクムランさんやファトゥムさんも\n驚いていましたよ。{1a}あのオルフェウスさんが\nいまや一{e09c}の元{e09d}なのですから。{0c:2b5109fe}",
    "read": "{0c:5131}{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\nクムランさんやファトゥムさんも\n驚いていましたよ。{1a}あのオルフェウスさんが\nいまや一国の元首なのですから。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5131}{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nQumran-san and Fatum-san were\nsurprised as well.{1a}That you, of all people, Orpheus-san, are\nnow a nation's head of state.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Qumran-san and Fatum-san were surprised as well. // That you, of all people, Orpheus-san, are now a nation's head of state."
   },
   {
    "id": "RES#242:308c0",
@@ -305,8 +327,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nええ、自分でも驚いています。\nいつの間にこんなことに\nなっちゃったのかって。{1a}初めは不愉快な貴{e0a0}達を\nストレス発散のために\nイジめてただけなんですけどね。{1a}それがいつの間にか\n{e0a1}衆の英雄になっちゃって。\nあれよあれよという間に\n1つの勢力になってしまった・・・{1a}まぁ、ぼくの美しさが\n{e0a1}衆の、{e09a}に女性達のハートを\n有無を言わさず掴んで\nしまったことは否定しませんが、{1a}今の身分はいささか窮屈ですね。\nま、もうじき\n{e0a8}{e08f}の人に戻りますけど。{0c:2b5309fe}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nええ、自分でも驚いています。\nいつの間にこんなことに\nなっちゃったのかって。{1a}初めは不愉快な貴族達を\nストレス発散のために\nイジめてただけなんですけどね。{1a}それがいつの間にか\n民衆の英雄になっちゃって。\nあれよあれよという間に\n1つの勢力になってしまった・・・{1a}まぁ、ぼくの美しさが\n民衆の、特に女性達のハートを\n有無を言わさず掴んで\nしまったことは否定しませんが、{1a}今の身分はいささか窮屈ですね。\nま、もうじき\n普通の人に戻りますけど。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nYes, it surprises me too. How did it all\ncome to this, I wonder.{1a}At first I was only tormenting\nunpleasant nobles to let off steam, you\nsee.{1a}Then before I knew it, I had become a\nhero of the people. In the blink of an eye\nit had grown into a faction of its own...{1a}Well, I won't deny that my beauty seized\nthe hearts of the people, women\nespecially, without giving them any say in\nthe matter,{1a}but my present station is rather stifling.\nAh well, I shall soon be an ordinary man\nagain.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Yes, it surprises me too. How did it all come to this, I wonder. // At first I was only tormenting unpleasant nobles to let off steam, you see. // Then before I knew it, I had become a hero of the people. In the blink of an eye it had grown into a faction of its own... // Well, I won't deny that my beauty seized the hearts of the people, women especially, without giving them any say in the matter, // but my present station is rather stifling. Ah well, I shall soon be an ordinary man again."
   },
   {
    "id": "RES#242:309ea",
@@ -316,8 +339,9 @@
    "jp": "{1c:13}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\n元{e09d}の座を{e0aa}りるのですか?{0c:2b5109fe}",
    "read": "{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\n元首の座を降りるのですか?{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nYou will step down as head of state?{0c:2b5109fe}",
+   "status": "done",
+   "tl": "You will step down as head of state?"
   },
   {
    "id": "RES#242:30a1d",
@@ -338,8 +362,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nええ。\nもう支え無しでは立つことすら\n出来ませんから。{1a}それに、死んだ後に\n後継者争いが{e0ae}こるのも\n避けた方がいいですし。{1a}{e09a}に、あのブ男を担ぎ出す人間が\n出てくると厄{e092}ですからね。{1a}あの男は、顔が少{e0b1}不細{e0b2}なだけで\n人間としては申し分ないんですが、{1a}やはりイレニア人の上に立つには\n生粋のイレニア人でないと。\nしかも、彼はよりにもよって\nバイレステの貴{e0a0}の出ですから。{1a}{e09c}王相手の{e0b4}{e0b1}の大活躍のおかげで、\n今は彼も{e0a1}衆の英雄ですが、\n平{e095}になったときに彼が頭だと\n必ず不満が出る・・・{1a}後ろから刺されてお終いでは\n彼も{e0b8}哀想ですし。{1a}だからこそ、ぼくが生きている間に\n次の元{e09d}を選んでおかないと。{0c:020801}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nええ。\nもう支え無しでは立つことすら\n出来ませんから。{1a}それに、死んだ後に\n後継者争いが起こるのも\n避けた方がいいですし。{1a}特に、あのブ男を担ぎ出す人間が\n出てくると厄介ですからね。{1a}あの男は、顔が少々不細工なだけで\n人間としては申し分ないんですが、{1a}やはりイレニア人の上に立つには\n生粋のイレニア人でないと。\nしかも、彼はよりにもよって\nバイレステの貴族の出ですから。{1a}国王相手の数々の大活躍のおかげで、\n今は彼も民衆の英雄ですが、\n平和になったときに彼が頭だと\n必ず不満が出る・・・{1a}後ろから刺されてお終いでは\n彼も可哀想ですし。{1a}だからこそ、ぼくが生きている間に\n次の元首を選んでおかないと。{0c:020801}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nYes. I can no longer even stand without\nsupport.{1a}Besides, it would be best to avoid a war\nof succession after my death.{1a}It would be especially troublesome if\nsomeone were to put that ugly oaf\nforward.{1a}The man is a little homely, but as a\nhuman being he leaves nothing to be\ndesired.{1a}Still, to stand above the Irenians one\nmust be an Irenian born and bred. And he,\nof all things, comes from the Bailestean\nnobility.{1a}Thanks to his many great exploits\nagainst the king, he too is a hero of the\npeople now, but with him at the head\nonce peace comes, there would surely{1a}be discontent...{1a}It would be a pity for him if it all ended\nwith a knife in the back.{1a}That is why I must choose the next head\nof state while I am still alive.{0c:020801}",
+   "status": "done",
+   "tl": "Yes. I can no longer even stand without support. // Besides, it would be best to avoid a war of succession after my death. // It would be especially troublesome if someone were to put that ugly oaf forward. // The man is a little homely, but as a human being he leaves nothing to be desired. // Still, to stand above the Irenians one must be an Irenian born and bred. And he, of all things, comes from the Bailestean nobility. // Thanks to his many great exploits against the king, he too is a hero of the people now, but with him at the head once peace comes, there would surely be discontent... // It would be a pity for him if it all ended with a knife in the back. // That is why I must choose the next head of state while I am still alive."
   },
   {
    "id": "RES#242:30bc8",
@@ -360,8 +385,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nええ。\nもう支え無しでは立つことすら\n出来ませんから。{1a}それに、死んだ後に\n後継者争いが{e0ae}こるのも\n避けた方がいいですし。{1a}{e09a}に、あのブ男を担ぎ出す人間が\n出てくると厄{e092}ですからね。{1a}あの男は、顔が少{e0b1}不細{e0b2}なだけで\n人間としては申し分ないんですが、{1a}やはりイレニア人の上に立つには\n生粋のイレニア人でないと。\nしかも、彼は運の悪いことに\nバイレステ人ですから。{1a}貴{e0a0}相手の{e0b4}{e0b1}の大活躍のおかげで、\n今は彼も{e0a1}衆の英雄ですが、\n平{e095}になった時に彼が頭だと\n必ず不満が出る・・・{1a}後ろから刺されてお終いでは\n彼も{e0b8}哀想ですしね。{1a}だからこそ、ぼくが生きている間に\n次の元{e09d}を選んでおかないと。{0c:020601}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nええ。\nもう支え無しでは立つことすら\n出来ませんから。{1a}それに、死んだ後に\n後継者争いが起こるのも\n避けた方がいいですし。{1a}特に、あのブ男を担ぎ出す人間が\n出てくると厄介ですからね。{1a}あの男は、顔が少々不細工なだけで\n人間としては申し分ないんですが、{1a}やはりイレニア人の上に立つには\n生粋のイレニア人でないと。\nしかも、彼は運の悪いことに\nバイレステ人ですから。{1a}貴族相手の数々の大活躍のおかげで、\n今は彼も民衆の英雄ですが、\n平和になった時に彼が頭だと\n必ず不満が出る・・・{1a}後ろから刺されてお終いでは\n彼も可哀想ですしね。{1a}だからこそ、ぼくが生きている間に\n次の元首を選んでおかないと。{0c:020601}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nYes. I can no longer even stand without\nsupport.{1a}Besides, it would be best to avoid a war\nof succession after my death.{1a}It would be especially troublesome if\nsomeone were to put that ugly oaf\nforward.{1a}The man is a little homely, but as a\nhuman being he leaves nothing to be\ndesired.{1a}Still, to stand above the Irenians one\nmust be an Irenian born and bred. And he,\nas ill luck would have it, is a Bailestean.{1a}Thanks to his many great exploits\nagainst the nobles, he too is a hero of\nthe people now, but with him at the head\nonce peace comes, there would surely{1a}be discontent...{1a}It would be a pity for him if it all ended\nwith a knife in the back.{1a}That is why I must choose the next head\nof state while I am still alive.{0c:020601}",
+   "status": "done",
+   "tl": "Yes. I can no longer even stand without support. // Besides, it would be best to avoid a war of succession after my death. // It would be especially troublesome if someone were to put that ugly oaf forward. // The man is a little homely, but as a human being he leaves nothing to be desired. // Still, to stand above the Irenians one must be an Irenian born and bred. And he, as ill luck would have it, is a Bailestean. // Thanks to his many great exploits against the nobles, he too is a hero of the people now, but with him at the head once peace comes, there would surely be discontent... // It would be a pity for him if it all ended with a knife in the back. // That is why I must choose the next head of state while I am still alive."
   },
   {
    "id": "RES#242:30d70",
@@ -382,8 +408,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nええ。\nもう支え無しでは立つことすら\n出来ませんから。{1a}それに、死んだ後に\n後継者争いが{e0ae}こるのも\n避けた方がいいですし。{1a}{e09a}に、あのブ男を担ぎ出す人間が\n出てくると厄{e092}ですからね。{1a}あの男は、顔が少{e0b1}不細{e0b2}なだけで\n人間としては申し分ないんですが、\n彼がイレニアの貴{e0a0}出身であることは\n{e0ba}しようのない事実ですから。{1a}{e09c}王相手の{e0b4}{e0b1}の大活躍のおかげで、\n今は彼も{e0a1}衆の英雄ですが、\n平{e095}になった時に彼が頭だと\n必ず不満が出る・・・{1a}{e084}を盛られてお終いでは\n彼も{e0b8}哀想ですしね。{1a}だからこそ、ぼくが生きている間に\n次の元{e09d}を選んでおかないと。{0c:020401}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nええ。\nもう支え無しでは立つことすら\n出来ませんから。{1a}それに、死んだ後に\n後継者争いが起こるのも\n避けた方がいいですし。{1a}特に、あのブ男を担ぎ出す人間が\n出てくると厄介ですからね。{1a}あの男は、顔が少々不細工なだけで\n人間としては申し分ないんですが、\n彼がイレニアの貴族出身であることは\n隠しようのない事実ですから。{1a}国王相手の数々の大活躍のおかげで、\n今は彼も民衆の英雄ですが、\n平和になった時に彼が頭だと\n必ず不満が出る・・・{1a}毒を盛られてお終いでは\n彼も可哀想ですしね。{1a}だからこそ、ぼくが生きている間に\n次の元首を選んでおかないと。{0c:020401}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nYes. I can no longer even stand without\nsupport.{1a}Besides, it would be best to avoid a war\nof succession after my death.{1a}It would be especially troublesome if\nsomeone were to put that ugly oaf\nforward.{1a}The man is a little homely, but as a\nhuman being he leaves nothing to be\ndesired. Yet there is no hiding the fact\nthat he comes from the Irenian nobility.{1a}Thanks to his many great exploits\nagainst the king, he too is a hero of the\npeople now, but with him at the head\nonce peace comes, there would surely{1a}be discontent...{1a}It would be a pity for him if it all ended\nwith poison.{1a}That is why I must choose the next head\nof state while I am still alive.{0c:020401}",
+   "status": "done",
+   "tl": "Yes. I can no longer even stand without support. // Besides, it would be best to avoid a war of succession after my death. // It would be especially troublesome if someone were to put that ugly oaf forward. // The man is a little homely, but as a human being he leaves nothing to be desired. Yet there is no hiding the fact that he comes from the Irenian nobility. // Thanks to his many great exploits against the king, he too is a hero of the people now, but with him at the head once peace comes, there would surely be discontent... // It would be a pity for him if it all ended with poison. // That is why I must choose the next head of state while I am still alive."
   },
   {
    "id": "RES#242:30ef9",
@@ -404,8 +431,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nええ。\nもう支え無しでは立つことすら\n出来ませんから。{1a}それに、死んだ後に\n後継者争いが{e0ae}こるのも\n避けた方がいいですし。{1a}{e09a}に、あのブ男を担ぎ出す人間が\n出てくると厄{e092}ですからね。{1a}あの男は、顔が少{e0b1}不細{e0b2}なだけで\n人間としては申し分ないんですが、\n政{e0bd}の裏の世{e0be}を舞台に活躍するには\n少し人が良すぎるんですよ。{1a}貴{e0a0}相手の{e0b4}{e0b1}の大活躍のおかげで、\n今は彼も{e0a1}衆の英雄ですが、\n平{e095}になった時に彼が頭だと\n必ず誰かに騙される・・・{1a}{e084}を盛られてお終いでは\n彼も{e0b8}哀想ですしね。{1a}だからこそ、ぼくが生きている間に\n次の元{e09d}を選んでおかないと。{0c:020201}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nええ。\nもう支え無しでは立つことすら\n出来ませんから。{1a}それに、死んだ後に\n後継者争いが起こるのも\n避けた方がいいですし。{1a}特に、あのブ男を担ぎ出す人間が\n出てくると厄介ですからね。{1a}あの男は、顔が少々不細工なだけで\n人間としては申し分ないんですが、\n政治の裏の世界を舞台に活躍するには\n少し人が良すぎるんですよ。{1a}貴族相手の数々の大活躍のおかげで、\n今は彼も民衆の英雄ですが、\n平和になった時に彼が頭だと\n必ず誰かに騙される・・・{1a}毒を盛られてお終いでは\n彼も可哀想ですしね。{1a}だからこそ、ぼくが生きている間に\n次の元首を選んでおかないと。{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nYes. I can no longer even stand without\nsupport.{1a}Besides, it would be best to avoid a war\nof succession after my death.{1a}It would be especially troublesome if\nsomeone were to put that ugly oaf\nforward.{1a}The man is a little homely, but as a\nhuman being he leaves nothing to be\ndesired. Only he is a little too\ngood-natured to thrive in the shadow{1a}world of politics.{1a}Thanks to his many great exploits\nagainst the nobles, he too is a hero of\nthe people now, but with him at the head\nonce peace comes, someone would{1a}surely deceive him...{1a}It would be a pity for him if it all ended\nwith poison.{1a}That is why I must choose the next head\nof state while I am still alive.{0c:020201}",
+   "status": "done",
+   "tl": "Yes. I can no longer even stand without support. // Besides, it would be best to avoid a war of succession after my death. // It would be especially troublesome if someone were to put that ugly oaf forward. // The man is a little homely, but as a human being he leaves nothing to be desired. Only he is a little too good-natured to thrive in the shadow world of politics. // Thanks to his many great exploits against the nobles, he too is a hero of the people now, but with him at the head once peace comes, someone would surely deceive him... // It would be a pity for him if it all ended with poison. // That is why I must choose the next head of state while I am still alive."
   },
   {
    "id": "RES#242:31084",
@@ -415,8 +443,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nええ。\nもう支え無しでは立つことすら\n出来ませんから。{1a}それに、死んだ後に\n後継者争いが{e0ae}こるのも\n避けた方がいいですし。{1a}{e09a}に、あのブ男を担ぎ出す人間が\n出てくると厄{e092}ですからね。{1a}あの男は、顔が少{e0b1}不細{e0b2}なだけで\n人間としては申し分ないんですが、\nやはりイレニア人の上に立つには\n生粋のイレニア人でないと。{1a}貴{e0a0}相手の{e0b4}{e0b1}の大活躍のおかげで、\n今は彼も{e0a1}衆の英雄ですが、\n平{e095}になった時に彼が頭だと\n必ず不満が出る・・・{1a}後ろから刺されてお終いでは\n彼も{e0b8}哀想ですしね。{1a}だからこそ、ぼくが生きている間に\n次の元{e09d}を選んでおかないと。{0c:fe}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nええ。\nもう支え無しでは立つことすら\n出来ませんから。{1a}それに、死んだ後に\n後継者争いが起こるのも\n避けた方がいいですし。{1a}特に、あのブ男を担ぎ出す人間が\n出てくると厄介ですからね。{1a}あの男は、顔が少々不細工なだけで\n人間としては申し分ないんですが、\nやはりイレニア人の上に立つには\n生粋のイレニア人でないと。{1a}貴族相手の数々の大活躍のおかげで、\n今は彼も民衆の英雄ですが、\n平和になった時に彼が頭だと\n必ず不満が出る・・・{1a}後ろから刺されてお終いでは\n彼も可哀想ですしね。{1a}だからこそ、ぼくが生きている間に\n次の元首を選んでおかないと。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nYes. I can no longer even stand without\nsupport.{1a}Besides, it would be best to avoid a war\nof succession after my death.{1a}It would be especially troublesome if\nsomeone were to put that ugly oaf\nforward.{1a}The man is a little homely, but as a\nhuman being he leaves nothing to be\ndesired. Still, to stand above the Irenians\none must be an Irenian born and bred.{1a}Thanks to his many great exploits\nagainst the nobles, he too is a hero of\nthe people now, but with him at the head\nonce peace comes, there would surely{1a}be discontent...{1a}It would be a pity for him if it all ended\nwith a knife in the back.{1a}That is why I must choose the next head\nof state while I am still alive.{0c:fe}",
+   "status": "done",
+   "tl": "Yes. I can no longer even stand without support. // Besides, it would be best to avoid a war of succession after my death. // It would be especially troublesome if someone were to put that ugly oaf forward. // The man is a little homely, but as a human being he leaves nothing to be desired. Still, to stand above the Irenians one must be an Irenian born and bred. // Thanks to his many great exploits against the nobles, he too is a hero of the people now, but with him at the head once peace comes, there would surely be discontent... // It would be a pity for him if it all ended with a knife in the back. // That is why I must choose the next head of state while I am still alive."
   },
   {
    "id": "RES#242:311fd",
@@ -437,8 +466,9 @@
    "jp": "{1c:13}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\nあなたは優しい人ですね・・・{0c:2b5109fe}",
    "read": "{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\nあなたは優しい人ですね・・・{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nYou are a kind man...{0c:2b5109fe}",
+   "status": "done",
+   "tl": "You are a kind man..."
   },
   {
    "id": "RES#242:31235",
@@ -448,8 +478,9 @@
    "jp": "{1c:11}{0b:08}{e080} オルフェウス {e081}{0b:09}\nいえ、残酷な男ですよ。{1a}彼を利用するだけ利用して、\n美味しいところだけ{e0c2}べて、\n先に死んじゃうんですから。{0c:2b5309fe}",
    "read": "{1c:11}{0b:08}【 オルフェウス 】{0b:09}\nいえ、残酷な男ですよ。{1a}彼を利用するだけ利用して、\n美味しいところだけ食べて、\n先に死んじゃうんですから。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Orpheus 】{0b:09}\nNo, a cruel one.{1a}I use him all I can, take only the\nsweetest share for myself, and then go\nand die first.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "No, a cruel one. // I use him all I can, take only the sweetest share for myself, and then go and die first."
   },
   {
    "id": "RES#242:31293",
@@ -459,8 +490,9 @@
    "jp": "{0c:5141}{1c:13}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\nいえ、あなたは優しい人ですよ。{0c:2b5109fe}",
    "read": "{0c:5141}{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\nいえ、あなたは優しい人ですよ。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5141}{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nNo, you are a kind man.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "No, you are a kind man."
   },
   {
    "id": "RES#242:312c9",
@@ -470,8 +502,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nいえ・{07:05}・{07:05}・{07:1e}\nもしぼくが優しいとすれば・{07:05}・{07:05}・{07:0a}{0c:fe}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nいえ・{07:05}・{07:05}・{07:1e}\nもしぼくが優しいとすれば・{07:05}・{07:05}・{07:0a}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nNo.{07:05}.{07:05}.{07:1e} If I am kind at all.{07:05}.{07:05}.{07:0a}{0c:fe}",
+   "status": "done",
+   "tl": "No.[1].[2].[3] If I am kind at all.[4].[5]."
   },
   {
    "id": "RES#242:31304",
@@ -492,8 +525,9 @@
    "jp": "{1c:10}相手が{10}だからですよ・{07:05}・{07:05}・{07:14}{0c:fe}",
    "read": "{1c:10}相手が{10}だからですよ・{07:05}・{07:05}・{07:14}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}It's only because it's {10}.{07:05}.{07:05}.{07:14}{0c:fe}",
+   "status": "done",
+   "tl": "It's only because it's [HERO].[1].[2]."
   },
   {
    "id": "RES#242:31329",
@@ -547,8 +581,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\n{e082}いてますよ、{10}さん。{0c:fe}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\n開いてますよ、{10}さん。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nIt's open, {10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "It's open, [HERO]-san."
   },
   {
    "id": "RES#242:3155e",
@@ -569,8 +604,9 @@
    "jp": "{1c:11}早いですね。あの砦、\nもう落としちゃったんですか?{0c:2b5309fe}",
    "read": "{1c:11}早いですね。あの砦、\nもう落としちゃったんですか?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}That was quick. You've taken that fort\nalready?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "That was quick. You've taken that fort already?"
   },
   {
    "id": "RES#242:31620",
@@ -580,8 +616,9 @@
    "jp": "{1c:13}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\nお久しぶりですね、\nオルフェウスさん。{0c:2b5109fe}",
    "read": "{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\nお久しぶりですね、\nオルフェウスさん。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nIt has been a long time, Orpheus-san.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "It has been a long time, Orpheus-san."
   },
   {
    "id": "RES#242:31657",
@@ -591,8 +628,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nえ・・・\nサディーヤさん・・・ですか?{0c:2b5309fe}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nえ・・・\nサディーヤさん・・・ですか?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nOh... Sadiya-san... is that you?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Oh... Sadiya-san... is that you?"
   },
   {
    "id": "RES#242:31689",
@@ -602,8 +640,9 @@
    "jp": "{1c:13}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\nええ。{1a}入ってもよろしいですか?{0c:2b5109fe}",
    "read": "{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\nええ。{1a}入ってもよろしいですか?{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nYes.{1a}May I come in?{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Yes. // May I come in?"
   },
   {
    "id": "RES#242:316bc",
@@ -613,8 +652,9 @@
    "jp": "{1c:11}{0b:08}{e080} オルフェウス {e081}{0b:09}\nええ、もちろん。{0c:fe}",
    "read": "{1c:11}{0b:08}【 オルフェウス 】{0b:09}\nええ、もちろん。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Orpheus 】{0b:09}\nBy all means.{0c:fe}",
+   "status": "done",
+   "tl": "By all means."
   },
   {
    "id": "RES#242:316dd",
@@ -635,8 +675,9 @@
    "jp": "{1c:11}4{e088}ぶりですか・・・\nでも全然変わってませんね。\n相変わらずお美しい。{0c:2b5309fe}",
    "read": "{1c:11}4年ぶりですか・・・\nでも全然変わってませんね。\n相変わらずお美しい。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Four years, is it... Yet you haven't\nchanged at all. As lovely as ever.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Four years, is it... Yet you haven't changed at all. As lovely as ever."
   },
   {
    "id": "RES#242:31729",
@@ -646,8 +687,9 @@
    "jp": "{0c:5121}{1c:13}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\nあなたも変わりませんね。{0c:2b5109fe}",
    "read": "{0c:5121}{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\nあなたも変わりませんね。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5121}{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nYou have not changed either.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "You have not changed either."
   },
   {
    "id": "RES#242:3175b",
@@ -657,8 +699,9 @@
    "jp": "{0c:5109}{1c:11}{0b:08}{e080} オルフェウス {e081}{0b:09}\n変わりましたよ。\n{e08a}{e08b}の{e08c}珠といわれた\nぼくの美しい肌もほらこの{e08f}り・・・{0c:2b5309fe}",
    "read": "{0c:5109}{1c:11}{0b:08}【 オルフェウス 】{0b:09}\n変わりましたよ。\n南海の真珠といわれた\nぼくの美しい肌もほらこの通り・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5109}{1c:11}{0b:08}【 Orpheus 】{0b:09}\nOh, but I have. This beautiful skin of\nmine, once called the pearl of the\nsouthern seas... look at it now.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Oh, but I have. This beautiful skin of mine, once called the pearl of the southern seas... look at it now."
   },
   {
    "id": "RES#242:317a8",
@@ -668,8 +711,9 @@
    "jp": "{1c:13}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\nその軽口がですよ。{0c:2b5109fe}",
    "read": "{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\nその軽口がですよ。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nIt is that glib tongue I mean.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "It is that glib tongue I mean."
   },
   {
    "id": "RES#242:317d4",
@@ -679,8 +723,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nこれがなくなったら\nぼくじゃなくなる。{1a}それに、この性格が\n1番性に合ってるんですよ。{1a}で、どうしてここに?\nひょっとして、ぼくの愛を・・・{0c:2b5309fe}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nこれがなくなったら\nぼくじゃなくなる。{1a}それに、この性格が\n1番性に合ってるんですよ。{1a}で、どうしてここに?\nひょっとして、ぼくの愛を・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nWithout it, I wouldn't be me.{1a}Besides, this temperament suits me\nbest.{1a}So, what brings you here? Could it be,\nyou have come for my love...{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Without it, I wouldn't be me. // Besides, this temperament suits me best. // So, what brings you here? Could it be, you have come for my love..."
   },
   {
    "id": "RES#242:31840",
@@ -690,8 +735,9 @@
    "jp": "{1c:13}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\nいえ、{10}さんに\n招かれたんです・・・{0c:2b5109fe}",
    "read": "{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\nいえ、{10}さんに\n招かれたんです・・・{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nNo. {10}-san invited me...{0c:2b5109fe}",
+   "status": "done",
+   "tl": "No. [HERO]-san invited me..."
   },
   {
    "id": "RES#242:31874",
@@ -701,8 +747,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\n{10}さんに?\nあいにく彼女にはぼくという\n素敵な恋人がいるのですが・・・{0c:2b5309fe}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\n{10}さんに?\nあいにく彼女にはぼくという\n素敵な恋人がいるのですが・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\n{10}-san? Alas, she already has a\nsplendid sweetheart in me...{0c:2b5309fe}",
+   "status": "done",
+   "tl": "[HERO]-san? Alas, she already has a splendid sweetheart in me..."
   },
   {
    "id": "RES#242:318bb",
@@ -712,8 +759,9 @@
    "jp": "{1c:12}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\nいえ、あなたの・・・{0c:2b5109fe}",
    "read": "{1c:12}{0b:08}【 毒術師サディーヤ 】{0b:09}\nいえ、あなたの・・・{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nNo, your...{0c:2b5109fe}",
+   "status": "done",
+   "tl": "No, your..."
   },
   {
    "id": "RES#242:318e6",
@@ -723,8 +771,9 @@
    "jp": "{1c:11}{0b:08}{e080} オルフェウス {e081}{0b:09}\nわかってますよ。\nぼくの体のことですよね。{0c:2b5309fe}",
    "read": "{1c:11}{0b:08}【 オルフェウス 】{0b:09}\nわかってますよ。\nぼくの体のことですよね。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Orpheus 】{0b:09}\nI know. It's about my health, isn't it.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "I know. It's about my health, isn't it."
   },
   {
    "id": "RES#242:31918",
@@ -734,8 +783,9 @@
    "jp": "{0c:5129}{1c:12}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\nええ・{07:05}・{07:05}・{07:14}\nお{e093}を{e094}つか用意してきました。{07:07}{1a}痛みを{e095}らげる程度しか\n出来ませんが・・・{0c:2b5109fe}",
    "read": "{0c:5129}{1c:12}{0b:08}【 毒術師サディーヤ 】{0b:09}\nええ・{07:05}・{07:05}・{07:14}\nお薬を幾つか用意してきました。{07:07}{1a}痛みを和らげる程度しか\n出来ませんが・・・{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5129}{1c:12}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nYes.{07:05}.{07:05}.{07:14} I have prepared several medicines.{07:07}{1a}They can do little more than ease the\npain, but...{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Yes.[1].[2].[3] I have prepared several medicines.[4] // They can do little more than ease the pain, but..."
   },
   {
    "id": "RES#242:3197a",
@@ -745,8 +795,9 @@
    "jp": "{1c:11}{0b:08}{e080} {03}オルフェウス {e081}{0b:09}\n{02}ありがとうございます。\nでも別にいいですよ、\n死ぬ覚悟は出来てますから。{1a}それに、{01}4{02}・{01}5{e088}{02}で死ぬと\n言われていながら\n結{e096}もう{01}8{e088}{02}にもなるんです。\nむしろ感謝しなきゃ。{1a}ま、この悪運もそろそろ尽きようと\nしているようですが。{0c:2b5309fe}",
    "read": "{1c:11}{0b:08}【 {03}オルフェウス 】{0b:09}\n{02}ありがとうございます。\nでも別にいいですよ、\n死ぬ覚悟は出来てますから。{1a}それに、{01}4{02}・{01}5年{02}で死ぬと\n言われていながら\n結局もう{01}8年{02}にもなるんです。\nむしろ感謝しなきゃ。{1a}ま、この悪運もそろそろ尽きようと\nしているようですが。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Orpheus 】{0b:09}\nThank you. But there is really no need. I\nam quite ready to die.{1a}Besides, they told me I would be dead in\nfour or five years, and here it has been\neight. If anything, I ought to be grateful.{1a}Though this wicked luck of mine does\nseem about to run out at last.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Thank you. But there is really no need. I am quite ready to die. // Besides, they told me I would be dead in four or five years, and here it has been eight. If anything, I ought to be grateful. // Though this wicked luck of mine does seem about to run out at last."
   },
   {
    "id": "RES#242:31a1d",
@@ -756,8 +807,9 @@
    "jp": "{1c:12}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\nオルフェウスさん・・・{0c:2b5109fe}",
    "read": "{1c:12}{0b:08}【 毒術師サディーヤ 】{0b:09}\nオルフェウスさん・・・{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nOrpheus-san...{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Orpheus-san..."
   },
   {
    "id": "RES#242:31a49",
@@ -767,8 +819,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nでも、この人生には満足しています。\n皆さんと出逢えて本当に良かった。\n{e09a}に{10}さんとは・・・{0c:2b5309fe}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nでも、この人生には満足しています。\n皆さんと出逢えて本当に良かった。\n特に{10}さんとは・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nStill, I am content with this life. I am\ntruly glad I met you all. {10}-san\nabove all...{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Still, I am content with this life. I am truly glad I met you all. [HERO]-san above all..."
   },
   {
    "id": "RES#242:31a9d",
@@ -778,8 +831,9 @@
    "jp": "{0c:5139}{1c:13}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\n彼女を大切にしなければ駄目ですよ。{0c:2b5109fe}",
    "read": "{0c:5139}{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\n彼女を大切にしなければ駄目ですよ。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5139}{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nYou must take good care of her.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "You must take good care of her."
   },
   {
    "id": "RES#242:31ad9",
@@ -789,8 +843,9 @@
    "jp": "{1c:11}{0b:08}{e080} オルフェウス {e081}{0b:09}\nええ、そうですね。{0c:2b5309fe}",
    "read": "{1c:11}{0b:08}【 オルフェウス 】{0b:09}\nええ、そうですね。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Orpheus 】{0b:09}\nYes, quite so.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Yes, quite so."
   },
   {
    "id": "RES#242:31afe",
@@ -800,8 +855,9 @@
    "jp": "{1c:13}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\nところで・・・{1a}これはあなたの{e0c3}下達の\n関心でもあるのですが、\n彼女と結婚はしないのですか?{0c:2b5109fe}",
    "read": "{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\nところで・・・{1a}これはあなたの部下達の\n関心でもあるのですが、\n彼女と結婚はしないのですか?{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nBy the way...{1a}This is a matter of interest to your men\nas well. Will you not marry her?{0c:2b5109fe}",
+   "status": "done",
+   "tl": "By the way... // This is a matter of interest to your men as well. Will you not marry her?"
   },
   {
    "id": "RES#242:31b57",
@@ -811,8 +867,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\n結婚した直後に夫に死なれては\n{e0c5}に{e0b8}哀想でしょう。{1a}それに、イレニアの慣習は\nちょっと他{e09c}とは変わっていて\n夫と死別した婦人には\n何かと不便なことが多いですから。{0c:2b5309fe}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\n結婚した直後に夫に死なれては\n逆に可哀想でしょう。{1a}それに、イレニアの慣習は\nちょっと他国とは変わっていて\n夫と死別した婦人には\n何かと不便なことが多いですから。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nLosing her husband right after the\nwedding would only be crueler for her,\nsurely.{1a}Besides, Irenian custom differs\nsomewhat from other lands, and a widow\nmeets with all sorts of inconvenience.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Losing her husband right after the wedding would only be crueler for her, surely. // Besides, Irenian custom differs somewhat from other lands, and a widow meets with all sorts of inconvenience."
   },
   {
    "id": "RES#242:31bde",
@@ -822,8 +879,9 @@
    "jp": "{0c:5139}{1c:13}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\nそれは男の論理です。\n彼女は待ってると思いますよ、\nあなたの告白を。{0c:2b5109fe}",
    "read": "{0c:5139}{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\nそれは男の論理です。\n彼女は待ってると思いますよ、\nあなたの告白を。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5139}{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nThat is a man's logic. I believe she is\nwaiting for you to declare yourself.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "That is a man's logic. I believe she is waiting for you to declare yourself."
   },
   {
    "id": "RES#242:31c2e",
@@ -833,8 +891,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nそれに、\n今まで忙しかったですからね。\n今も忙しいんですけど。{0c:2b5309fe}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nそれに、\n今まで忙しかったですからね。\n今も忙しいんですけど。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nBesides, I have been busy all this while. I\nstill am, in fact.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Besides, I have been busy all this while. I still am, in fact."
   },
   {
    "id": "RES#242:31c6d",
@@ -844,8 +903,9 @@
    "jp": "{0c:5139}{1c:13}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\nそれも男の論理です。\n言い訳は見苦しいですよ。{0c:2b5109fe}",
    "read": "{0c:5139}{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\nそれも男の論理です。\n言い訳は見苦しいですよ。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5139}{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nThat, too, is a man's logic. Excuses are\nunbecoming.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "That, too, is a man's logic. Excuses are unbecoming."
   },
   {
    "id": "RES#242:31cb0",
@@ -855,8 +915,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nなにより、\n結婚{e0ca}ってのが嫌いなんです。{1a}人を茶{e0cb}すのは好きですが\n茶{e0cb}されるのはどうも・・・{1a}この地{e0cc}に就くとさすがに\n何もしないわけにはいきませんし。{0c:2b5309fe}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nなにより、\n結婚式ってのが嫌いなんです。{1a}人を茶化すのは好きですが\n茶化されるのはどうも・・・{1a}この地位に就くとさすがに\n何もしないわけにはいきませんし。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nAbove all, I hate weddings.{1a}I enjoy poking fun at people, but being\nthe one poked fun at, well...{1a}And in this position, I could hardly get\naway with doing nothing.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Above all, I hate weddings. // I enjoy poking fun at people, but being the one poked fun at, well... // And in this position, I could hardly get away with doing nothing."
   },
   {
    "id": "RES#242:31d27",
@@ -866,8 +927,9 @@
    "jp": "{0c:5121}{1c:13}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\n本当に変わりませんね、\nオルフェウスさん。{1a}いえ、今はイレニウスさんでしたね。{0c:2b5109fe}",
    "read": "{0c:5121}{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\n本当に変わりませんね、\nオルフェウスさん。{1a}いえ、今はイレニウスさんでしたね。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5121}{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nYou truly have not changed,\nOrpheus-san.{1a}No, it is Irenius-san now, is it not?{0c:2b5109fe}",
+   "status": "done",
+   "tl": "You truly have not changed, Orpheus-san. // No, it is Irenius-san now, is it not?"
   },
   {
    "id": "RES#242:31d7b",
@@ -877,8 +939,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nオルフェウスでいいですよ。{1a}『イレニア人の父』だなんて\n小恥ずかしい{e09b}前、\nまったく誰が付けたのか・・・{0c:2b5309fe}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nオルフェウスでいいですよ。{1a}『イレニア人の父』だなんて\n小恥ずかしい名前、\nまったく誰が付けたのか・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nOrpheus will do.{1a}'Father of the Irenians'... Such an\nembarrassing name. Who on earth came\nup with it...{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Orpheus will do. // 'Father of the Irenians'... Such an embarrassing name. Who on earth came up with it..."
   },
   {
    "id": "RES#242:31dd7",
@@ -888,8 +951,9 @@
    "jp": "{0c:5131}{1c:13}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\nクムランさんやファトゥムさんも\n驚いていましたよ。{1a}あのオルフェウスさんが\nいまや一{e09c}の元{e09d}なのですから。{0c:2b5109fe}",
    "read": "{0c:5131}{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\nクムランさんやファトゥムさんも\n驚いていましたよ。{1a}あのオルフェウスさんが\nいまや一国の元首なのですから。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5131}{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nQumran-san and Fatum-san were\nsurprised as well.{1a}That you, of all people, Orpheus-san, are\nnow a nation's head of state.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Qumran-san and Fatum-san were surprised as well. // That you, of all people, Orpheus-san, are now a nation's head of state."
   },
   {
    "id": "RES#242:31e3a",
@@ -899,8 +963,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nええ、自分でも驚いています。\nいつの間にこんなことに\nなっちゃったのかって。{1a}初めは不愉快な貴{e0a0}達を\nストレス発散のために\nイジめてただけなんですけどね。{1a}それがいつの間にか\n{e0a1}衆の英雄になっちゃって。\nあれよあれよという間に\n1つの勢力になってしまった・・・{1a}まぁ、ぼくの美しさが\n{e0a1}衆の、{e09a}に女性達のハートを\n有無を言わさず掴んで\nしまったことは否定しませんが、{1a}今の身分はいささか窮屈ですね。\nま、もうじき\n{e0a8}{e08f}の人に戻りますけど。{0c:2b5309fe}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nええ、自分でも驚いています。\nいつの間にこんなことに\nなっちゃったのかって。{1a}初めは不愉快な貴族達を\nストレス発散のために\nイジめてただけなんですけどね。{1a}それがいつの間にか\n民衆の英雄になっちゃって。\nあれよあれよという間に\n1つの勢力になってしまった・・・{1a}まぁ、ぼくの美しさが\n民衆の、特に女性達のハートを\n有無を言わさず掴んで\nしまったことは否定しませんが、{1a}今の身分はいささか窮屈ですね。\nま、もうじき\n普通の人に戻りますけど。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nYes, it surprises me too. How did it all\ncome to this, I wonder.{1a}At first I was only tormenting\nunpleasant nobles to let off steam, you\nsee.{1a}Then before I knew it, I had become a\nhero of the people. In the blink of an eye\nit had grown into a faction of its own...{1a}Well, I won't deny that my beauty seized\nthe hearts of the people, women\nespecially, without giving them any say in\nthe matter,{1a}but my present station is rather stifling.\nAh well, I shall soon be an ordinary man\nagain.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Yes, it surprises me too. How did it all come to this, I wonder. // At first I was only tormenting unpleasant nobles to let off steam, you see. // Then before I knew it, I had become a hero of the people. In the blink of an eye it had grown into a faction of its own... // Well, I won't deny that my beauty seized the hearts of the people, women especially, without giving them any say in the matter, // but my present station is rather stifling. Ah well, I shall soon be an ordinary man again."
   },
   {
    "id": "RES#242:31f64",
@@ -910,8 +975,9 @@
    "jp": "{1c:13}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\n元{e09d}の座を{e0aa}りるのですか?{0c:2b5109fe}",
    "read": "{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\n元首の座を降りるのですか?{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nYou will step down as head of state?{0c:2b5109fe}",
+   "status": "done",
+   "tl": "You will step down as head of state?"
   },
   {
    "id": "RES#242:31f97",
@@ -932,8 +998,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nええ。\nもう支え無しでは立つことすら\n出来ませんから。{1a}それに、死んだ後に\n後継者争いが{e0ae}こるのも\n淋しい話ですし。{1a}{e09a}に、彼女を担ぎ出す人間が\n出てくると厄{e092}ですからね。{1a}{10}さんは\n兵からも慕われていますし、\n{e0a1}衆にも人気はあるのですが、{1a}やはりイレニア人の上に立つには\n生粋のイレニア人でないと。\nしかも、彼女はよりにもよって\nバイレステの貴{e0a0}の出ですから。{1a}{e09c}王相手の{e0b4}{e0b1}の大活躍のおかげで、\n今は彼女も{e0a1}衆の英雄ですが、\n平{e095}になった時に彼女が頭だと\n必ず不満が出る・・・{1a}そしてなにより、\n政{e0bd}の裏の世{e0be}を舞台に活躍するには\nやはり彼女は優しすぎるんですよ。{1a}醜い権力闘争に巻き{e0d5}まれて\n{e084}を盛られてお終いでは\nあんまりですし・・・{1a}だからこそ、ぼくが生きている間に\n次の元{e09d}を選んでおかないと。{0c:020801}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nええ。\nもう支え無しでは立つことすら\n出来ませんから。{1a}それに、死んだ後に\n後継者争いが起こるのも\n淋しい話ですし。{1a}特に、彼女を担ぎ出す人間が\n出てくると厄介ですからね。{1a}{10}さんは\n兵からも慕われていますし、\n民衆にも人気はあるのですが、{1a}やはりイレニア人の上に立つには\n生粋のイレニア人でないと。\nしかも、彼女はよりにもよって\nバイレステの貴族の出ですから。{1a}国王相手の数々の大活躍のおかげで、\n今は彼女も民衆の英雄ですが、\n平和になった時に彼女が頭だと\n必ず不満が出る・・・{1a}そしてなにより、\n政治の裏の世界を舞台に活躍するには\nやはり彼女は優しすぎるんですよ。{1a}醜い権力闘争に巻き込まれて\n毒を盛られてお終いでは\nあんまりですし・・・{1a}だからこそ、ぼくが生きている間に\n次の元首を選んでおかないと。{0c:020801}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nYes. I can no longer even stand without\nsupport.{1a}Besides, a war of succession after my\ndeath would be a sorry affair.{1a}It would be especially troublesome if\nsomeone were to put her forward.{1a}{10}-san is adored by the soldiers\nand popular with the people,{1a}but to stand above the Irenians one\nmust be an Irenian born and bred. And\nshe, of all things, comes from the\nBailestean nobility.{1a}Thanks to her many great exploits\nagainst the king, she too is a hero of\nthe people now, but with her at the head\nonce peace comes, there would surely{1a}be discontent...{1a}And most of all, she is simply too kind to\nthrive in the shadow world of politics.{1a}To be caught up in an ugly struggle for\npower and end up poisoned would be too\nmuch...{1a}That is why I must choose the next head\nof state while I am still alive.{0c:020801}",
+   "status": "done",
+   "tl": "Yes. I can no longer even stand without support. // Besides, a war of succession after my death would be a sorry affair. // It would be especially troublesome if someone were to put her forward. // [HERO]-san is adored by the soldiers and popular with the people, // but to stand above the Irenians one must be an Irenian born and bred. And she, of all things, comes from the Bailestean nobility. // Thanks to her many great exploits against the king, she too is a hero of the people now, but with her at the head once peace comes, there would surely be discontent... // And most of all, she is simply too kind to thrive in the shadow world of politics. // To be caught up in an ugly struggle for power and end up poisoned would be too much... // That is why I must choose the next head of state while I am still alive."
   },
   {
    "id": "RES#242:32185",
@@ -954,8 +1021,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nええ。\nもう支え無しでは立つことすら\n出来ませんから。{1a}それに、死んだ後に\n後継者争いが{e0ae}こるのも\n淋しい話ですし。{1a}{e09a}に、彼女を担ぎ出す人間が\n出てくると厄{e092}ですからね。{1a}{10}さんは\n兵からも慕われていますし、\n{e0a1}衆にも人気はあるのですが、{1a}やはりイレニア人の上に立つには\n生粋のイレニア人でないと。\nしかも、彼女は{e0d6}合の悪いことに\nバイレステ人ですから。{1a}貴{e0a0}相手の{e0b4}{e0b1}の大活躍のおかげで、\n今は彼女も{e0a1}衆の英雄ですが、\n平{e095}になった時に彼女が頭だと\n必ず不満が出る・・・{1a}そしてなにより、\n政{e0bd}の裏の世{e0be}を舞台に活躍するには\nやはり彼女は優しすぎるんですよ。{1a}醜い権力闘争に巻き{e0d5}まれて\n{e084}を盛られてお終いでは\nあんまりですし・・・{1a}だからこそ、ぼくが生きている間に\n次の元{e09d}を選んでおかないと。{0c:020601}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nええ。\nもう支え無しでは立つことすら\n出来ませんから。{1a}それに、死んだ後に\n後継者争いが起こるのも\n淋しい話ですし。{1a}特に、彼女を担ぎ出す人間が\n出てくると厄介ですからね。{1a}{10}さんは\n兵からも慕われていますし、\n民衆にも人気はあるのですが、{1a}やはりイレニア人の上に立つには\n生粋のイレニア人でないと。\nしかも、彼女は都合の悪いことに\nバイレステ人ですから。{1a}貴族相手の数々の大活躍のおかげで、\n今は彼女も民衆の英雄ですが、\n平和になった時に彼女が頭だと\n必ず不満が出る・・・{1a}そしてなにより、\n政治の裏の世界を舞台に活躍するには\nやはり彼女は優しすぎるんですよ。{1a}醜い権力闘争に巻き込まれて\n毒を盛られてお終いでは\nあんまりですし・・・{1a}だからこそ、ぼくが生きている間に\n次の元首を選んでおかないと。{0c:020601}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nYes. I can no longer even stand without\nsupport.{1a}Besides, a war of succession after my\ndeath would be a sorry affair.{1a}It would be especially troublesome if\nsomeone were to put her forward.{1a}{10}-san is adored by the soldiers\nand popular with the people,{1a}but to stand above the Irenians one\nmust be an Irenian born and bred. And\nshe, inconveniently, is a Bailestean.{1a}Thanks to her many great exploits\nagainst the nobles, she too is a hero of\nthe people now, but with her at the head\nonce peace comes, there would surely{1a}be discontent...{1a}And most of all, she is simply too kind to\nthrive in the shadow world of politics.{1a}To be caught up in an ugly struggle for\npower and end up poisoned would be too\nmuch...{1a}That is why I must choose the next head\nof state while I am still alive.{0c:020601}",
+   "status": "done",
+   "tl": "Yes. I can no longer even stand without support. // Besides, a war of succession after my death would be a sorry affair. // It would be especially troublesome if someone were to put her forward. // [HERO]-san is adored by the soldiers and popular with the people, // but to stand above the Irenians one must be an Irenian born and bred. And she, inconveniently, is a Bailestean. // Thanks to her many great exploits against the nobles, she too is a hero of the people now, but with her at the head once peace comes, there would surely be discontent... // And most of all, she is simply too kind to thrive in the shadow world of politics. // To be caught up in an ugly struggle for power and end up poisoned would be too much... // That is why I must choose the next head of state while I am still alive."
   },
   {
    "id": "RES#242:32371",
@@ -976,8 +1044,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nええ。\nもう支え無しでは立つことすら\n出来ませんから。{1a}それに、死んだ後に\n後継者争いが{e0ae}こるのも\n淋しい話ですし。{1a}{e09a}に、彼女を担ぎ出す人間が\n出てくると厄{e092}ですからね。{1a}{10}さんは\n兵からも慕われていますし、\n{e0a1}衆にも人気はあるのですが、{1a}彼女がイレニアの貴{e0a0}出身である事は\n{e0ba}しようのない事実ですから。{1a}{e09c}王相手の{e0b4}{e0b1}の大活躍のおかげで、\n今は彼女も{e0a1}衆の英雄ですが、\n平{e095}になった時に彼女が頭だと\n必ず不満が出る・・・{1a}そしてなにより、\n政{e0bd}の裏の世{e0be}を舞台に活躍するには\nやはり彼女は優しすぎるんですよ。{1a}醜い権力闘争に巻き{e0d5}まれて、\n{e084}を盛られてお終いでは\nあんまりですし・・・{1a}だからこそ、ぼくが生きている間に\n次の元{e09d}を選んでおかないと。{0c:020401}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nええ。\nもう支え無しでは立つことすら\n出来ませんから。{1a}それに、死んだ後に\n後継者争いが起こるのも\n淋しい話ですし。{1a}特に、彼女を担ぎ出す人間が\n出てくると厄介ですからね。{1a}{10}さんは\n兵からも慕われていますし、\n民衆にも人気はあるのですが、{1a}彼女がイレニアの貴族出身である事は\n隠しようのない事実ですから。{1a}国王相手の数々の大活躍のおかげで、\n今は彼女も民衆の英雄ですが、\n平和になった時に彼女が頭だと\n必ず不満が出る・・・{1a}そしてなにより、\n政治の裏の世界を舞台に活躍するには\nやはり彼女は優しすぎるんですよ。{1a}醜い権力闘争に巻き込まれて、\n毒を盛られてお終いでは\nあんまりですし・・・{1a}だからこそ、ぼくが生きている間に\n次の元首を選んでおかないと。{0c:020401}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nYes. I can no longer even stand without\nsupport.{1a}Besides, a war of succession after my\ndeath would be a sorry affair.{1a}It would be especially troublesome if\nsomeone were to put her forward.{1a}{10}-san is adored by the soldiers\nand popular with the people,{1a}but there is no hiding the fact that she\ncomes from the Irenian nobility.{1a}Thanks to her many great exploits\nagainst the king, she too is a hero of\nthe people now, but with her at the head\nonce peace comes, there would surely{1a}be discontent...{1a}And most of all, she is simply too kind to\nthrive in the shadow world of politics.{1a}To be caught up in an ugly struggle for\npower and end up poisoned would be too\nmuch...{1a}That is why I must choose the next head\nof state while I am still alive.{0c:020401}",
+   "status": "done",
+   "tl": "Yes. I can no longer even stand without support. // Besides, a war of succession after my death would be a sorry affair. // It would be especially troublesome if someone were to put her forward. // [HERO]-san is adored by the soldiers and popular with the people, // but there is no hiding the fact that she comes from the Irenian nobility. // Thanks to her many great exploits against the king, she too is a hero of the people now, but with her at the head once peace comes, there would surely be discontent... // And most of all, she is simply too kind to thrive in the shadow world of politics. // To be caught up in an ugly struggle for power and end up poisoned would be too much... // That is why I must choose the next head of state while I am still alive."
   },
   {
    "id": "RES#242:3253f",
@@ -998,8 +1067,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nええ。\nもう支え無しでは立つことすら\n出来ませんから。{1a}それに、死んだ後に\n後継者争いが{e0ae}こるのも\n淋しい話ですし。{1a}{e09a}に、彼女を担ぎ出す人間が\n出てくると厄{e092}ですからね。{1a}{10}さんは\n兵からも慕われていますし、\n{e0a1}衆にも人気はあるのですが、{1a}政{e0bd}の裏の世{e0be}を舞台に活躍するには\nやはり優しすぎるんですよ。{1a}貴{e0a0}相手の{e0b4}{e0b1}の大活躍のおかげで、\n今は彼女も{e0a1}衆の英雄ですが、\n平{e095}になった時に彼女が頭だと\n必ず誰かに騙される・・・{1a}{e084}を盛られてお終いでは\n彼女も{e0b8}哀想ですしね。{1a}だからこそ、ぼくが生きている間に\n次の元{e09d}を選んでおかないと。{0c:020201}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nええ。\nもう支え無しでは立つことすら\n出来ませんから。{1a}それに、死んだ後に\n後継者争いが起こるのも\n淋しい話ですし。{1a}特に、彼女を担ぎ出す人間が\n出てくると厄介ですからね。{1a}{10}さんは\n兵からも慕われていますし、\n民衆にも人気はあるのですが、{1a}政治の裏の世界を舞台に活躍するには\nやはり優しすぎるんですよ。{1a}貴族相手の数々の大活躍のおかげで、\n今は彼女も民衆の英雄ですが、\n平和になった時に彼女が頭だと\n必ず誰かに騙される・・・{1a}毒を盛られてお終いでは\n彼女も可哀想ですしね。{1a}だからこそ、ぼくが生きている間に\n次の元首を選んでおかないと。{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nYes. I can no longer even stand without\nsupport.{1a}Besides, a war of succession after my\ndeath would be a sorry affair.{1a}It would be especially troublesome if\nsomeone were to put her forward.{1a}{10}-san is adored by the soldiers\nand popular with the people,{1a}but she is simply too kind to thrive in\nthe shadow world of politics.{1a}Thanks to her many great exploits\nagainst the nobles, she too is a hero of\nthe people now, but with her at the head\nonce peace comes, someone would{1a}surely deceive her...{1a}It would be a pity for her if it all ended\nwith poison.{1a}That is why I must choose the next head\nof state while I am still alive.{0c:020201}",
+   "status": "done",
+   "tl": "Yes. I can no longer even stand without support. // Besides, a war of succession after my death would be a sorry affair. // It would be especially troublesome if someone were to put her forward. // [HERO]-san is adored by the soldiers and popular with the people, // but she is simply too kind to thrive in the shadow world of politics. // Thanks to her many great exploits against the nobles, she too is a hero of the people now, but with her at the head once peace comes, someone would surely deceive her... // It would be a pity for her if it all ended with poison. // That is why I must choose the next head of state while I am still alive."
   },
   {
    "id": "RES#242:326c3",
@@ -1009,8 +1079,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nええ。\nもう支え無しでは立つことすら\n出来ませんから。{1a}それに、死んだ後に\n後継者争いが{e0ae}こるのも\n淋しい話ですし。{1a}{e09a}に、彼女を担ぎ出す人間が\n出てくると厄{e092}ですからね。{1a}{10}さんは\n兵からも慕われていますし、\n{e0a1}衆にも人気はあるのですが、{1a}やはりイレニア人の上に立つには\n生粋のイレニア人でないと。{1a}貴{e0a0}相手の{e0b4}{e0b1}の大活躍のおかげで、\n今は彼女も{e0a1}衆の英雄ですが、\n平{e095}になった時に彼女が頭だと\n必ず不満が出る・・・{1a}そしてなにより、\n政{e0bd}の裏の世{e0be}を舞台に活躍するには\nやはり彼女は優しすぎるんですよ。{1a}醜い権力闘争に巻き{e0d5}まれて、\n{e084}を盛られてお終いでは\nあんまりですし・・・{1a}だからこそ、ぼくが生きている間に\n次の元{e09d}を選んでおかないと。{0c:fe}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nええ。\nもう支え無しでは立つことすら\n出来ませんから。{1a}それに、死んだ後に\n後継者争いが起こるのも\n淋しい話ですし。{1a}特に、彼女を担ぎ出す人間が\n出てくると厄介ですからね。{1a}{10}さんは\n兵からも慕われていますし、\n民衆にも人気はあるのですが、{1a}やはりイレニア人の上に立つには\n生粋のイレニア人でないと。{1a}貴族相手の数々の大活躍のおかげで、\n今は彼女も民衆の英雄ですが、\n平和になった時に彼女が頭だと\n必ず不満が出る・・・{1a}そしてなにより、\n政治の裏の世界を舞台に活躍するには\nやはり彼女は優しすぎるんですよ。{1a}醜い権力闘争に巻き込まれて、\n毒を盛られてお終いでは\nあんまりですし・・・{1a}だからこそ、ぼくが生きている間に\n次の元首を選んでおかないと。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nYes. I can no longer even stand without\nsupport.{1a}Besides, a war of succession after my\ndeath would be a sorry affair.{1a}It would be especially troublesome if\nsomeone were to put her forward.{1a}{10}-san is adored by the soldiers\nand popular with the people,{1a}but to stand above the Irenians one\nmust be an Irenian born and bred.{1a}Thanks to her many great exploits\nagainst the nobles, she too is a hero of\nthe people now, but with her at the head\nonce peace comes, there would surely{1a}be discontent...{1a}And most of all, she is simply too kind to\nthrive in the shadow world of politics.{1a}To be caught up in an ugly struggle for\npower and end up poisoned would be too\nmuch...{1a}That is why I must choose the next head\nof state while I am still alive.{0c:fe}",
+   "status": "done",
+   "tl": "Yes. I can no longer even stand without support. // Besides, a war of succession after my death would be a sorry affair. // It would be especially troublesome if someone were to put her forward. // [HERO]-san is adored by the soldiers and popular with the people, // but to stand above the Irenians one must be an Irenian born and bred. // Thanks to her many great exploits against the nobles, she too is a hero of the people now, but with her at the head once peace comes, there would surely be discontent... // And most of all, she is simply too kind to thrive in the shadow world of politics. // To be caught up in an ugly struggle for power and end up poisoned would be too much... // That is why I must choose the next head of state while I am still alive."
   },
   {
    "id": "RES#242:3287d",
@@ -1031,8 +1102,9 @@
    "jp": "{1c:13}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\nあなたは優しい人ですね・・・{0c:2b5109fe}",
    "read": "{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\nあなたは優しい人ですね・・・{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nYou are a kind man...{0c:2b5109fe}",
+   "status": "done",
+   "tl": "You are a kind man..."
   },
   {
    "id": "RES#242:328b5",
@@ -1042,8 +1114,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nいえ、残酷な男ですよ。{1a}好きな女性を利用するだけ利用して、\n美味しいところだけ{e0c2}べて、\n先に死んじゃうんですから。{0c:2b5309fe}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nいえ、残酷な男ですよ。{1a}好きな女性を利用するだけ利用して、\n美味しいところだけ食べて、\n先に死んじゃうんですから。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nNo, a cruel one.{1a}I use the woman I love all I can, take only\nthe sweetest share for myself, and\nthen go and die first.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "No, a cruel one. // I use the woman I love all I can, take only the sweetest share for myself, and then go and die first."
   },
   {
    "id": "RES#242:32919",
@@ -1053,8 +1126,9 @@
    "jp": "{0c:5141}{1c:13}{0b:08}{e080} {e084}{e085}{e086}サディーヤ {e081}{0b:09}\nいえ、あなたは優しい人ですよ。{0c:2b5109fe}",
    "read": "{0c:5141}{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\nいえ、あなたは優しい人ですよ。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5141}{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nNo, you are a kind man.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "No, you are a kind man."
   },
   {
    "id": "RES#242:3294f",
@@ -1064,8 +1138,9 @@
    "jp": "{1c:10}{0b:08}{e080} オルフェウス {e081}{0b:09}\nいえ・{07:05}・{07:05}・{07:19}\nもしぼくが優しいとすれば・{07:05}・{07:05}・{07:0a}{0c:fe}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nいえ・{07:05}・{07:05}・{07:19}\nもしぼくが優しいとすれば・{07:05}・{07:05}・{07:0a}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nNo.{07:05}.{07:05}.{07:19} If I am kind at all.{07:05}.{07:05}.{07:0a}{0c:fe}",
+   "status": "done",
+   "tl": "No.[1].[2].[3] If I am kind at all.[4].[5]."
   },
   {
    "id": "RES#242:3298a",
@@ -1086,8 +1161,9 @@
    "jp": "{1c:10}相手が{10}さんだからですよ。{0c:fe}",
    "read": "{1c:10}相手が{10}さんだからですよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}It's only because it's {10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "It's only because it's [HERO]-san."
   },
   {
    "id": "RES#242:329a9",

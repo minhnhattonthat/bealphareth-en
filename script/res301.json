@@ -41,8 +41,9 @@
    "jp": "{1c:10}{0b:08}{e080} アッシュ {e081}{0b:09}\n{10}、どうしたんだ?{0c:fe}",
    "read": "{1c:10}{0b:08}【 アッシュ 】{0b:09}\n{10}、どうしたんだ?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\n{10}, what's the matter?{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], what's the matter?"
   },
   {
    "id": "RES#301:7d4b",
@@ -74,8 +75,9 @@
    "jp": "{1c:10}ん、いいよ。\nがんばろうな、{10}。",
    "read": "{1c:10}ん、いいよ。\nがんばろうな、{10}。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Mm, okay. Let's do our best, {10}.",
+   "status": "done",
+   "tl": "Mm, okay. Let's do our best, [HERO]."
   },
   {
    "id": "RES#301:7d6d",
@@ -85,8 +87,9 @@
    "jp": "{1c:10}ん、じゃあな、{10}。",
    "read": "{1c:10}ん、じゃあな、{10}。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Mm, see you, {10}.",
+   "status": "done",
+   "tl": "Mm, see you, [HERO]."
   },
   {
    "id": "RES#301:7d79",
@@ -96,8 +99,9 @@
    "jp": "{1c:10}ん、じゃあな、{10}。",
    "read": "{1c:10}ん、じゃあな、{10}。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Mm, see you, {10}.",
+   "status": "done",
+   "tl": "Mm, see you, [HERO]."
   },
   {
    "id": "RES#301:7d85",
@@ -118,8 +122,9 @@
    "jp": "{0c:523334}{1c:16}{0b:08}{e080} ジェシカ {e081}{0b:09}\nへえ、またかわいいの\nつくってるじゃん。{0c:fe}",
    "read": "{0c:523334}{1c:16}{0b:08}【 ジェシカ 】{0b:09}\nへえ、またかわいいの\nつくってるじゃん。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523334}{1c:16}{0b:08}【 Jessica 】{0b:09}\nHuh, making another cute one, are you?{0c:fe}",
+   "status": "done",
+   "tl": "Huh, making another cute one, are you?"
   },
   {
    "id": "RES#301:7e09",
@@ -140,8 +145,9 @@
    "jp": "{1c:10}{0b:08}{e080} アッシュ {e081}{0b:09}\n・・・ん? ありがとう。{0c:4c0a09fe}",
    "read": "{1c:10}{0b:08}【 アッシュ 】{0b:09}\n・・・ん? ありがとう。{0c:4c0a09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\n...Hm? Thanks.{0c:4c0a09fe}",
+   "status": "done",
+   "tl": "...Hm? Thanks."
   },
   {
    "id": "RES#301:7e40",
@@ -151,8 +157,9 @@
    "jp": "{0c:5135}{1c:16}{0b:08}{e080} ジェシカ {e081}{0b:09}\nその図体で\nそんなちっこいの{e082}ってると\nちょっと変だけどね。{1a}{0c:520a12}でもいいじゃん、\n仲のいい兄{e083}ってさ。\n憧れちゃうよ。{0c:fe}",
    "read": "{0c:5135}{1c:16}{0b:08}【 ジェシカ 】{0b:09}\nその図体で\nそんなちっこいの彫ってると\nちょっと変だけどね。{1a}{0c:520a12}でもいいじゃん、\n仲のいい兄妹ってさ。\n憧れちゃうよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5135}{1c:16}{0b:08}【 Jessica 】{0b:09}\nA big lug like you carving such a teeny\nthing, it's kinda weird, though.{1a}{0c:520a12}But hey, that's nice, a brother and\nsister who get along. Makes me kinda\njealous.{0c:fe}",
+   "status": "done",
+   "tl": "A big lug like you carving such a teeny thing, it's kinda weird, though. // [1]But hey, that's nice, a brother and sister who get along. Makes me kinda jealous."
   },
   {
    "id": "RES#301:7ea2",
@@ -173,8 +180,9 @@
    "jp": "{1c:12}{0b:08}{e080} アッシュ {e081}{0b:09}\nそうか、ジェシカには\n兄{e083}はいないんだもんな。{0c:4c0a09fe}",
    "read": "{1c:12}{0b:08}【 アッシュ 】{0b:09}\nそうか、ジェシカには\n兄妹はいないんだもんな。{0c:4c0a09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Ash 】{0b:09}\nRight, you don't have any brothers or\nsisters, do you, Jessica.{0c:4c0a09fe}",
+   "status": "done",
+   "tl": "Right, you don't have any brothers or sisters, do you, Jessica."
   },
   {
    "id": "RES#301:7ee3",
@@ -184,8 +192,9 @@
    "jp": "{0c:5135}{1c:14}{0b:08}{e080} ジェシカ {e081}{0b:09}\nそう、{e085}涯{e087}独の身ってヤツ。{1a}{0c:521a22}でも、バイレステの下町の裏{e089}りには\n同じ境遇の子いっぱいいたから、\nそいつらが兄{e083}ってことになるかな。{1a}{0c:5132}支え合って生きていかなきゃ、\nすぐ野垂れ死にだもん。{0c:fe}",
    "read": "{0c:5135}{1c:14}{0b:08}【 ジェシカ 】{0b:09}\nそう、天涯孤独の身ってヤツ。{1a}{0c:521a22}でも、バイレステの下町の裏通りには\n同じ境遇の子いっぱいいたから、\nそいつらが兄妹ってことになるかな。{1a}{0c:5132}支え合って生きていかなきゃ、\nすぐ野垂れ死にだもん。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5135}{1c:14}{0b:08}【 Jessica 】{0b:09}\nYep, alone in the world, as they say.{1a}{0c:521a22}But in the back alleys of Baileste's\nslums there were plenty of kids in the\nsame boat, so I guess they count as my\nbrothers and sisters.{1a}{0c:5132}If you don't prop each other up to get\nby, you're dead in a ditch in no time, you\nknow.{0c:fe}",
+   "status": "done",
+   "tl": "Yep, alone in the world, as they say. // [1]But in the back alleys of Baileste's slums there were plenty of kids in the same boat, so I guess they count as my brothers and sisters. // [2]If you don't prop each other up to get by, you're dead in a ditch in no time, you know."
   },
   {
    "id": "RES#301:7f7d",
@@ -206,8 +215,9 @@
    "jp": "{1c:12}{0b:08}{e080} アッシュ {e081}{0b:09}\nそうか・・・{1a}もし{e08d}{e08e}に生まれてたなら、\nおれも泥{e090}やってたのかな・・・{0c:4c0a09fe}",
    "read": "{1c:12}{0b:08}【 アッシュ 】{0b:09}\nそうか・・・{1a}もし都会に生まれてたなら、\nおれも泥棒やってたのかな・・・{0c:4c0a09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Ash 】{0b:09}\nI see...{1a}If I'd been born in the city, I wonder if I'd\nhave been a thief too...{0c:4c0a09fe}",
+   "status": "done",
+   "tl": "I see... // If I'd been born in the city, I wonder if I'd have been a thief too..."
   },
   {
    "id": "RES#301:7fcc",
@@ -217,8 +227,9 @@
    "jp": "{0c:520935}{1c:15}{0b:08}{e080} ジェシカ {e081}{0b:09}\nアッシュなら間違いなく\n捕まるけどね。{0c:fe}",
    "read": "{0c:520935}{1c:15}{0b:08}【 ジェシカ 】{0b:09}\nアッシュなら間違いなく\n捕まるけどね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520935}{1c:15}{0b:08}【 Jessica 】{0b:09}\nYou'd get caught for sure, Ash.{0c:fe}",
+   "status": "done",
+   "tl": "You'd get caught for sure, Ash."
   },
   {
    "id": "RES#301:7ffe",
@@ -239,8 +250,9 @@
    "jp": "{0c:511028001000}{1c:10}{0b:08}{e080} アッシュ {e081}{0b:09}\nなんだい、{10}。{0c:fe}",
    "read": "{0c:511028001000}{1c:10}{0b:08}【 アッシュ 】{0b:09}\nなんだい、{10}。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:511028001000}{1c:10}{0b:08}【 Ash 】{0b:09}\nWhat is it, {10}?{0c:fe}",
+   "status": "done",
+   "tl": "What is it, [HERO]?"
   },
   {
    "id": "RES#301:802f",
@@ -261,8 +273,9 @@
    "jp": "{0c:5144060154}{0c:524243}{1c:10}ん、がんばろうな。{0c:fe}",
    "read": "{0c:5144060154}{0c:524243}{1c:10}ん、がんばろうな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5144060154}{0c:524243}{1c:10}Mm, let's do our best.{0c:fe}",
+   "status": "done",
+   "tl": "Mm, let's do our best."
   },
   {
    "id": "RES#301:8050",
@@ -329,8 +342,9 @@
    "jp": "{1c:10}{0b:08}{e080} アッシュ {e081}{0b:09}\n今からいくのか?\nみんな無茶はだめだぞ。{0c:15}",
    "read": "{1c:10}{0b:08}【 アッシュ 】{0b:09}\n今からいくのか?\nみんな無茶はだめだぞ。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\nYou heading out now? Nothing reckless,\neverybody.{0c:15}",
+   "status": "done",
+   "tl": "You heading out now? Nothing reckless, everybody."
   },
   {
    "id": "RES#301:80ec",
@@ -363,8 +377,9 @@
    "jp": "{1c:12}{0b:08}{e080} {03}アッシュ {e081}{0b:09}\n{02}ふわぁ・・・\nまた眠っちゃったのか・・・{1a}あれ{01}?\n{10}{02}、どうしたんだ{01}?{0c:fe}",
    "read": "{1c:12}{0b:08}【 {03}アッシュ 】{0b:09}\n{02}ふわぁ・・・\nまた眠っちゃったのか・・・{1a}あれ{01}?\n{10}{02}、どうしたんだ{01}?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Ash 】{0b:09}\n*Yawn*... Guess I fell asleep again...{1a}Huh? {10}, what's the matter?{0c:fe}",
+   "status": "done",
+   "tl": "*Yawn*... Guess I fell asleep again... // Huh? [HERO], what's the matter?"
   },
   {
    "id": "RES#301:814a",
@@ -396,8 +411,9 @@
    "jp": "{1c:10}ん、がんばろうな。",
    "read": "{1c:10}ん、がんばろうな。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Mm, let's do our best.",
+   "status": "done",
+   "tl": "Mm, let's do our best."
   },
   {
    "id": "RES#301:8160",
@@ -442,8 +458,9 @@
    "jp": "{1c:19}{0b:08}{e080} シャルン {e081}{0b:09}\nしぃーっ・・・{1a}{0c:521a1b}ねえ{10}、\n気持ちよさそうに寝てるから、\nそっとしといてあげようよ。{0c:fe}",
    "read": "{1c:19}{0b:08}【 シャルン 】{0b:09}\nしぃーっ・・・{1a}{0c:521a1b}ねえ{10}、\n気持ちよさそうに寝てるから、\nそっとしといてあげようよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Scharn 】{0b:09}\nShhh...{1a}{0c:521a1b}Hey, {10}, he's sleeping so nicely,\nlet's leave him be, okay?{0c:fe}",
+   "status": "done",
+   "tl": "Shhh... // [1]Hey, [HERO], he's sleeping so nicely, let's leave him be, okay?"
   },
   {
    "id": "RES#301:8214",
@@ -464,8 +481,9 @@
    "jp": "{1c:12}{0b:08}{e080} アッシュ {e081}{0b:09}\nふわぁ・・・\nまた眠っちゃったのか・・・{1a}あれ?\n{10}にシャルン・・・{0c:4c0809fe}",
    "read": "{1c:12}{0b:08}【 アッシュ 】{0b:09}\nふわぁ・・・\nまた眠っちゃったのか・・・{1a}あれ?\n{10}にシャルン・・・{0c:4c0809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Ash 】{0b:09}\n*Yawn*... Guess I fell asleep again...{1a}Huh? {10} and Scharn...{0c:4c0809fe}",
+   "status": "done",
+   "tl": "*Yawn*... Guess I fell asleep again... // Huh? [HERO] and Scharn..."
   },
   {
    "id": "RES#301:8264",
@@ -475,8 +493,9 @@
    "jp": "{0c:521819}{1c:18}{0b:08}{e080} シャルン {e081}{0b:09}\nアッシュの寝顔ってかわいいね。\n人{e092}のクマみたい。{0c:fe}",
    "read": "{0c:521819}{1c:18}{0b:08}【 シャルン 】{0b:09}\nアッシュの寝顔ってかわいいね。\n人形のクマみたい。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521819}{1c:18}{0b:08}【 Scharn 】{0b:09}\nYou look so cute when you're asleep,\nAsh. Like a little toy bear!{0c:fe}",
+   "status": "done",
+   "tl": "You look so cute when you're asleep, Ash. Like a little toy bear!"
   },
   {
    "id": "RES#301:829f",
@@ -497,8 +516,9 @@
    "jp": "{1c:10}{0b:08}{e080} アッシュ {e081}{0b:09}\nそういや、寝てる間に\n弟と{e083}にクマの{e094}を\n描かれたことがあったな・・・{1a}{0c:4c0823511523}そんなに似てるのかな・・・{1a}{0c:516a4c081000}・・・ん?\nシャルン、どうしたんだ?{0c:4c0809fe}",
    "read": "{1c:10}{0b:08}【 アッシュ 】{0b:09}\nそういや、寝てる間に\n弟と妹にクマの絵を\n描かれたことがあったな・・・{1a}{0c:4c0823511523}そんなに似てるのかな・・・{1a}{0c:516a4c081000}・・・ん?\nシャルン、どうしたんだ?{0c:4c0809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\nCome to think of it, my little brother\nand sister drew a bear on me once while I\nwas sleeping...{1a}{0c:4c0823511523}Do I really look that much like one...{1a}{0c:516a4c081000}...Hm? Scharn, what's the matter?{0c:4c0809fe}",
+   "status": "done",
+   "tl": "Come to think of it, my little brother and sister drew a bear on me once while I was sleeping... // [1]Do I really look that much like one... // [2]...Hm? Scharn, what's the matter?"
   },
   {
    "id": "RES#301:8325",
@@ -508,8 +528,9 @@
    "jp": "{1c:17}{0b:08}{e080} シャルン {e081}{0b:09}\n・・・・・・{1a}{0c:521617}やだな・・・\n兄さんのこと\n思い出しちゃった・・・{0c:290109fe}",
    "read": "{1c:17}{0b:08}【 シャルン 】{0b:09}\n・・・・・・{1a}{0c:521617}やだな・・・\n兄さんのこと\n思い出しちゃった・・・{0c:290109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Scharn 】{0b:09}\n......{1a}{0c:521617}Oh, no... I started thinking about my\nbrother...{0c:290109fe}",
+   "status": "done",
+   "tl": "...... // [1]Oh, no... I started thinking about my brother..."
   },
   {
    "id": "RES#301:8367",
@@ -519,8 +540,9 @@
    "jp": "{0c:52595a}{1c:11}{0b:08}{e080} アッシュ {e081}{0b:09}\nご、ごめんな、シャルン・・・{0c:4c0809fe}",
    "read": "{0c:52595a}{1c:11}{0b:08}【 アッシュ 】{0b:09}\nご、ごめんな、シャルン・・・{0c:4c0809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52595a}{1c:11}{0b:08}【 Ash 】{0b:09}\nS-sorry, Scharn...{0c:4c0809fe}",
+   "status": "done",
+   "tl": "S-sorry, Scharn..."
   },
   {
    "id": "RES#301:8395",
@@ -530,8 +552,9 @@
    "jp": "{0c:521a1b}{1c:18}{0b:08}{e080} シャルン {e081}{0b:09}\nあ、謝らなくていいの!{1a}{0c:512c}でも、どうしてだろ・・・\n顔も雰{e097}気も声も、\n全然違うのに・・・{1a}アッシュ見てたら、\n死んだ兄さんが\n重なって見えたんだ・・・{0c:fe}",
    "read": "{0c:521a1b}{1c:18}{0b:08}【 シャルン 】{0b:09}\nあ、謝らなくていいの!{1a}{0c:512c}でも、どうしてだろ・・・\n顔も雰囲気も声も、\n全然違うのに・・・{1a}アッシュ見てたら、\n死んだ兄さんが\n重なって見えたんだ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521a1b}{1c:18}{0b:08}【 Scharn 】{0b:09}\nYou don't have to a-apologize!{1a}{0c:512c}But why, I wonder... Your face, your\nmanner, your voice, they're nothing alike...{1a}But looking at you, Ash, I saw my dead\nbrother in you...{0c:fe}",
+   "status": "done",
+   "tl": "You don't have to a-apologize! // [1]But why, I wonder... Your face, your manner, your voice, they're nothing alike... // But looking at you, Ash, I saw my dead brother in you..."
   },
   {
    "id": "RES#301:8412",
@@ -552,8 +575,9 @@
    "jp": "{1c:12}{0b:08}{e080} アッシュ {e081}{0b:09}\n{10}・・・\nおれ、泣かしちゃったのかな・・・{0c:4c0809fe}",
    "read": "{1c:12}{0b:08}【 アッシュ 】{0b:09}\n{10}・・・\nおれ、泣かしちゃったのかな・・・{0c:4c0809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Ash 】{0b:09}\n{10}... Did I make her cry...?{0c:4c0809fe}",
+   "status": "done",
+   "tl": "[HERO]... Did I make her cry...?"
   },
   {
    "id": "RES#301:844d",
@@ -563,8 +587,9 @@
    "jp": "{0c:521a1b}{1c:18}{0b:08}{e080} シャルン {e081}{0b:09}\nう、ううん、もう平気だよ。{0c:290109fe}",
    "read": "{0c:521a1b}{1c:18}{0b:08}【 シャルン 】{0b:09}\nう、ううん、もう平気だよ。{0c:290109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521a1b}{1c:18}{0b:08}【 Scharn 】{0b:09}\nN-no, I'm fine now!{0c:290109fe}",
+   "status": "done",
+   "tl": "N-no, I'm fine now!"
   },
   {
    "id": "RES#301:847b",
@@ -585,8 +610,9 @@
    "jp": "{1c:12}{0b:08}{e080} アッシュ {e081}{0b:09}\nん、おれはいいけど・・・{0c:4c0809fe}",
    "read": "{1c:12}{0b:08}【 アッシュ 】{0b:09}\nん、おれはいいけど・・・{0c:4c0809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Ash 】{0b:09}\nMm, I'm okay, but...{0c:4c0809fe}",
+   "status": "done",
+   "tl": "Mm, I'm okay, but..."
   },
   {
    "id": "RES#301:84a7",
@@ -596,8 +622,9 @@
    "jp": "{0c:521e17}{1c:18}{0b:08}{e080} シャルン {e081}{0b:09}\nううん、こっちこそごめんね。\n気をつかってくれてありがと、\nアッシュ。{0c:fe}",
    "read": "{0c:521e17}{1c:18}{0b:08}【 シャルン 】{0b:09}\nううん、こっちこそごめんね。\n気をつかってくれてありがと、\nアッシュ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521e17}{1c:18}{0b:08}【 Scharn 】{0b:09}\nNo, I'm the one who's sorry. Thanks for\nlooking out for me, Ash.{0c:fe}",
+   "status": "done",
+   "tl": "No, I'm the one who's sorry. Thanks for looking out for me, Ash."
   },
   {
    "id": "RES#301:84e8",
@@ -629,8 +656,9 @@
    "jp": "{1c:12}{0b:08}{e080} アッシュ {e081}{0b:09}\nシャルン、あの・・・{0c:4c0809fe}",
    "read": "{1c:12}{0b:08}【 アッシュ 】{0b:09}\nシャルン、あの・・・{0c:4c0809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Ash 】{0b:09}\nScharn, um...{0c:4c0809fe}",
+   "status": "done",
+   "tl": "Scharn, um..."
   },
   {
    "id": "RES#301:8538",
@@ -640,8 +668,9 @@
    "jp": "{0c:521e63}{1c:18}{0b:08}{e080} シャルン {e081}{0b:09}\nううん、こっちこそごめんね。\n気をつかってくれてありがと、\nアッシュ。{0c:fe}",
    "read": "{0c:521e63}{1c:18}{0b:08}【 シャルン 】{0b:09}\nううん、こっちこそごめんね。\n気をつかってくれてありがと、\nアッシュ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521e63}{1c:18}{0b:08}【 Scharn 】{0b:09}\nNo, I'm the one who's sorry. Thanks for\nlooking out for me, Ash.{0c:fe}",
+   "status": "done",
+   "tl": "No, I'm the one who's sorry. Thanks for looking out for me, Ash."
   },
   {
    "id": "RES#301:8579",
@@ -673,8 +702,9 @@
    "jp": "{1c:10}{0b:08}{e080} アッシュ {e081}{0b:09}\n2人とも無茶はだめだぞ。{0c:02ff}",
    "read": "{1c:10}{0b:08}【 アッシュ 】{0b:09}\n2人とも無茶はだめだぞ。{0c:02ff}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\nNothing reckless, you two.{0c:02ff}",
+   "status": "done",
+   "tl": "Nothing reckless, you two."
   },
   {
    "id": "RES#301:85d0",
@@ -695,8 +725,9 @@
    "jp": "{1c:10}{0b:08}{e080} アッシュ {e081}{0b:09}\nふわぁ・・・\nまた眠っちゃったのか・・・\nあれ、どうしたんだ?{0c:15}",
    "read": "{1c:10}{0b:08}【 アッシュ 】{0b:09}\nふわぁ・・・\nまた眠っちゃったのか・・・\nあれ、どうしたんだ?{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\n*Yawn*... Guess I fell asleep again... Huh,\nwhat's the matter?{0c:15}",
+   "status": "done",
+   "tl": "*Yawn*... Guess I fell asleep again... Huh, what's the matter?"
   },
   {
    "id": "RES#301:8613",
@@ -706,8 +737,9 @@
    "jp": "{1c:10}ん? いくのか。\nみんな無茶はだめだぞ。{0c:15}",
    "read": "{1c:10}ん? いくのか。\nみんな無茶はだめだぞ。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Hm? You're going, then. Nothing reckless,\neverybody.{0c:15}",
+   "status": "done",
+   "tl": "Hm? You're going, then. Nothing reckless, everybody."
   },
   {
    "id": "RES#301:8631",
@@ -740,8 +772,9 @@
    "jp": "{1c:12}{0b:08}{e080} アッシュ {e081}{0b:09}\nふわぁ・・・\nもう{e098}なのかい・・・?{0c:fe}",
    "read": "{1c:12}{0b:08}【 アッシュ 】{0b:09}\nふわぁ・・・\nもう朝なのかい・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Ash 】{0b:09}\n*Yawn*... Is it morning already...?{0c:fe}",
+   "status": "done",
+   "tl": "*Yawn*... Is it morning already...?"
   },
   {
    "id": "RES#301:8690",
@@ -762,8 +795,9 @@
    "jp": "{0c:527e7b}{1c:12}違うのか・・・{0c:15}",
    "read": "{0c:527e7b}{1c:12}違うのか・・・{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:527e7b}{1c:12}Guess not...{0c:15}",
+   "status": "done",
+   "tl": "Guess not..."
   },
   {
    "id": "RES#301:86ab",
@@ -784,8 +818,9 @@
    "jp": "{1c:12}{0b:08}{e080} アッシュ {e081}{0b:09}\nふわぁ・・・\nやっぱり{e098}なのかい・・・?{0c:fe}",
    "read": "{1c:12}{0b:08}【 アッシュ 】{0b:09}\nふわぁ・・・\nやっぱり朝なのかい・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Ash 】{0b:09}\n*Yawn*... So it is morning after all...?{0c:fe}",
+   "status": "done",
+   "tl": "*Yawn*... So it is morning after all...?"
   },
   {
    "id": "RES#301:86e5",
@@ -806,8 +841,9 @@
    "jp": "{1c:12}・・・・・・{1a}{10}・・・\nいつからいたんだ?{0c:fe}",
    "read": "{1c:12}・・・・・・{1a}{10}・・・\nいつからいたんだ?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}......{1a}{10}... How long have you been\nthere?{0c:fe}",
+   "status": "done",
+   "tl": "...... // [HERO]... How long have you been there?"
   },
   {
    "id": "RES#301:8709",
@@ -828,8 +864,9 @@
    "jp": "{1c:12}・・・・・・\nん、いいよ。がんばろうな。",
    "read": "{1c:12}・・・・・・\nん、いいよ。がんばろうな。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}...... Mm, okay. Let's do our best.",
+   "status": "done",
+   "tl": "...... Mm, okay. Let's do our best."
   },
   {
    "id": "RES#301:8724",
@@ -839,8 +876,9 @@
    "jp": "{1c:12}ん、おやすみ。{0c:fe}",
    "read": "{1c:12}ん、おやすみ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Mm, good night.{0c:fe}",
+   "status": "done",
+   "tl": "Mm, good night."
   },
   {
    "id": "RES#301:8731",
@@ -884,8 +922,9 @@
    "jp": "{1c:12}{0b:08}{e080} アッシュ {e081}{0b:09}\nふわぁ・・・\nもう{e098}なのかい・・・?{0c:fe}",
    "read": "{1c:12}{0b:08}【 アッシュ 】{0b:09}\nふわぁ・・・\nもう朝なのかい・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Ash 】{0b:09}\n*Yawn*... Is it morning already...?{0c:fe}",
+   "status": "done",
+   "tl": "*Yawn*... Is it morning already...?"
   },
   {
    "id": "RES#301:8777",
@@ -906,8 +945,9 @@
    "jp": "{1c:12}違うのか・・・{0c:fe}",
    "read": "{1c:12}違うのか・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Guess not...{0c:fe}",
+   "status": "done",
+   "tl": "Guess not..."
   },
   {
    "id": "RES#301:878d",
@@ -939,8 +979,9 @@
    "jp": "{1c:12}{0b:08}{e080} アッシュ {e081}{0b:09}\nふわぁ・・・\nやっぱり{e098}なのかい・・・?{0c:fe}",
    "read": "{1c:12}{0b:08}【 アッシュ 】{0b:09}\nふわぁ・・・\nやっぱり朝なのかい・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Ash 】{0b:09}\n*Yawn*... So it is morning after all...?{0c:fe}",
+   "status": "done",
+   "tl": "*Yawn*... So it is morning after all...?"
   },
   {
    "id": "RES#301:87d0",
@@ -961,8 +1002,9 @@
    "jp": "{1c:12}・・・・・・{1a}なんだ、夢か・・・{0c:fe}",
    "read": "{1c:12}・・・・・・{1a}なんだ、夢か・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}......{1a}Oh, just a dream...{0c:fe}",
+   "status": "done",
+   "tl": "...... // Oh, just a dream..."
   },
   {
    "id": "RES#301:87ef",
@@ -1006,8 +1048,9 @@
    "jp": "{1c:13}{0b:08}{e080} アッシュ {e081}{0b:09}\nこんなことになるなんて・・・\nおれがしっかりしてれば・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 アッシュ 】{0b:09}\nこんなことになるなんて・・・\nおれがしっかりしてれば・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Ash 】{0b:09}\nI never thought it'd come to this... If I'd\njust held it together...{0c:fe}",
+   "status": "done",
+   "tl": "I never thought it'd come to this... If I'd just held it together..."
   },
   {
    "id": "RES#301:884a",
@@ -1039,8 +1082,9 @@
    "jp": "{1c:12}よくがんばるな、{10}は。\nおれにはとても\n{e09a}似できそうもないよ・・・{0c:fe}",
    "read": "{1c:12}よくがんばるな、{10}は。\nおれにはとても\n真似できそうもないよ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}You really work hard, {10}. I could\nnever do the same...{0c:fe}",
+   "status": "done",
+   "tl": "You really work hard, [HERO]. I could never do the same..."
   },
   {
    "id": "RES#301:887d",
@@ -1072,8 +1116,9 @@
    "jp": "{1c:13}かなしいな・・・{0c:fe}",
    "read": "{1c:13}かなしいな・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}It's so sad...{0c:fe}",
+   "status": "done",
+   "tl": "It's so sad..."
   },
   {
    "id": "RES#301:889d",
@@ -1105,8 +1150,9 @@
    "jp": "{1c:12}{10}、無茶するなよ。\n{10}まで死んだら・・・\nおれ・・・{0c:fe}",
    "read": "{1c:12}{10}、無茶するなよ。\n{10}まで死んだら・・・\nおれ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{10}, nothing reckless. If even you\ndied, {10}... I...{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], nothing reckless. If even you died, [HERO]... I..."
   },
   {
    "id": "RES#301:88d2",
@@ -1138,8 +1184,9 @@
    "jp": "{1c:13}{0b:08}{e080} アッシュ {e081}{0b:09}\n・・・もう行くのかい?{1a}よくがんばるな、\n{10}は・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 アッシュ 】{0b:09}\n・・・もう行くのかい?{1a}よくがんばるな、\n{10}は・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Ash 】{0b:09}\n...Going already?{1a}You really work hard, {10}...{0c:fe}",
+   "status": "done",
+   "tl": "...Going already? // You really work hard, [HERO]..."
   },
   {
    "id": "RES#301:8919",
@@ -1171,8 +1218,9 @@
    "jp": "{1c:13}{10}、無茶するなよ。\n{10}まで死んだら・・・\nおれ・・・{0c:fe}",
    "read": "{1c:13}{10}、無茶するなよ。\n{10}まで死んだら・・・\nおれ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{10}, nothing reckless. If even you\ndied, {10}... I...{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], nothing reckless. If even you died, [HERO]... I..."
   },
   {
    "id": "RES#301:894e",
@@ -1204,8 +1252,9 @@
    "jp": "{1c:13}{0b:08}{e080} アッシュ {e081}{0b:09}\nこんなことになるなんて・・・\nかなしいな・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 アッシュ 】{0b:09}\nこんなことになるなんて・・・\nかなしいな・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Ash 】{0b:09}\nI never thought it'd come to this... It's so\nsad...{0c:fe}",
+   "status": "done",
+   "tl": "I never thought it'd come to this... It's so sad..."
   },
   {
    "id": "RES#301:899b",
@@ -1226,8 +1275,9 @@
    "jp": "{1c:13}・・・わかった。つきあうよ。\n1番つらいのはお前だもんな。",
    "read": "{1c:13}・・・わかった。つきあうよ。\n1番つらいのはお前だもんな。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}...All right. I'll go with you. You're the one\nhurting most, after all.",
+   "status": "done",
+   "tl": "...All right. I'll go with you. You're the one hurting most, after all."
   },
   {
    "id": "RES#301:89c3",
@@ -1237,8 +1287,9 @@
    "jp": "{1c:13}{10}、無茶するなよ。\n{10}まで死んだら・・・\nおれ・・・{0c:fe}",
    "read": "{1c:13}{10}、無茶するなよ。\n{10}まで死んだら・・・\nおれ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{10}, nothing reckless. If even you\ndied, {10}... I...{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], nothing reckless. If even you died, [HERO]... I..."
   },
   {
    "id": "RES#301:89e6",
@@ -1270,8 +1321,9 @@
    "jp": "{1c:13}{10}・・・\nおねがいだから無茶するなよ。{0c:fe}",
    "read": "{1c:13}{10}・・・\nおねがいだから無茶するなよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{10}... Please, nothing reckless.{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]... Please, nothing reckless."
   },
   {
    "id": "RES#301:8a13",
@@ -1303,8 +1355,9 @@
    "jp": "{1c:13}{0b:08}{e080} アッシュ {e081}{0b:09}\n・・・もう行くのかい?{1a}よくがんばるな、\n{10}は・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 アッシュ 】{0b:09}\n・・・もう行くのかい?{1a}よくがんばるな、\n{10}は・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Ash 】{0b:09}\n...Going already?{1a}You really work hard, {10}...{0c:fe}",
+   "status": "done",
+   "tl": "...Going already? // You really work hard, [HERO]..."
   },
   {
    "id": "RES#301:8a5a",
@@ -1336,8 +1389,9 @@
    "jp": "{1c:13}{10}、無茶するなよ。\n{10}まで死んだら・・・\nおれ・・・{0c:fe}",
    "read": "{1c:13}{10}、無茶するなよ。\n{10}まで死んだら・・・\nおれ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{10}, nothing reckless. If even you\ndied, {10}... I...{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], nothing reckless. If even you died, [HERO]... I..."
   },
   {
    "id": "RES#301:8a8f",
@@ -1370,8 +1424,9 @@
    "jp": "{1c:10}いてて・・・\nなにするんだ?{0c:51ffffffff54151e}",
    "read": "{1c:10}いてて・・・\nなにするんだ?{0c:51ffffffff54151e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Ow, ow... What are you doing?{0c:51ffffffff54151e}",
+   "status": "done",
+   "tl": "Ow, ow... What are you doing?"
   },
   {
    "id": "RES#301:8abb",
@@ -1381,8 +1436,9 @@
    "jp": "{1c:10}{10}って力あるんだなあ。",
    "read": "{1c:10}{10}って力あるんだなあ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}You're pretty strong, {10}.",
+   "status": "done",
+   "tl": "You're pretty strong, [HERO]."
   },
   {
    "id": "RES#301:8aca",
@@ -1392,8 +1448,9 @@
    "jp": "{1c:10}いやだよ。戦うのは。{0c:1501}",
    "read": "{1c:10}いやだよ。戦うのは。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I don't wanna fight, no.{0c:1501}",
+   "status": "done",
+   "tl": "I don't wanna fight, no."
   },
   {
    "id": "RES#301:8adc",
@@ -1414,8 +1471,9 @@
    "jp": "{1c:10}いてて・・・\nなにするんだ?{0c:51ffffffff54151e}",
    "read": "{1c:10}いてて・・・\nなにするんだ?{0c:51ffffffff54151e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Ow, ow... What are you doing?{0c:51ffffffff54151e}",
+   "status": "done",
+   "tl": "Ow, ow... What are you doing?"
   },
   {
    "id": "RES#301:8b1a",
@@ -1425,8 +1483,9 @@
    "jp": "{1c:10}おまえ怒らせるようなこと\n何かしたかなあ・・・",
    "read": "{1c:10}おまえ怒らせるようなこと\n何かしたかなあ・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Did I do something to make you mad...",
+   "status": "done",
+   "tl": "Did I do something to make you mad..."
   },
   {
    "id": "RES#301:8b36",
@@ -1436,8 +1495,9 @@
    "jp": "{1c:10}ケンカなんていやだぞ。{0c:1501}",
    "read": "{1c:10}ケンカなんていやだぞ。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I don't want a fight, okay?{0c:1501}",
+   "status": "done",
+   "tl": "I don't want a fight, okay?"
   },
   {
    "id": "RES#301:8b4a",
@@ -1458,8 +1518,9 @@
    "jp": "{1c:10}いまの痛かったぞ。{0c:51ffffffff54151e}",
    "read": "{1c:10}いまの痛かったぞ。{0c:51ffffffff54151e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}That hurt just now, y'know.{0c:51ffffffff54151e}",
+   "status": "done",
+   "tl": "That hurt just now, y'know."
   },
   {
    "id": "RES#301:8b83",
@@ -1469,8 +1530,9 @@
    "jp": "{1c:10}おまえって、たまに何するか\nわからないときがあるな。",
    "read": "{1c:10}おまえって、たまに何するか\nわからないときがあるな。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Sometimes I just can't tell what you're\ngonna do.",
+   "status": "done",
+   "tl": "Sometimes I just can't tell what you're gonna do."
   },
   {
    "id": "RES#301:8ba1",
@@ -1480,8 +1542,9 @@
    "jp": "{1c:10}いやだよ。戦うのは。{0c:1501}",
    "read": "{1c:10}いやだよ。戦うのは。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I don't wanna fight, no.{0c:1501}",
+   "status": "done",
+   "tl": "I don't wanna fight, no."
   },
   {
    "id": "RES#301:8bb3",
@@ -1502,8 +1565,9 @@
    "jp": "{1c:10}いたいなあ。\nやめろよ、{10}。{0c:51ffffffff54151e}",
    "read": "{1c:10}いたいなあ。\nやめろよ、{10}。{0c:51ffffffff54151e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}That hurts. Cut it out, {10}.{0c:51ffffffff54151e}",
+   "status": "done",
+   "tl": "That hurts. Cut it out, [HERO]."
   },
   {
    "id": "RES#301:8bf0",
@@ -1513,8 +1577,9 @@
    "jp": "{1c:10}いい加減にしないと、\n誰にも相手されなくなっちゃうぞ。\nそんなの淋しいだろ?",
    "read": "{1c:10}いい加減にしないと、\n誰にも相手されなくなっちゃうぞ。\nそんなの淋しいだろ?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}If you don't knock it off, nobody's gonna\nwant anything to do with you. That'd be\nlonely, wouldn't it?",
+   "status": "done",
+   "tl": "If you don't knock it off, nobody's gonna want anything to do with you. That'd be lonely, wouldn't it?"
   },
   {
    "id": "RES#301:8c20",
@@ -1524,8 +1589,9 @@
    "jp": "{1c:10}絶対いやだよ。喧嘩なんて。{0c:1501}",
    "read": "{1c:10}絶対いやだよ。喧嘩なんて。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I really don't wanna fight, no.{0c:1501}",
+   "status": "done",
+   "tl": "I really don't wanna fight, no."
   },
   {
    "id": "RES#301:8c38",
@@ -1546,8 +1612,9 @@
    "jp": "{1c:10}やめてくれよ、{10}。{0c:15}",
    "read": "{1c:10}やめてくれよ、{10}。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Please stop, {10}.{0c:15}",
+   "status": "done",
+   "tl": "Please stop, [HERO]."
   },
   {
    "id": "RES#301:8c69",
@@ -1557,8 +1624,9 @@
    "jp": "{1c:10}ものを大切にしなきゃだめだぞ。",
    "read": "{1c:10}ものを大切にしなきゃだめだぞ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}You've gotta take care of things,\ny'know.",
+   "status": "done",
+   "tl": "You've gotta take care of things, y'know."
   },
   {
    "id": "RES#301:8c7d",
@@ -1568,8 +1636,9 @@
    "jp": "{1c:10}{10}・・・\n一体どうしたんだ?{0c:15}",
    "read": "{1c:10}{10}・・・\n一体どうしたんだ?{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{10}... What's gotten into you?{0c:15}",
+   "status": "done",
+   "tl": "[HERO]... What's gotten into you?"
   },
   {
    "id": "RES#301:8c94",
@@ -1579,8 +1648,9 @@
    "jp": "{1c:10}まあ、壊れたものは\nしょうがないしなあ・・・",
    "read": "{1c:10}まあ、壊れたものは\nしょうがないしなあ・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Well, what's broken's broken, I guess...",
+   "status": "done",
+   "tl": "Well, what's broken's broken, I guess..."
   },
   {
    "id": "RES#301:8cae",
@@ -1590,8 +1660,9 @@
    "jp": "{1c:10}やめてくれよ、{10}。{0c:15}",
    "read": "{1c:10}やめてくれよ、{10}。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Please stop, {10}.{0c:15}",
+   "status": "done",
+   "tl": "Please stop, [HERO]."
   },
   {
    "id": "RES#301:8cbd",
@@ -1601,8 +1672,9 @@
    "jp": "{1c:10}物にあたるなんてかっこ悪いぞ。",
    "read": "{1c:10}物にあたるなんてかっこ悪いぞ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Taking it out on things looks pretty\nsorry.",
+   "status": "done",
+   "tl": "Taking it out on things looks pretty sorry."
   },
   {
    "id": "RES#301:8cd1",
@@ -1612,8 +1684,9 @@
    "jp": "{1c:10}もうやめようよ、{10}。{0c:15}",
    "read": "{1c:10}もうやめようよ、{10}。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Let's stop this now, {10}.{0c:15}",
+   "status": "done",
+   "tl": "Let's stop this now, [HERO]."
   },
   {
    "id": "RES#301:8ce1",
@@ -1623,8 +1696,9 @@
    "jp": "{1c:10}おまえ、気でもふれたのか?",
    "read": "{1c:10}おまえ、気でもふれたのか?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Have you lost your mind?",
+   "status": "done",
+   "tl": "Have you lost your mind?"
   },
   {
    "id": "RES#301:8cf3",
@@ -1634,8 +1708,9 @@
    "jp": "{1c:10}あ、それ・・・{0c:153b0800}",
    "read": "{1c:10}あ、それ・・・{0c:153b0800}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Ah, that's...{0c:153b0800}",
+   "status": "done",
+   "tl": "Ah, that's..."
   },
   {
    "id": "RES#301:8d03",
@@ -1645,8 +1720,9 @@
    "jp": "{1c:10}かえしてくれるかな。",
    "read": "{1c:10}かえしてくれるかな。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Could you give it back?",
+   "status": "done",
+   "tl": "Could you give it back?"
   },
   {
    "id": "RES#301:8d10",
@@ -1656,8 +1732,9 @@
    "jp": "{1c:10}ありがとな、{10}。",
    "read": "{1c:10}ありがとな、{10}。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Thanks, {10}.",
+   "status": "done",
+   "tl": "Thanks, [HERO]."
   },
   {
    "id": "RES#301:8d1b",
@@ -1667,8 +1744,9 @@
    "jp": "{1c:10}あ、それ・・・{0c:153b0800}",
    "read": "{1c:10}あ、それ・・・{0c:153b0800}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Ah, that's...{0c:153b0800}",
+   "status": "done",
+   "tl": "Ah, that's..."
   },
   {
    "id": "RES#301:8d2b",
@@ -1678,8 +1756,9 @@
    "jp": "{1c:10}いや、いいんだけどな・・・",
    "read": "{1c:10}いや、いいんだけどな・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}No, it's okay, I guess...",
+   "status": "done",
+   "tl": "No, it's okay, I guess..."
   },
   {
    "id": "RES#301:8d3b",
@@ -1689,8 +1768,9 @@
    "jp": "{1c:10}ありがとな、{10}。",
    "read": "{1c:10}ありがとな、{10}。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Thanks, {10}.",
+   "status": "done",
+   "tl": "Thanks, [HERO]."
   },
   {
    "id": "RES#301:8d46",
@@ -1700,8 +1780,9 @@
    "jp": "{1c:10}あ、それ・・・{0c:153b0800}",
    "read": "{1c:10}あ、それ・・・{0c:153b0800}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Ah, that's...{0c:153b0800}",
+   "status": "done",
+   "tl": "Ah, that's..."
   },
   {
    "id": "RES#301:8d56",
@@ -1711,8 +1792,9 @@
    "jp": "{1c:10}かえしてくれるかな。",
    "read": "{1c:10}かえしてくれるかな。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Could you give it back?",
+   "status": "done",
+   "tl": "Could you give it back?"
   },
   {
    "id": "RES#301:8d63",
@@ -1722,8 +1804,9 @@
    "jp": "{1c:10}おまえって、たまに何するか\nわからないときがあるな。",
    "read": "{1c:10}おまえって、たまに何するか\nわからないときがあるな。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Sometimes I just can't tell what you're\ngonna do.",
+   "status": "done",
+   "tl": "Sometimes I just can't tell what you're gonna do."
   },
   {
    "id": "RES#301:8d81",
@@ -1733,8 +1816,9 @@
    "jp": "{1c:10}あ、それ・・・{0c:153b0800}",
    "read": "{1c:10}あ、それ・・・{0c:153b0800}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Ah, that's...{0c:153b0800}",
+   "status": "done",
+   "tl": "Ah, that's..."
   },
   {
    "id": "RES#301:8d91",
@@ -1744,8 +1828,9 @@
    "jp": "{1c:10}かえしてくれるかな。",
    "read": "{1c:10}かえしてくれるかな。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Could you give it back?",
+   "status": "done",
+   "tl": "Could you give it back?"
   },
   {
    "id": "RES#301:8d9e",
@@ -1755,8 +1840,9 @@
    "jp": "{1c:10}あ、ありがとう・・・",
    "read": "{1c:10}あ、ありがとう・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Th-thank you...",
+   "status": "done",
+   "tl": "Th-thank you..."
   },
   {
    "id": "RES#301:8dab",
@@ -1766,8 +1852,9 @@
    "jp": "{1c:10}兄ちゃんみんなに\n約束したのにな・・・\nごめんよ・・・",
    "read": "{1c:10}兄ちゃんみんなに\n約束したのにな・・・\nごめんよ・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}And big brother promised you all... I'm\nsorry...",
+   "status": "done",
+   "tl": "And big brother promised you all... I'm sorry..."
   },
   {
    "id": "RES#301:8dcc",
@@ -1777,8 +1864,9 @@
    "jp": "{1c:10}やめろよ、{10}。{0c:15}",
    "read": "{1c:10}やめろよ、{10}。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Stop it, {10}.{0c:15}",
+   "status": "done",
+   "tl": "Stop it, [HERO]."
   },
   {
    "id": "RES#301:8dd9",
@@ -1788,8 +1876,9 @@
    "jp": "{1c:10}友達いなくなっちゃうぞ。",
    "read": "{1c:10}友達いなくなっちゃうぞ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}You're gonna run out of friends.",
+   "status": "done",
+   "tl": "You're gonna run out of friends."
   },
   {
    "id": "RES#301:8dea",
@@ -1799,8 +1888,9 @@
    "jp": "{1c:10}やめろよ、{10}。{0c:15}",
    "read": "{1c:10}やめろよ、{10}。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Stop it, {10}.{0c:15}",
+   "status": "done",
+   "tl": "Stop it, [HERO]."
   },
   {
    "id": "RES#301:8df7",
@@ -1810,8 +1900,9 @@
    "jp": "{1c:10}そんなの{10}らしくないぞ。",
    "read": "{1c:10}そんなの{10}らしくないぞ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}That's not like you, {10}.",
+   "status": "done",
+   "tl": "That's not like you, [HERO]."
   },
   {
    "id": "RES#301:8e06",
@@ -1821,8 +1912,9 @@
    "jp": "{1c:10}やめろよ、{10}。{0c:15}",
    "read": "{1c:10}やめろよ、{10}。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Stop it, {10}.{0c:15}",
+   "status": "done",
+   "tl": "Stop it, [HERO]."
   },
   {
    "id": "RES#301:8e13",
@@ -1832,8 +1924,9 @@
    "jp": "{1c:10}八つ当たりするなんてかっこ悪いぞ。",
    "read": "{1c:10}八つ当たりするなんてかっこ悪いぞ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Taking it out on others looks pretty\nsorry.",
+   "status": "done",
+   "tl": "Taking it out on others looks pretty sorry."
   },
   {
    "id": "RES#301:8e2a",
@@ -1843,8 +1936,9 @@
    "jp": "{1c:10}もうやめろよ、{10}。{0c:15}",
    "read": "{1c:10}もうやめろよ、{10}。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Stop it already, {10}.{0c:15}",
+   "status": "done",
+   "tl": "Stop it already, [HERO]."
   },
   {
    "id": "RES#301:8e39",
@@ -1854,8 +1948,9 @@
    "jp": "{1c:10}いい加減にしないと、\n誰にも相手されなくなっちゃうぞ。\nそんなの淋しいだろ?",
    "read": "{1c:10}いい加減にしないと、\n誰にも相手されなくなっちゃうぞ。\nそんなの淋しいだろ?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}If you don't knock it off, nobody's gonna\nwant anything to do with you. That'd be\nlonely, wouldn't it?",
+   "status": "done",
+   "tl": "If you don't knock it off, nobody's gonna want anything to do with you. That'd be lonely, wouldn't it?"
   },
   {
    "id": "RES#301:8e69",
@@ -1865,8 +1960,9 @@
    "jp": "{1c:10}もうおこったぞ!!",
    "read": "{1c:10}もうおこったぞ!!",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}That's it, now I'm mad!!",
+   "status": "done",
+   "tl": "That's it, now I'm mad!!"
   }
  ],
  "entry": 301

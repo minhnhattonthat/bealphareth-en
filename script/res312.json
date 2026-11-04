@@ -41,8 +41,9 @@
    "jp": "{0c:5121}{1c:15}{0b:08}{e080} パスカ {e081}{0b:09}\nどうしたんだ、暗い顔してさ。\nもっと気楽にいこうぜ。{0c:5119}{0c:290309fe}",
    "read": "{0c:5121}{1c:15}{0b:08}【 パスカ 】{0b:09}\nどうしたんだ、暗い顔してさ。\nもっと気楽にいこうぜ。{0c:5119}{0c:290309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5121}{1c:15}{0b:08}【 Pasca 】{0b:09}\nWhat's with the gloomy face? Lighten up\na little, huh?{0c:5119}{0c:290309fe}",
+   "status": "done",
+   "tl": "What's with the gloomy face? Lighten up a little, huh?"
   },
   {
    "id": "RES#312:8372",
@@ -52,8 +53,9 @@
    "jp": "{1c:14}{0b:08}{e080} レイア {e081}{0b:09}\n・・・・・・・{0c:fe}",
    "read": "{1c:14}{0b:08}【 レイア 】{0b:09}\n・・・・・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\n......{0c:fe}",
+   "status": "done",
+   "tl": "......"
   },
   {
    "id": "RES#312:838e",
@@ -74,8 +76,9 @@
    "jp": "{1c:17}{0b:08}{e080} パスカ {e081}{0b:09}\nそう、その顔だけどさ、\nちょっと笑うだけでいいんだけどな。{1a}お前が何を悩んでるのか\nオレ達は知らねえけど、{1a}あと{e084}{e085}、\nひょっとするとあと{e084}ヶ月で\nこの世{e087}はなくなっちまうかも\nしれねえんだ、{1a}{0c:5121}もっと今を楽しまなきゃ\n損だと思うぜ。{1a}{0c:521f20}もしなんだったら{10}に\n{e088}痴でも聞いてもらえよ。\n意外とスッキリするかもしれねえぞ。{1a}人に悩み打ち{e08a}けるなんて\nお前のガラじゃねえだろうけど、\n{10}になら言えるだろ?{1a}一緒にあっちの世{e087}に\n{e08b}足突っ{e08c}んだ仲間じゃねえか。{1a}仲間を信用しろとは言わねえ。\nでも、もっとオレ達を利用しろよ。{0c:fe}",
    "read": "{1c:17}{0b:08}【 パスカ 】{0b:09}\nそう、その顔だけどさ、\nちょっと笑うだけでいいんだけどな。{1a}お前が何を悩んでるのか\nオレ達は知らねえけど、{1a}あと数年、\nひょっとするとあと数ヶ月で\nこの世界はなくなっちまうかも\nしれねえんだ、{1a}{0c:5121}もっと今を楽しまなきゃ\n損だと思うぜ。{1a}{0c:521f20}もしなんだったら{10}に\n愚痴でも聞いてもらえよ。\n意外とスッキリするかもしれねえぞ。{1a}人に悩み打ち明けるなんて\nお前のガラじゃねえだろうけど、\n{10}になら言えるだろ?{1a}一緒にあっちの世界に\n片足突っ込んだ仲間じゃねえか。{1a}仲間を信用しろとは言わねえ。\nでも、もっとオレ達を利用しろよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Pasca 】{0b:09}\nYeah, that face right there. All it'd take\nis a little smile.{1a}We dunno what's eatin' ya,{1a}but a few more years, maybe just a few\nmore months, and this whole world could\nbe gone,{1a}{0c:5121}so if ya don't enjoy the here and now,\nyou're losin' out.{1a}{0c:521f20}Hell, if ya want, get {10} to listen\nto your gripin'. Might clear your head\nmore'n you'd think.{1a}Openin' up to people ain't your style, I\nknow, but ya can tell {10}, right?{1a}We're comrades, ain't we, every one of\nus with a foot stuck in that other world.{1a}I ain't sayin' ya gotta trust us. But go\non and use us more.{0c:fe}",
+   "status": "done",
+   "tl": "Yeah, that face right there. All it'd take is a little smile. // We dunno what's eatin' ya, // but a few more years, maybe just a few more months, and this whole world could be gone, // [1]so if ya don't enjoy the here and now, you're losin' out. // [2]Hell, if ya want, get [HERO] to listen to your gripin'. Might clear your head more'n you'd think. // Openin' up to people ain't your style, I know, but ya can tell [HERO], right? // We're comrades, ain't we, every one of us with a foot stuck in that other world. // I ain't sayin' ya gotta trust us. But go on and use us more."
   },
   {
    "id": "RES#312:84f3",
@@ -96,8 +99,9 @@
    "jp": "{1c:11}{0b:08}{e080} レイア {e081}{0b:09}\n・・・私の父は\nアスロイトの四{e08e}爵の1人\nデューラー{e08e}に仕える{e090}士だった。{0c:4c05235119}{0c:fe}",
    "read": "{1c:11}{0b:08}【 レイア 】{0b:09}\n・・・私の父は\nアスロイトの四公爵の1人\nデューラー公に仕える騎士だった。{0c:4c05235119}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Leia 】{0b:09}\n...My father was a knight in the service\nof Duke Durer, one of the four dukes of\nAsroit.{0c:4c05235119}{0c:fe}",
+   "status": "done",
+   "tl": "...My father was a knight in the service of Duke Durer, one of the four dukes of Asroit."
   },
   {
    "id": "RES#312:854f",
@@ -118,8 +122,9 @@
    "jp": "{1c:63}私が10歳の時、\n父は、{e092}君に対する反{e093}の罪で\n{e090}士の{e094}を剥奪され処刑された。{1a}実際は、日照りに苦しむ{e09a}{e09b}どもに\n{e08e}爵の{e09c}り場の{e09d}{e09e}をせき止め\n{e09d}を分け{e09f}えたという、\n実に下らない理由だったのだがな。{0c:fe}",
    "read": "{1c:63}私が10歳の時、\n父は、主君に対する反逆の罪で\n騎士の位を剥奪され処刑された。{1a}実際は、日照りに苦しむ農民どもに\n公爵の狩り場の水路をせき止め\n水を分け与えたという、\n実に下らない理由だったのだがな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}When I was ten, my father was stripped\nof his knighthood and executed for\ntreason against his lord.{1a}In truth, the reason was a trifling one:\nhe dammed the channel of the duke's\nhunting grounds and shared the water\nout among peasants suffering from{1a}drought.{0c:fe}",
+   "status": "done",
+   "tl": "When I was ten, my father was stripped of his knighthood and executed for treason against his lord. // In truth, the reason was a trifling one: he dammed the channel of the duke's hunting grounds and shared the water out among peasants suffering from drought."
   },
   {
    "id": "RES#312:85f9",
@@ -140,8 +145,9 @@
    "jp": "{1c:63}ともかく、反{e093}の罪を犯せば\nその{e0a1}{e0a2}も処刑される。\nまだ12歳だった兄も殺され、\n父とともに城下の{e0a4}場に吊された。{1a}だが、デューラー{e08e}の息子が\n{e0a7}を側室に欲していたため\n{e0a7}と私と幼い弟だけは\n処刑されずにすんだ。{0c:fe}",
    "read": "{1c:63}ともかく、反逆の罪を犯せば\nその家族も処刑される。\nまだ12歳だった兄も殺され、\n父とともに城下の広場に吊された。{1a}だが、デューラー公の息子が\n母を側室に欲していたため\n母と私と幼い弟だけは\n処刑されずにすんだ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}In any case, when one commits treason,\none's family is executed as well. My\nbrother, only twelve, was killed and\nhanged beside my father in the square{1a}below the castle.{1a}But Duke Durer's son wanted my mother\nfor a concubine, and so she, my little\nbrother and I alone were spared.{0c:fe}",
+   "status": "done",
+   "tl": "In any case, when one commits treason, one's family is executed as well. My brother, only twelve, was killed and hanged beside my father in the square below the castle. // But Duke Durer's son wanted my mother for a concubine, and so she, my little brother and I alone were spared."
   },
   {
    "id": "RES#312:869e",
@@ -162,8 +168,9 @@
    "jp": "{1c:63}しかし、あの男の側室になることを\n拒み続けた{e0a7}と私達は\n{01}1{e085}後{02}、{01}1{e0ac}{02}の{03}コイン{02}を持つことも\n許されずに城を{e0ad}われた・・・{0c:fe}",
    "read": "{1c:63}しかし、あの男の側室になることを\n拒み続けた母と私達は\n{01}1年後{02}、{01}1枚{02}の{03}コイン{02}を持つことも\n許されずに城を追われた・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}However, my mother went on refusing to\nbecome that man's concubine, and one\nyear later we were driven from the\ncastle without so much as a single{1a}coin...{0c:fe}",
+   "status": "done",
+   "tl": "However, my mother went on refusing to become that man's concubine, and one year later we were driven from the castle without so much as a single coin..."
   },
   {
    "id": "RES#312:8707",
@@ -184,8 +191,9 @@
    "jp": "{1c:63}{e090}士の{e094}を剥奪された不{e0ae}誉な一{e0a1}を\n迎えてくれる者などいるはずもない。{1a}父が助けた{e09a}{e09b}どもも、\n私達を迎え入れるどころか、\n{e0b0}と罵声で私達を{e0ad}い返した。{0c:fe}",
    "read": "{1c:63}騎士の位を剥奪された不名誉な一家を\n迎えてくれる者などいるはずもない。{1a}父が助けた農民どもも、\n私達を迎え入れるどころか、\n石と罵声で私達を追い返した。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}No one would take in a dishonoured family\nstripped of its knighthood.{1a}The peasants my father saved, far from\ntaking us in, drove us off with stones\nand curses.{0c:fe}",
+   "status": "done",
+   "tl": "No one would take in a dishonoured family stripped of its knighthood. // The peasants my father saved, far from taking us in, drove us off with stones and curses."
   },
   {
    "id": "RES#312:8787",
@@ -206,8 +214,9 @@
    "jp": "{1c:17}{0b:08}{e080} パスカ {e081}{0b:09}\nでもさ、それはそのなんとかって\n{e08e}爵を恐れてのことだろ?{1a}{0c:521f20}オレ達平{e09b}は、いつ貴{e0a2}の気分次第で\n殺されるかわからねえんだ。\nそりゃ、お前からすりゃ\n許せないかもしれないけどさ・・・{0c:290309fe}",
    "read": "{1c:17}{0b:08}【 パスカ 】{0b:09}\nでもさ、それはそのなんとかって\n公爵を恐れてのことだろ?{1a}{0c:521f20}オレ達平民は、いつ貴族の気分次第で\n殺されるかわからねえんだ。\nそりゃ、お前からすりゃ\n許せないかもしれないけどさ・・・{0c:290309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Pasca 】{0b:09}\nBut hey, that's 'cause they were scared\nof that duke whatshisname, right?{1a}{0c:521f20}Us commoners, we could get killed any\ntime some noble's in a mood. Sure, from\nwhere you stand maybe ya can't forgive\nit, but...{0c:290309fe}",
+   "status": "done",
+   "tl": "But hey, that's 'cause they were scared of that duke whatshisname, right? // [1]Us commoners, we could get killed any time some noble's in a mood. Sure, from where you stand maybe ya can't forgive it, but..."
   },
   {
    "id": "RES#312:8838",
@@ -217,8 +226,9 @@
    "jp": "{0c:4c05235119}{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\nああ、{e08e}爵の目を恐れての\nことかもしれない・・・{1a}それは別に構わない。\n恨みにも思っていない。{1a}ともかく、行く場のない私達は、\n親戚中をたらい回しにされた。\nどこにも私達の居場所はなかった。{1a}父の{e088}かな行動のために\n私の{e0a1}{e0a2}は・・・\nあの{e088}かな男のせいで!{0c:fe}",
    "read": "{0c:4c05235119}{1c:10}{0b:08}【 レイア 】{0b:09}\nああ、公爵の目を恐れての\nことかもしれない・・・{1a}それは別に構わない。\n恨みにも思っていない。{1a}ともかく、行く場のない私達は、\n親戚中をたらい回しにされた。\nどこにも私達の居場所はなかった。{1a}父の愚かな行動のために\n私の家族は・・・\nあの愚かな男のせいで!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:4c05235119}{1c:10}{0b:08}【 Leia 】{0b:09}\nYes, perhaps they did fear the duke's\neyes...{1a}That does not matter to me. I bear them\nno grudge.{1a}In any case, with nowhere to go, we were\npassed from relative to relative. There\nwas no place for us anywhere.{1a}Because of my father's foolish act, my\nfamily... Because of that foolish man!{0c:fe}",
+   "status": "done",
+   "tl": "Yes, perhaps they did fear the duke's eyes... // That does not matter to me. I bear them no grudge. // In any case, with nowhere to go, we were passed from relative to relative. There was no place for us anywhere. // Because of my father's foolish act, my family... Because of that foolish man!"
   },
   {
    "id": "RES#312:88f4",
@@ -239,8 +249,9 @@
    "jp": "{0c:521f20}{1c:17}{0b:08}{e080} パスカ {e081}{0b:09}\nそう悪く言うなよ、\nお前のオヤジなんだろ?{1a}それに、お前のオヤジのおかげで\n大勢の人間が飢えずに済んだんだ。{0c:290309fe}",
    "read": "{0c:521f20}{1c:17}{0b:08}【 パスカ 】{0b:09}\nそう悪く言うなよ、\nお前のオヤジなんだろ?{1a}それに、お前のオヤジのおかげで\n大勢の人間が飢えずに済んだんだ。{0c:290309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521f20}{1c:17}{0b:08}【 Pasca 】{0b:09}\nDon't talk about him like that, he's your\nold man, ain't he?{1a}Besides, thanks to your old man, a whole\nlotta people didn't starve.{0c:290309fe}",
+   "status": "done",
+   "tl": "Don't talk about him like that, he's your old man, ain't he? // Besides, thanks to your old man, a whole lotta people didn't starve."
   },
   {
    "id": "RES#312:8964",
@@ -250,8 +261,9 @@
    "jp": "{1c:12}{0b:08}{e080} レイア {e081}{0b:09}\n他人からすれば美談かもしれん。\nだが、私の{e0a1}{e0a2}にしてみれば\n笑えない冗談にすぎない。{1a}私の{e0a1}も小さいとはいえ、\n何十人もの使用人や従者がいる。\nそして彼等にも{e0a1}{e0a2}がいる。{1a}父の思慮に欠けた行動のために、\n{e0a1}臣達やその{e0a1}{e0a2}までもが\n{e09e}頭に迷うこととなった。{1a}気{e0ba}く美しかった{e0a7}も、\n物乞いのような生活が続き、\n心を{e0bd}んで今では見る影もない・・・{0c:fe}",
    "read": "{1c:12}{0b:08}【 レイア 】{0b:09}\n他人からすれば美談かもしれん。\nだが、私の家族にしてみれば\n笑えない冗談にすぎない。{1a}私の家も小さいとはいえ、\n何十人もの使用人や従者がいる。\nそして彼等にも家族がいる。{1a}父の思慮に欠けた行動のために、\n家臣達やその家族までもが\n路頭に迷うこととなった。{1a}気高く美しかった母も、\n物乞いのような生活が続き、\n心を病んで今では見る影もない・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Leia 】{0b:09}\nTo others it may be a fine tale. But to\nmy family, it is a joke no one can laugh\nat.{1a}Small though my house may be, it has\ndozens of servants and retainers. And\nthey have families as well.{1a}Because of my father's thoughtless\nact, even the retainers and their families\nwere turned out on the road.{1a}My mother, once so noble and beautiful,\nlived like a beggar for so long that her\nmind sickened, and now she is a shadow\nof what she was...{0c:fe}",
+   "status": "done",
+   "tl": "To others it may be a fine tale. But to my family, it is a joke no one can laugh at. // Small though my house may be, it has dozens of servants and retainers. And they have families as well. // Because of my father's thoughtless act, even the retainers and their families were turned out on the road. // My mother, once so noble and beautiful, lived like a beggar for so long that her mind sickened, and now she is a shadow of what she was..."
   },
   {
    "id": "RES#312:8a5a",
@@ -284,8 +296,9 @@
    "jp": "{1c:14}{0b:08}{e080} レイア {e081}{0b:09}\n{e0bf}{e0c0}の生活をしたくても、\nどの{e0c1}地も私達を拒み続ける。{1a}ここで見つけた{e0c2}{e0c3}を\n{e0a7}のもとに送っても、\n{e08e}爵の手の者に全て{e0c5}{e0c6}される。{1a}私の{e0a1}{e0a2}と{e0a1}臣達を救うには、\n不老不死の{e0c8}{e0c3}\n『アザレの{e0b0}』を見つけ、{1a}王{e0c9}{e0ca}でただ1人\nデューラー{e08e}以上の権力をもつ\nアスロイト{e0c9}王に直接\n認めてもらうしかなかった・・・{0c:4c0509fe}",
    "read": "{1c:14}{0b:08}【 レイア 】{0b:09}\n普通の生活をしたくても、\nどの土地も私達を拒み続ける。{1a}ここで見つけた財宝を\n母のもとに送っても、\n公爵の手の者に全て没収される。{1a}私の家族と家臣達を救うには、\n不老不死の秘宝\n『アザレの石』を見つけ、{1a}王国内でただ1人\nデューラー公以上の権力をもつ\nアスロイト国王に直接\n認めてもらうしかなかった・・・{0c:4c0509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\nWe wish only to live ordinary lives, yet\nevery land goes on rejecting us.{1a}Even when I send my mother treasure\nfound here, the duke's men confiscate it\nall.{1a}To save my family and retainers, I had no\nchoice but to find the treasure of\neternal life, the 'Azare Stone',{1a}and win direct recognition from the King\nof Asroit, the one man in the kingdom\nwith more power than Duke Durer...{0c:4c0509fe}",
+   "status": "done",
+   "tl": "We wish only to live ordinary lives, yet every land goes on rejecting us. // Even when I send my mother treasure found here, the duke's men confiscate it all. // To save my family and retainers, I had no choice but to find the treasure of eternal life, the 'Azare Stone', // and win direct recognition from the King of Asroit, the one man in the kingdom with more power than Duke Durer..."
   },
   {
    "id": "RES#312:8b70",
@@ -295,8 +308,9 @@
    "jp": "{1c:17}{0b:08}{e080} パスカ {e081}{0b:09}\nそれでこの町に来たのか・・・{0c:290309fe}",
    "read": "{1c:17}{0b:08}【 パスカ 】{0b:09}\nそれでこの町に来たのか・・・{0c:290309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Pasca 】{0b:09}\nSo that's why ya came to this town...{0c:290309fe}",
+   "status": "done",
+   "tl": "So that's why ya came to this town..."
   },
   {
    "id": "RES#312:8b99",
@@ -306,8 +320,9 @@
    "jp": "{1c:14}{0b:08}{e080} レイア {e081}{0b:09}\nこの町に来るための\n手{e0cd}1つ手に入れるだけで\n3{e085}も必要とした。{1a}その3{e085}は屈辱の{e0cf}続だった。\nそれでも耐えてこられたのは\n{e0a7}と弟と{e0a1}臣達を救うという\n希望があったからだ・・・{1a}だが・・・{1a}だが、肝心の王{e0a1}も王{e0c9}も\nもう存{e0d3}しない・・・{0c:4c0509fe}",
    "read": "{1c:14}{0b:08}【 レイア 】{0b:09}\nこの町に来るための\n手形1つ手に入れるだけで\n3年も必要とした。{1a}その3年は屈辱の連続だった。\nそれでも耐えてこられたのは\n母と弟と家臣達を救うという\n希望があったからだ・・・{1a}だが・・・{1a}だが、肝心の王家も王国も\nもう存在しない・・・{0c:4c0509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\nIt took me three years just to obtain a\nsingle pass to enter this town.{1a}Those three years were one humiliation\nafter another. I endured them because I\nhad the hope of saving my mother, my\nbrother and my retainers...{1a}But...{1a}But the royal house and the kingdom I\nwas counting on no longer exist...{0c:4c0509fe}",
+   "status": "done",
+   "tl": "It took me three years just to obtain a single pass to enter this town. // Those three years were one humiliation after another. I endured them because I had the hope of saving my mother, my brother and my retainers... // But... // But the royal house and the kingdom I was counting on no longer exist..."
   },
   {
    "id": "RES#312:8c4d",
@@ -340,8 +355,9 @@
    "jp": "{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\n私のやってきたことは\n無駄だったのか!?{1a}私はなんのために・・・{0c:4c0509fe}",
    "read": "{1c:10}{0b:08}【 レイア 】{0b:09}\n私のやってきたことは\n無駄だったのか!?{1a}私はなんのために・・・{0c:4c0509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Leia 】{0b:09}\nWas everything I have done for nothing!?{1a}What have I been doing all this for...{0c:4c0509fe}",
+   "status": "done",
+   "tl": "Was everything I have done for nothing!? // What have I been doing all this for..."
   },
   {
    "id": "RES#312:8cb3",
@@ -351,8 +367,9 @@
    "jp": "{1c:17}{0b:08}{e080} パスカ {e081}{0b:09}\nレイア・・・{0c:fe}",
    "read": "{1c:17}{0b:08}【 パスカ 】{0b:09}\nレイア・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Pasca 】{0b:09}\nLeia...{0c:fe}",
+   "status": "done",
+   "tl": "Leia..."
   },
   {
    "id": "RES#312:8cce",
@@ -407,8 +424,9 @@
    "jp": "{1c:17}{0b:08}{e080} パスカ {e081}{0b:09}\nレイア・・・{0c:290309fe}",
    "read": "{1c:17}{0b:08}【 パスカ 】{0b:09}\nレイア・・・{0c:290309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Pasca 】{0b:09}\nLeia...{0c:290309fe}",
+   "status": "done",
+   "tl": "Leia..."
   },
   {
    "id": "RES#312:8d88",
@@ -418,8 +436,9 @@
    "jp": "{1c:11}{0b:08}{e080} レイア {e081}{0b:09}\n待っててくれたのか・・・{0c:4c0509fe}",
    "read": "{1c:11}{0b:08}【 レイア 】{0b:09}\n待っててくれたのか・・・{0c:4c0509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Leia 】{0b:09}\nYou waited for me...{0c:4c0509fe}",
+   "status": "done",
+   "tl": "You waited for me..."
   },
   {
    "id": "RES#312:8dae",
@@ -429,8 +448,9 @@
    "jp": "{0c:520a0b}{1c:16}{0b:08}{e080} パスカ {e081}{0b:09}\nレイア・・・{1a}何て言ったらいいか\nわかんねえけどさ・・・{0c:fe}",
    "read": "{0c:520a0b}{1c:16}{0b:08}【 パスカ 】{0b:09}\nレイア・・・{1a}何て言ったらいいか\nわかんねえけどさ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520a0b}{1c:16}{0b:08}【 Pasca 】{0b:09}\nLeia...{1a}I dunno what to say, but...{0c:fe}",
+   "status": "done",
+   "tl": "Leia... // I dunno what to say, but..."
   },
   {
    "id": "RES#312:8de7",
@@ -451,8 +471,9 @@
    "jp": "{1c:14}{0b:08}{e080} レイア {e081}{0b:09}\nいや・・・{0c:4c0509fe}",
    "read": "{1c:14}{0b:08}【 レイア 】{0b:09}\nいや・・・{0c:4c0509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\nNo...{0c:4c0509fe}",
+   "status": "done",
+   "tl": "No..."
   },
   {
    "id": "RES#312:8e10",
@@ -462,8 +483,9 @@
    "jp": "{0c:520c09}{1c:17}{0b:08}{e080} パスカ {e081}{0b:09}\nレイア・・・{0c:fe}",
    "read": "{0c:520c09}{1c:17}{0b:08}【 パスカ 】{0b:09}\nレイア・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520c09}{1c:17}{0b:08}【 Pasca 】{0b:09}\nLeia...{0c:fe}",
+   "status": "done",
+   "tl": "Leia..."
   },
   {
    "id": "RES#312:8e30",
@@ -484,8 +506,9 @@
    "jp": "{1c:13}{0b:08}{e080} レイア {e081}{0b:09}\n恥ずかしい所を\n見せてしまったな・・・{1a}だが確かに\n少し楽になったかもしれない・・・{1a}{0c:5130}不思{e0d4}だな。仲間というのも・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 レイア 】{0b:09}\n恥ずかしい所を\n見せてしまったな・・・{1a}だが確かに\n少し楽になったかもしれない・・・{1a}{0c:5130}不思議だな。仲間というのも・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Leia 】{0b:09}\nYou have seen me at my most shameful...{1a}But it is true. Perhaps I do feel\nsomewhat lighter...{1a}{0c:5130}How strange it is, having comrades...{0c:fe}",
+   "status": "done",
+   "tl": "You have seen me at my most shameful... // But it is true. Perhaps I do feel somewhat lighter... // [1]How strange it is, having comrades..."
   },
   {
    "id": "RES#312:8e9b",
@@ -517,8 +540,9 @@
    "jp": "{1c:13}{0b:08}{e080} レイア {e081}{0b:09}\nそうだな・・・{1a}どうせする事もない。\n一緒に行かせてもらう・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 レイア 】{0b:09}\nそうだな・・・{1a}どうせする事もない。\n一緒に行かせてもらう・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Leia 】{0b:09}\nYes...{1a}I have nothing else to do in any case. Let\nme go with you...{0c:fe}",
+   "status": "done",
+   "tl": "Yes... // I have nothing else to do in any case. Let me go with you..."
   },
   {
    "id": "RES#312:8ee3",
@@ -596,8 +620,9 @@
    "jp": "{1c:1a}{0b:08}{e080} シャルン {e081}{0b:09}\nそろそろみんなに自分のこと\n話してもいいんじゃない?{1a}誰の力も借りずに\n1人で生きるんだって顔してるけど、\n今のレイアちょっと痛{e0d5}しいよ。{1a}{0c:520203}どんな過去があるのか知らないけど、\n少しはあたし達に相談してよ。\n{e088}痴をこぼしてよ。\n少しは気が楽になるかもしれないよ。{0c:290309fe}",
    "read": "{1c:1a}{0b:08}【 シャルン 】{0b:09}\nそろそろみんなに自分のこと\n話してもいいんじゃない?{1a}誰の力も借りずに\n1人で生きるんだって顔してるけど、\n今のレイアちょっと痛々しいよ。{1a}{0c:520203}どんな過去があるのか知らないけど、\n少しはあたし達に相談してよ。\n愚痴をこぼしてよ。\n少しは気が楽になるかもしれないよ。{0c:290309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}{0b:08}【 Scharn 】{0b:09}\nIsn't it about time you told everyone\nabout yourself?{1a}You look like you've decided to live alone\nwithout anyone's help, but you're kind of\npainful to watch right now, Leia!{1a}{0c:520203}I don't know what your past is, but talk\nto us a little! Grumble at us! It might\nmake you feel a little better!{0c:290309fe}",
+   "status": "done",
+   "tl": "Isn't it about time you told everyone about yourself? // You look like you've decided to live alone without anyone's help, but you're kind of painful to watch right now, Leia! // [1]I don't know what your past is, but talk to us a little! Grumble at us! It might make you feel a little better!"
   },
   {
    "id": "RES#312:91cc",
@@ -607,8 +632,9 @@
    "jp": "{1c:14}{0b:08}{e080} レイア {e081}{0b:09}\n・・・・・・・{0c:fe}",
    "read": "{1c:14}{0b:08}【 レイア 】{0b:09}\n・・・・・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\n......{0c:fe}",
+   "status": "done",
+   "tl": "......"
   },
   {
    "id": "RES#312:91e8",
@@ -629,8 +655,9 @@
    "jp": "{0c:520c0d}{1c:19}{0b:08}{e080} シャルン {e081}{0b:09}\n{10}には聞く資格が\nあると思うんだけどな。{1a}{0c:5118}一緒に死{e0d8}をくぐった仲間でしょ?\n{10}には何度も\n助けられたでしょ?{1a}頼んだ覚えはないって\n言うかもしれないけど、\nレイアの事が心配なんだよ。{1a}{0c:510d}もちろん、話を聞いても\nあたし達は何の力にも\nなれないかもしれない・・・{1a}{0c:5118}でも、{10}のことを\n信頼出来る仲間と認めてるなら、\n自分がどんなことを考えている\n人間なのかだけは伝えた方がいいよ。{1a}いつまでも自分を{e0d9}し続ける人に、\n命を預ける事なんて出来ないよ。{0c:fe}",
    "read": "{0c:520c0d}{1c:19}{0b:08}【 シャルン 】{0b:09}\n{10}には聞く資格が\nあると思うんだけどな。{1a}{0c:5118}一緒に死線をくぐった仲間でしょ?\n{10}には何度も\n助けられたでしょ?{1a}頼んだ覚えはないって\n言うかもしれないけど、\nレイアの事が心配なんだよ。{1a}{0c:510d}もちろん、話を聞いても\nあたし達は何の力にも\nなれないかもしれない・・・{1a}{0c:5118}でも、{10}のことを\n信頼出来る仲間と認めてるなら、\n自分がどんなことを考えている\n人間なのかだけは伝えた方がいいよ。{1a}いつまでも自分を隠し続ける人に、\n命を預ける事なんて出来ないよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520c0d}{1c:19}{0b:08}【 Scharn 】{0b:09}\nI think {10} has a right to hear it.{1a}{0c:5118}We've been through life and death\ntogether, right? {10} has saved\nyou again and again, right?{1a}You might say you never asked for that,\nbut we're worried about you, Leia!{1a}{0c:510d}Of course, even if we hear you out,\nmaybe we can't help you at all...{1a}{0c:5118}But if you see {10} as a comrade\nyou can trust, you should at least say\nwhat kind of person you are and what\nyou think!{1a}Nobody can trust their life to someone\nwho keeps hiding who they are forever!{0c:fe}",
+   "status": "done",
+   "tl": "I think [HERO] has a right to hear it. // [1]We've been through life and death together, right? [HERO] has saved you again and again, right? // You might say you never asked for that, but we're worried about you, Leia! // [2]Of course, even if we hear you out, maybe we can't help you at all... // [3]But if you see [HERO] as a comrade you can trust, you should at least say what kind of person you are and what you think! // Nobody can trust their life to someone who keeps hiding who they are forever!"
   },
   {
    "id": "RES#312:9331",
@@ -651,8 +678,9 @@
    "jp": "{1c:14}{0b:08}{e080} レイア {e081}{0b:09}\n・・・私の父は\nアスロイトの四{e08e}爵の1人\nデューラー{e08e}に仕える{e090}士だった。{0c:fe}",
    "read": "{1c:14}{0b:08}【 レイア 】{0b:09}\n・・・私の父は\nアスロイトの四公爵の1人\nデューラー公に仕える騎士だった。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\n...My father was a knight in the service\nof Duke Durer, one of the four dukes of\nAsroit.{0c:fe}",
+   "status": "done",
+   "tl": "...My father was a knight in the service of Duke Durer, one of the four dukes of Asroit."
   },
   {
    "id": "RES#312:9386",
@@ -673,8 +701,9 @@
    "jp": "{1c:63}私が10歳の時、\n父は、{e092}君に対する反{e093}の罪で\n{e090}士の{e094}を剥奪され処刑された。{1a}実際は、日照りに苦しむ{e09a}{e09b}どもに\n{e08e}爵の{e09c}り場の{e09d}{e09e}をせき止め\n{e09d}を分け{e09f}えたという、\n実に下らない理由だったのだがな。{0c:fe}",
    "read": "{1c:63}私が10歳の時、\n父は、主君に対する反逆の罪で\n騎士の位を剥奪され処刑された。{1a}実際は、日照りに苦しむ農民どもに\n公爵の狩り場の水路をせき止め\n水を分け与えたという、\n実に下らない理由だったのだがな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}When I was ten, my father was stripped\nof his knighthood and executed for\ntreason against his lord.{1a}In truth, the reason was a trifling one:\nhe dammed the channel of the duke's\nhunting grounds and shared the water\nout among peasants suffering from{1a}drought.{0c:fe}",
+   "status": "done",
+   "tl": "When I was ten, my father was stripped of his knighthood and executed for treason against his lord. // In truth, the reason was a trifling one: he dammed the channel of the duke's hunting grounds and shared the water out among peasants suffering from drought."
   },
   {
    "id": "RES#312:9430",
@@ -695,8 +724,9 @@
    "jp": "{1c:63}ともかく、反{e093}の罪を犯せば\nその{e0a1}{e0a2}も処刑される。\nまだ12歳だった兄も殺され、\n父とともに城下の{e0a4}場に吊された。{1a}だが、デューラー{e08e}の息子が\n{e0a7}を側室に欲していたため\n{e0a7}と私と幼い弟だけは\n処刑されずにすんだ。{0c:fe}",
    "read": "{1c:63}ともかく、反逆の罪を犯せば\nその家族も処刑される。\nまだ12歳だった兄も殺され、\n父とともに城下の広場に吊された。{1a}だが、デューラー公の息子が\n母を側室に欲していたため\n母と私と幼い弟だけは\n処刑されずにすんだ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}In any case, when one commits treason,\none's family is executed as well. My\nbrother, only twelve, was killed and\nhanged beside my father in the square{1a}below the castle.{1a}But Duke Durer's son wanted my mother\nfor a concubine, and so she, my little\nbrother and I alone were spared.{0c:fe}",
+   "status": "done",
+   "tl": "In any case, when one commits treason, one's family is executed as well. My brother, only twelve, was killed and hanged beside my father in the square below the castle. // But Duke Durer's son wanted my mother for a concubine, and so she, my little brother and I alone were spared."
   },
   {
    "id": "RES#312:94d5",
@@ -717,8 +747,9 @@
    "jp": "{1c:63}しかし、あの男の側室になることを\n拒み続けた{e0a7}と私達は\n{01}1{e085}後{02}、{01}1{e0ac}{02}の{03}コイン{02}を持つことも\n許されずに城を{e0ad}われた・・・{0c:fe}",
    "read": "{1c:63}しかし、あの男の側室になることを\n拒み続けた母と私達は\n{01}1年後{02}、{01}1枚{02}の{03}コイン{02}を持つことも\n許されずに城を追われた・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}However, my mother went on refusing to\nbecome that man's concubine, and one\nyear later we were driven from the\ncastle without so much as a single{1a}coin...{0c:fe}",
+   "status": "done",
+   "tl": "However, my mother went on refusing to become that man's concubine, and one year later we were driven from the castle without so much as a single coin..."
   },
   {
    "id": "RES#312:953e",
@@ -739,8 +770,9 @@
    "jp": "{1c:63}{e090}士の{e094}を剥奪された不{e0ae}誉な一{e0a1}を\n迎えてくれる者などいるはずもない。{1a}父が助けた{e09a}{e09b}どもも、\n私達を迎え入れるどころか、\n{e0b0}と罵声で私達を{e0ad}い返した。{0c:fe}",
    "read": "{1c:63}騎士の位を剥奪された不名誉な一家を\n迎えてくれる者などいるはずもない。{1a}父が助けた農民どもも、\n私達を迎え入れるどころか、\n石と罵声で私達を追い返した。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}No one would take in a dishonoured family\nstripped of its knighthood.{1a}The peasants my father saved, far from\ntaking us in, drove us off with stones\nand curses.{0c:fe}",
+   "status": "done",
+   "tl": "No one would take in a dishonoured family stripped of its knighthood. // The peasants my father saved, far from taking us in, drove us off with stones and curses."
   },
   {
    "id": "RES#312:95be",
@@ -761,8 +793,9 @@
    "jp": "{1c:1a}{0b:08}{e080} シャルン {e081}{0b:09}\nでも、それは・・・{0c:290309fe}",
    "read": "{1c:1a}{0b:08}【 シャルン 】{0b:09}\nでも、それは・・・{0c:290309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}{0b:08}【 Scharn 】{0b:09}\nBut that's...{0c:290309fe}",
+   "status": "done",
+   "tl": "But that's..."
   },
   {
    "id": "RES#312:9609",
@@ -772,8 +805,9 @@
    "jp": "{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\nああ、{e08e}爵の目を恐れての\nことかもしれない・・・{1a}それは別に構わない。\n恨みにも思っていない。\nともかく、行く場のない私達は、\n親戚中をたらい回しにされた。\nどこにも私達の居場所はなかった。{1a}父の{e088}かな行動のために\n私の{e0a1}{e0a2}は・・・\nあの{e088}かな男のせいで!{0c:fe}",
    "read": "{1c:10}{0b:08}【 レイア 】{0b:09}\nああ、公爵の目を恐れての\nことかもしれない・・・{1a}それは別に構わない。\n恨みにも思っていない。\nともかく、行く場のない私達は、\n親戚中をたらい回しにされた。\nどこにも私達の居場所はなかった。{1a}父の愚かな行動のために\n私の家族は・・・\nあの愚かな男のせいで!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Leia 】{0b:09}\nYes, perhaps they did fear the duke's\neyes...{1a}That does not matter to me. I bear them\nno grudge. In any case, with nowhere to\ngo, we were passed from relative to\nrelative. There was no place for us{1a}anywhere.{1a}Because of my father's foolish act, my\nfamily... Because of that foolish man!{0c:fe}",
+   "status": "done",
+   "tl": "Yes, perhaps they did fear the duke's eyes... // That does not matter to me. I bear them no grudge. In any case, with nowhere to go, we were passed from relative to relative. There was no place for us anywhere. // Because of my father's foolish act, my family... Because of that foolish man!"
   },
   {
    "id": "RES#312:96be",
@@ -794,8 +828,9 @@
    "jp": "{0c:5118}{1c:1a}{0b:08}{e080} シャルン {e081}{0b:09}\nでも、あなたの父さんは\n大勢の人を助けたんでしょ?{1a}すごく勇気のある人だと思う。\nそんなに父さんを\n悪く言うべきじゃ・・・{0c:290309fe}",
    "read": "{0c:5118}{1c:1a}{0b:08}【 シャルン 】{0b:09}\nでも、あなたの父さんは\n大勢の人を助けたんでしょ?{1a}すごく勇気のある人だと思う。\nそんなに父さんを\n悪く言うべきじゃ・・・{0c:290309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5118}{1c:1a}{0b:08}【 Scharn 】{0b:09}\nBut your father saved lots of people,\nright?{1a}I think he was really brave! You shouldn't\ntalk so badly about your father...{0c:290309fe}",
+   "status": "done",
+   "tl": "But your father saved lots of people, right? // I think he was really brave! You shouldn't talk so badly about your father..."
   },
   {
    "id": "RES#312:9733",
@@ -805,8 +840,9 @@
    "jp": "{1c:14}{0b:08}{e080} レイア {e081}{0b:09}\n他人からすれば美談かもしれん。\nだが、私の{e0a1}{e0a2}にしてみれば\n笑えない冗談にすぎない。{1a}それに、私の{e0a1}も小さいとはいえ、\n何十人もの使用人や従者がいる。\nそして彼等にも{e0a1}{e0a2}がいる。{1a}父の思慮に欠けた行動のために、\n{e0a1}臣達やその{e0a1}{e0a2}までもが\n{e09e}頭に迷うこととなった。{1a}気{e0ba}く美しかった{e0a7}も、\n物乞いのような生活が続き、\n心を{e0bd}んで今では見る影もない・・・{0c:4c0809fe}",
    "read": "{1c:14}{0b:08}【 レイア 】{0b:09}\n他人からすれば美談かもしれん。\nだが、私の家族にしてみれば\n笑えない冗談にすぎない。{1a}それに、私の家も小さいとはいえ、\n何十人もの使用人や従者がいる。\nそして彼等にも家族がいる。{1a}父の思慮に欠けた行動のために、\n家臣達やその家族までもが\n路頭に迷うこととなった。{1a}気高く美しかった母も、\n物乞いのような生活が続き、\n心を病んで今では見る影もない・・・{0c:4c0809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\nTo others it may be a fine tale. But to\nmy family, it is a joke no one can laugh\nat.{1a}Besides, small though my house may be,\nit has dozens of servants and retainers.\nAnd they have families as well.{1a}Because of my father's thoughtless\nact, even the retainers and their families\nwere turned out on the road.{1a}My mother, once so noble and beautiful,\nlived like a beggar for so long that her\nmind sickened, and now she is a shadow\nof what she was...{0c:4c0809fe}",
+   "status": "done",
+   "tl": "To others it may be a fine tale. But to my family, it is a joke no one can laugh at. // Besides, small though my house may be, it has dozens of servants and retainers. And they have families as well. // Because of my father's thoughtless act, even the retainers and their families were turned out on the road. // My mother, once so noble and beautiful, lived like a beggar for so long that her mind sickened, and now she is a shadow of what she was..."
   },
   {
    "id": "RES#312:9830",
@@ -828,8 +864,9 @@
    "jp": "{1c:14}{0b:08}{e080} レイア {e081}{0b:09}\n{e0bf}{e0c0}の生活をしたくても、\nどの{e0c1}地も私達を拒み続ける。{1a}ここで見つけた{e0c2}{e0c3}を\n{e0a7}のもとに送っても、\n{e08e}爵の手の者に全て{e0c5}{e0c6}される。{1a}私の{e0a1}{e0a2}と{e0a1}臣達を救うには、\n不老不死の{e0c8}{e0c3}\n『アザレの{e0b0}』を見つけ、{1a}王{e0c9}{e0ca}でただ1人\nデューラー{e08e}以上の権力をもつ\nアスロイト{e0c9}王に直接\n認めてもらうしかなかった・・・{0c:4c0809fe}",
    "read": "{1c:14}{0b:08}【 レイア 】{0b:09}\n普通の生活をしたくても、\nどの土地も私達を拒み続ける。{1a}ここで見つけた財宝を\n母のもとに送っても、\n公爵の手の者に全て没収される。{1a}私の家族と家臣達を救うには、\n不老不死の秘宝\n『アザレの石』を見つけ、{1a}王国内でただ1人\nデューラー公以上の権力をもつ\nアスロイト国王に直接\n認めてもらうしかなかった・・・{0c:4c0809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\nWe wish only to live ordinary lives, yet\nevery land goes on rejecting us.{1a}Even when I send my mother treasure\nfound here, the duke's men confiscate it\nall.{1a}To save my family and retainers, I had no\nchoice but to find the treasure of\neternal life, the 'Azare Stone',{1a}and win direct recognition from the King\nof Asroit, the one man in the kingdom\nwith more power than Duke Durer...{0c:4c0809fe}",
+   "status": "done",
+   "tl": "We wish only to live ordinary lives, yet every land goes on rejecting us. // Even when I send my mother treasure found here, the duke's men confiscate it all. // To save my family and retainers, I had no choice but to find the treasure of eternal life, the 'Azare Stone', // and win direct recognition from the King of Asroit, the one man in the kingdom with more power than Duke Durer..."
   },
   {
    "id": "RES#312:9940",
@@ -839,8 +876,9 @@
    "jp": "{1c:1a}{0b:08}{e080} シャルン {e081}{0b:09}\nそうだったの・・・{0c:290309fe}",
    "read": "{1c:1a}{0b:08}【 シャルン 】{0b:09}\nそうだったの・・・{0c:290309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}{0b:08}【 Scharn 】{0b:09}\nSo that's what happened...{0c:290309fe}",
+   "status": "done",
+   "tl": "So that's what happened..."
   },
   {
    "id": "RES#312:9963",
@@ -850,8 +888,9 @@
    "jp": "{1c:14}{0b:08}{e080} レイア {e081}{0b:09}\nこの町に来るための\n手{e0cd}1つ手に入れるだけで\n2{e085}も必要とした。{1a}その2{e085}は屈辱の{e0cf}続だった。\nそれでも耐えてこられたのは\n{e0a7}と弟と{e0a1}臣達を救うという\n希望があったからだ・・・{1a}だが・・・{1a}だが、肝心の王{e0a1}も王{e0c9}も\nもう存{e0d3}しない・・・{0c:4c0809fe}",
    "read": "{1c:14}{0b:08}【 レイア 】{0b:09}\nこの町に来るための\n手形1つ手に入れるだけで\n2年も必要とした。{1a}その2年は屈辱の連続だった。\nそれでも耐えてこられたのは\n母と弟と家臣達を救うという\n希望があったからだ・・・{1a}だが・・・{1a}だが、肝心の王家も王国も\nもう存在しない・・・{0c:4c0809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\nIt took me two years just to obtain a\nsingle pass to enter this town.{1a}Those two years were one humiliation\nafter another. I endured them because I\nhad the hope of saving my mother, my\nbrother and my retainers...{1a}But...{1a}But the royal house and the kingdom I\nwas counting on no longer exist...{0c:4c0809fe}",
+   "status": "done",
+   "tl": "It took me two years just to obtain a single pass to enter this town. // Those two years were one humiliation after another. I endured them because I had the hope of saving my mother, my brother and my retainers... // But... // But the royal house and the kingdom I was counting on no longer exist..."
   },
   {
    "id": "RES#312:9a17",
@@ -884,8 +923,9 @@
    "jp": "{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\n私のやってきたことは\n無駄だったのか!?{1a}私はなんのために・・・{0c:4c0809fe}",
    "read": "{1c:10}{0b:08}【 レイア 】{0b:09}\n私のやってきたことは\n無駄だったのか!?{1a}私はなんのために・・・{0c:4c0809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Leia 】{0b:09}\nWas everything I have done for nothing!?{1a}What have I been doing all this for...{0c:4c0809fe}",
+   "status": "done",
+   "tl": "Was everything I have done for nothing!? // What have I been doing all this for..."
   },
   {
    "id": "RES#312:9a7e",
@@ -895,8 +935,9 @@
    "jp": "{1c:1a}{0b:08}{e080} シャルン {e081}{0b:09}\nレイア・・・{0c:fe}",
    "read": "{1c:1a}{0b:08}【 シャルン 】{0b:09}\nレイア・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}{0b:08}【 Scharn 】{0b:09}\nLeia...{0c:fe}",
+   "status": "done",
+   "tl": "Leia..."
   },
   {
    "id": "RES#312:9a9a",
@@ -928,8 +969,9 @@
    "jp": "{1c:1a}{0b:08}{e080} シャルン {e081}{0b:09}\nレイア・・・{0c:290309fe}",
    "read": "{1c:1a}{0b:08}【 シャルン 】{0b:09}\nレイア・・・{0c:290309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}{0b:08}【 Scharn 】{0b:09}\nLeia...{0c:290309fe}",
+   "status": "done",
+   "tl": "Leia..."
   },
   {
    "id": "RES#312:9b33",
@@ -939,8 +981,9 @@
    "jp": "{1c:11}{0b:08}{e080} レイア {e081}{0b:09}\n待っててくれたのか・・・{0c:4c0809fe}",
    "read": "{1c:11}{0b:08}【 レイア 】{0b:09}\n待っててくれたのか・・・{0c:4c0809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Leia 】{0b:09}\nYou waited for me...{0c:4c0809fe}",
+   "status": "done",
+   "tl": "You waited for me..."
   },
   {
    "id": "RES#312:9b59",
@@ -950,8 +993,9 @@
    "jp": "{1c:1a}{0b:08}{e080} シャルン {e081}{0b:09}\nレイア・・・{1a}何て言ったらいいか\nわかんないけど・・・{0c:fe}",
    "read": "{1c:1a}{0b:08}【 シャルン 】{0b:09}\nレイア・・・{1a}何て言ったらいいか\nわかんないけど・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}{0b:08}【 Scharn 】{0b:09}\nLeia...{1a}I don't know what to say, but...{0c:fe}",
+   "status": "done",
+   "tl": "Leia... // I don't know what to say, but..."
   },
   {
    "id": "RES#312:9b8d",
@@ -972,8 +1016,9 @@
    "jp": "{1c:14}{0b:08}{e080} レイア {e081}{0b:09}\nいや・・・{0c:4c0809fe}",
    "read": "{1c:14}{0b:08}【 レイア 】{0b:09}\nいや・・・{0c:4c0809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\nNo...{0c:4c0809fe}",
+   "status": "done",
+   "tl": "No..."
   },
   {
    "id": "RES#312:9bb6",
@@ -983,8 +1028,9 @@
    "jp": "{1c:1a}{0b:08}{e080} シャルン {e081}{0b:09}\nレイア・・・{0c:fe}",
    "read": "{1c:1a}{0b:08}【 シャルン 】{0b:09}\nレイア・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}{0b:08}【 Scharn 】{0b:09}\nLeia...{0c:fe}",
+   "status": "done",
+   "tl": "Leia..."
   },
   {
    "id": "RES#312:9bd2",
@@ -1005,8 +1051,9 @@
    "jp": "{1c:13}{0b:08}{e080} レイア {e081}{0b:09}\n恥ずかしい所を\n見せてしまったな・・・{1a}だが確かに\n少し楽になったかもしれない・・・{1a}{0c:5130}不思{e0d4}だな。仲間というのも・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 レイア 】{0b:09}\n恥ずかしい所を\n見せてしまったな・・・{1a}だが確かに\n少し楽になったかもしれない・・・{1a}{0c:5130}不思議だな。仲間というのも・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Leia 】{0b:09}\nYou have seen me at my most shameful...{1a}But it is true. Perhaps I do feel\nsomewhat lighter...{1a}{0c:5130}How strange it is, having comrades...{0c:fe}",
+   "status": "done",
+   "tl": "You have seen me at my most shameful... // But it is true. Perhaps I do feel somewhat lighter... // [1]How strange it is, having comrades..."
   },
   {
    "id": "RES#312:9c3d",
@@ -1038,8 +1085,9 @@
    "jp": "{1c:13}{0b:08}{e080} レイア {e081}{0b:09}\nそうだな・・・{1a}どうせする事もない。\n一緒に行かせてもらう・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 レイア 】{0b:09}\nそうだな・・・{1a}どうせする事もない。\n一緒に行かせてもらう・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Leia 】{0b:09}\nYes...{1a}I have nothing else to do in any case. Let\nme go with you...{0c:fe}",
+   "status": "done",
+   "tl": "Yes... // I have nothing else to do in any case. Let me go with you..."
   },
   {
    "id": "RES#312:9c85",
@@ -1118,8 +1166,9 @@
    "jp": "{1c:10}何のつもりだ!?{0c:51ffffffff54151e}",
    "read": "{1c:10}何のつもりだ!?{0c:51ffffffff54151e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}What do you think you are doing!?{0c:51ffffffff54151e}",
+   "status": "done",
+   "tl": "What do you think you are doing!?"
   },
   {
    "id": "RES#312:9e78",
@@ -1129,8 +1178,9 @@
    "jp": "{1c:10}何のつもりだと訊いている!",
    "read": "{1c:10}何のつもりだと訊いている!",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I asked what you think you are doing!",
+   "status": "done",
+   "tl": "I asked what you think you are doing!"
   },
   {
    "id": "RES#312:9e8b",
@@ -1140,8 +1190,9 @@
    "jp": "{1c:10}容赦はしない!{0c:1501}",
    "read": "{1c:10}容赦はしない!{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I will show no mercy!{0c:1501}",
+   "status": "done",
+   "tl": "I will show no mercy!"
   },
   {
    "id": "RES#312:9e9c",
@@ -1162,8 +1213,9 @@
    "jp": "{1c:10}何のつもりだ!!{0c:51ffffffff54151e}",
    "read": "{1c:10}何のつもりだ!!{0c:51ffffffff54151e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}What do you think you are doing!!{0c:51ffffffff54151e}",
+   "status": "done",
+   "tl": "What do you think you are doing!!"
   },
   {
    "id": "RES#312:9ec6",
@@ -1185,8 +1237,9 @@
    "jp": "{1c:10}たとえお前でも容赦はしない!{0c:1501}",
    "read": "{1c:10}たとえお前でも容赦はしない!{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Even you will get no mercy from me!{0c:1501}",
+   "status": "done",
+   "tl": "Even you will get no mercy from me!"
   },
   {
    "id": "RES#312:9ee8",
@@ -1207,8 +1260,9 @@
    "jp": "{1c:10}お前如きに倒されはしない!{0c:1501}",
    "read": "{1c:10}お前如きに倒されはしない!{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I will not fall to the likes of you!{0c:1501}",
+   "status": "done",
+   "tl": "I will not fall to the likes of you!"
   },
   {
    "id": "RES#312:9f13",
@@ -1229,8 +1283,9 @@
    "jp": "{1c:10}続けるがいい。\n目的を遂げるのに必要なのは\nこの{e0de}だけ。他に何も要らない。{0c:153b0700}",
    "read": "{1c:10}続けるがいい。\n目的を遂げるのに必要なのは\nこの剣だけ。他に何も要らない。{0c:153b0700}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Go on, then. To reach my goal I need only\nthis sword. I require nothing else.{0c:153b0700}",
+   "status": "done",
+   "tl": "Go on, then. To reach my goal I need only this sword. I require nothing else."
   },
   {
    "id": "RES#312:9f5e",
@@ -1240,8 +1295,9 @@
    "jp": "{0c:5104}{1c:10}もう終いか?{0c:15}",
    "read": "{0c:5104}{1c:10}もう終いか?{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5104}{1c:10}Is that all?{0c:15}",
+   "status": "done",
+   "tl": "Is that all?"
   },
   {
    "id": "RES#312:9f70",
@@ -1251,8 +1307,9 @@
    "jp": "{0c:5104}{1c:10}お前の相手などするつもりはない。",
    "read": "{0c:5104}{1c:10}お前の相手などするつもりはない。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5104}{1c:10}I have no intention of dealing with you.",
+   "status": "done",
+   "tl": "I have no intention of dealing with you."
   },
   {
    "id": "RES#312:9f8a",
@@ -1262,8 +1319,9 @@
    "jp": "{1c:10}好きにするがいい。{0c:153b0700}",
    "read": "{1c:10}好きにするがいい。{0c:153b0700}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Do as you please.{0c:153b0700}",
+   "status": "done",
+   "tl": "Do as you please."
   },
   {
    "id": "RES#312:9f9d",
@@ -1273,8 +1331,9 @@
    "jp": "{1c:10}もう気がすんだのか?",
    "read": "{1c:10}もう気がすんだのか?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Are you satisfied now?",
+   "status": "done",
+   "tl": "Are you satisfied now?"
   },
   {
    "id": "RES#312:9fac",
@@ -1284,8 +1343,9 @@
    "jp": "{1c:10}好きにするがいい。\n目的を遂げるのに必要なのは\nこの{e0de}だけ。他に何も要らない。{0c:153b0800}",
    "read": "{1c:10}好きにするがいい。\n目的を遂げるのに必要なのは\nこの剣だけ。他に何も要らない。{0c:153b0800}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Do as you please. To reach my goal I\nneed only this sword. I require nothing\nelse.{0c:153b0800}",
+   "status": "done",
+   "tl": "Do as you please. To reach my goal I need only this sword. I require nothing else."
   },
   {
    "id": "RES#312:9fe6",
@@ -1295,8 +1355,9 @@
    "jp": "{1c:10}好きにするがいい。",
    "read": "{1c:10}好きにするがいい。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Do as you please.",
+   "status": "done",
+   "tl": "Do as you please."
   },
   {
    "id": "RES#312:9ff3",
@@ -1306,8 +1367,9 @@
    "jp": "{1c:10}何がしたいのだ・・・?",
    "read": "{1c:10}何がしたいのだ・・・?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}What is it you want...?",
+   "status": "done",
+   "tl": "What is it you want...?"
   },
   {
    "id": "RES#312:a003",
@@ -1317,8 +1379,9 @@
    "jp": "{1c:10}好きにするがいい。\n目的を遂げるのに必要なのは\nこの{e0de}だけ。他に何も要らない。{0c:153b0800}",
    "read": "{1c:10}好きにするがいい。\n目的を遂げるのに必要なのは\nこの剣だけ。他に何も要らない。{0c:153b0800}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Do as you please. To reach my goal I\nneed only this sword. I require nothing\nelse.{0c:153b0800}",
+   "status": "done",
+   "tl": "Do as you please. To reach my goal I need only this sword. I require nothing else."
   },
   {
    "id": "RES#312:a03d",
@@ -1328,8 +1391,9 @@
    "jp": "{1c:10}好きにするがいい・・・",
    "read": "{1c:10}好きにするがいい・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Do as you please...",
+   "status": "done",
+   "tl": "Do as you please..."
   },
   {
    "id": "RES#312:a04c",
@@ -1339,8 +1403,9 @@
    "jp": "{1c:10}私にはお前が何をしたいのか\n解らない・・・",
    "read": "{1c:10}私にはお前が何をしたいのか\n解らない・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I do not understand what it is you want...",
+   "status": "done",
+   "tl": "I do not understand what it is you want..."
   },
   {
    "id": "RES#312:a068",
@@ -1350,8 +1415,9 @@
    "jp": "{1c:10}くっ・・・この程度の傷など・・・",
    "read": "{1c:10}くっ・・・この程度の傷など・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Ngh... A wound like this is nothing...",
+   "status": "done",
+   "tl": "Ngh... A wound like this is nothing..."
   },
   {
    "id": "RES#312:a07e",
@@ -1361,8 +1427,9 @@
    "jp": "{1c:10}心配するな・・・ \n裏切られるのはもう慣れた・・・",
    "read": "{1c:10}心配するな・・・ \n裏切られるのはもう慣れた・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Do not worry... I am used to betrayal by\nnow...",
+   "status": "done",
+   "tl": "Do not worry... I am used to betrayal by now..."
   },
   {
    "id": "RES#312:a09f",
@@ -1383,8 +1450,9 @@
    "jp": "お前が何をしようと私には関係ない。",
    "read": "お前が何をしようと私には関係ない。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "What you do is no concern of mine.",
+   "status": "done",
+   "tl": "What you do is no concern of mine."
   },
   {
    "id": "RES#312:a0ba",
@@ -1405,8 +1473,9 @@
    "jp": "好きにするがいい・・・{1a}だが、考えもなしに行動することが\nどんなに危険なことか、{1a}そして、どんなに{e0df}{e0e0}を\n不幸にするか・・・\nお前も知っておくべきだ。{0c:15}",
    "read": "好きにするがいい・・・{1a}だが、考えもなしに行動することが\nどんなに危険なことか、{1a}そして、どんなに周囲を\n不幸にするか・・・\nお前も知っておくべきだ。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Do as you please...{1a}But how dangerous it is to act without\nthought,{1a}and how much misery it brings on those\naround you... You should know that as\nwell.{0c:15}",
+   "status": "done",
+   "tl": "Do as you please... // But how dangerous it is to act without thought, // and how much misery it brings on those around you... You should know that as well."
   },
   {
    "id": "RES#312:a119",
@@ -1439,8 +1508,9 @@
    "jp": "やるなら他の場所でやれ。",
    "read": "やるなら他の場所でやれ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "If you mean to do this, do it elsewhere.",
+   "status": "done",
+   "tl": "If you mean to do this, do it elsewhere."
   },
   {
    "id": "RES#312:a134",
@@ -1462,8 +1532,9 @@
    "jp": "お前が何をしようと私には関係ない。",
    "read": "お前が何をしようと私には関係ない。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "What you do is no concern of mine.",
+   "status": "done",
+   "tl": "What you do is no concern of mine."
   },
   {
    "id": "RES#312:a155",
@@ -1485,8 +1556,9 @@
    "jp": "{10}・・・\nお前は何をそんなに焦っている?{0c:15}",
    "read": "{10}・・・\nお前は何をそんなに焦っている?{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{10}... What are you so desperate\nabout?{0c:15}",
+   "status": "done",
+   "tl": "[HERO]... What are you so desperate about?"
   },
   {
    "id": "RES#312:a17b",
@@ -1520,8 +1592,9 @@
    "jp": "その場の衝動のみで\n行動する人間・・・\n見ていて反吐が出る。",
    "read": "その場の衝動のみで\n行動する人間・・・\n見ていて反吐が出る。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "People who act on nothing but the\nimpulse of the moment... It sickens me to\nwatch them.",
+   "status": "done",
+   "tl": "People who act on nothing but the impulse of the moment... It sickens me to watch them."
   }
  ],
  "entry": 312

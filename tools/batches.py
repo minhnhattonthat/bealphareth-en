@@ -641,7 +641,7 @@ def read_out(name):
 
 
 HONORIFIC = re.compile(r"([ァ-ヺー]|\[HERO\])(さん|ちゃん|くん|君|さま|様|殿)")
-NOT_HONORIFIC = re.compile(r"オレ様|カドモン様|オジさん|オバさん|オヤジさん|オニイさん|オネエさん|ニイちゃん|ネエちゃん|バアさん|ジイさん")  # words, not names
+NOT_HONORIFIC = re.compile(r"オレ様|カドモン様|アネさん|アニさん|オジさん|オバさん|オヤジさん|オニイさん|オネエさん|ニイちゃん|ネエちゃん|バアさん|ジイさん")  # words, not names
 HON_EN = {"さん": "-san", "ちゃん": "-chan", "くん": "-kun", "君": "-kun", "さま": "-sama", "様": "-sama", "殿": "-dono"}
 ORDINAL = re.compile(r"\[[^\]]*\](st|nd|rd|th)\b")
 

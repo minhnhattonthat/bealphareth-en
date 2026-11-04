@@ -41,8 +41,9 @@
    "jp": "{1c:10}{0b:08}{e080} エレアノール {e081}{0b:09}\n今から行くのですか?{0c:fe}",
    "read": "{1c:10}{0b:08}【 エレアノール 】{0b:09}\n今から行くのですか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Eleanor 】{0b:09}\nAre you leaving now?{0c:fe}",
+   "status": "done",
+   "tl": "Are you leaving now?"
   },
   {
    "id": "RES#315:8222",
@@ -63,8 +64,9 @@
    "jp": "{1c:15}『{e082}の{e083}{e084}』ですね。\n分かりました、御一緒しましょう。",
    "read": "{1c:15}『西の斎殿』ですね。\n分かりました、御一緒しましょう。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}The 'West Sanctum', is it? I understand. I\nwill accompany you.",
+   "status": "done",
+   "tl": "The 'West Sanctum', is it? I understand. I will accompany you."
   },
   {
    "id": "RES#315:824d",
@@ -74,8 +76,9 @@
    "jp": "{1c:12}行かないのですか・・・?{0c:15}",
    "read": "{1c:12}行かないのですか・・・?{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}You are not going...?{0c:15}",
+   "status": "done",
+   "tl": "You are not going...?"
   },
   {
    "id": "RES#315:8261",
@@ -85,8 +88,9 @@
    "jp": "{1c:15}あなたの良心を信じます。",
    "read": "{1c:15}あなたの良心を信じます。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}I put my trust in your conscience.",
+   "status": "done",
+   "tl": "I put my trust in your conscience."
   },
   {
    "id": "RES#315:8273",
@@ -107,8 +111,9 @@
    "jp": "{1c:15}{0b:08}{e080} エレアノール {e081}{0b:09}\nお気を付けて・・・\n私もすぐ向かいます。{0c:15}",
    "read": "{1c:15}{0b:08}【 エレアノール 】{0b:09}\nお気を付けて・・・\n私もすぐ向かいます。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Eleanor 】{0b:09}\nPlease take care... I will head there soon\nas well.{0c:15}",
+   "status": "done",
+   "tl": "Please take care... I will head there soon as well."
   },
   {
    "id": "RES#315:82af",
@@ -118,8 +123,9 @@
    "jp": "{1c:15}お気を付けて・・・",
    "read": "{1c:15}お気を付けて・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Please take care...",
+   "status": "done",
+   "tl": "Please take care..."
   },
   {
    "id": "RES#315:82bd",
@@ -140,8 +146,9 @@
    "jp": "{1c:15}{0b:08}{e080} エレアノール {e081}{0b:09}\n意識が戻って本当によかった・・・{1a}皆、あなたの事を\n心配していましたよ。{0c:fe}",
    "read": "{1c:15}{0b:08}【 エレアノール 】{0b:09}\n意識が戻って本当によかった・・・{1a}皆、あなたの事を\n心配していましたよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Eleanor 】{0b:09}\nI am so glad you regained consciousness...{1a}Everyone was worried about you.{0c:fe}",
+   "status": "done",
+   "tl": "I am so glad you regained consciousness... // Everyone was worried about you."
   },
   {
    "id": "RES#315:831a",
@@ -162,8 +169,9 @@
    "jp": "{1c:15}分かりました。行きましょう。",
    "read": "{1c:15}分かりました。行きましょう。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}I understand. Let us go.",
+   "status": "done",
+   "tl": "I understand. Let us go."
   },
   {
    "id": "RES#315:8331",
@@ -173,8 +181,9 @@
    "jp": "{1c:14}申し訳ありませんが、\nあなたと御一緒は出来ません。{0c:3aff16}",
    "read": "{1c:14}申し訳ありませんが、\nあなたと御一緒は出来ません。{0c:3aff16}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}I am terribly sorry, but I cannot\naccompany you.{0c:3aff16}",
+   "status": "done",
+   "tl": "I am terribly sorry, but I cannot accompany you."
   },
   {
    "id": "RES#315:8359",
@@ -184,8 +193,9 @@
    "jp": "{1c:13}気をつけて・・・{0c:3aff15}",
    "read": "{1c:13}気をつけて・・・{0c:3aff15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}Please be careful...{0c:3aff15}",
+   "status": "done",
+   "tl": "Please be careful..."
   },
   {
    "id": "RES#315:836a",
@@ -206,8 +216,9 @@
    "jp": "{1c:13}気をつけて・・・{0c:02ff}",
    "read": "{1c:13}気をつけて・・・{0c:02ff}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}Please be careful...{0c:02ff}",
+   "status": "done",
+   "tl": "Please be careful..."
   },
   {
    "id": "RES#315:8386",
@@ -228,8 +239,9 @@
    "jp": "{1c:15}{0b:08}{e080} エレアノール {e081}{0b:09}\n意識が戻って本当によかった・・・{1a}皆、あなたの事を\n心配していましたよ。{0c:15}",
    "read": "{1c:15}{0b:08}【 エレアノール 】{0b:09}\n意識が戻って本当によかった・・・{1a}皆、あなたの事を\n心配していましたよ。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Eleanor 】{0b:09}\nI am so glad you regained consciousness...{1a}Everyone was worried about you.{0c:15}",
+   "status": "done",
+   "tl": "I am so glad you regained consciousness... // Everyone was worried about you."
   },
   {
    "id": "RES#315:83d9",
@@ -250,8 +262,9 @@
    "jp": "{1c:13}気をつけて・・・{0c:02ff}",
    "read": "{1c:13}気をつけて・・・{0c:02ff}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}Please be careful...{0c:02ff}",
+   "status": "done",
+   "tl": "Please be careful..."
   },
   {
    "id": "RES#315:83f5",
@@ -261,8 +274,9 @@
    "jp": "{0c:31501751ffdb6000e00088}{1c:14}{0b:08}{e080} エレアノール {e081}{0b:09}\n{e085}肉な運命ですね・・・{1a}自分の意志ではないとはいえ、\nまたこの手を朱に{e088}めて\nしまうなんて・・・{0c:fe}",
    "read": "{0c:31501751ffdb6000e00088}{1c:14}{0b:08}【 エレアノール 】{0b:09}\n皮肉な運命ですね・・・{1a}自分の意志ではないとはいえ、\nまたこの手を朱に染めて\nしまうなんて・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:31501751ffdb6000e00088}{1c:14}{0b:08}【 Eleanor 】{0b:09}\nA cruel irony of fate, is it not...{1a}Though it was not by my own will, to\nhave stained these hands crimson once\nmore...{0c:fe}",
+   "status": "done",
+   "tl": "A cruel irony of fate, is it not... // Though it was not by my own will, to have stained these hands crimson once more..."
   },
   {
    "id": "RES#315:8456",
@@ -283,8 +297,9 @@
    "jp": "{1c:14}ええ・・・分かっています。\n後悔する前にすべき事があると・・・{0c:fe}",
    "read": "{1c:14}ええ・・・分かっています。\n後悔する前にすべき事があると・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}Yes... I know. There are things one must\ndo before one comes to regret...{0c:fe}",
+   "status": "done",
+   "tl": "Yes... I know. There are things one must do before one comes to regret..."
   },
   {
    "id": "RES#315:848d",
@@ -305,8 +320,9 @@
    "jp": "{1c:14}分かりました。行きましょう。",
    "read": "{1c:14}分かりました。行きましょう。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}I understand. Let us go.",
+   "status": "done",
+   "tl": "I understand. Let us go."
   },
   {
    "id": "RES#315:84a7",
@@ -316,8 +332,9 @@
    "jp": "{1c:14}申し訳ありませんが、\nあなたと御一緒は出来ません。{0c:fe}",
    "read": "{1c:14}申し訳ありませんが、\nあなたと御一緒は出来ません。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}I am terribly sorry, but I cannot\naccompany you.{0c:fe}",
+   "status": "done",
+   "tl": "I am terribly sorry, but I cannot accompany you."
   },
   {
    "id": "RES#315:84cd",
@@ -338,8 +355,9 @@
    "jp": "{1c:14}気をつけて・・・{0c:fe}",
    "read": "{1c:14}気をつけて・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}Please be careful...{0c:fe}",
+   "status": "done",
+   "tl": "Please be careful..."
   },
   {
    "id": "RES#315:84e5",
@@ -371,8 +389,9 @@
    "jp": "{1c:14}気をつけて・・・{0c:fe}",
    "read": "{1c:14}気をつけて・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}Please be careful...{0c:fe}",
+   "status": "done",
+   "tl": "Please be careful..."
   },
   {
    "id": "RES#315:850a",
@@ -393,8 +412,9 @@
    "jp": "{1c:14}{0b:08}{e080} エレアノール {e081}{0b:09}\n{e085}肉な運命ですね・・・{1a}自分の意志ではないとはいえ、\nまたこの手を朱に{e088}めて\nしまうなんて・・・{0c:fe}",
    "read": "{1c:14}{0b:08}【 エレアノール 】{0b:09}\n皮肉な運命ですね・・・{1a}自分の意志ではないとはいえ、\nまたこの手を朱に染めて\nしまうなんて・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Eleanor 】{0b:09}\nA cruel irony of fate, is it not...{1a}Though it was not by my own will, to\nhave stained these hands crimson once\nmore...{0c:fe}",
+   "status": "done",
+   "tl": "A cruel irony of fate, is it not... // Though it was not by my own will, to have stained these hands crimson once more..."
   },
   {
    "id": "RES#315:8568",
@@ -415,8 +435,9 @@
    "jp": "{1c:14}ええ・・・分かっています。\n後悔する前にすべき事があると・・・{0c:fe}",
    "read": "{1c:14}ええ・・・分かっています。\n後悔する前にすべき事があると・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}Yes... I know. There are things one must\ndo before one comes to regret...{0c:fe}",
+   "status": "done",
+   "tl": "Yes... I know. There are things one must do before one comes to regret..."
   },
   {
    "id": "RES#315:859f",
@@ -448,8 +469,9 @@
    "jp": "{1c:14}気をつけて・・・{0c:fe}",
    "read": "{1c:14}気をつけて・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}Please be careful...{0c:fe}",
+   "status": "done",
+   "tl": "Please be careful..."
   },
   {
    "id": "RES#315:85c4",
@@ -481,8 +503,9 @@
    "jp": "{1c:14}{0b:08}{e080} エレアノール {e081}{0b:09}\nつらいニュースですね・・・{1a}{e089}を捨てた私でさえ、\n故{e08a}のことが気になります・・・{0c:fe}",
    "read": "{1c:14}{0b:08}【 エレアノール 】{0b:09}\nつらいニュースですね・・・{1a}国を捨てた私でさえ、\n故郷のことが気になります・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Eleanor 】{0b:09}\nIt is painful news...{1a}Even I, who abandoned my country, worry\nfor my homeland...{0c:fe}",
+   "status": "done",
+   "tl": "It is painful news... // Even I, who abandoned my country, worry for my homeland..."
   },
   {
    "id": "RES#315:8631",
@@ -514,8 +537,9 @@
    "jp": "{1c:11}分かりました・・・\nお付き合いします。",
    "read": "{1c:11}分かりました・・・\nお付き合いします。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}I understand... I will accompany you.",
+   "status": "done",
+   "tl": "I understand... I will accompany you."
   },
   {
    "id": "RES#315:8656",
@@ -525,8 +549,9 @@
    "jp": "{1c:11}ええ・・・{07:14}\nいまは{0b:05}{14}を助ける事のみを\n考えましょう・・・{07:05}",
    "read": "{1c:11}ええ・・・{07:14}\nいまは{0b:05}{14}を助ける事のみを\n考えましょう・・・{07:05}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Yes...{07:14} For now, let us think only of saving\n{0b:05}{14}...{07:05}",
+   "status": "done",
+   "tl": "Yes...[1] For now, let us think only of saving [2][VAR14]..."
   },
   {
    "id": "RES#315:867e",
@@ -536,8 +561,9 @@
    "jp": "{1c:14}御免なさい・・・\nあなたとは行けません。{0c:fe}",
    "read": "{1c:14}御免なさい・・・\nあなたとは行けません。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}Forgive me... I cannot go with you.{0c:fe}",
+   "status": "done",
+   "tl": "Forgive me... I cannot go with you."
   },
   {
    "id": "RES#315:869b",
@@ -604,8 +630,9 @@
    "jp": "{1c:14}{0b:08}{e080} エレアノール {e081}{0b:09}\nつらいニュースですね・・・{1a}{e089}を捨てた私でさえ、\n故{e08a}のことが気になります・・・{0c:fe}",
    "read": "{1c:14}{0b:08}【 エレアノール 】{0b:09}\nつらいニュースですね・・・{1a}国を捨てた私でさえ、\n故郷のことが気になります・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Eleanor 】{0b:09}\nIt is painful news...{1a}Even I, who abandoned my country, worry\nfor my homeland...{0c:fe}",
+   "status": "done",
+   "tl": "It is painful news... // Even I, who abandoned my country, worry for my homeland..."
   },
   {
    "id": "RES#315:8716",
@@ -649,8 +676,9 @@
    "jp": "{1c:14}{0b:08}{e080} エレアノール {e081}{0b:09}\n{10}・・・あなたは確か\n{14}の出身と\nおっしゃっていましたね。{1a}あなたのお{e089}は大丈夫でしたか?{0c:fe}",
    "read": "{1c:14}{0b:08}【 エレアノール 】{0b:09}\n{10}・・・あなたは確か\n{14}の出身と\nおっしゃっていましたね。{1a}あなたのお国は大丈夫でしたか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Eleanor 】{0b:09}\n{10}... I believe you said you were\nfrom {14}.{1a}Is your country all right?{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]... I believe you said you were from [VAR14]. // Is your country all right?"
   },
   {
    "id": "RES#315:87b9",
@@ -671,8 +699,9 @@
    "jp": "かなり危ないらしい|まだ分からない|なんとかなるさ",
    "read": "かなり危ないらしい|まだ分からない|なんとかなるさ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "It sounds bad|I don't know yet|It'll work out",
+   "status": "done",
+   "tl": "It sounds bad|I don't know yet|It'll work out"
   },
   {
    "id": "RES#315:87e2",
@@ -693,8 +722,9 @@
    "jp": "かなり危ないらしい|まだ分からない|なんとかなるよ",
    "read": "かなり危ないらしい|まだ分からない|なんとかなるよ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "It sounds bad|I don't know yet|It'll work out",
+   "status": "done",
+   "tl": "It sounds bad|I don't know yet|It'll work out"
   },
   {
    "id": "RES#315:8805",
@@ -726,8 +756,9 @@
    "jp": "{1c:14}そうですか・・・\nつらい話ですね。{1a}{0c:51ffdb}私も、{e089}を捨てたはずなのに、\n{e08b}に包まれる故{e08a}を想{e08e}するだけで\n胸が苦しくなります・・・{0c:020401}",
    "read": "{1c:14}そうですか・・・\nつらい話ですね。{1a}{0c:51ffdb}私も、国を捨てたはずなのに、\n炎に包まれる故郷を想像するだけで\n胸が苦しくなります・・・{0c:020401}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}I see... That is painful to hear.{1a}{0c:51ffdb}I abandoned my country, and yet merely\npicturing my homeland in flames makes\nmy chest ache...{0c:020401}",
+   "status": "done",
+   "tl": "I see... That is painful to hear. // [1]I abandoned my country, and yet merely picturing my homeland in flames makes my chest ache..."
   },
   {
    "id": "RES#315:8880",
@@ -748,8 +779,9 @@
    "jp": "{1c:14}そうですか・・・\n情報がないのもつらいですね。{1a}{0c:51ffdb}私も、{e089}を捨てたはずなのに、\n{e08b}に包まれる故{e08a}を想{e08e}するだけで\n胸が苦しくなります・・・{0c:020201}",
    "read": "{1c:14}そうですか・・・\n情報がないのもつらいですね。{1a}{0c:51ffdb}私も、国を捨てたはずなのに、\n炎に包まれる故郷を想像するだけで\n胸が苦しくなります・・・{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}I see... Having no news must be hard as\nwell.{1a}{0c:51ffdb}I abandoned my country, and yet merely\npicturing my homeland in flames makes\nmy chest ache...{0c:020201}",
+   "status": "done",
+   "tl": "I see... Having no news must be hard as well. // [1]I abandoned my country, and yet merely picturing my homeland in flames makes my chest ache..."
   },
   {
    "id": "RES#315:88f3",
@@ -759,8 +791,9 @@
    "jp": "{0c:0b04080d0101050d0102050d0103050d0105050d0108050d010a050d010b050d010c050d010e050d0111050d011205}{1c:15}{10}の笑顔は{e091}力的ですね。\n私はあなたのような\n強い人に憧れます。{0c:fe}",
    "read": "{0c:0b04080d0101050d0102050d0103050d0105050d0108050d010a050d010b050d010c050d010e050d0111050d011205}{1c:15}{10}の笑顔は魅力的ですね。\n私はあなたのような\n強い人に憧れます。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:0b04080d0101050d0102050d0103050d0105050d0108050d010a050d010b050d010c050d010e050d0111050d011205}{1c:15}Your smile is charming, {10}. I\nadmire strong people like you.{0c:fe}",
+   "status": "done",
+   "tl": "Your smile is charming, [HERO]. I admire strong people like you."
   },
   {
    "id": "RES#315:8953",
@@ -792,8 +825,9 @@
    "jp": "{1c:12}どうなさいましたか?{0c:fe}",
    "read": "{1c:12}どうなさいましたか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}What is the matter?{0c:fe}",
+   "status": "done",
+   "tl": "What is the matter?"
   },
   {
    "id": "RES#315:8985",
@@ -825,8 +859,9 @@
    "jp": "{1c:15}ええ、お付き合いします。",
    "read": "{1c:15}ええ、お付き合いします。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Yes, I will accompany you.",
+   "status": "done",
+   "tl": "Yes, I will accompany you."
   },
   {
    "id": "RES#315:89a1",
@@ -836,8 +871,9 @@
    "jp": "{1c:15}ええ・・・{07:14}\n今は{0b:05}{14}を助ける事のみを\n考えましょう・・・{07:05}",
    "read": "{1c:15}ええ・・・{07:14}\n今は{0b:05}{14}を助ける事のみを\n考えましょう・・・{07:05}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Yes...{07:14} For now, let us think only of saving\n{0b:05}{14}...{07:05}",
+   "status": "done",
+   "tl": "Yes...[1] For now, let us think only of saving [2][VAR14]..."
   },
   {
    "id": "RES#315:89c9",
@@ -847,8 +883,9 @@
    "jp": "{1c:15}気をつけて、{10}・・・{0c:fe}",
    "read": "{1c:15}気をつけて、{10}・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Take care, {10}...{0c:fe}",
+   "status": "done",
+   "tl": "Take care, [HERO]..."
   },
   {
    "id": "RES#315:89da",
@@ -880,8 +917,9 @@
    "jp": "{1c:15}気をつけて、{10}・・・{0c:fe}",
    "read": "{1c:15}気をつけて、{10}・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Take care, {10}...{0c:fe}",
+   "status": "done",
+   "tl": "Take care, [HERO]..."
   },
   {
    "id": "RES#315:8a01",
@@ -925,8 +963,9 @@
    "jp": "{1c:14}{0b:08}{e080} エレアノール {e081}{0b:09}\n{10}・・・あなたは確か\n{14}の出身と\nおっしゃっていましたね。{1a}あなたのお{e089}は大丈夫でしたか?{0c:fe}",
    "read": "{1c:14}{0b:08}【 エレアノール 】{0b:09}\n{10}・・・あなたは確か\n{14}の出身と\nおっしゃっていましたね。{1a}あなたのお国は大丈夫でしたか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Eleanor 】{0b:09}\n{10}... I believe you said you were\nfrom {14}.{1a}Is your country all right?{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]... I believe you said you were from [VAR14]. // Is your country all right?"
   },
   {
    "id": "RES#315:8b19",
@@ -947,8 +986,9 @@
    "jp": "かなり危ないらしい|まだ分からない|なんとかなるさ",
    "read": "かなり危ないらしい|まだ分からない|なんとかなるさ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "It sounds bad|I don't know yet|It'll work out",
+   "status": "done",
+   "tl": "It sounds bad|I don't know yet|It'll work out"
   },
   {
    "id": "RES#315:8b3a",
@@ -980,8 +1020,9 @@
    "jp": "{1c:14}そうですか・・・\nつらい話ですね。{1a}{0c:51ffdb}私も、{e089}を捨てたはずなのに、\n{e08b}に包まれる故{e08a}を想{e08e}するだけで\n胸が苦しくなります・・・{0c:020401}",
    "read": "{1c:14}そうですか・・・\nつらい話ですね。{1a}{0c:51ffdb}私も、国を捨てたはずなのに、\n炎に包まれる故郷を想像するだけで\n胸が苦しくなります・・・{0c:020401}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}I see... That is painful to hear.{1a}{0c:51ffdb}I abandoned my country, and yet merely\npicturing my homeland in flames makes\nmy chest ache...{0c:020401}",
+   "status": "done",
+   "tl": "I see... That is painful to hear. // [1]I abandoned my country, and yet merely picturing my homeland in flames makes my chest ache..."
   },
   {
    "id": "RES#315:8bb5",
@@ -1002,8 +1043,9 @@
    "jp": "{1c:14}そうですか・・・\n情報がないのもつらいですね。{1a}{0c:51ffdb}私も、{e089}を捨てたはずなのに、\n{e08b}に包まれる故{e08a}を想{e08e}するだけで\n胸が苦しくなります・・・{0c:020201}",
    "read": "{1c:14}そうですか・・・\n情報がないのもつらいですね。{1a}{0c:51ffdb}私も、国を捨てたはずなのに、\n炎に包まれる故郷を想像するだけで\n胸が苦しくなります・・・{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}I see... Having no news must be hard as\nwell.{1a}{0c:51ffdb}I abandoned my country, and yet merely\npicturing my homeland in flames makes\nmy chest ache...{0c:020201}",
+   "status": "done",
+   "tl": "I see... Having no news must be hard as well. // [1]I abandoned my country, and yet merely picturing my homeland in flames makes my chest ache..."
   },
   {
    "id": "RES#315:8c28",
@@ -1013,8 +1055,9 @@
    "jp": "{0c:0b04080d0101050d0102050d0103050d0105050d0108050d010a050d010b050d010c050d010e050d0111050d011205}{1c:15}{10}の笑顔は{e091}力的ですね。\n私はあなたのような\n強い人に憧れます。{0c:fe}",
    "read": "{0c:0b04080d0101050d0102050d0103050d0105050d0108050d010a050d010b050d010c050d010e050d0111050d011205}{1c:15}{10}の笑顔は魅力的ですね。\n私はあなたのような\n強い人に憧れます。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:0b04080d0101050d0102050d0103050d0105050d0108050d010a050d010b050d010c050d010e050d0111050d011205}{1c:15}Your smile is charming, {10}. I\nadmire strong people like you.{0c:fe}",
+   "status": "done",
+   "tl": "Your smile is charming, [HERO]. I admire strong people like you."
   },
   {
    "id": "RES#315:8c88",
@@ -1046,8 +1089,9 @@
    "jp": "{1c:15}気をつけて、{10}・・・{0c:fe}",
    "read": "{1c:15}気をつけて、{10}・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Take care, {10}...{0c:fe}",
+   "status": "done",
+   "tl": "Take care, [HERO]..."
   },
   {
    "id": "RES#315:8cba",
@@ -1079,8 +1123,9 @@
    "jp": "{1c:14}{0b:08}{e080} エレアノール {e081}{0b:09}\n誰かの{e09d}{e09e}がなければ\nこの世{e09f}は救えないので\nしょうか・・・{1a}そんなに我{e0a0}は\n罪深い存{e0a2}なのでしょうか・・・{0c:fe}",
    "read": "{1c:14}{0b:08}【 エレアノール 】{0b:09}\n誰かの犠牲がなければ\nこの世界は救えないので\nしょうか・・・{1a}そんなに我々は\n罪深い存在なのでしょうか・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Eleanor 】{0b:09}\nCan this world not be saved without\nsomeone's sacrifice...?{1a}Are we such sinful beings...?{0c:fe}",
+   "status": "done",
+   "tl": "Can this world not be saved without someone's sacrifice...? // Are we such sinful beings...?"
   },
   {
    "id": "RES#315:8d3a",
@@ -1101,8 +1146,9 @@
    "jp": "{1c:14}ええ・・・{07:14}\nバルデスさんに別れを\n言いに行きましょう・・・{07:05}",
    "read": "{1c:14}ええ・・・{07:14}\nバルデスさんに別れを\n言いに行きましょう・・・{07:05}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}Yes...{07:14} Let us go and say farewell to\nValdes-san...{07:05}",
+   "status": "done",
+   "tl": "Yes...[1] Let us go and say farewell to Valdes-san..."
   },
   {
    "id": "RES#315:8d6a",
@@ -1112,8 +1158,9 @@
    "jp": "{1c:14}今は1人にさせて下さい・・・{0c:fe}",
    "read": "{1c:14}今は1人にさせて下さい・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}Please leave me alone for now...{0c:fe}",
+   "status": "done",
+   "tl": "Please leave me alone for now..."
   },
   {
    "id": "RES#315:8d83",
@@ -1180,8 +1227,9 @@
    "jp": "{1c:14}{0b:08}{e080} エレアノール {e081}{0b:09}\n誰かの{e09d}{e09e}がなければ\nこの世{e09f}は救えないので\nしょうか・・・{1a}そんなに我{e0a0}は\n罪深い存{e0a2}なのでしょうか・・・{0c:fe}",
    "read": "{1c:14}{0b:08}【 エレアノール 】{0b:09}\n誰かの犠牲がなければ\nこの世界は救えないので\nしょうか・・・{1a}そんなに我々は\n罪深い存在なのでしょうか・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Eleanor 】{0b:09}\nCan this world not be saved without\nsomeone's sacrifice...?{1a}Are we such sinful beings...?{0c:fe}",
+   "status": "done",
+   "tl": "Can this world not be saved without someone's sacrifice...? // Are we such sinful beings...?"
   },
   {
    "id": "RES#315:8e12",
@@ -1225,8 +1273,9 @@
    "jp": "{1c:14}{0b:08}{e080} エレアノール {e081}{0b:09}\nあの方は私達に本当の力を\n{e09a}えてくれた・・・{07:14}\nでも・・・{07:05}{1a}{10}・・・{07:14}\n私はこの悲しみを\n決して忘れない・・・{07:05}{0c:fe}",
    "read": "{1c:14}{0b:08}【 エレアノール 】{0b:09}\nあの方は私達に本当の力を\n教えてくれた・・・{07:14}\nでも・・・{07:05}{1a}{10}・・・{07:14}\n私はこの悲しみを\n決して忘れない・・・{07:05}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Eleanor 】{0b:09}\nThat man taught us what true strength\nis...{07:14} But...{07:05}{1a}{10}...{07:14} I will never forget this\nsorrow...{07:05}{0c:fe}",
+   "status": "done",
+   "tl": "That man taught us what true strength is...[1] But...[2] // [HERO]...[3] I will never forget this sorrow..."
   },
   {
    "id": "RES#315:8ea0",
@@ -1247,8 +1296,9 @@
    "jp": "{1c:14}分かりました・・・{07:0f}\nそれが残された私たちに\n出来ること・・・{07:05}{1a}急ぎましょう、『始原の地』へ。",
    "read": "{1c:14}分かりました・・・{07:0f}\nそれが残された私たちに\n出来ること・・・{07:05}{1a}急ぎましょう、『始原の地』へ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}I understand...{07:0f} That is what we who\nremain can do...{07:05}{1a}Let us hurry to the 'Land of Origin'.",
+   "status": "done",
+   "tl": "I understand...[1] That is what we who remain can do...[2] // Let us hurry to the 'Land of Origin'."
   },
   {
    "id": "RES#315:8ee7",
@@ -1258,8 +1308,9 @@
    "jp": "{1c:14}申し訳ありません。\nしばらく1人で行動させて下さい。{0c:fe}",
    "read": "{1c:14}申し訳ありません。\nしばらく1人で行動させて下さい。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}I am terribly sorry. Please allow me to go\nmy own way for a while.{0c:fe}",
+   "status": "done",
+   "tl": "I am terribly sorry. Please allow me to go my own way for a while."
   },
   {
    "id": "RES#315:8f0f",
@@ -1326,8 +1377,9 @@
    "jp": "{1c:14}{0b:08}{e080} エレアノール {e081}{0b:09}\nあの方は私達に本当の力を\n{e09a}えてくれた・・・{07:14}\nでも・・・{07:05}{1a}{10}・・・{07:14}\n私はこの悲しみを\n決して忘れない・・・{07:05}{0c:fe}",
    "read": "{1c:14}{0b:08}【 エレアノール 】{0b:09}\nあの方は私達に本当の力を\n教えてくれた・・・{07:14}\nでも・・・{07:05}{1a}{10}・・・{07:14}\n私はこの悲しみを\n決して忘れない・・・{07:05}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Eleanor 】{0b:09}\nThat man taught us what true strength\nis...{07:14} But...{07:05}{1a}{10}...{07:14} I will never forget this\nsorrow...{07:05}{0c:fe}",
+   "status": "done",
+   "tl": "That man taught us what true strength is...[1] But...[2] // [HERO]...[3] I will never forget this sorrow..."
   },
   {
    "id": "RES#315:8fa4",
@@ -1371,8 +1423,9 @@
    "jp": "{1c:11}{0b:08}{e080} エレアノール {e081}{0b:09}\n人の価値観はそう簡単には\n変わらないかもしれません。{1a}でも、誠意を{e0a8}めて話せば\n私達の気持ちも{e0a9}じるはず・・・\n私はそう信じます。{0c:fe}",
    "read": "{1c:11}{0b:08}【 エレアノール 】{0b:09}\n人の価値観はそう簡単には\n変わらないかもしれません。{1a}でも、誠意を込めて話せば\n私達の気持ちも通じるはず・・・\n私はそう信じます。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Eleanor 】{0b:09}\nPeople's values may not change so easily.{1a}But if we speak sincerely, our feelings\nshould reach them... That is what I\nbelieve.{0c:fe}",
+   "status": "done",
+   "tl": "People's values may not change so easily. // But if we speak sincerely, our feelings should reach them... That is what I believe."
   },
   {
    "id": "RES#315:9035",
@@ -1393,8 +1446,9 @@
    "jp": "{1c:15}ええ、自信はありませんが\n頑張ってみます。",
    "read": "{1c:15}ええ、自信はありませんが\n頑張ってみます。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Yes. I have no confidence, but I will try\nmy best.",
+   "status": "done",
+   "tl": "Yes. I have no confidence, but I will try my best."
   },
   {
    "id": "RES#315:9055",
@@ -1404,8 +1458,9 @@
    "jp": "{1c:14}申し訳ありません。\nしばらく1人で行動させて下さい。{0c:16}",
    "read": "{1c:14}申し訳ありません。\nしばらく1人で行動させて下さい。{0c:16}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}I am terribly sorry. Please allow me to go\nmy own way for a while.{0c:16}",
+   "status": "done",
+   "tl": "I am terribly sorry. Please allow me to go my own way for a while."
   },
   {
    "id": "RES#315:907d",
@@ -1415,8 +1470,9 @@
    "jp": "{1c:15}頑張って下さい、{10}。\n私も後から行きます。{0c:15}",
    "read": "{1c:15}頑張って下さい、{10}。\n私も後から行きます。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Please do your best, {10}. I will\nfollow later.{0c:15}",
+   "status": "done",
+   "tl": "Please do your best, [HERO]. I will follow later."
   },
   {
    "id": "RES#315:909e",
@@ -1426,8 +1482,9 @@
    "jp": "{1c:15}頑張って下さい、{10}。",
    "read": "{1c:15}頑張って下さい、{10}。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Please do your best, {10}.",
+   "status": "done",
+   "tl": "Please do your best, [HERO]."
   },
   {
    "id": "RES#315:90ae",
@@ -1448,8 +1505,9 @@
    "jp": "{1c:11}{0b:08}{e080} エレアノール {e081}{0b:09}\n人の価値観はそう簡単には\n変わらないかもしれません。{1a}でも、誠意を{e0a8}めて話せば\n私達の気持ちも{e0a9}じるはず・・・\n私はそう信じます。{1a}みんな頑張って下さい。\n私も後から行きます。{0c:15}",
    "read": "{1c:11}{0b:08}【 エレアノール 】{0b:09}\n人の価値観はそう簡単には\n変わらないかもしれません。{1a}でも、誠意を込めて話せば\n私達の気持ちも通じるはず・・・\n私はそう信じます。{1a}みんな頑張って下さい。\n私も後から行きます。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Eleanor 】{0b:09}\nPeople's values may not change so easily.{1a}But if we speak sincerely, our feelings\nshould reach them... That is what I\nbelieve.{1a}Everyone, please do your best. I will\nfollow later.{0c:15}",
+   "status": "done",
+   "tl": "People's values may not change so easily. // But if we speak sincerely, our feelings should reach them... That is what I believe. // Everyone, please do your best. I will follow later."
   },
   {
    "id": "RES#315:913b",
@@ -1459,8 +1517,9 @@
    "jp": "{1c:15}頑張って下さい。",
    "read": "{1c:15}頑張って下さい。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Please do your best.",
+   "status": "done",
+   "tl": "Please do your best."
   },
   {
    "id": "RES#315:9149",
@@ -1470,8 +1529,9 @@
    "jp": "{0c:31501651446000a100960400}{1c:11}{0b:08}{e080} エレアノール {e081}{0b:09}\nこうやって静かに本を{e0aa}めるのも\nあと何度もないのかも\nしれませんね・・・{0c:fe}",
    "read": "{0c:31501651446000a100960400}{1c:11}{0b:08}【 エレアノール 】{0b:09}\nこうやって静かに本を読めるのも\nあと何度もないのかも\nしれませんね・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:31501651446000a100960400}{1c:11}{0b:08}【 Eleanor 】{0b:09}\nThere may not be many more chances to\nread quietly like this...{0c:fe}",
+   "status": "done",
+   "tl": "There may not be many more chances to read quietly like this..."
   },
   {
    "id": "RES#315:9199",
@@ -1492,8 +1552,9 @@
    "jp": "{1c:15}それで、私に何か御用ですか?{0c:fe}",
    "read": "{1c:15}それで、私に何か御用ですか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Now then, may I help you?{0c:fe}",
+   "status": "done",
+   "tl": "Now then, may I help you?"
   },
   {
    "id": "RES#315:91bf",
@@ -1525,8 +1586,9 @@
    "jp": "{1c:15}あなたが訪れるのは\nこの{e0ac}{e0ad}ではありませんよ。\nあなたには、あなたを信じる人が\nちゃんといるではありませんか。{0c:15}",
    "read": "{1c:15}あなたが訪れるのは\nこの部屋ではありませんよ。\nあなたには、あなたを信じる人が\nちゃんといるではありませんか。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}This is not the room you should be\nvisiting. You have someone who believes\nin you, do you not?{0c:15}",
+   "status": "done",
+   "tl": "This is not the room you should be visiting. You have someone who believes in you, do you not?"
   },
   {
    "id": "RES#315:9214",
@@ -1536,8 +1598,9 @@
    "jp": "{0c:28001000}{1c:15}気をつけて・・・",
    "read": "{0c:28001000}{1c:15}気をつけて・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:28001000}{1c:15}Please be careful...",
+   "status": "done",
+   "tl": "Please be careful..."
   },
   {
    "id": "RES#315:9226",
@@ -1558,8 +1621,9 @@
    "jp": "{1c:15}気をつけて・・・",
    "read": "{1c:15}気をつけて・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Please be careful...",
+   "status": "done",
+   "tl": "Please be careful..."
   },
   {
    "id": "RES#315:9237",
@@ -1580,8 +1644,9 @@
    "jp": "{1c:15}{0b:08}{e080} エレアノール {e081}{0b:09}\n2人なら大丈夫、\nそう信じています。{0c:15}",
    "read": "{1c:15}{0b:08}【 エレアノール 】{0b:09}\n2人なら大丈夫、\nそう信じています。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Eleanor 】{0b:09}\nThe two of you will be fine. I believe that.{0c:15}",
+   "status": "done",
+   "tl": "The two of you will be fine. I believe that."
   },
   {
    "id": "RES#315:9281",
@@ -1602,8 +1667,9 @@
    "jp": "{1c:15}気を付けて。\n{10}、{11}。{0c:02ff}",
    "read": "{1c:15}気を付けて。\n{10}、{11}。{0c:02ff}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Please take care. {10},\n{11}.{0c:02ff}",
+   "status": "done",
+   "tl": "Please take care. [HERO], [VAR11]."
   },
   {
    "id": "RES#315:92a1",
@@ -1613,8 +1679,9 @@
    "jp": "{0c:31501651446000a10096}{1c:14}{0b:08}{e080} エレアノール {e081}{0b:09}\nこうやって静かに本を{e0aa}めるのも\nあと何度もないのかも\nしれませんね・・・{0c:fe}",
    "read": "{0c:31501651446000a10096}{1c:14}{0b:08}【 エレアノール 】{0b:09}\nこうやって静かに本を読めるのも\nあと何度もないのかも\nしれませんね・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:31501651446000a10096}{1c:14}{0b:08}【 Eleanor 】{0b:09}\nThere may not be many more chances to\nread quietly like this...{0c:fe}",
+   "status": "done",
+   "tl": "There may not be many more chances to read quietly like this..."
   },
   {
    "id": "RES#315:92ef",
@@ -1635,8 +1702,9 @@
    "jp": "{1c:11}それで、私に何か御用ですか?{0c:fe}",
    "read": "{1c:11}それで、私に何か御用ですか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Now then, may I help you?{0c:fe}",
+   "status": "done",
+   "tl": "Now then, may I help you?"
   },
   {
    "id": "RES#315:9315",
@@ -1657,8 +1725,9 @@
    "jp": "{1c:11}分かりました・・・\n参りましょう。",
    "read": "{1c:11}分かりました・・・\n参りましょう。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}I understand... Let us be on our way.",
+   "status": "done",
+   "tl": "I understand... Let us be on our way."
   },
   {
    "id": "RES#315:932f",
@@ -1668,8 +1737,9 @@
    "jp": "{1c:15}私よりふさわしい相手が\nいるのでは?{0c:16}",
    "read": "{1c:15}私よりふさわしい相手が\nいるのでは?{0c:16}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Is there not someone better suited than\nI?{0c:16}",
+   "status": "done",
+   "tl": "Is there not someone better suited than I?"
   },
   {
    "id": "RES#315:934b",
@@ -1679,8 +1749,9 @@
    "jp": "{1c:15}気をつけて・・・{0c:15}",
    "read": "{1c:15}気をつけて・・・{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Please be careful...{0c:15}",
+   "status": "done",
+   "tl": "Please be careful..."
   },
   {
    "id": "RES#315:935a",
@@ -1690,8 +1761,9 @@
    "jp": "{0c:514628001000}{1c:15}気をつけて・・・",
    "read": "{0c:514628001000}{1c:15}気をつけて・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:514628001000}{1c:15}Please be careful...",
+   "status": "done",
+   "tl": "Please be careful..."
   },
   {
    "id": "RES#315:936e",
@@ -1758,8 +1830,9 @@
    "jp": "{1c:15}分かりました・・・",
    "read": "{1c:15}分かりました・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}I understand...",
+   "status": "done",
+   "tl": "I understand..."
   },
   {
    "id": "RES#315:93dc",
@@ -1769,8 +1842,9 @@
    "jp": "{1c:15}・・・あなたの武運を。{0c:15}",
    "read": "{1c:15}・・・あなたの武運を。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}...Fortune in battle to you.{0c:15}",
+   "status": "done",
+   "tl": "...Fortune in battle to you."
   },
   {
    "id": "RES#315:93ef",
@@ -1780,8 +1854,9 @@
    "jp": "{1c:14}無事に・・・{07:14}\n無事に帰ってきて下さい・・・{07:05}",
    "read": "{1c:14}無事に・・・{07:14}\n無事に帰ってきて下さい・・・{07:05}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}Safely...{07:14} Please come back safely...{07:05}",
+   "status": "done",
+   "tl": "Safely...[1] Please come back safely..."
   },
   {
    "id": "RES#315:9411",
@@ -1814,8 +1889,9 @@
    "jp": "{1c:15}{0b:08}{e080} エレアノール {e081}{0b:09}\n行くのですか・・・?{0c:fe}",
    "read": "{1c:15}{0b:08}【 エレアノール 】{0b:09}\n行くのですか・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Eleanor 】{0b:09}\nYou are going...?{0c:fe}",
+   "status": "done",
+   "tl": "You are going...?"
   },
   {
    "id": "RES#315:946a",
@@ -1847,8 +1923,9 @@
    "jp": "{1c:15}分かりました・・・",
    "read": "{1c:15}分かりました・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}I understand...",
+   "status": "done",
+   "tl": "I understand..."
   },
   {
    "id": "RES#315:9486",
@@ -1858,8 +1935,9 @@
    "jp": "{1c:15}・・・あなたの武運を。{0c:15}",
    "read": "{1c:15}・・・あなたの武運を。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}...Fortune in battle to you.{0c:15}",
+   "status": "done",
+   "tl": "...Fortune in battle to you."
   },
   {
    "id": "RES#315:9499",
@@ -1869,8 +1947,9 @@
    "jp": "{1c:15}無事に帰ってきて下さい・・・",
    "read": "{1c:15}無事に帰ってきて下さい・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Please come back safely...",
+   "status": "done",
+   "tl": "Please come back safely..."
   },
   {
    "id": "RES#315:94ae",
@@ -1891,8 +1970,9 @@
    "jp": "{1c:15}{0b:08}{e080} エレアノール {e081}{0b:09}\n{10}、{11}・・・{0c:15}",
    "read": "{1c:15}{0b:08}【 エレアノール 】{0b:09}\n{10}、{11}・・・{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Eleanor 】{0b:09}\n{10}, {11}...{0c:15}",
+   "status": "done",
+   "tl": "[HERO], [VAR11]..."
   },
   {
    "id": "RES#315:94e4",
@@ -1902,8 +1982,9 @@
    "jp": "{1c:15}{0b:08}{e080} エレアノール {e081}{0b:09}\n2人の武運を・・・{0c:15}",
    "read": "{1c:15}{0b:08}【 エレアノール 】{0b:09}\n2人の武運を・・・{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Eleanor 】{0b:09}\nFortune in battle to you both...{0c:15}",
+   "status": "done",
+   "tl": "Fortune in battle to you both..."
   },
   {
    "id": "RES#315:950a",
@@ -1913,8 +1994,9 @@
    "jp": "{1c:15}無事に帰ってきて下さい・・・",
    "read": "{1c:15}無事に帰ってきて下さい・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Please come back safely...",
+   "status": "done",
+   "tl": "Please come back safely..."
   },
   {
    "id": "RES#315:951f",
@@ -1936,8 +2018,9 @@
    "jp": "{1c:10}故意に狙ったのですか!?{0c:51ffffffff54151e}",
    "read": "{1c:10}故意に狙ったのですか!?{0c:51ffffffff54151e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Did you aim at me deliberately!?{0c:51ffffffff54151e}",
+   "status": "done",
+   "tl": "Did you aim at me deliberately!?"
   },
   {
    "id": "RES#315:9544",
@@ -1959,8 +2042,9 @@
    "jp": "{1c:10}どちらかが倒れるまで戦うことも\n1つの解決方{e0af}なのかもしれない。\nでも、私はもう無駄な血を\n見たくない・・・{0c:1501}",
    "read": "{1c:10}どちらかが倒れるまで戦うことも\n1つの解決方法なのかもしれない。\nでも、私はもう無駄な血を\n見たくない・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Fighting until one side falls may also be a\nsolution of sorts. But I no longer wish to\nsee blood spilled for nothing...{0c:1501}",
+   "status": "done",
+   "tl": "Fighting until one side falls may also be a solution of sorts. But I no longer wish to see blood spilled for nothing..."
   },
   {
    "id": "RES#315:9595",
@@ -1981,8 +2065,9 @@
    "jp": "{1c:10}故意に狙ったのですか・・・{0c:51ffffffff54151e}",
    "read": "{1c:10}故意に狙ったのですか・・・{0c:51ffffffff54151e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Did you aim at me deliberately...{0c:51ffffffff54151e}",
+   "status": "done",
+   "tl": "Did you aim at me deliberately..."
   },
   {
    "id": "RES#315:95d4",
@@ -1992,8 +2077,9 @@
    "jp": "{1c:10}{10}、\n自分自身をもう1度見つめて・・・",
    "read": "{1c:10}{10}、\n自分自身をもう1度見つめて・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{10}, look at yourself once more...",
+   "status": "done",
+   "tl": "[HERO], look at yourself once more..."
   },
   {
    "id": "RES#315:95f2",
@@ -2003,8 +2089,9 @@
    "jp": "{1c:10}あなたとは戦いたくない・・・{0c:1501}",
    "read": "{1c:10}あなたとは戦いたくない・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I do not wish to fight you...{0c:1501}",
+   "status": "done",
+   "tl": "I do not wish to fight you..."
   },
   {
    "id": "RES#315:9608",
@@ -2025,8 +2112,9 @@
    "jp": "{1c:10}故意に狙ったのですか・・・?{0c:51ffffffff54151e}",
    "read": "{1c:10}故意に狙ったのですか・・・?{0c:51ffffffff54151e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Did you aim at me deliberately...?{0c:51ffffffff54151e}",
+   "status": "done",
+   "tl": "Did you aim at me deliberately...?"
   },
   {
    "id": "RES#315:9649",
@@ -2048,8 +2136,9 @@
    "jp": "{1c:10}人間同士が傷つけ合う・・・\nこんな不幸なことが\n他にあるでしょうか?{1a}私は戦いたくない・・・\n私はもう無駄な血を見たくない・・・{0c:1501}",
    "read": "{1c:10}人間同士が傷つけ合う・・・\nこんな不幸なことが\n他にあるでしょうか?{1a}私は戦いたくない・・・\n私はもう無駄な血を見たくない・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}People wounding one another... Can there\nbe any greater misfortune?{1a}I do not wish to fight... I no longer wish\nto see blood spilled for nothing...{0c:1501}",
+   "status": "done",
+   "tl": "People wounding one another... Can there be any greater misfortune? // I do not wish to fight... I no longer wish to see blood spilled for nothing..."
   },
   {
    "id": "RES#315:96a9",
@@ -2081,8 +2170,9 @@
    "jp": "{1c:10}続けなさい。\nそれであなたの気が晴れるなら・・・{0c:15}",
    "read": "{1c:10}続けなさい。\nそれであなたの気が晴れるなら・・・{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Continue, then. If it will ease your heart...{0c:15}",
+   "status": "done",
+   "tl": "Continue, then. If it will ease your heart..."
   },
   {
    "id": "RES#315:96f3",
@@ -2092,8 +2182,9 @@
    "jp": "{1c:10}あなたが何をしたいのかわからない。\nただ、このようなことを続けても、\n私はあなたのことを哀れむだけ・・・",
    "read": "{1c:10}あなたが何をしたいのかわからない。\nただ、このようなことを続けても、\n私はあなたのことを哀れむだけ・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I do not know what it is you want. But if\nyou go on like this, I will only pity you...",
+   "status": "done",
+   "tl": "I do not know what it is you want. But if you go on like this, I will only pity you..."
   },
   {
    "id": "RES#315:972e",
@@ -2114,8 +2205,9 @@
    "jp": "{1c:10}どうぞ続けなさい。 \nそれであなたの心が\n満たされるのなら・・・{0c:15}",
    "read": "{1c:10}どうぞ続けなさい。 \nそれであなたの心が\n満たされるのなら・・・{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Please, continue. If it will fill your heart...{0c:15}",
+   "status": "done",
+   "tl": "Please, continue. If it will fill your heart..."
   },
   {
    "id": "RES#315:975e",
@@ -2125,8 +2217,9 @@
    "jp": "{1c:10}あなたの不器用さには\n{e093}感すら覚えます・・・{1a}でも、下らないことで\n自分を卑しめないで下さい。",
    "read": "{1c:10}あなたの不器用さには\n共感すら覚えます・・・{1a}でも、下らないことで\n自分を卑しめないで下さい。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I find I can even sympathise with your\nclumsiness...{1a}But please do not degrade yourself over\nsuch petty things.",
+   "status": "done",
+   "tl": "I find I can even sympathise with your clumsiness... // But please do not degrade yourself over such petty things."
   },
   {
    "id": "RES#315:979b",
@@ -2147,8 +2240,9 @@
    "jp": "{1c:10}続けなさい。\nそれであなたの心が\n満たされるのなら・・・{0c:15}",
    "read": "{1c:10}続けなさい。\nそれであなたの心が\n満たされるのなら・・・{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Continue, then. If it will fill your heart...{0c:15}",
+   "status": "done",
+   "tl": "Continue, then. If it will fill your heart..."
   },
   {
    "id": "RES#315:97c7",
@@ -2158,8 +2252,9 @@
    "jp": "{1c:10}心を覆う不安をかき消せずに\n足掻いているかのよう・・・\n哀れな人・・・",
    "read": "{1c:10}心を覆う不安をかき消せずに\n足掻いているかのよう・・・\n哀れな人・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}It is as if you were struggling, unable to\ndispel the anxiety clouding your heart...\nYou pitiable person...",
+   "status": "done",
+   "tl": "It is as if you were struggling, unable to dispel the anxiety clouding your heart... You pitiable person..."
   },
   {
    "id": "RES#315:97f6",
@@ -2169,8 +2264,9 @@
    "jp": "{1c:10}別に構いません。\nそれであなたの欲求が\n満たされるのなら・・・{0c:153b0800}",
    "read": "{1c:10}別に構いません。\nそれであなたの欲求が\n満たされるのなら・・・{0c:153b0800}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I do not mind. If such a thing can content\nyou...{0c:153b0800}",
+   "status": "done",
+   "tl": "I do not mind. If such a thing can content you..."
   },
   {
    "id": "RES#315:9823",
@@ -2180,8 +2276,9 @@
    "jp": "{1c:10}あなたが何をしたいのかわからない。\nただ、このようなことを続けても、\n私はあなたのことを哀れむだけ・・・",
    "read": "{1c:10}あなたが何をしたいのかわからない。\nただ、このようなことを続けても、\n私はあなたのことを哀れむだけ・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I do not know what it is you want. But if\nyou go on like this, I will only pity you...",
+   "status": "done",
+   "tl": "I do not know what it is you want. But if you go on like this, I will only pity you..."
   },
   {
    "id": "RES#315:985e",
@@ -2191,8 +2288,9 @@
    "jp": "{1c:10}ありがとう・・・",
    "read": "{1c:10}ありがとう・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Thank you...",
+   "status": "done",
+   "tl": "Thank you..."
   },
   {
    "id": "RES#315:9869",
@@ -2202,8 +2300,9 @@
    "jp": "{1c:10}別に構いません。\nそれであなたが\n満たされるのなら・・・{0c:153b0800}",
    "read": "{1c:10}別に構いません。\nそれであなたが\n満たされるのなら・・・{0c:153b0800}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I do not mind. If it will leave you content...{0c:153b0800}",
+   "status": "done",
+   "tl": "I do not mind. If it will leave you content..."
   },
   {
    "id": "RES#315:9891",
@@ -2213,8 +2312,9 @@
    "jp": "{1c:10}あなたの不器用さには\n{e093}感すら覚えます・・・\nでも、もうこれ以上自分を\n卑しめないで下さい。",
    "read": "{1c:10}あなたの不器用さには\n共感すら覚えます・・・\nでも、もうこれ以上自分を\n卑しめないで下さい。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I find I can even sympathise with your\nclumsiness... But please do not degrade\nyourself any further.",
+   "status": "done",
+   "tl": "I find I can even sympathise with your clumsiness... But please do not degrade yourself any further."
   },
   {
    "id": "RES#315:98ce",
@@ -2224,8 +2324,9 @@
    "jp": "{1c:10}ありがとう・・・",
    "read": "{1c:10}ありがとう・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Thank you...",
+   "status": "done",
+   "tl": "Thank you..."
   },
   {
    "id": "RES#315:98d9",
@@ -2235,8 +2336,9 @@
    "jp": "{1c:10}別に構いません。\nそれであなたの欲求が\n満たされるのなら・・・{0c:153b0800}",
    "read": "{1c:10}別に構いません。\nそれであなたの欲求が\n満たされるのなら・・・{0c:153b0800}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I do not mind. If such a thing can content\nyou...{0c:153b0800}",
+   "status": "done",
+   "tl": "I do not mind. If such a thing can content you..."
   },
   {
    "id": "RES#315:9906",
@@ -2246,8 +2348,9 @@
    "jp": "{1c:10}ただ、あなたがまだ迷って\nいるのであれば、\n今1度自分自身を\n見つめ直して下さい。",
    "read": "{1c:10}ただ、あなたがまだ迷って\nいるのであれば、\n今1度自分自身を\n見つめ直して下さい。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}But if you are still lost, please take\nanother look at yourself.",
+   "status": "done",
+   "tl": "But if you are still lost, please take another look at yourself."
   },
   {
    "id": "RES#315:993e",
@@ -2257,8 +2360,9 @@
    "jp": "{1c:10}ありがとう・・・",
    "read": "{1c:10}ありがとう・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Thank you...",
+   "status": "done",
+   "tl": "Thank you..."
   },
   {
    "id": "RES#315:9949",
@@ -2268,8 +2372,9 @@
    "jp": "{1c:10}今1度見つめ直して下さい・・・\n自分自身を・・・",
    "read": "{1c:10}今1度見つめ直して下さい・・・\n自分自身を・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Please look once more... at yourself...",
+   "status": "done",
+   "tl": "Please look once more... at yourself..."
   },
   {
    "id": "RES#315:996f",
@@ -2279,8 +2384,9 @@
    "jp": "{1c:10}{10}・・・\nもっと自分を大切にして下さい・・・",
    "read": "{1c:10}{10}・・・\nもっと自分を大切にして下さい・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{10}... Please take better care of\nyourself...",
+   "status": "done",
+   "tl": "[HERO]... Please take better care of yourself..."
   },
   {
    "id": "RES#315:998d",
@@ -2290,8 +2396,9 @@
    "jp": "{1c:10}そろそろ気付くべき・・・\n自分がいかに\n惨めで悲しい存{e0a2}かを・・・",
    "read": "{1c:10}そろそろ気付くべき・・・\n自分がいかに\n惨めで悲しい存在かを・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}It is time you realised... how wretched and\nsad a being you are...",
+   "status": "done",
+   "tl": "It is time you realised... how wretched and sad a being you are..."
   },
   {
    "id": "RES#315:99b9",
@@ -2301,8 +2408,9 @@
    "jp": "やめなさい、{10}!{0c:15}",
    "read": "やめなさい、{10}!{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Stop it, {10}!{0c:15}",
+   "status": "done",
+   "tl": "Stop it, [HERO]!"
   },
   {
    "id": "RES#315:99c6",
@@ -2312,8 +2420,9 @@
    "jp": "あなたのその手は、\n人を傷つけるためにあるのでは\nないはずです。",
    "read": "あなたのその手は、\n人を傷つけるためにあるのでは\nないはずです。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Those hands of yours were surely not\nmade for hurting people.",
+   "status": "done",
+   "tl": "Those hands of yours were surely not made for hurting people."
   },
   {
    "id": "RES#315:99ea",
@@ -2323,8 +2432,9 @@
    "jp": "やめて下さい、{10}!{0c:15}",
    "read": "やめて下さい、{10}!{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Please stop, {10}!{0c:15}",
+   "status": "done",
+   "tl": "Please stop, [HERO]!"
   },
   {
    "id": "RES#315:99f9",
@@ -2334,8 +2444,9 @@
    "jp": "仲間を、そして自分自身を\n大切にして下さい・・・\n今ならまだ間に合います。",
    "read": "仲間を、そして自分自身を\n大切にして下さい・・・\n今ならまだ間に合います。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Please value your comrades, and\nyourself... It is not too late.",
+   "status": "done",
+   "tl": "Please value your comrades, and yourself... It is not too late."
   },
   {
    "id": "RES#315:9a2b",
@@ -2345,8 +2456,9 @@
    "jp": "やめなさい、{10}!{0c:15}",
    "read": "やめなさい、{10}!{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Stop it, {10}!{0c:15}",
+   "status": "done",
+   "tl": "Stop it, [HERO]!"
   },
   {
    "id": "RES#315:9a38",
@@ -2356,8 +2468,9 @@
    "jp": "心を覆う不安をかき消せずに\n足掻いているかのよう・・・\n哀れな人・・・",
    "read": "心を覆う不安をかき消せずに\n足掻いているかのよう・・・\n哀れな人・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "It is as if you were struggling, unable to\ndispel the anxiety clouding your heart...\nYou pitiable person...",
+   "status": "done",
+   "tl": "It is as if you were struggling, unable to dispel the anxiety clouding your heart... You pitiable person..."
   },
   {
    "id": "RES#315:9a65",
@@ -2367,8 +2480,9 @@
    "jp": "私も神の{e09a}えに背いた身、\n私にはあなたを{e0b3}く資格はない・・・{1a}でも、誰かがあなたを\n止めなければならない!!{0c:1b}",
    "read": "私も神の教えに背いた身、\n私にはあなたを裁く資格はない・・・{1a}でも、誰かがあなたを\n止めなければならない!!{0c:1b}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I too have turned against God's\nteachings, and I have no right to judge\nyou...{1a}But someone must stop you!!{0c:1b}",
+   "status": "done",
+   "tl": "I too have turned against God's teachings, and I have no right to judge you... // But someone must stop you!!"
   },
   {
    "id": "RES#315:9aab",
@@ -2378,8 +2492,9 @@
    "jp": "たとえ力及ばなくとも、\n私にはあなたの蛮行を\n無視することは出来ない!!{0c:1b}",
    "read": "たとえ力及ばなくとも、\n私にはあなたの蛮行を\n無視することは出来ない!!{0c:1b}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Even if my strength falls short, I cannot\nignore your savagery!!{0c:1b}",
+   "status": "done",
+   "tl": "Even if my strength falls short, I cannot ignore your savagery!!"
   }
  ],
  "entry": 315

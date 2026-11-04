@@ -41,8 +41,9 @@
    "jp": "{0c:5108}{1c:12}{0b:08}{e080} ルカ {e081}{0b:09}\nこちらがレンティア方面、\nこちらがセヴァル方面ですか・・・{0c:fe}",
    "read": "{0c:5108}{1c:12}{0b:08}【 ルカ 】{0b:09}\nこちらがレンティア方面、\nこちらがセヴァル方面ですか・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5108}{1c:12}{0b:08}【 Luca 】{0b:09}\nThis way is toward Lentia, and this way\ntoward Seval, then...{0c:fe}",
+   "status": "done",
+   "tl": "This way is toward Lentia, and this way toward Seval, then..."
   },
   {
    "id": "RES#246:42e2c",
@@ -63,8 +64,9 @@
    "jp": "{1c:10}{10}さん、\nここで・・・お別れですね。{0c:fe}",
    "read": "{1c:10}{10}さん、\nここで・・・お別れですね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{10}-san, so this is... where we\npart.{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]-san, so this is... where we part."
   },
   {
    "id": "RES#246:42e55",
@@ -85,8 +87,9 @@
    "jp": "{1c:14}街道荒らしが・・・出るのですか?{0c:fe}",
    "read": "{1c:14}街道荒らしが・・・出るのですか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}There are... highwaymen on the road?{0c:fe}",
+   "status": "done",
+   "tl": "There are... highwaymen on the road?"
   },
   {
    "id": "RES#246:42e7c",
@@ -107,8 +110,9 @@
    "jp": "{0c:5110}{1c:13}いえ、1人で大丈夫です。{1a}それに、ここでまた\n{10}さんに頼ってしまったら、{1a}わたしはいつまでたっても\n1人では何も出来ない\n情けない男になってしまいますから。{0c:fe}",
    "read": "{0c:5110}{1c:13}いえ、1人で大丈夫です。{1a}それに、ここでまた\n{10}さんに頼ってしまったら、{1a}わたしはいつまでたっても\n1人では何も出来ない\n情けない男になってしまいますから。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5110}{1c:13}No, I will be fine alone.{1a}Besides, if I lean on you again here,\n{10}-san,{1a}I will end up a pathetic man who can\nnever do anything alone, however long I\nlive.{0c:fe}",
+   "status": "done",
+   "tl": "No, I will be fine alone. // Besides, if I lean on you again here, [HERO]-san, // I will end up a pathetic man who can never do anything alone, however long I live."
   },
   {
    "id": "RES#246:42ef3",
@@ -129,8 +133,9 @@
    "jp": "{1c:10}生意気ですよね。\n今まで散{e084}{10}さんに\n頼ってきたのに・・・{1a}でも、決めたんです。\n{10}さんの『友達』を\n{e085}乗れるくらいの男になるって。{0c:fe}",
    "read": "{1c:10}生意気ですよね。\n今まで散々{10}さんに\n頼ってきたのに・・・{1a}でも、決めたんです。\n{10}さんの『友達』を\n名乗れるくらいの男になるって。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}It is presumptuous of me, I know. After\nall the times I have leaned on you,\n{10}-san...{1a}But I have decided. I will become a man\nworthy of calling himself\n{10}-san's 'friend'.{0c:fe}",
+   "status": "done",
+   "tl": "It is presumptuous of me, I know. After all the times I have leaned on you, [HERO]-san... // But I have decided. I will become a man worthy of calling himself [HERO]-san's 'friend'."
   },
   {
    "id": "RES#246:42f59",
@@ -151,8 +156,9 @@
    "jp": "{1c:10}もちろん、\nわたしがいくら体を{e086}えたって、\n{10}さんみたいに\n強くはなれません。{1a}わたしに出来ることは何か・・・\n{10}さんを待ってる間\nずっとずっと考えてたんです。{1a}{0c:5110}{01}1{e087}間{02}、ずっと考えてみたんですが、\nやはりわたしには\n信仰を{e089}く生き方しか\n思い浮かびませんでした。{0c:fe}",
    "read": "{1c:10}もちろん、\nわたしがいくら体を鍛えたって、\n{10}さんみたいに\n強くはなれません。{1a}わたしに出来ることは何か・・・\n{10}さんを待ってる間\nずっとずっと考えてたんです。{1a}{0c:5110}{01}1年間{02}、ずっと考えてみたんですが、\nやはりわたしには\n信仰を貫く生き方しか\n思い浮かびませんでした。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Of course, however much I train my\nbody, I could never be as strong as you,\n{10}-san.{1a}What can I do... I thought about it, on and\non, while I waited for you,\n{10}-san.{1a}{0c:5110}I thought about it for a whole year, but\nafter all, the only way of life that came\nto mind was to hold true to my faith.{0c:fe}",
+   "status": "done",
+   "tl": "Of course, however much I train my body, I could never be as strong as you, [HERO]-san. // What can I do... I thought about it, on and on, while I waited for you, [HERO]-san. // [1]I thought about it for a whole year, but after all, the only way of life that came to mind was to hold true to my faith."
   },
   {
    "id": "RES#246:43013",
@@ -173,8 +179,9 @@
    "jp": "{1c:10}アノイア{e08b}の\n誕生の{e08d}密を知ってるのは\nあの町にいた人達のみ・・・{1a}多くの人{e084}にとって、\nいまだにアノイア{e08b}は\n心のより所であり{e08b}{e08f}です。{1a}{e090}に、この戦乱の時{e091}、\n軍馬のいななきに怯え暮らす人{e084}には\n何よりも心の支えが必要でしょう。{1a}でも、今のアノイア{e08b}では\n人{e084}の心は救えません。{1a}聖{e096}の中には、\n他人を{e097}うようにだとか、\n親を大切にだとか、\n生命の{e099}さ、人間の{e099}厳だとか・・・{1a}ありふれてはいますが、\nどの時{e091}でも{e09b}理となりうる\n人の心が描かれているのに\n{e08b}{e09d}はそこを{e09e}み{e09f}ばし、{1a}{e08b}{e0a0}庁や為政者は、アノイア{e08b}を\n神の{e085}の下に人{e084}を支配するための\n道具として利用しています。{0c:fe}",
    "read": "{1c:10}アノイア教の\n誕生の秘密を知ってるのは\nあの町にいた人達のみ・・・{1a}多くの人々にとって、\nいまだにアノイア教は\n心のより所であり教師です。{1a}特に、この戦乱の時代、\n軍馬のいななきに怯え暮らす人々には\n何よりも心の支えが必要でしょう。{1a}でも、今のアノイア教では\n人々の心は救えません。{1a}聖書の中には、\n他人を敬うようにだとか、\n親を大切にだとか、\n生命の尊さ、人間の尊厳だとか・・・{1a}ありふれてはいますが、\nどの時代でも真理となりうる\n人の心が描かれているのに\n教会はそこを読み飛ばし、{1a}教皇庁や為政者は、アノイア教を\n神の名の下に人々を支配するための\n道具として利用しています。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Only those who were in that town know\nthe secret of how the Anoian faith was\nborn...{1a}For many people, the Anoian faith is still\na refuge for the heart, and a teacher.{1a}Especially in these times of war, people\nwho live in fear of the neighing of\nwarhorses must need something to lean\non above all.{1a}But the Anoian faith as it stands\ncannot save people's hearts.{1a}The Scriptures tell us to respect\nothers, to cherish our parents, of the\nvalue of life, of human dignity...{1a}Commonplace as they are, they portray\na human heart that can be true in any\nage, and yet the Church skips over\nthose parts,{1a}and the Holy See and those who rule use\nthe Anoian faith as a tool to dominate\npeople in the name of God.{0c:fe}",
+   "status": "done",
+   "tl": "Only those who were in that town know the secret of how the Anoian faith was born... // For many people, the Anoian faith is still a refuge for the heart, and a teacher. // Especially in these times of war, people who live in fear of the neighing of warhorses must need something to lean on above all. // But the Anoian faith as it stands cannot save people's hearts. // The Scriptures tell us to respect others, to cherish our parents, of the value of life, of human dignity... // Commonplace as they are, they portray a human heart that can be true in any age, and yet the Church skips over those parts, // and the Holy See and those who rule use the Anoian faith as a tool to dominate people in the name of God."
   },
   {
    "id": "RES#246:431ae",
@@ -195,8 +202,9 @@
    "jp": "{1c:10}わたしは、\n仕{e0a3}まれたものでもなく、\n支配者のためのものでもなく、\n{e08b}{e09d}のためのものでもない、{1a}人{e084}の立場に立った、\n{e0a4}しいアノイア{e08b}を\n人{e084}に伝えていきたい・・・{1a}こんなわたしに\n何が出来るかは分かりません・・・{1a}でも、わたしは動きたい・・・\n{e09b}実を知った者の責任として。{0c:fe}",
    "read": "{1c:10}わたしは、\n仕組まれたものでもなく、\n支配者のためのものでもなく、\n教会のためのものでもない、{1a}人々の立場に立った、\n新しいアノイア教を\n人々に伝えていきたい・・・{1a}こんなわたしに\n何が出来るかは分かりません・・・{1a}でも、わたしは動きたい・・・\n真実を知った者の責任として。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I wish to bring to people a new Anoian\nfaith, not contrived by anyone, not for\nthe rulers, not for the Church,{1a}but standing with the people...{1a}I do not know what someone like me can\ndo...{1a}But I want to act... as the duty of one\nwho has learned the truth.{0c:fe}",
+   "status": "done",
+   "tl": "I wish to bring to people a new Anoian faith, not contrived by anyone, not for the rulers, not for the Church, // but standing with the people... // I do not know what someone like me can do... // But I want to act... as the duty of one who has learned the truth."
   },
   {
    "id": "RES#246:43273",
@@ -217,8 +225,9 @@
    "jp": "{1c:10}{10}さん、\n本当にありがとうございました。{1a}{10}さんはわたしに\n{e09b}実に目を向ける\n勇気を{e0a6}えていただきました・・・{1a}進む道は違いますが、\nわたしはあなたのことを\n一生忘れません。{0c:fe}",
    "read": "{1c:10}{10}さん、\n本当にありがとうございました。{1a}{10}さんはわたしに\n真実に目を向ける\n勇気を与えていただきました・・・{1a}進む道は違いますが、\nわたしはあなたのことを\n一生忘れません。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{10}-san, thank you so very much.{1a}You gave me the courage to look at the\ntruth, {10}-san...{1a}Our roads are different, but I will never\nforget you as long as I live.{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]-san, thank you so very much. // You gave me the courage to look at the truth, [HERO]-san... // Our roads are different, but I will never forget you as long as I live."
   },
   {
    "id": "RES#246:432fc",
@@ -239,8 +248,9 @@
    "jp": "{1c:10}さようなら・・・\nまた逢える日を信じています。{0c:fe}",
    "read": "{1c:10}さようなら・・・\nまた逢える日を信じています。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Goodbye... I believe the day will come when\nwe meet again.{0c:fe}",
+   "status": "done",
+   "tl": "Goodbye... I believe the day will come when we meet again."
   },
   {
    "id": "RES#246:43330",
@@ -283,8 +293,9 @@
    "jp": "{1c:16}{0b:08}{e080} ルカ {e081}{0b:09}\n{e08b}{e0a0}も大{e0a8}{e08b}も\nわたし達と同じ人間なんです!!{1a}{0c:e9010000}わたしは思います!\n神とは、人{e084}の心の中に、\n皆さんの心の中にある存{e0aa}なんです!{1a}なぜならば、\n他人を慈しむ心こそが、{0c:fe}",
    "read": "{1c:16}{0b:08}【 ルカ 】{0b:09}\n教皇も大司教も\nわたし達と同じ人間なんです!!{1a}{0c:e9010000}わたしは思います!\n神とは、人々の心の中に、\n皆さんの心の中にある存在なんです!{1a}なぜならば、\n他人を慈しむ心こそが、{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}{0b:08}【 Luca 】{0b:09}\nThe Pope and the archbishops are human\nbeings just as we are!!{1a}{0c:e9010000}I believe this! God is something that lives\nin the hearts of people, in the hearts of\nall of you!{1a}For it is the heart that cherishes\nothers that--{0c:fe}",
+   "status": "done",
+   "tl": "The Pope and the archbishops are human beings just as we are!! // [1]I believe this! God is something that lives in the hearts of people, in the hearts of all of you! // For it is the heart that cherishes others that--"
   },
   {
    "id": "RES#246:438a6",
@@ -305,8 +316,9 @@
    "jp": "{0b:08}{e080} 兵士A {e081}{0b:09}\nやめろやめろ!!\n誰の許{e0ad}を得てここで演{e0af}をしている!{0c:2b5109fe}",
    "read": "{0b:08}【 兵士A 】{0b:09}\nやめろやめろ!!\n誰の許可を得てここで演説をしている!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Soldier A 】{0b:09}\nStop that, stop that!! Who gave you\nleave to make a speech here!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Stop that, stop that!! Who gave you leave to make a speech here!"
   },
   {
    "id": "RES#246:43b75",
@@ -327,8 +339,9 @@
    "jp": "{0c:51c81004}{0b:08}{e080} 兵士B {e081}{0b:09}\nお前達も早くここを立ち去れ!{0c:2b0109fe}",
    "read": "{0c:51c81004}{0b:08}【 兵士B 】{0b:09}\nお前達も早くここを立ち去れ!{0c:2b0109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51c81004}{0b:08}【 Soldier B 】{0b:09}\nThe rest of you, clear out of here now!{0c:2b0109fe}",
+   "status": "done",
+   "tl": "The rest of you, clear out of here now!"
   },
   {
    "id": "RES#246:43bf4",
@@ -338,8 +351,9 @@
    "jp": "{0b:08}{e080} 町の人A {e081}{0b:09}\nやだね! どかねえよ!{0c:2b0209fe}",
    "read": "{0b:08}【 町の人A 】{0b:09}\nやだね! どかねえよ!{0c:2b0209fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Townsperson A 】{0b:09}\nNo way! We ain't movin'!{0c:2b0209fe}",
+   "status": "done",
+   "tl": "No way! We ain't movin'!"
   },
   {
    "id": "RES#246:43c1c",
@@ -349,8 +363,9 @@
    "jp": "{0c:5180}{0b:08}{e080} 町の人B {e081}{0b:09}\nそうだ!\n俺達はこの人の話を聞きたいんだ!{0c:2b0309fe}",
    "read": "{0c:5180}{0b:08}【 町の人B 】{0b:09}\nそうだ!\n俺達はこの人の話を聞きたいんだ!{0c:2b0309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5180}{0b:08}【 Townsperson B 】{0b:09}\nThat's right! We wanna hear what this\nman's got to say!{0c:2b0309fe}",
+   "status": "done",
+   "tl": "That's right! We wanna hear what this man's got to say!"
   },
   {
    "id": "RES#246:43c57",
@@ -360,8 +375,9 @@
    "jp": "{0c:5188}{0b:08}{e080} 町の人C {e081}{0b:09}\nあんた達こそ消えろよ!!{0c:2b0c09fe}",
    "read": "{0c:5188}{0b:08}【 町の人C 】{0b:09}\nあんた達こそ消えろよ!!{0c:2b0c09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5188}{0b:08}【 Townsperson C 】{0b:09}\nYou're the ones who oughta get lost!!{0c:2b0c09fe}",
+   "status": "done",
+   "tl": "You're the ones who oughta get lost!!"
   },
   {
    "id": "RES#246:43c84",
@@ -371,8 +387,9 @@
    "jp": "{0c:51d0}{0b:08}{e080} 兵士B {e081}{0b:09}\nき、消えろだと!?\nぶ・・・無礼者めぇ!\nここでその{e0b1}ハネてもよいのだぞ!!{0c:fe}",
    "read": "{0c:51d0}{0b:08}【 兵士B 】{0b:09}\nき、消えろだと!?\nぶ・・・無礼者めぇ!\nここでその首ハネてもよいのだぞ!!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51d0}{0b:08}【 Soldier B 】{0b:09}\nG-get lost, you say!? I-insolent wretch! I\ncould have your head off right here!!{0c:fe}",
+   "status": "done",
+   "tl": "G-get lost, you say!? I-insolent wretch! I could have your head off right here!!"
   },
   {
    "id": "RES#246:43cd0",
@@ -393,8 +410,9 @@
    "jp": "{0c:5190}{0b:08}{e080} 町の人C {e081}{0b:09}\nああ、やってみろよ!{0c:2b5109fe}",
    "read": "{0c:5190}{0b:08}【 町の人C 】{0b:09}\nああ、やってみろよ!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5190}{0b:08}【 Townsperson C 】{0b:09}\nYeah, go ahead and try!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Yeah, go ahead and try!"
   },
   {
    "id": "RES#246:43d08",
@@ -404,8 +422,9 @@
    "jp": "{1c:16}{0b:08}{e080} ルカ {e081}{0b:09}\nお待ち下さい!{1a}{0c:51282b031000}{0c:2b032351a0}命さえあれば\n話などいつでも聞くことは出来ます。\nわたしがここを去ります。{0c:2b0109fe}",
    "read": "{1c:16}{0b:08}【 ルカ 】{0b:09}\nお待ち下さい!{1a}{0c:51282b031000}{0c:2b032351a0}命さえあれば\n話などいつでも聞くことは出来ます。\nわたしがここを去ります。{0c:2b0109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}{0b:08}【 Luca 】{0b:09}\nPlease wait!{1a}{0c:51282b031000}{0c:2b032351a0}As long as you live, you can hear me\nspeak any time. I will leave this place.{0c:2b0109fe}",
+   "status": "done",
+   "tl": "Please wait! // [1]As long as you live, you can hear me speak any time. I will leave this place."
   },
   {
    "id": "RES#246:43d66",
@@ -415,8 +434,9 @@
    "jp": "{0c:51982b511000}{0b:08}{e080} 町の人A {e081}{0b:09}\nそんな・・・ルカ様は・・・{0c:2b5109fe}",
    "read": "{0c:51982b511000}{0b:08}【 町の人A 】{0b:09}\nそんな・・・ルカ様は・・・{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51982b511000}{0b:08}【 Townsperson A 】{0b:09}\nBut... Luca-sama, you...{0c:2b5109fe}",
+   "status": "done",
+   "tl": "But... Luca-sama, you..."
   },
   {
    "id": "RES#246:43d98",
@@ -437,8 +457,9 @@
    "jp": "{0b:08}{e080} 兵士A {e081}{0b:09}\n待て!{0c:2b5109fe}",
    "read": "{0b:08}【 兵士A 】{0b:09}\n待て!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Soldier A 】{0b:09}\nHalt!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Halt!"
   },
   {
    "id": "RES#246:43dd8",
@@ -459,8 +480,9 @@
    "jp": "{0b:08}{e080} 兵士A {e081}{0b:09}\n誰が行っていいと言った?\nお前は俺達と一緒に来てもらう!{0c:2b0309fe}",
    "read": "{0b:08}【 兵士A 】{0b:09}\n誰が行っていいと言った?\nお前は俺達と一緒に来てもらう!{0c:2b0309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Soldier A 】{0b:09}\nWho said you could go? You are coming\nwith us!{0c:2b0309fe}",
+   "status": "done",
+   "tl": "Who said you could go? You are coming with us!"
   },
   {
    "id": "RES#246:43e26",
@@ -470,8 +492,9 @@
    "jp": "{0c:51a82b0b1000}{0b:08}{e080} 町の人C {e081}{0b:09}\nな、何を言い出しやがる!{0c:2b0409fe}",
    "read": "{0c:51a82b0b1000}{0b:08}【 町の人C 】{0b:09}\nな、何を言い出しやがる!{0c:2b0409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51a82b0b1000}{0b:08}【 Townsperson C 】{0b:09}\nW-what the hell are ya sayin'!{0c:2b0409fe}",
+   "status": "done",
+   "tl": "W-what the hell are ya sayin'!"
   },
   {
    "id": "RES#246:43e58",
@@ -481,8 +504,9 @@
    "jp": "{0c:51b0}{0b:08}{e080} 町の人D {e081}{0b:09}\n大{e0a8}{e08b}の差し{e0b2}か!?\n奴から{e0b3}ら貰ったんだ!?{0c:2b0509fe}",
    "read": "{0c:51b0}{0b:08}【 町の人D 】{0b:09}\n大司教の差し金か!?\n奴から幾ら貰ったんだ!?{0c:2b0509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51b0}{0b:08}【 Townsperson D 】{0b:09}\nThe archbishop put you up to this!? How\nmuch did he pay ya!?{0c:2b0509fe}",
+   "status": "done",
+   "tl": "The archbishop put you up to this!? How much did he pay ya!?"
   },
   {
    "id": "RES#246:43e98",
@@ -492,8 +516,9 @@
    "jp": "{0c:51b82b511000}{0b:08}{e080} 町の人E {e081}{0b:09}\nルカ様、行っちゃ駄目だ!\n殺されちゃうぞ!{0c:2b0b09fe}",
    "read": "{0c:51b82b511000}{0b:08}【 町の人E 】{0b:09}\nルカ様、行っちゃ駄目だ!\n殺されちゃうぞ!{0c:2b0b09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51b82b511000}{0b:08}【 Townsperson E 】{0b:09}\nLuca-sama, don't go! They'll kill you!{0c:2b0b09fe}",
+   "status": "done",
+   "tl": "Luca-sama, don't go! They'll kill you!"
   },
   {
    "id": "RES#246:43ed8",
@@ -503,8 +528,9 @@
    "jp": "{0c:51e0}{0b:08}{e080} 兵士A {e081}{0b:09}\n黙れ黙れ!\nここで貴様等もまとめて\n皆殺しにすることも出来るのだぞ!{0c:2b5109fe}",
    "read": "{0c:51e0}{0b:08}【 兵士A 】{0b:09}\n黙れ黙れ!\nここで貴様等もまとめて\n皆殺しにすることも出来るのだぞ!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51e0}{0b:08}【 Soldier A 】{0b:09}\nSilence, silence! We could slaughter the\nwhole lot of you right here!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Silence, silence! We could slaughter the whole lot of you right here!"
   },
   {
    "id": "RES#246:43f23",
@@ -536,8 +562,9 @@
    "jp": "{0b:08}{e080} 兵士C {e081}{0b:09}\nだ、誰だ!?{0c:2b5109fe}",
    "read": "{0b:08}【 兵士C 】{0b:09}\nだ、誰だ!?{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Soldier C 】{0b:09}\nW-who's there!?{0c:2b5109fe}",
+   "status": "done",
+   "tl": "W-who's there!?"
   },
   {
    "id": "RES#246:43fdc",
@@ -547,8 +574,9 @@
    "jp": "{0c:5140}{1c:17}{0b:08}{e080} ルカ {e081}{0b:09}\nあ、あなたは・・・{0c:2b0c09fe}",
    "read": "{0c:5140}{1c:17}{0b:08}【 ルカ 】{0b:09}\nあ、あなたは・・・{0c:2b0c09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5140}{1c:17}{0b:08}【 Luca 】{0b:09}\nY-you are...{0c:2b0c09fe}",
+   "status": "done",
+   "tl": "Y-you are..."
   },
   {
    "id": "RES#246:44001",
@@ -558,8 +586,9 @@
    "jp": "{0b:08}{e080} 兵士{01}B {e081}{0b:09}\n貴様{02}、死にたいのか{01}!{0c:2b0b09fe}",
    "read": "{0b:08}【 兵士{01}B 】{0b:09}\n貴様{02}、死にたいのか{01}!{0c:2b0b09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Soldier B 】{0b:09}\nYou there, do you want to die!{0c:2b0b09fe}",
+   "status": "done",
+   "tl": "You there, do you want to die!"
   },
   {
    "id": "RES#246:44028",
@@ -569,8 +598,9 @@
    "jp": "{0c:51f8}{0b:08}{e080} 兵士A {e081}{0b:09}\nま、待て!\nせ、戦場で見たことがある・・・\nこ、こいつは、で、伝{e0af}の傭兵・{07:05}・{07:05}・{07:14}{0c:2b5109fe}",
    "read": "{0c:51f8}{0b:08}【 兵士A 】{0b:09}\nま、待て!\nせ、戦場で見たことがある・・・\nこ、こいつは、で、伝説の傭兵・{07:05}・{07:05}・{07:14}{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51f8}{0b:08}【 Soldier A 】{0b:09}\nW-wait! I've seen this one on the\nb-battlefield... T-this is the l-legendary\nmercenary.{07:05}.{07:05}.{07:14}{0c:2b5109fe}",
+   "status": "done",
+   "tl": "W-wait! I've seen this one on the b-battlefield... T-this is the l-legendary mercenary.[1].[2]."
   },
   {
    "id": "RES#246:4407c",
@@ -580,8 +610,9 @@
    "jp": "{0c:e9070100e9060100e9051e00}{1c:18}{0b:08}{e080} ルカ {e081}{0b:09}\n{10}さん!!{07:07}{0c:fe}",
    "read": "{0c:e9070100e9060100e9051e00}{1c:18}{0b:08}【 ルカ 】{0b:09}\n{10}さん!!{07:07}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:e9070100e9060100e9051e00}{1c:18}{0b:08}【 Luca 】{0b:09}\n{10}-san!!{07:07}{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]-san!!"
   },
   {
    "id": "RES#246:440a7",
@@ -635,8 +666,9 @@
    "jp": "{0c:5108}{1c:12}{0b:08}{e080} ルカ {e081}{0b:09}\nこちらがレンティア方面、\nこちらがセヴァル方面ですか・・・{0c:fe}",
    "read": "{0c:5108}{1c:12}{0b:08}【 ルカ 】{0b:09}\nこちらがレンティア方面、\nこちらがセヴァル方面ですか・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5108}{1c:12}{0b:08}【 Luca 】{0b:09}\nThis way is toward Lentia, and this way\ntoward Seval, then...{0c:fe}",
+   "status": "done",
+   "tl": "This way is toward Lentia, and this way toward Seval, then..."
   },
   {
    "id": "RES#246:4430c",
@@ -657,8 +689,9 @@
    "jp": "{1c:10}{10}さん、\nここで・・・お別れですね。{0c:fe}",
    "read": "{1c:10}{10}さん、\nここで・・・お別れですね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{10}-san, so this is... where we\npart.{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]-san, so this is... where we part."
   },
   {
    "id": "RES#246:44335",
@@ -679,8 +712,9 @@
    "jp": "{1c:14}街道荒らしが・・・出るのですか?{0c:fe}",
    "read": "{1c:14}街道荒らしが・・・出るのですか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}There are... highwaymen on the road?{0c:fe}",
+   "status": "done",
+   "tl": "There are... highwaymen on the road?"
   },
   {
    "id": "RES#246:4435c",
@@ -701,8 +735,9 @@
    "jp": "{0c:5110}{1c:13}いえ、1人で大丈夫です。{1a}それに、ここでまた\n{10}さんに頼ってしまったら、{1a}わたしはいつまでたっても\n1人では何も出来ない\n情けない男になってしまいますから。{0c:fe}",
    "read": "{0c:5110}{1c:13}いえ、1人で大丈夫です。{1a}それに、ここでまた\n{10}さんに頼ってしまったら、{1a}わたしはいつまでたっても\n1人では何も出来ない\n情けない男になってしまいますから。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5110}{1c:13}No, I will be fine alone.{1a}Besides, if I lean on you again here,\n{10}-san,{1a}I will end up a pathetic man who can\nnever do anything alone, however long I\nlive.{0c:fe}",
+   "status": "done",
+   "tl": "No, I will be fine alone. // Besides, if I lean on you again here, [HERO]-san, // I will end up a pathetic man who can never do anything alone, however long I live."
   },
   {
    "id": "RES#246:443d3",
@@ -723,8 +758,9 @@
    "jp": "{1c:15}生意気ですよね。\n今まで散{e084}{10}さんに\n頼ってきたのに・・・{1a}それに、本当なら\n街道荒らしが出るような場所で\n女性を1人にする方が、\nよっぽど男らしくないのでしょうが、{1a}{10}さんなら・・・\n大丈夫ですよね?{0c:fe}",
    "read": "{1c:15}生意気ですよね。\n今まで散々{10}さんに\n頼ってきたのに・・・{1a}それに、本当なら\n街道荒らしが出るような場所で\n女性を1人にする方が、\nよっぽど男らしくないのでしょうが、{1a}{10}さんなら・・・\n大丈夫ですよね?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}It is presumptuous of me, I know. After\nall the times I have leaned on you,\n{10}-san...{1a}Besides, truly, leaving a woman alone in a\nplace with highwaymen is far less manly, I\nsuppose,{1a}but you, {10}-san... you will be fine,\nwon't you?{0c:fe}",
+   "status": "done",
+   "tl": "It is presumptuous of me, I know. After all the times I have leaned on you, [HERO]-san... // Besides, truly, leaving a woman alone in a place with highwaymen is far less manly, I suppose, // but you, [HERO]-san... you will be fine, won't you?"
   },
   {
    "id": "RES#246:44467",
@@ -745,8 +781,9 @@
    "jp": "{1c:11}すみません、{10}さん・・・{1a}{10}さんのこと、大好きです。\nずっと一緒にいたいです・・・{1a}でも、今のままでは駄目なんです。\n{10}さんの{e0b5}に立つ\n資格がある男になるまでは・・・{1a}やっぱりわたしも男ですから・・・{0c:fe}",
    "read": "{1c:11}すみません、{10}さん・・・{1a}{10}さんのこと、大好きです。\nずっと一緒にいたいです・・・{1a}でも、今のままでは駄目なんです。\n{10}さんの横に立つ\n資格がある男になるまでは・・・{1a}やっぱりわたしも男ですから・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}I'm sorry, {10}-san...{1a}I love you so very much, {10}-san. I\nwant to stay with you always...{1a}But things can't stay as they are. Not\nuntil I've become a man with the right to\nstand beside you, {10}-san...{1a}I am a man too, after all...{0c:fe}",
+   "status": "done",
+   "tl": "I'm sorry, [HERO]-san... // I love you so very much, [HERO]-san. I want to stay with you always... // But things can't stay as they are. Not until I've become a man with the right to stand beside you, [HERO]-san... // I am a man too, after all..."
   },
   {
    "id": "RES#246:444f6",
@@ -767,8 +804,9 @@
    "jp": "{1c:11}もちろん、\nわたしがいくら体を{e086}えたって、\n皆さんみたいに強くはなれません。{1a}わたしに出来ることは何か・・・\n{10}さんを待ってる間\nずっとずっと考えてたんです。{1a}{0c:5110}{01}1{e087}間{02}、ずっと考えてみたんですが、\nやはりわたしには\n信仰を{e089}く生き方しか\n思い浮かびませんでした。{0c:fe}",
    "read": "{1c:11}もちろん、\nわたしがいくら体を鍛えたって、\n皆さんみたいに強くはなれません。{1a}わたしに出来ることは何か・・・\n{10}さんを待ってる間\nずっとずっと考えてたんです。{1a}{0c:5110}{01}1年間{02}、ずっと考えてみたんですが、\nやはりわたしには\n信仰を貫く生き方しか\n思い浮かびませんでした。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Of course, no matter how much I train\nmy body, I could never be as strong as all\nof you.{1a}What is it that I can do...? All the while I\nwas waiting for you, {10}-san, I\nthought and thought about it.{1a}{0c:5110}I spent a whole year thinking, but the\nonly way of life I could picture for myself\nwas to hold fast to my faith.{0c:fe}",
+   "status": "done",
+   "tl": "Of course, no matter how much I train my body, I could never be as strong as all of you. // What is it that I can do...? All the while I was waiting for you, [HERO]-san, I thought and thought about it. // [1]I spent a whole year thinking, but the only way of life I could picture for myself was to hold fast to my faith."
   },
   {
    "id": "RES#246:445b0",
@@ -789,8 +827,9 @@
    "jp": "{1c:11}アノイア{e08b}の\n誕生の{e08d}密を知ってるのは\nあの町にいた人達のみ・・・{1a}多くの人{e084}にとって、\nいまだにアノイア{e08b}は\n心のより所であり{e08b}{e08f}です。{1a}{e090}に、この戦乱の時{e091}、\n軍馬のいななきに怯え暮らす人{e084}には\n何よりも心の支えが必要でしょう。{1a}でも、今のアノイア{e08b}では\n人{e084}の心は救えません。{1a}聖{e096}の中には、\n他人を{e097}うようにだとか、\n親を大切にだとか、\n生命の{e099}さ、人間の{e099}厳だとか・・・{1a}ありふれてはいますが、\nどの時{e091}でも{e09b}理となりうる\n人の心が描かれているのに\n{e08b}{e09d}はそこを{e09e}み{e09f}ばし、{1a}{e08b}{e0a0}庁や為政者は、アノイア{e08b}を\n神の{e085}の下に人{e084}を支配するための\n道具として利用しています。{0c:fe}",
    "read": "{1c:11}アノイア教の\n誕生の秘密を知ってるのは\nあの町にいた人達のみ・・・{1a}多くの人々にとって、\nいまだにアノイア教は\n心のより所であり教師です。{1a}特に、この戦乱の時代、\n軍馬のいななきに怯え暮らす人々には\n何よりも心の支えが必要でしょう。{1a}でも、今のアノイア教では\n人々の心は救えません。{1a}聖書の中には、\n他人を敬うようにだとか、\n親を大切にだとか、\n生命の尊さ、人間の尊厳だとか・・・{1a}ありふれてはいますが、\nどの時代でも真理となりうる\n人の心が描かれているのに\n教会はそこを読み飛ばし、{1a}教皇庁や為政者は、アノイア教を\n神の名の下に人々を支配するための\n道具として利用しています。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Only those who were in that town know\nthe secret of how the Anoian faith was\nborn...{1a}For many people, the Anoian faith is still\na refuge for the heart, and a teacher.{1a}Especially in these times of war, people\nwho live in fear of the neighing of\nwarhorses must need something to lean\non above all.{1a}But the Anoian faith as it stands\ncannot save people's hearts.{1a}The Scriptures tell us to respect\nothers, to cherish our parents, of the\nvalue of life, of human dignity...{1a}Commonplace as they are, they portray\na human heart that can be true in any\nage, and yet the Church skips over\nthose parts,{1a}and the Holy See and those who rule use\nthe Anoian faith as a tool to dominate\npeople in the name of God.{0c:fe}",
+   "status": "done",
+   "tl": "Only those who were in that town know the secret of how the Anoian faith was born... // For many people, the Anoian faith is still a refuge for the heart, and a teacher. // Especially in these times of war, people who live in fear of the neighing of warhorses must need something to lean on above all. // But the Anoian faith as it stands cannot save people's hearts. // The Scriptures tell us to respect others, to cherish our parents, of the value of life, of human dignity... // Commonplace as they are, they portray a human heart that can be true in any age, and yet the Church skips over those parts, // and the Holy See and those who rule use the Anoian faith as a tool to dominate people in the name of God."
   },
   {
    "id": "RES#246:4474b",
@@ -811,8 +850,9 @@
    "jp": "{1c:11}わたしは、\n仕{e0a3}まれたものでもなく、\n支配者のためのものでもなく、\n{e08b}{e09d}のためのものでもない、{1a}人{e084}の立場に立った、\n{e0a4}しいアノイア{e08b}を\n人{e084}に伝えていきたい・・・{1a}こんなわたしに\n何が出来るかは分かりません・・・{1a}でも、わたしは動きたい・・・\n{e09b}実を知った者の責任として。{0c:fe}",
    "read": "{1c:11}わたしは、\n仕組まれたものでもなく、\n支配者のためのものでもなく、\n教会のためのものでもない、{1a}人々の立場に立った、\n新しいアノイア教を\n人々に伝えていきたい・・・{1a}こんなわたしに\n何が出来るかは分かりません・・・{1a}でも、わたしは動きたい・・・\n真実を知った者の責任として。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}I wish to bring to people a new Anoian\nfaith, not contrived by anyone, not for\nthe rulers, not for the Church,{1a}but standing with the people...{1a}I do not know what someone like me can\ndo...{1a}But I want to act... as the duty of one\nwho has learned the truth.{0c:fe}",
+   "status": "done",
+   "tl": "I wish to bring to people a new Anoian faith, not contrived by anyone, not for the rulers, not for the Church, // but standing with the people... // I do not know what someone like me can do... // But I want to act... as the duty of one who has learned the truth."
   },
   {
    "id": "RES#246:44810",
@@ -833,8 +873,9 @@
    "jp": "{1c:10}{10}さん、\n本当にありがとうございました。{1a}{10}さんはわたしに\n{e09b}実に目を向ける\n勇気を{e0a6}えていただきました・・・{0c:fe}",
    "read": "{1c:10}{10}さん、\n本当にありがとうございました。{1a}{10}さんはわたしに\n真実に目を向ける\n勇気を与えていただきました・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{10}-san, thank you so very much.{1a}{10}-san, you gave me the\ncourage to face the truth...{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]-san, thank you so very much. // [HERO]-san, you gave me the courage to face the truth..."
   },
   {
    "id": "RES#246:44873",
@@ -855,8 +896,9 @@
    "jp": "{1c:10}さようならは言いません、\nまた逢えると信じていますから・・・{0c:02c901}",
    "read": "{1c:10}さようならは言いません、\nまた逢えると信じていますから・・・{0c:02c901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I won't say goodbye, because I believe we\nwill meet again...{0c:02c901}",
+   "status": "done",
+   "tl": "I won't say goodbye, because I believe we will meet again..."
   },
   {
    "id": "RES#246:448ad",
@@ -888,8 +930,9 @@
    "jp": "{0b:08}{e080} 兵士C {e081}{0b:09}\nだ、誰だ!?{0c:2b5109fe}",
    "read": "{0b:08}【 兵士C 】{0b:09}\nだ、誰だ!?{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Soldier C 】{0b:09}\nW-who's there!?{0c:2b5109fe}",
+   "status": "done",
+   "tl": "W-who's there!?"
   },
   {
    "id": "RES#246:4495c",
@@ -899,8 +942,9 @@
    "jp": "{0c:5140}{1c:17}{0b:08}{e080} ルカ {e081}{0b:09}\nあ・・・あなたは・・・{0c:2b0c09fe}",
    "read": "{0c:5140}{1c:17}{0b:08}【 ルカ 】{0b:09}\nあ・・・あなたは・・・{0c:2b0c09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5140}{1c:17}{0b:08}【 Luca 】{0b:09}\nAh... You... you are...{0c:2b0c09fe}",
+   "status": "done",
+   "tl": "Ah... You... you are..."
   },
   {
    "id": "RES#246:44983",
@@ -910,8 +954,9 @@
    "jp": "{0b:08}{e080} 兵士{01}B {e081}{0b:09}\n貴様{02}、死にたいのか{01}!{0c:2b0b09fe}",
    "read": "{0b:08}【 兵士{01}B 】{0b:09}\n貴様{02}、死にたいのか{01}!{0c:2b0b09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Soldier B 】{0b:09}\nYou there, do you want to die!{0c:2b0b09fe}",
+   "status": "done",
+   "tl": "You there, do you want to die!"
   },
   {
    "id": "RES#246:449aa",
@@ -921,8 +966,9 @@
    "jp": "{0c:51f8}{0b:08}{e080} 兵士A {e081}{0b:09}\nま、待て!\nせ、戦場で見たことがある・・・\nこ、こいつは、伝{e0af}の女傭兵・{07:05}・{07:05}・{07:14}{0c:2b5109fe}",
    "read": "{0c:51f8}{0b:08}【 兵士A 】{0b:09}\nま、待て!\nせ、戦場で見たことがある・・・\nこ、こいつは、伝説の女傭兵・{07:05}・{07:05}・{07:14}{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51f8}{0b:08}【 Soldier A 】{0b:09}\nW-wait! I've seen her on the\nb-battlefield... Th-this is the legendary\nwoman mercenary.{07:05}.{07:05}.{07:14}{0c:2b5109fe}",
+   "status": "done",
+   "tl": "W-wait! I've seen her on the b-battlefield... Th-this is the legendary woman mercenary.[1].[2]."
   },
   {
    "id": "RES#246:449fe",
@@ -932,8 +978,9 @@
    "jp": "{0c:e9070100e9060100e9051e00}{1c:18}{0b:08}{e080} ルカ {e081}{0b:09}\n{10}さん!!{07:07}{0c:fe}",
    "read": "{0c:e9070100e9060100e9051e00}{1c:18}{0b:08}【 ルカ 】{0b:09}\n{10}さん!!{07:07}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:e9070100e9060100e9051e00}{1c:18}{0b:08}【 Luca 】{0b:09}\n{10}-san!!{07:07}{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]-san!!"
   },
   {
    "id": "RES#246:44a29",

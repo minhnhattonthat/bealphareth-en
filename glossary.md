@@ -360,6 +360,18 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 太陽帝国 | Sun Empire | | | Solar Empire |
 | 新しい世界 | New World | | | |
 | セルツ鋼 | Seltz steel | | | |
+| バーゼル | Basel | | | |
+| サンタ・ツリエル修道院 | Santa Turiel Monastery | | | |
+| カッセル | Kassel | | | |
+| 光の扉 | Door of Light | | | |
+| 光の門 | Door of Light | | | |
+| 第二の預言者 | second Prophet | | | |
+| 死の火印 | brand of death | | | |
+| ファルツ公 | Duke Pfalz | | | |
+| 第二の天地創造 | second Creation | | | |
+| ケイブバイパー | Cave Viper | | | |
+| 南アスロイト | South Asroit | | | |
+| 小竜の卵 | Little Dragon's Egg | | | |
 | 赤熱病 | red fever | | | |
 | 銀髪の魔女 | Silver-Haired Witch | | | |
 | 黒サソリのイヴ | Black Scorpion Eve | | | |

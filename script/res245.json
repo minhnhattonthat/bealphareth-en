@@ -41,8 +41,9 @@
    "jp": "{0b:08}{e080} 男の子 {e081}{0b:09}\nさよなら、ノエル先生!\n{10}先生!!{0c:2b5409fe}",
    "read": "{0b:08}【 男の子 】{0b:09}\nさよなら、ノエル先生!\n{10}先生!!{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Little Boy 】{0b:09}\nGoodbye, Noel-sensei!\n{10}-sensei!!{0c:2b5409fe}",
+   "status": "done",
+   "tl": "Goodbye, Noel-sensei! [HERO]-sensei!!"
   },
   {
    "id": "RES#245:4330e",
@@ -52,8 +53,9 @@
    "jp": "{0b:08}{e080} 女の子 {e081}{0b:09}\nさよなら!{0c:2b5109fe}",
    "read": "{0b:08}【 女の子 】{0b:09}\nさよなら!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Little Girl 】{0b:09}\nGoodbye!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Goodbye!"
   },
   {
    "id": "RES#245:4332b",
@@ -63,8 +65,9 @@
    "jp": "{0c:5150}{1c:10}{0b:08}{e080} ノエル {e081}{0b:09}\nさよなら、\nザック君、アムリタちゃん。{0c:fe}",
    "read": "{0c:5150}{1c:10}{0b:08}【 ノエル 】{0b:09}\nさよなら、\nザック君、アムリタちゃん。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5150}{1c:10}{0b:08}【 Noel 】{0b:09}\nGoodbye, Zack-kun, Amrita-chan.{0c:fe}",
+   "status": "done",
+   "tl": "Goodbye, Zack-kun, Amrita-chan."
   },
   {
    "id": "RES#245:4335b",
@@ -85,8 +88,9 @@
    "jp": "{0c:51482b501000}{1c:11}本当に元気な兄{e082}ね。{1a}6才から17才まで\n34人の子供達があたし達の塾に\n来てくれているけど、{1a}『元気さ』ではあの子達が\n1番かもしれないわね。{0c:fe}",
    "read": "{0c:51482b501000}{1c:11}本当に元気な兄妹ね。{1a}6才から17才まで\n34人の子供達があたし達の塾に\n来てくれているけど、{1a}『元気さ』ではあの子達が\n1番かもしれないわね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51482b501000}{1c:11}Such a lively brother and sister.{1a}Thirty-four children from six to\nseventeen come to our school,{1a}but for sheer 'liveliness', those two may\nwell be the best.{0c:fe}",
+   "status": "done",
+   "tl": "Such a lively brother and sister. // Thirty-four children from six to seventeen come to our school, // but for sheer 'liveliness', those two may well be the best."
   },
   {
    "id": "RES#245:43403",
@@ -107,8 +111,9 @@
    "jp": "{1c:12}ねえ、{10}・・・{1a}今の生活、5{e086}前と比べると\nやっぱりあなたには少し退屈?{0c:fe}",
    "read": "{1c:12}ねえ、{10}・・・{1a}今の生活、5年前と比べると\nやっぱりあなたには少し退屈?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Say, {10}...{1a}Compared to five years ago, is this life a\nlittle dull for you after all?{0c:fe}",
+   "status": "done",
+   "tl": "Say, [HERO]... // Compared to five years ago, is this life a little dull for you after all?"
   },
   {
    "id": "RES#245:43449",
@@ -129,8 +134,9 @@
    "jp": "{0c:5158}{1c:11}ありがとう。\nあたしもすごく充実してる。{1a}子供達に{e088}まれて、本に{e088}まれて、\nそしてあなたに支えられて・・・{0c:fe}",
    "read": "{0c:5158}{1c:11}ありがとう。\nあたしもすごく充実してる。{1a}子供達に囲まれて、本に囲まれて、\nそしてあなたに支えられて・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5158}{1c:11}Thank you. I'm finding it so fulfilling, too.{1a}Surrounded by children, surrounded by\nbooks, and supported by you...{0c:fe}",
+   "status": "done",
+   "tl": "Thank you. I'm finding it so fulfilling, too. // Surrounded by children, surrounded by books, and supported by you..."
   },
   {
    "id": "RES#245:434a1",
@@ -140,8 +146,9 @@
    "jp": "{0c:51481001}{1c:17}それに、{e08a}えるということが\n楽しくてしょうがないの。{1a}子供達はまるで{e08b}綿のように\nいろんな事を{e08d}{e08e}してくれる。{1a}あたしもそんな子供達に\n負けないように、\n{e08f}んな事をあの子達に{e08a}えたい。{1a}{0c:5158}知識も大事だけど、それ以外にも\n生きる強さ、本当の優しさ、\n友達と一緒に何かをする喜び、\n人を信じることの{e090}さ・・・{1a}あたしがあなたに{e08a}わったことの\n全てを子供達に伝えたい。{0c:fe}",
    "read": "{0c:51481001}{1c:17}それに、教えるということが\n楽しくてしょうがないの。{1a}子供達はまるで海綿のように\nいろんな事を吸収してくれる。{1a}あたしもそんな子供達に\n負けないように、\n色んな事をあの子達に教えたい。{1a}{0c:5158}知識も大事だけど、それ以外にも\n生きる強さ、本当の優しさ、\n友達と一緒に何かをする喜び、\n人を信じることの尊さ・・・{1a}あたしがあなたに教わったことの\n全てを子供達に伝えたい。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51481001}{1c:17}Besides, I just can't get enough of\nteaching.{1a}The children soak up everything like\nsponges.{1a}Not to be outdone by them, I want to\nteach them all kinds of things.{1a}{0c:5158}Knowledge matters, but beyond that,\nthe strength to live, true kindness, the\njoy of doing things with friends, the\nvalue of trusting people...{1a}I want to pass on to the children\neverything you taught me.{0c:fe}",
+   "status": "done",
+   "tl": "Besides, I just can't get enough of teaching. // The children soak up everything like sponges. // Not to be outdone by them, I want to teach them all kinds of things. // [1]Knowledge matters, but beyond that, the strength to live, true kindness, the joy of doing things with friends, the value of trusting people... // I want to pass on to the children everything you taught me."
   },
   {
    "id": "RES#245:43592",
@@ -162,8 +169,9 @@
    "jp": "{1c:16}こんな地獄のような世{e091}でも、\n子供達には{e092}来があるから・・・{1a}世{e091}を変える{e093}{e094}性があるから・・・{1a}{e095}りが悪い、大人達が悪い、\n時{e096}が悪いとか言って、{1a}{0c:5160}原因を外に求めて\n何でもすぐに{e099}めてしまうような\n子供にはしたくない。{1a}子供達に『生きる楽しさ』を\n{e08a}えてあげたいの。{0c:fe}",
    "read": "{1c:16}こんな地獄のような世界でも、\n子供達には未来があるから・・・{1a}世界を変える可能性があるから・・・{1a}周りが悪い、大人達が悪い、\n時代が悪いとか言って、{1a}{0c:5160}原因を外に求めて\n何でもすぐに諦めてしまうような\n子供にはしたくない。{1a}子供達に『生きる楽しさ』を\n教えてあげたいの。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}Even in a world as hellish as this, the\nchildren have a future...{1a}They have the chance to change the\nworld...{1a}Saying their surroundings are to blame,\nthe adults are to blame, the times are\nto blame,{1a}{0c:5160}looking outside themselves for the cause\nand giving up on everything right away:\nthat is not the kind of child I want to\nraise.{1a}I want to teach the children the 'joy of\nliving'.{0c:fe}",
+   "status": "done",
+   "tl": "Even in a world as hellish as this, the children have a future... // They have the chance to change the world... // Saying their surroundings are to blame, the adults are to blame, the times are to blame, // [1]looking outside themselves for the cause and giving up on everything right away: that is not the kind of child I want to raise. // I want to teach the children the 'joy of living'."
   },
   {
    "id": "RES#245:43660",
@@ -184,8 +192,9 @@
    "jp": "{0c:51482b501000}{1c:13}つまり、この塾は\n昔のあたしみたいな子供を\n{e09b}らないための塾ってことね。{0c:fe}",
    "read": "{0c:51482b501000}{1c:13}つまり、この塾は\n昔のあたしみたいな子供を\n作らないための塾ってことね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51482b501000}{1c:13}In other words, this school exists so\nthat no more children turn out the way I\nused to be.{0c:fe}",
+   "status": "done",
+   "tl": "In other words, this school exists so that no more children turn out the way I used to be."
   },
   {
    "id": "RES#245:436ac",
@@ -195,8 +204,9 @@
    "jp": "{0c:2b502351012b511000}{1c:13}あたしはあなたのおかげで\n変わることが出来た・{07:05}・{07:05}・{07:14}\n今度はあたしの番。{07:07}{1a}あの子達にどれだけのことを\n伝えられるか分からないけど、{1a}戦争という{e09d}い闇に覆われた\nこの世{e091}で、{e092}来に希望を持てずに\n苦しんでいる子供達を救いたい。{0c:fe}",
    "read": "{0c:2b502351012b511000}{1c:13}あたしはあなたのおかげで\n変わることが出来た・{07:05}・{07:05}・{07:14}\n今度はあたしの番。{07:07}{1a}あの子達にどれだけのことを\n伝えられるか分からないけど、{1a}戦争という黒い闇に覆われた\nこの世界で、未来に希望を持てずに\n苦しんでいる子供達を救いたい。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b502351012b511000}{1c:13}Thanks to you, I was able to change.{07:05}.{07:05}.{07:14}\nNow it's my turn.{07:07}{1a}I don't know how much I can pass on to\nthem,{1a}but in this world shrouded in the black\ndarkness of war, I want to save the\nchildren who suffer, unable to hope for\nthe future.{0c:fe}",
+   "status": "done",
+   "tl": "Thanks to you, I was able to change.[1].[2].[3] Now it's my turn.[4] // I don't know how much I can pass on to them, // but in this world shrouded in the black darkness of war, I want to save the children who suffer, unable to hope for the future."
   },
   {
    "id": "RES#245:4374f",
@@ -206,8 +216,9 @@
    "jp": "{0c:51481001}{1c:17}幸い、カルス・バスティードで\n手に入れた{e09f}{e0a0}だけで、\n贅沢さえしなければ一生ここで\nこうして暮らすことも出来るから。{1a}{e0a4}価な学{e0a7}{e0a8}は{e0a9}えないけど、\nメルーヴァにいるクムランさんが\n要らない本を譲って下さるし、{1a}1{e086}前にボーデン王の軍が\nこの{e0ab}に攻めてきた時\nあなたが活躍してくれたおかげで、{1a}近くの{e0ad}{e0ae}の方から\n野{e0af}を安く分けてもらえるし。{0c:fe}",
    "read": "{0c:51481001}{1c:17}幸い、カルス・バスティードで\n手に入れた財産だけで、\n贅沢さえしなければ一生ここで\nこうして暮らすことも出来るから。{1a}高価な学術書は買えないけど、\nメルーヴァにいるクムランさんが\n要らない本を譲って下さるし、{1a}1年前にボーデン王の軍が\nこの国に攻めてきた時\nあなたが活躍してくれたおかげで、{1a}近くの農家の方から\n野菜を安く分けてもらえるし。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51481001}{1c:17}Luckily, just the fortune we made in\nKars Bastide is enough for us to live\nhere like this all our lives, as long as we\ndon't indulge in luxury.{1a}We can't buy costly scholarly books, but\nQumran-san in Meruva gives us the ones\nhe no longer needs,{1a}and since you did so well a year ago when\nKing Boden's army invaded this country,{1a}the farmers nearby let us have\nvegetables cheaply.{0c:fe}",
+   "status": "done",
+   "tl": "Luckily, just the fortune we made in Kars Bastide is enough for us to live here like this all our lives, as long as we don't indulge in luxury. // We can't buy costly scholarly books, but Qumran-san in Meruva gives us the ones he no longer needs, // and since you did so well a year ago when King Boden's army invaded this country, // the farmers nearby let us have vegetables cheaply."
   },
   {
    "id": "RES#245:43836",
@@ -217,8 +228,9 @@
    "jp": "{0c:51682b501000}{1c:12}あの戦いのせいで、\n仕{e0b0}の誘いがしつこくなったのは\nちょっと困りものだけど。{0c:fe}",
    "read": "{0c:51682b501000}{1c:12}あの戦いのせいで、\n仕官の誘いがしつこくなったのは\nちょっと困りものだけど。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51682b501000}{1c:12}Because of that battle, the offers to\nenter service have grown persistent,\nwhich is a bit of a nuisance, though.{0c:fe}",
+   "status": "done",
+   "tl": "Because of that battle, the offers to enter service have grown persistent, which is a bit of a nuisance, though."
   },
   {
    "id": "RES#245:4386f",
@@ -239,8 +251,9 @@
    "jp": "{0b:08}{e080} 男の子 {e081}{0b:09}\nこんにちは、先生!{0c:2b5109fe}",
    "read": "{0b:08}【 男の子 】{0b:09}\nこんにちは、先生!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Little Boy 】{0b:09}\nHello, sensei!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Hello, sensei!"
   },
   {
    "id": "RES#245:439c9",
@@ -261,8 +274,9 @@
    "jp": "{1c:10}{0b:08}{e080} ノエル {e081}{0b:09}\nこんにちは。{0c:2b5109fe}",
    "read": "{1c:10}{0b:08}【 ノエル 】{0b:09}\nこんにちは。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Noel 】{0b:09}\nHello.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Hello."
   },
   {
    "id": "RES#245:43a03",
@@ -283,8 +297,9 @@
    "jp": "{0c:5170}{1c:10}ジーク君とフェリックス君、\n今日は何をしたい?{0c:2b5509fe}",
    "read": "{0c:5170}{1c:10}ジーク君とフェリックス君、\n今日は何をしたい?{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5170}{1c:10}Sieg-kun, Felix-kun, what would you like\nto do today?{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Sieg-kun, Felix-kun, what would you like to do today?"
   },
   {
    "id": "RES#245:43a69",
@@ -294,8 +309,9 @@
    "jp": "{0c:5130}{0b:08}{e080} ジーク {e081}{0b:09}\nこれがいい!{0c:2b5609fe}",
    "read": "{0c:5130}{0b:08}【 ジーク 】{0b:09}\nこれがいい!{0c:2b5609fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5130}{0b:08}【 Sieg 】{0b:09}\nThis one!{0c:2b5609fe}",
+   "status": "done",
+   "tl": "This one!"
   },
   {
    "id": "RES#245:43a8b",
@@ -305,8 +321,9 @@
    "jp": "{0b:08}{e080} フェリックス {e081}{0b:09}\nぼく、星の話の続きが聞きたい。{0c:2b5109fe}",
    "read": "{0b:08}【 フェリックス 】{0b:09}\nぼく、星の話の続きが聞きたい。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Felix 】{0b:09}\nI want to hear the rest of the story\nabout the stars.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "I want to hear the rest of the story about the stars."
   },
   {
    "id": "RES#245:43ab8",
@@ -316,8 +333,9 @@
    "jp": "{0c:5178}{1c:10}{0b:08}{e080} ノエル {e081}{0b:09}\nじゃあフェリックス君、\n今日はお{e0b2}気もいいし\n川のところでお話しようか。{1a}{0c:51802b501000}あなた、ジーク君をお願いね。{0c:fe}",
    "read": "{0c:5178}{1c:10}{0b:08}【 ノエル 】{0b:09}\nじゃあフェリックス君、\n今日はお天気もいいし\n川のところでお話しようか。{1a}{0c:51802b501000}あなた、ジーク君をお願いね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5178}{1c:10}{0b:08}【 Noel 】{0b:09}\nThen, Felix-kun, the weather's nice\ntoday, so let's talk by the river.{1a}{0c:51802b501000}Dear, please look after Sieg-kun.{0c:fe}",
+   "status": "done",
+   "tl": "Then, Felix-kun, the weather's nice today, so let's talk by the river. // [1]Dear, please look after Sieg-kun."
   },
   {
    "id": "RES#245:43b1a",
@@ -338,8 +356,9 @@
    "jp": "{1c:13}ありがとう・・・\nあたしの大好きなあなた。{0c:fe}",
    "read": "{1c:13}ありがとう・・・\nあたしの大好きなあなた。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}Thank you... my dearest love.{0c:fe}",
+   "status": "done",
+   "tl": "Thank you... my dearest love."
   },
   {
    "id": "RES#245:43b95",
@@ -393,8 +412,9 @@
    "jp": "{0c:23fa03}{1c:11}{0b:08}{e080} ノエル {e081}{0b:09}\n{10}、ここにいたのね。{0c:2b502351012b513c}{0c:fe}",
    "read": "{0c:23fa03}{1c:11}{0b:08}【 ノエル 】{0b:09}\n{10}、ここにいたのね。{0c:2b502351012b513c}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:23fa03}{1c:11}{0b:08}【 Noel 】{0b:09}\n{10}, so here you are.{0c:2b502351012b513c}{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], so here you are."
   },
   {
    "id": "RES#245:43e20",
@@ -415,8 +435,9 @@
    "jp": "{1c:15}いい眺めね。{0c:fe}",
    "read": "{1c:15}いい眺めね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}What a fine view.{0c:fe}",
+   "status": "done",
+   "tl": "What a fine view."
   },
   {
    "id": "RES#245:43e46",
@@ -437,8 +458,9 @@
    "jp": "{1c:16}{e0b5}{e0b6}の面積比{01}25分{02}の{01}1{02}、\nその上、女の君{e0b7}って事で\nこの{01}1{e086}間随分舐{02}められてきたけど、{1a}{01}7回{02}も{e0ba}走させてあげたら\nようやく本腰を入れるように\nなったというわけね。{0c:fe}",
    "read": "{1c:16}領土の面積比{01}25分{02}の{01}1{02}、\nその上、女の君主って事で\nこの{01}1年間随分舐{02}められてきたけど、{1a}{01}7回{02}も敗走させてあげたら\nようやく本腰を入れるように\nなったというわけね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}With a twenty-fifth of their territory,\nand a woman for a sovereign, they've\nlooked down on us all this past year,{1a}but after we sent them running a full\nseven times, it seems they're finally\ngetting serious.{0c:fe}",
+   "status": "done",
+   "tl": "With a twenty-fifth of their territory, and a woman for a sovereign, they've looked down on us all this past year, // but after we sent them running a full seven times, it seems they're finally getting serious."
   },
   {
    "id": "RES#245:43ecf",
@@ -459,8 +481,9 @@
    "jp": "{1c:15}『{e0bd}しい世{e091}』の{e0be}の中から\n生還したあなたと再{e0c1}して\nあの{e0c2}を{e0c3}りた後、{1a}あなたは傭兵になり\nあたしは{03}フィサーノ{02}の学{e0a7}{e0c6}に入って\nそれから{01}1{e086}{e0c7}{02}・・・{1a}あなたは傭兵団の{e0c9}になって、\nあたしを参謀役に招いてくれた・・・\nあの時の約束、忘れてないわよね。{0c:fe}",
    "read": "{1c:15}『新しい世界』の光の中から\n生還したあなたと再会して\nあの山を降りた後、{1a}あなたは傭兵になり\nあたしは{03}フィサーノ{02}の学術院に入って\nそれから{01}1年半{02}・・・{1a}あなたは傭兵団の長になって、\nあたしを参謀役に招いてくれた・・・\nあの時の約束、忘れてないわよね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}After you came back alive from the light\nof the 'New World', and we met again and\ncame down that mountain,{1a}you became a mercenary, and I entered\nthe academy in Fisano. A year and a half\nlater...{1a}you had become captain of a mercenary\ncompany and invited me to be your\nstrategist... You haven't forgotten the\npromise you made then, have you?{0c:fe}",
+   "status": "done",
+   "tl": "After you came back alive from the light of the 'New World', and we met again and came down that mountain, // you became a mercenary, and I entered the academy in Fisano. A year and a half later... // you had become captain of a mercenary company and invited me to be your strategist... You haven't forgotten the promise you made then, have you?"
   },
   {
    "id": "RES#245:43f99",
@@ -481,8 +504,9 @@
    "jp": "{1c:14}あなたがもし{e0ab}をつくったら、\n蔵{e0a8}5万冊以上の学{e0a7}{e0c6}を\nあたしの為に{e09b}ってくれるって。{1a}あなたは冗談のつもりで\n約束したのかもしれないけど、\nあたしは本気だったわよ。{1a}3{e086}近くの苦労の末、\n1{e086}前にあの城を獲得して、\n小さいながらも{e0ab}にはなったわ。{1a}この戦いが終わったら\nそろそろ約束を履行してね。{0c:fe}",
    "read": "{1c:14}あなたがもし国をつくったら、\n蔵書5万冊以上の学術院を\nあたしの為に作ってくれるって。{1a}あなたは冗談のつもりで\n約束したのかもしれないけど、\nあたしは本気だったわよ。{1a}3年近くの苦労の末、\n1年前にあの城を獲得して、\n小さいながらも国にはなったわ。{1a}この戦いが終わったら\nそろそろ約束を履行してね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}That if you ever founded a country, you\nwould build me an academy with a library\nof over fifty thousand volumes.{1a}You may have promised as a joke, but I\nwas serious.{1a}After nearly three years of hardship, we\nwon that castle a year ago, and small as\nit is, it became a country.{1a}When this battle is over, it's about time\nyou honored that promise.{0c:fe}",
+   "status": "done",
+   "tl": "That if you ever founded a country, you would build me an academy with a library of over fifty thousand volumes. // You may have promised as a joke, but I was serious. // After nearly three years of hardship, we won that castle a year ago, and small as it is, it became a country. // When this battle is over, it's about time you honored that promise."
   },
   {
    "id": "RES#245:44071",
@@ -503,8 +527,9 @@
    "jp": "{1c:14}いいわ。\nあと2{e086}なら待つから。{1a}それよりも今は\n{e0d0}下の敵のこと・・・{0c:fe}",
    "read": "{1c:14}いいわ。\nあと2年なら待つから。{1a}それよりも今は\n眼下の敵のこと・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}Fine. I'll wait another two years.{1a}More importantly, right now, there's the\nenemy down below...{0c:fe}",
+   "status": "done",
+   "tl": "Fine. I'll wait another two years. // More importantly, right now, there's the enemy down below..."
   },
   {
    "id": "RES#245:440ae",
@@ -525,8 +550,9 @@
    "jp": "{1c:16}{01}3万対2千{02}、\nしかもこちらの{01}82%{02}が\n訓練を始めたばかりの{e0ad}兵。{1a}その上、来月は{e0ad}繁期で\n持久戦に持ち{e0d6}むことも出来ない。\n不利な条{e0d8}が揃いすぎてるわね・・・{0c:fe}",
    "read": "{1c:16}{01}3万対2千{02}、\nしかもこちらの{01}82%{02}が\n訓練を始めたばかりの農兵。{1a}その上、来月は農繁期で\n持久戦に持ち込むことも出来ない。\n不利な条件が揃いすぎてるわね・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}Thirty thousand against two thousand,\nand 82 percent of ours are farm levies\nwho've only just begun training.{1a}What's more, next month is the busy\nfarming season, so we can't draw it out\ninto a war of attrition either. Far too\nmany things against us...{0c:fe}",
+   "status": "done",
+   "tl": "Thirty thousand against two thousand, and 82 percent of ours are farm levies who've only just begun training. // What's more, next month is the busy farming season, so we can't draw it out into a war of attrition either. Far too many things against us..."
   },
   {
    "id": "RES#245:44140",
@@ -547,8 +573,9 @@
    "jp": "{0c:51202b501000}{1c:15}勝つ策はないかって?\n馬鹿なこと聞かないで、\nあるに決まってるでしょ。{1a}不利とは言ったけど、\n負けるとなんて一言も言ってないわよ。{0c:fe}",
    "read": "{0c:51202b501000}{1c:15}勝つ策はないかって?\n馬鹿なこと聞かないで、\nあるに決まってるでしょ。{1a}不利とは言ったけど、\n負けるとなんて一言も言ってないわよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51202b501000}{1c:15}Is there no way to win, you ask? Don't\nask stupid questions. Of course there is.{1a}I said we're at a disadvantage, but I\nnever said one word about losing.{0c:fe}",
+   "status": "done",
+   "tl": "Is there no way to win, you ask? Don't ask stupid questions. Of course there is. // I said we're at a disadvantage, but I never said one word about losing."
   },
   {
    "id": "RES#245:441b1",
@@ -569,8 +596,9 @@
    "jp": "{1c:15}今ある{e09b}戦は3つ。{1a}1つ目は、\nこちらもかなりの被{e0db}を受けるけど、\n相手に致命的なダメージを\n{e0dc}えることが出来る策。{1a}2つ目は、\nこちらの被{e0db}は\n最小限に押さえられるけど、{1a}相手に致命的なダメージを\n{e0dc}えるまでにはいかない、\nとりあえず退却させるためだけの策。{1a}この場合、2ヶ月程度の足止めにしか\nならないと考えていいわ。{0c:fe}",
    "read": "{1c:15}今ある作戦は3つ。{1a}1つ目は、\nこちらもかなりの被害を受けるけど、\n相手に致命的なダメージを\n与えることが出来る策。{1a}2つ目は、\nこちらの被害は\n最小限に押さえられるけど、{1a}相手に致命的なダメージを\n与えるまでにはいかない、\nとりあえず退却させるためだけの策。{1a}この場合、2ヶ月程度の足止めにしか\nならないと考えていいわ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}There are three plans at present.{1a}The first inflicts heavy losses on us too,\nbut can deal the enemy a fatal blow.{1a}The second keeps our losses to a\nminimum,{1a}but can't go as far as a fatal blow, and\nonly makes them retreat for now.{1a}In that case, you can expect it to hold\nthem off for about two months at\nmost.{0c:fe}",
+   "status": "done",
+   "tl": "There are three plans at present. // The first inflicts heavy losses on us too, but can deal the enemy a fatal blow. // The second keeps our losses to a minimum, // but can't go as far as a fatal blow, and only makes them retreat for now. // In that case, you can expect it to hold them off for about two months at most."
   },
   {
    "id": "RES#245:4429d",
@@ -591,8 +619,9 @@
    "jp": "{1c:15}3つ目の策は、\nこちらの被{e0db}は最小限だけど、\n相手に致命的なダメージを\n{e0dc}えることも出来る・・・{1a}{0c:51201007}ただし、あなただけが\n危険な目に遭う策・{07:05}・{07:05}・{07:1e}{0c:fe}",
    "read": "{1c:15}3つ目の策は、\nこちらの被害は最小限だけど、\n相手に致命的なダメージを\n与えることも出来る・・・{1a}{0c:51201007}ただし、あなただけが\n危険な目に遭う策・{07:05}・{07:05}・{07:1e}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}The third plan keeps our losses to a\nminimum and can still deal the enemy a\nfatal blow...{1a}{0c:51201007}But it puts you alone in danger.{07:05}.{07:05}.{07:1e}{0c:fe}",
+   "status": "done",
+   "tl": "The third plan keeps our losses to a minimum and can still deal the enemy a fatal blow... // [1]But it puts you alone in danger.[2].[3]."
   },
   {
    "id": "RES#245:44327",
@@ -602,8 +631,9 @@
    "jp": "{0c:51202b501000}{1c:15}{10}閣下、どれがいい?{07:07}{0c:fe}",
    "read": "{0c:51202b501000}{1c:15}{10}閣下、どれがいい?{07:07}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51202b501000}{1c:15}Your Excellency {10}, which one\nwill it be?{07:07}{0c:fe}",
+   "status": "done",
+   "tl": "Your Excellency [HERO], which one will it be?"
   },
   {
    "id": "RES#245:44344",
@@ -624,8 +654,9 @@
    "jp": "{1c:11}3番ね・・・\nあなたならそう答えると思ったわ。{0c:fe}",
    "read": "{1c:11}3番ね・・・\nあなたならそう答えると思ったわ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Number three... I thought you would say\nthat.{0c:fe}",
+   "status": "done",
+   "tl": "Number three... I thought you would say that."
   },
   {
    "id": "RES#245:4437f",
@@ -646,8 +677,9 @@
    "jp": "{1c:15}はい、これが細かな{e09b}戦計画{e0a8}。{1a}だけど、これを渡す前に\nもう1度確認するわ。{1a}この{e09b}戦のポイントは\nあなた1人が囮になるという{e0e3}と、\nあたし達が出るタイミングを\nほんの少しでも間違えれば、{1a}あなたは間違いなく\n敵の捕虜になるという{e0e3}・・・{1a}その場で殺して貰えるならまだいいわ。\nこういう時の女の不利さは・・・\n分かってるわよね。{1a}どう、大丈夫?\n別の策でもいいのよ。{0c:fe}",
    "read": "{1c:15}はい、これが細かな作戦計画書。{1a}だけど、これを渡す前に\nもう1度確認するわ。{1a}この作戦のポイントは\nあなた1人が囮になるという点と、\nあたし達が出るタイミングを\nほんの少しでも間違えれば、{1a}あなたは間違いなく\n敵の捕虜になるという点・・・{1a}その場で殺して貰えるならまだいいわ。\nこういう時の女の不利さは・・・\n分かってるわよね。{1a}どう、大丈夫?\n別の策でもいいのよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Here, this is the detailed battle plan.{1a}But before I hand it over, I'll confirm one\nmore time.{1a}The point of this plan is that you alone\nact as the decoy, and that if we mistime\nour move even slightly,{1a}you will certainly be taken prisoner by\nthe enemy...{1a}Being killed on the spot would be the\nbetter outcome. What a captive in enemy\nhands would face at a time like this... you\nunderstand, don't you.{1a}Well, can you do it? Another plan is fine\ntoo.{0c:fe}",
+   "status": "done",
+   "tl": "Here, this is the detailed battle plan. // But before I hand it over, I'll confirm one more time. // The point of this plan is that you alone act as the decoy, and that if we mistime our move even slightly, // you will certainly be taken prisoner by the enemy... // Being killed on the spot would be the better outcome. What a captive in enemy hands would face at a time like this... you understand, don't you. // Well, can you do it? Another plan is fine too."
   },
   {
    "id": "RES#245:44477",
@@ -668,8 +700,9 @@
    "jp": "{0c:5130}{1c:11}{10}、ありがとう、\nあたしを信じてくれて・{07:05}・{07:05}・{07:19}{1a}あたしはあなたを絶対に殺さない。{07:05}{0c:fe}",
    "read": "{0c:5130}{1c:11}{10}、ありがとう、\nあたしを信じてくれて・{07:05}・{07:05}・{07:19}{1a}あたしはあなたを絶対に殺さない。{07:05}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5130}{1c:11}{10}, thank you, for trusting me.{07:05}.{07:05}.{07:19}{1a}I will never let you die.{07:05}{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], thank you, for trusting me.[1].[2].[3] // I will never let you die."
   },
   {
    "id": "RES#245:444c0",
@@ -690,8 +723,9 @@
    "jp": "{0c:2b512351202b531000}{0b:08}{e080} 伝令 {e081}{0b:09}\nノエル様、クムラン様より\n魔{e0e6}増幅装{e0e9}が届きました。{1a}{e0eb}兵からどこに配{e0e9}すれば\nよいのかとの問い合わせが。{0c:2b5109fe}",
    "read": "{0c:2b512351202b531000}{0b:08}【 伝令 】{0b:09}\nノエル様、クムラン様より\n魔法増幅装置が届きました。{1a}工兵からどこに配置すれば\nよいのかとの問い合わせが。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b512351202b531000}{0b:08}【 Courier 】{0b:09}\nNoel-sama, the magic amplifier has\narrived from Qumran-sama.{1a}The engineers are asking where to put\nit.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Noel-sama, the magic amplifier has arrived from Qumran-sama. // The engineers are asking where to put it."
   },
   {
    "id": "RES#245:445c5",
@@ -701,8 +735,9 @@
    "jp": "{0c:5140}{1c:16}{0b:08}{e080} ノエル {e081}{0b:09}\n分かった、すぐ行くわ。{0c:fe}",
    "read": "{0c:5140}{1c:16}{0b:08}【 ノエル 】{0b:09}\n分かった、すぐ行くわ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5140}{1c:16}{0b:08}【 Noel 】{0b:09}\nAll right, I'm coming.{0c:fe}",
+   "status": "done",
+   "tl": "All right, I'm coming."
   },
   {
    "id": "RES#245:445ec",
@@ -746,8 +781,9 @@
    "jp": "{1c:13}本当にありがとう。{0c:fe}",
    "read": "{1c:13}本当にありがとう。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}Truly, thank you.{0c:fe}",
+   "status": "done",
+   "tl": "Truly, thank you."
   },
   {
    "id": "RES#245:44662",

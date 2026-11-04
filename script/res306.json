@@ -41,8 +41,9 @@
    "jp": "{1c:10}{0b:08}{e080} アーサー {e081}{0b:09}\nやあ、{10}・・・{0c:15}",
    "read": "{1c:10}{0b:08}【 アーサー 】{0b:09}\nやあ、{10}・・・{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Arthur 】{0b:09}\nHello, {10}...{0c:15}",
+   "status": "done",
+   "tl": "Hello, [HERO]..."
   },
   {
    "id": "RES#306:7f3d",
@@ -52,8 +53,9 @@
    "jp": "{1c:10}{0b:08}{e080} アーサー {e081}{0b:09}\n今から行くのか?{0c:fe}",
    "read": "{1c:10}{0b:08}【 アーサー 】{0b:09}\n今から行くのか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Arthur 】{0b:09}\nHeading out now?{0c:fe}",
+   "status": "done",
+   "tl": "Heading out now?"
   },
   {
    "id": "RES#306:7f5f",
@@ -74,8 +76,9 @@
    "jp": "{1c:10}わかった、行くよ。",
    "read": "{1c:10}わかった、行くよ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}All right, I'll go.",
+   "status": "done",
+   "tl": "All right, I'll go."
   },
   {
    "id": "RES#306:7f70",
@@ -85,8 +88,9 @@
    "jp": "{1c:10}ごめん、先約があるんだ・・・{0c:1601}",
    "read": "{1c:10}ごめん、先約があるんだ・・・{0c:1601}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Sorry, I have a prior engagement...{0c:1601}",
+   "status": "done",
+   "tl": "Sorry, I have a prior engagement..."
   },
   {
    "id": "RES#306:7f87",
@@ -96,8 +100,9 @@
    "jp": "{1c:10}お互い頑張ろう・・・{0c:fe}",
    "read": "{1c:10}お互い頑張ろう・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Let's both do our best...{0c:fe}",
+   "status": "done",
+   "tl": "Let's both do our best..."
   },
   {
    "id": "RES#306:7f9a",
@@ -129,8 +134,9 @@
    "jp": "{1c:10}お互い頑張ろう・・・{0c:fe}",
    "read": "{1c:10}お互い頑張ろう・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Let's both do our best...{0c:fe}",
+   "status": "done",
+   "tl": "Let's both do our best..."
   },
   {
    "id": "RES#306:7fbd",
@@ -162,8 +168,9 @@
    "jp": "{1c:10}{0b:08}{e080} アーサー {e081}{0b:09}\nやあ・・・{0c:15}",
    "read": "{1c:10}{0b:08}【 アーサー 】{0b:09}\nやあ・・・{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Arthur 】{0b:09}\nHello...{0c:15}",
+   "status": "done",
+   "tl": "Hello..."
   },
   {
    "id": "RES#306:7fea",
@@ -173,8 +180,9 @@
    "jp": "{1c:10}{0b:08}{e080} アーサー {e081}{0b:09}\n今から行くのか?{0c:fe}",
    "read": "{1c:10}{0b:08}【 アーサー 】{0b:09}\n今から行くのか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Arthur 】{0b:09}\nHeading out now?{0c:fe}",
+   "status": "done",
+   "tl": "Heading out now?"
   },
   {
    "id": "RES#306:800c",
@@ -195,8 +203,9 @@
    "jp": "{0c:5101}{1c:10}お互い頑張ろう・・・{0c:fe}",
    "read": "{0c:5101}{1c:10}お互い頑張ろう・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5101}{1c:10}Let's both do our best...{0c:fe}",
+   "status": "done",
+   "tl": "Let's both do our best..."
   },
   {
    "id": "RES#306:802b",
@@ -228,8 +237,9 @@
    "jp": "{1c:10}{0b:08}{e080} アーサー {e081}{0b:09}\nやあ、{10}!{0c:15}",
    "read": "{1c:10}{0b:08}【 アーサー 】{0b:09}\nやあ、{10}!{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Arthur 】{0b:09}\nHello there, {10}!{0c:15}",
+   "status": "done",
+   "tl": "Hello there, [HERO]!"
   },
   {
    "id": "RES#306:806a",
@@ -250,8 +260,9 @@
    "jp": "{1c:10}{0b:08}{e080} アーサー {e081}{0b:09}\n大変だったな。\nでも意識が戻って本当によかったよ。\n残るは{0b:05}{14}だけだな。{0c:fe}",
    "read": "{1c:10}{0b:08}【 アーサー 】{0b:09}\n大変だったな。\nでも意識が戻って本当によかったよ。\n残るは{0b:05}{14}だけだな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Arthur 】{0b:09}\nYou went through a lot. But I'm truly\nglad you've come to. Now only\n{0b:05}{14} is left.{0c:fe}",
+   "status": "done",
+   "tl": "You went through a lot. But I'm truly glad you've come to. Now only [1][VAR14] is left."
   },
   {
    "id": "RES#306:80b7",
@@ -272,8 +283,9 @@
    "jp": "{1c:10}よし、力を合わせて\n{0b:05}{14}を助けよう!",
    "read": "{1c:10}よし、力を合わせて\n{0b:05}{14}を助けよう!",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}All right, let's join forces and save\n{0b:05}{14}!",
+   "status": "done",
+   "tl": "All right, let's join forces and save [1][VAR14]!"
   },
   {
    "id": "RES#306:80d5",
@@ -283,8 +295,9 @@
    "jp": "{1c:10}ごめん、先約があるんだ。{0c:16}",
    "read": "{1c:10}ごめん、先約があるんだ。{0c:16}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Sorry, I have a prior engagement.{0c:16}",
+   "status": "done",
+   "tl": "Sorry, I have a prior engagement."
   },
   {
    "id": "RES#306:80e9",
@@ -294,8 +307,9 @@
    "jp": "{1c:10}気をつけていけよ!{0c:15}",
    "read": "{1c:10}気をつけていけよ!{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Take care out there!{0c:15}",
+   "status": "done",
+   "tl": "Take care out there!"
   },
   {
    "id": "RES#306:80fa",
@@ -316,8 +330,9 @@
    "jp": "{1c:10}気をつけていけよ!{0c:02ff}",
    "read": "{1c:10}気をつけていけよ!{0c:02ff}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Take care out there!{0c:02ff}",
+   "status": "done",
+   "tl": "Take care out there!"
   },
   {
    "id": "RES#306:8117",
@@ -338,8 +353,9 @@
    "jp": "{1c:10}{0b:08}{e080} アーサー {e081}{0b:09}\nやあ、みんな!{0c:15}",
    "read": "{1c:10}{0b:08}【 アーサー 】{0b:09}\nやあ、みんな!{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Arthur 】{0b:09}\nHello, everyone!{0c:15}",
+   "status": "done",
+   "tl": "Hello, everyone!"
   },
   {
    "id": "RES#306:8141",
@@ -360,8 +376,9 @@
    "jp": "{1c:10}{0b:08}{e080} アーサー {e081}{0b:09}\n{10}、大変だったな。\nでも意識が戻って本当によかったよ。\n残るは{0b:05}{14}だけだな。{0c:15}",
    "read": "{1c:10}{0b:08}【 アーサー 】{0b:09}\n{10}、大変だったな。\nでも意識が戻って本当によかったよ。\n残るは{0b:05}{14}だけだな。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Arthur 】{0b:09}\n{10}, you went through a lot. But\nI'm truly glad you've come to. Now only\n{0b:05}{14} is left.{0c:15}",
+   "status": "done",
+   "tl": "[HERO], you went through a lot. But I'm truly glad you've come to. Now only [1][VAR14] is left."
   },
   {
    "id": "RES#306:8190",
@@ -382,8 +399,9 @@
    "jp": "{1c:10}気をつけていけよ!{0c:02ff}",
    "read": "{1c:10}気をつけていけよ!{0c:02ff}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Take care out there!{0c:02ff}",
+   "status": "done",
+   "tl": "Take care out there!"
   },
   {
    "id": "RES#306:81ab",
@@ -404,8 +422,9 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\nやあ、{10}・・・{0c:3aff15}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\nやあ、{10}・・・{0c:3aff15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nHello, {10}...{0c:3aff15}",
+   "status": "done",
+   "tl": "Hello, [HERO]..."
   },
   {
    "id": "RES#306:81e4",
@@ -426,8 +445,9 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n責任を感じるよ。\n自分の意志ではないにせよ、\nこの手で人を殺めたなんて・・・{1a}僕は、亡くなった方やバルデスさんに\nどう償えばいいのかわからない・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n責任を感じるよ。\n自分の意志ではないにせよ、\nこの手で人を殺めたなんて・・・{1a}僕は、亡くなった方やバルデスさんに\nどう償えばいいのかわからない・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nI feel responsible. Though it was not my\nown will, to have taken lives with these\nhands...{1a}I don't know how I can atone to those\nwho died, or to Valdes-san...{0c:fe}",
+   "status": "done",
+   "tl": "I feel responsible. Though it was not my own will, to have taken lives with these hands... // I don't know how I can atone to those who died, or to Valdes-san..."
   },
   {
    "id": "RES#306:825d",
@@ -459,8 +479,9 @@
    "jp": "{1c:10}わかった、いくよ。\nここで後悔していても\n何も解決出来ないもんな・・・",
    "read": "{1c:10}わかった、いくよ。\nここで後悔していても\n何も解決出来ないもんな・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}All right, I'll go. Regretting it here won't\nsolve anything...",
+   "status": "done",
+   "tl": "All right, I'll go. Regretting it here won't solve anything..."
   },
   {
    "id": "RES#306:829a",
@@ -470,8 +491,9 @@
    "jp": "{1c:13}ごめん・・・\nまだ僕は行けない・・・{0c:15}",
    "read": "{1c:13}ごめん・・・\nまだ僕は行けない・・・{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}Sorry... I can't go yet...{0c:15}",
+   "status": "done",
+   "tl": "Sorry... I can't go yet..."
   },
   {
    "id": "RES#306:82b4",
@@ -516,8 +538,9 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\nやあ、みんな・・・{0c:3aff15}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\nやあ、みんな・・・{0c:3aff15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nHello, everyone...{0c:3aff15}",
+   "status": "done",
+   "tl": "Hello, everyone..."
   },
   {
    "id": "RES#306:82f3",
@@ -538,8 +561,9 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n責任を感じるよ。\n自分の意志ではないにせよ、\nこの手で人を殺めたなんて・・・{1a}僕は、亡くなった方やバルデスさんに\nどう償えばいいのかわからない・・・{0c:15}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n責任を感じるよ。\n自分の意志ではないにせよ、\nこの手で人を殺めたなんて・・・{1a}僕は、亡くなった方やバルデスさんに\nどう償えばいいのかわからない・・・{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nI feel responsible. Though it was not my\nown will, to have taken lives with these\nhands...{1a}I don't know how I can atone to those\nwho died, or to Valdes-san...{0c:15}",
+   "status": "done",
+   "tl": "I feel responsible. Though it was not my own will, to have taken lives with these hands... // I don't know how I can atone to those who died, or to Valdes-san..."
   },
   {
    "id": "RES#306:836c",
@@ -572,8 +596,9 @@
    "jp": "{1c:10}{0b:08}{e080} アーサー {e081}{0b:09}\nやあ、{10}・・・{0c:3aff15}",
    "read": "{1c:10}{0b:08}【 アーサー 】{0b:09}\nやあ、{10}・・・{0c:3aff15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Arthur 】{0b:09}\nHello, {10}...{0c:3aff15}",
+   "status": "done",
+   "tl": "Hello, [HERO]..."
   },
   {
    "id": "RES#306:83ae",
@@ -594,8 +619,9 @@
    "jp": "{1c:10}{0b:08}{e080} アーサー {e081}{0b:09}\nどうかしたのか?{0c:fe}",
    "read": "{1c:10}{0b:08}【 アーサー 】{0b:09}\nどうかしたのか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Arthur 】{0b:09}\nIs something wrong?{0c:fe}",
+   "status": "done",
+   "tl": "Is something wrong?"
   },
   {
    "id": "RES#306:83d9",
@@ -616,8 +642,9 @@
    "jp": "{1c:10}わかった、いくよ。",
    "read": "{1c:10}わかった、いくよ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}All right, I'll go.",
+   "status": "done",
+   "tl": "All right, I'll go."
   },
   {
    "id": "RES#306:83ec",
@@ -627,8 +654,9 @@
    "jp": "{1c:13}ごめん・・・\nまだ僕は行けない・・・{0c:fe}",
    "read": "{1c:13}ごめん・・・\nまだ僕は行けない・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}Sorry... I can't go yet...{0c:fe}",
+   "status": "done",
+   "tl": "Sorry... I can't go yet..."
   },
   {
    "id": "RES#306:8406",
@@ -695,8 +723,9 @@
    "jp": "{1c:10}{0b:08}{e080} アーサー {e081}{0b:09}\nやあ、みんな・・・{0c:3aff15}",
    "read": "{1c:10}{0b:08}【 アーサー 】{0b:09}\nやあ、みんな・・・{0c:3aff15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Arthur 】{0b:09}\nHello, everyone...{0c:3aff15}",
+   "status": "done",
+   "tl": "Hello, everyone..."
   },
   {
    "id": "RES#306:845c",
@@ -717,8 +746,9 @@
    "jp": "{1c:10}{0b:08}{e080} アーサー {e081}{0b:09}\n{10}、君は強いな・・・{0c:3aff15}",
    "read": "{1c:10}{0b:08}【 アーサー 】{0b:09}\n{10}、君は強いな・・・{0c:3aff15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Arthur 】{0b:09}\n{10}, you're strong...{0c:3aff15}",
+   "status": "done",
+   "tl": "[HERO], you're strong..."
   },
   {
    "id": "RES#306:848c",
@@ -739,8 +769,9 @@
    "jp": "{1c:10}気をつけていけよ。{0c:fe}",
    "read": "{1c:10}気をつけていけよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Take care out there.{0c:fe}",
+   "status": "done",
+   "tl": "Take care out there."
   },
   {
    "id": "RES#306:84a7",
@@ -772,8 +803,9 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\nビアストクは・・・\n父上は大丈夫なんだろうか・・・{1a}いかに父上が{e085}の達人でも\n魔物との戦いには慣れていないんだ。\n僕がそばにいれば、\n父上の力になれるのに・・・{1a}帰る手段があれば\n今すぐにでも帰りたいよ・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\nビアストクは・・・\n父上は大丈夫なんだろうか・・・{1a}いかに父上が剣の達人でも\n魔物との戦いには慣れていないんだ。\n僕がそばにいれば、\n父上の力になれるのに・・・{1a}帰る手段があれば\n今すぐにでも帰りたいよ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nBiastok... Is Father all right, I wonder...{1a}However great a swordsman he is, he\nisn't used to fighting monsters. If I were\nat his side, I could be of help to him...{1a}If there were a way back, I would go\nhome this very moment...{0c:fe}",
+   "status": "done",
+   "tl": "Biastok... Is Father all right, I wonder... // However great a swordsman he is, he isn't used to fighting monsters. If I were at his side, I could be of help to him... // If there were a way back, I would go home this very moment..."
   },
   {
    "id": "RES#306:8559",
@@ -794,8 +826,9 @@
    "jp": "{1c:10}あ、ああ・・・わかった・・・",
    "read": "{1c:10}あ、ああ・・・わかった・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Y-yes... all right...",
+   "status": "done",
+   "tl": "Y-yes... all right..."
   },
   {
    "id": "RES#306:8571",
@@ -805,8 +838,9 @@
    "jp": "{1c:13}ごめん、今日はやめておくよ・・・{0c:fe}",
    "read": "{1c:13}ごめん、今日はやめておくよ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}Sorry, I think I will pass today...{0c:fe}",
+   "status": "done",
+   "tl": "Sorry, I think I will pass today..."
   },
   {
    "id": "RES#306:8589",
@@ -873,8 +907,9 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\nビアストクは・・・\n父上は大丈夫なんだろうか・・・{1a}いかに父上が{e085}の達人でも\n魔物との戦いには慣れていないんだ。\n僕がそばにいれば、\n父上の力になれるのに・・・{1a}帰る手段があれば\n今すぐにでも帰りたいよ・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\nビアストクは・・・\n父上は大丈夫なんだろうか・・・{1a}いかに父上が剣の達人でも\n魔物との戦いには慣れていないんだ。\n僕がそばにいれば、\n父上の力になれるのに・・・{1a}帰る手段があれば\n今すぐにでも帰りたいよ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nBiastok... Is Father all right, I wonder...{1a}However great a swordsman he is, he\nisn't used to fighting monsters. If I were\nat his side, I could be of help to him...{1a}If there were a way back, I would go\nhome this very moment...{0c:fe}",
+   "status": "done",
+   "tl": "Biastok... Is Father all right, I wonder... // However great a swordsman he is, he isn't used to fighting monsters. If I were at his side, I could be of help to him... // If there were a way back, I would go home this very moment..."
   },
   {
    "id": "RES#306:864e",
@@ -918,8 +953,9 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n{10}か・・・{1a}帰る手段があれば\n今すぐにでも帰りたいよ・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n{10}か・・・{1a}帰る手段があれば\n今すぐにでも帰りたいよ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\n{10}, is it...{1a}If there were a way back, I would go\nhome this very moment...{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], is it... // If there were a way back, I would go home this very moment..."
   },
   {
    "id": "RES#306:86ae",
@@ -940,8 +976,9 @@
    "jp": "{1c:13}あ、ああ・・・わかった・・・",
    "read": "{1c:13}あ、ああ・・・わかった・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}Y-yes... all right...",
+   "status": "done",
+   "tl": "Y-yes... all right..."
   },
   {
    "id": "RES#306:86c6",
@@ -951,8 +988,9 @@
    "jp": "{1c:13}ごめん、今日はやめておくよ・・・{0c:fe}",
    "read": "{1c:13}ごめん、今日はやめておくよ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}Sorry, I think I will pass today...{0c:fe}",
+   "status": "done",
+   "tl": "Sorry, I think I will pass today..."
   },
   {
    "id": "RES#306:86de",
@@ -1008,8 +1046,9 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n帰る手段があれば\n今すぐにでも帰りたいよ・・・{0c:15}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n帰る手段があれば\n今すぐにでも帰りたいよ・・・{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nIf there were a way back, I would go\nhome this very moment...{0c:15}",
+   "status": "done",
+   "tl": "If there were a way back, I would go home this very moment..."
   },
   {
    "id": "RES#306:8738",
@@ -1031,8 +1070,9 @@
    "jp": "{0c:315016517a6000de0089}{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n仲間を見捨てなければ\nいけないなんて・・・{1a}僕は本当に正しいのだろうか・・・{0c:15}",
    "read": "{0c:315016517a6000de0089}{1c:13}{0b:08}【 アーサー 】{0b:09}\n仲間を見捨てなければ\nいけないなんて・・・{1a}僕は本当に正しいのだろうか・・・{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:315016517a6000de0089}{1c:13}{0b:08}【 Arthur 】{0b:09}\nTo have to abandon comrades...{1a}Am I truly right, I wonder...{0c:15}",
+   "status": "done",
+   "tl": "To have to abandon comrades... // Am I truly right, I wonder..."
   },
   {
    "id": "RES#306:8792",
@@ -1042,8 +1082,9 @@
    "jp": "{1c:13}僕は・・・\n僕は本当に正しいのだろうか・・・",
    "read": "{1c:13}僕は・・・\n僕は本当に正しいのだろうか・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}I... Am I truly right, I wonder...",
+   "status": "done",
+   "tl": "I... Am I truly right, I wonder..."
   },
   {
    "id": "RES#306:87b0",
@@ -1064,8 +1105,9 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n{10}・・・{1a}バルデスさんはどうしてあそこまで\n潔く命を{e088}げ出せるのだろう・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n{10}・・・{1a}バルデスさんはどうしてあそこまで\n潔く命を投げ出せるのだろう・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\n{10}...{1a}How can Valdes-san give up his life so\ngracefully...{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]... // How can Valdes-san give up his life so gracefully..."
   },
   {
    "id": "RES#306:8806",
@@ -1086,8 +1128,9 @@
    "jp": "{1c:13}ああ・・・{1a}バルデスさんに{e089}いに行こう。\nオイゲンさんの所にいるはずだ。",
    "read": "{1c:13}ああ・・・{1a}バルデスさんに会いに行こう。\nオイゲンさんの所にいるはずだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}Yes...{1a}Let's go see Valdes-san. He should be at\nEugen-san's.",
+   "status": "done",
+   "tl": "Yes... // Let's go see Valdes-san. He should be at Eugen-san's."
   },
   {
    "id": "RES#306:883b",
@@ -1097,8 +1140,9 @@
    "jp": "{1c:13}ごめん・・・\n後で行くよ・・・{0c:fe}",
    "read": "{1c:13}ごめん・・・\n後で行くよ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}Sorry... I'll go later...{0c:fe}",
+   "status": "done",
+   "tl": "Sorry... I'll go later..."
   },
   {
    "id": "RES#306:8852",
@@ -1165,8 +1209,9 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n{10}・・・{1a}バルデスさんはどうしてあそこまで\n潔く命を{e088}げ出せるのだろう・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n{10}・・・{1a}バルデスさんはどうしてあそこまで\n潔く命を投げ出せるのだろう・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\n{10}...{1a}How can Valdes-san give up his life so\ngracefully...{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]... // How can Valdes-san give up his life so gracefully..."
   },
   {
    "id": "RES#306:88c2",
@@ -1210,8 +1255,9 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n{10}・・・{1a}バルデスさんはどうしてあそこまで\n潔く命を{e088}げ出せるのだろう・・・{1a}{e08a}士道{e08b}神を気安く口にする\n僕達貴{e08c}より、どれだけあの人の方が\n{e08a}士の{e08d}にふさわしいか・・・{1a}{0c:51ff4f}{10}・・・\n僕は、身分などにこだわっていた\n自分が情けないよ・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n{10}・・・{1a}バルデスさんはどうしてあそこまで\n潔く命を投げ出せるのだろう・・・{1a}騎士道精神を気安く口にする\n僕達貴族より、どれだけあの人の方が\n騎士の名にふさわしいか・・・{1a}{0c:51ff4f}{10}・・・\n僕は、身分などにこだわっていた\n自分が情けないよ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\n{10}...{1a}How can Valdes-san give up his life so\ngracefully...{1a}How much more worthy of the name of\nknight that man is than we nobles who\nspeak so glibly of chivalry...{1a}{0c:51ff4f}{10}... I'm ashamed of myself,\nclinging to things like rank...{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]... // How can Valdes-san give up his life so gracefully... // How much more worthy of the name of knight that man is than we nobles who speak so glibly of chivalry... // [1][HERO]... I'm ashamed of myself, clinging to things like rank..."
   },
   {
    "id": "RES#306:8996",
@@ -1243,8 +1289,9 @@
    "jp": "{1c:10}そうだな・・・{1a}生きてる僕達が頑張らないと\nいけないんだ・・・",
    "read": "{1c:10}そうだな・・・{1a}生きてる僕達が頑張らないと\nいけないんだ・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Yes...{1a}Those of us still alive have to carry on...",
+   "status": "done",
+   "tl": "Yes... // Those of us still alive have to carry on..."
   },
   {
    "id": "RES#306:89cc",
@@ -1254,8 +1301,9 @@
    "jp": "{1c:13}しばらく1人で考えさせてくれ・・・{0c:16}",
    "read": "{1c:13}しばらく1人で考えさせてくれ・・・{0c:16}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}Please let me think alone for a while...{0c:16}",
+   "status": "done",
+   "tl": "Please let me think alone for a while..."
   },
   {
    "id": "RES#306:89e7",
@@ -1288,8 +1336,9 @@
    "jp": "{1c:10}いつまでも悲しんでるだけでは\nいけないんだ・・・{1a}頑張ろう・・・\nバルデスさんの分も・・・",
    "read": "{1c:10}いつまでも悲しんでるだけでは\nいけないんだ・・・{1a}頑張ろう・・・\nバルデスさんの分も・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}We can't just go on grieving forever...{1a}Let's do our best... For Valdes-san too...",
+   "status": "done",
+   "tl": "We can't just go on grieving forever... // Let's do our best... For Valdes-san too..."
   },
   {
    "id": "RES#306:8a31",
@@ -1310,8 +1359,9 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n{10}・・・{1a}バルデスさんはどうしてあそこまで\n潔く命を{e088}げ出せるのだろう・・・{1a}{e08a}士道{e08b}神を気安く口にする\n僕達貴{e08c}より、どれだけあの人の方が\n{e08a}士の{e08d}にふさわしいか・・・{1a}{0c:51ff4f}{10}・・・\n僕は、身分などにこだわっていた\n自分が情けないよ・・・{0c:15}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n{10}・・・{1a}バルデスさんはどうしてあそこまで\n潔く命を投げ出せるのだろう・・・{1a}騎士道精神を気安く口にする\n僕達貴族より、どれだけあの人の方が\n騎士の名にふさわしいか・・・{1a}{0c:51ff4f}{10}・・・\n僕は、身分などにこだわっていた\n自分が情けないよ・・・{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\n{10}...{1a}How can Valdes-san give up his life so\ngracefully...{1a}How much more worthy of the name of\nknight that man is than we nobles who\nspeak so glibly of chivalry...{1a}{0c:51ff4f}{10}... I'm ashamed of myself,\nclinging to things like rank...{0c:15}",
+   "status": "done",
+   "tl": "[HERO]... // How can Valdes-san give up his life so gracefully... // How much more worthy of the name of knight that man is than we nobles who speak so glibly of chivalry... // [1][HERO]... I'm ashamed of myself, clinging to things like rank..."
   },
   {
    "id": "RES#306:8ae6",
@@ -1344,8 +1394,9 @@
    "jp": "{1c:13}いつまでも悲しんでるだけでは\nいけないんだ・・・{1a}頑張ろう・・・\nバルデスさんの分も・・・",
    "read": "{1c:13}いつまでも悲しんでるだけでは\nいけないんだ・・・{1a}頑張ろう・・・\nバルデスさんの分も・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}We can't just go on grieving forever...{1a}Let's do our best... For Valdes-san too...",
+   "status": "done",
+   "tl": "We can't just go on grieving forever... // Let's do our best... For Valdes-san too..."
   },
   {
    "id": "RES#306:8b30",
@@ -1355,8 +1406,9 @@
    "jp": "{0c:31501651826000de00893a00}{1c:12}{0b:08}{e080} アーサー {e081}{0b:09}\n・・・僕も今から\nルカの所に行こうと思う。{1a}はっきり言って\n彼を{e08e}得出来る自信はない・・・\nでも、仲間を見殺しにすることは\n出来ないよ。{0c:fe}",
    "read": "{0c:31501651826000de00893a00}{1c:12}{0b:08}【 アーサー 】{0b:09}\n・・・僕も今から\nルカの所に行こうと思う。{1a}はっきり言って\n彼を説得出来る自信はない・・・\nでも、仲間を見殺しにすることは\n出来ないよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:31501651826000de00893a00}{1c:12}{0b:08}【 Arthur 】{0b:09}\n...I'm thinking of going to Luca now too.{1a}To be frank, I have no confidence I can\npersuade him... But I can't leave a\ncomrade to die.{0c:fe}",
+   "status": "done",
+   "tl": "...I'm thinking of going to Luca now too. // To be frank, I have no confidence I can persuade him... But I can't leave a comrade to die."
   },
   {
    "id": "RES#306:8bae",
@@ -1377,8 +1429,9 @@
    "jp": "{1c:12}ああ、頑張ろう。",
    "read": "{1c:12}ああ、頑張ろう。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Yes, let's do our best.",
+   "status": "done",
+   "tl": "Yes, let's do our best."
   },
   {
    "id": "RES#306:8bbf",
@@ -1388,8 +1441,9 @@
    "jp": "{1c:10}ごめん、先約があるんだ・・・{0c:16}",
    "read": "{1c:10}ごめん、先約があるんだ・・・{0c:16}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Sorry, I have a prior engagement...{0c:16}",
+   "status": "done",
+   "tl": "Sorry, I have a prior engagement..."
   },
   {
    "id": "RES#306:8bd5",
@@ -1399,8 +1453,9 @@
    "jp": "{1c:12}{10}も頑張ってくれ。{0c:15}",
    "read": "{1c:12}{10}も頑張ってくれ。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}You do your best too, {10}.{0c:15}",
+   "status": "done",
+   "tl": "You do your best too, [HERO]."
   },
   {
    "id": "RES#306:8be6",
@@ -1410,8 +1465,9 @@
    "jp": "{1c:12}お互いに頑張ろう。",
    "read": "{1c:12}お互いに頑張ろう。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Let's both do our best.",
+   "status": "done",
+   "tl": "Let's both do our best."
   },
   {
    "id": "RES#306:8bf5",
@@ -1421,8 +1477,9 @@
    "jp": "{1c:10}{0b:08}{e080} アーサー {e081}{0b:09}\nみんな今から行くのか?\n僕も後から行くよ。\nお互いに頑張ろう。{0c:15}",
    "read": "{1c:10}{0b:08}【 アーサー 】{0b:09}\nみんな今から行くのか?\n僕も後から行くよ。\nお互いに頑張ろう。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Arthur 】{0b:09}\nYou're all going now? I'll be along later.\nLet's all do our best.{0c:15}",
+   "status": "done",
+   "tl": "You're all going now? I'll be along later. Let's all do our best."
   },
   {
    "id": "RES#306:8c35",
@@ -1432,8 +1489,9 @@
    "jp": "{1c:10}お互いに頑張ろう。",
    "read": "{1c:10}お互いに頑張ろう。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Let's both do our best.",
+   "status": "done",
+   "tl": "Let's both do our best."
   },
   {
    "id": "RES#306:8c44",
@@ -1454,8 +1512,9 @@
    "jp": "{1c:10}{0b:08}{e080} アーサー {e081}{0b:09}\nやあ、{10}。{0c:3aff15}",
    "read": "{1c:10}{0b:08}【 アーサー 】{0b:09}\nやあ、{10}。{0c:3aff15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Arthur 】{0b:09}\nHello, {10}.{0c:3aff15}",
+   "status": "done",
+   "tl": "Hello, [HERO]."
   },
   {
    "id": "RES#306:8c7d",
@@ -1476,8 +1535,9 @@
    "jp": "{1c:10}{0b:08}{e080} アーサー {e081}{0b:09}\n{10}、もう行くのか?{0c:fe}",
    "read": "{1c:10}{0b:08}【 アーサー 】{0b:09}\n{10}、もう行くのか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Arthur 】{0b:09}\n{10}, going already?{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], going already?"
   },
   {
    "id": "RES#306:8caa",
@@ -1498,8 +1558,9 @@
    "jp": "{1c:11}えっ? 僕は駄目だよ。\n{10}にはちゃんと\nふさわしい相手がいるじゃないか。{0c:3aff16}",
    "read": "{1c:11}えっ? 僕は駄目だよ。\n{10}にはちゃんと\nふさわしい相手がいるじゃないか。{0c:3aff16}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}What? Not me. You have someone right\nfor you, {10}, don't you?{0c:3aff16}",
+   "status": "done",
+   "tl": "What? Not me. You have someone right for you, [HERO], don't you?"
   },
   {
    "id": "RES#306:8ce3",
@@ -1509,8 +1570,9 @@
    "jp": "{1c:10}頑張れよ、{10}!{0c:3aff15}",
    "read": "{1c:10}頑張れよ、{10}!{0c:3aff15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Do your best, {10}!{0c:3aff15}",
+   "status": "done",
+   "tl": "Do your best, [HERO]!"
   },
   {
    "id": "RES#306:8cf5",
@@ -1531,8 +1593,9 @@
    "jp": "{1c:10}頑張れよ、{10}!{0c:3afffe}",
    "read": "{1c:10}頑張れよ、{10}!{0c:3afffe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Do your best, {10}!{0c:3afffe}",
+   "status": "done",
+   "tl": "Do your best, [HERO]!"
   },
   {
    "id": "RES#306:8d12",
@@ -1564,8 +1627,9 @@
    "jp": "{1c:10}{0b:08}{e080} アーサー {e081}{0b:09}\nやあ、{10}、{11}。{0c:15}",
    "read": "{1c:10}{0b:08}【 アーサー 】{0b:09}\nやあ、{10}、{11}。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Arthur 】{0b:09}\nHello, {10}, {11}.{0c:15}",
+   "status": "done",
+   "tl": "Hello, [HERO], [VAR11]."
   },
   {
    "id": "RES#306:8d50",
@@ -1586,8 +1650,9 @@
    "jp": "{1c:10}{0b:08}{e080} アーサー {e081}{0b:09}\n2人とも頑張れよ!{0c:02ff}",
    "read": "{1c:10}{0b:08}【 アーサー 】{0b:09}\n2人とも頑張れよ!{0c:02ff}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Arthur 】{0b:09}\nDo your best, you two!{0c:02ff}",
+   "status": "done",
+   "tl": "Do your best, you two!"
   },
   {
    "id": "RES#306:8d83",
@@ -1608,8 +1673,9 @@
    "jp": "{1c:10}{0b:08}{e080} アーサー {e081}{0b:09}\nやあ、{10}。{0c:15}",
    "read": "{1c:10}{0b:08}【 アーサー 】{0b:09}\nやあ、{10}。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Arthur 】{0b:09}\nHello, {10}.{0c:15}",
+   "status": "done",
+   "tl": "Hello, [HERO]."
   },
   {
    "id": "RES#306:8dba",
@@ -1630,8 +1696,9 @@
    "jp": "{1c:12}{0b:08}{e080} アーサー {e081}{0b:09}\n僕は今まで{e08f}多くの\n英雄叙事詩を{e094}んできた。{1a}本の中の英雄に憧れ、\n自分もそうなりたいと\n夢に思ってきた・・・{1a}でも、これはお話じゃない。\n安っぽい英雄願望は\nもう邪魔なのかもしれない・・・{0c:fe}",
    "read": "{1c:12}{0b:08}【 アーサー 】{0b:09}\n僕は今まで数多くの\n英雄叙事詩を読んできた。{1a}本の中の英雄に憧れ、\n自分もそうなりたいと\n夢に思ってきた・・・{1a}でも、これはお話じゃない。\n安っぽい英雄願望は\nもう邪魔なのかもしれない・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Arthur 】{0b:09}\nI have read many a heroic epic.{1a}I admired the heroes in those books and\ndreamed of becoming like them...{1a}But this is no story. Perhaps my cheap\nlonging to be a hero is only in the way\nnow...{0c:fe}",
+   "status": "done",
+   "tl": "I have read many a heroic epic. // I admired the heroes in those books and dreamed of becoming like them... // But this is no story. Perhaps my cheap longing to be a hero is only in the way now..."
   },
   {
    "id": "RES#306:8e54",
@@ -1652,8 +1719,9 @@
    "jp": "{1c:12}{10}、\n僕は世{e097}を救おうなんて\n大きな事はもう考えない。{0c:fe}",
    "read": "{1c:12}{10}、\n僕は世界を救おうなんて\n大きな事はもう考えない。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{10}, I will no longer think of grand\nthings like saving the world.{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], I will no longer think of grand things like saving the world."
   },
   {
    "id": "RES#306:8e89",
@@ -1674,8 +1742,9 @@
    "jp": "{1c:12}『神』を相手に戦うんだ、\n本に出てくる英雄のように\n{e098}{e099}なことを考えながら戦ったら、\n飲み{e09b}まれるに決まっている。{1a}何が正しいか、\n人{e099}が何を望んでいるかなんて\nもう考えない。{1a}僕は僕にとっての大事な人を\n失いたくない・・・\nそれだけが僕の正義だ。{0c:fe}",
    "read": "{1c:12}『神』を相手に戦うんだ、\n本に出てくる英雄のように\n色々なことを考えながら戦ったら、\n飲み込まれるに決まっている。{1a}何が正しいか、\n人々が何を望んでいるかなんて\nもう考えない。{1a}僕は僕にとっての大事な人を\n失いたくない・・・\nそれだけが僕の正義だ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}We are fighting a 'god'. If I fight weighing\neverything the way heroes in books do, I\nwill surely be swallowed up.{1a}I will no longer think about what is right\nor what people want.{1a}I don't want to lose those who are dear\nto me... That alone is my justice.{0c:fe}",
+   "status": "done",
+   "tl": "We are fighting a 'god'. If I fight weighing everything the way heroes in books do, I will surely be swallowed up. // I will no longer think about what is right or what people want. // I don't want to lose those who are dear to me... That alone is my justice."
   },
   {
    "id": "RES#306:8f35",
@@ -1696,8 +1765,9 @@
    "jp": "{1c:12}{10}、\n君も守る者の為に戦え!{0c:fe}",
    "read": "{1c:12}{10}、\n君も守る者の為に戦え!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{10}, you too must fight for\nthose you would protect!{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], you too must fight for those you would protect!"
   },
   {
    "id": "RES#306:8f58",
@@ -1718,8 +1788,9 @@
    "jp": "{1c:12}わかった、一緒に行こう。",
    "read": "{1c:12}わかった、一緒に行こう。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}All right, let's go together.",
+   "status": "done",
+   "tl": "All right, let's go together."
   },
   {
    "id": "RES#306:8f6e",
@@ -1729,8 +1800,9 @@
    "jp": "{1c:10}すまない、先約があるんだ。{0c:16}",
    "read": "{1c:10}すまない、先約があるんだ。{0c:16}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I'm sorry, I have a prior engagement.{0c:16}",
+   "status": "done",
+   "tl": "I'm sorry, I have a prior engagement."
   },
   {
    "id": "RES#306:8f83",
@@ -1740,8 +1812,9 @@
    "jp": "{1c:10}頑張れよ、{10}。{0c:15}",
    "read": "{1c:10}頑張れよ、{10}。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Do your best, {10}.{0c:15}",
+   "status": "done",
+   "tl": "Do your best, [HERO]."
   },
   {
    "id": "RES#306:8f92",
@@ -1762,8 +1835,9 @@
    "jp": "{1c:10}頑張れよ、{10}。{0c:02ff}",
    "read": "{1c:10}頑張れよ、{10}。{0c:02ff}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Do your best, {10}.{0c:02ff}",
+   "status": "done",
+   "tl": "Do your best, [HERO]."
   },
   {
    "id": "RES#306:8faf",
@@ -1784,8 +1858,9 @@
    "jp": "{1c:10}{0b:08}{e080} アーサー {e081}{0b:09}\nやあ、{10}。{0c:15}",
    "read": "{1c:10}{0b:08}【 アーサー 】{0b:09}\nやあ、{10}。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Arthur 】{0b:09}\nHello, {10}.{0c:15}",
+   "status": "done",
+   "tl": "Hello, [HERO]."
   },
   {
    "id": "RES#306:8fe8",
@@ -1806,8 +1881,9 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n僕は今まで{e08f}多くの\n英雄叙事詩を{e094}んできた。{1a}本の中の英雄に憧れ、\n自分もそうなりたいと\n夢に思ってきた・・・{1a}でも、これはお話じゃない。\n安っぽい英雄願望は\nもう邪魔なのかもしれない・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n僕は今まで数多くの\n英雄叙事詩を読んできた。{1a}本の中の英雄に憧れ、\n自分もそうなりたいと\n夢に思ってきた・・・{1a}でも、これはお話じゃない。\n安っぽい英雄願望は\nもう邪魔なのかもしれない・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nI have read many a heroic epic.{1a}I admired the heroes in those books and\ndreamed of becoming like them...{1a}But this is no story. Perhaps my cheap\nlonging to be a hero is only in the way\nnow...{0c:fe}",
+   "status": "done",
+   "tl": "I have read many a heroic epic. // I admired the heroes in those books and dreamed of becoming like them... // But this is no story. Perhaps my cheap longing to be a hero is only in the way now..."
   },
   {
    "id": "RES#306:9082",
@@ -1828,8 +1904,9 @@
    "jp": "{1c:12}{10}、\n僕は世{e097}を救おうなんて\n大きな事はもう考えない。{0c:fe}",
    "read": "{1c:12}{10}、\n僕は世界を救おうなんて\n大きな事はもう考えない。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{10}, I will no longer think of grand\nthings like saving the world.{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], I will no longer think of grand things like saving the world."
   },
   {
    "id": "RES#306:90b7",
@@ -1850,8 +1927,9 @@
    "jp": "{1c:12}『神』を相手に戦うんだ。\n本に出てくる英雄のように\n{e098}{e099}なことを考えながら戦ったら、\n飲み{e09b}まれるに決まっている。{1a}何が正しいか、\n人{e099}が何を望んでいるかなんて\nもう考えない。{1a}僕は{e09c}{e08c}を、\nそして友を失いたくない・・・\nそれだけが僕の正義だ。{0c:fe}",
    "read": "{1c:12}『神』を相手に戦うんだ。\n本に出てくる英雄のように\n色々なことを考えながら戦ったら、\n飲み込まれるに決まっている。{1a}何が正しいか、\n人々が何を望んでいるかなんて\nもう考えない。{1a}僕は家族を、\nそして友を失いたくない・・・\nそれだけが僕の正義だ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}We are fighting a 'god'. If I fight weighing\neverything the way heroes in books do, I\nwill surely be swallowed up.{1a}I will no longer think about what is right\nor what people want.{1a}I don't want to lose my family or my\nfriends... That alone is my justice.{0c:fe}",
+   "status": "done",
+   "tl": "We are fighting a 'god'. If I fight weighing everything the way heroes in books do, I will surely be swallowed up. // I will no longer think about what is right or what people want. // I don't want to lose my family or my friends... That alone is my justice."
   },
   {
    "id": "RES#306:9160",
@@ -1872,8 +1950,9 @@
    "jp": "{1c:12}{10}、\n君も守る者の為に戦え!{0c:fe}",
    "read": "{1c:12}{10}、\n君も守る者の為に戦え!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{10}, you too must fight for\nthose you would protect!{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], you too must fight for those you would protect!"
   },
   {
    "id": "RES#306:9187",
@@ -1894,8 +1973,9 @@
    "jp": "{1c:10}ああ。\n君となら勝てる気がするよ。",
    "read": "{1c:10}ああ。\n君となら勝てる気がするよ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Yes. With you, I feel we can win.",
+   "status": "done",
+   "tl": "Yes. With you, I feel we can win."
   },
   {
    "id": "RES#306:91a2",
@@ -1905,8 +1985,9 @@
    "jp": "{1c:10}頑張れよ、{10}!{0c:15}",
    "read": "{1c:10}頑張れよ、{10}!{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Do your best, {10}!{0c:15}",
+   "status": "done",
+   "tl": "Do your best, [HERO]!"
   },
   {
    "id": "RES#306:91b2",
@@ -1916,8 +1997,9 @@
    "jp": "{1c:10}{10}、死ぬなよ!",
    "read": "{1c:10}{10}、死ぬなよ!",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{10}, don't die!",
+   "status": "done",
+   "tl": "[HERO], don't die!"
   },
   {
    "id": "RES#306:91be",
@@ -1938,8 +2020,9 @@
    "jp": "{1c:10}{0b:08}{e080} アーサー {e081}{0b:09}\nやあ、{10}。{0c:15}",
    "read": "{1c:10}{0b:08}【 アーサー 】{0b:09}\nやあ、{10}。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Arthur 】{0b:09}\nHello, {10}.{0c:15}",
+   "status": "done",
+   "tl": "Hello, [HERO]."
   },
   {
    "id": "RES#306:91f7",
@@ -1960,8 +2043,9 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n僕は今まで{e08f}多くの\n英雄叙事詩を{e094}んできた。{1a}本の中の英雄に憧れ、\n自分もそうなりたいと\n夢に思ってきた・・・{1a}でも、これはお話じゃない。\n安っぽい英雄願望は\nもう邪魔なのかもしれない・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n僕は今まで数多くの\n英雄叙事詩を読んできた。{1a}本の中の英雄に憧れ、\n自分もそうなりたいと\n夢に思ってきた・・・{1a}でも、これはお話じゃない。\n安っぽい英雄願望は\nもう邪魔なのかもしれない・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nI have read many a heroic epic.{1a}I admired the heroes in those books and\ndreamed of becoming like them...{1a}But this is no story. Perhaps my cheap\nlonging to be a hero is only in the way\nnow...{0c:fe}",
+   "status": "done",
+   "tl": "I have read many a heroic epic. // I admired the heroes in those books and dreamed of becoming like them... // But this is no story. Perhaps my cheap longing to be a hero is only in the way now..."
   },
   {
    "id": "RES#306:9291",
@@ -1982,8 +2066,9 @@
    "jp": "{1c:12}{10}、\n僕は世{e097}を救おうなんて\n大きな事はもう考えない。{0c:fe}",
    "read": "{1c:12}{10}、\n僕は世界を救おうなんて\n大きな事はもう考えない。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{10}, I will no longer think of grand\nthings like saving the world.{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], I will no longer think of grand things like saving the world."
   },
   {
    "id": "RES#306:92c6",
@@ -2004,8 +2089,9 @@
    "jp": "{1c:12}『神』を相手に戦うんだ。\n本に出てくる英雄のように\n{e098}{e099}なことを考えながら戦ったら、\n飲み{e09b}まれるに決まっている。{1a}何が正しいか、\n人{e099}が何を望んでいるかなんて\nもう考えない。{1a}僕は{e09c}{e08c}を、そして\n大事な人を失いたくない・・・\nそれだけが僕の正義だ。{0c:fe}",
    "read": "{1c:12}『神』を相手に戦うんだ。\n本に出てくる英雄のように\n色々なことを考えながら戦ったら、\n飲み込まれるに決まっている。{1a}何が正しいか、\n人々が何を望んでいるかなんて\nもう考えない。{1a}僕は家族を、そして\n大事な人を失いたくない・・・\nそれだけが僕の正義だ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}We are fighting a 'god'. If I fight weighing\neverything the way heroes in books do, I\nwill surely be swallowed up.{1a}I will no longer think about what is right\nor what people want.{1a}I don't want to lose my family, or the\none dear to me... That alone is my\njustice.{0c:fe}",
+   "status": "done",
+   "tl": "We are fighting a 'god'. If I fight weighing everything the way heroes in books do, I will surely be swallowed up. // I will no longer think about what is right or what people want. // I don't want to lose my family, or the one dear to me... That alone is my justice."
   },
   {
    "id": "RES#306:9374",
@@ -2026,8 +2112,9 @@
    "jp": "{1c:12}{10}、\n僕と一緒に戦ってくれないか?{0c:fe}",
    "read": "{1c:12}{10}、\n僕と一緒に戦ってくれないか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{10}, will you fight with me?{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], will you fight with me?"
   },
   {
    "id": "RES#306:939d",
@@ -2048,8 +2135,9 @@
    "jp": "{1c:10}ありがとう。\n君となら勝てる気がする。",
    "read": "{1c:10}ありがとう。\n君となら勝てる気がする。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Thank you. With you, I feel we can win.",
+   "status": "done",
+   "tl": "Thank you. With you, I feel we can win."
   },
   {
    "id": "RES#306:93ba",
@@ -2059,8 +2147,9 @@
    "jp": "{1c:10}そうか・・・{1a}いや、いいんだ。\n頑張れよ、{10}!{0c:15}",
    "read": "{1c:10}そうか・・・{1a}いや、いいんだ。\n頑張れよ、{10}!{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I see...{1a}No, it's all right. Do your best,\n{10}!{0c:15}",
+   "status": "done",
+   "tl": "I see... // No, it's all right. Do your best, [HERO]!"
   },
   {
    "id": "RES#306:93da",
@@ -2070,8 +2159,9 @@
    "jp": "{1c:10}{10}、死ぬなよ!",
    "read": "{1c:10}{10}、死ぬなよ!",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{10}, don't die!",
+   "status": "done",
+   "tl": "[HERO], don't die!"
   },
   {
    "id": "RES#306:93e6",
@@ -2092,8 +2182,9 @@
    "jp": "{1c:10}{0b:08}{e080} アーサー {e081}{0b:09}\nやあ、{10}、{11}。{0c:15}",
    "read": "{1c:10}{0b:08}【 アーサー 】{0b:09}\nやあ、{10}、{11}。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Arthur 】{0b:09}\nHello, {10}, {11}.{0c:15}",
+   "status": "done",
+   "tl": "Hello, [HERO], [VAR11]."
   },
   {
    "id": "RES#306:941f",
@@ -2114,8 +2205,9 @@
    "jp": "{1c:10}{0b:08}{e080} アーサー {e081}{0b:09}\n2人とも頑張れよ!{0c:15}",
    "read": "{1c:10}{0b:08}【 アーサー 】{0b:09}\n2人とも頑張れよ!{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Arthur 】{0b:09}\nDo your best, you two!{0c:15}",
+   "status": "done",
+   "tl": "Do your best, you two!"
   },
   {
    "id": "RES#306:9451",
@@ -2136,8 +2228,9 @@
    "jp": "{1c:10}{10}、死ぬなよ!{0c:02ff}",
    "read": "{1c:10}{10}、死ぬなよ!{0c:02ff}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{10}, don't die!{0c:02ff}",
+   "status": "done",
+   "tl": "[HERO], don't die!"
   },
   {
    "id": "RES#306:946e",
@@ -2159,8 +2252,9 @@
    "jp": "{1c:10}何をするんだ!{0c:51ffffffff54151e}",
    "read": "{1c:10}何をするんだ!{0c:51ffffffff54151e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}What are you doing!{0c:51ffffffff54151e}",
+   "status": "done",
+   "tl": "What are you doing!"
   },
   {
    "id": "RES#306:948a",
@@ -2170,8 +2264,9 @@
    "jp": "{1c:10}落ち着けよ、一体どうしたんだ?",
    "read": "{1c:10}落ち着けよ、一体どうしたんだ?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Calm down, what's wrong with you?",
+   "status": "done",
+   "tl": "Calm down, what's wrong with you?"
   },
   {
    "id": "RES#306:94a1",
@@ -2181,8 +2276,9 @@
    "jp": "{1c:10}殺されるわけにはいかない!\n僕にもやらなければならないことが\nあるんだ!{0c:1501}",
    "read": "{1c:10}殺されるわけにはいかない!\n僕にもやらなければならないことが\nあるんだ!{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I can't let you kill me! There are things I\nmust do too!{0c:1501}",
+   "status": "done",
+   "tl": "I can't let you kill me! There are things I must do too!"
   },
   {
    "id": "RES#306:94d1",
@@ -2203,8 +2299,9 @@
    "jp": "{1c:10}一体どうしたんだよ、{10}!{0c:51ffffffff54151e}",
    "read": "{1c:10}一体どうしたんだよ、{10}!{0c:51ffffffff54151e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}What on earth is wrong, {10}!{0c:51ffffffff54151e}",
+   "status": "done",
+   "tl": "What on earth is wrong, [HERO]!"
   },
   {
    "id": "RES#306:9500",
@@ -2214,8 +2311,9 @@
    "jp": "{1c:10}どうしたんだ!? 友達だろ!",
    "read": "{1c:10}どうしたんだ!? 友達だろ!",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}What's wrong!? We're friends, aren't we!",
+   "status": "done",
+   "tl": "What's wrong!? We're friends, aren't we!"
   },
   {
    "id": "RES#306:9516",
@@ -2225,8 +2323,9 @@
    "jp": "{1c:10}君と戦わなきゃいけないのか!?{0c:1501}",
    "read": "{1c:10}君と戦わなきゃいけないのか!?{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Must I fight you!?{0c:1501}",
+   "status": "done",
+   "tl": "Must I fight you!?"
   },
   {
    "id": "RES#306:952f",
@@ -2247,8 +2346,9 @@
    "jp": "{1c:10}何をするんだ!?{0c:51ffffffff54151e}",
    "read": "{1c:10}何をするんだ!?{0c:51ffffffff54151e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}What are you doing!?{0c:51ffffffff54151e}",
+   "status": "done",
+   "tl": "What are you doing!?"
   },
   {
    "id": "RES#306:9559",
@@ -2258,8 +2358,9 @@
    "jp": "{1c:10}落ち着けよ、{10}!",
    "read": "{1c:10}落ち着けよ、{10}!",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Calm down, {10}!",
+   "status": "done",
+   "tl": "Calm down, [HERO]!"
   },
   {
    "id": "RES#306:9567",
@@ -2269,8 +2370,9 @@
    "jp": "{1c:10}もう許せない! 君を討つ!!{0c:1501}",
    "read": "{1c:10}もう許せない! 君を討つ!!{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I can't forgive this! I will strike you\ndown!!{0c:1501}",
+   "status": "done",
+   "tl": "I can't forgive this! I will strike you down!!"
   },
   {
    "id": "RES#306:9582",
@@ -2291,8 +2393,9 @@
    "jp": "{1c:10}そう簡単にはやられない!!{0c:1501}",
    "read": "{1c:10}そう簡単にはやられない!!{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I won't go down so easily!!{0c:1501}",
+   "status": "done",
+   "tl": "I won't go down so easily!!"
   },
   {
    "id": "RES#306:95ac",
@@ -2313,8 +2416,9 @@
    "jp": "{1c:10}やめろよ、{10}!{0c:153b0702}",
    "read": "{1c:10}やめろよ、{10}!{0c:153b0702}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Stop it, {10}!{0c:153b0702}",
+   "status": "done",
+   "tl": "Stop it, [HERO]!"
   },
   {
    "id": "RES#306:95d0",
@@ -2324,8 +2428,9 @@
    "jp": "{1c:10}落ち着けよ、一体どうしたんだ?",
    "read": "{1c:10}落ち着けよ、一体どうしたんだ?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Calm down, what's wrong with you?",
+   "status": "done",
+   "tl": "Calm down, what's wrong with you?"
   },
   {
    "id": "RES#306:95e7",
@@ -2335,8 +2440,9 @@
    "jp": "{1c:10}口だけではわからないのかっ!{0c:1501}",
    "read": "{1c:10}口だけではわからないのかっ!{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}So words alone won't get through to\nyou!{0c:1501}",
+   "status": "done",
+   "tl": "So words alone won't get through to you!"
   },
   {
    "id": "RES#306:95fe",
@@ -2357,8 +2463,9 @@
    "jp": "{1c:10}いったいどうしたんだ、\n{10}!{0c:153b0702}",
    "read": "{1c:10}いったいどうしたんだ、\n{10}!{0c:153b0702}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}What on earth is wrong, {10}!{0c:153b0702}",
+   "status": "done",
+   "tl": "What on earth is wrong, [HERO]!"
   },
   {
    "id": "RES#306:9629",
@@ -2368,8 +2475,9 @@
    "jp": "{1c:10}君らしくないぞ、落ち着けよ!!",
    "read": "{1c:10}君らしくないぞ、落ち着けよ!!",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}This isn't like you, calm down!!",
+   "status": "done",
+   "tl": "This isn't like you, calm down!!"
   },
   {
    "id": "RES#306:963f",
@@ -2379,8 +2487,9 @@
    "jp": "{1c:10}口だけではわからないのかっ!{0c:1501}",
    "read": "{1c:10}口だけではわからないのかっ!{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}So words alone won't get through to\nyou!{0c:1501}",
+   "status": "done",
+   "tl": "So words alone won't get through to you!"
   },
   {
    "id": "RES#306:9656",
@@ -2401,8 +2510,9 @@
    "jp": "{1c:10}何をするんだ!!{0c:153b0702}",
    "read": "{1c:10}何をするんだ!!{0c:153b0702}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}What are you doing!!{0c:153b0702}",
+   "status": "done",
+   "tl": "What are you doing!!"
   },
   {
    "id": "RES#306:967c",
@@ -2412,8 +2522,9 @@
    "jp": "{1c:10}そんなことをして、\n君は罪の意識を感じないのか?",
    "read": "{1c:10}そんなことをして、\n君は罪の意識を感じないのか?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Do you feel no guilt, doing such a thing?",
+   "status": "done",
+   "tl": "Do you feel no guilt, doing such a thing?"
   },
   {
    "id": "RES#306:969d",
@@ -2423,8 +2534,9 @@
    "jp": "{1c:10}口だけではわからないのかっ!{0c:1501}",
    "read": "{1c:10}口だけではわからないのかっ!{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}So words alone won't get through to\nyou!{0c:1501}",
+   "status": "done",
+   "tl": "So words alone won't get through to you!"
   },
   {
    "id": "RES#306:96b4",
@@ -2445,8 +2557,9 @@
    "jp": "{1c:10}{10}、\nそれは僕のなんだけどな・・・{0c:163b0800}",
    "read": "{1c:10}{10}、\nそれは僕のなんだけどな・・・{0c:163b0800}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{10}, that happens to be mine...{0c:163b0800}",
+   "status": "done",
+   "tl": "[HERO], that happens to be mine..."
   },
   {
    "id": "RES#306:96e2",
@@ -2456,8 +2569,9 @@
    "jp": "{1c:10}わざと僕を怒らせようと\nしているのか?",
    "read": "{1c:10}わざと僕を怒らせようと\nしているのか?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Are you trying to make me angry on\npurpose?",
+   "status": "done",
+   "tl": "Are you trying to make me angry on purpose?"
   },
   {
    "id": "RES#306:96fb",
@@ -2467,8 +2581,9 @@
    "jp": "{1c:10}君の{e09d}ではそれが{e09e}{e09f}なのか?",
    "read": "{1c:10}君の国ではそれが普通なのか?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Is that normal in your country?",
+   "status": "done",
+   "tl": "Is that normal in your country?"
   },
   {
    "id": "RES#306:9711",
@@ -2478,8 +2593,9 @@
    "jp": "{1c:10}君がわからないよ・・・",
    "read": "{1c:10}君がわからないよ・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I don't understand you...",
+   "status": "done",
+   "tl": "I don't understand you..."
   },
   {
    "id": "RES#306:9720",
@@ -2489,8 +2605,9 @@
    "jp": "{1c:10}{10}、\nそれをどうするつもりだ!{0c:163b0800}",
    "read": "{1c:10}{10}、\nそれをどうするつもりだ!{0c:163b0800}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{10}, what do you mean to do with\nthat!{0c:163b0800}",
+   "status": "done",
+   "tl": "[HERO], what do you mean to do with that!"
   },
   {
    "id": "RES#306:9739",
@@ -2500,8 +2617,9 @@
    "jp": "{1c:10}わざと僕を怒らせようと\nしているのか?",
    "read": "{1c:10}わざと僕を怒らせようと\nしているのか?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Are you trying to make me angry on\npurpose?",
+   "status": "done",
+   "tl": "Are you trying to make me angry on purpose?"
   },
   {
    "id": "RES#306:9752",
@@ -2511,8 +2629,9 @@
    "jp": "{1c:10}そんなことをして、\n君には罪の意識がないのか!?",
    "read": "{1c:10}そんなことをして、\n君には罪の意識がないのか!?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Have you no sense of guilt, doing such a\nthing!?",
+   "status": "done",
+   "tl": "Have you no sense of guilt, doing such a thing!?"
   },
   {
    "id": "RES#306:9772",
@@ -2522,8 +2641,9 @@
    "jp": "{1c:10}君がわからないよ・・・",
    "read": "{1c:10}君がわからないよ・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I don't understand you...",
+   "status": "done",
+   "tl": "I don't understand you..."
   },
   {
    "id": "RES#306:9781",
@@ -2533,8 +2653,9 @@
    "jp": "{1c:10}ど、どうしてなんだ、\n{10}・・・",
    "read": "{1c:10}ど、どうしてなんだ、\n{10}・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Wh-why, {10}...",
+   "status": "done",
+   "tl": "Wh-why, [HERO]..."
   },
   {
    "id": "RES#306:9793",
@@ -2544,8 +2665,9 @@
    "jp": "{1c:10}君を信じていたのに・・・",
    "read": "{1c:10}君を信じていたのに・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}And I trusted you...",
+   "status": "done",
+   "tl": "And I trusted you..."
   },
   {
    "id": "RES#306:97a4",
@@ -2555,8 +2677,9 @@
    "jp": "{1c:10}僕は負けたのか・・・",
    "read": "{1c:10}僕は負けたのか・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}So I've lost...",
+   "status": "done",
+   "tl": "So I've lost..."
   },
   {
    "id": "RES#306:97b3",
@@ -2566,8 +2689,9 @@
    "jp": "{1c:10}僕には君を止めることすら\n出来ないのか・・・",
    "read": "{1c:10}僕には君を止めることすら\n出来ないのか・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Can I not even stop you...",
+   "status": "done",
+   "tl": "Can I not even stop you..."
   },
   {
    "id": "RES#306:97d1",
@@ -2577,8 +2701,9 @@
    "jp": "やめるんだ、{10}!{0c:15}",
    "read": "やめるんだ、{10}!{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Stop it, {10}!{0c:15}",
+   "status": "done",
+   "tl": "Stop it, [HERO]!"
   },
   {
    "id": "RES#306:97de",
@@ -2588,8 +2713,9 @@
    "jp": "一体何があったんだ!?",
    "read": "一体何があったんだ!?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "What on earth happened!?",
+   "status": "done",
+   "tl": "What on earth happened!?"
   },
   {
    "id": "RES#306:97ee",
@@ -2599,8 +2725,9 @@
    "jp": "やめるんだ、{10}!{0c:15}",
    "read": "やめるんだ、{10}!{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Stop it, {10}!{0c:15}",
+   "status": "done",
+   "tl": "Stop it, [HERO]!"
   },
   {
    "id": "RES#306:97fb",
@@ -2610,8 +2737,9 @@
    "jp": "どうしたんだ!?\n君らしくないぞ!",
    "read": "どうしたんだ!?\n君らしくないぞ!",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "What's wrong!? This isn't like you!",
+   "status": "done",
+   "tl": "What's wrong!? This isn't like you!"
   },
   {
    "id": "RES#306:9811",
@@ -2621,8 +2749,9 @@
    "jp": "やめるんだ、{10}!{0c:15}",
    "read": "やめるんだ、{10}!{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Stop it, {10}!{0c:15}",
+   "status": "done",
+   "tl": "Stop it, [HERO]!"
   },
   {
    "id": "RES#306:981e",
@@ -2632,8 +2761,9 @@
    "jp": "そんなことをして\n君は恥ずかしくないのか!?",
    "read": "そんなことをして\n君は恥ずかしくないのか!?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Aren't you ashamed, doing such a thing!?",
+   "status": "done",
+   "tl": "Aren't you ashamed, doing such a thing!?"
   },
   {
    "id": "RES#306:9838",
@@ -2643,8 +2773,9 @@
    "jp": "君の悪{e0a0}を見過ごすわけには\nいかない! 君を討つ!!{0c:1b}",
    "read": "君の悪逆を見過ごすわけには\nいかない! 君を討つ!!{0c:1b}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I can't overlook your villainy! I will strike\nyou down!!{0c:1b}",
+   "status": "done",
+   "tl": "I can't overlook your villainy! I will strike you down!!"
   },
   {
    "id": "RES#306:9860",
@@ -2654,8 +2785,9 @@
    "jp": "許せない!!\n君には良心がないのか!?{0c:1b}",
    "read": "許せない!!\n君には良心がないのか!?{0c:1b}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Unforgivable!! Have you no conscience!?{0c:1b}",
+   "status": "done",
+   "tl": "Unforgivable!! Have you no conscience!?"
   },
   {
    "id": "RES#306:987e",
@@ -2665,8 +2797,9 @@
    "jp": "そんなことをするなんて・・・\n君を信じていた僕が\n馬鹿だったのか!?{0c:1b}",
    "read": "そんなことをするなんて・・・\n君を信じていた僕が\n馬鹿だったのか!?{0c:1b}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "To think you would do such a thing... Was\nI a fool to have trusted you!?{0c:1b}",
+   "status": "done",
+   "tl": "To think you would do such a thing... Was I a fool to have trusted you!?"
   },
   {
    "id": "RES#306:98aa",
@@ -2676,8 +2809,9 @@
    "jp": "もう許せない! 君を討つ!!{0c:1b}",
    "read": "もう許せない! 君を討つ!!{0c:1b}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I can't forgive this! I will strike you\ndown!!{0c:1b}",
+   "status": "done",
+   "tl": "I can't forgive this! I will strike you down!!"
   },
   {
    "id": "RES#306:98c2",
@@ -2687,8 +2821,9 @@
    "jp": "君は間違ってる!!{0c:1b}",
    "read": "君は間違ってる!!{0c:1b}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "You're wrong!!{0c:1b}",
+   "status": "done",
+   "tl": "You're wrong!!"
   }
  ],
  "entry": 306
