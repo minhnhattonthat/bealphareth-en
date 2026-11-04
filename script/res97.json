@@ -41,8 +41,9 @@
    "jp": "{0c:521008}{1c:12}{0b:08}{e080} パスカ {e081}{0b:09}\n{10}、だめだ。{1a}今までは{e082}れる場所があったから\n1人ずつ縛り上げて\n進むことも出来たけど、{1a}ここから先は{e082}れる場所もねえし、\n赤獅子さんもかなり多くなってる。\n見つからずに進むってのは\n{e086}めた方がいい。{0c:021901}",
    "read": "{0c:521008}{1c:12}{0b:08}【 パスカ 】{0b:09}\n{10}、だめだ。{1a}今までは隠れる場所があったから\n1人ずつ縛り上げて\n進むことも出来たけど、{1a}ここから先は隠れる場所もねえし、\n赤獅子さんもかなり多くなってる。\n見つからずに進むってのは\n諦めた方がいい。{0c:021901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521008}{1c:12}{0b:08}【 Pasca 】{0b:09}\n{10}, no good.{1a}Up to now we had places to hide, so we\ncould tie 'em up one by one and keep\ngoin',{1a}but from here on there ain't nowhere to\nhide, and there's a whole lot more Red\nLion-san. Better give up on gettin'\nthrough without bein' seen.{0c:021901}",
+   "status": "done",
+   "tl": "[HERO], no good. // Up to now we had places to hide, so we could tie 'em up one by one and keep goin', // but from here on there ain't nowhere to hide, and there's a whole lot more Red Lion-san. Better give up on gettin' through without bein' seen."
   },
   {
    "id": "RES#97:1b065",
@@ -63,8 +64,9 @@
    "jp": "{0c:521008}{1c:13}{0b:08}{e080} シャルン {e081}{0b:09}\n{10}、駄目みたい。{1a}今までは{e082}れる場所があったから\n1人ずつ縛り上げて\n進むことも出来たけど、{1a}ここから先は\n{e082}れる場所も少なそうだし、\n{e087}士の{e088}もかなり多そう・・・{1a}見つからずに進むのは\nもう{e086}めた方がいいかもしれない。{0c:021701}",
    "read": "{0c:521008}{1c:13}{0b:08}【 シャルン 】{0b:09}\n{10}、駄目みたい。{1a}今までは隠れる場所があったから\n1人ずつ縛り上げて\n進むことも出来たけど、{1a}ここから先は\n隠れる場所も少なそうだし、\n騎士の数もかなり多そう・・・{1a}見つからずに進むのは\nもう諦めた方がいいかもしれない。{0c:021701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521008}{1c:13}{0b:08}【 Scharn 】{0b:09}\n{10}, this looks no good!{1a}Up to now we had places to hide, so we\ncould tie them up one by one and keep\ngoing,{1a}but from here on there don't seem to be\nmany places to hide, and it looks like\nthere are a lot of knights...{1a}Maybe we should give up on getting\nthrough without being seen.{0c:021701}",
+   "status": "done",
+   "tl": "[HERO], this looks no good! // Up to now we had places to hide, so we could tie them up one by one and keep going, // but from here on there don't seem to be many places to hide, and it looks like there are a lot of knights... // Maybe we should give up on getting through without being seen."
   },
   {
    "id": "RES#97:1b119",
@@ -85,8 +87,9 @@
    "jp": "{0c:521008}{1c:16}{0b:08}{e080} アーサー {e081}{0b:09}\n{10}、駄目だ。\n{e089}戦を変えなきゃ。{1a}今までは{e082}れる場所があったから\n1人ずつ縛り上げて\n進むことも出来たけど、{1a}ここから先は\n{e082}れる場所もなさそうだし、\n{e087}士の{e088}もかなり多そうなんだ。{1a}見つからずに進むのは\nもう{e086}めた方がいいかもしれない。{0c:021501}",
    "read": "{0c:521008}{1c:16}{0b:08}【 アーサー 】{0b:09}\n{10}、駄目だ。\n作戦を変えなきゃ。{1a}今までは隠れる場所があったから\n1人ずつ縛り上げて\n進むことも出来たけど、{1a}ここから先は\n隠れる場所もなさそうだし、\n騎士の数もかなり多そうなんだ。{1a}見つからずに進むのは\nもう諦めた方がいいかもしれない。{0c:021501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521008}{1c:16}{0b:08}【 Arthur 】{0b:09}\n{10}, this will not work. We have to\nchange our plan.{1a}Up to now we had places to hide, so we\ncould tie them up one by one and keep\ngoing,{1a}but from here on there seem to be no\nplaces to hide, and there seem to be a\ngreat many knights.{1a}Perhaps we should give up on getting\nthrough unseen.{0c:021501}",
+   "status": "done",
+   "tl": "[HERO], this will not work. We have to change our plan. // Up to now we had places to hide, so we could tie them up one by one and keep going, // but from here on there seem to be no places to hide, and there seem to be a great many knights. // Perhaps we should give up on getting through unseen."
   },
   {
    "id": "RES#97:1b1d8",
@@ -107,8 +110,9 @@
    "jp": "{0c:521008}{1c:18}{0b:08}{e080} エレアノール {e081}{0b:09}\n{10}、駄目です。{1a}今までは1人ずつ縛り上げて\n進むことも出来ましたが、{1a}ここから先は\n{e082}れる場所も少ないですし、\n{e087}士の{e088}もかなり多そうです。{1a}見つからずに進むのは\n{e086}めた方がよいかもしれません。{0c:021301}",
    "read": "{0c:521008}{1c:18}{0b:08}【 エレアノール 】{0b:09}\n{10}、駄目です。{1a}今までは1人ずつ縛り上げて\n進むことも出来ましたが、{1a}ここから先は\n隠れる場所も少ないですし、\n騎士の数もかなり多そうです。{1a}見つからずに進むのは\n諦めた方がよいかもしれません。{0c:021301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521008}{1c:18}{0b:08}【 Eleanor 】{0b:09}\n{10}, it is no use.{1a}Up to now we could tie them up one by\none and proceed,{1a}but from here on there are few places\nto hide, and there seem to be a great\nmany knights.{1a}It may be best to abandon the idea of\nproceeding unseen.{0c:021301}",
+   "status": "done",
+   "tl": "[HERO], it is no use. // Up to now we could tie them up one by one and proceed, // but from here on there are few places to hide, and there seem to be a great many knights. // It may be best to abandon the idea of proceeding unseen."
   },
   {
    "id": "RES#97:1b27e",
@@ -129,8 +133,9 @@
    "jp": "{0c:521008}{1c:19}{0b:08}{e080} ジェシカ {e081}{0b:09}\n{10}、ダメみたい。{1a}今までは{e082}れる場所があったから\n1人ずつ縛り上げて\n進むことも出来たけど、{1a}ここから先は\n{e082}れる場所も少なそうだし、\n{e087}士の{e088}もかなり多そうなんだ。{1a}見つからずに進むのは\nもう{e086}めた方がいいかもしんない。{0c:021101}",
    "read": "{0c:521008}{1c:19}{0b:08}【 ジェシカ 】{0b:09}\n{10}、ダメみたい。{1a}今までは隠れる場所があったから\n1人ずつ縛り上げて\n進むことも出来たけど、{1a}ここから先は\n隠れる場所も少なそうだし、\n騎士の数もかなり多そうなんだ。{1a}見つからずに進むのは\nもう諦めた方がいいかもしんない。{0c:021101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521008}{1c:19}{0b:08}【 Jessica 】{0b:09}\n{10}, looks like it's no good.{1a}Up to now we had places to hide, so we\ncould tie them up one by one and keep\ngoing,{1a}but from here on there's hardly\nanywhere to hide, and there's loads of\nknights.{1a}Maybe we should just give up on sneaking\nthrough, you know?{0c:021101}",
+   "status": "done",
+   "tl": "[HERO], looks like it's no good. // Up to now we had places to hide, so we could tie them up one by one and keep going, // but from here on there's hardly anywhere to hide, and there's loads of knights. // Maybe we should just give up on sneaking through, you know?"
   },
   {
    "id": "RES#97:1b331",
@@ -151,8 +156,9 @@
    "jp": "{0c:521008}{1c:1b}{0b:08}{e080} ノエル {e081}{0b:09}\n{10}、駄目だわ。{1a}今までは{e082}れる場所があったから\n1人ずつ縛り上げて\n進むことも出来たけど、{1a}ここから先は\n{e082}れる場所もなさそうだし、\n{e087}士の{e088}もかなり多そうなの。{1a}見つからずに進むのは\nもう{e086}めなきゃ駄目かもしれない。{0c:020f01}",
    "read": "{0c:521008}{1c:1b}{0b:08}【 ノエル 】{0b:09}\n{10}、駄目だわ。{1a}今までは隠れる場所があったから\n1人ずつ縛り上げて\n進むことも出来たけど、{1a}ここから先は\n隠れる場所もなさそうだし、\n騎士の数もかなり多そうなの。{1a}見つからずに進むのは\nもう諦めなきゃ駄目かもしれない。{0c:020f01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521008}{1c:1b}{0b:08}【 Noel 】{0b:09}\n{10}, it's no good.{1a}Up to now we had places to hide, so we\ncould tie them up one by one and keep\ngoing,{1a}but from here on there doesn't seem to\nbe anywhere to hide, and there are a lot\nof knights.{1a}We may have to give up on getting\nthrough unseen.{0c:020f01}",
+   "status": "done",
+   "tl": "[HERO], it's no good. // Up to now we had places to hide, so we could tie them up one by one and keep going, // but from here on there doesn't seem to be anywhere to hide, and there are a lot of knights. // We may have to give up on getting through unseen."
   },
   {
    "id": "RES#97:1b3e3",
@@ -173,8 +179,9 @@
    "jp": "{0c:521008}{1c:23}{0b:08}{e080} アッシュ {e081}{0b:09}\n{10}、だめだ。{1a}今まではかくれる場所があったから\nこうやって1人ずつ捕まえて\n進むことも出来たけど、{1a}ここから先は\n{e082}れる場所もなさそうだし、\n{e087}士の{e088}もかなり多そうなんだ。{1a}見つからずに進むのは\n{e086}めた方がいいかもしれない。{0c:020d01}",
    "read": "{0c:521008}{1c:23}{0b:08}【 アッシュ 】{0b:09}\n{10}、だめだ。{1a}今まではかくれる場所があったから\nこうやって1人ずつ捕まえて\n進むことも出来たけど、{1a}ここから先は\n隠れる場所もなさそうだし、\n騎士の数もかなり多そうなんだ。{1a}見つからずに進むのは\n諦めた方がいいかもしれない。{0c:020d01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521008}{1c:23}{0b:08}【 Ash 】{0b:09}\n{10}, it's no good.{1a}Up to now we had places to hide, so we\ncould catch them one by one like this and\nkeep going,{1a}but from here on there don't seem to be\nany places to hide, and there's a lot of\nknights, y'know.{1a}I guess we should give up on getting\nthrough without being seen.{0c:020d01}",
+   "status": "done",
+   "tl": "[HERO], it's no good. // Up to now we had places to hide, so we could catch them one by one like this and keep going, // but from here on there don't seem to be any places to hide, and there's a lot of knights, y'know. // I guess we should give up on getting through without being seen."
   },
   {
    "id": "RES#97:1b494",
@@ -195,8 +202,9 @@
    "jp": "{0c:521008}{0b:08}{e080} オルフェウス {e081}{0b:09}\n{10}さん、\nこの先はちょっと厄{e08c}ですね。{1a}今までは{e082}れる場所もありましたから\n1人ずつ縛り上げて\n進むことも出来ましたが、{1a}ここから先は、{e08d}{e08e}が{e08f}{e090}な割には\n{e082}れられそうな場所も少ないですし、\n{e087}士の{e088}もかなり多そうです。{1a}見つからずに進むのは\n{e086}めた方がいいかもしれませんよ。{0c:020b01}",
    "read": "{0c:521008}{0b:08}【 オルフェウス 】{0b:09}\n{10}さん、\nこの先はちょっと厄介ですね。{1a}今までは隠れる場所もありましたから\n1人ずつ縛り上げて\n進むことも出来ましたが、{1a}ここから先は、通路が複雑な割には\n隠れられそうな場所も少ないですし、\n騎士の数もかなり多そうです。{1a}見つからずに進むのは\n諦めた方がいいかもしれませんよ。{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521008}{0b:08}【 Orpheus 】{0b:09}\n{10}-san, the way ahead looks a\ntouch troublesome.{1a}Up to now there were places to hide, so\nwe could tie them up one by one and\nproceed,{1a}but from here on, the passages are\nquite complicated, yet there are few\nplaces one could hide, and the knights\nappear numerous indeed.{1a}I daresay we had best give up on passing\nunseen.{0c:020b01}",
+   "status": "done",
+   "tl": "[HERO]-san, the way ahead looks a touch troublesome. // Up to now there were places to hide, so we could tie them up one by one and proceed, // but from here on, the passages are quite complicated, yet there are few places one could hide, and the knights appear numerous indeed. // I daresay we had best give up on passing unseen."
   },
   {
    "id": "RES#97:1b56a",
@@ -217,8 +225,9 @@
    "jp": "{1c:20}{0b:08}{e080} ルカ {e081}{0b:09}\n{10}さん、見てきました。{1a}{0c:521008}でも、ここから先は\n{e082}れる場所も少ないですし、\n{e087}士団の人達も増えています。{1a}見つからずに進むのは\nかなり難しそうです。\nどうしましょう、{10}さん。{0c:020901}",
    "read": "{1c:20}{0b:08}【 ルカ 】{0b:09}\n{10}さん、見てきました。{1a}{0c:521008}でも、ここから先は\n隠れる場所も少ないですし、\n騎士団の人達も増えています。{1a}見つからずに進むのは\nかなり難しそうです。\nどうしましょう、{10}さん。{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Luca 】{0b:09}\n{10}-san, I have looked ahead.{1a}{0c:521008}But from here on there are few places\nto hide, and there are more of the\nknights...{1a}Getting through unseen looks very\ndifficult. What shall we do,\n{10}-san?{0c:020901}",
+   "status": "done",
+   "tl": "[HERO]-san, I have looked ahead. // [1]But from here on there are few places to hide, and there are more of the knights... // Getting through unseen looks very difficult. What shall we do, [HERO]-san?"
   },
   {
    "id": "RES#97:1b5f7",
@@ -239,8 +248,9 @@
    "jp": "{0b:08}{e080} ディアス {e081}{0b:09}\n確認してきた。{1a}確かに、ここから先は\n{e093}{e094}物も少ないし敵の{e088}も多い。\n戦わずに進むというのは\n{e086}めた方がよいかもしれん。{0c:020701}",
    "read": "{0b:08}【 ディアス 】{0b:09}\n確認してきた。{1a}確かに、ここから先は\n障害物も少ないし敵の数も多い。\n戦わずに進むというのは\n諦めた方がよいかもしれん。{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Dias 】{0b:09}\nI have looked.{1a}As I thought, from here on there is little\ncover and many enemies. We may do well\nto give up on passing without a fight.{0c:020701}",
+   "status": "done",
+   "tl": "I have looked. // As I thought, from here on there is little cover and many enemies. We may do well to give up on passing without a fight."
   },
   {
    "id": "RES#97:1b666",
@@ -261,8 +271,9 @@
    "jp": "{0b:08}{e080} イヴ {e081}{0b:09}\n見てきたわよ。\nでもこの先はちょっと厄{e08c}ね。{1a}{0c:521008}今までは{e082}れる場所もあったから\n1人ずつ縛り上げて\n進むことも出来たけど、{1a}ここから先は\n{e082}れる場所も少なそうだし、\n{e087}士サマの{e088}もかなり多そうよ。{1a}見つからずに進むのは\nもう{e086}めた方が\nいいかもしれないわね。{0c:020501}",
    "read": "{0b:08}【 イヴ 】{0b:09}\n見てきたわよ。\nでもこの先はちょっと厄介ね。{1a}{0c:521008}今までは隠れる場所もあったから\n1人ずつ縛り上げて\n進むことも出来たけど、{1a}ここから先は\n隠れる場所も少なそうだし、\n騎士サマの数もかなり多そうよ。{1a}見つからずに進むのは\nもう諦めた方が\nいいかもしれないわね。{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Eve 】{0b:09}\nI've had a look. The way ahead looks a bit\ntroublesome, though.{1a}{0c:521008}Up to now there were places to hide, so\nwe could tie them up one by one and\nkeep going,{1a}but from here on there don't seem to be\nmany places to hide, and there look to be\na great many of our dear knights.{1a}We should give up on going unseen, I\nsuppose.{0c:020501}",
+   "status": "done",
+   "tl": "I've had a look. The way ahead looks a bit troublesome, though. // [1]Up to now there were places to hide, so we could tie them up one by one and keep going, // but from here on there don't seem to be many places to hide, and there look to be a great many of our dear knights. // We should give up on going unseen, I suppose."
   },
   {
    "id": "RES#97:1b72c",
@@ -283,8 +294,9 @@
    "jp": "{0b:08}{e080} サラ {e081}{0b:09}\n{10}さん、見てきたよ。{1a}{0c:521008}でも、ここから先は\n{e082}れる場所もないし、\n{e087}士の人達もたくさんいるし、{1a}見つからずに進むのは\n難しそうなんだ。\nどうしよう・・・{0c:020301}",
    "read": "{0b:08}【 サラ 】{0b:09}\n{10}さん、見てきたよ。{1a}{0c:521008}でも、ここから先は\n隠れる場所もないし、\n騎士の人達もたくさんいるし、{1a}見つからずに進むのは\n難しそうなんだ。\nどうしよう・・・{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Sara 】{0b:09}\n{10}-san, I went and looked.{1a}{0c:521008}But from here on there's no place to\nhide, and there are lots of knights,{1a}so getting through without being seen\nlooks hard. What should we do...{0c:020301}",
+   "status": "done",
+   "tl": "[HERO]-san, I went and looked. // [1]But from here on there's no place to hide, and there are lots of knights, // so getting through without being seen looks hard. What should we do..."
   },
   {
    "id": "RES#97:1b7aa",
@@ -305,8 +317,9 @@
    "jp": "{0b:08}{e080} レイア {e081}{0b:09}\n確認してきた。{1a}確かに、ここから先は\n{e093}{e094}物も少ないし敵の{e088}も多い。\n戦わずに進むというのは\n{e086}めた方がよいかもしれん。{0c:fe}",
    "read": "{0b:08}【 レイア 】{0b:09}\n確認してきた。{1a}確かに、ここから先は\n障害物も少ないし敵の数も多い。\n戦わずに進むというのは\n諦めた方がよいかもしれん。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Leia 】{0b:09}\nI have looked.{1a}As I thought, from here on there is little\ncover and many enemies. We may do well\nto give up on passing without a fight.{0c:fe}",
+   "status": "done",
+   "tl": "I have looked. // As I thought, from here on there is little cover and many enemies. We may do well to give up on passing without a fight."
   },
   {
    "id": "RES#97:1b816",
@@ -327,8 +340,9 @@
    "jp": "{0c:521018}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\n観念しろ、背{e096}徒{e098}め。{1a}貴様等ごとき下賤の者が\n何百人束になろうと\n赤獅子{e087}士団の{e09b}{e09c}の{e09d}備は\nいささかも揺るぎはせぬわ。{0c:fe}",
    "read": "{0c:521018}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\n観念しろ、背教徒共め。{1a}貴様等ごとき下賤の者が\n何百人束になろうと\n赤獅子騎士団の鉄壁の防備は\nいささかも揺るぎはせぬわ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{0b:08}【 Red Lion Knight 】{0b:09}\nGive up, you apostates.{1a}Not even hundreds of you lowborn\nrabble, banded together, could shake the\niron defense of the Red Lion Knights in\nthe slightest.{0c:fe}",
+   "status": "done",
+   "tl": "Give up, you apostates. // Not even hundreds of you lowborn rabble, banded together, could shake the iron defense of the Red Lion Knights in the slightest."
   },
   {
    "id": "RES#97:1b89a",
@@ -349,8 +363,9 @@
    "jp": "{1c:1e}{0b:08}{e080} レイア {e081}{0b:09}\nその姿でまだ虚勢を張るのか?\n呆れたな・・・{0c:021901}",
    "read": "{1c:1e}{0b:08}【 レイア 】{0b:09}\nその姿でまだ虚勢を張るのか?\n呆れたな・・・{0c:021901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}{0b:08}【 Leia 】{0b:09}\nYou still bluster, looking like that?\nAppalling...{0c:021901}",
+   "status": "done",
+   "tl": "You still bluster, looking like that? Appalling..."
   },
   {
    "id": "RES#97:1b8fd",
@@ -371,8 +386,9 @@
    "jp": "{0b:08}{e080} ジェシカ {e081}{0b:09}\nおっさんおっさん、\n悪いけど、その格好で言っても\n全然{e0a1}得力ないよ。{0c:021701}",
    "read": "{0b:08}【 ジェシカ 】{0b:09}\nおっさんおっさん、\n悪いけど、その格好で言っても\n全然説得力ないよ。{0c:021701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Jessica 】{0b:09}\nHey, mister. Mister. Sorry, but coming\nfrom someone looking like that, it's not\nconvincing at all, you know that?{0c:021701}",
+   "status": "done",
+   "tl": "Hey, mister. Mister. Sorry, but coming from someone looking like that, it's not convincing at all, you know that?"
   },
   {
    "id": "RES#97:1b94a",
@@ -393,8 +409,9 @@
    "jp": "{1c:11}{0b:08}{e080} パスカ {e081}{0b:09}\nその格好で言われても\n全然{e0a1}得力ねえんだけど。{0c:021501}",
    "read": "{1c:11}{0b:08}【 パスカ 】{0b:09}\nその格好で言われても\n全然説得力ねえんだけど。{0c:021501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Pasca 】{0b:09}\nLookin' like that, ya ain't convincin'\nnobody.{0c:021501}",
+   "status": "done",
+   "tl": "Lookin' like that, ya ain't convincin' nobody."
   },
   {
    "id": "RES#97:1b98c",
@@ -415,8 +432,9 @@
    "jp": "{1c:14}{0b:08}{e080} シャルン {e081}{0b:09}\n悪いけど、その格好で言っても\n全然{e0a1}得力ないよ。{0c:021301}",
    "read": "{1c:14}{0b:08}【 シャルン 】{0b:09}\n悪いけど、その格好で言っても\n全然説得力ないよ。{0c:021301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Scharn 】{0b:09}\nSorry, but looking like that, you aren't\nconvincing at all!{0c:021301}",
+   "status": "done",
+   "tl": "Sorry, but looking like that, you aren't convincing at all!"
   },
   {
    "id": "RES#97:1b9d1",
@@ -437,8 +455,9 @@
    "jp": "{0b:08}{e080} イヴ {e081}{0b:09}\nその格好で言われても\n全然{e0a1}得力ないんだけど。{0c:021101}",
    "read": "{0b:08}【 イヴ 】{0b:09}\nその格好で言われても\n全然説得力ないんだけど。{0c:021101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Eve 】{0b:09}\nLooking like that, you aren't convincing\nat all, you know.{0c:021101}",
+   "status": "done",
+   "tl": "Looking like that, you aren't convincing at all, you know."
   },
   {
    "id": "RES#97:1ba10",
@@ -459,8 +478,9 @@
    "jp": "{1c:24}{0b:08}{e080} オルフェウス {e081}{0b:09}\nその姿でまだ虚勢を張るんですか?\nその厚かましさだけは\n{e0a2}{e0a3}に値しますね。{0c:020f01}",
    "read": "{1c:24}{0b:08}【 オルフェウス 】{0b:09}\nその姿でまだ虚勢を張るんですか?\nその厚かましさだけは\n尊敬に値しますね。{0c:020f01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:24}{0b:08}【 Orpheus 】{0b:09}\nYou still bluster, looking like that? Your\nimpudence alone is worthy of respect, I\ndaresay.{0c:020f01}",
+   "status": "done",
+   "tl": "You still bluster, looking like that? Your impudence alone is worthy of respect, I daresay."
   },
   {
    "id": "RES#97:1ba65",
@@ -481,8 +501,9 @@
    "jp": "{1c:1d}{0b:08}{e080} ノエル {e081}{0b:09}\nその姿でまだ虚勢を張るの?\n別の意味で{e0a2}{e0a3}に値するわね。{0c:020d01}",
    "read": "{1c:1d}{0b:08}【 ノエル 】{0b:09}\nその姿でまだ虚勢を張るの?\n別の意味で尊敬に値するわね。{0c:020d01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}{0b:08}【 Noel 】{0b:09}\nYou still bluster, looking like that?\nHonestly, that's worthy of respect, in a\ndifferent sense.{0c:020d01}",
+   "status": "done",
+   "tl": "You still bluster, looking like that? Honestly, that's worthy of respect, in a different sense."
   },
   {
    "id": "RES#97:1bab0",
@@ -503,8 +524,9 @@
    "jp": "{1c:18}{0b:08}{e080} エレアノール {e081}{0b:09}\nその姿でまだ虚勢を張るのですか?\n別の意味で{e0a2}{e0a3}に値しますね。{0c:020b01}",
    "read": "{1c:18}{0b:08}【 エレアノール 】{0b:09}\nその姿でまだ虚勢を張るのですか?\n別の意味で尊敬に値しますね。{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Eleanor 】{0b:09}\nYou still bluster, in that state? That is\nworthy of respect, in a different sense.{0c:020b01}",
+   "status": "done",
+   "tl": "You still bluster, in that state? That is worthy of respect, in a different sense."
   },
   {
    "id": "RES#97:1bb01",
@@ -525,8 +547,9 @@
    "jp": "{1c:26}{0b:08}{e080} ディアス {e081}{0b:09}\nその姿でまだ虚勢を張るのか?\n呆れさせてくれる。{0c:020901}",
    "read": "{1c:26}{0b:08}【 ディアス 】{0b:09}\nその姿でまだ虚勢を張るのか?\n呆れさせてくれる。{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:26}{0b:08}【 Dias 】{0b:09}\nYou still bluster, in that state? You\nappall me.{0c:020901}",
+   "status": "done",
+   "tl": "You still bluster, in that state? You appall me."
   },
   {
    "id": "RES#97:1bb44",
@@ -547,8 +570,9 @@
    "jp": "{1c:15}{0b:08}{e080} {03}アーサー {e081}{0b:09}\n{02}その姿でまだ虚勢を張るのですか{01}?\n{02}・・・僕はあなたを軽蔑します。{0c:020701}",
    "read": "{1c:15}{0b:08}【 {03}アーサー 】{0b:09}\n{02}その姿でまだ虚勢を張るのですか{01}?\n{02}・・・僕はあなたを軽蔑します。{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Arthur 】{0b:09}\nYou still bluster, in that state? ...I\ndespise you, sir.{0c:020701}",
+   "status": "done",
+   "tl": "You still bluster, in that state? ...I despise you, sir."
   },
   {
    "id": "RES#97:1bb91",
@@ -569,8 +593,9 @@
    "jp": "{1c:22}{0b:08}{e080} アッシュ {e081}{0b:09}\nその格好じゃ\nぜんぜん怖くないぞ。{0c:020501}",
    "read": "{1c:22}{0b:08}【 アッシュ 】{0b:09}\nその格好じゃ\nぜんぜん怖くないぞ。{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:22}{0b:08}【 Ash 】{0b:09}\nLooking like that, you're not scary at all,\ny'know.{0c:020501}",
+   "status": "done",
+   "tl": "Looking like that, you're not scary at all, y'know."
   },
   {
    "id": "RES#97:1bbc9",
@@ -591,8 +616,9 @@
    "jp": "{1c:21}{0b:08}{e080} ルカ {e081}{0b:09}\n申し訳ないんですけど、\nその格好では\n{e0a1}得力に欠けるんですが・・・{0c:020301}",
    "read": "{1c:21}{0b:08}【 ルカ 】{0b:09}\n申し訳ないんですけど、\nその格好では\n説得力に欠けるんですが・・・{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:21}{0b:08}【 Luca 】{0b:09}\nI am terribly sorry, but looking like that,\nyou are somewhat lacking in conviction...{0c:020301}",
+   "status": "done",
+   "tl": "I am terribly sorry, but looking like that, you are somewhat lacking in conviction..."
   },
   {
    "id": "RES#97:1bc14",
@@ -613,8 +639,9 @@
    "jp": "{1c:29}{0b:08}{e080} サラ {e081}{0b:09}\nでも・・・\n大丈夫だと思うよ。{0c:fe}",
    "read": "{1c:29}{0b:08}【 サラ 】{0b:09}\nでも・・・\n大丈夫だと思うよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:29}{0b:08}【 Sara 】{0b:09}\nBut... I think it's going to be okay.{0c:fe}",
+   "status": "done",
+   "tl": "But... I think it's going to be okay."
   },
   {
    "id": "RES#97:1bc47",
@@ -635,8 +662,9 @@
    "jp": "{0c:5120}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nふっ・・・\n貴様等、この私に勝った\nつもりでいるのか?{1a}{0c:522830}笑止千万! \n貴様等が子供だと思って\n油断しただけだ!{1a}私が本気を出せば、\n貴様等ごときなど\n{e0a7}{e0a8}でねじ伏せてみせる!{0c:0205014c032c09fe}",
    "read": "{0c:5120}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nふっ・・・\n貴様等、この私に勝った\nつもりでいるのか?{1a}{0c:522830}笑止千万! \n貴様等が子供だと思って\n油断しただけだ!{1a}私が本気を出せば、\n貴様等ごときなど\n片腕でねじ伏せてみせる!{0c:0205014c032c09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5120}{0b:08}【 Red Lion Knight 】{0b:09}\nHeh... You think you have beaten me?{1a}{0c:522830}Preposterous! I was merely careless,\nthinking you mere children!{1a}Were I to get serious, I could crush the\nlikes of you with one arm!{0c:0205014c032c09fe}",
+   "status": "done",
+   "tl": "Heh... You think you have beaten me? // [1]Preposterous! I was merely careless, thinking you mere children! // Were I to get serious, I could crush the likes of you with one arm!"
   },
   {
    "id": "RES#97:1bcf5",
@@ -646,8 +674,9 @@
    "jp": "{1c:1f}{0b:08}{e080} レイア {e081}{0b:09}\n呆れると言うより\nむしろ哀れだな・・・{0c:2b5509fe}",
    "read": "{1c:1f}{0b:08}【 レイア 】{0b:09}\n呆れると言うより\nむしろ哀れだな・・・{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}{0b:08}【 Leia 】{0b:09}\nNot appalling so much as pitiful...{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Not appalling so much as pitiful..."
   },
   {
    "id": "RES#97:1bd24",
@@ -657,8 +686,9 @@
    "jp": "{0c:523840}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nむ、むぅぅぅぅ!\nこ、小娘ぇッ!\nこの私を{e0ab}弄するか!?{0c:4c0309fe}",
    "read": "{0c:523840}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nむ、むぅぅぅぅ!\nこ、小娘ぇッ!\nこの私を愚弄するか!?{0c:4c0309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523840}{0b:08}【 Red Lion Knight 】{0b:09}\nN-nnnngh! Y-you little wench! You dare\nmock me!?{0c:4c0309fe}",
+   "status": "done",
+   "tl": "N-nnnngh! Y-you little wench! You dare mock me!?"
   },
   {
    "id": "RES#97:1bd73",
@@ -668,8 +698,9 @@
    "jp": "{1c:1e}{0b:08}{e080} レイア {e081}{0b:09}\nこのような者達に\n虐げられていたなど・・・{1a}{0c:5118}ふっ、まるで喜劇だ・・・{0c:2b5509fe}",
    "read": "{1c:1e}{0b:08}【 レイア 】{0b:09}\nこのような者達に\n虐げられていたなど・・・{1a}{0c:5118}ふっ、まるで喜劇だ・・・{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}{0b:08}【 Leia 】{0b:09}\nTo think I was ground down by such as\nthese...{1a}{0c:5118}Heh, it is like a comedy...{0c:2b5509fe}",
+   "status": "done",
+   "tl": "To think I was ground down by such as these... // [1]Heh, it is like a comedy..."
   },
   {
    "id": "RES#97:1bdb7",
@@ -679,8 +710,9 @@
    "jp": "{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\n訳の分からんことを・・・\nそれより早く縄を解け!{0c:024301}",
    "read": "{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\n訳の分からんことを・・・\nそれより早く縄を解け!{0c:024301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Red Lion Knight 】{0b:09}\nWhat nonsense is this... Never mind that,\nuntie me at once!{0c:024301}",
+   "status": "done",
+   "tl": "What nonsense is this... Never mind that, untie me at once!"
   },
   {
    "id": "RES#97:1bdf7",
@@ -701,8 +733,9 @@
    "jp": "{0c:5118}{1c:1a}{0b:08}{e080} ジェシカ {e081}{0b:09}\nふーん、そりゃよかったね。{0c:2b5509fe}",
    "read": "{0c:5118}{1c:1a}{0b:08}【 ジェシカ 】{0b:09}\nふーん、そりゃよかったね。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5118}{1c:1a}{0b:08}【 Jessica 】{0b:09}\nOh yeah? Good for you.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Oh yeah? Good for you."
   },
   {
    "id": "RES#97:1be2d",
@@ -712,8 +745,9 @@
    "jp": "{0c:523840}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nむ、むぅぅぅぅ!\n小娘め、この私を{e0ab}弄するか!?{0c:4c0a09fe}",
    "read": "{0c:523840}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nむ、むぅぅぅぅ!\n小娘め、この私を愚弄するか!?{0c:4c0a09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523840}{0b:08}【 Red Lion Knight 】{0b:09}\nN-nnnngh! You little wench, you dare\nmock me!?{0c:4c0a09fe}",
+   "status": "done",
+   "tl": "N-nnnngh! You little wench, you dare mock me!?"
   },
   {
    "id": "RES#97:1be75",
@@ -723,8 +757,9 @@
    "jp": "{0b:08}{e080} ジェシカ {e081}{0b:09}\nうん、心の底からね。{0c:2b5509fe}",
    "read": "{0b:08}【 ジェシカ 】{0b:09}\nうん、心の底からね。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Jessica 】{0b:09}\nYep, from the bottom of my heart.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Yep, from the bottom of my heart."
   },
   {
    "id": "RES#97:1be99",
@@ -734,8 +769,9 @@
    "jp": "{0c:524850}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nむ、む、むぅぅぅぅ!{0c:023e01}",
    "read": "{0c:524850}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nむ、む、むぅぅぅぅ!{0c:023e01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524850}{0b:08}【 Red Lion Knight 】{0b:09}\nN-n-nnnngh!{0c:023e01}",
+   "status": "done",
+   "tl": "N-n-nnnngh!"
   },
   {
    "id": "RES#97:1becb",
@@ -756,8 +792,9 @@
    "jp": "{0c:5118}{1c:12}{0b:08}{e080} パスカ {e081}{0b:09}\nへえ、そーかい。\nそりゃよかったな。{0c:2b5509fe}",
    "read": "{0c:5118}{1c:12}{0b:08}【 パスカ 】{0b:09}\nへえ、そーかい。\nそりゃよかったな。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5118}{1c:12}{0b:08}【 Pasca 】{0b:09}\nOh yeah? Well, good for ya.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Oh yeah? Well, good for ya."
   },
   {
    "id": "RES#97:1bf05",
@@ -767,8 +804,9 @@
    "jp": "{0c:523840}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nむ、むぅぅぅぅ{01}!\n小僧{02}、この私を{e0ab}弄するか{01}!?{0c:4c0509fe}",
    "read": "{0c:523840}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nむ、むぅぅぅぅ{01}!\n小僧{02}、この私を愚弄するか{01}!?{0c:4c0509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523840}{0b:08}【 Red Lion Knight 】{0b:09}\nN-nnnngh! You little whelp, you dare\nmock me!?{0c:4c0509fe}",
+   "status": "done",
+   "tl": "N-nnnngh! You little whelp, you dare mock me!?"
   },
   {
    "id": "RES#97:1bf4c",
@@ -778,8 +816,9 @@
    "jp": "{1c:12}{0b:08}{e080} パスカ {e081}{0b:09}\nああ、心の底からな。{0c:2b5509fe}",
    "read": "{1c:12}{0b:08}【 パスカ 】{0b:09}\nああ、心の底からな。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Pasca 】{0b:09}\nYeah, from the bottom of my heart.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Yeah, from the bottom of my heart."
   },
   {
    "id": "RES#97:1bf71",
@@ -789,8 +828,9 @@
    "jp": "{0c:524850}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nむ、む、むぅぅぅぅ!{0c:023901}",
    "read": "{0c:524850}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nむ、む、むぅぅぅぅ!{0c:023901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524850}{0b:08}【 Red Lion Knight 】{0b:09}\nN-n-nnnngh!{0c:023901}",
+   "status": "done",
+   "tl": "N-n-nnnngh!"
   },
   {
    "id": "RES#97:1bfa3",
@@ -811,8 +851,9 @@
    "jp": "{1c:14}{0b:08}{e080} シャルン {e081}{0b:09}\nふーん・・・{0c:2b5509fe}",
    "read": "{1c:14}{0b:08}【 シャルン 】{0b:09}\nふーん・・・{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Scharn 】{0b:09}\nHmm...{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Hmm..."
   },
   {
    "id": "RES#97:1bfce",
@@ -822,8 +863,9 @@
    "jp": "{0c:523840}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nむ、むぅぅぅぅ!{1a}こ、小娘ぇ!\nなんだ、その哀れむような目は!?{0c:4c0809fe}",
    "read": "{0c:523840}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nむ、むぅぅぅぅ!{1a}こ、小娘ぇ!\nなんだ、その哀れむような目は!?{0c:4c0809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523840}{0b:08}【 Red Lion Knight 】{0b:09}\nN-nnnngh!{1a}Y-you little wench! What is that pitying\nlook!?{0c:4c0809fe}",
+   "status": "done",
+   "tl": "N-nnnngh! // Y-you little wench! What is that pitying look!?"
   },
   {
    "id": "RES#97:1c01f",
@@ -833,8 +875,9 @@
    "jp": "{0c:5118}{0b:08}{e080} シャルン {e081}{0b:09}\nあれ、バレちゃった・・・\nちょっと{e0b2}哀想になってね。{0c:2b5509fe}",
    "read": "{0c:5118}{0b:08}【 シャルン 】{0b:09}\nあれ、バレちゃった・・・\nちょっと可哀想になってね。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5118}{0b:08}【 Scharn 】{0b:09}\nOh, you noticed! I just started feeling a\nlittle sorry for you, you know!{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Oh, you noticed! I just started feeling a little sorry for you, you know!"
   },
   {
    "id": "RES#97:1c05a",
@@ -844,8 +887,9 @@
    "jp": "{0c:524850}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nむ、む、むぅぅぅぅ!{0c:023401}",
    "read": "{0c:524850}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nむ、む、むぅぅぅぅ!{0c:023401}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524850}{0b:08}【 Red Lion Knight 】{0b:09}\nN-n-nnnngh!{0c:023401}",
+   "status": "done",
+   "tl": "N-n-nnnngh!"
   },
   {
    "id": "RES#97:1c08c",
@@ -866,8 +910,9 @@
    "jp": "{1c:2b}{0b:08}{e080} イヴ {e081}{0b:09}\nふーん・・・{0c:2b5509fe}",
    "read": "{1c:2b}{0b:08}【 イヴ 】{0b:09}\nふーん・・・{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:2b}{0b:08}【 Eve 】{0b:09}\nHmm...{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Hmm..."
   },
   {
    "id": "RES#97:1c0b5",
@@ -877,8 +922,9 @@
    "jp": "{0c:523840}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nむ、むぅぅぅぅ!\nなんだ、その気のない返事は!?\nこの私を{e0ab}弄するのかッ!?{0c:4c0c09fe}",
    "read": "{0c:523840}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nむ、むぅぅぅぅ!\nなんだ、その気のない返事は!?\nこの私を愚弄するのかッ!?{0c:4c0c09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523840}{0b:08}【 Red Lion Knight 】{0b:09}\nN-nnnngh! What kind of half-hearted\nanswer is that!? You dare mock me!?{0c:4c0c09fe}",
+   "status": "done",
+   "tl": "N-nnnngh! What kind of half-hearted answer is that!? You dare mock me!?"
   },
   {
    "id": "RES#97:1c10f",
@@ -888,8 +934,9 @@
    "jp": "{0c:5118}{1c:2a}{0b:08}{e080} イヴ {e081}{0b:09}\n{e0ab}弄じゃないわ、哀れみ。{0c:2b5509fe}",
    "read": "{0c:5118}{1c:2a}{0b:08}【 イヴ 】{0b:09}\n愚弄じゃないわ、哀れみ。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5118}{1c:2a}{0b:08}【 Eve 】{0b:09}\nI'm not mocking you, dear. I'm pitying you.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "I'm not mocking you, dear. I'm pitying you."
   },
   {
    "id": "RES#97:1c13a",
@@ -899,8 +946,9 @@
    "jp": "{0c:524850}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nむ、む、むぅぅぅぅ!{0c:022f01}",
    "read": "{0c:524850}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nむ、む、むぅぅぅぅ!{0c:022f01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524850}{0b:08}【 Red Lion Knight 】{0b:09}\nN-n-nnnngh!{0c:022f01}",
+   "status": "done",
+   "tl": "N-n-nnnngh!"
   },
   {
    "id": "RES#97:1c16c",
@@ -921,8 +969,9 @@
    "jp": "{1c:25}{0b:08}{e080} オルフェウス {e081}{0b:09}\nはあ。{0c:2b5509fe}",
    "read": "{1c:25}{0b:08}【 オルフェウス 】{0b:09}\nはあ。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:25}{0b:08}【 Orpheus 】{0b:09}\nIs that so.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Is that so."
   },
   {
    "id": "RES#97:1c196",
@@ -932,8 +981,9 @@
    "jp": "{0c:523840}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nむ、むぅぅぅぅ!{1a}なんだ、その人を\n小馬鹿にした{e0b4}度は!?\nこの私を{e0ab}弄するのかッ!?{0c:4c0b09fe}",
    "read": "{0c:523840}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nむ、むぅぅぅぅ!{1a}なんだ、その人を\n小馬鹿にした態度は!?\nこの私を愚弄するのかッ!?{0c:4c0b09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523840}{0b:08}【 Red Lion Knight 】{0b:09}\nN-nnnngh!{1a}What is that contemptuous attitude!?\nYou dare mock me!?{0c:4c0b09fe}",
+   "status": "done",
+   "tl": "N-nnnngh! // What is that contemptuous attitude!? You dare mock me!?"
   },
   {
    "id": "RES#97:1c1f8",
@@ -943,8 +993,9 @@
    "jp": "{0c:5118}{1c:24}{0b:08}{e080} オルフェウス {e081}{0b:09}\n{e0ab}弄したわけではありませんよ。\n素直に関心したんです。{1a}この世には本当に\n『取るに足らない人間』が\nいるんだなあって。{0c:2b5509fe}",
    "read": "{0c:5118}{1c:24}{0b:08}【 オルフェウス 】{0b:09}\n愚弄したわけではありませんよ。\n素直に関心したんです。{1a}この世には本当に\n『取るに足らない人間』が\nいるんだなあって。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5118}{1c:24}{0b:08}【 Orpheus 】{0b:09}\nI am not mocking you. I am sincerely\nimpressed.{1a}To think there truly are 'people of no\nconsequence' in this world.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "I am not mocking you. I am sincerely impressed. // To think there truly are 'people of no consequence' in this world."
   },
   {
    "id": "RES#97:1c262",
@@ -954,8 +1005,9 @@
    "jp": "{0c:524850}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nむ、む、むぅぅぅぅ!{0c:022a01}",
    "read": "{0c:524850}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nむ、む、むぅぅぅぅ!{0c:022a01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524850}{0b:08}【 Red Lion Knight 】{0b:09}\nN-n-nnnngh!{0c:022a01}",
+   "status": "done",
+   "tl": "N-n-nnnngh!"
   },
   {
    "id": "RES#97:1c294",
@@ -988,8 +1040,9 @@
    "jp": "{0c:523840}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nむ、むぅぅぅぅ!{1a}こ、小娘ぇ!\nなんだ、その哀れむような目は!?{0c:4c0e09fe}",
    "read": "{0c:523840}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nむ、むぅぅぅぅ!{1a}こ、小娘ぇ!\nなんだ、その哀れむような目は!?{0c:4c0e09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523840}{0b:08}【 Red Lion Knight 】{0b:09}\nN-nnnngh!{1a}Y-you little wench! What is that pitying\nlook!?{0c:4c0e09fe}",
+   "status": "done",
+   "tl": "N-nnnngh! // Y-you little wench! What is that pitying look!?"
   },
   {
    "id": "RES#97:1c30e",
@@ -999,8 +1052,9 @@
    "jp": "{0b:08}{e080} ノエル {e081}{0b:09}\n・・・洞察力は人並みにあるのね。{0c:2b5509fe}",
    "read": "{0b:08}【 ノエル 】{0b:09}\n・・・洞察力は人並みにあるのね。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Noel 】{0b:09}\n...So your powers of observation are at\nleast average.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "...So your powers of observation are at least average."
   },
   {
    "id": "RES#97:1c33a",
@@ -1010,8 +1064,9 @@
    "jp": "{0c:524850}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nむ、む、むぅぅぅぅ!{0c:022501}",
    "read": "{0c:524850}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nむ、む、むぅぅぅぅ!{0c:022501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524850}{0b:08}【 Red Lion Knight 】{0b:09}\nN-n-nnnngh!{0c:022501}",
+   "status": "done",
+   "tl": "N-n-nnnngh!"
   },
   {
    "id": "RES#97:1c36c",
@@ -1044,8 +1099,9 @@
    "jp": "{0c:523840}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nむ、むぅぅぅぅ!{1a}お、女ぁッ!\nなんだ、その哀れむような目は!?{0c:4c0409fe}",
    "read": "{0c:523840}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nむ、むぅぅぅぅ!{1a}お、女ぁッ!\nなんだ、その哀れむような目は!?{0c:4c0409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523840}{0b:08}【 Red Lion Knight 】{0b:09}\nN-nnnngh!{1a}W-woman! What is that pitying look!?{0c:4c0409fe}",
+   "status": "done",
+   "tl": "N-nnnngh! // W-woman! What is that pitying look!?"
   },
   {
    "id": "RES#97:1c3e9",
@@ -1055,8 +1111,9 @@
    "jp": "{0c:51082b501000}{0b:08}{e080} エレアノール {e081}{0b:09}\n身を{e082}す場所が少ないのは痛いですね。{0c:2b5509fe}",
    "read": "{0c:51082b501000}{0b:08}【 エレアノール 】{0b:09}\n身を隠す場所が少ないのは痛いですね。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{0b:08}【 Eleanor 】{0b:09}\nIt is unfortunate that there are so few\nplaces to hide.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "It is unfortunate that there are so few places to hide."
   },
   {
    "id": "RES#97:1c423",
@@ -1066,8 +1123,9 @@
    "jp": "{0c:524850}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nむ、む、無視をするなッ!!{0c:022001}",
    "read": "{0c:524850}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nむ、む、無視をするなッ!!{0c:022001}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524850}{0b:08}【 Red Lion Knight 】{0b:09}\nD-d-don't ignore me!!{0c:022001}",
+   "status": "done",
+   "tl": "D-d-don't ignore me!!"
   },
   {
    "id": "RES#97:1c45b",
@@ -1100,8 +1158,9 @@
    "jp": "{0c:523840}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nむ、むぅぅぅぅ!\nこ、小僧ッ!\nなんだ、その哀れむような目は!?{0c:4c0209fe}",
    "read": "{0c:523840}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nむ、むぅぅぅぅ!\nこ、小僧ッ!\nなんだ、その哀れむような目は!?{0c:4c0209fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523840}{0b:08}【 Red Lion Knight 】{0b:09}\nN-nnnngh! Y-you little whelp! What is\nthat pitying look!?{0c:4c0209fe}",
+   "status": "done",
+   "tl": "N-nnnngh! Y-you little whelp! What is that pitying look!?"
   },
   {
    "id": "RES#97:1c4d7",
@@ -1111,8 +1170,9 @@
    "jp": "{0c:5118}{1c:17}{0b:08}{e080} アーサー {e081}{0b:09}\nいえ、哀れんでなど・・・{1a}もし僕がこの町に来なかったら、\n僕もあなたのような大人に\nなっていたのかもしれないのかと\n考えていただけです。{0c:2b5509fe}",
    "read": "{0c:5118}{1c:17}{0b:08}【 アーサー 】{0b:09}\nいえ、哀れんでなど・・・{1a}もし僕がこの町に来なかったら、\n僕もあなたのような大人に\nなっていたのかもしれないのかと\n考えていただけです。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5118}{1c:17}{0b:08}【 Arthur 】{0b:09}\nNo, I do not pity you...{1a}I was only thinking that, had I never come\nto this town, I might have grown up into\na man like you.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "No, I do not pity you... // I was only thinking that, had I never come to this town, I might have grown up into a man like you."
   },
   {
    "id": "RES#97:1c541",
@@ -1122,8 +1182,9 @@
    "jp": "{0c:524850}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nど、どういう意味だッ!?{0c:021b01}",
    "read": "{0c:524850}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nど、どういう意味だッ!?{0c:021b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524850}{0b:08}【 Red Lion Knight 】{0b:09}\nWh-what is that supposed to mean!?{0c:021b01}",
+   "status": "done",
+   "tl": "Wh-what is that supposed to mean!?"
   },
   {
    "id": "RES#97:1c578",
@@ -1156,8 +1217,9 @@
    "jp": "{0c:523840}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nむ、むぅぅぅぅ!{1a}こ、小僧ッ!\nなんだ、その哀れむような目は!?{0c:4c0d09fe}",
    "read": "{0c:523840}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nむ、むぅぅぅぅ!{1a}こ、小僧ッ!\nなんだ、その哀れむような目は!?{0c:4c0d09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523840}{0b:08}【 Red Lion Knight 】{0b:09}\nN-nnnngh!{1a}Y-you little whelp! What is that pitying\nlook!?{0c:4c0d09fe}",
+   "status": "done",
+   "tl": "N-nnnngh! // Y-you little whelp! What is that pitying look!?"
   },
   {
    "id": "RES#97:1c5f2",
@@ -1167,8 +1229,9 @@
    "jp": "{0c:51082b501000}{1c:26}{0b:08}{e080} ディアス {e081}{0b:09}\n身を{e082}す場所が少ないのは痛いな。{0c:2b5509fe}",
    "read": "{0c:51082b501000}{1c:26}{0b:08}【 ディアス 】{0b:09}\n身を隠す場所が少ないのは痛いな。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{1c:26}{0b:08}【 Dias 】{0b:09}\nSo few places to hide. A pity.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "So few places to hide. A pity."
   },
   {
    "id": "RES#97:1c62a",
@@ -1178,8 +1241,9 @@
    "jp": "{0c:524850}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nむ、む、無視をするなッ!!{0c:021601}",
    "read": "{0c:524850}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nむ、む、無視をするなッ!!{0c:021601}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524850}{0b:08}【 Red Lion Knight 】{0b:09}\nD-d-don't ignore me!!{0c:021601}",
+   "status": "done",
+   "tl": "D-d-don't ignore me!!"
   },
   {
    "id": "RES#97:1c662",
@@ -1200,8 +1264,9 @@
    "jp": "{1c:22}{0b:08}{e080} アッシュ {e081}{0b:09}\nいや・・・\nそれはたぶん無理だぞ・・・{0c:2b5509fe}",
    "read": "{1c:22}{0b:08}【 アッシュ 】{0b:09}\nいや・・・\nそれはたぶん無理だぞ・・・{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:22}{0b:08}【 Ash 】{0b:09}\nUh, no... That's probably not gonna work,\ny'know...{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Uh, no... That's probably not gonna work, y'know..."
   },
   {
    "id": "RES#97:1c69c",
@@ -1211,8 +1276,9 @@
    "jp": "{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nな・・・{0c:4c0109fe}",
    "read": "{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nな・・・{0c:4c0109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Red Lion Knight 】{0b:09}\nWh...{0c:4c0109fe}",
+   "status": "done",
+   "tl": "Wh..."
   },
   {
    "id": "RES#97:1c6c3",
@@ -1222,8 +1288,9 @@
    "jp": "{1c:23}{0b:08}{e080} アッシュ {e081}{0b:09}\nみんなの言うとおり、\nやっぱり弱すぎるもんな。\n赤なんとか{e087}士団の人って。{0c:2b5509fe}",
    "read": "{1c:23}{0b:08}【 アッシュ 】{0b:09}\nみんなの言うとおり、\nやっぱり弱すぎるもんな。\n赤なんとか騎士団の人って。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:23}{0b:08}【 Ash 】{0b:09}\nLike everybody says, you're just too\nweak, I guess. You Red-Whatever\nKnights.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Like everybody says, you're just too weak, I guess. You Red-Whatever Knights."
   },
   {
    "id": "RES#97:1c709",
@@ -1233,8 +1300,9 @@
    "jp": "{0c:523840}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nむ、むぅぅぅぅ!{1a}田{e0b9}者{e0ba}出しの頭の悪そうな顔で\nこの私を{e0ab}弄するのかッ!?\n許せん!!{0c:4c0109fe}",
    "read": "{0c:523840}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nむ、むぅぅぅぅ!{1a}田舎者丸出しの頭の悪そうな顔で\nこの私を愚弄するのかッ!?\n許せん!!{0c:4c0109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523840}{0b:08}【 Red Lion Knight 】{0b:09}\nN-nnnngh!{1a}You dare mock me, with that dim-witted\nbumpkin's face!? Unforgivable!!{0c:4c0109fe}",
+   "status": "done",
+   "tl": "N-nnnngh! // You dare mock me, with that dim-witted bumpkin's face!? Unforgivable!!"
   },
   {
    "id": "RES#97:1c76f",
@@ -1244,8 +1312,9 @@
    "jp": "{0c:5118}{1c:23}{0b:08}{e080} アッシュ {e081}{0b:09}\nでも本当だから・・・{0c:2b5509fe}",
    "read": "{0c:5118}{1c:23}{0b:08}【 アッシュ 】{0b:09}\nでも本当だから・・・{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5118}{1c:23}{0b:08}【 Ash 】{0b:09}\nBut it's true, y'know...{0c:2b5509fe}",
+   "status": "done",
+   "tl": "But it's true, y'know..."
   },
   {
    "id": "RES#97:1c799",
@@ -1255,8 +1324,9 @@
    "jp": "{0c:524850}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nま、まだ言うか!!{0c:020f01}",
    "read": "{0c:524850}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nま、まだ言うか!!{0c:020f01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524850}{0b:08}【 Red Lion Knight 】{0b:09}\nY-you still say so!!{0c:020f01}",
+   "status": "done",
+   "tl": "Y-you still say so!!"
   },
   {
    "id": "RES#97:1c7cb",
@@ -1277,8 +1347,9 @@
    "jp": "{1c:20}{0b:08}{e080} ルカ {e081}{0b:09}\nすみません・・・\nでも、無理だと思います・・・{0c:2b5509fe}",
    "read": "{1c:20}{0b:08}【 ルカ 】{0b:09}\nすみません・・・\nでも、無理だと思います・・・{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Luca 】{0b:09}\nI'm sorry... But I believe it is impossible...{0c:2b5509fe}",
+   "status": "done",
+   "tl": "I'm sorry... But I believe it is impossible..."
   },
   {
    "id": "RES#97:1c808",
@@ -1288,8 +1359,9 @@
    "jp": "{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nな・・・{0c:4c1109fe}",
    "read": "{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nな・・・{0c:4c1109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Red Lion Knight 】{0b:09}\nWh...{0c:4c1109fe}",
+   "status": "done",
+   "tl": "Wh..."
   },
   {
    "id": "RES#97:1c82f",
@@ -1299,8 +1371,9 @@
    "jp": "{1c:21}{0b:08}{e080} ルカ {e081}{0b:09}\n他の方も言っておられましたが、{1a}カルス・バスティードの戦士と\n外の人とでは実力に\n差がありすぎると思うんです。{0c:2b5509fe}",
    "read": "{1c:21}{0b:08}【 ルカ 】{0b:09}\n他の方も言っておられましたが、{1a}カルス・バスティードの戦士と\n外の人とでは実力に\n差がありすぎると思うんです。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:21}{0b:08}【 Luca 】{0b:09}\nAs the others were saying,{1a}I believe the gap in ability between the\nwarriors of Kars Bastide and those\noutside is simply too great.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "As the others were saying, // I believe the gap in ability between the warriors of Kars Bastide and those outside is simply too great."
   },
   {
    "id": "RES#97:1c88b",
@@ -1310,8 +1383,9 @@
    "jp": "{0c:523840}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\n気の弱そうな顔でズケズケと・・・\nこの私を{e0ab}弄するのかッ!?\n許せん!!{0c:4c1109fe}",
    "read": "{0c:523840}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\n気の弱そうな顔でズケズケと・・・\nこの私を愚弄するのかッ!?\n許せん!!{0c:4c1109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523840}{0b:08}【 Red Lion Knight 】{0b:09}\nSuch brazen words from so timid a face...\nYou dare mock me!? Unforgivable!!{0c:4c1109fe}",
+   "status": "done",
+   "tl": "Such brazen words from so timid a face... You dare mock me!? Unforgivable!!"
   },
   {
    "id": "RES#97:1c8e4",
@@ -1321,8 +1395,9 @@
    "jp": "{0c:5118}{1c:21}{0b:08}{e080} ルカ {e081}{0b:09}\nでも無用な戦いは\n避けたいですし・・・{1a}お怪我をさせたく\nありませんから・・・{0c:2b5509fe}",
    "read": "{0c:5118}{1c:21}{0b:08}【 ルカ 】{0b:09}\nでも無用な戦いは\n避けたいですし・・・{1a}お怪我をさせたく\nありませんから・・・{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5118}{1c:21}{0b:08}【 Luca 】{0b:09}\nBut I would like to avoid needless\nfighting...{1a}And I would not want to hurt you...{0c:2b5509fe}",
+   "status": "done",
+   "tl": "But I would like to avoid needless fighting... // And I would not want to hurt you..."
   },
   {
    "id": "RES#97:1c92d",
@@ -1332,8 +1407,9 @@
    "jp": "{0c:524850}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nま、まだ言うか!!{0c:020801}",
    "read": "{0c:524850}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nま、まだ言うか!!{0c:020801}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524850}{0b:08}【 Red Lion Knight 】{0b:09}\nY-you still say so!!{0c:020801}",
+   "status": "done",
+   "tl": "Y-you still say so!!"
   },
   {
    "id": "RES#97:1c95f",
@@ -1354,8 +1430,9 @@
    "jp": "{1c:29}{0b:08}{e080} サラ {e081}{0b:09}\nそれ・・・無理だと思います・・・{0c:2b5509fe}",
    "read": "{1c:29}{0b:08}【 サラ 】{0b:09}\nそれ・・・無理だと思います・・・{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:29}{0b:08}【 Sara 】{0b:09}\nThat... I think that's impossible...{0c:2b5509fe}",
+   "status": "done",
+   "tl": "That... I think that's impossible..."
   },
   {
    "id": "RES#97:1c995",
@@ -1365,8 +1442,9 @@
    "jp": "{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nな・・・{0c:4c1209fe}",
    "read": "{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nな・・・{0c:4c1209fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Red Lion Knight 】{0b:09}\nWh...{0c:4c1209fe}",
+   "status": "done",
+   "tl": "Wh..."
   },
   {
    "id": "RES#97:1c9bc",
@@ -1376,8 +1454,9 @@
    "jp": "{1c:29}{0b:08}{e080} サラ {e081}{0b:09}\nみんなも言ってたけど、\nカルス・バスティードの人と\n外の人とでは差があると思うんだ。{0c:2b5509fe}",
    "read": "{1c:29}{0b:08}【 サラ 】{0b:09}\nみんなも言ってたけど、\nカルス・バスティードの人と\n外の人とでは差があると思うんだ。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:29}{0b:08}【 Sara 】{0b:09}\nLike everyone said, I think there's a big\ndifference between people from Kars\nBastide and people from outside.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Like everyone said, I think there's a big difference between people from Kars Bastide and people from outside."
   },
   {
    "id": "RES#97:1ca06",
@@ -1387,8 +1466,9 @@
    "jp": "{0c:523840}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\n{e094}のない顔をしてズケズケと・・・\nこの私を{e0ab}弄するのかッ!?\n許せん!!{0c:4c1209fe}",
    "read": "{0c:523840}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\n害のない顔をしてズケズケと・・・\nこの私を愚弄するのかッ!?\n許せん!!{0c:4c1209fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523840}{0b:08}【 Red Lion Knight 】{0b:09}\nSuch brazen words from so harmless a\nface... You dare mock me!? Unforgivable!!{0c:4c1209fe}",
+   "status": "done",
+   "tl": "Such brazen words from so harmless a face... You dare mock me!? Unforgivable!!"
   },
   {
    "id": "RES#97:1ca5e",
@@ -1398,8 +1478,9 @@
    "jp": "{0c:5118}{1c:28}{0b:08}{e080} サラ {e081}{0b:09}\n馬鹿にしたつもりはないんだよ、\nでも、{10}さん達の方が\nやっぱり強いよ。{0c:2b5509fe}",
    "read": "{0c:5118}{1c:28}{0b:08}【 サラ 】{0b:09}\n馬鹿にしたつもりはないんだよ、\nでも、{10}さん達の方が\nやっぱり強いよ。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5118}{1c:28}{0b:08}【 Sara 】{0b:09}\nI didn't mean to make fun of you, okay?\nBut {10}-san and everyone really\nare stronger.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "I didn't mean to make fun of you, okay? But [HERO]-san and everyone really are stronger."
   },
   {
    "id": "RES#97:1caa2",
@@ -1409,8 +1490,9 @@
    "jp": "{0c:524850}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nま、まだ言うか!!{0c:fe}",
    "read": "{0c:524850}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nま、まだ言うか!!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524850}{0b:08}【 Red Lion Knight 】{0b:09}\nY-you still say so!!{0c:fe}",
+   "status": "done",
+   "tl": "Y-you still say so!!"
   },
   {
    "id": "RES#97:1cad2",
@@ -1431,8 +1513,9 @@
    "jp": "{0c:51082b501000}{0c:2b502351081000}{0b:08}{e080} アーサー {e081}{0b:09}\nそんなことより\nこれからどうする?{1a}別の入り口を{e0bb}してみるか?\n{e0bc}に進むコースは\n{e0bd}つもあるって話だし、{1a}騒がれずに進むには\nそうするしかないと\n思うんだけど・・・{0c:021901}",
    "read": "{0c:51082b501000}{0c:2b502351081000}{0b:08}【 アーサー 】{0b:09}\nそんなことより\nこれからどうする?{1a}別の入り口を探してみるか?\n奥に進むコースは\n幾つもあるって話だし、{1a}騒がれずに進むには\nそうするしかないと\n思うんだけど・・・{0c:021901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{0c:2b502351081000}{0b:08}【 Arthur 】{0b:09}\nThat aside, what should we do now?{1a}Shall we look for another entrance?\nThey say there are several routes\ndeeper in,{1a}and I think it is the only way to go on\nwithout raising the alarm...{0c:021901}",
+   "status": "done",
+   "tl": "That aside, what should we do now? // Shall we look for another entrance? They say there are several routes deeper in, // and I think it is the only way to go on without raising the alarm..."
   },
   {
    "id": "RES#97:1cb68",
@@ -1453,8 +1536,9 @@
    "jp": "{0c:51082b501000}{0c:2b502351081000}{1c:1b}{0b:08}{e080} ノエル {e081}{0b:09}\nそんなことより\nこれからのことだけど・・・{1a}別の入り口を{e0bb}してみる?\n{e0bc}に進むコースは\n{e0bd}つもあるって話だし、{1a}騒がれずに進むには\nそうするしかないと\n思うんだけど・・・{0c:021701}",
    "read": "{0c:51082b501000}{0c:2b502351081000}{1c:1b}{0b:08}【 ノエル 】{0b:09}\nそんなことより\nこれからのことだけど・・・{1a}別の入り口を探してみる?\n奥に進むコースは\n幾つもあるって話だし、{1a}騒がれずに進むには\nそうするしかないと\n思うんだけど・・・{0c:021701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{0c:2b502351081000}{1c:1b}{0b:08}【 Noel 】{0b:09}\nThat aside, about what comes next...{1a}Shall we look for another entrance?\nThey say there are several routes\ndeeper in,{1a}and I think it's the only way to go on\nwithout raising the alarm...{0c:021701}",
+   "status": "done",
+   "tl": "That aside, about what comes next... // Shall we look for another entrance? They say there are several routes deeper in, // and I think it's the only way to go on without raising the alarm..."
   },
   {
    "id": "RES#97:1cc00",
@@ -1475,8 +1559,9 @@
    "jp": "{0c:51082b501000}{0c:2b502351081000}{0b:08}{e080} イヴ {e081}{0b:09}\nそんなことより\nこれからのことなんだけど・・・{1a}別の入り口を{e0bb}してみる?\n{e0bc}に進むコースは\n{e0bd}つもあるって話だし、{1a}騒がれずに進むには\nそうするしかないと\n思うんだけど・・・{0c:021501}",
    "read": "{0c:51082b501000}{0c:2b502351081000}{0b:08}【 イヴ 】{0b:09}\nそんなことより\nこれからのことなんだけど・・・{1a}別の入り口を探してみる?\n奥に進むコースは\n幾つもあるって話だし、{1a}騒がれずに進むには\nそうするしかないと\n思うんだけど・・・{0c:021501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{0c:2b502351081000}{0b:08}【 Eve 】{0b:09}\nThat aside, about what comes next...{1a}Shall we look for another entrance?\nThey do say there are several routes\ndeeper in,{1a}and I suppose it's the only way to go on\nwithout raising the alarm...{0c:021501}",
+   "status": "done",
+   "tl": "That aside, about what comes next... // Shall we look for another entrance? They do say there are several routes deeper in, // and I suppose it's the only way to go on without raising the alarm..."
   },
   {
    "id": "RES#97:1cc97",
@@ -1497,8 +1582,9 @@
    "jp": "{0c:51082b501000}{0c:2b502351081000}{0b:08}{e080} オルフェウス {e081}{0b:09}\nそんなことより\nこれからのことですが・・・{1a}別の入り口を{e0bb}してみますか?\n{e0bc}に進むコースは\n{e0bd}つもあるって話ですし、{1a}{10}さんの望むように\n戦いを避けて進むには\nそうするしかないと思うのですが。{0c:021301}",
    "read": "{0c:51082b501000}{0c:2b502351081000}{0b:08}【 オルフェウス 】{0b:09}\nそんなことより\nこれからのことですが・・・{1a}別の入り口を探してみますか?\n奥に進むコースは\n幾つもあるって話ですし、{1a}{10}さんの望むように\n戦いを避けて進むには\nそうするしかないと思うのですが。{0c:021301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{0c:2b502351081000}{0b:08}【 Orpheus 】{0b:09}\nThat aside, as to what comes next...{1a}Shall we look for another entrance?\nThey do say there are several routes\ndeeper in,{1a}and to avoid a fight as you wish,\n{10}-san, I daresay that is the\nonly way.{0c:021301}",
+   "status": "done",
+   "tl": "That aside, as to what comes next... // Shall we look for another entrance? They do say there are several routes deeper in, // and to avoid a fight as you wish, [HERO]-san, I daresay that is the only way."
   },
   {
    "id": "RES#97:1cd3d",
@@ -1519,8 +1605,9 @@
    "jp": "{0c:51082b501000}{0c:2b502351081000}{1c:13}{0b:08}{e080} シャルン {e081}{0b:09}\nそんなことより\nこれからのことだけど・・・{1a}別の入り口を{e0bb}してみる?\n{e0bc}に進むコースは\n{e0bd}つもあるって話だし、{1a}騒がれずに進むには\nそうするしかないと\n思うんだけど・・・{0c:021101}",
    "read": "{0c:51082b501000}{0c:2b502351081000}{1c:13}{0b:08}【 シャルン 】{0b:09}\nそんなことより\nこれからのことだけど・・・{1a}別の入り口を探してみる?\n奥に進むコースは\n幾つもあるって話だし、{1a}騒がれずに進むには\nそうするしかないと\n思うんだけど・・・{0c:021101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{0c:2b502351081000}{1c:13}{0b:08}【 Scharn 】{0b:09}\nThat aside, about what comes next...{1a}Shall we look for another entrance?\nThey say there are several routes\ndeeper in,{1a}and I think it's the only way to go on\nwithout raising the alarm...{0c:021101}",
+   "status": "done",
+   "tl": "That aside, about what comes next... // Shall we look for another entrance? They say there are several routes deeper in, // and I think it's the only way to go on without raising the alarm..."
   },
   {
    "id": "RES#97:1cdd6",
@@ -1541,8 +1628,9 @@
    "jp": "{0c:51082b501000}{0c:2b502351081000}{0b:08}{e080} パスカ {e081}{0b:09}\nそんなことより\nこれからどうする?{1a}別の入り口{e0bb}すか?\n{e0bc}に進むコースは\n{e0bd}つもあるって話だし、{1a}騒がれずに進むには\nそうするしかねえと\n思うんだけど・・・{0c:020f01}",
    "read": "{0c:51082b501000}{0c:2b502351081000}{0b:08}【 パスカ 】{0b:09}\nそんなことより\nこれからどうする?{1a}別の入り口探すか?\n奥に進むコースは\n幾つもあるって話だし、{1a}騒がれずに進むには\nそうするしかねえと\n思うんだけど・・・{0c:020f01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{0c:2b502351081000}{0b:08}【 Pasca 】{0b:09}\nAnyway, whaddaya wanna do now?{1a}Look for another way in? They say\nthere's a bunch of routes deeper in,{1a}and I figure that's the only way to keep\ngoin' without raisin' the alarm...{0c:020f01}",
+   "status": "done",
+   "tl": "Anyway, whaddaya wanna do now? // Look for another way in? They say there's a bunch of routes deeper in, // and I figure that's the only way to keep goin' without raisin' the alarm..."
   },
   {
    "id": "RES#97:1ce67",
@@ -1563,8 +1651,9 @@
    "jp": "{0c:51082b501000}{0c:2b502351081000}{0b:08}{e080} ジェシカ {e081}{0b:09}\nそんなことより\nこれからどうすんの?{1a}別の入り口を{e0bb}してみる?\n{e0bc}に進むコースは\n{e0bd}つもあるって話だし、{1a}騒がれずに進むには\nそうするしかないと\n思うんだけど・・・{0c:020d01}",
    "read": "{0c:51082b501000}{0c:2b502351081000}{0b:08}【 ジェシカ 】{0b:09}\nそんなことより\nこれからどうすんの?{1a}別の入り口を探してみる?\n奥に進むコースは\n幾つもあるって話だし、{1a}騒がれずに進むには\nそうするしかないと\n思うんだけど・・・{0c:020d01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{0c:2b502351081000}{0b:08}【 Jessica 】{0b:09}\nNever mind that, what do we do now?{1a}Wanna look for another way in? They\nsay there's a bunch of routes deeper in,{1a}and I think that's the only way to go on\nwithout raising the alarm, you know...{0c:020d01}",
+   "status": "done",
+   "tl": "Never mind that, what do we do now? // Wanna look for another way in? They say there's a bunch of routes deeper in, // and I think that's the only way to go on without raising the alarm, you know..."
   },
   {
    "id": "RES#97:1cefd",
@@ -1585,8 +1674,9 @@
    "jp": "{0c:51082b501000}{0c:2b502351081000}{0b:08}{e080} レイア {e081}{0b:09}\nそんなことより\nこれからのことだ。{1a}別の入り口を{e0bb}すか?\n{e0bc}に進むコースは\n{e0bd}つもあるということだし、{1a}お前の望むように\n騒がれずに進むには\nそうするしかないと思うのだが・・・{0c:020b01}",
    "read": "{0c:51082b501000}{0c:2b502351081000}{0b:08}【 レイア 】{0b:09}\nそんなことより\nこれからのことだ。{1a}別の入り口を探すか?\n奥に進むコースは\n幾つもあるということだし、{1a}お前の望むように\n騒がれずに進むには\nそうするしかないと思うのだが・・・{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{0c:2b502351081000}{0b:08}【 Leia 】{0b:09}\nThat aside, the matter is what comes\nnext.{1a}Shall we seek another entrance? There\nare said to be several routes deeper in,{1a}and to proceed without raising the alarm,\nas you wish, I believe that is the only\nway...{0c:020b01}",
+   "status": "done",
+   "tl": "That aside, the matter is what comes next. // Shall we seek another entrance? There are said to be several routes deeper in, // and to proceed without raising the alarm, as you wish, I believe that is the only way..."
   },
   {
    "id": "RES#97:1cf97",
@@ -1607,8 +1697,9 @@
    "jp": "{0c:51082b501000}{0c:2b502351081000}{0b:08}{e080} アッシュ {e081}{0b:09}\nそんなことより\nこれからのことなんだけど・・・{1a}別の入り口{e0bb}してみるか?\n{e0bc}に進む{e08d}{e08e}は\nいくつもあるって話だし、{1a}騒がれずに進むには\nそうするしかないと\n思うんだけど・・・{0c:020901}",
    "read": "{0c:51082b501000}{0c:2b502351081000}{0b:08}【 アッシュ 】{0b:09}\nそんなことより\nこれからのことなんだけど・・・{1a}別の入り口探してみるか?\n奥に進む通路は\nいくつもあるって話だし、{1a}騒がれずに進むには\nそうするしかないと\n思うんだけど・・・{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{0c:2b502351081000}{0b:08}【 Ash 】{0b:09}\nAnyway, about what's next...{1a}Should we look for another way in? They\nsay there's a bunch of passages going\ndeeper,{1a}and I guess that's the only way to go on\nwithout raising the alarm...{0c:020901}",
+   "status": "done",
+   "tl": "Anyway, about what's next... // Should we look for another way in? They say there's a bunch of passages going deeper, // and I guess that's the only way to go on without raising the alarm..."
   },
   {
    "id": "RES#97:1d02f",
@@ -1629,8 +1720,9 @@
    "jp": "{0c:51082b501000}{0c:2b502351081000}{0b:08}{e080} サラ {e081}{0b:09}\nそんなことより、\nこれからのことなんだけど・・・{1a}別の入り口{e0bb}してみる?\n{e0bc}に進むコースは\n{e0bd}つもあるそうだし、{1a}騒がれずに進むには\nそうするしかないと\n思うんだけど・・・{0c:020701}",
    "read": "{0c:51082b501000}{0c:2b502351081000}{0b:08}【 サラ 】{0b:09}\nそんなことより、\nこれからのことなんだけど・・・{1a}別の入り口探してみる?\n奥に進むコースは\n幾つもあるそうだし、{1a}騒がれずに進むには\nそうするしかないと\n思うんだけど・・・{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{0c:2b502351081000}{0b:08}【 Sara 】{0b:09}\nAnyway, about what's next...{1a}Should we look for another way in? They\nsay there are lots of routes deeper in,{1a}and I think that's the only way to go on\nwithout raising the alarm...{0c:020701}",
+   "status": "done",
+   "tl": "Anyway, about what's next... // Should we look for another way in? They say there are lots of routes deeper in, // and I think that's the only way to go on without raising the alarm..."
   },
   {
    "id": "RES#97:1d0c4",
@@ -1651,8 +1743,9 @@
    "jp": "{0c:51082b501000}{0c:2b502351081000}{0b:08}{e080} ルカ {e081}{0b:09}\nそんなことより、\nこれからのことなんですけど・・・{1a}別の入り口{e0bb}してみますか?\n{e0bc}に進むコースは\n{e0bd}つもあるそうですし、{1a}騒がれずに進むには\nそうするしかないと\n思うんですけど・・・{0c:020501}",
    "read": "{0c:51082b501000}{0c:2b502351081000}{0b:08}【 ルカ 】{0b:09}\nそんなことより、\nこれからのことなんですけど・・・{1a}別の入り口探してみますか?\n奥に進むコースは\n幾つもあるそうですし、{1a}騒がれずに進むには\nそうするしかないと\n思うんですけど・・・{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{0c:2b502351081000}{0b:08}【 Luca 】{0b:09}\nThat aside, about what comes next...{1a}Shall we look for another entrance? I\nhear there are several routes deeper in,{1a}and I believe that is the only way to go\non without raising the alarm...{0c:020501}",
+   "status": "done",
+   "tl": "That aside, about what comes next... // Shall we look for another entrance? I hear there are several routes deeper in, // and I believe that is the only way to go on without raising the alarm..."
   },
   {
    "id": "RES#97:1d15e",
@@ -1673,8 +1766,9 @@
    "jp": "{0c:51082b501000}{0c:2b502351081000}{0b:08}{e080} エレアノール {e081}{0b:09}\nこれからのことですが・・・{1a}別の入り口を{e0bb}しますか?\n{e0bc}に進むコースは\n{e0bd}つもあるという話ですし、{1a}騒がれずに進むには\nそうするしかないと\n思うのですが・・・{0c:020301}",
    "read": "{0c:51082b501000}{0c:2b502351081000}{0b:08}【 エレアノール 】{0b:09}\nこれからのことですが・・・{1a}別の入り口を探しますか?\n奥に進むコースは\n幾つもあるという話ですし、{1a}騒がれずに進むには\nそうするしかないと\n思うのですが・・・{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{0c:2b502351081000}{0b:08}【 Eleanor 】{0b:09}\nAs to what comes next...{1a}Shall we seek another entrance? They\nsay there are several routes deeper in,{1a}and I believe that is the only way to go\non without raising the alarm...{0c:020301}",
+   "status": "done",
+   "tl": "As to what comes next... // Shall we seek another entrance? They say there are several routes deeper in, // and I believe that is the only way to go on without raising the alarm..."
   },
   {
    "id": "RES#97:1d1f1",
@@ -1695,8 +1789,9 @@
    "jp": "{0c:51082b501000}{0c:2b502351081000}{0b:08}{e080} ディアス {e081}{0b:09}\nこれからのことだが・・・{1a}貴様の望むように、\n戦いを避けて進むのであれば、\n別の入り口を{e0bb}すしかないな。{0c:fe}",
    "read": "{0c:51082b501000}{0c:2b502351081000}{0b:08}【 ディアス 】{0b:09}\nこれからのことだが・・・{1a}貴様の望むように、\n戦いを避けて進むのであれば、\n別の入り口を探すしかないな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{0c:2b502351081000}{0b:08}【 Dias 】{0b:09}\nAs to what comes next...{1a}If you wish to go on and avoid a fight,\nthere is nothing for it but to find\nanother entrance.{0c:fe}",
+   "status": "done",
+   "tl": "As to what comes next... // If you wish to go on and avoid a fight, there is nothing for it but to find another entrance."
   },
   {
    "id": "RES#97:1d260",
@@ -1717,8 +1812,9 @@
    "jp": "{0c:525860}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\n無駄だ無駄だ!\nどの{e08d}{e08e}も我{e0bf}が押さえた!{1a}蟻の{e0c1}い出る隙間もないわ!!\nザマを見ろだ! {e0c3}罰だ!!{0c:0202014c0d2c09fe}",
    "read": "{0c:525860}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\n無駄だ無駄だ!\nどの通路も我々が押さえた!{1a}蟻の這い出る隙間もないわ!!\nザマを見ろだ! 天罰だ!!{0c:0202014c0d2c09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:525860}{0b:08}【 Red Lion Knight 】{0b:09}\nUseless, useless! We hold every passage!{1a}Not even an ant could crawl out!! Serves\nyou right! It is divine punishment!!{0c:0202014c0d2c09fe}",
+   "status": "done",
+   "tl": "Useless, useless! We hold every passage! // Not even an ant could crawl out!! Serves you right! It is divine punishment!!"
   },
   {
    "id": "RES#97:1d2e0",
@@ -1728,8 +1824,9 @@
    "jp": "{0b:08}{e080} ディアス {e081}{0b:09}\nだが、奴なら\n多少の{e093}{e09c}などものともせずに\n進んでるだろうがな・・・{0c:021901}",
    "read": "{0b:08}【 ディアス 】{0b:09}\nだが、奴なら\n多少の障壁などものともせずに\n進んでるだろうがな・・・{0c:021901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Dias 】{0b:09}\nBut he will doubtless be advancing,\nheedless of any small barrier...{0c:021901}",
+   "status": "done",
+   "tl": "But he will doubtless be advancing, heedless of any small barrier..."
   },
   {
    "id": "RES#97:1d31f",
@@ -1750,8 +1847,9 @@
    "jp": "{1c:18}{0b:08}{e080} エレアノール {e081}{0b:09}\nでも、あの人なら\n多少の{e093}{e09c}などものともせずに\n進んでいるのでしょうね・・・{0c:021701}",
    "read": "{1c:18}{0b:08}【 エレアノール 】{0b:09}\nでも、あの人なら\n多少の障壁などものともせずに\n進んでいるのでしょうね・・・{0c:021701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Eleanor 】{0b:09}\nBut he, I imagine, is advancing, heedless\nof any small barrier...{0c:021701}",
+   "status": "done",
+   "tl": "But he, I imagine, is advancing, heedless of any small barrier..."
   },
   {
    "id": "RES#97:1d371",
@@ -1772,8 +1870,9 @@
    "jp": "{1c:20}{0b:08}{e080} ルカ {e081}{0b:09}\nでも、あの人なら\n多少の{e093}{e094}なんてお構いなしに\n進んでいると思います・・・{0c:021501}",
    "read": "{1c:20}{0b:08}【 ルカ 】{0b:09}\nでも、あの人なら\n多少の障害なんてお構いなしに\n進んでいると思います・・・{0c:021501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Luca 】{0b:09}\nBut I believe he is advancing, without a\nthought for small obstacles...{0c:021501}",
+   "status": "done",
+   "tl": "But I believe he is advancing, without a thought for small obstacles..."
   },
   {
    "id": "RES#97:1d3c0",
@@ -1794,8 +1893,9 @@
    "jp": "{1c:28}{0b:08}{e080} サラ {e081}{0b:09}\nでも、あの人なら\n多少の{e093}{e094}なんてお構いなしに\n進んでると思う・・・{0c:021301}",
    "read": "{1c:28}{0b:08}【 サラ 】{0b:09}\nでも、あの人なら\n多少の障害なんてお構いなしに\n進んでると思う・・・{0c:021301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:28}{0b:08}【 Sara 】{0b:09}\nBut I think he's going on, without caring\nabout some little obstacles...{0c:021301}",
+   "status": "done",
+   "tl": "But I think he's going on, without caring about some little obstacles..."
   },
   {
    "id": "RES#97:1d40c",
@@ -1816,8 +1916,9 @@
    "jp": "{1c:22}{0b:08}{e080} アッシュ {e081}{0b:09}\nでも、あの人ならお構いなしに\n進んでるだろうな・・・{0c:021101}",
    "read": "{1c:22}{0b:08}【 アッシュ 】{0b:09}\nでも、あの人ならお構いなしに\n進んでるだろうな・・・{0c:021101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:22}{0b:08}【 Ash 】{0b:09}\nBut he wouldn't care, y'know. He's\nprobably going on anyway...{0c:021101}",
+   "status": "done",
+   "tl": "But he wouldn't care, y'know. He's probably going on anyway..."
   },
   {
    "id": "RES#97:1d44d",
@@ -1838,8 +1939,9 @@
    "jp": "{1c:1f}{0b:08}{e080} レイア {e081}{0b:09}\nだが、奴なら\n多少の{e093}{e094}などものともせずに\n進んでいるだろうな・・・{0c:020f01}",
    "read": "{1c:1f}{0b:08}【 レイア 】{0b:09}\nだが、奴なら\n多少の障害などものともせずに\n進んでいるだろうな・・・{0c:020f01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}{0b:08}【 Leia 】{0b:09}\nBut he will surely be advancing, heedless\nof any small obstacle...{0c:020f01}",
+   "status": "done",
+   "tl": "But he will surely be advancing, heedless of any small obstacle..."
   },
   {
    "id": "RES#97:1d498",
@@ -1860,8 +1962,9 @@
    "jp": "{1c:19}{0b:08}{e080} ジェシカ {e081}{0b:09}\nでも、あいつなら\n多少の{e093}{e094}なんてお構いなしに\n進んでるだろうね・・・{0c:020d01}",
    "read": "{1c:19}{0b:08}【 ジェシカ 】{0b:09}\nでも、あいつなら\n多少の障害なんてお構いなしに\n進んでるだろうね・・・{0c:020d01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Jessica 】{0b:09}\nBut that guy wouldn't care about a few\nobstacles. He's probably pushing right\non...{0c:020d01}",
+   "status": "done",
+   "tl": "But that guy wouldn't care about a few obstacles. He's probably pushing right on..."
   },
   {
    "id": "RES#97:1d4e5",
@@ -1882,8 +1985,9 @@
    "jp": "{1c:10}{0b:08}{e080} パスカ {e081}{0b:09}\nでも、あの人なら\n多少の{e093}{e094}なんてお構いなしに\n進んでるだろうな・・・{0c:020b01}",
    "read": "{1c:10}{0b:08}【 パスカ 】{0b:09}\nでも、あの人なら\n多少の障害なんてお構いなしに\n進んでるだろうな・・・{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Pasca 】{0b:09}\nBut that guy wouldn't give a damn about\na few obstacles. He's prob'ly pushin'\nright on...{0c:020b01}",
+   "status": "done",
+   "tl": "But that guy wouldn't give a damn about a few obstacles. He's prob'ly pushin' right on..."
   },
   {
    "id": "RES#97:1d532",
@@ -1904,8 +2008,9 @@
    "jp": "{1c:13}{0b:08}{e080} シャルン {e081}{0b:09}\nでも、あの人なら\n多少の{e093}{e094}なんてお構いなしに\n進んでるだろうな・・・{0c:020901}",
    "read": "{1c:13}{0b:08}【 シャルン 】{0b:09}\nでも、あの人なら\n多少の障害なんてお構いなしに\n進んでるだろうな・・・{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Scharn 】{0b:09}\nBut that guy wouldn't give a damn about\na few obstacles. He's prob'ly pushin'\nright on...{0c:020901}",
+   "status": "done",
+   "tl": "But that guy wouldn't give a damn about a few obstacles. He's prob'ly pushin' right on..."
   },
   {
    "id": "RES#97:1d580",
@@ -1926,8 +2031,9 @@
    "jp": "{1c:25}{0b:08}{e080} オルフェウス {e081}{0b:09}\nでも、あの人なら\n多少の{e093}{e094}なんてお構いなしに\n進んでいるでしょうね・・・{0c:020701}",
    "read": "{1c:25}{0b:08}【 オルフェウス 】{0b:09}\nでも、あの人なら\n多少の障害なんてお構いなしに\n進んでいるでしょうね・・・{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:25}{0b:08}【 Orpheus 】{0b:09}\nBut he, no doubt, is advancing without a\ncare for a few obstacles, I daresay...{0c:020701}",
+   "status": "done",
+   "tl": "But he, no doubt, is advancing without a care for a few obstacles, I daresay..."
   },
   {
    "id": "RES#97:1d5d2",
@@ -1948,8 +2054,9 @@
    "jp": "{1c:2b}{0b:08}{e080} イヴ {e081}{0b:09}\nでも、あの人なら\n多少の{e093}{e094}なんてお構いなしに\n進んでるでしょうね・・・{0c:020501}",
    "read": "{1c:2b}{0b:08}【 イヴ 】{0b:09}\nでも、あの人なら\n多少の障害なんてお構いなしに\n進んでるでしょうね・・・{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:2b}{0b:08}【 Eve 】{0b:09}\nBut he's probably going on without a\ncare for a few obstacles, isn't he...{0c:020501}",
+   "status": "done",
+   "tl": "But he's probably going on without a care for a few obstacles, isn't he..."
   },
   {
    "id": "RES#97:1d61f",
@@ -1970,8 +2077,9 @@
    "jp": "{1c:1d}{0b:08}{e080} ノエル {e081}{0b:09}\nでも、あの人なら\n多少の{e093}{e09c}なんてものともせずに\n進んでるでしょうね・・・{0c:020301}",
    "read": "{1c:1d}{0b:08}【 ノエル 】{0b:09}\nでも、あの人なら\n多少の障壁なんてものともせずに\n進んでるでしょうね・・・{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}{0b:08}【 Noel 】{0b:09}\nBut he's probably going on, heedless of a\nfew barriers...{0c:020301}",
+   "status": "done",
+   "tl": "But he's probably going on, heedless of a few barriers..."
   },
   {
    "id": "RES#97:1d66d",
@@ -1992,8 +2100,9 @@
    "jp": "{1c:16}{0b:08}{e080} アーサー {e081}{0b:09}\nでも、あの人なら\n多少の{e093}{e09c}なんてものともせずに\n進んでるだろうな・・・{0c:fe}",
    "read": "{1c:16}{0b:08}【 アーサー 】{0b:09}\nでも、あの人なら\n多少の障壁なんてものともせずに\n進んでるだろうな・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}{0b:08}【 Arthur 】{0b:09}\nBut he must be advancing, heedless of\nany small barrier...{0c:fe}",
+   "status": "done",
+   "tl": "But he must be advancing, heedless of any small barrier..."
   },
   {
    "id": "RES#97:1d6b9",
@@ -2014,8 +2123,9 @@
    "jp": "{0c:521018}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nその{e0c5}いローブの子供がか?\nハッ、下らぬ冗談を言う。{0c:0202014c052c09fe}",
    "read": "{0c:521018}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nその黒いローブの子供がか?\nハッ、下らぬ冗談を言う。{0c:0202014c052c09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{0b:08}【 Red Lion Knight 】{0b:09}\nThat child in the black robe? Hah, what a\nfoolish joke.{0c:0202014c052c09fe}",
+   "status": "done",
+   "tl": "That child in the black robe? Hah, what a foolish joke."
   },
   {
    "id": "RES#97:1d712",
@@ -2025,8 +2135,9 @@
    "jp": "{0c:5210082b551000}{1c:12}{0b:08}{e080} パスカ {e081}{0b:09}\n{e0c6}{e08d}の子供じゃねえんだよ。\n怒らせるともう誰も止められねえ。{1a}お前らが何人いても\n足止めにもなりゃしねえよ。{1a}それに、おたくのリーダーとは\nかなり因縁があるみたいだから\n余計心配なんだ。{0c:021901}",
    "read": "{0c:5210082b551000}{1c:12}{0b:08}【 パスカ 】{0b:09}\n普通の子供じゃねえんだよ。\n怒らせるともう誰も止められねえ。{1a}お前らが何人いても\n足止めにもなりゃしねえよ。{1a}それに、おたくのリーダーとは\nかなり因縁があるみたいだから\n余計心配なんだ。{0c:021901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5210082b551000}{1c:12}{0b:08}【 Pasca 】{0b:09}\nHe ain't no normal kid. Once he's mad,\nnobody can stop him.{1a}However many of ya there are, ya won't\neven slow him down.{1a}Plus, there's some serious bad blood\nbetween him and that leader of yours,\nso I'm even more worried.{0c:021901}",
+   "status": "done",
+   "tl": "He ain't no normal kid. Once he's mad, nobody can stop him. // However many of ya there are, ya won't even slow him down. // Plus, there's some serious bad blood between him and that leader of yours, so I'm even more worried."
   },
   {
    "id": "RES#97:1d7a4",
@@ -2047,8 +2158,9 @@
    "jp": "{0c:5210082b551000}{1c:14}{0b:08}{e080} シャルン {e081}{0b:09}\n{e0c6}{e08d}の子供じゃないの。\nあなた達が何人いても、\n足止めにもならないと思う。{1a}それに、あなた達のリーダーとは\n深い因縁があるみたいだから\n余計心配なの。{0c:021701}",
    "read": "{0c:5210082b551000}{1c:14}{0b:08}【 シャルン 】{0b:09}\n普通の子供じゃないの。\nあなた達が何人いても、\n足止めにもならないと思う。{1a}それに、あなた達のリーダーとは\n深い因縁があるみたいだから\n余計心配なの。{0c:021701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5210082b551000}{1c:14}{0b:08}【 Scharn 】{0b:09}\nHe's no normal child! However many of\nyou there are, I don't think you could\neven slow him down.{1a}And there seems to be deep bad blood\nbetween him and your leader, so I'm even\nmore worried!{0c:021701}",
+   "status": "done",
+   "tl": "He's no normal child! However many of you there are, I don't think you could even slow him down. // And there seems to be deep bad blood between him and your leader, so I'm even more worried!"
   },
   {
    "id": "RES#97:1d830",
@@ -2069,8 +2181,9 @@
    "jp": "{0c:5210082b551000}{1c:19}{0b:08}{e080} ジェシカ {e081}{0b:09}\nそれが{e0c6}{e08d}の子供じゃないんだよ。\nあんた達が何百人いても\n足止めにもなんないよ。{1a}それに、あんた達のリーダーとは\n深い因縁があるみたいだから\n余計心配なの。{0c:021501}",
    "read": "{0c:5210082b551000}{1c:19}{0b:08}【 ジェシカ 】{0b:09}\nそれが普通の子供じゃないんだよ。\nあんた達が何百人いても\n足止めにもなんないよ。{1a}それに、あんた達のリーダーとは\n深い因縁があるみたいだから\n余計心配なの。{0c:021501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5210082b551000}{1c:19}{0b:08}【 Jessica 】{0b:09}\nThing is, he's no normal kid. Even\nhundreds of you wouldn't slow him down.{1a}And there's some deep bad blood\nbetween him and your leader, so I'm even\nmore worried, you know that?{0c:021501}",
+   "status": "done",
+   "tl": "Thing is, he's no normal kid. Even hundreds of you wouldn't slow him down. // And there's some deep bad blood between him and your leader, so I'm even more worried, you know that?"
   },
   {
    "id": "RES#97:1d8bf",
@@ -2091,8 +2204,9 @@
    "jp": "{0c:5210082b551000}{1c:1b}{0b:08}{e080} ノエル {e081}{0b:09}\n{e0c6}{e08d}の子供なら誰も心配しないわ。\nあの人を怒らせたら\nもう誰にも止められない・・・{1a}あなた達が何百人いようと、\n足止めにもならないでしょうね。{1a}それに、あなた達のリーダーとは\n浅からぬ因縁があるみたいだから\n余計心配なのよ。{0c:021301}",
    "read": "{0c:5210082b551000}{1c:1b}{0b:08}【 ノエル 】{0b:09}\n普通の子供なら誰も心配しないわ。\nあの人を怒らせたら\nもう誰にも止められない・・・{1a}あなた達が何百人いようと、\n足止めにもならないでしょうね。{1a}それに、あなた達のリーダーとは\n浅からぬ因縁があるみたいだから\n余計心配なのよ。{0c:021301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5210082b551000}{1c:1b}{0b:08}【 Noel 】{0b:09}\nIf he were a normal child, no one would\nworry. Once he's angered, no one can\nstop him...{1a}Even hundreds of you wouldn't slow him\ndown.{1a}And there seems to be no small amount\nof bad blood between him and your\nleader, so I'm all the more worried.{0c:021301}",
+   "status": "done",
+   "tl": "If he were a normal child, no one would worry. Once he's angered, no one can stop him... // Even hundreds of you wouldn't slow him down. // And there seems to be no small amount of bad blood between him and your leader, so I'm all the more worried."
   },
   {
    "id": "RES#97:1d976",
@@ -2113,8 +2227,9 @@
    "jp": "{0c:5210082b551000}{1c:16}{0b:08}{e080} アーサー {e081}{0b:09}\n{e0c6}{e08d}の子供じゃないんだ。\n怒らせるともう誰も止められない。{1a}あなた達が何百人いても\n足止めにもならないと思う。{1a}それに、あなた達のリーダーとは\n深い因縁があるみたいだから\n余計心配なんだ。{0c:021101}",
    "read": "{0c:5210082b551000}{1c:16}{0b:08}【 アーサー 】{0b:09}\n普通の子供じゃないんだ。\n怒らせるともう誰も止められない。{1a}あなた達が何百人いても\n足止めにもならないと思う。{1a}それに、あなた達のリーダーとは\n深い因縁があるみたいだから\n余計心配なんだ。{0c:021101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5210082b551000}{1c:16}{0b:08}【 Arthur 】{0b:09}\nHe is no normal child. Once he's angered,\nno one can stop him.{1a}Even hundreds of you would not slow him\ndown, I think.{1a}And there seems to be deep bad blood\nbetween him and your leader, so I am all\nthe more worried.{0c:021101}",
+   "status": "done",
+   "tl": "He is no normal child. Once he's angered, no one can stop him. // Even hundreds of you would not slow him down, I think. // And there seems to be deep bad blood between him and your leader, so I am all the more worried."
   },
   {
    "id": "RES#97:1da19",
@@ -2135,8 +2250,9 @@
    "jp": "{0c:5210082b551000}{1c:18}{0b:08}{e080} エレアノール {e081}{0b:09}\nただの子供ではないのです。\n彼を怒らせれば、\nもう誰も止められないでしょう。{1a}それに、あなた方のリーダーとは\n浅からぬ因縁があるようですから\n余計心配なのです。{0c:020f01}",
    "read": "{0c:5210082b551000}{1c:18}{0b:08}【 エレアノール 】{0b:09}\nただの子供ではないのです。\n彼を怒らせれば、\nもう誰も止められないでしょう。{1a}それに、あなた方のリーダーとは\n浅からぬ因縁があるようですから\n余計心配なのです。{0c:020f01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5210082b551000}{1c:18}{0b:08}【 Eleanor 】{0b:09}\nHe is no mere child. If he is angered, no\none will be able to stop him.{1a}And there seems to be no small amount\nof bad blood between him and your\nleader, so I am all the more worried.{0c:020f01}",
+   "status": "done",
+   "tl": "He is no mere child. If he is angered, no one will be able to stop him. // And there seems to be no small amount of bad blood between him and your leader, so I am all the more worried."
   },
   {
    "id": "RES#97:1daa8",
@@ -2157,8 +2273,9 @@
    "jp": "{0c:5210082b551000}{0b:08}{e080} イヴ {e081}{0b:09}\nただの子供だったら\nよかったんだけどね。{1a}それに、あなた達のリーダーとは\n深い因縁があるみたいだから。{0c:020d01}",
    "read": "{0c:5210082b551000}{0b:08}【 イヴ 】{0b:09}\nただの子供だったら\nよかったんだけどね。{1a}それに、あなた達のリーダーとは\n深い因縁があるみたいだから。{0c:020d01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5210082b551000}{0b:08}【 Eve 】{0b:09}\nIt would be nice if he were a mere child,\nyou know.{1a}And there seems to be deep bad blood\nbetween him and your leader.{0c:020d01}",
+   "status": "done",
+   "tl": "It would be nice if he were a mere child, you know. // And there seems to be deep bad blood between him and your leader."
   },
   {
    "id": "RES#97:1db0c",
@@ -2179,8 +2296,9 @@
    "jp": "{0c:5210082b551000}{1c:24}{0b:08}{e080} オルフェウス {e081}{0b:09}\nただの子供なら\nこんなにも大騒ぎしません。{1a}それに、あなた方のリーダーとは\n深い因縁があるみたいですから\n余計心配なんですよ。{0c:020b01}",
    "read": "{0c:5210082b551000}{1c:24}{0b:08}【 オルフェウス 】{0b:09}\nただの子供なら\nこんなにも大騒ぎしません。{1a}それに、あなた方のリーダーとは\n深い因縁があるみたいですから\n余計心配なんですよ。{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5210082b551000}{1c:24}{0b:08}【 Orpheus 】{0b:09}\nIf he were a mere child, we would hardly\nbe making such a fuss.{1a}And there seems to be deep bad blood\nbetween him and your leader, so I am all\nthe more worried.{0c:020b01}",
+   "status": "done",
+   "tl": "If he were a mere child, we would hardly be making such a fuss. // And there seems to be deep bad blood between him and your leader, so I am all the more worried."
   },
   {
    "id": "RES#97:1db88",
@@ -2201,8 +2319,9 @@
    "jp": "{0c:5210082b551000}{1c:21}{0b:08}{e080} ルカ {e081}{0b:09}\nそれが、ただの子供じゃないんです。\nあの人を怒らせたら\nもう誰にも止められません。{1a}それに、あなた方のリーダーとは\n深い因縁があるみたいですから\n余計心配なんです。{0c:020901}",
    "read": "{0c:5210082b551000}{1c:21}{0b:08}【 ルカ 】{0b:09}\nそれが、ただの子供じゃないんです。\nあの人を怒らせたら\nもう誰にも止められません。{1a}それに、あなた方のリーダーとは\n深い因縁があるみたいですから\n余計心配なんです。{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5210082b551000}{1c:21}{0b:08}【 Luca 】{0b:09}\nThe thing is, he is no mere child. If he is\nangered, no one can stop him.{1a}And there seems to be deep bad blood\nbetween him and your leader, so I am all\nthe more worried.{0c:020901}",
+   "status": "done",
+   "tl": "The thing is, he is no mere child. If he is angered, no one can stop him. // And there seems to be deep bad blood between him and your leader, so I am all the more worried."
   },
   {
    "id": "RES#97:1dc15",
@@ -2223,8 +2342,9 @@
    "jp": "{0c:5210082b551000}{1c:22}{0b:08}{e080} アッシュ {e081}{0b:09}\nそれが、{e0c6}{e08d}の子供じゃないんだ。\nものすごく強くて、寂しくて、\nおっかなくて・・・{1a}それに、\n赤なんとか{e087}士団の副団{e0cb}さんとは\n因縁があるみたいだから\n余計心配なんだ。{0c:020701}",
    "read": "{0c:5210082b551000}{1c:22}{0b:08}【 アッシュ 】{0b:09}\nそれが、普通の子供じゃないんだ。\nものすごく強くて、寂しくて、\nおっかなくて・・・{1a}それに、\n赤なんとか騎士団の副団長さんとは\n因縁があるみたいだから\n余計心配なんだ。{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5210082b551000}{1c:22}{0b:08}【 Ash 】{0b:09}\nThing is, he's not a normal kid. He's real\nstrong, and lonely, and scary...{1a}And there seems to be some bad blood\nbetween him and the\nvice-commander-san of the\nRed-Whatever Knights, so I'm even{1a}more worried, y'know.{0c:020701}",
+   "status": "done",
+   "tl": "Thing is, he's not a normal kid. He's real strong, and lonely, and scary... // And there seems to be some bad blood between him and the vice-commander-san of the Red-Whatever Knights, so I'm even more worried, y'know."
   },
   {
    "id": "RES#97:1dca9",
@@ -2245,8 +2365,9 @@
    "jp": "{0c:51082b551000}{0b:08}{e080} ディアス {e081}{0b:09}\nただの子供なら誰も騒ぎはせぬ。{1a}奴は、地上で最も強い生物の\n1つと言っても過言ではない。\n貴様等ごときが何百人いようと、\n足止めにもならぬ。{1a}それに、赤獅子{e087}士団の副将とは\n浅からぬ因縁があるようだからな。{0c:020501}",
    "read": "{0c:51082b551000}{0b:08}【 ディアス 】{0b:09}\nただの子供なら誰も騒ぎはせぬ。{1a}奴は、地上で最も強い生物の\n1つと言っても過言ではない。\n貴様等ごときが何百人いようと、\n足止めにもならぬ。{1a}それに、赤獅子騎士団の副将とは\n浅からぬ因縁があるようだからな。{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b551000}{0b:08}【 Dias 】{0b:09}\nIf he were a mere child, no one would\nraise a fuss.{1a}It is no exaggeration to call him one of\nthe strongest creatures on earth.\nHundreds of your kind would not even\nslow him.{1a}And there seems to be no small amount\nof bad blood between him and the\nvice-commander of the Red Lion Knights.{0c:020501}",
+   "status": "done",
+   "tl": "If he were a mere child, no one would raise a fuss. // It is no exaggeration to call him one of the strongest creatures on earth. Hundreds of your kind would not even slow him. // And there seems to be no small amount of bad blood between him and the vice-commander of the Red Lion Knights."
   },
   {
    "id": "RES#97:1dd5d",
@@ -2267,8 +2388,9 @@
    "jp": "{0c:51082b551000}{1c:1e}{0b:08}{e080} レイア {e081}{0b:09}\nただの子供なら誰も騒ぎはしない。{1a}奴は、地上で最も強く、\nそして最も哀れな人間だ。\nお前達が何百人いようと、\n足止めにもなりはしない。{1a}それに、赤獅子{e087}士団の副将とは\n浅からぬ因縁があるようだからな。{0c:020301}",
    "read": "{0c:51082b551000}{1c:1e}{0b:08}【 レイア 】{0b:09}\nただの子供なら誰も騒ぎはしない。{1a}奴は、地上で最も強く、\nそして最も哀れな人間だ。\nお前達が何百人いようと、\n足止めにもなりはしない。{1a}それに、赤獅子騎士団の副将とは\n浅からぬ因縁があるようだからな。{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b551000}{1c:1e}{0b:08}【 Leia 】{0b:09}\nIf he were a mere child, no one would\nraise a fuss.{1a}He is the strongest person on earth,\nand the most pitiful. Hundreds of you\nwould not even slow him.{1a}And there seems to be no small amount\nof bad blood between him and the\nvice-commander of the Red Lion Knights.{0c:020301}",
+   "status": "done",
+   "tl": "If he were a mere child, no one would raise a fuss. // He is the strongest person on earth, and the most pitiful. Hundreds of you would not even slow him. // And there seems to be no small amount of bad blood between him and the vice-commander of the Red Lion Knights."
   },
   {
    "id": "RES#97:1de0b",
@@ -2289,8 +2411,9 @@
    "jp": "{0c:5210082b551000}{1c:28}{0b:08}{e080} サラ {e081}{0b:09}\nそれが、ただの子供じゃないの。\nあの人を怒らせたら\nもう誰にも止められないと思う・・・{1a}それに、{e087}士団の{e0cd}{e0ce}の方との間に\n過去に事情があるみたいだから\n余計心配なの。{0c:fe}",
    "read": "{0c:5210082b551000}{1c:28}{0b:08}【 サラ 】{0b:09}\nそれが、ただの子供じゃないの。\nあの人を怒らせたら\nもう誰にも止められないと思う・・・{1a}それに、騎士団の代表の方との間に\n過去に事情があるみたいだから\n余計心配なの。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5210082b551000}{1c:28}{0b:08}【 Sara 】{0b:09}\nThing is, he's not just a child. If he gets\nangry, I don't think anyone can stop him...{1a}And it seems like something happened in\nthe past with the head of your order, so\nI'm even more worried.{0c:fe}",
+   "status": "done",
+   "tl": "Thing is, he's not just a child. If he gets angry, I don't think anyone can stop him... // And it seems like something happened in the past with the head of your order, so I'm even more worried."
   },
   {
    "id": "RES#97:1de9d",
@@ -2311,8 +2434,9 @@
    "jp": "{0c:5168}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nアレクシス様と?{0c:fe}",
    "read": "{0c:5168}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nアレクシス様と?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5168}{0b:08}【 Red Lion Knight 】{0b:09}\nWith Alexis-sama?{0c:fe}",
+   "status": "done",
+   "tl": "With Alexis-sama?"
   },
   {
    "id": "RES#97:1ded4",
@@ -2333,8 +2457,9 @@
    "jp": "{0c:2b502351081000}{0b:08}{e080} パスカ {e081}{0b:09}\n仕方ねえ、強引に突っ切るか。\nあの人を止められなかったら\n意味ねえからな。{1a}でも、なるべく戦いは避けようぜ。\n相手がどんなクソ野郎でも\n殺人鬼にはなりたくねえからな。{0c:021901}",
    "read": "{0c:2b502351081000}{0b:08}【 パスカ 】{0b:09}\n仕方ねえ、強引に突っ切るか。\nあの人を止められなかったら\n意味ねえからな。{1a}でも、なるべく戦いは避けようぜ。\n相手がどんなクソ野郎でも\n殺人鬼にはなりたくねえからな。{0c:021901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b502351081000}{0b:08}【 Pasca 】{0b:09}\nNo helpin' it, we'll just bust through. No\npoint if we can't stop that guy.{1a}But let's avoid fightin' as much as we\ncan. No matter what kinda bastard they\nare, I don't wanna be a murderer.{0c:021901}",
+   "status": "done",
+   "tl": "No helpin' it, we'll just bust through. No point if we can't stop that guy. // But let's avoid fightin' as much as we can. No matter what kinda bastard they are, I don't wanna be a murderer."
   },
   {
    "id": "RES#97:1df7e",
@@ -2355,8 +2480,9 @@
    "jp": "{0c:2b502351081000}{0b:08}{e080} エレアノール {e081}{0b:09}\n仕方ありません、\n強引にここを突き抜けましょう。{1a}あの人に{e0d1}いつかなければ\n意味がないのですから。{1a}でも、なるべく戦いは避けましょう。\n相手にどんな恨みがあろうと、\n人の命を奪っていいという\n理由にはなりません。{0c:021701}",
    "read": "{0c:2b502351081000}{0b:08}【 エレアノール 】{0b:09}\n仕方ありません、\n強引にここを突き抜けましょう。{1a}あの人に追いつかなければ\n意味がないのですから。{1a}でも、なるべく戦いは避けましょう。\n相手にどんな恨みがあろうと、\n人の命を奪っていいという\n理由にはなりません。{0c:021701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b502351081000}{0b:08}【 Eleanor 】{0b:09}\nIt cannot be helped. We shall have to\nforce our way through here.{1a}It would all be for nothing if we did not\ncatch up with him.{1a}But let us avoid fighting as far as we\ncan. Whatever grudge one may hold\nagainst them, it does not give us the\nright to take a life.{0c:021701}",
+   "status": "done",
+   "tl": "It cannot be helped. We shall have to force our way through here. // It would all be for nothing if we did not catch up with him. // But let us avoid fighting as far as we can. Whatever grudge one may hold against them, it does not give us the right to take a life."
   },
   {
    "id": "RES#97:1e029",
@@ -2377,8 +2503,9 @@
    "jp": "{0c:2b502351081000}{0b:08}{e080} アーサー {e081}{0b:09}\n仕方ない、\n強引にここを突き抜けよう。{1a}あの人に{e0d1}いつかなければ\n意味がないのだからね。{1a}でも、なるべく戦いは避けよう。\nたとえ相手が{e0d2}アスロイトで\n悪{e0d3}の限りを尽くした集団だとしても{1a}人の命を奪っていいという\n理由にはならないのだから。{0c:021501}",
    "read": "{0c:2b502351081000}{0b:08}【 アーサー 】{0b:09}\n仕方ない、\n強引にここを突き抜けよう。{1a}あの人に追いつかなければ\n意味がないのだからね。{1a}でも、なるべく戦いは避けよう。\nたとえ相手が南アスロイトで\n悪逆の限りを尽くした集団だとしても{1a}人の命を奪っていいという\n理由にはならないのだから。{0c:021501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b502351081000}{0b:08}【 Arthur 】{0b:09}\nThere's no helping it. We'll have to force\nour way through here.{1a}It all means nothing if we don't catch up\nwith him.{1a}But let's avoid fighting as much as we\ncan. Even if they are a band who\ncommitted every atrocity in South\nAsroit,{1a}that doesn't give us the right to take a\nlife.{0c:021501}",
+   "status": "done",
+   "tl": "There's no helping it. We'll have to force our way through here. // It all means nothing if we don't catch up with him. // But let's avoid fighting as much as we can. Even if they are a band who committed every atrocity in South Asroit, // that doesn't give us the right to take a life."
   },
   {
    "id": "RES#97:1e0e7",
@@ -2399,8 +2526,9 @@
    "jp": "{0c:2b502351081000}{0b:08}{e080} シャルン {e081}{0b:09}\n仕方ない、\n強引にここを突き抜けようよ。{1a}ファトゥムさんに{e0d1}いつかなきゃ\n意味ないんだから。{1a}でも、なるべく戦いは避けようね。\n相手がどんな悪人であっても、\n人の命を奪っていいという\n理由にはならないもんね。{0c:021301}",
    "read": "{0c:2b502351081000}{0b:08}【 シャルン 】{0b:09}\n仕方ない、\n強引にここを突き抜けようよ。{1a}ファトゥムさんに追いつかなきゃ\n意味ないんだから。{1a}でも、なるべく戦いは避けようね。\n相手がどんな悪人であっても、\n人の命を奪っていいという\n理由にはならないもんね。{0c:021301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b502351081000}{0b:08}【 Scharn 】{0b:09}\nCan't be helped! Let's just force our\nway through here!{1a}It's all for nothing if we don't catch up\nwith Fatum-san, you know!{1a}But let's try not to fight if we can,\nokay? No matter how bad they are, that\ndoesn't give us the right to take a life!{0c:021301}",
+   "status": "done",
+   "tl": "Can't be helped! Let's just force our way through here! // It's all for nothing if we don't catch up with Fatum-san, you know! // But let's try not to fight if we can, okay? No matter how bad they are, that doesn't give us the right to take a life!"
   },
   {
    "id": "RES#97:1e190",
@@ -2421,8 +2549,9 @@
    "jp": "{0c:2b502351081000}{0b:08}{e080} ノエル {e081}{0b:09}\n仕方ないわ、\n強引にここを突き抜けましょ。{1a}あの人に{e0d1}いつかなければ\n全く意味がないのだから。{1a}でも、なるべく戦いは避けましょ。\n相手にどんな恨みがあろうと、\n人の命を奪っていいという\n理由にはならないわ。{0c:021101}",
    "read": "{0c:2b502351081000}{0b:08}【 ノエル 】{0b:09}\n仕方ないわ、\n強引にここを突き抜けましょ。{1a}あの人に追いつかなければ\n全く意味がないのだから。{1a}でも、なるべく戦いは避けましょ。\n相手にどんな恨みがあろうと、\n人の命を奪っていいという\n理由にはならないわ。{0c:021101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b502351081000}{0b:08}【 Noel 】{0b:09}\nIt can't be helped. Let's just force our\nway through here.{1a}If we don't catch up with him, it's all\ncompletely pointless.{1a}But avoid fighting as much as possible,\nall right? Whatever grudge you may hold\nagainst them, that gives no one the\nright to take a life.{0c:021101}",
+   "status": "done",
+   "tl": "It can't be helped. Let's just force our way through here. // If we don't catch up with him, it's all completely pointless. // But avoid fighting as much as possible, all right? Whatever grudge you may hold against them, that gives no one the right to take a life."
   },
   {
    "id": "RES#97:1e236",
@@ -2443,8 +2572,9 @@
    "jp": "{0c:2b502351081000}{0b:08}{e080} アッシュ {e081}{0b:09}\n仕方ないな、この道を進もう。\nファトゥムさんに{e0d1}いつかなければ\n意味ないもんな。{1a}でも、なるべく戦いは避けような。\nたとえ相手が悪人でも、\nおれたちが人を殺していい\n理由にはならないもんな。{0c:020f01}",
    "read": "{0c:2b502351081000}{0b:08}【 アッシュ 】{0b:09}\n仕方ないな、この道を進もう。\nファトゥムさんに追いつかなければ\n意味ないもんな。{1a}でも、なるべく戦いは避けような。\nたとえ相手が悪人でも、\nおれたちが人を殺していい\n理由にはならないもんな。{0c:020f01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b502351081000}{0b:08}【 Ash 】{0b:09}\nCan't be helped, I guess. Let's take this\nroad. There's no point if we don't catch\nup with Fatum-san, y'know.{1a}But let's try not to fight if we can,\nokay? Even if they're bad folks, that's\nno reason for us to go killing people.{0c:020f01}",
+   "status": "done",
+   "tl": "Can't be helped, I guess. Let's take this road. There's no point if we don't catch up with Fatum-san, y'know. // But let's try not to fight if we can, okay? Even if they're bad folks, that's no reason for us to go killing people."
   },
   {
    "id": "RES#97:1e2d3",
@@ -2465,8 +2595,9 @@
    "jp": "{0c:2b502351081000}{0b:08}{e080} ルカ {e081}{0b:09}\nでも、ファトゥムさんに\n{e0d1}いつかなければ\n意味がないのですよね。{1a}では、仕方ありません、\nこの道を進みましょう。{1a}でも、なるべく戦いは\n避けましょうね。{1a}たとえ相手にどんな恨みがあっても、\nわたし達が人を殺していいという\n理由にはなりませんから。{0c:020d01}",
    "read": "{0c:2b502351081000}{0b:08}【 ルカ 】{0b:09}\nでも、ファトゥムさんに\n追いつかなければ\n意味がないのですよね。{1a}では、仕方ありません、\nこの道を進みましょう。{1a}でも、なるべく戦いは\n避けましょうね。{1a}たとえ相手にどんな恨みがあっても、\nわたし達が人を殺していいという\n理由にはなりませんから。{0c:020d01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b502351081000}{0b:08}【 Luca 】{0b:09}\nBut there is no point unless we catch up\nwith Fatum-san, is there?{1a}Then it cannot be helped. Let us take\nthis road.{1a}But let us try to avoid fighting, please.{1a}Whatever grudge we may hold against\nthem, it does not give us the right to kill\nanyone.{0c:020d01}",
+   "status": "done",
+   "tl": "But there is no point unless we catch up with Fatum-san, is there? // Then it cannot be helped. Let us take this road. // But let us try to avoid fighting, please. // Whatever grudge we may hold against them, it does not give us the right to kill anyone."
   },
   {
    "id": "RES#97:1e38a",
@@ -2487,8 +2618,9 @@
    "jp": "{0c:2b502351081000}{0b:08}{e080} サラ {e081}{0b:09}\nでも、ファトゥムさんに\n{e0d1}いつかなきゃ意味がないんだよね。\nじゃあこの道を進もうよ。{1a}でも、なるべく戦いは避けたいな。\n相手にどんな恨みがあっても、\nあたし達が人を殺していいという\n理由にはならないもんね。{0c:020b01}",
    "read": "{0c:2b502351081000}{0b:08}【 サラ 】{0b:09}\nでも、ファトゥムさんに\n追いつかなきゃ意味がないんだよね。\nじゃあこの道を進もうよ。{1a}でも、なるべく戦いは避けたいな。\n相手にどんな恨みがあっても、\nあたし達が人を殺していいという\n理由にはならないもんね。{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b502351081000}{0b:08}【 Sara 】{0b:09}\nBut it doesn't mean anything if we don't\ncatch up with Fatum-san, right? So let's\ngo this way, okay?{1a}But I really want to not fight if we can.\nNo matter what grudge we have, that's\nno reason for us to kill people, right?{0c:020b01}",
+   "status": "done",
+   "tl": "But it doesn't mean anything if we don't catch up with Fatum-san, right? So let's go this way, okay? // But I really want to not fight if we can. No matter what grudge we have, that's no reason for us to kill people, right?"
   },
   {
    "id": "RES#97:1e42b",
@@ -2509,8 +2641,9 @@
    "jp": "{0c:2b502351081000}{0b:08}{e080} ジェシカ {e081}{0b:09}\n仕方ないね、\n強引にここを突っ切ろうよ。{1a}あの人に{e0d1}いつかなきゃ\n意味ないんだからさ。{0c:020901}",
    "read": "{0c:2b502351081000}{0b:08}【 ジェシカ 】{0b:09}\n仕方ないね、\n強引にここを突っ切ろうよ。{1a}あの人に追いつかなきゃ\n意味ないんだからさ。{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b502351081000}{0b:08}【 Jessica 】{0b:09}\nGuess we got no choice. Let's just bust\nright through here.{1a}No point if we don't catch up with him,\nyou know that?{0c:020901}",
+   "status": "done",
+   "tl": "Guess we got no choice. Let's just bust right through here. // No point if we don't catch up with him, you know that?"
   },
   {
    "id": "RES#97:1e48b",
@@ -2531,8 +2664,9 @@
    "jp": "{0c:2b502351081000}{0b:08}{e080} ディアス {e081}{0b:09}\n仕方ない、ここを進もう。\n奴に{e0d1}いつかなければ\n意味がないのだからな。{0c:020701}",
    "read": "{0c:2b502351081000}{0b:08}【 ディアス 】{0b:09}\n仕方ない、ここを進もう。\n奴に追いつかなければ\n意味がないのだからな。{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b502351081000}{0b:08}【 Dias 】{0b:09}\nNo help for it. We go through here. There\nis no point unless we catch him.{0c:020701}",
+   "status": "done",
+   "tl": "No help for it. We go through here. There is no point unless we catch him."
   },
   {
    "id": "RES#97:1e4e0",
@@ -2553,8 +2687,9 @@
    "jp": "{0c:2b502351081000}{0b:08}{e080} オルフェウス {e081}{0b:09}\n仕方ありませんね、\n強引にここを突っ切りましょう。{1a}ファトゥムさんに{e0d1}いつかなければ\n意味ないのですからね。{0c:020501}",
    "read": "{0c:2b502351081000}{0b:08}【 オルフェウス 】{0b:09}\n仕方ありませんね、\n強引にここを突っ切りましょう。{1a}ファトゥムさんに追いつかなければ\n意味ないのですからね。{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b502351081000}{0b:08}【 Orpheus 】{0b:09}\nIt can't be helped, I daresay. Let us\nbarge straight through, then.{1a}There's little point, after all, if we fail\nto catch up with Fatum-san.{0c:020501}",
+   "status": "done",
+   "tl": "It can't be helped, I daresay. Let us barge straight through, then. // There's little point, after all, if we fail to catch up with Fatum-san."
   },
   {
    "id": "RES#97:1e54e",
@@ -2575,8 +2710,9 @@
    "jp": "{0c:2b502351081000}{0b:08}{e080} イヴ {e081}{0b:09}\n仕方ないわね、\n強引にここを突き抜けましょ。{1a}あの人に{e0d1}いつかなければ\n意味ないんでしょ?{0c:020301}",
    "read": "{0c:2b502351081000}{0b:08}【 イヴ 】{0b:09}\n仕方ないわね、\n強引にここを突き抜けましょ。{1a}あの人に追いつかなければ\n意味ないんでしょ?{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b502351081000}{0b:08}【 Eve 】{0b:09}\nCan't be helped, I suppose. Let's just\npush on through.{1a}There's no point unless we catch up with\nhim, isn't that so?{0c:020301}",
+   "status": "done",
+   "tl": "Can't be helped, I suppose. Let's just push on through. // There's no point unless we catch up with him, isn't that so?"
   },
   {
    "id": "RES#97:1e5af",
@@ -2597,8 +2733,9 @@
    "jp": "{0c:2b502351081000}{0b:08}{e080} レイア {e081}{0b:09}\n仕方ない、ここを進もう。{1a}奴に{e0d1}いつかなければ\n意味がないのだからな。{0c:fe}",
    "read": "{0c:2b502351081000}{0b:08}【 レイア 】{0b:09}\n仕方ない、ここを進もう。{1a}奴に追いつかなければ\n意味がないのだからな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b502351081000}{0b:08}【 Leia 】{0b:09}\nThere is no helping it. We go on through\nhere.{1a}There is no point unless we catch him.{0c:fe}",
+   "status": "done",
+   "tl": "There is no helping it. We go on through here. // There is no point unless we catch him."
   },
   {
    "id": "RES#97:1e601",
@@ -2630,8 +2767,9 @@
    "jp": "{0c:5170}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nま、待て、\n貴様等、縄を解かぬか!{0c:fe}",
    "read": "{0c:5170}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nま、待て、\n貴様等、縄を解かぬか!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5170}{0b:08}【 Red Lion Knight 】{0b:09}\nW-wait, you people! Untie these ropes, I\nsay!{0c:fe}",
+   "status": "done",
+   "tl": "W-wait, you people! Untie these ropes, I say!"
   },
   {
    "id": "RES#97:1e6d9",
@@ -2652,8 +2790,9 @@
    "jp": "{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\n女!!\n縄を・・・縄を解けッ!{0c:fe}",
    "read": "{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\n女!!\n縄を・・・縄を解けッ!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Red Lion Knight 】{0b:09}\nWoman!! The ropes... untie these ropes!{0c:fe}",
+   "status": "done",
+   "tl": "Woman!! The ropes... untie these ropes!"
   },
   {
    "id": "RES#97:1e72b",
@@ -2674,8 +2813,9 @@
    "jp": "{0b:08}{e080} レイア {e081}{0b:09}\nザルツァという\n{e087}士を知っているか?{0c:2b5509fe}",
    "read": "{0b:08}【 レイア 】{0b:09}\nザルツァという\n騎士を知っているか?{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Leia 】{0b:09}\nDo you know a knight by the name of\nSalza?{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Do you know a knight by the name of Salza?"
   },
   {
    "id": "RES#97:1e792",
@@ -2685,8 +2825,9 @@
    "jp": "{0c:51804c031000}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nザルツァ?\n聞いたことがないな・・・{0c:4c0309fe}",
    "read": "{0c:51804c031000}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nザルツァ?\n聞いたことがないな・・・{0c:4c0309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51804c031000}{0b:08}【 Red Lion Knight 】{0b:09}\nSalza? I have heard no such name...{0c:4c0309fe}",
+   "status": "done",
+   "tl": "Salza? I have heard no such name..."
   },
   {
    "id": "RES#97:1e7d3",
@@ -2696,8 +2837,9 @@
    "jp": "{0b:08}{e080} レイア {e081}{0b:09}\nヘルマン=フォン=ザルツァ、{1a}今から8{e0d5}前に{e087}士の{e0d6}を\nデューラー{e0d7}に剥奪された\nクルムの小{e0d9}{e0da}だ。{0c:2b5509fe}",
    "read": "{0b:08}【 レイア 】{0b:09}\nヘルマン=フォン=ザルツァ、{1a}今から8年前に騎士の位を\nデューラー公に剥奪された\nクルムの小領主だ。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Leia 】{0b:09}\nHermann von Salza,{1a}a petty lord of Kulm, stripped of his\nknighthood by Duke Durer eight years\nago.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Hermann von Salza, // a petty lord of Kulm, stripped of his knighthood by Duke Durer eight years ago."
   },
   {
    "id": "RES#97:1e832",
@@ -2707,8 +2849,9 @@
    "jp": "{0c:522830}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\n{e0d7}爵の{e0d9}{e0dc}は\nルミニアやラコース一{e0dd}に\n相当するのだ。{1a}{e0d7}爵から{e0de}{e0dc}を{e0df}えられた{e0d9}{e0da}は\n軽く5百を越える。\n他の地方の{e0d9}{e0da}の事など\n知るはずもない。{0c:4c0309fe}",
    "read": "{0c:522830}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\n公爵の領土は\nルミニアやラコース一国に\n相当するのだ。{1a}公爵から封土を与えられた領主は\n軽く5百を越える。\n他の地方の領主の事など\n知るはずもない。{0c:4c0309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:522830}{0b:08}【 Red Lion Knight 】{0b:09}\nThe Duke's lands are equal to the whole\nof Luminia or Racoss.{1a}The lords holding fiefs from the Duke\neasily number over five hundred. How\nshould I know of lords in some other\nregion?{0c:4c0309fe}",
+   "status": "done",
+   "tl": "The Duke's lands are equal to the whole of Luminia or Racoss. // The lords holding fiefs from the Duke easily number over five hundred. How should I know of lords in some other region?"
   },
   {
    "id": "RES#97:1e8c3",
@@ -2729,8 +2872,9 @@
    "jp": "{1c:1f}{0b:08}{e080} レイア {e081}{0b:09}\nならば用はない。{0c:2b5509fe}",
    "read": "{1c:1f}{0b:08}【 レイア 】{0b:09}\nならば用はない。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}{0b:08}【 Leia 】{0b:09}\nThen I have no use for you.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Then I have no use for you."
   },
   {
    "id": "RES#97:1e8f7",
@@ -2740,8 +2884,9 @@
    "jp": "{0c:5170}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nま、待て!\n私を助けるのであれば\n側室にしてやってもよいぞ!?{0c:4c0309fe}",
    "read": "{0c:5170}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nま、待て!\n私を助けるのであれば\n側室にしてやってもよいぞ!?{0c:4c0309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5170}{0b:08}【 Red Lion Knight 】{0b:09}\nW-wait! Save me, and I might even make\nyou my concubine!?{0c:4c0309fe}",
+   "status": "done",
+   "tl": "W-wait! Save me, and I might even make you my concubine!?"
   },
   {
    "id": "RES#97:1e945",
@@ -2762,8 +2907,9 @@
    "jp": "{1c:1e}{0b:08}{e080} レイア {e081}{0b:09}\n死にたくなければ黙れ。{0c:2b5509fe}",
    "read": "{1c:1e}{0b:08}【 レイア 】{0b:09}\n死にたくなければ黙れ。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}{0b:08}【 Leia 】{0b:09}\nBe silent, if you do not wish to die.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Be silent, if you do not wish to die."
   },
   {
    "id": "RES#97:1e97b",
@@ -2773,8 +2919,9 @@
    "jp": "{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\n貴様、そのザルツァとかいう\n貴{e0e3}に由縁の者であろう?{1a}{e0d7}爵が直{e0bf}に処遇を決めたのであれば\n我{e0bf}にはどうすることも出来ぬが、\n貴様と残された{e0e5}{e0e3}に\n楽な暮らしは保{e0e8}してやる。{1a}どうだ?\n悪い話ではないぞ?{0c:fe}",
    "read": "{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\n貴様、そのザルツァとかいう\n貴族に由縁の者であろう?{1a}公爵が直々に処遇を決めたのであれば\n我々にはどうすることも出来ぬが、\n貴様と残された家族に\n楽な暮らしは保証してやる。{1a}どうだ?\n悪い話ではないぞ?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Red Lion Knight 】{0b:09}\nYou have some tie to this noble, this\nSalza, have you not?{1a}If the Duke himself decided his fate,\nthere is nothing we can do, but I will\nguarantee an easy life for you and your\nremaining family.{1a}Well? It is not a bad offer, is it?{0c:fe}",
+   "status": "done",
+   "tl": "You have some tie to this noble, this Salza, have you not? // If the Duke himself decided his fate, there is nothing we can do, but I will guarantee an easy life for you and your remaining family. // Well? It is not a bad offer, is it?"
   },
   {
    "id": "RES#97:1ea24",
@@ -2795,8 +2942,9 @@
    "jp": "{0c:528890}{0b:08}{e080} 赤獅子{e087}士団の{e087}士 {e081}{0b:09}\nひぃぃぃぃ!!{0c:fe}",
    "read": "{0c:528890}{0b:08}【 赤獅子騎士団の騎士 】{0b:09}\nひぃぃぃぃ!!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:528890}{0b:08}【 Red Lion Knight 】{0b:09}\nEeeeeek!!{0c:fe}",
+   "status": "done",
+   "tl": "Eeeeeek!!"
   },
   {
    "id": "RES#97:1ea60",
@@ -2817,8 +2965,9 @@
    "jp": "{0c:5128}{0b:08}{e080} レイア {e081}{0b:09}\n分かっている、\n殺しはしない。{0c:fe}",
    "read": "{0c:5128}{0b:08}【 レイア 】{0b:09}\n分かっている、\n殺しはしない。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5128}{0b:08}【 Leia 】{0b:09}\nI know. I will not kill him.{0c:fe}",
+   "status": "done",
+   "tl": "I know. I will not kill him."
   },
   {
    "id": "RES#97:1eaa1",

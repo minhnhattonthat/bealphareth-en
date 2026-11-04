@@ -49,6 +49,12 @@ def test_wrap_stays_in_budget():
                 assert vwf_font.text_width(row) == batches.page_px(row)
 
 
+def test_mid_string_plate_is_not_a_term():
+    e = {"id": "x", "speaker": "-", "form": "dlg", "limit": "216px*4r", "text": "[クムラン:]行こう。"}
+    row = ("クムラン", "Qumran", (), "", "Names")
+    assert batches.check_entry(e, "[クムラン:]Let's go.", [row], PLATES) == []
+
+
 def test_check_entry_catches_mistakes():
     e = {"id": "x", "speaker": "-", "form": "dlg", "limit": "216px*4r", "text": "[HERO]さん、[1]行こう。"}
     good = "[HERO]-san, [1]let's go."

@@ -360,6 +360,17 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 太陽帝国 | Sun Empire | | | Solar Empire |
 | 新しい世界 | New World | | | |
 | セルツ鋼 | Seltz steel | | | |
+| 赤熱病 | red fever | | | |
+| 銀髪の魔女 | Silver-Haired Witch | | | |
+| 黒サソリのイヴ | Black Scorpion Eve | | | |
+| 枢機卿会 | consistory | | | |
+| 枢機卿 | cardinal | | | |
+| 魔法増幅装置 | magic amplifier | | | |
+| イレニウス | Irenius | | | |
+| イレニア人 | Irenian | | | |
+| カッシズ | Cassiz | | | |
+| 姉御 | Boss | | Boss Jessica | |
+| 親分 | Boss | | | |
 | 魔物図鑑 | Monster Guide | | | |
 | 円卓の騎士 | Knights of the Round Table | | | |
 | 天風の道 | Way of the Heavenly Wind | | | |

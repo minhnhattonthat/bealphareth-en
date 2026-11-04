@@ -30,8 +30,9 @@
    "jp": "{1c:1e}はじめまして、{10}さん。\n旅支度の資{e083}$300です。\n大事に使って下さい。",
    "read": "{1c:1e}はじめまして、{10}さん。\n旅支度の資金$300です。\n大事に使って下さい。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}Nice to meet you, {10}-san. Here\nis $300 in travel funds. Please use it\nwisely.",
+   "status": "done",
+   "tl": "Nice to meet you, [HERO]-san. Here is $300 in travel funds. Please use it wisely."
   },
   {
    "id": "RES#227:1b566",
@@ -41,8 +42,9 @@
    "jp": "   ミュージック",
    "read": "   ミュージック",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Music",
+   "status": "done",
+   "tl": "   Music"
   },
   {
    "id": "RES#227:1b571",
@@ -52,8 +54,9 @@
    "jp": "  十{e084}{03}キー 曲選{e086}\n   ○   再生\n   {e088}   停止\n  {01}LR1  停止{02}・{e08a}始\n   {e08b}   終了",
    "read": "  十字{03}キー 曲選択\n   ○   再生\n   △   停止\n  {01}LR1  停止{02}・開始\n   ×   終了",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "D-Pad: Select Track, ○: Play, △: Stop, LR1:\nStop/Start, ×: Quit",
+   "status": "done",
+   "tl": "D-Pad: Select Track, [1]: Play, [2]: Stop, LR1: Stop/Start, [3]: Quit"
   },
   {
    "id": "RES#227:1b5bc",
@@ -63,8 +66,9 @@
    "jp": "道具{e08c}",
    "read": "道具屋",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Item Shop",
+   "status": "done",
+   "tl": "Item Shop"
   },
   {
    "id": "RES#227:1b5c3",
@@ -74,8 +78,9 @@
    "jp": "{e08d}{e08c}",
    "read": "宿屋",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Inn",
+   "status": "done",
+   "tl": "Inn"
   },
   {
    "id": "RES#227:1b5c8",
@@ -85,8 +90,9 @@
    "jp": "泊まる|セーブ|ロード",
    "read": "泊まる|セーブ|ロード",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Stay|Save|Load",
+   "status": "done",
+   "tl": "Stay|Save|Load"
   },
   {
    "id": "RES#227:1b5d7",
@@ -96,8 +102,9 @@
    "jp": "{1c:1e}一泊$50ですけどよろしいですか",
    "read": "{1c:1e}一泊$50ですけどよろしいですか",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}One night is $50. Is that all right?",
+   "status": "done",
+   "tl": "One night is $50. Is that all right?"
   },
   {
    "id": "RES#227:1b5ee",
@@ -107,8 +114,9 @@
    "jp": "{1c:1e}ごゆっくりお休み下さい",
    "read": "{1c:1e}ごゆっくりお休み下さい",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}Please rest well.",
+   "status": "done",
+   "tl": "Please rest well."
   },
   {
    "id": "RES#227:1b5fe",
@@ -118,8 +126,9 @@
    "jp": "トラップ売場",
    "read": "トラップ売場",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Trap Shop",
+   "status": "done",
+   "tl": "Trap Shop"
   },
   {
    "id": "RES#227:1b608",
@@ -129,8 +138,9 @@
    "jp": "トラップを{e08f}う {14}ページ",
    "read": "トラップを買う {14}ページ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Buy Traps, Page {14}",
+   "status": "done",
+   "tl": "Buy Traps, Page [VAR14]"
   },
   {
    "id": "RES#227:1b619",
@@ -140,8 +150,9 @@
    "jp": "トラップを売る {14}ページ",
    "read": "トラップを売る {14}ページ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Sell Traps, Page {14}",
+   "status": "done",
+   "tl": "Sell Traps, Page [VAR14]"
   },
   {
    "id": "RES#227:1b62a",
@@ -173,8 +184,9 @@
    "jp": "{e08f}いに来た|売りに来た|用はない",
    "read": "買いに来た|売りに来た|用はない",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I came to buy|I came to sell|Nothing today",
+   "status": "done",
+   "tl": "I came to buy|I came to sell|Nothing today"
   },
   {
    "id": "RES#227:1b648",
@@ -206,8 +218,9 @@
    "jp": "所持{e083}  {0e}{14}{0f}",
    "read": "所持金  {0e}{14}{0f}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Money {0e}{14}{0f}",
+   "status": "done",
+   "tl": "Money  [1][VAR14]"
   },
   {
    "id": "RES#227:1b668",
@@ -217,8 +230,9 @@
    "jp": "{e090}{e091}の所持{e092} {0e}{14}{0f}",
    "read": "現在の所持数 {0e}{14}{0f}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Currently held {0e}{14}{0f}",
+   "status": "done",
+   "tl": "Currently held [1][VAR14]"
   },
   {
    "id": "RES#227:1b678",
@@ -239,8 +253,9 @@
    "jp": "{14}を{15}{e093}{e08f}いますか?",
    "read": "{14}を{15}個買いますか?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Buy {14} x\n{15}?",
+   "status": "done",
+   "tl": "Buy [VAR14] x [VAR15]?"
   },
   {
    "id": "RES#227:1b697",
@@ -250,8 +265,9 @@
    "jp": "{14}を{15}{e093}売りますか?",
    "read": "{14}を{15}個売りますか?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Sell {14} x {15}?",
+   "status": "done",
+   "tl": "Sell [VAR14] x [VAR15]?"
   },
   {
    "id": "RES#227:1b6a5",
@@ -261,8 +277,9 @@
    "jp": "トラップ売場閉店",
    "read": "トラップ売場閉店",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Trap Shop Closed",
+   "status": "done",
+   "tl": "Trap Shop Closed"
   },
   {
    "id": "RES#227:1b6b3",
@@ -272,8 +289,9 @@
    "jp": "デバッグの{e096}場",
    "read": "デバッグの広場",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Debug Plaza",
+   "status": "done",
+   "tl": "Debug Plaza"
   },
   {
    "id": "RES#227:1b6bf",
@@ -283,8 +301,9 @@
    "jp": "いこいの{e096}場",
    "read": "いこいの広場",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Plaza of Rest",
+   "status": "done",
+   "tl": "Plaza of Rest"
   },
   {
    "id": "RES#227:1b6c8",
@@ -294,8 +313,9 @@
    "jp": "このメンバーでよろしいですか",
    "read": "このメンバーでよろしいですか",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Is this party all right?",
+   "status": "done",
+   "tl": "Is this party all right?"
   },
   {
    "id": "RES#227:1b6d9",
@@ -305,8 +325,9 @@
    "jp": "メンバーチェンジをやめますか",
    "read": "メンバーチェンジをやめますか",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Cancel the member change?",
+   "status": "done",
+   "tl": "Cancel the member change?"
   },
   {
    "id": "RES#227:1b6ea",
@@ -316,8 +337,9 @@
    "jp": "{14}をメンバーに加えますか",
    "read": "{14}をメンバーに加えますか",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Add {14} to the party?",
+   "status": "done",
+   "tl": "Add [VAR14] to the party?"
   },
   {
    "id": "RES#227:1b6fa",
@@ -327,8 +349,9 @@
    "jp": "{14}をメンバーから外しますか",
    "read": "{14}をメンバーから外しますか",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Remove {14} from the\nparty?",
+   "status": "done",
+   "tl": "Remove [VAR14] from the party?"
   },
   {
    "id": "RES#227:1b70b",
@@ -338,8 +361,9 @@
    "jp": "{14}は{e097}にメンバーになっています",
    "read": "{14}は既にメンバーになっています",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{14} is already in the\nparty.",
+   "status": "done",
+   "tl": "[VAR14] is already in the party."
   },
   {
    "id": "RES#227:1b71e",
@@ -349,8 +373,9 @@
    "jp": "{14}と{15}をチェンジしますか",
    "read": "{14}と{15}をチェンジしますか",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Swap {14} and\n{15}?",
+   "status": "done",
+   "tl": "Swap [VAR14] and [VAR15]?"
   },
   {
    "id": "RES#227:1b72d",
@@ -360,8 +385,9 @@
    "jp": "武富士",
    "read": "武富士",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Takefuji",
+   "status": "done",
+   "tl": "Takefuji"
   },
   {
    "id": "RES#227:1b734",
@@ -382,8 +408,9 @@
    "jp": "ジャンプ{e08c}",
    "read": "ジャンプ屋",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Jump Shop",
+   "status": "done",
+   "tl": "Jump Shop"
   },
   {
    "id": "RES#227:1b745",
@@ -393,8 +420,9 @@
    "jp": "緊急医療ER",
    "read": "緊急医療ER",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Emergency Care ER",
+   "status": "done",
+   "tl": "Emergency Care ER"
   },
   {
    "id": "RES#227:1b751",
@@ -404,8 +432,9 @@
    "jp": "武器{e08c}",
    "read": "武器屋",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Weapon Shop",
+   "status": "done",
+   "tl": "Weapon Shop"
   },
   {
    "id": "RES#227:1b758",
@@ -415,8 +444,9 @@
    "jp": "お{e083}が足りませんね。",
    "read": "お金が足りませんね。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "You don't have enough money.",
+   "status": "done",
+   "tl": "You don't have enough money."
   },
   {
    "id": "RES#227:1b765",
@@ -426,8 +456,9 @@
    "jp": "{1c:1e}{14}さんの武器を直すには\n{15}必要ですがよろしいですか?",
    "read": "{1c:1e}{14}さんの武器を直すには\n{15}必要ですがよろしいですか?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}To repair {14}-san's\nweapon, it will cost {15}. Is\nthat all right?",
+   "status": "done",
+   "tl": "To repair [VAR14]-san's weapon, it will cost [VAR15]. Is that all right?"
   },
   {
    "id": "RES#227:1b788",
@@ -437,8 +468,9 @@
    "jp": "ステータス{e09c}示",
    "read": "ステータス表示",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Status Display",
+   "status": "done",
+   "tl": "Status Display"
   },
   {
    "id": "RES#227:1b793",
@@ -448,8 +480,9 @@
    "jp": "{14}|アッシュ|アーサー|レイア|エレアノール|パスカ|{e09d}消済み|{e09d}消済み|シャルン|{e09d}消済み|ジェシカ|オルフェウス |イブ|ディアズ|ノエル|{e09d}消済み|{e09d}消済み|ルカ|サラ",
    "read": "{14}|アッシュ|アーサー|レイア|エレアノール|パスカ|抹消済み|抹消済み|シャルン|抹消済み|ジェシカ|オルフェウス |イブ|ディアズ|ノエル|抹消済み|抹消済み|ルカ|サラ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{14}|Ash|Arthur|Leia|Eleanor|Pasca|Deleted|Deleted|Scharn|Deleted|Jessica|Orpheus|Eve|Dias|Noel|Deleted|Deleted|Luca|Sara",
+   "status": "done",
+   "tl": "[VAR14]|Ash|Arthur|Leia|Eleanor|Pasca|Deleted|Deleted|Scharn|Deleted|Jessica|Orpheus|Eve|Dias|Noel|Deleted|Deleted|Luca|Sara"
   },
   {
    "id": "RES#227:1b807",
@@ -459,8 +492,9 @@
    "jp": "{e09e} 前:",
    "read": "名 前:",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Name:",
+   "status": "done",
+   "tl": "Name:"
   },
   {
    "id": "RES#227:1b80f",
@@ -470,8 +504,9 @@
    "jp": "レベル:",
    "read": "レベル:",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Level:",
+   "status": "done",
+   "tl": "Level:"
   },
   {
    "id": "RES#227:1b816",
@@ -525,8 +560,9 @@
    "jp": "経験値:",
    "read": "経験値:",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Experience:",
+   "status": "done",
+   "tl": "Experience:"
   },
   {
    "id": "RES#227:1b82d",
@@ -536,8 +572,9 @@
    "jp": "次まで:",
    "read": "次まで:",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "To Next:",
+   "status": "done",
+   "tl": "To Next:"
   },
   {
    "id": "RES#227:1b834",
@@ -547,8 +584,9 @@
    "jp": "ステージ選{e086}",
    "read": "ステージ選択",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Stage Select",
+   "status": "done",
+   "tl": "Stage Select"
   },
   {
    "id": "RES#227:1b83e",
@@ -558,8 +596,9 @@
    "jp": "このメンバーでミッションを{e08a}始しますか",
    "read": "このメンバーでミッションを開始しますか",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Start the mission with this party?",
+   "status": "done",
+   "tl": "Start the mission with this party?"
   },
   {
    "id": "RES#227:1b858",
@@ -569,8 +608,9 @@
    "jp": "ミッションをキャンセルしますか",
    "read": "ミッションをキャンセルしますか",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Cancel the mission?",
+   "status": "done",
+   "tl": "Cancel the mission?"
   },
   {
    "id": "RES#227:1b86c",
@@ -580,8 +620,9 @@
    "jp": "{14}をメンバーに加えますか",
    "read": "{14}をメンバーに加えますか",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Add {14} to the party?",
+   "status": "done",
+   "tl": "Add [VAR14] to the party?"
   },
   {
    "id": "RES#227:1b87c",
@@ -591,8 +632,9 @@
    "jp": "{14}をメンバーから外しますか",
    "read": "{14}をメンバーから外しますか",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Remove {14} from the\nparty?",
+   "status": "done",
+   "tl": "Remove [VAR14] from the party?"
   },
   {
    "id": "RES#227:1b88d",
@@ -602,8 +644,9 @@
    "jp": "{14}は{e097}にメンバーになっています",
    "read": "{14}は既にメンバーになっています",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{14} is already in the\nparty.",
+   "status": "done",
+   "tl": "[VAR14] is already in the party."
   },
   {
    "id": "RES#227:1b8a0",
@@ -613,8 +656,9 @@
    "jp": "{14}と{15}をチェンジしますか",
    "read": "{14}と{15}をチェンジしますか",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Swap {14} and\n{15}?",
+   "status": "done",
+   "tl": "Swap [VAR14] and [VAR15]?"
   },
   {
    "id": "RES#227:1b8af",
@@ -624,8 +668,9 @@
    "jp": "{1c:1e}いらっしゃいませ",
    "read": "{1c:1e}いらっしゃいませ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}Welcome.",
+   "status": "done",
+   "tl": "Welcome."
   },
   {
    "id": "RES#227:1b8ba",
@@ -635,8 +680,9 @@
    "jp": "{1c:1e}ありがとうございました",
    "read": "{1c:1e}ありがとうございました",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}Thank you very much.",
+   "status": "done",
+   "tl": "Thank you very much."
   },
   {
    "id": "RES#227:1b8c8",
@@ -646,8 +692,9 @@
    "jp": "{1c:1f}いらっしゃい",
    "read": "{1c:1f}いらっしゃい",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}Welcome!",
+   "status": "done",
+   "tl": "Welcome!"
   },
   {
    "id": "RES#227:1b8d1",
@@ -657,8 +704,9 @@
    "jp": "{1c:1f}ありがとう",
    "read": "{1c:1f}ありがとう",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}Thanks.",
+   "status": "done",
+   "tl": "Thanks."
   },
   {
    "id": "RES#227:1b8d9",
@@ -668,8 +716,9 @@
    "jp": "ロード中",
    "read": "ロード中",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Loading",
+   "status": "done",
+   "tl": "Loading"
   },
   {
    "id": "RES#227:1b8e0",
@@ -679,8 +728,9 @@
    "jp": "{1c:1e}いらっしゃいませ\nどなたの武器を直しますか",
    "read": "{1c:1e}いらっしゃいませ\nどなたの武器を直しますか",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}Welcome. Whose weapon shall I repair?",
+   "status": "done",
+   "tl": "Welcome. Whose weapon shall I repair?"
   },
   {
    "id": "RES#227:1b8fb",
@@ -690,8 +740,9 @@
    "jp": "LAOX サウンド館",
    "read": "LAOX サウンド館",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "LAOX Sound Hall",
+   "status": "done",
+   "tl": "LAOX Sound Hall"
   },
   {
    "id": "RES#227:1b909",
@@ -701,8 +752,9 @@
    "jp": "武富士",
    "read": "武富士",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Takefuji",
+   "status": "done",
+   "tl": "Takefuji"
   },
   {
    "id": "RES#227:1b910",
@@ -712,8 +764,9 @@
    "jp": "出口",
    "read": "出口",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Exit",
+   "status": "done",
+   "tl": "Exit"
   },
   {
    "id": "RES#227:1b915",
@@ -723,8 +776,9 @@
    "jp": "{14}がいないとミッションには入れません",
    "read": "{14}がいないとミッションには入れません",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "You cannot enter the mission without\n{14}.",
+   "status": "done",
+   "tl": "You cannot enter the mission without [VAR14]."
   },
   {
    "id": "RES#227:1b92b",
@@ -734,8 +788,9 @@
    "jp": "{e0a2}{e0a3}{e0a4}険者の{e08d}{e0a5}\n  仲間を誘う・休憩",
    "read": "新米冒険者の宿舎\n  仲間を誘う・休憩",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Newcomers' Quarters: Recruit\nCompanions, Rest",
+   "status": "done",
+   "tl": "Newcomers' Quarters: Recruit Companions, Rest"
   },
   {
    "id": "RES#227:1b94b",
@@ -745,8 +800,9 @@
    "jp": "オイゲンの{e0a7}場\n  アイテム販売",
    "read": "オイゲンの酒場\n  アイテム販売",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Eugen's Tavern: Item Sales",
+   "status": "done",
+   "tl": "Eugen's Tavern: Item Sales"
   },
   {
    "id": "RES#227:1b963",
@@ -756,8 +812,9 @@
    "jp": "迷{e0a9}入口\n  ミッション選{e086}",
    "read": "迷宮入口\n  ミッション選択",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Labyrinth Entrance: Mission Select",
+   "status": "done",
+   "tl": "Labyrinth Entrance: Mission Select"
   },
   {
    "id": "RES#227:1b979",
@@ -767,8 +824,9 @@
    "jp": "トラップ強{e0aa}",
    "read": "トラップ強化",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Trap Upgrade",
+   "status": "done",
+   "tl": "Trap Upgrade"
   },
   {
    "id": "RES#227:1b983",
@@ -778,8 +836,9 @@
    "jp": "{e0ab}{e0ac}{e0ad}踏{e0ae}地",
    "read": "障爆起踏空地",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Obstacle Burst Trigger Step Air Ground",
+   "status": "done",
+   "tl": "Obstacle Burst Trigger Step Air Ground"
   }
  ],
  "entry": 227

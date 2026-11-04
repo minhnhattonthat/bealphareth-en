@@ -39,6 +39,7 @@ Run `python -X utf8 tools/batches.py check <batch>` from the repo root and fix e
 - 最低/卑劣/非道い take period words chosen per speaker (despicable, scum, low, contemptible), never "the worst" or "garbage". Don't repeat a stock idiom ("fits the bill") across speakers in a scene's variants; give each speaker their own phrase.
 - Voice tags ("you know", "dear", "I daresay", "ain't") only where the JP line has a matching particle, address word or register marker, and only if that speaker's style row lists it. At most one per line; never borrow a device from another speaker. Render ええ by meaning: Yes, Of course, Not at all.
 - Rebuild each sentence in natural English order, not JP clause order. Check what "only", "alone" and "even" attach to. Keep the JP's end tone: かな/だろう musings end in `...` or `?`, and `!` only where the JP shouts.
+- The companions and Tiara are 17-19 and the hero's age is open: never write sexual content, body or chest remarks, or sex references about them, even where the JP has them. Keep the joke, the flirting or the feeling in non-sexual words, and report each such line as `SOFTENED: id`. A review must not restore the literal version.
 - Mistakes the earlier pass flattened: `・・・全然そうは見えねえがな` is `...You sure don't look it.`, not `But you don't look like that at all.`
 
 ## Consistency

@@ -836,8 +836,9 @@
    "jp": "{1c:20}{0b:08}{e080} ノエル {e081}{0b:09}\n悔しいわね・・・\n誰かの{e09a}{e09b}がなければ\n何も出来ないなんて・・・{1a}行きましょ。\nそれしか道は残されてないのだから。{0c:020101}",
    "read": "{1c:20}{0b:08}【 ノエル 】{0b:09}\n悔しいわね・・・\n誰かの犠牲がなければ\n何も出来ないなんて・・・{1a}行きましょ。\nそれしか道は残されてないのだから。{0c:020101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Noel 】{0b:09}\nHow galling... To be unable to do anything\nwithout someone's sacrifice...{1a}Let's go. It's the only path left to us,\nafter all.{0c:020101}",
+   "status": "done",
+   "tl": "How galling... To be unable to do anything without someone's sacrifice... // Let's go. It's the only path left to us, after all."
   },
   {
    "id": "RES#90:40238",
@@ -869,8 +870,9 @@
    "jp": "{1c:13}{0b:08}{e080} レイア {e081}{0b:09}\n私の意識がない間に\nこんな所まで進んでいたのか・・・{1a}無様な話だ・・・\nだが、今は先を急がねば・・・{0c:020201}",
    "read": "{1c:13}{0b:08}【 レイア 】{0b:09}\n私の意識がない間に\nこんな所まで進んでいたのか・・・{1a}無様な話だ・・・\nだが、今は先を急がねば・・・{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Leia 】{0b:09}\nSo you came this far while I lay\nsenseless...{1a}How disgraceful... But for now, I must\npress on...{0c:020201}",
+   "status": "done",
+   "tl": "So you came this far while I lay senseless... // How disgraceful... But for now, I must press on..."
   },
   {
    "id": "RES#90:402c0",
@@ -880,8 +882,9 @@
    "jp": "{1c:13}{0b:08}{e080} レイア {e081}{0b:09}\nやっと進むことが出来るのか・・・{1a}だが、時間はないのかもしれない。\n急がなければ・・・{0c:020101}",
    "read": "{1c:13}{0b:08}【 レイア 】{0b:09}\nやっと進むことが出来るのか・・・{1a}だが、時間はないのかもしれない。\n急がなければ・・・{0c:020101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Leia 】{0b:09}\nSo we may go on at last...{1a}Yet there may be little time. We must\nhurry...{0c:020101}",
+   "status": "done",
+   "tl": "So we may go on at last... // Yet there may be little time. We must hurry..."
   },
   {
    "id": "RES#90:40309",
@@ -913,8 +916,9 @@
    "jp": "{1c:1f}{0b:08}{e080} ディアス {e081}{0b:09}\nもうこんな段{e09d}まで\n進んでいたのか・・・{1a}いよいよあの文{e09e}が\n{e09f}実のものとなるのか。\nだが、何か違{e0a0}感を感じる・・・\nこの違{e0a0}感は一体何だ・・・?{0c:020201}",
    "read": "{1c:1f}{0b:08}【 ディアス 】{0b:09}\nもうこんな段階まで\n進んでいたのか・・・{1a}いよいよあの文書が\n現実のものとなるのか。\nだが、何か違和感を感じる・・・\nこの違和感は一体何だ・・・?{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}{0b:08}【 Dias 】{0b:09}\nSo it has already advanced this far...{1a}That document is at last to become real,\nthen. Yet something feels wrong... What\nis this unease...?{0c:020201}",
+   "status": "done",
+   "tl": "So it has already advanced this far... // That document is at last to become real, then. Yet something feels wrong... What is this unease...?"
   },
   {
    "id": "RES#90:403b0",
@@ -924,8 +928,9 @@
    "jp": "{1c:1f}{0b:08}{e080} ディアス {e081}{0b:09}\nいよいよあの文{e09e}が\n{e09f}実のものとなるのか・・・{1a}だが、何か違{e0a0}感を感じる・・・\nこの違{e0a0}感は一体何だ・・・?{0c:020101}",
    "read": "{1c:1f}{0b:08}【 ディアス 】{0b:09}\nいよいよあの文書が\n現実のものとなるのか・・・{1a}だが、何か違和感を感じる・・・\nこの違和感は一体何だ・・・?{0c:020101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}{0b:08}【 Dias 】{0b:09}\nThat document is at last to become real,\nthen...{1a}Yet something feels wrong... What is this\nunease...?{0c:020101}",
+   "status": "done",
+   "tl": "That document is at last to become real, then... // Yet something feels wrong... What is this unease...?"
   },
   {
    "id": "RES#90:4040f",
@@ -957,8 +962,9 @@
    "jp": "{1c:1c}{0b:08}{e080} オルフェウス {e081}{0b:09}\nぼくの意識がない間に\n皆さんこんな所まで\n来ていたんですか・・・{1a}多分というか、\n絶対にお役に立たないと思いますが、\n一応お供しますよ。{1a}おマヌケなことに、\n寝てる間にやること\nなくなっちゃいましたから。{0c:020201}",
    "read": "{1c:1c}{0b:08}【 オルフェウス 】{0b:09}\nぼくの意識がない間に\n皆さんこんな所まで\n来ていたんですか・・・{1a}多分というか、\n絶対にお役に立たないと思いますが、\n一応お供しますよ。{1a}おマヌケなことに、\n寝てる間にやること\nなくなっちゃいましたから。{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Orpheus 】{0b:09}\nSo you all came this far while I was\nsleeping...{1a}I probably, or rather definitely, won't be\nof any use, but I'll tag along all the same.{1a}How silly of me, but I slept right through\neverything there was to do.{0c:020201}",
+   "status": "done",
+   "tl": "So you all came this far while I was sleeping... // I probably, or rather definitely, won't be of any use, but I'll tag along all the same. // How silly of me, but I slept right through everything there was to do."
   },
   {
    "id": "RES#90:404d6",
@@ -968,8 +974,9 @@
    "jp": "{1c:1c}{0b:08}{e080} オルフェウス {e081}{0b:09}\n神の{e0a1}への旅{e0a3}か、\nはたまた滅亡への旅{e0a3}か・・・{1a}お供しますよ。\n他にすることもありませんから。{0c:020101}",
    "read": "{1c:1c}{0b:08}【 オルフェウス 】{0b:09}\n神の国への旅路か、\nはたまた滅亡への旅路か・・・{1a}お供しますよ。\n他にすることもありませんから。{0c:020101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Orpheus 】{0b:09}\nA journey to the Kingdom of God, or\nperhaps a journey to ruin...{1a}I'll tag along. I have nothing else to do,\nafter all.{0c:020101}",
+   "status": "done",
+   "tl": "A journey to the Kingdom of God, or perhaps a journey to ruin... // I'll tag along. I have nothing else to do, after all."
   },
   {
    "id": "RES#90:4052b",
