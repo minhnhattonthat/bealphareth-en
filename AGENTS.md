@@ -5,7 +5,7 @@ Skill: translate-retro-game; `python tools/skill.py` prints its folder. Read its
 After cloning: `git config core.hooksPath tools/hooks`.
 
 ## Commands (run from repo root)
-- Build:    `python -X utf8 tools/build.py` -> build/bealphareth_en.cue/.bin (checks the dump against `rom.sha1` first). Not written yet (phase 3).
+- Build:    `python -X utf8 tools/build.py` -> build/bealphareth_en.cue/.bin (checks the dump against `rom.sha1` first; unpacked disc in `work/disc/`).
 - Check:    `python -X utf8 tools/check.py` (tests + lint; the pre-commit hook runs this)
 - Smoke:    `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/bealphareth_en.cue --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - Warp:     `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" <cue> --out work/qa/scenes/<name> --route tools/routes/newgame.txt --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 7000 --mash-key circle` (`<cue>` is `build/bealphareth_en.cue` once built, else the Japanese disc; scenes: `tools/debug/scenes.lua`; never ask the user to play to a scene).

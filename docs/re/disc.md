@@ -15,6 +15,8 @@ Disc: one MODE2/2352 track, 706,733,664 bytes. `dumpsxiso` dumps it cleanly (ver
 
 Layout XML from `dumpsxiso -s` includes a 150-sector trailing dummy; `DUMMY.180` is last on disc.
 
+Identity: `dumpsxiso` + `mkpsxiso` with no edits rebuilds the disc byte for byte, no layout tweaks needed. **verified** by `tests/test_identity.py`.
+
 ## MAIN.RES (verified by `tools/res.py`, chained offsets fill the file exactly)
 
 ```
