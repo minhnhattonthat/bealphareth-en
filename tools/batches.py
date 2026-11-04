@@ -50,6 +50,8 @@ SLOTS = ["Hero (male)", "Hero (female)", "Ash", "Arthur", "Leia", "Eleanor", "Pa
 
 # Developer leftovers: phase 7 blanks these to reclaim bank space, nobody translates them.
 DEV_STRINGS = {"PSX.EXE:20b13", "PSX.EXE:20b84", "PSX.EXE:20c0d"}
+# Default hero name, same 15 bytes as the original record ({00} ends the name, spaces pad it); an empty trap slot's filler.
+FIXED_EN = {"PSX.EXE:1b514": "{01}Weld{00}         ", "MAIN.EXE:3de0": "..."}
 
 TOKEN = re.compile(r"\{[^{}]*\}")
 JP = re.compile(r"[぀-ヿ一-鿿々]")
@@ -195,6 +197,27 @@ def is_translatable(m, sid):
 def is_placeholder(m, doc):
     """Unfinished examine lines in scene tables ("Pasca / ghost generator OFF (tentative)"): no translator, `...` in-game."""
     return doc["kind"] == "scene" and "(仮)" in m.text
+
+
+def needs_recode(sid, read):
+    """No translator text, but visible glyphs: its old bytes would draw kanji cells English no longer keeps."""
+    return sid in FIXED_EN or sid in DEV_STRINGS or bool(TOKEN.sub("", read).strip("| "))
+
+
+def dev_label(i, part):
+    """A developer menu row (never seen by players): its number, no Japanese."""
+    m = re.match(r"[\d-]+\(\d+\)", part)
+    return m.group() if m else str(i)
+
+
+def recoded(sid, m, read, plates):
+    """`en` of a string with nothing to translate: name plates in English, the rest as it stands."""
+    if sid in FIXED_EN:
+        return FIXED_EN[sid]
+    if sid in DEV_STRINGS:
+        return "|".join(dev_label(i, p) for i, p in enumerate(read.split("|")))
+    text = raw_items(m.items, plates)
+    return text.replace("。", ".").replace("「", '"').replace("」", '"')
 
 
 def load_docs():
@@ -795,7 +818,7 @@ def cmd_rewrap(_args):
 
 def cmd_placeholders(_args):
     plates, _ = glossary()
-    total = 0
+    total = kept = 0
     for path, doc in load_docs():
         changed = False
         for s in doc["strings"]:
@@ -809,9 +832,14 @@ def cmd_placeholders(_args):
                 s["status"] = "placeholder"
                 changed = True
                 total += 1
+            elif not s.get("en") and needs_recode(s["id"], read):
+                s["en"] = recoded(s["id"], m, read, plates)
+                s["status"] = "recoded"
+                changed = True
+                kept += 1
         if changed:
             write_doc(path, doc)
-    print(f"filled {total} placeholder strings")
+    print(f"filled {total} placeholder strings, recoded {kept} with no text to translate")
 
 
 def cmd_fit(args):

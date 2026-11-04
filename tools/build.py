@@ -74,15 +74,21 @@ def load_docs():
 
 
 def codec_for(doc, blob, glyphs, base):
-    """The codec of a source's first bank, for its new text: English uses glyph tokens only for the kept frames."""
+    """The codec of a source's first bank, for its new text: only the kept base-font cells have kanji codes."""
     banks = extract.find_banks(blob)
-    return extract.source_codec(blob, banks, glyphs, base) if banks else extract.textcodec.Codec(base)
+    codec = extract.source_codec(blob, banks, glyphs, base) if banks else extract.textcodec.Codec(base)
+    codec.kanji_rev = {ch: (0x80, 0x80 + i) for i, ch in enumerate(insert.KEPT)}
+    return codec
 
 
-def insert_scene(doc, blob, codec, marker, qa, font, report):
+def kept_cells(base):
+    """Old base-font cell number of each kept glyph, in insert.KEPT order."""
+    cell = {ch: (hi - 0x80) * 112 + lo - 0x80 for (hi, lo), ch in base.items()}
+    return [cell[ch] for ch in insert.KEPT]
+
+
+def insert_marker_scene(doc, blob, codec, qa, font, report):
     """The rebuilt overlay; marker text shrinks until it fits, and the fill used goes to the report."""
-    if not marker:
-        return insert.rebuild_scene(blob, doc, insert.encoded(doc, codec, qa=qa))
     for fill in MARKER_FILLS:
         new = insert.encoded(doc, codec, fill=fill, font=font, qa=qa)
         try:
@@ -112,7 +118,9 @@ def build(marker=False, qa=None, out=OUT, only=None):
     font = vwf_font.load()
     report = []
     changed = 0
-    for doc in load_docs():
+    pool = b""
+    # the system block goes last: it takes the far strings the scenes leave
+    for doc in sorted(load_docs(), key=lambda d: d["source"] == "PSX.EXE"):
         src = doc["source"]
         if only and not any(fnmatch.fnmatch(src, pat) for pat in only):
             continue
@@ -122,7 +130,7 @@ def build(marker=False, qa=None, out=OUT, only=None):
             new = insert.encoded(doc, codec, fill=1.0 if marker else None, font=font, qa=qa)
             if marker:
                 new = insert._fit_loose(doc, new)
-            main_exe = insert.patch_loose(main_exe, doc, new)
+            main_exe = insert.patch_loose(main_exe, doc, new, extract.main_pointers(blob), extract.MAIN_TEXT[0])
         elif src == "PSX.EXE":
             blob = (tree / "PSX.EXE").read_bytes()
             codec = codec_for(doc, blob, glyphs, base)
@@ -131,7 +139,7 @@ def build(marker=False, qa=None, out=OUT, only=None):
                 new = insert.encoded(doc, codec, fill=fill, font=font, qa=qa)
                 new = {off - insert.SYSTEM_DELTA: b for off, b in new.items()}
                 try:
-                    font_res = insert.rebuild_system(font_res, doc, new)
+                    font_res = insert.rebuild_system(font_res, doc, new, kept_cells(base), pool)
                 except insert.Overflow as e:
                     if fill == MARKER_FILLS[-1] or fill is None:
                         raise
@@ -144,7 +152,10 @@ def build(marker=False, qa=None, out=OUT, only=None):
             o, s = table[doc["entry"]]
             blob = bytes(main_res[o:o + s])
             codec = codec_for(doc, blob, glyphs, base)
-            rebuilt = insert_scene(doc, blob, codec, marker, qa, font, report)
+            if marker:
+                rebuilt = insert_marker_scene(doc, blob, codec, qa, font, report)
+            else:
+                rebuilt, pool = insert.fit_scene(blob, doc, insert.encoded(doc, codec, qa=qa), pool, report)
             if rebuilt != blob:
                 assert len(rebuilt) == s
                 main_res[o:o + s] = rebuilt

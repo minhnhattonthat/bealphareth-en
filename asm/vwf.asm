@@ -148,6 +148,11 @@ KANA_PATH equ 0x8004F23C           ; original one-byte path (kana modes)
     j     vwf_measure_ret
     lw    s4, 0x20(sp)
 
+; --- 0x80050A8C finds a bank's base id after its offset table: M2 only, English can turn a bank into an M4 of strings -------
+.org 0x80050AB4
+    j     m_head
+    nop
+
 .close
 
 ; --- resident code, in RES#3927 (loaded at 0x801B9000, always there while text draws) ----------------------------------
@@ -262,5 +267,16 @@ vwf_measure_ret:
     lw    ra, 0x24(sp)
     j     0x800508FC
     nop
+
+; v1 = width byte ('2' or '4'), a0 = n, s0 = bank: the word after an M2's or M4's offset table (the bank's base id)
+m_head:
+    addiu v1, v1, -0x32
+    srl   v0, v1, 1
+    addiu v0, v0, 1
+    sllv  v0, a0, v0
+    addiu v0, v0, 6
+    addu  v0, v0, v1
+    j     0x80050ACC
+    addu  v0, s0, v0
 .endarea
 .close

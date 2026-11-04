@@ -72,15 +72,115 @@ def test_grown_string_moves_only_what_follows():
     assert out[last + delta:last + delta + 64] == blob[last:last + 64]
 
 
+def test_bank_past_64k_becomes_m4_of_strings():
+    doc = json.loads((ROOT / "script/res1023.json").read_text(encoding="utf8"))
+    blob = scene(doc)
+    bank = doc["banks"][0]
+    part = bank["parts"][1]
+    s = next(s for s in doc["strings"] if s["jp"] and "{1c" in s["jp"])
+    index = next(i for i, x in enumerate(doc["strings"]) if x["off"] == s["off"])
+    out = insert.rebuild_scene(blob, doc, {s["off"]: b"A" * 0x10000})
+    at = extract.parse_m4(out, bank["at"])
+    at = struct.unpack_from("<I", out, bank["at"] + 8)[0] + bank["at"]
+    assert out[at:at + 2] == b"M4"
+    n = struct.unpack_from("<H", out, at + 2)[0]
+    assert n == part["strings"]
+    offs = struct.unpack_from(f"<{n + 1}I", out, at + 4)
+    old_at = part["at"]
+    assert out[at + offs[index]:at + offs[index + 1]] == b"A" * 0x10000 + b"\0"
+    # the base id still follows the table, where m_head (asm/vwf.asm) looks: 4n + 8 from the bank
+    assert out[at + 4 * n + 8:at + 4 * n + 12] == blob[old_at + 2 * n + 6:old_at + 2 * n + 10]
+
+
 def test_overflow_raises():
     doc = json.loads((ROOT / "script/res1023.json").read_text(encoding="utf8"))
     blob = scene(doc)
     s = next(s for s in doc["strings"] if s["jp"] and "{1c" in s["jp"])
     try:
-        insert.rebuild_scene(blob, doc, {s["off"]: b"A" * 0x10000})
+        insert.rebuild_scene(blob, doc, {s["off"]: b"A" * len(blob)})
     except insert.Overflow:
         return
-    raise AssertionError("a 64 KB string fit an M2")
+    raise AssertionError("a string the size of the slot fit")
+
+
+def test_drop_glyphs_frees_the_scene_font():
+    doc = json.loads((ROOT / "script/res1023.json").read_text(encoding="utf8"))
+    blob = scene(doc)
+    bank = doc["banks"][0]
+    glyph, m2 = bank["parts"][0], bank["parts"][1]
+    assert glyph["kind"] == "glyph"
+    out = insert.rebuild_scene(blob, doc, {}, drop_glyphs=True)
+    a, b = struct.unpack_from("<II", out, bank["at"] + 4)
+    assert a == b  # part 0 is empty, part 1 starts where it did
+    assert out[bank["at"] + b:bank["at"] + b + 64] == blob[m2["at"]:m2["at"] + 64]
+    assert struct.unpack_from("<I", out, 4)[0] == struct.unpack_from("<I", blob, 4)[0] - glyph["size"]
+
+
+def test_far_string_wraps_to_its_ram_address():
+    doc = json.loads((ROOT / "script/res1023.json").read_text(encoding="utf8"))
+    blob = scene(doc)
+    bank = doc["banks"][0]
+    s = next(s for s in doc["strings"] if s["jp"] and "{1c" in s["jp"])
+    index = next(i for i, x in enumerate(doc["strings"]) if x["off"] == s["off"])
+    addr = insert.SYSTEM_RAM + insert.SYSTEM_SIZE - 16
+    out = insert.rebuild_scene(blob, doc, {s["off"]: b"A"}, far={s["off"]: addr})
+    at = bank["at"] + struct.unpack_from("<I", out, bank["at"] + 8)[0]
+    assert out[at:at + 2] == b"M4"
+    ram = insert.SCENE_LOAD[len(blob)] + at
+    off = struct.unpack_from("<I", out, at + 4 + 4 * index)[0]
+    assert (ram + off) & 0xFFFFFFFF == addr  # what the lookup at 0x80050974 computes
+
+
+def test_fit_scene_falls_back_to_the_far_pool():
+    doc = json.loads((ROOT / "script/res1023.json").read_text(encoding="utf8"))
+    blob = scene(doc)
+    s = next(s for s in doc["strings"] if s["jp"] and "{1c" in s["jp"])
+    big = b"A" * len(blob)
+    report = []
+    out, pool = insert.fit_scene(blob, doc, {s["off"]: big}, b"", report)
+    assert len(out) == len(blob) and pool == big + b"\0" and "far pool" in report[0]
+
+
+def test_system_keeps_the_pool_at_its_end():
+    d = res.load()
+    o, s = res.table(d)[insert.SYSTEM_RES]
+    blob = d[o:o + s]
+    system = next(doc for doc in docs() if doc["source"] == "PSX.EXE")
+    out = insert.rebuild_system(blob, system, {}, keep_cells=[828], pool=b"far\0")
+    assert out[insert.SYSTEM_SIZE - 4:insert.SYSTEM_SIZE] == b"far\0"
+    try:
+        insert.rebuild_system(blob, system, {}, pool=b"far\0")
+    except insert.Overflow:
+        return
+    raise AssertionError("pool over a full block")
+
+
+def test_system_cells_compact_and_banks_move_down():
+    d = res.load()
+    o, s = res.table(d)[insert.SYSTEM_RES]
+    blob = d[o:o + s]
+    system = next(doc for doc in docs() if doc["source"] == "PSX.EXE")
+    out = insert.rebuild_system(blob, system, {}, keep_cells=[828, 829])
+    offs = struct.unpack_from("<I", blob, 8)[0]
+    new = struct.unpack_from("<I", out, 8)[0]
+    assert new == insert.BASE_CELLS + 32
+    assert out[insert.BASE_CELLS:insert.BASE_CELLS + 16] == blob[insert.BASE_CELLS + 828 * 16:insert.BASE_CELLS + 829 * 16]
+    assert out[new:new + 0x77C4] == blob[offs:offs + 0x77C4]
+
+
+def test_loose_strings_pool_and_repoint():
+    blob = bytearray(64) + b"one\0two\0one\0"
+    doc = {"strings": [{"off": 64, "len": 4}, {"off": 68, "len": 4}, {"off": 72, "len": 4}]}
+    pointers = [(0, 64), (4, 68), (8, 72)]
+    out = insert.patch_loose(bytes(blob) + bytes(3), doc, {64: b"longer"}, pointers, (64, 79))
+    words = struct.unpack_from("<III", out, 0)
+    at = [w - insert.MAIN_FILE_BASE for w in words]
+    assert out[at[0]:at[0] + 7] == b"longer\0" and out[at[1]:at[1] + 4] == b"two\0" and out[at[2]:at[2] + 4] == b"one\0"
+    try:
+        insert.patch_loose(bytes(blob), doc, {64: b"x" * 20}, pointers, (64, 76))
+    except insert.Overflow:
+        return
+    raise AssertionError("pool past its area")
 
 
 def test_marker_keeps_control_codes():

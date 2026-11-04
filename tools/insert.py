@@ -17,6 +17,12 @@ SYSTEM_RES = 3927
 SYSTEM_DELTA = 0x15F94  # PSX.EXE offset of the block RES#3927 holds
 SYSTEM_SIZE = 0x12640  # bytes PSX.EXE copies to 0x801B9000 at boot (0x800D5D1C, length at 0x800FE54C); boot data follows
 M2_MAX = 0xFFFF  # M2 offsets are u16
+BASE_CELLS = 0x1D4C  # base kanji font in RES#3927 (0x801BAD4C), up to the system M4
+MAIN_FILE_BASE = 0x8000F800  # RAM address of MAIN.EXE file offset 0
+SYSTEM_RAM = 0x801B9000
+SCENE_LOAD = {0xA0000: 0x800D6C00, 0x40000: 0x80136C00}  # RAM address of a scene by slot size (docs/re/disc.md)
+# Every base-font glyph English draws, in new cell order: `{code}` (0x8080 + index) is what the encoder emits.
+KEPT = "【】○×△□→←▽"
 
 TOKEN = re.compile(r"\{[^{}]*\}")
 GLYPH_TOKEN = re.compile(r"\{([89a-f][0-9a-f]{3})\}")
@@ -109,35 +115,41 @@ def marker(jp, tag, fill=1.0, font=None):
     return "".join(out)
 
 
-def build_m2(blob, at, end, new):
-    """The M2 at blob[at:end] with strings in `new` ({offset: bytes without NUL}) replaced."""
+def build_m2(blob, at, end, new, far=None, ram=0):
+    """The M2 at blob[at:end] with strings in `new` ({offset: bytes without NUL}) replaced. Past u16 offsets it comes back
+    as an M4 of strings: the lookups read either width (`m_head` in asm/vwf.asm covers the one that did not).
+    far: {offset: RAM address} of strings kept outside the scene; `ram` is this bank's address, u32 offsets wrap to them."""
     n = struct.unpack_from("<H", blob, at + 2)[0]
     offs = struct.unpack_from(f"<{n + 1}H", blob, at + 4)
     if not any(at + offs[k] in new for k in range(n)):
         return bytes(blob[at:end])
-    data = bytearray(blob[at + offs[0]:at + offs[0]])
-    table = []
-    pos = offs[0]
+    far = far or {}
+    chunks = []
     for k in range(n):
         s0, s1 = at + offs[k], at + offs[k + 1]
-        chunk = new[s0] + b"\0" if s0 in new else bytes(blob[s0:s1])
+        chunks.append(None if s0 in far else new[s0] + b"\0" if s0 in new else bytes(blob[s0:s1]))
+    extra = blob[at + 4 + 2 * (n + 1):at + offs[0]]  # the bank's base id
+    wide = bool(far) or offs[0] + sum(len(c) for c in chunks if c) > M2_MAX
+    pos = 4 + (4 if wide else 2) * (n + 1) + len(extra)
+    table = []
+    for k, chunk in enumerate(chunks):
+        if chunk is None:
+            table.append((far[at + offs[k]] - ram) & 0xFFFFFFFF)
+            continue
         table.append(pos)
-        data += chunk
         pos += len(chunk)
     table.append(pos)
-    if pos > M2_MAX:
-        raise Overflow(f"M2 at {at:#x}: {pos:#x} bytes")
-    head = blob[at:at + 2] + struct.pack(f"<H{n + 1}H", n, *table) + blob[at + 4 + 2 * (n + 1):at + offs[0]]
+    head = (b"M4" + struct.pack(f"<H{n + 1}I", n, *table)) if wide else (b"M2" + struct.pack(f"<H{n + 1}H", n, *table))
     tail = bytes(blob[at + offs[-1]:end]) if (end - at - offs[-1]) else b""
-    return head + bytes(data) + tail
+    return head + extra + b"".join(c for c in chunks if c) + tail
 
 
-def build_bank(blob, bank, delta, new):
+def build_bank(blob, bank, delta, new, drop_glyphs=False, far=None, load=0):
     """(old_start, old_end, new_bytes) of a bank; its M4 table is rewritten when a part grows."""
     if bank["kind"] == "M2":
         part = bank["parts"][0]
         a = part["at"] - delta
-        return a, a + part["size"], build_m2(blob, a, a + part["size"], new)
+        return a, a + part["size"], build_m2(blob, a, a + part["size"], new, far, load + a)
     at = bank["at"] - delta
     n = struct.unpack_from("<H", blob, at + 2)[0]
     offs = struct.unpack_from(f"<{n + 1}I", blob, at + 4)
@@ -146,19 +158,24 @@ def build_bank(blob, bank, delta, new):
     for k, part in enumerate(bank["parts"]):
         a, e = at + offs[k], at + offs[k + 1]
         table.append(len(out))
-        out += build_m2(blob, a, e, new) if part["kind"] == "M2" else blob[a:e]
+        if part["kind"] == "M2":
+            out += build_m2(blob, a, e, new, far, load + at + len(out))
+        elif not (drop_glyphs and part["kind"] == "glyph"):
+            out += blob[a:e]
     table.append(len(out))
     struct.pack_into(f"<{n + 1}I", out, 4, *table)
     return at, at + offs[-1], bytes(out)
 
 
-def splice(blob, doc, new, delta=0):
+def splice(blob, doc, new, delta=0, drop_glyphs=False, far=None, load=0):
     """(new blob, offset map) after replacing the banks; a grown bank pushes what follows, kept 4-byte aligned."""
     spans = []
+    if far and sum(b["kind"] != "raw" for b in doc["banks"]) != 1:
+        raise ValueError("far strings need one bank: a bank's address is only known for the first")
     for bank in doc["banks"]:
         if bank["kind"] == "raw":
             continue
-        a, e, b = build_bank(blob, bank, delta, new)
+        a, e, b = build_bank(blob, bank, delta, new, drop_glyphs, far, load)
         if (len(b) - (e - a)) % 4:
             b += b"\0" * (4 - (len(b) - (e - a)) % 4)
         spans.append((a, e, b))
@@ -178,9 +195,10 @@ def splice(blob, doc, new, delta=0):
     return out, remap
 
 
-def rebuild_scene(blob, doc, new):
-    """The scene overlay with new strings: part table and header follow the shift; the slot size does not change."""
-    out, remap = splice(blob, doc, new)
+def rebuild_scene(blob, doc, new, drop_glyphs=False, far=None):
+    """The scene overlay with new strings: part table and header follow the shift; the slot size does not change.
+    drop_glyphs frees the scene font, which no English string draws from. far: see build_m2."""
+    out, remap = splice(blob, doc, new, drop_glyphs=drop_glyphs, far=far, load=SCENE_LOAD[len(blob)])
     sec2 = struct.unpack_from("<I", blob, 12)[0]
     n, size = struct.unpack_from("<II", blob, sec2 + 8)
     base = sec2 + 16
@@ -200,29 +218,76 @@ def rebuild_scene(blob, doc, new):
     return bytes(out)
 
 
-def rebuild_system(blob, doc, new):
-    """RES#3927 = M4 [fonts, system M4, more]: the outer table follows the system bank."""
+def fit_scene(blob, doc, new, pool, report):
+    """A rebuilt scene that fits its slot: as it is, else without its font, else with its longest strings in the far pool
+    (the end of the system block, always in RAM). pool: bytes so far; returns (scene, pool)."""
+    try:
+        return rebuild_scene(blob, doc, new), pool
+    except Overflow:
+        pass
+    try:
+        out = rebuild_scene(blob, doc, new, drop_glyphs=True)
+        report.append(f"{doc['source']}: scene font dropped")
+        return out, pool
+    except Overflow as e:
+        last = e
+    far = {}
+    for off, b in sorted(new.items(), key=lambda kv: -len(kv[1])):
+        pool = b + b"\0" + pool
+        far[off] = SYSTEM_RAM + SYSTEM_SIZE - len(pool)
+        try:
+            out = rebuild_scene(blob, doc, new, drop_glyphs=True, far=far)
+            report.append(f"{doc['source']}: scene font dropped, {len(far)} strings in the far pool")
+            return out, pool
+        except Overflow as e:
+            last = e
+    raise last
+
+
+def rebuild_system(blob, doc, new, keep_cells=None, pool=b""):
+    """RES#3927 = M4 [fonts, system M4, more]: the outer table follows the system bank.
+    keep_cells: base-font cell numbers English draws; they become cells 0.. and the banks move down over the rest.
+    pool: far strings of scenes (fit_scene), the last bytes of the block."""
     out, remap = splice(blob, doc, new, delta=SYSTEM_DELTA)
     n = struct.unpack_from("<H", blob, 2)[0]
     offs = struct.unpack_from(f"<{n + 1}I", blob, 4)
-    struct.pack_into(f"<{n + 1}I", out, 4, *[remap(v) for v in offs])
-    if remap(offs[-1]) > SYSTEM_SIZE:
-        raise Overflow(f"system bank needs {remap(offs[-1]):#x} of {SYSTEM_SIZE:#x}")
-    del out[SYSTEM_SIZE:]
+    table = [remap(v) for v in offs]
+    if keep_cells is not None:
+        cells = b"".join(blob[BASE_CELLS + c * 16:BASE_CELLS + (c + 1) * 16] for c in keep_cells)
+        out[BASE_CELLS:table[1]] = cells
+        freed = table[1] - BASE_CELLS - len(cells)
+        table[1:] = [v - freed for v in table[1:]]
+    struct.pack_into(f"<{n + 1}I", out, 4, *table)
+    if table[-1] + len(pool) > SYSTEM_SIZE:
+        raise Overflow(f"system bank needs {table[-1] + len(pool):#x} of {SYSTEM_SIZE:#x}")
+    del out[table[-1]:]
     out += bytes(len(blob) - len(out))
+    out[SYSTEM_SIZE - len(pool):SYSTEM_SIZE] = pool
     return bytes(out)
 
 
-def patch_loose(blob, doc, new):
-    """MAIN.EXE: loose strings stay in their slots; bank strings are not expected there."""
+def patch_loose(blob, doc, new, pointers, area):
+    """MAIN.EXE: strings are pooled, duplicates once, in area (start, end), and pointers [(word offset, string offset)] follow."""
     out = bytearray(blob)
+    addr = {}
+    pos = area[0]
+    pool = {}
     for s in doc["strings"]:
         b = new.get(s["off"])
         if b is None:
-            continue
-        if len(b) + 1 > s["len"]:
-            raise Overflow(f"{s['id']}: {len(b) + 1} bytes in a {s['len']} byte slot")
-        out[s["off"]:s["off"] + s["len"]] = b + bytes(s["len"] - len(b))
+            b = bytes(blob[s["off"]:s["off"] + s["len"] - 1])
+        if b not in pool:
+            pool[b] = pos
+            pos += len(b) + 1
+        addr[s["off"]] = pool[b]
+    if pos > area[1]:
+        raise Overflow(f"MAIN.EXE strings need {pos - area[0]:#x} of {area[1] - area[0]:#x}")
+    for s in doc["strings"]:
+        out[s["off"]:s["off"] + s["len"]] = bytes(s["len"])
+    for b, at in pool.items():
+        out[at:at + len(b)] = b
+    for word, target in pointers:
+        struct.pack_into("<I", out, word, addr[target] + MAIN_FILE_BASE)
     return bytes(out)
 
 
