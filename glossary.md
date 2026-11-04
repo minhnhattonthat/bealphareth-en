@@ -252,6 +252,50 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | フォルクマイヤー | Volkmeyer | | | |
 | デューラー | Durer | | | |
 | ルイトガルド | Luitgard | | | |
+| クラウス | Klaus | | | |
+| アレクシス | Alexis | | | |
+| エステル | Esther | | | |
+| ロレンツォ | Lorenzo | | | |
+| クレメンテ | Clemente | | | |
+| サドラー | Sadler | | | |
+| カッシア | Cassia | | | |
+| カルファ | Calpha | | | |
+| アロン | Aaron | | | |
+| アッシム | Assim | | | |
+| タミル | Tamil | | | |
+| ジェイド | Jade | | | |
+| エミーリア | Emilia | | | |
+| ミコル | Michol | | | |
+| アドルフ | Adolf | | | |
+| ハンナ | Hanna | | | |
+| グレゴリウス | Gregorius | | | |
+| マリア | Maria | | | |
+| ロッコ | Rocco | | | |
+| ディオ | Dio | | | |
+| アルノ | Arno | | | |
+| ハバシュ | Habash | | | |
+| アレニアル | Arenial | | gold angel | |
+| オウシウル | Oushiul | | silver angel | Ousiul |
+| バルバイル | Barbail | | a Saint | |
+| ツリアル | Zurial | | a Saint | |
+| ムライル | Murail | | a Saint | |
+| アンブライル | Ambrail | | a Saint | |
+| アズモダル | Asmodal | | a Saint | |
+| マルカイダル | Malkaidal | | a Saint | |
+| アザゼル | Azazel | | | |
+| リウナエル | Riunael | | | |
+| メルーヴァ | Meruva | | | |
+| アルライル | Arlail | | | |
+| フェルナンド | Fernando | | | |
+| グレムト | Gremt | | | |
+| グラストン | Graston | | | |
+| テルバント | Terbant | | | |
+| アスカニア | Ascania | | | |
+| ハイデル | Heidel | | | |
+| バニア | Bania | | | |
+| インディゴス | Indigos | | | |
+| レムス | Remus | | | |
+| ロッソ | Rosso | | | |
 
 ## Places
 | JP | EN | max | notes | Avoid |
@@ -260,7 +304,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | カルスの棺桶 | Coffin of Kars | | the town's grim nickname | |
 | アスラ・ファエル | Asla Fael | | the Sun Empire's capital, underground | Asura Fael |
 | アスロイト | Asroit | | the kingdom; people: Asroitian | |
-| バイレステ | Baileste | | the republic; people: Bailestian | |
+| バイレステ | Baileste | | the republic; people: Bailestean | Bailestian |
 | レノス | Lenos | | papal state | |
 | トラドア | Tradoa | | | |
 | フィサーノ / フォサーノ | Fisano | | | |
@@ -274,6 +318,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | ランツ | Lanz | | | |
 | ガスニッツ | Gasnitz | | | |
 | セディク | Sedik | | Sadiya's tribe | |
+| リガレア | Rigalea | | the Rigalean sea | |
 | 黒の羨道 | Black Passage | | chapter 1 dungeon | |
 | 青の羨道 | Blue Passage | | | |
 | 第一神殿 | First Temple | | | |
@@ -329,5 +374,10 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 - Classes: ウォーリアー Warrior, ソードマン Swordsman, フェンサー Fencer, アーチャー Archer, ランサー Lancer, シーフ Thief, ウイザード Wizard, カノン Canon, ポイズナー Poisoner, プリースト Priest; advanced グラディエーター Gladiator, ソードマスター Swordmaster, スティンガー Stinger, スナイパー Sniper, ドラグナー Dragoon, アサシン Assassin, ファウストス Faustus, アークカノン Arch Canon, ポイズンマスター Poison Master, ビショップ Bishop.
 - Named weapons take the 's form: ガイウスの剣 Gaius's Sword, アッシュの戦斧 Ash's Battleaxe. 大剣 greatsword, 戦斧 battleaxe, 細剣 rapier, 片手剣 one-handed sword, 石版 tablet, 錫杖 sacred staff.
 - Elements: 炎 Fire, 水 Water, 毒 Poison, 雷 Lightning, 酸 Acid, 氷 Ice, 油 Oil, 灰 Ash, 木 Wood, 皮 Hide, 鉄 Iron, 土 Earth, 水晶 Crystal, 肉 Flesh, 光 Light, 生命 Life, 闇 Dark, 銀 Silver, 血 Blood, マナ Mana, ヒスイ Jade.
+
+- Common words, not linted, keep them steady: 魔物 monster, 悪魔 Devil (the prophesied one) or devil, 天使 angel, 聖書 the Scriptures, 司祭 priest, 助司祭 deacon, 教会 the Church, 冒険者 adventurer, 遺跡 the ruins, 地下遺跡 underground ruins, 地下都市 underground city, 居住権 residency, 傭兵 mercenary, 羨道 passage, 斎殿 sanctum, 思念 thought-form, 精神世界 spirit world, 物質世界 material world, 融合 fusion, 人形 puppet, 魔法陣 magic circle, 神の子 Child of God, メテル・ア・エム・ファーフ Metel a Em Faaf, アクアビット aquavit, カンタレッラ cantarella.
+- System words: 武器 Weapon, 防具 Armor, 装具 Gear (the status grid's 28 px labels read Arms, Mail, Gear). 攻 Attack, 防 Defense, spelled out except where a 20 px stat label forces Atk, Def (phase 7 moves that column first). 精神 stat Will, 知力 Intellect, 器用さ Dexterity, 腕力 Strength, 生命力 Vitality, 体力 HP. 元素 Element, 合成 Synthesis, 構成式/合成式/構成表 Formula, マテリアル Material, 調合 Brew, 調合式 Recipe, 付加魔法 Enchantment, タレント Talent, 隊列 Order. Status: 濡 Wet, 燃 Burn, 凍 Frozen, 混 Dazed, 眠 Asleep, 気絶 Faint, 遅 Slow. 耐熱 Heat Resist and the same for Cold, Lightning, Acid, Poison; 弱点 Weak, 半減 Halved, 無効 Immune, 相性 Affinity, 身分 Station.
+- Item words: 逆剣 Parrier (class and names), レイピア補助 Rapier Support, 両手剣 Two-Handed Sword, 槍斧 Halberd, 短剣 Dagger, 石弓 Crossbow, 槍 Spear, 鞭 Whip, 筒 Tube, 籠手 Gauntlets, 改 + (Gaius's Sword+). Series: 冥界 Nether, 黙示録 Revelation, 竜頭 Drakehead, 烈風 Gale, 風 Wind, 隠者 Hermit, 無銘 Nameless, 名無し Unnamed. 結晶 Crystal, no 's (Caim Crystal); 真結晶/真水晶 Truecrystal; 成長剤 Growth Serum; 主に捧げる Votive. Monsters: ブハマン Buhaman, ジェリー Jelly, キメラ Chimera, フェンリル Fenrir.
+- Places in lists: 新米冒険者の宿舎 Newcomers' Quarters, バイレステ人の宿舎 Baileste Quarters, アスロイト人の宿舎 Asroit Quarters. 王国 Kingdom of X, 共和国 Republic of X, 公国 Duchy of X, レノス教皇領 Papal State of Lenos, フィサーノ都市国家連合 Fisano City-State League.
 
 ## Decisions from earlier batches

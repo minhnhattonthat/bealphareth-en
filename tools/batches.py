@@ -44,9 +44,9 @@ SPELL_NAME_W = 124
 VAR_W = {"10": 56, "11": 72, "12": 72, "13": 100, "14": 100, "15": 72, "16": 72, "17": 72, "18": 72, "19": 30}
 
 # Examine tables hold one line per party slot, in this order (bank order of PSX.EXE names, hero twice for M and F).
-SLOTS = ["Hero (male)", "Hero (female)", "Ash", "Arthur", "Reia", "Eleonor", "Pasca", "Rebekka (cut character)",
-         "Felcad (cut character)", "Scharn", "Caim (cut character)", "Jessica", "Orpheus", "Eve", "Diaz", "Noel",
-         "Maleficus (cut character)", "Stella Mira (cut character)", "Luca", "Sarah"]
+SLOTS = ["Hero (male)", "Hero (female)", "Ash", "Arthur", "Leia", "Eleanor", "Pasca", "Rebecca (cut character)",
+         "Felcad (cut character)", "Scharn", "Caim (cut character)", "Jessica", "Orpheus", "Eve", "Dias", "Noel",
+         "Maleficus (cut character)", "Stella Mira (cut character)", "Luca", "Sara"]
 
 # Developer leftovers: phase 7 blanks these to reclaim bank space, nobody translates them.
 DEV_STRINGS = {"PSX.EXE:20b13", "PSX.EXE:20b84", "PSX.EXE:20c0d"}
@@ -474,7 +474,8 @@ def slot_labels(strings):
                 hits = sum(1 for b in blocks if read_of(run[b]) == read_of(run[b + 1]) and read_of(run[b]))
                 if blocks and (best is None or hits > best[0]):
                     best = (hits, off, len(blocks))
-            if best and best[0] * 2 >= best[2] and best[0] >= 1:
+            # most blocks must open with the identical hero pair: 3-lines-per-character runs pass a looser test by chance
+            if best and best[0] * 5 >= best[2] * 4:
                 _, off, _ = best
                 for k in range(off, len(run) - 19, 20):
                     for slot in range(20):
@@ -550,6 +551,21 @@ def visible_jp(text):
     return re.sub(r"\[[^\]]*\]", "", text)
 
 
+def write_terms(name, text, terms):
+    with open(TERMS / f"terms_{name}.txt", "w", encoding="utf8", newline="\n") as f:
+        for row in sorted(set((h[0], h[1]) for h in term_hits(text, terms))):
+            f.write(f"{row[0]} -> {row[1]}\n")
+
+
+def cmd_terms(_args):
+    """Refresh every batch's term list after a glossary change."""
+    _, terms = glossary()
+    names = sorted(p.stem for p in TL.glob("b[0-9][0-9][0-9].tsv"))
+    for name in names:
+        write_terms(name, "\n".join(r["text"] for r in read_batch(name)), terms)
+    print(f"{len(names)} term lists")
+
+
 def cmd_split(args):
     TL.mkdir(parents=True, exist_ok=True)
     TERMS.mkdir(exist_ok=True)
@@ -578,10 +594,7 @@ def cmd_split(args):
             for e in batch:
                 f.write("\t".join((e["id"], e["speaker"], e["form"], e["limit"], e["text"])) + "\n")
         text = "\n".join(e["text"] for e in batch)
-        with open(TERMS / f"terms_{name}.txt", "w", encoding="utf8", newline="\n") as f:
-            hits = term_hits(text, terms)
-            for row in sorted(set((h[0], h[1]) for h in hits)):
-                f.write(f"{row[0]} -> {row[1]}\n")
+        write_terms(name, text, terms)
         num += 1
         made += 1
         batch = []
@@ -665,7 +678,8 @@ def check_entry(e, en, terms, plates):
         limit = int(e["limit"].rstrip("px").split("*")[0])
         for opt in re.split(r"\||\\n", en):
             px = page_px(opt)
-            if px > limit:
+            # shortcut: two variables at full budget at once are not a real row; phase 7 measures the actual values
+            if px > limit and len(VAR_MASK.findall(opt)) < 2:
                 errs.append(f"{opt!r} is {px}px, limit {limit}px")
     for row in term_hits(jp, terms):
         jp_term, en_term = row[0], row[1]
@@ -837,6 +851,7 @@ def main():
     p.set_defaults(func=cmd_merge)
     sub.add_parser("rewrap").set_defaults(func=cmd_rewrap)
     sub.add_parser("placeholders").set_defaults(func=cmd_placeholders)
+    sub.add_parser("terms").set_defaults(func=cmd_terms)
     p = sub.add_parser("fit")
     p.add_argument("text")
     p.add_argument("--plate", action="store_true")

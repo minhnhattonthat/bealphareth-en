@@ -18,8 +18,9 @@
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に油をかける",
    "read": "     起     空 地\n{02}周囲の{03}ユニット{02}に油をかける",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Trigger Air Ground\nDouses nearby units with oil",
+   "status": "done",
+   "tl": "Trigger Air Ground\\nDouses nearby units with oil"
   },
   {
    "id": "MAIN.EXE:2d9c",
@@ -29,8 +30,9 @@
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}を雷撃で攻撃",
    "read": "     起     空 地\n{02}周囲の{03}ユニット{02}を雷撃で攻撃",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Trigger Air Ground\nStrikes nearby units with lightning",
+   "status": "done",
+   "tl": "Trigger Air Ground\\nStrikes nearby units with lightning"
   },
   {
    "id": "MAIN.EXE:2dc8",
@@ -40,8 +42,9 @@
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に凍結攻撃",
    "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に凍結攻撃",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Obstacle Trigger Air Ground\nFreezing attack by switch or after a drop",
+   "status": "done",
+   "tl": "Obstacle Trigger Air Ground\\nFreezing attack by switch or after a drop"
   },
   {
    "id": "MAIN.EXE:2df8",
@@ -51,8 +54,9 @@
    "jp": "アイスロック1",
    "read": "アイスロック1",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Ice Rock 1",
+   "status": "done",
+   "tl": "Ice Rock 1"
   },
   {
    "id": "MAIN.EXE:2e04",
@@ -62,8 +66,9 @@
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に雷撃攻撃",
    "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に雷撃攻撃",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Obstacle Trigger Air Ground\nLightning attack by switch or after a drop",
+   "status": "done",
+   "tl": "Obstacle Trigger Air Ground\\nLightning attack by switch or after a drop"
   },
   {
    "id": "MAIN.EXE:2e34",
@@ -73,8 +78,9 @@
    "jp": "サンダーロック1",
    "read": "サンダーロック1",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Thunder Rock 1",
+   "status": "done",
+   "tl": "Thunder Rock 1"
   },
   {
    "id": "MAIN.EXE:2e40",
@@ -84,8 +90,9 @@
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に水をまく",
    "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に水をまく",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Obstacle Trigger Air Ground\nScatters water by switch or after a drop",
+   "status": "done",
+   "tl": "Obstacle Trigger Air Ground\\nScatters water by switch or after a drop"
   },
   {
    "id": "MAIN.EXE:2e6c",
@@ -95,8 +102,9 @@
    "jp": "ウォータロック1",
    "read": "ウォータロック1",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Water Rock 1",
+   "status": "done",
+   "tl": "Water Rock 1"
   },
   {
    "id": "MAIN.EXE:2e78",
@@ -106,8 +114,9 @@
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に油をまく",
    "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に油をまく",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Obstacle Trigger Air Ground\nScatters oil by switch or after a drop",
+   "status": "done",
+   "tl": "Obstacle Trigger Air Ground\\nScatters oil by switch or after a drop"
   },
   {
    "id": "MAIN.EXE:2ea4",
@@ -117,8 +126,9 @@
    "jp": "オイルブロック1",
    "read": "オイルブロック1",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Oil Block 1",
+   "status": "done",
+   "tl": "Oil Block 1"
   },
   {
    "id": "MAIN.EXE:2eb0",
@@ -128,8 +138,9 @@
    "jp": "       爆   空 地\n{02}攻撃を与えると周囲に凍結爆発",
    "read": "       爆   空 地\n{02}攻撃を与えると周囲に凍結爆発",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Burst Air Ground\nHit it for a freezing blast around it",
+   "status": "done",
+   "tl": "Burst Air Ground\\nHit it for a freezing blast around it"
   },
   {
    "id": "MAIN.EXE:2edc",
@@ -139,8 +150,9 @@
    "jp": "アイスボム1",
    "read": "アイスボム1",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Ice Bomb 1",
+   "status": "done",
+   "tl": "Ice Bomb 1"
   },
   {
    "id": "MAIN.EXE:2ee8",
@@ -150,8 +162,9 @@
    "jp": "       爆   空 地\n{02}攻撃を与えると周囲に雷撃爆発",
    "read": "       爆   空 地\n{02}攻撃を与えると周囲に雷撃爆発",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Burst Air Ground\nHit it for a lightning blast around it",
+   "status": "done",
+   "tl": "Burst Air Ground\\nHit it for a lightning blast around it"
   },
   {
    "id": "MAIN.EXE:2f14",
@@ -161,8 +174,9 @@
    "jp": "サンダーボム1",
    "read": "サンダーボム1",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Thunder Bomb 1",
+   "status": "done",
+   "tl": "Thunder Bomb 1"
   },
   {
    "id": "MAIN.EXE:2f20",
@@ -172,8 +186,9 @@
    "jp": "   障 起     空 地\n{02}前方の{03}ユニット{02}を吸い寄せる柱",
    "read": "   障 起     空 地\n{02}前方の{03}ユニット{02}を吸い寄せる柱",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Obstacle Trigger Air Ground\nA pillar that draws in units ahead of it",
+   "status": "done",
+   "tl": "Obstacle Trigger Air Ground\\nA pillar that draws in units ahead of it"
   },
   {
    "id": "MAIN.EXE:2f4c",
@@ -183,8 +198,9 @@
    "jp": "バキューム2",
    "read": "バキューム2",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Vacuum 2",
+   "status": "done",
+   "tl": "Vacuum 2"
   },
   {
    "id": "MAIN.EXE:2f58",
@@ -194,8 +210,9 @@
    "jp": "   障 起     空 地\n{02}前方の{03}ユニット{02}を吸い寄せる柱",
    "read": "   障 起     空 地\n{02}前方の{03}ユニット{02}を吸い寄せる柱",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Obstacle Trigger Air Ground\nA pillar that draws in units ahead of it",
+   "status": "done",
+   "tl": "Obstacle Trigger Air Ground\\nA pillar that draws in units ahead of it"
   },
   {
    "id": "MAIN.EXE:2f84",
@@ -205,8 +222,9 @@
    "jp": "バキューム3",
    "read": "バキューム3",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Vacuum 3",
+   "status": "done",
+   "tl": "Vacuum 3"
   },
   {
    "id": "MAIN.EXE:2f90",
@@ -216,8 +234,9 @@
    "jp": "   障     踏 空 地\n{02}障害物になる頑丈な柱",
    "read": "   障     踏 空 地\n{02}障害物になる頑丈な柱",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Obstacle Step Air Ground\nA sturdy pillar that blocks the way",
+   "status": "done",
+   "tl": "Obstacle Step Air Ground\\nA sturdy pillar that blocks the way"
   },
   {
    "id": "MAIN.EXE:2fb8",
@@ -227,8 +246,9 @@
    "jp": "   障     踏 空 地\n{02}障害物になる、横に広がる柱",
    "read": "   障     踏 空 地\n{02}障害物になる、横に広がる柱",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Obstacle Step Air Ground\nA pillar that blocks the way, spreading sideways",
+   "status": "done",
+   "tl": "Obstacle Step Air Ground\\nA pillar that blocks the way, spreading sideways"
   },
   {
    "id": "MAIN.EXE:2fe0",
@@ -238,8 +258,9 @@
    "jp": "   障     踏 空 地\n{02}障害物になる柱",
    "read": "   障     踏 空 地\n{02}障害物になる柱",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Obstacle Step Air Ground\nA pillar that blocks the way",
+   "status": "done",
+   "tl": "Obstacle Step Air Ground\\nA pillar that blocks the way"
   },
   {
    "id": "MAIN.EXE:3000",
@@ -249,8 +270,9 @@
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}を雷撃で攻撃",
    "read": "     起     空 地\n{02}周囲の{03}ユニット{02}を雷撃で攻撃",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Trigger Air Ground\nStrikes nearby units with lightning",
+   "status": "done",
+   "tl": "Trigger Air Ground\\nStrikes nearby units with lightning"
   },
   {
    "id": "MAIN.EXE:302c",
@@ -260,8 +282,9 @@
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}を雷撃で攻撃",
    "read": "     起     空 地\n{02}周囲の{03}ユニット{02}を雷撃で攻撃",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Trigger Air Ground\nStrikes nearby units with lightning",
+   "status": "done",
+   "tl": "Trigger Air Ground\\nStrikes nearby units with lightning"
   },
   {
    "id": "MAIN.EXE:3058",
@@ -271,8 +294,9 @@
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}を凍らせる",
    "read": "     起     空 地\n{02}周囲の{03}ユニット{02}を凍らせる",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Trigger Air Ground\nFreezes nearby units",
+   "status": "done",
+   "tl": "Trigger Air Ground\\nFreezes nearby units"
   },
   {
    "id": "MAIN.EXE:3080",
@@ -282,8 +306,9 @@
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}を凍らせる",
    "read": "     起     空 地\n{02}周囲の{03}ユニット{02}を凍らせる",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Trigger Air Ground\nFreezes nearby units",
+   "status": "done",
+   "tl": "Trigger Air Ground\\nFreezes nearby units"
   },
   {
    "id": "MAIN.EXE:30a8",
@@ -293,8 +318,9 @@
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に水をかける",
    "read": "     起     空 地\n{02}周囲の{03}ユニット{02}に水をかける",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Trigger Air Ground\nDouses nearby units with water",
+   "status": "done",
+   "tl": "Trigger Air Ground\\nDouses nearby units with water"
   },
   {
    "id": "MAIN.EXE:30d0",
@@ -304,8 +330,9 @@
    "jp": "ウォータ-2",
    "read": "ウォータ-2",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Water 2",
+   "status": "done",
+   "tl": "Water 2"
   },
   {
    "id": "MAIN.EXE:30dc",
@@ -315,8 +342,9 @@
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に水をかける",
    "read": "     起     空 地\n{02}周囲の{03}ユニット{02}に水をかける",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Trigger Air Ground\nDouses nearby units with water",
+   "status": "done",
+   "tl": "Trigger Air Ground\\nDouses nearby units with water"
   },
   {
    "id": "MAIN.EXE:3104",
@@ -326,8 +354,9 @@
    "jp": "ウォータ-3",
    "read": "ウォータ-3",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Water 3",
+   "status": "done",
+   "tl": "Water 3"
   },
   {
    "id": "MAIN.EXE:3110",
@@ -337,8 +366,9 @@
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に油をかける",
    "read": "     起     空 地\n{02}周囲の{03}ユニット{02}に油をかける",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Trigger Air Ground\nDouses nearby units with oil",
+   "status": "done",
+   "tl": "Trigger Air Ground\\nDouses nearby units with oil"
   },
   {
    "id": "MAIN.EXE:3138",
@@ -348,8 +378,9 @@
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に油をかける",
    "read": "     起     空 地\n{02}周囲の{03}ユニット{02}に油をかける",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Trigger Air Ground\nDouses nearby units with oil",
+   "status": "done",
+   "tl": "Trigger Air Ground\\nDouses nearby units with oil"
   },
   {
    "id": "MAIN.EXE:3160",
@@ -359,8 +390,9 @@
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に火をつける",
    "read": "     起     空 地\n{02}周囲の{03}ユニット{02}に火をつける",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Trigger Air Ground\nSets nearby units on fire",
+   "status": "done",
+   "tl": "Trigger Air Ground\\nSets nearby units on fire"
   },
   {
    "id": "MAIN.EXE:3188",
@@ -370,8 +402,9 @@
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に火をつける",
    "read": "     起     空 地\n{02}周囲の{03}ユニット{02}に火をつける",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Trigger Air Ground\nSets nearby units on fire",
+   "status": "done",
+   "tl": "Trigger Air Ground\\nSets nearby units on fire"
   },
   {
    "id": "MAIN.EXE:31b0",
@@ -381,8 +414,9 @@
    "jp": "         踏   地\n{02}上に乗った{03}ユニット{02}を弾き飛ばす",
    "read": "         踏   地\n{02}上に乗った{03}ユニット{02}を弾き飛ばす",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Step Ground\nFlings away units that step on it",
+   "status": "done",
+   "tl": "Step Ground\\nFlings away units that step on it"
   },
   {
    "id": "MAIN.EXE:31d8",
@@ -392,8 +426,9 @@
    "jp": "フリップパネル1",
    "read": "フリップパネル1",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Flip Panel 1",
+   "status": "done",
+   "tl": "Flip Panel 1"
   },
   {
    "id": "MAIN.EXE:31e4",
@@ -403,8 +438,9 @@
    "jp": "       爆   空 地\n{02}攻撃を与えると周囲に凍結爆発",
    "read": "       爆   空 地\n{02}攻撃を与えると周囲に凍結爆発",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Burst Air Ground\nHit it for a freezing blast around it",
+   "status": "done",
+   "tl": "Burst Air Ground\\nHit it for a freezing blast around it"
   },
   {
    "id": "MAIN.EXE:3210",
@@ -414,8 +450,9 @@
    "jp": "アイスボム2",
    "read": "アイスボム2",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Ice Bomb 2",
+   "status": "done",
+   "tl": "Ice Bomb 2"
   },
   {
    "id": "MAIN.EXE:321c",
@@ -425,8 +462,9 @@
    "jp": "       爆   空 地\n{02}攻撃を与えると周囲に凍結爆発",
    "read": "       爆   空 地\n{02}攻撃を与えると周囲に凍結爆発",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Burst Air Ground\nHit it for a freezing blast around it",
+   "status": "done",
+   "tl": "Burst Air Ground\\nHit it for a freezing blast around it"
   },
   {
    "id": "MAIN.EXE:3248",
@@ -436,8 +474,9 @@
    "jp": "アイスボム3",
    "read": "アイスボム3",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Ice Bomb 3",
+   "status": "done",
+   "tl": "Ice Bomb 3"
   },
   {
    "id": "MAIN.EXE:3254",
@@ -447,8 +486,9 @@
    "jp": "       爆   空 地\n{02}攻撃を与えると周囲に燃焼爆発",
    "read": "       爆   空 地\n{02}攻撃を与えると周囲に燃焼爆発",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Burst Air Ground\nHit it for a burning blast around it",
+   "status": "done",
+   "tl": "Burst Air Ground\\nHit it for a burning blast around it"
   },
   {
    "id": "MAIN.EXE:3280",
@@ -458,8 +498,9 @@
    "jp": "フレイムボム2",
    "read": "フレイムボム2",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Flame Bomb 2",
+   "status": "done",
+   "tl": "Flame Bomb 2"
   },
   {
    "id": "MAIN.EXE:328c",
@@ -469,8 +510,9 @@
    "jp": "       爆   空 地\n{02}攻撃を与えると周囲に燃焼爆発",
    "read": "       爆   空 地\n{02}攻撃を与えると周囲に燃焼爆発",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Burst Air Ground\nHit it for a burning blast around it",
+   "status": "done",
+   "tl": "Burst Air Ground\\nHit it for a burning blast around it"
   },
   {
    "id": "MAIN.EXE:32b8",
@@ -480,8 +522,9 @@
    "jp": "フレイムボム3",
    "read": "フレイムボム3",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Flame Bomb 3",
+   "status": "done",
+   "tl": "Flame Bomb 3"
   },
   {
    "id": "MAIN.EXE:32c4",
@@ -491,8 +534,9 @@
    "jp": "       爆   空 地\n{02}攻撃を与えると周囲に雷撃爆発",
    "read": "       爆   空 地\n{02}攻撃を与えると周囲に雷撃爆発",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Burst Air Ground\nHit it for a lightning blast around it",
+   "status": "done",
+   "tl": "Burst Air Ground\\nHit it for a lightning blast around it"
   },
   {
    "id": "MAIN.EXE:32f0",
@@ -502,8 +546,9 @@
    "jp": "サンダーボム2",
    "read": "サンダーボム2",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Thunder Bomb 2",
+   "status": "done",
+   "tl": "Thunder Bomb 2"
   },
   {
    "id": "MAIN.EXE:32fc",
@@ -513,8 +558,9 @@
    "jp": "       爆   空 地\n{02}攻撃を与えると周囲に雷撃爆発",
    "read": "       爆   空 地\n{02}攻撃を与えると周囲に雷撃爆発",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Burst Air Ground\nHit it for a lightning blast around it",
+   "status": "done",
+   "tl": "Burst Air Ground\\nHit it for a lightning blast around it"
   },
   {
    "id": "MAIN.EXE:3328",
@@ -524,8 +570,9 @@
    "jp": "サンダーボム3",
    "read": "サンダーボム3",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Thunder Bomb 3",
+   "status": "done",
+   "tl": "Thunder Bomb 3"
   },
   {
    "id": "MAIN.EXE:3334",
@@ -535,8 +582,9 @@
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に雷撃攻撃",
    "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に雷撃攻撃",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Obstacle Trigger Air Ground\nLightning attack by switch or after a drop",
+   "status": "done",
+   "tl": "Obstacle Trigger Air Ground\\nLightning attack by switch or after a drop"
   },
   {
    "id": "MAIN.EXE:3364",
@@ -546,8 +594,9 @@
    "jp": "サンダーロック2",
    "read": "サンダーロック2",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Thunder Rock 2",
+   "status": "done",
+   "tl": "Thunder Rock 2"
   },
   {
    "id": "MAIN.EXE:3370",
@@ -557,8 +606,9 @@
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に雷撃攻撃",
    "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に雷撃攻撃",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Obstacle Trigger Air Ground\nLightning attack by switch or after a drop",
+   "status": "done",
+   "tl": "Obstacle Trigger Air Ground\\nLightning attack by switch or after a drop"
   },
   {
    "id": "MAIN.EXE:33a0",
@@ -568,8 +618,9 @@
    "jp": "サンダーロック3",
    "read": "サンダーロック3",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Thunder Rock 3",
+   "status": "done",
+   "tl": "Thunder Rock 3"
   },
   {
    "id": "MAIN.EXE:33ac",
@@ -579,8 +630,9 @@
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に凍結攻撃",
    "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に凍結攻撃",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Obstacle Trigger Air Ground\nFreezing attack by switch or after a drop",
+   "status": "done",
+   "tl": "Obstacle Trigger Air Ground\\nFreezing attack by switch or after a drop"
   },
   {
    "id": "MAIN.EXE:33dc",
@@ -590,8 +642,9 @@
    "jp": "アイスロック2",
    "read": "アイスロック2",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Ice Rock 2",
+   "status": "done",
+   "tl": "Ice Rock 2"
   },
   {
    "id": "MAIN.EXE:33e8",
@@ -601,8 +654,9 @@
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に凍結攻撃",
    "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に凍結攻撃",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Obstacle Trigger Air Ground\nFreezing attack by switch or after a drop",
+   "status": "done",
+   "tl": "Obstacle Trigger Air Ground\\nFreezing attack by switch or after a drop"
   },
   {
    "id": "MAIN.EXE:3418",
@@ -612,8 +666,9 @@
    "jp": "アイスロック3",
    "read": "アイスロック3",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Ice Rock 3",
+   "status": "done",
+   "tl": "Ice Rock 3"
   },
   {
    "id": "MAIN.EXE:3424",
@@ -623,8 +678,9 @@
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に火をつける",
    "read": "     起     空 地\n{02}周囲の{03}ユニット{02}に火をつける",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Trigger Air Ground\nSets nearby units on fire",
+   "status": "done",
+   "tl": "Trigger Air Ground\\nSets nearby units on fire"
   },
   {
    "id": "MAIN.EXE:344c",
@@ -634,8 +690,9 @@
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に燃焼攻撃",
    "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に燃焼攻撃",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Obstacle Trigger Air Ground\nBurning attack by switch or after a drop",
+   "status": "done",
+   "tl": "Obstacle Trigger Air Ground\\nBurning attack by switch or after a drop"
   },
   {
    "id": "MAIN.EXE:347c",
@@ -645,8 +702,9 @@
    "jp": "フレイムロック2",
    "read": "フレイムロック2",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Flame Rock 2",
+   "status": "done",
+   "tl": "Flame Rock 2"
   },
   {
    "id": "MAIN.EXE:3488",
@@ -656,8 +714,9 @@
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に燃焼攻撃",
    "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に燃焼攻撃",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Obstacle Trigger Air Ground\nBurning attack by switch or after a drop",
+   "status": "done",
+   "tl": "Obstacle Trigger Air Ground\\nBurning attack by switch or after a drop"
   },
   {
    "id": "MAIN.EXE:34b8",
@@ -667,8 +726,9 @@
    "jp": "フレイムロック3",
    "read": "フレイムロック3",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Flame Rock 3",
+   "status": "done",
+   "tl": "Flame Rock 3"
   },
   {
    "id": "MAIN.EXE:34c4",
@@ -678,8 +738,9 @@
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に水をまく",
    "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に水をまく",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Obstacle Trigger Air Ground\nScatters water by switch or after a drop",
+   "status": "done",
+   "tl": "Obstacle Trigger Air Ground\\nScatters water by switch or after a drop"
   },
   {
    "id": "MAIN.EXE:34f0",
@@ -689,8 +750,9 @@
    "jp": "ウォータロック2",
    "read": "ウォータロック2",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Water Rock 2",
+   "status": "done",
+   "tl": "Water Rock 2"
   },
   {
    "id": "MAIN.EXE:34fc",
@@ -700,8 +762,9 @@
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に水をまく",
    "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に水をまく",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Obstacle Trigger Air Ground\nScatters water by switch or after a drop",
+   "status": "done",
+   "tl": "Obstacle Trigger Air Ground\\nScatters water by switch or after a drop"
   },
   {
    "id": "MAIN.EXE:3528",
@@ -711,8 +774,9 @@
    "jp": "ウォータロック3",
    "read": "ウォータロック3",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Water Rock 3",
+   "status": "done",
+   "tl": "Water Rock 3"
   },
   {
    "id": "MAIN.EXE:3534",
@@ -722,8 +786,9 @@
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に油をまく",
    "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に油をまく",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Obstacle Trigger Air Ground\nScatters oil by switch or after a drop",
+   "status": "done",
+   "tl": "Obstacle Trigger Air Ground\\nScatters oil by switch or after a drop"
   },
   {
    "id": "MAIN.EXE:3560",
@@ -733,8 +798,9 @@
    "jp": "オイルブロック2",
    "read": "オイルブロック2",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Oil Block 2",
+   "status": "done",
+   "tl": "Oil Block 2"
   },
   {
    "id": "MAIN.EXE:356c",
@@ -744,8 +810,9 @@
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に油をまく",
    "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に油をまく",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Obstacle Trigger Air Ground\nScatters oil by switch or after a drop",
+   "status": "done",
+   "tl": "Obstacle Trigger Air Ground\\nScatters oil by switch or after a drop"
   },
   {
    "id": "MAIN.EXE:3598",
@@ -755,8 +822,9 @@
    "jp": "オイルブロック3",
    "read": "オイルブロック3",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Oil Block 3",
+   "status": "done",
+   "tl": "Oil Block 3"
   },
   {
    "id": "MAIN.EXE:35a4",
@@ -766,8 +834,9 @@
    "jp": "         踏   地\n{02}上に乗った{03}ユニット{02}を弾き飛ばす",
    "read": "         踏   地\n{02}上に乗った{03}ユニット{02}を弾き飛ばす",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Step Ground\nFlings away units that step on it",
+   "status": "done",
+   "tl": "Step Ground\\nFlings away units that step on it"
   },
   {
    "id": "MAIN.EXE:35cc",
@@ -777,8 +846,9 @@
    "jp": "フリップパネル2",
    "read": "フリップパネル2",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Flip Panel 2",
+   "status": "done",
+   "tl": "Flip Panel 2"
   },
   {
    "id": "MAIN.EXE:35d8",
@@ -788,8 +858,9 @@
    "jp": "         踏   地\n{02}上に乗った{03}ユニット{02}を弾き飛ばす",
    "read": "         踏   地\n{02}上に乗った{03}ユニット{02}を弾き飛ばす",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Step Ground\nFlings away units that step on it",
+   "status": "done",
+   "tl": "Step Ground\\nFlings away units that step on it"
   },
   {
    "id": "MAIN.EXE:3600",
@@ -799,8 +870,9 @@
    "jp": "フリップパネル3",
    "read": "フリップパネル3",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Flip Panel 3",
+   "status": "done",
+   "tl": "Flip Panel 3"
   },
   {
    "id": "MAIN.EXE:360c",
@@ -810,8 +882,9 @@
    "jp": "   敵用{03}トラップ\n{02}敵用{03}トラップ",
    "read": "   敵用{03}トラップ\n{02}敵用{03}トラップ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Enemy Trap\nEnemy trap",
+   "status": "done",
+   "tl": "Enemy Trap\\nEnemy trap"
   },
   {
    "id": "MAIN.EXE:3624",
@@ -821,8 +894,9 @@
    "jp": "炎機雷え敵ぉ",
    "read": "炎機雷え敵ぉ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Enemy Fire Mine",
+   "status": "done",
+   "tl": "Enemy Fire Mine"
   },
   {
    "id": "MAIN.EXE:3630",
@@ -832,8 +906,9 @@
    "jp": "   敵用{03}トラップ\n{02}敵用{03}トラップ",
    "read": "   敵用{03}トラップ\n{02}敵用{03}トラップ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Enemy Trap\nEnemy trap",
+   "status": "done",
+   "tl": "Enemy Trap\\nEnemy trap"
   },
   {
    "id": "MAIN.EXE:3648",
@@ -843,8 +918,9 @@
    "jp": "氷機雷え敵ぉ",
    "read": "氷機雷え敵ぉ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Enemy Ice Mine",
+   "status": "done",
+   "tl": "Enemy Ice Mine"
   },
   {
    "id": "MAIN.EXE:3654",
@@ -854,8 +930,9 @@
    "jp": "       爆   空 地\n{02}攻撃を与えると周囲に燃焼爆発",
    "read": "       爆   空 地\n{02}攻撃を与えると周囲に燃焼爆発",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Burst Air Ground\nHit it for a burning blast around it",
+   "status": "done",
+   "tl": "Burst Air Ground\\nHit it for a burning blast around it"
   },
   {
    "id": "MAIN.EXE:3680",
@@ -865,8 +942,9 @@
    "jp": "フレイムボム1",
    "read": "フレイムボム1",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Flame Bomb 1",
+   "status": "done",
+   "tl": "Flame Bomb 1"
   },
   {
    "id": "MAIN.EXE:368c",
@@ -876,8 +954,9 @@
    "jp": "   敵用{03}トラップ\n{02}敵用{03}トラップ",
    "read": "   敵用{03}トラップ\n{02}敵用{03}トラップ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Enemy Trap\nEnemy trap",
+   "status": "done",
+   "tl": "Enemy Trap\\nEnemy trap"
   },
   {
    "id": "MAIN.EXE:36a4",
@@ -887,8 +966,9 @@
    "jp": "電気機雷え敵ぉ",
    "read": "電気機雷え敵ぉ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Enemy Shock Mine",
+   "status": "done",
+   "tl": "Enemy Shock Mine"
   },
   {
    "id": "MAIN.EXE:36b4",
@@ -898,8 +978,9 @@
    "jp": "   敵用{03}トラップ\n{02}敵用{03}トラップ",
    "read": "   敵用{03}トラップ\n{02}敵用{03}トラップ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Enemy Trap\nEnemy trap",
+   "status": "done",
+   "tl": "Enemy Trap\\nEnemy trap"
   },
   {
    "id": "MAIN.EXE:36cc",
@@ -909,8 +990,9 @@
    "jp": "毒機雷え敵ぉ",
    "read": "毒機雷え敵ぉ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Enemy Poison Mine",
+   "status": "done",
+   "tl": "Enemy Poison Mine"
   },
   {
    "id": "MAIN.EXE:36d8",
@@ -920,8 +1002,9 @@
    "jp": "   {0e}障 起 爆 踏 空 地ぼ・ゆ\n{02}使用できません",
    "read": "   {0e}障 起 爆 踏 空 地ぼ・ゆ\n{02}使用できません",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0e}Obstacle Trigger Burst Step Air Ground\nCannot be used",
+   "status": "done",
+   "tl": "[1]Obstacle Trigger Burst Step Air Ground\\nCannot be used"
   },
   {
    "id": "MAIN.EXE:36fc",
@@ -931,8 +1014,9 @@
    "jp": "トラップなし",
    "read": "トラップなし",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "No Trap",
+   "status": "done",
+   "tl": "No Trap"
   },
   {
    "id": "MAIN.EXE:3708",
@@ -942,8 +1026,9 @@
    "jp": "   仲間{01}1人 消費: 9\n{02}{01}HP{02}を少し回復する",
    "read": "   仲間{01}1人 消費: 9\n{02}{01}HP{02}を少し回復する",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "One ally  Cost: 9\nRestores a little HP",
+   "status": "done",
+   "tl": "One ally  Cost: 9\\nRestores a little HP"
   },
   {
    "id": "MAIN.EXE:372c",
@@ -953,8 +1038,9 @@
    "jp": "   仲間{01}1人 消費: 42\n{02}{01}HP{02}をかなり回復する",
    "read": "   仲間{01}1人 消費: 42\n{02}{01}HP{02}をかなり回復する",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "One ally  Cost: 42\nRestores a lot of HP",
+   "status": "done",
+   "tl": "One ally  Cost: 42\\nRestores a lot of HP"
   },
   {
    "id": "MAIN.EXE:3754",
@@ -964,8 +1050,9 @@
    "jp": "   仲間全員 消費{01}: 80\n{02}全員の{01}HP{02}を完全に回復する",
    "read": "   仲間全員 消費{01}: 80\n{02}全員の{01}HP{02}を完全に回復する",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "All allies  Cost: 80\nFully restores everyone's HP",
+   "status": "done",
+   "tl": "All allies  Cost: 80\\nFully restores everyone's HP"
   },
   {
    "id": "MAIN.EXE:3784",
@@ -975,8 +1062,9 @@
    "jp": "   仲間{01}1人 消費: 8\n{02}毒状態を回復する",
    "read": "   仲間{01}1人 消費: 8\n{02}毒状態を回復する",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "One ally  Cost: 8\nCures poison",
+   "status": "done",
+   "tl": "One ally  Cost: 8\\nCures poison"
   },
   {
    "id": "MAIN.EXE:37a8",
@@ -986,8 +1074,9 @@
    "jp": "ポイズンクリス",
    "read": "ポイズンクリス",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Poison Kris",
+   "status": "done",
+   "tl": "Poison Kris"
   },
   {
    "id": "MAIN.EXE:37b4",
@@ -997,8 +1086,9 @@
    "jp": "   仲間{01}1人 消費: 8\n{02}精神異常状態を回復する",
    "read": "   仲間{01}1人 消費: 8\n{02}精神異常状態を回復する",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "One ally  Cost: 8\nCures mental ailments",
+   "status": "done",
+   "tl": "One ally  Cost: 8\\nCures mental ailments"
   },
   {
    "id": "MAIN.EXE:37e0",
@@ -1008,8 +1098,9 @@
    "jp": "スピリットコイン",
    "read": "スピリットコイン",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Spirit Coin",
+   "status": "done",
+   "tl": "Spirit Coin"
   },
   {
    "id": "MAIN.EXE:37ec",
@@ -1019,8 +1110,9 @@
    "jp": "   仲間{01}1人 消費: 12\n{02}状態異常をすべて回復する    ",
    "read": "   仲間{01}1人 消費: 12\n{02}状態異常をすべて回復する    ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "One ally  Cost: 12\nCures all ailments",
+   "status": "done",
+   "tl": "One ally  Cost: 12\\nCures all ailments"
   },
   {
    "id": "MAIN.EXE:381c",
@@ -1030,8 +1122,9 @@
    "jp": "ロイヤルカード",
    "read": "ロイヤルカード",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Royal Card",
+   "status": "done",
+   "tl": "Royal Card"
   },
   {
    "id": "MAIN.EXE:3828",
@@ -1041,8 +1134,9 @@
    "jp": "   仲間{01}1人 消費: 4\n{02}魔法封じ状態を回復する",
    "read": "   仲間{01}1人 消費: 4\n{02}魔法封じ状態を回復する",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "One ally  Cost: 4\nCures spell seal",
+   "status": "done",
+   "tl": "One ally  Cost: 4\\nCures spell seal"
   },
   {
    "id": "MAIN.EXE:3850",
@@ -1052,8 +1146,9 @@
    "jp": "マジックシンボル",
    "read": "マジックシンボル",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Magic Symbol",
+   "status": "done",
+   "tl": "Magic Symbol"
   },
   {
    "id": "MAIN.EXE:385c",
@@ -1063,8 +1158,9 @@
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に水をかける",
    "read": "     起     空 地\n{02}周囲の{03}ユニット{02}に水をかける",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Trigger Air Ground\nDouses nearby units with water",
+   "status": "done",
+   "tl": "Trigger Air Ground\\nDouses nearby units with water"
   },
   {
    "id": "MAIN.EXE:3884",
@@ -1074,8 +1170,9 @@
    "jp": "ウォータ-1",
    "read": "ウォータ-1",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Water 1",
+   "status": "done",
+   "tl": "Water 1"
   },
   {
    "id": "MAIN.EXE:3890",
@@ -1085,8 +1182,9 @@
    "jp": "   自分   消費{01}: 12\n{02}熱攻撃耐性を{03}アップ{02}する",
    "read": "   自分   消費{01}: 12\n{02}熱攻撃耐性を{03}アップ{02}する",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Self  Cost: 12\nRaises resistance to heat attacks",
+   "status": "done",
+   "tl": "Self  Cost: 12\\nRaises resistance to heat attacks"
   },
   {
    "id": "MAIN.EXE:38b8",
@@ -1096,8 +1194,9 @@
    "jp": "フレアサーリット",
    "read": "フレアサーリット",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Flare Sallet",
+   "status": "done",
+   "tl": "Flare Sallet"
   },
   {
    "id": "MAIN.EXE:38c4",
@@ -1107,8 +1206,9 @@
    "jp": "   自分   消費{01}: 12\n{02}冷攻撃耐性を{03}アップ{02}する",
    "read": "   自分   消費{01}: 12\n{02}冷攻撃耐性を{03}アップ{02}する",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Self  Cost: 12\nRaises resistance to cold attacks",
+   "status": "done",
+   "tl": "Self  Cost: 12\\nRaises resistance to cold attacks"
   },
   {
    "id": "MAIN.EXE:38ec",
@@ -1118,8 +1218,9 @@
    "jp": "コルドサーリット",
    "read": "コルドサーリット",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Cold Sallet",
+   "status": "done",
+   "tl": "Cold Sallet"
   },
   {
    "id": "MAIN.EXE:38f8",
@@ -1129,8 +1230,9 @@
    "jp": "   自分   消費{01}: 12\n{02}雷撃攻撃耐性を{03}アップ{02}する",
    "read": "   自分   消費{01}: 12\n{02}雷撃攻撃耐性を{03}アップ{02}する",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Self  Cost: 12\nRaises resistance to lightning attacks",
+   "status": "done",
+   "tl": "Self  Cost: 12\\nRaises resistance to lightning attacks"
   },
   {
    "id": "MAIN.EXE:3924",
@@ -1140,8 +1242,9 @@
    "jp": "ライトサーリット",
    "read": "ライトサーリット",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Light Sallet",
+   "status": "done",
+   "tl": "Light Sallet"
   },
   {
    "id": "MAIN.EXE:3930",
@@ -1151,8 +1254,9 @@
    "jp": "   自分   消費{01}: 8\n{02}一定時間敵の魔法弾を跳ね返す  ",
    "read": "   自分   消費{01}: 8\n{02}一定時間敵の魔法弾を跳ね返す  ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Self  Cost: 8\nReflects enemy magic shots for a time",
+   "status": "done",
+   "tl": "Self  Cost: 8\\nReflects enemy magic shots for a time"
   },
   {
    "id": "MAIN.EXE:3960",
@@ -1162,8 +1266,9 @@
    "jp": "エルヴンマント",
    "read": "エルヴンマント",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Elven Mantle",
+   "status": "done",
+   "tl": "Elven Mantle"
   },
   {
    "id": "MAIN.EXE:396c",
@@ -1173,8 +1278,9 @@
    "jp": "   前方   消費{01}: 2\n{02}炎属性の魔法弾   ",
    "read": "   前方   消費{01}: 2\n{02}炎属性の魔法弾   ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Forward  Cost: 2\nFire magic shot",
+   "status": "done",
+   "tl": "Forward  Cost: 2\\nFire magic shot"
   },
   {
    "id": "MAIN.EXE:3994",
@@ -1184,8 +1290,9 @@
    "jp": "   前方   消費{01}: 24\n{02}炎属性の広範囲魔法弾",
    "read": "   前方   消費{01}: 24\n{02}炎属性の広範囲魔法弾",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Forward  Cost: 24\nWide-area Fire magic shot",
+   "status": "done",
+   "tl": "Forward  Cost: 24\\nWide-area Fire magic shot"
   },
   {
    "id": "MAIN.EXE:39c0",
@@ -1195,8 +1302,9 @@
    "jp": "フレアスパイク",
    "read": "フレアスパイク",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Flare Spike",
+   "status": "done",
+   "tl": "Flare Spike"
   },
   {
    "id": "MAIN.EXE:39cc",
@@ -1206,8 +1314,9 @@
    "jp": "   前方   消費{01}: 15\n{02}炎属性の小範囲爆発弾",
    "read": "   前方   消費{01}: 15\n{02}炎属性の小範囲爆発弾",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Forward  Cost: 15\nSmall-area Fire blast shot",
+   "status": "done",
+   "tl": "Forward  Cost: 15\\nSmall-area Fire blast shot"
   },
   {
    "id": "MAIN.EXE:39f8",
@@ -1217,8 +1326,9 @@
    "jp": "   前方   消費{01}: 35\n{02}炎属性の広範囲爆発弾",
    "read": "   前方   消費{01}: 35\n{02}炎属性の広範囲爆発弾",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Forward  Cost: 35\nWide-area Fire blast shot",
+   "status": "done",
+   "tl": "Forward  Cost: 35\\nWide-area Fire blast shot"
   },
   {
    "id": "MAIN.EXE:3a24",
@@ -1228,8 +1338,9 @@
    "jp": "フレアハンマー",
    "read": "フレアハンマー",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Flare Hammer",
+   "status": "done",
+   "tl": "Flare Hammer"
   },
   {
    "id": "MAIN.EXE:3a30",
@@ -1239,8 +1350,9 @@
    "jp": "   前方   消費{01}: 4\n{02}炎属性の低速貫通弾",
    "read": "   前方   消費{01}: 4\n{02}炎属性の低速貫通弾",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Forward  Cost: 4\nSlow piercing Fire shot",
+   "status": "done",
+   "tl": "Forward  Cost: 4\\nSlow piercing Fire shot"
   },
   {
    "id": "MAIN.EXE:3a58",
@@ -1250,8 +1362,9 @@
    "jp": "フレアスリング",
    "read": "フレアスリング",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Flare Sling",
+   "status": "done",
+   "tl": "Flare Sling"
   },
   {
    "id": "MAIN.EXE:3a64",
@@ -1261,8 +1374,9 @@
    "jp": "   前方   消費{01}: 10\n{02}炎属性の高速貫通弾",
    "read": "   前方   消費{01}: 10\n{02}炎属性の高速貫通弾",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Forward  Cost: 10\nFast piercing Fire shot",
+   "status": "done",
+   "tl": "Forward  Cost: 10\\nFast piercing Fire shot"
   },
   {
    "id": "MAIN.EXE:3a8c",
@@ -1272,8 +1386,9 @@
    "jp": "フレアジャベリン",
    "read": "フレアジャベリン",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Flare Javelin",
+   "status": "done",
+   "tl": "Flare Javelin"
   },
   {
    "id": "MAIN.EXE:3a98",
@@ -1283,8 +1398,9 @@
    "jp": "   障 起     空 地\n{02}前方の{03}ユニット{02}を吸い寄せる柱",
    "read": "   障 起     空 地\n{02}前方の{03}ユニット{02}を吸い寄せる柱",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Obstacle Trigger Air Ground\nA pillar that draws in units ahead of it",
+   "status": "done",
+   "tl": "Obstacle Trigger Air Ground\\nA pillar that draws in units ahead of it"
   },
   {
    "id": "MAIN.EXE:3ac4",
@@ -1294,8 +1410,9 @@
    "jp": "バキューム1",
    "read": "バキューム1",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Vacuum 1",
+   "status": "done",
+   "tl": "Vacuum 1"
   },
   {
    "id": "MAIN.EXE:3ad0",
@@ -1305,8 +1422,9 @@
    "jp": "   前方直線 消費{01}: 40\n{02}炎属性の最高位攻撃魔法",
    "read": "   前方直線 消費{01}: 40\n{02}炎属性の最高位攻撃魔法",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Straight ahead  Cost: 40\nHighest-rank Fire attack magic",
+   "status": "done",
+   "tl": "Straight ahead  Cost: 40\\nHighest-rank Fire attack magic"
   },
   {
    "id": "MAIN.EXE:3b00",
@@ -1316,8 +1434,9 @@
    "jp": "   前方   消費{01}: 2\n{02}氷属性の魔法弾   ",
    "read": "   前方   消費{01}: 2\n{02}氷属性の魔法弾   ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Forward  Cost: 2\nIce magic shot",
+   "status": "done",
+   "tl": "Forward  Cost: 2\\nIce magic shot"
   },
   {
    "id": "MAIN.EXE:3b28",
@@ -1327,8 +1446,9 @@
    "jp": "   前方   消費{01}: 24\n{02}氷属性の広範囲魔法弾",
    "read": "   前方   消費{01}: 24\n{02}氷属性の広範囲魔法弾",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Forward  Cost: 24\nWide-area Ice magic shot",
+   "status": "done",
+   "tl": "Forward  Cost: 24\\nWide-area Ice magic shot"
   },
   {
    "id": "MAIN.EXE:3b54",
@@ -1338,8 +1458,9 @@
    "jp": "コルドスパイク",
    "read": "コルドスパイク",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Cold Spike",
+   "status": "done",
+   "tl": "Cold Spike"
   },
   {
    "id": "MAIN.EXE:3b60",
@@ -1349,8 +1470,9 @@
    "jp": "   前方   消費{01}: 15\n{02}氷属性の小範囲爆発弾",
    "read": "   前方   消費{01}: 15\n{02}氷属性の小範囲爆発弾",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Forward  Cost: 15\nSmall-area Ice blast shot",
+   "status": "done",
+   "tl": "Forward  Cost: 15\\nSmall-area Ice blast shot"
   },
   {
    "id": "MAIN.EXE:3b8c",
@@ -1360,8 +1482,9 @@
    "jp": "   前方   消費{01}: 35\n{02}氷属性の広範囲爆発弾",
    "read": "   前方   消費{01}: 35\n{02}氷属性の広範囲爆発弾",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Forward  Cost: 35\nWide-area Ice blast shot",
+   "status": "done",
+   "tl": "Forward  Cost: 35\\nWide-area Ice blast shot"
   },
   {
    "id": "MAIN.EXE:3bb8",
@@ -1371,8 +1494,9 @@
    "jp": "コルドハンマー",
    "read": "コルドハンマー",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Cold Hammer",
+   "status": "done",
+   "tl": "Cold Hammer"
   },
   {
    "id": "MAIN.EXE:3bc4",
@@ -1382,8 +1506,9 @@
    "jp": "   前方   消費{01}: 4\n{02}氷属性の低速貫通弾",
    "read": "   前方   消費{01}: 4\n{02}氷属性の低速貫通弾",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Forward  Cost: 4\nSlow piercing Ice shot",
+   "status": "done",
+   "tl": "Forward  Cost: 4\\nSlow piercing Ice shot"
   },
   {
    "id": "MAIN.EXE:3bec",
@@ -1393,8 +1518,9 @@
    "jp": "コルドスリング",
    "read": "コルドスリング",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Cold Sling",
+   "status": "done",
+   "tl": "Cold Sling"
   },
   {
    "id": "MAIN.EXE:3bf8",
@@ -1404,8 +1530,9 @@
    "jp": "   前方   消費{01}: 10\n{02}氷属性の高速貫通弾",
    "read": "   前方   消費{01}: 10\n{02}氷属性の高速貫通弾",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Forward  Cost: 10\nFast piercing Ice shot",
+   "status": "done",
+   "tl": "Forward  Cost: 10\\nFast piercing Ice shot"
   },
   {
    "id": "MAIN.EXE:3c20",
@@ -1415,8 +1542,9 @@
    "jp": "コルドジャベリン",
    "read": "コルドジャベリン",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Cold Javelin",
+   "status": "done",
+   "tl": "Cold Javelin"
   },
   {
    "id": "MAIN.EXE:3c2c",
@@ -1426,8 +1554,9 @@
    "jp": "   前方直線 消費{01}: 40\n{02}氷属性の最高位攻撃魔法",
    "read": "   前方直線 消費{01}: 40\n{02}氷属性の最高位攻撃魔法",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Straight ahead  Cost: 40\nHighest-rank Ice attack magic",
+   "status": "done",
+   "tl": "Straight ahead  Cost: 40\\nHighest-rank Ice attack magic"
   },
   {
    "id": "MAIN.EXE:3c5c",
@@ -1437,8 +1566,9 @@
    "jp": "   前方   消費{01}: 1\n{02}雷属性の魔法弾   ",
    "read": "   前方   消費{01}: 1\n{02}雷属性の魔法弾   ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Forward  Cost: 1\nLightning magic shot",
+   "status": "done",
+   "tl": "Forward  Cost: 1\\nLightning magic shot"
   },
   {
    "id": "MAIN.EXE:3c84",
@@ -1448,8 +1578,9 @@
    "jp": "   前方   消費{01}: 24\n{02}雷属性の広範囲魔法弾",
    "read": "   前方   消費{01}: 24\n{02}雷属性の広範囲魔法弾",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Forward  Cost: 24\nWide-area Lightning magic shot",
+   "status": "done",
+   "tl": "Forward  Cost: 24\\nWide-area Lightning magic shot"
   },
   {
    "id": "MAIN.EXE:3cb0",
@@ -1459,8 +1590,9 @@
    "jp": "ライトスパイク",
    "read": "ライトスパイク",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Light Spike",
+   "status": "done",
+   "tl": "Light Spike"
   },
   {
    "id": "MAIN.EXE:3cbc",
@@ -1470,8 +1602,9 @@
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}を凍らせる",
    "read": "     起     空 地\n{02}周囲の{03}ユニット{02}を凍らせる",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Trigger Air Ground\nFreezes nearby units",
+   "status": "done",
+   "tl": "Trigger Air Ground\\nFreezes nearby units"
   },
   {
    "id": "MAIN.EXE:3ce4",
@@ -1481,8 +1614,9 @@
    "jp": "   前方   消費{01}: 15\n{02}雷属性の小範囲爆発弾",
    "read": "   前方   消費{01}: 15\n{02}雷属性の小範囲爆発弾",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Forward  Cost: 15\nSmall-area Lightning blast shot",
+   "status": "done",
+   "tl": "Forward  Cost: 15\\nSmall-area Lightning blast shot"
   },
   {
    "id": "MAIN.EXE:3d10",
@@ -1492,8 +1626,9 @@
    "jp": "   前方   消費{01}: 35\n{02}雷属性の広範囲爆発弾",
    "read": "   前方   消費{01}: 35\n{02}雷属性の広範囲爆発弾",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Forward  Cost: 35\nWide-area Lightning blast shot",
+   "status": "done",
+   "tl": "Forward  Cost: 35\\nWide-area Lightning blast shot"
   },
   {
    "id": "MAIN.EXE:3d3c",
@@ -1503,8 +1638,9 @@
    "jp": "ライトハンマー",
    "read": "ライトハンマー",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Light Hammer",
+   "status": "done",
+   "tl": "Light Hammer"
   },
   {
    "id": "MAIN.EXE:3d48",
@@ -1514,8 +1650,9 @@
    "jp": "   前方   消費{01}: 4\n{02}雷属性の低速貫通弾",
    "read": "   前方   消費{01}: 4\n{02}雷属性の低速貫通弾",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Forward  Cost: 4\nSlow piercing Lightning shot",
+   "status": "done",
+   "tl": "Forward  Cost: 4\\nSlow piercing Lightning shot"
   },
   {
    "id": "MAIN.EXE:3d70",
@@ -1525,8 +1662,9 @@
    "jp": "ライトスリング",
    "read": "ライトスリング",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Light Sling",
+   "status": "done",
+   "tl": "Light Sling"
   },
   {
    "id": "MAIN.EXE:3d7c",
@@ -1536,8 +1674,9 @@
    "jp": "   前方   消費{01}: 10\n{02}雷属性の高速貫通弾",
    "read": "   前方   消費{01}: 10\n{02}雷属性の高速貫通弾",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Forward  Cost: 10\nFast piercing Lightning shot",
+   "status": "done",
+   "tl": "Forward  Cost: 10\\nFast piercing Lightning shot"
   },
   {
    "id": "MAIN.EXE:3da4",
@@ -1547,8 +1686,9 @@
    "jp": "ライトジャベリン",
    "read": "ライトジャベリン",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Light Javelin",
+   "status": "done",
+   "tl": "Light Javelin"
   },
   {
    "id": "MAIN.EXE:3db0",
@@ -1558,8 +1698,9 @@
    "jp": "   前方直線 消費{01}: 40\n{02}雷属性の最高位攻撃魔法",
    "read": "   前方直線 消費{01}: 40\n{02}雷属性の最高位攻撃魔法",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Straight ahead  Cost: 40\nHighest-rank Lightning attack magic",
+   "status": "done",
+   "tl": "Straight ahead  Cost: 40\\nHighest-rank Lightning attack magic"
   },
   {
    "id": "MAIN.EXE:3de0",
@@ -1580,8 +1721,9 @@
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に燃焼攻撃",
    "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に燃焼攻撃",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Obstacle Trigger Air Ground\nBurning attack by switch or after a drop",
+   "status": "done",
+   "tl": "Obstacle Trigger Air Ground\\nBurning attack by switch or after a drop"
   },
   {
    "id": "MAIN.EXE:3e50",
@@ -1591,8 +1733,9 @@
    "jp": "フレイムロック1",
    "read": "フレイムロック1",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Flame Rock 1",
+   "status": "done",
+   "tl": "Flame Rock 1"
   },
   {
    "id": "MAIN.EXE:91bdc",
@@ -1602,8 +1745,9 @@
    "jp": "オイル1",
    "read": "オイル1",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Oil 1",
+   "status": "done",
+   "tl": "Oil 1"
   },
   {
    "id": "MAIN.EXE:91be4",
@@ -1613,8 +1757,9 @@
    "jp": "サンダー1",
    "read": "サンダー1",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Thunder 1",
+   "status": "done",
+   "tl": "Thunder 1"
   },
   {
    "id": "MAIN.EXE:91bec",
@@ -1624,8 +1769,9 @@
    "jp": "ポール2",
    "read": "ポール2",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Pole 2",
+   "status": "done",
+   "tl": "Pole 2"
   },
   {
    "id": "MAIN.EXE:91bf4",
@@ -1635,8 +1781,9 @@
    "jp": "ポール3",
    "read": "ポール3",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Pole 3",
+   "status": "done",
+   "tl": "Pole 3"
   },
   {
    "id": "MAIN.EXE:91bfc",
@@ -1646,8 +1793,9 @@
    "jp": "ポール1",
    "read": "ポール1",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Pole 1",
+   "status": "done",
+   "tl": "Pole 1"
   },
   {
    "id": "MAIN.EXE:91c04",
@@ -1657,8 +1805,9 @@
    "jp": "サンダー2",
    "read": "サンダー2",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Thunder 2",
+   "status": "done",
+   "tl": "Thunder 2"
   },
   {
    "id": "MAIN.EXE:91c0c",
@@ -1668,8 +1817,9 @@
    "jp": "サンダー3",
    "read": "サンダー3",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Thunder 3",
+   "status": "done",
+   "tl": "Thunder 3"
   },
   {
    "id": "MAIN.EXE:91c14",
@@ -1679,8 +1829,9 @@
    "jp": "アイス2",
    "read": "アイス2",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Ice 2",
+   "status": "done",
+   "tl": "Ice 2"
   },
   {
    "id": "MAIN.EXE:91c1c",
@@ -1690,8 +1841,9 @@
    "jp": "アイス3",
    "read": "アイス3",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Ice 3",
+   "status": "done",
+   "tl": "Ice 3"
   },
   {
    "id": "MAIN.EXE:91c24",
@@ -1701,8 +1853,9 @@
    "jp": "オイル2",
    "read": "オイル2",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Oil 2",
+   "status": "done",
+   "tl": "Oil 2"
   },
   {
    "id": "MAIN.EXE:91c2c",
@@ -1712,8 +1865,9 @@
    "jp": "オイル3",
    "read": "オイル3",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Oil 3",
+   "status": "done",
+   "tl": "Oil 3"
   },
   {
    "id": "MAIN.EXE:91c34",
@@ -1723,8 +1877,9 @@
    "jp": "フレイム2",
    "read": "フレイム2",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Flame 2",
+   "status": "done",
+   "tl": "Flame 2"
   },
   {
    "id": "MAIN.EXE:91c3c",
@@ -1734,8 +1889,9 @@
    "jp": "フレイム3",
    "read": "フレイム3",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Flame 3",
+   "status": "done",
+   "tl": "Flame 3"
   },
   {
    "id": "MAIN.EXE:91c44",
@@ -1745,8 +1901,9 @@
    "jp": "フレイム1",
    "read": "フレイム1",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Flame 1",
+   "status": "done",
+   "tl": "Flame 1"
   },
   {
    "id": "MAIN.EXE:91c4c",
@@ -1756,8 +1913,9 @@
    "jp": "ヒールスター",
    "read": "ヒールスター",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Heal Star",
+   "status": "done",
+   "tl": "Heal Star"
   },
   {
    "id": "MAIN.EXE:91c54",
@@ -1767,8 +1925,9 @@
    "jp": "ヒールリング",
    "read": "ヒールリング",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Heal Ring",
+   "status": "done",
+   "tl": "Heal Ring"
   },
   {
    "id": "MAIN.EXE:91c5c",
@@ -1778,8 +1937,9 @@
    "jp": "ヒールオーブ",
    "read": "ヒールオーブ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Heal Orb",
+   "status": "done",
+   "tl": "Heal Orb"
   },
   {
    "id": "MAIN.EXE:91c64",
@@ -1789,8 +1949,9 @@
    "jp": "フレアランス",
    "read": "フレアランス",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Flare Lance",
+   "status": "done",
+   "tl": "Flare Lance"
   },
   {
    "id": "MAIN.EXE:91c6c",
@@ -1800,8 +1961,9 @@
    "jp": "フレアメイス",
    "read": "フレアメイス",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Flare Mace",
+   "status": "done",
+   "tl": "Flare Mace"
   },
   {
    "id": "MAIN.EXE:91c74",
@@ -1811,8 +1973,9 @@
    "jp": "フレアソード",
    "read": "フレアソード",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Flare Sword",
+   "status": "done",
+   "tl": "Flare Sword"
   },
   {
    "id": "MAIN.EXE:91c7c",
@@ -1822,8 +1985,9 @@
    "jp": "コルドランス",
    "read": "コルドランス",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Cold Lance",
+   "status": "done",
+   "tl": "Cold Lance"
   },
   {
    "id": "MAIN.EXE:91c84",
@@ -1833,8 +1997,9 @@
    "jp": "コルドメイス",
    "read": "コルドメイス",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Cold Mace",
+   "status": "done",
+   "tl": "Cold Mace"
   },
   {
    "id": "MAIN.EXE:91c8c",
@@ -1844,8 +2009,9 @@
    "jp": "コルドソード",
    "read": "コルドソード",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Cold Sword",
+   "status": "done",
+   "tl": "Cold Sword"
   },
   {
    "id": "MAIN.EXE:91c94",
@@ -1855,8 +2021,9 @@
    "jp": "ライトランス",
    "read": "ライトランス",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Light Lance",
+   "status": "done",
+   "tl": "Light Lance"
   },
   {
    "id": "MAIN.EXE:91c9c",
@@ -1866,8 +2033,9 @@
    "jp": "アイス1",
    "read": "アイス1",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Ice 1",
+   "status": "done",
+   "tl": "Ice 1"
   },
   {
    "id": "MAIN.EXE:91ca4",
@@ -1877,8 +2045,9 @@
    "jp": "ライトメイス",
    "read": "ライトメイス",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Light Mace",
+   "status": "done",
+   "tl": "Light Mace"
   },
   {
    "id": "MAIN.EXE:91cac",
@@ -1888,8 +2057,9 @@
    "jp": "ライトソード",
    "read": "ライトソード",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Light Sword",
+   "status": "done",
+   "tl": "Light Sword"
   },
   {
    "id": "MAIN.EXE:91cb4",
@@ -1899,8 +2069,9 @@
    "jp": "べホマラー",
    "read": "べホマラー",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Multiheal",
+   "status": "done",
+   "tl": "Multiheal"
   }
  ]
 }
