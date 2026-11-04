@@ -1,0 +1,2027 @@
+{
+ "source": "RES#23",
+ "kind": "scene",
+ "banks": [
+  {
+   "kind": "M4",
+   "at": 44440,
+   "parts": [
+    {
+     "kind": "glyph",
+     "at": 44456,
+     "size": 432,
+     "cells": 27
+    },
+    {
+     "kind": "M2",
+     "at": 44888,
+     "size": 4576,
+     "strings": 200
+    }
+   ]
+  }
+ ],
+ "strings": [
+  {
+   "id": "RES#23:b0f2",
+   "off": 45298,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e080}{e081}がある({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b0ff",
+   "off": 45311,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e080}{e081}がある({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b10c",
+   "off": 45324,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "なにがはいってるのかな。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b11e",
+   "off": 45342,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "{e080}{e081}だな。{e083}けてみるよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b133",
+   "off": 45363,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b13a",
+   "off": 45370,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "施錠はされてないようです。\n{e083}けてみます。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b158",
+   "off": 45400,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "じゃあ、{e083}けるぜ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b168",
+   "off": 45416,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "{e083}けてみるね。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b176",
+   "off": 45430,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e083}ける・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b183",
+   "off": 45443,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "{e083}けてみるね。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b191",
+   "off": 45457,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "じゃあ{e083}けてみます。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b1a2",
+   "off": 45474,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "中に入ってるのはあたしのだからね。\nじゃあ{e083}けるよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b1c5",
+   "off": 45509,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "じゃあ{e083}けてみます。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b1d6",
+   "off": 45526,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "{e083}けてみるわ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b1e4",
+   "off": 45540,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "・・・・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b1f0",
+   "off": 45552,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e083}けるわよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b1fd",
+   "off": 45565,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "{e083}けるよ・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b20b",
+   "off": 45579,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "じゃあ{e083}けるよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b21a",
+   "off": 45594,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "だ、誰も入っていませんよね・・・\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b233",
+   "off": 45619,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "じゃあ、{e083}けてみるね。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b245",
+   "off": 45637,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "{e086}の{e080}{e081}だ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b253",
+   "off": 45651,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "{e086}の{e080}{e081}だ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b261",
+   "off": 45665,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "もう{e083}いてるぞ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b270",
+   "off": 45680,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "もう{e083}いてるよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b27f",
+   "off": 45695,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "もう用はない・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b28f",
+   "off": 45711,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "もう{e086}のようです。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b29f",
+   "off": 45727,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "もういいだろ、ここは。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b2b0",
+   "off": 45744,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "もう{e083}いてるよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b2bf",
+   "off": 45759,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "すでに{e083}いている。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b2cf",
+   "off": 45775,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "もう{e083}いてるよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b2de",
+   "off": 45790,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "もう{e083}いてますよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b2ee",
+   "off": 45806,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "もうないじゃん。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b2fc",
+   "off": 45820,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "もう{e083}いてますよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b30c",
+   "off": 45836,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "もう{e083}いてるわ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b31b",
+   "off": 45851,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "もうなにもない。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b329",
+   "off": 45865,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "もうなにもないわ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b338",
+   "off": 45880,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "・・・・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b344",
+   "off": 45892,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "これなんだったんだろ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b355",
+   "off": 45909,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "{e086}ですよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b361",
+   "off": 45921,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "もう{e086}っぽだよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b370",
+   "off": 45936,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "床にスイッチがある({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b382",
+   "off": 45954,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "床にスイッチがある({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b394",
+   "off": 45972,
+   "len": 44,
+   "bank": "0.1",
+   "jp": "スイッチがあるぞ。\n上に物が乗ってるときだけ\n{e088}動するのかな。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b3c0",
+   "off": 46016,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "スイッチがある。\n上に物をのせたときだけ{e088}動する\nみたいだ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b3ea",
+   "off": 46058,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "何かおもりになる物を持って\nくればいい・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b409",
+   "off": 46089,
+   "len": 65,
+   "bank": "0.1",
+   "jp": "{83af}んだときのみ{e088}動するようです。\n何かおもりになる物はありませんか?\n軽い物では駄目なようです。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b44a",
+   "off": 46154,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "おもりになる物持ってこなくちゃな。\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b464",
+   "off": 46180,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "{83af}んだときに{e088}動する\nスイッチなんだね。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b483",
+   "off": 46211,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "おもりが必要だ・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b495",
+   "off": 46229,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "おもりが必要なのかな。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b4a8",
+   "off": 46248,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "おもりが必要なんですね。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b4bc",
+   "off": 46268,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "おもりがあればいいんだね。\n{10}のっててよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b4d7",
+   "off": 46295,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "おもりの出番ですよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b4e9",
+   "off": 46313,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "おもりが必要みたいね。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b4fc",
+   "off": 46332,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "―定以上の加童で{e088}動するようだな。\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b51c",
+   "off": 46364,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "かなり童たいスイッチね。\nおもりが必要だわ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b53d",
+   "off": 46397,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "・・・・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b549",
+   "off": 46409,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "おもりが必要なのかな。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b55c",
+   "off": 46428,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "おもりが必要なんですね。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b570",
+   "off": 46448,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "おもりが必要なのかな。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b583",
+   "off": 46467,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e089}{e08a}物B({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b590",
+   "off": 46480,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e089}{e08a}物B({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b59d",
+   "off": 46493,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e089}{e08a}物B({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b5aa",
+   "off": 46506,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e089}{e08a}物B({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b5b7",
+   "off": 46519,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e089}{e08a}物B({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b5c4",
+   "off": 46532,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e089}{e08a}物B({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b5d1",
+   "off": 46545,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e089}{e08a}物B({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b5de",
+   "off": 46558,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e089}{e08a}物B({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b5eb",
+   "off": 46571,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e089}{e08a}物B({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b5f8",
+   "off": 46584,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e089}{e08a}物B({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b605",
+   "off": 46597,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e089}{e08a}物B({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b612",
+   "off": 46610,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e089}{e08a}物B({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b61f",
+   "off": 46623,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e089}{e08a}物B({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b62c",
+   "off": 46636,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e089}{e08a}物B({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b639",
+   "off": 46649,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e089}{e08a}物B({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b646",
+   "off": 46662,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e089}{e08a}物B({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b653",
+   "off": 46675,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e089}{e08a}物B({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b660",
+   "off": 46688,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e089}{e08a}物B({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b66d",
+   "off": 46701,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e089}{e08a}物B({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b67a",
+   "off": 46714,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e089}{e08a}物B({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b687",
+   "off": 46727,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e08b}{e08c}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b691",
+   "off": 46737,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e08b}{e08c}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b69b",
+   "off": 46747,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e08b}{e08c}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b6a5",
+   "off": 46757,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e08b}{e08c}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b6af",
+   "off": 46767,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e08b}{e08c}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b6b9",
+   "off": 46777,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e08b}{e08c}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b6c3",
+   "off": 46787,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e08b}{e08c}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b6cd",
+   "off": 46797,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e08b}{e08c}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b6d7",
+   "off": 46807,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e08b}{e08c}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b6e1",
+   "off": 46817,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e08b}{e08c}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b6eb",
+   "off": 46827,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e08b}{e08c}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b6f5",
+   "off": 46837,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e08b}{e08c}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b6ff",
+   "off": 46847,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e08b}{e08c}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b709",
+   "off": 46857,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e08b}{e08c}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b713",
+   "off": 46867,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e08b}{e08c}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b71d",
+   "off": 46877,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e08b}{e08c}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b727",
+   "off": 46887,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e08b}{e08c}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b731",
+   "off": 46897,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e08b}{e08c}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b73b",
+   "off": 46907,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e08b}{e08c}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b745",
+   "off": 46917,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e08b}{e08c}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b74f",
+   "off": 46927,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b75f",
+   "off": 46943,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b76f",
+   "off": 46959,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b77f",
+   "off": 46975,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b78f",
+   "off": 46991,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b79f",
+   "off": 47007,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b7af",
+   "off": 47023,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b7bf",
+   "off": 47039,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b7cf",
+   "off": 47055,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b7df",
+   "off": 47071,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b7ef",
+   "off": 47087,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b7ff",
+   "off": 47103,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b80f",
+   "off": 47119,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b81f",
+   "off": 47135,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b82f",
+   "off": 47151,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b83f",
+   "off": 47167,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b84f",
+   "off": 47183,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b85f",
+   "off": 47199,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b86f",
+   "off": 47215,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b87f",
+   "off": 47231,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b88f",
+   "off": 47247,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b89e",
+   "off": 47262,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b8ad",
+   "off": 47277,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b8bc",
+   "off": 47292,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b8cb",
+   "off": 47307,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b8da",
+   "off": 47322,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b8e9",
+   "off": 47337,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b8f8",
+   "off": 47352,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b907",
+   "off": 47367,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b916",
+   "off": 47382,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b925",
+   "off": 47397,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b934",
+   "off": 47412,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b943",
+   "off": 47427,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b952",
+   "off": 47442,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b961",
+   "off": 47457,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b970",
+   "off": 47472,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b97f",
+   "off": 47487,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b98e",
+   "off": 47502,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b99d",
+   "off": 47517,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b9ac",
+   "off": 47532,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e08d}結ガスON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b9bb",
+   "off": 47547,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "({e082}){e08e}をともせば道は{e083}かれる",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b9d1",
+   "off": 47569,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "({e082}){e08e}をともせば道は{e083}かれる",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b9e7",
+   "off": 47591,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "({e082}){e08e}をともせば道は{e083}かれる",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:b9fd",
+   "off": 47613,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "({e082}){e08e}をともせば道は{e083}かれる",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:ba13",
+   "off": 47635,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "({e082}){e08e}をともせば道は{e083}かれる",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:ba29",
+   "off": 47657,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "({e082}){e08e}をともせば道は{e083}かれる",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:ba3f",
+   "off": 47679,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "({e082}){e08e}をともせば道は{e083}かれる",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:ba55",
+   "off": 47701,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "({e082}){e08e}をともせば道は{e083}かれる",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:ba6b",
+   "off": 47723,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "({e082}){e08e}をともせば道は{e083}かれる",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:ba81",
+   "off": 47745,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "({e082}){e08e}をともせば道は{e083}かれる",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:ba97",
+   "off": 47767,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "({e082}){e08e}をともせば道は{e083}かれる",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:baad",
+   "off": 47789,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "({e082}){e08e}をともせば道は{e083}かれる",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bac3",
+   "off": 47811,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "({e082}){e08e}をともせば道は{e083}かれる",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bad9",
+   "off": 47833,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "({e082}){e08e}をともせば道は{e083}かれる",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:baef",
+   "off": 47855,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "({e082}){e08e}をともせば道は{e083}かれる",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bb05",
+   "off": 47877,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "({e082}){e08e}をともせば道は{e083}かれる",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bb1b",
+   "off": 47899,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "({e082}){e08e}をともせば道は{e083}かれる",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bb31",
+   "off": 47921,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "({e082}){e08e}をともせば道は{e083}かれる",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bb47",
+   "off": 47943,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "({e082}){e08e}をともせば道は{e083}かれる",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bb5d",
+   "off": 47965,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "({e082}){e08e}をともせば道は{e083}かれる",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bb73",
+   "off": 47987,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "{e08f}い{e090}の{e091}がある({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bb84",
+   "off": 48004,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "{e08f}い{e090}の{e091}がある({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bb95",
+   "off": 48021,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "見た目ほど童くないぞ、これ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bbac",
+   "off": 48044,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "大きな{e090}{e091}だな。動かせそうだ。{1a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bbc6",
+   "off": 48070,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "{e090}で出来ている・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bbd9",
+   "off": 48089,
+   "len": 57,
+   "bank": "0.1",
+   "jp": "{e090}で出来ている{e091}体です。\n私の力でも運べるということは\n中は{e086}洞なのでしょうか。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bc12",
+   "off": 48146,
+   "len": 43,
+   "bank": "0.1",
+   "jp": "{e093}からすると転がせそうだけど、\n押し引きしかできねえみたいだな。\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bc3d",
+   "off": 48189,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "何かに{809c}えるかな・・・?({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bc51",
+   "off": 48209,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "{e090}{e091}だ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bc5d",
+   "off": 48221,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "{e090}で出来てるみたいだけど、\n見た目ほど童たくないね。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bc83",
+   "off": 48259,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "ただの{e090}{e091}ですよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bc94",
+   "off": 48276,
+   "len": 45,
+   "bank": "0.1",
+   "jp": "見た目ほど童たくないみたい。\nあたしでも押せそうだよ。\nやらないけど。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bcc1",
+   "off": 48321,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "中は{e086}洞らしいですね。\n君の頭みたいに。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bce0",
+   "off": 48352,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "ただの{e090}の{e091}。\n他に何が知りたいの?({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bcfd",
+   "off": 48381,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "不自然な{e091}体だ・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bd12",
+   "off": 48402,
+   "len": 85,
+   "bank": "0.1",
+   "jp": "中が{e086}洞で、{e090}の{e095}{8198}の厚さが\n1セーロ以下だとしても、\n持ち運びは困難な筈よ。({e082})\n不自然というよりもいい加減だわ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bd67",
+   "off": 48487,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "・・・・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bd73",
+   "off": 48499,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "大きい{e090}のボールだね。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bd88",
+   "off": 48520,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "大きな{e090}{e091}ですね。\n何かに{809c}えそうですか?({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bda8",
+   "off": 48552,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "大きいボールだね。\nどこかに運ぶの?({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bdc4",
+   "off": 48580,
+   "len": 55,
+   "bank": "0.1",
+   "jp": "{1c:63}{e097}{e098}の魔{e099}陣だ。\nこの魔{e099}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bdfb",
+   "off": 48635,
+   "len": 55,
+   "bank": "0.1",
+   "jp": "{1c:63}{e097}{e098}の魔{e099}陣だ。\nこの魔{e099}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:be32",
+   "off": 48690,
+   "len": 55,
+   "bank": "0.1",
+   "jp": "{1c:63}{e097}{e098}の魔{e099}陣だ。\nこの魔{e099}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:be69",
+   "off": 48745,
+   "len": 55,
+   "bank": "0.1",
+   "jp": "{1c:63}{e097}{e098}の魔{e099}陣だ。\nこの魔{e099}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bea0",
+   "off": 48800,
+   "len": 55,
+   "bank": "0.1",
+   "jp": "{1c:63}{e097}{e098}の魔{e099}陣だ。\nこの魔{e099}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bed7",
+   "off": 48855,
+   "len": 55,
+   "bank": "0.1",
+   "jp": "{1c:63}{e097}{e098}の魔{e099}陣だ。\nこの魔{e099}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bf0e",
+   "off": 48910,
+   "len": 55,
+   "bank": "0.1",
+   "jp": "{1c:63}{e097}{e098}の魔{e099}陣だ。\nこの魔{e099}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bf45",
+   "off": 48965,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bf46",
+   "off": 48966,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bf47",
+   "off": 48967,
+   "len": 55,
+   "bank": "0.1",
+   "jp": "{1c:63}{e097}{e098}の魔{e099}陣だ。\nこの魔{e099}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bf7e",
+   "off": 49022,
+   "len": 55,
+   "bank": "0.1",
+   "jp": "{1c:63}{e097}{e098}の魔{e099}陣だ。\nこの魔{e099}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bfb5",
+   "off": 49077,
+   "len": 55,
+   "bank": "0.1",
+   "jp": "{1c:63}{e097}{e098}の魔{e099}陣だ。\nこの魔{e099}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:bfec",
+   "off": 49132,
+   "len": 55,
+   "bank": "0.1",
+   "jp": "{1c:63}{e097}{e098}の魔{e099}陣だ。\nこの魔{e099}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:c023",
+   "off": 49187,
+   "len": 55,
+   "bank": "0.1",
+   "jp": "{1c:63}{e097}{e098}の魔{e099}陣だ。\nこの魔{e099}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:c05a",
+   "off": 49242,
+   "len": 55,
+   "bank": "0.1",
+   "jp": "{1c:63}{e097}{e098}の魔{e099}陣だ。\nこの魔{e099}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:c091",
+   "off": 49297,
+   "len": 55,
+   "bank": "0.1",
+   "jp": "{1c:63}{e097}{e098}の魔{e099}陣だ。\nこの魔{e099}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:c0c8",
+   "off": 49352,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:c0c9",
+   "off": 49353,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:c0ca",
+   "off": 49354,
+   "len": 55,
+   "bank": "0.1",
+   "jp": "{1c:63}{e097}{e098}の魔{e099}陣だ。\nこの魔{e099}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#23:c101",
+   "off": 49409,
+   "len": 55,
+   "bank": "0.1",
+   "jp": "{1c:63}{e097}{e098}の魔{e099}陣だ。\nこの魔{e099}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  }
+ ],
+ "entry": 23
+}

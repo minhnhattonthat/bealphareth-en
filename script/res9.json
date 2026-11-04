@@ -1,0 +1,3827 @@
+{
+ "source": "RES#9",
+ "kind": "scene",
+ "banks": [
+  {
+   "kind": "M4",
+   "at": 264868,
+   "parts": [
+    {
+     "kind": "glyph",
+     "at": 264884,
+     "size": 1536,
+     "cells": 96
+    },
+    {
+     "kind": "M2",
+     "at": 266420,
+     "size": 9332,
+     "strings": 380
+    }
+   ]
+  }
+ ],
+ "strings": [
+  {
+   "id": "RES#9:413b6",
+   "off": 267190,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{e080}{e081}がある",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:413be",
+   "off": 267198,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{e080}{e081}がある",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:413c6",
+   "off": 267206,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "なにがはいってるのかな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:413d3",
+   "off": 267219,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e080}{e081}だな。{e082}けてみるよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:413e3",
+   "off": 267235,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:413ea",
+   "off": 267242,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "施錠はされてないようです。\n{e082}けてみます。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41403",
+   "off": 267267,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "じゃあ、{e082}けるぜ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4140e",
+   "off": 267278,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{e082}けてみるね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41417",
+   "off": 267287,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{e082}ける・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4141f",
+   "off": 267295,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{e082}けてみるね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41428",
+   "off": 267304,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "じゃあ{e082}けてみます。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41434",
+   "off": 267316,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "中に入ってるのはあたしのだからね。\nじゃあ{e082}けるよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41452",
+   "off": 267346,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "じゃあ{e082}けてみます。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4145e",
+   "off": 267358,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{e082}けてみるわ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41467",
+   "off": 267367,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4146e",
+   "off": 267374,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{e082}けるわよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41476",
+   "off": 267382,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{e082}けるよ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4147f",
+   "off": 267391,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "じゃあ{e082}けるよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41489",
+   "off": 267401,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "だ、誰も入っていませんよね・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4149c",
+   "off": 267420,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "じゃあ、{e082}けてみるね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:414a9",
+   "off": 267433,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{e085}の{e080}{e081}だ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:414b2",
+   "off": 267442,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{e085}の{e080}{e081}だ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:414bb",
+   "off": 267451,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "もう{e082}いてるぞ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:414c5",
+   "off": 267461,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "もう{e082}いてるよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:414cf",
+   "off": 267471,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "もう用はない・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:414da",
+   "off": 267482,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "もう{e085}のようです。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:414e5",
+   "off": 267493,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "もういいだろ、ここは。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:414f1",
+   "off": 267505,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "もう{e082}いてるよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:414fb",
+   "off": 267515,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "すでに{e082}いている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41506",
+   "off": 267526,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "もう{e082}いてるよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41510",
+   "off": 267536,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "もう{e082}いてますよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4151b",
+   "off": 267547,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "もうないじゃん。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41524",
+   "off": 267556,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "もう{e082}いてますよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4152f",
+   "off": 267567,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "もう{e082}いてるわ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41539",
+   "off": 267577,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "もうなにもない。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41542",
+   "off": 267586,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "もうなにもないわ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4154c",
+   "off": 267596,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41553",
+   "off": 267603,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "これなんだったんだろ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4155f",
+   "off": 267615,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "{e085}ですよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41566",
+   "off": 267622,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "もう{e085}っぽだよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41570",
+   "off": 267632,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "変わったスイッチがある。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41580",
+   "off": 267648,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "変わったスイッチがある。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41590",
+   "off": 267664,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "ここ押してみるよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4159b",
+   "off": 267675,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "変わった{e086}のスイッチだな。\n押してみるよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:415b6",
+   "off": 267702,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "押してみる・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:415c0",
+   "off": 267712,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "なにかのスイッチになってるようです。\n押してみます。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:415de",
+   "off": 267742,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "押してみるぜ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:415e7",
+   "off": 267751,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "押してみるね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:415f0",
+   "off": 267760,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "押してみる・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:415fa",
+   "off": 267770,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "押してみるね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41603",
+   "off": 267779,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "押してみますよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4160d",
+   "off": 267789,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "押すよ。\n大{8095}夫、なるようになるって。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41625",
+   "off": 267813,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "どうしてこのぼくが\nこんな下っ端の仕辜を・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41641",
+   "off": 267841,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "押すわよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41648",
+   "off": 267848,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "時差{e088}のスイッチだな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41659",
+   "off": 267865,
+   "len": 50,
+   "bank": "0.1",
+   "jp": "巻き上げ機になってるのね。\n原理は単純だけど、{e08b}りは{e08c}密ね。\n押してみるわ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4168b",
+   "off": 267915,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41692",
+   "off": 267922,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "押してみるね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4169b",
+   "off": 267931,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "押してみます。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:416a4",
+   "off": 267940,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "押してみるね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:416ad",
+   "off": 267949,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "変わったスイッチがある。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:416bd",
+   "off": 267965,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "変わったスイッチがある。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:416cd",
+   "off": 267981,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "もう引っ{e08e}んじゃって動かせそうにないぞ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:416e5",
+   "off": 268005,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "{80ed}せそうにないな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:416f0",
+   "off": 268016,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "無理か・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:416f9",
+   "off": 268025,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "もう動かせそうにはありません。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4170a",
+   "off": 268042,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "もう動きそうにねえぞ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41717",
+   "off": 268055,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "もう動きそうにないよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41724",
+   "off": 268068,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "すまん、動かない・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41731",
+   "off": 268081,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "何をやっても動かないよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41740",
+   "off": 268096,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "これ、本当に動くんですか?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41752",
+   "off": 268114,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "何やっても動かないよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41760",
+   "off": 268128,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "これ、本当に動くんですか?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41772",
+   "off": 268146,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "動かないわ。\n文句があるなら自{8198}でやれば?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4178e",
+   "off": 268174,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "もう動かない。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41797",
+   "off": 268183,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "ここじゃ解除できないようね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:417a8",
+   "off": 268200,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:417af",
+   "off": 268207,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "もう動きそうにないよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:417bc",
+   "off": 268220,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "もう動きそうにありません。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:417cb",
+   "off": 268235,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "もう動きそうにないよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:417d8",
+   "off": 268248,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "スイッチがある",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:417e2",
+   "off": 268258,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "スイッチがある",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:417ec",
+   "off": 268268,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "押してみるぞ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:417f5",
+   "off": 268277,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "押してみる。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:417fd",
+   "off": 268285,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41804",
+   "off": 268292,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "押してみます。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4180d",
+   "off": 268301,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "なら押すぜ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41815",
+   "off": 268309,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "押してみるね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4181e",
+   "off": 268318,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41825",
+   "off": 268325,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "じゃあ押してみるね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41831",
+   "off": 268337,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "押してみます。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4183a",
+   "off": 268346,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "なら押すよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41842",
+   "off": 268354,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "どうしてこのぼくが\nこんな下っ端の仕辜を・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4185e",
+   "off": 268382,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "いいのね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41864",
+   "off": 268388,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4186b",
+   "off": 268395,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "じゃあ押すわよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41875",
+   "off": 268405,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4187c",
+   "off": 268412,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "押してみるね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41885",
+   "off": 268421,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "押します。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4188c",
+   "off": 268428,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "じゃあ押してみるよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41898",
+   "off": 268440,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "床にスイッチがある",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:418a5",
+   "off": 268453,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "床にスイッチがある",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:418b2",
+   "off": 268466,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "スイッチがあるぞ。\n上に物が乗ってるときだけ\n{e08b}動するやつだぞ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:418da",
+   "off": 268506,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "スイッチがある。\n上に物をのせたときだけ{e08b}動するぞ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:418fb",
+   "off": 268539,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "何かおもりになる物を持って\nくればいい・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41915",
+   "off": 268565,
+   "len": 62,
+   "bank": "0.1",
+   "jp": "{83af}んだときのみ{e08b}動する装{e092}です。\n何かおもりになる物はありませんか?\n軽い物では駄目なようです。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41953",
+   "off": 268627,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "おもりになる物持ってこなくちゃな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41967",
+   "off": 268647,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "{83af}んだときに{e08b}動する\nスイッチだよね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41980",
+   "off": 268672,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "おもりが必要だ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4198d",
+   "off": 268685,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "おもりが必要なんだよね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4199c",
+   "off": 268700,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "おもりが必要なんですね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:419ab",
+   "off": 268715,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{10}のっててよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:419b3",
+   "off": 268723,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "おもりの出番ですよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:419c0",
+   "off": 268736,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "おもりが必要みたいね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:419ce",
+   "off": 268750,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "―定以上の加童で{e08b}動する装{e092}だ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:419e9",
+   "off": 268777,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "―定以上の加童が必要ね。\nこれも軽い物ではむりだわ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41a0e",
+   "off": 268814,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41a15",
+   "off": 268821,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "おもりが必要なんだよね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41a24",
+   "off": 268836,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "おもりが必要なんですよね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41a34",
+   "off": 268852,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "おもりが必要なんだよね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41a43",
+   "off": 268867,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "地面に{e093}がある",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41a4e",
+   "off": 268878,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "地面に{e093}がある",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41a59",
+   "off": 268889,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "板みたいなのが出てくる{e093}だな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41a6c",
+   "off": 268908,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ここから薄い{e096}が出てくるんだろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41a81",
+   "off": 268929,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "何もない・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41a8a",
+   "off": 268938,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "薄い{e096}が出てくる{e093}ですね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41a9c",
+   "off": 268956,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "こんなのに用はねえだろ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41aaa",
+   "off": 268970,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "薄い{e096}が出てくる{e093}だね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41abb",
+   "off": 268987,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "ただの{e093}だ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41ac5",
+   "off": 268997,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "薄い{e096}が出てくる{e093}だよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41ad6",
+   "off": 269014,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "ただの{e093}ですよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41ae0",
+   "off": 269024,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "薄い{e096}が出てくる{e093}でしょ?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41af3",
+   "off": 269043,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "ただの{e093}ですよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41afd",
+   "off": 269053,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "手の{e08e}んだ玩具ね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41b0b",
+   "off": 269067,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e096}の{e098}まっている{e093}だ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41b1a",
+   "off": 269082,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e096}の{e098}まっている{e093}ね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41b29",
+   "off": 269097,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41b30",
+   "off": 269104,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "薄い{e096}がはいってるんだよね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41b41",
+   "off": 269121,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "もうなにもないですよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41b4d",
+   "off": 269133,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "薄い{e096}が出てくる{e093}だよね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41b5f",
+   "off": 269151,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "不思{e099}な{e096}がある",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41b6c",
+   "off": 269164,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "不思{e099}な{e096}がある",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41b79",
+   "off": 269177,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "薄いくせに圃いなあ。\nなにで出来てるんだろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41b95",
+   "off": 269205,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "不思{e099}な{e096}だな・・・\n―体何で出来ているんだろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41bb8",
+   "off": 269240,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "他のところを{e09a}せ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41bc6",
+   "off": 269254,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "どこかにスイッチがあるはずです。\nそれを{e09b}しましょう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41be5",
+   "off": 269285,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "圃えな。\nとてもじゃねえが壊れそうにねえぜ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41bfe",
+   "off": 269310,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "なにで出来てるんだろう・・・\n{e09d}{e09e}でもないみたい・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41c1e",
+   "off": 269342,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "ただの{e09f}だ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41c28",
+   "off": 269352,
+   "len": 44,
+   "bank": "0.1",
+   "jp": "こんなに薄いのに壊れも\n曲がりもしないよ。\n―体なにで出来てるんだろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41c54",
+   "off": 269396,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "ただの{e096}ですよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41c5e",
+   "off": 269406,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "はやく次いこ!\nどうせどこかにスイッチが\nあるんだからさ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41c81",
+   "off": 269441,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "ただの{e096}ですよ。\n見たらわかりませんか?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41c99",
+   "off": 269465,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "手の{e08e}んだ玩具ね。\nま、ゆっくりスイッチを{e09b}しましょ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41cbc",
+   "off": 269500,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "不{e0a1}解な{e0a2}質だ・・・\nもう地上の{e0a4}識は{e0a5}用しないか・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41ce4",
+   "off": 269540,
+   "len": 51,
+   "bank": "0.1",
+   "jp": "―体なにで出来てるの?\n{e09d}{e09e}だけでなく、\n生物の{e0a6}徴も備えてるなんて・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41d17",
+   "off": 269591,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41d1e",
+   "off": 269598,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "びくともしないよ。\n壊すのは無理じゃないかな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41d39",
+   "off": 269625,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "びくともしないです。\nスイッチを{e09b}しませんか?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41d55",
+   "off": 269653,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "不思{e099}な{e096}だね。\n何でできてるのかな・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41d70",
+   "off": 269680,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "不思{e099}な床がある",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41d7d",
+   "off": 269693,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "不思{e099}な床がある",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41d8a",
+   "off": 269706,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "なにが{e0a8}ってるんだろう・・・\nさっぱりわからないよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41da6",
+   "off": 269734,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "まぶしいな。\nなにかの装{e092}なんだろうか。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41dbd",
+   "off": 269757,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "興味ない・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41dc7",
+   "off": 269767,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "魔物のいた台のようです。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41dd7",
+   "off": 269783,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "ただの床だろ。\nこんなのに悩んでたら、\n時{8196}がいくらあっても足りねえぜ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41e01",
+   "off": 269825,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "きれいな{e0a8}だね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41e0b",
+   "off": 269835,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41e12",
+   "off": 269842,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "さっき魔物がいた床だよね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41e23",
+   "off": 269859,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "なんでしょうかね、わかりません。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41e34",
+   "off": 269876,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "さっき魔物がいた床でしょ?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41e46",
+   "off": 269894,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "そろそろぼくに意見を求めるのも\n{e0ab}めたらどうです?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41e65",
+   "off": 269925,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "{e0a6}に閤係ないんじゃない?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41e76",
+   "off": 269942,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "先の魔物がいた場所か・・・\n動力源というわけでもなさそうだな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41e9e",
+   "off": 269982,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "先の魔物がいた場所ね。\n{e0a6}に変わったところはないわ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41ec0",
+   "off": 270016,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41ec7",
+   "off": 270023,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "なにが{e0a8}ってるんだろう・・・\nきれいな{e0a8}だね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41ee1",
+   "off": 270049,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "何が{e0a8}ってるんでしょうか・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41ef3",
+   "off": 270067,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "きれいな{e0a8}だね。\nなにが{e0a8}ってるのかな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41f0a",
+   "off": 270090,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "不思{e099}な{e09f}がある",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41f17",
+   "off": 270103,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "不思{e099}な{e09f}がある",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41f24",
+   "off": 270116,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "{e0ad}ん中の{e0ae}{8198}、{e085}中に浮いてるよ。\nどうやって浮いてるんだろう・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41f4e",
+   "off": 270158,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "中段のパーツが浮いてる・・・\nどうやって浮いてるんだろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41f72",
+   "off": 270194,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "興味ない・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41f7c",
+   "off": 270204,
+   "len": 59,
+   "bank": "0.1",
+   "jp": "中央のパーツは、力を加えた側の\n反{80c7}側に動くようです。\nなにかに利用できるかもしれません。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41fb7",
+   "off": 270263,
+   "len": 50,
+   "bank": "0.1",
+   "jp": "攻撃したら、{e0ad}ん中のところが\n反{80c7}側に{e0b3}び出すのか。\n何かに{809c}えるかな・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:41fe9",
+   "off": 270313,
+   "len": 41,
+   "bank": "0.1",
+   "jp": "{e0ad}ん中の{e0ae}{8198}が{e085}中に浮いてるよ。\nどうやって浮かんでるんだろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42012",
+   "off": 270354,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "ただの{e09f}だ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4201c",
+   "off": 270364,
+   "len": 59,
+   "bank": "0.1",
+   "jp": "この{e09f}の{e0ad}ん中の{e0ae}{8198}って、\n攻撃したら反{80c7}側に{e0b3}び出すんだね。\n何かに利用できるかな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42057",
+   "off": 270423,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "興味ないです。次行きません?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4206b",
+   "off": 270443,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "面倒くさいよ。はやく次いこ!",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4207e",
+   "off": 270462,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "そろそろぼくに意見を求めるのも\n{e0ab}めたらどうです?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4209d",
+   "off": 270493,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "何かに{809c}えそうだけど、\nあたしは面倒くさいからパスね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:420bf",
+   "off": 270527,
+   "len": 46,
+   "bank": "0.1",
+   "jp": "磁力という訳ではなさそうだな。\nここだけ童力の概念がないと\nいうことか・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:420ed",
+   "off": 270573,
+   "len": 53,
+   "bank": "0.1",
+   "jp": "中央のパーツは、力を加えた側の\n反{80c7}側に動くようね。\nなにかに利用してみる?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42122",
+   "off": 270626,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42129",
+   "off": 270633,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "どうやって浮いてるんだろう・・・\nふしぎだね。こんなに童そうなのに。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4214e",
+   "off": 270670,
+   "len": 59,
+   "bank": "0.1",
+   "jp": "―{e0b6}、目の{e0b7}覚かと思いました。\nこの{e0ad}ん中の{e0ae}{8198}、―体どうやって\n浮いてるんでしょう・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42189",
+   "off": 270729,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "{e0ad}ん中のリング、浮いてるよ。\nどうやって浮いてるのかな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:421ac",
+   "off": 270764,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "{e09f}の―{e0ae}{8198}が壊れて落ちている",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:421c1",
+   "off": 270785,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "{e09f}の―{e0ae}{8198}が壊れて落ちている",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:421d6",
+   "off": 270806,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "これなら動かせそうだぞ。\n何かに{809c}えるかな?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:421f1",
+   "off": 270833,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "{e09f}が壊れている。\nこんな童たいものが\n{e085}中にあったなんて・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42216",
+   "off": 270870,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4221d",
+   "off": 270877,
+   "len": 72,
+   "bank": "0.1",
+   "jp": "{e09f}の上の{e0ae}{8198}のようですね。\n壊されたというより、\n役目を終えて崩れ落ちたような・・・\nもう随{8198}昔に壊れたようです。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42265",
+   "off": 270949,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "なんだ、童たいかと思ったけど、\nこれくらいなら運べそうだぜ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42287",
+   "off": 270983,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "{e09f}が壊れて落ちてきたんだね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42299",
+   "off": 271001,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:422a0",
+   "off": 271008,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "もう随{8198}前に壊れたみたい・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:422b4",
+   "off": 271028,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "これくらいなら運べそうですね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:422c5",
+   "off": 271045,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "はやく次いこ!",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:422cf",
+   "off": 271055,
+   "len": 46,
+   "bank": "0.1",
+   "jp": "これなら運べそうですね。\nじゃあ君に任せます。\n力仕辜は君の役目ですよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:422fd",
+   "off": 271101,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "何かに{809c}えそうだけど、\nあたしは面倒くさいからパスね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4231f",
+   "off": 271135,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "童{e0bb}は予{e0bc}以上に軽いな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42333",
+   "off": 271155,
+   "len": 50,
+   "bank": "0.1",
+   "jp": "もう随{8198}昔に{e0bd}壊されたようね。\nこんな圃い物を\nどうやって{e0bd}壊したのかしら・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42365",
+   "off": 271205,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4236c",
+   "off": 271212,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "{e09f}が壊れて落ちてきたんだね。\nこれくらいなら動かせるかな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4238e",
+   "off": 271246,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "{e09f}が壊れたんですね。\n―体誰が壊したのでしょうか?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:423af",
+   "off": 271279,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "もう随{8198}前に壊されたみたいだよ。\n誰が壊したんだろう・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:423d3",
+   "off": 271315,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e09f}が壊れている",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:423dd",
+   "off": 271325,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e09f}が壊れている",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:423e7",
+   "off": 271335,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "誰がこんな圃い{e09f}\n壊したんだろう・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:423ff",
+   "off": 271359,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "{e09f}が壊れている。\nどうやってこんな圃い物を・・・?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4241e",
+   "off": 271390,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "ただのゴミだ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4242a",
+   "off": 271402,
+   "len": 57,
+   "bank": "0.1",
+   "jp": "これも壊されたというより、\n役目を終えて崩れ落ちたような・・・\nもう随{8198}昔に壊れたようです。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42463",
+   "off": 271459,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "こっちはかなり童たそうだぜ。\nびくともしねえや。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4247d",
+   "off": 271485,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "{e09f}が壊れて落ちてきたんだね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4248f",
+   "off": 271503,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42496",
+   "off": 271510,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "もう随{8198}前に壊されたみたい・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:424ab",
+   "off": 271531,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "ただの壊れた{e09f}ですよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:424b9",
+   "off": 271545,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "こんなの見てもなんにもならないよ。\nはやく次いこ!",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:424d6",
+   "off": 271574,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "ただの壊れた{e09f}ですよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:424e4",
+   "off": 271588,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "何かに{809c}えそうだけど、\nあたしは面倒くさいからパスね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42506",
+   "off": 271622,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "機{e0be}が停止して、すでに何百{e0c1}も\n経過しているようだ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4252c",
+   "off": 271660,
+   "len": 50,
+   "bank": "0.1",
+   "jp": "もう随{8198}昔に{e0bd}壊されたようね。\nこんな圃い物を\nどうやって{e0bd}壊したのかしら・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4255e",
+   "off": 271710,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42565",
+   "off": 271717,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "{e09f}が壊れて落ちてきたんだね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42577",
+   "off": 271735,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "{e09f}が壊れたんですね。\n―体誰が壊したのでしょうか?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42598",
+   "off": 271768,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "もう随{8198}前に壊されたみたいだよ。\n誰が壊したんだろう・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:425bc",
+   "off": 271804,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "不思{e099}な{e0a8}がある",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:425c9",
+   "off": 271817,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "不思{e099}な{e0a8}がある",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:425d6",
+   "off": 271830,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "いたくないよ、これ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:425e1",
+   "off": 271841,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "何の{e0a8}なんだろう。\n前に立つとそれも消えるみたいだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42601",
+   "off": 271873,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42608",
+   "off": 271880,
+   "len": 53,
+   "bank": "0.1",
+   "jp": "{e0c2}{e0bb}もさほどありません、\nただの{e0a8}のようです。\n前に立つとその{e096}の{e0a8}も\n消えるようです。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4263d",
+   "off": 271933,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "なあんだ、この{e0a8}、痛そうなのに\n全然痛くねえぞ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4265b",
+   "off": 271963,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "何の{e0a8}なんだろう、全然{e0c2}くないよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42672",
+   "off": 271986,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "・・・・・・?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4267b",
+   "off": 271995,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "この{e0a8}と、その{e096}の装{e092}って\nなにか閤係があるのかな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4269c",
+   "off": 272028,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "痛くないですね。拍子抜けです。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:426b0",
+   "off": 272048,
+   "len": 57,
+   "bank": "0.1",
+   "jp": "この{e0a8}の邪魔すると、\nそこの{e0a8}も消えるみたいだね。\nだからってずっと立ってろ\nなんて言わないでよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:426e9",
+   "off": 272105,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "痛くないですね。拍子抜けです。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:426fd",
+   "off": 272125,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "いい加減あたしに聞くの{e0ab}めたら?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42713",
+   "off": 272147,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "{e0a8}を遮断することで\n何かの機{e0be}が停止するのか・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42735",
+   "off": 272181,
+   "len": 60,
+   "bank": "0.1",
+   "jp": "この{e0a8}とその{e096}の{e0a8}は\n{e0c5}動しているのね。\n効果は{e0c6}知{e0c7}だけど、\n調べてみる価値はありそうね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42771",
+   "off": 272241,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42778",
+   "off": 272248,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "きれいな{e0a8}だね。\nなんのためにこんなものを\n用意したのかな?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4279b",
+   "off": 272283,
+   "len": 41,
+   "bank": "0.1",
+   "jp": "大{8095}夫みたいですよ。\n全然痛くないです。\nちょっと怖かったですが、",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:427c4",
+   "off": 272324,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "きれいな{e0a8}だね。\nこれを止めたらどうなるのかな?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:427e0",
+   "off": 272352,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "不思{e099}な{e096}だ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:427eb",
+   "off": 272363,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "不思{e099}な{e096}だ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:427f6",
+   "off": 272374,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "何かの模様なのかな?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42805",
+   "off": 272389,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "古{e0cb}文{e0cc}なのかな?\nよくわからない。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4281e",
+   "off": 272414,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42825",
+   "off": 272421,
+   "len": 127,
+   "bank": "0.1",
+   "jp": "古{e0cb}文{e0cc}なのでしょうか・・・?\nクムランさんの本の中にあった\nマルカ文{e0cc}に似ている気がします。{1a}そういえば、このフロアにいる\n小さい方の魔物も\nこれと似たような文{e0cc}を浮かび\n上がらせていましたが・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:428a4",
+   "off": 272548,
+   "len": 57,
+   "bank": "0.1",
+   "jp": "なんだ? どこかで見たことあるぜ。\nそうだ、さっき小さいヤツが\n魔{e0cd}唱えるときに出してたぞ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:428dd",
+   "off": 272605,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "何の模様なんだろう・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:428ed",
+   "off": 272621,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "・・・・・・?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:428f6",
+   "off": 272630,
+   "len": 54,
+   "bank": "0.1",
+   "jp": "古{e0cb}文{e0cc}なのかな・・・\nさっき、小さい方の魔物も\nこれと同じ模様出してたよね・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4292c",
+   "off": 272684,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "先の魔物もこれと同じ模様\n出してたような・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4294b",
+   "off": 272715,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "ところでさ、\nこの模様どこかで見たことない?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42966",
+   "off": 272742,
+   "len": 67,
+   "bank": "0.1",
+   "jp": "ぼくに意見を求めないで下さい。\nもし{e0cf}に知っていたとしても、\n君のために{e0ad}面目に答える気は\nありませんから。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:429a9",
+   "off": 272809,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "いい加減あたしに聞くの{e0ab}めたら?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:429bf",
+   "off": 272831,
+   "len": 51,
+   "bank": "0.1",
+   "jp": "マルカ文{e0cc}の流れを汲む文{e0cc}の\nようだな。\nアジェイル、{e0d2}みを指す言{e0d3}だ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:429f2",
+   "off": 272882,
+   "len": 69,
+   "bank": "0.1",
+   "jp": "マルカ文{e0cc}の流れを汲む文{e0cc}ね。\nアジェイル・・・{e0d2}みという意味よ。\n{e0d4}佐する者、という意味もあるわ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42a37",
+   "off": 272951,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42a3e",
+   "off": 272958,
+   "len": 54,
+   "bank": "0.1",
+   "jp": "古{e0cb}文{e0cc}なのかな・・・\nさっき、小さい方の魔物も\nこれと同じ模様出してたよね・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42a74",
+   "off": 273012,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "古{e0cb}文{e0cc}のようですね。\nどこかで見たような・・・\n気のせいですね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42a9c",
+   "off": 273052,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "古{e0cb}文{e0cc}なのかな?\nどこかで見たような気が\nするんだけど・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42ac4",
+   "off": 273092,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d6}が道をふさいでいる。\nどこかに{e0d6}を下げる装{e092}が\nあるはずだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42aec",
+   "off": 273132,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d6}が道をふさいでいる。\nどこかに{e0d6}を下げる装{e092}が\nあるはずだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42b14",
+   "off": 273172,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d6}が道をふさいでいる。\nどこかに{e0d6}を下げる装{e092}が\nあるはずだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42b3c",
+   "off": 273212,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d6}が道をふさいでいる。\nどこかに{e0d6}を下げる装{e092}が\nあるはずだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42b64",
+   "off": 273252,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d6}が道をふさいでいる。\nどこかに{e0d6}を下げる装{e092}が\nあるはずだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42b8c",
+   "off": 273292,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d6}が道をふさいでいる。\nどこかに{e0d6}を下げる装{e092}が\nあるはずだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42bb4",
+   "off": 273332,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d6}が道をふさいでいる。\nどこかに{e0d6}を下げる装{e092}が\nあるはずだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42bdc",
+   "off": 273372,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42bdd",
+   "off": 273373,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42bde",
+   "off": 273374,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d6}が道をふさいでいる。\nどこかに{e0d6}を下げる装{e092}が\nあるはずだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42c06",
+   "off": 273414,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d6}が道をふさいでいる。\nどこかに{e0d6}を下げる装{e092}が\nあるはずだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42c2e",
+   "off": 273454,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d6}が道をふさいでいる。\nどこかに{e0d6}を下げる装{e092}が\nあるはずだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42c56",
+   "off": 273494,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d6}が道をふさいでいる。\nどこかに{e0d6}を下げる装{e092}が\nあるはずだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42c7e",
+   "off": 273534,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d6}が道をふさいでいる。\nどこかに{e0d6}を下げる装{e092}が\nあるはずだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42ca6",
+   "off": 273574,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d6}が道をふさいでいる。\nどこかに{e0d6}を下げる装{e092}が\nあるはずだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42cce",
+   "off": 273614,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d6}が道をふさいでいる。\nどこかに{e0d6}を下げる装{e092}が\nあるはずだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42cf6",
+   "off": 273654,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42cf7",
+   "off": 273655,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42cf8",
+   "off": 273656,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d6}が道をふさいでいる。\nどこかに{e0d6}を下げる装{e092}が\nあるはずだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42d20",
+   "off": 273696,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d6}が道をふさいでいる。\nどこかに{e0d6}を下げる装{e092}が\nあるはずだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42d48",
+   "off": 273736,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d7}が溜まっている。\n結樺もろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42d64",
+   "off": 273764,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d7}が溜まっている。\n結樺もろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42d80",
+   "off": 273792,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d7}が溜まっている。\n結樺もろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42d9c",
+   "off": 273820,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d7}が溜まっている。\n結樺もろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42db8",
+   "off": 273848,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d7}が溜まっている。\n結樺もろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42dd4",
+   "off": 273876,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d7}が溜まっている。\n結樺もろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42df0",
+   "off": 273904,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d7}が溜まっている。\n結樺もろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42e0c",
+   "off": 273932,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42e0d",
+   "off": 273933,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42e0e",
+   "off": 273934,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d7}が溜まっている。\n結樺もろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42e2a",
+   "off": 273962,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d7}が溜まっている。\n結樺もろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42e46",
+   "off": 273990,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d7}が溜まっている。\n結樺もろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42e62",
+   "off": 274018,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d7}が溜まっている。\n結樺もろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42e7e",
+   "off": 274046,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d7}が溜まっている。\n結樺もろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42e9a",
+   "off": 274074,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d7}が溜まっている。\n結樺もろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42eb6",
+   "off": 274102,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d7}が溜まっている。\n結樺もろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42ed2",
+   "off": 274130,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42ed3",
+   "off": 274131,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42ed4",
+   "off": 274132,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d7}が溜まっている。\n結樺もろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42ef0",
+   "off": 274160,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0d7}が溜まっている。\n結樺もろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42f0c",
+   "off": 274188,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "{1c:63}焚き{e0da}だ。\n魔物達が{809c}用しているらしい。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42f2a",
+   "off": 274218,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "{1c:63}焚き{e0da}だ。\n魔物達が{809c}用しているらしい。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42f48",
+   "off": 274248,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "{1c:63}焚き{e0da}だ。\n魔物達が{809c}用しているらしい。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42f66",
+   "off": 274278,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "{1c:63}焚き{e0da}だ。\n魔物達が{809c}用しているらしい。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42f84",
+   "off": 274308,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "{1c:63}焚き{e0da}だ。\n魔物達が{809c}用しているらしい。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42fa2",
+   "off": 274338,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "{1c:63}焚き{e0da}だ。\n魔物達が{809c}用しているらしい。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42fc0",
+   "off": 274368,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "{1c:63}焚き{e0da}だ。\n魔物達が{809c}用しているらしい。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42fde",
+   "off": 274398,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42fdf",
+   "off": 274399,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42fe0",
+   "off": 274400,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "{1c:63}焚き{e0da}だ。\n魔物達が{809c}用しているらしい。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:42ffe",
+   "off": 274430,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "{1c:63}焚き{e0da}だ。\n魔物達が{809c}用しているらしい。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4301c",
+   "off": 274460,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "{1c:63}焚き{e0da}だ。\n魔物達が{809c}用しているらしい。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4303a",
+   "off": 274490,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "{1c:63}焚き{e0da}だ。\n魔物達が{809c}用しているらしい。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:43058",
+   "off": 274520,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "{1c:63}焚き{e0da}だ。\n魔物達が{809c}用しているらしい。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:43076",
+   "off": 274550,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "{1c:63}焚き{e0da}だ。\n魔物達が{809c}用しているらしい。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:43094",
+   "off": 274580,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "{1c:63}焚き{e0da}だ。\n魔物達が{809c}用しているらしい。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:430b2",
+   "off": 274610,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:430b3",
+   "off": 274611,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:430b4",
+   "off": 274612,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "{1c:63}焚き{e0da}だ。\n魔物達が{809c}用しているらしい。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:430d2",
+   "off": 274642,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "{1c:63}焚き{e0da}だ。\n魔物達が{809c}用しているらしい。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:430f0",
+   "off": 274672,
+   "len": 39,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0db}棺を壊して{e0dd}が敷いてある。\n魔物達の寝床のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:43117",
+   "off": 274711,
+   "len": 39,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0db}棺を壊して{e0dd}が敷いてある。\n魔物達の寝床のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4313e",
+   "off": 274750,
+   "len": 39,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0db}棺を壊して{e0dd}が敷いてある。\n魔物達の寝床のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:43165",
+   "off": 274789,
+   "len": 39,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0db}棺を壊して{e0dd}が敷いてある。\n魔物達の寝床のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4318c",
+   "off": 274828,
+   "len": 39,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0db}棺を壊して{e0dd}が敷いてある。\n魔物達の寝床のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:431b3",
+   "off": 274867,
+   "len": 39,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0db}棺を壊して{e0dd}が敷いてある。\n魔物達の寝床のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:431da",
+   "off": 274906,
+   "len": 39,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0db}棺を壊して{e0dd}が敷いてある。\n魔物達の寝床のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:43201",
+   "off": 274945,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:43202",
+   "off": 274946,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:43203",
+   "off": 274947,
+   "len": 39,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0db}棺を壊して{e0dd}が敷いてある。\n魔物達の寝床のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4322a",
+   "off": 274986,
+   "len": 39,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0db}棺を壊して{e0dd}が敷いてある。\n魔物達の寝床のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:43251",
+   "off": 275025,
+   "len": 39,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0db}棺を壊して{e0dd}が敷いてある。\n魔物達の寝床のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:43278",
+   "off": 275064,
+   "len": 39,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0db}棺を壊して{e0dd}が敷いてある。\n魔物達の寝床のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4329f",
+   "off": 275103,
+   "len": 39,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0db}棺を壊して{e0dd}が敷いてある。\n魔物達の寝床のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:432c6",
+   "off": 275142,
+   "len": 39,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0db}棺を壊して{e0dd}が敷いてある。\n魔物達の寝床のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:432ed",
+   "off": 275181,
+   "len": 39,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0db}棺を壊して{e0dd}が敷いてある。\n魔物達の寝床のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:43314",
+   "off": 275220,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:43315",
+   "off": 275221,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:43316",
+   "off": 275222,
+   "len": 39,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0db}棺を壊して{e0dd}が敷いてある。\n魔物達の寝床のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4333d",
+   "off": 275261,
+   "len": 39,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0db}棺を壊して{e0dd}が敷いてある。\n魔物達の寝床のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:43364",
+   "off": 275300,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0df}大なアーチだ。\nかなりもろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:43380",
+   "off": 275328,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0df}大なアーチだ。\nかなりもろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4339c",
+   "off": 275356,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0df}大なアーチだ。\nかなりもろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:433b8",
+   "off": 275384,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0df}大なアーチだ。\nかなりもろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:433d4",
+   "off": 275412,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0df}大なアーチだ。\nかなりもろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:433f0",
+   "off": 275440,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0df}大なアーチだ。\nかなりもろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4340c",
+   "off": 275468,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0df}大なアーチだ。\nかなりもろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:43428",
+   "off": 275496,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:43429",
+   "off": 275497,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4342a",
+   "off": 275498,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0df}大なアーチだ。\nかなりもろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:43446",
+   "off": 275526,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0df}大なアーチだ。\nかなりもろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:43462",
+   "off": 275554,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0df}大なアーチだ。\nかなりもろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4347e",
+   "off": 275582,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0df}大なアーチだ。\nかなりもろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4349a",
+   "off": 275610,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0df}大なアーチだ。\nかなりもろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:434b6",
+   "off": 275638,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0df}大なアーチだ。\nかなりもろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:434d2",
+   "off": 275666,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0df}大なアーチだ。\nかなりもろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:434ee",
+   "off": 275694,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:434ef",
+   "off": 275695,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:434f0",
+   "off": 275696,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0df}大なアーチだ。\nかなりもろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#9:4350c",
+   "off": 275724,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{1c:63}{e0df}大なアーチだ。\nかなりもろくなっている。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  }
+ ],
+ "entry": 9
+}

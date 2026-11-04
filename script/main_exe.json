@@ -1,0 +1,2018 @@
+{
+ "source": "MAIN.EXE",
+ "kind": "exe",
+ "banks": [
+  {
+   "kind": "raw",
+   "at": 11636,
+   "end": 12173,
+   "runs": 18
+  },
+  {
+   "kind": "raw",
+   "at": 12288,
+   "end": 14085,
+   "runs": 59
+  },
+  {
+   "kind": "raw",
+   "at": 14248,
+   "end": 14793,
+   "runs": 12
+  },
+  {
+   "kind": "raw",
+   "at": 14884,
+   "end": 15197,
+   "runs": 10
+  },
+  {
+   "kind": "raw",
+   "at": 15288,
+   "end": 15585,
+   "runs": 9
+  },
+  {
+   "kind": "raw",
+   "at": 15676,
+   "end": 15837,
+   "runs": 6
+  },
+  {
+   "kind": "raw",
+   "at": 30798,
+   "end": 30890,
+   "runs": 3
+  },
+  {
+   "kind": "raw",
+   "at": 86250,
+   "end": 86282,
+   "runs": 4
+  },
+  {
+   "kind": "raw",
+   "at": 254148,
+   "end": 254260,
+   "runs": 3
+  },
+  {
+   "kind": "raw",
+   "at": 257888,
+   "end": 257906,
+   "runs": 3
+  },
+  {
+   "kind": "raw",
+   "at": 314303,
+   "end": 314347,
+   "runs": 3
+  },
+  {
+   "kind": "raw",
+   "at": 321067,
+   "end": 321091,
+   "runs": 3
+  },
+  {
+   "kind": "raw",
+   "at": 412044,
+   "end": 412054,
+   "runs": 3
+  },
+  {
+   "kind": "raw",
+   "at": 565793,
+   "end": 566126,
+   "runs": 28
+  },
+  {
+   "kind": "raw",
+   "at": 596956,
+   "end": 597179,
+   "runs": 28
+  }
+ ],
+ "strings": [
+  {
+   "id": "MAIN.EXE:2d74",
+   "off": 11636,
+   "len": 38,
+   "bank": null,
+   "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に油をかける",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:2d9c",
+   "off": 11676,
+   "len": 41,
+   "bank": null,
+   "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}を雷撃で攻撃",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:2dc8",
+   "off": 11720,
+   "len": 45,
+   "bank": null,
+   "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に凍結攻撃",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:2df8",
+   "off": 11768,
+   "len": 10,
+   "bank": null,
+   "jp": "アイスロック1",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:2e04",
+   "off": 11780,
+   "len": 45,
+   "bank": null,
+   "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に雷撃攻撃",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:2e34",
+   "off": 11828,
+   "len": 11,
+   "bank": null,
+   "jp": "サンダーロック1",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:2e40",
+   "off": 11840,
+   "len": 42,
+   "bank": null,
+   "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に水をまく",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:2e6c",
+   "off": 11884,
+   "len": 11,
+   "bank": null,
+   "jp": "ウォータロック1",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:2e78",
+   "off": 11896,
+   "len": 42,
+   "bank": null,
+   "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に油をまく",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:2ea4",
+   "off": 11940,
+   "len": 11,
+   "bank": null,
+   "jp": "オイルブロック1",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:2eb0",
+   "off": 11952,
+   "len": 43,
+   "bank": null,
+   "jp": "       爆   空 地\n{02}攻撃を与えると周囲に凍結爆発",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:2edc",
+   "off": 11996,
+   "len": 9,
+   "bank": null,
+   "jp": "アイスボム1",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:2ee8",
+   "off": 12008,
+   "len": 43,
+   "bank": null,
+   "jp": "       爆   空 地\n{02}攻撃を与えると周囲に雷撃爆発",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:2f14",
+   "off": 12052,
+   "len": 10,
+   "bank": null,
+   "jp": "サンダーボム1",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:2f20",
+   "off": 12064,
+   "len": 42,
+   "bank": null,
+   "jp": "   障 起     空 地\n{02}前方の{03}ユニット{02}を吸い寄せる柱",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:2f4c",
+   "off": 12108,
+   "len": 9,
+   "bank": null,
+   "jp": "バキューム2",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:2f58",
+   "off": 12120,
+   "len": 42,
+   "bank": null,
+   "jp": "   障 起     空 地\n{02}前方の{03}ユニット{02}を吸い寄せる柱",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:2f84",
+   "off": 12164,
+   "len": 9,
+   "bank": null,
+   "jp": "バキューム3",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3000",
+   "off": 12288,
+   "len": 41,
+   "bank": null,
+   "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}を雷撃で攻撃",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:302c",
+   "off": 12332,
+   "len": 41,
+   "bank": null,
+   "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}を雷撃で攻撃",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3058",
+   "off": 12376,
+   "len": 37,
+   "bank": null,
+   "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}を凍らせる",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3080",
+   "off": 12416,
+   "len": 37,
+   "bank": null,
+   "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}を凍らせる",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:30a8",
+   "off": 12456,
+   "len": 38,
+   "bank": null,
+   "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に水をかける",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:30d0",
+   "off": 12496,
+   "len": 9,
+   "bank": null,
+   "jp": "ウォータ-2",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:30dc",
+   "off": 12508,
+   "len": 38,
+   "bank": null,
+   "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に水をかける",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3104",
+   "off": 12548,
+   "len": 9,
+   "bank": null,
+   "jp": "ウォータ-3",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3110",
+   "off": 12560,
+   "len": 38,
+   "bank": null,
+   "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に油をかける",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3138",
+   "off": 12600,
+   "len": 38,
+   "bank": null,
+   "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に油をかける",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3160",
+   "off": 12640,
+   "len": 38,
+   "bank": null,
+   "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に火をつける",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3188",
+   "off": 12680,
+   "len": 38,
+   "bank": null,
+   "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に火をつける",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:31d8",
+   "off": 12760,
+   "len": 11,
+   "bank": null,
+   "jp": "フリップパネル1",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:31e4",
+   "off": 12772,
+   "len": 43,
+   "bank": null,
+   "jp": "       爆   空 地\n{02}攻撃を与えると周囲に凍結爆発",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3210",
+   "off": 12816,
+   "len": 9,
+   "bank": null,
+   "jp": "アイスボム2",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:321c",
+   "off": 12828,
+   "len": 43,
+   "bank": null,
+   "jp": "       爆   空 地\n{02}攻撃を与えると周囲に凍結爆発",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3248",
+   "off": 12872,
+   "len": 9,
+   "bank": null,
+   "jp": "アイスボム3",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3254",
+   "off": 12884,
+   "len": 43,
+   "bank": null,
+   "jp": "       爆   空 地\n{02}攻撃を与えると周囲に燃焼爆発",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3280",
+   "off": 12928,
+   "len": 10,
+   "bank": null,
+   "jp": "フレイムボム2",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:328c",
+   "off": 12940,
+   "len": 43,
+   "bank": null,
+   "jp": "       爆   空 地\n{02}攻撃を与えると周囲に燃焼爆発",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:32b8",
+   "off": 12984,
+   "len": 10,
+   "bank": null,
+   "jp": "フレイムボム3",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:32c4",
+   "off": 12996,
+   "len": 43,
+   "bank": null,
+   "jp": "       爆   空 地\n{02}攻撃を与えると周囲に雷撃爆発",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:32f0",
+   "off": 13040,
+   "len": 10,
+   "bank": null,
+   "jp": "サンダーボム2",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:32fc",
+   "off": 13052,
+   "len": 43,
+   "bank": null,
+   "jp": "       爆   空 地\n{02}攻撃を与えると周囲に雷撃爆発",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3328",
+   "off": 13096,
+   "len": 10,
+   "bank": null,
+   "jp": "サンダーボム3",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3334",
+   "off": 13108,
+   "len": 45,
+   "bank": null,
+   "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に雷撃攻撃",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3364",
+   "off": 13156,
+   "len": 11,
+   "bank": null,
+   "jp": "サンダーロック2",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3370",
+   "off": 13168,
+   "len": 45,
+   "bank": null,
+   "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に雷撃攻撃",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:33a0",
+   "off": 13216,
+   "len": 11,
+   "bank": null,
+   "jp": "サンダーロック3",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:33ac",
+   "off": 13228,
+   "len": 45,
+   "bank": null,
+   "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に凍結攻撃",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:33dc",
+   "off": 13276,
+   "len": 10,
+   "bank": null,
+   "jp": "アイスロック2",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:33e8",
+   "off": 13288,
+   "len": 45,
+   "bank": null,
+   "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に凍結攻撃",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3418",
+   "off": 13336,
+   "len": 10,
+   "bank": null,
+   "jp": "アイスロック3",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3424",
+   "off": 13348,
+   "len": 38,
+   "bank": null,
+   "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に火をつける",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:344c",
+   "off": 13388,
+   "len": 45,
+   "bank": null,
+   "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に燃焼攻撃",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:347c",
+   "off": 13436,
+   "len": 11,
+   "bank": null,
+   "jp": "フレイムロック2",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3488",
+   "off": 13448,
+   "len": 45,
+   "bank": null,
+   "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に燃焼攻撃",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:34b8",
+   "off": 13496,
+   "len": 11,
+   "bank": null,
+   "jp": "フレイムロック3",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:34c4",
+   "off": 13508,
+   "len": 42,
+   "bank": null,
+   "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に水をまく",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:34f0",
+   "off": 13552,
+   "len": 11,
+   "bank": null,
+   "jp": "ウォータロック2",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:34fc",
+   "off": 13564,
+   "len": 42,
+   "bank": null,
+   "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に水をまく",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3528",
+   "off": 13608,
+   "len": 11,
+   "bank": null,
+   "jp": "ウォータロック3",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3534",
+   "off": 13620,
+   "len": 42,
+   "bank": null,
+   "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に油をまく",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3560",
+   "off": 13664,
+   "len": 11,
+   "bank": null,
+   "jp": "オイルブロック2",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:356c",
+   "off": 13676,
+   "len": 42,
+   "bank": null,
+   "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に油をまく",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3598",
+   "off": 13720,
+   "len": 11,
+   "bank": null,
+   "jp": "オイルブロック3",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:35cc",
+   "off": 13772,
+   "len": 11,
+   "bank": null,
+   "jp": "フリップパネル2",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3600",
+   "off": 13824,
+   "len": 11,
+   "bank": null,
+   "jp": "フリップパネル3",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:360c",
+   "off": 13836,
+   "len": 24,
+   "bank": null,
+   "jp": "   敵用{03}トラップ\n{02}敵用{03}トラップ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3624",
+   "off": 13860,
+   "len": 11,
+   "bank": null,
+   "jp": "炎機雷え敵ぉ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3630",
+   "off": 13872,
+   "len": 24,
+   "bank": null,
+   "jp": "   敵用{03}トラップ\n{02}敵用{03}トラップ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3648",
+   "off": 13896,
+   "len": 11,
+   "bank": null,
+   "jp": "氷機雷え敵ぉ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3654",
+   "off": 13908,
+   "len": 43,
+   "bank": null,
+   "jp": "       爆   空 地\n{02}攻撃を与えると周囲に燃焼爆発",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3680",
+   "off": 13952,
+   "len": 10,
+   "bank": null,
+   "jp": "フレイムボム1",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:368c",
+   "off": 13964,
+   "len": 24,
+   "bank": null,
+   "jp": "   敵用{03}トラップ\n{02}敵用{03}トラップ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:36a4",
+   "off": 13988,
+   "len": 13,
+   "bank": null,
+   "jp": "霙気機雷え敵ぉ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:36b4",
+   "off": 14004,
+   "len": 24,
+   "bank": null,
+   "jp": "   敵用{03}トラップ\n{02}敵用{03}トラップ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:36cc",
+   "off": 14028,
+   "len": 11,
+   "bank": null,
+   "jp": "毒機雷え敵ぉ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:36fc",
+   "off": 14076,
+   "len": 9,
+   "bank": null,
+   "jp": "トラップなし",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:37a8",
+   "off": 14248,
+   "len": 9,
+   "bank": null,
+   "jp": "ポイズンクリス",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:37e0",
+   "off": 14304,
+   "len": 10,
+   "bank": null,
+   "jp": "スピリットコイン",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:381c",
+   "off": 14364,
+   "len": 9,
+   "bank": null,
+   "jp": "ロイヤルカード",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3850",
+   "off": 14416,
+   "len": 10,
+   "bank": null,
+   "jp": "マジックシンボル",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:385c",
+   "off": 14428,
+   "len": 38,
+   "bank": null,
+   "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に水をかける",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3884",
+   "off": 14468,
+   "len": 9,
+   "bank": null,
+   "jp": "ウォータ-1",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:38b8",
+   "off": 14520,
+   "len": 10,
+   "bank": null,
+   "jp": "フレアサーリット",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:38ec",
+   "off": 14572,
+   "len": 10,
+   "bank": null,
+   "jp": "コルドサーリット",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3924",
+   "off": 14628,
+   "len": 10,
+   "bank": null,
+   "jp": "ライトサーリット",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3960",
+   "off": 14688,
+   "len": 9,
+   "bank": null,
+   "jp": "エルヴンマント",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:396c",
+   "off": 14700,
+   "len": 37,
+   "bank": null,
+   "jp": "   前方   消費{01}: 2\n{02}炎属性の魔法弾   ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:39c0",
+   "off": 14784,
+   "len": 9,
+   "bank": null,
+   "jp": "フレアスパイク",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3a24",
+   "off": 14884,
+   "len": 9,
+   "bank": null,
+   "jp": "フレアハンマー",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3a30",
+   "off": 14896,
+   "len": 38,
+   "bank": null,
+   "jp": "   前方   消費{01}: 4\n{02}炎属性の低速貫通弾",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3a58",
+   "off": 14936,
+   "len": 9,
+   "bank": null,
+   "jp": "フレアスリング",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3a64",
+   "off": 14948,
+   "len": 39,
+   "bank": null,
+   "jp": "   前方   消費{01}: 10\n{02}炎属性の高速貫通弾",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3a8c",
+   "off": 14988,
+   "len": 10,
+   "bank": null,
+   "jp": "フレアジャベリン",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3a98",
+   "off": 15000,
+   "len": 42,
+   "bank": null,
+   "jp": "   障 起     空 地\n{02}前方の{03}ユニット{02}を吸い寄せる柱",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3ac4",
+   "off": 15044,
+   "len": 9,
+   "bank": null,
+   "jp": "バキューム1",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3ad0",
+   "off": 15056,
+   "len": 45,
+   "bank": null,
+   "jp": "   前方直線 消費{01}: 40\n{02}炎属性の最高位攻撃魔法",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3b00",
+   "off": 15104,
+   "len": 37,
+   "bank": null,
+   "jp": "   前方   消費{01}: 2\n{02}氷属性の魔法弾   ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3b54",
+   "off": 15188,
+   "len": 9,
+   "bank": null,
+   "jp": "コルドスパイク",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3bb8",
+   "off": 15288,
+   "len": 9,
+   "bank": null,
+   "jp": "コルドハンマー",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3bc4",
+   "off": 15300,
+   "len": 38,
+   "bank": null,
+   "jp": "   前方   消費{01}: 4\n{02}氷属性の低速貫通弾",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3bec",
+   "off": 15340,
+   "len": 9,
+   "bank": null,
+   "jp": "コルドスリング",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3bf8",
+   "off": 15352,
+   "len": 39,
+   "bank": null,
+   "jp": "   前方   消費{01}: 10\n{02}氷属性の高速貫通弾",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3c20",
+   "off": 15392,
+   "len": 10,
+   "bank": null,
+   "jp": "コルドジャベリン",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3c2c",
+   "off": 15404,
+   "len": 45,
+   "bank": null,
+   "jp": "   前方直線 消費{01}: 40\n{02}氷属性の最高位攻撃魔法",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3c5c",
+   "off": 15452,
+   "len": 37,
+   "bank": null,
+   "jp": "   前方   消費{01}: 1\n{02}雷属性の魔法弾   ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3cb0",
+   "off": 15536,
+   "len": 9,
+   "bank": null,
+   "jp": "ライトスパイク",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3cbc",
+   "off": 15548,
+   "len": 37,
+   "bank": null,
+   "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}を凍らせる",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3d3c",
+   "off": 15676,
+   "len": 9,
+   "bank": null,
+   "jp": "ライトハンマー",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3d48",
+   "off": 15688,
+   "len": 38,
+   "bank": null,
+   "jp": "   前方   消費{01}: 4\n{02}雷属性の低速貫通弾",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3d70",
+   "off": 15728,
+   "len": 9,
+   "bank": null,
+   "jp": "ライトスリング",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3d7c",
+   "off": 15740,
+   "len": 39,
+   "bank": null,
+   "jp": "   前方   消費{01}: 10\n{02}雷属性の高速貫通弾",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3da4",
+   "off": 15780,
+   "len": 10,
+   "bank": null,
+   "jp": "ライトジャベリン",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3db0",
+   "off": 15792,
+   "len": 45,
+   "bank": null,
+   "jp": "   前方直線 消費{01}: 40\n{02}雷属性の最高位攻撃魔法",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:784e",
+   "off": 30798,
+   "len": 8,
+   "bank": null,
+   "jp": "{02}ぜ敵ぢご{03}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:7876",
+   "off": 30838,
+   "len": 8,
+   "bank": null,
+   "jp": "{02}ぜ敵ぢご{03}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:78a2",
+   "off": 30882,
+   "len": 8,
+   "bank": null,
+   "jp": "{02}ぜ敵ぢご{03}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:150ea",
+   "off": 86250,
+   "len": 4,
+   "bank": null,
+   "jp": "狭つ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:150ee",
+   "off": 86254,
+   "len": 8,
+   "bank": null,
+   "jp": "狭だ{01}{02}いと",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:150fe",
+   "off": 86270,
+   "len": 8,
+   "bank": null,
+   "jp": "狭〜b$L",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:15106",
+   "off": 86278,
+   "len": 4,
+   "bank": null,
+   "jp": "気ば",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3e0c4",
+   "off": 254148,
+   "len": 8,
+   "bank": null,
+   "jp": "ぁ  {02}ぁえだ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3e0fc",
+   "off": 254204,
+   "len": 8,
+   "bank": null,
+   "jp": "ぁ  {02}ぁえだ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3e12c",
+   "off": 254252,
+   "len": 8,
+   "bank": null,
+   "jp": "ぁ  {02}ぁえだ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3ef60",
+   "off": 257888,
+   "len": 2,
+   "bank": null,
+   "jp": "\n",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3ef66",
+   "off": 257894,
+   "len": 8,
+   "bank": null,
+   "jp": "ぢお{02}だ{02}ぜげ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3ef6e",
+   "off": 257902,
+   "len": 4,
+   "bank": null,
+   "jp": "ぢご{01}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:4cbbf",
+   "off": 314303,
+   "len": 8,
+   "bank": null,
+   "jp": "{02}ぁえだ{02}ぁぐ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:4cbde",
+   "off": 314334,
+   "len": 5,
+   "bank": null,
+   "jp": "{02}いぁ ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:4cbe3",
+   "off": 314339,
+   "len": 8,
+   "bank": null,
+   "jp": "{02}ぁえだ{02}ぁぐ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:4e62b",
+   "off": 321067,
+   "len": 4,
+   "bank": null,
+   "jp": "{02}ぁぐ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:4e638",
+   "off": 321080,
+   "len": 7,
+   "bank": null,
+   "jp": "ぁ む{02}ぁえ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:4e63f",
+   "off": 321087,
+   "len": 4,
+   "bank": null,
+   "jp": "{02}ぁぐ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:6498c",
+   "off": 412044,
+   "len": 2,
+   "bank": null,
+   "jp": "{01}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:6498e",
+   "off": 412046,
+   "len": 6,
+   "bank": null,
+   "jp": "{02}ぜぁえも",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:64994",
+   "off": 412052,
+   "len": 2,
+   "bank": null,
+   "jp": "{01}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a221",
+   "off": 565793,
+   "len": 5,
+   "bank": null,
+   "jp": "あああ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a230",
+   "off": 565808,
+   "len": 7,
+   "bank": null,
+   "jp": "あげあげあ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a238",
+   "off": 565816,
+   "len": 7,
+   "bank": null,
+   "jp": "あぃああぃ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a240",
+   "off": 565824,
+   "len": 7,
+   "bank": null,
+   "jp": "あぃああぃ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a248",
+   "off": 565832,
+   "len": 7,
+   "bank": null,
+   "jp": "あぃああぃ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a250",
+   "off": 565840,
+   "len": 7,
+   "bank": null,
+   "jp": "あげあげあ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a261",
+   "off": 565857,
+   "len": 5,
+   "bank": null,
+   "jp": "あああ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a279",
+   "off": 565881,
+   "len": 5,
+   "bank": null,
+   "jp": "あああ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a288",
+   "off": 565896,
+   "len": 7,
+   "bank": null,
+   "jp": "あひあひあ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a290",
+   "off": 565904,
+   "len": 7,
+   "bank": null,
+   "jp": "ああぅぅあ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a298",
+   "off": 565912,
+   "len": 7,
+   "bank": null,
+   "jp": "ああひああ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a2a0",
+   "off": 565920,
+   "len": 7,
+   "bank": null,
+   "jp": "ああぅぅあ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a2a8",
+   "off": 565928,
+   "len": 7,
+   "bank": null,
+   "jp": "あひあひあ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a2b9",
+   "off": 565945,
+   "len": 5,
+   "bank": null,
+   "jp": "あああ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a2d1",
+   "off": 565969,
+   "len": 5,
+   "bank": null,
+   "jp": "あぢあ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a2e0",
+   "off": 565984,
+   "len": 7,
+   "bank": null,
+   "jp": "ああいいあ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a2e8",
+   "off": 565992,
+   "len": 7,
+   "bank": null,
+   "jp": "あぢあぢあ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a2f0",
+   "off": 566000,
+   "len": 7,
+   "bank": null,
+   "jp": "あぢあぢあ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a2f8",
+   "off": 566008,
+   "len": 7,
+   "bank": null,
+   "jp": "あいああい{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a300",
+   "off": 566016,
+   "len": 7,
+   "bank": null,
+   "jp": "あつつつい{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a311",
+   "off": 566033,
+   "len": 5,
+   "bank": null,
+   "jp": "あああ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a329",
+   "off": 566057,
+   "len": 5,
+   "bank": null,
+   "jp": "あああ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a338",
+   "off": 566072,
+   "len": 7,
+   "bank": null,
+   "jp": "あえああえ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a340",
+   "off": 566080,
+   "len": 7,
+   "bank": null,
+   "jp": "あえああえ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a348",
+   "off": 566088,
+   "len": 7,
+   "bank": null,
+   "jp": "あえああえ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a350",
+   "off": 566096,
+   "len": 7,
+   "bank": null,
+   "jp": "あえああえ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a358",
+   "off": 566104,
+   "len": 7,
+   "bank": null,
+   "jp": "あえああえ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:8a369",
+   "off": 566121,
+   "len": 5,
+   "bank": null,
+   "jp": "あああ{02}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91bdc",
+   "off": 596956,
+   "len": 7,
+   "bank": null,
+   "jp": "オイル1",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91be4",
+   "off": 596964,
+   "len": 8,
+   "bank": null,
+   "jp": "サンダー1",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91bec",
+   "off": 596972,
+   "len": 7,
+   "bank": null,
+   "jp": "ポール2",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91bf4",
+   "off": 596980,
+   "len": 7,
+   "bank": null,
+   "jp": "ポール3",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91bfc",
+   "off": 596988,
+   "len": 7,
+   "bank": null,
+   "jp": "ポール1",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91c04",
+   "off": 596996,
+   "len": 8,
+   "bank": null,
+   "jp": "サンダー2",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91c0c",
+   "off": 597004,
+   "len": 8,
+   "bank": null,
+   "jp": "サンダー3",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91c14",
+   "off": 597012,
+   "len": 7,
+   "bank": null,
+   "jp": "アイス2",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91c1c",
+   "off": 597020,
+   "len": 7,
+   "bank": null,
+   "jp": "アイス3",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91c24",
+   "off": 597028,
+   "len": 7,
+   "bank": null,
+   "jp": "オイル2",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91c2c",
+   "off": 597036,
+   "len": 7,
+   "bank": null,
+   "jp": "オイル3",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91c34",
+   "off": 597044,
+   "len": 8,
+   "bank": null,
+   "jp": "フレイム2",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91c3c",
+   "off": 597052,
+   "len": 8,
+   "bank": null,
+   "jp": "フレイム3",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91c44",
+   "off": 597060,
+   "len": 8,
+   "bank": null,
+   "jp": "フレイム1",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91c4c",
+   "off": 597068,
+   "len": 8,
+   "bank": null,
+   "jp": "ヒールスター",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91c54",
+   "off": 597076,
+   "len": 8,
+   "bank": null,
+   "jp": "ヒールリング",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91c5c",
+   "off": 597084,
+   "len": 8,
+   "bank": null,
+   "jp": "ヒールオーブ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91c64",
+   "off": 597092,
+   "len": 8,
+   "bank": null,
+   "jp": "フレアランス",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91c6c",
+   "off": 597100,
+   "len": 8,
+   "bank": null,
+   "jp": "フレアメイス",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91c74",
+   "off": 597108,
+   "len": 8,
+   "bank": null,
+   "jp": "フレアソード",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91c7c",
+   "off": 597116,
+   "len": 8,
+   "bank": null,
+   "jp": "コルドランス",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91c84",
+   "off": 597124,
+   "len": 8,
+   "bank": null,
+   "jp": "コルドメイス",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91c8c",
+   "off": 597132,
+   "len": 8,
+   "bank": null,
+   "jp": "コルドソード",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91c94",
+   "off": 597140,
+   "len": 8,
+   "bank": null,
+   "jp": "ライトランス",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91c9c",
+   "off": 597148,
+   "len": 7,
+   "bank": null,
+   "jp": "アイス1",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91ca4",
+   "off": 597156,
+   "len": 8,
+   "bank": null,
+   "jp": "ライトメイス",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91cac",
+   "off": 597164,
+   "len": 8,
+   "bank": null,
+   "jp": "ライトソード",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:91cb4",
+   "off": 597172,
+   "len": 7,
+   "bank": null,
+   "jp": "べホマラー",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  }
+ ]
+}

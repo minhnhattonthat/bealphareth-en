@@ -1,0 +1,4627 @@
+{
+ "source": "RES#38",
+ "kind": "scene",
+ "banks": [
+  {
+   "kind": "M4",
+   "at": 34460,
+   "parts": [
+    {
+     "kind": "glyph",
+     "at": 34476,
+     "size": 624,
+     "cells": 39
+    },
+    {
+     "kind": "M2",
+     "at": 35100,
+     "size": 12160,
+     "strings": 460
+    }
+   ]
+  }
+ ],
+ "strings": [
+  {
+   "id": "RES#38:8cbe",
+   "off": 36030,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e080}棺がある({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8ccb",
+   "off": 36043,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e080}棺がある({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8cd8",
+   "off": 36056,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "なにがはいってるのかな。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8cea",
+   "off": 36074,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "{e080}棺だな。{e083}けてみるよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8cff",
+   "off": 36095,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "・・・・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8d0b",
+   "off": 36107,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "施錠はされてないようです。\n{e083}けてみます。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8d29",
+   "off": 36137,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "じゃあ、{e083}けるぜ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8d39",
+   "off": 36153,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "{e083}けてみるね。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8d47",
+   "off": 36167,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e083}ける・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8d54",
+   "off": 36180,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "{e083}けてみるね。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8d62",
+   "off": 36194,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "じゃあ{e083}けてみます。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8d73",
+   "off": 36211,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "中に入ってるのはあたしのだからね。\nじゃあ{e083}けるよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8d96",
+   "off": 36246,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "じゃあ{e083}けてみます。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8da7",
+   "off": 36263,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "{e083}けてみるわ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8db5",
+   "off": 36277,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "変{e086}{e087}の{e080}棺だ。{e083}ける。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8dcd",
+   "off": 36301,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "変{e086}{e087}の{e080}棺ね。{e083}けるわよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8de7",
+   "off": 36327,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "{e083}けるよ・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8df5",
+   "off": 36341,
+   "len": 41,
+   "bank": "0.1",
+   "jp": "これ棺なんだよね。\nなんだか{e083}けちゃいけない\n気もするけど・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8e1e",
+   "off": 36382,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "だ、誰も入っていませんよね・・・\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8e37",
+   "off": 36407,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "じゃあ、{e083}けてみるね。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8e49",
+   "off": 36425,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e088}の{e080}棺がある({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8e59",
+   "off": 36441,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e088}の{e080}棺がある({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8e69",
+   "off": 36457,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "もう{e083}いてるぞ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8e78",
+   "off": 36472,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "もう{e083}いてるよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8e87",
+   "off": 36487,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "もう用はない・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8e97",
+   "off": 36503,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "もう{e088}のようです。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8ea7",
+   "off": 36519,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "もういいだろ、ここは。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8eb8",
+   "off": 36536,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "もう{e083}いてるよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8ec7",
+   "off": 36551,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "すでに{e083}いている。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8ed7",
+   "off": 36567,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "もう{e083}いてるよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8ee6",
+   "off": 36582,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "もう{e083}いてますよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8ef6",
+   "off": 36598,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "もうないじゃん。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8f04",
+   "off": 36612,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "もう{e083}いてますよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8f14",
+   "off": 36628,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "もう{e083}いてるわ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8f23",
+   "off": 36643,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "変{e086}{e087}の{e080}棺だ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8f36",
+   "off": 36662,
+   "len": 44,
+   "bank": "0.1",
+   "jp": "変{e086}{e087}の{e080}棺ね。\n{e080}{e089}{e087}が{e08a}によって変{e08b}したものよ。\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8f62",
+   "off": 36706,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "・・・・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8f6e",
+   "off": 36718,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "これ棺なんだよね。\nでもどうして人が入ってないんだろ。\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8f93",
+   "off": 36755,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "{e088}ですよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8f9f",
+   "off": 36767,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "もう{e088}っぽだよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8fae",
+   "off": 36782,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8fc9",
+   "off": 36809,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8fe4",
+   "off": 36836,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:8ffb",
+   "off": 36859,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "アーサー\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9012",
+   "off": 36882,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "レイア\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9028",
+   "off": 36904,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9041",
+   "off": 36929,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "パスカ\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9057",
+   "off": 36951,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:906e",
+   "off": 36974,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9086",
+   "off": 36998,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "シャルン\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:909d",
+   "off": 37021,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:90bb",
+   "off": 37051,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:90d2",
+   "off": 37074,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:90ee",
+   "off": 37102,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "イヴ\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9103",
+   "off": 37123,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "ディアス\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:911a",
+   "off": 37146,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "ノエル\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9130",
+   "off": 37168,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9149",
+   "off": 37193,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9161",
+   "off": 37217,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ルカ\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9176",
+   "off": 37238,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "サラ\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:918b",
+   "off": 37259,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:91a5",
+   "off": 37285,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:91bf",
+   "off": 37311,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:91d5",
+   "off": 37333,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "アーサー\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:91eb",
+   "off": 37355,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "レイア\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9200",
+   "off": 37376,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9218",
+   "off": 37400,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "パスカ\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:922d",
+   "off": 37421,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9243",
+   "off": 37443,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:925a",
+   "off": 37466,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "シャルン\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9270",
+   "off": 37488,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:928d",
+   "off": 37517,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:92a3",
+   "off": 37539,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:92be",
+   "off": 37566,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "イヴ\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:92d2",
+   "off": 37586,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "ディアス\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:92e8",
+   "off": 37608,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ノエル\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:92fd",
+   "off": 37629,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9315",
+   "off": 37653,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:932c",
+   "off": 37676,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ルカ\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9340",
+   "off": 37696,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "サラ\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9354",
+   "off": 37716,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\nクレパス用{e090}ロックスイッチOFF\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9377",
+   "off": 37751,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\nクレパス用{e090}ロックスイッチOFF\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:939a",
+   "off": 37786,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "アッシュ\nクレパス用{e090}ロックスイッチOFF\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:93b9",
+   "off": 37817,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "アーサー\nクレパス用{e090}ロックスイッチOFF\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:93d8",
+   "off": 37848,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "レイア\nクレパス用{e090}ロックスイッチOFF\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:93f6",
+   "off": 37878,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "エレアノール\nクレパス用{e090}ロックスイッチOFF\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9417",
+   "off": 37911,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "パスカ\nクレパス用{e090}ロックスイッチOFF\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9435",
+   "off": 37941,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "レベッカ\nクレパス用{e090}ロックスイッチOFF\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9454",
+   "off": 37972,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "フェルカド\nクレパス用{e090}ロックスイッチOFF\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9474",
+   "off": 38004,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "シャルン\nクレパス用{e090}ロックスイッチOFF\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9493",
+   "off": 38035,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\nクレパス用{e090}ロックスイッチOFF\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:94b9",
+   "off": 38073,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "ジェシカ\nクレパス用{e090}ロックスイッチOFF\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:94d8",
+   "off": 38104,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\nクレパス用{e090}ロックスイッチOFF\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:94fc",
+   "off": 38140,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "イヴ\nクレパス用{e090}ロックスイッチOFF\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9519",
+   "off": 38169,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "ディアス\nクレパス用{e090}ロックスイッチOFF\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9538",
+   "off": 38200,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "ノエル\nクレパス用{e090}ロックスイッチOFF\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9556",
+   "off": 38230,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "マレフィクス\nクレパス用{e090}ロックスイッチOFF\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9577",
+   "off": 38263,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "ステラミラ\nクレパス用{e090}ロックスイッチOFF\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9597",
+   "off": 38295,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "ルカ\nクレパス用{e090}ロックスイッチOFF\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:95b4",
+   "off": 38324,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "サラ\nクレパス用{e090}ロックスイッチOFF\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:95d1",
+   "off": 38353,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\nクレパス用{e090}ロックスイッチON\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:95f3",
+   "off": 38387,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\nクレパス用{e090}ロックスイッチON\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9615",
+   "off": 38421,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "アッシュ\nクレパス用{e090}ロックスイッチON\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9633",
+   "off": 38451,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "アーサー\nクレパス用{e090}ロックスイッチON\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9651",
+   "off": 38481,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "レイア\nクレパス用{e090}ロックスイッチON\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:966e",
+   "off": 38510,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "エレアノール\nクレパス用{e090}ロックスイッチON\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:968e",
+   "off": 38542,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "パスカ\nクレパス用{e090}ロックスイッチON\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:96ab",
+   "off": 38571,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "レベッカ\nクレパス用{e090}ロックスイッチON\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:96c9",
+   "off": 38601,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "フェルカド\nクレパス用{e090}ロックスイッチON\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:96e8",
+   "off": 38632,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "シャルン\nクレパス用{e090}ロックスイッチON\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9706",
+   "off": 38662,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\nクレパス用{e090}ロックスイッチON\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:972b",
+   "off": 38699,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "ジェシカ\nクレパス用{e090}ロックスイッチON\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9749",
+   "off": 38729,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\nクレパス用{e090}ロックスイッチON\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:976c",
+   "off": 38764,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "イヴ\nクレパス用{e090}ロックスイッチON\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9788",
+   "off": 38792,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "ディアス\nクレパス用{e090}ロックスイッチON\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:97a6",
+   "off": 38822,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "ノエル\nクレパス用{e090}ロックスイッチON\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:97c3",
+   "off": 38851,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "マレフィクス\nクレパス用{e090}ロックスイッチON\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:97e3",
+   "off": 38883,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "ステラミラ\nクレパス用{e090}ロックスイッチON\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9802",
+   "off": 38914,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "ルカ\nクレパス用{e090}ロックスイッチON\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:981e",
+   "off": 38942,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "サラ\nクレパス用{e090}ロックスイッチON\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:983a",
+   "off": 38970,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\n幽霊発生装{e093}OFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9858",
+   "off": 39000,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\n幽霊発生装{e093}OFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9876",
+   "off": 39030,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "アッシュ\n幽霊発生装{e093}OFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9891",
+   "off": 39057,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "アーサー\n幽霊発生装{e093}OFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:98ac",
+   "off": 39084,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "レイア\n幽霊発生装{e093}OFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:98c6",
+   "off": 39110,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "エレアノール\n幽霊発生装{e093}OFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:98e3",
+   "off": 39139,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "パスカ\n幽霊発生装{e093}OFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:98fd",
+   "off": 39165,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "レベッカ\n幽霊発生装{e093}OFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9918",
+   "off": 39192,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "フェルカド\n幽霊発生装{e093}OFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9934",
+   "off": 39220,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "シャルン\n幽霊発生装{e093}OFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:994f",
+   "off": 39247,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n幽霊発生装{e093}OFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9971",
+   "off": 39281,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "ジェシカ\n幽霊発生装{e093}OFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:998c",
+   "off": 39308,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n幽霊発生装{e093}OFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:99ac",
+   "off": 39340,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "イヴ\n幽霊発生装{e093}OFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:99c5",
+   "off": 39365,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "ディアス\n幽霊発生装{e093}OFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:99e0",
+   "off": 39392,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "ノエル\n幽霊発生装{e093}OFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:99fa",
+   "off": 39418,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "マレフィクス\n幽霊発生装{e093}OFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9a17",
+   "off": 39447,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "ステラミラ\n幽霊発生装{e093}OFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9a33",
+   "off": 39475,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "ルカ\n幽霊発生装{e093}OFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9a4c",
+   "off": 39500,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "サラ\n幽霊発生装{e093}OFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9a65",
+   "off": 39525,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\n幽霊発生装{e093}{e094}壊後({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9a86",
+   "off": 39558,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\n幽霊発生装{e093}{e094}壊後({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9aa7",
+   "off": 39591,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "アッシュ\n幽霊発生装{e093}{e094}壊後({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9ac5",
+   "off": 39621,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "アーサー\n幽霊発生装{e093}{e094}壊後({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9ae3",
+   "off": 39651,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "レイア\n幽霊発生装{e093}{e094}壊後({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9b00",
+   "off": 39680,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "エレアノール\n幽霊発生装{e093}{e094}壊後({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9b20",
+   "off": 39712,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "パスカ\n幽霊発生装{e093}{e094}壊後({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9b3d",
+   "off": 39741,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "レベッカ\n幽霊発生装{e093}{e094}壊後({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9b5b",
+   "off": 39771,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "フェルカド\n幽霊発生装{e093}{e094}壊後({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9b7a",
+   "off": 39802,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "シャルン\n幽霊発生装{e093}{e094}壊後({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9b98",
+   "off": 39832,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n幽霊発生装{e093}{e094}壊後({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9bbd",
+   "off": 39869,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "ジェシカ\n幽霊発生装{e093}{e094}壊後({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9bdb",
+   "off": 39899,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n幽霊発生装{e093}{e094}壊後({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9bfe",
+   "off": 39934,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "イヴ\n幽霊発生装{e093}{e094}壊後({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9c1a",
+   "off": 39962,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "ディアス\n幽霊発生装{e093}{e094}壊後({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9c38",
+   "off": 39992,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "ノエル\n幽霊発生装{e093}{e094}壊後({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9c55",
+   "off": 40021,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "マレフィクス\n幽霊発生装{e093}{e094}壊後({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9c75",
+   "off": 40053,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "ステラミラ\n幽霊発生装{e093}{e094}壊後({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9c94",
+   "off": 40084,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "ルカ\n幽霊発生装{e093}{e094}壊後({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9cb0",
+   "off": 40112,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "サラ\n幽霊発生装{e093}{e094}壊後({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9ccc",
+   "off": 40140,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\n幽霊発生装{e093}その他({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9ceb",
+   "off": 40171,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\n幽霊発生装{e093}その他({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9d0a",
+   "off": 40202,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "アッシュ\n幽霊発生装{e093}その他({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9d27",
+   "off": 40231,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "アーサー\n幽霊発生装{e093}その他({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9d44",
+   "off": 40260,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "レイア\n幽霊発生装{e093}その他({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9d60",
+   "off": 40288,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "エレアノール\n幽霊発生装{e093}その他({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9d7f",
+   "off": 40319,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "パスカ\n幽霊発生装{e093}その他({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9d9b",
+   "off": 40347,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "レベッカ\n幽霊発生装{e093}その他({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9db8",
+   "off": 40376,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "フェルカド\n幽霊発生装{e093}その他({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9dd6",
+   "off": 40406,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "シャルン\n幽霊発生装{e093}その他({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9df3",
+   "off": 40435,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n幽霊発生装{e093}その他({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9e17",
+   "off": 40471,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "ジェシカ\n幽霊発生装{e093}その他({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9e34",
+   "off": 40500,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n幽霊発生装{e093}その他({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9e56",
+   "off": 40534,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "イヴ\n幽霊発生装{e093}その他({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9e71",
+   "off": 40561,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "ディアス\n幽霊発生装{e093}その他({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9e8e",
+   "off": 40590,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "ノエル\n幽霊発生装{e093}その他({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9eaa",
+   "off": 40618,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "マレフィクス\n幽霊発生装{e093}その他({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9ec9",
+   "off": 40649,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "ステラミラ\n幽霊発生装{e093}その他({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9ee7",
+   "off": 40679,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "ルカ\n幽霊発生装{e093}その他({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9f02",
+   "off": 40706,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "サラ\n幽霊発生装{e093}その他({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9f1d",
+   "off": 40733,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\n{e096}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9f36",
+   "off": 40758,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\n{e096}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9f4f",
+   "off": 40783,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e096}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9f64",
+   "off": 40804,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "アーサー\n{e096}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9f79",
+   "off": 40825,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "レイア\n{e096}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9f8d",
+   "off": 40845,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e096}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9fa4",
+   "off": 40868,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "パスカ\n{e096}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9fb8",
+   "off": 40888,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e096}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9fcd",
+   "off": 40909,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e096}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9fe3",
+   "off": 40931,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "シャルン\n{e096}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:9ff8",
+   "off": 40952,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e096}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a014",
+   "off": 40980,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e096}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a029",
+   "off": 41001,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e096}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a043",
+   "off": 41027,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "イヴ\n{e096}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a056",
+   "off": 41046,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ディアス\n{e096}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a06b",
+   "off": 41067,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ノエル\n{e096}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a07f",
+   "off": 41087,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e096}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a096",
+   "off": 41110,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e096}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a0ac",
+   "off": 41132,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ルカ\n{e096}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a0bf",
+   "off": 41151,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "サラ\n{e096}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a0d2",
+   "off": 41170,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\n{e096}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a0ea",
+   "off": 41194,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\n{e096}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a102",
+   "off": 41218,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e096}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a116",
+   "off": 41238,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "アーサー\n{e096}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a12a",
+   "off": 41258,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "レイア\n{e096}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a13d",
+   "off": 41277,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e096}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a153",
+   "off": 41299,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "パスカ\n{e096}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a166",
+   "off": 41318,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e096}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a17a",
+   "off": 41338,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e096}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a18f",
+   "off": 41359,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "シャルン\n{e096}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a1a3",
+   "off": 41379,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e096}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a1be",
+   "off": 41406,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e096}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a1d2",
+   "off": 41426,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e096}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a1eb",
+   "off": 41451,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "イヴ\n{e096}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a1fd",
+   "off": 41469,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ディアス\n{e096}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a211",
+   "off": 41489,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ノエル\n{e096}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a224",
+   "off": 41508,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e096}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a23a",
+   "off": 41530,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e096}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a24f",
+   "off": 41551,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "ルカ\n{e096}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a261",
+   "off": 41569,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "サラ\n{e096}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a273",
+   "off": 41587,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\n{e097}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a28c",
+   "off": 41612,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\n{e097}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a2a5",
+   "off": 41637,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e097}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a2ba",
+   "off": 41658,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "アーサー\n{e097}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a2cf",
+   "off": 41679,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "レイア\n{e097}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a2e3",
+   "off": 41699,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e097}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a2fa",
+   "off": 41722,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "パスカ\n{e097}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a30e",
+   "off": 41742,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e097}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a323",
+   "off": 41763,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e097}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a339",
+   "off": 41785,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "シャルン\n{e097}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a34e",
+   "off": 41806,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e097}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a36a",
+   "off": 41834,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e097}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a37f",
+   "off": 41855,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e097}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a399",
+   "off": 41881,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "イヴ\n{e097}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a3ac",
+   "off": 41900,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ディアス\n{e097}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a3c1",
+   "off": 41921,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ノエル\n{e097}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a3d5",
+   "off": 41941,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e097}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a3ec",
+   "off": 41964,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e097}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a402",
+   "off": 41986,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ルカ\n{e097}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a415",
+   "off": 42005,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "サラ\n{e097}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a428",
+   "off": 42024,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\n{e097}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a440",
+   "off": 42048,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\n{e097}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a458",
+   "off": 42072,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e097}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a46c",
+   "off": 42092,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "アーサー\n{e097}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a480",
+   "off": 42112,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "レイア\n{e097}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a493",
+   "off": 42131,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e097}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a4a9",
+   "off": 42153,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "パスカ\n{e097}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a4bc",
+   "off": 42172,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e097}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a4d0",
+   "off": 42192,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e097}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a4e5",
+   "off": 42213,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "シャルン\n{e097}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a4f9",
+   "off": 42233,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e097}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a514",
+   "off": 42260,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e097}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a528",
+   "off": 42280,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e097}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a541",
+   "off": 42305,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "イヴ\n{e097}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a553",
+   "off": 42323,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ディアス\n{e097}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a567",
+   "off": 42343,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ノエル\n{e097}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a57a",
+   "off": 42362,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e097}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a590",
+   "off": 42384,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e097}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a5a5",
+   "off": 42405,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "ルカ\n{e097}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a5b7",
+   "off": 42423,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "サラ\n{e097}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a5c9",
+   "off": 42441,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\n{e098}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a5e2",
+   "off": 42466,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\n{e098}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a5fb",
+   "off": 42491,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e098}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a610",
+   "off": 42512,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "アーサー\n{e098}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a625",
+   "off": 42533,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "レイア\n{e098}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a639",
+   "off": 42553,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e098}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a650",
+   "off": 42576,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "パスカ\n{e098}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a664",
+   "off": 42596,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e098}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a679",
+   "off": 42617,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e098}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a68f",
+   "off": 42639,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "シャルン\n{e098}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a6a4",
+   "off": 42660,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e098}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a6c0",
+   "off": 42688,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e098}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a6d5",
+   "off": 42709,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e098}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a6ef",
+   "off": 42735,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "イヴ\n{e098}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a702",
+   "off": 42754,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ディアス\n{e098}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a717",
+   "off": 42775,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ノエル\n{e098}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a72b",
+   "off": 42795,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e098}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a742",
+   "off": 42818,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e098}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a758",
+   "off": 42840,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ルカ\n{e098}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a76b",
+   "off": 42859,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "サラ\n{e098}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a77e",
+   "off": 42878,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\n{e098}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a796",
+   "off": 42902,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\n{e098}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a7ae",
+   "off": 42926,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e098}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a7c2",
+   "off": 42946,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "アーサー\n{e098}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a7d6",
+   "off": 42966,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "レイア\n{e098}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a7e9",
+   "off": 42985,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e098}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a7ff",
+   "off": 43007,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "パスカ\n{e098}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a812",
+   "off": 43026,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e098}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a826",
+   "off": 43046,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e098}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a83b",
+   "off": 43067,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "シャルン\n{e098}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a84f",
+   "off": 43087,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e098}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a86a",
+   "off": 43114,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e098}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a87e",
+   "off": 43134,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e098}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a897",
+   "off": 43159,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "イヴ\n{e098}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a8a9",
+   "off": 43177,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ディアス\n{e098}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a8bd",
+   "off": 43197,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ノエル\n{e098}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a8d0",
+   "off": 43216,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e098}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a8e6",
+   "off": 43238,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e098}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a8fb",
+   "off": 43259,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "ルカ\n{e098}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a90d",
+   "off": 43277,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "サラ\n{e098}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a91f",
+   "off": 43295,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\n{e097}{e099}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a932",
+   "off": 43314,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\n{e097}{e099}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a945",
+   "off": 43333,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e097}{e099}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a955",
+   "off": 43349,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "アーサー\n{e097}{e099}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a965",
+   "off": 43365,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "レイア\n{e097}{e099}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a974",
+   "off": 43380,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e097}{e099}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a986",
+   "off": 43398,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "パスカ\n{e097}{e099}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a995",
+   "off": 43413,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e097}{e099}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a9a5",
+   "off": 43429,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e097}{e099}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a9b6",
+   "off": 43446,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "シャルン\n{e097}{e099}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a9c6",
+   "off": 43462,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e097}{e099}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a9dd",
+   "off": 43485,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e097}{e099}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:a9ed",
+   "off": 43501,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e097}{e099}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:aa02",
+   "off": 43522,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "イヴ\n{e097}{e099}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:aa10",
+   "off": 43536,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "ディアス\n{e097}{e099}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:aa20",
+   "off": 43552,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "ノエル\n{e097}{e099}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:aa2f",
+   "off": 43567,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e097}{e099}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:aa41",
+   "off": 43585,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e097}{e099}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:aa52",
+   "off": 43602,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "ルカ\n{e097}{e099}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:aa60",
+   "off": 43616,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "サラ\n{e097}{e099}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:aa6e",
+   "off": 43630,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\nピンクの{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:aa85",
+   "off": 43653,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\nピンクの{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:aa9c",
+   "off": 43676,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "アッシュ\nピンクの{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:aaaf",
+   "off": 43695,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "アーサー\nピンクの{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:aac2",
+   "off": 43714,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "レイア\nピンクの{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:aad4",
+   "off": 43732,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "エレアノール\nピンクの{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:aae9",
+   "off": 43753,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "パスカ\nピンクの{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:aafb",
+   "off": 43771,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "レベッカ\nピンクの{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ab0e",
+   "off": 43790,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "フェルカド\nピンクの{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ab22",
+   "off": 43810,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "シャルン\nピンクの{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ab35",
+   "off": 43829,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\nピンクの{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ab4f",
+   "off": 43855,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ジェシカ\nピンクの{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ab62",
+   "off": 43874,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\nピンクの{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ab7a",
+   "off": 43898,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "イヴ\nピンクの{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ab8b",
+   "off": 43915,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ディアス\nピンクの{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ab9e",
+   "off": 43934,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "ノエル\nピンクの{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:abb0",
+   "off": 43952,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "マレフィクス\nピンクの{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:abc5",
+   "off": 43973,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ステラミラ\nピンクの{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:abd9",
+   "off": 43993,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "ルカ\nピンクの{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:abea",
+   "off": 44010,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "サラ\nピンクの{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:abfb",
+   "off": 44027,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\n{e09b}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ac11",
+   "off": 44049,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\n{e09b}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ac27",
+   "off": 44071,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e09b}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ac3b",
+   "off": 44091,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "アーサー\n{e09b}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ac4f",
+   "off": 44111,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "レイア\n{e09b}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ac62",
+   "off": 44130,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e09b}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ac78",
+   "off": 44152,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "パスカ\n{e09b}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ac8b",
+   "off": 44171,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e09b}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ac9f",
+   "off": 44191,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e09b}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:acb4",
+   "off": 44212,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "シャルン\n{e09b}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:acc8",
+   "off": 44232,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e09b}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ace3",
+   "off": 44259,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e09b}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:acf7",
+   "off": 44279,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e09b}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ad10",
+   "off": 44304,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "イヴ\n{e09b}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ad22",
+   "off": 44322,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ディアス\n{e09b}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ad36",
+   "off": 44342,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ノエル\n{e09b}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ad49",
+   "off": 44361,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e09b}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ad5f",
+   "off": 44383,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e09b}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ad74",
+   "off": 44404,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "ルカ\n{e09b}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ad86",
+   "off": 44422,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "サラ\n{e09b}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ad98",
+   "off": 44440,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\n{e09d}{e09e}発生機({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:adb1",
+   "off": 44465,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\n{e09d}{e09e}発生機({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:adca",
+   "off": 44490,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e09d}{e09e}発生機({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ade0",
+   "off": 44512,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "アーサー\n{e09d}{e09e}発生機({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:adf6",
+   "off": 44534,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "レイア\n{e09d}{e09e}発生機({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ae0b",
+   "off": 44555,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e09d}{e09e}発生機({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ae23",
+   "off": 44579,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "パスカ\n{e09d}{e09e}発生機({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ae38",
+   "off": 44600,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e09d}{e09e}発生機({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ae4e",
+   "off": 44622,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e09d}{e09e}発生機({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ae65",
+   "off": 44645,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "シャルン\n{e09d}{e09e}発生機({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ae7b",
+   "off": 44667,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e09d}{e09e}発生機({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:ae98",
+   "off": 44696,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e09d}{e09e}発生機({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:aeae",
+   "off": 44718,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e09d}{e09e}発生機({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:aec9",
+   "off": 44745,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "イヴ\n{e09d}{e09e}発生機({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:aedd",
+   "off": 44765,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "ディアス\n{e09d}{e09e}発生機({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:aef3",
+   "off": 44787,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ノエル\n{e09d}{e09e}発生機({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:af08",
+   "off": 44808,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e09d}{e09e}発生機({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:af20",
+   "off": 44832,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e09d}{e09e}発生機({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:af37",
+   "off": 44855,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ルカ\n{e09d}{e09e}発生機({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:af4b",
+   "off": 44875,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "サラ\n{e09d}{e09e}発生機({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:af5f",
+   "off": 44895,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\n{e09f}{e09c}の{e09a}だ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:af76",
+   "off": 44918,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\n{e09f}{e09c}の{e09a}だ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:af8d",
+   "off": 44941,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e09f}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:afa1",
+   "off": 44961,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "アーサー\n{e09f}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:afb5",
+   "off": 44981,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "レイア\n{e09f}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:afc8",
+   "off": 45000,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e09f}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:afde",
+   "off": 45022,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "パスカ\n{e09f}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:aff1",
+   "off": 45041,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e09f}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b005",
+   "off": 45061,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e09f}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b01a",
+   "off": 45082,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "シャルン\n{e09f}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b02e",
+   "off": 45102,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e09f}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b049",
+   "off": 45129,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e09f}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b05d",
+   "off": 45149,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e09f}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b076",
+   "off": 45174,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "イヴ\n{e09f}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b088",
+   "off": 45192,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ディアス\n{e09f}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b09c",
+   "off": 45212,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ノエル\n{e09f}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b0af",
+   "off": 45231,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e09f}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b0c5",
+   "off": 45253,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e09f}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b0da",
+   "off": 45274,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "ルカ\n{e09f}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b0ec",
+   "off": 45292,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "サラ\n{e09f}{e09c}の{e09a}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b0fe",
+   "off": 45310,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "{1c:63}生きているような不思{e0a0}な{e087}だ。\n衝撃を{e0a1}えれば動かせそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b128",
+   "off": 45352,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "{1c:63}生きているような不思{e0a0}な{e087}だ。\n衝撃を{e0a1}えれば動かせそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b152",
+   "off": 45394,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "{1c:63}生きているような不思{e0a0}な{e087}だ。\n衝撃を{e0a1}えれば動かせそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b17c",
+   "off": 45436,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "{1c:63}生きているような不思{e0a0}な{e087}だ。\n衝撃を{e0a1}えれば動かせそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b1a6",
+   "off": 45478,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "{1c:63}生きているような不思{e0a0}な{e087}だ。\n衝撃を{e0a1}えれば動かせそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b1d0",
+   "off": 45520,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "{1c:63}生きているような不思{e0a0}な{e087}だ。\n衝撃を{e0a1}えれば動かせそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b1fa",
+   "off": 45562,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "{1c:63}生きているような不思{e0a0}な{e087}だ。\n衝撃を{e0a1}えれば動かせそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b224",
+   "off": 45604,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b225",
+   "off": 45605,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b226",
+   "off": 45606,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "{1c:63}生きているような不思{e0a0}な{e087}だ。\n衝撃を{e0a1}えれば動かせそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b250",
+   "off": 45648,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "{1c:63}生きているような不思{e0a0}な{e087}だ。\n衝撃を{e0a1}えれば動かせそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b27a",
+   "off": 45690,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "{1c:63}生きているような不思{e0a0}な{e087}だ。\n衝撃を{e0a1}えれば動かせそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b2a4",
+   "off": 45732,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "{1c:63}生きているような不思{e0a0}な{e087}だ。\n衝撃を{e0a1}えれば動かせそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b2ce",
+   "off": 45774,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "{1c:63}生きているような不思{e0a0}な{e087}だ。\n衝撃を{e0a1}えれば動かせそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b2f8",
+   "off": 45816,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "{1c:63}生きているような不思{e0a0}な{e087}だ。\n衝撃を{e0a1}えれば動かせそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b322",
+   "off": 45858,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "{1c:63}生きているような不思{e0a0}な{e087}だ。\n衝撃を{e0a1}えれば動かせそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b34c",
+   "off": 45900,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b34d",
+   "off": 45901,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b34e",
+   "off": 45902,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "{1c:63}生きているような不思{e0a0}な{e087}だ。\n衝撃を{e0a1}えれば動かせそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b378",
+   "off": 45944,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "{1c:63}生きているような不思{e0a0}な{e087}だ。\n衝撃を{e0a1}えれば動かせそうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b3a2",
+   "off": 45986,
+   "len": 61,
+   "bank": "0.1",
+   "jp": "{1c:63}人の顔のような{e087}だ。\n生きているのだろうか。\n吹き{e0a3}ばされそうな{e0a4}の\n強い{e0a5}を吹き出している。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b3df",
+   "off": 46047,
+   "len": 61,
+   "bank": "0.1",
+   "jp": "{1c:63}人の顔のような{e087}だ。\n生きているのだろうか。\n吹き{e0a3}ばされそうな{e0a4}の\n強い{e0a5}を吹き出している。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b41c",
+   "off": 46108,
+   "len": 61,
+   "bank": "0.1",
+   "jp": "{1c:63}人の顔のような{e087}だ。\n生きているのだろうか。\n吹き{e0a3}ばされそうな{e0a4}の\n強い{e0a5}を吹き出している。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b459",
+   "off": 46169,
+   "len": 61,
+   "bank": "0.1",
+   "jp": "{1c:63}人の顔のような{e087}だ。\n生きているのだろうか。\n吹き{e0a3}ばされそうな{e0a4}の\n強い{e0a5}を吹き出している。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b496",
+   "off": 46230,
+   "len": 61,
+   "bank": "0.1",
+   "jp": "{1c:63}人の顔のような{e087}だ。\n生きているのだろうか。\n吹き{e0a3}ばされそうな{e0a4}の\n強い{e0a5}を吹き出している。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b4d3",
+   "off": 46291,
+   "len": 61,
+   "bank": "0.1",
+   "jp": "{1c:63}人の顔のような{e087}だ。\n生きているのだろうか。\n吹き{e0a3}ばされそうな{e0a4}の\n強い{e0a5}を吹き出している。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b510",
+   "off": 46352,
+   "len": 61,
+   "bank": "0.1",
+   "jp": "{1c:63}人の顔のような{e087}だ。\n生きているのだろうか。\n吹き{e0a3}ばされそうな{e0a4}の\n強い{e0a5}を吹き出している。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b54d",
+   "off": 46413,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b54e",
+   "off": 46414,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b54f",
+   "off": 46415,
+   "len": 61,
+   "bank": "0.1",
+   "jp": "{1c:63}人の顔のような{e087}だ。\n生きているのだろうか。\n吹き{e0a3}ばされそうな{e0a4}の\n強い{e0a5}を吹き出している。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b58c",
+   "off": 46476,
+   "len": 61,
+   "bank": "0.1",
+   "jp": "{1c:63}人の顔のような{e087}だ。\n生きているのだろうか。\n吹き{e0a3}ばされそうな{e0a4}の\n強い{e0a5}を吹き出している。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b5c9",
+   "off": 46537,
+   "len": 61,
+   "bank": "0.1",
+   "jp": "{1c:63}人の顔のような{e087}だ。\n生きているのだろうか。\n吹き{e0a3}ばされそうな{e0a4}の\n強い{e0a5}を吹き出している。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b606",
+   "off": 46598,
+   "len": 61,
+   "bank": "0.1",
+   "jp": "{1c:63}人の顔のような{e087}だ。\n生きているのだろうか。\n吹き{e0a3}ばされそうな{e0a4}の\n強い{e0a5}を吹き出している。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b643",
+   "off": 46659,
+   "len": 61,
+   "bank": "0.1",
+   "jp": "{1c:63}人の顔のような{e087}だ。\n生きているのだろうか。\n吹き{e0a3}ばされそうな{e0a4}の\n強い{e0a5}を吹き出している。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b680",
+   "off": 46720,
+   "len": 61,
+   "bank": "0.1",
+   "jp": "{1c:63}人の顔のような{e087}だ。\n生きているのだろうか。\n吹き{e0a3}ばされそうな{e0a4}の\n強い{e0a5}を吹き出している。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b6bd",
+   "off": 46781,
+   "len": 61,
+   "bank": "0.1",
+   "jp": "{1c:63}人の顔のような{e087}だ。\n生きているのだろうか。\n吹き{e0a3}ばされそうな{e0a4}の\n強い{e0a5}を吹き出している。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b6fa",
+   "off": 46842,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b6fb",
+   "off": 46843,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b6fc",
+   "off": 46844,
+   "len": 61,
+   "bank": "0.1",
+   "jp": "{1c:63}人の顔のような{e087}だ。\n生きているのだろうか。\n吹き{e0a3}ばされそうな{e0a4}の\n強い{e0a5}を吹き出している。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b739",
+   "off": 46905,
+   "len": 61,
+   "bank": "0.1",
+   "jp": "{1c:63}人の顔のような{e087}だ。\n生きているのだろうか。\n吹き{e0a3}ばされそうな{e0a4}の\n強い{e0a5}を吹き出している。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b776",
+   "off": 46966,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "{1c:63}モンスターの巣のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b788",
+   "off": 46984,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "{1c:63}モンスターの巣のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b79a",
+   "off": 47002,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "{1c:63}モンスターの巣のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b7ac",
+   "off": 47020,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "{1c:63}モンスターの巣のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b7be",
+   "off": 47038,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "{1c:63}モンスターの巣のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b7d0",
+   "off": 47056,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "{1c:63}モンスターの巣のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b7e2",
+   "off": 47074,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "{1c:63}モンスターの巣のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b7f4",
+   "off": 47092,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b7f5",
+   "off": 47093,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b7f6",
+   "off": 47094,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "{1c:63}モンスターの巣のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b808",
+   "off": 47112,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "{1c:63}モンスターの巣のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b81a",
+   "off": 47130,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "{1c:63}モンスターの巣のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b82c",
+   "off": 47148,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "{1c:63}モンスターの巣のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b83e",
+   "off": 47166,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "{1c:63}モンスターの巣のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b850",
+   "off": 47184,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "{1c:63}モンスターの巣のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b862",
+   "off": 47202,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "{1c:63}モンスターの巣のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b874",
+   "off": 47220,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b875",
+   "off": 47221,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b876",
+   "off": 47222,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "{1c:63}モンスターの巣のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#38:b888",
+   "off": 47240,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "{1c:63}モンスターの巣のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  }
+ ],
+ "entry": 38
+}

@@ -14,5 +14,5 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 |---|---|---|
 | disc.md | disc files, MAIN.RES archive, scene overlays, free space | archive and overlay layout verified; free space partly guessed |
 | warp.md | cold-boot scene warp, sub-scene loading, story flags, debug menu, which overlays are not scenes | verified by `tools/debug/regen.py` over the whole scene list |
-| text.md | encoding, control codes, M4/M2 banks, font, reader routines | verified on decoded lines; argument counts need the phase 4 roundtrip |
+| text.md | encoding, control codes, M4/M2 banks, font, reader routines, extraction | verified: grammar from the engine's measure/draw code, roundtrip exact on all 61,794 strings (`tests/test_text.py`), glyphs read as MS Gothic 12 px |
 | graphics.md | formats and the survey of Japanese drawn as graphics | static sweep done; mid-game screens need a graphics tour in phase 5 (phase 2's warp can reach them now) |

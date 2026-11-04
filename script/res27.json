@@ -1,0 +1,6427 @@
+{
+ "source": "RES#27",
+ "kind": "scene",
+ "banks": [
+  {
+   "kind": "M4",
+   "at": 40428,
+   "parts": [
+    {
+     "kind": "glyph",
+     "at": 40444,
+     "size": 432,
+     "cells": 27
+    },
+    {
+     "kind": "M2",
+     "at": 40876,
+     "size": 18132,
+     "strings": 640
+    }
+   ]
+  }
+ ],
+ "strings": [
+  {
+   "id": "RES#27:a4b6",
+   "off": 42166,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n{e082}いていない{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a4d0",
+   "off": 42192,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n{e082}いていない{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a4ea",
+   "off": 42218,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e082}いていない{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a502",
+   "off": 42242,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "アーサー\n{e082}いていない{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a51a",
+   "off": 42266,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "レイア\n{e082}いていない{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a531",
+   "off": 42289,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e082}いていない{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a54b",
+   "off": 42315,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "パスカ\n{e082}いていない{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a562",
+   "off": 42338,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e082}いていない{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a57a",
+   "off": 42362,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e082}いていない{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a593",
+   "off": 42387,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "シャルン\n{e082}いていない{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a5ab",
+   "off": 42411,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e082}いていない{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a5ca",
+   "off": 42442,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e082}いていない{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a5e2",
+   "off": 42466,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e082}いていない{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a5ff",
+   "off": 42495,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "イヴ\n{e082}いていない{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a615",
+   "off": 42517,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "ディアス\n{e082}いていない{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a62d",
+   "off": 42541,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "ノエル\n{e082}いていない{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a644",
+   "off": 42564,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e082}いていない{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a65e",
+   "off": 42590,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e082}いていない{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a677",
+   "off": 42615,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "ルカ\n{e082}いていない{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a68d",
+   "off": 42637,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "サラ\n{e082}いていない{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a6a3",
+   "off": 42659,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n{e082}いている{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a6bc",
+   "off": 42684,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n{e082}いている{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a6d5",
+   "off": 42709,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e082}いている{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a6ec",
+   "off": 42732,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "アーサー\n{e082}いている{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a703",
+   "off": 42755,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "レイア\n{e082}いている{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a719",
+   "off": 42777,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e082}いている{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a732",
+   "off": 42802,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "パスカ\n{e082}いている{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a748",
+   "off": 42824,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e082}いている{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a75f",
+   "off": 42847,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e082}いている{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a777",
+   "off": 42871,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "シャルン\n{e082}いている{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a78e",
+   "off": 42894,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e082}いている{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a7ac",
+   "off": 42924,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e082}いている{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a7c3",
+   "off": 42947,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e082}いている{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a7df",
+   "off": 42975,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "イヴ\n{e082}いている{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a7f4",
+   "off": 42996,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "ディアス\n{e082}いている{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a80b",
+   "off": 43019,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "ノエル\n{e082}いている{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a821",
+   "off": 43041,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e082}いている{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a83a",
+   "off": 43066,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e082}いている{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a852",
+   "off": 43090,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ルカ\n{e082}いている{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a867",
+   "off": 43111,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "サラ\n{e082}いている{e083}{e084}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a87c",
+   "off": 43132,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n床スイッチA({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a893",
+   "off": 43155,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n床スイッチA({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a8aa",
+   "off": 43178,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "アッシュ\n床スイッチA({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a8bd",
+   "off": 43197,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "アーサー\n床スイッチA({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a8d0",
+   "off": 43216,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "レイア\n床スイッチA({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a8e2",
+   "off": 43234,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "エレアノール\n床スイッチA({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a8f7",
+   "off": 43255,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "パスカ\n床スイッチA({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a909",
+   "off": 43273,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "レベッカ\n床スイッチA({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a91c",
+   "off": 43292,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "フェルカド\n床スイッチA({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a930",
+   "off": 43312,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "シャルン\n床スイッチA({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a943",
+   "off": 43331,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n床スイッチA({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a95d",
+   "off": 43357,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ジェシカ\n床スイッチA({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a970",
+   "off": 43376,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n床スイッチA({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a988",
+   "off": 43400,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "イヴ\n床スイッチA({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a999",
+   "off": 43417,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ディアス\n床スイッチA({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a9ac",
+   "off": 43436,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "ノエル\n床スイッチA({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a9be",
+   "off": 43454,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "マレフィクス\n床スイッチA({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a9d3",
+   "off": 43475,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ステラミラ\n床スイッチA({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a9e7",
+   "off": 43495,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "ルカ\n床スイッチA({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:a9f8",
+   "off": 43512,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "サラ\n床スイッチA({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:aa09",
+   "off": 43529,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n{e087}の{e088}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:aa1d",
+   "off": 43549,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n{e087}の{e088}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:aa31",
+   "off": 43569,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e087}の{e088}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:aa43",
+   "off": 43587,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "アーサー\n{e087}の{e088}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:aa55",
+   "off": 43605,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "レイア\n{e087}の{e088}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:aa66",
+   "off": 43622,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e087}の{e088}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:aa7a",
+   "off": 43642,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "パスカ\n{e087}の{e088}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:aa8b",
+   "off": 43659,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e087}の{e088}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:aa9d",
+   "off": 43677,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e087}の{e088}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:aab0",
+   "off": 43696,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "シャルン\n{e087}の{e088}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:aac2",
+   "off": 43714,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e087}の{e088}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:aadb",
+   "off": 43739,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e087}の{e088}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:aaed",
+   "off": 43757,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e087}の{e088}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ab04",
+   "off": 43780,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "イヴ\n{e087}の{e088}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ab14",
+   "off": 43796,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "ディアス\n{e087}の{e088}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ab26",
+   "off": 43814,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "ノエル\n{e087}の{e088}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ab37",
+   "off": 43831,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e087}の{e088}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ab4b",
+   "off": 43851,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e087}の{e088}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ab5e",
+   "off": 43870,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "ルカ\n{e087}の{e088}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ab6e",
+   "off": 43886,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "サラ\n{e087}の{e088}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ab7e",
+   "off": 43902,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n壊せる{e08a}({e08b}{e08c})({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ab99",
+   "off": 43929,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n壊せる{e08a}({e08b}{e08c})({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:abb4",
+   "off": 43956,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "アッシュ\n壊せる{e08a}({e08b}{e08c})({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:abcd",
+   "off": 43981,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "アーサー\n壊せる{e08a}({e08b}{e08c})({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:abe6",
+   "off": 44006,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "レイア\n壊せる{e08a}({e08b}{e08c})({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:abfe",
+   "off": 44030,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "エレアノール\n壊せる{e08a}({e08b}{e08c})({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ac19",
+   "off": 44057,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "パスカ\n壊せる{e08a}({e08b}{e08c})({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ac31",
+   "off": 44081,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "レベッカ\n壊せる{e08a}({e08b}{e08c})({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ac4a",
+   "off": 44106,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "フェルカド\n壊せる{e08a}({e08b}{e08c})({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ac64",
+   "off": 44132,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "シャルン\n壊せる{e08a}({e08b}{e08c})({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ac7d",
+   "off": 44157,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n壊せる{e08a}({e08b}{e08c})({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ac9d",
+   "off": 44189,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "ジェシカ\n壊せる{e08a}({e08b}{e08c})({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:acb6",
+   "off": 44214,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n壊せる{e08a}({e08b}{e08c})({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:acd4",
+   "off": 44244,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "イヴ\n壊せる{e08a}({e08b}{e08c})({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:aceb",
+   "off": 44267,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "ディアス\n壊せる{e08a}({e08b}{e08c})({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ad04",
+   "off": 44292,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "ノエル\n壊せる{e08a}({e08b}{e08c})({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ad1c",
+   "off": 44316,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "マレフィクス\n壊せる{e08a}({e08b}{e08c})({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ad37",
+   "off": 44343,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "ステラミラ\n壊せる{e08a}({e08b}{e08c})({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ad51",
+   "off": 44369,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "ルカ\n壊せる{e08a}({e08b}{e08c})({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ad68",
+   "off": 44392,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "サラ\n壊せる{e08a}({e08b}{e08c})({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ad7f",
+   "off": 44415,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n壊せる{e08a}(壊後)({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ad9a",
+   "off": 44442,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n壊せる{e08a}(壊後)({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:adb5",
+   "off": 44469,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "アッシュ\n壊せる{e08a}(壊後)({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:adce",
+   "off": 44494,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "アーサー\n壊せる{e08a}(壊後)({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ade7",
+   "off": 44519,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "レイア\n壊せる{e08a}(壊後)({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:adff",
+   "off": 44543,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "エレアノール\n壊せる{e08a}(壊後)({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ae1a",
+   "off": 44570,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "パスカ\n壊せる{e08a}(壊後)({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ae32",
+   "off": 44594,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "レベッカ\n壊せる{e08a}(壊後)({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ae4b",
+   "off": 44619,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "フェルカド\n壊せる{e08a}(壊後)({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ae65",
+   "off": 44645,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "シャルン\n壊せる{e08a}(壊後)({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ae7e",
+   "off": 44670,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n壊せる{e08a}(壊後)({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ae9e",
+   "off": 44702,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "ジェシカ\n壊せる{e08a}(壊後)({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:aeb7",
+   "off": 44727,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n壊せる{e08a}(壊後)({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:aed5",
+   "off": 44757,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "イヴ\n壊せる{e08a}(壊後)({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:aeec",
+   "off": 44780,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "ディアス\n壊せる{e08a}(壊後)({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:af05",
+   "off": 44805,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "ノエル\n壊せる{e08a}(壊後)({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:af1d",
+   "off": 44829,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "マレフィクス\n壊せる{e08a}(壊後)({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:af38",
+   "off": 44856,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "ステラミラ\n壊せる{e08a}(壊後)({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:af52",
+   "off": 44882,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "ルカ\n壊せる{e08a}(壊後)({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:af69",
+   "off": 44905,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "サラ\n壊せる{e08a}(壊後)({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:af80",
+   "off": 44928,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n({e085}){e08d}{8196}に装{e08e}に魔力をそそげ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:afa2",
+   "off": 44962,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n({e085}){e08d}{8196}に装{e08e}に魔力をそそげ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:afc4",
+   "off": 44996,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "アッシュ\n({e085}){e08d}{8196}に装{e08e}に魔力をそそげ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:afe3",
+   "off": 45027,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "アーサー\n({e085}){e08d}{8196}に装{e08e}に魔力をそそげ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b002",
+   "off": 45058,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "レイア\n({e085}){e08d}{8196}に装{e08e}に魔力をそそげ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b020",
+   "off": 45088,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "エレアノール\n({e085}){e08d}{8196}に装{e08e}に魔力をそそげ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b041",
+   "off": 45121,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "パスカ\n({e085}){e08d}{8196}に装{e08e}に魔力をそそげ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b05f",
+   "off": 45151,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "レベッカ\n({e085}){e08d}{8196}に装{e08e}に魔力をそそげ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b07e",
+   "off": 45182,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "フェルカド\n({e085}){e08d}{8196}に装{e08e}に魔力をそそげ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b09e",
+   "off": 45214,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "シャルン\n({e085}){e08d}{8196}に装{e08e}に魔力をそそげ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b0bd",
+   "off": 45245,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n({e085}){e08d}{8196}に装{e08e}に魔力をそそげ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b0e3",
+   "off": 45283,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "ジェシカ\n({e085}){e08d}{8196}に装{e08e}に魔力をそそげ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b102",
+   "off": 45314,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n({e085}){e08d}{8196}に装{e08e}に魔力をそそげ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b126",
+   "off": 45350,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "イヴ\n({e085}){e08d}{8196}に装{e08e}に魔力をそそげ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b143",
+   "off": 45379,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "ディアス\n({e085}){e08d}{8196}に装{e08e}に魔力をそそげ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b162",
+   "off": 45410,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "ノエル\n({e085}){e08d}{8196}に装{e08e}に魔力をそそげ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b180",
+   "off": 45440,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "マレフィクス\n({e085}){e08d}{8196}に装{e08e}に魔力をそそげ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b1a1",
+   "off": 45473,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "ステラミラ\n({e085}){e08d}{8196}に装{e08e}に魔力をそそげ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b1c1",
+   "off": 45505,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "ルカ\n({e085}){e08d}{8196}に装{e08e}に魔力をそそげ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b1de",
+   "off": 45534,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "サラ\n({e085}){e08d}{8196}に装{e08e}に魔力をそそげ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b1fb",
+   "off": 45563,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n押せる{e08f}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b210",
+   "off": 45584,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n押せる{e08f}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b225",
+   "off": 45605,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "アッシュ\n押せる{e08f}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b238",
+   "off": 45624,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "アーサー\n押せる{e08f}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b24b",
+   "off": 45643,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "レイア\n押せる{e08f}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b25d",
+   "off": 45661,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "エレアノール\n押せる{e08f}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b272",
+   "off": 45682,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "パスカ\n押せる{e08f}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b284",
+   "off": 45700,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "レベッカ\n押せる{e08f}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b297",
+   "off": 45719,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "フェルカド\n押せる{e08f}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b2ab",
+   "off": 45739,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "シャルン\n押せる{e08f}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b2be",
+   "off": 45758,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n押せる{e08f}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b2d8",
+   "off": 45784,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ジェシカ\n押せる{e08f}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b2eb",
+   "off": 45803,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n押せる{e08f}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b303",
+   "off": 45827,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "イヴ\n押せる{e08f}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b314",
+   "off": 45844,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ディアス\n押せる{e08f}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b327",
+   "off": 45863,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "ノエル\n押せる{e08f}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b339",
+   "off": 45881,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "マレフィクス\n押せる{e08f}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b34e",
+   "off": 45902,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ステラミラ\n押せる{e08f}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b362",
+   "off": 45922,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "ルカ\n押せる{e08f}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b373",
+   "off": 45939,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "サラ\n押せる{e08f}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b384",
+   "off": 45956,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n{e087}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b397",
+   "off": 45975,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n{e087}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b3aa",
+   "off": 45994,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e087}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b3ba",
+   "off": 46010,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "アーサー\n{e087}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b3ca",
+   "off": 46026,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "レイア\n{e087}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b3d9",
+   "off": 46041,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e087}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b3eb",
+   "off": 46059,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "パスカ\n{e087}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b3fa",
+   "off": 46074,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e087}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b40a",
+   "off": 46090,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e087}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b41b",
+   "off": 46107,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "シャルン\n{e087}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b42b",
+   "off": 46123,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e087}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b442",
+   "off": 46146,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e087}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b452",
+   "off": 46162,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e087}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b467",
+   "off": 46183,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "イヴ\n{e087}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b475",
+   "off": 46197,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "ディアス\n{e087}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b485",
+   "off": 46213,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "ノエル\n{e087}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b494",
+   "off": 46228,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e087}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b4a6",
+   "off": 46246,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e087}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b4b7",
+   "off": 46263,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "ルカ\n{e087}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b4c5",
+   "off": 46277,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "サラ\n{e087}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b4d3",
+   "off": 46291,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n壊れない{e08a}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b4e9",
+   "off": 46313,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n壊れない{e08a}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b4ff",
+   "off": 46335,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "アッシュ\n壊れない{e08a}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b513",
+   "off": 46355,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "アーサー\n壊れない{e08a}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b527",
+   "off": 46375,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "レイア\n壊れない{e08a}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b53a",
+   "off": 46394,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "エレアノール\n壊れない{e08a}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b550",
+   "off": 46416,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "パスカ\n壊れない{e08a}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b563",
+   "off": 46435,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "レベッカ\n壊れない{e08a}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b577",
+   "off": 46455,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "フェルカド\n壊れない{e08a}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b58c",
+   "off": 46476,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "シャルン\n壊れない{e08a}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b5a0",
+   "off": 46496,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n壊れない{e08a}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b5bb",
+   "off": 46523,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ジェシカ\n壊れない{e08a}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b5cf",
+   "off": 46543,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n壊れない{e08a}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b5e8",
+   "off": 46568,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "イヴ\n壊れない{e08a}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b5fa",
+   "off": 46586,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ディアス\n壊れない{e08a}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b60e",
+   "off": 46606,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ノエル\n壊れない{e08a}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b621",
+   "off": 46625,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "マレフィクス\n壊れない{e08a}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b637",
+   "off": 46647,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ステラミラ\n壊れない{e08a}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b64c",
+   "off": 46668,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "ルカ\n壊れない{e08a}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b65e",
+   "off": 46686,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "サラ\n壊れない{e08a}({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b670",
+   "off": 46704,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n{e090}矢用{e091}車({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b689",
+   "off": 46729,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n{e090}矢用{e091}車({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b6a2",
+   "off": 46754,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e090}矢用{e091}車({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b6b8",
+   "off": 46776,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "アーサー\n{e090}矢用{e091}車({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b6ce",
+   "off": 46798,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "レイア\n{e090}矢用{e091}車({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b6e3",
+   "off": 46819,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e090}矢用{e091}車({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b6fb",
+   "off": 46843,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "パスカ\n{e090}矢用{e091}車({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b710",
+   "off": 46864,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e090}矢用{e091}車({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b726",
+   "off": 46886,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e090}矢用{e091}車({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b73d",
+   "off": 46909,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "シャルン\n{e090}矢用{e091}車({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b753",
+   "off": 46931,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e090}矢用{e091}車({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b770",
+   "off": 46960,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e090}矢用{e091}車({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b786",
+   "off": 46982,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e090}矢用{e091}車({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b7a1",
+   "off": 47009,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "イヴ\n{e090}矢用{e091}車({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b7b5",
+   "off": 47029,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "ディアス\n{e090}矢用{e091}車({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b7cb",
+   "off": 47051,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ノエル\n{e090}矢用{e091}車({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b7e0",
+   "off": 47072,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e090}矢用{e091}車({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b7f8",
+   "off": 47096,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e090}矢用{e091}車({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b80f",
+   "off": 47119,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ルカ\n{e090}矢用{e091}車({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b823",
+   "off": 47139,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "サラ\n{e090}矢用{e091}車({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b837",
+   "off": 47159,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\nアクアビットをセットする装{e08e}\n({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b85b",
+   "off": 47195,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\nアクアビットをセットする装{e08e}\n({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b87f",
+   "off": 47231,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "アッシュ\nアクアビットをセットする装{e08e}\n({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b89f",
+   "off": 47263,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "アーサー\nアクアビットをセットする装{e08e}\n({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b8bf",
+   "off": 47295,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "レイア\nアクアビットをセットする装{e08e}\n({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b8de",
+   "off": 47326,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "エレアノール\nアクアビットをセットする装{e08e}\n({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b900",
+   "off": 47360,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "パスカ\nアクアビットをセットする装{e08e}\n({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b91f",
+   "off": 47391,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "レベッカ\nアクアビットをセットする装{e08e}\n({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b93f",
+   "off": 47423,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "フェルカド\nアクアビットをセットする装{e08e}\n({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b960",
+   "off": 47456,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "シャルン\nアクアビットをセットする装{e08e}\n({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b980",
+   "off": 47488,
+   "len": 39,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\nアクアビットをセットする装{e08e}\n({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b9a7",
+   "off": 47527,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "ジェシカ\nアクアビットをセットする装{e08e}\n({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b9c7",
+   "off": 47559,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\nアクアビットをセットする装{e08e}\n({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:b9ec",
+   "off": 47596,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "イヴ\nアクアビットをセットする装{e08e}\n({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ba0a",
+   "off": 47626,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "ディアス\nアクアビットをセットする装{e08e}\n({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ba2a",
+   "off": 47658,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "ノエル\nアクアビットをセットする装{e08e}\n({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ba49",
+   "off": 47689,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "マレフィクス\nアクアビットをセットする装{e08e}\n({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ba6b",
+   "off": 47723,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "ステラミラ\nアクアビットをセットする装{e08e}\n({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ba8c",
+   "off": 47756,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "ルカ\nアクアビットをセットする装{e08e}\n({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:baaa",
+   "off": 47786,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "サラ\nアクアビットをセットする装{e08e}\n({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bac8",
+   "off": 47816,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n{e091}車OFF({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bade",
+   "off": 47838,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n{e091}車OFF({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:baf4",
+   "off": 47860,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e091}車OFF({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bb07",
+   "off": 47879,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "アーサー\n{e091}車OFF({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bb1a",
+   "off": 47898,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "レイア\n{e091}車OFF({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bb2c",
+   "off": 47916,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e091}車OFF({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bb41",
+   "off": 47937,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "パスカ\n{e091}車OFF({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bb53",
+   "off": 47955,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e091}車OFF({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bb66",
+   "off": 47974,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e091}車OFF({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bb7a",
+   "off": 47994,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "シャルン\n{e091}車OFF({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bb8d",
+   "off": 48013,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e091}車OFF({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bba7",
+   "off": 48039,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e091}車OFF({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bbba",
+   "off": 48058,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e091}車OFF({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bbd2",
+   "off": 48082,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "イヴ\n{e091}車OFF({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bbe3",
+   "off": 48099,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ディアス\n{e091}車OFF({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bbf6",
+   "off": 48118,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "ノエル\n{e091}車OFF({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bc08",
+   "off": 48136,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e091}車OFF({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bc1d",
+   "off": 48157,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e091}車OFF({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bc31",
+   "off": 48177,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "ルカ\n{e091}車OFF({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bc42",
+   "off": 48194,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "サラ\n{e091}車OFF({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bc53",
+   "off": 48211,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n{e091}車HIGH({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bc6a",
+   "off": 48234,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n{e091}車HIGH({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bc81",
+   "off": 48257,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e091}車HIGH({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bc95",
+   "off": 48277,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "アーサー\n{e091}車HIGH({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bca9",
+   "off": 48297,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "レイア\n{e091}車HIGH({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bcbc",
+   "off": 48316,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e091}車HIGH({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bcd2",
+   "off": 48338,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "パスカ\n{e091}車HIGH({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bce5",
+   "off": 48357,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e091}車HIGH({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bcf9",
+   "off": 48377,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e091}車HIGH({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bd0e",
+   "off": 48398,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "シャルン\n{e091}車HIGH({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bd22",
+   "off": 48418,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e091}車HIGH({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bd3d",
+   "off": 48445,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e091}車HIGH({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bd51",
+   "off": 48465,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e091}車HIGH({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bd6a",
+   "off": 48490,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "イヴ\n{e091}車HIGH({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bd7c",
+   "off": 48508,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ディアス\n{e091}車HIGH({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bd90",
+   "off": 48528,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ノエル\n{e091}車HIGH({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bda3",
+   "off": 48547,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e091}車HIGH({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bdb9",
+   "off": 48569,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e091}車HIGH({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bdce",
+   "off": 48590,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "ルカ\n{e091}車HIGH({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bde0",
+   "off": 48608,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "サラ\n{e091}車HIGH({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bdf2",
+   "off": 48626,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n{e091}車LOW({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:be08",
+   "off": 48648,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n{e091}車LOW({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:be1e",
+   "off": 48670,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e091}車LOW({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:be31",
+   "off": 48689,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "アーサー\n{e091}車LOW({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:be44",
+   "off": 48708,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "レイア\n{e091}車LOW({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:be56",
+   "off": 48726,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e091}車LOW({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:be6b",
+   "off": 48747,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "パスカ\n{e091}車LOW({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:be7d",
+   "off": 48765,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e091}車LOW({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:be90",
+   "off": 48784,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e091}車LOW({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bea4",
+   "off": 48804,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "シャルン\n{e091}車LOW({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:beb7",
+   "off": 48823,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e091}車LOW({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bed1",
+   "off": 48849,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e091}車LOW({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bee4",
+   "off": 48868,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e091}車LOW({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:befc",
+   "off": 48892,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "イヴ\n{e091}車LOW({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bf0d",
+   "off": 48909,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ディアス\n{e091}車LOW({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bf20",
+   "off": 48928,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "ノエル\n{e091}車LOW({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bf32",
+   "off": 48946,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e091}車LOW({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bf47",
+   "off": 48967,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e091}車LOW({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bf5b",
+   "off": 48987,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "ルカ\n{e091}車LOW({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bf6c",
+   "off": 49004,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "サラ\n{e091}車LOW({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bf7d",
+   "off": 49021,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n{e091}車OFF2({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bf94",
+   "off": 49044,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n{e091}車OFF2({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bfab",
+   "off": 49067,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e091}車OFF2({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bfbf",
+   "off": 49087,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "アーサー\n{e091}車OFF2({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bfd3",
+   "off": 49107,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "レイア\n{e091}車OFF2({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bfe6",
+   "off": 49126,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e091}車OFF2({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:bffc",
+   "off": 49148,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "パスカ\n{e091}車OFF2({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c00f",
+   "off": 49167,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e091}車OFF2({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c023",
+   "off": 49187,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e091}車OFF2({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c038",
+   "off": 49208,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "シャルン\n{e091}車OFF2({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c04c",
+   "off": 49228,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e091}車OFF2({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c067",
+   "off": 49255,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e091}車OFF2({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c07b",
+   "off": 49275,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e091}車OFF2({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c094",
+   "off": 49300,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "イヴ\n{e091}車OFF2({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c0a6",
+   "off": 49318,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ディアス\n{e091}車OFF2({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c0ba",
+   "off": 49338,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ノエル\n{e091}車OFF2({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c0cd",
+   "off": 49357,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e091}車OFF2({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c0e3",
+   "off": 49379,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e091}車OFF2({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c0f8",
+   "off": 49400,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "ルカ\n{e091}車OFF2({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c10a",
+   "off": 49418,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "サラ\n{e091}車OFF2({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c11c",
+   "off": 49436,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n{e093}の{e08a}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c132",
+   "off": 49458,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n{e093}の{e08a}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c148",
+   "off": 49480,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e093}の{e08a}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c15c",
+   "off": 49500,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "アーサー\n{e093}の{e08a}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c170",
+   "off": 49520,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "レイア\n{e093}の{e08a}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c183",
+   "off": 49539,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e093}の{e08a}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c199",
+   "off": 49561,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "パスカ\n{e093}の{e08a}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c1ac",
+   "off": 49580,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e093}の{e08a}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c1c0",
+   "off": 49600,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e093}の{e08a}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c1d5",
+   "off": 49621,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "シャルン\n{e093}の{e08a}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c1e9",
+   "off": 49641,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e093}の{e08a}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c204",
+   "off": 49668,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e093}の{e08a}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c218",
+   "off": 49688,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e093}の{e08a}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c231",
+   "off": 49713,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "イヴ\n{e093}の{e08a}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c243",
+   "off": 49731,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ディアス\n{e093}の{e08a}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c257",
+   "off": 49751,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ノエル\n{e093}の{e08a}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c26a",
+   "off": 49770,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e093}の{e08a}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c280",
+   "off": 49792,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e093}の{e08a}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c295",
+   "off": 49813,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "ルカ\n{e093}の{e08a}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c2a7",
+   "off": 49831,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "サラ\n{e093}の{e08a}ON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c2b9",
+   "off": 49849,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n{e093}の{e08a}LOWON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c2d2",
+   "off": 49874,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n{e093}の{e08a}LOWON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c2eb",
+   "off": 49899,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e093}の{e08a}LOWON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c302",
+   "off": 49922,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "アーサー\n{e093}の{e08a}LOWON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c319",
+   "off": 49945,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "レイア\n{e093}の{e08a}LOWON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c32f",
+   "off": 49967,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e093}の{e08a}LOWON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c348",
+   "off": 49992,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "パスカ\n{e093}の{e08a}LOWON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c35e",
+   "off": 50014,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e093}の{e08a}LOWON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c375",
+   "off": 50037,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e093}の{e08a}LOWON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c38d",
+   "off": 50061,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "シャルン\n{e093}の{e08a}LOWON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c3a4",
+   "off": 50084,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e093}の{e08a}LOWON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c3c2",
+   "off": 50114,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e093}の{e08a}LOWON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c3d9",
+   "off": 50137,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e093}の{e08a}LOWON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c3f5",
+   "off": 50165,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "イヴ\n{e093}の{e08a}LOWON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c40a",
+   "off": 50186,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "ディアス\n{e093}の{e08a}LOWON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c421",
+   "off": 50209,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "ノエル\n{e093}の{e08a}LOWON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c437",
+   "off": 50231,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e093}の{e08a}LOWON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c450",
+   "off": 50256,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e093}の{e08a}LOWON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c468",
+   "off": 50280,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ルカ\n{e093}の{e08a}LOWON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c47d",
+   "off": 50301,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "サラ\n{e093}の{e08a}LOWON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c492",
+   "off": 50322,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n{e093}の{e08a}HIGHON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c4ac",
+   "off": 50348,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n{e093}の{e08a}HIGHON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c4c6",
+   "off": 50374,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e093}の{e08a}HIGHON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c4de",
+   "off": 50398,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "アーサー\n{e093}の{e08a}HIGHON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c4f6",
+   "off": 50422,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "レイア\n{e093}の{e08a}HIGHON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c50d",
+   "off": 50445,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e093}の{e08a}HIGHON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c527",
+   "off": 50471,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "パスカ\n{e093}の{e08a}HIGHON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c53e",
+   "off": 50494,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e093}の{e08a}HIGHON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c556",
+   "off": 50518,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e093}の{e08a}HIGHON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c56f",
+   "off": 50543,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "シャルン\n{e093}の{e08a}HIGHON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c587",
+   "off": 50567,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e093}の{e08a}HIGHON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c5a6",
+   "off": 50598,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e093}の{e08a}HIGHON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c5be",
+   "off": 50622,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e093}の{e08a}HIGHON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c5db",
+   "off": 50651,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "イヴ\n{e093}の{e08a}HIGHON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c5f1",
+   "off": 50673,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "ディアス\n{e093}の{e08a}HIGHON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c609",
+   "off": 50697,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "ノエル\n{e093}の{e08a}HIGHON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c620",
+   "off": 50720,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e093}の{e08a}HIGHON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c63a",
+   "off": 50746,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e093}の{e08a}HIGHON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c653",
+   "off": 50771,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "ルカ\n{e093}の{e08a}HIGHON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c669",
+   "off": 50793,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "サラ\n{e093}の{e08a}HIGHON({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c67f",
+   "off": 50815,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n{e094}下向きの{e095}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c6a5",
+   "off": 50853,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n{e094}下向きの{e095}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c6cb",
+   "off": 50891,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c6ef",
+   "off": 50927,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "アーサー\n{e094}下向きの{e095}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c713",
+   "off": 50963,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "レイア\n{e094}下向きの{e095}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c736",
+   "off": 50998,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e094}下向きの{e095}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c75c",
+   "off": 51036,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "パスカ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c77f",
+   "off": 51071,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c7a3",
+   "off": 51107,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e094}下向きの{e095}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c7c8",
+   "off": 51144,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "シャルン\n{e094}下向きの{e095}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c7ec",
+   "off": 51180,
+   "len": 43,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e094}下向きの{e095}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c817",
+   "off": 51223,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c83b",
+   "off": 51259,
+   "len": 41,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e094}下向きの{e095}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c864",
+   "off": 51300,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "イヴ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c886",
+   "off": 51334,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "ディアス\n{e094}下向きの{e095}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c8aa",
+   "off": 51370,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "ノエル\n{e094}下向きの{e095}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c8cd",
+   "off": 51405,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e094}下向きの{e095}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c8f3",
+   "off": 51443,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c918",
+   "off": 51480,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "ルカ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c93a",
+   "off": 51514,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "サラ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c95c",
+   "off": 51548,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n{e094}下向きの{e095}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c980",
+   "off": 51584,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n{e094}下向きの{e095}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c9a4",
+   "off": 51620,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c9c6",
+   "off": 51654,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "アーサー\n{e094}下向きの{e095}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:c9e8",
+   "off": 51688,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "レイア\n{e094}下向きの{e095}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ca09",
+   "off": 51721,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e094}下向きの{e095}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ca2d",
+   "off": 51757,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "パスカ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ca4e",
+   "off": 51790,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ca70",
+   "off": 51824,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e094}下向きの{e095}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ca93",
+   "off": 51859,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "シャルン\n{e094}下向きの{e095}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cab5",
+   "off": 51893,
+   "len": 41,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e094}下向きの{e095}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cade",
+   "off": 51934,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cb00",
+   "off": 51968,
+   "len": 39,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e094}下向きの{e095}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cb27",
+   "off": 52007,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "イヴ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cb47",
+   "off": 52039,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "ディアス\n{e094}下向きの{e095}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cb69",
+   "off": 52073,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "ノエル\n{e094}下向きの{e095}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cb8a",
+   "off": 52106,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e094}下向きの{e095}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cbae",
+   "off": 52142,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cbd1",
+   "off": 52177,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "ルカ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cbf1",
+   "off": 52209,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "サラ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cc11",
+   "off": 52241,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n{e094}下向きの{e095}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cc36",
+   "off": 52278,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n{e094}下向きの{e095}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cc5b",
+   "off": 52315,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cc7e",
+   "off": 52350,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "アーサー\n{e094}下向きの{e095}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cca1",
+   "off": 52385,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "レイア\n{e094}下向きの{e095}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ccc3",
+   "off": 52419,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e094}下向きの{e095}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cce8",
+   "off": 52456,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "パスカ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cd0a",
+   "off": 52490,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cd2d",
+   "off": 52525,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e094}下向きの{e095}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cd51",
+   "off": 52561,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "シャルン\n{e094}下向きの{e095}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cd74",
+   "off": 52596,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e094}下向きの{e095}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cd9e",
+   "off": 52638,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cdc1",
+   "off": 52673,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e094}下向きの{e095}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cde9",
+   "off": 52713,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "イヴ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ce0a",
+   "off": 52746,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "ディアス\n{e094}下向きの{e095}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ce2d",
+   "off": 52781,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "ノエル\n{e094}下向きの{e095}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ce4f",
+   "off": 52815,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e094}下向きの{e095}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ce74",
+   "off": 52852,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ce98",
+   "off": 52888,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "ルカ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ceb9",
+   "off": 52921,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "サラ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ceda",
+   "off": 52954,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n{e094}下向きの{e095}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ceff",
+   "off": 52991,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n{e094}下向きの{e095}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cf24",
+   "off": 53028,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cf47",
+   "off": 53063,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "アーサー\n{e094}下向きの{e095}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cf6a",
+   "off": 53098,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "レイア\n{e094}下向きの{e095}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cf8c",
+   "off": 53132,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e094}下向きの{e095}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cfb1",
+   "off": 53169,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "パスカ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cfd3",
+   "off": 53203,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:cff6",
+   "off": 53238,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e094}下向きの{e095}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d01a",
+   "off": 53274,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "シャルン\n{e094}下向きの{e095}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d03d",
+   "off": 53309,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e094}下向きの{e095}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d067",
+   "off": 53351,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d08a",
+   "off": 53386,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e094}下向きの{e095}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d0b2",
+   "off": 53426,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "イヴ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d0d3",
+   "off": 53459,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "ディアス\n{e094}下向きの{e095}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d0f6",
+   "off": 53494,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "ノエル\n{e094}下向きの{e095}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d118",
+   "off": 53528,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e094}下向きの{e095}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d13d",
+   "off": 53565,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d161",
+   "off": 53601,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "ルカ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d182",
+   "off": 53634,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "サラ\n{e094}下向きの{e095}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d1a3",
+   "off": 53667,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n{e096}{809c}の{e097}SLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d1be",
+   "off": 53694,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n{e096}{809c}の{e097}SLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d1d9",
+   "off": 53721,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e096}{809c}の{e097}SLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d1f2",
+   "off": 53746,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "アーサー\n{e096}{809c}の{e097}SLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d20b",
+   "off": 53771,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "レイア\n{e096}{809c}の{e097}SLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d223",
+   "off": 53795,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e096}{809c}の{e097}SLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d23e",
+   "off": 53822,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "パスカ\n{e096}{809c}の{e097}SLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d256",
+   "off": 53846,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e096}{809c}の{e097}SLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d26f",
+   "off": 53871,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e096}{809c}の{e097}SLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d289",
+   "off": 53897,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "シャルン\n{e096}{809c}の{e097}SLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d2a2",
+   "off": 53922,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e096}{809c}の{e097}SLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d2c2",
+   "off": 53954,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e096}{809c}の{e097}SLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d2db",
+   "off": 53979,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e096}{809c}の{e097}SLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d2f9",
+   "off": 54009,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "イヴ\n{e096}{809c}の{e097}SLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d310",
+   "off": 54032,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "ディアス\n{e096}{809c}の{e097}SLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d329",
+   "off": 54057,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "ノエル\n{e096}{809c}の{e097}SLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d341",
+   "off": 54081,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e096}{809c}の{e097}SLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d35c",
+   "off": 54108,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e096}{809c}の{e097}SLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d376",
+   "off": 54134,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "ルカ\n{e096}{809c}の{e097}SLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d38d",
+   "off": 54157,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "サラ\n{e096}{809c}の{e097}SLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d3a4",
+   "off": 54180,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n{e096}{809c}の{e097}NOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d3bd",
+   "off": 54205,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n{e096}{809c}の{e097}NOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d3d6",
+   "off": 54230,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e096}{809c}の{e097}NOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d3ed",
+   "off": 54253,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "アーサー\n{e096}{809c}の{e097}NOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d404",
+   "off": 54276,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "レイア\n{e096}{809c}の{e097}NOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d41a",
+   "off": 54298,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e096}{809c}の{e097}NOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d433",
+   "off": 54323,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "パスカ\n{e096}{809c}の{e097}NOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d449",
+   "off": 54345,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e096}{809c}の{e097}NOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d460",
+   "off": 54368,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e096}{809c}の{e097}NOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d478",
+   "off": 54392,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "シャルン\n{e096}{809c}の{e097}NOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d48f",
+   "off": 54415,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e096}{809c}の{e097}NOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d4ad",
+   "off": 54445,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e096}{809c}の{e097}NOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d4c4",
+   "off": 54468,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e096}{809c}の{e097}NOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d4e0",
+   "off": 54496,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "イヴ\n{e096}{809c}の{e097}NOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d4f5",
+   "off": 54517,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "ディアス\n{e096}{809c}の{e097}NOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d50c",
+   "off": 54540,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "ノエル\n{e096}{809c}の{e097}NOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d522",
+   "off": 54562,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e096}{809c}の{e097}NOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d53b",
+   "off": 54587,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e096}{809c}の{e097}NOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d553",
+   "off": 54611,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ルカ\n{e096}{809c}の{e097}NOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d568",
+   "off": 54632,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "サラ\n{e096}{809c}の{e097}NOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d57d",
+   "off": 54653,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n{e096}{809c}の{e097}WAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d597",
+   "off": 54679,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n{e096}{809c}の{e097}WAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d5b1",
+   "off": 54705,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e096}{809c}の{e097}WAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d5c9",
+   "off": 54729,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "アーサー\n{e096}{809c}の{e097}WAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d5e1",
+   "off": 54753,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "レイア\n{e096}{809c}の{e097}WAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d5f8",
+   "off": 54776,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e096}{809c}の{e097}WAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d612",
+   "off": 54802,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "パスカ\n{e096}{809c}の{e097}WAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d629",
+   "off": 54825,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e096}{809c}の{e097}WAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d641",
+   "off": 54849,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e096}{809c}の{e097}WAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d65a",
+   "off": 54874,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "シャルン\n{e096}{809c}の{e097}WAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d672",
+   "off": 54898,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e096}{809c}の{e097}WAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d691",
+   "off": 54929,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e096}{809c}の{e097}WAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d6a9",
+   "off": 54953,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e096}{809c}の{e097}WAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d6c6",
+   "off": 54982,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "イヴ\n{e096}{809c}の{e097}WAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d6dc",
+   "off": 55004,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "ディアス\n{e096}{809c}の{e097}WAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d6f4",
+   "off": 55028,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "ノエル\n{e096}{809c}の{e097}WAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d70b",
+   "off": 55051,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e096}{809c}の{e097}WAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d725",
+   "off": 55077,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e096}{809c}の{e097}WAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d73e",
+   "off": 55102,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "ルカ\n{e096}{809c}の{e097}WAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d754",
+   "off": 55124,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "サラ\n{e096}{809c}の{e097}WAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d76a",
+   "off": 55146,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n{e096}{809c}の{e097}BUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d784",
+   "off": 55172,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n{e096}{809c}の{e097}BUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d79e",
+   "off": 55198,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e096}{809c}の{e097}BUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d7b6",
+   "off": 55222,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "アーサー\n{e096}{809c}の{e097}BUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d7ce",
+   "off": 55246,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "レイア\n{e096}{809c}の{e097}BUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d7e5",
+   "off": 55269,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e096}{809c}の{e097}BUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d7ff",
+   "off": 55295,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "パスカ\n{e096}{809c}の{e097}BUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d816",
+   "off": 55318,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e096}{809c}の{e097}BUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d82e",
+   "off": 55342,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e096}{809c}の{e097}BUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d847",
+   "off": 55367,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "シャルン\n{e096}{809c}の{e097}BUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d85f",
+   "off": 55391,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e096}{809c}の{e097}BUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d87e",
+   "off": 55422,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e096}{809c}の{e097}BUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d896",
+   "off": 55446,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e096}{809c}の{e097}BUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d8b3",
+   "off": 55475,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "イヴ\n{e096}{809c}の{e097}BUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d8c9",
+   "off": 55497,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "ディアス\n{e096}{809c}の{e097}BUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d8e1",
+   "off": 55521,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "ノエル\n{e096}{809c}の{e097}BUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d8f8",
+   "off": 55544,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e096}{809c}の{e097}BUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d912",
+   "off": 55570,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e096}{809c}の{e097}BUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d92b",
+   "off": 55595,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "ルカ\n{e096}{809c}の{e097}BUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d941",
+   "off": 55617,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "サラ\n{e096}{809c}の{e097}BUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d957",
+   "off": 55639,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n右下向きの{e099}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d97d",
+   "off": 55677,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n右下向きの{e099}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d9a3",
+   "off": 55715,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "アッシュ\n右下向きの{e099}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d9c7",
+   "off": 55751,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "アーサー\n右下向きの{e099}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:d9eb",
+   "off": 55787,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "レイア\n右下向きの{e099}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:da0e",
+   "off": 55822,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "エレアノール\n右下向きの{e099}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:da34",
+   "off": 55860,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "パスカ\n右下向きの{e099}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:da57",
+   "off": 55895,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "レベッカ\n右下向きの{e099}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:da7b",
+   "off": 55931,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "フェルカド\n右下向きの{e099}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:daa0",
+   "off": 55968,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "シャルン\n右下向きの{e099}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:dac4",
+   "off": 56004,
+   "len": 43,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n右下向きの{e099}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:daef",
+   "off": 56047,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "ジェシカ\n右下向きの{e099}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:db13",
+   "off": 56083,
+   "len": 41,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n右下向きの{e099}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:db3c",
+   "off": 56124,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "イヴ\n右下向きの{e099}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:db5e",
+   "off": 56158,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "ディアス\n右下向きの{e099}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:db82",
+   "off": 56194,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "ノエル\n右下向きの{e099}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:dba5",
+   "off": 56229,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "マレフィクス\n右下向きの{e099}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:dbcb",
+   "off": 56267,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "ステラミラ\n右下向きの{e099}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:dbf0",
+   "off": 56304,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "ルカ\n右下向きの{e099}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:dc12",
+   "off": 56338,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "サラ\n右下向きの{e099}{e096}{809c}の{e097}\nSLEEP({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:dc34",
+   "off": 56372,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n右下向きの{e099}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:dc58",
+   "off": 56408,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n右下向きの{e099}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:dc7c",
+   "off": 56444,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "アッシュ\n右下向きの{e099}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:dc9e",
+   "off": 56478,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "アーサー\n右下向きの{e099}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:dcc0",
+   "off": 56512,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "レイア\n右下向きの{e099}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:dce1",
+   "off": 56545,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "エレアノール\n右下向きの{e099}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:dd05",
+   "off": 56581,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "パスカ\n右下向きの{e099}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:dd26",
+   "off": 56614,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "レベッカ\n右下向きの{e099}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:dd48",
+   "off": 56648,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "フェルカド\n右下向きの{e099}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:dd6b",
+   "off": 56683,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "シャルン\n右下向きの{e099}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:dd8d",
+   "off": 56717,
+   "len": 41,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n右下向きの{e099}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ddb6",
+   "off": 56758,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "ジェシカ\n右下向きの{e099}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ddd8",
+   "off": 56792,
+   "len": 39,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n右下向きの{e099}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:ddff",
+   "off": 56831,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "イヴ\n右下向きの{e099}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:de1f",
+   "off": 56863,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "ディアス\n右下向きの{e099}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:de41",
+   "off": 56897,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "ノエル\n右下向きの{e099}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:de62",
+   "off": 56930,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "マレフィクス\n右下向きの{e099}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:de86",
+   "off": 56966,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "ステラミラ\n右下向きの{e099}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:dea9",
+   "off": 57001,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "ルカ\n右下向きの{e099}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:dec9",
+   "off": 57033,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "サラ\n右下向きの{e099}{e096}{809c}の{e097}\nNOR({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:dee9",
+   "off": 57065,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n右下向きの{e099}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:df0e",
+   "off": 57102,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n右下向きの{e099}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:df33",
+   "off": 57139,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "アッシュ\n右下向きの{e099}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:df56",
+   "off": 57174,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "アーサー\n右下向きの{e099}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:df79",
+   "off": 57209,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "レイア\n右下向きの{e099}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:df9b",
+   "off": 57243,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "エレアノール\n右下向きの{e099}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:dfc0",
+   "off": 57280,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "パスカ\n右下向きの{e099}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:dfe2",
+   "off": 57314,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "レベッカ\n右下向きの{e099}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e005",
+   "off": 57349,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "フェルカド\n右下向きの{e099}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e029",
+   "off": 57385,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "シャルン\n右下向きの{e099}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e04c",
+   "off": 57420,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n右下向きの{e099}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e076",
+   "off": 57462,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "ジェシカ\n右下向きの{e099}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e099",
+   "off": 57497,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n右下向きの{e099}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e0c1",
+   "off": 57537,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "イヴ\n右下向きの{e099}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e0e2",
+   "off": 57570,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "ディアス\n右下向きの{e099}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e105",
+   "off": 57605,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "ノエル\n右下向きの{e099}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e127",
+   "off": 57639,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "マレフィクス\n右下向きの{e099}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e14c",
+   "off": 57676,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "ステラミラ\n右下向きの{e099}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e170",
+   "off": 57712,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "ルカ\n右下向きの{e099}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e191",
+   "off": 57745,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "サラ\n右下向きの{e099}{e096}{809c}の{e097}\nWAIT({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e1b2",
+   "off": 57778,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}男\n右下向きの{e099}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e1d7",
+   "off": 57815,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "{e080}人{e081}女\n右下向きの{e099}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e1fc",
+   "off": 57852,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "アッシュ\n右下向きの{e099}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e21f",
+   "off": 57887,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "アーサー\n右下向きの{e099}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e242",
+   "off": 57922,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "レイア\n右下向きの{e099}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e264",
+   "off": 57956,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "エレアノール\n右下向きの{e099}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e289",
+   "off": 57993,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "パスカ\n右下向きの{e099}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e2ab",
+   "off": 58027,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "レベッカ\n右下向きの{e099}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e2ce",
+   "off": 58062,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "フェルカド\n右下向きの{e099}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e2f2",
+   "off": 58098,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "シャルン\n右下向きの{e099}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e315",
+   "off": 58133,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n右下向きの{e099}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e33f",
+   "off": 58175,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "ジェシカ\n右下向きの{e099}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e362",
+   "off": 58210,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n右下向きの{e099}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e38a",
+   "off": 58250,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "イヴ\n右下向きの{e099}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e3ab",
+   "off": 58283,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "ディアス\n右下向きの{e099}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e3ce",
+   "off": 58318,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "ノエル\n右下向きの{e099}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e3f0",
+   "off": 58352,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "マレフィクス\n右下向きの{e099}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e415",
+   "off": 58389,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "ステラミラ\n右下向きの{e099}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e439",
+   "off": 58425,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "ルカ\n右下向きの{e099}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e45a",
+   "off": 58458,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "サラ\n右下向きの{e099}{e096}{809c}の{e097}\nBUSY({e085})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e47b",
+   "off": 58491,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "{1c:63}魔力を―定の方向に\n{e09a}ね返す{e08a}のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e49b",
+   "off": 58523,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "{1c:63}魔力を―定の方向に\n{e09a}ね返す{e08a}のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e4bb",
+   "off": 58555,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "{1c:63}魔力を―定の方向に\n{e09a}ね返す{e08a}のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e4db",
+   "off": 58587,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "{1c:63}魔力を―定の方向に\n{e09a}ね返す{e08a}のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e4fb",
+   "off": 58619,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "{1c:63}魔力を―定の方向に\n{e09a}ね返す{e08a}のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e51b",
+   "off": 58651,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "{1c:63}魔力を―定の方向に\n{e09a}ね返す{e08a}のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e53b",
+   "off": 58683,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "{1c:63}魔力を―定の方向に\n{e09a}ね返す{e08a}のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e55b",
+   "off": 58715,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e55c",
+   "off": 58716,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e55d",
+   "off": 58717,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "{1c:63}魔力を―定の方向に\n{e09a}ね返す{e08a}のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e57d",
+   "off": 58749,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "{1c:63}魔力を―定の方向に\n{e09a}ね返す{e08a}のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e59d",
+   "off": 58781,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "{1c:63}魔力を―定の方向に\n{e09a}ね返す{e08a}のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e5bd",
+   "off": 58813,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "{1c:63}魔力を―定の方向に\n{e09a}ね返す{e08a}のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e5dd",
+   "off": 58845,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "{1c:63}魔力を―定の方向に\n{e09a}ね返す{e08a}のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e5fd",
+   "off": 58877,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "{1c:63}魔力を―定の方向に\n{e09a}ね返す{e08a}のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e61d",
+   "off": 58909,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "{1c:63}魔力を―定の方向に\n{e09a}ね返す{e08a}のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e63d",
+   "off": 58941,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e63e",
+   "off": 58942,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e63f",
+   "off": 58943,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "{1c:63}魔力を―定の方向に\n{e09a}ね返す{e08a}のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#27:e65f",
+   "off": 58975,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "{1c:63}魔力を―定の方向に\n{e09a}ね返す{e08a}のようだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  }
+ ],
+ "entry": 27
+}

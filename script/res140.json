@@ -1,0 +1,3007 @@
+{
+ "source": "RES#140",
+ "kind": "scene",
+ "banks": [
+  {
+   "kind": "M4",
+   "at": 189944,
+   "parts": [
+    {
+     "kind": "glyph",
+     "at": 189960,
+     "size": 1536,
+     "cells": 96
+    },
+    {
+     "kind": "M2",
+     "at": 191496,
+     "size": 8376,
+     "strings": 298
+    }
+   ]
+  }
+ ],
+ "strings": [
+  {
+   "id": "RES#140:2ee66",
+   "off": 192102,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "{e080}いテーブルがある。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2ee74",
+   "off": 192116,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "{e080}いテーブルがある。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2ee82",
+   "off": 192130,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "アロンの{e081}でできてるみたいだな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2ee96",
+   "off": 192150,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "ただの机だ。これといって変わった\nところはないよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2eeb2",
+   "off": 192178,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "ただの机だ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2eebc",
+   "off": 192188,
+   "len": 63,
+   "bank": "0.1",
+   "jp": "シンプルな樺造の{e084}卓です。\n強度もあまりありませんが、\nこの町で多くを望むのは{8196}{82e5}いなのでしょう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2eefb",
+   "off": 192251,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "って、何のことはないただの机だぜ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2ef0f",
+   "off": 192271,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "ただの机みたいだけど・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2ef1e",
+   "off": 192286,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "単なる机だ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2ef29",
+   "off": 192297,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "ただの{e080}いテーブルだよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2ef39",
+   "off": 192313,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e086}のないテーブルですね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2ef49",
+   "off": 192329,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "なんにも変わったところはないけど?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2ef5d",
+   "off": 192349,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e086}のないテーブルですね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2ef6d",
+   "off": 192365,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "ただのテーブル。\n変わったところは{e087}にナシ。\nこれでいい?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2ef92",
+   "off": 192402,
+   "len": 39,
+   "bank": "0.1",
+   "jp": "不安定な樺造だ。\nよほど{e088}の悪い{e089}人が\n{e08a}ったのだろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2efb9",
+   "off": 192441,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "ただのテーブルよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2efc5",
+   "off": 192453,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2efcc",
+   "off": 192460,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "{e087}に変わったところはないよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2efdd",
+   "off": 192477,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "{e087}に変わったところは\nありませんが・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2eff4",
+   "off": 192500,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "別におかしなところはないと\n思うけど・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f00c",
+   "off": 192524,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{e081}の扉だ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f014",
+   "off": 192532,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{e081}の扉だ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f01c",
+   "off": 192540,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "この{e081}は見たことないな。\n{e08c}の{e08d}の{e081}なのかな?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f03a",
+   "off": 192570,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "ただのドアだ。\n{e087}に変わったところはないよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f055",
+   "off": 192597,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "ただの扉だ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f05f",
+   "off": 192607,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "{e087}におかしなところはありませんが・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f074",
+   "off": 192628,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "って、何のことはないただの扉だぜ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f088",
+   "off": 192648,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "ただの扉みたいだけど・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f097",
+   "off": 192663,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "単なる扉だ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f0a2",
+   "off": 192674,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "ただのドアだよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f0ad",
+   "off": 192685,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "こんなドアより、\nぼくは君の心のドアを{e08e}けたいな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f0ce",
+   "off": 192718,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "なんにも変わったところはないけど?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f0e2",
+   "off": 192738,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "ただのドアですよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f0ee",
+   "off": 192750,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "変わったところは{e087}にないわ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f0ff",
+   "off": 192767,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e087}におかしいところはない。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f10e",
+   "off": 192782,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "ただのドアよ。入るの?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f11e",
+   "off": 192798,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f125",
+   "off": 192805,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "{e087}に変わったところはないよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f136",
+   "off": 192822,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "{e087}に変わったところはありませんが・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f14c",
+   "off": 192844,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "別におかしなところはないけど・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f15f",
+   "off": 192863,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e081}の椅子だ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f169",
+   "off": 192873,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e081}の椅子だ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f173",
+   "off": 192883,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "これもアロンの{e081}でできてる\nみたいだな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f18b",
+   "off": 192907,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "ただの椅子だ。\n{e087}に変わったところはないよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f1a6",
+   "off": 192934,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "ただの椅子だ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f1b2",
+   "off": 192946,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "廃{e091}から{e08a}られたようですね。\nその{82a7}にはよくできていると\n思います。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f1da",
+   "off": 192986,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "・・・どう見てもただの椅子だよな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f1ef",
+   "off": 193007,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "ただの椅子だよね・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f1fd",
+   "off": 193021,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "ただの椅子だ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f209",
+   "off": 193033,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "ただのイスだよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f214",
+   "off": 193044,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "{e092}乏くさい椅子ですよね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f225",
+   "off": 193061,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "あたしこのイス嫌い。\n背中のところが圃くってさ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f244",
+   "off": 193092,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "ただの椅子ですよ。\n君の{e094}い足なら届かないでしょうが。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f266",
+   "off": 193126,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "ただの椅子よ。\nで、これの何を知りたいの?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f281",
+   "off": 193153,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e087}におかしいところはない。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f290",
+   "off": 193168,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "ただの椅子よ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f29a",
+   "off": 193178,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f2a1",
+   "off": 193185,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "ただのイスだよね。\n{e087}に変わったところはないと思うな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f2c2",
+   "off": 193218,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "{e087}に変わったところはありませんが・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f2d8",
+   "off": 193240,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "別におかしなところはないけど・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f2eb",
+   "off": 193259,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "{e081}の小{e096}がある。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f2f7",
+   "off": 193271,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "{e081}の小{e096}がある。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f303",
+   "off": 193283,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "{e081}の{e096}だ。\nでも人のだからじろじろ見るのは\nやめとくよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f324",
+   "off": 193316,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "ただの小{e096}だ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f32e",
+   "off": 193326,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "ただの{e096}だ。\nそれとも中に興味があるのか?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f349",
+   "off": 193353,
+   "len": 56,
+   "bank": "0.1",
+   "jp": "コンパクトな{e097}{e098}{e096}です。\n鍵はかかっていませんが、\n強度的に鍵をつけても無駄でしょう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f381",
+   "off": 193409,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "中身が知りたいのか?\nオレは興味ねえから自{8198}で調べろよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f3a9",
+   "off": 193449,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "ただの小{e096}だよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f3b4",
+   "off": 193460,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "ただの{e096}だ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f3be",
+   "off": 193470,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "ただの{e096}だよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f3c7",
+   "off": 193479,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "{e09a}みますか{01}?\n大{8095}夫{02}、誰にも言いませんから。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f3e6",
+   "off": 193510,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "こういうの見るとこっそり{e08e}けたく\nなるよね。ならない?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f405",
+   "off": 193541,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "中に興味があるんですか?\nこれだから{e092}乏人は・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f427",
+   "off": 193575,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "カギはかかってないみたいよ。\nよかったわね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f440",
+   "off": 193600,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e087}におかしいところはない。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f44f",
+   "off": 193615,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "ただの小{e096}よ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f459",
+   "off": 193625,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f460",
+   "off": 193632,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "ただの小{e096}だよね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f46c",
+   "off": 193644,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "ただの{e096}ですよね。\n{e087}に変わったところはないと\n思うのですが・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f492",
+   "off": 193682,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "ただの{e096}だよ。\n別におかしなところはないけど・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f4ae",
+   "off": 193710,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "小さな机がある。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f4b9",
+   "off": 193721,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "小さな机がある。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f4c4",
+   "off": 193732,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "小さな机だな。\n別に変わったところはないぞ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f4df",
+   "off": 193759,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "ただの机だ。\n{e087}に変わったところはないよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f4f8",
+   "off": 193784,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "ただの机だ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f502",
+   "off": 193794,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "サイドテーブルですね。\n廃{e091}でできているようです。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f520",
+   "off": 193824,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "・・・これ見ることに何か意味が\nあるのか?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f53b",
+   "off": 193851,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "小さな机だね。子供用なのかな・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f552",
+   "off": 193874,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "ただの台だ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f55c",
+   "off": 193884,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "かわいいテーブルだね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f56a",
+   "off": 193898,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "{e092}乏くさい机ですね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f578",
+   "off": 193912,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "なんにも変わったところはないけど?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f58c",
+   "off": 193932,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "これのことを机っていうんですよ。\n知っていましたか?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f5aa",
+   "off": 193962,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "どう見てもただの机ね。\n何も変わったところはないわ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f5c9",
+   "off": 193993,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e087}におかしいところはない。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f5d8",
+   "off": 194008,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "ただのサイドテーブルよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f5e7",
+   "off": 194023,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f5ee",
+   "off": 194030,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "かわいい机だね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f5f8",
+   "off": 194040,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "{e087}に変わったところは\nありませんが・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f60f",
+   "off": 194063,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "別におかしなところはないと\n思うけど・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f627",
+   "off": 194087,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "ろうそくがある。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f630",
+   "off": 194096,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "ろうそくがある。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f639",
+   "off": 194105,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "ろうそくだ。\n田{e09d}じゃ{e09e}くて{e09f}えなかったけど、\nあるところにはあるんだな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f663",
+   "off": 194147,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "ただのろうそくだ。\n{e087}に変わったところはないよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f67e",
+   "off": 194174,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "ただのろうそくだ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f68a",
+   "off": 194186,
+   "len": 62,
+   "bank": "0.1",
+   "jp": "―般的なろうそくは{e0a1}畜の脂肪など\nから{e08a}られるそうですが、\nこれは動物性のものでは\nないようですね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f6c8",
+   "off": 194248,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "ろうそくか・・・みやげにいいかもな",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f6da",
+   "off": 194266,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "臭いのないろうそくって\n珍しいんだよね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f6f1",
+   "off": 194289,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "ただの蝋燭だ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f6fd",
+   "off": 194301,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "ろうそくの{e0a7}っていいよね。\nあたし好きだな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f716",
+   "off": 194326,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "ただのろうそくですよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f722",
+   "off": 194338,
+   "len": 44,
+   "bank": "0.1",
+   "jp": "ろうそくって臭くて嫌いだけど、\nこの町のってニオイしないよね。\nなんでだろ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f74e",
+   "off": 194382,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "ただのろうそくですよ。\n君の目は{e0a8}りですか?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f769",
+   "off": 194409,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "ただのろうそく。\nそんなに気になるなら自{8198}でみれば?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f788",
+   "off": 194440,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "これを調べることに\nどんな意味があるというのだ?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f7a5",
+   "off": 194469,
+   "len": 93,
+   "bank": "0.1",
+   "jp": "ろうそくは動植物から摂取した\n脂肪{e0ab}と、{e09e}{e0ac}―価アルコールとを\nエステル{e0ae}させたもの。{1a}このろうそくはよく{e0af}{e0b0}しているから\n臭いがしないだけよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f802",
+   "off": 194562,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f809",
+   "off": 194569,
+   "len": 52,
+   "bank": "0.1",
+   "jp": "ろうそくのともしびってきれいだね。\nあたし、この町に来るまで\nろうそくって見たことなかったんだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f83d",
+   "off": 194621,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "ろうそくですよね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f847",
+   "off": 194631,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "ろうそくの{e0a7}を見てると\n心が落ち着くよね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f862",
+   "off": 194658,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "燭台がある。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f86b",
+   "off": 194667,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "燭台がある。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f874",
+   "off": 194676,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "ろうそくだ。\n田{e09d}じゃ{e09e}くて{e09f}えなかったけど、\nあるところにはあるんだな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f89e",
+   "off": 194718,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "ただの燭台だ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f8a8",
+   "off": 194728,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "ただの燭台だ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f8b4",
+   "off": 194740,
+   "len": 62,
+   "bank": "0.1",
+   "jp": "―般的なろうそくは{e0a1}畜の脂肪など\nから{e08a}られるそうですが、\nこれは動物性のものでは\nないようですね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f8f2",
+   "off": 194802,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "ろうそくか・・・みやげにいいかもな",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f904",
+   "off": 194820,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "臭いのないろうそくって\n珍しいんだよね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f91b",
+   "off": 194843,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "ただの蝋燭だ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f927",
+   "off": 194855,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "ろうそくの{e0a7}っていいよね。\nあたし好きだな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f940",
+   "off": 194880,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "ただのろうそくですよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f94c",
+   "off": 194892,
+   "len": 44,
+   "bank": "0.1",
+   "jp": "ろうそくって臭くて嫌いだけど、\nこの町のってニオイしないよね。\nなんでだろ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f978",
+   "off": 194936,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "ただのろうそくですよ。\n君の目は節{e0b2}ですか?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f994",
+   "off": 194964,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "ただのろうそく。\nそんなに気になるなら自{8198}でみれば?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f9b3",
+   "off": 194995,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "これを調べることに\nどんな意味があるというのだ?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2f9d0",
+   "off": 195024,
+   "len": 93,
+   "bank": "0.1",
+   "jp": "ろうそくは動植物から摂取した\n脂肪{e0ab}と、{e09e}{e0ac}―価アルコールとを\nエステル{e0ae}させたもの。{1a}このろうそくはよく{e0af}{e0b0}しているから\n臭いがしないだけよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fa2d",
+   "off": 195117,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fa34",
+   "off": 195124,
+   "len": 52,
+   "bank": "0.1",
+   "jp": "ろうそくのともしびってきれいだね。\nあたし、この町に来るまで\nろうそくって見たことなかったんだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fa68",
+   "off": 195176,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "燭台ですよね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fa72",
+   "off": 195186,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "ろうそくの{e0a7}を見てると\n心が落ち着くよね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fa8d",
+   "off": 195213,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "手すりだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fa94",
+   "off": 195220,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "手すりだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fa9b",
+   "off": 195227,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "ひびが入ってる。\nぼくが座ると{e0b4}れちゃいそうだな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fab8",
+   "off": 195256,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "ただの手すりだ。\n{e087}に変わったところはないよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fad3",
+   "off": 195283,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "・・・こんな物を調べることに\n意味があるのか?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2faf0",
+   "off": 195312,
+   "len": 39,
+   "bank": "0.1",
+   "jp": "手すりですね。\nひびが入っていますので\n強度には期待できません。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fb17",
+   "off": 195351,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "・・・こんなもの調べさせて\n何が嬉しいんだ?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fb32",
+   "off": 195378,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "手すりだよね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fb3b",
+   "off": 195387,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "ただの手すりだ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fb47",
+   "off": 195399,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "手すりだよ。すこしひびが入ってる。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fb5b",
+   "off": 195419,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "{e092}相な手すりですね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fb69",
+   "off": 195433,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "ただの手すりだよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fb74",
+   "off": 195444,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "{e092}相な手すりですね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fb82",
+   "off": 195458,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "手すり以外には見えないけど。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fb95",
+   "off": 195477,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "これを調べることに\nどんな意味があるというのだ?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fbb2",
+   "off": 195506,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "ただの手すりよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fbbc",
+   "off": 195516,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fbc3",
+   "off": 195523,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "ただの手すりだよ。\n別に変わったところはないよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fbdf",
+   "off": 195551,
+   "len": 49,
+   "bank": "0.1",
+   "jp": "{e0b5}段から寝ぼけて落ちたことが\nありますので、\nこういう手すりがあると\nありがたいです。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fc10",
+   "off": 195600,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "ただの手すりだよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fc1b",
+   "off": 195611,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e081}の机がある。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fc25",
+   "off": 195621,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "{e081}の机がある。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fc2f",
+   "off": 195631,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "これもアロンの{e081}でできているぞ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fc43",
+   "off": 195651,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "ただの机だ。\n別段変わったところはないよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fc5d",
+   "off": 195677,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "・・・ただの机だ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fc68",
+   "off": 195688,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "堅い{e081}でできている机ですね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fc7a",
+   "off": 195706,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "・・・こんなもの調べさせて\n何が嬉しいんだ?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fc95",
+   "off": 195733,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "ただの机だよね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fc9f",
+   "off": 195743,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "ただの机だ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fca9",
+   "off": 195753,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "ただの机だよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fcb2",
+   "off": 195762,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "{e092}相な机ですね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fcbe",
+   "off": 195774,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "ふつーの机じゃないの?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fccc",
+   "off": 195788,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "{e092}相な机ですね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fcd8",
+   "off": 195800,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "机以外には見えないけど。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fce9",
+   "off": 195817,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{e087}におかしいところはない。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fcf8",
+   "off": 195832,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "ただの机よ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fd00",
+   "off": 195840,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fd07",
+   "off": 195847,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "ただの机だよ。\n{e087}に変わったところはないんじゃないかな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fd27",
+   "off": 195879,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "ただの机ですよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fd31",
+   "off": 195889,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "ただの机だよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fd3a",
+   "off": 195898,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "ベッドだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fd42",
+   "off": 195906,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "ベッドだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fd4a",
+   "off": 195914,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "見てると眠たくなってくるよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fd5b",
+   "off": 195931,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "ただのベッドだ。\n{e087}に変わったところはないよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fd77",
+   "off": 195959,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "・・・これを調べて、\n―体どんなメリットがある?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fd96",
+   "off": 195990,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "綿に動物の毛を編み{e0bb}んだ\nシーツですね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fdb3",
+   "off": 196019,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "これを見習って{e0bd}{e0be}しろってか?\nよけいなお世話だよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fdd6",
+   "off": 196054,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "ただのベッドだよね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fde3",
+   "off": 196067,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "ただの寝所だ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fdef",
+   "off": 196079,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "ただのベッドだよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fdfb",
+   "off": 196091,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "恋する2人の愛を育む聖地です。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fe13",
+   "off": 196115,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "ただのベッドだよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fe1f",
+   "off": 196127,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "{e0c0}に{e0c1}ねます。\n君にはこれが何に見えるんです?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fe3d",
+   "off": 196157,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "で、これからどうすればいいの?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fe4e",
+   "off": 196174,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "これを調べることに\nどんな意味があるというのだ?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fe6b",
+   "off": 196203,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "綿にカルファの毛が{e0c2}ざってるわね。\n寒い地方の素{e091}よ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fe91",
+   "off": 196241,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fe98",
+   "off": 196248,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "見た目より暖かいんだね。\n何でできてるのかな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2feb4",
+   "off": 196276,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2feb5",
+   "off": 196277,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "{e0c5}{e0c6}のベッドだよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fec3",
+   "off": 196291,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "ベッドだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fecb",
+   "off": 196299,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "ベッドだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fed3",
+   "off": 196307,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "見てると眠たくなってくるよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2fee4",
+   "off": 196324,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "ただのベッドだ。\n{e087}に変わったところはないよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2ff00",
+   "off": 196352,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "・・・これを調べて、\n―体どんなメリットがある?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2ff1f",
+   "off": 196383,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "綿に動物の毛を編み{e0bb}んだ\nシーツですね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2ff3c",
+   "off": 196412,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "どう見てもただのベッドだぜ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2ff4e",
+   "off": 196430,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "ただのベッドだよね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2ff5b",
+   "off": 196443,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "ただの寝所だ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2ff67",
+   "off": 196455,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "ただのベッドだよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2ff73",
+   "off": 196467,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "恋する2人の愛を育む聖地です。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2ff8b",
+   "off": 196491,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "ただのベッドだよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2ff97",
+   "off": 196503,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "{e0c0}に{e0c1}ねます。\n君にはこれが何に見えるんです?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2ffb5",
+   "off": 196533,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "で、これからどうすればいいの?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2ffc6",
+   "off": 196550,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "これを調べることに\nどんな意味があるというのだ?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:2ffe3",
+   "off": 196579,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "綿にカルファの毛が{e0c2}ざってるわね。\n寒い地方の素{e091}よ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30009",
+   "off": 196617,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30010",
+   "off": 196624,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "見た目より暖かいんだね。\n何でできてるのかな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:3002c",
+   "off": 196652,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:3002d",
+   "off": 196653,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "{e0c5}{e0c6}のベッドだよ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:3003b",
+   "off": 196667,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{10}の日{e0c7}\n({80d9}ボタンでセーブします)",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30057",
+   "off": 196695,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{10}の日{e0c7}\n({80d9}ボタンでセーブします)",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30073",
+   "off": 196723,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "{10}の本なのかい?\nふうん、変わった本だな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:3008e",
+   "off": 196750,
+   "len": 53,
+   "bank": "0.1",
+   "jp": "君の日{e0c7}{e0c8}かい?\nこれが{e0c9}き終わる頃には\n僕達はどのくらい\n強くなってるのかな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:300c3",
+   "off": 196803,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "お前の日{e0c7}などを{e0ca}んで\n何の意味がある?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:300e0",
+   "off": 196832,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "あなたの日{e0c7}{e0c8}ですか?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:300f0",
+   "off": 196848,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "お前、ひょっとして\n日{e0c7}なんてつけてるのか?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:3010b",
+   "off": 196875,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "{10}の日{e0c7}?\nあたしもつけようかな・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30123",
+   "off": 196899,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "お前の本か・・・?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30130",
+   "off": 196912,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "へえ、{10}\n日{e0c7}つけてるんだ。\nいいね。あたしもつけようかな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30151",
+   "off": 196945,
+   "len": 62,
+   "bank": "0.1",
+   "jp": "{10}さんの日{e0c7}ですか?\n{e0ca}まなくとも\n{10}さんのぼくへの慕情が\n伝わってきます。{1a}でも{e0ca}んでみたいなあ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:3018f",
+   "off": 197007,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "へえ、{10}って\n日{e0c7}なんてつけてるんだ。\n意外だね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:301ad",
+   "off": 197037,
+   "len": 63,
+   "bank": "0.1",
+   "jp": "男の日{e0c7}などに興味はありません。\nどうせぼくの美しさに{80c7}する妬みしか\n{e0c9}かれていないとは思いますが・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:301ec",
+   "off": 197100,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "あなたの日{e0c7}?\nへえ、意外だわ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30203",
+   "off": 197123,
+   "len": 49,
+   "bank": "0.1",
+   "jp": "自{8198}の所有物すら\n把握できていないのか?\nもう少し自{8198}の頭で考えろ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30234",
+   "off": 197172,
+   "len": 36,
+   "bank": "0.1",
+   "jp": "あなたの本でしょ?\nあたしが{e0d0}{e0d1}する必要なんてあるの?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30258",
+   "off": 197208,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:3025f",
+   "off": 197215,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{10}の日{e0c7}{e0c8}なんだよね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:3026e",
+   "off": 197230,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{10}さんの日{e0c7}{e0c8}ですか?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:3027e",
+   "off": 197246,
+   "len": 40,
+   "bank": "0.1",
+   "jp": "{10}さん、日{e0c7}つけてるの?\nいいことばっかりで\n―杯になるといいね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:302a6",
+   "off": 197286,
+   "len": 5,
+   "bank": "0.1",
+   "jp": "ポスト",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:302ab",
+   "off": 197291,
+   "len": 5,
+   "bank": "0.1",
+   "jp": "ポスト",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:302b0",
+   "off": 197296,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:302b7",
+   "off": 197303,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:302be",
+   "off": 197310,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:302c5",
+   "off": 197317,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:302cc",
+   "off": 197324,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:302d3",
+   "off": 197331,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:302da",
+   "off": 197338,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:302e1",
+   "off": 197345,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:302e8",
+   "off": 197352,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:302ef",
+   "off": 197359,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:302f6",
+   "off": 197366,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:302fd",
+   "off": 197373,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30304",
+   "off": 197380,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:3030b",
+   "off": 197387,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30312",
+   "off": 197394,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30319",
+   "off": 197401,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30320",
+   "off": 197408,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30327",
+   "off": 197415,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "・・・・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:3032e",
+   "off": 197422,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "トントン",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30334",
+   "off": 197428,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "ちょっと休んでいこうかな?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30344",
+   "off": 197444,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "{1c:63}・・・うるせえな! 寝かしてくれよ!",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:3035d",
+   "off": 197469,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "{1c:63}だれ? こんな時{8196}に・・・\nまた{e0d1}日ね・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:3037c",
+   "off": 197500,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "郵{8395}{e096}を覗いてみますか?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:3038e",
+   "off": 197518,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "{13}宛てのメモを見つけた。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:3039f",
+   "off": 197535,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "{e0ca}んでから捨てる|{e0ca}まずに捨てる|{e0ca}まずに立ち去る",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:303c0",
+   "off": 197568,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "   郵{8395}{e096}選{e0d7}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:303ce",
+   "off": 197582,
+   "len": 170,
+   "bank": "0.1",
+   "jp": "1F ジェシカ|1F レイア|1F ディアス|1F フェルカド|1F ルカ|1F アッシュ|1F パスカ|1F シャルン|1F レベッカ|1F サラ|1F アーサー|2F エレアノール|2F オルフェウス|2F イヴ|2F ステラ・ミラ|2F マレフィクス|2F ノエル",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30478",
+   "off": 197752,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "中に{14}が入っている",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30484",
+   "off": 197764,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "中はからっぽだ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:3048d",
+   "off": 197773,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "何かプレゼントしますか?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:3049e",
+   "off": 197790,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "  贈り物選{e0d7}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:304aa",
+   "off": 197802,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "{15}、大喜びだろうな。|{15}、大喜びだろうな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:304c4",
+   "off": 197828,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{15}、喜んでくれそうかな。|{15}、喜んでくれそうかな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:304e0",
+   "off": 197856,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "{15}、喜んでくれるかな{01}?|{15}y喜pG/lk+J{01}?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:304fc",
+   "off": 197884,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "怒るかな・・・これじゃ。|怒るかな・・・これじゃ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30518",
+   "off": 197912,
+   "len": 47,
+   "bank": "0.1",
+   "jp": " {15}の郵{8395}{e096}に\n そっと{14}を入れた\n                        ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30547",
+   "off": 197959,
+   "len": 122,
+   "bank": "0.1",
+   "jp": "{10}。\n本当に、ありがとうな。\nこれ、あげるよ。\n     {03}アッシュ|{10}。\n大辜ニスルヨ\n本当ニ、アリガトウナ。\n     {03}アッシュ|アリガトウナ、{10}\nモラットクヨ。\n     {03}アッシュ|アリガトウナ、{10}\n     {03}アッシュ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:305c1",
+   "off": 198081,
+   "len": 142,
+   "bank": "0.1",
+   "jp": "ありがとう、{10}。\n大切に{809c}わせてもらうよ\n僕から、これを君に。\n     {03}アーサー|{10}。\n大切ニ{809c}ワセテモラウヨ\nアリガトウ。\n     {03}アーサー|アリガトウ、{10}\n{809c}ワセテモラウヨ。\n     {03}アーサー|アリガトウ、{10}\nモラッテオクヨ。\n     {03}アーサー",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:3064f",
+   "off": 198223,
+   "len": 121,
+   "bank": "0.1",
+   "jp": "感謝している、\n礼だ、受け取ってくれ。\n           {03}レイア|感謝シテイル、礼ヲイウ\n           {03}レイア|感謝スル。\n           {03}レイア|預カッテオク。\n           {03}レイア",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:306c8",
+   "off": 198344,
+   "len": 148,
+   "bank": "0.1",
+   "jp": "感謝いたします。\n大切に扱いますね\nそして、これをあなたに。\n       {03}エレアノール|感謝イタシマス。\n大切ニ扱イマスネ\n       {03}エレアノール|アリガトウ。\n感謝イタシマス。\n       {03}エレアノール|感謝イタシマス。\n       {03}エレアノール",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:3075c",
+   "off": 198492,
+   "len": 109,
+   "bank": "0.1",
+   "jp": "ありがとな。\n大辜に{809c}うよ。\nそれからこれ、やるよ。\n     {03}パスカ|アリガトナ。\n大辜ニ{809c}ウヨ。\n     {03}パスカ|悪イナ。\nモラットクヨ。\n     {03}パスカ|アリガトヨ。\n     {03}パスカ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:307c9",
+   "off": 198601,
+   "len": 59,
+   "bank": "0.1",
+   "jp": "台詞 好感度{01}x3|台詞 好感度{01}x2|台詞 好感度{01}x1|台詞 好感度{01}-",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30804",
+   "off": 198660,
+   "len": 59,
+   "bank": "0.1",
+   "jp": "台詞 好感度{01}x3|台詞 好感度{01}x2|台詞 好感度{01}x1|台詞 好感度{01}-",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:3083f",
+   "off": 198719,
+   "len": 113,
+   "bank": "0.1",
+   "jp": "ありがとう、{10}。\nこれ、受け取って。\n      {03}シャルン|アリガトウ、{10}。\n      {03}シャルン|アリガトウ、{10}。\n{809c}ワシテモラウネ。\n      {03}シャルン|アリガトウ、{10}。\n{809c}ウネ。\n      {03}シャルン",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:308b0",
+   "off": 198832,
+   "len": 59,
+   "bank": "0.1",
+   "jp": "オルフェウス台詞1|9F-J贈j物o\"j,H&z|オルフェウス台詞3|オルフェウス台詞4",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:308eb",
+   "off": 198891,
+   "len": 122,
+   "bank": "0.1",
+   "jp": "ありがと、{10}\nこれほしかったんだ。\nこれ、お礼だよ。\n       {03}ジェシカ|アリガト、{10}\nコレホシカッタンダ。\n       {03}ジェシカ|アリガト、{10}\nモラットクヨ。\n       {03}ジェシカ|モラットクヨ、{10}\n       {03}ジェシカ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30965",
+   "off": 199013,
+   "len": 56,
+   "bank": "0.1",
+   "jp": "オルフェウス台詞1|オルフェウス台詞2|オルフェウス台詞3|オルフェウス台詞4",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:3099d",
+   "off": 199069,
+   "len": 134,
+   "bank": "0.1",
+   "jp": "なかなか、わかってるじゃない。\nもらっておくわね。\nこれ、お礼よ。\n        {03}イヴ|ナカナカ、ワカッテルジャナイ。\nモラッテオクワネ。\n        {03}イヴ|モラッテオクワネ。\n        {03}イヴ|イチオウ、モラッテオクワネ。\n        {03}イヴ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30a23",
+   "off": 199203,
+   "len": 130,
+   "bank": "0.1",
+   "jp": "もらっておこう。\n―応、礼を言っておく。\nこれは、礼だ。\n     {03}ディアス|モラッテオコウ。\n―応、礼ヲ言ッテオク。\n     {03}ディアス|モラッテオコウ。\n     {03}ディアス|役ニ立タンガ\nモラッテオコウ。\n     {03}ディアス",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30aa5",
+   "off": 199333,
+   "len": 107,
+   "bank": "0.1",
+   "jp": "あの、ありがとう。\n大辜にするわ。\nこれ、お礼です。|あの、ありがとう。\n大辜にするわ。\n      {03}ノエル|モラッテオクワ、\nアリガト。\n      {03}ノエル|モラッテオクワ。\n      {03}ノエル",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30b10",
+   "off": 199440,
+   "len": 4,
+   "bank": "0.1",
+   "jp": "|||",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30b14",
+   "off": 199444,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "{10}\n少し見直しちゃった|ありがとね、{10}|ありがとね|なに?これ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30b39",
+   "off": 199481,
+   "len": 182,
+   "bank": "0.1",
+   "jp": "{10}さん、大切に{809c}います。\nお礼です。差し上げます、\nお{809c}い下さい。\n           {03}ルカ|{10}サン\nアリガトウゴザイマス。\n大切ニ{809c}イマス。\n           {03}ルカ|{10}サン\nアリガトウゴザイマス。\n{809c}ワシテモライマスネ。\n           {03}ルカ|スミマセン、{10}サン。\nアリガトウゴザイマス。\n           {03}ルカ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30bef",
+   "off": 199663,
+   "len": 149,
+   "bank": "0.1",
+   "jp": "{10}さん、うれしい。\nずっと、大切にするね。\nこれ、{809c}ってね。\n           {03}サラ|{10}サン、ウレシイ。\nズット、大切ニスルネ。\n           {03}サラ|アリガトウ、{10}サン\nダイジニ{809c}ウネ。\n           {03}サラ|{10}サン、アリガトウ。\n           {03}サラ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30c84",
+   "off": 199812,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "胸騒ぎがするから、\nいま保存するのはやめておこう",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#140:30ca1",
+   "off": 199841,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "胸騒ぎがするから、\nいま保存するのはやめとくわ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  }
+ ],
+ "entry": 140
+}

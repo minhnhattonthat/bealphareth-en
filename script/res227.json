@@ -1,0 +1,717 @@
+{
+ "source": "RES#227",
+ "kind": "scene",
+ "banks": [
+  {
+   "kind": "M4",
+   "at": 111008,
+   "parts": [
+    {
+     "kind": "glyph",
+     "at": 111024,
+     "size": 752,
+     "cells": 47
+    },
+    {
+     "kind": "M2",
+     "at": 111776,
+     "size": 1264,
+     "strings": 69
+    }
+   ]
+  }
+ ],
+ "strings": [
+  {
+   "id": "RES#227:1b534",
+   "off": 111924,
+   "len": 50,
+   "bank": "0.1",
+   "jp": "{1c:1e}はじめまして、{10}さん。\n旅支度の資{e083}$300です。\n大辜に{809c}って下さい。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b566",
+   "off": 111974,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "   ミュージック",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b571",
+   "off": 111985,
+   "len": 75,
+   "bank": "0.1",
+   "jp": "  十{e084}{03}キー 曲選{e086}\n   {80d9}   再生\n   {e088}   停止\n  {01}LR1  停止{02}・{e08a}始\n   {e08b}   終了",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b5bc",
+   "off": 112060,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "道具{e08c}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b5c3",
+   "off": 112067,
+   "len": 5,
+   "bank": "0.1",
+   "jp": "{e08d}{e08c}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b5c8",
+   "off": 112072,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "泊まる|{03}セーブ|{03}ロード",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b5d7",
+   "off": 112087,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "{1c:1e}―泊$50ですけどよろしいですか",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b5ee",
+   "off": 112110,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{1c:1e}ごゆっくりお休み下さい",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b5fe",
+   "off": 112126,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "トラップ売場",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b608",
+   "off": 112136,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "トラップを{e08f}う {14}ページ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b619",
+   "off": 112153,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "トラップを売る {14}ページ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b62a",
+   "off": 112170,
+   "len": 4,
+   "bank": "0.1",
+   "jp": "L1",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b62e",
+   "off": 112174,
+   "len": 4,
+   "bank": "0.1",
+   "jp": "R1",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b632",
+   "off": 112178,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "{e08f}いに来た|売りに来た|用はない",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b648",
+   "off": 112200,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{09:02}---------",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b655",
+   "off": 112213,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "{0b:01}{0e} {14}{0f}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b65c",
+   "off": 112220,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "所持{e083}  {0e}{14}{0f}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b668",
+   "off": 112232,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e090}{e091}の所持{e092} {0e}{14}{0f}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b678",
+   "off": 112248,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "{0e}{14} {0f}x{0e} {15} {0f}={0e} {16}{0f}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b689",
+   "off": 112265,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "{14}を{15}{e093}{e08f}いますか?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b697",
+   "off": 112279,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "{14}を{15}{e093}売りますか?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b6a5",
+   "off": 112293,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "トラップ売場閥店",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b6b3",
+   "off": 112307,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "デバッグの{e096}場",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b6bf",
+   "off": 112319,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "いこいの{e096}場",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b6c8",
+   "off": 112328,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "このメンバーでよろしいですか",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b6d9",
+   "off": 112345,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "メンバーチェンジをやめますか",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b6ea",
+   "off": 112362,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{14}をメンバーに加えますか",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b6fa",
+   "off": 112378,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "{14}をメンバーから外しますか",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b70b",
+   "off": 112395,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "{14}は{e097}にメンバーになっています",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b71e",
+   "off": 112414,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{14}と{15}をチェンジしますか",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b72d",
+   "off": 112429,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "{80ee}富士",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b734",
+   "off": 112436,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "TSUTAYA",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b73d",
+   "off": 112445,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "ジャンプ{e08c}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b745",
+   "off": 112453,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "緊急医療ER",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b751",
+   "off": 112465,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "{80ee}器{e08c}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b758",
+   "off": 112472,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "お{e083}が足りませんね。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b765",
+   "off": 112485,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "{1c:1e}{14}さんの{80ee}器を直すには\n{15}必要ですがよろしいですか?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b788",
+   "off": 112520,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "ステータス{e09c}示",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b793",
+   "off": 112531,
+   "len": 116,
+   "bank": "0.1",
+   "jp": "{14}|{03}アッシュ|{03}アーサー|{03}レイア|{03}エレアノール|{03}パスカ|{e09d}消済ミ|{e09d}消済ミ|{03}シャルン|{e09d}消済ミ|{03}ジェシカ|{03}オルフェウス |{03}イブ|{03}ディアズ|{03}ノエル|{e09d}消済ミ|{e09d}消済ミ|{03}ルカ|{03}サラ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b807",
+   "off": 112647,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{e09e} 前:",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b80f",
+   "off": 112655,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "レベル:",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b816",
+   "off": 112662,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b817",
+   "off": 112663,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "H P:",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b81d",
+   "off": 112669,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "M P:",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b823",
+   "off": 112675,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b824",
+   "off": 112676,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "経験値:",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b82d",
+   "off": 112685,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "次まで:",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b834",
+   "off": 112692,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "ステージ選{e086}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b83e",
+   "off": 112702,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "このメンバーでミッションを{e08a}始しますか",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b858",
+   "off": 112728,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ミッションをキャンセルしますか",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b86c",
+   "off": 112748,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{14}をメンバーに加えますか",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b87c",
+   "off": 112764,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "{14}をメンバーから外しますか",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b88d",
+   "off": 112781,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "{14}は{e097}にメンバーになっています",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b8a0",
+   "off": 112800,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "{14}と{15}をチェンジしますか",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b8af",
+   "off": 112815,
+   "len": 11,
+   "bank": "0.1",
+   "jp": "{1c:1e}いらっしゃいませ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b8ba",
+   "off": 112826,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "{1c:1e}ありがとうございました",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b8c8",
+   "off": 112840,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{1c:1f}いらっしゃい",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b8d1",
+   "off": 112849,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{1c:1f}ありがとう",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b8d9",
+   "off": 112857,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "ロード中",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b8e0",
+   "off": 112864,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "{1c:1e}いらっしゃいませ\nどなたの{80ee}器を直しますか",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b8fb",
+   "off": 112891,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "LAOX サウンド館",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b909",
+   "off": 112905,
+   "len": 7,
+   "bank": "0.1",
+   "jp": "{80ee}富士",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b910",
+   "off": 112912,
+   "len": 5,
+   "bank": "0.1",
+   "jp": "出口",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b915",
+   "off": 112917,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "{14}がいないとミッションには入れません",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b92b",
+   "off": 112939,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "{e0a2}{e0a3}{e0a4}険者の{e08d}{e0a5}\n  仲{8196}を誘う・休憩",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b94b",
+   "off": 112971,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "オイゲンの{e0a7}場\n  アイテム販売",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b963",
+   "off": 112995,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "迷{e0a9}入口\n  ミッション選{e086}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b979",
+   "off": 113017,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "トラップ強{e0aa}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#227:1b983",
+   "off": 113027,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e0ab}{e0ac}{e0ad}{83af}{e0ae}地",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  }
+ ],
+ "entry": 227
+}

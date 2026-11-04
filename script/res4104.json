@@ -1,0 +1,3317 @@
+{
+ "source": "RES#4104",
+ "kind": "scene",
+ "banks": [
+  {
+   "kind": "M4",
+   "at": 40832,
+   "parts": [
+    {
+     "kind": "glyph",
+     "at": 40848,
+     "size": 416,
+     "cells": 26
+    },
+    {
+     "kind": "M2",
+     "at": 41264,
+     "size": 7200,
+     "strings": 329
+    }
+   ]
+  }
+ ],
+ "strings": [
+  {
+   "id": "RES#4104:a3cc",
+   "off": 41932,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:020038}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a3d2",
+   "off": 41938,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:020038}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a3d8",
+   "off": 41944,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:020038}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a3de",
+   "off": 41950,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:020038}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a3e4",
+   "off": 41956,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:020038}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a3ea",
+   "off": 41962,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "けっ、何だてめえ!\n用もないのに入ってくるな!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a40b",
+   "off": 41995,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:02ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a411",
+   "off": 42001,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "けっ、何だてめえ!\n用もないのに入ってくるな!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a432",
+   "off": 42034,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:02ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a438",
+   "off": 42040,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ガキに用はねえ。うせろ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a44c",
+   "off": 42060,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:02ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a452",
+   "off": 42066,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ガキに用はねえ。うせろ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a466",
+   "off": 42086,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:02ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a46c",
+   "off": 42092,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "て、てめえ、\n何しに来やがった!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a483",
+   "off": 42115,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:02ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a489",
+   "off": 42121,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "て、てめえ、\n何しに来やがった!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a4a0",
+   "off": 42144,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:02ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a4a6",
+   "off": 42150,
+   "len": 83,
+   "bank": "0.1",
+   "jp": "外にも魔物が現れたんだって?\nなんだか面白い辜になってきた\nじゃねえか。{1a}でもよ、どうしてこんな面白い時に\n外に出られねえんだ?{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a4f9",
+   "off": 42233,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:020138}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a4ff",
+   "off": 42239,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "けっ、外に出たかったぜ。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a511",
+   "off": 42257,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:02ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a517",
+   "off": 42263,
+   "len": 83,
+   "bank": "0.1",
+   "jp": "外にも魔物が現れたんだって?\nなんだか面白い辜になってきた\nじゃねえか。{1a}でもよ、どうしてこんな面白い時に\n外に出られねえんだ?{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a56a",
+   "off": 42346,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:020138}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a570",
+   "off": 42352,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "けっ、外に出たかったぜ。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a582",
+   "off": 42370,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:02ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a588",
+   "off": 42376,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "なんだ、てめえか・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a597",
+   "off": 42391,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:02ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a59d",
+   "off": 42397,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "なんだ、てめえか・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a5ac",
+   "off": 42412,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:02ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a5b2",
+   "off": 42418,
+   "len": 187,
+   "bank": "0.1",
+   "jp": "正直に言うとな、\n俺はバルデスの野郎に憧れてたんだ。\nだから、今度のことは\nどうしても納得出来ねえ。{1a}どうしてお前が死なねえんだ?\n俺達の仲{8196}をあれだけ殺して、\nしかもそのせいでバルデスの旦那が\nあんな怪我をしたっていうのに、{1a}どうしてお前だけ\nのうのうと生きてられる?\nどうしてだ、答えろよ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a66d",
+   "off": 42605,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:020138}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a673",
+   "off": 42611,
+   "len": 60,
+   "bank": "0.1",
+   "jp": "けっ・・・\nバルデスの頼みじゃなきゃ\n誰がお前みたいな身勝手なガキを\n生かしておくかよ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a6af",
+   "off": 42671,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:020138}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a6b5",
+   "off": 42677,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "消えろ、不愉快だ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a6c7",
+   "off": 42695,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:02ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a6cd",
+   "off": 42701,
+   "len": 187,
+   "bank": "0.1",
+   "jp": "正直に言うとな、\n俺はバルデスの野郎に憧れてたんだ。\nだから、今度のことは\nどうしても納得出来ねえ。{1a}どうしてお前が死なねえんだ?\n俺達の仲{8196}をあれだけ殺して、\nしかもそのせいでバルデスの旦那が\nあんな怪我をしたっていうのに、{1a}どうしてお前だけ\nのうのうと生きてられる?\nどうしてだ、答えろよ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a788",
+   "off": 42888,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:020138}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a78e",
+   "off": 42894,
+   "len": 60,
+   "bank": "0.1",
+   "jp": "けっ・・・\nバルデスの頼みじゃなきゃ\n誰がお前みたいな身勝手なガキを\n生かしておくかよ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a7ca",
+   "off": 42954,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:020138}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a7d0",
+   "off": 42960,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "消えろ、不愉快だ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a7e2",
+   "off": 42978,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:02ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a7e8",
+   "off": 42984,
+   "len": 187,
+   "bank": "0.1",
+   "jp": "正直に言うとな、\n俺はバルデスの野郎に憧れてたんだ。\nだから、今度のことは\nどうしても納得出来ねえ。{1a}どうしてお前が死なねえんだ?\n俺達の仲{8196}をあれだけ殺して、\nしかもそのせいでバルデスの旦那が\nあんな怪我をしたっていうのに、{1a}どうしてお前だけ\nのうのうと生きてられる?\nどうしてだ、答えろよ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a8a3",
+   "off": 43171,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:020138}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a8a9",
+   "off": 43177,
+   "len": 60,
+   "bank": "0.1",
+   "jp": "けっ・・・\nバルデスの頼みじゃなきゃ\n誰がお前みたいな身勝手なガキを\n生かしておくかよ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a8e5",
+   "off": 43237,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:020138}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a8eb",
+   "off": 43243,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "消えろ、不愉快だ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a8fd",
+   "off": 43261,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:02ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a903",
+   "off": 43267,
+   "len": 187,
+   "bank": "0.1",
+   "jp": "正直に言うとな、\n俺はバルデスの野郎に憧れてたんだ。\nだから、今度のことは\nどうしても納得出来ねえ。{1a}どうしてお前が死なねえんだ?\n俺達の仲{8196}をあれだけ殺して、\nしかもそのせいでバルデスの旦那が\nあんな怪我をしたっていうのに、{1a}どうしてお前だけ\nのうのうと生きてられる?\nどうしてだ、答えろよ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a9be",
+   "off": 43454,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:020138}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:a9c4",
+   "off": 43460,
+   "len": 60,
+   "bank": "0.1",
+   "jp": "けっ・・・\nバルデスの頼みじゃなきゃ\n誰がお前みたいな身勝手なガキを\n生かしておくかよ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:aa00",
+   "off": 43520,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:020138}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:aa06",
+   "off": 43526,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "消えろ、不愉快だ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:aa18",
+   "off": 43544,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:02ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:aa1e",
+   "off": 43550,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "なんだ小僧! 失せやがれ!!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:aa36",
+   "off": 43574,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:02ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:aa3c",
+   "off": 43580,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "けっ、うるせえ女だぜ・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:aa4e",
+   "off": 43598,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:02ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:aa54",
+   "off": 43604,
+   "len": 145,
+   "bank": "0.1",
+   "jp": "アレクシス=デューラーか・・・\n知ってるよ。いや、忘れもしねえ。{1a}初夜権とかいう、\n聞いたこともねえ言葉を盾に\nオレの許嫁は奴に奪われた。{1a}はなから俺にはもったいない\n女だったんだな、\n枯れ井戸に身を投げて\n自殺しちまったよ。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:aae5",
+   "off": 43749,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:020138}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:aaeb",
+   "off": 43755,
+   "len": 108,
+   "bank": "0.1",
+   "jp": "復讐を誓い山賊になったが、\nまるで獅子に逆らう蟻さ。\n何も出来ねえまま7年が過ぎ、{1a}俺は賞金をかけられ、\n仲{8196}には裏切られ、\nここに逃げ込む羽目になった。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ab57",
+   "off": 43863,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:020138}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ab5d",
+   "off": 43869,
+   "len": 137,
+   "bank": "0.1",
+   "jp": "恥をしのんで言う。\n俺はここ1番の勝負に\nいつも負けて生きてきた。{1a}今回もそうだ。\n凶戦士にやられた傷で\nもう体はまともに動かねえ・・・{1a}だが、このまま負け犬で\n死にたくはねえ。\n若いの、頼む・・・\n奴を殺してくれ。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:abe6",
+   "off": 44006,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:020138}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:abec",
+   "off": 44012,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "頼む、奴を殺してくれ。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:abfe",
+   "off": 44030,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:02ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ac04",
+   "off": 44036,
+   "len": 145,
+   "bank": "0.1",
+   "jp": "アレクシス=デューラーか・・・\n知ってるよ。いや、忘れもしねえ。{1a}初夜権とかいう、\n聞いたこともねえ言葉を盾に\nオレの許嫁は奴に奪われた。{1a}はなから俺にはもったいない\n女だったんだな、\n枯れ井戸に身を投げて\n自殺しちまったよ。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ac95",
+   "off": 44181,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:020138}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ac9b",
+   "off": 44187,
+   "len": 108,
+   "bank": "0.1",
+   "jp": "復讐を誓い山賊になったが、\nまるで獅子に逆らう蟻さ。\n何も出来ねえまま7年が過ぎ、{1a}俺は賞金をかけられ、\n仲{8196}には裏切られ、\nここに逃げ込む羽目になった。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ad07",
+   "off": 44295,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:020138}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ad0d",
+   "off": 44301,
+   "len": 137,
+   "bank": "0.1",
+   "jp": "恥をしのんで言う。\n俺はここ1番の勝負に\nいつも負けて生きてきた。{1a}今回もそうだ。\n凶戦士にやられた傷で\nもう体はまともに動かねえ・・・{1a}だが、このまま負け犬で\n死にたくはねえ。\n若いの、頼む・・・\n奴を殺してくれ。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ad96",
+   "off": 44438,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:020138}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ad9c",
+   "off": 44444,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "頼む、奴を殺してくれ。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:adae",
+   "off": 44462,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:02ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:adb4",
+   "off": 44468,
+   "len": 68,
+   "bank": "0.1",
+   "jp": "アザレの石か・・・\n笑っちまうわな。\nこんなつまらねえ嘘に世界中が\n40年{8196}も踊らされていたなんてよ。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:adf8",
+   "off": 44536,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:02ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:adfe",
+   "off": 44542,
+   "len": 68,
+   "bank": "0.1",
+   "jp": "アザレの石か・・・\n笑っちまうわな。\nこんなつまらねえ嘘に世界中が\n40年{8196}も踊らされていたなんてよ。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ae42",
+   "off": 44610,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:02ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ae48",
+   "off": 44616,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "あの不死者の野郎・・・\nなんだか可哀{e094}だなぁ・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ae6d",
+   "off": 44653,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:02ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ae73",
+   "off": 44659,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "あの不死者の野郎・・・\nなんだか可哀{e094}だなぁ・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ae98",
+   "off": 44696,
+   "len": 6,
+   "bank": "0.1",
+   "jp": "{0c:02ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ae9e",
+   "off": 44702,
+   "len": 46,
+   "bank": "0.1",
+   "jp": "運が良かったな。\n今盗んだモノが俺のだったら\nお前は今頃死んでるぜ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:aecc",
+   "off": 44748,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "早く消えろ。目障りだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:aedc",
+   "off": 44764,
+   "len": 46,
+   "bank": "0.1",
+   "jp": "運が良かったな。\n今盗んだモノが俺のだったら\nお前は今頃死んでるぜ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:af0a",
+   "off": 44810,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "早く消えろ。目障りだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:af1a",
+   "off": 44826,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "ちっ・・・\n好き放題しやがって・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:af30",
+   "off": 44848,
+   "len": 47,
+   "bank": "0.1",
+   "jp": "どうしてバルデスの旦那は\nこんな奴をかばったんだ・・・\nったく、情けねえぜ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:af5f",
+   "off": 44895,
+   "len": 44,
+   "bank": "0.1",
+   "jp": "けっ・・・不死者の野郎・・・\nオレ様をコケにしやがって・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:af8b",
+   "off": 44939,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:1009020138}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:af93",
+   "off": 44947,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "ん? なんでもねえよ、\nあっち行きやがれ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:afb0",
+   "off": 44976,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:100902ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:afb8",
+   "off": 44984,
+   "len": 44,
+   "bank": "0.1",
+   "jp": "けっ・・・不死者の野郎・・・\nオレ様をコケにしやがって・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:afe4",
+   "off": 45028,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:1009020138}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:afec",
+   "off": 45036,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "ん? なんでもねえよ、\nあっち行きやがれ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b009",
+   "off": 45065,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:100902ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b011",
+   "off": 45073,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "邪魔だ、このクソガキが!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b026",
+   "off": 45094,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:100902ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b02e",
+   "off": 45102,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "邪魔だ、このクソガキが!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b043",
+   "off": 45123,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:100902ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b04b",
+   "off": 45131,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "な、なんだよ、やるって言うのか!?{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b062",
+   "off": 45154,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:100702ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b06a",
+   "off": 45162,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "な、なんだよ、やるって言うのか!?{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b081",
+   "off": 45185,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:100702ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b089",
+   "off": 45193,
+   "len": 53,
+   "bank": "0.1",
+   "jp": "いくら町の外に化け物が出ようと\nオレはてめえのやったことを\n絶{80c7}に忘れねえぜ。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b0be",
+   "off": 45246,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:100702ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b0c6",
+   "off": 45254,
+   "len": 53,
+   "bank": "0.1",
+   "jp": "いくら町の外に化け物が出ようと\nオレはてめえのやったことを\n絶{80c7}に忘れねえぜ。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b0fb",
+   "off": 45307,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:100702ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b103",
+   "off": 45315,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "オレはてめえのやったことを\n絶{80c7}に忘れねえぜ。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b123",
+   "off": 45347,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:100702ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b12b",
+   "off": 45355,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "オレはてめえのやったことを\n絶{80c7}に忘れねえぜ。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b14b",
+   "off": 45387,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:100702ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b153",
+   "off": 45395,
+   "len": 59,
+   "bank": "0.1",
+   "jp": "へっへっ・・・いい気味だ。\nこれでクムランの野郎が\n消えてくれれば\n言うこと無しなんだがな。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b18e",
+   "off": 45454,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:100702ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b196",
+   "off": 45462,
+   "len": 59,
+   "bank": "0.1",
+   "jp": "へっへっ・・・いい気味だ。\nこれでクムランの野郎が\n消えてくれれば\n言うこと無しなんだがな。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b1d1",
+   "off": 45521,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:100702ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b1d9",
+   "off": 45529,
+   "len": 59,
+   "bank": "0.1",
+   "jp": "へっへっ・・・いい気味だ。\nこれでクムランの野郎が\n消えてくれれば\n言うこと無しなんだがな。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b214",
+   "off": 45588,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:100702ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b21c",
+   "off": 45596,
+   "len": 59,
+   "bank": "0.1",
+   "jp": "へっへっ・・・いい気味だ。\nこれでクムランの野郎が\n消えてくれれば\n言うこと無しなんだがな。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b257",
+   "off": 45655,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:100702ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b25f",
+   "off": 45663,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "オ、オレに文句でもあるのかぁ!?{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b278",
+   "off": 45688,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:100702ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b280",
+   "off": 45696,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "オ、オレに文句でもあるのかぁ!?{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b299",
+   "off": 45721,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:100702ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b2a1",
+   "off": 45729,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "オ、オレに文句でもあるのかぁ!?{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b2ba",
+   "off": 45754,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:100702ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b2c2",
+   "off": 45762,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "オ、オレに文句でもあるのかぁ!?{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b2db",
+   "off": 45787,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:100702ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b2e3",
+   "off": 45795,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b2e4",
+   "off": 45796,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b2e5",
+   "off": 45797,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b2e6",
+   "off": 45798,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b2e7",
+   "off": 45799,
+   "len": 43,
+   "bank": "0.1",
+   "jp": "持って行っても樺わねえぜ、\nどうせオレのじゃねえからよ。\nケッケッケッ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b312",
+   "off": 45842,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "ただし、\n後でチクらせてもらうからな。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b329",
+   "off": 45865,
+   "len": 43,
+   "bank": "0.1",
+   "jp": "持って行っても樺わねえぜ、\nどうせオレのじゃねえからよ。\nケッケッケッ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b354",
+   "off": 45908,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "好きにしろよ、\nケッケッケッ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b366",
+   "off": 45926,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "あ、それ・・・\nい、いえいえ、\nなんでもありませんです、はい・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b388",
+   "off": 45960,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "ど、どうぞ\n持って行ってくださいませ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b3a0",
+   "off": 45984,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b3a8",
+   "off": 45992,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "なんだぁ?\n俺に文句でもあるのか?{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b3c3",
+   "off": 46019,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b3cc",
+   "off": 46028,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b3d4",
+   "off": 46036,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "なんだぁ?\n俺に文句でもあるのか?{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b3ef",
+   "off": 46063,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b3f8",
+   "off": 46072,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b400",
+   "off": 46080,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "なんだぁ?\n俺に文句でもあるのか?{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b41b",
+   "off": 46107,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b424",
+   "off": 46116,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b42c",
+   "off": 46124,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "なんだぁ?\n俺に文句でもあるのか?{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b447",
+   "off": 46151,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b450",
+   "off": 46160,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b458",
+   "off": 46168,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "失せろ、このガキが!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b46a",
+   "off": 46186,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b473",
+   "off": 46195,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b47b",
+   "off": 46203,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "失せろ、このガキが!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b48d",
+   "off": 46221,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b496",
+   "off": 46230,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b49e",
+   "off": 46238,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "けっ、みんな気楽に\nはしゃぎやがって・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b4b9",
+   "off": 46265,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a0561538}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b4c2",
+   "off": 46274,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b4ca",
+   "off": 46282,
+   "len": 53,
+   "bank": "0.1",
+   "jp": "おやじとお袋のことが心配で\n夜も眠れねえ・・・\nこれも親不孝した罰だってのか?{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b4ff",
+   "off": 46335,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a0561538}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b508",
+   "off": 46344,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b510",
+   "off": 46352,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "ちっ、つまらねえ・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b51f",
+   "off": 46367,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b528",
+   "off": 46376,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b530",
+   "off": 46384,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "けっ、みんな気楽に\nはしゃぎやがって・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b54b",
+   "off": 46411,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a0561538}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b554",
+   "off": 46420,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b55c",
+   "off": 46428,
+   "len": 53,
+   "bank": "0.1",
+   "jp": "おやじとお袋のことが心配で\n夜も眠れねえ・・・\nこれも親不孝した罰だってのか?{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b591",
+   "off": 46481,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a0561538}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b59a",
+   "off": 46490,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b5a2",
+   "off": 46498,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "ちっ、つまらねえ・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b5b1",
+   "off": 46513,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b5ba",
+   "off": 46522,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b5c2",
+   "off": 46530,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "ちっ、ガキが・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b5d1",
+   "off": 46545,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b5da",
+   "off": 46554,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b5e2",
+   "off": 46562,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "ちっ、ガキが・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b5f1",
+   "off": 46577,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b5fa",
+   "off": 46586,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b602",
+   "off": 46594,
+   "len": 52,
+   "bank": "0.1",
+   "jp": "くそっ、悔しいじゃねえか・・・\n1度も奴に勝てないまま\n終わっちまうなんてよ・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b636",
+   "off": 46646,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b63f",
+   "off": 46655,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b647",
+   "off": 46663,
+   "len": 52,
+   "bank": "0.1",
+   "jp": "くそっ、悔しいじゃねえか・・・\n1度も奴に勝てないまま\n終わっちまうなんてよ・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b67b",
+   "off": 46715,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b684",
+   "off": 46724,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b68c",
+   "off": 46732,
+   "len": 52,
+   "bank": "0.1",
+   "jp": "くそっ、悔しいじゃねえか・・・\n1度も奴に勝てないまま\n終わっちまうなんてよ・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b6c0",
+   "off": 46784,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b6c9",
+   "off": 46793,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b6d1",
+   "off": 46801,
+   "len": 52,
+   "bank": "0.1",
+   "jp": "くそっ、悔しいじゃねえか・・・\n1度も奴に勝てないまま\n終わっちまうなんてよ・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b705",
+   "off": 46853,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b70e",
+   "off": 46862,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b716",
+   "off": 46870,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "ちっ、ガキが・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b725",
+   "off": 46885,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b72e",
+   "off": 46894,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b736",
+   "off": 46902,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "ちっ、ガキが・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b745",
+   "off": 46917,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b74e",
+   "off": 46926,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b756",
+   "off": 46934,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "ちっ、ガキが・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b765",
+   "off": 46949,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b76e",
+   "off": 46958,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b776",
+   "off": 46966,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "ちっ、ガキが・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b785",
+   "off": 46981,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b78e",
+   "off": 46990,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b796",
+   "off": 46998,
+   "len": 68,
+   "bank": "0.1",
+   "jp": "アザレの石か・・・\n笑っちまうわな。\nこんなつまらねえ嘘に世界中が\n40年{8196}も踊らされていたなんてよ。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b7da",
+   "off": 47066,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b7e3",
+   "off": 47075,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b7eb",
+   "off": 47083,
+   "len": 68,
+   "bank": "0.1",
+   "jp": "アザレの石か・・・\n笑っちまうわな。\nこんなつまらねえ嘘に世界中が\n40年{8196}も踊らされていたなんてよ。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b82f",
+   "off": 47151,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b838",
+   "off": 47160,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b839",
+   "off": 47161,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b83a",
+   "off": 47162,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b842",
+   "off": 47170,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "セコい野郎だぜ・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b854",
+   "off": 47188,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a0020138}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b85d",
+   "off": 47197,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b865",
+   "off": 47205,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "早く消え失せろ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b875",
+   "off": 47221,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b87e",
+   "off": 47230,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b886",
+   "off": 47238,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "いつまで経ってもセコい野郎だ・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b8a0",
+   "off": 47264,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a0020138}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b8a9",
+   "off": 47273,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b8b1",
+   "off": 47281,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "早く消えろ。気{8198}悪い。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b8c5",
+   "off": 47301,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b8ce",
+   "off": 47310,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b8d6",
+   "off": 47318,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "けっ・・・ふざけた奴だ・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b8e9",
+   "off": 47337,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a0020138}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b8f2",
+   "off": 47346,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52a8b056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b8fa",
+   "off": 47354,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "けっ、早く消えろ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b90a",
+   "off": 47370,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52b8a002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b913",
+   "off": 47379,
+   "len": 45,
+   "bank": "0.1",
+   "jp": "けっ、気にくわねえツラだぜ・・・\nお前のことだよ、無視すんじゃねえ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b940",
+   "off": 47424,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:100702ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b948",
+   "off": 47432,
+   "len": 45,
+   "bank": "0.1",
+   "jp": "けっ、気にくわねえツラだぜ・・・\nお前のことだよ、無視すんじゃねえ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b975",
+   "off": 47477,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:100702ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b97d",
+   "off": 47485,
+   "len": 45,
+   "bank": "0.1",
+   "jp": "けっ、気にくわねえツラだぜ・・・\nお前のことだよ、無視すんじゃねえ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b9aa",
+   "off": 47530,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:100702ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b9b2",
+   "off": 47538,
+   "len": 45,
+   "bank": "0.1",
+   "jp": "けっ、気にくわねえツラだぜ・・・\nお前のことだよ、無視すんじゃねえ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b9df",
+   "off": 47583,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:100702ff38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b9e7",
+   "off": 47591,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b9e8",
+   "off": 47592,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b9e9",
+   "off": 47593,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b9ea",
+   "off": 47594,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b9eb",
+   "off": 47595,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b9ec",
+   "off": 47596,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b9ed",
+   "off": 47597,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b9ee",
+   "off": 47598,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b9ef",
+   "off": 47599,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b9f0",
+   "off": 47600,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b9f1",
+   "off": 47601,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b9f2",
+   "off": 47602,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b9f3",
+   "off": 47603,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b9f4",
+   "off": 47604,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b9f5",
+   "off": 47605,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b9f6",
+   "off": 47606,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b9f7",
+   "off": 47607,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b9f8",
+   "off": 47608,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:b9f9",
+   "off": 47609,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "何やってんだ、てめえ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ba06",
+   "off": 47622,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "素人がいきがりやがって・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ba17",
+   "off": 47639,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "おめえ、バカじゃねえのか?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ba28",
+   "off": 47656,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "ケッ、好きにやってろ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ba37",
+   "off": 47671,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "お持ち帰り下さいませ、\nへへ・・・",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ba4c",
+   "off": 47692,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "ま、まだ何か?",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ba56",
+   "off": 47702,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52384056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ba5e",
+   "off": 47710,
+   "len": 39,
+   "bank": "0.1",
+   "jp": "今すぐ出て行け。\nここはお前達の入ってくる\n所ではない。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ba85",
+   "off": 47749,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52483002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ba8e",
+   "off": 47758,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52384056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:ba96",
+   "off": 47766,
+   "len": 39,
+   "bank": "0.1",
+   "jp": "今すぐ出て行け。\nここはお前達の入ってくる\n所ではない。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:babd",
+   "off": 47805,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52483002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bac6",
+   "off": 47814,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52384056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bace",
+   "off": 47822,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "俺に何か・・・?{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:badd",
+   "off": 47837,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52483002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bae6",
+   "off": 47846,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52384056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:baee",
+   "off": 47854,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "俺に何か・・・?{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bafd",
+   "off": 47869,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52483002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bb06",
+   "off": 47878,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52384056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bb0e",
+   "off": 47886,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "消えろ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bb18",
+   "off": 47896,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52483002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bb21",
+   "off": 47905,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52384056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bb29",
+   "off": 47913,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "消えろ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bb33",
+   "off": 47923,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52483002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bb3c",
+   "off": 47932,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52384056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bb44",
+   "off": 47940,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "消えろ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bb4e",
+   "off": 47950,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52483002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bb57",
+   "off": 47959,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52384056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bb5f",
+   "off": 47967,
+   "len": 10,
+   "bank": "0.1",
+   "jp": "消えろ!{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bb69",
+   "off": 47977,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52483002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bb72",
+   "off": 47986,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52384056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bb7a",
+   "off": 47994,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "俺に何か・・・?{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bb89",
+   "off": 48009,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52483002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bb92",
+   "off": 48018,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52384056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bb9a",
+   "off": 48026,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "俺に何か・・・?{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bba9",
+   "off": 48041,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52483002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bbb2",
+   "off": 48050,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52384056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bbba",
+   "off": 48058,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "バルデス・・・\nもう1度戦いたかった・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bbd9",
+   "off": 48089,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52483002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bbe2",
+   "off": 48098,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52384056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bbea",
+   "off": 48106,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "バルデス・・・\nもう1度戦いたかった・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bc09",
+   "off": 48137,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52483002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bc12",
+   "off": 48146,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52384056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bc1a",
+   "off": 48154,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "バルデス・・・\nもう1度戦いたかった・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bc39",
+   "off": 48185,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52483002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bc42",
+   "off": 48194,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52384056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bc4a",
+   "off": 48202,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "バルデス・・・\nもう1度戦いたかった・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bc69",
+   "off": 48233,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52483002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bc72",
+   "off": 48242,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bc73",
+   "off": 48243,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bc74",
+   "off": 48244,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bc75",
+   "off": 48245,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bc76",
+   "off": 48246,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bc77",
+   "off": 48247,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bc78",
+   "off": 48248,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bc79",
+   "off": 48249,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bc7a",
+   "off": 48250,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52384056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bc82",
+   "off": 48258,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "呆れだな・・・{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bc8e",
+   "off": 48270,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:524830020138}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bc97",
+   "off": 48279,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52384056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bc9f",
+   "off": 48287,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "聞こえなかったか?\n早く消えろ。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bcb8",
+   "off": 48312,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52483002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bcc1",
+   "off": 48321,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52384056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bcc9",
+   "off": 48329,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "早く消えろ。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bcd5",
+   "off": 48341,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:524830020138}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bcde",
+   "off": 48350,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52384056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bce6",
+   "off": 48358,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "聞こえなかったか?\n早く消えろ。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bcff",
+   "off": 48383,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52483002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bd08",
+   "off": 48392,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52384056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bd10",
+   "off": 48400,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "早く消えろ。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bd1c",
+   "off": 48412,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:524830020138}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bd25",
+   "off": 48421,
+   "len": 8,
+   "bank": "0.1",
+   "jp": "{0c:52384056fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bd2d",
+   "off": 48429,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "聞こえなかったか?\n早く消えろ。{0c:fe}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#4104:bd46",
+   "off": 48454,
+   "len": 9,
+   "bank": "0.1",
+   "jp": "{0c:52483002fe38}",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  }
+ ],
+ "entry": 4104
+}

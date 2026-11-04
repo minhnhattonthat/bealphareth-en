@@ -1,0 +1,2827 @@
+{
+ "source": "RES#40",
+ "kind": "scene",
+ "banks": [
+  {
+   "kind": "M4",
+   "at": 63512,
+   "parts": [
+    {
+     "kind": "glyph",
+     "at": 63528,
+     "size": 528,
+     "cells": 33
+    },
+    {
+     "kind": "M2",
+     "at": 64056,
+     "size": 7760,
+     "strings": 280
+    }
+   ]
+  }
+ ],
+ "strings": [
+  {
+   "id": "RES#40:fc72",
+   "off": 64626,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e080}棺がある({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fc7f",
+   "off": 64639,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e080}棺がある({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fc8c",
+   "off": 64652,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "なにがはいってるのかな。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fc9e",
+   "off": 64670,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "{e080}棺だな。{e083}けてみるよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fcb3",
+   "off": 64691,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "・・・・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fcbf",
+   "off": 64703,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "施錠はされてないようです。\n{e083}けてみます。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fcdd",
+   "off": 64733,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "じゃあ、{e083}けるぜ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fced",
+   "off": 64749,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "{e083}けてみるね。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fcfb",
+   "off": 64763,
+   "len": 13,
+   "bank": "0.1",
+   "jp": "{e083}ける・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fd08",
+   "off": 64776,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "{e083}けてみるね。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fd16",
+   "off": 64790,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "じゃあ{e083}けてみます。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fd27",
+   "off": 64807,
+   "len": 35,
+   "bank": "0.1",
+   "jp": "中に入ってるのはあたしのだからね。\nじゃあ{e083}けるよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fd4a",
+   "off": 64842,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "じゃあ{e083}けてみます。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fd5b",
+   "off": 64859,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "{e083}けてみるわ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fd69",
+   "off": 64873,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "変{e086}{e087}の{e080}棺だ。{e083}ける。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fd81",
+   "off": 64897,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "変{e086}{e087}の{e080}棺ね。{e083}けるわよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fd9b",
+   "off": 64923,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "{e083}けるよ・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fda9",
+   "off": 64937,
+   "len": 41,
+   "bank": "0.1",
+   "jp": "これ棺なんだよね。\nなんだか{e083}けちゃいけない\n気もするけど・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fdd2",
+   "off": 64978,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "だ、誰も入っていませんよね・・・\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fdeb",
+   "off": 65003,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "じゃあ、{e083}けてみるね。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fdfd",
+   "off": 65021,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e088}の{e080}棺がある({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fe0d",
+   "off": 65037,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "{e088}の{e080}棺がある({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fe1d",
+   "off": 65053,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "もう{e083}いてるぞ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fe2c",
+   "off": 65068,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "もう{e083}いてるよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fe3b",
+   "off": 65083,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "もう用はない・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fe4b",
+   "off": 65099,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "もう{e088}のようです。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fe5b",
+   "off": 65115,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "もういいだろ、ここは。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fe6c",
+   "off": 65132,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "もう{e083}いてるよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fe7b",
+   "off": 65147,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "すでに{e083}いている。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fe8b",
+   "off": 65163,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "もう{e083}いてるよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fe9a",
+   "off": 65178,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "もう{e083}いてますよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:feaa",
+   "off": 65194,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "もうないじゃん。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:feb8",
+   "off": 65208,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "もう{e083}いてますよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fec8",
+   "off": 65224,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "もう{e083}いてるわ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fed7",
+   "off": 65239,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "変{e086}{e087}の{e080}棺だ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:feea",
+   "off": 65258,
+   "len": 44,
+   "bank": "0.1",
+   "jp": "変{e086}{e087}の{e080}棺ね。\n{e080}{e089}{e087}が{e08a}によって変{e08b}したものよ。\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:ff16",
+   "off": 65302,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "・・・・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:ff22",
+   "off": 65314,
+   "len": 37,
+   "bank": "0.1",
+   "jp": "これ棺なんだよね。\nでもどうして人が入ってないんだろ。\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:ff47",
+   "off": 65351,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "{e088}ですよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:ff53",
+   "off": 65363,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "もう{e088}っぽだよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:ff62",
+   "off": 65378,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:ff7d",
+   "off": 65405,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:ff98",
+   "off": 65432,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:ffaf",
+   "off": 65455,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "アーサー\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:ffc6",
+   "off": 65478,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "レイア\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:ffdc",
+   "off": 65500,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:fff5",
+   "off": 65525,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "パスカ\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1000b",
+   "off": 65547,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10022",
+   "off": 65570,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1003a",
+   "off": 65594,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "シャルン\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10051",
+   "off": 65617,
+   "len": 30,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1006f",
+   "off": 65647,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10086",
+   "off": 65670,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:100a2",
+   "off": 65698,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "イヴ\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:100b7",
+   "off": 65719,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "ディアス\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:100ce",
+   "off": 65742,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "ノエル\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:100e4",
+   "off": 65764,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:100fd",
+   "off": 65789,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10115",
+   "off": 65813,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ルカ\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1012a",
+   "off": 65834,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "サラ\n{e08e}{e08f}トラップOFF({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1013f",
+   "off": 65855,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10159",
+   "off": 65881,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10173",
+   "off": 65907,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10189",
+   "off": 65929,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "アーサー\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1019f",
+   "off": 65951,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "レイア\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:101b4",
+   "off": 65972,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:101cc",
+   "off": 65996,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "パスカ\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:101e1",
+   "off": 66017,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:101f7",
+   "off": 66039,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1020e",
+   "off": 66062,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "シャルン\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10224",
+   "off": 66084,
+   "len": 29,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10241",
+   "off": 66113,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10257",
+   "off": 66135,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10272",
+   "off": 66162,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "イヴ\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10286",
+   "off": 66182,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "ディアス\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1029c",
+   "off": 66204,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ノエル\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:102b1",
+   "off": 66225,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:102c9",
+   "off": 66249,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:102e0",
+   "off": 66272,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ルカ\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:102f4",
+   "off": 66292,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "サラ\n{e08e}{e08f}トラップON({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10308",
+   "off": 66312,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "床にスイッチがある({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1031a",
+   "off": 66330,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "床にスイッチがある({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1032c",
+   "off": 66348,
+   "len": 44,
+   "bank": "0.1",
+   "jp": "スイッチがあるぞ。\n上に物が乗ってるときだけ\n{e091}動するのかな。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10358",
+   "off": 66392,
+   "len": 42,
+   "bank": "0.1",
+   "jp": "スイッチがある。\n上に物をのせたときだけ{e091}動する\nみたいだ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10382",
+   "off": 66434,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "何かおもりになる物を持って\nくればいい・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:103a1",
+   "off": 66465,
+   "len": 65,
+   "bank": "0.1",
+   "jp": "{83af}んだときのみ{e091}動するようです。\n何かおもりになる物はありませんか?\n軽い物では駄目なようです。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:103e2",
+   "off": 66530,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "おもりになる物持ってこなくちゃな。\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:103fc",
+   "off": 66556,
+   "len": 31,
+   "bank": "0.1",
+   "jp": "{83af}んだときに{e091}動する\nスイッチなんだね。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1041b",
+   "off": 66587,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "おもりが必要だ・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1042d",
+   "off": 66605,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "おもりが必要なのかな。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10440",
+   "off": 66624,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "おもりが必要なんですね。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10454",
+   "off": 66644,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "おもりがあればいいんだね。\n{10}のっててよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1046f",
+   "off": 66671,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "おもりの出番ですよ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10481",
+   "off": 66689,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "おもりが必要みたいね。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10494",
+   "off": 66708,
+   "len": 32,
+   "bank": "0.1",
+   "jp": "―定以上の加童で{e091}動するようだな。\n({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:104b4",
+   "off": 66740,
+   "len": 33,
+   "bank": "0.1",
+   "jp": "かなり童たいスイッチね。\nおもりが必要だわ。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:104d5",
+   "off": 66773,
+   "len": 12,
+   "bank": "0.1",
+   "jp": "・・・・・・({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:104e1",
+   "off": 66785,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "おもりが必要なのかな。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:104f4",
+   "off": 66804,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "おもりが必要なんですね。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10508",
+   "off": 66824,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "おもりが必要なのかな。({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1051b",
+   "off": 66843,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\n{e092}ビームトラップ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10534",
+   "off": 66868,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\n{e092}ビームトラップ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1054d",
+   "off": 66893,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e092}ビームトラップ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10562",
+   "off": 66914,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "アーサー\n{e092}ビームトラップ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10577",
+   "off": 66935,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "レイア\n{e092}ビームトラップ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1058b",
+   "off": 66955,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e092}ビームトラップ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:105a2",
+   "off": 66978,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "パスカ\n{e092}ビームトラップ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:105b6",
+   "off": 66998,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e092}ビームトラップ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:105cb",
+   "off": 67019,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e092}ビームトラップ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:105e1",
+   "off": 67041,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "シャルン\n{e092}ビームトラップ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:105f6",
+   "off": 67062,
+   "len": 28,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e092}ビームトラップ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10612",
+   "off": 67090,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e092}ビームトラップ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10627",
+   "off": 67111,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e092}ビームトラップ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10641",
+   "off": 67137,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "イヴ\n{e092}ビームトラップ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10654",
+   "off": 67156,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ディアス\n{e092}ビームトラップ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10669",
+   "off": 67177,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ノエル\n{e092}ビームトラップ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1067d",
+   "off": 67197,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e092}ビームトラップ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10694",
+   "off": 67220,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e092}ビームトラップ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:106aa",
+   "off": 67242,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ルカ\n{e092}ビームトラップ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:106bd",
+   "off": 67261,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "サラ\n{e092}ビームトラップ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:106d0",
+   "off": 67280,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\n{e093}{e094}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:106e3",
+   "off": 67299,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\n{e093}{e094}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:106f6",
+   "off": 67318,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e093}{e094}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10706",
+   "off": 67334,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "アーサー\n{e093}{e094}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10716",
+   "off": 67350,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "レイア\n{e093}{e094}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10725",
+   "off": 67365,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e093}{e094}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10737",
+   "off": 67383,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "パスカ\n{e093}{e094}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10746",
+   "off": 67398,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e093}{e094}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10756",
+   "off": 67414,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e093}{e094}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10767",
+   "off": 67431,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "シャルン\n{e093}{e094}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10777",
+   "off": 67447,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e093}{e094}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1078e",
+   "off": 67470,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e093}{e094}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1079e",
+   "off": 67486,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e093}{e094}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:107b3",
+   "off": 67507,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "イヴ\n{e093}{e094}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:107c1",
+   "off": 67521,
+   "len": 16,
+   "bank": "0.1",
+   "jp": "ディアス\n{e093}{e094}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:107d1",
+   "off": 67537,
+   "len": 15,
+   "bank": "0.1",
+   "jp": "ノエル\n{e093}{e094}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:107e0",
+   "off": 67552,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e093}{e094}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:107f2",
+   "off": 67570,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e093}{e094}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10803",
+   "off": 67587,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "ルカ\n{e093}{e094}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10811",
+   "off": 67601,
+   "len": 14,
+   "bank": "0.1",
+   "jp": "サラ\n{e093}{e094}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1081f",
+   "off": 67615,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\nピンクの{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10836",
+   "off": 67638,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\nピンクの{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1084d",
+   "off": 67661,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "アッシュ\nピンクの{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10860",
+   "off": 67680,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "アーサー\nピンクの{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10873",
+   "off": 67699,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "レイア\nピンクの{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10885",
+   "off": 67717,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "エレアノール\nピンクの{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1089a",
+   "off": 67738,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "パスカ\nピンクの{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:108ac",
+   "off": 67756,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "レベッカ\nピンクの{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:108bf",
+   "off": 67775,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "フェルカド\nピンクの{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:108d3",
+   "off": 67795,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "シャルン\nピンクの{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:108e6",
+   "off": 67814,
+   "len": 26,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\nピンクの{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10900",
+   "off": 67840,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ジェシカ\nピンクの{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10913",
+   "off": 67859,
+   "len": 24,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\nピンクの{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1092b",
+   "off": 67883,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "イヴ\nピンクの{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1093c",
+   "off": 67900,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ディアス\nピンクの{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1094f",
+   "off": 67919,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "ノエル\nピンクの{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10961",
+   "off": 67937,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "マレフィクス\nピンクの{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10976",
+   "off": 67958,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ステラミラ\nピンクの{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1098a",
+   "off": 67978,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "ルカ\nピンクの{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1099b",
+   "off": 67995,
+   "len": 17,
+   "bank": "0.1",
+   "jp": "サラ\nピンクの{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:109ac",
+   "off": 68012,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\n{e096}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:109c2",
+   "off": 68034,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\n{e096}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:109d8",
+   "off": 68056,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e096}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:109ec",
+   "off": 68076,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "アーサー\n{e096}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10a00",
+   "off": 68096,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "レイア\n{e096}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10a13",
+   "off": 68115,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e096}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10a29",
+   "off": 68137,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "パスカ\n{e096}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10a3c",
+   "off": 68156,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e096}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10a50",
+   "off": 68176,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e096}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10a65",
+   "off": 68197,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "シャルン\n{e096}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10a79",
+   "off": 68217,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e096}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10a94",
+   "off": 68244,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e096}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10aa8",
+   "off": 68264,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e096}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10ac1",
+   "off": 68289,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "イヴ\n{e096}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10ad3",
+   "off": 68307,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ディアス\n{e096}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10ae7",
+   "off": 68327,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ノエル\n{e096}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10afa",
+   "off": 68346,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e096}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10b10",
+   "off": 68368,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e096}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10b25",
+   "off": 68389,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "ルカ\n{e096}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10b37",
+   "off": 68407,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "サラ\n{e096}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10b49",
+   "off": 68425,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}男\n{e098}{e097}の{e095}だ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10b60",
+   "off": 68448,
+   "len": 23,
+   "bank": "0.1",
+   "jp": "{e08c}人{e08d}女\n{e098}{e097}の{e095}だ({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10b77",
+   "off": 68471,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "アッシュ\n{e098}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10b8b",
+   "off": 68491,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "アーサー\n{e098}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10b9f",
+   "off": 68511,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "レイア\n{e098}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10bb2",
+   "off": 68530,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "エレアノール\n{e098}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10bc8",
+   "off": 68552,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "パスカ\n{e098}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10bdb",
+   "off": 68571,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "レベッカ\n{e098}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10bef",
+   "off": 68591,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "フェルカド\n{e098}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10c04",
+   "off": 68612,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "シャルン\n{e098}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10c18",
+   "off": 68632,
+   "len": 27,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}女性\n{e098}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10c33",
+   "off": 68659,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ジェシカ\n{e098}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10c47",
+   "off": 68679,
+   "len": 25,
+   "bank": "0.1",
+   "jp": "オルフェウス{75}男\n{e098}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10c60",
+   "off": 68704,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "イヴ\n{e098}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10c72",
+   "off": 68722,
+   "len": 20,
+   "bank": "0.1",
+   "jp": "ディアス\n{e098}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10c86",
+   "off": 68742,
+   "len": 19,
+   "bank": "0.1",
+   "jp": "ノエル\n{e098}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10c99",
+   "off": 68761,
+   "len": 22,
+   "bank": "0.1",
+   "jp": "マレフィクス\n{e098}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10caf",
+   "off": 68783,
+   "len": 21,
+   "bank": "0.1",
+   "jp": "ステラミラ\n{e098}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10cc4",
+   "off": 68804,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "ルカ\n{e098}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10cd6",
+   "off": 68822,
+   "len": 18,
+   "bank": "0.1",
+   "jp": "サラ\n{e098}{e097}の{e095}({e082})",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10ce8",
+   "off": 68840,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "{1c:63}卵か?つぼみか?\nとにかく{e09a}壊することは出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10d0e",
+   "off": 68878,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "{1c:63}卵か?つぼみか?\nとにかく{e09a}壊することは出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10d34",
+   "off": 68916,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "{1c:63}卵か?つぼみか?\nとにかく{e09a}壊することは出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10d5a",
+   "off": 68954,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "{1c:63}卵か?つぼみか?\nとにかく{e09a}壊することは出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10d80",
+   "off": 68992,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "{1c:63}卵か?つぼみか?\nとにかく{e09a}壊することは出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10da6",
+   "off": 69030,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "{1c:63}卵か?つぼみか?\nとにかく{e09a}壊することは出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10dcc",
+   "off": 69068,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "{1c:63}卵か?つぼみか?\nとにかく{e09a}壊することは出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10df2",
+   "off": 69106,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10df3",
+   "off": 69107,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10df4",
+   "off": 69108,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "{1c:63}卵か?つぼみか?\nとにかく{e09a}壊することは出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10e1a",
+   "off": 69146,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "{1c:63}卵か?つぼみか?\nとにかく{e09a}壊することは出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10e40",
+   "off": 69184,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "{1c:63}卵か?つぼみか?\nとにかく{e09a}壊することは出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10e66",
+   "off": 69222,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "{1c:63}卵か?つぼみか?\nとにかく{e09a}壊することは出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10e8c",
+   "off": 69260,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "{1c:63}卵か?つぼみか?\nとにかく{e09a}壊することは出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10eb2",
+   "off": 69298,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "{1c:63}卵か?つぼみか?\nとにかく{e09a}壊することは出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10ed8",
+   "off": 69336,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "{1c:63}卵か?つぼみか?\nとにかく{e09a}壊することは出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10efe",
+   "off": 69374,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10eff",
+   "off": 69375,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10f00",
+   "off": 69376,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "{1c:63}卵か?つぼみか?\nとにかく{e09a}壊することは出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10f26",
+   "off": 69414,
+   "len": 38,
+   "bank": "0.1",
+   "jp": "{1c:63}卵か?つぼみか?\nとにかく{e09a}壊することは出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10f4c",
+   "off": 69452,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "{1c:63}圃そうな{e093}の{e094}だ。\n叩き壊すのは―苦{83c5}だろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10f6e",
+   "off": 69486,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "{1c:63}圃そうな{e093}の{e094}だ。\n叩き壊すのは―苦{83c5}だろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10f90",
+   "off": 69520,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "{1c:63}圃そうな{e093}の{e094}だ。\n叩き壊すのは―苦{83c5}だろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10fb2",
+   "off": 69554,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "{1c:63}圃そうな{e093}の{e094}だ。\n叩き壊すのは―苦{83c5}だろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10fd4",
+   "off": 69588,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "{1c:63}圃そうな{e093}の{e094}だ。\n叩き壊すのは―苦{83c5}だろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:10ff6",
+   "off": 69622,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "{1c:63}圃そうな{e093}の{e094}だ。\n叩き壊すのは―苦{83c5}だろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11018",
+   "off": 69656,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "{1c:63}圃そうな{e093}の{e094}だ。\n叩き壊すのは―苦{83c5}だろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1103a",
+   "off": 69690,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1103b",
+   "off": 69691,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1103c",
+   "off": 69692,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "{1c:63}圃そうな{e093}の{e094}だ。\n叩き壊すのは―苦{83c5}だろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1105e",
+   "off": 69726,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "{1c:63}圃そうな{e093}の{e094}だ。\n叩き壊すのは―苦{83c5}だろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11080",
+   "off": 69760,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "{1c:63}圃そうな{e093}の{e094}だ。\n叩き壊すのは―苦{83c5}だろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:110a2",
+   "off": 69794,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "{1c:63}圃そうな{e093}の{e094}だ。\n叩き壊すのは―苦{83c5}だろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:110c4",
+   "off": 69828,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "{1c:63}圃そうな{e093}の{e094}だ。\n叩き壊すのは―苦{83c5}だろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:110e6",
+   "off": 69862,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "{1c:63}圃そうな{e093}の{e094}だ。\n叩き壊すのは―苦{83c5}だろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11108",
+   "off": 69896,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "{1c:63}圃そうな{e093}の{e094}だ。\n叩き壊すのは―苦{83c5}だろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1112a",
+   "off": 69930,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1112b",
+   "off": 69931,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1112c",
+   "off": 69932,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "{1c:63}圃そうな{e093}の{e094}だ。\n叩き壊すのは―苦{83c5}だろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1114e",
+   "off": 69966,
+   "len": 34,
+   "bank": "0.1",
+   "jp": "{1c:63}圃そうな{e093}の{e094}だ。\n叩き壊すのは―苦{83c5}だろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11170",
+   "off": 70000,
+   "len": 49,
+   "bank": "0.1",
+   "jp": "{1c:63}ゴムのような{e09c}質で出来た{e092}だ。\n{80ee}器で攻撃しても効果はないだろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:111a1",
+   "off": 70049,
+   "len": 49,
+   "bank": "0.1",
+   "jp": "{1c:63}ゴムのような{e09c}質で出来た{e092}だ。\n{80ee}器で攻撃しても効果はないだろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:111d2",
+   "off": 70098,
+   "len": 49,
+   "bank": "0.1",
+   "jp": "{1c:63}ゴムのような{e09c}質で出来た{e092}だ。\n{80ee}器で攻撃しても効果はないだろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11203",
+   "off": 70147,
+   "len": 49,
+   "bank": "0.1",
+   "jp": "{1c:63}ゴムのような{e09c}質で出来た{e092}だ。\n{80ee}器で攻撃しても効果はないだろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11234",
+   "off": 70196,
+   "len": 49,
+   "bank": "0.1",
+   "jp": "{1c:63}ゴムのような{e09c}質で出来た{e092}だ。\n{80ee}器で攻撃しても効果はないだろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11265",
+   "off": 70245,
+   "len": 49,
+   "bank": "0.1",
+   "jp": "{1c:63}ゴムのような{e09c}質で出来た{e092}だ。\n{80ee}器で攻撃しても効果はないだろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11296",
+   "off": 70294,
+   "len": 49,
+   "bank": "0.1",
+   "jp": "{1c:63}ゴムのような{e09c}質で出来た{e092}だ。\n{80ee}器で攻撃しても効果はないだろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:112c7",
+   "off": 70343,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:112c8",
+   "off": 70344,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:112c9",
+   "off": 70345,
+   "len": 49,
+   "bank": "0.1",
+   "jp": "{1c:63}ゴムのような{e09c}質で出来た{e092}だ。\n{80ee}器で攻撃しても効果はないだろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:112fa",
+   "off": 70394,
+   "len": 49,
+   "bank": "0.1",
+   "jp": "{1c:63}ゴムのような{e09c}質で出来た{e092}だ。\n{80ee}器で攻撃しても効果はないだろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1132b",
+   "off": 70443,
+   "len": 49,
+   "bank": "0.1",
+   "jp": "{1c:63}ゴムのような{e09c}質で出来た{e092}だ。\n{80ee}器で攻撃しても効果はないだろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1135c",
+   "off": 70492,
+   "len": 49,
+   "bank": "0.1",
+   "jp": "{1c:63}ゴムのような{e09c}質で出来た{e092}だ。\n{80ee}器で攻撃しても効果はないだろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:1138d",
+   "off": 70541,
+   "len": 49,
+   "bank": "0.1",
+   "jp": "{1c:63}ゴムのような{e09c}質で出来た{e092}だ。\n{80ee}器で攻撃しても効果はないだろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:113be",
+   "off": 70590,
+   "len": 49,
+   "bank": "0.1",
+   "jp": "{1c:63}ゴムのような{e09c}質で出来た{e092}だ。\n{80ee}器で攻撃しても効果はないだろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:113ef",
+   "off": 70639,
+   "len": 49,
+   "bank": "0.1",
+   "jp": "{1c:63}ゴムのような{e09c}質で出来た{e092}だ。\n{80ee}器で攻撃しても効果はないだろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11420",
+   "off": 70688,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11421",
+   "off": 70689,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11422",
+   "off": 70690,
+   "len": 49,
+   "bank": "0.1",
+   "jp": "{1c:63}ゴムのような{e09c}質で出来た{e092}だ。\n{80ee}器で攻撃しても効果はないだろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11453",
+   "off": 70739,
+   "len": 49,
+   "bank": "0.1",
+   "jp": "{1c:63}ゴムのような{e09c}質で出来た{e092}だ。\n{80ee}器で攻撃しても効果はないだろう。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11484",
+   "off": 70788,
+   "len": 64,
+   "bank": "0.1",
+   "jp": "{1c:63}浮いている。不思{e09f}な物体だ。\nバキュームで動かしたり\n衝撃を{e0a0}えて動かしたリ出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:114c4",
+   "off": 70852,
+   "len": 64,
+   "bank": "0.1",
+   "jp": "{1c:63}浮いている。不思{e09f}な物体だ。\nバキュームで動かしたり\n衝撃を{e0a0}えて動かしたリ出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11504",
+   "off": 70916,
+   "len": 64,
+   "bank": "0.1",
+   "jp": "{1c:63}浮いている。不思{e09f}な物体だ。\nバキュームで動かしたり\n衝撃を{e0a0}えて動かしたリ出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11544",
+   "off": 70980,
+   "len": 64,
+   "bank": "0.1",
+   "jp": "{1c:63}浮いている。不思{e09f}な物体だ。\nバキュームで動かしたり\n衝撃を{e0a0}えて動かしたリ出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11584",
+   "off": 71044,
+   "len": 64,
+   "bank": "0.1",
+   "jp": "{1c:63}浮いている。不思{e09f}な物体だ。\nバキュームで動かしたり\n衝撃を{e0a0}えて動かしたリ出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:115c4",
+   "off": 71108,
+   "len": 64,
+   "bank": "0.1",
+   "jp": "{1c:63}浮いている。不思{e09f}な物体だ。\nバキュームで動かしたり\n衝撃を{e0a0}えて動かしたリ出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11604",
+   "off": 71172,
+   "len": 64,
+   "bank": "0.1",
+   "jp": "{1c:63}浮いている。不思{e09f}な物体だ。\nバキュームで動かしたり\n衝撃を{e0a0}えて動かしたリ出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11644",
+   "off": 71236,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11645",
+   "off": 71237,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11646",
+   "off": 71238,
+   "len": 64,
+   "bank": "0.1",
+   "jp": "{1c:63}浮いている。不思{e09f}な物体だ。\nバキュームで動かしたり\n衝撃を{e0a0}えて動かしたリ出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11686",
+   "off": 71302,
+   "len": 64,
+   "bank": "0.1",
+   "jp": "{1c:63}浮いている。不思{e09f}な物体だ。\nバキュームで動かしたり\n衝撃を{e0a0}えて動かしたリ出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:116c6",
+   "off": 71366,
+   "len": 64,
+   "bank": "0.1",
+   "jp": "{1c:63}浮いている。不思{e09f}な物体だ。\nバキュームで動かしたり\n衝撃を{e0a0}えて動かしたリ出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11706",
+   "off": 71430,
+   "len": 64,
+   "bank": "0.1",
+   "jp": "{1c:63}浮いている。不思{e09f}な物体だ。\nバキュームで動かしたり\n衝撃を{e0a0}えて動かしたリ出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11746",
+   "off": 71494,
+   "len": 64,
+   "bank": "0.1",
+   "jp": "{1c:63}浮いている。不思{e09f}な物体だ。\nバキュームで動かしたり\n衝撃を{e0a0}えて動かしたリ出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11786",
+   "off": 71558,
+   "len": 64,
+   "bank": "0.1",
+   "jp": "{1c:63}浮いている。不思{e09f}な物体だ。\nバキュームで動かしたり\n衝撃を{e0a0}えて動かしたリ出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:117c6",
+   "off": 71622,
+   "len": 64,
+   "bank": "0.1",
+   "jp": "{1c:63}浮いている。不思{e09f}な物体だ。\nバキュームで動かしたり\n衝撃を{e0a0}えて動かしたリ出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11806",
+   "off": 71686,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11807",
+   "off": 71687,
+   "len": 1,
+   "bank": "0.1",
+   "jp": "",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11808",
+   "off": 71688,
+   "len": 64,
+   "bank": "0.1",
+   "jp": "{1c:63}浮いている。不思{e09f}な物体だ。\nバキュームで動かしたり\n衝撃を{e0a0}えて動かしたリ出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "RES#40:11848",
+   "off": 71752,
+   "len": 64,
+   "bank": "0.1",
+   "jp": "{1c:63}浮いている。不思{e09f}な物体だ。\nバキュームで動かしたり\n衝撃を{e0a0}えて動かしたリ出来そうだ。",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  }
+ ],
+ "entry": 40
+}

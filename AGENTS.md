@@ -6,6 +6,7 @@ After cloning: `git config core.hooksPath tools/hooks`.
 
 ## Commands (run from repo root)
 - Build:    `python -X utf8 tools/build.py` -> build/bealphareth_en.cue/.bin (checks the dump against `rom.sha1` first; unpacked disc in `work/disc/`).
+- Extract:  `python -X utf8 tools/extract.py` writes `script/*.json` from the unpacked disc (`--force` keeps existing `en`); `python -X utf8 tools/fontmap.py build|review work/qa/glyphs` refreshes `tbl/glyphs.tsv` from the font.
 - Check:    `python -X utf8 tools/check.py` (tests + lint; the pre-commit hook runs this)
 - Smoke:    `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/bealphareth_en.cue --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - Warp:     `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" <cue> --out work/qa/scenes/<name> --route tools/routes/newgame.txt --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 7000 --mash-key circle` (`<cue>` is `build/bealphareth_en.cue` once built, else the Japanese disc; scenes: `tools/debug/scenes.lua`; never ask the user to play to a scene).
