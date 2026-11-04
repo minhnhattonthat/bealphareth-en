@@ -41,8 +41,9 @@
    "jp": "{1c:12}{0b:08}{e080} アーサー {e081}{0b:09}\nな、なんだ?\n来たときは{e082}い{e083}下だったのに\n{e084}{e085}の{e086}がすっかり変わってる・・・{1a}それにあれは・・・\nあの{e087}壇の上の{e089}は一体何なんだ?{0c:022101}",
    "read": "{1c:12}{0b:08}【 アーサー 】{0b:09}\nな、なんだ?\n来たときは長い廊下だったのに\n部屋の形がすっかり変わってる・・・{1a}それにあれは・・・\nあの祭壇の上の剣は一体何なんだ?{0c:022101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Arthur 】{0b:09}\nWh-what...? This was a long corridor\nwhen we came, but the room has\ncompletely changed shape...{1a}And that... what on earth is that sword\non the altar?{0c:022101}",
+   "status": "done",
+   "tl": "Wh-what...? This was a long corridor when we came, but the room has completely changed shape... // And that... what on earth is that sword on the altar?"
   },
   {
    "id": "RES#74:15ec5",
@@ -63,8 +64,9 @@
    "jp": "{1c:18}{0b:08}{e080} パスカ {e081}{0b:09}\nな、なんだ?\n来たときは{e082}い{e083}下だったのに\n{e084}{e085}の{e086}が変わってやがる・・・{1a}それにあの{e089}・・・\nあの{e089}は一体何なんだ・・・?{0c:021f01}",
    "read": "{1c:18}{0b:08}【 パスカ 】{0b:09}\nな、なんだ?\n来たときは長い廊下だったのに\n部屋の形が変わってやがる・・・{1a}それにあの剣・・・\nあの剣は一体何なんだ・・・?{0c:021f01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Pasca 】{0b:09}\nWh-what the...? This was a long hallway\nwhen we came, but the damn room's\nchanged shape...{1a}And that sword... what the hell is that\nsword...?{0c:021f01}",
+   "status": "done",
+   "tl": "Wh-what the...? This was a long hallway when we came, but the damn room's changed shape... // And that sword... what the hell is that sword...?"
   },
   {
    "id": "RES#74:15f3c",
@@ -85,8 +87,9 @@
    "jp": "{1c:1b}{0b:08}{e080} シャルン {e081}{0b:09}\nな、なにこれ・・・\n来たときは{e082}い{e083}下だったのに・・・{07:14}\nそれにあの{e089}は一体・・・{0c:021d01}",
    "read": "{1c:1b}{0b:08}【 シャルン 】{0b:09}\nな、なにこれ・・・\n来たときは長い廊下だったのに・・・{07:14}\nそれにあの剣は一体・・・{0c:021d01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Scharn 】{0b:09}\nWh-what is this... It was a long corridor\nwhen we came, you know...{07:14} And that\nsword, what is...{0c:021d01}",
+   "status": "done",
+   "tl": "Wh-what is this... It was a long corridor when we came, you know...[1] And that sword, what is..."
   },
   {
    "id": "RES#74:15f97",
@@ -107,8 +110,9 @@
    "jp": "{1c:28}{0b:08}{e080} ジェシカ {e081}{0b:09}\nな、なにこれ・・・\n来たときは{e082}い{e083}下だったのに\n{e084}{e085}の{e086}が全然違うじゃん・・・{1a}それにあれ・・・\nあの{e089}って一体何なの・・・?{0c:021b01}",
    "read": "{1c:28}{0b:08}【 ジェシカ 】{0b:09}\nな、なにこれ・・・\n来たときは長い廊下だったのに\n部屋の形が全然違うじゃん・・・{1a}それにあれ・・・\nあの剣って一体何なの・・・?{0c:021b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:28}{0b:08}【 Jessica 】{0b:09}\nWh-what is this... This was a long\ncorridor when we came, and now the\nroom's nothing like it, you know that...{1a}And that... what the heck is that\nsword...?{0c:021b01}",
+   "status": "done",
+   "tl": "Wh-what is this... This was a long corridor when we came, and now the room's nothing like it, you know that... // And that... what the heck is that sword...?"
   },
   {
    "id": "RES#74:16010",
@@ -129,8 +133,9 @@
    "jp": "{1c:1f}{0b:08}{e080} イヴ {e081}{0b:09}\nなにこれ・・・\n入る前は{e082}い{e083}下だったのに・・・{1a}それにあれ・・・\nあの{e089}は一体何なの・・・?{0c:021901}",
    "read": "{1c:1f}{0b:08}【 イヴ 】{0b:09}\nなにこれ・・・\n入る前は長い廊下だったのに・・・{1a}それにあれ・・・\nあの剣は一体何なの・・・?{0c:021901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}{0b:08}【 Eve 】{0b:09}\nWhat's this, I wonder... It was a long\ncorridor before we came in...{1a}And that... whatever is that sword...?{0c:021901}",
+   "status": "done",
+   "tl": "What's this, I wonder... It was a long corridor before we came in... // And that... whatever is that sword...?"
   },
   {
    "id": "RES#74:16071",
@@ -151,8 +156,9 @@
    "jp": "{1c:1d}{0b:08}{e080} オルフェウス {e081}{0b:09}\nあれ・・・\n入る前は{e082}い{e083}下だったのに・・・{1a}それにあれは・・・\nあの{e087}壇の上の{e089}は一体・・・{0c:021701}",
    "read": "{1c:1d}{0b:08}【 オルフェウス 】{0b:09}\nあれ・・・\n入る前は長い廊下だったのに・・・{1a}それにあれは・・・\nあの祭壇の上の剣は一体・・・{0c:021701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}{0b:08}【 Orpheus 】{0b:09}\nOh, my... It was a long corridor before we\nentered...{1a}And that... that sword upon the altar,\nwhat could it be...{0c:021701}",
+   "status": "done",
+   "tl": "Oh, my... It was a long corridor before we entered... // And that... that sword upon the altar, what could it be..."
   },
   {
    "id": "RES#74:160d7",
@@ -173,8 +179,9 @@
    "jp": "{1c:10}{0b:08}{e080} アッシュ {e081}{0b:09}\nあれ・・・?\n{e084}{e085}のかたちが変わってる・・・{1a}それにあれは・・・\nあの{e089}は一体なんだろう・・・{0c:021501}",
    "read": "{1c:10}{0b:08}【 アッシュ 】{0b:09}\nあれ・・・?\n部屋のかたちが変わってる・・・{1a}それにあれは・・・\nあの剣は一体なんだろう・・・{0c:021501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\nHuh...? The room's changed shape...{1a}And that... I wonder what that sword is...{0c:021501}",
+   "status": "done",
+   "tl": "Huh...? The room's changed shape... // And that... I wonder what that sword is..."
   },
   {
    "id": "RES#74:16138",
@@ -195,8 +202,9 @@
    "jp": "{1c:21}{0b:08}{e080} ディアス {e081}{0b:09}\n{e084}{e085}の{e086}が変わっている・・・\nあれは・・・まさか・・・{0c:021301}",
    "read": "{1c:21}{0b:08}【 ディアス 】{0b:09}\n部屋の形が変わっている・・・\nあれは・・・まさか・・・{0c:021301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:21}{0b:08}【 Dias 】{0b:09}\nThe room has changed shape... That is...\nit cannot be...{0c:021301}",
+   "status": "done",
+   "tl": "The room has changed shape... That is... it cannot be..."
   },
   {
    "id": "RES#74:16181",
@@ -217,8 +225,9 @@
    "jp": "{1c:22}{0b:08}{e080} ノエル {e081}{0b:09}\nあの{e089}・・・\nあれは・・・まさか・・・{0c:021101}",
    "read": "{1c:22}{0b:08}【 ノエル 】{0b:09}\nあの剣・・・\nあれは・・・まさか・・・{0c:021101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:22}{0b:08}【 Noel 】{0b:09}\nThat sword... That's... it can't be...{0c:021101}",
+   "status": "done",
+   "tl": "That sword... That's... it can't be..."
   },
   {
    "id": "RES#74:161be",
@@ -239,8 +248,9 @@
    "jp": "何かな、あれ・・・{0c:020f01}",
    "read": "何かな、あれ・・・{0c:020f01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "What is that...{0c:020f01}",
+   "status": "done",
+   "tl": "What is that..."
   },
   {
    "id": "RES#74:161df",
@@ -261,8 +271,9 @@
    "jp": "{1c:24}{0b:08}{e080} ルカ {e081}{0b:09}\nど、どうしたんでしょうか・・・\n入る前は{e082}い{e083}下だったのに・・・{1a}それにあれは・・・\nあの{e089}は一体何なのでしょうか・・・{0c:020d01}",
    "read": "{1c:24}{0b:08}【 ルカ 】{0b:09}\nど、どうしたんでしょうか・・・\n入る前は長い廊下だったのに・・・{1a}それにあれは・・・\nあの剣は一体何なのでしょうか・・・{0c:020d01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:24}{0b:08}【 Luca 】{0b:09}\nWh-what has happened... It was a long\ncorridor before we came in...{1a}And that... what could that sword be...{0c:020d01}",
+   "status": "done",
+   "tl": "Wh-what has happened... It was a long corridor before we came in... // And that... what could that sword be..."
   },
   {
    "id": "RES#74:1624c",
@@ -283,8 +294,9 @@
    "jp": "{1c:26}{0b:08}{e080} サラ {e081}{0b:09}\nあれ、どうしたんだろう・・・\n入る前は{e082}い{e083}下だったのに・・・{0c:020b01}",
    "read": "{1c:26}{0b:08}【 サラ 】{0b:09}\nあれ、どうしたんだろう・・・\n入る前は長い廊下だったのに・・・{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:26}{0b:08}【 Sara 】{0b:09}\nHuh, what happened? It was a long\ncorridor before we came in...{0c:020b01}",
+   "status": "done",
+   "tl": "Huh, what happened? It was a long corridor before we came in..."
   },
   {
    "id": "RES#74:16298",
@@ -305,8 +317,9 @@
    "jp": "{1c:16}{0b:08}{e080} エレアノール {e081}{0b:09}\n{e084}{e085}の{e086}が来た時と違う・・・\nこれは一体・・・{1a}それにあの{e089}・・・\nあの{e089}は・・・{07:14}まさか・・・{0c:020901}",
    "read": "{1c:16}{0b:08}【 エレアノール 】{0b:09}\n部屋の形が来た時と違う・・・\nこれは一体・・・{1a}それにあの剣・・・\nあの剣は・・・{07:14}まさか・・・{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}{0b:08}【 Eleanor 】{0b:09}\nThe room is not the shape it was when\nwe came... What can this mean...{1a}And that sword... That sword is... {07:14}it\ncannot be...{0c:020901}",
+   "status": "done",
+   "tl": "The room is not the shape it was when we came... What can this mean... // And that sword... That sword is... [1]it cannot be..."
   },
   {
    "id": "RES#74:162ff",
@@ -327,8 +340,9 @@
    "jp": "{1c:14}{0b:08}{e080} レイア {e081}{0b:09}\n{e084}{e085}の{e086}が変わっている・・・\nそれにあの{e089}は一体・・・{0c:020701}",
    "read": "{1c:14}{0b:08}【 レイア 】{0b:09}\n部屋の形が変わっている・・・\nそれにあの剣は一体・・・{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\nThe room has changed shape... And that\nsword, what is...{0c:020701}",
+   "status": "done",
+   "tl": "The room has changed shape... And that sword, what is..."
   },
   {
    "id": "RES#74:1634a",
@@ -349,8 +363,9 @@
    "jp": "なんだろう、あの{e089}・・・{0c:020501}",
    "read": "なんだろう、あの剣・・・{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "What is that sword...{0c:020501}",
+   "status": "done",
+   "tl": "What is that sword..."
   },
   {
    "id": "RES#74:1636e",
@@ -371,8 +386,9 @@
    "jp": "あれは・・・?{0c:020301}",
    "read": "あれは・・・?{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "What's that...?{0c:020301}",
+   "status": "done",
+   "tl": "What's that...?"
   },
   {
    "id": "RES#74:1638d",
@@ -416,8 +432,9 @@
    "jp": "{1c:11}{0b:08}{e080} アッシュ {e081}{0b:09}\n力が・・・はいらない・・・{0c:fe}",
    "read": "{1c:11}{0b:08}【 アッシュ 】{0b:09}\n力が・・・はいらない・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Ash 】{0b:09}\nI can't... I've got no strength...{0c:fe}",
+   "status": "done",
+   "tl": "I can't... I've got no strength..."
   },
   {
    "id": "RES#74:1642d",
@@ -438,8 +455,9 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\nい、一体何が・・・\n体が・・・力がはいらない・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\nい、一体何が・・・\n体が・・・力がはいらない・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nWh-what is happening... My body... I have\nno strength...{0c:fe}",
+   "status": "done",
+   "tl": "Wh-what is happening... My body... I have no strength..."
   },
   {
    "id": "RES#74:16473",
@@ -460,8 +478,9 @@
    "jp": "{1c:15}{0b:08}{e080} レイア {e081}{0b:09}\nな、なに・・・!?\nか、体が・・・{0c:fe}",
    "read": "{1c:15}{0b:08}【 レイア 】{0b:09}\nな、なに・・・!?\nか、体が・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Leia 】{0b:09}\nWh-what...!? M-my body...{0c:fe}",
+   "status": "done",
+   "tl": "Wh-what...!? M-my body..."
   },
   {
    "id": "RES#74:164ae",
@@ -482,8 +501,9 @@
    "jp": "{1c:17}{0b:08}{e080} エレアノール {e081}{0b:09}\nか、体の自由が・・・\n意識が・・・遠くなる・・・{0c:fe}",
    "read": "{1c:17}{0b:08}【 エレアノール 】{0b:09}\nか、体の自由が・・・\n意識が・・・遠くなる・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Eleanor 】{0b:09}\nI-I cannot move my body... I am... losing\nconsciousness...{0c:fe}",
+   "status": "done",
+   "tl": "I-I cannot move my body... I am... losing consciousness..."
   },
   {
    "id": "RES#74:164f6",
@@ -504,8 +524,9 @@
    "jp": "{1c:19}{0b:08}{e080} パスカ {e081}{0b:09}\nな、なんだ? \nち、力がはいらねえ・・・{0c:fe}",
    "read": "{1c:19}{0b:08}【 パスカ 】{0b:09}\nな、なんだ? \nち、力がはいらねえ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Pasca 】{0b:09}\nWh-what the...? M-my strength's goin'...{0c:fe}",
+   "status": "done",
+   "tl": "Wh-what the...? M-my strength's goin'..."
   },
   {
    "id": "RES#74:16534",
@@ -526,8 +547,9 @@
    "jp": "か、体が・・・動かない・・・{0c:fe}",
    "read": "か、体が・・・動かない・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "M-my body... won't move...{0c:fe}",
+   "status": "done",
+   "tl": "M-my body... won't move..."
   },
   {
    "id": "RES#74:16559",
@@ -548,8 +570,9 @@
    "jp": "か、体の自由が・・・{0c:fe}",
    "read": "か、体の自由が・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I-I can't move...{0c:fe}",
+   "status": "done",
+   "tl": "I-I can't move..."
   },
   {
    "id": "RES#74:1657b",
@@ -570,8 +593,9 @@
    "jp": "{1c:1a}{0b:08}{e080} シャルン {e081}{0b:09}\nか、体が・・・\n力が抜けていく・・・{0c:fe}",
    "read": "{1c:1a}{0b:08}【 シャルン 】{0b:09}\nか、体が・・・\n力が抜けていく・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}{0b:08}【 Scharn 】{0b:09}\nM-my body... All my strength is draining\naway...{0c:fe}",
+   "status": "done",
+   "tl": "M-my body... All my strength is draining away..."
   },
   {
    "id": "RES#74:165b8",
@@ -592,8 +616,9 @@
    "jp": "{1c:1c}{0b:08}{e080} ジェシカ {e081}{0b:09}\nな、なによ、これ・・・\n冗談じゃないよ・・・{0c:fe}",
    "read": "{1c:1c}{0b:08}【 ジェシカ 】{0b:09}\nな、なによ、これ・・・\n冗談じゃないよ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Jessica 】{0b:09}\nWh-what is this... You gotta be kidding\nme...{0c:fe}",
+   "status": "done",
+   "tl": "Wh-what is this... You gotta be kidding me..."
   },
   {
    "id": "RES#74:165f8",
@@ -614,8 +639,9 @@
    "jp": "{1c:1e}{0b:08}{e080} オルフェウス {e081}{0b:09}\nくっ・・・か、体が・・・\nこ、こんなところで\n倒れるわけには・・・{0c:fe}",
    "read": "{1c:1e}{0b:08}【 オルフェウス 】{0b:09}\nくっ・・・か、体が・・・\nこ、こんなところで\n倒れるわけには・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}{0b:08}【 Orpheus 】{0b:09}\nNgh... M-my body... I-I can hardly collapse\nin a place like this...{0c:fe}",
+   "status": "done",
+   "tl": "Ngh... M-my body... I-I can hardly collapse in a place like this..."
   },
   {
    "id": "RES#74:16645",
@@ -636,8 +662,9 @@
    "jp": "{1c:20}{0b:08}{e080} イヴ {e081}{0b:09}\nじ、冗談じゃないわね・・・{0c:fe}",
    "read": "{1c:20}{0b:08}【 イヴ 】{0b:09}\nじ、冗談じゃないわね・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Eve 】{0b:09}\nTh-this is no joke, is it...{0c:fe}",
+   "status": "done",
+   "tl": "Th-this is no joke, is it..."
   },
   {
    "id": "RES#74:1667a",
@@ -658,8 +685,9 @@
    "jp": "{1c:21}{0b:08}{e080} ディアス {e081}{0b:09}\nくっ・・・こ、こんな所で・・・{0c:fe}",
    "read": "{1c:21}{0b:08}【 ディアス 】{0b:09}\nくっ・・・こ、こんな所で・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:21}{0b:08}【 Dias 】{0b:09}\nNgh... H-here, of all places...{0c:fe}",
+   "status": "done",
+   "tl": "Ngh... H-here, of all places..."
   },
   {
    "id": "RES#74:166b2",
@@ -680,8 +708,9 @@
    "jp": "{1c:23}{0b:08}{e080} ノエル {e081}{0b:09}\nク、クムランさん・・・\n助けて・・・{0c:fe}",
    "read": "{1c:23}{0b:08}【 ノエル 】{0b:09}\nク、クムランさん・・・\n助けて・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:23}{0b:08}【 Noel 】{0b:09}\nQ-Qumran-san... Help me...{0c:fe}",
+   "status": "done",
+   "tl": "Q-Qumran-san... Help me..."
   },
   {
    "id": "RES#74:166ec",
@@ -702,8 +731,9 @@
    "jp": "あ、ああ・・・{0c:fe}",
    "read": "あ、ああ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Y-yes...{0c:fe}",
+   "status": "done",
+   "tl": "Y-yes..."
   },
   {
    "id": "RES#74:16708",
@@ -724,8 +754,9 @@
    "jp": "て、手に力が・・・\nはいらない・・・{0c:fe}",
    "read": "て、手に力が・・・\nはいらない・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "M-my hands... have no strength...{0c:fe}",
+   "status": "done",
+   "tl": "M-my hands... have no strength..."
   },
   {
    "id": "RES#74:16731",
@@ -746,8 +777,9 @@
    "jp": "{1c:25}{0b:08}{e080} ルカ {e081}{0b:09}\nく、苦しい・・・\nた、助けて・・・下さい・・・{0c:fe}",
    "read": "{1c:25}{0b:08}【 ルカ 】{0b:09}\nく、苦しい・・・\nた、助けて・・・下さい・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:25}{0b:08}【 Luca 】{0b:09}\nI-it hurts... P-please... h-help me...{0c:fe}",
+   "status": "done",
+   "tl": "I-it hurts... P-please... h-help me..."
   },
   {
    "id": "RES#74:16771",
@@ -768,8 +800,9 @@
    "jp": "{1c:27}{0b:08}{e080} サラ {e081}{0b:09}\nど、どうしちゃったの・・・?\nい、息が、で、できない・・・{0c:fe}",
    "read": "{1c:27}{0b:08}【 サラ 】{0b:09}\nど、どうしちゃったの・・・?\nい、息が、で、できない・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:27}{0b:08}【 Sara 】{0b:09}\nWh-what's happening...? I c-can't\nb-breathe...{0c:fe}",
+   "status": "done",
+   "tl": "Wh-what's happening...? I c-can't b-breathe..."
   },
   {
    "id": "RES#74:167b7",

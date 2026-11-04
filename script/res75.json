@@ -52,8 +52,9 @@
    "jp": "{1c:11}{0b:08}{e080} アッシュ {e081}{0b:09}\nすごいなあ・・・{1a}こんなに大きいとは思わなかったよ。\nすごいなあ・・・{0c:fe}",
    "read": "{1c:11}{0b:08}【 アッシュ 】{0b:09}\nすごいなあ・・・{1a}こんなに大きいとは思わなかったよ。\nすごいなあ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Ash 】{0b:09}\nWow...{1a}I never thought it'd be this big. Wow...{0c:fe}",
+   "status": "done",
+   "tl": "Wow... // I never thought it'd be this big. Wow..."
   },
   {
    "id": "RES#75:2977b",
@@ -74,8 +75,9 @@
    "jp": "{1c:11}でもどうして{e082}{e083}があるんだろ。\n地面の下なのに・・・{1a}いつのまにか戻っちゃったのかな。{0c:fe}",
    "read": "{1c:11}でもどうして太陽があるんだろ。\n地面の下なのに・・・{1a}いつのまにか戻っちゃったのかな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}But how come there's a sun? We're\nunder the ground...{1a}I guess we somehow got back up top.{0c:fe}",
+   "status": "done",
+   "tl": "But how come there's a sun? We're under the ground... // I guess we somehow got back up top."
   },
   {
    "id": "RES#75:297bb",
@@ -96,8 +98,9 @@
    "jp": "{0c:511d}{1c:10}ん? なにか言ったかい?{0c:fe}",
    "read": "{0c:511d}{1c:10}ん? なにか言ったかい?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:511d}{1c:10}Hm? Did you say something?{0c:fe}",
+   "status": "done",
+   "tl": "Hm? Did you say something?"
   },
   {
    "id": "RES#75:297de",
@@ -118,8 +121,9 @@
    "jp": "{1c:11}え・・・でも・・・\n声が聞こえたんだけど・・・{1a}聞き違いなのかな。{07:14}\nあれ、まただ・・・{07:05}{0c:fe}",
    "read": "{1c:11}え・・・でも・・・\n声が聞こえたんだけど・・・{1a}聞き違いなのかな。{07:14}\nあれ、まただ・・・{07:05}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Huh... But... I heard a voice...{1a}Maybe I heard wrong.{07:14} Huh, there it is\nagain...{07:05}{0c:fe}",
+   "status": "done",
+   "tl": "Huh... But... I heard a voice... // Maybe I heard wrong.[1] Huh, there it is again..."
   },
   {
    "id": "RES#75:29833",
@@ -140,8 +144,9 @@
    "jp": "{1c:12}あれ・・・いったい\nなんだったんだろう・・・{07:0a}{1a}なんだか聞き覚えのある\n声だったけど・・・\n気のせいかな。{0c:fe}",
    "read": "{1c:12}あれ・・・いったい\nなんだったんだろう・・・{07:0a}{1a}なんだか聞き覚えのある\n声だったけど・・・\n気のせいかな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Huh... what was that, anyway...{07:0a}{1a}It sounded like a voice I know, but... I\nguess it's just me.{0c:fe}",
+   "status": "done",
+   "tl": "Huh... what was that, anyway...[1] // It sounded like a voice I know, but... I guess it's just me."
   },
   {
    "id": "RES#75:29891",
@@ -162,8 +167,9 @@
    "jp": "{0c:5121}{1c:13}おかしいな・・・\nほんとうに聞こえたのに・・・{0c:2b0009fe}",
    "read": "{0c:5121}{1c:13}おかしいな・・・\nほんとうに聞こえたのに・・・{0c:2b0009fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5121}{1c:13}That's weird... I really did hear it...{0c:2b0009fe}",
+   "status": "done",
+   "tl": "That's weird... I really did hear it..."
   },
   {
    "id": "RES#75:298c9",
@@ -195,8 +201,9 @@
    "jp": "{1c:16}{0b:08}{e080} アーサー {e081}{0b:09}\nこれが{e082}{e083}{e084}{e085}の{e086}{e087}\nアスラ・ファエルか・・・{1a}雲の{e088}さにまでそびえる四{e08a}、\n{e08b}{e08c}に{e08d}り輝く神の{e087}{e08f}・・・{1a}{0c:521b1c}まさに神話の{e090}り、\nいや、想{e092}していた以上だ。\n地下にこんな世{e093}があったなんて!{0c:fe}",
    "read": "{1c:16}{0b:08}【 アーサー 】{0b:09}\nこれが太陽帝国の首都\nアスラ・ファエルか・・・{1a}雲の高さにまでそびえる四壁、\n金色に光り輝く神の都市・・・{1a}{0c:521b1c}まさに神話の通り、\nいや、想像していた以上だ。\n地下にこんな世界があったなんて!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}{0b:08}【 Arthur 】{0b:09}\nSo this is Asla Fael, capital of the Sun\nEmpire...{1a}Four walls towering to the height of the\nclouds, a city of the gods shining in gold...{1a}{0c:521b1c}It's just as the myths say, no, beyond\nanything I imagined. To think such a world\nlay underground!{0c:fe}",
+   "status": "done",
+   "tl": "So this is Asla Fael, capital of the Sun Empire... // Four walls towering to the height of the clouds, a city of the gods shining in gold... // [1]It's just as the myths say, no, beyond anything I imagined. To think such a world lay underground!"
   },
   {
    "id": "RES#75:29a67",
@@ -217,8 +224,9 @@
    "jp": "{1c:14}え? 何か言ったかい?{0c:fe}",
    "read": "{1c:14}え? 何か言ったかい?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}What? Did you say something?{0c:fe}",
+   "status": "done",
+   "tl": "What? Did you say something?"
   },
   {
    "id": "RES#75:29a88",
@@ -239,8 +247,9 @@
    "jp": "{1c:17}おかしいな・・・\n今確かに人の声が聞こえたのに・・・{1a}いや、まだ聞こえる・・・{0c:fe}",
    "read": "{1c:17}おかしいな・・・\n今確かに人の声が聞こえたのに・・・{1a}いや、まだ聞こえる・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}That's strange... I'm certain I just heard\nsomeone's voice...{1a}No, I can still hear it...{0c:fe}",
+   "status": "done",
+   "tl": "That's strange... I'm certain I just heard someone's voice... // No, I can still hear it..."
   },
   {
    "id": "RES#75:29ad6",
@@ -261,8 +270,9 @@
    "jp": "{1c:18}誰の声だろう・・・\n聞いたことがあるような・・・{0c:fe}",
    "read": "{1c:18}誰の声だろう・・・\n聞いたことがあるような・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}Whose voice is that... It sounds familiar...{0c:fe}",
+   "status": "done",
+   "tl": "Whose voice is that... It sounds familiar..."
   },
   {
    "id": "RES#75:29b04",
@@ -283,8 +293,9 @@
    "jp": "{1c:15}あっ、待ってくれ!{0c:2b0009fe}",
    "read": "{1c:15}あっ、待ってくれ!{0c:2b0009fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Ah, wait!{0c:2b0009fe}",
+   "status": "done",
+   "tl": "Ah, wait!"
   },
   {
    "id": "RES#75:29b57",
@@ -316,8 +327,9 @@
    "jp": "{1c:1a}{0b:08}{e080} レイア {e081}{0b:09}\nこれが地下{e087}{e08f}か・・・\nだが、あれは一体何処に・・・{0c:fe}",
    "read": "{1c:1a}{0b:08}【 レイア 】{0b:09}\nこれが地下都市か・・・\nだが、あれは一体何処に・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}{0b:08}【 Leia 】{0b:09}\nSo this is the underground city... But\nwhere on earth could it be...{0c:fe}",
+   "status": "done",
+   "tl": "So this is the underground city... But where on earth could it be..."
   },
   {
    "id": "RES#75:29c84",
@@ -338,8 +350,9 @@
    "jp": "{0c:5112}{1c:19}何でもない・・・{0c:fe}",
    "read": "{0c:5112}{1c:19}何でもない・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5112}{1c:19}It is nothing...{0c:fe}",
+   "status": "done",
+   "tl": "It is nothing..."
   },
   {
    "id": "RES#75:29ca4",
@@ -360,8 +373,9 @@
    "jp": "{1c:1a}何だ?{07:1e}{0c:fe}",
    "read": "{1c:1a}何だ?{07:1e}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}What?{07:1e}{0c:fe}",
+   "status": "done",
+   "tl": "What?"
   },
   {
    "id": "RES#75:29ce3",
@@ -371,8 +385,9 @@
    "jp": "何か言わなかったか?{0c:fe}",
    "read": "何か言わなかったか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Did you not say something?{0c:fe}",
+   "status": "done",
+   "tl": "Did you not say something?"
   },
   {
    "id": "RES#75:29cf4",
@@ -393,8 +408,9 @@
    "jp": "{1c:1a}・・・・・・{1a}いや、まだ聞こえる・・・{0c:fe}",
    "read": "{1c:1a}・・・・・・{1a}いや、まだ聞こえる・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}......{1a}No, I can still hear it...{0c:fe}",
+   "status": "done",
+   "tl": "...... // No, I can still hear it..."
   },
   {
    "id": "RES#75:29d30",
@@ -415,8 +431,9 @@
    "jp": "{1c:1a}確かに人の声・・・\n聞こえるのは私だけなのか・・・?{0c:fe}",
    "read": "{1c:1a}確かに人の声・・・\n聞こえるのは私だけなのか・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}It is a voice, without doubt... Am I the\nonly one who hears it...?{0c:fe}",
+   "status": "done",
+   "tl": "It is a voice, without doubt... Am I the only one who hears it...?"
   },
   {
    "id": "RES#75:29d73",
@@ -437,8 +454,9 @@
    "jp": "・・・・・・{1a}もういい、行こう・・・{0c:2b0009fe}",
    "read": "・・・・・・{1a}もういい、行こう・・・{0c:2b0009fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "......{1a}Enough. Let us go...{0c:2b0009fe}",
+   "status": "done",
+   "tl": "...... // Enough. Let us go..."
   },
   {
    "id": "RES#75:29d9f",
@@ -470,8 +488,9 @@
    "jp": "{1c:1b}{0b:08}{e080} エレアノール {e081}{0b:09}\n雲の{e088}さにまでそびえる四{e08a}、\n{e08b}{e08c}に{e08d}り輝く神の{e087}{e08f}・・・{0c:fe}",
    "read": "{1c:1b}{0b:08}【 エレアノール 】{0b:09}\n雲の高さにまでそびえる四壁、\n金色に光り輝く神の都市・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Eleanor 】{0b:09}\nFour walls towering to the height of the\nclouds, a city of the gods shining in gold...{0c:fe}",
+   "status": "done",
+   "tl": "Four walls towering to the height of the clouds, a city of the gods shining in gold..."
   },
   {
    "id": "RES#75:29ee0",
@@ -492,8 +511,9 @@
    "jp": "{1c:1d}神も妬むほどの栄華という{e098}{e099}も\nうなずけます。{1a}ですが、先程から感じている\n違{e09a}感はなんでしょうか・・・{0c:fe}",
    "read": "{1c:1d}神も妬むほどの栄華という表現も\nうなずけます。{1a}ですが、先程から感じている\n違和感はなんでしょうか・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}'A glory that even the gods envy'... I can\nwell believe the phrase.{1a}But what is this unease I have been\nfeeling for some time now...{0c:fe}",
+   "status": "done",
+   "tl": "'A glory that even the gods envy'... I can well believe the phrase. // But what is this unease I have been feeling for some time now..."
   },
   {
    "id": "RES#75:29f33",
@@ -514,8 +534,9 @@
    "jp": "{1c:1d}地底に{e09c}や{e082}{e083}があるということも\n勿論ですが、それとは別の・・・\n得体の知れない禍{e0a0}しさを感じます。{1a}そう、まるで悪意に満ちた\n視{e0a2}の前に立つような・・・{07:0a}\n杞憂であればよいのですが・・・{07:05}{0c:fe}",
    "read": "{1c:1d}地底に空や太陽があるということも\n勿論ですが、それとは別の・・・\n得体の知れない禍々しさを感じます。{1a}そう、まるで悪意に満ちた\n視線の前に立つような・・・{07:0a}\n杞憂であればよいのですが・・・{07:05}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}There is the sky and the sun\nunderground, of course, but apart from\nthat... I sense something nameless and\nominous.{1a}Yes, as though I were standing before a\ngaze full of malice...{07:0a} I do hope I am\nworrying over nothing...{07:05}{0c:fe}",
+   "status": "done",
+   "tl": "There is the sky and the sun underground, of course, but apart from that... I sense something nameless and ominous. // Yes, as though I were standing before a gaze full of malice...[1] I do hope I am worrying over nothing..."
   },
   {
    "id": "RES#75:29fc2",
@@ -536,8 +557,9 @@
    "jp": "{1c:1c}今、何かおっしゃいましたか?{0c:fe}",
    "read": "{1c:1c}今、何かおっしゃいましたか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}Did you say something just now?{0c:fe}",
+   "status": "done",
+   "tl": "Did you say something just now?"
   },
   {
    "id": "RES#75:29fe4",
@@ -558,8 +580,9 @@
    "jp": "{1c:1b}人の声が聞こえたのですが、\n聞き違いでしょうか・・・{07:1e}{0c:fe}",
    "read": "{1c:1b}人の声が聞こえたのですが、\n聞き違いでしょうか・・・{07:1e}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}I heard someone's voice, but perhaps I\nmisheard...{07:1e}{0c:fe}",
+   "status": "done",
+   "tl": "I heard someone's voice, but perhaps I misheard..."
   },
   {
    "id": "RES#75:2a025",
@@ -569,8 +592,9 @@
    "jp": "{1c:1b}いえ・・・まだ聞こえます・・・{0c:521e1ffe}",
    "read": "{1c:1b}いえ・・・まだ聞こえます・・・{0c:521e1ffe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}No... I can still hear it...{0c:521e1ffe}",
+   "status": "done",
+   "tl": "No... I can still hear it..."
   },
   {
    "id": "RES#75:2a03e",
@@ -591,8 +615,9 @@
    "jp": "{0c:5120}{1c:1c}聞こえないのですか?\n悲鳴のような声が・・・{0c:fe}",
    "read": "{0c:5120}{1c:1c}聞こえないのですか?\n悲鳴のような声が・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5120}{1c:1c}Can you not hear it? A voice like a\nscream...{0c:fe}",
+   "status": "done",
+   "tl": "Can you not hear it? A voice like a scream..."
   },
   {
    "id": "RES#75:2a081",
@@ -613,8 +638,9 @@
    "jp": "{0c:522122}{1c:1d}時間をとらせて御免なさい。\n少し疲れているのかもしれません。\n・・・行きましょう。{0c:2b0009fe}",
    "read": "{0c:522122}{1c:1d}時間をとらせて御免なさい。\n少し疲れているのかもしれません。\n・・・行きましょう。{0c:2b0009fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:522122}{1c:1d}Forgive me for taking your time. Perhaps\nI am a little tired. ...Let us go.{0c:2b0009fe}",
+   "status": "done",
+   "tl": "Forgive me for taking your time. Perhaps I am a little tired. ...Let us go."
   },
   {
    "id": "RES#75:2a0d5",
@@ -646,8 +672,9 @@
    "jp": "{1c:20}{0b:08}{e080} パスカ {e081}{0b:09}\nこれがアスラ・ファエルか・・・{1a}すげえ、そこらじゅう{e08b}だらけだぜ。\n話には聞いてたけど\n実際に見てみると想{e092}以上だな。{0c:fe}",
    "read": "{1c:20}{0b:08}【 パスカ 】{0b:09}\nこれがアスラ・ファエルか・・・{1a}すげえ、そこらじゅう金だらけだぜ。\n話には聞いてたけど\n実際に見てみると想像以上だな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Pasca 】{0b:09}\nSo this is Asla Fael...{1a}Damn, there's gold all over the place. I\nheard the stories, but seein' it for real\nbeats anything I figured.{0c:fe}",
+   "status": "done",
+   "tl": "So this is Asla Fael... // Damn, there's gold all over the place. I heard the stories, but seein' it for real beats anything I figured."
   },
   {
    "id": "RES#75:2a232",
@@ -668,8 +695,9 @@
    "jp": "{1c:1e}ところでさ、オレ達ずっと\n地面の中を下に{e0a6}りてきたんだよな。\nなのに何で{e082}{e083}があるんだ・・・?{0c:fe}",
    "read": "{1c:1e}ところでさ、オレ達ずっと\n地面の中を下に降りてきたんだよな。\nなのに何で太陽があるんだ・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}Say, we been goin' down through the\nground this whole time, right? So why's\nthere a sun...?{0c:fe}",
+   "status": "done",
+   "tl": "Say, we been goin' down through the ground this whole time, right? So why's there a sun...?"
   },
   {
    "id": "RES#75:2a27c",
@@ -690,8 +718,9 @@
    "jp": "{1c:1f}知るわけねえか・・・{0c:fe}",
    "read": "{1c:1f}知るわけねえか・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}Like you'd know...{0c:fe}",
+   "status": "done",
+   "tl": "Like you'd know..."
   },
   {
    "id": "RES#75:2a2a1",
@@ -712,8 +741,9 @@
    "jp": "{1c:1e}どうみても{e0a7}{e090}の{e09c}だよな。\nオレ達いつ地上に戻ってきたんだ?\n自分がどこにいるのか\nわからなくなっちまうぜ・・・{1a}まあ、オレの頭でいくら考えても\nしょうがねえけどさ。{0c:fe}",
    "read": "{1c:1e}どうみても普通の空だよな。\nオレ達いつ地上に戻ってきたんだ?\n自分がどこにいるのか\nわからなくなっちまうぜ・・・{1a}まあ、オレの頭でいくら考えても\nしょうがねえけどさ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}Looks like a regular sky any way ya slice\nit. When'd we get back up top? I can't\neven tell where I am no more...{1a}Well, ain't no use thinkin' about it with\nmy head.{0c:fe}",
+   "status": "done",
+   "tl": "Looks like a regular sky any way ya slice it. When'd we get back up top? I can't even tell where I am no more... // Well, ain't no use thinkin' about it with my head."
   },
   {
    "id": "RES#75:2a317",
@@ -734,8 +764,9 @@
    "jp": "それにしてもすげえよな・・・\nわくわくしてくるぜ。{0c:fe}",
    "read": "それにしてもすげえよな・・・\nわくわくしてくるぜ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Still, that's somethin' else... I'm gettin' all\nfired up.{0c:fe}",
+   "status": "done",
+   "tl": "Still, that's somethin' else... I'm gettin' all fired up."
   },
   {
    "id": "RES#75:2a346",
@@ -756,8 +787,9 @@
    "jp": "{1c:1f}ん? 何か言ったか?{0c:fe}",
    "read": "{1c:1f}ん? 何か言ったか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}Hm? You say somethin'?{0c:fe}",
+   "status": "done",
+   "tl": "Hm? You say somethin'?"
   },
   {
    "id": "RES#75:2a367",
@@ -778,8 +810,9 @@
    "jp": "{1c:1f}冗談よせよ。\n確かに人の声が・・・{1a}ん? まただ・・・{0c:fe}",
    "read": "{1c:1f}冗談よせよ。\n確かに人の声が・・・{1a}ん? まただ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}Quit kiddin'. I heard a voice, sure as...{1a}Hm? There it is again...{0c:fe}",
+   "status": "done",
+   "tl": "Quit kiddin'. I heard a voice, sure as... // Hm? There it is again..."
   },
   {
    "id": "RES#75:2a3a9",
@@ -800,8 +833,9 @@
    "jp": "{1c:1e}オレ達以外には誰もいねえよな。\n一体なんだったんだ、今の・・・{1a}{0c:2b5010005108}まあいっか、今まであれだけ\n{e0a8}け物見てきたんだ、\n今さらこんな声くらいで\n驚くことでもねえだろ。{1a}じゃあ行くか。いよいよ本番だ。{0c:2b0009fe}",
    "read": "{1c:1e}オレ達以外には誰もいねえよな。\n一体なんだったんだ、今の・・・{1a}{0c:2b5010005108}まあいっか、今まであれだけ\n化け物見てきたんだ、\n今さらこんな声くらいで\n驚くことでもねえだろ。{1a}じゃあ行くか。いよいよ本番だ。{0c:2b0009fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}Ain't nobody here but us, right? What\nthe hell was that just now...{1a}{0c:2b5010005108}Ah, whatever. After all the monsters I\nseen, ain't no voice gonna spook me now.{1a}Let's go. This is where it really starts.{0c:2b0009fe}",
+   "status": "done",
+   "tl": "Ain't nobody here but us, right? What the hell was that just now... // [1]Ah, whatever. After all the monsters I seen, ain't no voice gonna spook me now. // Let's go. This is where it really starts."
   },
   {
    "id": "RES#75:2a44d",
@@ -833,8 +867,9 @@
    "jp": "これがアスラ・ファエル・・・\nどうして地面の下なのに\n{e082}{e083}があるんだろう・・・{0c:fe}",
    "read": "これがアスラ・ファエル・・・\nどうして地面の下なのに\n太陽があるんだろう・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "So this is Asla Fael... How come there's a\nsun, when we're under the ground...{0c:fe}",
+   "status": "done",
+   "tl": "So this is Asla Fael... How come there's a sun, when we're under the ground..."
   },
   {
    "id": "RES#75:2a57f",
@@ -855,8 +890,9 @@
    "jp": "{0c:521b1c}えっ? 何か言った?{0c:fe}",
    "read": "{0c:521b1c}えっ? 何か言った?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521b1c}Huh? Did you say something?{0c:fe}",
+   "status": "done",
+   "tl": "Huh? Did you say something?"
   },
   {
    "id": "RES#75:2a59f",
@@ -877,8 +913,9 @@
    "jp": "声が聞こえたの・・・\nあっ、また・・・{0c:fe}",
    "read": "声が聞こえたの・・・\nあっ、また・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I heard a voice... Oh, there it is again...{0c:fe}",
+   "status": "done",
+   "tl": "I heard a voice... Oh, there it is again..."
   },
   {
    "id": "RES#75:2a5d4",
@@ -899,8 +936,9 @@
    "jp": "優しい声にも悲しい声にも\n笑ってる声にも\n怒ってる声にも聞こえる・・・\n{0c:511c}聞こえないの?{0c:fe}",
    "read": "優しい声にも悲しい声にも\n笑ってる声にも\n怒ってる声にも聞こえる・・・\n{0c:511c}聞こえないの?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "It sounds gentle, and sad, and laughing,\nand angry, all at once... {0c:511c}Can't you hear\nit?{0c:fe}",
+   "status": "done",
+   "tl": "It sounds gentle, and sad, and laughing, and angry, all at once... [1]Can't you hear it?"
   },
   {
    "id": "RES#75:2a62c",
@@ -921,8 +959,9 @@
    "jp": "そう・・・\n気のせいなのかな・・・\nご、ごめん、いこっ・・・{0c:2b0009fe}",
    "read": "そう・・・\n気のせいなのかな・・・\nご、ごめん、いこっ・・・{0c:2b0009fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Oh... I guess it's just me... S-sorry, let's\ngo...{0c:2b0009fe}",
+   "status": "done",
+   "tl": "Oh... I guess it's just me... S-sorry, let's go..."
   },
   {
    "id": "RES#75:2a65e",
@@ -954,8 +993,9 @@
    "jp": "{e09c}を見上げるのも\n随分久方ぶりのような気がする・・・{0c:fe}",
    "read": "空を見上げるのも\n随分久方ぶりのような気がする・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "It feels like a very long time since I last\nlooked up at the sky...{0c:fe}",
+   "status": "done",
+   "tl": "It feels like a very long time since I last looked up at the sky..."
   },
   {
    "id": "RES#75:2a783",
@@ -976,8 +1016,9 @@
    "jp": "何だ・・・?{0c:fe}",
    "read": "何だ・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "What is it...?{0c:fe}",
+   "status": "done",
+   "tl": "What is it...?"
   },
   {
    "id": "RES#75:2a79a",
@@ -998,8 +1039,9 @@
    "jp": "いや、人の声がしたのだが・・・\n聞き違いか・・・{0c:fe}",
    "read": "いや、人の声がしたのだが・・・\n聞き違いか・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "No, I heard someone's voice... Perhaps I\nmisheard...{0c:fe}",
+   "status": "done",
+   "tl": "No, I heard someone's voice... Perhaps I misheard..."
   },
   {
    "id": "RES#75:2a7d6",
@@ -1020,8 +1062,9 @@
    "jp": "いや、今も聞こえる・・・{0c:fe}",
    "read": "いや、今も聞こえる・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "No, I can still hear it...{0c:fe}",
+   "status": "done",
+   "tl": "No, I can still hear it..."
   },
   {
    "id": "RES#75:2a7ef",
@@ -1042,8 +1085,9 @@
    "jp": "{0c:522122}苦しんでいる・・・\nいや、泣いているのか・・・?{0c:fe}",
    "read": "{0c:522122}苦しんでいる・・・\nいや、泣いているのか・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:522122}It is in pain... No, is it weeping...?{0c:fe}",
+   "status": "done",
+   "tl": "It is in pain... No, is it weeping...?"
   },
   {
    "id": "RES#75:2a828",
@@ -1064,8 +1108,9 @@
    "jp": "聞こえないのか?{0c:fe}",
    "read": "聞こえないのか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "You do not hear it?{0c:fe}",
+   "status": "done",
+   "tl": "You do not hear it?"
   },
   {
    "id": "RES#75:2a83c",
@@ -1086,8 +1131,9 @@
    "jp": "・・・すまない、\nならば聞き違いだろう・・・{0c:2b0009fe}",
    "read": "・・・すまない、\nならば聞き違いだろう・・・{0c:2b0009fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "...Forgive me. Then I must have misheard...{0c:2b0009fe}",
+   "status": "done",
+   "tl": "...Forgive me. Then I must have misheard..."
   },
   {
    "id": "RES#75:2a867",
@@ -1119,8 +1165,9 @@
    "jp": "{1c:23}{0b:08}{e080} シャルン {e081}{0b:09}\nとうとう来たんだ・・・\n兄さんが最後に戦ってた場所に・・・{0c:fe}",
    "read": "{1c:23}{0b:08}【 シャルン 】{0b:09}\nとうとう来たんだ・・・\n兄さんが最後に戦ってた場所に・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:23}{0b:08}【 Scharn 】{0b:09}\nI finally made it... to the place where my\nbrother fought his last fight...{0c:fe}",
+   "status": "done",
+   "tl": "I finally made it... to the place where my brother fought his last fight..."
   },
   {
    "id": "RES#75:2a9bf",
@@ -1141,8 +1188,9 @@
    "jp": "兄さんはここで\n亡くなったんだって・・・{1a}いつもはもっと{e0ac}の方にまで\n足を延ばしてたんだけど、\n友達の手伝いをしてる時に・・・{0c:fe}",
    "read": "兄さんはここで\n亡くなったんだって・・・{1a}いつもはもっと奥の方にまで\n足を延ばしてたんだけど、\n友達の手伝いをしてる時に・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "They say my brother died here...{1a}He usually went much deeper in, you\nknow, but he was helping out a friend\nwhen...{0c:fe}",
+   "status": "done",
+   "tl": "They say my brother died here... // He usually went much deeper in, you know, but he was helping out a friend when..."
   },
   {
    "id": "RES#75:2aa1a",
@@ -1152,8 +1200,9 @@
    "jp": "{0c:521b20}{1c:24}嫌になっちゃうな・・・\n泣かないって決めたのに、\n兄さんの顔思い出しただけで・・・{0c:fe}",
    "read": "{0c:521b20}{1c:24}嫌になっちゃうな・・・\n泣かないって決めたのに、\n兄さんの顔思い出しただけで・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521b20}{1c:24}This is so silly... I promised I wouldn't cry,\nbut just remembering my brother's\nface...{0c:fe}",
+   "status": "done",
+   "tl": "This is so silly... I promised I wouldn't cry, but just remembering my brother's face..."
   },
   {
    "id": "RES#75:2aa55",
@@ -1174,8 +1223,9 @@
    "jp": "{1c:21}ごめん、いつまでも\n子供みたいだよね。{0c:020401}",
    "read": "{1c:21}ごめん、いつまでも\n子供みたいだよね。{0c:020401}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:21}Sorry, I'm still acting like a little kid, huh?{0c:020401}",
+   "status": "done",
+   "tl": "Sorry, I'm still acting like a little kid, huh?"
   },
   {
    "id": "RES#75:2aa7a",
@@ -1185,8 +1235,9 @@
    "jp": "{1c:23}とうとう来たんだ・・・\n兄さんが最後に戦ってた場所に・・・{0c:fe}",
    "read": "{1c:23}とうとう来たんだ・・・\n兄さんが最後に戦ってた場所に・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:23}I finally made it... to the place where my\nbrother fought his last fight...{0c:fe}",
+   "status": "done",
+   "tl": "I finally made it... to the place where my brother fought his last fight..."
   },
   {
    "id": "RES#75:2aaa4",
@@ -1207,8 +1258,9 @@
    "jp": "{1c:21}ううん、何でもない。{0c:fe}",
    "read": "{1c:21}ううん、何でもない。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:21}No, it's nothing!{0c:fe}",
+   "status": "done",
+   "tl": "No, it's nothing!"
   },
   {
    "id": "RES#75:2aacb",
@@ -1229,8 +1281,9 @@
    "jp": "{1c:21}でも不思{e0ae}な所だね・・・\n地面の下にいるはずなのに\n{e09c}も{e082}{e083}もある・・・{1a}ここって本当に\n地面の下なのかな・・・{0c:fe}",
    "read": "{1c:21}でも不思議な所だね・・・\n地面の下にいるはずなのに\n空も太陽もある・・・{1a}ここって本当に\n地面の下なのかな・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:21}But this is such a strange place, you\nknow... We should be underground, but\nthere's a sky and a sun...{1a}I wonder if this really is underground...{0c:fe}",
+   "status": "done",
+   "tl": "But this is such a strange place, you know... We should be underground, but there's a sky and a sun... // I wonder if this really is underground..."
   },
   {
    "id": "RES#75:2ab27",
@@ -1251,8 +1304,9 @@
    "jp": "{1c:22}あれ・・・?{0c:fe}",
    "read": "{1c:22}あれ・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:22}Huh...?{0c:fe}",
+   "status": "done",
+   "tl": "Huh...?"
   },
   {
    "id": "RES#75:2ab41",
@@ -1273,8 +1327,9 @@
    "jp": "{0c:52211c}{1c:25}声が聞こえた・・・{1a}子供の・・・\n女の子の泣き声みたいな声・・・{0c:fe}",
    "read": "{0c:52211c}{1c:25}声が聞こえた・・・{1a}子供の・・・\n女の子の泣き声みたいな声・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52211c}{1c:25}I heard a voice...{1a}A child's... like a little girl crying...{0c:fe}",
+   "status": "done",
+   "tl": "I heard a voice... // A child's... like a little girl crying..."
   },
   {
    "id": "RES#75:2ab82",
@@ -1295,8 +1350,9 @@
    "jp": "{1c:22}聞こえないの?{1a}おかしいな・・・{07:14}\nあっ、また聞こえてきた。{07:05}{0c:fe}",
    "read": "{1c:22}聞こえないの?{1a}おかしいな・・・{07:14}\nあっ、また聞こえてきた。{07:05}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:22}You can't hear it?{1a}That's weird...{07:14} Oh, I can hear it again!{07:05}{0c:fe}",
+   "status": "done",
+   "tl": "You can't hear it? // That's weird...[1] Oh, I can hear it again!"
   },
   {
    "id": "RES#75:2abc6",
@@ -1317,8 +1373,9 @@
    "jp": "{1c:25}本当に聞こえないの?{07:0f}\n{0c:5125}あれ・・・もう聞こえない・・・{07:05}{1a}{0c:511c}でも本当に聞こえたんだよ。\n信じてくれるよね、{10}。{0c:020401f20300f40201}",
    "read": "{1c:25}本当に聞こえないの?{07:0f}\n{0c:5125}あれ・・・もう聞こえない・・・{07:05}{1a}{0c:511c}でも本当に聞こえたんだよ。\n信じてくれるよね、{10}。{0c:020401f20300f40201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:25}You really can't hear it?{07:0f} {0c:5125}Huh... I can't\nhear it anymore...{07:05}{1a}{0c:511c}But I really did hear it, you know! You\nbelieve me, right, {10}?{0c:020401f20300f40201}",
+   "status": "done",
+   "tl": "You really can't hear it?[1] [2]Huh... I can't hear it anymore...[3] // [4]But I really did hear it, you know! You believe me, right, [HERO]?"
   },
   {
    "id": "RES#75:2ac35",
@@ -1339,8 +1396,9 @@
    "jp": "信じるよ|いや、何も聞こえなかった|無視して先に進む",
    "read": "信じるよ|いや、何も聞こえなかった|無視して先に進む",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I believe you|No, I heard nothing|Ignore her and go on",
+   "status": "done",
+   "tl": "I believe you|No, I heard nothing|Ignore her and go on"
   },
   {
    "id": "RES#75:2ac5b",
@@ -1372,8 +1430,9 @@
    "jp": "信じるよ|ううん、何も聞こえなかった|無視して先に進む",
    "read": "信じるよ|ううん、何も聞こえなかった|無視して先に進む",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I believe you|No, I didn't hear a thing|Ignore her and go on",
+   "status": "done",
+   "tl": "I believe you|No, I didn't hear a thing|Ignore her and go on"
   },
   {
    "id": "RES#75:2ac89",
@@ -1405,8 +1464,9 @@
    "jp": "{0c:52231c}{1c:21}ありがと、信じてくれて。\nそれじゃあ行こっか!{0c:fe}",
    "read": "{0c:52231c}{1c:21}ありがと、信じてくれて。\nそれじゃあ行こっか!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52231c}{1c:21}Thanks for believing me! Okay, let's go!{0c:fe}",
+   "status": "done",
+   "tl": "Thanks for believing me! Okay, let's go!"
   },
   {
    "id": "RES#75:2ace7",
@@ -1449,8 +1509,9 @@
    "jp": "{0c:52231c}{1c:25}あたしの耳がおかしいのかな・・・\nでも本当に聞こえたのに・・・{0c:02fd01}",
    "read": "{0c:52231c}{1c:25}あたしの耳がおかしいのかな・・・\nでも本当に聞こえたのに・・・{0c:02fd01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52231c}{1c:25}Is something wrong with my ears... But I\nreally did hear it...{0c:02fd01}",
+   "status": "done",
+   "tl": "Is something wrong with my ears... But I really did hear it..."
   },
   {
    "id": "RES#75:2ad96",
@@ -1471,8 +1532,9 @@
    "jp": "{0c:522420}{1c:22}あっ、ひどーい!{0c:02fb01}",
    "read": "{0c:522420}{1c:22}あっ、ひどーい!{0c:02fb01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:522420}{1c:22}Hey, that's so mean!{0c:02fb01}",
+   "status": "done",
+   "tl": "Hey, that's so mean!"
   },
   {
    "id": "RES#75:2add4",
@@ -1493,8 +1555,9 @@
    "jp": "{1c:28}{0b:08}{e080} ジェシカ {e081}{0b:09}\nへえー、\nこれがアスラ・ファエルか。{1a}結構すごいね。\nそこらじゅう{e08b}で出来てるよ。{0c:fe}",
    "read": "{1c:28}{0b:08}【 ジェシカ 】{0b:09}\nへえー、\nこれがアスラ・ファエルか。{1a}結構すごいね。\nそこらじゅう金で出来てるよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:28}{0b:08}【 Jessica 】{0b:09}\nHuh, so this is Asla Fael.{1a}Pretty impressive. The whole place is\nmade of gold.{0c:fe}",
+   "status": "done",
+   "tl": "Huh, so this is Asla Fael. // Pretty impressive. The whole place is made of gold."
   },
   {
    "id": "RES#75:2aeb4",
@@ -1504,8 +1567,9 @@
    "jp": "{0c:521b1c}{1c:26}お{e0b0}道様よりは月の方が好きだけど、\nここは悪くないね。そう思わない?{0c:fe}",
    "read": "{0c:521b1c}{1c:26}お天道様よりは月の方が好きだけど、\nここは悪くないね。そう思わない?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521b1c}{1c:26}I like the moon better than the sun, but\nthis place isn't bad. Don't you think?{0c:fe}",
+   "status": "done",
+   "tl": "I like the moon better than the sun, but this place isn't bad. Don't you think?"
   },
   {
    "id": "RES#75:2aeea",
@@ -1515,8 +1579,9 @@
    "jp": "{0c:511d}ほら、{e082}{e083}の{e08d}あびた{e08b}{e08c}って\nゴージャスって感じでいいじゃん。\nよだれが出ちゃうよ。{1a}{0c:521e1f}あれ、そういえば何で地面の下なのに\n{e082}{e083}があるんだろ・・・\nあたし達って{e0b1}段を\n下に{e0a6}りて来たはずだよね。{1a}{0c:522021}まっいいか。\nお{e0b3}さえあればどうでもいいや。{0c:522221}{0c:fe}",
    "read": "{0c:511d}ほら、太陽の光あびた金色って\nゴージャスって感じでいいじゃん。\nよだれが出ちゃうよ。{1a}{0c:521e1f}あれ、そういえば何で地面の下なのに\n太陽があるんだろ・・・\nあたし達って階段を\n下に降りて来たはずだよね。{1a}{0c:522021}まっいいか。\nお宝さえあればどうでもいいや。{0c:522221}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:511d}Come on, gold in the sunlight, it's\ngorgeous, right? Makes me drool.{1a}{0c:521e1f}Huh, come to think of it, why's there a\nsun when we're underground? We came\ndown the stairs, didn't we?{1a}{0c:522021}Oh well. As long as there's treasure, who\ncares.{0c:522221}{0c:fe}",
+   "status": "done",
+   "tl": "Come on, gold in the sunlight, it's gorgeous, right? Makes me drool. // [1]Huh, come to think of it, why's there a sun when we're underground? We came down the stairs, didn't we? // [2]Oh well. As long as there's treasure, who cares."
   },
   {
    "id": "RES#75:2af8e",
@@ -1537,8 +1602,9 @@
    "jp": "{0c:521b1c}{1c:29}えっ? 何か言った?{0c:fe}",
    "read": "{0c:521b1c}{1c:29}えっ? 何か言った?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521b1c}{1c:29}Huh? Did you say something?{0c:fe}",
+   "status": "done",
+   "tl": "Huh? Did you say something?"
   },
   {
    "id": "RES#75:2afb2",
@@ -1559,8 +1625,9 @@
    "jp": "{0c:5123}{1c:29}あれ、おかしいな・・・\n声が聞こえたんだけどさ。{1a}あっ、また・・・{0c:fe}",
    "read": "{0c:5123}{1c:29}あれ、おかしいな・・・\n声が聞こえたんだけどさ。{1a}あっ、また・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5123}{1c:29}Huh, that's weird... I heard a voice, you\nknow.{1a}Oh, there it is again...{0c:fe}",
+   "status": "done",
+   "tl": "Huh, that's weird... I heard a voice, you know. // Oh, there it is again..."
   },
   {
    "id": "RES#75:2affb",
@@ -1581,8 +1648,9 @@
    "jp": "{1c:29}子供の泣き声かな・・・\n聞こえないの?{0c:fe}",
    "read": "{1c:29}子供の泣き声かな・・・\n聞こえないの?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:29}Sounds like a kid crying... You can't hear\nit?{0c:fe}",
+   "status": "done",
+   "tl": "Sounds like a kid crying... You can't hear it?"
   },
   {
    "id": "RES#75:2b026",
@@ -1592,8 +1660,9 @@
    "jp": "{0c:511c}{0c:0c5a}{1c:27}{10}、\n耳おかしいんじゃないの?{1a}あっ、その顔信じてないね。\n{0c:511d}本当に聞こえるんだってば!{0c:020401f20300f40201}",
    "read": "{0c:511c}{0c:0c5a}{1c:27}{10}、\n耳おかしいんじゃないの?{1a}あっ、その顔信じてないね。\n{0c:511d}本当に聞こえるんだってば!{0c:020401f20300f40201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:511c}{0c:0c5a}{1c:27}{10}, are your ears busted or\nwhat?{1a}Oh, I can see by your face you don't\nbelieve me. {0c:511d}I'm telling you, I really hear it!{0c:020401f20300f40201}",
+   "status": "done",
+   "tl": "[HERO], are your ears busted or what? // Oh, I can see by your face you don't believe me. [1]I'm telling you, I really hear it!"
   },
   {
    "id": "RES#75:2b074",
@@ -1614,8 +1683,9 @@
    "jp": "わかったわかった|いや、絶対に何も聞こえない|無視して先に進む",
    "read": "わかったわかった|いや、絶対に何も聞こえない|無視して先に進む",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "All right, all right|No, there's nothing to hear|Ignore her and go on",
+   "status": "done",
+   "tl": "All right, all right|No, there's nothing to hear|Ignore her and go on"
   },
   {
    "id": "RES#75:2b0a0",
@@ -1647,8 +1717,9 @@
    "jp": "わかったわかった|でもやっぱり何も聞こえないよ|無視して先に進む",
    "read": "わかったわかった|でもやっぱり何も聞こえないよ|無視して先に進む",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "All right, all right|But I still hear nothing|Ignore her and go on",
+   "status": "done",
+   "tl": "All right, all right|But I still hear nothing|Ignore her and go on"
   },
   {
    "id": "RES#75:2b0d2",
@@ -1669,8 +1740,9 @@
    "jp": "{0c:0b0a070d0103fb0d010bfb0d010cfb0d010dfb0d010efbf7061f511c}{1c:26}わかったならいいよ。\nじゃあ行こっか。{0c:fe}",
    "read": "{0c:0b0a070d0103fb0d010bfb0d010cfb0d010dfb0d010efbf7061f511c}{1c:26}わかったならいいよ。\nじゃあ行こっか。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:0b0a070d0103fb0d010bfb0d010cfb0d010dfb0d010efbf7061f511c}{1c:26}As long as you get it. So let's go, huh?{0c:fe}",
+   "status": "done",
+   "tl": "As long as you get it. So let's go, huh?"
   },
   {
    "id": "RES#75:2b111",
@@ -1702,8 +1774,9 @@
    "jp": "{0c:f70620511c}{1c:27}あんたって意外とガンコだね・・・{1a}あっそうだ、心のきれいな人にしか\n聞こえないんだよ、きっと。\n{0c:52251c}それなら{e0b4}得だね。{0c:02fe01}",
    "read": "{0c:f70620511c}{1c:27}あんたって意外とガンコだね・・・{1a}あっそうだ、心のきれいな人にしか\n聞こえないんだよ、きっと。\n{0c:52251c}それなら納得だね。{0c:02fe01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:f70620511c}{1c:27}You're pretty stubborn, you know that...{1a}Oh, I get it, only people with pure hearts\ncan hear it, I bet. {0c:52251c}Yeah, that makes\nsense.{0c:02fe01}",
+   "status": "done",
+   "tl": "You're pretty stubborn, you know that... // Oh, I get it, only people with pure hearts can hear it, I bet. [1]Yeah, that makes sense."
   },
   {
    "id": "RES#75:2b1d3",
@@ -1724,8 +1797,9 @@
    "jp": "{0c:2b503c5108}{1c:27}ふーん、そういう{e0b5}度とるの。{0c:02fc01}",
    "read": "{0c:2b503c5108}{1c:27}ふーん、そういう態度とるの。{0c:02fc01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b503c5108}{1c:27}Hmph, so that's how you're gonna be.{0c:02fc01}",
+   "status": "done",
+   "tl": "Hmph, so that's how you're gonna be."
   },
   {
    "id": "RES#75:2b215",
@@ -1746,8 +1820,9 @@
    "jp": "{1c:14}{0b:08}{e080} オルフェウス {e081}{0b:09}\nこれがアスラ・ファエルですか・・・{1a}1万{e0b7}前に造られたにしては\n不自然なくらい{e0b9}しいですね。{1a}考古学などには\nまったく興味のないぼくでも\nこりゃおかしいなって思いますよ。{0c:fe}",
    "read": "{1c:14}{0b:08}【 オルフェウス 】{0b:09}\nこれがアスラ・ファエルですか・・・{1a}1万年前に造られたにしては\n不自然なくらい新しいですね。{1a}考古学などには\nまったく興味のないぼくでも\nこりゃおかしいなって思いますよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Orpheus 】{0b:09}\nSo this is Asla Fael...{1a}For something built ten thousand years\nago, it looks unnaturally new.{1a}Even I, with not the faintest interest in\narchaeology, can tell something is off.{0c:fe}",
+   "status": "done",
+   "tl": "So this is Asla Fael... // For something built ten thousand years ago, it looks unnaturally new. // Even I, with not the faintest interest in archaeology, can tell something is off."
   },
   {
    "id": "RES#75:2b32e",
@@ -1768,8 +1843,9 @@
    "jp": "{1c:11}この{e0bb}景も謎だらけですね・・・{1a}地底深く潜って来たはずなのに\nどうして{e082}{e083}があるのか・・・{0c:fe}",
    "read": "{1c:11}この風景も謎だらけですね・・・{1a}地底深く潜って来たはずなのに\nどうして太陽があるのか・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}This scenery is full of mysteries as well...{1a}We should have delved deep underground,\nso why is there a sun...{0c:fe}",
+   "status": "done",
+   "tl": "This scenery is full of mysteries as well... // We should have delved deep underground, so why is there a sun..."
   },
   {
    "id": "RES#75:2b378",
@@ -1790,8 +1866,9 @@
    "jp": "{1c:13}ま、君に聞いても\n解るわけありませんね。{0c:fe}",
    "read": "{1c:13}ま、君に聞いても\n解るわけありませんね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}Well, asking you would get me nowhere, I\ndaresay.{0c:fe}",
+   "status": "done",
+   "tl": "Well, asking you would get me nowhere, I daresay."
   },
   {
    "id": "RES#75:2b3aa",
@@ -1812,8 +1889,9 @@
    "jp": "{1c:11}それにしても非道い{e0c0}{e08b}趣味だなあ。\n{0c:521516}どうもぼくの繊細な\n美的センスにはあわない。{0c:fe}",
    "read": "{1c:11}それにしても非道い成金趣味だなあ。\n{0c:521516}どうもぼくの繊細な\n美的センスにはあわない。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}And what appalling nouveau-riche taste,\non top of it. {0c:521516}It simply does not suit my\ndelicate aesthetic sense.{0c:fe}",
+   "status": "done",
+   "tl": "And what appalling nouveau-riche taste, on top of it. [1]It simply does not suit my delicate aesthetic sense."
   },
   {
    "id": "RES#75:2b3fc",
@@ -1834,8 +1912,9 @@
    "jp": "{1c:13}何か言いましたか?{0c:fe}",
    "read": "{1c:13}何か言いましたか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}Did you say something?{0c:fe}",
+   "status": "done",
+   "tl": "Did you say something?"
   },
   {
    "id": "RES#75:2b41e",
@@ -1856,8 +1935,9 @@
    "jp": "{1c:11}僕の噂話なら結構ですよ。\n男に誉められても嬉しくない。{1a}・・・・?{0c:fe}",
    "read": "{1c:11}僕の噂話なら結構ですよ。\n男に誉められても嬉しくない。{1a}・・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}If you are gossiping about me, no thank\nyou. Praise from a man does nothing for\nme.{1a}...?{0c:fe}",
+   "status": "done",
+   "tl": "If you are gossiping about me, no thank you. Praise from a man does nothing for me. // ...?"
   },
   {
    "id": "RES#75:2b46a",
@@ -1878,8 +1958,9 @@
    "jp": "{1c:13}今のも聞こえませんでしたか?{0c:fe}",
    "read": "{1c:13}今のも聞こえませんでしたか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}You did not hear that just now either?{0c:fe}",
+   "status": "done",
+   "tl": "You did not hear that just now either?"
   },
   {
    "id": "RES#75:2b48e",
@@ -1900,8 +1981,9 @@
    "jp": "{1c:14}これは・・・女の人の声・・・?\nまさか・・・{1a}・・・・・・{1a}いや、何でもないです・・・\n行きましょうか。{0c:2b0009fe}",
    "read": "{1c:14}これは・・・女の人の声・・・?\nまさか・・・{1a}・・・・・・{1a}いや、何でもないです・・・\n行きましょうか。{0c:2b0009fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}This is... a woman's voice...? It cannot be...{1a}......{1a}No, it is nothing... Shall we go?{0c:2b0009fe}",
+   "status": "done",
+   "tl": "This is... a woman's voice...? It cannot be... // ...... // No, it is nothing... Shall we go?"
   },
   {
    "id": "RES#75:2b4f2",
@@ -1933,8 +2015,9 @@
    "jp": "{1c:14}{0b:08}{e080} オルフェウス {e081}{0b:09}\nこれがアスラ・ファエルですか・・・{1a}それにしても非道い{e0c0}{e08b}趣味だなあ。\n{0c:521516}どうもぼくの繊細な\n美的センスにはあわない。{0c:fe}",
    "read": "{1c:14}{0b:08}【 オルフェウス 】{0b:09}\nこれがアスラ・ファエルですか・・・{1a}それにしても非道い成金趣味だなあ。\n{0c:521516}どうもぼくの繊細な\n美的センスにはあわない。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Orpheus 】{0b:09}\nSo this is Asla Fael...{1a}And what appalling nouveau-riche taste,\non top of it. {0c:521516}It simply does not suit my\ndelicate aesthetic sense.{0c:fe}",
+   "status": "done",
+   "tl": "So this is Asla Fael... // And what appalling nouveau-riche taste, on top of it. [1]It simply does not suit my delicate aesthetic sense."
   },
   {
    "id": "RES#75:2b654",
@@ -1955,8 +2038,9 @@
    "jp": "{1c:11}ところで、本当にここは\n地中の世{e093}なのでしょうか・・・{1a}地底深く潜って来たはずなのに\nどうして{e082}{e083}があるのか・・・{0c:fe}",
    "read": "{1c:11}ところで、本当にここは\n地中の世界なのでしょうか・・・{1a}地底深く潜って来たはずなのに\nどうして太陽があるのか・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}By the way, is this truly a world beneath\nthe earth...{1a}We should have delved deep underground,\nso why is there a sun...{0c:fe}",
+   "status": "done",
+   "tl": "By the way, is this truly a world beneath the earth... // We should have delved deep underground, so why is there a sun..."
   },
   {
    "id": "RES#75:2b6ad",
@@ -1977,8 +2061,9 @@
    "jp": "{1c:12}何かおっしゃいましたか?{0c:fe}",
    "read": "{1c:12}何かおっしゃいましたか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Did you say something, my dear?{0c:fe}",
+   "status": "done",
+   "tl": "Did you say something, my dear?"
   },
   {
    "id": "RES#75:2b6cd",
@@ -1999,8 +2084,9 @@
    "jp": "{0c:5119}{1c:10}ひょっとして・・・{1a}愛の告白ですか?{0c:fe}",
    "read": "{0c:5119}{1c:10}ひょっとして・・・{1a}愛の告白ですか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5119}{1c:10}Could it be...{1a}a declaration of love?{0c:fe}",
+   "status": "done",
+   "tl": "Could it be... // a declaration of love?"
   },
   {
    "id": "RES#75:2b70b",
@@ -2021,8 +2107,9 @@
    "jp": "{1c:12}{e0c5}愛い人だ。\nそんなに照れなくてもいいのに。{1a}・・・・?{0c:fe}",
    "read": "{1c:12}可愛い人だ。\nそんなに照れなくてもいいのに。{1a}・・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}What a darling you are. There is no need\nto be so shy.{1a}...?{0c:fe}",
+   "status": "done",
+   "tl": "What a darling you are. There is no need to be so shy. // ...?"
   },
   {
    "id": "RES#75:2b742",
@@ -2043,8 +2130,9 @@
    "jp": "{1c:14}今のも聞こえませんでしたか?{0c:fe}",
    "read": "{1c:14}今のも聞こえませんでしたか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}You did not hear that just now either?{0c:fe}",
+   "status": "done",
+   "tl": "You did not hear that just now either?"
   },
   {
    "id": "RES#75:2b766",
@@ -2065,8 +2153,9 @@
    "jp": "{1c:14}まさか・・・\nこの声は・・・{1a}・・・・・・{1a}いや、何でもないです・・・\n行きましょうか。{0c:2b0009fe}",
    "read": "{1c:14}まさか・・・\nこの声は・・・{1a}・・・・・・{1a}いや、何でもないです・・・\n行きましょうか。{0c:2b0009fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}It cannot be... This voice...{1a}......{1a}No, it is nothing... Shall we go?{0c:2b0009fe}",
+   "status": "done",
+   "tl": "It cannot be... This voice... // ...... // No, it is nothing... Shall we go?"
   },
   {
    "id": "RES#75:2b7bf",
@@ -2098,8 +2187,9 @@
    "jp": "{1c:16}{0b:08}{e080} イヴ {e081}{0b:09}\n呆れるくらい悪趣味ね・・・{1a}{e08d}り物は嫌いじゃないけど、\nここまでこれ見よがしにされると\nさすがに嫌になるわ。{1a}{0c:521213}それに、この{e082}{e083}・・・\n{e082}{e083}{e084}{e085}だかなんだか知らないけど、\n夜行性の人間のことも\n少しは考えて欲しいわね。{0c:fe}",
    "read": "{1c:16}{0b:08}【 イヴ 】{0b:09}\n呆れるくらい悪趣味ね・・・{1a}光り物は嫌いじゃないけど、\nここまでこれ見よがしにされると\nさすがに嫌になるわ。{1a}{0c:521213}それに、この太陽・・・\n太陽帝国だかなんだか知らないけど、\n夜行性の人間のことも\n少しは考えて欲しいわね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}{0b:08}【 Eve 】{0b:09}\nAppallingly bad taste, isn't it...{1a}I don't mind a bit of sparkle, but\nflaunted like this, even I find it tiresome.{1a}{0c:521213}And this sun... Sun Empire or whatever\nthey call it, they might spare a thought\nfor nocturnal people, you know.{0c:fe}",
+   "status": "done",
+   "tl": "Appallingly bad taste, isn't it... // I don't mind a bit of sparkle, but flaunted like this, even I find it tiresome. // [1]And this sun... Sun Empire or whatever they call it, they might spare a thought for nocturnal people, you know."
   },
   {
    "id": "RES#75:2b959",
@@ -2120,8 +2210,9 @@
    "jp": "・・・・{01}?\n{10}{02}、何か言った{01}?{0c:fe}",
    "read": "・・・・{01}?\n{10}{02}、何か言った{01}?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "...? {10}, did you say something?{0c:fe}",
+   "status": "done",
+   "tl": "...? [HERO], did you say something?"
   },
   {
    "id": "RES#75:2b97d",
@@ -2142,8 +2233,9 @@
    "jp": "そう、違うならいいわ。{1a}・・・・?{0c:fe}",
    "read": "そう、違うならいいわ。{1a}・・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I see. Never mind, then.{1a}...?{0c:fe}",
+   "status": "done",
+   "tl": "I see. Never mind, then. // ...?"
   },
   {
    "id": "RES#75:2b9b2",
@@ -2164,8 +2256,9 @@
    "jp": "{1c:15}今のも聞こえなかった?{0c:fe}",
    "read": "{1c:15}今のも聞こえなかった?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}You didn't hear that either?{0c:fe}",
+   "status": "done",
+   "tl": "You didn't hear that either?"
   },
   {
    "id": "RES#75:2b9d3",
@@ -2186,8 +2279,9 @@
    "jp": "{1c:16}ふーん・・・\n聞こえたのはあたしだけって訳ね。{0c:fe}",
    "read": "{1c:16}ふーん・・・\n聞こえたのはあたしだけって訳ね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}Hmm... So I'm the only one who heard it, I\nsuppose.{0c:fe}",
+   "status": "done",
+   "tl": "Hmm... So I'm the only one who heard it, I suppose."
   },
   {
    "id": "RES#75:2ba0c",
@@ -2208,8 +2302,9 @@
    "jp": "{1c:17}女の声が聞こえたのよ。\n中身は聞き取れなかったけど、\nそうね・・・少なくとも\n敵ってカンジじゃなかったわ。{1a}もちろんあたしの勘だけどね。\n本当にそれだけよ。{1a}{0c:521213}じゃあ行きましょ。\nこの場所もそろそろ飽きたわ。{0c:2b0009fe}",
    "read": "{1c:17}女の声が聞こえたのよ。\n中身は聞き取れなかったけど、\nそうね・・・少なくとも\n敵ってカンジじゃなかったわ。{1a}もちろんあたしの勘だけどね。\n本当にそれだけよ。{1a}{0c:521213}じゃあ行きましょ。\nこの場所もそろそろ飽きたわ。{0c:2b0009fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}I heard a woman's voice. I couldn't catch\nwhat it said, but, well... at least it didn't\nfeel like an enemy.{1a}Just my intuition, of course. Really,\nthat's all there is to it, dear.{1a}{0c:521213}Well, let's go. I'm getting rather bored of\nthis place.{0c:2b0009fe}",
+   "status": "done",
+   "tl": "I heard a woman's voice. I couldn't catch what it said, but, well... at least it didn't feel like an enemy. // Just my intuition, of course. Really, that's all there is to it, dear. // [1]Well, let's go. I'm getting rather bored of this place."
   },
   {
    "id": "RES#75:2ba9b",
@@ -2241,8 +2336,9 @@
    "jp": "{1c:18}{0b:08}{e080} ディアス {e081}{0b:09}\n今の所は全てあの文{e0c9}の{e090}りか・・・{0c:fe}",
    "read": "{1c:18}{0b:08}【 ディアス 】{0b:09}\n今の所は全てあの文書の通りか・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Dias 】{0b:09}\nSo far, everything is as that document\nsaid...{0c:fe}",
+   "status": "done",
+   "tl": "So far, everything is as that document said..."
   },
   {
    "id": "RES#75:2bbc5",
@@ -2263,8 +2359,9 @@
    "jp": "{1c:18}これは・・・?{0c:fe}",
    "read": "{1c:18}これは・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}What is this...?{0c:fe}",
+   "status": "done",
+   "tl": "What is this...?"
   },
   {
    "id": "RES#75:2bbe4",
@@ -2285,8 +2382,9 @@
    "jp": "{0c:5114}人の声がしたのだが・・・\n聞こえなかったのか?{0c:fe}",
    "read": "{0c:5114}人の声がしたのだが・・・\n聞こえなかったのか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5114}I heard a voice... Did you not hear it?{0c:fe}",
+   "status": "done",
+   "tl": "I heard a voice... Did you not hear it?"
   },
   {
    "id": "RES#75:2bc22",
@@ -2307,8 +2405,9 @@
    "jp": "{0c:5113}{1c:18}ならば一体・・・\n幻聴か・・・いや・・・{0c:fe}",
    "read": "{0c:5113}{1c:18}ならば一体・・・\n幻聴か・・・いや・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5113}{1c:18}Then what... A trick of the ears... No...{0c:fe}",
+   "status": "done",
+   "tl": "Then what... A trick of the ears... No..."
   },
   {
    "id": "RES#75:2bc5e",
@@ -2329,8 +2428,9 @@
    "jp": "{1c:19}いや、今も聞こえる・・・{0c:fe}",
    "read": "{1c:19}いや、今も聞こえる・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}No, I can still hear it...{0c:fe}",
+   "status": "done",
+   "tl": "No, I can still hear it..."
   },
   {
    "id": "RES#75:2bc7a",
@@ -2351,8 +2451,9 @@
    "jp": "{0c:5113}まさか・・・これは・・・{1a}いや、なんでもない。\n先に行け。{0c:2b0009fe}",
    "read": "{0c:5113}まさか・・・これは・・・{1a}いや、なんでもない。\n先に行け。{0c:2b0009fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5113}It cannot be... this is...{1a}No, it is nothing. Go on ahead.{0c:2b0009fe}",
+   "status": "done",
+   "tl": "It cannot be... this is... // No, it is nothing. Go on ahead."
   },
   {
    "id": "RES#75:2bcbd",
@@ -2384,8 +2485,9 @@
    "jp": "{1c:1b}{0b:08}{e080} ノエル {e081}{0b:09}\nこれがアスラ・ファエル・・・{1a}やっぱりおかしいわ。\n1万{e0b7}前にこんな{e087}{e08f}が\n存{e0cc}した筈がない。{1a}{e0ce}の{e0cf}{e0d0}方{e0d1}も、細{e0d2}の建築様{e0d5}も\n全てがレノス時{e0d6}以{e0a6}のもの。\nそれも、各時{e0d6}各地方の建築の{e0d8}徴を\n{e0da}ぜ合わせたような統一の無さ・・・{1a}これじゃ、\n寓話{e0dd}本の挿し{e0dd}じゃないの・・・{0c:fe}",
    "read": "{1c:1b}{0b:08}【 ノエル 】{0b:09}\nこれがアスラ・ファエル・・・{1a}やっぱりおかしいわ。\n1万年前にこんな都市が\n存在した筈がない。{1a}石の研磨方法も、細部の建築様式も\n全てがレノス時代以降のもの。\nそれも、各時代各地方の建築の特徴を\n混ぜ合わせたような統一の無さ・・・{1a}これじゃ、\n寓話絵本の挿し絵じゃないの・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Noel 】{0b:09}\nSo this is Asla Fael...{1a}Honestly, this is all wrong. A city like this\ncan't have existed ten thousand years\nago.{1a}The stone polishing, the architectural\ndetails, all of it dates from the Lenos\nera or later. And with no unity at all, as\nif every era's and every region's{1a}features were just mixed together...{1a}Honestly, this is nothing but an\nillustration out of a picture book of\nfables...{0c:fe}",
+   "status": "done",
+   "tl": "So this is Asla Fael... // Honestly, this is all wrong. A city like this can't have existed ten thousand years ago. // The stone polishing, the architectural details, all of it dates from the Lenos era or later. And with no unity at all, as if every era's and every region's features were just mixed together... // Honestly, this is nothing but an illustration out of a picture book of fables..."
   },
   {
    "id": "RES#75:2be9a",
@@ -2406,8 +2508,9 @@
    "jp": "{1c:1c}な、なんでもないわよ。\nいちいち反応しないで。{0c:fe}",
    "read": "{1c:1c}な、なんでもないわよ。\nいちいち反応しないで。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}I-it's nothing! Honestly, stop reacting to\nevery little thing.{0c:fe}",
+   "status": "done",
+   "tl": "I-it's nothing! Honestly, stop reacting to every little thing."
   },
   {
    "id": "RES#75:2bed0",
@@ -2428,8 +2531,9 @@
    "jp": "クムランさんの言う{e090}りね・・・{1a}これは『{e0df}{e0e0}』じゃないのかも\nしれない・・・{0c:fe}",
    "read": "クムランさんの言う通りね・・・{1a}これは『遺跡』じゃないのかも\nしれない・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Qumran-san was right...{1a}This may not be 'ruins' at all...{0c:fe}",
+   "status": "done",
+   "tl": "Qumran-san was right... // This may not be 'ruins' at all..."
   },
   {
    "id": "RES#75:2bf16",
@@ -2450,8 +2554,9 @@
    "jp": "{1c:1a}・・・・?{0c:fe}",
    "read": "{1c:1a}・・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}...?{0c:fe}",
+   "status": "done",
+   "tl": "...?"
   },
   {
    "id": "RES#75:2bf2e",
@@ -2472,8 +2577,9 @@
    "jp": "{1c:1a}なに、今の声・・・{0c:fe}",
    "read": "{1c:1a}なに、今の声・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}What was that voice just now...{0c:fe}",
+   "status": "done",
+   "tl": "What was that voice just now..."
   },
   {
    "id": "RES#75:2bf56",
@@ -2494,8 +2600,9 @@
    "jp": "{1c:1c}今の声、聞こえなかったの?{0c:fe}",
    "read": "{1c:1c}今の声、聞こえなかったの?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}You didn't hear that voice just now?{0c:fe}",
+   "status": "done",
+   "tl": "You didn't hear that voice just now?"
   },
   {
    "id": "RES#75:2bf76",
@@ -2516,8 +2623,9 @@
    "jp": "{1c:1d}えっ・・・だって・・・{07:0f}{1a}あっ、また・・・{0c:fe}",
    "read": "{1c:1d}えっ・・・だって・・・{07:0f}{1a}あっ、また・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}What...? But...{07:0f}{1a}Oh, there it is again...{0c:fe}",
+   "status": "done",
+   "tl": "What...? But...[1] // Oh, there it is again..."
   },
   {
    "id": "RES#75:2bfac",
@@ -2538,8 +2646,9 @@
    "jp": "{1c:1d}あたしだけなの?\n一体どういうこと・・・?{0c:fe}",
    "read": "{1c:1d}あたしだけなの?\n一体どういうこと・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}Is it only me? What on earth is going\non...?{0c:fe}",
+   "status": "done",
+   "tl": "Is it only me? What on earth is going on...?"
   },
   {
    "id": "RES#75:2bfea",
@@ -2560,8 +2669,9 @@
    "jp": "{1c:1c}女の子の声が聞こえたのよ。\n{e0e1}容は聞き取れなかったけど、\nあたし達に対する警告だとか、\nそういう雰{e0e4}気じゃなかったわ。{1a}それに、あれは古{e0d6}語じゃなかった。\n{e099}{e0d6}の言{e0e6}、それも聞き慣れた・・・\n一体何なの・・・?{0c:fe}",
    "read": "{1c:1c}女の子の声が聞こえたのよ。\n内容は聞き取れなかったけど、\nあたし達に対する警告だとか、\nそういう雰囲気じゃなかったわ。{1a}それに、あれは古代語じゃなかった。\n現代の言葉、それも聞き慣れた・・・\n一体何なの・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}I heard a girl's voice. I couldn't make out\nthe words, but it didn't feel like a\nwarning to us, or anything of the sort.{1a}What's more, it wasn't the ancient\ntongue. It was modern speech, and\nfamiliar at that... What on earth is it...?{0c:fe}",
+   "status": "done",
+   "tl": "I heard a girl's voice. I couldn't make out the words, but it didn't feel like a warning to us, or anything of the sort. // What's more, it wasn't the ancient tongue. It was modern speech, and familiar at that... What on earth is it...?"
   },
   {
    "id": "RES#75:2c091",
@@ -2582,8 +2692,9 @@
    "jp": "{0c:522223}{1c:1b}あなたにわかるわけないわね・・・{1a}行きましょ。\n先に行けば何か答が\n分かるかもしれないわ。{0c:2b0009fe}",
    "read": "{0c:522223}{1c:1b}あなたにわかるわけないわね・・・{1a}行きましょ。\n先に行けば何か答が\n分かるかもしれないわ。{0c:2b0009fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:522223}{1c:1b}Not that you'd have any idea...{1a}Let's go. If we press on, we may find\nsome answers.{0c:2b0009fe}",
+   "status": "done",
+   "tl": "Not that you'd have any idea... // Let's go. If we press on, we may find some answers."
   },
   {
    "id": "RES#75:2c0e6",
@@ -2615,8 +2726,9 @@
    "jp": "{0c:521314}ううん・・・何でもない・・・{0c:2b0009fe}",
    "read": "{0c:521314}ううん・・・何でもない・・・{0c:2b0009fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521314}No... It's nothing...{0c:2b0009fe}",
+   "status": "done",
+   "tl": "No... It's nothing..."
   },
   {
    "id": "RES#75:2c220",
@@ -2648,8 +2760,9 @@
    "jp": "これがアスラ・ファエル・・・\n不思{e0ae}な場所だね。\n地下なのに{e082}{e083}も{e09c}も{e0bb}もある・・・{1a}でも、おかしな{e082}{e083}だね。\n{e08d}は強いのに全然暖かくない・・・{0c:fe}",
    "read": "これがアスラ・ファエル・・・\n不思議な場所だね。\n地下なのに太陽も空も風もある・・・{1a}でも、おかしな太陽だね。\n光は強いのに全然暖かくない・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "So this is Asla Fael... What a strange\nplace! We're underground, but there's a\nsun and a sky and wind...{1a}It's a funny sort of sun, though. The\nlight's so strong, but it isn't warm at\nall...{0c:fe}",
+   "status": "done",
+   "tl": "So this is Asla Fael... What a strange place! We're underground, but there's a sun and a sky and wind... // It's a funny sort of sun, though. The light's so strong, but it isn't warm at all..."
   },
   {
    "id": "RES#75:2c37c",
@@ -2670,8 +2783,9 @@
    "jp": "あれ・・・?{0c:fe}",
    "read": "あれ・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Huh...?{0c:fe}",
+   "status": "done",
+   "tl": "Huh...?"
   },
   {
    "id": "RES#75:2c394",
@@ -2692,8 +2806,9 @@
    "jp": "{0c:511d}声が聞こえたんだ。\n哀しそうな女の子の声・・・\nあっ、また聞こえる・・・{0c:fe}",
    "read": "{0c:511d}声が聞こえたんだ。\n哀しそうな女の子の声・・・\nあっ、また聞こえる・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:511d}I heard a voice, you know. A sad little\ngirl's voice... Oh, I can hear it again...{0c:fe}",
+   "status": "done",
+   "tl": "I heard a voice, you know. A sad little girl's voice... Oh, I can hear it again..."
   },
   {
    "id": "RES#75:2c3d4",
@@ -2714,8 +2829,9 @@
    "jp": "あれ、また聞こえなくなった・・・{0c:fe}",
    "read": "あれ、また聞こえなくなった・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Huh? Now I can't hear it anymore...{0c:fe}",
+   "status": "done",
+   "tl": "Huh? Now I can't hear it anymore..."
   },
   {
    "id": "RES#75:2c403",
@@ -2736,8 +2852,9 @@
    "jp": "{0c:52201d}誰の声だったんだろう・・・\n聞いたことのある声・・・{1a}{e0e1}容はわからなかったけど\n哀しそうな声だった・・・{1a}でも、どうしてあたしにだけ\n聞こえたのかな・・・\n不思{e0ae}なコトばかりだね。{0c:2b0009fe}",
    "read": "{0c:52201d}誰の声だったんだろう・・・\n聞いたことのある声・・・{1a}内容はわからなかったけど\n哀しそうな声だった・・・{1a}でも、どうしてあたしにだけ\n聞こえたのかな・・・\n不思議なコトばかりだね。{0c:2b0009fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52201d}Whose voice was that...? I know I've\nheard it before...{1a}I couldn't make out the words, but it\nsounded so sad...{1a}But why could only I hear it...? There's\nnothing but strange stuff here, you\nknow!{0c:2b0009fe}",
+   "status": "done",
+   "tl": "Whose voice was that...? I know I've heard it before... // I couldn't make out the words, but it sounded so sad... // But why could only I hear it...? There's nothing but strange stuff here, you know!"
   },
   {
    "id": "RES#75:2c480",
@@ -2769,8 +2886,9 @@
    "jp": "{1c:20}{0b:08}{e080} ルカ {e081}{0b:09}\nす、すごいですね・・・{1a}こ、こんな立{e0e9}な建物を\n昔の人達が造ったなんて・・・{1a}は、初めてアフェスの大聖堂を\n見た時も驚きましたが\nここはそれ以上に立{e0e9}です。{1a}でも、どうしてこんな立{e0e9}な{e087}{e08f}を\n地底に築いたのでしょう・・・\n地下なのに{e082}{e083}があることといい、\n不思{e0ae}なことが多すぎます・・・{0c:fe}",
    "read": "{1c:20}{0b:08}【 ルカ 】{0b:09}\nす、すごいですね・・・{1a}こ、こんな立派な建物を\n昔の人達が造ったなんて・・・{1a}は、初めてアフェスの大聖堂を\n見た時も驚きましたが\nここはそれ以上に立派です。{1a}でも、どうしてこんな立派な都市を\n地底に築いたのでしょう・・・\n地下なのに太陽があることといい、\n不思議なことが多すぎます・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Luca 】{0b:09}\nTh-this is amazing...{1a}T-to think people long ago built such\nsplendid buildings...{1a}I-I was astonished when I first saw the\ngreat cathedral of Aphes, but this is\nmore splendid still.{1a}But why would they raise so splendid a\ncity deep underground...? And a sun, even\nthough we are underground... There are\nsimply too many mysteries here...{0c:fe}",
+   "status": "done",
+   "tl": "Th-this is amazing... // T-to think people long ago built such splendid buildings... // I-I was astonished when I first saw the great cathedral of Aphes, but this is more splendid still. // But why would they raise so splendid a city deep underground...? And a sun, even though we are underground... There are simply too many mysteries here..."
   },
   {
    "id": "RES#75:2c644",
@@ -2791,8 +2909,9 @@
    "jp": "{1c:1f}あれ・・・?{0c:fe}",
    "read": "{1c:1f}あれ・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}Huh...?{0c:fe}",
+   "status": "done",
+   "tl": "Huh...?"
   },
   {
    "id": "RES#75:2c662",
@@ -2813,8 +2932,9 @@
    "jp": "{1c:20}こ、声が聞こえたんです・・・{1a}{10}さんは\nき、聞こえませんでしたか?{0c:fe}",
    "read": "{1c:20}こ、声が聞こえたんです・・・{1a}{10}さんは\nき、聞こえませんでしたか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}I-I heard a voice...{1a}{10}-san, d-did you not hear it?{0c:fe}",
+   "status": "done",
+   "tl": "I-I heard a voice... // [HERO]-san, d-did you not hear it?"
   },
   {
    "id": "RES#75:2c6a8",
@@ -2835,8 +2955,9 @@
    "jp": "{1c:20}そ、そうですか・・・\nじゃあわたしの\n聞き違いでしょうか・・・{1a}{0c:511e}あっ、ま、またです・・・{0c:fe}",
    "read": "{1c:20}そ、そうですか・・・\nじゃあわたしの\n聞き違いでしょうか・・・{1a}{0c:511e}あっ、ま、またです・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}I-I see... Then perhaps I misheard...{1a}{0c:511e}Ah, th-there it is again...{0c:fe}",
+   "status": "done",
+   "tl": "I-I see... Then perhaps I misheard... // [1]Ah, th-there it is again..."
   },
   {
    "id": "RES#75:2c6fe",
@@ -2857,8 +2978,9 @@
    "jp": "{1c:20}あ・・・聞こえなくなった・・・{0c:fe}",
    "read": "{1c:20}あ・・・聞こえなくなった・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}Ah... It has stopped...{0c:fe}",
+   "status": "done",
+   "tl": "Ah... It has stopped..."
   },
   {
    "id": "RES#75:2c724",
@@ -2879,8 +3001,9 @@
    "jp": "{1c:20}ほ、本当に聞こえたんです・・・\n子供の泣き声みたいな・・・\n{0c:521f20}お、おかしいですよね、\nなんだか気味が悪いです・・・{0c:fe}",
    "read": "{1c:20}ほ、本当に聞こえたんです・・・\n子供の泣き声みたいな・・・\n{0c:521f20}お、おかしいですよね、\nなんだか気味が悪いです・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}I-I truly did hear it... Like a child crying...\n{0c:521f20}Th-that is strange, isn't it? It is rather\nunnerving...{0c:fe}",
+   "status": "done",
+   "tl": "I-I truly did hear it... Like a child crying... [1]Th-that is strange, isn't it? It is rather unnerving..."
   },
   {
    "id": "RES#75:2c779",
@@ -2901,8 +3024,9 @@
    "jp": "{1c:1e}あっ!\n{0c:2b5010005108}ま、待って下さい!{0c:fe}",
    "read": "{1c:1e}あっ!\n{0c:2b5010005108}ま、待って下さい!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}Ah! {0c:2b5010005108}P-please wait!{0c:fe}",
+   "status": "done",
+   "tl": "Ah! [1]P-please wait!"
   },
   {
    "id": "RES#75:2c7c0",
@@ -2934,8 +3058,9 @@
    "jp": "{1c:22}{0b:08}{e080} サラ {e081}{0b:09}\nこれがアスラ・ファエル・・・\n{e0dd}本に出てくる神様の{e085}って\nこんなところなのかな・・・{1a}でも、まぶしいくらい綺麗だけど、\nなんとなくどこかさみしいね。\n人が暮らしてるって\n雰{e0e4}気が感じられないからかな・・・{1a}あたしは、こんなに綺麗じゃなくても\nみんなが笑って暮らせるような\n町の方がいいな。{0c:fe}",
    "read": "{1c:22}{0b:08}【 サラ 】{0b:09}\nこれがアスラ・ファエル・・・\n絵本に出てくる神様の国って\nこんなところなのかな・・・{1a}でも、まぶしいくらい綺麗だけど、\nなんとなくどこかさみしいね。\n人が暮らしてるって\n雰囲気が感じられないからかな・・・{1a}あたしは、こんなに綺麗じゃなくても\nみんなが笑って暮らせるような\n町の方がいいな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:22}{0b:08}【 Sara 】{0b:09}\nSo this is Asla Fael... I wonder if God's\nland in the picture books looks like this...{1a}It's so pretty it's almost dazzling, but\nit's kind of lonely somehow. Maybe\nbecause it doesn't feel like people live\nhere...{1a}Me, I'd like a town where everybody can\nlive and laugh together better, even if it\nisn't this pretty.{0c:fe}",
+   "status": "done",
+   "tl": "So this is Asla Fael... I wonder if God's land in the picture books looks like this... // It's so pretty it's almost dazzling, but it's kind of lonely somehow. Maybe because it doesn't feel like people live here... // Me, I'd like a town where everybody can live and laugh together better, even if it isn't this pretty."
   },
   {
    "id": "RES#75:2c9b1",
@@ -2956,8 +3081,9 @@
    "jp": "{0c:521b1c}{1c:23}あれ・・・?{0c:fe}",
    "read": "{0c:521b1c}{1c:23}あれ・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521b1c}{1c:23}Huh...?{0c:fe}",
+   "status": "done",
+   "tl": "Huh...?"
   },
   {
    "id": "RES#75:2c9cd",
@@ -2978,8 +3104,9 @@
    "jp": "{0c:511d}{1c:22}声が聞こえたの。\n子供の泣き声みたいな・・・{07:0f}{1a}あっ、また聞こえてきたよ・・・{0c:fe}",
    "read": "{0c:511d}{1c:22}声が聞こえたの。\n子供の泣き声みたいな・・・{07:0f}{1a}あっ、また聞こえてきたよ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:511d}{1c:22}I heard a voice. Like a child crying...{07:0f}{1a}Oh, I can hear it again...{0c:fe}",
+   "status": "done",
+   "tl": "I heard a voice. Like a child crying...[1] // Oh, I can hear it again..."
   },
   {
    "id": "RES#75:2ca13",
@@ -3000,8 +3127,9 @@
    "jp": "{1c:23}どこにいるんだろう・・・{1a}あれ、また聞こえなくなった・・・{0c:fe}",
    "read": "{1c:23}どこにいるんだろう・・・{1a}あれ、また聞こえなくなった・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:23}Where could it be...?{1a}Huh? Now I can't hear it anymore...{0c:fe}",
+   "status": "done",
+   "tl": "Where could it be...? // Huh? Now I can't hear it anymore..."
   },
   {
    "id": "RES#75:2ca55",
@@ -3022,8 +3150,9 @@
    "jp": "{1c:21}誰の声だったのかな・・・\nそれに、どうしてあたしだけ\n聞こえたんだろう・・・{0c:2b0009fe}",
    "read": "{1c:21}誰の声だったのかな・・・\nそれに、どうしてあたしだけ\n聞こえたんだろう・・・{0c:2b0009fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:21}Whose voice was that, I wonder... And\nwhy could only I hear it...?{0c:2b0009fe}",
+   "status": "done",
+   "tl": "Whose voice was that, I wonder... And why could only I hear it...?"
   },
   {
    "id": "RES#75:2caa6",

@@ -59,6 +59,7 @@ def test_check_entry_catches_mistakes():
     assert any("honorific" in x for x in batches.check_entry(e, "[HERO], [1]let's go.", [], PLATES))
     assert any("non-ASCII" in x for x in batches.check_entry(e, "[HERO]-san, [1]行こう", [], PLATES))
     assert any("ordinal" in x for x in batches.check_entry(dict(e, text="[VAR14][1]番目"), "[VAR14]th[1]", [], PLATES))
+    assert batches.check_entry(dict(e, text="オレ様とオジさん"), "The great me and old man", [], PLATES) == []
     item = {"id": "y", "speaker": "-", "form": "menu", "limit": "100px", "text": "鉄の剣"}
     assert any("100px" in x for x in batches.check_entry(item, "A very long name for an iron sword indeed", [], PLATES))
 

@@ -52,8 +52,9 @@
    "jp": "{1c:17}{0b:08}{e080} レイア {e081}{0b:09}\nここが『{e082}の{e083}{e084}』か・・・{0c:fe}",
    "read": "{1c:17}{0b:08}【 レイア 】{0b:09}\nここが『西の斎殿』か・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Leia 】{0b:09}\nSo this is the 'West Sanctum'...{0c:fe}",
+   "status": "done",
+   "tl": "So this is the 'West Sanctum'..."
   },
   {
    "id": "RES#71:16705",
@@ -74,8 +75,9 @@
    "jp": "{1c:17}{e085}{e086}の女から渡されたメモだ。\n3つの{e083}{e084}の注意事{e088}が{e089}いてある。{0c:fe}",
    "read": "{1c:17}教会の女から渡されたメモだ。\n3つの斎殿の注意事項が書いてある。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}This is a memo the woman of the Church\ngave me. It lists warnings about the\nthree sanctums.{0c:fe}",
+   "status": "done",
+   "tl": "This is a memo the woman of the Church gave me. It lists warnings about the three sanctums."
   },
   {
    "id": "RES#71:1674e",
@@ -96,8 +98,9 @@
    "jp": "{1c:17}それぞれの{e083}{e084}には、\n一定{e08a}{e08b}に人間が近づくと\nその人間に対し{e08c}{e08d}してくる\nトゲの付いた{e08e}があるらしい。{1a}その{e08e}は{e08f}撃を{e090}えると\n動きを止めることができ、\nそして、その{e08e}を利用しなければ\n{e091}に進めない{e083}{e084}もあるとの事だ。{0c:fe}",
    "read": "{1c:17}それぞれの斎殿には、\n一定距離に人間が近づくと\nその人間に対し追尾してくる\nトゲの付いた柱があるらしい。{1a}その柱は電撃を与えると\n動きを止めることができ、\nそして、その柱を利用しなければ\n奥に進めない斎殿もあるとの事だ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}It appears that each sanctum has spiked\npillars that give chase to any person who\ncomes within a certain distance.{1a}A shock of lightning will stop such a\npillar, and some sanctums cannot be\ntraversed without making use of them.{0c:fe}",
+   "status": "done",
+   "tl": "It appears that each sanctum has spiked pillars that give chase to any person who comes within a certain distance. // A shock of lightning will stop such a pillar, and some sanctums cannot be traversed without making use of them."
   },
   {
    "id": "RES#71:167f4",
@@ -118,8 +121,9 @@
    "jp": "{1c:17}あれがその{e08e}のようだな・・・{0c:fe}",
    "read": "{1c:17}あれがその柱のようだな・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}That appears to be one of those pillars...{0c:fe}",
+   "status": "done",
+   "tl": "That appears to be one of those pillars..."
   },
   {
    "id": "RES#71:1682a",
@@ -162,8 +166,9 @@
    "jp": "{1c:12}{0b:08}{e080} アッシュ {e081}{0b:09}\nここが『{e082}の{e083}{e084}』か・・・{1a}となりの建物とくらべると\nちょっと地味だよな。{1a}ところで『{e083}{e084}』って\nどういう意味なんだろう・・・{0c:020d01}",
    "read": "{1c:12}{0b:08}【 アッシュ 】{0b:09}\nここが『西の斎殿』か・・・{1a}となりの建物とくらべると\nちょっと地味だよな。{1a}ところで『斎殿』って\nどういう意味なんだろう・・・{0c:020d01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Ash 】{0b:09}\nSo this is the 'West Sanctum'...{1a}It's kinda plain next to the building beside\nit, I guess.{1a}By the way, what's 'sanctum' mean,\nanyway...{0c:020d01}",
+   "status": "done",
+   "tl": "So this is the 'West Sanctum'... // It's kinda plain next to the building beside it, I guess. // By the way, what's 'sanctum' mean, anyway..."
   },
   {
    "id": "RES#71:168a7",
@@ -184,8 +189,9 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\nここが『{e082}の{e083}{e084}』か・・・{1a}『第一神{e084}』と比べると\nやや地味な感じがするけど、\n『{e083}{e084}』ってどういう\n意味なんだろう・・・{0c:020b01}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\nここが『西の斎殿』か・・・{1a}『第一神殿』と比べると\nやや地味な感じがするけど、\n『斎殿』ってどういう\n意味なんだろう・・・{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nSo this is the 'West Sanctum'...{1a}It seems rather plain compared to the\n'First Temple', but what does 'sanctum'\nmean, I wonder...{0c:020b01}",
+   "status": "done",
+   "tl": "So this is the 'West Sanctum'... // It seems rather plain compared to the 'First Temple', but what does 'sanctum' mean, I wonder..."
   },
   {
    "id": "RES#71:1691d",
@@ -206,8 +212,9 @@
    "jp": "{1c:19}{0b:08}{e080} エレアノール {e081}{0b:09}\nここが『{e082}の{e083}{e084}』ですか・・・\n初めに見た『第一神{e084}』と比べると\nやや静かな{e093}気が流れていますね。{1a}『{e083}{e084}』とは神事を前にした神{e094}が\n心身を清める場所・・・\nこの静かな雰{e097}気から付けられた\n{e098}前なのでしょうか。{0c:020901}",
    "read": "{1c:19}{0b:08}【 エレアノール 】{0b:09}\nここが『西の斎殿』ですか・・・\n初めに見た『第一神殿』と比べると\nやや静かな空気が流れていますね。{1a}『斎殿』とは神事を前にした神官が\n心身を清める場所・・・\nこの静かな雰囲気から付けられた\n名前なのでしょうか。{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Eleanor 】{0b:09}\nSo this is the 'West Sanctum'...\nCompared with the 'First Temple' we\nsaw first, the air here is rather still.{1a}A sanctum is where priests purify body\nand mind before a sacred rite... Might\nthis name have come from its quiet\natmosphere?{0c:020901}",
+   "status": "done",
+   "tl": "So this is the 'West Sanctum'... Compared with the 'First Temple' we saw first, the air here is rather still. // A sanctum is where priests purify body and mind before a sacred rite... Might this name have come from its quiet atmosphere?"
   },
   {
    "id": "RES#71:169d3",
@@ -228,8 +235,9 @@
    "jp": "{1c:1b}{0b:08}{e080} ジェシカ {e081}{0b:09}\nここが『{e082}の{e083}{e084}』か・・・{1a}前の建物に比べるとなんか地味だね。\n{e099}の{e09a}道と比べると\nそりゃ{e09b}手だけどさ。{0c:020701}",
    "read": "{1c:1b}{0b:08}【 ジェシカ 】{0b:09}\nここが『西の斎殿』か・・・{1a}前の建物に比べるとなんか地味だね。\n黒の羨道と比べると\nそりゃ派手だけどさ。{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Jessica 】{0b:09}\nSo this is the 'West Sanctum'...{1a}Kinda plain next to the last building, huh.\nSure, it's flashy next to the Black\nPassage, but still.{0c:020701}",
+   "status": "done",
+   "tl": "So this is the 'West Sanctum'... // Kinda plain next to the last building, huh. Sure, it's flashy next to the Black Passage, but still."
   },
   {
    "id": "RES#71:16a3c",
@@ -250,8 +258,9 @@
    "jp": "{1c:23}{0b:08}{e080} ノエル {e081}{0b:09}\nここが『{e082}の{e083}{e084}』・・・{1a}『{e083}{e084}』とは神事を前にした神{e094}が\n心身を清める場所の事・・・\n機{e09c}的には『第一神{e084}』に付随する\n建物と考えた方がよさそうね。{0c:020501}",
    "read": "{1c:23}{0b:08}【 ノエル 】{0b:09}\nここが『西の斎殿』・・・{1a}『斎殿』とは神事を前にした神官が\n心身を清める場所の事・・・\n機能的には『第一神殿』に付随する\n建物と考えた方がよさそうね。{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:23}{0b:08}【 Noel 】{0b:09}\nSo this is the 'West Sanctum'...{1a}A sanctum is where priests purify body\nand mind before a sacred rite... In\nfunction, it's best thought of as a\nbuilding attached to the 'First Temple'.{0c:020501}",
+   "status": "done",
+   "tl": "So this is the 'West Sanctum'... // A sanctum is where priests purify body and mind before a sacred rite... In function, it's best thought of as a building attached to the 'First Temple'."
   },
   {
    "id": "RES#71:16acd",
@@ -272,8 +281,9 @@
    "jp": "{1c:29}{0b:08}{e080} ルカ {e081}{0b:09}\nここが『{e082}の{e083}{e084}』ですか・・・\nなんだかすこし落ち着いた\n感じがしますね・・・{0c:020301}",
    "read": "{1c:29}{0b:08}【 ルカ 】{0b:09}\nここが『西の斎殿』ですか・・・\nなんだかすこし落ち着いた\n感じがしますね・・・{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:29}{0b:08}【 Luca 】{0b:09}\nTh-this is the 'West Sanctum'...? It feels\nsomewhat calmer here, doesn't it...{0c:020301}",
+   "status": "done",
+   "tl": "Th-this is the 'West Sanctum'...? It feels somewhat calmer here, doesn't it..."
   },
   {
    "id": "RES#71:16b1e",
@@ -294,8 +304,9 @@
    "jp": "{1c:2a}{0b:08}{e080} サラ {e081}{0b:09}\nここが『{e082}の{e083}{e084}』なんだ・・・{1a}前にいた『第一神{e084}』と比べると\n落ち着いた感じがするね。{0c:fe}",
    "read": "{1c:2a}{0b:08}【 サラ 】{0b:09}\nここが『西の斎殿』なんだ・・・{1a}前にいた『第一神殿』と比べると\n落ち着いた感じがするね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:2a}{0b:08}【 Sara 】{0b:09}\nSo this is the 'West Sanctum'...{1a}It feels calmer here than in the 'First\nTemple', doesn't it?{0c:fe}",
+   "status": "done",
+   "tl": "So this is the 'West Sanctum'... // It feels calmer here than in the 'First Temple', doesn't it?"
   },
   {
    "id": "RES#71:16b7a",
@@ -316,8 +327,9 @@
    "jp": "{1c:17}{0b:08}{e080} レイア {e081}{0b:09}\n無駄な話は後だ。{0c:fe}",
    "read": "{1c:17}{0b:08}【 レイア 】{0b:09}\n無駄な話は後だ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Leia 】{0b:09}\nIdle talk can wait.{0c:fe}",
+   "status": "done",
+   "tl": "Idle talk can wait."
   },
   {
    "id": "RES#71:16bac",
@@ -338,8 +350,9 @@
    "jp": "{0c:2b551000}{1c:11}{0b:08}{e080} アッシュ {e081}{0b:09}\nう、うん・・・{0c:020d01}",
    "read": "{0c:2b551000}{1c:11}{0b:08}【 アッシュ 】{0b:09}\nう、うん・・・{0c:020d01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b551000}{1c:11}{0b:08}【 Ash 】{0b:09}\nOh, uh, okay...{0c:020d01}",
+   "status": "done",
+   "tl": "Oh, uh, okay..."
   },
   {
    "id": "RES#71:16bdd",
@@ -360,8 +373,9 @@
    "jp": "{0c:2b551000}{1c:14}{0b:08}{e080} アーサー {e081}{0b:09}\nあ、ああ・・・{0c:020b01}",
    "read": "{0c:2b551000}{1c:14}{0b:08}【 アーサー 】{0b:09}\nあ、ああ・・・{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b551000}{1c:14}{0b:08}【 Arthur 】{0b:09}\nY-yes...{0c:020b01}",
+   "status": "done",
+   "tl": "Y-yes..."
   },
   {
    "id": "RES#71:16c0e",
@@ -382,8 +396,9 @@
    "jp": "{0c:2b551000}{0b:08}{e080} エレアノール {e081}{0b:09}\nええ、そうですね。\nでは進みましょうか。{0c:020901}",
    "read": "{0c:2b551000}{0b:08}【 エレアノール 】{0b:09}\nええ、そうですね。\nでは進みましょうか。{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b551000}{0b:08}【 Eleanor 】{0b:09}\nYes, you are right. Let us go on, then.{0c:020901}",
+   "status": "done",
+   "tl": "Yes, you are right. Let us go on, then."
   },
   {
    "id": "RES#71:16c4d",
@@ -404,8 +419,9 @@
    "jp": "{0c:2b551000}{1c:1a}{0b:08}{e080} ジェシカ {e081}{0b:09}\nなにさ。\nあんたの人生って\nゆとりが足りないよ。{0c:020701}",
    "read": "{0c:2b551000}{1c:1a}{0b:08}【 ジェシカ 】{0b:09}\nなにさ。\nあんたの人生って\nゆとりが足りないよ。{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b551000}{1c:1a}{0b:08}【 Jessica 】{0b:09}\nWhat's your problem? You know what\nyour life's missing? Room to breathe.{0c:020701}",
+   "status": "done",
+   "tl": "What's your problem? You know what your life's missing? Room to breathe."
   },
   {
    "id": "RES#71:16c92",
@@ -426,8 +442,9 @@
    "jp": "{0c:2b551000}{1c:25}{0b:08}{e080} ノエル {e081}{0b:09}\nえ、ええ・・・{0c:020501}",
    "read": "{0c:2b551000}{1c:25}{0b:08}【 ノエル 】{0b:09}\nえ、ええ・・・{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b551000}{1c:25}{0b:08}【 Noel 】{0b:09}\nY-yes...{0c:020501}",
+   "status": "done",
+   "tl": "Y-yes..."
   },
   {
    "id": "RES#71:16cc2",
@@ -448,8 +465,9 @@
    "jp": "{0c:2b551000}{1c:29}{0b:08}{e080} ルカ {e081}{0b:09}\nす、すみません・・・{0c:020301}",
    "read": "{0c:2b551000}{1c:29}{0b:08}【 ルカ 】{0b:09}\nす、すみません・・・{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b551000}{1c:29}{0b:08}【 Luca 】{0b:09}\nI-I'm sorry...{0c:020301}",
+   "status": "done",
+   "tl": "I-I'm sorry..."
   },
   {
    "id": "RES#71:16cf4",
@@ -470,8 +488,9 @@
    "jp": "{0c:2b551000}{1c:2a}{0b:08}{e080} サラ {e081}{0b:09}\nご、ごめんなさい・・・{0c:fe}",
    "read": "{0c:2b551000}{1c:2a}{0b:08}【 サラ 】{0b:09}\nご、ごめんなさい・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b551000}{1c:2a}{0b:08}【 Sara 】{0b:09}\nI-I'm sorry...{0c:fe}",
+   "status": "done",
+   "tl": "I-I'm sorry..."
   },
   {
    "id": "RES#71:16d25",
@@ -503,8 +522,9 @@
    "jp": "{1c:17}{0b:08}{e080} レイア {e081}{0b:09}\n{e085}{e086}の女から渡されたメモだ。\n3つの{e083}{e084}の注意事{e088}が{e089}いてある。{0c:4c0a09fe}",
    "read": "{1c:17}{0b:08}【 レイア 】{0b:09}\n教会の女から渡されたメモだ。\n3つの斎殿の注意事項が書いてある。{0c:4c0a09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Leia 】{0b:09}\nThis is a memo the woman of the Church\ngave me. It lists warnings about the\nthree sanctums.{0c:4c0a09fe}",
+   "status": "done",
+   "tl": "This is a memo the woman of the Church gave me. It lists warnings about the three sanctums."
   },
   {
    "id": "RES#71:16d90",
@@ -514,8 +534,9 @@
    "jp": "{1c:1d}{0b:08}{e080} ジェシカ {e081}{0b:09}\nへえ・・・\nあんたも下調べすることの大事さ、\n学習したんだ。{0c:2b5509fe}",
    "read": "{1c:1d}{0b:08}【 ジェシカ 】{0b:09}\nへえ・・・\nあんたも下調べすることの大事さ、\n学習したんだ。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}{0b:08}【 Jessica 】{0b:09}\nHuh... So you've finally learned how\nimportant it is to do your homework.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Huh... So you've finally learned how important it is to do your homework."
   },
   {
    "id": "RES#71:16dce",
@@ -537,8 +558,9 @@
    "jp": "{1c:1c}{0b:08}{e080} ジェシカ {e081}{0b:09}\n冗談だよ。\nひょっとして怒った?{0c:020f01}",
    "read": "{1c:1c}{0b:08}【 ジェシカ 】{0b:09}\n冗談だよ。\nひょっとして怒った?{0c:020f01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Jessica 】{0b:09}\nKidding, geez. Did you actually get mad?{0c:020f01}",
+   "status": "done",
+   "tl": "Kidding, geez. Did you actually get mad?"
   },
   {
    "id": "RES#71:16e19",
@@ -559,8 +581,9 @@
    "jp": "{1c:17}{0b:08}{e080} レイア {e081}{0b:09}\n{e085}{e086}の女から渡されたメモだ。\n3つの{e083}{e084}の注意事{e088}が{e089}いてある。{0c:fe}",
    "read": "{1c:17}{0b:08}【 レイア 】{0b:09}\n教会の女から渡されたメモだ。\n3つの斎殿の注意事項が書いてある。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Leia 】{0b:09}\nThis is a memo the woman of the Church\ngave me. It lists warnings about the\nthree sanctums.{0c:fe}",
+   "status": "done",
+   "tl": "This is a memo the woman of the Church gave me. It lists warnings about the three sanctums."
   },
   {
    "id": "RES#71:16e76",
@@ -581,8 +604,9 @@
    "jp": "{1c:10}{0b:08}{e080} アッシュ {e081}{0b:09}\nティアラから?{0c:020b01}",
    "read": "{1c:10}{0b:08}【 アッシュ 】{0b:09}\nティアラから?{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\nFrom Tiara?{0c:020b01}",
+   "status": "done",
+   "tl": "From Tiara?"
   },
   {
    "id": "RES#71:16ea2",
@@ -603,8 +627,9 @@
    "jp": "{1c:14}{0b:08}{e080} アーサー {e081}{0b:09}\nティアラから?{0c:020901}",
    "read": "{1c:14}{0b:08}【 アーサー 】{0b:09}\nティアラから?{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Arthur 】{0b:09}\nFrom Tiara?{0c:020901}",
+   "status": "done",
+   "tl": "From Tiara?"
   },
   {
    "id": "RES#71:16ece",
@@ -625,8 +650,9 @@
    "jp": "{1c:18}{0b:08}{e080} エレアノール {e081}{0b:09}\nティアラから?{0c:020701}",
    "read": "{1c:18}{0b:08}【 エレアノール 】{0b:09}\nティアラから?{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Eleanor 】{0b:09}\nFrom Tiara?{0c:020701}",
+   "status": "done",
+   "tl": "From Tiara?"
   },
   {
    "id": "RES#71:16efc",
@@ -647,8 +673,9 @@
    "jp": "{1c:22}{0b:08}{e080} ノエル {e081}{0b:09}\nティアラから?{0c:020501}",
    "read": "{1c:22}{0b:08}【 ノエル 】{0b:09}\nティアラから?{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:22}{0b:08}【 Noel 】{0b:09}\nFrom Tiara?{0c:020501}",
+   "status": "done",
+   "tl": "From Tiara?"
   },
   {
    "id": "RES#71:16f27",
@@ -669,8 +696,9 @@
    "jp": "{0b:08}{e080} ルカ {e081}{0b:09}\nティアラさんから?{0c:020301}",
    "read": "{0b:08}【 ルカ 】{0b:09}\nティアラさんから?{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Luca 】{0b:09}\nFrom Tiara-san?{0c:020301}",
+   "status": "done",
+   "tl": "From Tiara-san?"
   },
   {
    "id": "RES#71:16f51",
@@ -691,8 +719,9 @@
    "jp": "{1c:2a}{0b:08}{e080} サラ {e081}{0b:09}\nティアラさんから?{0c:fe}",
    "read": "{1c:2a}{0b:08}【 サラ 】{0b:09}\nティアラさんから?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:2a}{0b:08}【 Sara 】{0b:09}\nFrom Tiara-san?{0c:fe}",
+   "status": "done",
+   "tl": "From Tiara-san?"
   },
   {
    "id": "RES#71:16f7b",
@@ -713,8 +742,9 @@
    "jp": "{1c:17}{0b:08}{e080} レイア {e081}{0b:09}\nそれぞれの{e083}{e084}には、{1a}一定{e08a}{e08b}に人間が近づくと\nその人間に対し{e08c}{e08d}してくる\nトゲの付いた{e08e}があるらしい。{1a}その{e08e}は{e08f}撃を{e090}えると\n動きを止めることができ、\nそして、その{e08e}を利用しなければ\n{e091}に進めない{e083}{e084}もあるとの事だ。{0c:fe}",
    "read": "{1c:17}{0b:08}【 レイア 】{0b:09}\nそれぞれの斎殿には、{1a}一定距離に人間が近づくと\nその人間に対し追尾してくる\nトゲの付いた柱があるらしい。{1a}その柱は電撃を与えると\n動きを止めることができ、\nそして、その柱を利用しなければ\n奥に進めない斎殿もあるとの事だ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Leia 】{0b:09}\nIt appears that each sanctum{1a}has spiked pillars that give chase to any\nperson who comes within a certain\ndistance.{1a}A shock of lightning will stop such a\npillar, and some sanctums cannot be\ntraversed without making use of them.{0c:fe}",
+   "status": "done",
+   "tl": "It appears that each sanctum // has spiked pillars that give chase to any person who comes within a certain distance. // A shock of lightning will stop such a pillar, and some sanctums cannot be traversed without making use of them."
   },
   {
    "id": "RES#71:17037",
@@ -735,8 +765,9 @@
    "jp": "{0c:2b541000}{1c:12}{0b:08}{e080} アッシュ {e081}{0b:09}\nとげのついた{e08e}か・・・\nあれは違うよな。{0c:020d01}",
    "read": "{0c:2b541000}{1c:12}{0b:08}【 アッシュ 】{0b:09}\nとげのついた柱か・・・\nあれは違うよな。{0c:020d01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b541000}{1c:12}{0b:08}【 Ash 】{0b:09}\nSpiked pillars, huh... That's not one of\n'em, I guess.{0c:020d01}",
+   "status": "done",
+   "tl": "Spiked pillars, huh... That's not one of 'em, I guess."
   },
   {
    "id": "RES#71:17077",
@@ -757,8 +788,9 @@
    "jp": "{0c:2b541000}{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\nトゲの付いた{e08e}か・・・\nあれじゃないことは確かだな。{0c:020b01}",
    "read": "{0c:2b541000}{1c:13}{0b:08}【 アーサー 】{0b:09}\nトゲの付いた柱か・・・\nあれじゃないことは確かだな。{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b541000}{1c:13}{0b:08}【 Arthur 】{0b:09}\nSpiked pillars... That is certainly not one\nof them.{0c:020b01}",
+   "status": "done",
+   "tl": "Spiked pillars... That is certainly not one of them."
   },
   {
    "id": "RES#71:170be",
@@ -779,8 +811,9 @@
    "jp": "{0c:2b541000}{1c:18}{0b:08}{e080} エレアノール {e081}{0b:09}\nその{e08e}とは、\nあれのことでしょうか・・・{0c:020901}",
    "read": "{0c:2b541000}{1c:18}{0b:08}【 エレアノール 】{0b:09}\nその柱とは、\nあれのことでしょうか・・・{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b541000}{1c:18}{0b:08}【 Eleanor 】{0b:09}\nMight that be one of those pillars...{0c:020901}",
+   "status": "done",
+   "tl": "Might that be one of those pillars..."
   },
   {
    "id": "RES#71:170ff",
@@ -801,8 +834,9 @@
    "jp": "{0c:2b541000}{1c:1b}{0b:08}{e080} ジェシカ {e081}{0b:09}\nトゲのついた{e08e}か・・・\nあれじゃないのは確かだね。{0c:020701}",
    "read": "{0c:2b541000}{1c:1b}{0b:08}【 ジェシカ 】{0b:09}\nトゲのついた柱か・・・\nあれじゃないのは確かだね。{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b541000}{1c:1b}{0b:08}【 Jessica 】{0b:09}\nSpiked pillars, huh... That's sure not one\nof them, you know.{0c:020701}",
+   "status": "done",
+   "tl": "Spiked pillars, huh... That's sure not one of them, you know."
   },
   {
    "id": "RES#71:17144",
@@ -823,8 +857,9 @@
    "jp": "{0c:2b541000}{1c:25}{0b:08}{e080} ノエル {e081}{0b:09}\nトゲの付いた{e08e}・・・\nあれは違うのね。{0c:020501}",
    "read": "{0c:2b541000}{1c:25}{0b:08}【 ノエル 】{0b:09}\nトゲの付いた柱・・・\nあれは違うのね。{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b541000}{1c:25}{0b:08}【 Noel 】{0b:09}\nSpiked pillars... So that one isn't it.{0c:020501}",
+   "status": "done",
+   "tl": "Spiked pillars... So that one isn't it."
   },
   {
    "id": "RES#71:17183",
@@ -845,8 +880,9 @@
    "jp": "{0c:2b541000}{1c:29}{0b:08}{e080} ルカ {e081}{0b:09}\nトゲの付いた{e08e}ですか・・・\nあれは違うんですよね。{0c:020301}",
    "read": "{0c:2b541000}{1c:29}{0b:08}【 ルカ 】{0b:09}\nトゲの付いた柱ですか・・・\nあれは違うんですよね。{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b541000}{1c:29}{0b:08}【 Luca 】{0b:09}\nSp-spiked pillars... That isn't one of\nthem, is it?{0c:020301}",
+   "status": "done",
+   "tl": "Sp-spiked pillars... That isn't one of them, is it?"
   },
   {
    "id": "RES#71:171c7",
@@ -867,8 +903,9 @@
    "jp": "{0c:2b541000}{1c:2a}{0b:08}{e080} サラ {e081}{0b:09}\nトゲの付いた{e08e}・・・\nじゃああれは違うよね。{0c:fe}",
    "read": "{0c:2b541000}{1c:2a}{0b:08}【 サラ 】{0b:09}\nトゲの付いた柱・・・\nじゃああれは違うよね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b541000}{1c:2a}{0b:08}【 Sara 】{0b:09}\nSpiked pillars... So that's not one of\nthem, right?{0c:fe}",
+   "status": "done",
+   "tl": "Spiked pillars... So that's not one of them, right?"
   },
   {
    "id": "RES#71:17206",
@@ -889,8 +926,9 @@
    "jp": "{1c:17}{0b:08}{e080} レイア {e081}{0b:09}\nどうやらあれのようだな・・・{0c:02bb01}",
    "read": "{1c:17}{0b:08}【 レイア 】{0b:09}\nどうやらあれのようだな・・・{0c:02bb01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Leia 】{0b:09}\nThat appears to be it...{0c:02bb01}",
+   "status": "done",
+   "tl": "That appears to be it..."
   },
   {
    "id": "RES#71:17256",
@@ -922,8 +960,9 @@
    "jp": "{1c:17}{0b:08}{e080} レイア {e081}{0b:09}\nやはり来たか・・・{0c:fe}",
    "read": "{1c:17}{0b:08}【 レイア 】{0b:09}\nやはり来たか・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Leia 】{0b:09}\nSo you came after all...{0c:fe}",
+   "status": "done",
+   "tl": "So you came after all..."
   },
   {
    "id": "RES#71:1728e",
@@ -944,8 +983,9 @@
    "jp": "{1c:17}あの男が・・・パスカが、\nお前なら必ず来ると言っていた。{0c:fe}",
    "read": "{1c:17}あの男が・・・パスカが、\nお前なら必ず来ると言っていた。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}That man... Pasca said you would surely\ncome.{0c:fe}",
+   "status": "done",
+   "tl": "That man... Pasca said you would surely come."
   },
   {
    "id": "RES#71:172bd",
@@ -966,8 +1006,9 @@
    "jp": "{1c:17}{e085}{e086}の女から渡されたメモだ。\n3つの{e083}{e084}の注意事{e088}が{e089}いてある。{0c:fe}",
    "read": "{1c:17}教会の女から渡されたメモだ。\n3つの斎殿の注意事項が書いてある。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}This is a memo the woman of the Church\ngave me. It lists warnings about the\nthree sanctums.{0c:fe}",
+   "status": "done",
+   "tl": "This is a memo the woman of the Church gave me. It lists warnings about the three sanctums."
   },
   {
    "id": "RES#71:172fb",
@@ -988,8 +1029,9 @@
    "jp": "{1c:17}それぞれの{e083}{e084}には、\n一定{e08a}{e08b}に人間が近づくと\nその人間に対し{e08c}{e08d}してくる\nトゲの付いた{e08e}があるらしい。{1a}その{e08e}は{e08f}撃を{e090}えると\n動きを止めることができ、\nそして、その{e08e}を利用しなければ\n{e091}に進めない{e083}{e084}もあるとの事だ。{0c:fe}",
    "read": "{1c:17}それぞれの斎殿には、\n一定距離に人間が近づくと\nその人間に対し追尾してくる\nトゲの付いた柱があるらしい。{1a}その柱は電撃を与えると\n動きを止めることができ、\nそして、その柱を利用しなければ\n奥に進めない斎殿もあるとの事だ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}It appears that each sanctum has spiked\npillars that give chase to any person who\ncomes within a certain distance.{1a}A shock of lightning will stop such a\npillar, and some sanctums cannot be\ntraversed without making use of them.{0c:fe}",
+   "status": "done",
+   "tl": "It appears that each sanctum has spiked pillars that give chase to any person who comes within a certain distance. // A shock of lightning will stop such a pillar, and some sanctums cannot be traversed without making use of them."
   },
   {
    "id": "RES#71:173a1",
@@ -1010,8 +1052,9 @@
    "jp": "{1c:17}あれがその{e08e}のようだな。{0c:02b001}",
    "read": "{1c:17}あれがその柱のようだな。{0c:02b001}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}That appears to be one of those pillars.{0c:02b001}",
+   "status": "done",
+   "tl": "That appears to be one of those pillars."
   },
   {
    "id": "RES#71:173da",
@@ -1043,8 +1086,9 @@
    "jp": "{1c:1f}{0b:08}{e080} イヴ {e081}{0b:09}\nなんだ、やっぱり来たの?\nほんと素直じゃない性格ね。{1a}あの子達の前では手伝わないって\n宣言したくせに、\n結{e0a1}ここにやって来るなんて・・・{0c:fe}",
    "read": "{1c:1f}{0b:08}【 イヴ 】{0b:09}\nなんだ、やっぱり来たの?\nほんと素直じゃない性格ね。{1a}あの子達の前では手伝わないって\n宣言したくせに、\n結局ここにやって来るなんて・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}{0b:08}【 Eve 】{0b:09}\nWell now, you came after all? Not one to\nadmit things, are you.{1a}You swore in front of those children\nthat you would not help, and yet here\nyou are...{0c:fe}",
+   "status": "done",
+   "tl": "Well now, you came after all? Not one to admit things, are you. // You swore in front of those children that you would not help, and yet here you are..."
   },
   {
    "id": "RES#71:17454",
@@ -1076,8 +1120,9 @@
    "jp": "気が向いただけさ|期待されて行動するのが嫌なだけさ|やっぱり1人だけ別行動は寂しいから",
    "read": "気が向いただけさ|期待されて行動するのが嫌なだけさ|やっぱり1人だけ別行動は寂しいから",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I just felt like it|I just hate doing what people expect|Being the only one apart is lonely",
+   "status": "done",
+   "tl": "I just felt like it|I just hate doing what people expect|Being the only one apart is lonely"
   },
   {
    "id": "RES#71:1749d",
@@ -1109,8 +1154,9 @@
    "jp": "気が向いただけよ|期待されて行動するのが嫌なだけさ|やっぱり1人だけ別行動は寂しいの",
    "read": "気が向いただけよ|期待されて行動するのが嫌なだけさ|やっぱり1人だけ別行動は寂しいの",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I just felt like it|I just hate doing what people expect|Being the only one apart is lonely",
+   "status": "done",
+   "tl": "I just felt like it|I just hate doing what people expect|Being the only one apart is lonely"
   },
   {
    "id": "RES#71:174e1",
@@ -1142,8 +1188,9 @@
    "jp": "{1c:1e}それにしては準備{e0a2}到ね・・・{1a}ほんと、素直じゃないわね。{0c:020701}",
    "read": "{1c:1e}それにしては準備周到ね・・・{1a}ほんと、素直じゃないわね。{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}You came awfully well prepared for that,\nthough...{1a}Really, you never do admit things, do you,\ndear.{0c:020701}",
+   "status": "done",
+   "tl": "You came awfully well prepared for that, though... // Really, you never do admit things, do you, dear."
   },
   {
    "id": "RES#71:1751c",
@@ -1164,8 +1211,9 @@
    "jp": "{1c:1f}へえ、\n面白いコト言うじゃない。{1a}確かにあなたの言う{e0a4}り、\n誰にも期待されてなければ{1a}他人の期待に応えられなくて\n自分に失望することも、\n他人の期待に応えられなくて\n誰かに失望されることもないものね。 {1a}わからなくもないわ、\nあなたの考え方。\nあたしも他人に期待されるのは\n大嫌いだから。{1a}自分の事で{e0a5}一杯なのに、\n他人の目に映る自分のことまで\n気にして生きるなんて、\n考えただけでもゾッとするわ。{0c:fe}",
    "read": "{1c:1f}へえ、\n面白いコト言うじゃない。{1a}確かにあなたの言う通り、\n誰にも期待されてなければ{1a}他人の期待に応えられなくて\n自分に失望することも、\n他人の期待に応えられなくて\n誰かに失望されることもないものね。 {1a}わからなくもないわ、\nあなたの考え方。\nあたしも他人に期待されるのは\n大嫌いだから。{1a}自分の事で精一杯なのに、\n他人の目に映る自分のことまで\n気にして生きるなんて、\n考えただけでもゾッとするわ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}Well now, that's an interesting thing to\nsay.{1a}You're quite right. If no one expects\nanything of you,{1a}you can't be disappointed in yourself for\nfailing someone's hopes, and no one can\nbe disappointed in you for failing theirs.{1a}I can see it, dear, your way of thinking. I\ncan't stand having people expect things\nof me either.{1a}I've got my hands full with myself. To live\nfretting over how I look in other people's\neyes as well... the very thought makes\nme shudder.{0c:fe}",
+   "status": "done",
+   "tl": "Well now, that's an interesting thing to say. // You're quite right. If no one expects anything of you, // you can't be disappointed in yourself for failing someone's hopes, and no one can be disappointed in you for failing theirs. // I can see it, dear, your way of thinking. I can't stand having people expect things of me either. // I've got my hands full with myself. To live fretting over how I look in other people's eyes as well... the very thought makes me shudder."
   },
   {
    "id": "RES#71:1762b",
@@ -1186,8 +1234,9 @@
    "jp": "{1c:1f}世間ではこういう性格を\n自分勝手って言うみたいだけどね。{0c:020301}",
    "read": "{1c:1f}世間ではこういう性格を\n自分勝手って言うみたいだけどね。{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}Though the world calls that sort of\ncharacter selfish, I suppose.{0c:020301}",
+   "status": "done",
+   "tl": "Though the world calls that sort of character selfish, I suppose."
   },
   {
    "id": "RES#71:17668",
@@ -1208,8 +1257,9 @@
    "jp": "{1c:1e}いい歳して\n{e0a9}愛い言{e0aa}吐くじゃない。{1a}ただの寂しがり{e0ac}さんってわけ?\n鏡見てから答えたら?{1a}ま、素直に答える所は\n嫌いじゃないけど。{0c:fe}",
    "read": "{1c:1e}いい歳して\n可愛い言葉吐くじゃない。{1a}ただの寂しがり屋さんってわけ?\n鏡見てから答えたら?{1a}ま、素直に答える所は\n嫌いじゃないけど。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}Such a sweet thing to say, at your age.{1a}So you're just a lonely little thing?\nPerhaps look in a mirror before you\nanswer.{1a}Well, I can't say I dislike how honestly you\ncame out with it.{0c:fe}",
+   "status": "done",
+   "tl": "Such a sweet thing to say, at your age. // So you're just a lonely little thing? Perhaps look in a mirror before you answer. // Well, I can't say I dislike how honestly you came out with it."
   },
   {
    "id": "RES#71:176ce",
@@ -1230,8 +1280,9 @@
    "jp": "{0c:2b501000}{1c:17}{0b:08}{e080} レイア {e081}{0b:09}\nやはり来ていたか・・・{0c:4c0c09fe}",
    "read": "{0c:2b501000}{1c:17}{0b:08}【 レイア 】{0b:09}\nやはり来ていたか・・・{0c:4c0c09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b501000}{1c:17}{0b:08}【 Leia 】{0b:09}\nSo you came after all...{0c:4c0c09fe}",
+   "status": "done",
+   "tl": "So you came after all..."
   },
   {
    "id": "RES#71:17720",
@@ -1241,8 +1292,9 @@
    "jp": "{0c:2b502351152b551000}{0c:2b551000}{1c:20}{0b:08}{e080} イヴ {e081}{0b:09}\nえっ、あなたまで・・・?{1a}随分珍しい所で{e086}うわね。\nどういう{e0af}の吹き回し?\n人助けなんてあなたの\n1番嫌いなものじゃないの?{0c:2b5509fe}",
    "read": "{0c:2b502351152b551000}{0c:2b551000}{1c:20}{0b:08}【 イヴ 】{0b:09}\nえっ、あなたまで・・・?{1a}随分珍しい所で会うわね。\nどういう風の吹き回し?\n人助けなんてあなたの\n1番嫌いなものじゃないの?{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b502351152b551000}{0c:2b551000}{1c:20}{0b:08}【 Eve 】{0b:09}\nOh, you too...?{1a}What an unusual place to run into you.\nWhat's changed your tune? I thought\nhelping people was the thing you hated\nmost.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Oh, you too...? // What an unusual place to run into you. What's changed your tune? I thought helping people was the thing you hated most."
   },
   {
    "id": "RES#71:1779a",
@@ -1252,8 +1304,9 @@
    "jp": "{0c:4c0c1000}{1c:16}{0b:08}{e080} レイア {e081}{0b:09}\n借りがある。\n理由はそれだけだ。{1a}それに2度と\n他人のために動くつもりもない。{0c:4c0c09fe}",
    "read": "{0c:4c0c1000}{1c:16}{0b:08}【 レイア 】{0b:09}\n借りがある。\n理由はそれだけだ。{1a}それに2度と\n他人のために動くつもりもない。{0c:4c0c09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:4c0c1000}{1c:16}{0b:08}【 Leia 】{0b:09}\nI have a debt to repay. That is my only\nreason.{1a}And I have no intention of acting for\nanother's sake ever again.{0c:4c0c09fe}",
+   "status": "done",
+   "tl": "I have a debt to repay. That is my only reason. // And I have no intention of acting for another's sake ever again."
   },
   {
    "id": "RES#71:177e9",
@@ -1263,8 +1316,9 @@
    "jp": "{1c:1f}{0b:08}{e080} イヴ {e081}{0b:09}\nふーん・・・\nま、なんだっていいわ。{1a}帰ろうと思ってたけど、\nあなた達につき合ってあげる。\nちょっと面白そうになってきたから。{0c:2b5509fe}",
    "read": "{1c:1f}{0b:08}【 イヴ 】{0b:09}\nふーん・・・\nま、なんだっていいわ。{1a}帰ろうと思ってたけど、\nあなた達につき合ってあげる。\nちょっと面白そうになってきたから。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}{0b:08}【 Eve 】{0b:09}\nHmm... Well, whatever.{1a}I was thinking of going back, but I'll keep\nyou two company. This is starting to\nlook a little amusing.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Hmm... Well, whatever. // I was thinking of going back, but I'll keep you two company. This is starting to look a little amusing."
   },
   {
    "id": "RES#71:17846",
@@ -1285,8 +1339,9 @@
    "jp": "{1c:17}{0b:08}{e080} レイア {e081}{0b:09}\n{e085}{e086}の女から渡されたメモだ。\n{e082}の{e083}{e084}の注意事{e088}が{e089}いてある。{0c:4c0c09fe}",
    "read": "{1c:17}{0b:08}【 レイア 】{0b:09}\n教会の女から渡されたメモだ。\n西の斎殿の注意事項が書いてある。{0c:4c0c09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Leia 】{0b:09}\nThis is a memo the woman of the Church\ngave me. It lists warnings about the\nWest Sanctum.{0c:4c0c09fe}",
+   "status": "done",
+   "tl": "This is a memo the woman of the Church gave me. It lists warnings about the West Sanctum."
   },
   {
    "id": "RES#71:17895",
@@ -1296,8 +1351,9 @@
    "jp": "{1c:1f}{0b:08}{e080} イヴ {e081}{0b:09}\nへえ・・・\n下調べすることの重要さを、\nあなたもやっと学習したのね。{0c:2b5509fe}",
    "read": "{1c:1f}{0b:08}【 イヴ 】{0b:09}\nへえ・・・\n下調べすることの重要さを、\nあなたもやっと学習したのね。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}{0b:08}【 Eve 】{0b:09}\nWell, well... So you've finally learned how\nimportant it is to do your homework,\ndear.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Well, well... So you've finally learned how important it is to do your homework, dear."
   },
   {
    "id": "RES#71:178d5",
@@ -1319,8 +1375,9 @@
    "jp": "{1c:20}{0b:08}{e080} イヴ {e081}{0b:09}\nただの冗談よ。{0c:2b5509fe}",
    "read": "{1c:20}{0b:08}【 イヴ 】{0b:09}\nただの冗談よ。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Eve 】{0b:09}\nIt was only a joke.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "It was only a joke."
   },
   {
    "id": "RES#71:17914",
@@ -1341,8 +1398,9 @@
    "jp": "{1c:17}{0b:08}{e080} レイア {e081}{0b:09}\nそれぞれの{e083}{e084}には、{1a}一定{e08a}{e08b}に人間が近づくと\nその人間に対し{e08c}{e08d}してくる\nトゲの付いた{e08e}があるらしい。{1a}その{e08e}は{e08f}撃を{e090}えると\n動きを止めることができ、\nそして、その{e08e}を利用しなければ\n{e091}に進めない{e083}{e084}もあるとの事だ。{0c:4c0c09fe}",
    "read": "{1c:17}{0b:08}【 レイア 】{0b:09}\nそれぞれの斎殿には、{1a}一定距離に人間が近づくと\nその人間に対し追尾してくる\nトゲの付いた柱があるらしい。{1a}その柱は電撃を与えると\n動きを止めることができ、\nそして、その柱を利用しなければ\n奥に進めない斎殿もあるとの事だ。{0c:4c0c09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Leia 】{0b:09}\nIt appears that each sanctum{1a}has spiked pillars that give chase to any\nperson who comes within a certain\ndistance.{1a}A shock of lightning will stop such a\npillar, and some sanctums cannot be\ntraversed without making use of them.{0c:4c0c09fe}",
+   "status": "done",
+   "tl": "It appears that each sanctum // has spiked pillars that give chase to any person who comes within a certain distance. // A shock of lightning will stop such a pillar, and some sanctums cannot be traversed without making use of them."
   },
   {
    "id": "RES#71:179cd",
@@ -1352,8 +1410,9 @@
    "jp": "{0c:2b541000}{1c:21}{0b:08}{e080} イヴ {e081}{0b:09}\nまさかその{e08e}って\nあれのことじゃないわよね。{0c:fe}",
    "read": "{0c:2b541000}{1c:21}{0b:08}【 イヴ 】{0b:09}\nまさかその柱って\nあれのことじゃないわよね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b541000}{1c:21}{0b:08}【 Eve 】{0b:09}\nSurely those pillars aren't that thing\nover there, are they.{0c:fe}",
+   "status": "done",
+   "tl": "Surely those pillars aren't that thing over there, are they."
   },
   {
    "id": "RES#71:179ff",
@@ -1374,8 +1433,9 @@
    "jp": "{1c:17}{0b:08}{e080} レイア {e081}{0b:09}\nどうやらあれのようだな・・・{0c:028f01}",
    "read": "{1c:17}{0b:08}【 レイア 】{0b:09}\nどうやらあれのようだな・・・{0c:028f01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Leia 】{0b:09}\nThat appears to be it...{0c:028f01}",
+   "status": "done",
+   "tl": "That appears to be it..."
   },
   {
    "id": "RES#71:17a4c",
@@ -1407,8 +1467,9 @@
    "jp": "{1c:10}{0b:08}{e080} アッシュ {e081}{0b:09}\n{10}・・・\nあの人・・・もしかして・・・{0c:020f01}",
    "read": "{1c:10}{0b:08}【 アッシュ 】{0b:09}\n{10}・・・\nあの人・・・もしかして・・・{0c:020f01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\n{10}... That person... could it be...{0c:020f01}",
+   "status": "done",
+   "tl": "[HERO]... That person... could it be..."
   },
   {
    "id": "RES#71:17b71",
@@ -1429,8 +1490,9 @@
    "jp": "{1c:14}{0b:08}{e080} アーサー {e081}{0b:09}\n{10}・・・\nもしかして・・・あの人が・・・{0c:020d01}",
    "read": "{1c:14}{0b:08}【 アーサー 】{0b:09}\n{10}・・・\nもしかして・・・あの人が・・・{0c:020d01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Arthur 】{0b:09}\n{10}... Could it be... that person...{0c:020d01}",
+   "status": "done",
+   "tl": "[HERO]... Could it be... that person..."
   },
   {
    "id": "RES#71:17baa",
@@ -1451,8 +1513,9 @@
    "jp": "{1c:19}{0b:08}{e080} エレアノール {e081}{0b:09}\n{10}・・・{0c:020b01}",
    "read": "{1c:19}{0b:08}【 エレアノール 】{0b:09}\n{10}・・・{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Eleanor 】{0b:09}\n{10}...{0c:020b01}",
+   "status": "done",
+   "tl": "[HERO]..."
   },
   {
    "id": "RES#71:17bd3",
@@ -1473,8 +1536,9 @@
    "jp": "{1c:1b}{0b:08}{e080} ジェシカ {e081}{0b:09}\n{10}・・・{0c:020901}",
    "read": "{1c:1b}{0b:08}【 ジェシカ 】{0b:09}\n{10}・・・{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Jessica 】{0b:09}\n{10}...{0c:020901}",
+   "status": "done",
+   "tl": "[HERO]..."
   },
   {
    "id": "RES#71:17bfa",
@@ -1495,8 +1559,9 @@
    "jp": "{1c:1f}{0b:08}{e080} イヴ {e081}{0b:09}\n{e0b1}{e0b2}終了ね・・・{0c:020701}",
    "read": "{1c:1f}{0b:08}【 イヴ 】{0b:09}\n捜索終了ね・・・{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}{0b:08}【 Eve 】{0b:09}\nSearch over, I suppose...{0c:020701}",
+   "status": "done",
+   "tl": "Search over, I suppose..."
   },
   {
    "id": "RES#71:17c28",
@@ -1517,8 +1582,9 @@
    "jp": "{1c:26}{0b:08}{e080} ノエル {e081}{0b:09}\n{10}・・・{0c:020501}",
    "read": "{1c:26}{0b:08}【 ノエル 】{0b:09}\n{10}・・・{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:26}{0b:08}【 Noel 】{0b:09}\n{10}...{0c:020501}",
+   "status": "done",
+   "tl": "[HERO]..."
   },
   {
    "id": "RES#71:17c4e",
@@ -1539,8 +1605,9 @@
    "jp": "{1c:28}{0b:08}{e080} ルカ {e081}{0b:09}\n{10}さん・・・{0c:020301}",
    "read": "{1c:28}{0b:08}【 ルカ 】{0b:09}\n{10}さん・・・{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:28}{0b:08}【 Luca 】{0b:09}\n{10}-san...{0c:020301}",
+   "status": "done",
+   "tl": "[HERO]-san..."
   },
   {
    "id": "RES#71:17c76",
@@ -1561,8 +1628,9 @@
    "jp": "{1c:2b}{0b:08}{e080} サラ {e081}{0b:09}\n{10}さん・・・{0c:020101}",
    "read": "{1c:2b}{0b:08}【 サラ 】{0b:09}\n{10}さん・・・{0c:020101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:2b}{0b:08}【 Sara 】{0b:09}\n{10}-san...{0c:020101}",
+   "status": "done",
+   "tl": "[HERO]-san..."
   },
   {
    "id": "RES#71:17c9e",
@@ -1594,8 +1662,9 @@
    "jp": "{1c:17}{0b:08}{e080} レイア {e081}{0b:09}\nあれは・・・{0c:fe}",
    "read": "{1c:17}{0b:08}【 レイア 】{0b:09}\nあれは・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Leia 】{0b:09}\nThat is...{0c:fe}",
+   "status": "done",
+   "tl": "That is..."
   },
   {
    "id": "RES#71:17d39",
@@ -1627,8 +1696,9 @@
    "jp": "{0b:08}{e080} レイア {e081}{0b:09}\n右手と右足の包帯、\n紺{e0b7}の{e0b8}{e0b9}・・・{1a}間違いない、この男だ。{0c:fe}",
    "read": "{0b:08}【 レイア 】{0b:09}\n右手と右足の包帯、\n紺色の衣服・・・{1a}間違いない、この男だ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Leia 】{0b:09}\nBandages on the right hand and right\nleg, navy-blue clothing...{1a}There is no doubt. This is the man.{0c:fe}",
+   "status": "done",
+   "tl": "Bandages on the right hand and right leg, navy-blue clothing... // There is no doubt. This is the man."
   },
   {
    "id": "RES#71:17db3",
@@ -1741,8 +1811,9 @@
    "jp": "{1c:20}{0b:08}{e080} イヴ {e081}{0b:09}\n{e0ba}面目に{e0bb}す気のなかったあたしが\n先に見つけちゃうなんて・・・\n世の中ってこういうものね。{0c:020701}",
    "read": "{1c:20}{0b:08}【 イヴ 】{0b:09}\n真面目に探す気のなかったあたしが\n先に見つけちゃうなんて・・・\n世の中ってこういうものね。{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Eve 】{0b:09}\nAnd I find him first, when I never meant\nto look seriously... That's the world for\nyou, isn't it.{0c:020701}",
+   "status": "done",
+   "tl": "And I find him first, when I never meant to look seriously... That's the world for you, isn't it."
   },
   {
    "id": "RES#71:17eaf",
@@ -1832,8 +1903,9 @@
    "jp": "{1c:00}男の手には血まみれの手紙が\n握りしめられていた。{1a}そして、その手紙の{e0be}には\nこう{e089}かれてあった・・・{1a}「シスター・ティアラに届けてくれ\nこの{e0c0}をこの手紙と{e0c1}に」と。{0c:fe}",
    "read": "{1c:00}男の手には血まみれの手紙が\n握りしめられていた。{1a}そして、その手紙の表には\nこう書かれてあった・・・{1a}「シスター・ティアラに届けてくれ\nこの剣をこの手紙と共に」と。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:00}Clutched in the man's hand was a\nblood-soaked letter.{1a}And on the face of that letter was\nwritten...{1a}\"Deliver to Sister Tiara, this sword\ntogether with this letter.\"{0c:fe}",
+   "status": "done",
+   "tl": "Clutched in the man's hand was a blood-soaked letter. // And on the face of that letter was written... // \"Deliver to Sister Tiara, this sword together with this letter.\""
   },
   {
    "id": "RES#71:17f9b",

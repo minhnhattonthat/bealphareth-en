@@ -41,8 +41,9 @@
    "jp": "{1c:11}{0b:08}{e080} アッシュ {e081}{0b:09}\nこれ・・・\n{e082}ってるよな・・・{1a}{10}、これじゃないのか!?\n{0b:05}{14}の捕まってる{e084}って!{0c:021401}",
    "read": "{1c:11}{0b:08}【 アッシュ 】{0b:09}\nこれ・・・\n光ってるよな・・・{1a}{10}、これじゃないのか!?\n{0b:05}{14}の捕まってる柱って!{0c:021401}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Ash 】{0b:09}\nThis... It's glowing, isn't it...{1a}{10}, isn't this it!? The pillar\nwhere {0b:05}{14} is trapped!{0c:021401}",
+   "status": "done",
+   "tl": "This... It's glowing, isn't it... // [HERO], isn't this it!? The pillar where [1][VAR14] is trapped!"
   },
   {
    "id": "RES#87:a650",
@@ -52,8 +53,9 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\nこ・・・これは・・・{1a}とうとう見つけたぞ!!\nこの{e084}に{0b:05}{14}の魂が!!{0c:021301}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\nこ・・・これは・・・{1a}とうとう見つけたぞ!!\nこの柱に{0b:05}{14}の魂が!!{0c:021301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nTh-this is...{1a}We have found it at last!! The soul of\n{0b:05}{14} is in this pillar!!{0c:021301}",
+   "status": "done",
+   "tl": "Th-this is... // We have found it at last!! The soul of [1][VAR14] is in this pillar!!"
   },
   {
    "id": "RES#87:a692",
@@ -63,8 +65,9 @@
    "jp": "{1c:15}{0b:08}{e080} レイア {e081}{0b:09}\n{e082}を放つ『シェオルの{e084}』・・・{1a}こんなものに{0b:05}{14}の魂は\n{e085}{e086}されているのか・・・{0c:021201}",
    "read": "{1c:15}{0b:08}【 レイア 】{0b:09}\n光を放つ『シェオルの柱』・・・{1a}こんなものに{0b:05}{14}の魂は\n封印されているのか・・・{0c:021201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Leia 】{0b:09}\nA shining 'Pillar of Sheol'...{1a}So the soul of {0b:05}{14} is\nsealed inside a thing like this...{0c:021201}",
+   "status": "done",
+   "tl": "A shining 'Pillar of Sheol'... // So the soul of [1][VAR14] is sealed inside a thing like this..."
   },
   {
    "id": "RES#87:a6dd",
@@ -74,8 +77,9 @@
    "jp": "{1c:17}{0b:08}{e080} エレアノール {e081}{0b:09}\n{e082}を放つ『シェオルの{e084}』・・・{1a}{10}、見つけました!\nこれに間違いありません!{0c:021101}",
    "read": "{1c:17}{0b:08}【 エレアノール 】{0b:09}\n光を放つ『シェオルの柱』・・・{1a}{10}、見つけました!\nこれに間違いありません!{0c:021101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Eleanor 】{0b:09}\nA shining 'Pillar of Sheol'...{1a}{10}, I have found it! There can be\nno mistake, this is the one!{0c:021101}",
+   "status": "done",
+   "tl": "A shining 'Pillar of Sheol'... // [HERO], I have found it! There can be no mistake, this is the one!"
   },
   {
    "id": "RES#87:a72b",
@@ -85,8 +89,9 @@
    "jp": "{1c:1a}{0b:08}{e080} パスカ {e081}{0b:09}\nこれ・・・\n{e082}ってるんだよな・・・{1a}{10}、見つけたぞ!\nこれに違いねえ!{1a}待たせたな、{0b:05}{14}・・・\nこれでやっと助けられるぜ!{0c:021001}",
    "read": "{1c:1a}{0b:08}【 パスカ 】{0b:09}\nこれ・・・\n光ってるんだよな・・・{1a}{10}、見つけたぞ!\nこれに違いねえ!{1a}待たせたな、{0b:05}{14}・・・\nこれでやっと助けられるぜ!{0c:021001}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}{0b:08}【 Pasca 】{0b:09}\nThis... It's glowin', ain't it...{1a}{10}, found it! This has gotta be\nthe one!{1a}Sorry for the wait, {0b:05}{14}...\nNow we can finally get ya out!{0c:021001}",
+   "status": "done",
+   "tl": "This... It's glowin', ain't it... // [HERO], found it! This has gotta be the one! // Sorry for the wait, [1][VAR14]... Now we can finally get ya out!"
   },
   {
    "id": "RES#87:a78b",
@@ -118,8 +123,9 @@
    "jp": "{1c:1c}{0b:08}{e080} シャルン {e081}{0b:09}\nこれ・・・\n{e082}ってるよね・・・{1a}{10}、見つけたよ!!\n{0b:05}{14}が閉じこめられてる\n{e084}だよ!!{0c:020d01}",
    "read": "{1c:1c}{0b:08}【 シャルン 】{0b:09}\nこれ・・・\n光ってるよね・・・{1a}{10}、見つけたよ!!\n{0b:05}{14}が閉じこめられてる\n柱だよ!!{0c:020d01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Scharn 】{0b:09}\nThis... It's glowing, isn't it...{1a}{10}, we found it!! It's the pillar\n{0b:05}{14} is locked inside!!{0c:020d01}",
+   "status": "done",
+   "tl": "This... It's glowing, isn't it... // [HERO], we found it!! It's the pillar [1][VAR14] is locked inside!!"
   },
   {
    "id": "RES#87:a7d9",
@@ -140,8 +146,9 @@
    "jp": "{0b:08}{e080} ジェシカ {e081}{0b:09}\nこれ・・・\nどこからどう見ても\n{e082}ってるよね・・・{1a}{10}、\n見つけたよ! こいつだよ!!\n{0b:05}{14}が閉じこめられてる\n{e084}だよ!!{0c:020b01}",
    "read": "{0b:08}【 ジェシカ 】{0b:09}\nこれ・・・\nどこからどう見ても\n光ってるよね・・・{1a}{10}、\n見つけたよ! こいつだよ!!\n{0b:05}{14}が閉じこめられてる\n柱だよ!!{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Jessica 】{0b:09}\nThis... Any way you look at it, it's\nglowing, right...{1a}{10}, found it! This is the one!!\nIt's the pillar {0b:05}{14} is\nlocked inside!!{0c:020b01}",
+   "status": "done",
+   "tl": "This... Any way you look at it, it's glowing, right... // [HERO], found it! This is the one!! It's the pillar [1][VAR14] is locked inside!!"
   },
   {
    "id": "RES#87:a839",
@@ -162,8 +169,9 @@
    "jp": "{1c:21}{0b:08}{e080} イヴ {e081}{0b:09}\n{e082}を放つ『シェオルの{e084}』・・・{1a}とうとう見つけたのね。\n感動は全くないけど。{0c:020901}",
    "read": "{1c:21}{0b:08}【 イヴ 】{0b:09}\n光を放つ『シェオルの柱』・・・{1a}とうとう見つけたのね。\n感動は全くないけど。{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:21}{0b:08}【 Eve 】{0b:09}\nA shining 'Pillar of Sheol'...{1a}So we've finally found it. Not that I feel\nthe least bit moved, you know.{0c:020901}",
+   "status": "done",
+   "tl": "A shining 'Pillar of Sheol'... // So we've finally found it. Not that I feel the least bit moved, you know."
   },
   {
    "id": "RES#87:a88d",
@@ -173,8 +181,9 @@
    "jp": "{1c:23}{0b:08}{e080} ディアス {e081}{0b:09}\n{e082}を放つ『シェオルの{e084}』・・・{1a}これがそうなのか・・・{0c:020801}",
    "read": "{1c:23}{0b:08}【 ディアス 】{0b:09}\n光を放つ『シェオルの柱』・・・{1a}これがそうなのか・・・{0c:020801}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:23}{0b:08}【 Dias 】{0b:09}\nA shining 'Pillar of Sheol'...{1a}So this is it...{0c:020801}",
+   "status": "done",
+   "tl": "A shining 'Pillar of Sheol'... // So this is it..."
   },
   {
    "id": "RES#87:a8c8",
@@ -184,8 +193,9 @@
    "jp": "{1c:27}{0b:08}{e080} ノエル {e081}{0b:09}\n{e082}を放つ『シェオルの{e084}』・・・{1a}これがそうなのね・・・{0c:020701}",
    "read": "{1c:27}{0b:08}【 ノエル 】{0b:09}\n光を放つ『シェオルの柱』・・・{1a}これがそうなのね・・・{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:27}{0b:08}【 Noel 】{0b:09}\nA shining 'Pillar of Sheol'...{1a}So this must be it, then...{0c:020701}",
+   "status": "done",
+   "tl": "A shining 'Pillar of Sheol'... // So this must be it, then..."
   },
   {
    "id": "RES#87:a902",
@@ -217,8 +227,9 @@
    "jp": "{1c:28}{0b:08}{e080} ルカ {e081}{0b:09}\nこれ・・・{e082}ってますよね・・・{1a}{10}さん、見つけました!\nここです、{0b:05}{14}さんの魂が\n{e085}{e086}されてる{e084}は!{0c:020401}",
    "read": "{1c:28}{0b:08}【 ルカ 】{0b:09}\nこれ・・・光ってますよね・・・{1a}{10}さん、見つけました!\nここです、{0b:05}{14}さんの魂が\n封印されてる柱は!{0c:020401}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:28}{0b:08}【 Luca 】{0b:09}\nTh-this... It is glowing, is it not...{1a}{10}-san, I have found it! It is\nhere, the pillar where\n{0b:05}{14}-san's soul is sealed!{0c:020401}",
+   "status": "done",
+   "tl": "Th-this... It is glowing, is it not... // [HERO]-san, I have found it! It is here, the pillar where [1][VAR14]-san's soul is sealed!"
   },
   {
    "id": "RES#87:a957",
@@ -228,8 +239,9 @@
    "jp": "{1c:2a}{0b:08}{e080} サラ {e081}{0b:09}\nこれ・・・{e082}ってるよね・・・{1a}{10}さん、見つけたよ!\nこの{e084}に{0b:05}{14}さんの魂が\n捕まってるんだよね!{0c:020301}",
    "read": "{1c:2a}{0b:08}【 サラ 】{0b:09}\nこれ・・・光ってるよね・・・{1a}{10}さん、見つけたよ!\nこの柱に{0b:05}{14}さんの魂が\n捕まってるんだよね!{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:2a}{0b:08}【 Sara 】{0b:09}\nThis... It's glowing, isn't it...{1a}{10}-san, we found it!\n{0b:05}{14}-san's soul is trapped\nin this pillar, right?{0c:020301}",
+   "status": "done",
+   "tl": "This... It's glowing, isn't it... // [HERO]-san, we found it! [1][VAR14]-san's soul is trapped in this pillar, right?"
   },
   {
    "id": "RES#87:a9a7",
@@ -239,8 +251,9 @@
    "jp": "{1c:1f}{0b:08}{e080} オルフェウス {e081}{0b:09}\n{e082}を放つ『シェオルの{e084}』・・・{1a}これが、{0b:05}{14}さんの魂が\n{e085}じ{e088}められている{e084}なんですね。{0c:020201}",
    "read": "{1c:1f}{0b:08}【 オルフェウス 】{0b:09}\n光を放つ『シェオルの柱』・・・{1a}これが、{0b:05}{14}さんの魂が\n封じ込められている柱なんですね。{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}{0b:08}【 Orpheus 】{0b:09}\nA shining 'Pillar of Sheol'...{1a}So this is the pillar in which\n{0b:05}{14}-san's soul lies sealed.{0c:020201}",
+   "status": "done",
+   "tl": "A shining 'Pillar of Sheol'... // So this is the pillar in which [1][VAR14]-san's soul lies sealed."
   },
   {
    "id": "RES#87:a9fa",
@@ -250,8 +263,9 @@
    "jp": "{1c:1f}{0b:08}{e080} オルフェウス {e081}{0b:09}\n{e082}を放つ『シェオルの{e084}』・・・{1a}これが、{0b:05}{14}さんの魂が\n{e085}じ{e088}められている{e084}なんですね。{1a}どう{e089}理します、{10}さん。{0c:020101}",
    "read": "{1c:1f}{0b:08}【 オルフェウス 】{0b:09}\n光を放つ『シェオルの柱』・・・{1a}これが、{0b:05}{14}さんの魂が\n封じ込められている柱なんですね。{1a}どう料理します、{10}さん。{0c:020101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}{0b:08}【 Orpheus 】{0b:09}\nA shining 'Pillar of Sheol'...{1a}So this is the pillar in which\n{0b:05}{14}-san's soul lies sealed.{1a}And how shall we serve it up,\n{10}-san?{0c:020101}",
+   "status": "done",
+   "tl": "A shining 'Pillar of Sheol'... // So this is the pillar in which [1][VAR14]-san's soul lies sealed. // And how shall we serve it up, [HERO]-san?"
   },
   {
    "id": "RES#87:aa5c",
@@ -272,8 +286,9 @@
    "jp": "{1c:10}{0b:08}{e080} アッシュ {e081}{0b:09}\nあわわわ・・・\nな、なんだ!?{0c:021401}",
    "read": "{1c:10}{0b:08}【 アッシュ 】{0b:09}\nあわわわ・・・\nな、なんだ!?{0c:021401}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\nWh-whoa whoa whoa... Wh-what is it!?{0c:021401}",
+   "status": "done",
+   "tl": "Wh-whoa whoa whoa... Wh-what is it!?"
   },
   {
    "id": "RES#87:abef",
@@ -283,8 +298,9 @@
    "jp": "{1c:12}{0b:08}{e080} アーサー {e081}{0b:09}\nな、なに!?{0c:021301}",
    "read": "{1c:12}{0b:08}【 アーサー 】{0b:09}\nな、なに!?{0c:021301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Arthur 】{0b:09}\nWh-what!?{0c:021301}",
+   "status": "done",
+   "tl": "Wh-what!?"
   },
   {
    "id": "RES#87:ac0f",
@@ -294,8 +310,9 @@
    "jp": "{1c:16}{0b:08}{e080} レイア {e081}{0b:09}\nな、なに!?{0c:021201}",
    "read": "{1c:16}{0b:08}【 レイア 】{0b:09}\nな、なに!?{0c:021201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}{0b:08}【 Leia 】{0b:09}\nWh-what!?{0c:021201}",
+   "status": "done",
+   "tl": "Wh-what!?"
   },
   {
    "id": "RES#87:ac2e",
@@ -305,8 +322,9 @@
    "jp": "{1c:18}{0b:08}{e080} エレアノール {e081}{0b:09}\nま、また・・・!!{0c:021101}",
    "read": "{1c:18}{0b:08}【 エレアノール 】{0b:09}\nま、また・・・!!{0c:021101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Eleanor 】{0b:09}\nN-not again...!!{0c:021101}",
+   "status": "done",
+   "tl": "N-not again...!!"
   },
   {
    "id": "RES#87:ac53",
@@ -316,8 +334,9 @@
    "jp": "{1c:1b}{0b:08}{e080} パスカ {e081}{0b:09}\nな、なんだ!?{0c:021001}",
    "read": "{1c:1b}{0b:08}【 パスカ 】{0b:09}\nな、なんだ!?{0c:021001}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Pasca 】{0b:09}\nWh-what the hell!?{0c:021001}",
+   "status": "done",
+   "tl": "Wh-what the hell!?"
   },
   {
    "id": "RES#87:ac73",
@@ -349,8 +368,9 @@
    "jp": "{1c:1d}{0b:08}{e080} シャルン {e081}{0b:09}\nな、なんなの!?{0c:020d01}",
    "read": "{1c:1d}{0b:08}【 シャルン 】{0b:09}\nな、なんなの!?{0c:020d01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}{0b:08}【 Scharn 】{0b:09}\nWh-what's going on!?{0c:020d01}",
+   "status": "done",
+   "tl": "Wh-what's going on!?"
   },
   {
    "id": "RES#87:ac97",
@@ -371,8 +391,9 @@
    "jp": "{1c:1e}{0b:08}{e080} ジェシカ {e081}{0b:09}\nなによ、これ!!{0c:020b01}",
    "read": "{1c:1e}{0b:08}【 ジェシカ 】{0b:09}\nなによ、これ!!{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}{0b:08}【 Jessica 】{0b:09}\nWhat the heck is this!!{0c:020b01}",
+   "status": "done",
+   "tl": "What the heck is this!!"
   },
   {
    "id": "RES#87:acba",
@@ -393,8 +414,9 @@
    "jp": "{1c:22}{0b:08}{e080} イヴ {e081}{0b:09}\nな、なんなの!?{0c:020901}",
    "read": "{1c:22}{0b:08}【 イヴ 】{0b:09}\nな、なんなの!?{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:22}{0b:08}【 Eve 】{0b:09}\nWh-what's going on!?{0c:020901}",
+   "status": "done",
+   "tl": "Wh-what's going on!?"
   },
   {
    "id": "RES#87:ace6",
@@ -404,8 +426,9 @@
    "jp": "{1c:24}{0b:08}{e080} ディアス {e081}{0b:09}\nくっ・・・{0c:020801}",
    "read": "{1c:24}{0b:08}【 ディアス 】{0b:09}\nくっ・・・{0c:020801}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:24}{0b:08}【 Dias 】{0b:09}\nNgh...{0c:020801}",
+   "status": "done",
+   "tl": "Ngh..."
   },
   {
    "id": "RES#87:ad04",
@@ -415,8 +438,9 @@
    "jp": "{1c:26}{0b:08}{e080} ノエル {e081}{0b:09}\nな、なんなの!?{0c:020701}",
    "read": "{1c:26}{0b:08}【 ノエル 】{0b:09}\nな、なんなの!?{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:26}{0b:08}【 Noel 】{0b:09}\nWh-what's going on!?{0c:020701}",
+   "status": "done",
+   "tl": "Wh-what's going on!?"
   },
   {
    "id": "RES#87:ad25",
@@ -448,8 +472,9 @@
    "jp": "{1c:29}{0b:08}{e080} ルカ {e081}{0b:09}\nあわわわわ・・・{0c:020401}",
    "read": "{1c:29}{0b:08}【 ルカ 】{0b:09}\nあわわわわ・・・{0c:020401}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:29}{0b:08}【 Luca 】{0b:09}\nAh-ah-ah-ah...{0c:020401}",
+   "status": "done",
+   "tl": "Ah-ah-ah-ah..."
   },
   {
    "id": "RES#87:ad46",
@@ -459,8 +484,9 @@
    "jp": "{1c:2c}{0b:08}{e080} サラ {e081}{0b:09}\nな、なんなの!?{0c:020301}",
    "read": "{1c:2c}{0b:08}【 サラ 】{0b:09}\nな、なんなの!?{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:2c}{0b:08}【 Sara 】{0b:09}\nWh-what's going on!?{0c:020301}",
+   "status": "done",
+   "tl": "Wh-what's going on!?"
   },
   {
    "id": "RES#87:ad66",
@@ -470,8 +496,9 @@
    "jp": "{1c:20}{0b:08}{e080} オルフェウス {e081}{0b:09}\nくっ・・・{0c:020201}",
    "read": "{1c:20}{0b:08}【 オルフェウス 】{0b:09}\nくっ・・・{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Orpheus 】{0b:09}\nNgh...{0c:020201}",
+   "status": "done",
+   "tl": "Ngh..."
   },
   {
    "id": "RES#87:ad86",
@@ -481,8 +508,9 @@
    "jp": "{1c:20}{0b:08}{e080} オルフェウス {e081}{0b:09}\nくっ・・・{0c:020101}",
    "read": "{1c:20}{0b:08}【 オルフェウス 】{0b:09}\nくっ・・・{0c:020101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Orpheus 】{0b:09}\nNgh...{0c:020101}",
+   "status": "done",
+   "tl": "Ngh..."
   },
   {
    "id": "RES#87:ada6",
@@ -503,8 +531,9 @@
    "jp": "{1c:19}{0b:08}{e080} {03}エレアノール {e081}{0b:09}\n{10}、\n{02}こちらはもう駄目です{01}!{1a}{e084}{02}は任せます{01}!\n{e08a}壊後{02}、そちらの穴から\n逃げて下さい{01}!\n{02}では、幸運を祈ります{01}!!{0c:021b01}",
    "read": "{1c:19}{0b:08}【 {03}エレアノール 】{0b:09}\n{10}、\n{02}こちらはもう駄目です{01}!{1a}柱{02}は任せます{01}!\n破壊後{02}、そちらの穴から\n逃げて下さい{01}!\n{02}では、幸運を祈ります{01}!!{0c:021b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Eleanor 】{0b:09}\n{10}, it is no use on this side!{1a}We leave the pillar to you! Once it is\ndestroyed, please escape through the\nhole on your side! And so, I pray good\nfortune be with you!!{0c:021b01}",
+   "status": "done",
+   "tl": "[HERO], it is no use on this side! // We leave the pillar to you! Once it is destroyed, please escape through the hole on your side! And so, I pray good fortune be with you!!"
   },
   {
    "id": "RES#87:ae17",
@@ -525,8 +554,9 @@
    "jp": "{1c:1b}{0b:08}{e080} パスカ {e081}{0b:09}\n{10}、\nそっちには行けそうにねえ!{1a}{e084}は任せる!\nそれを壊したらお前も\nそっちの穴から逃げろ!!{1a}じゃあな、生きてたらまた{e08d}おうぜ!{0c:021901}",
    "read": "{1c:1b}{0b:08}【 パスカ 】{0b:09}\n{10}、\nそっちには行けそうにねえ!{1a}柱は任せる!\nそれを壊したらお前も\nそっちの穴から逃げろ!!{1a}じゃあな、生きてたらまた会おうぜ!{0c:021901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Pasca 】{0b:09}\n{10}, we ain't gonna make it over\nthere!{1a}Pillar's all yours! Once ya bust it, you get\nout through that hole too!!{1a}So long. If we're still breathin', we'll meet\nagain!{0c:021901}",
+   "status": "done",
+   "tl": "[HERO], we ain't gonna make it over there! // Pillar's all yours! Once ya bust it, you get out through that hole too!! // So long. If we're still breathin', we'll meet again!"
   },
   {
    "id": "RES#87:ae8b",
@@ -547,8 +577,9 @@
    "jp": "{1c:1d}{0b:08}{e080} シャルン {e081}{0b:09}\n{10}!\nそっち側には行けそうにないよ!{1a}{e084}は任せるわ!\nそれを壊したらあなたも\nそっちの穴から逃げて!\n生きてたらまた{e08d}いましょ!!{0c:021701}",
    "read": "{1c:1d}{0b:08}【 シャルン 】{0b:09}\n{10}!\nそっち側には行けそうにないよ!{1a}柱は任せるわ!\nそれを壊したらあなたも\nそっちの穴から逃げて!\n生きてたらまた会いましょ!!{0c:021701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}{0b:08}【 Scharn 】{0b:09}\n{10}! I don't think we can get over\nto your side!{1a}We're leaving the pillar to you! When\nyou've smashed it, get out through that\nhole too! If we make it, let's meet again!!{0c:021701}",
+   "status": "done",
+   "tl": "[HERO]! I don't think we can get over to your side! // We're leaving the pillar to you! When you've smashed it, get out through that hole too! If we make it, let's meet again!!"
   },
   {
    "id": "RES#87:af01",
@@ -569,8 +600,9 @@
    "jp": "{1c:14}{0b:08}{e080} アーサー {e081}{0b:09}\n{10}、\nこっちはもう駄目だ!!{1a}{e084}は任せる!\nそれを{e08a}壊したら\n君もそちらの穴から逃げろ!{1a}生きていたらまた{e08d}おう!{0c:021501}",
    "read": "{1c:14}{0b:08}【 アーサー 】{0b:09}\n{10}、\nこっちはもう駄目だ!!{1a}柱は任せる!\nそれを破壊したら\n君もそちらの穴から逃げろ!{1a}生きていたらまた会おう!{0c:021501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Arthur 】{0b:09}\n{10}, it is hopeless over here!!{1a}I leave the pillar to you! When you have\ndestroyed it, you must escape through\nthat hole as well!{1a}If we live, we will meet again!{0c:021501}",
+   "status": "done",
+   "tl": "[HERO], it is hopeless over here!! // I leave the pillar to you! When you have destroyed it, you must escape through that hole as well! // If we live, we will meet again!"
   },
   {
    "id": "RES#87:af70",
@@ -591,8 +623,9 @@
    "jp": "{1c:10}{0b:08}{e080} アッシュ {e081}{0b:09}\n{10}!!\nこっちはもうだめだ!!{1a}その{e084}はまかせるよ!!\nそっちの穴から逃げてくれ!{0c:021301}",
    "read": "{1c:10}{0b:08}【 アッシュ 】{0b:09}\n{10}!!\nこっちはもうだめだ!!{1a}その柱はまかせるよ!!\nそっちの穴から逃げてくれ!{0c:021301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\n{10}!! It's no good over here!!{1a}We're counting on you for that pillar!!\nGet out through that hole over there!{0c:021301}",
+   "status": "done",
+   "tl": "[HERO]!! It's no good over here!! // We're counting on you for that pillar!! Get out through that hole over there!"
   },
   {
    "id": "RES#87:afc6",
@@ -613,8 +646,9 @@
    "jp": "{1c:1e}{0b:08}{e080} ジェシカ {e081}{0b:09}\n{10}、こっちはもう駄目!\nあんたも勝手に逃げて!{1a}{e084}壊すの忘れないでよ!!\n生きてたらまたね!!{0c:021101}",
    "read": "{1c:1e}{0b:08}【 ジェシカ 】{0b:09}\n{10}、こっちはもう駄目!\nあんたも勝手に逃げて!{1a}柱壊すの忘れないでよ!!\n生きてたらまたね!!{0c:021101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}{0b:08}【 Jessica 】{0b:09}\n{10}, it's no good over here! Just\nget yourself out, okay!{1a}And don't you forget to smash that\npillar!! See you later, if we're alive!!{0c:021101}",
+   "status": "done",
+   "tl": "[HERO], it's no good over here! Just get yourself out, okay! // And don't you forget to smash that pillar!! See you later, if we're alive!!"
   },
   {
    "id": "RES#87:b029",
@@ -635,8 +669,9 @@
    "jp": "{1c:25}{0b:08}{e080} ノエル {e081}{0b:09}\nこっちはもう駄目みたい!{1a}{e084}は任せるわ!\nそれを壊したらあなたも逃げて!{0c:020f01}",
    "read": "{1c:25}{0b:08}【 ノエル 】{0b:09}\nこっちはもう駄目みたい!{1a}柱は任せるわ!\nそれを壊したらあなたも逃げて!{0c:020f01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:25}{0b:08}【 Noel 】{0b:09}\nIt looks like it's no good over here!{1a}I'm leaving the pillar to you! Once it's\nbroken, you get out too!{0c:020f01}",
+   "status": "done",
+   "tl": "It looks like it's no good over here! // I'm leaving the pillar to you! Once it's broken, you get out too!"
   },
   {
    "id": "RES#87:b07b",
@@ -657,8 +692,9 @@
    "jp": "{1c:29}{0b:08}{e080} ルカ {e081}{0b:09}\nこ、こちらは\nもう駄目みたいです!{1a}す、すみませんが\nその{e084}をよろしくお願いしますっ!{0c:020d01}",
    "read": "{1c:29}{0b:08}【 ルカ 】{0b:09}\nこ、こちらは\nもう駄目みたいです!{1a}す、すみませんが\nその柱をよろしくお願いしますっ!{0c:020d01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:29}{0b:08}【 Luca 】{0b:09}\nTh-this side is, it seems, past saving!{1a}I-I am so sorry, but p-please see to that\npillar!{0c:020d01}",
+   "status": "done",
+   "tl": "Th-this side is, it seems, past saving! // I-I am so sorry, but p-please see to that pillar!"
   },
   {
    "id": "RES#87:b0cf",
@@ -679,8 +715,9 @@
    "jp": "{1c:2b}{0b:08}{e080} サラ {e081}{0b:09}\n{10}さん、\nこっちはもう駄目みたい!!{1a}{10}さんも{e084}を壊したら\nそっちの穴から逃げてね!!{0c:020b01}",
    "read": "{1c:2b}{0b:08}【 サラ 】{0b:09}\n{10}さん、\nこっちはもう駄目みたい!!{1a}{10}さんも柱を壊したら\nそっちの穴から逃げてね!!{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:2b}{0b:08}【 Sara 】{0b:09}\n{10}-san, it looks like it's no good\nover here!!{1a}{10}-san, once you break the\npillar, you get out through that hole too,\nokay!!{0c:020b01}",
+   "status": "done",
+   "tl": "[HERO]-san, it looks like it's no good over here!! // [HERO]-san, once you break the pillar, you get out through that hole too, okay!!"
   },
   {
    "id": "RES#87:b125",
@@ -712,8 +749,9 @@
    "jp": "{1c:20}{0b:08}{e080} オルフェウス {e081}{0b:09}\nこちらはもう限{e08f}のようです。\n君も勝手に逃げて下さい。{0c:020801}",
    "read": "{1c:20}{0b:08}【 オルフェウス 】{0b:09}\nこちらはもう限界のようです。\n君も勝手に逃げて下さい。{0c:020801}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Orpheus 】{0b:09}\nIt appears we have reached our limit\nhere. Do see yourself out as you please.{0c:020801}",
+   "status": "done",
+   "tl": "It appears we have reached our limit here. Do see yourself out as you please."
   },
   {
    "id": "RES#87:b179",
@@ -723,8 +761,9 @@
    "jp": "{1c:20}{0b:08}{e080} オルフェウス {e081}{0b:09}\nこちらはもう限{e08f}のようです。\n{10}さん、\n生きていたらまた{e08d}いましょうね。{0c:020701}",
    "read": "{1c:20}{0b:08}【 オルフェウス 】{0b:09}\nこちらはもう限界のようです。\n{10}さん、\n生きていたらまた会いましょうね。{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Orpheus 】{0b:09}\nIt appears we have reached our limit\nhere. {10}-san, should we both\nlive, let us meet again, shall we?{0c:020701}",
+   "status": "done",
+   "tl": "It appears we have reached our limit here. [HERO]-san, should we both live, let us meet again, shall we?"
   },
   {
    "id": "RES#87:b1bc",
@@ -745,8 +784,9 @@
    "jp": "{1c:22}{0b:08}{e080} イヴ {e081}{0b:09}\nそろそろ洒落に\nならなくなってきたわね・・・{1a}お先に失礼するわ。\n生きてたらまた{e08d}いましょ。{0c:020501}",
    "read": "{1c:22}{0b:08}【 イヴ 】{0b:09}\nそろそろ洒落に\nならなくなってきたわね・・・{1a}お先に失礼するわ。\n生きてたらまた会いましょ。{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:22}{0b:08}【 Eve 】{0b:09}\nThis is starting to stop being funny,\nisn't it...{1a}I'll be taking my leave first. If we're alive,\nwe'll meet again, I suppose.{0c:020501}",
+   "status": "done",
+   "tl": "This is starting to stop being funny, isn't it... // I'll be taking my leave first. If we're alive, we'll meet again, I suppose."
   },
   {
    "id": "RES#87:b213",
@@ -767,8 +807,9 @@
    "jp": "{1c:24}{0b:08}{e080} ディアス {e081}{0b:09}\n限{e08f}か・・・{0c:020301}",
    "read": "{1c:24}{0b:08}【 ディアス 】{0b:09}\n限界か・・・{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:24}{0b:08}【 Dias 】{0b:09}\nThe limit, then...{0c:020301}",
+   "status": "done",
+   "tl": "The limit, then..."
   },
   {
    "id": "RES#87:b23f",
@@ -789,8 +830,9 @@
    "jp": "{1c:16}{0b:08}{e080} レイア {e081}{0b:09}\n限{e08f}か・・・{0c:fe}",
    "read": "{1c:16}{0b:08}【 レイア 】{0b:09}\n限界か・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}{0b:08}【 Leia 】{0b:09}\nThe limit, then...{0c:fe}",
+   "status": "done",
+   "tl": "The limit, then..."
   },
   {
    "id": "RES#87:b268",
@@ -811,8 +853,9 @@
    "jp": "{1b:05}我は{e091}なる声なり・・・{1a}1人の肉体を救い、{e092}千{e092}万の希望を\n奪いたければこの{e084}を壊せ・・・\n{e092}千{e092}万の希望を救い、1人の肉体を\n奪いたければ直ちに立ち去れ・・・{1a}この{e084}は\n人の闇なる{e097}神に{e098}なる{e084}なり・・・\nこの{e084}を{e08a}壊すれば世{e08f}中に\n{e099}なる魔物が生まれよう・・・{0c:fe}",
    "read": "{1b:05}我は内なる声なり・・・{1a}1人の肉体を救い、幾千幾万の希望を\n奪いたければこの柱を壊せ・・・\n幾千幾万の希望を救い、1人の肉体を\n奪いたければ直ちに立ち去れ・・・{1a}この柱は\n人の闇なる精神に連なる柱なり・・・\nこの柱を破壊すれば世界中に\n更なる魔物が生まれよう・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1b:05}I am the inner voice...{1a}If thou wouldst save one body and rob\nthousands upon thousands of their hope,\nbreak this pillar... If thou wouldst save\nthe hope of thousands upon thousands{1a}and rob one of a body, depart at once...{1a}This pillar is joined to the dark spirit of\nman... Destroy this pillar, and yet more\nmonsters shall be born throughout the\nworld...{0c:fe}",
+   "status": "done",
+   "tl": "I am the inner voice... // If thou wouldst save one body and rob thousands upon thousands of their hope, break this pillar... If thou wouldst save the hope of thousands upon thousands and rob one of a body, depart at once... // This pillar is joined to the dark spirit of man... Destroy this pillar, and yet more monsters shall be born throughout the world..."
   },
   {
    "id": "RES#87:b37f",

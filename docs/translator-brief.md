@@ -10,7 +10,7 @@ Work only on the batches named in your dispatch, one at a time in the order give
 
 ## Input: `work/tl/<batch>.tsv`
 `id<TAB>speaker<TAB>form<TAB>limit<TAB>Japanese`. Lines are in file order, usually scene order: use neighbours for context.
-- `speaker`: from the name plate. `~Name` = probably still Name. `-` = unknown: work it out from the text and the neighbours. A slot label such as `Ash` or `Hero (male)` means that party member's comment on what the player examined.
+- `speaker`: from the name plate. `~Name` = probably still Name. `-` = unknown: work it out from the text and the neighbours (a party's reactions often run three lines per character, in the order Ash, Arthur, Leia, Eleanor, Pasca, Scharn, Jessica, Orpheus, Eve, Dias, Noel, Luca, Sara: read each line's first person and endings). A slot label such as `Ash` or `Hero (male)` means that party member's comment on what the player examined. If a label fights the voice in the Japanese, trust the voice.
 - `form`:
   - `dlg`: a text box. The tool word-wraps for you. ` / ` is a Japanese line break: drop it and write the box as one utterance. `limit` (216px*4r) is how a box is filled; running over just adds a box, so keep the meaning first but don't pad.
   - `choice`: player options, one row each, separated by `|`. Hard pixel limit per option. Keep them short and parallel. An option list may be followed by an entry of help text for each option, 276 px each.
@@ -33,6 +33,7 @@ Run `python -X utf8 tools/batches.py check <batch>` from the repo root and fix e
 - Placeholders: no suffixes glued to a variable (write "No. [VAR14]" not "[VAR14]th"), no a/an right before a variable. The player may be male or female: no he/she/him/her/guy/girl for [HERO] unless the entry settles it; rephrase or use "you".
 - Same Japanese, same English: repeated stock lines stay word for word within your batches.
 - A leftover test string (`ノエル台詞1`, `説明未設定`) is translated flat: `Noel line 1`, `No description yet`.
+- Kadmon's オレ様 and カドモン様 are the brag "the great Kadmon", not an honorific. 旦那 is "Mister" (バルデスの旦那 Mister Valdes), 新入り "rookie", 共鳴 "resonance", 永遠の世界 "Eternal World".
 - Mistakes the earlier pass flattened: `・・・全然そうは見えねえがな` is `...You sure don't look it.`, not `But you don't look like that at all.`
 
 ## Consistency

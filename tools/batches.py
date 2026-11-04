@@ -637,6 +637,7 @@ def read_out(name):
 
 
 HONORIFIC = re.compile(r"([ァ-ヺー]|\[HERO\])(さん|ちゃん|くん|君|さま|様|殿)")
+NOT_HONORIFIC = re.compile(r"オレ様|カドモン様|オジさん|オバさん|オヤジさん|オニイさん|オネエさん|ニイちゃん|ネエちゃん|バアさん|ジイさん")  # words, not names
 HON_EN = {"さん": "-san", "ちゃん": "-chan", "くん": "-kun", "君": "-kun", "さま": "-sama", "様": "-sama", "殿": "-dono"}
 ORDINAL = re.compile(r"\[[^\]]*\](st|nd|rd|th)\b")
 
@@ -690,8 +691,9 @@ def check_entry(e, en, terms, plates):
         for av in row[2]:
             if re.search(rf"\b{re.escape(av)}\b", en):
                 errs.append(f"avoid spelling {av!r} (use {row[1]})")
+    named = NOT_HONORIFIC.sub("", jp)
     for hon in HON_EN:
-        n = sum(1 for m in HONORIFIC.finditer(jp) if m.group(2) == hon)
+        n = sum(1 for m in HONORIFIC.finditer(named) if m.group(2) == hon)
         if n and en.count(HON_EN[hon]) < n:
             errs.append(f"honorific {hon}: expected {HON_EN[hon]}")
     return errs

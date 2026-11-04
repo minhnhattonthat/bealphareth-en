@@ -17,7 +17,7 @@ Bealphareth: dark European fantasy, adventurers in a lawless walled town over a 
 | Eve | あたし, あなた, 〜わね, 〜わ, 〜のよ | Cool, languid, amused: "I suppose", "isn't it", "you know, dear", "well, whatever". Nothing surprises her. |
 | Dias | 俺, 貴様, 〜だ, 〜か, 〜せん, 〜な | Cold and clipped, slightly archaic: "Hmph.", "Spare me.", "I care not.", few words, no contractions. |
 | Noel | あたし, あなた, 〜わよ, 〜わ, 〜でしょ | Prickly bookish girl: "Honestly!", "Don't touch that!", superior, and flustered when teased ("Wh-what!? It's nothing!"). |
-| Luca | ぼく, 〜です, stutters (さ、先程の) | Timid monk: very polite, hedging, stammer on the first letter: "Th-that is...", "I-if it's no trouble". |
+| Luca | ぼく, 〜です, stutters (さ、先程の) | Timid monk: very polite, hedging. Stammer on the first letter only where the Japanese stammers: "Th-that is...", "I-if it's no trouble". |
 | Sara | あたし, [HERO]さん, 〜だよ, 〜ね, 〜かな | Sweet, simple, childlike warmth: "okay?", "I'm so glad", easy words, no edge. |
 | Qumran | 私, です/ます, 〜ですね | Gentle scholar: complete, well-formed sentences, dry mild humour, addresses people with -san. |
 | Valdes | 俺, 〜ねえ, 〜だ, 〜ぜ, お前 | Big-brother warmth in rough speech: "ain't", "kid", "you take care now". Awkward making speeches. |

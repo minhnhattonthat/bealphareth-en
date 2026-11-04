@@ -41,8 +41,9 @@
    "jp": "{0b:08}{e080} {10} {e081}{0b:09}\n約束の時間が過ぎてしまった・・・\n仕方ない、{e082}{e083}を続けよう。",
    "read": "{0b:08}【 {10} 】{0b:09}\n約束の時間が過ぎてしまった・・・\n仕方ない、探索を続けよう。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 {10} 】{0b:09}\nThe appointed time has passed... It can't\nbe helped. Let's keep exploring.",
+   "status": "done",
+   "tl": "The appointed time has passed... It can't be helped. Let's keep exploring."
   },
   {
    "id": "RES#20:f97a",
@@ -52,8 +53,9 @@
    "jp": "{0b:08}{e080} {10} {e081}{0b:09}\n約束の時間はもう過ぎたのね・・・\n仕方ないわ、{e082}{e083}を続けましょ。",
    "read": "{0b:08}【 {10} 】{0b:09}\n約束の時間はもう過ぎたのね・・・\n仕方ないわ、探索を続けましょ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 {10} 】{0b:09}\nSo the appointed time has already\npassed... It can't be helped. Let's keep\nexploring.",
+   "status": "done",
+   "tl": "So the appointed time has already passed... It can't be helped. Let's keep exploring."
   },
   {
    "id": "RES#20:f9b1",
@@ -63,8 +65,9 @@
    "jp": "{0b:08}{e080} アッシュ {e081}{0b:09}\nあれ、やくそくの時間\nもう過ぎちゃったのか・・・{1a}町に戻ったほうがいいんだろうけど\nせっかくここまで来たんだし、\n先に進もうよ。\n{e084}べ物の問題も大事だもんな。",
    "read": "{0b:08}【 アッシュ 】{0b:09}\nあれ、やくそくの時間\nもう過ぎちゃったのか・・・{1a}町に戻ったほうがいいんだろうけど\nせっかくここまで来たんだし、\n先に進もうよ。\n食べ物の問題も大事だもんな。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Ash 】{0b:09}\nHuh, the time we promised already went\nby, I guess...{1a}We oughta go back to town, but we\ncame all this way, so let's keep going.\nThe food problem matters too, y'know.",
+   "status": "done",
+   "tl": "Huh, the time we promised already went by, I guess... // We oughta go back to town, but we came all this way, so let's keep going. The food problem matters too, y'know."
   },
   {
    "id": "RES#20:fa20",
@@ -74,8 +77,9 @@
    "jp": "{0b:08}{e080} アーサー {e081}{0b:09}\n待ち合わせの時間は\nもう過ぎたのか・・・{1a}本当は町に戻るべきなんだろうけど、\nせっかくここまで来たんだ、\n先に進もう。\n{e084}べ物の問題も深刻だしね。",
    "read": "{0b:08}【 アーサー 】{0b:09}\n待ち合わせの時間は\nもう過ぎたのか・・・{1a}本当は町に戻るべきなんだろうけど、\nせっかくここまで来たんだ、\n先に進もう。\n食べ物の問題も深刻だしね。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Arthur 】{0b:09}\nHas the meeting time passed already...?{1a}We really should return to town, but\nwe've come all this way, so let's press\non. The food problem is serious too,\nafter all.",
+   "status": "done",
+   "tl": "Has the meeting time passed already...? // We really should return to town, but we've come all this way, so let's press on. The food problem is serious too, after all."
   },
   {
    "id": "RES#20:fa8d",
@@ -85,8 +89,9 @@
    "jp": "{0b:08}{e080} エレアノール {e081}{0b:09}\n{e087}{e088}での待ち合わせの時間、\n過ぎてしまいましたね。{1a}今からでも町に戻った方が\nよいのでしょうが、\nせっかくここまで来たのです、\n先に進みましょう。{1a}{e084}糧の問題も同じく重要ですから。",
    "read": "{0b:08}【 エレアノール 】{0b:09}\n教会での待ち合わせの時間、\n過ぎてしまいましたね。{1a}今からでも町に戻った方が\nよいのでしょうが、\nせっかくここまで来たのです、\n先に進みましょう。{1a}食糧の問題も同じく重要ですから。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Eleanor 】{0b:09}\nThe time of our meeting at the church\nhas passed, it seems.{1a}It would be best to return to town even\nnow, but as we have come this far, let\nus press on.{1a}The matter of provisions is just as\nimportant, after all.",
+   "status": "done",
+   "tl": "The time of our meeting at the church has passed, it seems. // It would be best to return to town even now, but as we have come this far, let us press on. // The matter of provisions is just as important, after all."
   },
   {
    "id": "RES#20:fb10",
@@ -96,8 +101,9 @@
    "jp": "{0b:08}{e080} パスカ {e081}{0b:09}\n待ち合わせの時間\n過ぎちまったんじゃねえのか?{1a}仕方ねえ、先に進もうぜ。\n{e084}い物さえ見つけりゃ\n帳消しにしてくれるさ。",
    "read": "{0b:08}【 パスカ 】{0b:09}\n待ち合わせの時間\n過ぎちまったんじゃねえのか?{1a}仕方ねえ、先に進もうぜ。\n食い物さえ見つけりゃ\n帳消しにしてくれるさ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Pasca 】{0b:09}\nAin't the meetin' time come and gone?{1a}Can't be helped, let's keep goin'. Long as\nwe find that food, they'll let it slide.",
+   "status": "done",
+   "tl": "Ain't the meetin' time come and gone? // Can't be helped, let's keep goin'. Long as we find that food, they'll let it slide."
   },
   {
    "id": "RES#20:fb6c",
@@ -107,8 +113,9 @@
    "jp": "{0b:08}{e080} シャルン {e081}{0b:09}\n{e087}{e088}での待ち合わせの時間\nもう過ぎちゃったね。{1a}しょうがない、先に進みましょ。\n{e08b}{e08c}ここまで来たんだし、\nそれに{e084}べ物の問題も大事だもんね。",
    "read": "{0b:08}【 シャルン 】{0b:09}\n教会での待ち合わせの時間\nもう過ぎちゃったね。{1a}しょうがない、先に進みましょ。\n折角ここまで来たんだし、\nそれに食べ物の問題も大事だもんね。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Scharn 】{0b:09}\nThe time to meet at the church already\nwent by, huh.{1a}Oh well, let's keep going! We came all this\nway, and the food problem matters too,\nyou know!",
+   "status": "done",
+   "tl": "The time to meet at the church already went by, huh. // Oh well, let's keep going! We came all this way, and the food problem matters too, you know!"
   },
   {
    "id": "RES#20:fbd6",
@@ -118,8 +125,9 @@
    "jp": "{0b:08}{e080} ジェシカ {e081}{0b:09}\nあれ、{e087}{e088}での待ち合わせの時間\n過ぎちゃったんじゃないの?{1a}こんなに時間かかっちゃうとは\n誤算だなあ・・・\nしょうがない、先に進もっ!\n{e08b}{e08c}ここまで来たんだしさ。 {1a}なあに、その実さえ見つければ\n多少のミスなんて\n帳消しにしてくれるよ。",
    "read": "{0b:08}【 ジェシカ 】{0b:09}\nあれ、教会での待ち合わせの時間\n過ぎちゃったんじゃないの?{1a}こんなに時間かかっちゃうとは\n誤算だなあ・・・\nしょうがない、先に進もっ!\n折角ここまで来たんだしさ。 {1a}なあに、その実さえ見つければ\n多少のミスなんて\n帳消しにしてくれるよ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Jessica 】{0b:09}\nHuh, hasn't the time to meet at the\nchurch gone by?{1a}Didn't figure it'd take this long. Talk\nabout a miscalculation... Oh well, onward!\nWe came all this way, after all.{1a}Hey, as long as we find that fruit, they'll\nforgive a little slip-up.",
+   "status": "done",
+   "tl": "Huh, hasn't the time to meet at the church gone by? // Didn't figure it'd take this long. Talk about a miscalculation... Oh well, onward! We came all this way, after all. // Hey, as long as we find that fruit, they'll forgive a little slip-up."
   },
   {
    "id": "RES#20:fc7a",
@@ -129,8 +137,9 @@
    "jp": "{0b:08}{e080} オルフェウス {e081}{0b:09}\nあれ、待ち合わせの時間\n過ぎちゃったんじゃないですか?{1a}仕方ありませんね、\n先に進みましょう。\n{e08b}{e08c}ここまで来たのですから。",
    "read": "{0b:08}【 オルフェウス 】{0b:09}\nあれ、待ち合わせの時間\n過ぎちゃったんじゃないですか?{1a}仕方ありませんね、\n先に進みましょう。\n折角ここまで来たのですから。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Orpheus 】{0b:09}\nOh my, has the meeting time not passed\nalready?{1a}It cannot be helped. Let us press on,\nsince we have come all this way.",
+   "status": "done",
+   "tl": "Oh my, has the meeting time not passed already? // It cannot be helped. Let us press on, since we have come all this way."
   },
   {
    "id": "RES#20:fcda",
@@ -140,8 +149,9 @@
    "jp": "{0b:08}{e080} ノエル {e081}{0b:09}\n待ち合わせの時間\n過ぎたんじゃないの?{1a}だらしないわね・・・\nでも、{e08b}{e08c}ここまで来たんだし、\n先に進みましょ。{1a}{e084}糧の問題も\nいつかは解決しなきゃならない\n懸案なんだから。",
    "read": "{0b:08}【 ノエル 】{0b:09}\n待ち合わせの時間\n過ぎたんじゃないの?{1a}だらしないわね・・・\nでも、折角ここまで来たんだし、\n先に進みましょ。{1a}食糧の問題も\nいつかは解決しなきゃならない\n懸案なんだから。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Noel 】{0b:09}\nHasn't the meeting time passed?{1a}How sloppy, honestly... But since we've\ncome all this way, let's keep going.{1a}The food problem has to be solved\nsooner or later anyway.",
+   "status": "done",
+   "tl": "Hasn't the meeting time passed? // How sloppy, honestly... But since we've come all this way, let's keep going. // The food problem has to be solved sooner or later anyway."
   },
   {
    "id": "RES#20:fd55",
@@ -151,8 +161,9 @@
    "jp": "{0b:08}{e080} ルカ {e081}{0b:09}\nあの・・・\n{e087}{e088}での待ち合わせの時間\n過ぎてしまったんじゃないですか?{1a}本当は今からでも\n帰るべきなんでしょうけど、\n{e084}糧のことも重要な問題ですよね。\n先に進みましょうか。",
    "read": "{0b:08}【 ルカ 】{0b:09}\nあの・・・\n教会での待ち合わせの時間\n過ぎてしまったんじゃないですか?{1a}本当は今からでも\n帰るべきなんでしょうけど、\n食糧のことも重要な問題ですよね。\n先に進みましょうか。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Luca 】{0b:09}\nU-um... Hasn't the time to meet at the\nchurch gone by?{1a}We really ought to head back even now,\nbut the food is an important matter\ntoo, is it not? Sh-shall we go on?",
+   "status": "done",
+   "tl": "U-um... Hasn't the time to meet at the church gone by? // We really ought to head back even now, but the food is an important matter too, is it not? Sh-shall we go on?"
   },
   {
    "id": "RES#20:fdd0",
@@ -162,8 +173,9 @@
    "jp": "{0b:08}{e080} サラ {e081}{0b:09}\nあれ・・・\n{e087}{e088}での待ち合わせの時間\n過ぎちゃったみたいだね。{1a}本当は今からでも\n帰ったほうがいいんだろうけど、\n{e084}べ物のこともみんな困ってるし、{1a}それにせっかくここまで来たんだから\n先に進みましょ!",
    "read": "{0b:08}【 サラ 】{0b:09}\nあれ・・・\n教会での待ち合わせの時間\n過ぎちゃったみたいだね。{1a}本当は今からでも\n帰ったほうがいいんだろうけど、\n食べ物のこともみんな困ってるし、{1a}それにせっかくここまで来たんだから\n先に進みましょ!",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Sara 】{0b:09}\nOh... It looks like the time to meet at the\nchurch went by.{1a}We really should go back even now, but\neveryone's having trouble with food too,{1a}and since we came all this way, let's keep\ngoing!",
+   "status": "done",
+   "tl": "Oh... It looks like the time to meet at the church went by. // We really should go back even now, but everyone's having trouble with food too, // and since we came all this way, let's keep going!"
   },
   {
    "id": "RES#20:fe56",
@@ -173,8 +185,9 @@
    "jp": "{1c:63}軽{e090}の{e091}だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "read": "{1c:63}軽石の岩だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A pumice rock. It looks like Vacuum or a\nFlip Panel could move it too.",
+   "status": "done",
+   "tl": "A pumice rock. It looks like Vacuum or a Flip Panel could move it too."
   },
   {
    "id": "RES#20:fe86",
@@ -184,8 +197,9 @@
    "jp": "{1c:63}軽{e090}の{e091}だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "read": "{1c:63}軽石の岩だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A pumice rock. It looks like Vacuum or a\nFlip Panel could move it too.",
+   "status": "done",
+   "tl": "A pumice rock. It looks like Vacuum or a Flip Panel could move it too."
   },
   {
    "id": "RES#20:feb6",
@@ -195,8 +209,9 @@
    "jp": "{1c:63}軽{e090}の{e091}だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "read": "{1c:63}軽石の岩だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A pumice rock. It looks like Vacuum or a\nFlip Panel could move it too.",
+   "status": "done",
+   "tl": "A pumice rock. It looks like Vacuum or a Flip Panel could move it too."
   },
   {
    "id": "RES#20:fee6",
@@ -206,8 +221,9 @@
    "jp": "{1c:63}軽{e090}の{e091}だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "read": "{1c:63}軽石の岩だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A pumice rock. It looks like Vacuum or a\nFlip Panel could move it too.",
+   "status": "done",
+   "tl": "A pumice rock. It looks like Vacuum or a Flip Panel could move it too."
   },
   {
    "id": "RES#20:ff16",
@@ -217,8 +233,9 @@
    "jp": "{1c:63}軽{e090}の{e091}だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "read": "{1c:63}軽石の岩だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A pumice rock. It looks like Vacuum or a\nFlip Panel could move it too.",
+   "status": "done",
+   "tl": "A pumice rock. It looks like Vacuum or a Flip Panel could move it too."
   },
   {
    "id": "RES#20:ff46",
@@ -228,8 +245,9 @@
    "jp": "{1c:63}軽{e090}の{e091}だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "read": "{1c:63}軽石の岩だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A pumice rock. It looks like Vacuum or a\nFlip Panel could move it too.",
+   "status": "done",
+   "tl": "A pumice rock. It looks like Vacuum or a Flip Panel could move it too."
   },
   {
    "id": "RES#20:ff76",
@@ -239,8 +257,9 @@
    "jp": "{1c:63}軽{e090}の{e091}だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "read": "{1c:63}軽石の岩だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A pumice rock. It looks like Vacuum or a\nFlip Panel could move it too.",
+   "status": "done",
+   "tl": "A pumice rock. It looks like Vacuum or a Flip Panel could move it too."
   },
   {
    "id": "RES#20:ffa6",
@@ -272,8 +291,9 @@
    "jp": "{1c:63}軽{e090}の{e091}だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "read": "{1c:63}軽石の岩だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A pumice rock. It looks like Vacuum or a\nFlip Panel could move it too.",
+   "status": "done",
+   "tl": "A pumice rock. It looks like Vacuum or a Flip Panel could move it too."
   },
   {
    "id": "RES#20:ffd8",
@@ -283,8 +303,9 @@
    "jp": "{1c:63}軽{e090}の{e091}だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "read": "{1c:63}軽石の岩だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A pumice rock. It looks like Vacuum or a\nFlip Panel could move it too.",
+   "status": "done",
+   "tl": "A pumice rock. It looks like Vacuum or a Flip Panel could move it too."
   },
   {
    "id": "RES#20:10008",
@@ -294,8 +315,9 @@
    "jp": "{1c:63}軽{e090}の{e091}だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "read": "{1c:63}軽石の岩だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A pumice rock. It looks like Vacuum or a\nFlip Panel could move it too.",
+   "status": "done",
+   "tl": "A pumice rock. It looks like Vacuum or a Flip Panel could move it too."
   },
   {
    "id": "RES#20:10038",
@@ -305,8 +327,9 @@
    "jp": "{1c:63}軽{e090}の{e091}だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "read": "{1c:63}軽石の岩だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A pumice rock. It looks like Vacuum or a\nFlip Panel could move it too.",
+   "status": "done",
+   "tl": "A pumice rock. It looks like Vacuum or a Flip Panel could move it too."
   },
   {
    "id": "RES#20:10068",
@@ -316,8 +339,9 @@
    "jp": "{1c:63}軽{e090}の{e091}だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "read": "{1c:63}軽石の岩だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A pumice rock. It looks like Vacuum or a\nFlip Panel could move it too.",
+   "status": "done",
+   "tl": "A pumice rock. It looks like Vacuum or a Flip Panel could move it too."
   },
   {
    "id": "RES#20:10098",
@@ -327,8 +351,9 @@
    "jp": "{1c:63}軽{e090}の{e091}だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "read": "{1c:63}軽石の岩だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A pumice rock. It looks like Vacuum or a\nFlip Panel could move it too.",
+   "status": "done",
+   "tl": "A pumice rock. It looks like Vacuum or a Flip Panel could move it too."
   },
   {
    "id": "RES#20:100c8",
@@ -338,8 +363,9 @@
    "jp": "{1c:63}軽{e090}の{e091}だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "read": "{1c:63}軽石の岩だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A pumice rock. It looks like Vacuum or a\nFlip Panel could move it too.",
+   "status": "done",
+   "tl": "A pumice rock. It looks like Vacuum or a Flip Panel could move it too."
   },
   {
    "id": "RES#20:100f8",
@@ -371,8 +397,9 @@
    "jp": "{1c:63}軽{e090}の{e091}だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "read": "{1c:63}軽石の岩だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A pumice rock. It looks like Vacuum or a\nFlip Panel could move it too.",
+   "status": "done",
+   "tl": "A pumice rock. It looks like Vacuum or a Flip Panel could move it too."
   },
   {
    "id": "RES#20:1012a",
@@ -382,8 +409,9 @@
    "jp": "{1c:63}軽{e090}の{e091}だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "read": "{1c:63}軽石の岩だ。\nバキュームやフリップパネルでも\n動かすことが出来そうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A pumice rock. It looks like Vacuum or a\nFlip Panel could move it too.",
+   "status": "done",
+   "tl": "A pumice rock. It looks like Vacuum or a Flip Panel could move it too."
   },
   {
    "id": "RES#20:1015a",
@@ -393,8 +421,9 @@
    "jp": "{1c:63}{e092}{e093}の魔{e094}陣だ。\nこの魔{e094}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "read": "{1c:63}封印の魔法陣だ。\nこの魔法陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A magic circle of sealing. There seems to\nbe no way forward without striking the\nsource that laid it.",
+   "status": "done",
+   "tl": "A magic circle of sealing. There seems to be no way forward without striking the source that laid it."
   },
   {
    "id": "RES#20:10191",
@@ -404,8 +433,9 @@
    "jp": "{1c:63}{e092}{e093}の魔{e094}陣だ。\nこの魔{e094}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "read": "{1c:63}封印の魔法陣だ。\nこの魔法陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A magic circle of sealing. There seems to\nbe no way forward without striking the\nsource that laid it.",
+   "status": "done",
+   "tl": "A magic circle of sealing. There seems to be no way forward without striking the source that laid it."
   },
   {
    "id": "RES#20:101c8",
@@ -415,8 +445,9 @@
    "jp": "{1c:63}{e092}{e093}の魔{e094}陣だ。\nこの魔{e094}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "read": "{1c:63}封印の魔法陣だ。\nこの魔法陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A magic circle of sealing. There seems to\nbe no way forward without striking the\nsource that laid it.",
+   "status": "done",
+   "tl": "A magic circle of sealing. There seems to be no way forward without striking the source that laid it."
   },
   {
    "id": "RES#20:101ff",
@@ -426,8 +457,9 @@
    "jp": "{1c:63}{e092}{e093}の魔{e094}陣だ。\nこの魔{e094}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "read": "{1c:63}封印の魔法陣だ。\nこの魔法陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A magic circle of sealing. There seems to\nbe no way forward without striking the\nsource that laid it.",
+   "status": "done",
+   "tl": "A magic circle of sealing. There seems to be no way forward without striking the source that laid it."
   },
   {
    "id": "RES#20:10236",
@@ -437,8 +469,9 @@
    "jp": "{1c:63}{e092}{e093}の魔{e094}陣だ。\nこの魔{e094}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "read": "{1c:63}封印の魔法陣だ。\nこの魔法陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A magic circle of sealing. There seems to\nbe no way forward without striking the\nsource that laid it.",
+   "status": "done",
+   "tl": "A magic circle of sealing. There seems to be no way forward without striking the source that laid it."
   },
   {
    "id": "RES#20:1026d",
@@ -448,8 +481,9 @@
    "jp": "{1c:63}{e092}{e093}の魔{e094}陣だ。\nこの魔{e094}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "read": "{1c:63}封印の魔法陣だ。\nこの魔法陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A magic circle of sealing. There seems to\nbe no way forward without striking the\nsource that laid it.",
+   "status": "done",
+   "tl": "A magic circle of sealing. There seems to be no way forward without striking the source that laid it."
   },
   {
    "id": "RES#20:102a4",
@@ -459,8 +493,9 @@
    "jp": "{1c:63}{e092}{e093}の魔{e094}陣だ。\nこの魔{e094}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "read": "{1c:63}封印の魔法陣だ。\nこの魔法陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A magic circle of sealing. There seems to\nbe no way forward without striking the\nsource that laid it.",
+   "status": "done",
+   "tl": "A magic circle of sealing. There seems to be no way forward without striking the source that laid it."
   },
   {
    "id": "RES#20:102db",
@@ -492,8 +527,9 @@
    "jp": "{1c:63}{e092}{e093}の魔{e094}陣だ。\nこの魔{e094}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "read": "{1c:63}封印の魔法陣だ。\nこの魔法陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A magic circle of sealing. There seems to\nbe no way forward without striking the\nsource that laid it.",
+   "status": "done",
+   "tl": "A magic circle of sealing. There seems to be no way forward without striking the source that laid it."
   },
   {
    "id": "RES#20:10314",
@@ -503,8 +539,9 @@
    "jp": "{1c:63}{e092}{e093}の魔{e094}陣だ。\nこの魔{e094}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "read": "{1c:63}封印の魔法陣だ。\nこの魔法陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A magic circle of sealing. There seems to\nbe no way forward without striking the\nsource that laid it.",
+   "status": "done",
+   "tl": "A magic circle of sealing. There seems to be no way forward without striking the source that laid it."
   },
   {
    "id": "RES#20:1034b",
@@ -514,8 +551,9 @@
    "jp": "{1c:63}{e092}{e093}の魔{e094}陣だ。\nこの魔{e094}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "read": "{1c:63}封印の魔法陣だ。\nこの魔法陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A magic circle of sealing. There seems to\nbe no way forward without striking the\nsource that laid it.",
+   "status": "done",
+   "tl": "A magic circle of sealing. There seems to be no way forward without striking the source that laid it."
   },
   {
    "id": "RES#20:10382",
@@ -525,8 +563,9 @@
    "jp": "{1c:63}{e092}{e093}の魔{e094}陣だ。\nこの魔{e094}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "read": "{1c:63}封印の魔法陣だ。\nこの魔法陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A magic circle of sealing. There seems to\nbe no way forward without striking the\nsource that laid it.",
+   "status": "done",
+   "tl": "A magic circle of sealing. There seems to be no way forward without striking the source that laid it."
   },
   {
    "id": "RES#20:103b9",
@@ -536,8 +575,9 @@
    "jp": "{1c:63}{e092}{e093}の魔{e094}陣だ。\nこの魔{e094}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "read": "{1c:63}封印の魔法陣だ。\nこの魔法陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A magic circle of sealing. There seems to\nbe no way forward without striking the\nsource that laid it.",
+   "status": "done",
+   "tl": "A magic circle of sealing. There seems to be no way forward without striking the source that laid it."
   },
   {
    "id": "RES#20:103f0",
@@ -547,8 +587,9 @@
    "jp": "{1c:63}{e092}{e093}の魔{e094}陣だ。\nこの魔{e094}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "read": "{1c:63}封印の魔法陣だ。\nこの魔法陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A magic circle of sealing. There seems to\nbe no way forward without striking the\nsource that laid it.",
+   "status": "done",
+   "tl": "A magic circle of sealing. There seems to be no way forward without striking the source that laid it."
   },
   {
    "id": "RES#20:10427",
@@ -558,8 +599,9 @@
    "jp": "{1c:63}{e092}{e093}の魔{e094}陣だ。\nこの魔{e094}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "read": "{1c:63}封印の魔法陣だ。\nこの魔法陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A magic circle of sealing. There seems to\nbe no way forward without striking the\nsource that laid it.",
+   "status": "done",
+   "tl": "A magic circle of sealing. There seems to be no way forward without striking the source that laid it."
   },
   {
    "id": "RES#20:1045e",
@@ -591,8 +633,9 @@
    "jp": "{1c:63}{e092}{e093}の魔{e094}陣だ。\nこの魔{e094}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "read": "{1c:63}封印の魔法陣だ。\nこの魔法陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A magic circle of sealing. There seems to\nbe no way forward without striking the\nsource that laid it.",
+   "status": "done",
+   "tl": "A magic circle of sealing. There seems to be no way forward without striking the source that laid it."
   },
   {
    "id": "RES#20:10497",
@@ -602,8 +645,9 @@
    "jp": "{1c:63}{e092}{e093}の魔{e094}陣だ。\nこの魔{e094}陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "read": "{1c:63}封印の魔法陣だ。\nこの魔法陣をしいた大本を\n叩かなければ先へは進めなさそうだ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}A magic circle of sealing. There seems to\nbe no way forward without striking the\nsource that laid it.",
+   "status": "done",
+   "tl": "A magic circle of sealing. There seems to be no way forward without striking the source that laid it."
   }
  ],
  "entry": 20

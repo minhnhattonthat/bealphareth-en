@@ -41,8 +41,9 @@
    "jp": "{1c:11}{0b:08}【 アッシュ 】{0b:09}\nまたおなじような通路だ・・・{1a}敵が出てこないのはたすかるけど、\nずっと同じようなところを歩いてると\n逆に疲れてくるよな。{1a}いったいいつになったら\n最上階にたどりつけるんだろ・・・{0c:fe}",
    "read": "{1c:11}{0b:08}【 アッシュ 】{0b:09}\nまたおなじような通路だ・・・{1a}敵が出てこないのはたすかるけど、\nずっと同じようなところを歩いてると\n逆に疲れてくるよな。{1a}いったいいつになったら\n最上階にたどりつけるんだろ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Ash 】{0b:09}\nSame kinda corridor again...{1a}It's a help that no enemies come out, but\nwalking through the same kinda place all\nthe time just wears me out, y'know.{1a}When're we ever gonna get to the top\nfloor, I wonder...{0c:fe}",
+   "status": "done",
+   "tl": "Same kinda corridor again... // It's a help that no enemies come out, but walking through the same kinda place all the time just wears me out, y'know. // When're we ever gonna get to the top floor, I wonder..."
   },
   {
    "id": "RES#72:eadd",
@@ -63,8 +64,9 @@
    "jp": "{0c:51082b501000}{1c:10}とにかく進もうか。\n歩いていればいつかは\nたどりつくかもしれないもんな。{0c:fe}",
    "read": "{0c:51082b501000}{1c:10}とにかく進もうか。\n歩いていればいつかは\nたどりつくかもしれないもんな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{1c:10}Let's just keep going, I guess. If we keep\nwalking, we might get there someday,\ny'know.{0c:fe}",
+   "status": "done",
+   "tl": "Let's just keep going, I guess. If we keep walking, we might get there someday, y'know."
   },
   {
    "id": "RES#72:eb21",
@@ -96,8 +98,9 @@
    "jp": "{1c:13}{0b:08}【 アーサー 】{0b:09}\nまた同じような通路だ・・・{1a}第一神殿の上の方って、\n敵が出てこないのはいいんだけど、\n単調な通路が続くのでうんざりするよ。{1a}一体いつになったら\n{09:08}『太陽の宝玉』{09:01}のある最上階に\nたどり着けるんだろう・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\nまた同じような通路だ・・・{1a}第一神殿の上の方って、\n敵が出てこないのはいいんだけど、\n単調な通路が続くのでうんざりするよ。{1a}一体いつになったら\n{09:08}『太陽の宝玉』{09:01}のある最上階に\nたどり着けるんだろう・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nAnother corridor just like the last...{1a}It is good that no enemies appear on the\nupper floors of the First Temple, but\nthese monotonous corridors are wearing\nme down.{1a}When will we ever reach the top floor,\nwhere {09:08}the 'Sun Jewel'{09:01} is...{0c:fe}",
+   "status": "done",
+   "tl": "Another corridor just like the last... // It is good that no enemies appear on the upper floors of the First Temple, but these monotonous corridors are wearing me down. // When will we ever reach the top floor, where [1]the 'Sun Jewel'[2] is..."
   },
   {
    "id": "RES#72:ebd5",
@@ -118,8 +121,9 @@
    "jp": "{0c:51082b501000}{1c:12}今はとにかく\n先に進むしかないか・・・{0c:fe}",
    "read": "{0c:51082b501000}{1c:12}今はとにかく\n先に進むしかないか・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{1c:12}For now, we have no choice but to go\non...{0c:fe}",
+   "status": "done",
+   "tl": "For now, we have no choice but to go on..."
   },
   {
    "id": "RES#72:ec09",
@@ -151,8 +155,9 @@
    "jp": "{0b:08}【 レイア 】{0b:09}\nまた同じ通路か・・・\n最上階は一体・・・{0c:fe}",
    "read": "{0b:08}【 レイア 】{0b:09}\nまた同じ通路か・・・\n最上階は一体・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Leia 】{0b:09}\nThe same corridor again... Just how far is\nthe top floor...{0c:fe}",
+   "status": "done",
+   "tl": "The same corridor again... Just how far is the top floor..."
   },
   {
    "id": "RES#72:ec52",
@@ -173,8 +178,9 @@
    "jp": "{1c:15}とにかく進むしかない、か・・・{0c:fe}",
    "read": "{1c:15}とにかく進むしかない、か・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}There is nothing for it but to go on, it\nseems...{0c:fe}",
+   "status": "done",
+   "tl": "There is nothing for it but to go on, it seems..."
   },
   {
    "id": "RES#72:ec78",
@@ -206,8 +212,9 @@
    "jp": "{1c:18}{0b:08}【 エレアノール 】{0b:09}\nまた同じような\n通路がのびていますね。{1a}どうやらこの階層も\n下の階層と同じ構造のようです。\n第一神殿の上の方は、\n全て同じ構造をしているのでしょう。{1a}一体いつになったら\n最上階にたどり着けるのか・・・{1a}この構造は人の心に迷いを\n生み出す為のものかもしれませんね。{0c:fe}",
    "read": "{1c:18}{0b:08}【 エレアノール 】{0b:09}\nまた同じような\n通路がのびていますね。{1a}どうやらこの階層も\n下の階層と同じ構造のようです。\n第一神殿の上の方は、\n全て同じ構造をしているのでしょう。{1a}一体いつになったら\n最上階にたどり着けるのか・・・{1a}この構造は人の心に迷いを\n生み出す為のものかもしれませんね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Eleanor 】{0b:09}\nAnother corridor much like the last\nstretches before us.{1a}It appears this level has the same\nstructure as the one below. Perhaps all\nthe upper reaches of the First Temple\nshare that structure.{1a}When will we ever reach the top floor...{1a}Perhaps this structure exists to sow\ndoubt in people's hearts.{0c:fe}",
+   "status": "done",
+   "tl": "Another corridor much like the last stretches before us. // It appears this level has the same structure as the one below. Perhaps all the upper reaches of the First Temple share that structure. // When will we ever reach the top floor... // Perhaps this structure exists to sow doubt in people's hearts."
   },
   {
    "id": "RES#72:ed50",
@@ -228,8 +235,9 @@
    "jp": "{0c:51082b501000}{1c:16}とにかく先に進みましょう。\n今はそれしか出来ないのですから。{0c:fe}",
    "read": "{0c:51082b501000}{1c:16}とにかく先に進みましょう。\n今はそれしか出来ないのですから。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{1c:16}Let us go on regardless. That is all we\ncan do for now.{0c:fe}",
+   "status": "done",
+   "tl": "Let us go on regardless. That is all we can do for now."
   },
   {
    "id": "RES#72:ed91",
@@ -261,8 +269,9 @@
    "jp": "{1c:19}{0b:08}【 パスカ 】{0b:09}\nまた通路か・・・{1a}この第一神殿って建物の上の方は\n通路ばっかりなんだな。\n最近、全然化け物と\n戦ってねえような気がするぜ。{1a}ま、それはそれでいいんだけど、\nさすがに同じような所ばっか\n歩いてると、いい加減飽きてくるよ。{1a}{09:08}『太陽の宝玉』{09:01}のある最上階へは、\n一体いつになったら\nたどり着けるんだ?{0c:fe}",
    "read": "{1c:19}{0b:08}【 パスカ 】{0b:09}\nまた通路か・・・{1a}この第一神殿って建物の上の方は\n通路ばっかりなんだな。\n最近、全然化け物と\n戦ってねえような気がするぜ。{1a}ま、それはそれでいいんだけど、\nさすがに同じような所ばっか\n歩いてると、いい加減飽きてくるよ。{1a}{09:08}『太陽の宝玉』{09:01}のある最上階へは、\n一体いつになったら\nたどり着けるんだ?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Pasca 】{0b:09}\nAnother corridor, huh...{1a}Top of this First Temple's nothin' but\ncorridors. Feels like I ain't fought a single\nmonster lately.{1a}Not that that's bad, but walkin' the\nsame damn place over and over, it gets\nold.{1a}When the hell are we gonna reach the\ntop floor, with {09:08}the 'Sun Jewel'{09:01}?{0c:fe}",
+   "status": "done",
+   "tl": "Another corridor, huh... // Top of this First Temple's nothin' but corridors. Feels like I ain't fought a single monster lately. // Not that that's bad, but walkin' the same damn place over and over, it gets old. // When the hell are we gonna reach the top floor, with [1]the 'Sun Jewel'[2]?"
   },
   {
    "id": "RES#72:ee7d",
@@ -283,8 +292,9 @@
    "jp": "{0c:51082b501000}{1c:1a}ま、とにかく先に進むしかねえか。\nいつかはたどり着くだろ。{0c:fe}",
    "read": "{0c:51082b501000}{1c:1a}ま、とにかく先に進むしかねえか。\nいつかはたどり着くだろ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{1c:1a}Well, ain't nothin' to do but keep goin'.\nWe'll get there sometime.{0c:fe}",
+   "status": "done",
+   "tl": "Well, ain't nothin' to do but keep goin'. We'll get there sometime."
   },
   {
    "id": "RES#72:eebb",
@@ -316,8 +326,9 @@
    "jp": "{1c:1e}{0b:08}【 シャルン 】{0b:09}\nまた同じような\n通路がのびてる・・・{1a}第一神殿の上の方は\n通路ばっかりなんだね。\n最近全然魔物と\n戦ってないような気がするよ。{1a}まあ、それはそれで\nいいことなんだろうけど、{1a}さすがに同じような景色を\nずっと見続けてると\nちょっと飽きてくるよね。{1a}{09:08}『太陽の宝玉』{09:01}のある最上階には、\n一体いつになったら\nたどり着けるんだろ。{0c:fe}",
    "read": "{1c:1e}{0b:08}【 シャルン 】{0b:09}\nまた同じような\n通路がのびてる・・・{1a}第一神殿の上の方は\n通路ばっかりなんだね。\n最近全然魔物と\n戦ってないような気がするよ。{1a}まあ、それはそれで\nいいことなんだろうけど、{1a}さすがに同じような景色を\nずっと見続けてると\nちょっと飽きてくるよね。{1a}{09:08}『太陽の宝玉』{09:01}のある最上階には、\n一体いつになったら\nたどり着けるんだろ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}{0b:08}【 Scharn 】{0b:09}\nAnother corridor just like the others...{1a}The upper part of the First Temple is\nnothing but corridors, huh! Feels like I\nhaven't fought any monsters at all\nlately!{1a}Well, I guess that's a good thing,{1a}but looking at the same view all the time\ndoes get kinda boring, you know!{1a}I wonder when we'll ever reach the top\nfloor, where {09:08}the 'Sun Jewel'{09:01} is.{0c:fe}",
+   "status": "done",
+   "tl": "Another corridor just like the others... // The upper part of the First Temple is nothing but corridors, huh! Feels like I haven't fought any monsters at all lately! // Well, I guess that's a good thing, // but looking at the same view all the time does get kinda boring, you know! // I wonder when we'll ever reach the top floor, where [1]the 'Sun Jewel'[2] is."
   },
   {
    "id": "RES#72:efb4",
@@ -338,8 +349,9 @@
    "jp": "{0c:51082b501000}{1c:1c}でも今は先に進むしかないか。\n今あたし達に出来ることは\nそれしかないんだから。{0c:fe}",
    "read": "{0c:51082b501000}{1c:1c}でも今は先に進むしかないか。\n今あたし達に出来ることは\nそれしかないんだから。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{1c:1c}But all we can do is keep going! It's the\nonly thing we can do right now, you\nknow!{0c:fe}",
+   "status": "done",
+   "tl": "But all we can do is keep going! It's the only thing we can do right now, you know!"
   },
   {
    "id": "RES#72:f000",
@@ -371,8 +383,9 @@
    "jp": "{1c:20}{0b:08}【 ジェシカ 】{0b:09}\nまた通路だよ・・・{1a}この建物の上の方ってさ、\n通路しかないのかな・・・{1a}化け物が出てこないのはいいけど、\n同じようなところばっか続くと\nいい加減飽きちゃうね。{1a}一体いつになったら\n{09:08}『太陽の宝玉』{09:01}のある最上階に\nたどり着けるんだろ・・・{0c:fe}",
    "read": "{1c:20}{0b:08}【 ジェシカ 】{0b:09}\nまた通路だよ・・・{1a}この建物の上の方ってさ、\n通路しかないのかな・・・{1a}化け物が出てこないのはいいけど、\n同じようなところばっか続くと\nいい加減飽きちゃうね。{1a}一体いつになったら\n{09:08}『太陽の宝玉』{09:01}のある最上階に\nたどり着けるんだろ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Jessica 】{0b:09}\nAnother corridor, geez...{1a}The top of this building, is it just\ncorridors or what...{1a}No monsters is nice and all, but the same\nold place over and over gets real old, you\nknow that?{1a}When are we ever gonna reach the top\nfloor, with {09:08}the 'Sun Jewel'{09:01}...{0c:fe}",
+   "status": "done",
+   "tl": "Another corridor, geez... // The top of this building, is it just corridors or what... // No monsters is nice and all, but the same old place over and over gets real old, you know that? // When are we ever gonna reach the top floor, with [1]the 'Sun Jewel'[2]..."
   },
   {
    "id": "RES#72:f0c5",
@@ -393,8 +406,9 @@
    "jp": "{0c:51082b501000}{1c:1f}グダグダ言ってても仕方ないか。\nとりあえず歩こ。{0c:fe}",
    "read": "{0c:51082b501000}{1c:1f}グダグダ言ってても仕方ないか。\nとりあえず歩こ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{1c:1f}Griping won't get us anywhere, huh.\nLet's just walk.{0c:fe}",
+   "status": "done",
+   "tl": "Griping won't get us anywhere, huh. Let's just walk."
   },
   {
    "id": "RES#72:f101",
@@ -426,8 +440,9 @@
    "jp": "{1c:23}{0b:08}【 オルフェウス 】{0b:09}\nまたこの階層も\n通路だけのようですね。{1a}第一神殿の上の階層には\n単調淡泊な通路しか\nないのでしょうか・・・{1a}無粋な化け物達が出てこないのは\nいいことなんですが、\nさすがに同じような所が続くと\nいい加減飽きてしまいますね。{1a}一体いつになったら\n{09:08}『太陽の宝玉』{09:01}のある最上階に\nたどり着けることやら・・・{0c:fe}",
    "read": "{1c:23}{0b:08}【 オルフェウス 】{0b:09}\nまたこの階層も\n通路だけのようですね。{1a}第一神殿の上の階層には\n単調淡泊な通路しか\nないのでしょうか・・・{1a}無粋な化け物達が出てこないのは\nいいことなんですが、\nさすがに同じような所が続くと\nいい加減飽きてしまいますね。{1a}一体いつになったら\n{09:08}『太陽の宝玉』{09:01}のある最上階に\nたどり着けることやら・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:23}{0b:08}【 Orpheus 】{0b:09}\nThis level too, it would seem, is nothing\nbut corridors.{1a}Have the upper levels of the First\nTemple only these bland, monotonous\ncorridors to offer...{1a}It is a blessing that those graceless\nmonsters stay away, but such sameness\ndoes wear thin, I daresay.{1a}When, I wonder, shall we ever reach the\ntop floor, where {09:08}the 'Sun Jewel'{09:01} awaits...{0c:fe}",
+   "status": "done",
+   "tl": "This level too, it would seem, is nothing but corridors. // Have the upper levels of the First Temple only these bland, monotonous corridors to offer... // It is a blessing that those graceless monsters stay away, but such sameness does wear thin, I daresay. // When, I wonder, shall we ever reach the top floor, where [1]the 'Sun Jewel'[2] awaits..."
   },
   {
    "id": "RES#72:f1f5",
@@ -448,8 +463,9 @@
    "jp": "{0c:51082b501000}{1c:21}ま、とにかく進みましょうか。\n他にすることもありませんし。{0c:fe}",
    "read": "{0c:51082b501000}{1c:21}ま、とにかく進みましょうか。\n他にすることもありませんし。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{1c:21}Well, shall we press on in any case?\nThere is little else to do, after all.{0c:fe}",
+   "status": "done",
+   "tl": "Well, shall we press on in any case? There is little else to do, after all."
   },
   {
    "id": "RES#72:f232",
@@ -481,8 +497,9 @@
    "jp": "{1c:25}{0b:08}【 イヴ 】{0b:09}\nまた通路・・・?\nいい加減飽きたわね。{1a}化け物が出てこないのは\nありがたいけど、さすがに\nこう同じような所が続くと\nいい加減飽きてくるわ。{1a}一体いつになったら\n{09:08}『太陽の宝玉』{09:01}のある最上階に\nたどり着けるのかしら・・・{0c:fe}",
    "read": "{1c:25}{0b:08}【 イヴ 】{0b:09}\nまた通路・・・?\nいい加減飽きたわね。{1a}化け物が出てこないのは\nありがたいけど、さすがに\nこう同じような所が続くと\nいい加減飽きてくるわ。{1a}一体いつになったら\n{09:08}『太陽の宝玉』{09:01}のある最上階に\nたどり着けるのかしら・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:25}{0b:08}【 Eve 】{0b:09}\nAnother corridor...? This is getting\ntiresome.{1a}No monsters is welcome, but so much of\nthe same thing does get tiresome, you\nknow.{1a}I wonder when we'll ever reach the top\nfloor, with {09:08}the 'Sun Jewel'{09:01}...{0c:fe}",
+   "status": "done",
+   "tl": "Another corridor...? This is getting tiresome. // No monsters is welcome, but so much of the same thing does get tiresome, you know. // I wonder when we'll ever reach the top floor, with [1]the 'Sun Jewel'[2]..."
   },
   {
    "id": "RES#72:f2ec",
@@ -503,8 +520,9 @@
    "jp": "{0c:51082b501000}{1c:24}ま、とにかく進みましょ。\nそれしかすることないんだし。{0c:fe}",
    "read": "{0c:51082b501000}{1c:24}ま、とにかく進みましょ。\nそれしかすることないんだし。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{1c:24}Well, let's just go on. There's nothing\nelse to do, after all.{0c:fe}",
+   "status": "done",
+   "tl": "Well, let's just go on. There's nothing else to do, after all."
   },
   {
    "id": "RES#72:f326",
@@ -536,8 +554,9 @@
    "jp": "{1c:26}{0b:08}【 ディアス 】{0b:09}\nまた通路か・・・\n計算ではもう終わるはずだが・・・{0c:fe}",
    "read": "{1c:26}{0b:08}【 ディアス 】{0b:09}\nまた通路か・・・\n計算ではもう終わるはずだが・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:26}{0b:08}【 Dias 】{0b:09}\nAnother corridor... By my reckoning, this\nshould be the end...{0c:fe}",
+   "status": "done",
+   "tl": "Another corridor... By my reckoning, this should be the end..."
   },
   {
    "id": "RES#72:f374",
@@ -558,8 +577,9 @@
    "jp": "貴様には聞いていない。\n先に進もう。{0c:021001}",
    "read": "貴様には聞いていない。\n先に進もう。{0c:021001}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I did not ask you. Let us move on.{0c:021001}",
+   "status": "done",
+   "tl": "I did not ask you. Let us move on."
   },
   {
    "id": "RES#72:f3a1",
@@ -580,8 +600,9 @@
    "jp": "{1c:28}{0b:08}【 ノエル 】{0b:09}\nまだ通路が続くのね・・・{1a}魔物が出てこないのはいいけど、\nこう単調だとさすがにうんざりするわ。{1a}一体あと何階層続くのかしら・・・{0c:fe}",
    "read": "{1c:28}{0b:08}【 ノエル 】{0b:09}\nまだ通路が続くのね・・・{1a}魔物が出てこないのはいいけど、\nこう単調だとさすがにうんざりするわ。{1a}一体あと何階層続くのかしら・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:28}{0b:08}【 Noel 】{0b:09}\nThe corridor goes on and on...{1a}No monsters is all well and good, but this\nmonotony really is sickening, honestly.{1a}How many more levels can there be, I\nwonder...{0c:fe}",
+   "status": "done",
+   "tl": "The corridor goes on and on... // No monsters is all well and good, but this monotony really is sickening, honestly. // How many more levels can there be, I wonder..."
   },
   {
    "id": "RES#72:f410",
@@ -602,8 +623,9 @@
    "jp": "{1c:29}あたしの計算では\nもうすぐ終わるはずなんだけど・・・{1a}{0c:51082b501000}まあいいわ。\nとにかく先に進みましょ。{0c:fe}",
    "read": "{1c:29}あたしの計算では\nもうすぐ終わるはずなんだけど・・・{1a}{0c:51082b501000}まあいいわ。\nとにかく先に進みましょ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:29}By my calculations it should end soon,\nthough...{1a}{0c:51082b501000}Oh, never mind. Let's just keep going.{0c:fe}",
+   "status": "done",
+   "tl": "By my calculations it should end soon, though... // [1]Oh, never mind. Let's just keep going."
   },
   {
    "id": "RES#72:f461",
@@ -635,8 +657,9 @@
    "jp": "{1c:2a}{0b:08}【 ルカ 】{0b:09}\nまた同じような通路が\nのびていますね・・・{1a}第一神殿の上の方の階には\n通路しかないのでしょうか。\nもちろん、魔物が出てこないのは\n本当にありがたいんですけど、{1a}こうも同じような所が続くと\nどのくらい進んだのか\n全く分からなくなってくるので\n不安になってきます・・・{1a}一体いつになったら\n{09:08}『太陽の宝玉』{09:01}のある最上階に\nたどり着くのでしょうか・・・{0c:fe}",
    "read": "{1c:2a}{0b:08}【 ルカ 】{0b:09}\nまた同じような通路が\nのびていますね・・・{1a}第一神殿の上の方の階には\n通路しかないのでしょうか。\nもちろん、魔物が出てこないのは\n本当にありがたいんですけど、{1a}こうも同じような所が続くと\nどのくらい進んだのか\n全く分からなくなってくるので\n不安になってきます・・・{1a}一体いつになったら\n{09:08}『太陽の宝玉』{09:01}のある最上階に\nたどり着くのでしょうか・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:2a}{0b:08}【 Luca 】{0b:09}\nA-another corridor just like the others\nstretches ahead...{1a}Are there only corridors on the upper\nfloors of the First Temple? Of course, I\nam truly grateful that no monsters\nappear,{1a}but with so much of the same, I lose all\nsense of how far we have come, and I\nstart to feel uneasy...{1a}When will we ever reach the top floor,\nwhere {09:08}the 'Sun Jewel'{09:01} is...?{0c:fe}",
+   "status": "done",
+   "tl": "A-another corridor just like the others stretches ahead... // Are there only corridors on the upper floors of the First Temple? Of course, I am truly grateful that no monsters appear, // but with so much of the same, I lose all sense of how far we have come, and I start to feel uneasy... // When will we ever reach the top floor, where [1]the 'Sun Jewel'[2] is...?"
   },
   {
    "id": "RES#72:f564",
@@ -657,8 +680,9 @@
    "jp": "{0c:51082b501000}{1c:2a}そ、そうですね・・・\nとにかく進みましょう。\nいまはそれしか出来ませんし・・・{0c:fe}",
    "read": "{0c:51082b501000}{1c:2a}そ、そうですね・・・\nとにかく進みましょう。\nいまはそれしか出来ませんし・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{1c:2a}Y-yes, of course... Let us just go on.\nThat's all we can do for now...{0c:fe}",
+   "status": "done",
+   "tl": "Y-yes, of course... Let us just go on. That's all we can do for now..."
   },
   {
    "id": "RES#72:f5ac",
@@ -690,8 +714,9 @@
    "jp": "{1c:2c}{0b:08}【 サラ 】{0b:09}\nまた同じような通路が\nのびてるね・・・{1a}この第一神殿の上の方って、\n通路しかないのかな。\n戦わなくていいのは\nとってもありがたいんだけど、{1a}同じようなところが\nずっと続いてるから\nどのくらい進んだのか\n見当がつかなくなってくるね。{1a}一体いつになったら\n{09:08}『太陽の宝玉』{09:01}のある最上階に\nたどり着くんだろ・・・{0c:fe}",
    "read": "{1c:2c}{0b:08}【 サラ 】{0b:09}\nまた同じような通路が\nのびてるね・・・{1a}この第一神殿の上の方って、\n通路しかないのかな。\n戦わなくていいのは\nとってもありがたいんだけど、{1a}同じようなところが\nずっと続いてるから\nどのくらい進んだのか\n見当がつかなくなってくるね。{1a}一体いつになったら\n{09:08}『太陽の宝玉』{09:01}のある最上階に\nたどり着くんだろ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:2c}{0b:08}【 Sara 】{0b:09}\nAnother corridor just like the others,\nhuh...{1a}I wonder if the top of this First Temple\nis only corridors. It's really nice that we\ndon't have to fight,{1a}but it's the same all the way, so I can't\ntell how far we've come.{1a}When are we ever going to reach the top\nfloor, where {09:08}the 'Sun Jewel'{09:01} is...{0c:fe}",
+   "status": "done",
+   "tl": "Another corridor just like the others, huh... // I wonder if the top of this First Temple is only corridors. It's really nice that we don't have to fight, // but it's the same all the way, so I can't tell how far we've come. // When are we ever going to reach the top floor, where [1]the 'Sun Jewel'[2] is..."
   },
   {
    "id": "RES#72:f693",
@@ -712,8 +737,9 @@
    "jp": "{0c:51082b501000}{1c:2b}とにかく進もうよ。\n歩き続けたら\nいつかはたどり着くと思うよ。{0c:fe}",
    "read": "{0c:51082b501000}{1c:2b}とにかく進もうよ。\n歩き続けたら\nいつかはたどり着くと思うよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b501000}{1c:2b}Let's just keep going, okay? If we keep\nwalking, I think we'll get there someday.{0c:fe}",
+   "status": "done",
+   "tl": "Let's just keep going, okay? If we keep walking, I think we'll get there someday."
   },
   {
    "id": "RES#72:f6d5",
@@ -745,8 +771,9 @@
    "jp": "{0b:08}【 アッシュ 】{0b:09}\nこの門・・・{1a}今までのとはちがうよな。\nもしかしてこれ・・・\nそうだ、『審問者の門』だ。{1a}この門のこと、クムランさんから\n何度か聞いたことあるから\nたぶんまちがいないよ。{1a}次の部屋の魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}がもらえるんだよな。{1a}{0c:521018}うん、そうだよ、\nここが最上階なんだ。{0c:fe}",
    "read": "{0b:08}【 アッシュ 】{0b:09}\nこの門・・・{1a}今までのとはちがうよな。\nもしかしてこれ・・・\nそうだ、『審問者の門』だ。{1a}この門のこと、クムランさんから\n何度か聞いたことあるから\nたぶんまちがいないよ。{1a}次の部屋の魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}がもらえるんだよな。{1a}{0c:521018}うん、そうだよ、\nここが最上階なんだ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Ash 】{0b:09}\nThis gate...{1a}It's different from the ones before,\ny'know. Could this be... Yeah, it's the\n'Inquisitor's Gate'.{1a}I heard about this gate from\nQumran-san a few times, so I guess I've\ngot it right.{1a}If we beat the monster in the next\nroom, we get {09:08}the 'Sun Jewel'{09:01}, right?{1a}{0c:521018}Yeah, that's it, this is the top floor.{0c:fe}",
+   "status": "done",
+   "tl": "This gate... // It's different from the ones before, y'know. Could this be... Yeah, it's the 'Inquisitor's Gate'. // I heard about this gate from Qumran-san a few times, so I guess I've got it right. // If we beat the monster in the next room, we get [1]the 'Sun Jewel'[2], right? // [3]Yeah, that's it, this is the top floor."
   },
   {
    "id": "RES#72:f7e9",
@@ -767,8 +794,9 @@
    "jp": "{10}、よかったな、\nあと一歩だぞ。{1a}おれは次の城門が開く日に\n帰るつもりだし、お金もいらないから\n{09:08}『太陽の宝玉』{09:01}は必要ないんだけど、\nもちろん最後までおまえを手伝うよ。{1a}{0c:521018}バルデスさんや\n{10}達のおかげで\n妹に薬を送ることができたんだからな。{1a}でもほんとうによかったな。\nなんだかおれもうれしいよ。{0c:fe}",
    "read": "{10}、よかったな、\nあと一歩だぞ。{1a}おれは次の城門が開く日に\n帰るつもりだし、お金もいらないから\n{09:08}『太陽の宝玉』{09:01}は必要ないんだけど、\nもちろん最後までおまえを手伝うよ。{1a}{0c:521018}バルデスさんや\n{10}達のおかげで\n妹に薬を送ることができたんだからな。{1a}でもほんとうによかったな。\nなんだかおれもうれしいよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{10}, that's great, just one more\nstep, y'know.{1a}I'm heading home the day the next gate\nopens, and I don't need money, so I've\ngot no use for {09:08}the 'Sun Jewel'{09:01}, but I'll\nhelp you right to the end, of course.{1a}{0c:521018}Thanks to Valdes-san and you and\neveryone, {10}, I got to send\nmedicine to my sister.{1a}But I'm really glad for you. I'm kinda\nhappy too, I guess.{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], that's great, just one more step, y'know. // I'm heading home the day the next gate opens, and I don't need money, so I've got no use for [1]the 'Sun Jewel'[2], but I'll help you right to the end, of course. // [3]Thanks to Valdes-san and you and everyone, [HERO], I got to send medicine to my sister. // But I'm really glad for you. I'm kinda happy too, I guess."
   },
   {
    "id": "RES#72:f8b8",
@@ -789,8 +817,9 @@
    "jp": "じゃあそろそろ入ろうか。{1a}でも、気を抜いちゃだめだぞ。\n次の部屋の魔物って、\nクムランさんの話だと\nかなり強いらしいからな。{1a}でもそいつさえ倒せば\n{09:08}『太陽の宝玉』{09:01}は手に入るんだ。\n{10}、がんばろうな。{0c:fe}",
    "read": "じゃあそろそろ入ろうか。{1a}でも、気を抜いちゃだめだぞ。\n次の部屋の魔物って、\nクムランさんの話だと\nかなり強いらしいからな。{1a}でもそいつさえ倒せば\n{09:08}『太陽の宝玉』{09:01}は手に入るんだ。\n{10}、がんばろうな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Well, let's go in, I guess.{1a}Don't let your guard down, though.\nQumran-san says the monster in the\nnext room is pretty strong.{1a}But if we can just beat it, {09:08}the 'Sun\nJewel'{09:01} is ours. {10}, let's do our\nbest, y'know.{0c:fe}",
+   "status": "done",
+   "tl": "Well, let's go in, I guess. // Don't let your guard down, though. Qumran-san says the monster in the next room is pretty strong. // But if we can just beat it, [1]the 'Sun Jewel'[2] is ours. [HERO], let's do our best, y'know."
   },
   {
    "id": "RES#72:f948",
@@ -822,8 +851,9 @@
    "jp": "{1c:13}{0b:08}【 アーサー 】{0b:09}\nこの門・・・\n今までのとは違うな・・・{1a}もしかしてこれは・・・\n{0c:521018}そうだ、『審問者の門』だ! {1a}クムランさんにこの門の絵を\n何度か見せてもらった事があるんだ。\nだから間違いないよ。{0c:fe}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\nこの門・・・\n今までのとは違うな・・・{1a}もしかしてこれは・・・\n{0c:521018}そうだ、『審問者の門』だ! {1a}クムランさんにこの門の絵を\n何度か見せてもらった事があるんだ。\nだから間違いないよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nThis gate... It is different from the ones\nbefore...{1a}Could this be... {0c:521018}Yes, it is the 'Inquisitor's\nGate'!{1a}Qumran-san showed me a picture of this\ngate more than once. So there is no\nmistake.{0c:fe}",
+   "status": "done",
+   "tl": "This gate... It is different from the ones before... // Could this be... [1]Yes, it is the 'Inquisitor's Gate'! // Qumran-san showed me a picture of this gate more than once. So there is no mistake."
   },
   {
    "id": "RES#72:f9ee",
@@ -844,8 +874,9 @@
    "jp": "この次の部屋の魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}が手に入るんだ。\n{0c:521018}そう、ここが最上階なんだよ!{0c:fe}",
    "read": "この次の部屋の魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}が手に入るんだ。\n{0c:521018}そう、ここが最上階なんだよ!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "If we defeat the monster in the next\nroom, we get {09:08}the 'Sun Jewel'{09:01}. {0c:521018}Yes, this is\nthe top floor!{0c:fe}",
+   "status": "done",
+   "tl": "If we defeat the monster in the next room, we get [1]the 'Sun Jewel'[2]. [3]Yes, this is the top floor!"
   },
   {
    "id": "RES#72:fa52",
@@ -866,8 +897,9 @@
    "jp": "{1c:14}やったな、あと一歩じゃないか!\nあと一歩でこの町の\n正式な居住権が手に入るんだ!{0c:fe}",
    "read": "{1c:14}やったな、あと一歩じゃないか!\nあと一歩でこの町の\n正式な居住権が手に入るんだ!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}We did it, we are just one step away!\nOne more step and we will have official\nresidency in this town!{0c:fe}",
+   "status": "done",
+   "tl": "We did it, we are just one step away! One more step and we will have official residency in this town!"
   },
   {
    "id": "RES#72:fa9f",
@@ -888,8 +920,9 @@
    "jp": "{1c:12}僕は、君達と比べると\nはるかに子供っぽい目的意識しか\nもっていなかった事を、\nこの町に来て思い知らされたけど、{1a}それでもこの町で\n自分を磨きたいという気持ちに\n変わりはないんだ。{1a}{0c:522018}いや、君達と出会ったおかげで\nむしろその気持ちは\n強まったかもしれない・・・{1a}だからこそ、\nどうしても{09:08}『太陽の宝玉』{09:01}を\n手に入れておきたかったんだ。\n一人前の戦士の『証』として・・・{0c:fe}",
    "read": "{1c:12}僕は、君達と比べると\nはるかに子供っぽい目的意識しか\nもっていなかった事を、\nこの町に来て思い知らされたけど、{1a}それでもこの町で\n自分を磨きたいという気持ちに\n変わりはないんだ。{1a}{0c:522018}いや、君達と出会ったおかげで\nむしろその気持ちは\n強まったかもしれない・・・{1a}だからこそ、\nどうしても{09:08}『太陽の宝玉』{09:01}を\n手に入れておきたかったんだ。\n一人前の戦士の『証』として・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Coming to this town showed me how\nchildish my sense of purpose was\ncompared to all of you,{1a}but even so, my wish to better myself\nhere has not changed.{1a}{0c:522018}No, thanks to meeting you, that wish\nmay have grown even stronger...{1a}That is why I simply had to obtain {09:08}the\n'Sun Jewel'{09:01}. As proof that I am a true\nwarrior...{0c:fe}",
+   "status": "done",
+   "tl": "Coming to this town showed me how childish my sense of purpose was compared to all of you, // but even so, my wish to better myself here has not changed. // [1]No, thanks to meeting you, that wish may have grown even stronger... // That is why I simply had to obtain [2]the 'Sun Jewel'[3]. As proof that I am a true warrior..."
   },
   {
    "id": "RES#72:fba0",
@@ -910,8 +943,9 @@
    "jp": "{1c:14}もちろん、\nそれが手に入ったからといって\n自分が変わる訳じゃないのは\n分かってる。{1a}でも、自分に自信を\n持てるようになるきっかけには\nなるんじゃないかと思うんだ。{0c:fe}",
    "read": "{1c:14}もちろん、\nそれが手に入ったからといって\n自分が変わる訳じゃないのは\n分かってる。{1a}でも、自分に自信を\n持てるようになるきっかけには\nなるんじゃないかと思うんだ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}Of course, I know that having it will not\nchange who I am.{1a}But I think it could be a chance for me\nto find some confidence in myself.{0c:fe}",
+   "status": "done",
+   "tl": "Of course, I know that having it will not change who I am. // But I think it could be a chance for me to find some confidence in myself."
   },
   {
    "id": "RES#72:fc14",
@@ -932,8 +966,9 @@
    "jp": "よし、\nじゃあそろそろ中に入ろうか。{1a}ただし、落ち着いて行かなきゃね。\n次の部屋で僕達を待ち受ける魔物は\nクムランさんの話だと\nかなり手強いそうだから。{1a}{10}、\n力を合わせて頑張ろう!{0c:fe}",
    "read": "よし、\nじゃあそろそろ中に入ろうか。{1a}ただし、落ち着いて行かなきゃね。\n次の部屋で僕達を待ち受ける魔物は\nクムランさんの話だと\nかなり手強いそうだから。{1a}{10}、\n力を合わせて頑張ろう!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "All right, let us go inside.{1a}But we have to stay calm. Qumran-san\nsays the monster awaiting us in the\nnext room is quite formidable.{1a}{10}, let us join forces and do our\nbest!{0c:fe}",
+   "status": "done",
+   "tl": "All right, let us go inside. // But we have to stay calm. Qumran-san says the monster awaiting us in the next room is quite formidable. // [HERO], let us join forces and do our best!"
   },
   {
    "id": "RES#72:fc9b",
@@ -965,8 +1000,9 @@
    "jp": "{1c:15}{0b:08}【 レイア 】{0b:09}\nこの門は・・・{1a}そうか、\nこれが『審問者の門』か・・・{0c:fe}",
    "read": "{1c:15}{0b:08}【 レイア 】{0b:09}\nこの門は・・・{1a}そうか、\nこれが『審問者の門』か・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Leia 】{0b:09}\nThis gate...{1a}I see. So this is the 'Inquisitor's Gate'...{0c:fe}",
+   "status": "done",
+   "tl": "This gate... // I see. So this is the 'Inquisitor's Gate'..."
   },
   {
    "id": "RES#72:fcf0",
@@ -987,8 +1023,9 @@
    "jp": "間違いない、\n{09:08}『太陽の宝玉』{09:01}は次の部屋にある\nそう、つまりここが最上階だ。{0c:fe}",
    "read": "間違いない、\n{09:08}『太陽の宝玉』{09:01}は次の部屋にある\nそう、つまりここが最上階だ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "There is no doubt. {09:08}The 'Sun Jewel'{09:01} lies in\nthe next room. In other words, this is\nthe top floor.{0c:fe}",
+   "status": "done",
+   "tl": "There is no doubt. [1]The 'Sun Jewel'[2] lies in the next room. In other words, this is the top floor."
   },
   {
    "id": "RES#72:fd38",
@@ -1009,8 +1046,9 @@
    "jp": "あと一歩でこの町の居住権が\n手に入るのか・・・{1a}だが、まだ始まりに過ぎない。\n私の目的にはまだ遠い・・・{0c:fe}",
    "read": "あと一歩でこの町の居住権が\n手に入るのか・・・{1a}だが、まだ始まりに過ぎない。\n私の目的にはまだ遠い・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "One more step, and I shall have residency\nin this town...{1a}Yet this is only the beginning. My goal is\nstill far off...{0c:fe}",
+   "status": "done",
+   "tl": "One more step, and I shall have residency in this town... // Yet this is only the beginning. My goal is still far off..."
   },
   {
    "id": "RES#72:fd8b",
@@ -1031,8 +1069,9 @@
    "jp": "{1c:15}・・・中に入ろう。{1a}{0c:51082b501000}ただし、次の部屋で待ち受ける\n第一神殿最後の敵は\nかなり手強いと聞く。\n気を抜くな。{0c:fe}",
    "read": "{1c:15}・・・中に入ろう。{1a}{0c:51082b501000}ただし、次の部屋で待ち受ける\n第一神殿最後の敵は\nかなり手強いと聞く。\n気を抜くな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}...Let us go in.{1a}{0c:51082b501000}But I hear the First Temple's final\nenemy, awaiting in the next room, is\nquite formidable. Do not let your guard\ndown.{0c:fe}",
+   "status": "done",
+   "tl": "...Let us go in. // [1]But I hear the First Temple's final enemy, awaiting in the next room, is quite formidable. Do not let your guard down."
   },
   {
    "id": "RES#72:fded",
@@ -1064,8 +1103,9 @@
    "jp": "{1c:17}{0b:08}【 エレアノール 】{0b:09}\nこの門は・・・もしや・・・{0c:fe}",
    "read": "{1c:17}{0b:08}【 エレアノール 】{0b:09}\nこの門は・・・もしや・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Eleanor 】{0b:09}\nThis gate... could it be...{0c:fe}",
+   "status": "done",
+   "tl": "This gate... could it be..."
   },
   {
    "id": "RES#72:fe31",
@@ -1086,8 +1126,9 @@
    "jp": "{1c:16}この門の絵をクムランさんに\n見せて頂いたことがあります。\n間違いありません、\nこれは『審問者の門』・・・{0c:fe}",
    "read": "{1c:16}この門の絵をクムランさんに\n見せて頂いたことがあります。\n間違いありません、\nこれは『審問者の門』・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}Qumran-san once showed me a picture\nof this gate. There can be no mistake.\nThis is the 'Inquisitor's Gate'...{0c:fe}",
+   "status": "done",
+   "tl": "Qumran-san once showed me a picture of this gate. There can be no mistake. This is the 'Inquisitor's Gate'..."
   },
   {
    "id": "RES#72:fe86",
@@ -1119,8 +1160,9 @@
    "jp": "{1c:16}これが『審問者の門』ならば、\n次の部屋に皆の求める\n{09:08}『太陽の宝玉』{09:01}があるはず・・・{1a}{0c:521018}そう、\nつまり、まさにここが\n最上階ということになります。{0c:fe}",
    "read": "{1c:16}これが『審問者の門』ならば、\n次の部屋に皆の求める\n{09:08}『太陽の宝玉』{09:01}があるはず・・・{1a}{0c:521018}そう、\nつまり、まさにここが\n最上階ということになります。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}If this is the 'Inquisitor's Gate', then the\nnext room should hold {09:08}the 'Sun Jewel'{09:01}\neveryone seeks...{1a}{0c:521018}Yes. In other words, this is indeed the\ntop floor.{0c:fe}",
+   "status": "done",
+   "tl": "If this is the 'Inquisitor's Gate', then the next room should hold [1]the 'Sun Jewel'[2] everyone seeks... // [3]Yes. In other words, this is indeed the top floor."
   },
   {
    "id": "RES#72:ff0d",
@@ -1141,8 +1183,9 @@
    "jp": "{1c:16}よかったですね、{10}。{0c:fe}",
    "read": "{1c:16}よかったですね、{10}。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}How wonderful for you, {10}.{0c:fe}",
+   "status": "done",
+   "tl": "How wonderful for you, [HERO]."
   },
   {
    "id": "RES#72:ff2d",
@@ -1163,8 +1206,9 @@
    "jp": "{1c:16}{09:08}『太陽の宝玉』{09:01}の取得は\nあなたにとって過程の1つに\n過ぎないとは思いますが{1a}{0c:521018}それでもあなたは\n確実に1歩前進したのです。\nおめでとう、{10}。{0c:fe}",
    "read": "{1c:16}{09:08}『太陽の宝玉』{09:01}の取得は\nあなたにとって過程の1つに\n過ぎないとは思いますが{1a}{0c:521018}それでもあなたは\n確実に1歩前進したのです。\nおめでとう、{10}。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}{09:08}Obtaining the 'Sun Jewel'{09:01} may be but one\nstep along your road,{1a}{0c:521018}yet you have surely moved one step\nforward. Congratulations, {10}.{0c:fe}",
+   "status": "done",
+   "tl": "Obtaining the 'Sun Jewel'[1] may be but one step along your road, // [2]yet you have surely moved one step forward. Congratulations, [HERO]."
   },
   {
    "id": "RES#72:ffa3",
@@ -1185,8 +1229,9 @@
    "jp": "{1c:17}では、\nそろそろ中に入りましょうか。{1a}ただし、次の部屋で待ち受けている\n第一神殿最後の敵は\nかなりの強敵と聞きます。\n気を抜かずに行きましょう。{0c:fe}",
    "read": "{1c:17}では、\nそろそろ中に入りましょうか。{1a}ただし、次の部屋で待ち受けている\n第一神殿最後の敵は\nかなりの強敵と聞きます。\n気を抜かずに行きましょう。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}Well then, shall we go in?{1a}But I hear the First Temple's final\nenemy, awaiting in the next room, is a\nmost formidable foe. Let us stay on our\nguard.{0c:fe}",
+   "status": "done",
+   "tl": "Well then, shall we go in? // But I hear the First Temple's final enemy, awaiting in the next room, is a most formidable foe. Let us stay on our guard."
   },
   {
    "id": "RES#72:10015",
@@ -1218,8 +1263,9 @@
    "jp": "{1c:1b}{0b:08}【 パスカ 】{0b:09}\nこの門・・・\n今までのとはちょっと違うよな。 {1a}ひょっとしてこれ・・・{1a}間違いねえ、\nこれ、『審問者の門』だ!{1a}{0c:2b502351081000}この門の絵、ついこの前\nクムランさんに見せてもらったんだ。\nいくらオレでも間違わねえよ。{1a}{0c:51082b501000}まてよ・・・\nってことは、\nオレ達が今いるこの階層が、\n待ちに待ってた最上階じゃねえか!{1a}{0c:521018}そうさ、次の部屋に\n{09:08}『太陽の宝玉』{09:01}があるんだよ!{0c:fe}",
    "read": "{1c:1b}{0b:08}【 パスカ 】{0b:09}\nこの門・・・\n今までのとはちょっと違うよな。 {1a}ひょっとしてこれ・・・{1a}間違いねえ、\nこれ、『審問者の門』だ!{1a}{0c:2b502351081000}この門の絵、ついこの前\nクムランさんに見せてもらったんだ。\nいくらオレでも間違わねえよ。{1a}{0c:51082b501000}まてよ・・・\nってことは、\nオレ達が今いるこの階層が、\n待ちに待ってた最上階じゃねえか!{1a}{0c:521018}そうさ、次の部屋に\n{09:08}『太陽の宝玉』{09:01}があるんだよ!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Pasca 】{0b:09}\nThis gate... It's a little different from\nthe others, ain't it.{1a}Could this be...{1a}No doubt about it, this here's the\n'Inquisitor's Gate'!{1a}{0c:2b502351081000}Qumran-san showed me a picture of it\njust the other day. Even I ain't gonna\nget that wrong.{1a}{0c:51082b501000}Hold on... That means this floor we're on\nis the top floor we been waitin' for!{1a}{0c:521018}That's right, {09:08}the 'Sun Jewel'{09:01} is in the\nnext room!{0c:fe}",
+   "status": "done",
+   "tl": "This gate... It's a little different from the others, ain't it. // Could this be... // No doubt about it, this here's the 'Inquisitor's Gate'! // [1]Qumran-san showed me a picture of it just the other day. Even I ain't gonna get that wrong. // [2]Hold on... That means this floor we're on is the top floor we been waitin' for! // [3]That's right, [4]the 'Sun Jewel'[5] is in the next room!"
   },
   {
    "id": "RES#72:1013a",
@@ -1240,8 +1286,9 @@
    "jp": "{0c:521018}やったな、{10}。\n{09:08}『太陽の宝玉』{09:01}まであと一歩だぜ!{1a}{09:08}『太陽の宝玉』{09:01}自体はそれほど\n高く売れる訳じゃねえらしいけど、\nやっぱり嬉しいっていうか\nかなり気が楽になったよ。{1a}これでやっと\nここで見つけた金とかお宝を\n町の外に持ち出すことが\n出来るようになるんだからな。{1a}{0c:522028}この町に来てまだ数ヶ月しか\n経ってねえけど、それでも\n外の世界じゃ考えられないような\n金を貯めたんだからさ、{1a}もしこの金を\n持ち出せねえって事になると\n泣くに泣けねえ所だったもんな。{1a}{0c:521018}だから見つかって本当によかったぜ。\n田舎でオレを心配して待ってる人も、\nオレの金だけ待ってる奴らも\nちょっとは安心してくれるだろ。{1a}{0c:523038}・・・って、オレ、\nもう取った気でいるよな。\n少し気が早えか・・・{1a}{0c:524048}次の部屋にいる敵って\nクムランさんの話だと\nかなり強いみたいだからな。{0c:fe}",
    "read": "{0c:521018}やったな、{10}。\n{09:08}『太陽の宝玉』{09:01}まであと一歩だぜ!{1a}{09:08}『太陽の宝玉』{09:01}自体はそれほど\n高く売れる訳じゃねえらしいけど、\nやっぱり嬉しいっていうか\nかなり気が楽になったよ。{1a}これでやっと\nここで見つけた金とかお宝を\n町の外に持ち出すことが\n出来るようになるんだからな。{1a}{0c:522028}この町に来てまだ数ヶ月しか\n経ってねえけど、それでも\n外の世界じゃ考えられないような\n金を貯めたんだからさ、{1a}もしこの金を\n持ち出せねえって事になると\n泣くに泣けねえ所だったもんな。{1a}{0c:521018}だから見つかって本当によかったぜ。\n田舎でオレを心配して待ってる人も、\nオレの金だけ待ってる奴らも\nちょっとは安心してくれるだろ。{1a}{0c:523038}・・・って、オレ、\nもう取った気でいるよな。\n少し気が早えか・・・{1a}{0c:524048}次の部屋にいる敵って\nクムランさんの話だと\nかなり強いみたいだからな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}We did it, {10}. One more step to\n{09:08}the 'Sun Jewel'{09:01}!{1a}{09:08}The 'Sun Jewel'{09:01} itself don't sell for all\nthat much, they say, but I'm glad\nanyhow, or, well, it's a real load off my\nmind.{1a}Now I can finally haul the money and\ntreasure I found here out of town.{1a}{0c:522028}Only been in this town a few months,\nbut I've already piled up money you can't\neven imagine on the outside,{1a}so if I couldn't take it out with me, I\nwouldn't even know how to cry.{1a}{0c:521018}So I'm damn glad we found it. Them back\nin the country waitin' and worryin' about\nme, and them just waitin' on my money,\nthey'll all rest a little easier.{1a}{0c:523038}...Listen to me, actin' like I already got it.\nGettin' ahead of myself...{1a}{0c:524048}Qumran-san says the enemy in the next\nroom's pretty damn strong.{0c:fe}",
+   "status": "done",
+   "tl": "We did it, [HERO]. One more step to [1]the 'Sun Jewel'[2]! // [3]The 'Sun Jewel'[4] itself don't sell for all that much, they say, but I'm glad anyhow, or, well, it's a real load off my mind. // Now I can finally haul the money and treasure I found here out of town. // [5]Only been in this town a few months, but I've already piled up money you can't even imagine on the outside, // so if I couldn't take it out with me, I wouldn't even know how to cry. // [6]So I'm damn glad we found it. Them back in the country waitin' and worryin' about me, and them just waitin' on my money, they'll all rest a little easier. // [7]...Listen to me, actin' like I already got it. Gettin' ahead of myself... // [8]Qumran-san says the enemy in the next room's pretty damn strong."
   },
   {
    "id": "RES#72:1032a",
@@ -1262,8 +1309,9 @@
    "jp": "{0c:525058}{1c:1a}よし、じゃあ行くか。\n頑張って行こうぜ!{0c:fe}",
    "read": "{0c:525058}{1c:1a}よし、じゃあ行くか。\n頑張って行こうぜ!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:525058}{1c:1a}All right, let's go. Let's give it all we got!{0c:fe}",
+   "status": "done",
+   "tl": "All right, let's go. Let's give it all we got!"
   },
   {
    "id": "RES#72:1035e",
@@ -1295,8 +1343,9 @@
    "jp": "{1c:1d}{0b:08}【 シャルン 】{0b:09}\nこの門・・・{1a}下の階にあったのとは違うよね。\nひょっとして・・・{0c:fe}",
    "read": "{1c:1d}{0b:08}【 シャルン 】{0b:09}\nこの門・・・{1a}下の階にあったのとは違うよね。\nひょっとして・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}{0b:08}【 Scharn 】{0b:09}\nThis gate...{1a}It's different from the ones on the\nlower floors, right? Could it be...{0c:fe}",
+   "status": "done",
+   "tl": "This gate... // It's different from the ones on the lower floors, right? Could it be..."
   },
   {
    "id": "RES#72:103b6",
@@ -1317,8 +1366,9 @@
    "jp": "{0c:521018}{1c:1d}うん、間違いない、\nこれ、クムランさんの言ってた\n『審問者の門』だよ!{1a}{0c:522028}『審問者の門』の絵を\n何回かクムランさんに\n見せてもらったことがあるけど\nそれと全く同じだもん!{0c:fe}",
    "read": "{0c:521018}{1c:1d}うん、間違いない、\nこれ、クムランさんの言ってた\n『審問者の門』だよ!{1a}{0c:522028}『審問者の門』の絵を\n何回かクムランさんに\n見せてもらったことがあるけど\nそれと全く同じだもん!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:1d}Yeah, no doubt about it, this is the\n'Inquisitor's Gate' Qumran-san talked\nabout!{1a}{0c:522028}Qumran-san showed me pictures of the\n'Inquisitor's Gate' a few times, and it's\nexactly the same, you know!{0c:fe}",
+   "status": "done",
+   "tl": "Yeah, no doubt about it, this is the 'Inquisitor's Gate' Qumran-san talked about! // [1]Qumran-san showed me pictures of the 'Inquisitor's Gate' a few times, and it's exactly the same, you know!"
   },
   {
    "id": "RES#72:10443",
@@ -1350,8 +1400,9 @@
    "jp": "{0c:521018}{1c:1c}この門の次の部屋にいる魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}が手に入るんだって。{1a}そう、つまりここが\n第一神殿の最上階なんだよ!{0c:fe}",
    "read": "{0c:521018}{1c:1c}この門の次の部屋にいる魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}が手に入るんだって。{1a}そう、つまりここが\n第一神殿の最上階なんだよ!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:1c}They say if you beat the monster in the\nroom past this gate, you get {09:08}the 'Sun\nJewel'{09:01}!{1a}So that means this is the top floor of\nthe First Temple!{0c:fe}",
+   "status": "done",
+   "tl": "They say if you beat the monster in the room past this gate, you get [1]the 'Sun Jewel'[2]! // So that means this is the top floor of the First Temple!"
   },
   {
    "id": "RES#72:104c1",
@@ -1372,8 +1423,9 @@
    "jp": "{0c:523038}{1c:1c}やったね、{10}!\n{09:08}『太陽の宝玉』{09:01}まであと一歩だよ!{1a}{0c:524048}あたしも、これでやっと兄さんに\nあたしの修行が始まったよって\n報告出来る・・・{1a}って言っても、あたし自身は\n何も変わらないんだけど・・・{1a}{0c:525058}あっ、なんだかあたし、\nもう{09:08}『太陽の宝玉』{09:01}を\n取った気でいるね。{1a}{0c:526068}よーし、\nじゃあ頑張って取りに行こうよ!{0c:fe}",
    "read": "{0c:523038}{1c:1c}やったね、{10}!\n{09:08}『太陽の宝玉』{09:01}まであと一歩だよ!{1a}{0c:524048}あたしも、これでやっと兄さんに\nあたしの修行が始まったよって\n報告出来る・・・{1a}って言っても、あたし自身は\n何も変わらないんだけど・・・{1a}{0c:525058}あっ、なんだかあたし、\nもう{09:08}『太陽の宝玉』{09:01}を\n取った気でいるね。{1a}{0c:526068}よーし、\nじゃあ頑張って取りに行こうよ!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523038}{1c:1c}We did it, {10}! One more step to\n{09:08}the 'Sun Jewel'{09:01}!{1a}{0c:524048}Now I can finally tell my brother that my\ntraining has begun...{1a}Not that I've changed at all myself,\nthough...{1a}{0c:525058}Oh, listen to me, acting like I already got\n{09:08}the 'Sun Jewel'{09:01}!{1a}{0c:526068}All right, let's do our best and go get it!{0c:fe}",
+   "status": "done",
+   "tl": "We did it, [HERO]! One more step to [1]the 'Sun Jewel'[2]! // [3]Now I can finally tell my brother that my training has begun... // Not that I've changed at all myself, though... // [4]Oh, listen to me, acting like I already got [5]the 'Sun Jewel'[6]! // [7]All right, let's do our best and go get it!"
   },
   {
    "id": "RES#72:105a9",
@@ -1394,8 +1446,9 @@
    "jp": "{0c:527078}あっ、そうそう、\n次の部屋の魔物って\nクムランさんの説明だと\nかなり強いって話だから、{1a}絶対に気を抜いちゃダメだよ。\n頑張ろうね、{10}!{0c:fe}",
    "read": "{0c:527078}あっ、そうそう、\n次の部屋の魔物って\nクムランさんの説明だと\nかなり強いって話だから、{1a}絶対に気を抜いちゃダメだよ。\n頑張ろうね、{10}!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:527078}Oh, right, right! Qumran-san says the\nmonster in the next room is really\nstrong,{1a}so don't you dare let your guard down!\nLet's do our best, {10}!{0c:fe}",
+   "status": "done",
+   "tl": "Oh, right, right! Qumran-san says the monster in the next room is really strong, // so don't you dare let your guard down! Let's do our best, [HERO]!"
   },
   {
    "id": "RES#72:10619",
@@ -1427,8 +1480,9 @@
    "jp": "{1c:1f}{0b:08}【 ジェシカ 】{0b:09}\nこの門って・・・{1a}今までのとは違うよね、\nひょっとしてこれ・・・{0c:fe}",
    "read": "{1c:1f}{0b:08}【 ジェシカ 】{0b:09}\nこの門って・・・{1a}今までのとは違うよね、\nひょっとしてこれ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}{0b:08}【 Jessica 】{0b:09}\nThis gate...{1a}It's not like the others, huh? Could this\nbe...{0c:fe}",
+   "status": "done",
+   "tl": "This gate... // It's not like the others, huh? Could this be..."
   },
   {
    "id": "RES#72:10670",
@@ -1449,8 +1503,9 @@
    "jp": "{0c:521018}うん、そうだよ!\nこれ、町のみんなが言ってる\n『審問者の門』だよ!{1a}{0c:5220282b501000}この門の絵、\n何回かクムランさんに\n見せてもらったこともあるし\n絶対まちがいないよ。{1a}{0c:523038}あれ・・・\nってことは・・・{1a}{0c:524048}あたし達が今いるこの階層が\n待ちに待ってた最上階じゃん!{1a}うんうん、思い出した!\n次の部屋に{09:08}『太陽の宝玉』{09:01}が\nあるんだよ!{0c:fe}",
    "read": "{0c:521018}うん、そうだよ!\nこれ、町のみんなが言ってる\n『審問者の門』だよ!{1a}{0c:5220282b501000}この門の絵、\n何回かクムランさんに\n見せてもらったこともあるし\n絶対まちがいないよ。{1a}{0c:523038}あれ・・・\nってことは・・・{1a}{0c:524048}あたし達が今いるこの階層が\n待ちに待ってた最上階じゃん!{1a}うんうん、思い出した!\n次の部屋に{09:08}『太陽の宝玉』{09:01}が\nあるんだよ!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}Yeah, that's it! This is the 'Inquisitor's\nGate' everybody in town talks about!{1a}{0c:5220282b501000}Qumran-san showed me a picture of it a\nfew times, so no way I'm wrong.{1a}{0c:523038}Huh... So that means...{1a}{0c:524048}This floor we're on is the top floor\nwe've been waiting for!{1a}Yeah, yeah, now I remember! {09:08}The 'Sun\nJewel'{09:01} is in the next room!{0c:fe}",
+   "status": "done",
+   "tl": "Yeah, that's it! This is the 'Inquisitor's Gate' everybody in town talks about! // [1]Qumran-san showed me a picture of it a few times, so no way I'm wrong. // [2]Huh... So that means... // [3]This floor we're on is the top floor we've been waiting for! // Yeah, yeah, now I remember! [4]The 'Sun Jewel'[5] is in the next room!"
   },
   {
    "id": "RES#72:10764",
@@ -1471,8 +1526,9 @@
    "jp": "{0c:525058}{10}、やったね!\n{09:08}『太陽の宝玉』{09:01}まであと一歩だよ。{1a}あたしは役人だろうが関所だろうが\nなんとかなるからいいけど、\nあんたには絶対必要だったんでしょ?{1a}{0c:526068}ま、そりゃあたしも\nあるに越したことはないから、\nちょっとは嬉しいけどさ。{1a}でも、とにかくよかったよね!{0c:fe}",
    "read": "{0c:525058}{10}、やったね!\n{09:08}『太陽の宝玉』{09:01}まであと一歩だよ。{1a}あたしは役人だろうが関所だろうが\nなんとかなるからいいけど、\nあんたには絶対必要だったんでしょ?{1a}{0c:526068}ま、そりゃあたしも\nあるに越したことはないから、\nちょっとは嬉しいけどさ。{1a}でも、とにかくよかったよね!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:525058}{10}, we did it! One more step to\n{09:08}the 'Sun Jewel'{09:01}.{1a}Officials, checkpoints, I can get around\nall that, so I don't care, but you really\nneeded it, right?{1a}{0c:526068}Well, sure, no harm in me having one too,\nso I'm a little happy, you know.{1a}Anyway, it's great, huh!{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], we did it! One more step to [1]the 'Sun Jewel'[2]. // Officials, checkpoints, I can get around all that, so I don't care, but you really needed it, right? // [3]Well, sure, no harm in me having one too, so I'm a little happy, you know. // Anyway, it's great, huh!"
   },
   {
    "id": "RES#72:1081b",
@@ -1493,8 +1549,9 @@
    "jp": "でも、もうすぐ手に入るからって\n気を抜いちゃだめだよ。{1a}次の部屋の魔物って、\n町のおっさん達の話だと\nかなり強いヤツらしいからね。{1a}でもそいつさえ倒せば\n{09:08}『太陽の宝玉』{09:01}は\nあたし達のものになるんだから、\nがんばって行こ!{0c:fe}",
    "read": "でも、もうすぐ手に入るからって\n気を抜いちゃだめだよ。{1a}次の部屋の魔物って、\n町のおっさん達の話だと\nかなり強いヤツらしいからね。{1a}でもそいつさえ倒せば\n{09:08}『太陽の宝玉』{09:01}は\nあたし達のものになるんだから、\nがんばって行こ!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "But don't get careless just 'cause it's\nalmost yours, okay?{1a}The old guys in town say the monster in\nthe next room is a real tough one.{1a}But beat that thing and {09:08}the 'Sun Jewel'{09:01}\nis all ours, so let's go give it our best!{0c:fe}",
+   "status": "done",
+   "tl": "But don't get careless just 'cause it's almost yours, okay? // The old guys in town say the monster in the next room is a real tough one. // But beat that thing and [1]the 'Sun Jewel'[2] is all ours, so let's go give it our best!"
   },
   {
    "id": "RES#72:108ba",
@@ -1526,8 +1583,9 @@
    "jp": "{1c:23}{0b:08}【 オルフェウス 】{0b:09}\nこの門・・・\nこれはもしかして・・・{0c:fe}",
    "read": "{1c:23}{0b:08}【 オルフェウス 】{0b:09}\nこの門・・・\nこれはもしかして・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:23}{0b:08}【 Orpheus 】{0b:09}\nThis gate... Could this be...{0c:fe}",
+   "status": "done",
+   "tl": "This gate... Could this be..."
   },
   {
    "id": "RES#72:10903",
@@ -1548,8 +1606,9 @@
    "jp": "{1c:21}ええ、\nこれは『審問者の門』でしょう。{1a}この門の事ならば\n酒場にいる親切の押し売りオジさんに\n幾度か聞いたことがありますから\nまず間違いありません。{1a}ええ、次の部屋にお待ちかねの\n{09:08}『太陽の宝玉』{09:01}があります。\nつまりここが最上階だったんですね。{0c:fe}",
    "read": "{1c:21}ええ、\nこれは『審問者の門』でしょう。{1a}この門の事ならば\n酒場にいる親切の押し売りオジさんに\n幾度か聞いたことがありますから\nまず間違いありません。{1a}ええ、次の部屋にお待ちかねの\n{09:08}『太陽の宝玉』{09:01}があります。\nつまりここが最上階だったんですね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:21}Yes, this would be the 'Inquisitor's Gate'.{1a}I have heard of this gate several times\nfrom that old Kindness Peddler at the\ntavern, so I daresay there is no mistake.{1a}Yes, in the next room awaits {09:08}the 'Sun\nJewel'{09:01} you have so longed for. So this\nwas the top floor after all.{0c:fe}",
+   "status": "done",
+   "tl": "Yes, this would be the 'Inquisitor's Gate'. // I have heard of this gate several times from that old Kindness Peddler at the tavern, so I daresay there is no mistake. // Yes, in the next room awaits [1]the 'Sun Jewel'[2] you have so longed for. So this was the top floor after all."
   },
   {
    "id": "RES#72:109b5",
@@ -1570,8 +1629,9 @@
    "jp": "{1c:22}{09:08}『太陽の宝玉』{09:01}までは\nあと一歩です。{1a}ただし{10}さん、\n気を抜かないで下さいね。{1a}親切の押し売りオジさんの話によると\n次の部屋の相手は\nかなり手強いそうですから。{1a}{0c:521018}まあ、ぼくの美しさの前には\nたとえ心を持たない魔物だろうと\n恣惚として戦意を\n失うでしょうが・・・{1a}ま、とにかく入りましょうか。\nなあに、駄目っぽいなら\nその時は逃げればいいんですよ。{0c:023101}",
    "read": "{1c:22}{09:08}『太陽の宝玉』{09:01}までは\nあと一歩です。{1a}ただし{10}さん、\n気を抜かないで下さいね。{1a}親切の押し売りオジさんの話によると\n次の部屋の相手は\nかなり手強いそうですから。{1a}{0c:521018}まあ、ぼくの美しさの前には\nたとえ心を持たない魔物だろうと\n恣惚として戦意を\n失うでしょうが・・・{1a}ま、とにかく入りましょうか。\nなあに、駄目っぽいなら\nその時は逃げればいいんですよ。{0c:023101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:22}{09:08}The 'Sun Jewel'{09:01} is but one step away.{1a}However, {10}-san, do not let\nyour guard down.{1a}According to that old Kindness Peddler,\nour opponent in the next room is quite\nformidable.{1a}{0c:521018}Though, before my beauty, even a\nheartless monster would surely lose all\nwill to fight in sheer rapture...{1a}Well, shall we go in regardless? Why, if it\nlooks hopeless, we can simply run away.{0c:023101}",
+   "status": "done",
+   "tl": "The 'Sun Jewel'[1] is but one step away. // However, [HERO]-san, do not let your guard down. // According to that old Kindness Peddler, our opponent in the next room is quite formidable. // [2]Though, before my beauty, even a heartless monster would surely lose all will to fight in sheer rapture... // Well, shall we go in regardless? Why, if it looks hopeless, we can simply run away."
   },
   {
    "id": "RES#72:10aa8",
@@ -1592,8 +1652,9 @@
    "jp": "{1c:24}{0b:08}【 イヴ 】{0b:09}\nこの門・・・{1a}今までのとは違うわよね。\nもしかしてこれって・・・{0c:fe}",
    "read": "{1c:24}{0b:08}【 イヴ 】{0b:09}\nこの門・・・{1a}今までのとは違うわよね。\nもしかしてこれって・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:24}{0b:08}【 Eve 】{0b:09}\nThis gate...{1a}It's not like the others, is it. Could this\nbe...{0c:fe}",
+   "status": "done",
+   "tl": "This gate... // It's not like the others, is it. Could this be..."
   },
   {
    "id": "RES#72:10aeb",
@@ -1614,8 +1675,9 @@
    "jp": "ええ・・・\nこれって『審問者の門』よね。{1a}この門のコトは酒場で\n何度か聞いたことがあるから\nたぶん間違いないわ。{1a}この次の部屋に\n{09:08}『太陽の宝玉』{09:01}があるはずよ。\nそう、つまりここが\n最上階だったってわけ。{0c:fe}",
    "read": "ええ・・・\nこれって『審問者の門』よね。{1a}この門のコトは酒場で\n何度か聞いたことがあるから\nたぶん間違いないわ。{1a}この次の部屋に\n{09:08}『太陽の宝玉』{09:01}があるはずよ。\nそう、つまりここが\n最上階だったってわけ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Yes... This is the 'Inquisitor's Gate', isn't\nit.{1a}I've heard about this gate at the tavern\na few times, so I doubt I'm wrong.{1a}{09:08}The 'Sun Jewel'{09:01} should be in the next\nroom. So this was the top floor, you see.{0c:fe}",
+   "status": "done",
+   "tl": "Yes... This is the 'Inquisitor's Gate', isn't it. // I've heard about this gate at the tavern a few times, so I doubt I'm wrong. // [1]The 'Sun Jewel'[2] should be in the next room. So this was the top floor, you see."
   },
   {
    "id": "RES#72:10b81",
@@ -1636,8 +1698,9 @@
    "jp": "よかったじゃない。\n{09:08}『太陽の宝玉』{09:01}はもうすぐよ。{1a}ま、せいぜい頑張ってね。\nあたしも応援させてもらうわ。{0c:fe}",
    "read": "よかったじゃない。\n{09:08}『太陽の宝玉』{09:01}はもうすぐよ。{1a}ま、せいぜい頑張ってね。\nあたしも応援させてもらうわ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Well, isn't that nice. {09:08}The 'Sun Jewel'{09:01} is\nalmost yours.{1a}Do your best, dear. I'll cheer you on.{0c:fe}",
+   "status": "done",
+   "tl": "Well, isn't that nice. [1]The 'Sun Jewel'[2] is almost yours. // Do your best, dear. I'll cheer you on."
   },
   {
    "id": "RES#72:10bd3",
@@ -1658,8 +1721,9 @@
    "jp": "{0c:521018}そうそう、\n酒場で聞いた話なんだけど、{1a}次の部屋であたし達を\nもてなしてくれる相手って\nかなり強いって噂だから、{1a}張り切るのはいいけど\nあっさりと犬死にだけはしないでね。\nじゃあ、そろそろ入りましょ。{0c:fe}",
    "read": "{0c:521018}そうそう、\n酒場で聞いた話なんだけど、{1a}次の部屋であたし達を\nもてなしてくれる相手って\nかなり強いって噂だから、{1a}張り切るのはいいけど\nあっさりと犬死にだけはしないでね。\nじゃあ、そろそろ入りましょ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}Oh, yes, something I heard at the\ntavern:{1a}the one who'll be entertaining us in the\nnext room is said to be quite strong,{1a}so by all means get fired up, just don't\ngo dying a dog's death so easily, dear.\nWell then, let's go in.{0c:fe}",
+   "status": "done",
+   "tl": "Oh, yes, something I heard at the tavern: // the one who'll be entertaining us in the next room is said to be quite strong, // so by all means get fired up, just don't go dying a dog's death so easily, dear. Well then, let's go in."
   },
   {
    "id": "RES#72:10c61",
@@ -1691,8 +1755,9 @@
    "jp": "{1c:26}{0b:08}【 ディアス 】{0b:09}\nこの門は・・・{1a}そうか、此処か・・・{0c:fe}",
    "read": "{1c:26}{0b:08}【 ディアス 】{0b:09}\nこの門は・・・{1a}そうか、此処か・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:26}{0b:08}【 Dias 】{0b:09}\nThis gate...{1a}So, it is here...{0c:fe}",
+   "status": "done",
+   "tl": "This gate... // So, it is here..."
   },
   {
    "id": "RES#72:10caa",
@@ -1713,8 +1778,9 @@
    "jp": "ああ、間違いない。\nこれが『審問者の門』だ。{1a}そして、次の部屋に\n{09:08}『太陽の宝玉』{09:01}がある・・・\nつまりここが\n最上階だったという訳だ。{0c:fe}",
    "read": "ああ、間違いない。\nこれが『審問者の門』だ。{1a}そして、次の部屋に\n{09:08}『太陽の宝玉』{09:01}がある・・・\nつまりここが\n最上階だったという訳だ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Yes, there is no doubt. This is the\n'Inquisitor's Gate'.{1a}And in the next room lies {09:08}the 'Sun\nJewel'{09:01}... Which means this was the top\nfloor.{0c:fe}",
+   "status": "done",
+   "tl": "Yes, there is no doubt. This is the 'Inquisitor's Gate'. // And in the next room lies [1]the 'Sun Jewel'[2]... Which means this was the top floor."
   },
   {
    "id": "RES#72:10d16",
@@ -1735,8 +1801,9 @@
    "jp": "{1c:26}奥に進むための『鍵』か・・・\nだが、まだ始まったばかりだな・・・{0c:fe}",
    "read": "{1c:26}奥に進むための『鍵』か・・・\nだが、まだ始まったばかりだな・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:26}The 'key' to going deeper... Yet this has\nonly just begun...{0c:fe}",
+   "status": "done",
+   "tl": "The 'key' to going deeper... Yet this has only just begun..."
   },
   {
    "id": "RES#72:10d4f",
@@ -1757,8 +1824,9 @@
    "jp": "中に入るぞ。\nただし、次の部屋の敵は手強いと聞く。\n気を抜くな。{0c:fe}",
    "read": "中に入るぞ。\nただし、次の部屋の敵は手強いと聞く。\n気を抜くな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "We go in. But I hear the enemy in the\nnext room is formidable. Stay alert.{0c:fe}",
+   "status": "done",
+   "tl": "We go in. But I hear the enemy in the next room is formidable. Stay alert."
   },
   {
    "id": "RES#72:10d8b",
@@ -1790,8 +1858,9 @@
    "jp": "{1c:27}{0b:08}【 ノエル 】{0b:09}\nこの門・・・{1a}もしかしてこれは・・・{0c:fe}",
    "read": "{1c:27}{0b:08}【 ノエル 】{0b:09}\nこの門・・・{1a}もしかしてこれは・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:27}{0b:08}【 Noel 】{0b:09}\nThis gate...{1a}Could this be...{0c:fe}",
+   "status": "done",
+   "tl": "This gate... // Could this be..."
   },
   {
    "id": "RES#72:10dd1",
@@ -1812,8 +1881,9 @@
    "jp": "ええ、間違いないわ。\nこれは『審問者の門』、{1a}そして、次の部屋には\n{09:08}『太陽の宝玉』{09:01}がある・・・\nつまりここが最上階だったのね。{0c:fe}",
    "read": "ええ、間違いないわ。\nこれは『審問者の門』、{1a}そして、次の部屋には\n{09:08}『太陽の宝玉』{09:01}がある・・・\nつまりここが最上階だったのね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Yes, there's no doubt. This is the\n'Inquisitor's Gate',{1a}and in the next room is {09:08}the 'Sun Jewel'{09:01}...\nSo this was the top floor.{0c:fe}",
+   "status": "done",
+   "tl": "Yes, there's no doubt. This is the 'Inquisitor's Gate', // and in the next room is [1]the 'Sun Jewel'[2]... So this was the top floor."
   },
   {
    "id": "RES#72:10e39",
@@ -1834,8 +1904,9 @@
    "jp": "この町の正式な居住権が\nあと一歩で手に入る・・・{1a}これでずっとこの町で\n研究が出来るのね・・・{0c:fe}",
    "read": "この町の正式な居住権が\nあと一歩で手に入る・・・{1a}これでずっとこの町で\n研究が出来るのね・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Official residency in this town is just\none step away...{1a}Then I can do my research here for\ngood...{0c:fe}",
+   "status": "done",
+   "tl": "Official residency in this town is just one step away... // Then I can do my research here for good..."
   },
   {
    "id": "RES#72:10e88",
@@ -1856,8 +1927,9 @@
    "jp": "{1c:28}な、なんでもないわ。\nが、頑張りましょ。{0c:fe}",
    "read": "{1c:28}な、なんでもないわ。\nが、頑張りましょ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:28}I-it's nothing! L-let's do our best.{0c:fe}",
+   "status": "done",
+   "tl": "I-it's nothing! L-let's do our best."
   },
   {
    "id": "RES#72:10ec2",
@@ -1878,8 +1950,9 @@
    "jp": "{0c:5108}それから・・・\n入る前に一応警告しておくわ。{1a}次の部屋で待ち受けている\n第一神殿最後の敵は\nかなり手強いらしいの。\nだから絶対に気を抜かないでね。{0c:fe}",
    "read": "{0c:5108}それから・・・\n入る前に一応警告しておくわ。{1a}次の部屋で待ち受けている\n第一神殿最後の敵は\nかなり手強いらしいの。\nだから絶対に気を抜かないでね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5108}And... I'll warn you before we go in, just\nso you know.{1a}The First Temple's final enemy, awaiting\nin the next room, is apparently quite\nformidable. So don't you dare let your\nguard down.{0c:fe}",
+   "status": "done",
+   "tl": "And... I'll warn you before we go in, just so you know. // The First Temple's final enemy, awaiting in the next room, is apparently quite formidable. So don't you dare let your guard down."
   },
   {
    "id": "RES#72:10f3b",
@@ -1900,8 +1973,9 @@
    "jp": "じゃあ行きましょ。{0c:021301}",
    "read": "じゃあ行きましょ。{0c:021301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Now, let's go.{0c:021301}",
+   "status": "done",
+   "tl": "Now, let's go."
   },
   {
    "id": "RES#72:10f5b",
@@ -1922,8 +1996,9 @@
    "jp": "{0b:08}【 ルカ 】{0b:09}\nこの門・・・\n下の階にあったのとは\n少し違いますよね・・・{1a}もしかして・・・\nこれが『審問者の門』では\nないでしょうか・・・{1a}{0c:2b502351081000}この門の模様はクムランさんに\n見せていただいた資料の中に\nありましたから、\nたぶん間違いないと思います。{1a}そして、次の部屋にいる魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}が手に入るんですよね。\nそう、ここは最上階だったんですよ!{0c:fe}",
    "read": "{0b:08}【 ルカ 】{0b:09}\nこの門・・・\n下の階にあったのとは\n少し違いますよね・・・{1a}もしかして・・・\nこれが『審問者の門』では\nないでしょうか・・・{1a}{0c:2b502351081000}この門の模様はクムランさんに\n見せていただいた資料の中に\nありましたから、\nたぶん間違いないと思います。{1a}そして、次の部屋にいる魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}が手に入るんですよね。\nそう、ここは最上階だったんですよ!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Luca 】{0b:09}\nTh-this gate... It's a little different from\nthe ones on the lower floors, isn't it...{1a}C-could this perhaps be the 'Inquisitor's\nGate'...?{1a}{0c:2b502351081000}This gate's pattern was in the materials\nQumran-san showed me, so I th-think I\nmust be right.{1a}And if we defeat the monster in the\nnext room, we obtain {09:08}the 'Sun Jewel'{09:01},\ndon't we? Yes, this was the top floor!{0c:fe}",
+   "status": "done",
+   "tl": "Th-this gate... It's a little different from the ones on the lower floors, isn't it... // C-could this perhaps be the 'Inquisitor's Gate'...? // [1]This gate's pattern was in the materials Qumran-san showed me, so I th-think I must be right. // And if we defeat the monster in the next room, we obtain [2]the 'Sun Jewel'[3], don't we? Yes, this was the top floor!"
   },
   {
    "id": "RES#72:11059",
@@ -1944,8 +2019,9 @@
    "jp": "すごいなあ・・・\nいつの間にかこんな所まで\n来ちゃったんですね・・・{1a}自分でも信じられません。\nわたしのような\n何の取り柄もない人間が\n最上階までたどり着けるなんて・・・{1a}{0c:51082b501000}もちろん1人じゃ絶対に無理でした。\n{10}さんには\n本当に感謝しています。{1a}{10}さんのような\nお優しい方と出会えて\n本当によかったです。{0c:fe}",
    "read": "すごいなあ・・・\nいつの間にかこんな所まで\n来ちゃったんですね・・・{1a}自分でも信じられません。\nわたしのような\n何の取り柄もない人間が\n最上階までたどり着けるなんて・・・{1a}{0c:51082b501000}もちろん1人じゃ絶対に無理でした。\n{10}さんには\n本当に感謝しています。{1a}{10}さんのような\nお優しい方と出会えて\n本当によかったです。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "How amazing... Before I knew it, we had\ncome all this way...{1a}I can hardly believe it myself. That\nsomeone like me, with no merit at all,\ncould reach the top floor...{1a}{0c:51082b501000}Of course, I could never have done it\nalone. {10}-san, I am truly grateful\nto you.{1a}I am truly glad I could meet someone as\nkind as you, {10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "How amazing... Before I knew it, we had come all this way... // I can hardly believe it myself. That someone like me, with no merit at all, could reach the top floor... // [1]Of course, I could never have done it alone. [HERO]-san, I am truly grateful to you. // I am truly glad I could meet someone as kind as you, [HERO]-san."
   },
   {
    "id": "RES#72:1112c",
@@ -1966,8 +2042,9 @@
    "jp": "{0c:521018}{1c:2a}わたしがこの町に来た\n理由なんですけど・・・{1a}わたしは先輩の修道士の\n冗談を真に受けて来ちゃったんです。{1a}カルス・バスティードでは\n司祭がいなくてみんなが困ってる、{1a}町のみんなが、司祭が来るのを\n楽しみに待ってるって・・・{1a}{0c:522028}騙されてるのかなと\nその時も少しは思ったんですけど、\nやっぱり本当かもしれないって\n思い直してこの町に来て・・・{1a}やっぱり\nそれは嘘だったわけなんですけど、{1a}ナスティの修道院には、\nわたしが先輩達に騙されてることを\n教えてくれる友達も\n1人もいなかったんです・・・{0c:fe}",
    "read": "{0c:521018}{1c:2a}わたしがこの町に来た\n理由なんですけど・・・{1a}わたしは先輩の修道士の\n冗談を真に受けて来ちゃったんです。{1a}カルス・バスティードでは\n司祭がいなくてみんなが困ってる、{1a}町のみんなが、司祭が来るのを\n楽しみに待ってるって・・・{1a}{0c:522028}騙されてるのかなと\nその時も少しは思ったんですけど、\nやっぱり本当かもしれないって\n思い直してこの町に来て・・・{1a}やっぱり\nそれは嘘だったわけなんですけど、{1a}ナスティの修道院には、\nわたしが先輩達に騙されてることを\n教えてくれる友達も\n1人もいなかったんです・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:2a}Th-the reason I came to this town...{1a}I took an older monk's joke seriously and\ncame here.{1a}He said Kars Bastide had no priest and\neveryone was suffering,{1a}that everyone in town was eagerly\nwaiting for a priest to come...{1a}{0c:522028}Even then I wondered a little if I was\nbeing tricked, but I thought it might be\ntrue after all, and came to this town...{1a}And of course it was a lie,{1a}but at the monastery in Nasti, I didn't\nhave even one friend to tell me my\nseniors were tricking me...{0c:fe}",
+   "status": "done",
+   "tl": "Th-the reason I came to this town... // I took an older monk's joke seriously and came here. // He said Kars Bastide had no priest and everyone was suffering, // that everyone in town was eagerly waiting for a priest to come... // [1]Even then I wondered a little if I was being tricked, but I thought it might be true after all, and came to this town... // And of course it was a lie, // but at the monastery in Nasti, I didn't have even one friend to tell me my seniors were tricking me..."
   },
   {
    "id": "RES#72:11273",
@@ -1988,8 +2065,9 @@
    "jp": "{0c:523038}でも、この町では\n{10}さんやパスカさん、{1a}ティアラさんやシャルンさんや\nバルデスさんやクムランさん、{1a}他にも大勢の人達に\n優しくしていただいて、\n本当に嬉しいんです・・・{1a}{0c:524048}わたしは相変わらず\n情けないままなんですけど、\n皆さんのおかげで\nなんとか・・・その・・・{0c:fe}{0c:0c78}",
    "read": "{0c:523038}でも、この町では\n{10}さんやパスカさん、{1a}ティアラさんやシャルンさんや\nバルデスさんやクムランさん、{1a}他にも大勢の人達に\n優しくしていただいて、\n本当に嬉しいんです・・・{1a}{0c:524048}わたしは相変わらず\n情けないままなんですけど、\n皆さんのおかげで\nなんとか・・・その・・・{0c:fe}{0c:0c78}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523038}But in this town, {10}-san,\nPasca-san,{1a}Tiara-san, Scharn-san, Valdes-san,\nQumran-san,{1a}and so many others have been kind to\nme, and I'm so very happy...{1a}{0c:524048}I'm as pathetic as ever, but thanks to all\nof you, s-somehow... that is...{0c:fe}{0c:0c78}",
+   "status": "done",
+   "tl": "But in this town, [HERO]-san, Pasca-san, // Tiara-san, Scharn-san, Valdes-san, Qumran-san, // and so many others have been kind to me, and I'm so very happy... // [1]I'm as pathetic as ever, but thanks to all of you, s-somehow... that is..."
   },
   {
    "id": "RES#72:1132f",
@@ -2010,8 +2088,9 @@
    "jp": "{1c:2a}あっ、\nなんだかわたしばっかり\n喋ってしまって・・・\nす、すみません・・・{1a}{0c:526068}で、では、\nそろそろ中に入ってみましょうか。{1a}わたしも精一杯お手伝いします。\nが、頑張りましょうね。{0c:fe}",
    "read": "{1c:2a}あっ、\nなんだかわたしばっかり\n喋ってしまって・・・\nす、すみません・・・{1a}{0c:526068}で、では、\nそろそろ中に入ってみましょうか。{1a}わたしも精一杯お手伝いします。\nが、頑張りましょうね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:2a}Oh, I've been doing all the talking, haven't\nI... I-I'm sorry...{1a}{0c:526068}W-well then, shall we try going in?{1a}I will help as much as I can. L-let's do our\nbest.{0c:fe}",
+   "status": "done",
+   "tl": "Oh, I've been doing all the talking, haven't I... I-I'm sorry... // [1]W-well then, shall we try going in? // I will help as much as I can. L-let's do our best."
   },
   {
    "id": "RES#72:113a5",
@@ -2043,8 +2122,9 @@
    "jp": "{1c:2c}{0b:08}【 サラ 】{0b:09}\nこの門・・・{1a}今まで見てきたのとは違うよね。\nもしかしてこれ・・・{1a}{0c:521018}うん、きっとそうだよ、\nこれが町のみんなが言ってた\n『審問者の門』なんだよ。{1a}この門の絵、\nクムランさんに何度か\n見せてもらったことがあるから\nまちがいないと思う。{1a}次の部屋にいる魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}がもらえるんだよね。\nそう、ここが最上階だったんだよ。{0c:fe}",
    "read": "{1c:2c}{0b:08}【 サラ 】{0b:09}\nこの門・・・{1a}今まで見てきたのとは違うよね。\nもしかしてこれ・・・{1a}{0c:521018}うん、きっとそうだよ、\nこれが町のみんなが言ってた\n『審問者の門』なんだよ。{1a}この門の絵、\nクムランさんに何度か\n見せてもらったことがあるから\nまちがいないと思う。{1a}次の部屋にいる魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}がもらえるんだよね。\nそう、ここが最上階だったんだよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:2c}{0b:08}【 Sara 】{0b:09}\nThis gate...{1a}It's different from the ones we've seen,\nright? Could this be...{1a}{0c:521018}Yes, I'm sure it is, this is the 'Inquisitor's\nGate' everybody in town was talking\nabout.{1a}Qumran-san showed me a picture of this\ngate a few times, so I think I'm right.{1a}If we beat the monster in the next\nroom, we get {09:08}the 'Sun Jewel'{09:01}, right?\nYes, this was the top floor.{0c:fe}",
+   "status": "done",
+   "tl": "This gate... // It's different from the ones we've seen, right? Could this be... // [1]Yes, I'm sure it is, this is the 'Inquisitor's Gate' everybody in town was talking about. // Qumran-san showed me a picture of this gate a few times, so I think I'm right. // If we beat the monster in the next room, we get [2]the 'Sun Jewel'[3], right? Yes, this was the top floor."
   },
   {
    "id": "RES#72:114a8",
@@ -2065,8 +2145,9 @@
    "jp": "{0c:5210182b501000}{1c:2b}すごいね!\nあと少しで{09:08}『太陽の宝玉』{09:01}が\n手に入るんだ!{1a}{09:08}『太陽の宝玉』{09:01}が手に入れば\nお金を町の外に持ち出す許可が\nおりたことになるんだよね。{1a}じゃあ、これからはもっとがんばって\nお金を貯めなくちゃ。{1a}あたしのお母さん、\nアスロイトの東の方で\n小さな孤児院をひらいてるんだけど{1a}育ち盛りの子供達を大勢\n食べさせてあげなきゃいけないから、\nお金が足りなくて\nいつも困ってたの。{1a}それであたしはこの町に\nお金を貯めに来たんだけど、\nまだあんまり貯まってないんだ。{1a}あたし、お金のことにちょっと疎くて、\nどれくらいのお金を貯めればいいか\n自分でも分かってないんだけど、{1a}{0c:522028}子供達にいろんな食べ物\n食べさせてあげたいし、{1a}あたたかい毛布とか\nバイレステ製のおもちゃとか\n色んなものをプレゼントして\nあげたいから、{1a}これからはとにかくがんばって\nたくさんお金を集めなきゃって\n思ってるの。{1a}{0c:523038}あっ、でも今は\n{09:08}『太陽の宝玉』{09:01}が先だよね。\nなんだかもう取った気に\nなっちゃってた。{1a}じゃあ、がんばって取りに行こうね、\n{10}さん!{0c:fe}",
    "read": "{0c:5210182b501000}{1c:2b}すごいね!\nあと少しで{09:08}『太陽の宝玉』{09:01}が\n手に入るんだ!{1a}{09:08}『太陽の宝玉』{09:01}が手に入れば\nお金を町の外に持ち出す許可が\nおりたことになるんだよね。{1a}じゃあ、これからはもっとがんばって\nお金を貯めなくちゃ。{1a}あたしのお母さん、\nアスロイトの東の方で\n小さな孤児院をひらいてるんだけど{1a}育ち盛りの子供達を大勢\n食べさせてあげなきゃいけないから、\nお金が足りなくて\nいつも困ってたの。{1a}それであたしはこの町に\nお金を貯めに来たんだけど、\nまだあんまり貯まってないんだ。{1a}あたし、お金のことにちょっと疎くて、\nどれくらいのお金を貯めればいいか\n自分でも分かってないんだけど、{1a}{0c:522028}子供達にいろんな食べ物\n食べさせてあげたいし、{1a}あたたかい毛布とか\nバイレステ製のおもちゃとか\n色んなものをプレゼントして\nあげたいから、{1a}これからはとにかくがんばって\nたくさんお金を集めなきゃって\n思ってるの。{1a}{0c:523038}あっ、でも今は\n{09:08}『太陽の宝玉』{09:01}が先だよね。\nなんだかもう取った気に\nなっちゃってた。{1a}じゃあ、がんばって取りに行こうね、\n{10}さん!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5210182b501000}{1c:2b}It's amazing! We're so close to getting\n{09:08}the 'Sun Jewel'{09:01}!{1a}{09:08}The 'Sun Jewel'{09:01} means we get permission\nto take money out of town, right?{1a}So from now on I have to try even\nharder and save up money.{1a}My mother runs a small orphanage in the\neast of Asroit,{1a}and she has lots of growing children to\nfeed, so there was never enough money\nand she always had a hard time.{1a}So I came to this town to save money,\nbut I haven't saved very much yet.{1a}I'm not too smart about money, so I\ndon't even know how much I need to\nsave,{1a}{0c:522028}but I want to feed the children all kinds\nof food,{1a}and give them warm blankets and toys\nmade in Baileste and all sorts of\npresents,{1a}so from now on I just have to try hard\nand gather lots of money.{1a}{0c:523038}Oh, but right now {09:08}the 'Sun Jewel'{09:01} comes\nfirst, doesn't it? I kinda felt like I\nalready had it.{1a}So let's do our best and go get it, okay,\n{10}-san?{0c:fe}",
+   "status": "done",
+   "tl": "It's amazing! We're so close to getting [1]the 'Sun Jewel'[2]! // [3]The 'Sun Jewel'[4] means we get permission to take money out of town, right? // So from now on I have to try even harder and save up money. // My mother runs a small orphanage in the east of Asroit, // and she has lots of growing children to feed, so there was never enough money and she always had a hard time. // So I came to this town to save money, but I haven't saved very much yet. // I'm not too smart about money, so I don't even know how much I need to save, // [5]but I want to feed the children all kinds of food, // and give them warm blankets and toys made in Baileste and all sorts of presents, // so from now on I just have to try hard and gather lots of money. // [6]Oh, but right now [7]the 'Sun Jewel'[8] comes first, doesn't it? I kinda felt like I already had it. // So let's do our best and go get it, okay, [HERO]-san?"
   },
   {
    "id": "RES#72:116fb",
@@ -2087,8 +2168,9 @@
    "jp": "{1c:2c}あっ、そういえば、\n次の部屋にいる魔物って\nかなり強いぞって、{1a}酒場のお客さんが\n教えてくれたんだ。\nだから注意して行こうね。{0c:fe}",
    "read": "{1c:2c}あっ、そういえば、\n次の部屋にいる魔物って\nかなり強いぞって、{1a}酒場のお客さんが\n教えてくれたんだ。\nだから注意して行こうね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:2c}Oh, that reminds me, the monster in the\nnext room is really strong,{1a}a customer at the tavern told me. So\nlet's be careful, okay?{0c:fe}",
+   "status": "done",
+   "tl": "Oh, that reminds me, the monster in the next room is really strong, // a customer at the tavern told me. So let's be careful, okay?"
   },
   {
    "id": "RES#72:1175d",
@@ -2131,8 +2213,9 @@
    "jp": "{1c:13}{0b:08}【 アーサー 】{0b:09}\nまた同じような通路だ・・・{1a}第一神殿の上の方って、\n敵が出てこないのはいいんだけど、\n単調な通路が続くのでうんざりするよ。{1a}一体いつになったら\n{09:08}『太陽の宝玉』{09:01}のある最上階に\nたどり着けるんだろう・・・{0c:021901}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\nまた同じような通路だ・・・{1a}第一神殿の上の方って、\n敵が出てこないのはいいんだけど、\n単調な通路が続くのでうんざりするよ。{1a}一体いつになったら\n{09:08}『太陽の宝玉』{09:01}のある最上階に\nたどり着けるんだろう・・・{0c:021901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nAnother corridor just like the last...{1a}It is good that no enemies appear on the\nupper floors of the First Temple, but\nthese monotonous corridors are wearing\nme down.{1a}When will we ever reach the top floor,\nwhere {09:08}the 'Sun Jewel'{09:01} is...{0c:021901}",
+   "status": "done",
+   "tl": "Another corridor just like the last... // It is good that no enemies appear on the upper floors of the First Temple, but these monotonous corridors are wearing me down. // When will we ever reach the top floor, where [1]the 'Sun Jewel'[2] is..."
   },
   {
    "id": "RES#72:11882",
@@ -2153,8 +2236,9 @@
    "jp": "{1c:1f}{0b:08}【 ジェシカ 】{0b:09}\nまた通路だよ・・・{1a}この建物の上の方ってさ、\n通路しかないのかな・・・{1a}化け物が出てこないのはいいけど、\n同じようなところばっか続くと\nいい加減飽きちゃうね。{1a}一体いつになったら\n{09:08}『太陽の宝玉』{09:01}のある最上階に\nたどり着けるんだろ・・・{0c:021701}",
    "read": "{1c:1f}{0b:08}【 ジェシカ 】{0b:09}\nまた通路だよ・・・{1a}この建物の上の方ってさ、\n通路しかないのかな・・・{1a}化け物が出てこないのはいいけど、\n同じようなところばっか続くと\nいい加減飽きちゃうね。{1a}一体いつになったら\n{09:08}『太陽の宝玉』{09:01}のある最上階に\nたどり着けるんだろ・・・{0c:021701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}{0b:08}【 Jessica 】{0b:09}\nAnother corridor, geez...{1a}The top of this building, is it just\ncorridors or what...{1a}No monsters is nice and all, but the same\nold place over and over gets real old, you\nknow that?{1a}When are we ever gonna reach the top\nfloor, with {09:08}the 'Sun Jewel'{09:01}...{0c:021701}",
+   "status": "done",
+   "tl": "Another corridor, geez... // The top of this building, is it just corridors or what... // No monsters is nice and all, but the same old place over and over gets real old, you know that? // When are we ever gonna reach the top floor, with [1]the 'Sun Jewel'[2]..."
   },
   {
    "id": "RES#72:1193b",
@@ -2175,8 +2259,9 @@
    "jp": "{1c:1d}{0b:08}【 シャルン 】{0b:09}\nまた同じような\n通路がのびてる・・・{1a}第一神殿の上の方は\n通路ばっかりなんだね。\n最近全然魔物と\n戦ってないような気がするよ。{1a}まあ、それはそれで\nいいことなんだろうけど、{1a}さすがに同じような景色を\nずっと見続けてると\nちょっと飽きてくるよね。{1a}{09:08}『太陽の宝玉』{09:01}のある最上階には、\n一体いつになったら\nたどり着けるんだろ。{0c:021501}",
    "read": "{1c:1d}{0b:08}【 シャルン 】{0b:09}\nまた同じような\n通路がのびてる・・・{1a}第一神殿の上の方は\n通路ばっかりなんだね。\n最近全然魔物と\n戦ってないような気がするよ。{1a}まあ、それはそれで\nいいことなんだろうけど、{1a}さすがに同じような景色を\nずっと見続けてると\nちょっと飽きてくるよね。{1a}{09:08}『太陽の宝玉』{09:01}のある最上階には、\n一体いつになったら\nたどり着けるんだろ。{0c:021501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}{0b:08}【 Scharn 】{0b:09}\nAnother corridor just like the others...{1a}The upper part of the First Temple is\nnothing but corridors, huh! Feels like I\nhaven't fought any monsters at all\nlately!{1a}Well, I guess that's a good thing,{1a}but looking at the same view all the time\ndoes get kinda boring, you know!{1a}I wonder when we'll ever reach the top\nfloor, where {09:08}the 'Sun Jewel'{09:01} is.{0c:021501}",
+   "status": "done",
+   "tl": "Another corridor just like the others... // The upper part of the First Temple is nothing but corridors, huh! Feels like I haven't fought any monsters at all lately! // Well, I guess that's a good thing, // but looking at the same view all the time does get kinda boring, you know! // I wonder when we'll ever reach the top floor, where [1]the 'Sun Jewel'[2] is."
   },
   {
    "id": "RES#72:11a28",
@@ -2197,8 +2282,9 @@
    "jp": "{1c:2a}{0b:08}【 サラ 】{0b:09}\nまた同じような通路が\nのびてるね・・・{1a}第一神殿の上の方って、\n通路しかないのかな。\n戦わなくていいのは\nとってもありがたいんだけど、{1a}同じようなところが\nずっと続いてるから\nどのくらい進んだのか\n自分でも分からなくなってくるね。{1a}一体いつになったら\n{09:08}『太陽の宝玉』{09:01}のある最上階に\nたどり着くんだろ・・・{0c:021301}",
    "read": "{1c:2a}{0b:08}【 サラ 】{0b:09}\nまた同じような通路が\nのびてるね・・・{1a}第一神殿の上の方って、\n通路しかないのかな。\n戦わなくていいのは\nとってもありがたいんだけど、{1a}同じようなところが\nずっと続いてるから\nどのくらい進んだのか\n自分でも分からなくなってくるね。{1a}一体いつになったら\n{09:08}『太陽の宝玉』{09:01}のある最上階に\nたどり着くんだろ・・・{0c:021301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:2a}{0b:08}【 Sara 】{0b:09}\nAnother corridor just like the others,\nhuh...{1a}I wonder if the top of this First Temple\nis only corridors. It's really nice that we\ndon't have to fight,{1a}but it's the same all the way, so I can't\neven tell how far we've come.{1a}When are we ever going to reach the top\nfloor, where {09:08}the 'Sun Jewel'{09:01} is...{0c:021301}",
+   "status": "done",
+   "tl": "Another corridor just like the others, huh... // I wonder if the top of this First Temple is only corridors. It's really nice that we don't have to fight, // but it's the same all the way, so I can't even tell how far we've come. // When are we ever going to reach the top floor, where [1]the 'Sun Jewel'[2] is..."
   },
   {
    "id": "RES#72:11b04",
@@ -2219,8 +2305,9 @@
    "jp": "{1c:28}{0b:08}【 ルカ 】{0b:09}\nまた同じような通路が\nのびていますね・・・{1a}第一神殿の上の方の階には\n通路しかないのでしょうか・・・{1a}もちろん、魔物が出てこないのは\n非常にありがたいんですけど、{1a}こうも同じような所が続くと\nどのくらい進んだのか\n全く分からなくなってくるので\n不安になってきます・・・{1a}一体いつになったら\n{09:08}『太陽の宝玉』{09:01}のある最上階に\nたどり着くのでしょうか・・・{0c:021101}",
    "read": "{1c:28}{0b:08}【 ルカ 】{0b:09}\nまた同じような通路が\nのびていますね・・・{1a}第一神殿の上の方の階には\n通路しかないのでしょうか・・・{1a}もちろん、魔物が出てこないのは\n非常にありがたいんですけど、{1a}こうも同じような所が続くと\nどのくらい進んだのか\n全く分からなくなってくるので\n不安になってきます・・・{1a}一体いつになったら\n{09:08}『太陽の宝玉』{09:01}のある最上階に\nたどり着くのでしょうか・・・{0c:021101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:28}{0b:08}【 Luca 】{0b:09}\nA-another corridor just like the others\nstretches ahead...{1a}Are there only corridors on the upper\nfloors of the First Temple...?{1a}Of course, I am most grateful that no\nmonsters appear,{1a}but with so much of the same, I lose all\nsense of how far we have come, and I\nstart to feel uneasy...{1a}When will we ever reach the top floor,\nwhere {09:08}the 'Sun Jewel'{09:01} is...?{0c:021101}",
+   "status": "done",
+   "tl": "A-another corridor just like the others stretches ahead... // Are there only corridors on the upper floors of the First Temple...? // Of course, I am most grateful that no monsters appear, // but with so much of the same, I lose all sense of how far we have come, and I start to feel uneasy... // When will we ever reach the top floor, where [1]the 'Sun Jewel'[2] is...?"
   },
   {
    "id": "RES#72:11bfd",
@@ -2241,8 +2328,9 @@
    "jp": "{1c:1b}{0b:08}【 パスカ 】{0b:09}\nまた通路か・・・{1a}この第一神殿って建物の上の方は\n通路ばっかりなんだな。\n最近、全然化け物と\n戦ってねえような気がするぜ。{1a}ま、それはそれでいいんだけど、\nさすがに同じような所ばっか\n歩いてると、いい加減飽きてくるよ。{1a}{09:08}『太陽の宝玉』{09:01}のある最上階には、\n一体いつになったら\nたどり着けるんだ?{0c:020f01}",
    "read": "{1c:1b}{0b:08}【 パスカ 】{0b:09}\nまた通路か・・・{1a}この第一神殿って建物の上の方は\n通路ばっかりなんだな。\n最近、全然化け物と\n戦ってねえような気がするぜ。{1a}ま、それはそれでいいんだけど、\nさすがに同じような所ばっか\n歩いてると、いい加減飽きてくるよ。{1a}{09:08}『太陽の宝玉』{09:01}のある最上階には、\n一体いつになったら\nたどり着けるんだ?{0c:020f01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Pasca 】{0b:09}\nAnother corridor, huh...{1a}Top of this First Temple's nothin' but\ncorridors. Feels like I ain't fought a single\nmonster lately.{1a}Not that that's bad, but walkin' the\nsame damn place over and over, it gets\nold.{1a}When the hell are we gonna reach the\ntop floor, with {09:08}the 'Sun Jewel'{09:01}?{0c:020f01}",
+   "status": "done",
+   "tl": "Another corridor, huh... // Top of this First Temple's nothin' but corridors. Feels like I ain't fought a single monster lately. // Not that that's bad, but walkin' the same damn place over and over, it gets old. // When the hell are we gonna reach the top floor, with [1]the 'Sun Jewel'[2]?"
   },
   {
    "id": "RES#72:11cdd",
@@ -2263,8 +2351,9 @@
    "jp": "{1c:21}{0b:08}【 オルフェウス 】{0b:09}\nまたこの階層も\n通路だけのようですね。{1a}第一神殿の上の階層には\n単調淡泊な通路しか\nないのでしょうか・・・{1a}化け物達が出てこないのは\nいいことなんですが、\nさすがに同じような所が続くと\nいい加減飽きてしまいますね。{1a}一体いつになったら\n{09:08}『太陽の宝玉』{09:01}のある最上階に\nたどり着けることやら・・・{0c:020d01}",
    "read": "{1c:21}{0b:08}【 オルフェウス 】{0b:09}\nまたこの階層も\n通路だけのようですね。{1a}第一神殿の上の階層には\n単調淡泊な通路しか\nないのでしょうか・・・{1a}化け物達が出てこないのは\nいいことなんですが、\nさすがに同じような所が続くと\nいい加減飽きてしまいますね。{1a}一体いつになったら\n{09:08}『太陽の宝玉』{09:01}のある最上階に\nたどり着けることやら・・・{0c:020d01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:21}{0b:08}【 Orpheus 】{0b:09}\nThis level too, it would seem, is nothing\nbut corridors.{1a}Have the upper levels of the First\nTemple only these bland, monotonous\ncorridors to offer...{1a}It is a blessing that the monsters stay\naway, but such sameness does wear\nthin, I daresay.{1a}When, I wonder, shall we ever reach the\ntop floor, where {09:08}the 'Sun Jewel'{09:01} awaits...{0c:020d01}",
+   "status": "done",
+   "tl": "This level too, it would seem, is nothing but corridors. // Have the upper levels of the First Temple only these bland, monotonous corridors to offer... // It is a blessing that the monsters stay away, but such sameness does wear thin, I daresay. // When, I wonder, shall we ever reach the top floor, where [1]the 'Sun Jewel'[2] awaits..."
   },
   {
    "id": "RES#72:11dc0",
@@ -2285,8 +2374,9 @@
    "jp": "{1c:11}{0b:08}【 アッシュ 】{0b:09}\nまたおなじような通路だ・・・{1a}敵が出てこないのはたすかるけど、\nずっと同じようなところを歩いてると\n逆に疲れてくるよな。{1a}いったいいつになったら\n最上階にたどりつけるんだろ・・・{0c:020b01}",
    "read": "{1c:11}{0b:08}【 アッシュ 】{0b:09}\nまたおなじような通路だ・・・{1a}敵が出てこないのはたすかるけど、\nずっと同じようなところを歩いてると\n逆に疲れてくるよな。{1a}いったいいつになったら\n最上階にたどりつけるんだろ・・・{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Ash 】{0b:09}\nSame kinda corridor again...{1a}It's a help that no enemies come out, but\nwalking through the same kinda place all\nthe time just wears me out, y'know.{1a}When're we ever gonna get to the top\nfloor, I wonder...{0c:020b01}",
+   "status": "done",
+   "tl": "Same kinda corridor again... // It's a help that no enemies come out, but walking through the same kinda place all the time just wears me out, y'know. // When're we ever gonna get to the top floor, I wonder..."
   },
   {
    "id": "RES#72:11e48",
@@ -2307,8 +2397,9 @@
    "jp": "{1c:23}{0b:08}【 イヴ 】{0b:09}\nまた通路・・・?\nいい加減飽きたわね。{1a}化け物が出てこないのは\nいいことだけど、さすがに\nこう同じような所が続くと\nいい加減飽きてくるわ。{1a}一体いつになったら\n{09:08}『太陽の宝玉』{09:01}のある最上階に\nたどり着けるのかしら・・・{0c:020901}",
    "read": "{1c:23}{0b:08}【 イヴ 】{0b:09}\nまた通路・・・?\nいい加減飽きたわね。{1a}化け物が出てこないのは\nいいことだけど、さすがに\nこう同じような所が続くと\nいい加減飽きてくるわ。{1a}一体いつになったら\n{09:08}『太陽の宝玉』{09:01}のある最上階に\nたどり着けるのかしら・・・{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:23}{0b:08}【 Eve 】{0b:09}\nAnother corridor...? This is getting\ntiresome.{1a}No monsters is a good thing, but so\nmuch of the same thing does get\ntiresome, you know.{1a}I wonder when we'll ever reach the top\nfloor, with {09:08}the 'Sun Jewel'{09:01}...{0c:020901}",
+   "status": "done",
+   "tl": "Another corridor...? This is getting tiresome. // No monsters is a good thing, but so much of the same thing does get tiresome, you know. // I wonder when we'll ever reach the top floor, with [1]the 'Sun Jewel'[2]..."
   },
   {
    "id": "RES#72:11ef6",
@@ -2329,8 +2420,9 @@
    "jp": "{1c:14}{0b:08}【 レイア 】{0b:09}\nまた同じ通路か・・・\n最上階は一体・・・{0c:020701}",
    "read": "{1c:14}{0b:08}【 レイア 】{0b:09}\nまた同じ通路か・・・\n最上階は一体・・・{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\nThe same corridor again... Just how far is\nthe top floor...{0c:020701}",
+   "status": "done",
+   "tl": "The same corridor again... Just how far is the top floor..."
   },
   {
    "id": "RES#72:11f35",
@@ -2351,8 +2443,9 @@
    "jp": "{1c:19}{0b:08}【 エレアノール 】{0b:09}\nまた同じような\n通路がのびていますね・・・{1a}どうやらこの階層も\n下の階層と同じ構造のようです。\n第一神殿の上の方は、\n全て同じ構造をしているのでしょう。{1a}一体いつになったら\n最上階にたどり着けるのか・・・{1a}この構造は人の心に迷いを\n生み出す為のものかもしれませんね。{0c:020501}",
    "read": "{1c:19}{0b:08}【 エレアノール 】{0b:09}\nまた同じような\n通路がのびていますね・・・{1a}どうやらこの階層も\n下の階層と同じ構造のようです。\n第一神殿の上の方は、\n全て同じ構造をしているのでしょう。{1a}一体いつになったら\n最上階にたどり着けるのか・・・{1a}この構造は人の心に迷いを\n生み出す為のものかもしれませんね。{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Eleanor 】{0b:09}\nAnother corridor much like the last\nstretches before us...{1a}It appears this level has the same\nstructure as the one below. Perhaps all\nthe upper reaches of the First Temple\nshare that structure.{1a}When will we ever reach the top floor...{1a}Perhaps this structure exists to sow\ndoubt in people's hearts.{0c:020501}",
+   "status": "done",
+   "tl": "Another corridor much like the last stretches before us... // It appears this level has the same structure as the one below. Perhaps all the upper reaches of the First Temple share that structure. // When will we ever reach the top floor... // Perhaps this structure exists to sow doubt in people's hearts."
   },
   {
    "id": "RES#72:12003",
@@ -2373,8 +2466,9 @@
    "jp": "{1c:26}{0b:08}【 ノエル 】{0b:09}\nまだ通路が続くのね・・・{1a}魔物が出てこないのはいいけど、\nこう単調だとさすがにうんざりするわ。{1a}一体あと何階層続くのかしら・・・{0c:020301}",
    "read": "{1c:26}{0b:08}【 ノエル 】{0b:09}\nまだ通路が続くのね・・・{1a}魔物が出てこないのはいいけど、\nこう単調だとさすがにうんざりするわ。{1a}一体あと何階層続くのかしら・・・{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:26}{0b:08}【 Noel 】{0b:09}\nThe corridor goes on and on...{1a}No monsters is all well and good, but this\nmonotony really is sickening, honestly.{1a}How many more levels can there be, I\nwonder...{0c:020301}",
+   "status": "done",
+   "tl": "The corridor goes on and on... // No monsters is all well and good, but this monotony really is sickening, honestly. // How many more levels can there be, I wonder..."
   },
   {
    "id": "RES#72:12074",
@@ -2395,8 +2489,9 @@
    "jp": "{1c:24}{0b:08}【 ディアス 】{0b:09}\nまた通路か・・・\n計算ではもう終わるはずだが・・・{0c:fe}",
    "read": "{1c:24}{0b:08}【 ディアス 】{0b:09}\nまた通路か・・・\n計算ではもう終わるはずだが・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:24}{0b:08}【 Dias 】{0b:09}\nAnother corridor... By my reckoning, this\nshould be the end...{0c:fe}",
+   "status": "done",
+   "tl": "Another corridor... By my reckoning, this should be the end..."
   },
   {
    "id": "RES#72:120b4",
@@ -2417,8 +2512,9 @@
    "jp": "{0b:08}【 ディアス 】{0b:09}\n現状では課程などに意味はない。\n先に進むのみだ。{0c:021901}",
    "read": "{0b:08}【 ディアス 】{0b:09}\n現状では課程などに意味はない。\n先に進むのみだ。{0c:021901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Dias 】{0b:09}\nAs things stand, the path taken means\nnothing. We go on, nothing more.{0c:021901}",
+   "status": "done",
+   "tl": "As things stand, the path taken means nothing. We go on, nothing more."
   },
   {
    "id": "RES#72:12102",
@@ -2439,8 +2535,9 @@
    "jp": "{1c:26}{0b:08}【 ノエル 】{0b:09}\nあたしの計算では\nもうすぐ終わるはずなんだけど・・・{1a}まあいいわ。\nとにかく先に進みましょ。{0c:021701}",
    "read": "{1c:26}{0b:08}【 ノエル 】{0b:09}\nあたしの計算では\nもうすぐ終わるはずなんだけど・・・{1a}まあいいわ。\nとにかく先に進みましょ。{0c:021701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:26}{0b:08}【 Noel 】{0b:09}\nBy my calculations it should end soon,\nthough...{1a}Oh, never mind. Let's just keep going.{0c:021701}",
+   "status": "done",
+   "tl": "By my calculations it should end soon, though... // Oh, never mind. Let's just keep going."
   },
   {
    "id": "RES#72:12158",
@@ -2461,8 +2558,9 @@
    "jp": "{1c:18}{0b:08}【 エレアノール 】{0b:09}\nとにかく先に進みましょう。\n今はそれしか出来ないのですから。{0c:021501}",
    "read": "{1c:18}{0b:08}【 エレアノール 】{0b:09}\nとにかく先に進みましょう。\n今はそれしか出来ないのですから。{0c:021501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Eleanor 】{0b:09}\nLet us go on regardless. That is all we\ncan do for now.{0c:021501}",
+   "status": "done",
+   "tl": "Let us go on regardless. That is all we can do for now."
   },
   {
    "id": "RES#72:121a1",
@@ -2483,8 +2581,9 @@
    "jp": "{1c:15}{0b:08}【 レイア 】{0b:09}\nとにかく進むしかない、か・・・{0c:021301}",
    "read": "{1c:15}{0b:08}【 レイア 】{0b:09}\nとにかく進むしかない、か・・・{0c:021301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Leia 】{0b:09}\nThere is nothing for it but to go on, it\nseems...{0c:021301}",
+   "status": "done",
+   "tl": "There is nothing for it but to go on, it seems..."
   },
   {
    "id": "RES#72:121d4",
@@ -2505,8 +2604,9 @@
    "jp": "{1c:23}{0b:08}【 イヴ 】{0b:09}\nま、とにかく進みましょ。\nそれしかすることないんだし。{0c:021101}",
    "read": "{1c:23}{0b:08}【 イヴ 】{0b:09}\nま、とにかく進みましょ。\nそれしかすることないんだし。{0c:021101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:23}{0b:08}【 Eve 】{0b:09}\nWell, let's just go on. There's nothing\nelse to do, after all.{0c:021101}",
+   "status": "done",
+   "tl": "Well, let's just go on. There's nothing else to do, after all."
   },
   {
    "id": "RES#72:12212",
@@ -2527,8 +2627,9 @@
    "jp": "{0b:08}【 アッシュ 】{0b:09}\nとにかくすすもうよ。\n歩いていれば\nいつかはたどりつくよ。{0c:020f01}",
    "read": "{0b:08}【 アッシュ 】{0b:09}\nとにかくすすもうよ。\n歩いていれば\nいつかはたどりつくよ。{0c:020f01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Ash 】{0b:09}\nLet's just keep going. If we keep walking,\nwe'll get there someday.{0c:020f01}",
+   "status": "done",
+   "tl": "Let's just keep going. If we keep walking, we'll get there someday."
   },
   {
    "id": "RES#72:12252",
@@ -2549,8 +2650,9 @@
    "jp": "{1c:20}{0b:08}【 オルフェウス 】{0b:09}\nま、とにかく進みましょう。\n他にすることもありませんし。{0c:020d01}",
    "read": "{1c:20}{0b:08}【 オルフェウス 】{0b:09}\nま、とにかく進みましょう。\n他にすることもありませんし。{0c:020d01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Orpheus 】{0b:09}\nWell, let us press on in any case. There is\nlittle else to do, after all.{0c:020d01}",
+   "status": "done",
+   "tl": "Well, let us press on in any case. There is little else to do, after all."
   },
   {
    "id": "RES#72:12296",
@@ -2571,8 +2673,9 @@
    "jp": "{1c:1a}{0b:08}【 パスカ 】{0b:09}\nま、とにかく先に進もうぜ。\nいつかはたどり着くだろ。{0c:020b01}",
    "read": "{1c:1a}{0b:08}【 パスカ 】{0b:09}\nま、とにかく先に進もうぜ。\nいつかはたどり着くだろ。{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}{0b:08}【 Pasca 】{0b:09}\nWell, let's just keep goin'. We'll get there\nsometime.{0c:020b01}",
+   "status": "done",
+   "tl": "Well, let's just keep goin'. We'll get there sometime."
   },
   {
    "id": "RES#72:122d6",
@@ -2593,8 +2696,9 @@
    "jp": "{1c:27}{0b:08}【 ルカ 】{0b:09}\nとにかく進みましょうか。\nいまはそれしか出来ませんし・・・{0c:020901}",
    "read": "{1c:27}{0b:08}【 ルカ 】{0b:09}\nとにかく進みましょうか。\nいまはそれしか出来ませんし・・・{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:27}{0b:08}【 Luca 】{0b:09}\nSh-shall we just go on? That's all we\ncan do for now...{0c:020901}",
+   "status": "done",
+   "tl": "Sh-shall we just go on? That's all we can do for now..."
   },
   {
    "id": "RES#72:12318",
@@ -2615,8 +2719,9 @@
    "jp": "{1c:29}{0b:08}【 サラ 】{0b:09}\nとにかく進もうよ。\n歩き続けたら\nいつかはたどり着くと思うよ。{0c:020701}",
    "read": "{1c:29}{0b:08}【 サラ 】{0b:09}\nとにかく進もうよ。\n歩き続けたら\nいつかはたどり着くと思うよ。{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:29}{0b:08}【 Sara 】{0b:09}\nLet's just keep going, okay? If we keep\nwalking, I think we'll get there someday.{0c:020701}",
+   "status": "done",
+   "tl": "Let's just keep going, okay? If we keep walking, I think we'll get there someday."
   },
   {
    "id": "RES#72:1235e",
@@ -2637,8 +2742,9 @@
    "jp": "{0b:08}【 シャルン 】{0b:09}\nとにかく先に進もうよ。\n今あたし達に出来ることは\nそれしかないんだから。{0c:020501}",
    "read": "{0b:08}【 シャルン 】{0b:09}\nとにかく先に進もうよ。\n今あたし達に出来ることは\nそれしかないんだから。{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Scharn 】{0b:09}\nLet's just keep going! It's the only thing\nwe can do right now, you know!{0c:020501}",
+   "status": "done",
+   "tl": "Let's just keep going! It's the only thing we can do right now, you know!"
   },
   {
    "id": "RES#72:123aa",
@@ -2659,8 +2765,9 @@
    "jp": "{1c:1e}{0b:08}【 ジェシカ 】{0b:09}\nグダグダ言ってても\n仕方ないでしょ。\n今はとにかく先に進むの。いいね。{0c:020301}",
    "read": "{1c:1e}{0b:08}【 ジェシカ 】{0b:09}\nグダグダ言ってても\n仕方ないでしょ。\n今はとにかく先に進むの。いいね。{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}{0b:08}【 Jessica 】{0b:09}\nGriping won't get us anywhere, you know\nthat? We're going on for now, got it?{0c:020301}",
+   "status": "done",
+   "tl": "Griping won't get us anywhere, you know that? We're going on for now, got it?"
   },
   {
    "id": "RES#72:123f7",
@@ -2681,8 +2788,9 @@
    "jp": "{1c:13}{0b:08}【 アーサー 】{0b:09}\nとにかく先に進むしかないか・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\nとにかく先に進むしかないか・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nWe have no choice but to go on...{0c:fe}",
+   "status": "done",
+   "tl": "We have no choice but to go on..."
   },
   {
    "id": "RES#72:1242b",
@@ -2703,8 +2811,9 @@
    "jp": "{0b:08}【 アッシュ 】{0b:09}\nこの門・・・{1a}今までのとはちがうよな。\nもしかして・・・{0c:021201}",
    "read": "{0b:08}【 アッシュ 】{0b:09}\nこの門・・・{1a}今までのとはちがうよな。\nもしかして・・・{0c:021201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Ash 】{0b:09}\nThis gate...{1a}It's different from the ones before,\ny'know. Could it be...{0c:021201}",
+   "status": "done",
+   "tl": "This gate... // It's different from the ones before, y'know. Could it be..."
   },
   {
    "id": "RES#72:124c9",
@@ -2714,8 +2823,9 @@
    "jp": "{1c:13}{0b:08}【 アーサー 】{0b:09}\nこの門・・・{1a}今までのとは違うな。\nもしかしてこれが・・・{0c:021101}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\nこの門・・・{1a}今までのとは違うな。\nもしかしてこれが・・・{0c:021101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nThis gate...{1a}It is different from the ones before.\nCould this be...{0c:021101}",
+   "status": "done",
+   "tl": "This gate... // It is different from the ones before. Could this be..."
   },
   {
    "id": "RES#72:12502",
@@ -2725,8 +2835,9 @@
    "jp": "{1c:15}{0b:08}【 レイア 】{0b:09}\nこの門は・・・\nもしかしてこれが・・・{0c:021001}",
    "read": "{1c:15}{0b:08}【 レイア 】{0b:09}\nこの門は・・・\nもしかしてこれが・・・{0c:021001}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Leia 】{0b:09}\nThis gate... Could this be...{0c:021001}",
+   "status": "done",
+   "tl": "This gate... Could this be..."
   },
   {
    "id": "RES#72:1252e",
@@ -2736,8 +2847,9 @@
    "jp": "{1c:17}{0b:08}【 エレアノール 】{0b:09}\nこの門は・・・\nもしかしてこれが・・・{0c:020f01}",
    "read": "{1c:17}{0b:08}【 エレアノール 】{0b:09}\nこの門は・・・\nもしかしてこれが・・・{0c:020f01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Eleanor 】{0b:09}\nThis gate... Could this be...{0c:020f01}",
+   "status": "done",
+   "tl": "This gate... Could this be..."
   },
   {
    "id": "RES#72:1255d",
@@ -2747,8 +2859,9 @@
    "jp": "{1c:1a}{0b:08}【 パスカ 】{0b:09}\nこの門・・・{1a}今までのとは違うよな。\nひょっとしてこれが・・・{0c:020e01}",
    "read": "{1c:1a}{0b:08}【 パスカ 】{0b:09}\nこの門・・・{1a}今までのとは違うよな。\nひょっとしてこれが・・・{0c:020e01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}{0b:08}【 Pasca 】{0b:09}\nThis gate...{1a}It's different from the others, ain't it.\nCould this be...{0c:020e01}",
+   "status": "done",
+   "tl": "This gate... // It's different from the others, ain't it. Could this be..."
   },
   {
    "id": "RES#72:12597",
@@ -2780,8 +2893,9 @@
    "jp": "{1c:1d}{0b:08}【 シャルン 】{0b:09}\nこの門・・・{1a}下の階にあったのとは違うよね。\nひょっとして・・・{0c:020b01}",
    "read": "{1c:1d}{0b:08}【 シャルン 】{0b:09}\nこの門・・・{1a}下の階にあったのとは違うよね。\nひょっとして・・・{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}{0b:08}【 Scharn 】{0b:09}\nThis gate...{1a}It's different from the ones on the\nlower floors, right? Could it be...{0c:020b01}",
+   "status": "done",
+   "tl": "This gate... // It's different from the ones on the lower floors, right? Could it be..."
   },
   {
    "id": "RES#72:125d6",
@@ -2802,8 +2916,9 @@
    "jp": "{1c:1f}{0b:08}【 ジェシカ 】{0b:09}\nこの門って・・・{1a}今までのとは違うよね、\nひょっとしてこれ・・・{0c:020901}",
    "read": "{1c:1f}{0b:08}【 ジェシカ 】{0b:09}\nこの門って・・・{1a}今までのとは違うよね、\nひょっとしてこれ・・・{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}{0b:08}【 Jessica 】{0b:09}\nThis gate...{1a}It's not like the others, huh? Could this\nbe...{0c:020901}",
+   "status": "done",
+   "tl": "This gate... // It's not like the others, huh? Could this be..."
   },
   {
    "id": "RES#72:12613",
@@ -2813,8 +2928,9 @@
    "jp": "{1c:21}{0b:08}【 オルフェウス 】{0b:09}\nこの門・・・\nこれはもしかして・・・{0c:020801}",
    "read": "{1c:21}{0b:08}【 オルフェウス 】{0b:09}\nこの門・・・\nこれはもしかして・・・{0c:020801}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:21}{0b:08}【 Orpheus 】{0b:09}\nThis gate... Could this be...{0c:020801}",
+   "status": "done",
+   "tl": "This gate... Could this be..."
   },
   {
    "id": "RES#72:12641",
@@ -2824,8 +2940,9 @@
    "jp": "{1c:22}{0b:08}【 イヴ 】{0b:09}\nこの門・・・{1a}今までのとは違うわよね。\nもしかしてこれって・・・{0c:020701}",
    "read": "{1c:22}{0b:08}【 イヴ 】{0b:09}\nこの門・・・{1a}今までのとは違うわよね。\nもしかしてこれって・・・{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:22}{0b:08}【 Eve 】{0b:09}\nThis gate...{1a}It's not like the others, is it. Could this\nbe...{0c:020701}",
+   "status": "done",
+   "tl": "This gate... // It's not like the others, is it. Could this be..."
   },
   {
    "id": "RES#72:1267b",
@@ -2835,8 +2952,9 @@
    "jp": "{1c:24}{0b:08}【 ディアス 】{0b:09}\nこの門は・・・{1a}そうか、此処か・・・{0c:020601}",
    "read": "{1c:24}{0b:08}【 ディアス 】{0b:09}\nこの門は・・・{1a}そうか、此処か・・・{0c:020601}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:24}{0b:08}【 Dias 】{0b:09}\nThis gate...{1a}So, it is here...{0c:020601}",
+   "status": "done",
+   "tl": "This gate... // So, it is here..."
   },
   {
    "id": "RES#72:126a9",
@@ -2846,8 +2964,9 @@
    "jp": "{1c:25}{0b:08}【 ノエル 】{0b:09}\nこの門は・・・{1a}もしかしてこれが・・・{0c:020501}",
    "read": "{1c:25}{0b:08}【 ノエル 】{0b:09}\nこの門は・・・{1a}もしかしてこれが・・・{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:25}{0b:08}【 Noel 】{0b:09}\nThis gate...{1a}Could this be...{0c:020501}",
+   "status": "done",
+   "tl": "This gate... // Could this be..."
   },
   {
    "id": "RES#72:126d5",
@@ -2879,8 +2998,9 @@
    "jp": "{1c:28}{0b:08}【 ルカ 】{0b:09}\nこの門・・・{1a}これまでのとは違いますよね。\nもしかしてこれが・・・{0c:020201}",
    "read": "{1c:28}{0b:08}【 ルカ 】{0b:09}\nこの門・・・{1a}これまでのとは違いますよね。\nもしかしてこれが・・・{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:28}{0b:08}【 Luca 】{0b:09}\nTh-this gate...{1a}It's not like the ones before, is it?\nC-could this be...{0c:020201}",
+   "status": "done",
+   "tl": "Th-this gate... // It's not like the ones before, is it? C-could this be..."
   },
   {
    "id": "RES#72:12711",
@@ -2890,8 +3010,9 @@
    "jp": "{1c:2a}{0b:08}【 サラ 】{0b:09}\nこの門・・・{1a}今までのとは違うよね。\nもしかしてこれって・・・{0c:fe}",
    "read": "{1c:2a}{0b:08}【 サラ 】{0b:09}\nこの門・・・{1a}今までのとは違うよね。\nもしかしてこれって・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:2a}{0b:08}【 Sara 】{0b:09}\nThis gate...{1a}It's different from the other ones, huh?\nCould this be...{0c:fe}",
+   "status": "done",
+   "tl": "This gate... // It's different from the other ones, huh? Could this be..."
   },
   {
    "id": "RES#72:12748",
@@ -2912,8 +3033,9 @@
    "jp": "{0c:521018}{1c:10}{0b:08}【 アッシュ 】{0b:09}\nうん、これだよ。\nえーと、名前は・・・{1a}そうだ、『審問者の門』だよな。{1a}この門のこと、クムランさんから\n何度か聞いたことあるから\nたぶんまちがいないよ。{1a}次の部屋の魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}がもらえるんだよな。\n{0c:5210181007}うん、そうだよ、\nここが最上階なんだ。{0c:021201}",
    "read": "{0c:521018}{1c:10}{0b:08}【 アッシュ 】{0b:09}\nうん、これだよ。\nえーと、名前は・・・{1a}そうだ、『審問者の門』だよな。{1a}この門のこと、クムランさんから\n何度か聞いたことあるから\nたぶんまちがいないよ。{1a}次の部屋の魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}がもらえるんだよな。\n{0c:5210181007}うん、そうだよ、\nここが最上階なんだ。{0c:021201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:10}{0b:08}【 Ash 】{0b:09}\nYeah, this is it. Uh, what was it called...{1a}Right, the 'Inquisitor's Gate', y'know.{1a}I've heard Qumran-san talk about this\ngate a few times, so I guess I've got it\nright.{1a}If we beat the monster in the next\nroom, we get {09:08}the 'Sun Jewel'{09:01}, right?\n{0c:5210181007}Yeah, that's it, this is the top floor.{0c:021201}",
+   "status": "done",
+   "tl": "Yeah, this is it. Uh, what was it called... // Right, the 'Inquisitor's Gate', y'know. // I've heard Qumran-san talk about this gate a few times, so I guess I've got it right. // If we beat the monster in the next room, we get [1]the 'Sun Jewel'[2], right? [3]Yeah, that's it, this is the top floor."
   },
   {
    "id": "RES#72:12817",
@@ -2923,8 +3045,9 @@
    "jp": "{0c:521018}{1c:12}{0b:08}【 アーサー 】{0b:09}\nああ、『審問者の門』だ!{1a}クムランさんにこの門の絵を\n何度か見せてもらった事があるんだ。\nだから間違いないよ。{1a}この次の部屋の魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}が手に入るんだ。\n{0c:5210181007}そう、ここが最上階なんだよ!{0c:021101}",
    "read": "{0c:521018}{1c:12}{0b:08}【 アーサー 】{0b:09}\nああ、『審問者の門』だ!{1a}クムランさんにこの門の絵を\n何度か見せてもらった事があるんだ。\nだから間違いないよ。{1a}この次の部屋の魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}が手に入るんだ。\n{0c:5210181007}そう、ここが最上階なんだよ!{0c:021101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:12}{0b:08}【 Arthur 】{0b:09}\nYes, it's the 'Inquisitor's Gate'!{1a}Qumran-san has shown me pictures of\nthis gate several times. So there can be\nno mistake.{1a}If we defeat the monster in the next\nroom, we will obtain {09:08}the 'Sun Jewel'{09:01}.\n{0c:5210181007}That's right, this is the top floor!{0c:021101}",
+   "status": "done",
+   "tl": "Yes, it's the 'Inquisitor's Gate'! // Qumran-san has shown me pictures of this gate several times. So there can be no mistake. // If we defeat the monster in the next room, we will obtain [1]the 'Sun Jewel'[2]. [3]That's right, this is the top floor!"
   },
   {
    "id": "RES#72:128c7",
@@ -2934,8 +3057,9 @@
    "jp": "{0b:08}【 レイア 】{0b:09}\nああ、間違いない。\n『審問者の門』だ。{1a}{09:08}『太陽の宝玉』{09:01}は次の部屋にある。\nそう、つまりここが最上階だ。{0c:021001}",
    "read": "{0b:08}【 レイア 】{0b:09}\nああ、間違いない。\n『審問者の門』だ。{1a}{09:08}『太陽の宝玉』{09:01}は次の部屋にある。\nそう、つまりここが最上階だ。{0c:021001}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Leia 】{0b:09}\nYes, there is no doubt. It is the\n'Inquisitor's Gate'.{1a}{09:08}The 'Sun Jewel'{09:01} lies in the next room.\nYes. That means this is the top floor.{0c:021001}",
+   "status": "done",
+   "tl": "Yes, there is no doubt. It is the 'Inquisitor's Gate'. // [1]The 'Sun Jewel'[2] lies in the next room. Yes. That means this is the top floor."
   },
   {
    "id": "RES#72:12928",
@@ -2945,8 +3069,9 @@
    "jp": "{1c:16}{0b:08}【 エレアノール 】{0b:09}\nええ、間違いありません、\nこれは『審問者の門』・・・{1a}そして、\nこれが『審問者の門』ならば、\n次の部屋に皆の求める\n{09:08}『太陽の宝玉』{09:01}があるはず・・・{1a}{0c:5210181007}そう、\nつまり、まさにここが\n最上階ということになります。{0c:020f01}",
    "read": "{1c:16}{0b:08}【 エレアノール 】{0b:09}\nええ、間違いありません、\nこれは『審問者の門』・・・{1a}そして、\nこれが『審問者の門』ならば、\n次の部屋に皆の求める\n{09:08}『太陽の宝玉』{09:01}があるはず・・・{1a}{0c:5210181007}そう、\nつまり、まさにここが\n最上階ということになります。{0c:020f01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}{0b:08}【 Eleanor 】{0b:09}\nYes, there is no mistaking it. This is the\n'Inquisitor's Gate'...{1a}And if this is indeed the 'Inquisitor's\nGate', then the next room should hold\n{09:08}the 'Sun Jewel'{09:01} that everyone seeks...{1a}{0c:5210181007}Yes. That is to say, this is the very top\nfloor.{0c:020f01}",
+   "status": "done",
+   "tl": "Yes, there is no mistaking it. This is the 'Inquisitor's Gate'... // And if this is indeed the 'Inquisitor's Gate', then the next room should hold [1]the 'Sun Jewel'[2] that everyone seeks... // [3]Yes. That is to say, this is the very top floor."
   },
   {
    "id": "RES#72:129d1",
@@ -2956,8 +3081,9 @@
    "jp": "{0b:08}【 パスカ 】{0b:09}\nああ、間違いねえ、\n『審問者の門』だ!{1a}{0c:51081007}この門の絵、ついこの間\nクムランさんに見せてもらったんだ。\nいくらオレでも間違わねえよ。{1a}{0c:51082b501000}まてよ・・・\nってことは、\nオレ達が今いるこの階層が、\n待ちに待ってた最上階じゃねえか!{1a}{0c:5210181009}そうさ、次の部屋に\n{09:08}『太陽の宝玉』{09:01}があるんだよ!{0c:020e01}",
    "read": "{0b:08}【 パスカ 】{0b:09}\nああ、間違いねえ、\n『審問者の門』だ!{1a}{0c:51081007}この門の絵、ついこの間\nクムランさんに見せてもらったんだ。\nいくらオレでも間違わねえよ。{1a}{0c:51082b501000}まてよ・・・\nってことは、\nオレ達が今いるこの階層が、\n待ちに待ってた最上階じゃねえか!{1a}{0c:5210181009}そうさ、次の部屋に\n{09:08}『太陽の宝玉』{09:01}があるんだよ!{0c:020e01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Pasca 】{0b:09}\nYeah, no mistake, it's the 'Inquisitor's\nGate'!{1a}{0c:51081007}Qumran-san showed me a picture of this\ngate just the other day. Even I ain't\ngonna get that wrong.{1a}{0c:51082b501000}Hold on... That means this floor we're\nstandin' on is the top floor we been\nwaitin' for, ain't it!{1a}{0c:5210181009}That's right, the next room's got {09:08}the\n'Sun Jewel'{09:01} in it!{0c:020e01}",
+   "status": "done",
+   "tl": "Yeah, no mistake, it's the 'Inquisitor's Gate'! // [1]Qumran-san showed me a picture of this gate just the other day. Even I ain't gonna get that wrong. // [2]Hold on... That means this floor we're standin' on is the top floor we been waitin' for, ain't it! // [3]That's right, the next room's got [4]the 'Sun Jewel'[5] in it!"
   },
   {
    "id": "RES#72:12ab1",
@@ -2989,8 +3115,9 @@
    "jp": "{0c:521018}{1c:1c}{0b:08}【 シャルン 】{0b:09}\nうん、そうだよ、\nこれがクムランさんの言ってた\n『審問者の門』だよ!{1a}{0c:522028}『審問者の門』の絵を\n何回かクムランさんに\n見せてもらったことがあるけど\nそれと全く同じだもん!{1a}{0c:51081007}この門の次の部屋にいる魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}が手に入るんだって。{1a}{0c:521018}そう、つまりここが\n第一神殿の最上階なんだよ!{0c:020b01}",
    "read": "{0c:521018}{1c:1c}{0b:08}【 シャルン 】{0b:09}\nうん、そうだよ、\nこれがクムランさんの言ってた\n『審問者の門』だよ!{1a}{0c:522028}『審問者の門』の絵を\n何回かクムランさんに\n見せてもらったことがあるけど\nそれと全く同じだもん!{1a}{0c:51081007}この門の次の部屋にいる魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}が手に入るんだって。{1a}{0c:521018}そう、つまりここが\n第一神殿の最上階なんだよ!{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:1c}{0b:08}【 Scharn 】{0b:09}\nYeah, that's right! This is the\n'Inquisitor's Gate' Qumran-san was\ntalking about!{1a}{0c:522028}Qumran-san showed me pictures of the\n'Inquisitor's Gate' a few times, and it's\nexactly the same, you know!{1a}{0c:51081007}They say if you beat the monster in the\nroom past this gate, you get {09:08}the 'Sun\nJewel'{09:01}!{1a}{0c:521018}So that means this is the top floor of\nthe First Temple!{0c:020b01}",
+   "status": "done",
+   "tl": "Yeah, that's right! This is the 'Inquisitor's Gate' Qumran-san was talking about! // [1]Qumran-san showed me pictures of the 'Inquisitor's Gate' a few times, and it's exactly the same, you know! // [2]They say if you beat the monster in the room past this gate, you get [3]the 'Sun Jewel'[4]! // [5]So that means this is the top floor of the First Temple!"
   },
   {
    "id": "RES#72:12ba6",
@@ -3011,8 +3138,9 @@
    "jp": "{0c:521018}{0b:08}【 ジェシカ 】{0b:09}\nうん、そうだよ!\nこれ、酒場のおっさんが言ってた\n『審問者の門』だよ!{1a}それにこの門の絵、\n何回かクムランさんに\n見せてもらったこともあるし\n絶対まちがいないよ。{1a}{0c:523038}あれ・・・\nってことは・・・{1a}{0c:524048}あたし達が今いるこの階層が\n待ちに待ってた最上階じゃん!{1a}{0c:521018}うんうん、思い出した!\n次の部屋に{09:08}『太陽の宝玉』{09:01}が\nあるんだよ!{0c:020901}",
    "read": "{0c:521018}{0b:08}【 ジェシカ 】{0b:09}\nうん、そうだよ!\nこれ、酒場のおっさんが言ってた\n『審問者の門』だよ!{1a}それにこの門の絵、\n何回かクムランさんに\n見せてもらったこともあるし\n絶対まちがいないよ。{1a}{0c:523038}あれ・・・\nってことは・・・{1a}{0c:524048}あたし達が今いるこの階層が\n待ちに待ってた最上階じゃん!{1a}{0c:521018}うんうん、思い出した!\n次の部屋に{09:08}『太陽の宝玉』{09:01}が\nあるんだよ!{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{0b:08}【 Jessica 】{0b:09}\nYeah, that's it! This is the 'Inquisitor's\nGate' the old guy at the tavern was\ngoing on about!{1a}Plus Qumran-san's shown me a picture\nof this gate a few times, so there's no\nway I'm wrong.{1a}{0c:523038}Huh... So that means...{1a}{0c:524048}This floor we're on is the top floor\nwe've been waiting for!{1a}{0c:521018}Yeah, yeah, now I remember! The next\nroom's got {09:08}the 'Sun Jewel'{09:01} in it!{0c:020901}",
+   "status": "done",
+   "tl": "Yeah, that's it! This is the 'Inquisitor's Gate' the old guy at the tavern was going on about! // Plus Qumran-san's shown me a picture of this gate a few times, so there's no way I'm wrong. // [1]Huh... So that means... // [2]This floor we're on is the top floor we've been waiting for! // [3]Yeah, yeah, now I remember! The next room's got [4]the 'Sun Jewel'[5] in it!"
   },
   {
    "id": "RES#72:12ca3",
@@ -3022,8 +3150,9 @@
    "jp": "{1c:20}{0b:08}【 オルフェウス 】{0b:09}\nええ、これが\n『審問者の門』でしょう。{1a}この門の事ならば\n酒場にいる親切の押し売りオジさんに\n幾度か聞いたことがありますから\nまず間違いありません。{1a}ええ、次の部屋にお待ちかねの\n{09:08}『太陽の宝玉』{09:01}があります。\nつまりここが最上階だったんですね。{0c:020801}",
    "read": "{1c:20}{0b:08}【 オルフェウス 】{0b:09}\nええ、これが\n『審問者の門』でしょう。{1a}この門の事ならば\n酒場にいる親切の押し売りオジさんに\n幾度か聞いたことがありますから\nまず間違いありません。{1a}ええ、次の部屋にお待ちかねの\n{09:08}『太陽の宝玉』{09:01}があります。\nつまりここが最上階だったんですね。{0c:020801}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Orpheus 】{0b:09}\nYes, this would be the 'Inquisitor's Gate'.{1a}I have heard of it several times from old\nKindness Peddler at the tavern, so I\ndaresay there is little doubt.{1a}Yes, in the next room awaits {09:08}the 'Sun\nJewel'{09:01} we have all so longed for. So this\nwas the top floor all along, how charming.{0c:020801}",
+   "status": "done",
+   "tl": "Yes, this would be the 'Inquisitor's Gate'. // I have heard of it several times from old Kindness Peddler at the tavern, so I daresay there is little doubt. // Yes, in the next room awaits [1]the 'Sun Jewel'[2] we have all so longed for. So this was the top floor all along, how charming."
   },
   {
    "id": "RES#72:12d5d",
@@ -3033,8 +3162,9 @@
    "jp": "{1c:22}{0b:08}【 イヴ 】{0b:09}\nええ、\nこれって『審問者の門』よね。{1a}この門のコトは酒場で\n何度か聞いたことがあるから\nたぶん間違いないわ。{1a}{09:08}『太陽の宝玉』{09:01}は\n次の部屋にあるはずよ。\nつまりここが最上階だったってわけ。{0c:020701}",
    "read": "{1c:22}{0b:08}【 イヴ 】{0b:09}\nええ、\nこれって『審問者の門』よね。{1a}この門のコトは酒場で\n何度か聞いたことがあるから\nたぶん間違いないわ。{1a}{09:08}『太陽の宝玉』{09:01}は\n次の部屋にあるはずよ。\nつまりここが最上階だったってわけ。{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:22}{0b:08}【 Eve 】{0b:09}\nYes, this would be the 'Inquisitor's Gate',\nwouldn't it.{1a}I've heard about this gate at the tavern\na few times, so I suppose there's no\nmistake.{1a}{09:08}The 'Sun Jewel'{09:01} should be in the next\nroom. Which makes this the top floor\nafter all, you know.{0c:020701}",
+   "status": "done",
+   "tl": "Yes, this would be the 'Inquisitor's Gate', wouldn't it. // I've heard about this gate at the tavern a few times, so I suppose there's no mistake. // [1]The 'Sun Jewel'[2] should be in the next room. Which makes this the top floor after all, you know."
   },
   {
    "id": "RES#72:12df1",
@@ -3044,8 +3174,9 @@
    "jp": "{0b:08}【 ディアス 】{0b:09}\nああ、間違いない。\nこれが『審問者の門』だ。{1a}そして、次の部屋に\n{09:08}『太陽の宝玉』{09:01}がある・・・\nつまりここが\n最上階だったという訳だ。{0c:020601}",
    "read": "{0b:08}【 ディアス 】{0b:09}\nああ、間違いない。\nこれが『審問者の門』だ。{1a}そして、次の部屋に\n{09:08}『太陽の宝玉』{09:01}がある・・・\nつまりここが\n最上階だったという訳だ。{0c:020601}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Dias 】{0b:09}\nYes, there is no doubt. This is the\n'Inquisitor's Gate'.{1a}And in the next room lies {09:08}the 'Sun\nJewel'{09:01}... Which means this was the top\nfloor.{0c:020601}",
+   "status": "done",
+   "tl": "Yes, there is no doubt. This is the 'Inquisitor's Gate'. // And in the next room lies [1]the 'Sun Jewel'[2]... Which means this was the top floor."
   },
   {
    "id": "RES#72:12e63",
@@ -3055,8 +3186,9 @@
    "jp": "{1c:25}{0b:08}【 ノエル 】{0b:09}\nええ、間違いないわ。\nこれは『審問者の門』、{1a}そして、次の部屋には\n{09:08}『太陽の宝玉』{09:01}がある・・・\nつまりここが最上階だったのね。{0c:020501}",
    "read": "{1c:25}{0b:08}【 ノエル 】{0b:09}\nええ、間違いないわ。\nこれは『審問者の門』、{1a}そして、次の部屋には\n{09:08}『太陽の宝玉』{09:01}がある・・・\nつまりここが最上階だったのね。{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:25}{0b:08}【 Noel 】{0b:09}\nYes, there's no doubt. This is the\n'Inquisitor's Gate',{1a}and in the next room is {09:08}the 'Sun Jewel'{09:01}...\nSo this was the top floor.{0c:020501}",
+   "status": "done",
+   "tl": "Yes, there's no doubt. This is the 'Inquisitor's Gate', // and in the next room is [1]the 'Sun Jewel'[2]... So this was the top floor."
   },
   {
    "id": "RES#72:12ed2",
@@ -3088,8 +3220,9 @@
    "jp": "{0c:527078}{1c:27}{0b:08}【 ルカ 】{0b:09}\nは、はい、\n『審問者の門』ですよね。{1a}この門の模様はクムランさんに\n見せていただいた資料の中に\nありましたから、\nたぶん間違いないと思います。{1a}そして、次の部屋にいる魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}が手に入るんですよね。\nつまり、ここは最上階だったんです。{0c:020201}",
    "read": "{0c:527078}{1c:27}{0b:08}【 ルカ 】{0b:09}\nは、はい、\n『審問者の門』ですよね。{1a}この門の模様はクムランさんに\n見せていただいた資料の中に\nありましたから、\nたぶん間違いないと思います。{1a}そして、次の部屋にいる魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}が手に入るんですよね。\nつまり、ここは最上階だったんです。{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:527078}{1c:27}{0b:08}【 Luca 】{0b:09}\nY-yes, it's the 'Inquisitor's Gate', isn't\nit?{1a}The pattern on this gate was in the\nmaterials Qumran-san was kind enough\nto show me, so I th-think there is no\nmistake.{1a}And if we defeat the monster in the\nnext room, we obtain {09:08}the 'Sun Jewel'{09:01},\nd-don't we? So this was the top floor.{0c:020201}",
+   "status": "done",
+   "tl": "Y-yes, it's the 'Inquisitor's Gate', isn't it? // The pattern on this gate was in the materials Qumran-san was kind enough to show me, so I th-think there is no mistake. // And if we defeat the monster in the next room, we obtain [1]the 'Sun Jewel'[2], d-don't we? So this was the top floor."
   },
   {
    "id": "RES#72:12f95",
@@ -3099,8 +3232,9 @@
    "jp": "{0c:521018}{1c:2b}{0b:08}【 サラ 】{0b:09}\nうん、きっとそうだよ、\nこれ、町のみんなが言ってた\n『審問者の門』だよ。{1a}この門の絵、\nクムランさんに何度か\n見せてもらったことがあるから\nまちがいないと思う。{1a}次の部屋の魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}がもらえるんだよね。\nそう、ここが最上階だったんだよ。{0c:fe}",
    "read": "{0c:521018}{1c:2b}{0b:08}【 サラ 】{0b:09}\nうん、きっとそうだよ、\nこれ、町のみんなが言ってた\n『審問者の門』だよ。{1a}この門の絵、\nクムランさんに何度か\n見せてもらったことがあるから\nまちがいないと思う。{1a}次の部屋の魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}がもらえるんだよね。\nそう、ここが最上階だったんだよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:2b}{0b:08}【 Sara 】{0b:09}\nYeah, I bet that's it! This is the\n'Inquisitor's Gate' everyone in town was\ntalking about.{1a}Qumran-san showed me pictures of this\ngate lots of times, so I think I'm right.{1a}If we beat the monster in the next\nroom, we get {09:08}the 'Sun Jewel'{09:01}, right?\nYeah, this was the top floor.{0c:fe}",
+   "status": "done",
+   "tl": "Yeah, I bet that's it! This is the 'Inquisitor's Gate' everyone in town was talking about. // Qumran-san showed me pictures of this gate lots of times, so I think I'm right. // If we beat the monster in the next room, we get [1]the 'Sun Jewel'[2], right? Yeah, this was the top floor."
   },
   {
    "id": "RES#72:13051",
@@ -3121,8 +3255,9 @@
    "jp": "{0c:51081003}{1c:10}{0b:08}【 アッシュ 】{0b:09}\n2人ともよかったな、\nあと一歩じゃないか。{1a}おれは次の城門が開く日に\n帰るつもりだし、お金もいらないから\n{09:08}『太陽の宝玉』{09:01}は必要ないんだけど、\nもちろん最後までおまえ達を手伝うよ。{1a}{0c:521018}バルデスさんや\n{10}達のおかげで\n妹を助けることができたんだからな。{1a}でもほんとうによかったな。\nなんだかおれもうれしいよ。{0c:021201}",
    "read": "{0c:51081003}{1c:10}{0b:08}【 アッシュ 】{0b:09}\n2人ともよかったな、\nあと一歩じゃないか。{1a}おれは次の城門が開く日に\n帰るつもりだし、お金もいらないから\n{09:08}『太陽の宝玉』{09:01}は必要ないんだけど、\nもちろん最後までおまえ達を手伝うよ。{1a}{0c:521018}バルデスさんや\n{10}達のおかげで\n妹を助けることができたんだからな。{1a}でもほんとうによかったな。\nなんだかおれもうれしいよ。{0c:021201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51081003}{1c:10}{0b:08}【 Ash 】{0b:09}\nThat's great for you two. Just one more\nstep, y'know.{1a}I'm heading home the next time the town\ngates open, and I don't need the money,\nso I've got no use for {09:08}the 'Sun Jewel'{09:01},\nbut I'll help you both right to the end,{1a}of course.{1a}{0c:521018}It's thanks to Valdes-san and you,\n{10}, and everybody that I could\nsave my sister.{1a}Really, it's great. I guess it makes me\nhappy too.{0c:021201}",
+   "status": "done",
+   "tl": "That's great for you two. Just one more step, y'know. // I'm heading home the next time the town gates open, and I don't need the money, so I've got no use for [1]the 'Sun Jewel'[2], but I'll help you both right to the end, of course. // [3]It's thanks to Valdes-san and you, [HERO], and everybody that I could save my sister. // Really, it's great. I guess it makes me happy too."
   },
   {
    "id": "RES#72:13138",
@@ -3132,8 +3267,9 @@
    "jp": "{0c:5210181003}{1c:12}{0b:08}【 アーサー 】{0b:09}\nやったな、あと一歩じゃないか!\nあと一歩でこの町の\n正式な居住権が手に入るんだ!{1a}僕は、君達と比べると\nはるかに子供っぽい目的意識しか\nもっていなかった事を、\nこの町に来て思い知らされたけど、{1a}それでもこの町で\n自分を磨きたいという気持ちに\n変わりはないんだ。{1a}{0c:522018}いや、君達と出会ったおかげで\nむしろその気持ちは\n強まったかもしれない・・・{1a}だからこそ、\nどうしても{09:08}『太陽の宝玉』{09:01}を\n手に入れておきたかったんだ。\n一人前の戦士の『証』として・・・{1a}{0c:51082b501000}もちろん、\nそれが手に入ったからといって\n自分が変わる訳じゃないのは\n分かってる。{1a}でも、自分に自信を\n持てるようになるきっかけには\nなるんじゃないかと思うんだ。{0c:021101}",
    "read": "{0c:5210181003}{1c:12}{0b:08}【 アーサー 】{0b:09}\nやったな、あと一歩じゃないか!\nあと一歩でこの町の\n正式な居住権が手に入るんだ!{1a}僕は、君達と比べると\nはるかに子供っぽい目的意識しか\nもっていなかった事を、\nこの町に来て思い知らされたけど、{1a}それでもこの町で\n自分を磨きたいという気持ちに\n変わりはないんだ。{1a}{0c:522018}いや、君達と出会ったおかげで\nむしろその気持ちは\n強まったかもしれない・・・{1a}だからこそ、\nどうしても{09:08}『太陽の宝玉』{09:01}を\n手に入れておきたかったんだ。\n一人前の戦士の『証』として・・・{1a}{0c:51082b501000}もちろん、\nそれが手に入ったからといって\n自分が変わる訳じゃないのは\n分かってる。{1a}でも、自分に自信を\n持てるようになるきっかけには\nなるんじゃないかと思うんだ。{0c:021101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5210181003}{1c:12}{0b:08}【 Arthur 】{0b:09}\nWe did it, just one more step! One more\nstep, and we'll have official residency in\nthis town!{1a}Coming here has made me painfully aware\nthat my goals were far more childish\nthan yours,{1a}but even so, my wish to better myself in\nthis town has not changed.{1a}{0c:522018}No, thanks to meeting you, that wish\nmay have only grown stronger...{1a}That's exactly why I had to have {09:08}the\n'Sun Jewel'{09:01}. As 'proof' that I am a\nfull-fledged warrior...{1a}{0c:51082b501000}Of course, I understand that having it\nwon't change who I am.{1a}But I believe it could be the start I need\nto have some faith in myself.{0c:021101}",
+   "status": "done",
+   "tl": "We did it, just one more step! One more step, and we'll have official residency in this town! // Coming here has made me painfully aware that my goals were far more childish than yours, // but even so, my wish to better myself in this town has not changed. // [1]No, thanks to meeting you, that wish may have only grown stronger... // That's exactly why I had to have [2]the 'Sun Jewel'[3]. As 'proof' that I am a full-fledged warrior... // [4]Of course, I understand that having it won't change who I am. // But I believe it could be the start I need to have some faith in myself."
   },
   {
    "id": "RES#72:132e3",
@@ -3143,8 +3279,9 @@
    "jp": "{0b:08}【 レイア 】{0b:09}\nあと一歩でこの町の居住権が\n手に入るのか・・・{1a}だが、まだ始まりに過ぎない。\n私の目的にはまだ遠い・・・{0c:021001}",
    "read": "{0b:08}【 レイア 】{0b:09}\nあと一歩でこの町の居住権が\n手に入るのか・・・{1a}だが、まだ始まりに過ぎない。\n私の目的にはまだ遠い・・・{0c:021001}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Leia 】{0b:09}\nOne more step, and I shall have residency\nin this town...{1a}Yet this is only the beginning. My goal is\nstill far off...{0c:021001}",
+   "status": "done",
+   "tl": "One more step, and I shall have residency in this town... // Yet this is only the beginning. My goal is still far off..."
   },
   {
    "id": "RES#72:1333b",
@@ -3154,8 +3291,9 @@
    "jp": "{0c:51081003}{1c:18}{0b:08}【 エレアノール 】{0b:09}\nよかったですね。{1a}{09:08}『太陽の宝玉』{09:01}の取得は\nおふたりにとって過程の1つに\n過ぎないとは思いますが{1a}それでもおふたりは\n確実に1歩前進したのですから。{0c:020f01}",
    "read": "{0c:51081003}{1c:18}{0b:08}【 エレアノール 】{0b:09}\nよかったですね。{1a}{09:08}『太陽の宝玉』{09:01}の取得は\nおふたりにとって過程の1つに\n過ぎないとは思いますが{1a}それでもおふたりは\n確実に1歩前進したのですから。{0c:020f01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51081003}{1c:18}{0b:08}【 Eleanor 】{0b:09}\nI am so glad for you.{1a}{09:08}The 'Sun Jewel'{09:01} may be only one stage\nalong the way for the two of you,{1a}but even so, you have both surely moved\none step forward.{0c:020f01}",
+   "status": "done",
+   "tl": "I am so glad for you. // [1]The 'Sun Jewel'[2] may be only one stage along the way for the two of you, // but even so, you have both surely moved one step forward."
   },
   {
    "id": "RES#72:133be",
@@ -3165,8 +3303,9 @@
    "jp": "{0c:51081003}{0b:08}【 パスカ 】{0b:09}\nやったな!\n{09:08}『太陽の宝玉』{09:01}まであと一歩だぜ!{1a}{09:08}『太陽の宝玉』{09:01}自体はそれほど\n高く売れる訳じゃねえらしいけど、\nやっぱり嬉しいっていうか\nかなり気が楽になったよ。{1a}これでやっと\nここで見つけた金とかお宝を\n町の外に持ち出すことが\n出来るようになるんだからな。{1a}{0c:522028}この町に来てまだ数ヶ月しか\n経ってねえけど、それでも\n外の世界じゃ考えられないような\n金を貯めたんだからさ、{1a}もしこの金を\n持ち出せねえって事になると\n泣くに泣けねえ所だったもんな。{1a}{0c:521018}だから見つかって本当によかったぜ。\n田舎でオレを心配して待ってる人も、\nオレの金だけ待ってる奴らも\nちょっとは安心してくれるだろ。{1a}{0c:523038}・・・って、オレ\nもう取った気でいるよな。\n少し気が早えか・・・{1a}{0c:524048}とにかく、\n次は気合い入れていかねえとな!{0c:020e01}",
    "read": "{0c:51081003}{0b:08}【 パスカ 】{0b:09}\nやったな!\n{09:08}『太陽の宝玉』{09:01}まであと一歩だぜ!{1a}{09:08}『太陽の宝玉』{09:01}自体はそれほど\n高く売れる訳じゃねえらしいけど、\nやっぱり嬉しいっていうか\nかなり気が楽になったよ。{1a}これでやっと\nここで見つけた金とかお宝を\n町の外に持ち出すことが\n出来るようになるんだからな。{1a}{0c:522028}この町に来てまだ数ヶ月しか\n経ってねえけど、それでも\n外の世界じゃ考えられないような\n金を貯めたんだからさ、{1a}もしこの金を\n持ち出せねえって事になると\n泣くに泣けねえ所だったもんな。{1a}{0c:521018}だから見つかって本当によかったぜ。\n田舎でオレを心配して待ってる人も、\nオレの金だけ待ってる奴らも\nちょっとは安心してくれるだろ。{1a}{0c:523038}・・・って、オレ\nもう取った気でいるよな。\n少し気が早えか・・・{1a}{0c:524048}とにかく、\n次は気合い入れていかねえとな!{0c:020e01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51081003}{0b:08}【 Pasca 】{0b:09}\nWe did it! Just one more step to {09:08}the\n'Sun Jewel'{09:01}!{1a}{09:08}The 'Sun Jewel'{09:01} itself don't sell for all\nthat much, from what I hear, but I'm still\nhappy, or, y'know, a whole lot less\nworried.{1a}Now I can finally haul the money and\ntreasure I found here out of town.{1a}{0c:522028}Ain't been in this town but a few\nmonths, but I already saved up money ya\ncouldn't dream of in the outside world,{1a}so if I couldn't take it with me, I'd be\npast cryin' about it.{1a}{0c:521018}So damn glad we found it. The folks back\nhome worryin' about me, and the ones\njust waitin' on my money, oughta rest a\nlittle easier.{1a}{0c:523038}...Listen to me, talkin' like I already got it.\nGettin' ahead of myself...{1a}{0c:524048}Anyhow, next one we gotta go in fired\nup!{0c:020e01}",
+   "status": "done",
+   "tl": "We did it! Just one more step to [1]the 'Sun Jewel'[2]! // [3]The 'Sun Jewel'[4] itself don't sell for all that much, from what I hear, but I'm still happy, or, y'know, a whole lot less worried. // Now I can finally haul the money and treasure I found here out of town. // [5]Ain't been in this town but a few months, but I already saved up money ya couldn't dream of in the outside world, // so if I couldn't take it with me, I'd be past cryin' about it. // [6]So damn glad we found it. The folks back home worryin' about me, and the ones just waitin' on my money, oughta rest a little easier. // [7]...Listen to me, talkin' like I already got it. Gettin' ahead of myself... // [8]Anyhow, next one we gotta go in fired up!"
   },
   {
    "id": "RES#72:1359f",
@@ -3198,8 +3337,9 @@
    "jp": "{0c:5230382b501000}{1c:1c}{0b:08}【 シャルン 】{0b:09}\nやったね、{10}!\n{09:08}『太陽の宝玉』{09:01}まであと一歩だよ!{1a}{0c:51081003}あたしも、これでやっと兄さんに\nあたしの修行が始まったよって\n報告出来る・・・{1a}{0c:524048}って言っても、あたし自身は\n何も変わらないんだけど・・・{1a}{0c:525058}あっ、なんだかあたし、\nもう{09:08}『太陽の宝玉』{09:01}を\n取った気でいるね。{1a}{0c:526068}とにかく、\n次の戦いはいつもより頑張るよ!{0c:020b01}",
    "read": "{0c:5230382b501000}{1c:1c}{0b:08}【 シャルン 】{0b:09}\nやったね、{10}!\n{09:08}『太陽の宝玉』{09:01}まであと一歩だよ!{1a}{0c:51081003}あたしも、これでやっと兄さんに\nあたしの修行が始まったよって\n報告出来る・・・{1a}{0c:524048}って言っても、あたし自身は\n何も変わらないんだけど・・・{1a}{0c:525058}あっ、なんだかあたし、\nもう{09:08}『太陽の宝玉』{09:01}を\n取った気でいるね。{1a}{0c:526068}とにかく、\n次の戦いはいつもより頑張るよ!{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5230382b501000}{1c:1c}{0b:08}【 Scharn 】{0b:09}\nWe did it, {10}! Just one more\nstep to {09:08}the 'Sun Jewel'{09:01}!{1a}{0c:51081003}Now I can finally tell my brother that my\ntraining has begun...{1a}{0c:524048}Not that anything about me has\nchanged, you know...{1a}{0c:525058}Oh! Listen to me, talking like I already\nhave {09:08}the 'Sun Jewel'{09:01}!{1a}{0c:526068}Anyway, I'll try even harder than usual in\nthe next fight!{0c:020b01}",
+   "status": "done",
+   "tl": "We did it, [HERO]! Just one more step to [1]the 'Sun Jewel'[2]! // [3]Now I can finally tell my brother that my training has begun... // [4]Not that anything about me has changed, you know... // [5]Oh! Listen to me, talking like I already have [6]the 'Sun Jewel'[7]! // [8]Anyway, I'll try even harder than usual in the next fight!"
   },
   {
    "id": "RES#72:1369a",
@@ -3220,8 +3360,9 @@
    "jp": "{0c:5250582b501000}{0b:08}【 ジェシカ 】{0b:09}\n{10}、やったじゃん!\n{09:08}『太陽の宝玉』{09:01}まであと一歩だよ。{1a}あたしは役人だろうが関所だろうが\nなんとかなるからいいけど、\nあんたには絶対必要だったんでしょ?{1a}{0c:526068}ま、そりゃあたしも\nあるに越したことはないから、\nちょっとは嬉しいけどさ。{1a}でも、とにかくよかったよね!{0c:020901}",
    "read": "{0c:5250582b501000}{0b:08}【 ジェシカ 】{0b:09}\n{10}、やったじゃん!\n{09:08}『太陽の宝玉』{09:01}まであと一歩だよ。{1a}あたしは役人だろうが関所だろうが\nなんとかなるからいいけど、\nあんたには絶対必要だったんでしょ?{1a}{0c:526068}ま、そりゃあたしも\nあるに越したことはないから、\nちょっとは嬉しいけどさ。{1a}でも、とにかくよかったよね!{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5250582b501000}{0b:08}【 Jessica 】{0b:09}\n{10}, you did it! Just one more\nstep to {09:08}the 'Sun Jewel'{09:01}.{1a}Officials, checkpoints, I can get around\nall that, so I'm fine, but you absolutely\nneeded this, right?{1a}{0c:526068}Well, sure, it's better to have one than\nnot, so I'm a little happy too.{1a}But hey, good for you, anyway!{0c:020901}",
+   "status": "done",
+   "tl": "[HERO], you did it! Just one more step to [1]the 'Sun Jewel'[2]. // Officials, checkpoints, I can get around all that, so I'm fine, but you absolutely needed this, right? // [3]Well, sure, it's better to have one than not, so I'm a little happy too. // But hey, good for you, anyway!"
   },
   {
    "id": "RES#72:1375b",
@@ -3231,8 +3372,9 @@
    "jp": "{1c:20}{0b:08}【 オルフェウス 】{0b:09}\n{09:08}『太陽の宝玉』{09:01}までは\nあと一歩ってわけですね・・・{1a}そして、\nそれを手に入れたあかつきには\n晴れてこの町の正式な居住権が\n手に入ると・・・{1a}こりゃ頑張らないわけには\nいかないでしょう。         {0c:51081003}ということで、頑張って下さいね。\nぼくは後ろから応援していますから。{0c:020801}",
    "read": "{1c:20}{0b:08}【 オルフェウス 】{0b:09}\n{09:08}『太陽の宝玉』{09:01}までは\nあと一歩ってわけですね・・・{1a}そして、\nそれを手に入れたあかつきには\n晴れてこの町の正式な居住権が\n手に入ると・・・{1a}こりゃ頑張らないわけには\nいかないでしょう。         {0c:51081003}ということで、頑張って下さいね。\nぼくは後ろから応援していますから。{0c:020801}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Orpheus 】{0b:09}\n{09:08}So it is but one more step to the 'Sun\nJewel'{09:01}, is it...{1a}And once it is in hand, you shall be\ngranted official residency in this town,\nall very proper...{1a}How could one not do one's best, I ask\nyou? {0c:51081003}And so, please do your best. I shall\nbe cheering you on from the rear.{0c:020801}",
+   "status": "done",
+   "tl": "So it is but one more step to the 'Sun Jewel'[1], is it... // And once it is in hand, you shall be granted official residency in this town, all very proper... // How could one not do one's best, I ask you? [2]And so, please do your best. I shall be cheering you on from the rear."
   },
   {
    "id": "RES#72:13822",
@@ -3242,8 +3384,9 @@
    "jp": "{1c:22}{0b:08}【 イヴ 】{0b:09}\nあとほんの少しで\n{09:08}『太陽の宝玉』{09:01}まで\nたどり着けるってわけね・・・{1a}{0c:51081003}よかったじゃない。\n2人ともせいぜい頑張って。\nあたしも応援させてもらうわ。{0c:51081009}{0c:020701}",
    "read": "{1c:22}{0b:08}【 イヴ 】{0b:09}\nあとほんの少しで\n{09:08}『太陽の宝玉』{09:01}まで\nたどり着けるってわけね・・・{1a}{0c:51081003}よかったじゃない。\n2人ともせいぜい頑張って。\nあたしも応援させてもらうわ。{0c:51081009}{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:22}{0b:08}【 Eve 】{0b:09}\nSo just a little further and you'll reach\n{09:08}the 'Sun Jewel'{09:01}, will you...{1a}{0c:51081003}Good for you, isn't it. Do your best\nthen, you two. I'll cheer you on, I suppose.{0c:51081009}{0c:020701}",
+   "status": "done",
+   "tl": "So just a little further and you'll reach [1]the 'Sun Jewel'[2], will you... // [3]Good for you, isn't it. Do your best then, you two. I'll cheer you on, I suppose."
   },
   {
    "id": "RES#72:138a0",
@@ -3253,8 +3396,9 @@
    "jp": "{1c:24}{0b:08}【 ディアス 】{0b:09}\n居住権獲得か・・・{1a}だが、まだ始まったばかりだな・・・{0c:020601}",
    "read": "{1c:24}{0b:08}【 ディアス 】{0b:09}\n居住権獲得か・・・{1a}だが、まだ始まったばかりだな・・・{0c:020601}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:24}{0b:08}【 Dias 】{0b:09}\nResidency, then...{1a}But it has only just begun...{0c:020601}",
+   "status": "done",
+   "tl": "Residency, then... // But it has only just begun..."
   },
   {
    "id": "RES#72:138da",
@@ -3264,8 +3408,9 @@
    "jp": "{0b:08}【 ノエル 】{0b:09}\nこの町の正式な居住権が\nあと一歩で手に入る・・・{1a}これでずっとこの町で\n研究が出来るのね・・・{0c:020501}",
    "read": "{0b:08}【 ノエル 】{0b:09}\nこの町の正式な居住権が\nあと一歩で手に入る・・・{1a}これでずっとこの町で\n研究が出来るのね・・・{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Noel 】{0b:09}\nOfficial residency in this town is just\none step away...{1a}Then I can do my research here for\ngood...{0c:020501}",
+   "status": "done",
+   "tl": "Official residency in this town is just one step away... // Then I can do my research here for good..."
   },
   {
    "id": "RES#72:1392e",
@@ -3297,8 +3442,9 @@
    "jp": "{0c:51081003}{1c:27}{0b:08}【 ルカ 】{0b:09}\n皆さんよかったですね。\nいよいよ{09:08}『太陽の宝玉』{09:01}が・・・{1a}{0c:525058}えっ、わ、わたしですか?\nわたしはお金を集めに\n来たわけではありませんから\nあまり感慨はないんですけど・・・{1a}で、でも、もちろんお手伝いします。\nと、とにかく頑張りましょう。{0c:020201}",
    "read": "{0c:51081003}{1c:27}{0b:08}【 ルカ 】{0b:09}\n皆さんよかったですね。\nいよいよ{09:08}『太陽の宝玉』{09:01}が・・・{1a}{0c:525058}えっ、わ、わたしですか?\nわたしはお金を集めに\n来たわけではありませんから\nあまり感慨はないんですけど・・・{1a}で、でも、もちろんお手伝いします。\nと、とにかく頑張りましょう。{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51081003}{1c:27}{0b:08}【 Luca 】{0b:09}\nI-I am so glad for you all. At last, {09:08}the\n'Sun Jewel'{09:01}...{1a}{0c:525058}Eh? M-me? I did not come here to\ngather money, so it does not move me\nvery much, but...{1a}B-but of course I will help. L-let us do\nour best, in any case.{0c:020201}",
+   "status": "done",
+   "tl": "I-I am so glad for you all. At last, [1]the 'Sun Jewel'[2]... // [3]Eh? M-me? I did not come here to gather money, so it does not move me very much, but... // B-but of course I will help. L-let us do our best, in any case."
   },
   {
    "id": "RES#72:139db",
@@ -3308,8 +3454,9 @@
    "jp": "{0c:521018}{1c:29}{0b:08}【 サラ 】{0b:09}\nすごいね!\nあと少しで{09:08}『太陽の宝玉』{09:01}が\n手に入るんだ!{1a}{0c:51081003}{09:08}『太陽の宝玉』{09:01}が手に入れば\nお金を町の外に持ち出す許可が\nおりたことになるんだよね。{1a}じゃあ、これからはもっとがんばって\nお金を貯めなくちゃ。{1a}あたしのお母さん、\nアスロイトの東の方で\n小さな孤児院をひらいてるんだけど{1a}育ち盛りの子供達を大勢\n食べさせてあげなきゃいけないから、\nお金が足りなくて\nいつも困ってたの。{1a}それであたしはこの町に\nお金を貯めに来たんだけど、\nまだあんまり貯まってないんだ。{1a}あたし、お金のことにちょっと疎くて、\nどれくらいのお金を貯めればいいか\n自分でも分かってないんだけど、{1a}{0c:522028}子供達にいろんな食べ物\n食べさせてあげたいし、{1a}あたたかい毛布とか\nバイレステ製のおもちゃとか\n色んなものをプレゼントして\nあげたいから、{1a}これからはとにかくがんばって\nたくさんお金を集めなきゃって\n思ってるの。{1a}{0c:523038}あっ、でも今は\n{09:08}『太陽の宝玉』{09:01}が先だよね。\nなんだかもう取った気に\nなっちゃってた。{1a}{0c:51082b501000}じゃあ、がんばって取りに行こうね、\n{10}さん!{0c:fe}",
    "read": "{0c:521018}{1c:29}{0b:08}【 サラ 】{0b:09}\nすごいね!\nあと少しで{09:08}『太陽の宝玉』{09:01}が\n手に入るんだ!{1a}{0c:51081003}{09:08}『太陽の宝玉』{09:01}が手に入れば\nお金を町の外に持ち出す許可が\nおりたことになるんだよね。{1a}じゃあ、これからはもっとがんばって\nお金を貯めなくちゃ。{1a}あたしのお母さん、\nアスロイトの東の方で\n小さな孤児院をひらいてるんだけど{1a}育ち盛りの子供達を大勢\n食べさせてあげなきゃいけないから、\nお金が足りなくて\nいつも困ってたの。{1a}それであたしはこの町に\nお金を貯めに来たんだけど、\nまだあんまり貯まってないんだ。{1a}あたし、お金のことにちょっと疎くて、\nどれくらいのお金を貯めればいいか\n自分でも分かってないんだけど、{1a}{0c:522028}子供達にいろんな食べ物\n食べさせてあげたいし、{1a}あたたかい毛布とか\nバイレステ製のおもちゃとか\n色んなものをプレゼントして\nあげたいから、{1a}これからはとにかくがんばって\nたくさんお金を集めなきゃって\n思ってるの。{1a}{0c:523038}あっ、でも今は\n{09:08}『太陽の宝玉』{09:01}が先だよね。\nなんだかもう取った気に\nなっちゃってた。{1a}{0c:51082b501000}じゃあ、がんばって取りに行こうね、\n{10}さん!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:29}{0b:08}【 Sara 】{0b:09}\nThat's amazing! Just a little more and we\nget {09:08}the 'Sun Jewel'{09:01}!{1a}Once we have {0c:51081003}{09:08}the 'Sun Jewel'{09:01}, that\nmeans we're allowed to take money out\nof town, right?{1a}Then from now on I have to try even\nharder and save up money, okay?{1a}My mom runs a little orphanage in the\neast of Asroit,{1a}and she has lots of growing kids to feed,\nso there was never enough money and\nshe was always having a hard time.{1a}So I came to this town to save up\nmoney, but I haven't saved very much\nyet.{1a}I'm not very good with money, so I don't\neven know how much I need to save,{1a}{0c:522028}but I want the kids to have all kinds of\ngood things to eat,{1a}and I want to give them presents, like\nwarm blankets and toys from Baileste\nand lots of other things,{1a}so from now on I just have to try really\nhard and get lots of money.{1a}{0c:523038}Oh, but {09:08}the 'Sun Jewel'{09:01} comes first,\ndoesn't it? I was talking like we already\nhad it.{1a}{0c:51082b501000}Okay, let's try hard and go get it,\n{10}-san!{0c:fe}",
+   "status": "done",
+   "tl": "That's amazing! Just a little more and we get [1]the 'Sun Jewel'[2]! // Once we have [3]the 'Sun Jewel'[4], that means we're allowed to take money out of town, right? // Then from now on I have to try even harder and save up money, okay? // My mom runs a little orphanage in the east of Asroit, // and she has lots of growing kids to feed, so there was never enough money and she was always having a hard time. // So I came to this town to save up money, but I haven't saved very much yet. // I'm not very good with money, so I don't even know how much I need to save, // [5]but I want the kids to have all kinds of good things to eat, // and I want to give them presents, like warm blankets and toys from Baileste and lots of other things, // so from now on I just have to try really hard and get lots of money. // [6]Oh, but [7]the 'Sun Jewel'[8] comes first, doesn't it? I was talking like we already had it. // [9]Okay, let's try hard and go get it, [HERO]-san!"
   },
   {
    "id": "RES#72:13c3a",
@@ -3330,8 +3477,9 @@
    "jp": "{0c:51081007}{0b:08}【 アッシュ 】{0b:09}\nじゃあそろそろ入ろうか。{1a}でもみんな気を抜いちゃだめだぞ。\n次の部屋の相手って、\nクムランさんの話だと\nかなり強いらしいからな。{1a}でもそいつさえ倒せば\n{09:08}『太陽の宝玉』{09:01}は手に入るんだ。\nみんながんばろうな。{0c:021201}",
    "read": "{0c:51081007}{0b:08}【 アッシュ 】{0b:09}\nじゃあそろそろ入ろうか。{1a}でもみんな気を抜いちゃだめだぞ。\n次の部屋の相手って、\nクムランさんの話だと\nかなり強いらしいからな。{1a}でもそいつさえ倒せば\n{09:08}『太陽の宝玉』{09:01}は手に入るんだ。\nみんながんばろうな。{0c:021201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51081007}{0b:08}【 Ash 】{0b:09}\nWell, I guess we should head in.{1a}But nobody let your guard down, y'know.\nQumran-san says whatever's in the next\nroom is pretty strong.{1a}Still, once we beat it, {09:08}the 'Sun Jewel'{09:01} is\nours. Let's all do our best.{0c:021201}",
+   "status": "done",
+   "tl": "Well, I guess we should head in. // But nobody let your guard down, y'know. Qumran-san says whatever's in the next room is pretty strong. // Still, once we beat it, [1]the 'Sun Jewel'[2] is ours. Let's all do our best."
   },
   {
    "id": "RES#72:13ce1",
@@ -3341,8 +3489,9 @@
    "jp": "{0c:51081007}{0b:08}【 アーサー 】{0b:09}\nよし、\nじゃあそろそろ中に入ろうか。{1a}ただし、落ち着いて行かなきゃね。\n次の部屋で僕達を待ち受ける魔物は\nクムランさんの話だと\nかなり手強いそうだから。{1a}みんな、\n力を合わせて頑張ろう!{0c:021101}",
    "read": "{0c:51081007}{0b:08}【 アーサー 】{0b:09}\nよし、\nじゃあそろそろ中に入ろうか。{1a}ただし、落ち着いて行かなきゃね。\n次の部屋で僕達を待ち受ける魔物は\nクムランさんの話だと\nかなり手強いそうだから。{1a}みんな、\n力を合わせて頑張ろう!{0c:021101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51081007}{0b:08}【 Arthur 】{0b:09}\nAll right, let's go inside.{1a}But we have to stay calm. According to\nQumran-san, the monster waiting for us\nin the next room is a formidable one.{1a}Everyone, we have to work together and\ndo our best!{0c:021101}",
+   "status": "done",
+   "tl": "All right, let's go inside. // But we have to stay calm. According to Qumran-san, the monster waiting for us in the next room is a formidable one. // Everyone, we have to work together and do our best!"
   },
   {
    "id": "RES#72:13d73",
@@ -3352,8 +3501,9 @@
    "jp": "{0b:08}【 レイア 】{0b:09}\n・・・中に入ろう。{1a}{0c:51081007}ただし、次の部屋で待ち受ける\n第一神殿最後の敵は\nかなり手強いと聞く。\n気を抜くな。{0c:021001}",
    "read": "{0b:08}【 レイア 】{0b:09}\n・・・中に入ろう。{1a}{0c:51081007}ただし、次の部屋で待ち受ける\n第一神殿最後の敵は\nかなり手強いと聞く。\n気を抜くな。{0c:021001}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Leia 】{0b:09}\n...Let us go in.{1a}{0c:51081007}But I hear the First Temple's final\nenemy, awaiting in the next room, is\nquite formidable. Do not let your guard\ndown.{0c:021001}",
+   "status": "done",
+   "tl": "...Let us go in. // [1]But I hear the First Temple's final enemy, awaiting in the next room, is quite formidable. Do not let your guard down."
   },
   {
    "id": "RES#72:13dd6",
@@ -3363,8 +3513,9 @@
    "jp": "{0c:51081007}{0b:08}【 エレアノール 】{0b:09}\nでは中に入りましょうか。{1a}ただし、次の部屋で待ち受けている\n第一神殿最後の敵は\nかなりの強敵と聞きます。\n気を抜かずに進みましょう。{0c:020f01}",
    "read": "{0c:51081007}{0b:08}【 エレアノール 】{0b:09}\nでは中に入りましょうか。{1a}ただし、次の部屋で待ち受けている\n第一神殿最後の敵は\nかなりの強敵と聞きます。\n気を抜かずに進みましょう。{0c:020f01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51081007}{0b:08}【 Eleanor 】{0b:09}\nShall we go inside, then?{1a}I am told, however, that the last enemy\nof the First Temple, waiting in the next\nroom, is a formidable foe. Let us proceed\nwith care, please.{0c:020f01}",
+   "status": "done",
+   "tl": "Shall we go inside, then? // I am told, however, that the last enemy of the First Temple, waiting in the next room, is a formidable foe. Let us proceed with care, please."
   },
   {
    "id": "RES#72:13e4b",
@@ -3374,8 +3525,9 @@
    "jp": "{0c:51081007}{0b:08}【 パスカ 】{0b:09}\nよし、\nじゃあそろそろ中に入るか。{1a}{0c:525058}ただし気を抜くなよ。\n次の部屋の敵って、\nクムランさんの話だと\nかなり強いヤツらしいからな。{1a}でもそいつさえ倒せば\n{09:08}『太陽の宝玉』{09:01}は\nオレ達のものになるんだ。\n頑張って行こうぜ!{0c:020e01}",
    "read": "{0c:51081007}{0b:08}【 パスカ 】{0b:09}\nよし、\nじゃあそろそろ中に入るか。{1a}{0c:525058}ただし気を抜くなよ。\n次の部屋の敵って、\nクムランさんの話だと\nかなり強いヤツらしいからな。{1a}でもそいつさえ倒せば\n{09:08}『太陽の宝玉』{09:01}は\nオレ達のものになるんだ。\n頑張って行こうぜ!{0c:020e01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51081007}{0b:08}【 Pasca 】{0b:09}\nAll right, let's head in.{1a}{0c:525058}Don't go gettin' careless, though.\nQumran-san says the thing in the next\nroom's damn strong.{1a}But once we beat it, {09:08}the 'Sun Jewel'{09:01} is\nours. Let's get goin'!{0c:020e01}",
+   "status": "done",
+   "tl": "All right, let's head in. // [1]Don't go gettin' careless, though. Qumran-san says the thing in the next room's damn strong. // But once we beat it, [2]the 'Sun Jewel'[3] is ours. Let's get goin'!"
   },
   {
    "id": "RES#72:13ef7",
@@ -3407,8 +3559,9 @@
    "jp": "{0c:51081007}{0b:08}【 シャルン 】{0b:09}\nよし、\nじゃあそろそろ入ろう。{1a}でもみんな絶対に\n気を抜いちゃ駄目だよ。{1a}次の部屋の魔物って、\nクムランさんの説明だと\nかなり強いって話だからね。{1a}でもその魔物を倒せば\n{09:08}『太陽の宝玉』{09:01}は\nあたし達のものになるんだから、\n頑張って行こうね!{0c:020b01}",
    "read": "{0c:51081007}{0b:08}【 シャルン 】{0b:09}\nよし、\nじゃあそろそろ入ろう。{1a}でもみんな絶対に\n気を抜いちゃ駄目だよ。{1a}次の部屋の魔物って、\nクムランさんの説明だと\nかなり強いって話だからね。{1a}でもその魔物を倒せば\n{09:08}『太陽の宝玉』{09:01}は\nあたし達のものになるんだから、\n頑張って行こうね!{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51081007}{0b:08}【 Scharn 】{0b:09}\nOkay, let's go in!{1a}But everybody, you absolutely can't let\nyour guard down!{1a}Qumran-san explained that the monster\nin the next room is really strong, you\nknow!{1a}But if we beat it, {09:08}the 'Sun Jewel'{09:01} will be\nours, so let's do our best!{0c:020b01}",
+   "status": "done",
+   "tl": "Okay, let's go in! // But everybody, you absolutely can't let your guard down! // Qumran-san explained that the monster in the next room is really strong, you know! // But if we beat it, [1]the 'Sun Jewel'[2] will be ours, so let's do our best!"
   },
   {
    "id": "RES#72:13fb1",
@@ -3429,8 +3582,9 @@
    "jp": "{0c:51081007}{0b:08}【 ジェシカ 】{0b:09}\nじゃあそろそろ入ろっか。{1a}でも、もうすぐ手に入るからって\nみんな絶対に気を抜くんじゃないよ。{1a}次の部屋の魔物って、\nクムランさんの話だと\nかなり強い奴らしいからね。{1a}でもそいつさえ倒せば\n{09:08}『太陽の宝玉』{09:01}は\nあたし達のものになるんだから、\nみんながんばって行こうね!{0c:020901}",
    "read": "{0c:51081007}{0b:08}【 ジェシカ 】{0b:09}\nじゃあそろそろ入ろっか。{1a}でも、もうすぐ手に入るからって\nみんな絶対に気を抜くんじゃないよ。{1a}次の部屋の魔物って、\nクムランさんの話だと\nかなり強い奴らしいからね。{1a}でもそいつさえ倒せば\n{09:08}『太陽の宝玉』{09:01}は\nあたし達のものになるんだから、\nみんながんばって行こうね!{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51081007}{0b:08}【 Jessica 】{0b:09}\nSo let's head in, huh?{1a}But just because it's almost ours, don't\nyou dare get careless, any of you.{1a}Qumran-san says the monster in the\nnext room is pretty tough, you know\nthat?{1a}But once we beat it, {09:08}the 'Sun Jewel'{09:01} is\nours, so come on, let's do this!{0c:020901}",
+   "status": "done",
+   "tl": "So let's head in, huh? // But just because it's almost ours, don't you dare get careless, any of you. // Qumran-san says the monster in the next room is pretty tough, you know that? // But once we beat it, [1]the 'Sun Jewel'[2] is ours, so come on, let's do this!"
   },
   {
    "id": "RES#72:14072",
@@ -3440,8 +3594,9 @@
    "jp": "{0c:51081007}{1c:20}{0b:08}【 オルフェウス 】{0b:09}\nではそろそろ中に入りましょうか。\nただし皆さん\n気を抜かないで下さいね。{1a}町の人の話によると、\n次の部屋の相手は\nかなり手強いそうですから。{1a}もちろんぼくには期待しないで下さい。\nこれも案外重要なポイントです。\nそれでは行きましょうか。{0c:020801}",
    "read": "{0c:51081007}{1c:20}{0b:08}【 オルフェウス 】{0b:09}\nではそろそろ中に入りましょうか。\nただし皆さん\n気を抜かないで下さいね。{1a}町の人の話によると、\n次の部屋の相手は\nかなり手強いそうですから。{1a}もちろんぼくには期待しないで下さい。\nこれも案外重要なポイントです。\nそれでは行きましょうか。{0c:020801}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51081007}{1c:20}{0b:08}【 Orpheus 】{0b:09}\nShall we go inside, then? Though I must\nask you all not to let your guard down.{1a}According to the townsfolk, whatever is\nin the next room is quite formidable.{1a}Naturally, please expect nothing of me.\nThat too is a rather important point, I\ndaresay. Well then, shall we?{0c:020801}",
+   "status": "done",
+   "tl": "Shall we go inside, then? Though I must ask you all not to let your guard down. // According to the townsfolk, whatever is in the next room is quite formidable. // Naturally, please expect nothing of me. That too is a rather important point, I daresay. Well then, shall we?"
   },
   {
    "id": "RES#72:14123",
@@ -3451,8 +3606,9 @@
    "jp": "{0c:51081007}{1c:22}{0b:08}【 イヴ 】{0b:09}\nそうそう、\n酒場で聞いた話なんだけど、{1a}次の部屋であたし達を\nもてなしてくれる相手って\nかなり強いって噂だから、{1a}張り切るのはいいけど\n2人してあっさりと\n犬死にだけはしないでね。{1a}じゃあ、\nそろそろ入りましょうか。{0c:020701}",
    "read": "{0c:51081007}{1c:22}{0b:08}【 イヴ 】{0b:09}\nそうそう、\n酒場で聞いた話なんだけど、{1a}次の部屋であたし達を\nもてなしてくれる相手って\nかなり強いって噂だから、{1a}張り切るのはいいけど\n2人してあっさりと\n犬死にだけはしないでね。{1a}じゃあ、\nそろそろ入りましょうか。{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51081007}{1c:22}{0b:08}【 Eve 】{0b:09}\nOh, yes, something I heard at the\ntavern...{1a}They say whoever will be entertaining us\nin the next room is quite strong,{1a}so enthusiasm is all very well, dear, but\ndon't you two go and throw your lives\naway for nothing.{1a}Well, shall we go in?{0c:020701}",
+   "status": "done",
+   "tl": "Oh, yes, something I heard at the tavern... // They say whoever will be entertaining us in the next room is quite strong, // so enthusiasm is all very well, dear, but don't you two go and throw your lives away for nothing. // Well, shall we go in?"
   },
   {
    "id": "RES#72:141c0",
@@ -3462,8 +3618,9 @@
    "jp": "{0b:08}【 ディアス 】{0b:09}\n中に入るぞ。{1a}ただし、次の部屋の敵は手強いと聞く。\n気を抜くな。{0c:020601}",
    "read": "{0b:08}【 ディアス 】{0b:09}\n中に入るぞ。{1a}ただし、次の部屋の敵は手強いと聞く。\n気を抜くな。{0c:020601}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Dias 】{0b:09}\nWe go in.{1a}But I hear the enemy in the next room is\nformidable. Stay alert.{0c:020601}",
+   "status": "done",
+   "tl": "We go in. // But I hear the enemy in the next room is formidable. Stay alert."
   },
   {
    "id": "RES#72:14202",
@@ -3473,8 +3630,9 @@
    "jp": "{0c:51081007}{0b:08}【 ノエル 】{0b:09}\nじゃあ早速中に入りましょ。{1a}ただし、次の部屋で待ち受けている\n第一神殿最後の敵は\nかなり手強いって話よ。\n絶対に気を抜かないでね。{0c:020501}",
    "read": "{0c:51081007}{0b:08}【 ノエル 】{0b:09}\nじゃあ早速中に入りましょ。{1a}ただし、次の部屋で待ち受けている\n第一神殿最後の敵は\nかなり手強いって話よ。\n絶対に気を抜かないでね。{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51081007}{0b:08}【 Noel 】{0b:09}\nWell, let's go in right away.{1a}But they say the last enemy of the\nFirst Temple, waiting in the next room, is\nquite formidable, you know. Don't you\ndare let your guard down.{0c:020501}",
+   "status": "done",
+   "tl": "Well, let's go in right away. // But they say the last enemy of the First Temple, waiting in the next room, is quite formidable, you know. Don't you dare let your guard down."
   },
   {
    "id": "RES#72:14276",
@@ -3506,8 +3664,9 @@
    "jp": "{0c:51081007}{0b:08}【 ルカ 】{0b:09}\nはい、ではそろそろ\n中に入りましょうか。{1a}あっ、そういえば、\n次の部屋にいる魔物は\nかなり手強いって聞きました。\n皆さん注意して進みましょうね。{0c:020201}",
    "read": "{0c:51081007}{0b:08}【 ルカ 】{0b:09}\nはい、ではそろそろ\n中に入りましょうか。{1a}あっ、そういえば、\n次の部屋にいる魔物は\nかなり手強いって聞きました。\n皆さん注意して進みましょうね。{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51081007}{0b:08}【 Luca 】{0b:09}\nY-yes, shall we go inside, then?{1a}Oh, n-now that I think of it, I heard the\nmonster in the next room is quite\nformidable. Let us all be careful,\neveryone.{0c:020201}",
+   "status": "done",
+   "tl": "Y-yes, shall we go inside, then? // Oh, n-now that I think of it, I heard the monster in the next room is quite formidable. Let us all be careful, everyone."
   },
   {
    "id": "RES#72:142e9",
@@ -3517,8 +3676,9 @@
    "jp": "{0c:51081007}{1c:29}{0b:08}【 サラ 】{0b:09}\nじゃあそろそろ中に入りましょ。{1a}あっ、そういえば、\n1番上の部屋にいる魔物って\nかなり強いぞって、{1a}酒場のお客さんが教えてくれたんだ。\nだからみんな注意して行こうね。{0c:fe}",
    "read": "{0c:51081007}{1c:29}{0b:08}【 サラ 】{0b:09}\nじゃあそろそろ中に入りましょ。{1a}あっ、そういえば、\n1番上の部屋にいる魔物って\nかなり強いぞって、{1a}酒場のお客さんが教えてくれたんだ。\nだからみんな注意して行こうね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51081007}{1c:29}{0b:08}【 Sara 】{0b:09}\nOkay, let's go on in.{1a}Oh, that's right, the monster in the\nroom at the very top is really strong,{1a}a customer at the tavern told me. So\nlet's all be careful, okay?{0c:fe}",
+   "status": "done",
+   "tl": "Okay, let's go on in. // Oh, that's right, the monster in the room at the very top is really strong, // a customer at the tavern told me. So let's all be careful, okay?"
   },
   {
    "id": "RES#72:14369",
@@ -3550,8 +3710,9 @@
    "jp": "{1c:13}{0b:08}【 アッシュ 】{0b:09}\nあ、{10}!{0c:fe}",
    "read": "{1c:13}{0b:08}【 アッシュ 】{0b:09}\nあ、{10}!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Ash 】{0b:09}\nOh, {10}!{0c:fe}",
+   "status": "done",
+   "tl": "Oh, [HERO]!"
   },
   {
    "id": "RES#72:1447c",
@@ -3572,8 +3733,9 @@
    "jp": "{1c:11}途中で1度もあわなかったけど、\nそっちの方にも\n別の階段があったんだな。{0c:fe}",
    "read": "{1c:11}途中で1度もあわなかったけど、\nそっちの方にも\n別の階段があったんだな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}We never ran into each other on the\nway, but I guess there was another\nstaircase over your way.{0c:fe}",
+   "status": "done",
+   "tl": "We never ran into each other on the way, but I guess there was another staircase over your way."
   },
   {
    "id": "RES#72:144c6",
@@ -3594,8 +3756,9 @@
    "jp": "{1c:10}ところで{10}は\n1人でここまできたのかい?\nすごいなあ・・・{1a}え、おれ?\nううん、おれは途中まで\nパスカ達といっしょだったんだ。{1a}{0c:522830}でも、いつのまにか\nはぐれちゃって・・・{1a}この建物の上の方って、\n時の行路図の使えないところが\n多いだろ?\nだから町にもどることもできないし、{1a}しょうがないから\n1人でうろうろしてると\n向こうから{10}が\n歩いてきたんだ。{0c:fe}",
    "read": "{1c:10}ところで{10}は\n1人でここまできたのかい?\nすごいなあ・・・{1a}え、おれ?\nううん、おれは途中まで\nパスカ達といっしょだったんだ。{1a}{0c:522830}でも、いつのまにか\nはぐれちゃって・・・{1a}この建物の上の方って、\n時の行路図の使えないところが\n多いだろ?\nだから町にもどることもできないし、{1a}しょうがないから\n1人でうろうろしてると\n向こうから{10}が\n歩いてきたんだ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}So did you get all the way here by\nyourself, {10}? That's something...{1a}Huh, me? No, I was with Pasca and them\nfor part of the way.{1a}{0c:522830}But somewhere along the line we got\nsplit up...{1a}There's a lot of places in the upper part\nof this building where the Chart of Time\nwon't work, y'know? So I couldn't get\nback to town either,{1a}and I didn't know what else to do, so I\nwas wandering around on my own, and\nthere you came walking my way,\n{10}.{0c:fe}",
+   "status": "done",
+   "tl": "So did you get all the way here by yourself, [HERO]? That's something... // Huh, me? No, I was with Pasca and them for part of the way. // [1]But somewhere along the line we got split up... // There's a lot of places in the upper part of this building where the Chart of Time won't work, y'know? So I couldn't get back to town either, // and I didn't know what else to do, so I was wandering around on my own, and there you came walking my way, [HERO]."
   },
   {
    "id": "RES#72:145ac",
@@ -3616,8 +3779,9 @@
    "jp": "{1c:12}ところでここはどこなんだろ・・・{0c:fe}",
    "read": "{1c:12}ところでここはどこなんだろ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}So where are we, anyway...{0c:fe}",
+   "status": "done",
+   "tl": "So where are we, anyway..."
   },
   {
    "id": "RES#72:145d7",
@@ -3638,8 +3802,9 @@
    "jp": "{1c:15}もしかして\nここが最上階なのかな・・・{1a}この門の模様、\nクムランさんの家で見せて\nもらったのと同じなんだよ。{0c:fe}",
    "read": "{1c:15}もしかして\nここが最上階なのかな・・・{1a}この門の模様、\nクムランさんの家で見せて\nもらったのと同じなんだよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}I wonder if this is the top floor...{1a}The pattern on this gate's the same one\nthey showed me at Qumran-san's house.{0c:fe}",
+   "status": "done",
+   "tl": "I wonder if this is the top floor... // The pattern on this gate's the same one they showed me at Qumran-san's house."
   },
   {
    "id": "RES#72:1462c",
@@ -3671,8 +3836,9 @@
    "jp": "{1c:13}ってことは、\n次の部屋にいる魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}が手に入るのか・・・{1a}{0c:51081003}よかったな、{10}。\nおまえ、お金をかせぎに来たんだろ?\nじゃあ{09:08}『太陽の宝玉』{09:01}は\nぜったいに必要だもんな。{0c:fe}",
    "read": "{1c:13}ってことは、\n次の部屋にいる魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}が手に入るのか・・・{1a}{0c:51081003}よかったな、{10}。\nおまえ、お金をかせぎに来たんだろ?\nじゃあ{09:08}『太陽の宝玉』{09:01}は\nぜったいに必要だもんな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}So that means if we beat the monster in\nthe next room, we get {09:08}the 'Sun Jewel'{09:01}...{1a}{0c:51081003}That's great, {10}. You came here\nto earn money, right? Then you really\nneed {09:08}the 'Sun Jewel'{09:01}.{0c:fe}",
+   "status": "done",
+   "tl": "So that means if we beat the monster in the next room, we get [1]the 'Sun Jewel'[2]... // [3]That's great, [HERO]. You came here to earn money, right? Then you really need [4]the 'Sun Jewel'[5]."
   },
   {
    "id": "RES#72:146f5",
@@ -3693,8 +3859,9 @@
    "jp": "{1c:13}ってことは、\n次の部屋にいる魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}が手に入るのか・・・{1a}{0c:51081003}よかったな、{10}。{1a}おまえ、アザレの石を\n探しにきたんだよな。\nじゃあ、奥に進むとき必要だもんな。{0c:fe}",
    "read": "{1c:13}ってことは、\n次の部屋にいる魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}が手に入るのか・・・{1a}{0c:51081003}よかったな、{10}。{1a}おまえ、アザレの石を\n探しにきたんだよな。\nじゃあ、奥に進むとき必要だもんな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}So that means if we beat the monster in\nthe next room, we get {09:08}the 'Sun Jewel'{09:01}...{1a}{0c:51081003}That's great, {10}.{1a}You came looking for the Azare Stone,\nright? Then you'll need it to get further\nin.{0c:fe}",
+   "status": "done",
+   "tl": "So that means if we beat the monster in the next room, we get [1]the 'Sun Jewel'[2]... // [3]That's great, [HERO]. // You came looking for the Azare Stone, right? Then you'll need it to get further in."
   },
   {
    "id": "RES#72:14784",
@@ -3715,8 +3882,9 @@
    "jp": "{1c:13}ってことは、\n次の部屋にいる魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}が手に入るのか・・・{1a}{0c:51081003}よかったな、{10}。\nおまえ、修行のためにきたんだろ?\nじゃあ、奥に進むとき必要だもんな。{0c:fe}",
    "read": "{1c:13}ってことは、\n次の部屋にいる魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}が手に入るのか・・・{1a}{0c:51081003}よかったな、{10}。\nおまえ、修行のためにきたんだろ?\nじゃあ、奥に進むとき必要だもんな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}So that means if we beat the monster in\nthe next room, we get {09:08}the 'Sun Jewel'{09:01}...{1a}{0c:51081003}That's great, {10}. You came here\nto train, right? Then you'll need it to\nget further in.{0c:fe}",
+   "status": "done",
+   "tl": "So that means if we beat the monster in the next room, we get [1]the 'Sun Jewel'[2]... // [3]That's great, [HERO]. You came here to train, right? Then you'll need it to get further in."
   },
   {
    "id": "RES#72:1480e",
@@ -3737,8 +3905,9 @@
    "jp": "{1c:13}ってことは、\n次の部屋にいる魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}が手に入るのか・・・{1a}{0c:51081003}よかったな、{10}。\nおまえ、遺跡の研究にきたんだろ?\nなに調べてるか知らないけど、\n奥に進むとき必要だもんな。{0c:fe}",
    "read": "{1c:13}ってことは、\n次の部屋にいる魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}が手に入るのか・・・{1a}{0c:51081003}よかったな、{10}。\nおまえ、遺跡の研究にきたんだろ?\nなに調べてるか知らないけど、\n奥に進むとき必要だもんな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}So that means if we beat the monster in\nthe next room, we get {09:08}the 'Sun Jewel'{09:01}...{1a}{0c:51081003}That's great, {10}. You came to\nstudy the ruins, right? I don't know\nwhat you're looking into, but you'll need\nit to get further in.{0c:fe}",
+   "status": "done",
+   "tl": "So that means if we beat the monster in the next room, we get [1]the 'Sun Jewel'[2]... // [3]That's great, [HERO]. You came to study the ruins, right? I don't know what you're looking into, but you'll need it to get further in."
   },
   {
    "id": "RES#72:148a7",
@@ -3759,8 +3928,9 @@
    "jp": "{1c:10}おれも手伝うよ。{1a}おれは次の城門が開く日に\n帰るつもりだし、お金もいらないから\n{09:08}『太陽の宝玉』{09:01}は必要ないんだけど、{1a}{0c:521018}バルデスさんや\n{10}やパスカ達のおかげで\n妹に薬を送ることができたんだからな。{1a}少しくらいはみんなに\n恩返しがしたいんだ。{0c:fe}",
    "read": "{1c:10}おれも手伝うよ。{1a}おれは次の城門が開く日に\n帰るつもりだし、お金もいらないから\n{09:08}『太陽の宝玉』{09:01}は必要ないんだけど、{1a}{0c:521018}バルデスさんや\n{10}やパスカ達のおかげで\n妹に薬を送ることができたんだからな。{1a}少しくらいはみんなに\n恩返しがしたいんだ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I'll help too.{1a}I'm heading home the next time the town\ngates open, and I don't need the money,\nso I've got no use for {09:08}the 'Sun Jewel'{09:01},{1a}{0c:521018}but it's thanks to Valdes-san and you,\n{10}, and Pasca and everybody\nthat I could send my sister her medicine.{1a}I'd like to pay you all back, at least a\nlittle.{0c:fe}",
+   "status": "done",
+   "tl": "I'll help too. // I'm heading home the next time the town gates open, and I don't need the money, so I've got no use for [1]the 'Sun Jewel'[2], // [3]but it's thanks to Valdes-san and you, [HERO], and Pasca and everybody that I could send my sister her medicine. // I'd like to pay you all back, at least a little."
   },
   {
    "id": "RES#72:14958",
@@ -3781,8 +3951,9 @@
    "jp": "{1c:14}それに、次の部屋にいる魔物って、\nかなりやっかいって話だからな。{1a}いくら{10}みたいに\n強いやつでも、1人じゃ\n危ないかもしれないもんな。{0c:fe}",
    "read": "{1c:14}それに、次の部屋にいる魔物って、\nかなりやっかいって話だからな。{1a}いくら{10}みたいに\n強いやつでも、1人じゃ\n危ないかもしれないもんな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}Besides, they say the monster in the\nnext room is pretty nasty.{1a}Even somebody as strong as you,\n{10}, might be in danger alone, I\nguess.{0c:fe}",
+   "status": "done",
+   "tl": "Besides, they say the monster in the next room is pretty nasty. // Even somebody as strong as you, [HERO], might be in danger alone, I guess."
   },
   {
    "id": "RES#72:149bc",
@@ -3803,8 +3974,9 @@
    "jp": "{0c:521018}{1c:10}よし、じゃあいこうか。\nがんばろうな、{10}。{0c:fe}",
    "read": "{0c:521018}{1c:10}よし、じゃあいこうか。\nがんばろうな、{10}。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:10}Okay, let's go, then. Let's do our best,\n{10}.{0c:fe}",
+   "status": "done",
+   "tl": "Okay, let's go, then. Let's do our best, [HERO]."
   },
   {
    "id": "RES#72:149ec",
@@ -3836,8 +4008,9 @@
    "jp": "{1c:17}{0b:08}【 パスカ 】{0b:09}\nおっ、{10}じゃねえか。{0c:fe}",
    "read": "{1c:17}{0b:08}【 パスカ 】{0b:09}\nおっ、{10}じゃねえか。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Pasca 】{0b:09}\nHey, if it ain't {10}.{0c:fe}",
+   "status": "done",
+   "tl": "Hey, if it ain't [HERO]."
   },
   {
    "id": "RES#72:14af9",
@@ -3858,8 +4031,9 @@
    "jp": "{1c:16}お前も1人で\nここまで上がってきたのか。\nやるなあ・・・{1a}えっ、オレもじゃねえかって?\nいや、オレの方はどうしたわけか\nあんまり敵サンと遭わなかったから\n意外と楽にここまで来られたんだ。{1a}{0c:521018}ま、それにオレの場合は\n1人で行動するの\n案外慣れてるからさ。{1a}故郷の山の中で狩りしてたときは\nほとんど1人だったし、\n山の中で半月以上\n1人でいる事も珍しくなかったから、{1a}ずっと1人でいてもそんなに\n苦痛に感じねえんだ。{1a}{0c:522028}でも、この町に来て、\nお前とかルカとか、いろんな奴と\n一緒に行動するようになって、{1a}仲間ってのも案外悪くねえなって\n思うようになってきたけどさ。{0c:fe}",
    "read": "{1c:16}お前も1人で\nここまで上がってきたのか。\nやるなあ・・・{1a}えっ、オレもじゃねえかって?\nいや、オレの方はどうしたわけか\nあんまり敵サンと遭わなかったから\n意外と楽にここまで来られたんだ。{1a}{0c:521018}ま、それにオレの場合は\n1人で行動するの\n案外慣れてるからさ。{1a}故郷の山の中で狩りしてたときは\nほとんど1人だったし、\n山の中で半月以上\n1人でいる事も珍しくなかったから、{1a}ずっと1人でいてもそんなに\n苦痛に感じねえんだ。{1a}{0c:522028}でも、この町に来て、\nお前とかルカとか、いろんな奴と\n一緒に行動するようになって、{1a}仲間ってのも案外悪くねえなって\n思うようになってきたけどさ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}So you made it up here alone too. Not\nbad...{1a}Huh, what about me? Well, for some\nreason I didn't run into many of them\nbastards, so gettin' here was easier\nthan I figured.{1a}{0c:521018}Besides, I'm pretty used to goin' it alone.{1a}When I hunted in the mountains back\nhome I was nearly always by myself, and\nbein' out there alone for half a month or\nmore wasn't nothin' unusual,{1a}so bein' on my own all the time don't\nbother me much.{1a}{0c:522028}But since comin' to this town, teamin' up\nwith you and Luca and all kinds of folks,{1a}I'm startin' to think havin' friends ain't\nhalf bad.{0c:fe}",
+   "status": "done",
+   "tl": "So you made it up here alone too. Not bad... // Huh, what about me? Well, for some reason I didn't run into many of them bastards, so gettin' here was easier than I figured. // [1]Besides, I'm pretty used to goin' it alone. // When I hunted in the mountains back home I was nearly always by myself, and bein' out there alone for half a month or more wasn't nothin' unusual, // so bein' on my own all the time don't bother me much. // [2]But since comin' to this town, teamin' up with you and Luca and all kinds of folks, // I'm startin' to think havin' friends ain't half bad."
   },
   {
    "id": "RES#72:14c7d",
@@ -3880,8 +4054,9 @@
    "jp": "{1c:17}で、どうする?\nここからは2人で行動するか?\n特に、次の部屋は1人より2人の方が\n何かと都合がいいだろ。{1a}えっ、知らねえのか?\nこの門の次の部屋に\n{09:08}『太陽の宝玉』{09:01}があるんだぜ。{1a}{0c:525058}この変わった門、\n『審問者の門』っていう\nらしいんだけど、{1a}この門の奥の部屋には\nかなり強い番人が待ち受けていて、{1a}そいつを倒さなきゃ{09:08}『太陽の宝玉』{09:01}は\n手に入らねえって話さ。{0c:fe}",
    "read": "{1c:17}で、どうする?\nここからは2人で行動するか?\n特に、次の部屋は1人より2人の方が\n何かと都合がいいだろ。{1a}えっ、知らねえのか?\nこの門の次の部屋に\n{09:08}『太陽の宝玉』{09:01}があるんだぜ。{1a}{0c:525058}この変わった門、\n『審問者の門』っていう\nらしいんだけど、{1a}この門の奥の部屋には\nかなり強い番人が待ち受けていて、{1a}そいつを倒さなきゃ{09:08}『太陽の宝玉』{09:01}は\n手に入らねえって話さ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}So what do ya say? Wanna go on\ntogether from here? Next room\nespecially, two's gonna be handier than\none.{1a}Huh, ya don't know? The next room past\nthis gate's got {09:08}the 'Sun Jewel'{09:01} in it.{1a}{0c:525058}This weird gate's called the 'Inquisitor's\nGate', from what I hear,{1a}and in the room behind it there's a real\nstrong guardian waitin',{1a}and ya can't get {09:08}the 'Sun Jewel'{09:01} unless\nya beat it, so they say.{0c:fe}",
+   "status": "done",
+   "tl": "So what do ya say? Wanna go on together from here? Next room especially, two's gonna be handier than one. // Huh, ya don't know? The next room past this gate's got [1]the 'Sun Jewel'[2] in it. // [3]This weird gate's called the 'Inquisitor's Gate', from what I hear, // and in the room behind it there's a real strong guardian waitin', // and ya can't get [4]the 'Sun Jewel'[5] unless ya beat it, so they say."
   },
   {
    "id": "RES#72:14d8f",
@@ -3902,8 +4077,9 @@
    "jp": "{1c:16}さて、どうする?{0c:fe}",
    "read": "{1c:16}さて、どうする?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}So, whaddaya say?{0c:fe}",
+   "status": "done",
+   "tl": "So, whaddaya say?"
   },
   {
    "id": "RES#72:14dae",
@@ -3924,8 +4100,9 @@
    "jp": "{1c:17}よし、じゃあ行くか。{0c:fe}",
    "read": "{1c:17}よし、じゃあ行くか。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}All right, let's go.{0c:fe}",
+   "status": "done",
+   "tl": "All right, let's go."
   },
   {
    "id": "RES#72:14dcf",
@@ -3957,8 +4134,9 @@
    "jp": "{1c:19}{0b:08}【 ルカ 】{0b:09}\nあっ、{10}さん!{0c:fe}",
    "read": "{1c:19}{0b:08}【 ルカ 】{0b:09}\nあっ、{10}さん!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Luca 】{0b:09}\nOh, {10}-san!{0c:fe}",
+   "status": "done",
+   "tl": "Oh, [HERO]-san!"
   },
   {
    "id": "RES#72:14edb",
@@ -3979,8 +4157,9 @@
    "jp": "{1c:18}そちらにも\n階段があったのですね。{1a}それで・・・\n{10}さんはお一人でここまで\nいらっしゃったのですか?{1a}{0c:522028}いえ、わたしはパスカさんと一緒に\n途中まで来たんですけど、\nいつの間にかはぐれてしまって・・・{1a}このあたりでは時の行路図も\nまったく使えないので\n地上にも戻れませんし、{1a}誰とも会えず、\n途方に暮れながら迷って進むうちに\n魔物に追い立てられたりして\nどんどん上の階にあがってしまい、{1a}いつの間にか\nここに来ちゃったんです・・・{1a}{0c:521018}でも、{10}さんと\nこんなところでお会い出来るなんて\n本当に嬉しいです。\nご一緒して構いませんか?{0c:fe}",
    "read": "{1c:18}そちらにも\n階段があったのですね。{1a}それで・・・\n{10}さんはお一人でここまで\nいらっしゃったのですか?{1a}{0c:522028}いえ、わたしはパスカさんと一緒に\n途中まで来たんですけど、\nいつの間にかはぐれてしまって・・・{1a}このあたりでは時の行路図も\nまったく使えないので\n地上にも戻れませんし、{1a}誰とも会えず、\n途方に暮れながら迷って進むうちに\n魔物に追い立てられたりして\nどんどん上の階にあがってしまい、{1a}いつの間にか\nここに来ちゃったんです・・・{1a}{0c:521018}でも、{10}さんと\nこんなところでお会い出来るなんて\n本当に嬉しいです。\nご一緒して構いませんか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}So there was a staircase over there as\nwell...{1a}And so... d-did you come all this way\nalone, {10}-san?{1a}{0c:522028}N-no, I came part of the way with\nPasca-san, but somewhere along the\nway we were separated...{1a}The Chart of Time does not work at all\naround here, so I could not return to the\nsurface either,{1a}and I met no one, and as I wandered on\nat a loss, monsters kept chasing me, and\nI climbed higher and higher,{1a}and before I knew it, I had ended up\nhere...{1a}{0c:521018}But to meet you in a place like this,\n{10}-san, I am truly so glad.\nW-would it be all right if I came with you?{0c:fe}",
+   "status": "done",
+   "tl": "So there was a staircase over there as well... // And so... d-did you come all this way alone, [HERO]-san? // [1]N-no, I came part of the way with Pasca-san, but somewhere along the way we were separated... // The Chart of Time does not work at all around here, so I could not return to the surface either, // and I met no one, and as I wandered on at a loss, monsters kept chasing me, and I climbed higher and higher, // and before I knew it, I had ended up here... // [2]But to meet you in a place like this, [HERO]-san, I am truly so glad. W-would it be all right if I came with you?"
   },
   {
    "id": "RES#72:15036",
@@ -4001,8 +4180,9 @@
    "jp": "{0c:528088}{1c:18}あ、ありがとうございます!\nほんとうにすみません・・・{0c:fe}",
    "read": "{0c:528088}{1c:18}あ、ありがとうございます!\nほんとうにすみません・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:528088}{1c:18}Th-thank you! I am so very sorry...{0c:fe}",
+   "status": "done",
+   "tl": "Th-thank you! I am so very sorry..."
   },
   {
    "id": "RES#72:1506e",
@@ -4023,8 +4203,9 @@
    "jp": "{0c:529008}{1c:1a}ところでここは・・・{1a}もしかして\n最上階なのでしょうか・・・{1a}{0c:51081009}この門の模様のこと・・・\nクムランさんやティアラさんから\n聞いたことがあります。{1a}{0c:51082b501000}確か名前は『審問者の門』・・・\nということは、次の部屋に\n{09:08}『太陽の宝玉』{09:01}が・・・{0c:fe}",
    "read": "{0c:529008}{1c:1a}ところでここは・・・{1a}もしかして\n最上階なのでしょうか・・・{1a}{0c:51081009}この門の模様のこと・・・\nクムランさんやティアラさんから\n聞いたことがあります。{1a}{0c:51082b501000}確か名前は『審問者の門』・・・\nということは、次の部屋に\n{09:08}『太陽の宝玉』{09:01}が・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:529008}{1c:1a}And this place...{1a}C-could this be the top floor...{1a}{0c:51081009}This pattern on the gate... I have heard\nof it from Qumran-san and Tiara-san.{1a}{0c:51082b501000}I believe the name is the 'Inquisitor's\nGate'... Which means that in the next\nroom, {09:08}the 'Sun Jewel'{09:01}...{0c:fe}",
+   "status": "done",
+   "tl": "And this place... // C-could this be the top floor... // [1]This pattern on the gate... I have heard of it from Qumran-san and Tiara-san. // [2]I believe the name is the 'Inquisitor's Gate'... Which means that in the next room, [3]the 'Sun Jewel'[4]..."
   },
   {
    "id": "RES#72:15128",
@@ -4045,8 +4226,9 @@
    "jp": "{1c:18}すごいなあ・・・\nいつの間にかこんな所まで\n来ちゃったんですね・・・{1a}{0c:51082b501000}自分でも信じられません。\nわたしのような\n何の取り柄もない人間が\n最上階までたどり着けるなんて・・・{1a}もちろん1人じゃ絶対に無理でした。\n{10}さんにも\n本当に感謝しています。{1a}{10}さんのような\nお優しい方と出会えて\n本当によかったです。{0c:fe}",
    "read": "{1c:18}すごいなあ・・・\nいつの間にかこんな所まで\n来ちゃったんですね・・・{1a}{0c:51082b501000}自分でも信じられません。\nわたしのような\n何の取り柄もない人間が\n最上階までたどり着けるなんて・・・{1a}もちろん1人じゃ絶対に無理でした。\n{10}さんにも\n本当に感謝しています。{1a}{10}さんのような\nお優しい方と出会えて\n本当によかったです。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}How amazing... Before I knew it, I had\ncome all this way...{1a}{0c:51082b501000}I can hardly believe it myself. That\nsomeone like me, with no talents at all,\ncould reach the top floor...{1a}Of course I could never have done it\nalone. I am truly grateful to you as well,\n{10}-san.{1a}I am so glad to have met someone as kind\nas you, {10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "How amazing... Before I knew it, I had come all this way... // [1]I can hardly believe it myself. That someone like me, with no talents at all, could reach the top floor... // Of course I could never have done it alone. I am truly grateful to you as well, [HERO]-san. // I am so glad to have met someone as kind as you, [HERO]-san."
   },
   {
    "id": "RES#72:15201",
@@ -4067,8 +4249,9 @@
    "jp": "{0c:521018}{1c:18}わたしがこの町に来た理由、\n前にも言ったと思うんですけど、\nわたしは先輩の修道士の\n冗談を真に受けて来ちゃったんです。{1a}カルス・バスティードでは\n司祭がいなくてみんなが困ってる、{1a}町のみんなが、司祭が来るのを\n楽しみに待ってるって・・・{1a}{0c:522028}騙されてるのかなと\nその時も少しは思ったんですけど、\nやっぱり本当かもしれないって\n思い直してこの町に来て・・・{1a}やっぱり\nそれは嘘だったわけなんですけど、{1a}ナスティの修道院には、\nわたしが先輩達に騙されてることを\n教えてくれる友達も\n1人もいなかったんです・・・{0c:020201}",
    "read": "{0c:521018}{1c:18}わたしがこの町に来た理由、\n前にも言ったと思うんですけど、\nわたしは先輩の修道士の\n冗談を真に受けて来ちゃったんです。{1a}カルス・バスティードでは\n司祭がいなくてみんなが困ってる、{1a}町のみんなが、司祭が来るのを\n楽しみに待ってるって・・・{1a}{0c:522028}騙されてるのかなと\nその時も少しは思ったんですけど、\nやっぱり本当かもしれないって\n思い直してこの町に来て・・・{1a}やっぱり\nそれは嘘だったわけなんですけど、{1a}ナスティの修道院には、\nわたしが先輩達に騙されてることを\n教えてくれる友達も\n1人もいなかったんです・・・{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:18}The reason I came to this town... I\nth-think I told you before, but I came\nbecause I took an older monk's joke\nseriously.{1a}He said Kars Bastide had no priest, and\neveryone there was suffering for it,{1a}that everyone in town was eagerly\nwaiting for a priest to come...{1a}{0c:522028}Even then I did wonder a little if I was\nbeing fooled, but I told myself it might be\ntrue after all, and came to this town...{1a}And of course it was a lie,{1a}but at the monastery in Nasti, I did not\nhave a single friend who would tell me my\nseniors were fooling me...{0c:020201}",
+   "status": "done",
+   "tl": "The reason I came to this town... I th-think I told you before, but I came because I took an older monk's joke seriously. // He said Kars Bastide had no priest, and everyone there was suffering for it, // that everyone in town was eagerly waiting for a priest to come... // [1]Even then I did wonder a little if I was being fooled, but I told myself it might be true after all, and came to this town... // And of course it was a lie, // but at the monastery in Nasti, I did not have a single friend who would tell me my seniors were fooling me..."
   },
   {
    "id": "RES#72:1535b",
@@ -4078,8 +4261,9 @@
    "jp": "{0c:521018}{1c:1a}わたしがこの町に来た理由、\n{10}さんにお話しした事は\nありませんよね・・・{1a}その・・・情けない話なんですけど、\nわたしは先輩の修道士の\n冗談を真に受けて来ちゃったんです。{1a}カルス・バスティードでは\n司祭がいなくて礼拝も出来ずに\nみんなが困ってる、{1a}町のみんなが、司祭が来るのを\n楽しみに待ってるって・・・{1a}{0c:522028}騙されてるのかなと\nその時も少しは思ったんですけど、\nやっぱり本当かもしれないって\n思い直してこの町に来て・・・{1a}やっぱり\nそれは嘘だったわけなんですけど、{1a}ナスティの修道院には、\nわたしが先輩達に騙されてることを\n教えてくれる友達も\n1人もいなかったんです・・・{0c:fe}",
    "read": "{0c:521018}{1c:1a}わたしがこの町に来た理由、\n{10}さんにお話しした事は\nありませんよね・・・{1a}その・・・情けない話なんですけど、\nわたしは先輩の修道士の\n冗談を真に受けて来ちゃったんです。{1a}カルス・バスティードでは\n司祭がいなくて礼拝も出来ずに\nみんなが困ってる、{1a}町のみんなが、司祭が来るのを\n楽しみに待ってるって・・・{1a}{0c:522028}騙されてるのかなと\nその時も少しは思ったんですけど、\nやっぱり本当かもしれないって\n思い直してこの町に来て・・・{1a}やっぱり\nそれは嘘だったわけなんですけど、{1a}ナスティの修道院には、\nわたしが先輩達に騙されてることを\n教えてくれる友達も\n1人もいなかったんです・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:1a}The reason I came to this town... I do not\nbelieve I have ever told you,\n{10}-san...{1a}Th-that is... it is a pitiful story, but I\ncame because I took an older monk's joke\nseriously.{1a}He said Kars Bastide had no priest, that\nno one could even hold worship, and\neveryone there was suffering for it,{1a}that everyone in town was eagerly\nwaiting for a priest to come...{1a}{0c:522028}Even then I did wonder a little if I was\nbeing fooled, but I told myself it might be\ntrue after all, and came to this town...{1a}And of course it was a lie,{1a}but at the monastery in Nasti, I did not\nhave a single friend who would tell me my\nseniors were fooling me...{0c:fe}",
+   "status": "done",
+   "tl": "The reason I came to this town... I do not believe I have ever told you, [HERO]-san... // Th-that is... it is a pitiful story, but I came because I took an older monk's joke seriously. // He said Kars Bastide had no priest, that no one could even hold worship, and everyone there was suffering for it, // that everyone in town was eagerly waiting for a priest to come... // [1]Even then I did wonder a little if I was being fooled, but I told myself it might be true after all, and came to this town... // And of course it was a lie, // but at the monastery in Nasti, I did not have a single friend who would tell me my seniors were fooling me..."
   },
   {
    "id": "RES#72:154c2",
@@ -4100,8 +4284,9 @@
    "jp": "{0c:523038}{0c:0c19}{1c:1a}でも、この町では\n{10}さんやパスカさん、{1a}ティアラさんやシャルンさんや\nバルデスさんやクムランさん、{1a}他にも大勢の人達に\n優しくしていただいて、\n本当に嬉しいんです・・・{1a}{0c:524048}わたしは相変わらず\n情けないままなんですけど、\n皆さんのおかげで\nなんとか・・・その・・・{0c:fe}",
    "read": "{0c:523038}{0c:0c19}{1c:1a}でも、この町では\n{10}さんやパスカさん、{1a}ティアラさんやシャルンさんや\nバルデスさんやクムランさん、{1a}他にも大勢の人達に\n優しくしていただいて、\n本当に嬉しいんです・・・{1a}{0c:524048}わたしは相変わらず\n情けないままなんですけど、\n皆さんのおかげで\nなんとか・・・その・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523038}{0c:0c19}{1c:1a}But in this town, {10}-san,\nPasca-san,{1a}Tiara-san, Scharn-san, Valdes-san,\nQumran-san,{1a}and so many others have been kind to\nme, and I'm so very happy...{1a}{0c:524048}I'm as pathetic as ever, but thanks to all\nof you, s-somehow... that is...{0c:fe}",
+   "status": "done",
+   "tl": "But in this town, [HERO]-san, Pasca-san, // Tiara-san, Scharn-san, Valdes-san, Qumran-san, // and so many others have been kind to me, and I'm so very happy... // [1]I'm as pathetic as ever, but thanks to all of you, s-somehow... that is..."
   },
   {
    "id": "RES#72:15574",
@@ -4122,8 +4307,9 @@
    "jp": "{1c:18}あっ、\nなんだかわたしばっかり\n喋ってますね・・・\nす、すみません・・・{1a}{0c:526068}で、では、\nそろそろ中に入ってみましょうか。{1a}次の部屋にいる魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}が手に入るんですよね。\nわたしも精一杯お手伝いします。\nが、がんばりましょうね。{0c:fe}",
    "read": "{1c:18}あっ、\nなんだかわたしばっかり\n喋ってますね・・・\nす、すみません・・・{1a}{0c:526068}で、では、\nそろそろ中に入ってみましょうか。{1a}次の部屋にいる魔物を倒すと\n{09:08}『太陽の宝玉』{09:01}が手に入るんですよね。\nわたしも精一杯お手伝いします。\nが、がんばりましょうね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}Oh, I seem to be doing all the talking... I-I\nam sorry...{1a}{0c:526068}W-well then, shall we try going inside?{1a}If we defeat the monster in the next\nroom, we obtain {09:08}the 'Sun Jewel'{09:01}, do we\nnot? I will help as best I can. L-let us do\nour best.{0c:fe}",
+   "status": "done",
+   "tl": "Oh, I seem to be doing all the talking... I-I am sorry... // [1]W-well then, shall we try going inside? // If we defeat the monster in the next room, we obtain [2]the 'Sun Jewel'[3], do we not? I will help as best I can. L-let us do our best."
   },
   {
    "id": "RES#72:1561f",
@@ -4155,8 +4341,9 @@
    "jp": "{1c:1d}{0b:08}【 サラ 】{0b:09}\nあっ、{10}さん!{0c:fe}",
    "read": "{1c:1d}{0b:08}【 サラ 】{0b:09}\nあっ、{10}さん!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}{0b:08}【 Sara 】{0b:09}\nOh, {10}-san!{0c:fe}",
+   "status": "done",
+   "tl": "Oh, [HERO]-san!"
   },
   {
    "id": "RES#72:15729",
@@ -4177,8 +4364,9 @@
    "jp": "{1c:1b}{10}さんも1人なの?\nあたしもなんだ。{1a}シャルンさんと一緒に来たんだけど、\n途中ではぐれちゃったの。{1a}{10}さん、\nあたしも一緒に行っていいかな。{0c:fe}",
    "read": "{1c:1b}{10}さんも1人なの?\nあたしもなんだ。{1a}シャルンさんと一緒に来たんだけど、\n途中ではぐれちゃったの。{1a}{10}さん、\nあたしも一緒に行っていいかな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}Are you by yourself too,\n{10}-san? Me too.{1a}I came with Scharn-san, but we got\nseparated on the way.{1a}{10}-san, can I come with you?{0c:fe}",
+   "status": "done",
+   "tl": "Are you by yourself too, [HERO]-san? Me too. // I came with Scharn-san, but we got separated on the way. // [HERO]-san, can I come with you?"
   },
   {
    "id": "RES#72:1579b",
@@ -4199,8 +4387,9 @@
    "jp": "{0c:521018}{1c:1b}ありがと。\nでも本当によかった、\n{10}さんとここで出会えて。{1a}危ない目にはそれほど\nあわなかったんだけど、\n1人でちょっと寂しかったんだ。{0c:fe}",
    "read": "{0c:521018}{1c:1b}ありがと。\nでも本当によかった、\n{10}さんとここで出会えて。{1a}危ない目にはそれほど\nあわなかったんだけど、\n1人でちょっと寂しかったんだ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:1b}Thanks. I'm so glad I ran into you here,\n{10}-san.{1a}Nothing too scary happened, but it was\na little lonely all by myself.{0c:fe}",
+   "status": "done",
+   "tl": "Thanks. I'm so glad I ran into you here, [HERO]-san. // Nothing too scary happened, but it was a little lonely all by myself."
   },
   {
    "id": "RES#72:15804",
@@ -4221,8 +4410,9 @@
    "jp": "{1c:1c}ところでここは\nどこなのかな・・・{1a}{0c:51081009}この門って・・・もしかして・・・{0c:fe}",
    "read": "{1c:1c}ところでここは\nどこなのかな・・・{1a}{0c:51081009}この門って・・・もしかして・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}So where are we, I wonder...{1a}{0c:51081009}This gate... could it be...{0c:fe}",
+   "status": "done",
+   "tl": "So where are we, I wonder... // [1]This gate... could it be..."
   },
   {
    "id": "RES#72:15844",
@@ -4243,8 +4433,9 @@
    "jp": "{1c:1c}もしかして\nここが最上階なのかな。{1a}この門の模様、\nクムランさんやオイゲンさんに\n聞いたのとそっくりなんだもん。{1a}{0c:521018}すごいね!\nもうこんなところまで\n来ちゃったんだ。{0c:fe}",
    "read": "{1c:1c}もしかして\nここが最上階なのかな。{1a}この門の模様、\nクムランさんやオイゲンさんに\n聞いたのとそっくりなんだもん。{1a}{0c:521018}すごいね!\nもうこんなところまで\n来ちゃったんだ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}Could this be the top floor?{1a}The pattern on this gate looks just like\nwhat Qumran-san and Eugen-san told me\nabout.{1a}{0c:521018}That's amazing! We came this far\nalready!{0c:fe}",
+   "status": "done",
+   "tl": "Could this be the top floor? // The pattern on this gate looks just like what Qumran-san and Eugen-san told me about. // [1]That's amazing! We came this far already!"
   },
   {
    "id": "RES#72:158b9",
@@ -4265,8 +4456,9 @@
    "jp": "{1c:1d}次の部屋にいる魔物と戦うと\n{09:08}『太陽の宝玉』{09:01}が手にはいるんだよね。{1a}{0c:51081003}すごい!\nあと少しで{09:08}『太陽の宝玉』{09:01}が\n手に入るんだ!{0c:fe}",
    "read": "{1c:1d}次の部屋にいる魔物と戦うと\n{09:08}『太陽の宝玉』{09:01}が手にはいるんだよね。{1a}{0c:51081003}すごい!\nあと少しで{09:08}『太陽の宝玉』{09:01}が\n手に入るんだ!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}If we fight the monster in the next\nroom, we get {09:08}the 'Sun Jewel'{09:01}, right?{1a}{0c:51081003}That's amazing! Just a little more and we\nget {09:08}the 'Sun Jewel'{09:01}!{0c:fe}",
+   "status": "done",
+   "tl": "If we fight the monster in the next room, we get [1]the 'Sun Jewel'[2], right? // [3]That's amazing! Just a little more and we get [4]the 'Sun Jewel'[5]!"
   },
   {
    "id": "RES#72:1592b",
@@ -4287,8 +4479,9 @@
    "jp": "{1c:1b}{09:08}『太陽の宝玉』{09:01}が手に入れば\nお金を町の外に持ち出す許可が\nおりたことになるんだよね。{1a}じゃあ、これからはもっとがんばって\nお金を貯めなくちゃ。{1a}あたしのお母さん、\nアスロイトの東の方で\n小さな孤児院をひらいてるんだけど{1a}育ち盛りの子供達を大勢\n食べさせてあげなきゃいけないから、\nお金が足りなくていつも困ってたの。{1a}地区教会の司祭様が優しい人で、\n援助してくれるんだけど、\nやっぱりまだまだ\n足りないらしくて・・・{1a}それであたしはこの町に\nお金を貯めに来たんだけど、\nまだあんまり貯まってないんだ。{0c:fe}",
    "read": "{1c:1b}{09:08}『太陽の宝玉』{09:01}が手に入れば\nお金を町の外に持ち出す許可が\nおりたことになるんだよね。{1a}じゃあ、これからはもっとがんばって\nお金を貯めなくちゃ。{1a}あたしのお母さん、\nアスロイトの東の方で\n小さな孤児院をひらいてるんだけど{1a}育ち盛りの子供達を大勢\n食べさせてあげなきゃいけないから、\nお金が足りなくていつも困ってたの。{1a}地区教会の司祭様が優しい人で、\n援助してくれるんだけど、\nやっぱりまだまだ\n足りないらしくて・・・{1a}それであたしはこの町に\nお金を貯めに来たんだけど、\nまだあんまり貯まってないんだ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{09:08}Once we have the 'Sun Jewel'{09:01}, that\nmeans we're allowed to take money out\nof town, right?{1a}Then from now on I have to try even\nharder and save up money, okay?{1a}My mom runs a little orphanage in the\neast of Asroit,{1a}and she has lots of growing kids to feed,\nso there was never enough money and\nshe was always having a hard time.{1a}The priest at the district church is a\nkind person and helps us out, but it still\nisn't nearly enough...{1a}So I came to this town to save up\nmoney, but I haven't saved very much\nyet.{0c:fe}",
+   "status": "done",
+   "tl": "Once we have the 'Sun Jewel'[1], that means we're allowed to take money out of town, right? // Then from now on I have to try even harder and save up money, okay? // My mom runs a little orphanage in the east of Asroit, // and she has lots of growing kids to feed, so there was never enough money and she was always having a hard time. // The priest at the district church is a kind person and helps us out, but it still isn't nearly enough... // So I came to this town to save up money, but I haven't saved very much yet."
   },
   {
    "id": "RES#72:15a74",
@@ -4309,8 +4502,9 @@
    "jp": "{1c:1d}あたし、お金のことにちょっと疎くて、\nどれくらいのお金を貯めればいいか\n知らないんだけど、{1a}{0c:522028}子供達にいろんな食べ物\n食べさせてあげたいし、{1a}あたたかい毛布とか\nバイレステ製のおもちゃとか\n色んなものをプレゼントして\nあげたいから、{1a}これからはとにかくがんばって\nたくさんお金を集めなきゃって\n思ってるの。{0c:fe}",
    "read": "{1c:1d}あたし、お金のことにちょっと疎くて、\nどれくらいのお金を貯めればいいか\n知らないんだけど、{1a}{0c:522028}子供達にいろんな食べ物\n食べさせてあげたいし、{1a}あたたかい毛布とか\nバイレステ製のおもちゃとか\n色んなものをプレゼントして\nあげたいから、{1a}これからはとにかくがんばって\nたくさんお金を集めなきゃって\n思ってるの。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}I'm not very good with money, so I don't\nknow how much I need to save,{1a}{0c:522028}but I want the kids to have all kinds of\ngood things to eat,{1a}and I want to give them presents, like\nwarm blankets and toys from Baileste\nand lots of other things,{1a}so from now on I just have to try really\nhard and get lots of money.{0c:fe}",
+   "status": "done",
+   "tl": "I'm not very good with money, so I don't know how much I need to save, // [1]but I want the kids to have all kinds of good things to eat, // and I want to give them presents, like warm blankets and toys from Baileste and lots of other things, // so from now on I just have to try really hard and get lots of money."
   },
   {
    "id": "RES#72:15b3d",
@@ -4331,8 +4525,9 @@
    "jp": "{0c:523038}{1c:1b}あっ、でも今は\n{09:08}『太陽の宝玉』{09:01}が先だよね。\nなんだかもう取った気に\nなっちゃってた。{1a}じゃあ、がんばって取りに行こうね、\n{10}さん!{0c:fe}",
    "read": "{0c:523038}{1c:1b}あっ、でも今は\n{09:08}『太陽の宝玉』{09:01}が先だよね。\nなんだかもう取った気に\nなっちゃってた。{1a}じゃあ、がんばって取りに行こうね、\n{10}さん!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523038}{1c:1b}Oh, but {09:08}the 'Sun Jewel'{09:01} comes first,\ndoesn't it? I was talking like we already\nhad it.{1a}Okay, let's try hard and go get it,\n{10}-san!{0c:fe}",
+   "status": "done",
+   "tl": "Oh, but [1]the 'Sun Jewel'[2] comes first, doesn't it? I was talking like we already had it. // Okay, let's try hard and go get it, [HERO]-san!"
   },
   {
    "id": "RES#72:15baa",
