@@ -413,9 +413,9 @@
    "jp": "{1c:16}{0b:08}【 アーサー 】{0b:09}\nき、君には関係ないだろう!\n{0c:5101}行こう、{10}!{0c:290b091501}",
    "read": "{1c:16}{0b:08}【 アーサー 】{0b:09}\nき、君には関係ないだろう!\n{0c:5101}行こう、{10}!{0c:290b091501}",
    "raw": null,
-   "en": "{1c:16}{0b:08}【 Arthur 】{0b:09}\nY-you have no say in this! {0c:5101}Let's go,\n{10}!{0c:290b091501}",
+   "en": "{1c:16}{0b:08}【 Arthur 】{0b:09}\nY-you have nothing to do with this!\n{0c:5101}Let's go, {10}!{0c:290b091501}",
    "status": "done",
-   "tl": "Y-you have no say in this! [1]Let's go, [HERO]!"
+   "tl": "Y-you have nothing to do with this! [1]Let's go, [HERO]!"
   },
   {
    "id": "RES#327:93e3",
@@ -1313,9 +1313,9 @@
    "jp": "{1c:1b}{0b:08}【 シャルン 】{0b:09}\nその目が1番うさん臭いんだけど。{0c:290b091501}",
    "read": "{1c:1b}{0b:08}【 シャルン 】{0b:09}\nその目が1番うさん臭いんだけど。{0c:290b091501}",
    "raw": null,
-   "en": "{1c:1b}{0b:08}【 Scharn 】{0b:09}\nThose eyes are the fishiest thing about\nyou.{0c:290b091501}",
+   "en": "{1c:1b}{0b:08}【 Scharn 】{0b:09}\nThose eyes are the fishiest thing about\nyou, though.{0c:290b091501}",
    "status": "done",
-   "tl": "Those eyes are the fishiest thing about you."
+   "tl": "Those eyes are the fishiest thing about you, though."
   },
   {
    "id": "RES#327:a282",
@@ -1549,9 +1549,9 @@
    "jp": "{0c:5120}{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nもちろん。{1a}野生の動物を思わせる\nしなやかな体の線と動き、\n無造作にのばしてるだけなのに\nなぜかそそられる髪型、\n{0c:522122}性格とは逆のひかえめな胸、\n粗野な中に知性を\n感じさせる口調・・・{0c:2b50091501}",
    "read": "{0c:5120}{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nもちろん。{1a}野生の動物を思わせる\nしなやかな体の線と動き、\n無造作にのばしてるだけなのに\nなぜかそそられる髪型、\n{0c:522122}性格とは逆のひかえめな胸、\n粗野な中に知性を\n感じさせる口調・・・{0c:2b50091501}",
    "raw": null,
-   "en": "{0c:5120}{1c:10}{0b:08}【 Orpheus 】{0b:09}\nOf course.{1a}The graceful way you move, like some\nwild animal, that carelessly grown hair\nwhich is somehow charming, {0c:522122}a humility so\nwell hidden that no one has ever seen{1a}it, and a manner of speech that hints at\nintellect beneath the coarseness...{0c:2b50091501}",
+   "en": "{0c:5120}{1c:10}{0b:08}【 Orpheus 】{0b:09}\nOf course.{1a}The supple grace of your every\nmovement, so like a wild animal's, that\nhair you merely let grow anyhow, yet\nsomehow so captivating, {0c:522122}a modesty so{1a}unlike your temperament, and that\nmanner of speech, coarse and yet\nhinting at intellect...{0c:2b50091501}",
    "status": "done",
-   "tl": "Of course. // The graceful way you move, like some wild animal, that carelessly grown hair which is somehow charming, [1]a humility so well hidden that no one has ever seen it, and a manner of speech that hints at intellect beneath the coarseness..."
+   "tl": "Of course. // The supple grace of your every movement, so like a wild animal's, that hair you merely let grow anyhow, yet somehow so captivating, [1]a modesty so unlike your temperament, and that manner of speech, coarse and yet hinting at intellect..."
   },
   {
    "id": "RES#327:a70c",
@@ -1573,9 +1573,9 @@
    "jp": "{1c:11}{0b:08}【 オルフェウス 】{0b:09}\nえっ、\nもう行っちゃうんですか?{0c:1501}",
    "read": "{1c:11}{0b:08}【 オルフェウス 】{0b:09}\nえっ、\nもう行っちゃうんですか?{0c:1501}",
    "raw": null,
-   "en": "{1c:11}{0b:08}【 Orpheus 】{0b:09}\nWhat, you are leaving already?{0c:1501}",
+   "en": "{1c:11}{0b:08}【 Orpheus 】{0b:09}\nWhat, you're leaving already?{0c:1501}",
    "status": "done",
-   "tl": "What, you are leaving already?"
+   "tl": "What, you're leaving already?"
   },
   {
    "id": "RES#327:a771",
@@ -1773,9 +1773,9 @@
    "jp": "{1c:11}{0b:08}【 オルフェウス 】{0b:09}\nもう行っちゃうんですか?\nぼくも一緒に行こうかなあ。{0c:1501}",
    "read": "{1c:11}{0b:08}【 オルフェウス 】{0b:09}\nもう行っちゃうんですか?\nぼくも一緒に行こうかなあ。{0c:1501}",
    "raw": null,
-   "en": "{1c:11}{0b:08}【 Orpheus 】{0b:09}\nYou are leaving already? Perhaps I should\ncome along too.{0c:1501}",
+   "en": "{1c:11}{0b:08}【 Orpheus 】{0b:09}\nYou're leaving already? Perhaps I should\ncome along too.{0c:1501}",
    "status": "done",
-   "tl": "You are leaving already? Perhaps I should come along too."
+   "tl": "You're leaving already? Perhaps I should come along too."
   },
   {
    "id": "RES#327:ac13",
@@ -1948,9 +1948,9 @@
    "jp": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nわかってます。君はみんなとは違う。\n大陸中探しても君のような\n可愛い子はいません。{0c:2b50091501}",
    "read": "{1c:10}{0b:08}【 オルフェウス 】{0b:09}\nわかってます。君はみんなとは違う。\n大陸中探しても君のような\n可愛い子はいません。{0c:2b50091501}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nI know. You are not like the others.\nSearch the whole continent and you\nwould not find so adorable a girl.{0c:2b50091501}",
+   "en": "{1c:10}{0b:08}【 Orpheus 】{0b:09}\nI know. You're not like the others.\nSearch the whole continent and you\nwouldn't find so adorable a girl.{0c:2b50091501}",
    "status": "done",
-   "tl": "I know. You are not like the others. Search the whole continent and you would not find so adorable a girl."
+   "tl": "I know. You're not like the others. Search the whole continent and you wouldn't find so adorable a girl."
   },
   {
    "id": "RES#327:af55",
@@ -2778,9 +2778,9 @@
    "jp": "{1c:11}行かないんですか?",
    "read": "{1c:11}行かないんですか?",
    "raw": null,
-   "en": "{1c:11}You are not going?",
+   "en": "{1c:11}You're not going?",
    "status": "done",
-   "tl": "You are not going?"
+   "tl": "You're not going?"
   },
   {
    "id": "RES#327:bbe0",
@@ -2801,9 +2801,9 @@
    "jp": "{1c:11}{0b:08}【 オルフェウス 】{0b:09}\nこんな時間に\nこんな男と一緒にいるなんて・・・{1a}駄目じゃないですか。\n男はみんな狼なんですからね。{0c:1501}",
    "read": "{1c:11}{0b:08}【 オルフェウス 】{0b:09}\nこんな時間に\nこんな男と一緒にいるなんて・・・{1a}駄目じゃないですか。\n男はみんな狼なんですからね。{0c:1501}",
    "raw": null,
-   "en": "{1c:11}{0b:08}【 Orpheus 】{0b:09}\nWith a man like this, at such an hour...{1a}Now, that will not do. All men are\nscoundrels, you know.{0c:1501}",
+   "en": "{1c:11}{0b:08}【 Orpheus 】{0b:09}\nWith a man like this, at such an hour...{1a}Now, that won't do. All men are\nscoundrels, you know.{0c:1501}",
    "status": "done",
-   "tl": "With a man like this, at such an hour... // Now, that will not do. All men are scoundrels, you know."
+   "tl": "With a man like this, at such an hour... // Now, that won't do. All men are scoundrels, you know."
   },
   {
    "id": "RES#327:bc7f",
@@ -2917,9 +2917,9 @@
    "jp": "{0c:31040b6000d8008a1000501651113a00}{0c:040a5114}{1c:11}{0b:08}【 オルフェウス 】{0b:09}\nとんだ不良娘ですね。\n駄目じゃないですか。\n男はみんな狼なんですからね。{0c:1501}",
    "read": "{0c:31040b6000d8008a1000501651113a00}{0c:040a5114}{1c:11}{0b:08}【 オルフェウス 】{0b:09}\nとんだ不良娘ですね。\n駄目じゃないですか。\n男はみんな狼なんですからね。{0c:1501}",
    "raw": null,
-   "en": "{0c:31040b6000d8008a1000501651113a00}{0c:040a5114}{1c:11}{0b:08}【 Orpheus 】{0b:09}\nWhat a wayward girl you are. Now, that\nwill not do. All men are scoundrels, you\nknow.{0c:1501}",
+   "en": "{0c:31040b6000d8008a1000501651113a00}{0c:040a5114}{1c:11}{0b:08}【 Orpheus 】{0b:09}\nWhat a wayward girl you are. Now, that\nwon't do. All men are scoundrels, you\nknow.{0c:1501}",
    "status": "done",
-   "tl": "What a wayward girl you are. Now, that will not do. All men are scoundrels, you know."
+   "tl": "What a wayward girl you are. Now, that won't do. All men are scoundrels, you know."
   },
   {
    "id": "RES#327:be0b",
@@ -3115,9 +3115,9 @@
    "jp": "{0c:5102}{1c:20}{0b:08}【 イヴ 】{0b:09}\n下心ミエミエね。\nあなたと一緒にいる方が\nよっぽど危ないわよ。{0c:290b091501}",
    "read": "{0c:5102}{1c:20}{0b:08}【 イヴ 】{0b:09}\n下心ミエミエね。\nあなたと一緒にいる方が\nよっぽど危ないわよ。{0c:290b091501}",
    "raw": null,
-   "en": "{0c:5102}{1c:20}{0b:08}【 Eve 】{0b:09}\nYour motives couldn't be plainer, could\nthey? Being with you is far more\ndangerous, you know.{0c:290b091501}",
+   "en": "{0c:5102}{1c:20}{0b:08}【 Eve 】{0b:09}\nYour motives couldn't be plainer. Being\nwith you is far more dangerous, you\nknow.{0c:290b091501}",
    "status": "done",
-   "tl": "Your motives couldn't be plainer, could they? Being with you is far more dangerous, you know."
+   "tl": "Your motives couldn't be plainer. Being with you is far more dangerous, you know."
   },
   {
    "id": "RES#327:c11c",
@@ -3543,9 +3543,9 @@
    "jp": "{0c:31040b6000d8008a1000501651003a00}{0c:040a5114}{1c:11}{0b:08}【 オルフェウス 】{0b:09}\nその格好で歩いてきたんですか?{1a}その勇気は確かにすばらしいですが、\n恥じらいも女の子を可愛く見せる\n重要な要素なんですよ。{0c:1501}",
    "read": "{0c:31040b6000d8008a1000501651003a00}{0c:040a5114}{1c:11}{0b:08}【 オルフェウス 】{0b:09}\nその格好で歩いてきたんですか?{1a}その勇気は確かにすばらしいですが、\n恥じらいも女の子を可愛く見せる\n重要な要素なんですよ。{0c:1501}",
    "raw": null,
-   "en": "{0c:31040b6000d8008a1000501651003a00}{0c:040a5114}{1c:11}{0b:08}【 Orpheus 】{0b:09}\nYou walked here dressed like that?{1a}Your courage is truly splendid, but\nmodesty is also an important part of\nwhat makes a girl look lovely, you know.{0c:1501}",
+   "en": "{0c:31040b6000d8008a1000501651003a00}{0c:040a5114}{1c:11}{0b:08}【 Orpheus 】{0b:09}\nYou walked here at this hour?{1a}Your courage is truly splendid, but a\nlittle caution also makes a girl look lovely,\nyou know.{0c:1501}",
    "status": "done",
-   "tl": "You walked here dressed like that? // Your courage is truly splendid, but modesty is also an important part of what makes a girl look lovely, you know."
+   "tl": "You walked here at this hour? // Your courage is truly splendid, but a little caution also makes a girl look lovely, you know."
   },
   {
    "id": "RES#327:c704",
@@ -3902,9 +3902,9 @@
    "jp": "{1c:11}{10}さんって強いんですね。\nまるで何もなかったような\n顔をしている・・・{0c:15}",
    "read": "{1c:11}{10}さんって強いんですね。\nまるで何もなかったような\n顔をしている・・・{0c:15}",
    "raw": null,
-   "en": "{1c:11}You're strong, aren't you,\n{10}-san. You wear a face as if\nnothing had happened...{0c:15}",
+   "en": "{1c:11}You're strong, aren't you,\n{10}-san. You look as if nothing\nhad happened...{0c:15}",
    "status": "done",
-   "tl": "You're strong, aren't you, [HERO]-san. You wear a face as if nothing had happened..."
+   "tl": "You're strong, aren't you, [HERO]-san. You look as if nothing had happened..."
   },
   {
    "id": "RES#327:cbd8",

@@ -1,573 +1,573 @@
 # Polish
-- [ ] RES#1023:23e59, 25937 - 北から来たのか - "Up from the north" fights the idiom - "Down from the north, huh."
-- [ ] RES#1023:249c3, 26108 - 騎士サマ - sarcastic サマ is lost - "Hmph, a fine knight, is it..."
-- [ ] RES#1023:25160 - 武者修行だぁ? - incredulous だぁ is mild in English - "Training? Seriously?"
-- [ ] RES#1023:2469f - 褐色の肌に黒髪と...相場が決まってる - grammar stumbles - "Irenians have always run to brown skin and black hair..."
-- [ ] RES#1023:25329 - 仕官の道があるわけでもねえ - the officer's post is generalised - "These days strong arms won't land you a post in anyone's service."
-- [ ] RES#1023:26aed - 1番手前の建物 - "frontmost" is stiff - "from the very first building in the underground city"
-- [ ] RES#1023:27905 - 逆に - contrast dropped - "If anything, I bet it's glad to have a new owner."
-- [ ] RES#1023:2793e - 旅の疲れを癒して下さい - "rest off your journey" stumbles - "Please rest in your room after your journey."
-- [ ] PSX.EXE:1b6db, 1b6e2 - 詳細 / 詳細表示 - EN has a leading space the JP lacks; confirm in visual QA whether a button icon needs it - "Details", "Show Details"
-- [ ] PSX.EXE:1d201, 1d234 - バルデスの大剣, ガイウスの大剣 - named weapons take 's, blocked by the 100 px name limit (109, 103 px) - "Valdes's Greatsword", "Gaius's Greatsword" if phase 7 widens the column
-- [ ] PSX.EXE:1d16d, 1d178, 1d185, 1d1ac, 1d1d2 - マルカ, ファカラル, 隠者, アノート, ナキエルの大剣/戦斧 - 's dropped against the same series' other weapons, same limit (103-109 px) - "Malka's Greatsword", "Fakaral's Battleaxe", "Hermit's Greatsword", "Anote's Greatsword", "Nakiel's Greatsword" if widened
-- [ ] PSX.EXE:1d1b8, 1d1de, 1d249, 1d253, 1d221 - 大剣 - "Claymore" and "Drakehead Blade" stand in for greatsword, same limit (109-121 px) - "Radamael Greatsword", "Astaras Greatsword", "Nameless Greatsword", "Accursed Greatsword", "Drakehead Greatsword" if widened
-- [ ] PSX.EXE:1dff9 - 主に捧げる銀の剣 - 剣 is Sword elsewhere, 102 px of 100 - "Votive Silver Sword" if widened
-- [ ] PSX.EXE:1d869 - 癒しの光域の錫杖 - Healing dropped to fit - "Healing Light Staff" if widened by 1 px
-- [ ] PSX.EXE:1d884 - 雷神の錫杖 - 雷 is Lightning, forced (115 px) - "Lightning God's Staff" if widened
-- [ ] PSX.EXE:1da86 - 体力の指輪 - 体力 is HP and Vitality is the 生命力 stat, the name points at the wrong stat - "Ring of Health"
-- [ ] PSX.EXE:1df48 - 兄の形見の鎧 - keepsake lost (RES#1199 says "her brother's keepsake"), no room - "Brother's Keepsake Armor" if widened
-- [ ] PSX.EXE:1dfa5 - 空の雷の筒 - Lightning dropped, unambiguous as the only empty tube, 112 px - "Spent Lightning Tube" if widened
-- [ ] PSX.EXE:1e547 - 片手剣/攻45/-/防-8,HP+30 - class shortened, 286 px of 276; 1e4f1 uses "Sword/" - "One-Handed Sword/Attack 45/-/Defense-8, HP+30" if widened
-- [ ] PSX.EXE:1e4f1, 1f174, 1f1a9 - class word shortened or dropped to spell out the stats; breaks the column pattern - restore "One-Handed Sword/" and "Armor/" if the help bar widens
-- [ ] PSX.EXE:1f1e6 - 他登場しません - 他 is "more" in 1ed2c, 1edf8 - "Armor/Defense 20/More, not in game"
-- [ ] RES#1:27110 - また一緒にいこうな - "y'know" sits awkwardly after "let's" - Mm, let's head out together again sometime, I guess.
-- [ ] RES#1:27746 - 早く行こう - 早く dropped - Nothing is finished yet. Let us hurry on.
-- [ ] RES#1:27f61 - お前、最低だな - "the lowest" reads stiff for Pasca - You're low, ya know that...
-- [ ] PSX.EXE:21ca5 - 昇順|降順 - Forward, Reverse is loose if the width allows more - Ascending|[1]Descending
-- [ ] PSX.EXE:22b62 - 構成表を手に入れた - telegraphic, no article - [VAR13][1] got the [2][VAR14][3] formula
-- [ ] RES#1:28317 - い、一体どうしたのですか - stammer sits on "what" of the phrase rendering 一体, not "on earth"; left as natural - no change suggested unless a stricter pass wants "What o-on earth is wrong?"
-- [ ] RES#1:28458 - あまり下らないことをするな - "waste yourself" is a small addition - "Do not do such foolish things."
-- [ ] RES#1:284cd - 喜ぶ人は誰もいません - "glad of" stumbles - "No one welcomes such behavior."
-- [ ] RES#1:292d9 - ひょっとして忘れてたの? - !? where the JP only asks - "Did you forget?"
-- [ ] RES#1:2a9c7 - ぼーっとしてる - "spaced out" is modern slang - "What're you standin' around in a daze here for?"
-- [ ] RES#5:bb0b, RES#5:bca7 - 手の込んだ玩具ね - "What an X, isn't it" is ungrammatical - "What an elaborate toy."
-- [ ] RES#6:141f2 - 急ごう! - "Hurry!" reads as an order - "Let's hurry!"
-- [ ] RES#6:14763 - いつの間にかあと数分しか - tense slips - "Before we knew it, we were down to just a few minutes..."
-- [ ] RES#8:49bb5 - さっさと戻りましょうか - "let us be off back" is clumsy - "let us head back without delay."
-- [ ] RES#9:420bf - ここだけ重力の概念がない - "Does gravity not exist here alone" stumbles - "So here alone, gravity has no meaning..."
-- [ ] RES#9:42966 - Orpheus, 答える気はありません - "I daresay I have no intention" hedges a flat refusal - Even if I did happen to know, I have no intention of giving you a serious answer.
-- [ ] RES#10:958a - Noel, あたし達の頭を試してる - "testing our brains" is stiff - It's as if it's testing our wits, honestly.
-- [ ] RES#13:424c4 - Eve - three tags in one entry (you know, you know, dear) - drop the "you know" after "no reason at all to go"
-- [ ] RES#13:427e8 - Dias, 似て非なる物 - "quite unlike" loses "looks alike"; same for twin RES#13:4284b - Though it only resembles the Purgatory of which the Church speaks.
-- [ ] RES#19:f6f4 - Noel, [VAR14]の事が気になるでしょ - "curious" is cool for a friend in danger - You want to know how [1][VAR14] is doing too, don't you?
-- [ ] RES#22:2f85f - ここまでくれば安心か - "this far" is clipped - We should be safe now that we've come this far...
-- [ ] RES#69:2a1f4 - Jessica, 願いが通じたってことなのかな - "like," is modern slang - Th-this means... our wish got through, or what...?
-- [ ] RES#69:2a8fe - Sara, 待ってるもんね - "okay?" asks where JP states - Sadiya-san and the others are waiting for us, after all.
-- [ ] RES#69:29c53 - Eleanor, これでは薬の材料なんて - "With this" is a calque - Like this, ingredients for the medicine are...
-- [ ] RES#70:171f6 - Scharn, なんだ・・・ - JP trails off, EN shouts - So this is the 'Blue Passage'...
-- [ ] RES#71:16840 - Ash, となりの建物とくらべると - "next to the building beside it" clunky - It's kinda plain compared to the building next door, I guess.
-- [ ] RES#72:eed4 - Scharn, 通路ばっかりなんだね / 気がするよ - weary musing carries ! twice - ...nothing but corridors, huh. Feels like I haven't fought any monsters at all lately.
-- [ ] RES#72:efc4 - Scharn, 進むしかないか - か musing shouted - But all we can do is keep going...
-- [ ] RES#72:f965 - Arthur, だから間違いないよ - no contractions is Leia's device; よ reads stiff - So I'm not mistaken.
-- [ ] RES#72:fa62 - Arthur, やったな、あと一歩じゃないか - stiff for a cheer - We did it, we're just one step away!
-- [ ] RES#72:fc24 - Arthur, 入ろうか - "let us" stiff - All right, let's go inside.
-- [ ] RES#72:1014a - Pasca, 泣くに泣けねえ - "wouldn't even know how to cry" is a calque - I'd be past cryin' over it.
-- [ ] RES#72:105b9 - Scharn, 気を抜いちゃダメだよ - "don't you dare" is Noel's edge (10ed2), Scharn is sincere - so you really can't let your guard down!
-- [ ] RES#72:12f95 - 何度か (Sara) - "lots of times" overstates "several" - Qumran-san showed me pictures of this gate a few times, so I think I'm right.
-- [ ] RES#72:13822 - たどり着けるってわけね / よかったじゃない (Eve) - tags read as calques - So just a little further and you'll reach [1]the 'Sun Jewel'[2]... // [3]Well, good for you. Do your best then, you two. I'll cheer you on, I suppose.
-- [ ] RES#73:16cf9 - 分かってはいるんだがな (Valdes) - trailing "I know it, but" softened - ...is still the scum of the earth... I know it, all right.
-- [ ] RES#73:177f4 - 誕生と消滅 (Qumran) - verb agreement reads off - Perhaps because endless birth and extinction bring a suffering that never ends.
-- [ ] RES#73:17ba0 - 奴等の苦しみ (Valdes) - "those two's" clumsy - When's the suffering ever gonna end for those two?
-- [ ] RES#73:17d53 - 話が大きすぎて - "so big" slightly literal - They're gone... It was all way over my head, though...
-- [ ] RES#74:15fa8 - 全然違うじゃん (Jessica, frightened) - "you know that" is a dig, wrong for the moment - ...and now the room's nothing like it...
-- [ ] RES#76:2d83c - しょうがないなんて: quote marks added, JP has no 『』 - problem: brief says never added - "Can't be helped, you say..."
-- [ ] RES#78:29dfe 29f3a 2a09d 2a22c 2a3ed 2a54e 2a6d2 2a843 2a9db 2ab3c 2af97 2b0d1 - 魂 as a word: 'soul' quoted without 『』 - problem: same rule, though the quotes read naturally as a word mention - keep, or rule on word mentions once
-- [ ] RES#76:2b100 - が、頑張ります: stammer on "but", JP has it on the verb - "I-I am scared, but I w-will do my best!"
-- [ ] RES#79:3b4d5 - だよ: y'know splits the phrase - "This is the pillar that seals souls, a 'Pillar of Sheol', y'know."
-- [ ] RES#78:2a3ed 2a54e - 思ってるんだ: "okay?" reads as a request - "...and just look."
-- [ ] RES#76:2df0f - 私の力より: "stronger than my power" a bit stiff - "No, more than my power, I believe it was Leia-san's strong will to live."
-- [ ] RES#76:2d6b8 - ただのかすり傷じゃねえだろ: clumsy double negative - "she's gotta be hurt worse than a scratch."
-- [ ] RES#79:3cd2b - 1度町に戻らなきゃ - "once" is a calque - "But first we have to go back to town."
-- [ ] RES#80:15f5b - あ、誰かいるよ - "!" where the JP does not shout - "Oh, somebody's there."
-- [ ] RES#80:16096 - 探して下さっている - stiff - "I wonder if those people, too, are kindly searching for a 'Pillar of Sheol'."
-- [ ] RES#80:16e51 - 言ったセリフを飲み込む - idiom half-kept - "Yeah, I ain't so crude as to eat my words."
-- [ ] RES#81:15ed9 - ここってさ - Jessica uses Ash's spelling - "You know, you don't have to..."
-- [ ] RES#81:168db - い、生きてる - stammer on "he", JP stammers on alive - "He is a-alive."
-- [ ] RES#82:1e11a - そちらを調べて下さい - "look into that way" stumbles - "Please search that way, all of you."
-- [ ] RES#82:1fc11 - もちろん冗談だよね? - clumsy - "You're joking, of course, right?"
-- [ ] RES#82:205a4 - そうも言ってられません - "I cannot speak so" stumbles - "...I cannot dwell on that."
-- [ ] RES#82:208f3 - 〜か・・・ - trailing tone lost - "...the 'Palace of Cleansing Fire'..."
-- [ ] RES#82:20aa3 - だったと思う - double hedge - "I think it was this way."
-- [ ] RES#83:9c17 - Scharn ないみたいだね。 calm end - `!` where the JP does not shout - "...keep going, you know."
-- [ ] RES#84:15c32 - Jessica ほら - "See, you can see" repeats - "See that crack in the ceiling, right?"
-- [ ] RES#87:b1c7 - Eve 洒落にならなくなってきた - "starting to stop being funny" is clumsy - "This is getting past a joke, isn't it..."
-- [ ] RES#87:b21e - Dias 限界か - "The limit, then..." is stiff - "So this is the limit..."
-- [ ] RES#89:29038 - Noel それを祀る神殿 - temples do not worship - "along with the temples raised to them"
-- [ ] RES#89:29199 - Eleanor 戻りませんか includes herself - "Will you not return" - "Shall we not return"
-- [ ] RES#89:2950b - Arthur 確か is a hedge - "I am sure" is too firm - "I believe that was the name"
-- [ ] RES#89:29dd5 - Dias 1度地上に戻った方が - "once" is a calque - "return to the surface for now"
-- [ ] RES#90:3d4cd, RES#90:3de3b - Jessica - "huh. // Huh?" echoes across the page break - "right? // Huh?"
-- [ ] RES#91:2b6ad - また沈んじまいそうだった - "sank" is unclear alone - Damn, nearly went and got all down again.
-- [ ] RES#91:2b8a8 - そりゃ当然 - "no duh" is modern slang - and the enemies are gonna get tougher, of course,
-- [ ] RES#94:1945f - あたりまえじゃん - "Well, duh" is modern slang - Of course! Have I ever lied to you?
-- [ ] RES#91:2bd2a - 死に場所 - "death place" is stiff - For the place where a man so many adored met his end, it is rather bleak, or perhaps lacking in surprise...
-- [ ] RES#91:2c21f - Ash, 守ってくれるのか - "gonna" comes from Pasca's row, and the line matches his RES#91:2c143 - You'd protect us, huh...
-- [ ] RES#93:e651, RES#94:17411 - Arthur's 司祭様, a home priest, not Tiara - plural "the priests" drops the -sama, and "Priest-sama" would point to Tiara - leave unless the controller wants "my priest".
-- [ ] RES#93:f388 - 答を導き出す - "draw" is thin - I am curious what answer that man will arrive at.
-- [ ] RES#94:186d2 - 最低限のマナー - "the least of good manners" is stiff - That is the very least of manners, isn't it?
-- [ ] RES#91:2c9be, RES#94:186d2, RES#94:19271 - 地獄, 天国 - Hell is capitalised once, hell and heaven are not - pick one case in the polish pass.
-- [ ] RES#94:1b4af - Sara, そんな悲しいこと考えてないよね - "thinking something" reads off - "You're not thinking anything so sad, right!"
-- [ ] RES#94:1c023 - Leia, 不器用だな - "clumsy" sounds physical; she means inept at living - "You are hopelessly inept at this..."
-- [ ] RES#95:15cc3 - Eve, 肩すかしもいい所ね - tag on an exclamative - "Quite the anticlimax, isn't it?"
-- [ ] RES#94:1dcda, RES#95:16024 - Arthur, 助かったから - "You were saved" sounds rescued by someone - "You made it through, so it's all right, but..."
-- [ ] RES#97:1afcc - Pasca, 赤獅子さんもかなり多くなってる - plural joke stumbles - "a whole lot more of them Red Lion-san"
-- [ ] RES#97:1bb0c - Dias, その姿でまだ虚勢を張るのか? - same JP as Leia 1b8c8, different English - "You still bluster, looking like that? You appall me."
-- [ ] RES#97:1ba70 - Noel, 別の意味で尊敬に値するわね - "Honestly" has no JP marker - "You still bluster, looking like that? That's worthy of respect, in a different sense."
-- [ ] RES#97:1bc4e - Knight, 子供だと思って油断 - "merely... mere" echo - "I was merely careless, taking you for children!"
-- [ ] RES#97:1c799 - Knight, ま、まだ言うか!! - stiff - "Y-you dare say it again!!"
-- [ ] RES#97:1d58b - Orpheus, 進んでいるでしょうね - "no doubt" plus "I daresay" double up - "But he, no doubt, is advancing without a care for a few obstacles..."
-- [ ] RES#97:1e395 - Sara なるべく戦いは避けたいな - stiff phrasing - "But I'd really like to not fight if we can."
-- [ ] RES#101:23ea5 - Fatum ナ、ナーダ姉さん - reads as two addresses - "N-Nada, my sister!?"
-- [ ] RES#101:23f89 - Barkail ということになるだろうか - musing turned flat - "If it must be put in words, she would be the being who succeeds Nada..."
-- [ ] RES#101:241e7 - Welkail 全て偽物という表現は - quote marks with no 『』 in the JP - "To say all false is not quite right."
-- [ ] RES#101:2480e - Scharn 記憶があるの? - `!?` where the JP has only `?` - "You've got memories from ten thousand years ago?"
-- [ ] RES#101:254e9 - Fatum 滑稽な世界だな - stilted - "An absurd world."
-- [ ] RES#102:1d3d2 - Jessica ふーん - "Hmph" reads annoyed, the JP is musing - "Hmm.[1].[2].[3] Oh well.[4]"
-- [ ] RES#103:9957 - Ash 1度町にもどって - calque of 1度 - "Let's head back to town for a bit and ask Qumran-san."
-- [ ] RES#104:17463 - Ash おまえ達は一体 - repeat "Who... who" not in the JP - "Who are you people..."
-- [ ] RES#104:17db6 - Phantom 言うはずがないって? - quote marks with no 『』 in the JP - "Would never say such a thing, you say?"
-- [ ] RES#104:1806c - Eleanor 一緒に戦ってきた私が - "fought beside them" attaches to strength and kindness - "But [HERO]'s strength, and kindness... no one knows them better than I, who have fought at [HERO]'s side."
-- [ ] RES#104:1873c - Orpheus そりゃまあ、多少は - "I daresay" rests only on the まあ hedge; kept - "Well, to a degree."
-- [ ] RES#104:19079 - Sara もちろん信じてるよ。 calm end - `!` where the JP does not shout - "Of course I believe in you."
-- [ ] RES#104:1be84 - Jessica 信じてるからね - "I'm believing in you" is unnatural - "[HERO], I believe in you, you know that!"
-- [ ] RES#104:1d7ef - Phantom 利用しているだけだけど, no ね - "you know" follows its twin 1d5d4, which has ね - "But I'm only using you."
-- [ ] RES#104:201c4 - Ash そ、そんなこと - "Th-that's not..." adds a negative - "Th-that... [HERO] would never say that!"
-- [ ] RES#104:207f6 - Arthur 構わないさ - "I do not mind" against "I-I don't mind!" in 1aa3e - "I don't mind, if it's [HERO]!!"
-- [ ] RES#104:20548 - Phantom 考えてみたら? is a suggestion, read as the order in its siblings - "Why not think about it calmly?"
-- [ ] RES#106:2ae36 - Scharn 全然違う・・・ trails off - `!` where the JP does not shout - "It's nothing like I imagined..."
-- [ ] RES#106:2b1ed - Scharn どうなっていたか・・・ trails off - `!` where the JP does not shout - "...who knows what would have become of us..."
-- [ ] RES#106:2c2ea - Eve 行ったらわかるわ - "We will know" is stiffer than her row - "We'll know when we get there."
-- [ ] RES#106:2c802 - Dias 聞こえていたのか・・・ - JP trails off - "So you heard..."
-- [ ] RES#106:2c8f3 - 奇跡の書 not in the glossary; 神サマ is "God Almighty" across these batches - consider rows for 'Book of Miracles' and God Almighty
-- [ ] RES#107:231cb - Scharn 仲悪いみたいだね。 calm end - `!` where the JP does not shout - "...don't get along, you know."
-- [ ] RES#107:233a7 - Noel 相違があるみたいね - tag does not match "it seems" - "But even they seem to differ in their thinking, don't they."
-- [ ] RES#107:242df - cut character 今のなどまるで - "you were as a heathen devil" is stilted - "And yet just now you were like a heathen devil."
-- [ ] RES#107:24483 - Dias まるで異教の悪魔 - まるで dropped - "And yet what came before was the very image of a heathen devil."
-- [ ] RES#107:256f7 - アザゼルめ under a ~Eleanor label; the words are a Saint's - EN already reads right, check the plate in QA
-- [ ] RES#108:230f9 - Jessica 嫌な予感したんだ - "I just knew I had a bad feeling" is clumsy - "I had a bad feeling about this, you know?"
-- [ ] RES#108:242eb - Leia 未熟な人間 - "unfinished person" is odd - "I am a callow person, who could not grasp even my own feelings."
-- [ ] RES#108:24653 - ぼくも・・・そう思う・・・ - "I... I" repeats a word the JP does not - "Me too... I think so..."
-- [ ] RES#108:2545a - あたしもずっと - "too" lands on "me" at the end - "I worried for so long, too, that nobody understood me..."
-- [ ] RES#108:258f8 - 全く伝わらないわけではない - "not wholly unable to reach another" is stiff - "Even so, it is not as if feelings cannot reach another at all."
-- [ ] RES#108:25d25 - Scharn あたしはそうは思わない。 calm end - `!` where the JP does not shout - "That's not how I see it."
-- [ ] RES#108:26817, RES#109:29894 - そうでしょうか - "Is that so..." can read as "oh really" - "Do you think so..."
-- [ ] RES#108:27e41 - Noel 欲しくない。 calm end - `!` where the JP does not shout - "I don't want any 'New World'."
-- [ ] RES#108:29bcd, RES#108:2a260, RES#108:2a4c5, RES#108:2a513 - 真実 has no 『』 - quotes on "truth" are added, though English needs them for "the word" - "what you mean by truth", as Eleanor and Scharn have it
-- [ ] RES#108:2a5d5 - Sara 聖者様達に - "The Saint-samas" then "you'll laugh" shifts person - "You Saint-samas have lived..."
-- [ ] RES#108:2aa6e, RES#109:2996d - Sara - "okay" sits oddly after a statement of reason - "at all...", "Because every day is fun!"
-- [ ] RES#108:2b428 - Jessica なんでだよ - "dammit" is stronger than the JP - "Why..."
-- [ ] RES#108:2c2d1, RES#108:2c31e - あの人達のためにも - "for them, for those people's sake" doubles up - "Let's finish this quick for those people's sake..."
-- [ ] RES#109:2a29c - Noel まさか - uncontracted, unlike her other lines - "It can't be... This place..."
-- [ ] RES#109:2a5ef - 肉体と別れるって・・・えっ - "huh" twice in one line - Parting from the body...? [1]Huh? Wait, is this room...
-- [ ] RES#109:2c17f - 一体何者なの - same JP varies across 2c0a2, 2c17f, 2c320, 2c3f1, 2c490 ("What are you people?" / "..., really?") - pick "What are you people, really?" for all
-- [ ] RES#111:18af3 - 自分の足で進みませんか - "by our own feet" stumbles - shall we not go on under our own power?
-- [ ] RES#111:19667 - もしかしてあそこで終わりなのかな - "Maybe ... I wonder" doubles the hedge - Could that be the end, I wonder...
-- [ ] RES#111:197c1 - もしかしてあそこで終わりなのかな, ぼんやりと dropped - same doubled hedge, "faintly" missing - doesn't it look like something's glowing faintly over there? // Could that be the end, I wonder...
-- [ ] RES#140:2ef92 - Dias 不安定な構造だ - twin RES#193:d81a (b111) differs, outside this range; align in one direction - "An unstable structure. It must be the work of a truly inept craftsman."
-- [ ] RES#140:2eff4 - Sara 別におかしなところはないと思うけど - twin RES#193:d87a (b111) ends "though..."; align - "I don't think there's anything strange about it, though..."
-- [ ] RES#140:2ee96 - Arthur これといって変わったところはないよ - twin RES#171:26729 (b099) differs in wording; 机 is a table here and a desk there, so only the second sentence can align - "It's just a table. There's nothing unusual about it."
-- [ ] RES#140:304fc - 怒るかな・・・これじゃ。 gift hint - stiff next to its three siblings - "This might just make them angry..."
-- [ ] RES#140:3075c - Pasca 悪いな。 - "Much obliged" is formal for him - "Appreciate it. I'll take it."
-- [ ] RES#140:30b39 - Luca すみません、[HERO]さん - apology reads literally; it is thanks here - "You are too kind, [HERO]-san. Thank you very much."
-- [ ] RES#140:2f716 - Caim ただのろうそくですよ - contraction against his "It is merely a door" - "It is merely a candle."
-- [ ] RES#168:24c8c - Caim ただの戸棚ですよ - same - "It is merely a cupboard."
-- [ ] RES#171:2551c - Caim ただのテーブルですよ - same - "It is merely a table."
-- [ ] RES#168:23b7f - Scharn バイレステの旗だよね - "right!" reads oddly, よね is a question - "That's the flag of Baileste, right?"
-- [ ] RES#168:2450b - Scharn 使ってたんだよね、この机 - same - "The most important person in this town used this desk, right?"
-- [ ] RES#168:25ad6 - Scharn 転送器だよね - same - "It's a Transporter, right?"
-- [ ] RES#168:2437d - Eve なんだか安っぽい絨毯ね - "isn't it" does not follow an exclamation - "A cheap-looking carpet, isn't it."
-- [ ] RES#171:25326 - Eve ちょっと寂しいわね - slightly awkward - "A bit sad for something called a chandelier, isn't it."
-- [ ] RES#171:24b51 - Noel アルメニア産 - JP names Armenia, taken as a slip for ルミニア as in Dias's RES#171:24b37; no change suggested - keep "Luminia"
-- [ ] RES#168:244b6 - Eleanor 提督の執務机 - JP says admiral, a slip for 総督 (also RES#168:248e0); no change suggested - keep "governor's"
-- [ ] RES#171:254ec - Scharn オイゲンさんって斧で野菜を - the JP is cut off and "must" is inferred; kept - "So does Eugen-san chop his vegetables with an axe...?"
-- [ ] RES#171:268e3 - Leia あの男の紋章 - "the man's" loses the pointing - "Could that be that man's crest...?"
-- [ ] RES#171:26a52 - Sara オイゲンさんが...なんだって - hearsay rendered "he says", her other なんだって are "They say"; "grand" is a big word for her - "They say it's the flag of the ship from when Eugen-san was a captain. Doesn't it look nice?"
-- [ ] RES#171:27d8b - Jessica 見たらわかるじゃん - "by looking" is stiff - "Just a staircase. You can tell just by looking, geez."
-- [ ] RES#171:2782e - Eve 雑巾であなたの顔を - "dear" rests on the あなた, already spent on "your"; kept - "So, am I supposed to wipe your face with this rag?"
-- [ ] RES#178:29941 - Orpheus いいなあ - "I daresay" rests only on the なあ; kept - "A goddess, is it... I prefer mine in the flesh."
-- [ ] RES#178:295ed - Scharn クムランさんには珍しく - "For Qumran-san, he's sure" is clumsy - "Are those research tools? They're kept so neat, which isn't like Qumran-san!"
-- [ ] RES#178:2a2ac - Noel 壊すと大変だから - says "if you break it", softened; same in twin 2a4da - "It'd be a disaster if you broke it."
-- [ ] RES#178:2c8bf - Krasdar book インディゴス - "The Indigos that now adorn ... was" mixes number - "The Indigos, which now adorn ..., were originally gods handed down in Krasdar" or keep one god: "The Indigos that now adorns ..."
-- [ ] RES#178:2c470 - Biastok book 3種の武器 - same stock "3 kinds of weapon" as "6 kinds of weapon" in 2c8bf; "kinds of weapons" reads smoother - "3 kinds of weapons"
-- [ ] RES#178:2d891 - あっけなく解決 - "abruptly" says sudden, JP says easily, an anticlimax - settled with anticlimactic ease through diplomatic negotiation
-- [ ] RES#178:2e5f0 - 種と仕掛けのある装置 riffs on the conjurer's 種も仕掛けもない - joke only half lands, "apparatus with a trick to them" stumbles - "devices with tricks up their sleeves"
-- [ ] RES#178:2f366 - 緑の無い砂漠地帯 - "green-less" awkward - a desert without a trace of green, strewn with rough rock
-- [ ] RES#178:2f089 - 不老不死をもたらす - "eternal youth and life" against "ageless and undying" for the same word later in the line and in 2fd69 - which makes one ageless and undying
-- [ ] RES#178:30822 - 異教徒 - "heathen" while the glossary's 異教徒審問会 is "heretic inquisition" - keep one word if the tribunal lines meet that term; suggested "heretic revolts"
-- [ ] RES#178:31e72 - 客観的な資料になるとは思えない - "I cannot think they make objective sources" stiff - I doubt they can serve as objective sources
-- [ ] RES#181:211ab - Noel 金敷 - quote marks added with no 『』 in the JP - "Some countries call it a smith's block."
-- [ ] RES#183:26baa - Leia 一体奴等が何をしてくれる - "done" leaves out the "for us" of してくれる - "What would they ever do for us..."
-- [ ] RES#188:27a56 - cut character 培養器 - "you make... and it raises them for you" shifts the agent - "It raises creatures too small to see by making the right surroundings for them."
-- [ ] RES#188:27c75 - Ash 暖かい地方の草なのかな - "Maybe" and "I guess" double up - "They're from somewhere warm, I guess."
-- [ ] RES#188:27eac - Luca 大丈夫なんでしょうか - "Is it all right" is vague next to poison - "Is this safe..."
-- [ ] RES#188:299f2 - Tradoa 熱しやすい国民性 - means easily fired up, not angered - "their excitable national character"
-- [ ] RES#214:101f7 - ・・・喜ぶわけがないよな - after "Will [VAR15] like it...?" the sense is that person, not everyone - "...Of course they wouldn't like it."
-- [ ] RES#217:2111e - Scharn 入れないよ。 calm end - `!` where the JP does not shout - "You can only get in here on the day of the full moon."
-- [ ] RES#217:21b20 - Jessica 情報 - "info" is modern beside the town's speech; twin in Pasca 21b73 - "some other news"
-- [ ] RES#217:2239d - Noel 役に立ったのね, same English as Luca 223cc - no speaker audible - Luca: "So the 'Sun Jewel' has finally proved useful..."
-- [ ] RES#230:22964 - Ash おまえのこと大好きだよ - softer than "I love you" for 大好きだよ in 22827; the middle-affection reading may be intended, compare the other companions' endings in QA - "I really like you so much..."
-- [ ] RES#230:22d19 - Arthur これじゃ何も分からない - "anything like this" can read as "anything similar" - "Like this, I can't make out anything..."
-- [ ] RES#230:23356 - Leia 奴は - "that one" is a little stiff, though neutral on gender - "Did [HERO] manage to escape being caught in this..."
-- [ ] RES#230:26003, RES#230:2639e, RES#230:26731 - 欲求不満 - "frustrated" leaves the sexual sense to context, so the joke is softer - Jessica: "You really that hard up?"
-- [ ] RES#230:26d93 - Noel 何恥ずかしいこと大声で言ってるのよ - close to JP clause order - "Why are you shouting such embarrassing things? Are you an idiot?"
-- [ ] RES#230:27445 - Luca 確かに dropped - "Indeed, if one stayed here forever, perhaps no one would think of themselves and others as separate anymore..."
-- [ ] RES#230:28495, RES#230:2862f - Scharn あなたと兄さんを重ねて見てた - "saw you and my brother as one" is stiff - "At first, maybe I saw my brother in you..."
-- [ ] RES#230:28495, RES#230:28768 - Scharn - `!` on a quiet farewell where the JP has none; her row allows it, the moment may not - "let's go on lots of dates. It's a promise...", "You're the best friend ever, you know."
-- [ ] RES#230:2976e - Orpheus 巻き込まれちゃった - "swept up" where every other speaker and his next line have "caught up" - "So I have been caught up in the birth and death of this world, have I..."
-- [ ] RES#230:2a7f1 - Eve 可愛いだけの頭の悪い女 - "who was only cute" is clumsy - "At first I took you for a stupid woman with nothing but a cute face, but my interest grew with time."
-- [ ] RES#230:2ab16 - Dias 1つになろうとしているのか, musing question flattened to a statement - "Are this world and we ourselves becoming one as well..."
-- [ ] RES#230:2b50d - Noel 劣等感に苦しんでいた, "my own inferiority" states she is inferior - "I was tormented by feeling inferior, and you gave me confidence..."
-- [ ] RES#230:2c354 - Sara すんだみたいだよ, hedge dropped - "I'm so glad... looks like [VAR13]-san got away without being swept up in this..."
-- [ ] RES#230:2c630 - Sara 励まされた, "I could cheer up" is stiff - "...with you by my side, [HERO]-san, it cheered me up..."
-- [ ] RES#231:37e17 - Eugen 桁違いだ, "ain't even close" is vague - "the scale and the cruelty now are a whole other thing."
-- [ ] RES#231:381be - Fatum 奴は・・・バルデスは, "That one" not needed for a named man - "He... Valdes... was he not that kind of man?"
-- [ ] RES#231:383bc - Fatum 1つに戻る, "return to one" is a calque - "...and my flesh could become one again."
-- [ ] RES#231:3b851 - Ash 本当にいいやつだよ, "friend" added - "kind of childish sometimes, but a really good guy."
-- [ ] RES#231:3bab3 - Nada 早く戻られるといいですね, "that return" is awkward - "I do hope [HERO]-san returns soon."
-- [ ] RES#231:3c59f, 3e976 - Nada 思いっきり聞かせてあげましょう, "to the fullest" stumbles and the listener is lost - "When [HERO]-san returns, make [HERO]-san hear a whole year's worth of your complaints."
-- [ ] RES#231:3c274, 3c786 - Arthur 同じ時間を共有したい, calque - "That is why I wanted to go on sharing my days with..." (needs [HERO] or a gendered pronoun per variant)
-- [ ] RES#231:3d686, 3daf4 - Eleanor 心配してくれていた, awkward passive - "Full of faults as I am, [HERO] worried for me, not merely in words, but from the bottom of the heart..."
-- [ ] RES#231:3e22d, 3e735 - Pasca 弱気になった自分自身, "gone soft" dangles - "I was also telling it to myself, 'cause I'd gone soft."
-- [ ] RES#231:3ebe2 - Scharn あーあ, a sigh, "Aww" reads as cute - "Haah..."
-- [ ] RES#231:3e05e - Pasca 可愛げのねえ奴, "jerk" reads modern - "a charmless louse like that"
-- [ ] RES#231:409c3 - お前のことが1番好きだ、お前しか見えないって口説き台詞 - quote marks added, JP has no 『』 - Far more real than any pick-up line about loving me best and seeing only me, and warmer...
-- [ ] RES#231:41bde - 帰ってくる・・・よね・・・ - no subject, reads as a fragment - You're coming back... right...
-- [ ] RES#231:43212 - とってもとっても素敵な人 - "such a really, really" stumbles; twin 43646 too - Yeah, a really, really wonderful person.
-- [ ] RES#239:2ff97 - ハウゼンのバカ殿 - バカ殿 is "fool lord", not name + -dono - That fool lord of Hausen sent a messenger, boss, saying to surrender right quick...
-- [ ] RES#239:2fdce - 聞いたんだけどさ、// オレ達 - comma splice across the page break - Oh yeah, when I went to Kren village the other day, I heard something: // the lord around here calls us the 'Devils of the Forest'.
-- [ ] RES#239:30cf0 - 男としては魅力ねえのかもしれねえけど - clause reads awkwardly - Longing for a homey, plain dream like this... maybe that don't make me much of a man, but
-- [ ] RES#238:58118 - 恐ろしいほど評判通りだな - "scary close to" stumbles - Still, you two are every bit your reputation. It's downright scary.
-- [ ] RES#241:45685 - 言い寄ってこない - "hitting on" is modern slang against the style reference - no good-looking guys ever come near us
-- [ ] RES#241:457b8 - 根本的な欠陥 - "the basic defect" is flat, the joke is the mock-learned word - I reckon the real, fundamental defect's in you, Boss
-- [ ] RES#243:43220 - 当然「覚えてろよ!」なのかしら - "of course, I suppose" doubles the hedge - the words that come out when you lose would naturally be "You'll pay for this!", I suppose
-- [ ] RES#243:43717 - 有名になったわね、あなたも - uncontracted, stiff for Eve, and あなたも lost - Well now, you've gotten famous too, haven't you.
-- [ ] RES#244:432a8 - 不幸な死がお前を待っているだろう - だろう dropped - An unhappy death will likely await you.
-- [ ] RES#247:4376d - さわやかな笑顔 - "fresh smile" is a calque - That easy smile nearly had me fooled.
-- [ ] RES#247:4362e - 手加減したのにって言ってたがな - "claimed to have held back, at that" stiff for this speaker - Mind you, [HERO]-sama said that was holdin' back.
-- [ ] RES#247:44e10 - 危ねえ危ねえ - "That was close, that was close" literal repeat - Close one, close one.
-- [ ] RES#300:8509 - ルカの分も - "for Luca's sake" is off, he means in Luca's stead - I've gotta work hard in Luca's place too, huh...
-- [ ] RES#302:814f - キズばっか: the cuts on Ash's hands, 8179 follows - "That's nothin' but scratches" unclear what is scratched - Your hands are nothin' but cuts!
-- [ ] RES#302:8690 - はやく助けてあげなきゃな - "hurry and help" has no object - We've gotta hurry and help them.
-- [ ] RES#304:82f4 - 僕に何か? - "want something with me" stiff - ...Did you want something from me?
-- [ ] RES#304:89fe - 魔物達を僕が退治してやる, also 8b50, 8dd8, 937c - 僕が is lost, and Pasca's scolding leans on the boast - ...and slay with my own hand the monsters that have long tormented them.
-- [ ] RES#305:838a - ふうん; 鋭さとか豪華さとかとは違う輝き - "Wow" overshoots ふうん, and "It's not sharp" can read as a dull sword - Hmm, what a pretty sword! // ...It isn't a sharp or gaudy gleam, more of a reassuring kind of shine, you know!
-- [ ] RES#305:8cbc - 立派な騎士になれる - "can become" flat, praise wanted - You will make a fine knight.
-- [ ] RES#317:8b46, RES#317:8c17, RES#318:81c0 - Pasca あいつ - "that fool" adds an insult in a grief beat; kept because the referent is unclear (see Unresolved) and it stays gender-neutral - if the referent is settled: "So he's really gone now..." or "she"
-- [ ] RES#308:9698 - Scharn そんなに偉くないけど - "I'm not so great that I can tell" is clumsy - "I'm nobody to tell people how to live or think, but // it hurts just watching you!"
-- [ ] RES#315:8829, RES#315:8895 - Eleanor 胸が苦しくなります - "my chest ache" is literal - "makes my heart ache..."
-- [ ] RES#317:a3cf - Pasca 人のものを何だと思ってるんだ - close to the JP clause - "Whaddaya take other people's stuff for?"
-- [ ] RES#317:8123 - Pasca お前らも - "You lot" where he says "you guys" elsewhere - "You guys watch yourselves out there too."
-- [ ] RES#318:7fab - Pasca よっ、[HERO] - no period, unlike RES#317:8e27 "Yo, [HERO]." - "Yo, [HERO]."
-- [ ] RES#319:87d3 - Pasca 格好よすぎるぜ - "way too cool" is a little modern for the setting - "Damn, too much of a man, that old guy..."
-- [ ] RES#315:8e3f - Eleanor あの方 - "That man" loses her respect - "That gentleman taught us what true strength is..."
-- [ ] RES#321:8e52 - Rebecca 喧嘩できない - "fight" can read as combat; she means squabbling - "It's so lonely, having no one to bicker with..."
-- [ ] RES#323:9e53 - Scharn 人を馬鹿にして - 人 here means the speaker - "You're making a fool of me! You I can never forgive!!"
-- [ ] RES#324:7fb7, RES#324:81aa - Scharn これって、嫌がらせ? - "your idea of harassment" is a calque of "your idea of a joke" - "Are you trying to annoy me?"
-- [ ] RES#327:93a9 - Arthur 君には関係ない - "no say" shifts the sense - "Y-you have nothing to do with this!"
-- [ ] RES#327:9a3d - メネス - "Menes" is not in the glossary and occurs once - add it or confirm the spelling
-- [ ] RES#327:c0da - Eve 下心ミエミエね ... わよ - two tags in one line - "Your motives couldn't be plainer. Being with you is far more dangerous, you know."
-- [ ] RES#327:c683 - Orpheus その格好で, 恥じらい - implies a revealing outfit, though nothing explicit; left as is, while RES#328:91b1 softens the same setup - "You walked here at this hour? Your courage is truly splendid, but a little caution also makes a girl look lovely, you know."
-- [ ] RES#327:cbac - Orpheus 何もなかったような顔 - "wear a face" is stiff - "You look as if nothing had happened..."
-- [ ] RES#328:a4f0 - Orpheus 夜は若い2人のため - "the young, the two of us" stumbles - "The night belongs to two young people like us."
-- [ ] RES#331:854b - Jessica 行ってあげても - "come along for you" is odd - "All right, I'll come along, if you want."
-- [ ] RES#331:a01d - Jessica 血も涙もない - idiom left literal - "Cold-blooded, that's you all over."
-- [ ] RES#335:a3b4 - その目が1番うさん臭いんだけど。 - `!` where the JP does not shout - Those eyes are the fishiest thing about you, though.
-- [ ] RES#335:a496 - どんな仲なのよ! - "And" opener reads stiff for Scharn - Been what to each other!?
-- [ ] RES#335:c51d - 夜中に男同士で逢い引き - "tryst" is romantic, not sexual; left under D11, borderline - A midnight meeting between two men?
-- [ ] RES#335:d0d1 - じ、冗談じゃねえぞ - Pasca's voice thin - D-don't you joke about that!
-- [ ] RES#335:d0d1 - 誘わない / ではまた。 - choice text merged into one dlg entry (cut Rebecca scene), so "Do not invite." reads as speech; extraction shape, wording kept - no change until the entry's use is known
-- [ ] RES#336:9349 - まあ、いいでしょう。 - "Well, very well" stumbles - You are a curious one...[1] Well, so be it.
-- [ ] RES#339:89ee - 用がなかったら来ちゃダメなのか、なんて訊かないでね - clumsy clause - And don't ask me if you can't come without a reason.
-- [ ] RES#340:9c6f - 面倒なこと嫌いだから - "I dislike bother" stilted; twin 9cf1 too - I dislike a bother.
-- [ ] RES#343:86b3 - 下らんな - "trifling" a little off for 下らん - A victim of faith... Worthless...
-- [ ] RES#343:a085 - くだらんな - "Worthless" can read as calling the hero worthless - How trivial...
-- [ ] RES#347:7d6a - 頭の中を疑うわ - calque - I have to wonder what's in that head of yours.
-- [ ] RES#347:80e0 - こんなに遅いのに - stumbles alone - And it's so late...
-- [ ] RES#348:a631 - 先に進まなきゃ駄目だって事くらい - clunky apposition - I know. I know that much: we have to move forward.
-- [ ] RES#348:a6fb - 自信ない - two "while" in one sentence - I trust my logic and my knowledge, but I have no confidence in persuading someone while respecting their feelings.
-- [ ] RES#351:9386 - うわぁぁぁぁ!! - reads as crying more than a scream - Aaaaagh!!
-- [ ] RES#353:98cc - 素直なヤツ - "honest" misses the gullible sense the tease rests on - But I love trusting types like that.
-- [ ] RES#354:855e - 他の方との約束があるので - calque - I-I'm very sorry, I have promised someone else...
-- [ ] RES#354:8ff9 - やっぱり・・・いまは - "After all" stumbles - U-um... I really... not right now...
-- [ ] RES#358:901b - 今度は[HERO]さんも手伝ってね - "You'll help this time too" can read as "again" - "This time you can help too, okay, [HERO]-san?"
-- [ ] RES#358:8823 - [HERO]もやっぱり - "Even you" adds a slight the JP lacks - "Hey, [HERO]. You'd go for a homey girl like Sara too, right?"
-- [ ] RES#361:9654 - 全然気にしてねえよ - "Don't mind it one bit." can read as an order - "I don't mind one bit."
-- [ ] RES#362:14eba - たのまれてるもんな - "asked us to, too," stumbles - "Valdes-san asked us to as well, y'know."
-- [ ] RES#364:e34f - 目覚めで気分悪かったかな - "Did I wake you in a bad mood?" is ambiguous - "Did you wake up feeling bad? Sorry, [HERO]."
-- [ ] RES#364:eaac - なんてね - "or something like that" is flat for Eve's tease - "Thought I'd do the asking for once. Just a thought."
-- [ ] RES#364:f1d1 - サンタ・ツリエル修道院 - "Turiel" sits beside the glossary's ツリアル Zurial; one occurrence, not in the glossary - "Santa Zuriel Monastery" if the controller wants the family to match
-- [ ] RES#364:cdf8 - 自分の部屋に誘っておいて先に寝るの? (Eve) - left literal: a tease about a poor host, no sexual wording; check against D11 if a stricter line is wanted - "You call me to your room and then doze off first? Now I see why no one's after you."
-- [ ] RES#555:f35f - 入り口『光の門』 - JP says 門 once, EN keeps 'Door of Light' to match 光の扉; looks like the same thing, leave unless a later scene splits them - none
-- [ ] RES#558:a9c3 - 絶対に手を抜いちゃう - "totally" is modern - Me, I'd slack off for sure.
-- [ ] RES#559:c0f8 - 柄にもなく教会に足を運んでる - "unlike me as it is" stumbles - That's why even I drag myself to church, ain't like me at all.
-- [ ] RES#559:c2b6 - ちょっと待っててくれ - "please" is stiff for くれ - All right, just wait a moment.
-- [ ] RES#561:b747 - この世は一体どうなっちまうんだ - "in the world ... this world" - What the hell's gonna become of this world?
-- [ ] RES#561:b977 - こんな体になってからは特に強くなった - "Got stronger" can read as the man, not the longing - Longed for it all the more after I ended up like this.
-- [ ] RES#563:a490 - 壊れちゃいましたね - tag question ending in a period reads odd - The stairs have broken, it seems.
-- [ ] RES#564:b3f6 - 俺達の分も - "for our share too" is a calque - Give it your all, for our sake too.
-- [ ] RES#564:b90f - カッセル - place not in glossary, Kassel used once in these batches - add row: カッセル Kassel
-- [ ] RES#565:b0aa - 絶対に勝てるって自信はなくなってきた - "lose my confidence I can always win" is clumsy - I'm startin' to doubt I can always win
-- [ ] RES#568:c1cf - なんだか可哀想だよなぁ - "pitiful" leans contemptuous; JP is sympathy; readable, so left - That Undying bastard... kinda makes ya feel sorry for him, don't it...
-- [ ] RES#566:c60e - [HERO]の旦那ぁ - drawn-out toadying ぁ lost - Mi-ister [HERO], where to today?
-- [ ] RES#566:c777 - こ、こんなガキに - fragment stumbles; also RES#567:b1f3 - B-beaten by a brat like this...!!
-- [ ] RES#571:d66e - さっきのおっさん - "that mister" stretches the address-only glossary sense; also d772, e819, e900, f01a - that old guy back there / the old guy at the tavern
-- [ ] RES#571:f474 - どうでもいいけど - "Whatever" reads dismissive; JP is a mild aside - Not my business, but you're way too tense.
-- [ ] RES#571:f4de - よくそんなので - clause reads awkwardly - How'd ya ever make up your mind to come to this town like that?
-- [ ] RES#571:ed38 - 3人の力を合わせて - "put the three of us together" is clumsy - let's combine our strength, the three of us, and find that Orb quickly!!
-- [ ] RES#571:10989 - おう、奴から聞いたんだな - おう lost against twin 10927 - Ah, so he told ya, eh.
-- [ ] RES#80:16d51 (b050, outside this range) - 色っぽい嬢ちゃん - "sultry little lady" may need D11 softening if the addressee is the hero or a companion; check in that range - Quit your grumblin', pretty little lady.
-- [ ] RES#571:13098 - こりゃ将来が楽しみだな - 将来 (their future) is lost - Oho! You got it already!? You lot have got a future, I'll say that.
-- [ ] RES#625:14ec7 - それこそ誤解でございます - "That is the very misunderstanding" reads stiffly even for fake piety - Now that, I assure you, is a misunderstanding.
-- [ ] RES#706:d983 - 煉獄の上の方で - "up in the upper part" repeats itself; twin d9e9 too - Thing is, I found some big round fruit up near the top of Purgatory.
-- [ ] RES#626:ec97 - 俺からも礼を言う - "I'm sayin' it too" is thin - Thanks for what you did. That's from me, too.
-- [ ] RES#626:e828 - 何が誇りだ - letter and Eve give 誇り as "honor"; Leia has "pride" - With no regard for his own limits, what honor can there be...
-- [ ] RES#625:167fb - わ、わたし・・・ですか? - "sir" has no JP word, though polite register allows it - Oh... M-me?
-- [ ] RES#706:e3e2 - Pasca, 一緒に行こうぜ - flat opener - "Come on along, [HERO]."
-- [ ] RES#706:e9cb - Scharn, 逃げたことあったよね - "remember!" misreads the tag - "...and ran off, remember?"
-- [ ] RES#706:ef08 - Jessica, やさしいでしょ - "sweet" drifts from Sara's "kind" and can read as "cool" - "I'm pretty kind, huh?"
-- [ ] RES#706:ef3d - Jessica, ひょっとして疑ってる? - stiff for her - "Wait, you doubt me?"
-- [ ] RES#706:118ae - Noel, 10日前依頼された場所 - "asked about ten days ago" can read as "roughly ten days" - "that place the woman priest asked us to search ten days ago"
-- [ ] RES#706:123d7, 12b70 - 10日くらい前に頼まれた場所 - "asked us about ten days or so" garden-paths - "that place the Sister asked us to search, ten days or so back"
-- [ ] RES#706:14586 - Jessica, 日頃の行いがいい - "such a good person every day" awkward - "Must be because I'm so good all the time..."
-- [ ] RES#708:13c28 - Angle, 教会じゃなかったかな - "But was not our meeting place the Church?" stilted past pomposity - "But surely our meeting place was the Church, was it not?"
-- [ ] RES#764:15e16 - Orpheus, ではお先に - "Then, I shall go first." a little stiff - "Then I shall go on ahead."
-- [ ] RES#791:85f1, 8691 - キザな奴 - "show-off" misses affected cool; the line is about claiming not to help comrades - "a bit of a poser"
-- [ ] RES#707:13e63 - ビセラの実 - new term, used once as "Visera fruit"; not in the glossary - add row ビセラの実 Visera fruit
-- [ ] RES#792:1448e - そのつもりよ - past tense can imply the plan has lapsed - I fully intend to.
-- [ ] RES#792:15648 - 大体のことは分かりました - "the general matter" is stiff - I understand the greater part of it. I would be glad to go.
-- [ ] RES#792:1568f - ま、とにかくそこに行けってことね - two voice tags, brief allows one - Well. We're to go there, I suppose.
-- [ ] RES#873:940a - これ以上の魔物を出現させないようにする事じゃないのか - "Isn't what we must do now to keep" stumbles; same sentence in RES#873:95c6 and RES#873:9853 - Shouldn't we be keeping any more monsters from appearing?
-- [ ] RES#873:a127 - みんな・・・そうなのか・・・? - "that's how it is...?" reads as unfinished - Everybody... that how you all feel...?
-- [ ] RES#873:a789 - どうしてこんな事ばかり続くの - "keep being things like this" is clumsy - Why does it have to be one thing after another...
-- [ ] RES#955:14d79 - 頼りないですけど、敵にするともっと頼りない - "unreliable" dulls the joke, the point is he is feeble - Luca-san makes a feeble ally, but a feebler enemy still.
-- [ ] RES#955:14f07 - いえ、待てば待つほど - "Oh, no." can read as dismay - Not quite. The longer we wait, the likelier someone dies.
-- [ ] RES#1042:7f95 - よっ、確か[HERO]って - "Yo" is modern - Hey, it's [HERO], right?
-- [ ] RES#1042:7ff2 - えーと、確か - "I believe" is formal for Pasca - Uh, lemme think, pretty sure the only room left's the one just to the left here...
-- [ ] RES#1042:8b51 - 聞いてから判断しても遅くはなかろう - JP clause order - It will not be too late to decide after hearing him, surely.
-- [ ] RES#1048:15e7e - なんでこう、みんな親切なんだ - "damn" has no direct JP marker, though Pasca's row lists it - How come everyone's so nice around here?
-- [ ] RES#1169:10872 - 背中を押してくれた友人や女房 - "the friend and the wife" reads as one friend and stiff - If not for the friends and the wife who gave me a push then, I'd never have met you lot or Valdes.
-- [ ] RES#1169:10872 - せっかく知り合った奴だからこそ大事に - closing thought is awkward - In a world this big, when you've gone and met someone, maybe that's all the more reason to take good care of 'em.
-- [ ] RES#1173:12fdc - 酒の味もわからねえガキ - "taste their liquor" reads as unable to taste at all - Brats who can't even tell good liquor from bad don't belong here!
-- [ ] RES#1173:1312c - ティアラちゃんに負けてねえ (no worse than Tiara) - "got nothin' on you" ranks her above Tiara - What a cute little miss... You give Tiara-chan a run for her money.
-- [ ] RES#1173:13244 - この旦那は真面目に商売する気なんてさらさらねえ - "This mister here" and "slightest mind" are stiff - Come back later. Mister here ain't got the least intention of doin' honest business.
-- [ ] RES#1173:14b2d - 結婚して1ヶ月で嫁さんに負けた - "my wife beat me" can read as physical - One month after the weddin', my wife had me beat.
-- [ ] RES#1173:1584e - どうして外に化け物がいるんだ! - "!?" where the JP has "!" - Damn it, like hell! Why're there monsters outside!
-- [ ] RES#1173:15e48 - 無理解だそうだ - hearsay dropped, last clause clumsy - What most folks who make it big here and go home get to taste, they say, is envy and folks who don't understand 'em.
-- [ ] RES#1173:16067 - くそっ、忌々しい!! - "Damn it, infuriatin'!!" is a fragment - Damn it, it's infuriatin'!!
-- [ ] RES#1173:17e5f - 咎めはせぬ。消えろ。 - "Get lost" drops the archaic register of "I shall not reproach you" - I shall not reproach you. Be gone.
-- [ ] RES#1174:9e43 - うん、でも - "Yes" is stiff for Sara - Mm, but I wish I could make lots more kinds of food.
-- [ ] RES#1181:852f - バルデスさんにも一目置かれるくらい強い戦士だったあいつが - sentence breaks awkwardly - [1]He was so strong even Valdes-san gave him his due. To die the way he did... I still can't believe it...
-- [ ] RES#1188:a8d9 - 単純な騎士サマね - two voice tags, and the sarcastic katakana サマ is lost - That's forcing people too, you know. What an astonishingly simple Sir Knight you are.
-- [ ] RES#1192:b068 - 生きた家畜を転送...哀れなミイラ - "cattle" against one "mummy" - I once had a live farm animal sent to me, and what arrived here was a pitiful mummy.
-- [ ] RES#1192:b11c - 金属製品か手紙くらいなもんだ - trailing "about" stumbles - All it's good for is metalwork and letters, more or less.
-- [ ] RES#1192:b4ee - 薬の方は上手くいきそうです - "looks set to go well" is stiff - the medicine should turn out well.
-- [ ] RES#1193:87d4 - [HERO]が見つかったとき (Ash, to the hero; twin RES#1193:8b4e) - third person reads as talk about someone else, but the check requires all four [HERO] - leave, or relax the variable count for these two: When you were found, [HERO], your hand was clenched tight around a Rahmel leaf.
-- [ ] RES#1193:8921 - 死にかけたのはあきらかに彼のミス - "his" lost, "nothing more" added - Nearly dying was plainly a blunder of that person's own.
-- [ ] RES#1193:8e7b - うれしかったんだ、みんなが手伝ってくれて (twin RES#1193:8f4a) - stray comma after "glad" - But I was glad everybody helped.
-- [ ] RES#1194:dcba - 魔法は具現化されます - "give the magic substance" can misread as a substance - the magic takes on substance.
-- [ ] RES#1194:ec7f - 太陽帝国の全貌はまだ1割も解明されていない - "a tenth of the Sun Empire" reads oddly - not even a tenth of the Sun Empire's full picture has yet been made clear, I should think.
-- [ ] RES#1194:10a57 - 開発・改造と一口に言っても...この両方を - "there is the contents of the Trap Capsule" stumbles - "And though we speak simply of development and modification, two things must be done: improving the contents of the Trap Capsule... that is, the trap itself, // and developing the Trap Capsule that houses it."
-- [ ] RES#1194:10d5d - 魔法具は一般の人に販売することが固く禁止 - dangling "unlike other treasures, selling..." - "but unlike other treasures, Magic Tools may not be sold to the general public; this is strictly forbidden."
-- [ ] RES#1194:11516 - 滅んだはずの太陽帝国 - "should have fallen" can read as "ought to have" - "which is supposed to have fallen ten thousand years ago"
-- [ ] RES#1194:112b6 - ランツから来た最新のレポート - "A recent report" softens 最新 - "The latest report from Lanz"
-- [ ] RES#1194:1241e - 『時の回廊』・・・ですか・・・ - "is it..." slightly stiff - "The 'Corridor of Time', is it..."
-- [ ] RES#1194:1357e - 彼等が言うように - "As they say" reads as a proverb - "As they themselves say,"
-- [ ] RES#1194:138ca - 1万年前に栄えた太陽帝国の姿もおのずと分かります - clause order heavy - "then we can naturally tell what the Sun Empire that flourished ten thousand years ago looked like."
-- [ ] RES#1194:139eb - 『無』になることは恐怖だった - "feared the 'Void'" loses "becoming" - "Even people of such technical skill as theirs feared becoming 'Void'..."
-- [ ] RES#1194:12559, RES#1194:13ca9 - scripture's 光の扉 - lower case "the door of light" against glossary "Door of Light" and the capitals later in the same boxes; left because merged b170 has the same stock quotation, change all three together - "opens the Door of Light to the 'Land of Origin'"
-- [ ] Outside this range: b126 and b195 also have "Kars mountains" (glossary: Kars Mountains).
-- [ ] RES#1194:16d0f - 親しい人の心からの気持ち - "those close to it" is awkward (twin RES#1194:16fb7) - "Only the heartfelt feelings of those dear to a person can thaw a heart grown stubborn."
-- [ ] RES#1194:170f2 - 利用されようとしている - "may be being used" is clumsy - "that someone may mean to use Fatum-san as a key to the 'New World'."
-- [ ] RES#1194:18ca9 - 不自然な点 - "unnatural points" is stiff - "Though a few things about it do seem unnatural..."
-- [ ] RES#1199:f9f5 - 世界が滅ぶだの騒いでいる時 - "With all crying" reads oddly - "While all the world cries of its ending, do you think there is a fool who would trust a note of debt?"
-- [ ] RES#1199:fd67 - そこまで言うなら造ってやる - "If you insist so far" is stiff - "If you insist that much, I will make it."
-- [ ] RES#1200:dc2e - 印象は最悪 - "very poor" undersells it - "My first impression of them was dreadful."
-- [ ] RES#1200:106f2 - ぼくの勝ちですね - "My win, I believe." is stiff - "I win, I believe."
-- [ ] RES#1203:aba1 - 見ぬ顔だな - stiff - A face I do not know.
-- [ ] RES#1203:ae42 - 俺とナーダの存在さえも - awkward pronoun pair - even Nada's existence and my own
-- [ ] RES#1256:15c99 - だって全然わからないんだもん - slot unknown, もん leans Scharn, "Geez" is Jessica's - I was half asleep. I mean, I didn't get a word of it.
-- [ ] RES#1332:92d0 - 痛い程よく分かる - comma splice - I know all too well how he feels...
-- [ ] RES#1333:9963 - 遊びに行ったら喜ぶと思うよ - "You'll be so welcome" reads oddly - Go visit later, okay? I think it'd make [VAR15]-san so happy.
-- [ ] RES#1333:9aa5 - そうだ、 - calque of そうだ - Oh, that reminds me, you should ask the Sister about 'Purgatory' too.
-- [ ] RES#1333:a75e - とんでもない爆弾を抱えちまった - "took on a bomb" stumbles - Besides, he went and saddled himself with one hell of a time bomb in our place.
-- [ ] RES#1334:881a - 嫌いじゃなかったんだがよ - "neither" has nothing to attach to - Too bad. I never had nothin' against ya...
-- [ ] RES#1334:8a20 - 案の定これだ - "here's this" flat - Came here, and sure enough, look what I find.
-- [ ] RES#1370:12362 - 風当たり - idiom kept literal, reads a little odd - "the feeling against you would grow harsher still"
-- [ ] RES#1405:15e24 - すまない・・・感謝する - slightly stiff - "Forgive me... I am grateful."
-- [ ] RES#1405:15f66 - Scharn 助けたい。 - `!` where the JP does not shout, grave moment - "[HERO], I want to save [1][VAR14]."
-- [ ] RES#1405:168de - Orpheus さて、どうします? - "what shall you do" is off - "Now then, what will you do?"
-- [ ] RES#1405:16ab1 - 顔に似合わず - "with such a face" a touch awkward; twin 16b1a too - "My, how unexpectedly cold of you, for one with such a face."
-- [ ] RES#1405:16fbc - Eve 行こうかしら - "perhaps ... I wonder" doubled; twin 17043 too - "Well... shall I go along too, I wonder."
-- [ ] RES#1405:17148 - Eve 顔は興味津々に見えるけど? - wordy - "You look awfully curious to me, though?"
-- [ ] RES#1405:180df - Sara きっとうまくいくよ! - JP `!` lost - "It'll be all right. It's sure to work out!"
-- [ ] RES#1474:78b5 - Eve お先に失礼するわ - calque - "Well then, I'll take my leave."
-- [ ] RES#1474:7ad1 - Scharn 行ってみようよ - "okay!" reads oddly - "Let's try the Church!"
-- [ ] RES#1474:7c6e - 教会に行くのか? - awkward - "So we go to the Church?"
-- [ ] RES#1475:14809 - Tiara お目覚めになりました - "at last" added, fragment - "Yes, they have awoken."
-- [ ] RES#1504:12941 - Pasca ありがとよ - "Thanks a lot" can read as sarcasm; twin 129b5 too - "Much obliged."
-- [ ] RES#1504:14ef9 - 世界中に何万もの化け物が現れた理由が - comma between subject and verb across the page break - `The reason tens of thousands of freaks showed up all over the world // is that somebody broke the pillars our souls were locked up in...`
-- [ ] RES#1504:1a203 - サラさんを姉と慕う...サラさんの帰りを - name repeated in place of "you", calque of JP address - `Back in your homeland, Sara-san, so many children who look up to you as a big sister are waiting for you to come home.`
-- [ ] RES#1504:185b5 (twins 19481, 1a384) - 笑顔で再会を喜びましょう - trailing "with smiles" is stiff - `For now, let us simply rejoice, smiling, at being together again.`
-- [ ] RES#1573:fc93 - この世界を構成するものは物質ではなく我々の思念です - JP is present tense, EN future; defensible inside the conjecture, but closer as present - `What makes up this world is not matter but our thought-forms. The thought-forms of each person combine to create a single world...`
-- [ ] RES#1573:10752 - 聖書や伝説の文章を - glossary form is "the Scriptures" - `As a scholar I ought not to take the words of the Scriptures and legends at face value,`
-- [ ] RES#1648:7658 - 行こう、『始原の地』へ - comma follows JP clause order - `Let's go to the 'Land of Origin'.`
-- [ ] RES#1648:767b - 急ぎましょう、『始原の地』へ - same - `Let us hurry to the 'Land of Origin'.`
-- [ ] RES#1648:76a1 - 先に進んであげないと...可哀想 - "you've gotta feel bad for" stumbles; the sense is that they owe it to him - `Let's get going... If we don't move on, it'd be a real shame for that old guy, huh.`
-- [ ] RES#1683:7769 - じゃあクムランさんの所に聞きに行くか - Pasca reads neutral - `[HERO], guess we go ask Qumran-san, then.`
-- [ ] RES#1683:782d - それじゃあ聞きに行こっか - tag "huh" sits oddly on a suggestion - `[HERO], so how about we go ask?`
-- [ ] RES#1684:9e4e - ・・・って事があったんです - `!` where the JP does not shout - `...That's what happened. That's about all I saw, I guess.`
-- [ ] RES#1684:a086 - そんな有名人だったのか - "famous like that" is awkward; Jessica's twin a037 has the natural form - `Huh, so he's that famous. Figured he was one awful high-and-mighty old man, though.`
-- [ ] RES#1874:f33f - 君だけにはぼくの真実の声を...知って欲しかった - fronted object stumbles - I have caused you much trouble, so I wished for you, and you alone, to know my true voice and my real name...
-- [ ] RES#1839:152eb - なんだかな・・・ (bemused sigh) - "What the hell..." runs hotter than the JP - I dunno...
-- [ ] RES#1874:11635 - 話を勝手に広げないで下さい - "on your own" is stiff - Please do not blow this out of proportion!
-- [ ] RES#1874:f75f, faa5 - 終わるのよね - Eve's のよね tag lost - ...this silly game is over, isn't it.
-- [ ] RES#1874:efd3 - ひ、ひょっとして - stammer sits on "you", not the "maybe" word - M-maybe you're... into that sort of thing...?
-- [ ] RES#1684:b529 - どうとでも変わる - "however one likes" adds will - shifting any which way with one's way of thinking and of seeing.
-- [ ] RES#1874:11e4a - 君が好きだから守ったんだ - "for love of you" reads archaic for the hero - I protected you because I love you...
-- [ ] RES#1944:94f7 - ハンナがあまりにも可哀想 - "cruel on" is odd - It is too cruel to poor Hanna, is it not...
-- [ ] RES#1944:a6b1 - Fatum, 頼む・・・ - "I ask you..." is stiff for a dying plea - Please...
-- [ ] RES#1944:ac70 - Ash, そうなのか・・・ - "Is that so..." is stiff for Ash - Oh... I see...
-- [ ] RES#1945:9ceb - 僕は・・・信じない - "I... I do" repeats where the JP does not - I... do not believe it...
-- [ ] RES#1945:a1a3, RES#1945:a298 - 正義感を振り回す - "swings ... around" is literal - brandishes his naive sense of justice
-- [ ] RES#1945:a31f - 信じているんだ!! - "I do believe!!" is awkward - I do!!
-- [ ] RES#1945:a460 - 悩みを癒してくれたか - "healed my troubles" is awkward - Has [HERO] [1]eased my troubles?
-- [ ] RES#1947:9fa1 - もう出てこないで下さい - "appear no more" is overwrought - Please do not appear again...
-- [ ] RES#1947:ae25 - そのおかげで助かった - "thanks to that that" stumbles - Not at all, please do not mind it. That is what saved me, after all.
-- [ ] RES#1948:b207 - Pasca, お前知ってたか - "you" against his "ya" elsewhere in the scene - [1][HERO], did ya know?
-- [ ] RES#1949:a1f9 - あたしを殺せばいい - "You can just kill me!" reads as permission - You just have to kill me!
-- [ ] RES#1950:a1c2 - 君の苦しい思い出から解放してくれ - clause order stiff - P-please... And f-free me... from your painful memories...
-- [ ] RES#1951:9e09 - 単純な子 - "child" odd for a 17-19 listener - Who would ever open up to a simple girl like you?
-- [ ] RES#1952:9d9a - 押さえ続けられていた...本当の姿 - dangling opener - I'm the real you, see, the one you've kept pushed down all this time.
-- [ ] RES#1955:9c14 - 憎む全ての忌まわしい過去 - "hateful past you loathe" doubles up - all the accursed past you hate will be taken away.
-- [ ] RES#1956:971e - 劣等感のかたまり - "lump of inferiority" calque - I'm nothing but a mass of inferiority...
-- [ ] RES#1958:a011 - 襲うつもりらしいのう - "it seems, eh" stacks two tags - The Blue Clan means to attack that child's First Star rite, eh.
-- [ ] RES#1958:a0a9 - 輿には...わしが乗る - JP clause order - I will ride in the First Star rite's palanquin in that child's place.
-- [ ] RES#1959:a5fe - 何を言われても断らない - "never refusing whatever is said" is stiff - never refusing whatever is asked
-- [ ] RES#1959:a877 - 誰からも虐げられることはない (said to Luca) - general statement loses the personal offer - no one will ever oppress you
-- [ ] RES#1960:a63a - [HERO]さん twice - name doubled in one short sentence - [HERO]-san, I believe in you! So please!!!
-- [ ] RES#1961:7c16 - 不死者っていっても知らねえか - added quote marks around the Undying - Ya might not know who I mean by the Undying.
-- [ ] RES#4100:a80b - バルデスさんの分も戦わなきゃ - "fight for Valdes-san's share" is a calque - I know I gotta do Valdes-san's share of the fightin' too
-- [ ] RES#4100:b4c4 - 理想の世界って言ったって - added quote marks - Besides, ideal world or not, it was written five thousand years ago, right?
-- [ ] RES#4106:133d3 - 気合い入れて頑張れよ - "Get your spirit up" is a calque; also RES#4106:135dc - Put your back into it.
-- [ ] RES#4106:12ee5 - 品揃えが悪いのは我慢してくれ - comma splice, twin RES#4107:14258 - Sorry about the poor selection. You'll just have to live with it.
-- [ ] RES#4107:13b60 - また愚痴になっちまう - "I'll go gripin' again" reads as a future plan - Here I go gripin' again.
-- [ ] RES#4107:143b1 - 手伝ってくれてすまねえな (thanks) - "Sorry you're always helpin' me out" reads as regret - Much obliged, you're always helpin' me out.
-- [ ] RES#4115:806f - この町はあの野郎の天下になっちまった - stiff phrasing - "this town's had the misfortune of bein' that bastard's to rule" -> "this town's had the bad luck to be that bastard's kingdom"
-- [ ] RES#4115:8e98 - 貴族の方も飽きて - singular "the noble", plural "the nobles" one sentence later - "and the nobles got bored"
-- [ ] RES#4115:beac, RES#4115:bf4a - バルデス氏 - "-shi" appears only here and is not in the glossary's honorific ruling; a reader may stumble, though the mock-formal effect works - keep, or "Master Valdes"
-- [ ] RES#4115:c0f6 - どこぞの有力者 - "bigwig" sits low in Kadmon's fawning register - "some man of influence"
-- [ ] RES#4117:ed4e - どこか痛々しいんだよ - slightly stiff - "Lookin' at you, it kinda hurts."
-- [ ] RES#4117:fe40 - おう、いい顔だ - calque - "Yeah, that's more like it."
-- [ ] RES#4125:6bfd - いつ見ても人少ないね - "never anyone" overstates "few people" - "It's always so empty here, whenever you look."
-- [ ] RES#4125:7ab1 - 見つめ直して下さい - Sadiya's request softener dropped - "Please look into yourself once more."
-- [ ] 280e8 - Orpheus: why get hated more? - "stink in everyone's nostrils" is an odd calque - "You're already a nuisance to everyone as it is."
-- [ ] 2683c - Eugen's やあ諸君 - "boys and girls" too cute - "Well now, you lot, welcome to the Coffin of Kars!"
-- [ ] 24ae9, 261f1 - 信心深い田舎者 - "country boys" gendered - "pious country folk"
-- [ ] 29a5e - Noel flustered - too formal - "I-it's nothing to me, really..."
-- [ ] 2a5c4 - 誰か仲間を誘えよ - "comrades" stiff - "Go find yourself some partners."
-- [ ] 29e23 - 末期の酒 - "a man's last drink" reads as last round - "a dying man's last drink"
-- [ ] 29412, 2a31e - Dias, subjectless - stilted first person - "To the ruins. Follow if you wish." / "Back to my room. Call if you have need of me."
-- [ ] Eve all sections (28b9b, 28da1, 29555, 29c3e, 2a719, 28a46, 2b0e9, 5:b53d, 5:b64f, 5:b9ce, 5:bb0b, 9:4209d) - "dear" on nearly every bark - keep it for digs (5:b780, 69:29dcf, 71:17529), drop from neutral lines
-- [ ] 28159 - bark - no Luca hedge - "Please don't make me your next target... I may not look it, but I'm rather timid."
-- [ ] 29102 - Ash いまから行くぞ。いいな。 - too soft - "I'm going now. All right?"
-- [ ] 8:492d9, 9:41dd7, 72:14c8d - Pasca "ya" is Kadmon's marker - "you", with ain't/gonna
-- [ ] 67:1a121, 67:1bbee - Luca そ、そんな! - bolder than JP - "N-no... we are only trying to help someone..." / "N-no... We are here for Ash-san's..."
-- [ ] 69:2a612, 70:174fa - Luca contractions - "I am"
-- [ ] 69:296f8 - Sara これがラフメルだなんて - disbelief - "Oh no... This is Rahmel?"
-- [ ] 6:141f2/67:1ef35, 6:1426c/67:1efaf/8:49a59, 6:144e0/67:1f17d, 6:14763/67:1f405 - same JP, different English - harmonize to one wording each
-- [ ] 72:f7fe/72:1305c/72:148b7 - 次の城門が開く日 - pick one wording
-- [ ] 72:12ca3 - Orpheus - missing article - "from the old Kindness Peddler"
-- [ ] 67:1e58a, 67:1e758 - Kadmon アマ/野郎 - check the addressee so Luca/Eleanor are not misgendered
-- [ ] 72:120cb - Dias 課程 - "The route means nothing at present. We go on."
-- [ ] RES#94:19e2e/1c3cc, 94:1a09e/1c63b - Dias's martyr speech repeats differently - one version: "friends", "A laughable life."
-- [ ] RES#94:1cdf9 - Luca - "distortion" vs "warping" in 94:19c9a, 94:1a2b6 - "warping"
-- [ ] Luca all sections (94:1aec5, 95:15ef4, 95:16277, 94:1db8f, 94:1ddb1, 106:2d720) - contractions drift - "I am", "is it not?"
-- [ ] RES#100:2c967 - Fatum たった、だ。 - "Only. Only forty years have passed."
-- [ ] RES#101:23ea5 - two vocatives - "N-Nada... Sister!?"
-- [ ] RES#96:de14 - Dias - House made a duke - "Knights of the House of Durer, one of Asroit's four dukes..."
-- [ ] 100:2c72a, 97:1dcb4, 97:1dd68, 97:1dc20, 97:1de16 - Alexis's rank 副将 varies - pick one term
-- [ ] RES#104:1789b - Phantom "pal" is Kadmon's - "But I'm only using you, you know."
-- [ ] RES#104:1be84 - Jessica stiff - "I believe in you, got it?"
-- [ ] Jessica all sections (94:175f0, 94:1b310, 97:1b908, 74:15fa8, 78:29024, 79:3bd55, 89:28eb5, 82:1dce6) - "you know that?" about 25 times a section - keep on digs with a JP marker, drop on plain statements
-- [ ] Orpheus all sections (76:2e893, 79:3b5e8, 76:2b38d) - "I daresay" where the JP has no irony - thin; 90:40441, 90:404d6 slip register: "I shall accompany you anyway", "will not be of any use"
-- [ ] Eve more (94:17666, 97:1c10f, 101:24784, 104:1c723, 106:2c461, 107:22ec4, 76:2b0a7, 79:3b58c, 79:3b7fe, 88:da37, 81:17523) - "dear" - as the Eve line above
-- [ ] Arthur (97:1e034, 82:1eb00, 82:1f443, 93:e651) - contractions against his formal row - no contractions
-- [ ] RES#94:185fc - "Kingdom of God" capitalised once - lowercase
-- [ ] RES#101:27a91 - Eve unclear - "Since we've been mistaken for saviors anyway, we may as well topple God too, dear."
-- [ ] 76:2eabf - Noel - "thank you" softens her - "...Then I'll go."
-- [ ] 74:15fa8 - Jessica じゃん clumsy - "and now the room's nothing like it, geez..."
-- [ ] 72:15046, 76:2de31, 82:1e591 - Luca stammers on the wrong sound (JP stammers on あ) - drop the stammer or "A-actually... thank you!"
-- [ ] 76:2e0ee - Tiara - "...no effect at all, even on the merest scratch."
-- [ ] 73:16a66 - unlabelled line sounds formal between Sara/Scharn - check the plate in-game
-- [ ] 80:169cb - plate 戦士シャルン - normalise to plain "Scharn" if it is a JP slip
-- [ ] 81:16cff - Eve あの子の顔 - "that kid's face"
-- [ ] RES#230:22964 - Ash 大好きだよ - weak beside his top tier - "I really, really like you..."
-- [ ] RES#230:24161 - Eleanor あなたが好きです - the next line calls it a confession - "I love you. I love you with all my heart..."
-- [ ] RES#230:25df8 - Scharn 面白いくらいにね - garbled - "Yep, so clear it's funny!"
-- [ ] RES#230:26dff - Noel - stiff - "It couldn't have been clearer."
-- [ ] RES#230:26ab4 and its "Indeed, ..." run - Noel - off voice - "Yeah, stay here forever and..."
-- [ ] RES#178:2b0e1 - Dias 貴様には意味のない代物だな - cold insult lost - "Nothing in it for the likes of you."
-- [ ] RES#231:3854a - Eugen - odd - "You've waited a whole year for [HERO] to come home"
-- [ ] RES#231:383bc - Fatum かりそめの魂 - "borrowed" implies a lender - "the makeshift soul, as they call it"
-- [ ] RES#178:3005b - Lanz book 本来 - "rightly" implies legitimacy - "originally territory of..."
-- [ ] RES#178:29556, RES#181:2147b, RES#183:26ef6 - hero narration flips "It is"/"It's" - "It's"
-- [ ] RES#214:fd6e-ff5c - debug statue lines - speaker ladder shifted; debug only, waive unless trivial
-- [ ] RES#108:2a5d5 - Sara 聖者様達 - odd plural - "The Saints have lived ten thousand years, and we haven't even lived twenty"
-- [ ] RES#109:2c0a2, 2c465, 2c490, 107:256f7 - JP says Azazel where other variants say Avadail - check the JP; keep Azazel only if a separate Saint
-- [ ] RES#109:28851 - Orpheus - "star" added - "here comes our guest of honor at last. The last of the Thirteen Saints."
-- [ ] RES#109:2996d - Sara - double negative - "I don't think it's hopeless at all"
-- [ ] RES#109:2c490 - 使徒達 "Apostles" - "The Saints we fought before"
-- [ ] RES#171:254ec - Scharn cut off mid-sentence, EN invents a joke - "Eugen-san probably just uses an axe for the vegetables..."
-- [ ] 317:8b46, 317:8c17, 318:81c0 - Pasca on Rebecca あいつ - "that fool" adds an insult - "She's really gone now, huh...", "I knew she was strugglin' with somethin'...", "Gotta do her share too..."
-- [ ] 335:a829, 327:a673 - Orpheus to Jessica, softened under D11 - "your modest purse" is nonsense and the same speech differs - one wording, "a modesty so unlike your temperament" or the 327 version
-- [ ] 344:82fa - Orpheus on Dias - "Better that than a closet skirt-chaser."
-- [ ] 327 vs 335/336 - Orpheus's formality swings - prefer the lighter 327 level
-- [ ] 348:898f - Pasca 色男 "lover boy" - fine only if the branch is male-hero-only; check
-- [ ] 331:8fb5, 331:9233 - "[1].[2].[3]" pause codes - check they don't show in-game
-- [ ] RES#231:39349, 391cc, 392ab, 396ef, 39a5f - あいつ - "that one" repeated, stiff for rough speakers - "that idiot" or "they" in some repeats
-- [ ] RES#231:396ef, 3986e - Jessica - ungrammatical - "gets lonely more easily than you'd think"
-- [ ] RES#231:43212, 43646 - Sara はやくナーダさんにも紹介したい - reads as if Nada is introduced - "I can't wait to introduce [HERO]-san to you, Nada-san."
-- [ ] RES#244:42d08 - Dias ただのお尋ね者ではない - "Nor as a mere outlaw" wrong - "Not as a mere outlaw."
-- [ ] RES#238:57e0d - Eleanor 組織の中に身を置くのが嫌い - "We dislike" muddles the reply - "I dislike being part of an organization"
-- [ ] RES#243:43220 - Eve - two hedges - drop "of course"
-- [ ] RES#300:8a95 - Pasca - tag mixes forms - "ain't been found in decades, ain't it"
-- [ ] RES#241:43e30, 45948 - Boss B - "cute little missy" can read as the child - "that cute young lady's gonna get creamed"
-- [ ] RES#231:40087 - Orpheus 義姉さん - bare "Sister" - "Sister-in-law" at least once
-- [ ] RES#571:dafd - Orpheus なぁんて - gag blurred - "Just kidding. I've no intention of wallowing in sentiment. Let us be done with it and return to town, shall we."
-- [ ] RES#352:9074 - Stella Mira 3人みたいに - points at the wrong group - "people like those three who refuse what they don't want"
-- [ ] RES#364:fa2b - Leia 呆れさせてくれる - reads as admiration - "You exasperate me..."
-- [ ] RES#561:bc02 - wounded man 勝てよ - "You win, now..." weak - "Win, you hear?"
-- [ ] RES#571:104f7 - Eugen - "Geez" is Jessica's tic - "Hmph, what a sorry excuse for a fella."
-- [ ] RES#571:12bcc, 139bc - Eugen - inversion not his voice - "Damn impressive. Really."
-- [ ] RES#364:f2fd, RES#571:ddb9, RES#353:8ea3 - Luca refrain, same JP, EN varies - one form, "But if it gets dangerous, let us come back right away."
-- [ ] RES#364:1001e, 10091 - 挨拶 "pay your respects" sounds funerary - "say goodbye"
-- [ ] RES#351:84d5, 854f - joined line and choice fragments - check in-game
-- [ ] RES#706:108f2, 124c0, 12c49, 13308, 11996 - そ、そう - "so you're going" reads as hero alone - "I-I see... Yeah, let's go, then."
-- [ ] RES#1169:fef3 - Eugen あの坊主 - loses the monk - "That young monk, and Valdes too, chose their own deaths."
-- [ ] RES#1172:10d79 - Eugen バルデスほどじゃねえ - muddled - "Though not as unlucky as Valdes."
-- [ ] RES#955:15483 - Dias 意志の純度 - hard to parse - "Their will is not as pure as his."
-- [ ] RES#955:14ec5 - Eve - tag grammar - "But fretting here won't change a thing either, will it?"
-- [ ] RES#1169:d828 - "Kars mountains" - "Kars Mountains"
-- [ ] RES#792:1448e - Noel そのつもりよ - flat, past tense - "That is my intention."
-- [ ] RES#626:d2ac - Pasca - opaque out of context - check against the scene
-- [ ] RES#1194:16d0f, 16fb7 - Qumran - "those close to it" has no referent - "Only the heartfelt feelings of someone close to him can thaw a heart grown stubborn."
-- [ ] RES#1194:160be - Qumran 友だったのに - self-reproach reads as doubt - "...and yet... no, I believed he was, and still I let slip a plan that could succeed only at the cost of his life..."
-- [ ] RES#1173:16ec4 - "agin'" reads as again - "never growin' old and never dyin'"
-- [ ] RES#1199:f9f5 - Gaius - broken clause - "With everyone crying that the world is ending, do you think any fool would trust a note of debt?"
-- [ ] RES#1199:f0d6 - Gaius 貴様か - contempt dropped - "So it is you..."
-- [ ] RES#1188:b4eb - Scharn - "Well, excuse me!" too sarcastic for her - "Sorry, but that's me too!"
-- [ ] RES#1192:b028 - Pasca - "he" unclear - "why doesn't Ash just ride home with the medicine?"
-- [ ] RES#1333:9fef, 901e, a501, a75e - おっさん "old man Valdes" vs payoff "mister" at RES#1596:15641 - "Mister Valdes" in Jessica's lines
-- [ ] RES#1332:9864, RES#1684:c08c - "no few" - "not a few"
-- [ ] RES#1333:9963 - Sara - "You'll be so welcome" - "I bet they'd be so happy if you dropped by later, okay?"
-- [ ] RES#1573:f5cb - Valdes - third person stilted - "That's needed before the main part. Shut up and listen."
-- [ ] RES#1734:a20c - Jessica だって馬鹿じゃん - stiff - "Well, you are, though."
-- [ ] RES#1874:fe61 - Dias - "A poor taste, that." - "...... Not a commendable taste."
-- [ ] RES#1874:f2d4, f534 - ニュソス Nysos missing from glossary - add the row
-- [ ] RES#1944:96f8 - Ash - "and all" twice is heavier than せっかく - "After Sadiya-san went to all that trouble making the medicine... After everybody helped me..."
-- [ ] RES#1405:1624c - Jessica あたし達を助けたせいで - pronoun unclear - "because we all got saved"
-- [ ] RES#1945:b4bb, 1946:aead, 1947:acea, 1948:b149, 1958:b43c, 1959:b654, 1960:ab45 vs 1951:b223, 1952:afdf, 1953:abfd, 1954:b2a6, 1955:b045, 1956:ad8a, 1950:aabb, 1957:a668 - Qumran's suspended-animation reveal, two forms - one form throughout, keep the JP's Is variants at 1949:a8cf, 1950:aabb, 1957:a668, 1958:b43c
-- [ ] RES#1945:b5b2, 1946:afaa, 1947:addb, 1948:b28c, 1949:a99f, 1958:b50d, 1959:b768, 1960:ac27 - Qumran's apology "I apologize" vs "I am sorry" - pick one
-- [ ] RES#1946:a130, 1947:9ebc, 1948:a19e, 1949:9f79 vs 1951 onward - Welkail's call "Now" vs "Come, make your wish", and the "understand" sentence - unify
-- [ ] RES#1946:9973, 1947:94e4, 1952:96bf - Barkail "neither time nor space exists" vs "there is neither time nor space" - unify
-- [ ] RES#1946-1949, 1958:b151, 1959, 1960 vs 1950-1957 - 忘れない "I will never forget you" vs "I won't forget you" - pick one
-- [ ] RES#1946:a52f, 1947:a321, 1948:a7a2, 1949:a1f9, 1959:ac86 vs 1950 onward, 1955:a858, 1958:ad1c - Devil formula "you can become" vs "you become" - unify
-- [ ] RES#1947:9258 vs 4117:efa6, f082 - 内務大臣 "Home Minister" vs "Minister of the Interior" - "Minister of the Interior"
-- [ ] RES#1950:9fbc, a0cf - 若者よ "Young one" vs "young man" - "Young one" in both
-- [ ] RES#1950:9602 - stilted - "I have not forgotten you once in fourteen years..."
-- [ ] RES#1950:a1c2 - word order backwards - "P-please... And free me... f-from your painful memories..."
-- [ ] RES#1951:9fa2 - Scharn's Phantom, JP is present tense - "Say it: I don't really trust you."
-- [ ] RES#4100:a4e7 - "That mean if the world stays like this" - "Does that mean..."
-- [ ] RES#4100:bb2f - 男のマロン gag (ロマン misspoken) - "romanticals" loses it - a visible slip, "A man's ro... roman... marron? Rom-ance, that's it."
-- [ ] RES#4115:806f - Kadmon - broken phrase - "...of becoming that bastard's kingdom"
-- [ ] RES#4115:beac, bf4a - Kadmon "Valdes-shi" - 氏 is outside the honorific set - keep as pompous or "Mister Valdes"
+- [x] RES#1023:23e59, 25937 - 北から来たのか - "Up from the north" fights the idiom - "Down from the north, huh." - fixed
+- [x] RES#1023:249c3, 26108 - 騎士サマ - sarcastic サマ is lost - "Hmph, a fine knight, is it..." - fixed
+- [x] RES#1023:2469f - 褐色の肌に黒髪と...相場が決まってる - grammar stumbles - "Irenians have always run to brown skin and black hair..." - fixed
+- [x] RES#1023:25160 - 武者修行だぁ? - incredulous だぁ is mild in English - "Training? Seriously?" - fixed
+- [x] RES#1023:25329 - 仕官の道があるわけでもねえ - the officer's post is generalised - "These days strong arms won't land you a post in anyone's service." - fixed
+- [x] RES#1023:26aed - 1番手前の建物 - "frontmost" is stiff - "from the very first building in the underground city" - fixed
+- [x] RES#1023:27905 - 逆に - contrast dropped - "If anything, I bet it's glad to have a new owner." - fixed
+- [x] RES#1023:2793e - 旅の疲れを癒して下さい - "rest off your journey" stumbles - "Please rest in your room after your journey." - fixed
+- [x] PSX.EXE:1b6db, 1b6e2 - 詳細 / 詳細表示 - EN has a leading space the JP lacks; confirm in visual QA whether a button icon needs it - "Details", "Show Details" - qa: shop help prompt; does a button icon need the leading space
+- [x] PSX.EXE:1d201, 1d234 - バルデスの大剣, ガイウスの大剣 - named weapons take 's, blocked by the 100 px name limit (109, 103 px) - "Valdes's Greatsword", "Gaius's Greatsword" if phase 7 widens the column - waived: no widening, over 100 px
+- [x] PSX.EXE:1d16d, 1d178, 1d185, 1d1ac, 1d1d2 - マルカ, ファカラル, 隠者, アノート, ナキエルの大剣/戦斧 - 's dropped against the same series' other weapons, same limit (103-109 px) - "Malka's Greatsword", "Fakaral's Battleaxe", "Hermit's Greatsword", "Anote's Greatsword", "Nakiel's Greatsword" if widened - waived: no widening, over 100 px
+- [x] PSX.EXE:1d1b8, 1d1de, 1d249, 1d253, 1d221 - 大剣 - "Claymore" and "Drakehead Blade" stand in for greatsword, same limit (109-121 px) - "Radamael Greatsword", "Astaras Greatsword", "Nameless Greatsword", "Accursed Greatsword", "Drakehead Greatsword" if widened - waived: no widening, over 100 px
+- [x] PSX.EXE:1d869 - 癒しの光域の錫杖 - Healing dropped to fit - "Healing Light Staff" if widened by 1 px - fixed
+- [x] PSX.EXE:1d884 - 雷神の錫杖 - 雷 is Lightning, forced (115 px) - "Lightning God's Staff" if widened - waived: no widening, 115 px
+- [x] PSX.EXE:1da86 - 体力の指輪 - 体力 is HP and Vitality is the 生命力 stat, the name points at the wrong stat - "Ring of Health" - fixed
+- [x] PSX.EXE:1dff9 - 主に捧げる銀の剣 - 剣 is Sword elsewhere, 102 px of 100 - "Votive Silver Sword" if widened - waived: no widening, 102 px
+- [x] PSX.EXE:1df48 - 兄の形見の鎧 - keepsake lost (RES#1199 says "her brother's keepsake"), no room - "Brother's Keepsake Armor" if widened - waived: no widening, over 100 px
+- [x] PSX.EXE:1dfa5 - 空の雷の筒 - Lightning dropped, unambiguous as the only empty tube, 112 px - "Spent Lightning Tube" if widened - waived: no widening, 112 px
+- [x] PSX.EXE:1e547 - 片手剣/攻45/-/防-8,HP+30 - class shortened, 286 px of 276; 1e4f1 uses "Sword/" - "One-Handed Sword/Attack 45/-/Defense-8, HP+30" if widened - waived: no widening, 286 px
+- [x] PSX.EXE:1e4f1, 1f174, 1f1a9 - class word shortened or dropped to spell out the stats; breaks the column pattern - restore "One-Handed Sword/" and "Armor/" if the help bar widens - waived: no widening
+- [x] PSX.EXE:1f1e6 - 他登場しません - 他 is "more" in 1ed2c, 1edf8 - "Armor/Defense 20/More, not in game" - fixed
+- [x] PSX.EXE:21ca5 - 昇順|降順 - Forward, Reverse is loose if the width allows more - Ascending|[1]Descending - qa: sort submenu width; Descending is 58 px against Reverse 43 px, swap only if the window holds it
+- [x] PSX.EXE:22b62 - 構成表を手に入れた - telegraphic, no article - [VAR13][1] got the [2][VAR14][3] formula - fixed
+- [x] RES#1:27110 - また一緒にいこうな - "y'know" sits awkwardly after "let's" - Mm, let's head out together again sometime, I guess. - fixed
+- [x] RES#1:27746 - 早く行こう - 早く dropped - Nothing is finished yet. Let us hurry on. - fixed
+- [x] RES#1:27f61 - お前、最低だな - "the lowest" reads stiff for Pasca - You're low, ya know that... - fixed
+- [x] RES#1:28317 - い、一体どうしたのですか - stammer sits on "what" of the phrase rendering 一体, not "on earth"; left as natural - no change suggested unless a stricter pass wants "What o-on earth is wrong?" - waived: reads natural as is
+- [x] RES#1:28458 - あまり下らないことをするな - "waste yourself" is a small addition - "Do not do such foolish things." - fixed
+- [x] RES#1:284cd - 喜ぶ人は誰もいません - "glad of" stumbles - "No one welcomes such behavior." - fixed
+- [x] RES#1:292d9 - ひょっとして忘れてたの? - !? where the JP only asks - "Did you forget?" - fixed
+- [x] RES#1:2a9c7 - ぼーっとしてる - "spaced out" is modern slang - "What're you standin' around in a daze here for?" - fixed
+- [x] RES#5:bb0b, RES#5:bca7 - 手の込んだ玩具ね - "What an X, isn't it" is ungrammatical - "What an elaborate toy." - fixed
+- [x] Eve all sections (28b9b, 28da1, 29555, 29c3e, 2a719, 28a46, 2b0e9, 5:b53d, 5:b64f, 5:b9ce, 5:bb0b, 9:4209d) - "dear" on nearly every bark - keep it for digs (5:b780, 69:29dcf, 71:17529), drop from neutral lines - fixed
+- [x] RES#6:141f2 - 急ごう! - "Hurry!" reads as an order - "Let's hurry!" - fixed
+- [x] 6:141f2/67:1ef35, 6:1426c/67:1efaf/8:49a59, 6:144e0/67:1f17d, 6:14763/67:1f405 - same JP, different English - harmonize to one wording each - fixed
+- [x] RES#6:14763 - いつの間にかあと数分しか - tense slips - "Before we knew it, we were down to just a few minutes..." - fixed
+- [x] RES#8:49bb5 - さっさと戻りましょうか - "let us be off back" is clumsy - "let us head back without delay." - fixed
+- [x] RES#9:420bf - ここだけ重力の概念がない - "Does gravity not exist here alone" stumbles - "So here alone, gravity has no meaning..." - fixed
+- [x] 8:492d9, 9:41dd7, 72:14c8d - Pasca "ya" is Kadmon's marker - "you", with ain't/gonna - fixed
+- [x] RES#9:42966 - Orpheus, 答える気はありません - "I daresay I have no intention" hedges a flat refusal - Even if I did happen to know, I have no intention of giving you a serious answer. - fixed
+- [x] RES#10:958a - Noel, あたし達の頭を試してる - "testing our brains" is stiff - It's as if it's testing our wits, honestly. - fixed
+- [x] RES#13:424c4 - Eve - three tags in one entry (you know, you know, dear) - drop the "you know" after "no reason at all to go" - fixed
+- [x] RES#13:427e8 - Dias, 似て非なる物 - "quite unlike" loses "looks alike"; same for twin RES#13:4284b - Though it only resembles the Purgatory of which the Church speaks. - fixed
+- [x] RES#19:f6f4 - Noel, [VAR14]の事が気になるでしょ - "curious" is cool for a friend in danger - You want to know how [1][VAR14] is doing too, don't you? - fixed
+- [x] RES#22:2f85f - ここまでくれば安心か - "this far" is clipped - We should be safe now that we've come this far... - fixed
+- [x] 67:1a121, 67:1bbee - Luca そ、そんな! - bolder than JP - "N-no... we are only trying to help someone..." / "N-no... We are here for Ash-san's..." - fixed
+- [x] 67:1e58a, 67:1e758 - Kadmon アマ/野郎 - check the addressee so Luca/Eleanor are not misgendered - waived: file order puts girl at Eleanor, boy at Arthur
+- [x] RES#69:2a1f4 - Jessica, 願いが通じたってことなのかな - "like," is modern slang - Th-this means... our wish got through, or what...? - fixed
+- [x] RES#69:2a8fe - Sara, 待ってるもんね - "okay?" asks where JP states - Sadiya-san and the others are waiting for us, after all. - fixed
+- [x] RES#69:29c53 - Eleanor, これでは薬の材料なんて - "With this" is a calque - Like this, ingredients for the medicine are... - fixed
+- [x] 69:2a612, 70:174fa - Luca contractions - "I am" - fixed
+- [x] 69:296f8 - Sara これがラフメルだなんて - disbelief - "Oh no... This is Rahmel?" - fixed
+- [x] RES#70:171f6 - Scharn, なんだ・・・ - JP trails off, EN shouts - So this is the 'Blue Passage'... - fixed
+- [x] RES#71:16840 - Ash, となりの建物とくらべると - "next to the building beside it" clunky - It's kinda plain compared to the building next door, I guess. - fixed
+- [x] RES#72:eed4 - Scharn, 通路ばっかりなんだね / 気がするよ - weary musing carries ! twice - ...nothing but corridors, huh. Feels like I haven't fought any monsters at all lately. - fixed
+- [x] RES#72:efc4 - Scharn, 進むしかないか - か musing shouted - But all we can do is keep going... - fixed
+- [x] 72:f7fe/72:1305c/72:148b7 - 次の城門が開く日 - pick one wording - fixed
+- [x] RES#72:f965 - Arthur, だから間違いないよ - no contractions is Leia's device; よ reads stiff - So I'm not mistaken. - fixed
+- [x] RES#72:fa62 - Arthur, やったな、あと一歩じゃないか - stiff for a cheer - We did it, we're just one step away! - fixed
+- [x] RES#72:fc24 - Arthur, 入ろうか - "let us" stiff - All right, let's go inside. - fixed
+- [x] RES#72:1014a - Pasca, 泣くに泣けねえ - "wouldn't even know how to cry" is a calque - I'd be past cryin' over it. - fixed
+- [x] RES#72:105b9 - Scharn, 気を抜いちゃダメだよ - "don't you dare" is Noel's edge (10ed2), Scharn is sincere - so you really can't let your guard down! - fixed
+- [x] 72:120cb - Dias 課程 - "The route means nothing at present. We go on." - fixed
+- [x] RES#72:12f95 - 何度か (Sara) - "lots of times" overstates "several" - Qumran-san showed me pictures of this gate a few times, so I think I'm right. - fixed
+- [x] RES#72:13822 - たどり着けるってわけね / よかったじゃない (Eve) - tags read as calques - So just a little further and you'll reach [1]the 'Sun Jewel'[2]... // [3]Well, good for you. Do your best then, you two. I'll cheer you on, I suppose. - fixed
+- [x] 72:12ca3 - Orpheus - missing article - "from the old Kindness Peddler" - fixed
+- [x] RES#73:16cf9 - 分かってはいるんだがな (Valdes) - trailing "I know it, but" softened - ...is still the scum of the earth... I know it, all right. - fixed
+- [x] 72:15046, 76:2de31, 82:1e591 - Luca stammers on the wrong sound (JP stammers on あ) - drop the stammer or "A-actually... thank you!" - waived: brief wants stammer on same word, first letter; already so
+- [x] 73:16a66 - unlabelled line sounds formal between Sara/Scharn - check the plate in-game - qa: who speaks (likely Sara, ですね to Valdes); reworded to "You and Qumran-san really are close, aren't you, Valdes-san?"
+- [x] RES#73:177f4 - 誕生と消滅 (Qumran) - verb agreement reads off - Perhaps because endless birth and extinction bring a suffering that never ends. - fixed
+- [x] RES#73:17ba0 - 奴等の苦しみ (Valdes) - "those two's" clumsy - When's the suffering ever gonna end for those two? - fixed
+- [x] RES#73:17d53 - 話が大きすぎて - "so big" slightly literal - They're gone... It was all way over my head, though... - fixed
+- [x] RES#74:15fa8 - 全然違うじゃん (Jessica, frightened) - "you know that" is a dig, wrong for the moment - ...and now the room's nothing like it... - fixed
+- [x] 74:15fa8 - Jessica じゃん clumsy - "and now the room's nothing like it, geez..." - fixed
+- [x] RES#76:2b100 - が、頑張ります: stammer on "but", JP has it on the verb - "I-I am scared, but I w-will do my best!" - fixed
+- [x] RES#76:2d83c - しょうがないなんて: quote marks added, JP has no 『』 - problem: brief says never added - "Can't be helped, you say..." - fixed
+- [x] RES#76:2df0f - 私の力より: "stronger than my power" a bit stiff - "No, more than my power, I believe it was Leia-san's strong will to live." - fixed
+- [x] RES#76:2d6b8 - ただのかすり傷じゃねえだろ: clumsy double negative - "she's gotta be hurt worse than a scratch." - fixed
+- [x] Orpheus all sections (76:2e893, 79:3b5e8, 76:2b38d) - "I daresay" where the JP has no irony - thin; 90:40441, 90:404d6 slip register: "I shall accompany you anyway", "will not be of any use" - fixed (75:2b38d kept: a real dig; 14 more flat ones dropped)
+- [x] 76:2eabf - Noel - "thank you" softens her - "...Then I'll go." - fixed
+- [x] 76:2e0ee - Tiara - "...no effect at all, even on the merest scratch." - fixed
+- [x] RES#78:29dfe 29f3a 2a09d 2a22c 2a3ed 2a54e 2a6d2 2a843 2a9db 2ab3c 2af97 2b0d1 - 魂 as a word: 'soul' quoted without 『』 - problem: same rule, though the quotes read naturally as a word mention - keep, or rule on word mentions once - waived: kept; word mention, not emphasis; ruling proposed in reply
+- [x] RES#78:2a3ed 2a54e - 思ってるんだ: "okay?" reads as a request - "...and just look." - fixed
+- [x] RES#79:3b4d5 - だよ: y'know splits the phrase - "This is the pillar that seals souls, a 'Pillar of Sheol', y'know." - fixed
+- [x] RES#79:3cd2b - 1度町に戻らなきゃ - "once" is a calque - "But first we have to go back to town." - fixed
+- [x] RES#80:15f5b - あ、誰かいるよ - "!" where the JP does not shout - "Oh, somebody's there." - fixed
+- [x] RES#80:16096 - 探して下さっている - stiff - "I wonder if those people, too, are kindly searching for a 'Pillar of Sheol'." - fixed
+- [x] RES#80:16e51 - 言ったセリフを飲み込む - idiom half-kept - "Yeah, I ain't so crude as to eat my words." - fixed
+- [x] RES#81:15ed9 - ここってさ - Jessica uses Ash's spelling - "You know, you don't have to..." - fixed
+- [x] RES#80:16d51 (b050, outside this range) - 色っぽい嬢ちゃん - "sultry little lady" may need D11 softening if the addressee is the hero or a companion; check in that range - Quit your grumblin', pretty little lady. - fixed (addressee is Eve; SOFTENED)
+- [x] 80:169cb - plate 戦士シャルン - normalise to plain "Scharn" if it is a JP slip - waived: JP slip, but the plate is a glossary row; row change in reply
+- [x] RES#81:168db - い、生きてる - stammer on "he", JP stammers on alive - "He is a-alive." - fixed
+- [x] RES#82:1e11a - そちらを調べて下さい - "look into that way" stumbles - "Please search that way, all of you." - fixed
+- [x] RES#82:1fc11 - もちろん冗談だよね? - clumsy - "You're joking, of course, right?" - fixed
+- [x] RES#82:205a4 - そうも言ってられません - "I cannot speak so" stumbles - "...I cannot dwell on that." - fixed
+- [x] RES#82:208f3 - 〜か・・・ - trailing tone lost - "...the 'Palace of Cleansing Fire'..." - fixed
+- [x] RES#82:20aa3 - だったと思う - double hedge - "I think it was this way." - fixed
+- [x] RES#83:9c17 - Scharn ないみたいだね。 calm end - `!` where the JP does not shout - "...keep going, you know." - fixed
+- [x] RES#84:15c32 - Jessica ほら - "See, you can see" repeats - "See that crack in the ceiling, right?" - fixed
+- [x] RES#87:b1c7 - Eve 洒落にならなくなってきた - "starting to stop being funny" is clumsy - "This is getting past a joke, isn't it..." - fixed
+- [x] RES#87:b21e - Dias 限界か - "The limit, then..." is stiff - "So this is the limit..." - fixed
+- [x] RES#89:29038 - Noel それを祀る神殿 - temples do not worship - "along with the temples raised to them" - fixed
+- [x] RES#89:29199 - Eleanor 戻りませんか includes herself - "Will you not return" - "Shall we not return" - fixed
+- [x] RES#89:2950b - Arthur 確か is a hedge - "I am sure" is too firm - "I believe that was the name" - fixed
+- [x] RES#89:29dd5 - Dias 1度地上に戻った方が - "once" is a calque - "return to the surface for now" - fixed
+- [x] RES#90:3d4cd, RES#90:3de3b - Jessica - "huh. // Huh?" echoes across the page break - "right? // Huh?" - fixed
+- [x] RES#91:2b6ad - また沈んじまいそうだった - "sank" is unclear alone - Damn, nearly went and got all down again. - fixed
+- [x] RES#91:2b8a8 - そりゃ当然 - "no duh" is modern slang - and the enemies are gonna get tougher, of course, - fixed
+- [x] RES#91:2bd2a - 死に場所 - "death place" is stiff - For the place where a man so many adored met his end, it is rather bleak, or perhaps lacking in surprise... - fixed
+- [x] RES#91:2c21f - Ash, 守ってくれるのか - "gonna" comes from Pasca's row, and the line matches his RES#91:2c143 - You'd protect us, huh... - fixed
+- [x] RES#91:2c9be, RES#94:186d2, RES#94:19271 - 地獄, 天国 - Hell is capitalised once, hell and heaven are not - pick one case in the polish pass. - waived: game-wide rule holds: doctrinal place capitalised (Heaven and Hell), figurative lowercase
+- [x] RES#93:e651, RES#94:17411 - Arthur's 司祭様, a home priest, not Tiara - plural "the priests" drops the -sama, and "Priest-sama" would point to Tiara - leave unless the controller wants "my priest". - waived: left as the line advises
+- [x] RES#93:f388 - 答を導き出す - "draw" is thin - I am curious what answer that man will arrive at. - fixed
+- [x] Jessica all sections (94:175f0, 94:1b310, 97:1b908, 74:15fa8, 78:29024, 79:3bd55, 89:28eb5, 82:1dce6) - "you know that?" about 25 times a section - keep on digs with a JP marker, drop on plain statements - fixed (game-wide sweep; digs 94:175f0, 97:1b908 kept; 89:28eb5 had no tag)
+- [x] Eve more (94:17666, 97:1c10f, 101:24784, 104:1c723, 106:2c461, 107:22ec4, 76:2b0a7, 79:3b58c, 79:3b7fe, 88:da37, 81:17523) - "dear" - as the Eve line above - fixed (digs 94:17666, 97:1c10f kept; 81:17523 had no tag)
+- [x] RES#94:186d2 - 最低限のマナー - "the least of good manners" is stiff - That is the very least of manners, isn't it? - fixed
+- [x] RES#94:185fc - "Kingdom of God" capitalised once - lowercase - fixed (also 90:404d6)
+- [x] RES#94:1945f - あたりまえじゃん - "Well, duh" is modern slang - Of course! Have I ever lied to you? - fixed
+- [x] RES#94:19e2e/1c3cc, 94:1a09e/1c63b - Dias's martyr speech repeats differently - one version: "friends", "A laughable life." - fixed
+- [x] RES#94:1b4af - Sara, そんな悲しいこと考えてないよね - "thinking something" reads off - "You're not thinking anything so sad, right!" - fixed
+- [x] RES#94:1c023 - Leia, 不器用だな - "clumsy" sounds physical; she means inept at living - "You are hopelessly inept at this..." - fixed
+- [x] RES#94:1cdf9 - Luca - "distortion" vs "warping" in 94:19c9a, 94:1a2b6 - "warping" - fixed
+- [x] Luca all sections (94:1aec5, 95:15ef4, 95:16277, 94:1db8f, 94:1ddb1, 106:2d720) - contractions drift - "I am", "is it not?" - fixed (listed ids plus すみません twins; other contractions not swept, see reply)
+- [x] RES#95:15cc3 - Eve, 肩すかしもいい所ね - tag on an exclamative - "Quite the anticlimax, isn't it?" - fixed
+- [x] RES#94:1dcda, RES#95:16024 - Arthur, 助かったから - "You were saved" sounds rescued by someone - "You made it through, so it's all right, but..." - fixed
+- [x] RES#96:de14 - Dias - House made a duke - "Knights of the House of Durer, one of Asroit's four dukes..." - fixed (no "four": not in the JP)
+- [x] RES#97:1afcc - Pasca, 赤獅子さんもかなり多くなってる - plural joke stumbles - "a whole lot more of them Red Lion-san" - fixed
+- [x] RES#97:1bb0c - Dias, その姿でまだ虚勢を張るのか? - same JP as Leia 1b8c8, different English - "You still bluster, looking like that? You appall me." - fixed
+- [x] RES#97:1ba70 - Noel, 別の意味で尊敬に値するわね - "Honestly" has no JP marker - "You still bluster, looking like that? That's worthy of respect, in a different sense." - fixed
+- [x] RES#97:1bc4e - Knight, 子供だと思って油断 - "merely... mere" echo - "I was merely careless, taking you for children!" - fixed
+- [x] RES#97:1c799 - Knight, ま、まだ言うか!! - stiff - "Y-you dare say it again!!" - fixed
+- [x] RES#97:1d58b - Orpheus, 進んでいるでしょうね - "no doubt" plus "I daresay" double up - "But he, no doubt, is advancing without a care for a few obstacles..." - fixed
+- [x] RES#97:1e395 - Sara なるべく戦いは避けたいな - stiff phrasing - "But I'd really like to not fight if we can." - fixed
+- [x] RES#101:23ea5 - Fatum ナ、ナーダ姉さん - reads as two addresses - "N-Nada, my sister!?" - fixed
+- [x] RES#101:23f89 - Barkail ということになるだろうか - musing turned flat - "If it must be put in words, she would be the being who succeeds Nada..." - fixed
+- [x] RES#101:241e7 - Welkail 全て偽物という表現は - quote marks with no 『』 in the JP - "To say all false is not quite right." - fixed
+- [x] RES#100:2c967 - Fatum たった、だ。 - "Only. Only forty years have passed." - fixed
+- [x] RES#101:23ea5 - two vocatives - "N-Nada... Sister!?" - fixed
+- [x] 100:2c72a, 97:1dcb4, 97:1dd68, 97:1dc20, 97:1de16 - Alexis's rank 副将 varies - pick one term - fixed
+- [x] Arthur (97:1e034, 82:1eb00, 82:1f443, 93:e651) - contractions against his formal row - no contractions - waived: row itself has "that's not right!"; 337 of 758 Arthur lines contract
+- [x] RES#101:2480e - Scharn 記憶があるの? - `!?` where the JP has only `?` - "You've got memories from ten thousand years ago?" - fixed
+- [x] RES#101:254e9 - Fatum 滑稽な世界だな - stilted - "An absurd world." - fixed
+- [x] RES#101:27a91 - Eve unclear - "Since we've been mistaken for saviors anyway, we may as well topple God too, dear." - fixed
+- [x] RES#102:1d3d2 - Jessica ふーん - "Hmph" reads annoyed, the JP is musing - "Hmm.[1].[2].[3] Oh well.[4]" - fixed
+- [x] RES#103:9957 - Ash 1度町にもどって - calque of 1度 - "Let's head back to town for a bit and ask Qumran-san." - fixed
+- [x] RES#104:17463 - Ash おまえ達は一体 - repeat "Who... who" not in the JP - "Who are you people..." - fixed
+- [x] RES#104:17db6 - Phantom 言うはずがないって? - quote marks with no 『』 in the JP - "Would never say such a thing, you say?" - fixed
+- [x] RES#104:1789b - Phantom "pal" is Kadmon's - "But I'm only using you, you know." - fixed
+- [x] RES#104:1806c - Eleanor 一緒に戦ってきた私が - "fought beside them" attaches to strength and kindness - "But [HERO]'s strength, and kindness... no one knows them better than I, who have fought at [HERO]'s side." - fixed
+- [x] RES#104:1873c - Orpheus そりゃまあ、多少は - "I daresay" rests only on the まあ hedge; kept - "Well, to a degree." - fixed
+- [x] RES#104:19079 - Sara もちろん信じてるよ。 calm end - `!` where the JP does not shout - "Of course I believe in you." - fixed
+- [x] RES#104:1be84 - Jessica 信じてるからね - "I'm believing in you" is unnatural - "[HERO], I believe in you, you know that!" - fixed
+- [x] RES#104:1be84 - Jessica stiff - "I believe in you, got it?" - fixed
+- [x] RES#104:1d7ef - Phantom 利用しているだけだけど, no ね - "you know" follows its twin 1d5d4, which has ね - "But I'm only using you." - fixed
+- [x] RES#104:201c4 - Ash そ、そんなこと - "Th-that's not..." adds a negative - "Th-that... [HERO] would never say that!" - fixed
+- [x] RES#104:207f6 - Arthur 構わないさ - "I do not mind" against "I-I don't mind!" in 1aa3e - "I don't mind, if it's [HERO]!!" - fixed
+- [x] RES#104:20548 - Phantom 考えてみたら? is a suggestion, read as the order in its siblings - "Why not think about it calmly?" - fixed
+- [x] RES#106:2ae36 - Scharn 全然違う・・・ trails off - `!` where the JP does not shout - "It's nothing like I imagined..." - fixed
+- [x] RES#106:2b1ed - Scharn どうなっていたか・・・ trails off - `!` where the JP does not shout - "...who knows what would have become of us..." - fixed
+- [x] RES#106:2c2ea - Eve 行ったらわかるわ - "We will know" is stiffer than her row - "We'll know when we get there." - fixed
+- [x] RES#106:2c802 - Dias 聞こえていたのか・・・ - JP trails off - "So you heard..." - fixed
+- [x] RES#106:2c8f3 - 奇跡の書 not in the glossary; 神サマ is "God Almighty" across these batches - consider rows for 'Book of Miracles' and God Almighty - waived: string fine; Book of Miracles row in reply; 神サマ mostly "God", no row
+- [x] RES#107:231cb - Scharn 仲悪いみたいだね。 calm end - `!` where the JP does not shout - "...don't get along, you know." - fixed
+- [x] RES#107:233a7 - Noel 相違があるみたいね - tag does not match "it seems" - "But even they seem to differ in their thinking, don't they." - fixed
+- [x] RES#107:242df - cut character 今のなどまるで - "you were as a heathen devil" is stilted - "And yet just now you were like a heathen devil." - fixed
+- [x] RES#107:24483 - Dias まるで異教の悪魔 - まるで dropped - "And yet what came before was the very image of a heathen devil." - fixed
+- [x] RES#107:256f7 - アザゼルめ under a ~Eleanor label; the words are a Saint's - EN already reads right, check the plate in QA - qa: which plate shows on this line, and whether it is reachable
+- [x] RES#108:230f9 - Jessica 嫌な予感したんだ - "I just knew I had a bad feeling" is clumsy - "I had a bad feeling about this, you know?" - fixed
+- [x] RES#108:242eb - Leia 未熟な人間 - "unfinished person" is odd - "I am a callow person, who could not grasp even my own feelings." - fixed
+- [x] RES#108:24653 - ぼくも・・・そう思う・・・ - "I... I" repeats a word the JP does not - "Me too... I think so..." - fixed
+- [x] RES#108:2545a - あたしもずっと - "too" lands on "me" at the end - "I worried for so long, too, that nobody understood me..." - fixed
+- [x] RES#108:258f8 - 全く伝わらないわけではない - "not wholly unable to reach another" is stiff - "Even so, it is not as if feelings cannot reach another at all." - fixed
+- [x] RES#108:25d25 - Scharn あたしはそうは思わない。 calm end - `!` where the JP does not shout - "That's not how I see it." - fixed
+- [x] RES#108:26817, RES#109:29894 - そうでしょうか - "Is that so..." can read as "oh really" - "Do you think so..." - fixed
+- [x] RES#108:27e41 - Noel 欲しくない。 calm end - `!` where the JP does not shout - "I don't want any 'New World'." - fixed
+- [x] RES#108:29bcd, RES#108:2a260, RES#108:2a4c5, RES#108:2a513 - 真実 has no 『』 - quotes on "truth" are added, though English needs them for "the word" - "what you mean by truth", as Eleanor and Scharn have it - fixed
+- [x] RES#108:2a5d5 - Sara 聖者様達に - "The Saint-samas" then "you'll laugh" shifts person - "You Saint-samas have lived..." - fixed
+- [x] RES#108:2a5d5 - Sara 聖者様達 - odd plural - "The Saints have lived ten thousand years, and we haven't even lived twenty" - fixed
+- [x] RES#108:2aa6e, RES#109:2996d - Sara - "okay" sits oddly after a statement of reason - "at all...", "Because every day is fun!" - fixed
+- [x] RES#108:2b428 - Jessica なんでだよ - "dammit" is stronger than the JP - "Why..." - fixed
+- [x] RES#108:2c2d1, RES#108:2c31e - あの人達のためにも - "for them, for those people's sake" doubles up - "Let's finish this quick for those people's sake..." - fixed
+- [x] RES#109:28851 - Orpheus - "star" added - "here comes our guest of honor at last. The last of the Thirteen Saints." - fixed
+- [x] RES#109:2a29c - Noel まさか - uncontracted, unlike her other lines - "It can't be... This place..." - fixed
+- [x] RES#109:2996d - Sara - double negative - "I don't think it's hopeless at all" - fixed
+- [x] RES#109:2a5ef - 肉体と別れるって・・・えっ - "huh" twice in one line - Parting from the body...? [1]Huh? Wait, is this room... - fixed
+- [x] RES#109:2c17f - 一体何者なの - same JP varies across 2c0a2, 2c17f, 2c320, 2c3f1, 2c490 ("What are you people?" / "..., really?") - pick "What are you people, really?" for all - fixed
+- [x] RES#109:2c0a2, 2c465, 2c490, 107:256f7 - JP says Azazel where other variants say Avadail - check the JP; keep Azazel only if a separate Saint - waived: JP does say アザゼル; glossary row and lint bind it; flagged in reply
+- [x] RES#109:2c490 - 使徒達 "Apostles" - "The Saints we fought before" - fixed
+- [x] RES#111:18af3 - 自分の足で進みませんか - "by our own feet" stumbles - shall we not go on under our own power? - fixed
+- [x] RES#111:19667 - もしかしてあそこで終わりなのかな - "Maybe ... I wonder" doubles the hedge - Could that be the end, I wonder... - fixed
+- [x] RES#111:197c1 - もしかしてあそこで終わりなのかな, ぼんやりと dropped - same doubled hedge, "faintly" missing - doesn't it look like something's glowing faintly over there? // Could that be the end, I wonder... - fixed
+- [x] RES#140:2ef92 - Dias 不安定な構造だ - twin RES#193:d81a (b111) differs, outside this range; align in one direction - "An unstable structure. It must be the work of a truly inept craftsman." - fixed
+- [x] RES#140:2eff4 - Sara 別におかしなところはないと思うけど - twin RES#193:d87a (b111) ends "though..."; align - "I don't think there's anything strange about it, though..." - fixed
+- [x] RES#140:2ee96 - Arthur これといって変わったところはないよ - twin RES#171:26729 (b099) differs in wording; 机 is a table here and a desk there, so only the second sentence can align - "It's just a table. There's nothing unusual about it." - fixed
+- [x] RES#140:2f716 - Caim ただのろうそくですよ - contraction against his "It is merely a door" - "It is merely a candle." - fixed
+- [x] RES#140:304fc - 怒るかな・・・これじゃ。 gift hint - stiff next to its three siblings - "This might just make them angry..." - fixed
+- [x] RES#140:3075c - Pasca 悪いな。 - "Much obliged" is formal for him - "Appreciate it. I'll take it." - fixed
+- [x] RES#140:30b39 - Luca すみません、[HERO]さん - apology reads literally; it is thanks here - "You are too kind, [HERO]-san. Thank you very much." - fixed
+- [x] RES#168:23b7f - Scharn バイレステの旗だよね - "right!" reads oddly, よね is a question - "That's the flag of Baileste, right?" - fixed
+- [x] RES#168:2437d - Eve なんだか安っぽい絨毯ね - "isn't it" does not follow an exclamation - "A cheap-looking carpet, isn't it." - fixed
+- [x] RES#168:244b6 - Eleanor 提督の執務机 - JP says admiral, a slip for 総督 (also RES#168:248e0); no change suggested - keep "governor's" - waived: JP slip, governor's stands
+- [x] RES#168:24c8c - Caim ただの戸棚ですよ - same - "It is merely a cupboard." - fixed
+- [x] RES#168:2450b - Scharn 使ってたんだよね、この机 - same - "The most important person in this town used this desk, right?" - fixed
+- [x] RES#168:25ad6 - Scharn 転送器だよね - same - "It's a Transporter, right?" - fixed
+- [x] RES#171:2551c - Caim ただのテーブルですよ - same - "It is merely a table." - fixed
+- [x] RES#171:25326 - Eve ちょっと寂しいわね - slightly awkward - "A bit sad for something called a chandelier, isn't it." - fixed
+- [x] RES#171:24b51 - Noel アルメニア産 - JP names Armenia, taken as a slip for ルミニア as in Dias's RES#171:24b37; no change suggested - keep "Luminia" - waived: JP slip, Luminia stands
+- [x] RES#171:254ec - Scharn オイゲンさんって斧で野菜を - the JP is cut off and "must" is inferred; kept - "So does Eugen-san chop his vegetables with an axe...?" - fixed
+- [x] RES#171:254ec - Scharn cut off mid-sentence, EN invents a joke - "Eugen-san probably just uses an axe for the vegetables..." - waived: settled by the line above
+- [x] RES#171:268e3 - Leia あの男の紋章 - "the man's" loses the pointing - "Could that be that man's crest...?" - fixed
+- [x] RES#171:26a52 - Sara オイゲンさんが...なんだって - hearsay rendered "he says", her other なんだって are "They say"; "grand" is a big word for her - "They say it's the flag of the ship from when Eugen-san was a captain. Doesn't it look nice?" - fixed
+- [x] RES#171:27d8b - Jessica 見たらわかるじゃん - "by looking" is stiff - "Just a staircase. You can tell just by looking, geez." - fixed
+- [x] RES#171:2782e - Eve 雑巾であなたの顔を - "dear" rests on the あなた, already spent on "your"; kept - "So, am I supposed to wipe your face with this rag?" - waived: あなた licenses "dear", it is in her row
+- [x] RES#178:29941 - Orpheus いいなあ - "I daresay" rests only on the なあ; kept - "A goddess, is it... I prefer mine in the flesh." - fixed
+- [x] RES#178:295ed - Scharn クムランさんには珍しく - "For Qumran-san, he's sure" is clumsy - "Are those research tools? They're kept so neat, which isn't like Qumran-san!" - fixed
+- [x] RES#178:2a2ac - Noel 壊すと大変だから - says "if you break it", softened; same in twin 2a4da - "It'd be a disaster if you broke it." - fixed
+- [x] RES#178:2b0e1 - Dias 貴様には意味のない代物だな - cold insult lost - "Nothing in it for the likes of you." - fixed
+- [x] RES#178:29556, RES#181:2147b, RES#183:26ef6 - hero narration flips "It is"/"It's" - "It's" - fixed
+- [x] RES#178:2c8bf - Krasdar book インディゴス - "The Indigos that now adorn ... was" mixes number - "The Indigos, which now adorn ..., were originally gods handed down in Krasdar" or keep one god: "The Indigos that now adorns ..." - fixed
+- [x] RES#178:2c470 - Biastok book 3種の武器 - same stock "3 kinds of weapon" as "6 kinds of weapon" in 2c8bf; "kinds of weapons" reads smoother - "3 kinds of weapons" - fixed
+- [x] RES#178:2d891 - あっけなく解決 - "abruptly" says sudden, JP says easily, an anticlimax - settled with anticlimactic ease through diplomatic negotiation - fixed
+- [x] RES#178:2e5f0 - 種と仕掛けのある装置 riffs on the conjurer's 種も仕掛けもない - joke only half lands, "apparatus with a trick to them" stumbles - "devices with tricks up their sleeves" - fixed
+- [x] RES#178:2f366 - 緑の無い砂漠地帯 - "green-less" awkward - a desert without a trace of green, strewn with rough rock - fixed
+- [x] RES#178:2f089 - 不老不死をもたらす - "eternal youth and life" against "ageless and undying" for the same word later in the line and in 2fd69 - which makes one ageless and undying - fixed
+- [x] RES#178:3005b - Lanz book 本来 - "rightly" implies legitimacy - "originally territory of..." - fixed
+- [x] RES#178:30822 - 異教徒 - "heathen" while the glossary's 異教徒審問会 is "heretic inquisition" - keep one word if the tribunal lines meet that term; suggested "heretic revolts" - waived: tribunal here is 神聖裁判, 異教徒 is heathen elsewhere
+- [x] RES#178:31e72 - 客観的な資料になるとは思えない - "I cannot think they make objective sources" stiff - I doubt they can serve as objective sources - fixed
+- [x] RES#181:211ab - Noel 金敷 - quote marks added with no 『』 in the JP - "Some countries call it a smith's block." - fixed
+- [x] RES#183:26baa - Leia 一体奴等が何をしてくれる - "done" leaves out the "for us" of してくれる - "What would they ever do for us..." - fixed
+- [x] RES#188:27a56 - cut character 培養器 - "you make... and it raises them for you" shifts the agent - "It raises creatures too small to see by making the right surroundings for them." - fixed
+- [x] RES#188:27c75 - Ash 暖かい地方の草なのかな - "Maybe" and "I guess" double up - "They're from somewhere warm, I guess." - fixed
+- [x] RES#188:27eac - Luca 大丈夫なんでしょうか - "Is it all right" is vague next to poison - "Is this safe..." - fixed
+- [x] RES#188:299f2 - Tradoa 熱しやすい国民性 - means easily fired up, not angered - "their excitable national character" - fixed
+- [x] RES#214:101f7 - ・・・喜ぶわけがないよな - after "Will [VAR15] like it...?" the sense is that person, not everyone - "...Of course they wouldn't like it." - fixed
+- [x] RES#214:fd6e-ff5c - debug statue lines - speaker ladder shifted; debug only, waive unless trivial - waived: debug only
+- [x] RES#217:2111e - Scharn 入れないよ。 calm end - `!` where the JP does not shout - "You can only get in here on the day of the full moon." - fixed
+- [x] RES#217:21b20 - Jessica 情報 - "info" is modern beside the town's speech; twin in Pasca 21b73 - "some other news" - fixed
+- [x] RES#217:2239d - Noel 役に立ったのね, same English as Luca 223cc - no speaker audible - Luca: "So the 'Sun Jewel' has finally proved useful..." - fixed
+- [x] RES#230:22964 - Ash おまえのこと大好きだよ - softer than "I love you" for 大好きだよ in 22827; the middle-affection reading may be intended, compare the other companions' endings in QA - "I really like you so much..." - fixed
+- [x] RES#230:22964 - Ash 大好きだよ - weak beside his top tier - "I really, really like you..." - fixed
+- [x] RES#230:22d19 - Arthur これじゃ何も分からない - "anything like this" can read as "anything similar" - "Like this, I can't make out anything..." - fixed
+- [x] RES#230:23356 - Leia 奴は - "that one" is a little stiff, though neutral on gender - "Did [HERO] manage to escape being caught in this..." - waived: extra [HERO] fails variable check; "that one" suits her
+- [x] RES#230:24161 - Eleanor あなたが好きです - the next line calls it a confession - "I love you. I love you with all my heart..." - waived: already a confession, keeps 好き to 愛して climb
+- [x] RES#230:26003, RES#230:2639e, RES#230:26731 - 欲求不満 - "frustrated" leaves the sexual sense to context, so the joke is softer - Jessica: "You really that hard up?" - waived: D11, stays softened
+- [x] RES#230:26d93 - Noel 何恥ずかしいこと大声で言ってるのよ - close to JP clause order - "Why are you shouting such embarrassing things? Are you an idiot?" - fixed
+- [x] RES#230:27445 - Luca 確かに dropped - "Indeed, if one stayed here forever, perhaps no one would think of themselves and others as separate anymore..." - fixed
+- [x] RES#230:25df8 - Scharn 面白いくらいにね - garbled - "Yep, so clear it's funny!" - fixed
+- [x] RES#230:26dff - Noel - stiff - "It couldn't have been clearer." - fixed
+- [x] RES#230:26ab4 and its "Indeed, ..." run - Noel - off voice - "Yeah, stay here forever and..." - fixed
+- [x] RES#230:28495, RES#230:2862f - Scharn あなたと兄さんを重ねて見てた - "saw you and my brother as one" is stiff - "At first, maybe I saw my brother in you..." - fixed
+- [x] RES#230:28495, RES#230:28768 - Scharn - `!` on a quiet farewell where the JP has none; her row allows it, the moment may not - "let's go on lots of dates. It's a promise...", "You're the best friend ever, you know." - fixed
+- [x] RES#230:2976e - Orpheus 巻き込まれちゃった - "swept up" where every other speaker and his next line have "caught up" - "So I have been caught up in the birth and death of this world, have I..." - fixed
+- [x] RES#230:2a7f1 - Eve 可愛いだけの頭の悪い女 - "who was only cute" is clumsy - "At first I took you for a stupid woman with nothing but a cute face, but my interest grew with time." - fixed
+- [x] RES#230:2ab16 - Dias 1つになろうとしているのか, musing question flattened to a statement - "Are this world and we ourselves becoming one as well..." - fixed
+- [x] RES#230:2b50d - Noel 劣等感に苦しんでいた, "my own inferiority" states she is inferior - "I was tormented by feeling inferior, and you gave me confidence..." - fixed
+- [x] RES#230:2c354 - Sara すんだみたいだよ, hedge dropped - "I'm so glad... looks like [VAR13]-san got away without being swept up in this..." - fixed
+- [x] RES#230:2c630 - Sara 励まされた, "I could cheer up" is stiff - "...with you by my side, [HERO]-san, it cheered me up..." - fixed
+- [x] RES#231:37e17 - Eugen 桁違いだ, "ain't even close" is vague - "the scale and the cruelty now are a whole other thing." - fixed
+- [x] RES#231:381be - Fatum 奴は・・・バルデスは, "That one" not needed for a named man - "He... Valdes... was he not that kind of man?" - fixed
+- [x] RES#231:383bc - Fatum 1つに戻る, "return to one" is a calque - "...and my flesh could become one again." - fixed
+- [x] RES#231:3854a - Eugen - odd - "You've waited a whole year for [HERO] to come home" - fixed
+- [x] RES#231:383bc - Fatum かりそめの魂 - "borrowed" implies a lender - "the makeshift soul, as they call it" - fixed
+- [x] RES#231:39349, 391cc, 392ab, 396ef, 39a5f - あいつ - "that one" repeated, stiff for rough speakers - "that idiot" or "they" in some repeats - fixed
+- [x] RES#231:396ef, 3986e - Jessica - ungrammatical - "gets lonely more easily than you'd think" - fixed
+- [x] RES#231:3b851 - Ash 本当にいいやつだよ, "friend" added - "kind of childish sometimes, but a really good guy." - fixed
+- [x] RES#231:3bab3 - Nada 早く戻られるといいですね, "that return" is awkward - "I do hope [HERO]-san returns soon." - fixed
+- [x] RES#231:3c59f, 3e976 - Nada 思いっきり聞かせてあげましょう, "to the fullest" stumbles and the listener is lost - "When [HERO]-san returns, make [HERO]-san hear a whole year's worth of your complaints." - fixed
+- [x] RES#231:3c274, 3c786 - Arthur 同じ時間を共有したい, calque - "That is why I wanted to go on sharing my days with..." (needs [HERO] or a gendered pronoun per variant) - fixed
+- [x] RES#231:3d686, 3daf4 - Eleanor 心配してくれていた, awkward passive - "Full of faults as I am, [HERO] worried for me, not merely in words, but from the bottom of the heart..." - fixed
+- [x] RES#231:3e22d, 3e735 - Pasca 弱気になった自分自身, "gone soft" dangles - "I was also telling it to myself, 'cause I'd gone soft." - fixed
+- [x] RES#231:3ebe2 - Scharn あーあ, a sigh, "Aww" reads as cute - "Haah..." - fixed
+- [x] RES#231:3e05e - Pasca 可愛げのねえ奴, "jerk" reads modern - "a charmless louse like that" - fixed
+- [x] RES#231:409c3 - お前のことが1番好きだ、お前しか見えないって口説き台詞 - quote marks added, JP has no 『』 - Far more real than any pick-up line about loving me best and seeing only me, and warmer... - fixed
+- [x] RES#231:40087 - Orpheus 義姉さん - bare "Sister" - "Sister-in-law" at least once - waived: address is "Sister" in all of RES#1953; Nada's cue says sister-in-law
+- [x] RES#231:41bde - 帰ってくる・・・よね・・・ - no subject, reads as a fragment - You're coming back... right... - fixed
+- [x] RES#231:43212 - とってもとっても素敵な人 - "such a really, really" stumbles; twin 43646 too - Yeah, a really, really wonderful person. - fixed
+- [x] RES#231:43212, 43646 - Sara はやくナーダさんにも紹介したい - reads as if Nada is introduced - "I can't wait to introduce [HERO]-san to you, Nada-san." - fixed
+- [x] RES#239:2ff97 - ハウゼンのバカ殿 - バカ殿 is "fool lord", not name + -dono - That fool lord of Hausen sent a messenger, boss, saying to surrender right quick... - fixed
+- [x] RES#239:2fdce - 聞いたんだけどさ、// オレ達 - comma splice across the page break - Oh yeah, when I went to Kren village the other day, I heard something: // the lord around here calls us the 'Devils of the Forest'. - fixed
+- [x] RES#239:30cf0 - 男としては魅力ねえのかもしれねえけど - clause reads awkwardly - Longing for a homey, plain dream like this... maybe that don't make me much of a man, but - fixed
+- [x] RES#238:58118 - 恐ろしいほど評判通りだな - "scary close to" stumbles - Still, you two are every bit your reputation. It's downright scary. - fixed
+- [x] RES#238:57e0d - Eleanor 組織の中に身を置くのが嫌い - "We dislike" muddles the reply - "I dislike being part of an organization" - waived: asked of both; next line splits [HERO] from her, needs "We"
+- [x] RES#241:43e30, 45948 - Boss B - "cute little missy" can read as the child - "that cute young lady's gonna get creamed" - fixed
+- [x] RES#241:45685 - 言い寄ってこない - "hitting on" is modern slang against the style reference - no good-looking guys ever come near us - fixed
+- [x] RES#241:457b8 - 根本的な欠陥 - "the basic defect" is flat, the joke is the mock-learned word - I reckon the real, fundamental defect's in you, Boss - fixed
+- [x] RES#243:43220 - 当然「覚えてろよ!」なのかしら - "of course, I suppose" doubles the hedge - the words that come out when you lose would naturally be "You'll pay for this!", I suppose - fixed
+- [x] RES#243:43220 - Eve - two hedges - drop "of course" - fixed
+- [x] RES#243:43717 - 有名になったわね、あなたも - uncontracted, stiff for Eve, and あなたも lost - Well now, you've gotten famous too, haven't you. - fixed
+- [x] RES#244:432a8 - 不幸な死がお前を待っているだろう - だろう dropped - An unhappy death will likely await you. - fixed
+- [x] RES#244:42d08 - Dias ただのお尋ね者ではない - "Nor as a mere outlaw" wrong - "Not as a mere outlaw." - fixed
+- [x] RES#247:4376d - さわやかな笑顔 - "fresh smile" is a calque - That easy smile nearly had me fooled. - fixed
+- [x] RES#247:4362e - 手加減したのにって言ってたがな - "claimed to have held back, at that" stiff for this speaker - Mind you, [HERO]-sama said that was holdin' back. - fixed
+- [x] RES#247:44e10 - 危ねえ危ねえ - "That was close, that was close" literal repeat - Close one, close one. - fixed
+- [x] RES#300:8509 - ルカの分も - "for Luca's sake" is off, he means in Luca's stead - I've gotta work hard in Luca's place too, huh... - fixed
+- [x] RES#300:8a95 - Pasca - tag mixes forms - "ain't been found in decades, ain't it" - waived: "ain't been... has it" is correct; proposal worse
+- [x] RES#302:814f - キズばっか: the cuts on Ash's hands, 8179 follows - "That's nothin' but scratches" unclear what is scratched - Your hands are nothin' but cuts! - fixed
+- [x] RES#302:8690 - はやく助けてあげなきゃな - "hurry and help" has no object - We've gotta hurry and help them. - fixed
+- [x] RES#304:82f4 - 僕に何か? - "want something with me" stiff - ...Did you want something from me? - fixed
+- [x] RES#304:89fe - 魔物達を僕が退治してやる, also 8b50, 8dd8, 937c - 僕が is lost, and Pasca's scolding leans on the boast - ...and slay with my own hand the monsters that have long tormented them. - fixed
+- [x] RES#305:838a - ふうん; 鋭さとか豪華さとかとは違う輝き - "Wow" overshoots ふうん, and "It's not sharp" can read as a dull sword - Hmm, what a pretty sword! // ...It isn't a sharp or gaudy gleam, more of a reassuring kind of shine, you know! - fixed
+- [x] RES#305:8cbc - 立派な騎士になれる - "can become" flat, praise wanted - You will make a fine knight. - fixed
+- [x] RES#308:9698 - Scharn そんなに偉くないけど - "I'm not so great that I can tell" is clumsy - "I'm nobody to tell people how to live or think, but // it hurts just watching you!" - fixed
+- [x] RES#315:8829, RES#315:8895 - Eleanor 胸が苦しくなります - "my chest ache" is literal - "makes my heart ache..." - fixed
+- [x] RES#315:8e3f - Eleanor あの方 - "That man" loses her respect - "That gentleman taught us what true strength is..." - fixed
+- [x] RES#317:8b46, RES#317:8c17, RES#318:81c0 - Pasca あいつ - "that fool" adds an insult in a grief beat; kept because the referent is unclear (see Unresolved) and it stays gender-neutral - if the referent is settled: "So he's really gone now..." or "she" - fixed
+- [x] RES#317:8123 - Pasca お前らも - "You lot" where he says "you guys" elsewhere - "You guys watch yourselves out there too." - fixed
+- [x] 317:8b46, 317:8c17, 318:81c0 - Pasca on Rebecca あいつ - "that fool" adds an insult - "She's really gone now, huh...", "I knew she was strugglin' with somethin'...", "Gotta do her share too..." - fixed
+- [x] RES#317:a3cf - Pasca 人のものを何だと思ってるんだ - close to the JP clause - "Whaddaya take other people's stuff for?" - fixed
+- [x] RES#318:7fab - Pasca よっ、[HERO] - no period, unlike RES#317:8e27 "Yo, [HERO]." - "Yo, [HERO]." - fixed
+- [x] RES#319:87d3 - Pasca 格好よすぎるぜ - "way too cool" is a little modern for the setting - "Damn, too much of a man, that old guy..." - fixed
+- [x] RES#321:8e52 - Rebecca 喧嘩できない - "fight" can read as combat; she means squabbling - "It's so lonely, having no one to bicker with..." - fixed
+- [x] RES#323:9e53 - Scharn 人を馬鹿にして - 人 here means the speaker - "You're making a fool of me! You I can never forgive!!" - fixed
+- [x] RES#324:7fb7, RES#324:81aa - Scharn これって、嫌がらせ? - "your idea of harassment" is a calque of "your idea of a joke" - "Are you trying to annoy me?" - fixed
+- [x] RES#327:93a9 - Arthur 君には関係ない - "no say" shifts the sense - "Y-you have nothing to do with this!" - fixed
+- [x] RES#327:9a3d - メネス - "Menes" is not in the glossary and occurs once - add it or confirm the spelling - waived: matches glossary メネス朝 Menes dynasty
+- [x] RES#327:c0da - Eve 下心ミエミエね ... わよ - two tags in one line - "Your motives couldn't be plainer. Being with you is far more dangerous, you know." - fixed
+- [x] RES#327:c683 - Orpheus その格好で, 恥じらい - implies a revealing outfit, though nothing explicit; left as is, while RES#328:91b1 softens the same setup - "You walked here at this hour? Your courage is truly splendid, but a little caution also makes a girl look lovely, you know." - fixed
+- [x] RES#327:cbac - Orpheus 何もなかったような顔 - "wear a face" is stiff - "You look as if nothing had happened..." - fixed
+- [x] RES#328:a4f0 - Orpheus 夜は若い2人のため - "the young, the two of us" stumbles - "The night belongs to two young people like us." - fixed
+- [x] RES#331:854b - Jessica 行ってあげても - "come along for you" is odd - "All right, I'll come along, if you want." - fixed
+- [x] 331:8fb5, 331:9233 - "[1].[2].[3]" pause codes - check they don't show in-game - qa: "treasure..." dots pace out, no stray code on screen
+- [x] RES#331:a01d - Jessica 血も涙もない - idiom left literal - "Cold-blooded, that's you all over." - fixed
+- [x] RES#335:a3b4 - その目が1番うさん臭いんだけど。 - `!` where the JP does not shout - Those eyes are the fishiest thing about you, though. - fixed
+- [x] RES#335:a496 - どんな仲なのよ! - "And" opener reads stiff for Scharn - Been what to each other!? - fixed
+- [x] RES#335:c51d - 夜中に男同士で逢い引き - "tryst" is romantic, not sexual; left under D11, borderline - A midnight meeting between two men? - fixed
+- [x] 335:a829, 327:a673 - Orpheus to Jessica, softened under D11 - "your modest purse" is nonsense and the same speech differs - one wording, "a modesty so unlike your temperament" or the 327 version - fixed
+- [x] RES#335:d0d1 - じ、冗談じゃねえぞ - Pasca's voice thin - D-don't you joke about that! - fixed
+- [x] RES#335:d0d1 - 誘わない / ではまた。 - choice text merged into one dlg entry (cut Rebecca scene), so "Do not invite." reads as speech; extraction shape, wording kept - no change until the entry's use is known - waived: cut-scene extraction shape, wording kept
+- [x] RES#336:9349 - まあ、いいでしょう。 - "Well, very well" stumbles - You are a curious one...[1] Well, so be it. - fixed
+- [x] RES#339:89ee - 用がなかったら来ちゃダメなのか、なんて訊かないでね - clumsy clause - And don't ask me if you can't come without a reason. - fixed
+- [x] RES#340:9c6f - 面倒なこと嫌いだから - "I dislike bother" stilted; twin 9cf1 too - I dislike a bother. - fixed
+- [x] RES#343:86b3 - 下らんな - "trifling" a little off for 下らん - A victim of faith... Worthless... - fixed
+- [x] RES#343:a085 - くだらんな - "Worthless" can read as calling the hero worthless - How trivial... - fixed
+- [x] RES#347:7d6a - 頭の中を疑うわ - calque - I have to wonder what's in that head of yours. - fixed
+- [x] RES#347:80e0 - こんなに遅いのに - stumbles alone - And it's so late... - fixed
+- [x] 344:82fa - Orpheus on Dias - "Better that than a closet skirt-chaser." - fixed
+- [x] RES#348:a631 - 先に進まなきゃ駄目だって事くらい - clunky apposition - I know. I know that much: we have to move forward. - fixed
+- [x] RES#348:a6fb - 自信ない - two "while" in one sentence - I trust my logic and my knowledge, but I have no confidence in persuading someone while respecting their feelings. - fixed
+- [x] 348:898f - Pasca 色男 "lover boy" - fine only if the branch is male-hero-only; check - fixed
+- [x] RES#351:9386 - うわぁぁぁぁ!! - reads as crying more than a scream - Aaaaagh!! - fixed
+- [x] RES#351:84d5, 854f - joined line and choice fragments - check in-game - qa: whether these joined cut-Maleficus entries ever display, and how
+- [x] RES#352:9074 - Stella Mira 3人みたいに - points at the wrong group - "people like those three who refuse what they don't want" - waived: bare 3人 addresses the party of three
+- [x] RES#353:98cc - 素直なヤツ - "honest" misses the gullible sense the tease rests on - But I love trusting types like that. - fixed
+- [x] RES#354:855e - 他の方との約束があるので - calque - I-I'm very sorry, I have promised someone else... - fixed
+- [x] RES#354:8ff9 - やっぱり・・・いまは - "After all" stumbles - U-um... I really... not right now... - fixed
+- [x] RES#358:901b - 今度は[HERO]さんも手伝ってね - "You'll help this time too" can read as "again" - "This time you can help too, okay, [HERO]-san?" - fixed
+- [x] RES#358:8823 - [HERO]もやっぱり - "Even you" adds a slight the JP lacks - "Hey, [HERO]. You'd go for a homey girl like Sara too, right?" - fixed
+- [x] RES#361:9654 - 全然気にしてねえよ - "Don't mind it one bit." can read as an order - "I don't mind one bit." - fixed
+- [x] RES#362:14eba - たのまれてるもんな - "asked us to, too," stumbles - "Valdes-san asked us to as well, y'know." - fixed
+- [x] RES#364:e34f - 目覚めで気分悪かったかな - "Did I wake you in a bad mood?" is ambiguous - "Did you wake up feeling bad? Sorry, [HERO]." - fixed
+- [x] RES#364:cdf8 - 自分の部屋に誘っておいて先に寝るの? (Eve) - left literal: a tease about a poor host, no sexual wording; check against D11 if a stricter line is wanted - "You call me to your room and then doze off first? Now I see why no one's after you." - fixed
+- [x] RES#364:eaac - なんてね - "or something like that" is flat for Eve's tease - "Thought I'd do the asking for once. Just a thought." - fixed
+- [x] RES#364:f1d1 - サンタ・ツリエル修道院 - "Turiel" sits beside the glossary's ツリアル Zurial; one occurrence, not in the glossary - "Santa Zuriel Monastery" if the controller wants the family to match - waived: glossary row now says Santa Turiel Monastery
+- [x] RES#364:fa2b - Leia 呆れさせてくれる - reads as admiration - "You exasperate me..." - fixed
+- [x] RES#364:f2fd, RES#571:ddb9, RES#353:8ea3 - Luca refrain, same JP, EN varies - one form, "But if it gets dangerous, let us come back right away." - fixed
+- [x] RES#364:1001e, 10091 - 挨拶 "pay your respects" sounds funerary - "say goodbye" - fixed
+- [x] RES#555:f35f - 入り口『光の門』 - JP says 門 once, EN keeps 'Door of Light' to match 光の扉; looks like the same thing, leave unless a later scene splits them - none - waived: glossary row 光の門 Door of Light
+- [x] RES#558:a9c3 - 絶対に手を抜いちゃう - "totally" is modern - Me, I'd slack off for sure. - fixed
+- [x] RES#559:c0f8 - 柄にもなく教会に足を運んでる - "unlike me as it is" stumbles - That's why even I drag myself to church, ain't like me at all. - fixed
+- [x] RES#559:c2b6 - ちょっと待っててくれ - "please" is stiff for くれ - All right, just wait a moment. - fixed
+- [x] RES#561:b747 - この世は一体どうなっちまうんだ - "in the world ... this world" - What the hell's gonna become of this world? - fixed
+- [x] RES#561:b977 - こんな体になってからは特に強くなった - "Got stronger" can read as the man, not the longing - Longed for it all the more after I ended up like this. - fixed
+- [x] RES#563:a490 - 壊れちゃいましたね - tag question ending in a period reads odd - The stairs have broken, it seems. - fixed
+- [x] RES#561:bc02 - wounded man 勝てよ - "You win, now..." weak - "Win, you hear?" - fixed
+- [x] RES#564:b3f6 - 俺達の分も - "for our share too" is a calque - Give it your all, for our sake too. - fixed
+- [x] RES#564:b90f - カッセル - place not in glossary, Kassel used once in these batches - add row: カッセル Kassel - waived: row already in glossary
+- [x] RES#565:b0aa - 絶対に勝てるって自信はなくなってきた - "lose my confidence I can always win" is clumsy - I'm startin' to doubt I can always win - fixed
+- [x] RES#566:c60e - [HERO]の旦那ぁ - drawn-out toadying ぁ lost - Mi-ister [HERO], where to today? - fixed
+- [x] RES#566:c777 - こ、こんなガキに - fragment stumbles; also RES#567:b1f3 - B-beaten by a brat like this...!! - fixed
+- [x] RES#568:c1cf - なんだか可哀想だよなぁ - "pitiful" leans contemptuous; JP is sympathy; readable, so left - That Undying bastard... kinda makes ya feel sorry for him, don't it... - fixed
+- [x] RES#571:d66e - さっきのおっさん - "that mister" stretches the address-only glossary sense; also d772, e819, e900, f01a - that old guy back there / the old guy at the tavern - fixed
+- [x] RES#571:dafd - Orpheus なぁんて - gag blurred - "Just kidding. I've no intention of wallowing in sentiment. Let us be done with it and return to town, shall we." - fixed
+- [x] RES#571:f474 - どうでもいいけど - "Whatever" reads dismissive; JP is a mild aside - Not my business, but you're way too tense. - fixed
+- [x] RES#571:f4de - よくそんなので - clause reads awkwardly - How'd ya ever make up your mind to come to this town like that? - fixed
+- [x] RES#571:ed38 - 3人の力を合わせて - "put the three of us together" is clumsy - let's combine our strength, the three of us, and find that Orb quickly!! - fixed
+- [x] RES#571:10989 - おう、奴から聞いたんだな - おう lost against twin 10927 - Ah, so he told ya, eh. - fixed
+- [x] RES#571:104f7 - Eugen - "Geez" is Jessica's tic - "Hmph, what a sorry excuse for a fella." - fixed
+- [x] RES#571:13098 - こりゃ将来が楽しみだな - 将来 (their future) is lost - Oho! You got it already!? You lot have got a future, I'll say that. - fixed
+- [x] RES#571:12bcc, 139bc - Eugen - inversion not his voice - "Damn impressive. Really." - fixed
+- [x] RES#625:14ec7 - それこそ誤解でございます - "That is the very misunderstanding" reads stiffly even for fake piety - Now that, I assure you, is a misunderstanding. - fixed
+- [x] RES#625:167fb - わ、わたし・・・ですか? - "sir" has no JP word, though polite register allows it - Oh... M-me? - fixed
+- [x] RES#626:e828 - 何が誇りだ - letter and Eve give 誇り as "honor"; Leia has "pride" - With no regard for his own limits, what honor can there be... - fixed
+- [x] RES#626:d2ac - Pasca - opaque out of context - check against the scene - fixed
+- [x] RES#706:d983 - 煉獄の上の方で - "up in the upper part" repeats itself; twin d9e9 too - Thing is, I found some big round fruit up near the top of Purgatory. - fixed
+- [x] RES#626:ec97 - 俺からも礼を言う - "I'm sayin' it too" is thin - Thanks for what you did. That's from me, too. - fixed
+- [x] RES#706:e3e2 - Pasca, 一緒に行こうぜ - flat opener - "Come on along, [HERO]." - fixed
+- [x] RES#706:e9cb - Scharn, 逃げたことあったよね - "remember!" misreads the tag - "...and ran off, remember?" - fixed
+- [x] RES#706:ef08 - Jessica, やさしいでしょ - "sweet" drifts from Sara's "kind" and can read as "cool" - "I'm pretty kind, huh?" - fixed
+- [x] RES#706:ef3d - Jessica, ひょっとして疑ってる? - stiff for her - "Wait, you doubt me?" - fixed
+- [x] RES#706:118ae - Noel, 10日前依頼された場所 - "asked about ten days ago" can read as "roughly ten days" - "that place the woman priest asked us to search ten days ago" - fixed
+- [x] RES#706:108f2, 124c0, 12c49, 13308, 11996 - そ、そう - "so you're going" reads as hero alone - "I-I see... Yeah, let's go, then." - fixed
+- [x] RES#706:123d7, 12b70 - 10日くらい前に頼まれた場所 - "asked us about ten days or so" garden-paths - "that place the Sister asked us to search, ten days or so back" - fixed
+- [x] RES#706:14586 - Jessica, 日頃の行いがいい - "such a good person every day" awkward - "Must be because I'm so good all the time..." - fixed
+- [x] RES#708:13c28 - Angle, 教会じゃなかったかな - "But was not our meeting place the Church?" stilted past pomposity - "But surely our meeting place was the Church, was it not?" - fixed
+- [x] RES#707:13e63 - ビセラの実 - new term, used once as "Visera fruit"; not in the glossary - add row ビセラの実 Visera fruit - waived: English already right; glossary row in reply
+- [x] RES#764:15e16 - Orpheus, ではお先に - "Then, I shall go first." a little stiff - "Then I shall go on ahead." - fixed
+- [x] RES#791:85f1, 8691 - キザな奴 - "show-off" misses affected cool; the line is about claiming not to help comrades - "a bit of a poser" - fixed
+- [x] RES#792:1448e - そのつもりよ - past tense can imply the plan has lapsed - I fully intend to. - fixed
+- [x] RES#792:15648 - 大体のことは分かりました - "the general matter" is stiff - I understand the greater part of it. I would be glad to go. - fixed
+- [x] RES#792:1568f - ま、とにかくそこに行けってことね - two voice tags, brief allows one - Well. We're to go there, I suppose. - fixed
+- [x] RES#792:1448e - Noel そのつもりよ - flat, past tense - "That is my intention." - waived: same line, "I fully intend to." taken above
+- [x] RES#873:940a - これ以上の魔物を出現させないようにする事じゃないのか - "Isn't what we must do now to keep" stumbles; same sentence in RES#873:95c6 and RES#873:9853 - Shouldn't we be keeping any more monsters from appearing? - fixed
+- [x] RES#873:a127 - みんな・・・そうなのか・・・? - "that's how it is...?" reads as unfinished - Everybody... that how you all feel...? - fixed
+- [x] RES#873:a789 - どうしてこんな事ばかり続くの - "keep being things like this" is clumsy - Why does it have to be one thing after another... - fixed
+- [x] RES#955:14d79 - 頼りないですけど、敵にするともっと頼りない - "unreliable" dulls the joke, the point is he is feeble - Luca-san makes a feeble ally, but a feebler enemy still. - fixed
+- [x] RES#955:14f07 - いえ、待てば待つほど - "Oh, no." can read as dismay - Not quite. The longer we wait, the likelier someone dies. - fixed
+- [x] RES#955:15483 - Dias 意志の純度 - hard to parse - "Their will is not as pure as his." - fixed
+- [x] RES#955:14ec5 - Eve - tag grammar - "But fretting here won't change a thing either, will it?" - fixed
+- [x] RES#1042:7f95 - よっ、確か[HERO]って - "Yo" is modern - Hey, it's [HERO], right? - fixed
+- [x] RES#1042:7ff2 - えーと、確か - "I believe" is formal for Pasca - Uh, lemme think, pretty sure the only room left's the one just to the left here... - fixed
+- [x] RES#1042:8b51 - 聞いてから判断しても遅くはなかろう - JP clause order - It will not be too late to decide after hearing him, surely. - fixed
+- [x] RES#1048:15e7e - なんでこう、みんな親切なんだ - "damn" has no direct JP marker, though Pasca's row lists it - How come everyone's so nice around here? - fixed
+- [x] RES#1169:d828 - "Kars mountains" - "Kars Mountains" - fixed
+- [x] RES#1169:fef3 - Eugen あの坊主 - loses the monk - "That young monk, and Valdes too, chose their own deaths." - fixed
+- [x] RES#1169:10872 - 背中を押してくれた友人や女房 - "the friend and the wife" reads as one friend and stiff - If not for the friends and the wife who gave me a push then, I'd never have met you lot or Valdes. - fixed
+- [x] RES#1169:10872 - せっかく知り合った奴だからこそ大事に - closing thought is awkward - In a world this big, when you've gone and met someone, maybe that's all the more reason to take good care of 'em. - fixed
+- [x] RES#1172:10d79 - Eugen バルデスほどじゃねえ - muddled - "Though not as unlucky as Valdes." - fixed
+- [x] RES#1173:12fdc - 酒の味もわからねえガキ - "taste their liquor" reads as unable to taste at all - Brats who can't even tell good liquor from bad don't belong here! - fixed
+- [x] RES#1173:1312c - ティアラちゃんに負けてねえ (no worse than Tiara) - "got nothin' on you" ranks her above Tiara - What a cute little miss... You give Tiara-chan a run for her money. - fixed
+- [x] RES#1173:13244 - この旦那は真面目に商売する気なんてさらさらねえ - "This mister here" and "slightest mind" are stiff - Come back later. Mister here ain't got the least intention of doin' honest business. - fixed
+- [x] RES#1173:14b2d - 結婚して1ヶ月で嫁さんに負けた - "my wife beat me" can read as physical - One month after the weddin', my wife had me beat. - fixed
+- [x] RES#1173:1584e - どうして外に化け物がいるんだ! - "!?" where the JP has "!" - Damn it, like hell! Why're there monsters outside! - fixed
+- [x] RES#1173:15e48 - 無理解だそうだ - hearsay dropped, last clause clumsy - What most folks who make it big here and go home get to taste, they say, is envy and folks who don't understand 'em. - fixed
+- [x] RES#1173:16067 - くそっ、忌々しい!! - "Damn it, infuriatin'!!" is a fragment - Damn it, it's infuriatin'!! - fixed
+- [x] RES#1173:16ec4 - "agin'" reads as again - "never growin' old and never dyin'" - fixed
+- [x] RES#1173:17e5f - 咎めはせぬ。消えろ。 - "Get lost" drops the archaic register of "I shall not reproach you" - I shall not reproach you. Be gone. - fixed
+- [x] RES#1174:9e43 - うん、でも - "Yes" is stiff for Sara - Mm, but I wish I could make lots more kinds of food. - fixed
+- [x] RES#1181:852f - バルデスさんにも一目置かれるくらい強い戦士だったあいつが - sentence breaks awkwardly - [1]He was so strong even Valdes-san gave him his due. To die the way he did... I still can't believe it... - fixed
+- [x] RES#1188:a8d9 - 単純な騎士サマね - two voice tags, and the sarcastic katakana サマ is lost - That's forcing people too, you know. What an astonishingly simple Sir Knight you are. - fixed
+- [x] RES#1188:b4eb - Scharn - "Well, excuse me!" too sarcastic for her - "Sorry, but that's me too!" - fixed
+- [x] RES#1192:b028 - Pasca - "he" unclear - "why doesn't Ash just ride home with the medicine?" - fixed
+- [x] RES#1192:b068 - 生きた家畜を転送...哀れなミイラ - "cattle" against one "mummy" - I once had a live farm animal sent to me, and what arrived here was a pitiful mummy. - fixed
+- [x] RES#1192:b11c - 金属製品か手紙くらいなもんだ - trailing "about" stumbles - All it's good for is metalwork and letters, more or less. - fixed
+- [x] RES#1192:b4ee - 薬の方は上手くいきそうです - "looks set to go well" is stiff - the medicine should turn out well. - fixed
+- [x] RES#1193:87d4 - [HERO]が見つかったとき (Ash, to the hero; twin RES#1193:8b4e) - third person reads as talk about someone else, but the check requires all four [HERO] - leave, or relax the variable count for these two: When you were found, [HERO], your hand was clenched tight around a Rahmel leaf. - waived: check needs all four [HERO]; JP also addresses by name
+- [x] RES#1193:8921 - 死にかけたのはあきらかに彼のミス - "his" lost, "nothing more" added - Nearly dying was plainly a blunder of that person's own. - fixed
+- [x] RES#1193:8e7b - うれしかったんだ、みんなが手伝ってくれて (twin RES#1193:8f4a) - stray comma after "glad" - But I was glad everybody helped. - fixed
+- [x] RES#1194:dcba - 魔法は具現化されます - "give the magic substance" can misread as a substance - the magic takes on substance. - fixed
+- [x] RES#1194:ec7f - 太陽帝国の全貌はまだ1割も解明されていない - "a tenth of the Sun Empire" reads oddly - not even a tenth of the Sun Empire's full picture has yet been made clear, I should think. - fixed
+- [x] RES#1194:10a57 - 開発・改造と一口に言っても...この両方を - "there is the contents of the Trap Capsule" stumbles - "And though we speak simply of development and modification, two things must be done: improving the contents of the Trap Capsule... that is, the trap itself, // and developing the Trap Capsule that houses it." - fixed
+- [x] RES#1194:10d5d - 魔法具は一般の人に販売することが固く禁止 - dangling "unlike other treasures, selling..." - "but unlike other treasures, Magic Tools may not be sold to the general public; this is strictly forbidden." - fixed
+- [x] RES#1194:112b6 - ランツから来た最新のレポート - "A recent report" softens 最新 - "The latest report from Lanz" - fixed
+- [x] RES#1194:11516 - 滅んだはずの太陽帝国 - "should have fallen" can read as "ought to have" - "which is supposed to have fallen ten thousand years ago" - fixed
+- [x] RES#1194:1241e - 『時の回廊』・・・ですか・・・ - "is it..." slightly stiff - "The 'Corridor of Time', is it..." - fixed
+- [x] RES#1194:12559, RES#1194:13ca9 - scripture's 光の扉 - lower case "the door of light" against glossary "Door of Light" and the capitals later in the same boxes; left because merged b170 has the same stock quotation, change all three together - "opens the Door of Light to the 'Land of Origin'" - fixed
+- [x] RES#1194:1357e - 彼等が言うように - "As they say" reads as a proverb - "As they themselves say," - fixed
+- [x] RES#1194:138ca - 1万年前に栄えた太陽帝国の姿もおのずと分かります - clause order heavy - "then we can naturally tell what the Sun Empire that flourished ten thousand years ago looked like." - fixed
+- [x] RES#1194:139eb - 『無』になることは恐怖だった - "feared the 'Void'" loses "becoming" - "Even people of such technical skill as theirs feared becoming 'Void'..." - fixed
+- [x] RES#1194:16d0f - 親しい人の心からの気持ち - "those close to it" is awkward (twin RES#1194:16fb7) - "Only the heartfelt feelings of those dear to a person can thaw a heart grown stubborn." - fixed
+- [x] RES#1194:16d0f, 16fb7 - Qumran - "those close to it" has no referent - "Only the heartfelt feelings of someone close to him can thaw a heart grown stubborn." - waived: same lines settled above; JP is general, not "him"
+- [x] RES#1194:160be - Qumran 友だったのに - self-reproach reads as doubt - "...and yet... no, I believed he was, and still I let slip a plan that could succeed only at the cost of his life..." - fixed
+- [x] RES#1194:170f2 - 利用されようとしている - "may be being used" is clumsy - "that someone may mean to use Fatum-san as a key to the 'New World'." - fixed
+- [x] RES#1194:18ca9 - 不自然な点 - "unnatural points" is stiff - "Though a few things about it do seem unnatural..." - fixed
+- [x] RES#1199:f9f5 - 世界が滅ぶだの騒いでいる時 - "With all crying" reads oddly - "While all the world cries of its ending, do you think there is a fool who would trust a note of debt?" - fixed
+- [x] RES#1199:fd67 - そこまで言うなら造ってやる - "If you insist so far" is stiff - "If you insist that much, I will make it." - fixed
+- [x] RES#1199:f9f5 - Gaius - broken clause - "With everyone crying that the world is ending, do you think any fool would trust a note of debt?" - waived: same line settled above, "any fool" folded in
+- [x] RES#1199:f0d6 - Gaius 貴様か - contempt dropped - "So it is you..." - fixed
+- [x] RES#1200:dc2e - 印象は最悪 - "very poor" undersells it - "My first impression of them was dreadful." - fixed
+- [x] RES#1200:106f2 - ぼくの勝ちですね - "My win, I believe." is stiff - "I win, I believe." - fixed
+- [x] RES#1203:aba1 - 見ぬ顔だな - stiff - A face I do not know. - fixed
+- [x] RES#1203:ae42 - 俺とナーダの存在さえも - awkward pronoun pair - even Nada's existence and my own - fixed
+- [x] RES#1256:15c99 - だって全然わからないんだもん - slot unknown, もん leans Scharn, "Geez" is Jessica's - I was half asleep. I mean, I didn't get a word of it. - fixed
+- [x] RES#1332:92d0 - 痛い程よく分かる - comma splice - I know all too well how he feels... - fixed
+- [x] RES#1332:9864, RES#1684:c08c - "no few" - "not a few" - fixed
+- [x] RES#1333:9963 - 遊びに行ったら喜ぶと思うよ - "You'll be so welcome" reads oddly - Go visit later, okay? I think it'd make [VAR15]-san so happy. - fixed
+- [x] RES#1333:9aa5 - そうだ、 - calque of そうだ - Oh, that reminds me, you should ask the Sister about 'Purgatory' too. - fixed
+- [x] RES#1333:9963 - Sara - "You'll be so welcome" - "I bet they'd be so happy if you dropped by later, okay?" - fixed
+- [x] RES#1333:a75e - とんでもない爆弾を抱えちまった - "took on a bomb" stumbles - Besides, he went and saddled himself with one hell of a time bomb in our place. - fixed
+- [x] RES#1334:881a - 嫌いじゃなかったんだがよ - "neither" has nothing to attach to - Too bad. I never had nothin' against ya... - fixed
+- [x] RES#1334:8a20 - 案の定これだ - "here's this" flat - Came here, and sure enough, look what I find. - fixed
+- [x] RES#1333:9fef, 901e, a501, a75e - おっさん "old man Valdes" vs payoff "mister" at RES#1596:15641 - "Mister Valdes" in Jessica's lines - waived: glossary keeps mister for address, Mister Valdes for 旦那; payoff self-contained
+- [x] RES#1370:12362 - 風当たり - idiom kept literal, reads a little odd - "the feeling against you would grow harsher still" - fixed
+- [x] RES#1405:15e24 - すまない・・・感謝する - slightly stiff - "Forgive me... I am grateful." - fixed
+- [x] RES#1405:15f66 - Scharn 助けたい。 - `!` where the JP does not shout, grave moment - "[HERO], I want to save [1][VAR14]." - fixed
+- [x] RES#1405:1624c - Jessica あたし達を助けたせいで - pronoun unclear - "because we all got saved" - fixed
+- [x] RES#1405:168de - Orpheus さて、どうします? - "what shall you do" is off - "Now then, what will you do?" - fixed
+- [x] RES#1405:16ab1 - 顔に似合わず - "with such a face" a touch awkward; twin 16b1a too - "My, how unexpectedly cold of you, for one with such a face." - fixed
+- [x] RES#1405:16fbc - Eve 行こうかしら - "perhaps ... I wonder" doubled; twin 17043 too - "Well... shall I go along too, I wonder." - fixed
+- [x] RES#1405:17148 - Eve 顔は興味津々に見えるけど? - wordy - "You look awfully curious to me, though?" - fixed
+- [x] RES#1405:180df - Sara きっとうまくいくよ! - JP `!` lost - "It'll be all right. It's sure to work out!" - fixed
+- [x] RES#1474:78b5 - Eve お先に失礼するわ - calque - "Well then, I'll take my leave." - fixed
+- [x] RES#1474:7ad1 - Scharn 行ってみようよ - "okay!" reads oddly - "Let's try the Church!" - fixed
+- [x] RES#1474:7c6e - 教会に行くのか? - awkward - "So we go to the Church?" - fixed
+- [x] RES#1475:14809 - Tiara お目覚めになりました - "at last" added, fragment - "Yes, they have awoken." - fixed
+- [x] RES#1504:12941 - Pasca ありがとよ - "Thanks a lot" can read as sarcasm; twin 129b5 too - "Much obliged." - fixed
+- [x] RES#1504:14ef9 - 世界中に何万もの化け物が現れた理由が - comma between subject and verb across the page break - `The reason tens of thousands of freaks showed up all over the world // is that somebody broke the pillars our souls were locked up in...` - fixed
+- [x] RES#1504:1a203 - サラさんを姉と慕う...サラさんの帰りを - name repeated in place of "you", calque of JP address - `Back in your homeland, Sara-san, so many children who look up to you as a big sister are waiting for you to come home.` - waived: batches.py check demands one -san per JP さん; fix fails check
+- [x] RES#1504:185b5 (twins 19481, 1a384) - 笑顔で再会を喜びましょう - trailing "with smiles" is stiff - `For now, let us simply rejoice, smiling, at being together again.` - fixed
+- [x] RES#1573:fc93 - この世界を構成するものは物質ではなく我々の思念です - JP is present tense, EN future; defensible inside the conjecture, but closer as present - `What makes up this world is not matter but our thought-forms. The thought-forms of each person combine to create a single world...` - fixed
+- [x] RES#1573:10752 - 聖書や伝説の文章を - glossary form is "the Scriptures" - `As a scholar I ought not to take the words of the Scriptures and legends at face value,` - fixed
+- [x] RES#1573:f5cb - Valdes - third person stilted - "That's needed before the main part. Shut up and listen." - waived: current reads natural in Valdes's voice; suggestion stiffer
+- [x] RES#1648:7658 - 行こう、『始原の地』へ - comma follows JP clause order - `Let's go to the 'Land of Origin'.` - fixed
+- [x] RES#1648:767b - 急ぎましょう、『始原の地』へ - same - `Let us hurry to the 'Land of Origin'.` - fixed
+- [x] RES#1648:76a1 - 先に進んであげないと...可哀想 - "you've gotta feel bad for" stumbles; the sense is that they owe it to him - `Let's get going... If we don't move on, it'd be a real shame for that old guy, huh.` - fixed
+- [x] RES#1683:7769 - じゃあクムランさんの所に聞きに行くか - Pasca reads neutral - `[HERO], guess we go ask Qumran-san, then.` - fixed
+- [x] RES#1683:782d - それじゃあ聞きに行こっか - tag "huh" sits oddly on a suggestion - `[HERO], so how about we go ask?` - fixed
+- [x] RES#1684:9e4e - ・・・って事があったんです - `!` where the JP does not shout - `...That's what happened. That's about all I saw, I guess.` - fixed
+- [x] RES#1684:a086 - そんな有名人だったのか - "famous like that" is awkward; Jessica's twin a037 has the natural form - `Huh, so he's that famous. Figured he was one awful high-and-mighty old man, though.` - fixed
+- [x] RES#1684:b529 - どうとでも変わる - "however one likes" adds will - shifting any which way with one's way of thinking and of seeing. - fixed
+- [x] RES#1734:a20c - Jessica だって馬鹿じゃん - stiff - "Well, you are, though." - fixed
+- [x] RES#1839:152eb - なんだかな・・・ (bemused sigh) - "What the hell..." runs hotter than the JP - I dunno... - fixed
+- [x] RES#1874:f33f - 君だけにはぼくの真実の声を...知って欲しかった - fronted object stumbles - I have caused you much trouble, so I wished for you, and you alone, to know my true voice and my real name... - fixed
+- [x] RES#1874:efd3 - ひ、ひょっとして - stammer sits on "you", not the "maybe" word - M-maybe you're... into that sort of thing...? - fixed
+- [x] RES#1874:f2d4, f534 - ニュソス Nysos missing from glossary - add the row - waived: already in glossary.md (Dio Nysos, Orpheus's real name)
+- [x] RES#1874:11635 - 話を勝手に広げないで下さい - "on your own" is stiff - Please do not blow this out of proportion! - fixed
+- [x] RES#1874:f75f, faa5 - 終わるのよね - Eve's のよね tag lost - ...this silly game is over, isn't it. - fixed
+- [x] RES#1874:fe61 - Dias - "A poor taste, that." - "...... Not a commendable taste." - fixed
+- [x] RES#1874:11e4a - 君が好きだから守ったんだ - "for love of you" reads archaic for the hero - I protected you because I love you... - fixed
+- [x] RES#1944:94f7 - ハンナがあまりにも可哀想 - "cruel on" is odd - It is too cruel to poor Hanna, is it not... - fixed
+- [x] RES#1944:96f8 - Ash - "and all" twice is heavier than せっかく - "After Sadiya-san went to all that trouble making the medicine... After everybody helped me..." - fixed
+- [x] RES#1944:a6b1 - Fatum, 頼む・・・ - "I ask you..." is stiff for a dying plea - Please... - fixed
+- [x] RES#1944:ac70 - Ash, そうなのか・・・ - "Is that so..." is stiff for Ash - Oh... I see... - fixed
+- [x] RES#1945:9ceb - 僕は・・・信じない - "I... I do" repeats where the JP does not - I... do not believe it... - fixed
+- [x] RES#1945:a1a3, RES#1945:a298 - 正義感を振り回す - "swings ... around" is literal - brandishes his naive sense of justice - fixed
+- [x] RES#1945:a31f - 信じているんだ!! - "I do believe!!" is awkward - I do!! - fixed
+- [x] RES#1945:a460 - 悩みを癒してくれたか - "healed my troubles" is awkward - Has [HERO] [1]eased my troubles? - fixed
+- [x] RES#1945:b4bb, 1946:aead, 1947:acea, 1948:b149, 1958:b43c, 1959:b654, 1960:ab45 vs 1951:b223, 1952:afdf, 1953:abfd, 1954:b2a6, 1955:b045, 1956:ad8a, 1950:aabb, 1957:a668 - Qumran's suspended-animation reveal, two forms - one form throughout, keep the JP's Is variants at 1949:a8cf, 1950:aabb, 1957:a668, 1958:b43c - fixed
+- [x] RES#1945:b5b2, 1946:afaa, 1947:addb, 1948:b28c, 1949:a99f, 1958:b50d, 1959:b768, 1960:ac27 - Qumran's apology "I apologize" vs "I am sorry" - pick one - fixed
+- [x] RES#1946:a130, 1947:9ebc, 1948:a19e, 1949:9f79 vs 1951 onward - Welkail's call "Now" vs "Come, make your wish", and the "understand" sentence - unify - fixed
+- [x] RES#1946:9973, 1947:94e4, 1952:96bf - Barkail "neither time nor space exists" vs "there is neither time nor space" - unify - fixed
+- [x] RES#1946:a52f, 1947:a321, 1948:a7a2, 1949:a1f9, 1959:ac86 vs 1950 onward, 1955:a858, 1958:ad1c - Devil formula "you can become" vs "you become" - unify - fixed
+- [x] RES#1947:9258 vs 4117:efa6, f082 - 内務大臣 "Home Minister" vs "Minister of the Interior" - "Minister of the Interior" - fixed
+- [x] RES#1947:9fa1 - もう出てこないで下さい - "appear no more" is overwrought - Please do not appear again... - fixed
+- [x] RES#1947:ae25 - そのおかげで助かった - "thanks to that that" stumbles - Not at all, please do not mind it. That is what saved me, after all. - fixed
+- [x] RES#1948:b207 - Pasca, お前知ってたか - "you" against his "ya" elsewhere in the scene - [1][HERO], did ya know? - fixed
+- [x] RES#1949:a1f9 - あたしを殺せばいい - "You can just kill me!" reads as permission - You just have to kill me! - fixed
+- [x] RES#1950:9fbc, a0cf - 若者よ "Young one" vs "young man" - "Young one" in both - fixed
+- [x] RES#1950:9602 - stilted - "I have not forgotten you once in fourteen years..." - fixed
+- [x] RES#1950:a1c2 - 君の苦しい思い出から解放してくれ - clause order stiff - P-please... And f-free me... from your painful memories... - fixed
+- [x] RES#1951:9e09 - 単純な子 - "child" odd for a 17-19 listener - Who would ever open up to a simple girl like you? - fixed
+- [x] RES#1950:a1c2 - word order backwards - "P-please... And free me... f-from your painful memories..." - waived: stammer stays on "free" as in the JP; order fixed above
+- [x] RES#1951:9fa2 - Scharn's Phantom, JP is present tense - "Say it: I don't really trust you." - fixed
+- [x] RES#1952:9d9a - 押さえ続けられていた...本当の姿 - dangling opener - I'm the real you, see, the one you've kept pushed down all this time. - fixed
+- [x] RES#1955:9c14 - 憎む全ての忌まわしい過去 - "hateful past you loathe" doubles up - all the accursed past you hate will be taken away. - fixed
+- [x] RES#1956:971e - 劣等感のかたまり - "lump of inferiority" calque - I'm nothing but a mass of inferiority... - fixed
+- [x] RES#1958:a011 - 襲うつもりらしいのう - "it seems, eh" stacks two tags - The Blue Clan means to attack that child's First Star rite, eh. - fixed
+- [x] RES#1958:a0a9 - 輿には...わしが乗る - JP clause order - I will ride in the First Star rite's palanquin in that child's place. - fixed
+- [x] RES#1959:a5fe - 何を言われても断らない - "never refusing whatever is said" is stiff - never refusing whatever is asked - fixed
+- [x] RES#1959:a877 - 誰からも虐げられることはない (said to Luca) - general statement loses the personal offer - no one will ever oppress you - fixed
+- [x] RES#1946-1949, 1958:b151, 1959, 1960 vs 1950-1957 - 忘れない "I will never forget you" vs "I won't forget you" - pick one - fixed
+- [x] RES#1960:a63a - [HERO]さん twice - name doubled in one short sentence - [HERO]-san, I believe in you! So please!!! - waived: check requires both [HERO] from the JP
+- [x] RES#1961:7c16 - 不死者っていっても知らねえか - added quote marks around the Undying - Ya might not know who I mean by the Undying. - fixed
+- [x] RES#4100:a80b - バルデスさんの分も戦わなきゃ - "fight for Valdes-san's share" is a calque - I know I gotta do Valdes-san's share of the fightin' too - fixed
+- [x] RES#4100:b4c4 - 理想の世界って言ったって - added quote marks - Besides, ideal world or not, it was written five thousand years ago, right? - fixed
+- [x] RES#4100:a4e7 - "That mean if the world stays like this" - "Does that mean..." - fixed
+- [x] RES#4100:bb2f - 男のマロン gag (ロマン misspoken) - "romanticals" loses it - a visible slip, "A man's ro... roman... marron? Rom-ance, that's it." - fixed
+- [x] RES#4106:133d3 - 気合い入れて頑張れよ - "Get your spirit up" is a calque; also RES#4106:135dc - Put your back into it. - fixed
+- [x] RES#4106:12ee5 - 品揃えが悪いのは我慢してくれ - comma splice, twin RES#4107:14258 - Sorry about the poor selection. You'll just have to live with it. - fixed
+- [x] RES#4107:13b60 - また愚痴になっちまう - "I'll go gripin' again" reads as a future plan - Here I go gripin' again. - fixed
+- [x] RES#4107:143b1 - 手伝ってくれてすまねえな (thanks) - "Sorry you're always helpin' me out" reads as regret - Much obliged, you're always helpin' me out. - fixed
+- [x] RES#4115:806f - この町はあの野郎の天下になっちまった - stiff phrasing - "this town's had the misfortune of bein' that bastard's to rule" -> "this town's had the bad luck to be that bastard's kingdom" - fixed
+- [x] RES#4115:806f - Kadmon - broken phrase - "...of becoming that bastard's kingdom" - fixed
+- [x] RES#4115:8e98 - 貴族の方も飽きて - singular "the noble", plural "the nobles" one sentence later - "and the nobles got bored" - fixed
+- [x] RES#4115:beac, RES#4115:bf4a - バルデス氏 - "-shi" appears only here and is not in the glossary's honorific ruling; a reader may stumble, though the mock-formal effect works - keep, or "Master Valdes" - fixed
+- [x] RES#4115:beac, bf4a - Kadmon "Valdes-shi" - 氏 is outside the honorific set - keep as pompous or "Mister Valdes" - fixed
+- [x] RES#4115:c0f6 - どこぞの有力者 - "bigwig" sits low in Kadmon's fawning register - "some man of influence" - fixed
+- [x] RES#4117:ed4e - どこか痛々しいんだよ - slightly stiff - "Lookin' at you, it kinda hurts." - fixed
+- [x] RES#4117:fe40 - おう、いい顔だ - calque - "Yeah, that's more like it." - fixed
+- [x] RES#4125:6bfd - いつ見ても人少ないね - "never anyone" overstates "few people" - "It's always so empty here, whenever you look." - fixed
+- [x] RES#4125:7ab1 - 見つめ直して下さい - Sadiya's request softener dropped - "Please look into yourself once more." - fixed
+- [x] Outside this range: b126 and b195 also have "Kars mountains" (glossary: Kars Mountains). - waived: already Kars Mountains in both
+- [x] 280e8 - Orpheus: why get hated more? - "stink in everyone's nostrils" is an odd calque - "You're already a nuisance to everyone as it is." - fixed
+- [x] 2683c - Eugen's やあ諸君 - "boys and girls" too cute - "Well now, you lot, welcome to the Coffin of Kars!" - fixed
+- [x] 24ae9, 261f1 - 信心深い田舎者 - "country boys" gendered - "pious country folk" - fixed
+- [x] 29a5e - Noel flustered - too formal - "I-it's nothing to me, really..." - fixed
+- [x] 2a5c4 - 誰か仲間を誘えよ - "comrades" stiff - "Go find yourself some partners." - fixed
+- [x] 29e23 - 末期の酒 - "a man's last drink" reads as last round - "a dying man's last drink" - fixed
+- [x] 29412, 2a31e - Dias, subjectless - stilted first person - "To the ruins. Follow if you wish." / "Back to my room. Call if you have need of me." - fixed
+- [x] 28159 - bark - no Luca hedge - "Please don't make me your next target... I may not look it, but I'm rather timid." - fixed
+- [x] 29102 - Ash いまから行くぞ。いいな。 - too soft - "I'm going now. All right?" - fixed
+- [x] 81:16cff - Eve あの子の顔 - "that kid's face" - fixed
+- [x] 327 vs 335/336 - Orpheus's formality swings - prefer the lighter 327 level - fixed

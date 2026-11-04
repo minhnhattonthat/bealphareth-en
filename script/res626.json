@@ -249,9 +249,9 @@
    "jp": "{0c:28001000}{1c:11}{0b:08}{e080} アッシュ {e082}{0b:09}\n行っていいよな、{10}。\nバルデスさんからも\nたのまれてるもんな。{0c:020301}",
    "read": "{0c:28001000}{1c:11}{0b:08}【 アッシュ 】{0b:09}\n行っていいよな、{10}。\nバルデスさんからも\nたのまれてるもんな。{0c:020301}",
    "raw": null,
-   "en": "{0c:28001000}{1c:11}{0b:08}【 Ash 】{0b:09}\nWe should go, right, {10}?\nValdes-san asked us to, too, y'know.{0c:020301}",
+   "en": "{0c:28001000}{1c:11}{0b:08}【 Ash 】{0b:09}\nWe should go, right, {10}?\nValdes-san asked us to as well, y'know.{0c:020301}",
    "status": "done",
-   "tl": "We should go, right, [HERO]? Valdes-san asked us to, too, y'know."
+   "tl": "We should go, right, [HERO]? Valdes-san asked us to as well, y'know."
   },
   {
    "id": "RES#626:b820",
@@ -576,9 +576,9 @@
    "jp": "{0c:513a}{0c:2b50232b561000}{0c:2b512c232b5610002b522c232b561000}{1c:1f}{0b:08}{e080} ジェシカ {e082}{0b:09}\nだから?{1a}相手は貴{e0b2}でしょ?\n{e0b1}でももらわなきゃ\nやってられないよ。{0c:2b5709fe}",
    "read": "{0c:513a}{0c:2b50232b561000}{0c:2b512c232b5610002b522c232b561000}{1c:1f}{0b:08}【 ジェシカ 】{0b:09}\nだから?{1a}相手は貴族でしょ?\n金でももらわなきゃ\nやってられないよ。{0c:2b5709fe}",
    "raw": null,
-   "en": "{0c:513a}{0c:2b50232b561000}{0c:2b512c232b5610002b522c232b561000}{1c:1f}{0b:08}【 Jessica 】{0b:09}\nSo?{1a}We're talking about a noble, right? I can't\nbe bothered without getting paid, you\nknow that?{0c:2b5709fe}",
+   "en": "{0c:513a}{0c:2b50232b561000}{0c:2b512c232b5610002b522c232b561000}{1c:1f}{0b:08}【 Jessica 】{0b:09}\nSo?{1a}We're talking about a noble, right? I can't\nbe bothered without getting paid.{0c:2b5709fe}",
    "status": "done",
-   "tl": "So? // We're talking about a noble, right? I can't be bothered without getting paid, you know that?"
+   "tl": "So? // We're talking about a noble, right? I can't be bothered without getting paid."
   },
   {
    "id": "RES#626:c2ff",
@@ -1155,9 +1155,9 @@
    "jp": "{1c:14}{0b:08}{e080} パスカ {e082}{0b:09}\n3つの建物か・・・\nで、さっき{e084}{e085}にいた人{e0b8}だろ?{1a}急なことだからしょうがねえけど、\nちょっと人{e0b8}が少ねえなぁ・・・{0c:fe}",
    "read": "{1c:14}{0b:08}【 パスカ 】{0b:09}\n3つの建物か・・・\nで、さっき教会にいた人数だろ?{1a}急なことだからしょうがねえけど、\nちょっと人数が少ねえなぁ・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:14}{0b:08}【 Pasca 】{0b:09}\nThree buildings, huh... And the number of\nfolks in the church just now, right?{1a}Can't be helped, it bein' so sudden, but\nwe're kinda short on people...{0c:fe}",
+   "en": "{1c:14}{0b:08}【 Pasca 】{0b:09}\nThree buildings, huh... And all we got's\nthe folks who were in the church just\nnow, right?{1a}Can't be helped, it bein' so sudden, but\nwe're kinda short on people...{0c:fe}",
    "status": "done",
-   "tl": "Three buildings, huh... And the number of folks in the church just now, right? // Can't be helped, it bein' so sudden, but we're kinda short on people..."
+   "tl": "Three buildings, huh... And all we got's the folks who were in the church just now, right? // Can't be helped, it bein' so sudden, but we're kinda short on people..."
   },
   {
    "id": "RES#626:d309",
@@ -2016,9 +2016,9 @@
    "jp": "{1c:22}{0b:08}{e080} レイア {e082}{0b:09}\n自分の力{e197}もかえりみず、\n何が誇りだ・・・{0c:2b5509fe}",
    "read": "{1c:22}{0b:08}【 レイア 】{0b:09}\n自分の力量もかえりみず、\n何が誇りだ・・・{0c:2b5509fe}",
    "raw": null,
-   "en": "{1c:22}{0b:08}【 Leia 】{0b:09}\nWith no regard for his own limits, what\npride can there be...{0c:2b5509fe}",
+   "en": "{1c:22}{0b:08}【 Leia 】{0b:09}\nWith no regard for his own limits, what\nhonor can there be...{0c:2b5509fe}",
    "status": "done",
-   "tl": "With no regard for his own limits, what pride can there be..."
+   "tl": "With no regard for his own limits, what honor can there be..."
   },
   {
    "id": "RES#626:e85c",
@@ -2314,9 +2314,9 @@
    "jp": "{1c:1f}・・・そうか。\nじゃああの子に返しておくぜ。{1a}今回はありがとよ、\n俺からも礼を言う。{0c:020601}",
    "read": "{1c:1f}・・・そうか。\nじゃああの子に返しておくぜ。{1a}今回はありがとよ、\n俺からも礼を言う。{0c:020601}",
    "raw": null,
-   "en": "{1c:1f}...I see. Then I'll give it back to her.{1a}Thanks for what you did. I'm sayin' it\ntoo.{0c:020601}",
+   "en": "{1c:1f}...I see. Then I'll give it back to her.{1a}Thanks for what you did. That's from\nme, too.{0c:020601}",
    "status": "done",
-   "tl": "...I see. Then I'll give it back to her. // Thanks for what you did. I'm sayin' it too."
+   "tl": "...I see. Then I'll give it back to her. // Thanks for what you did. That's from me, too."
   },
   {
    "id": "RES#626:ecd0",

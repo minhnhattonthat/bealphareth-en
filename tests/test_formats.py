@@ -10,10 +10,27 @@ sys.path.insert(0, str(ROOT / "tools"))
 import gfx  # noqa: E402
 import mscan  # noqa: E402
 import res  # noqa: E402
+import sprites  # noqa: E402
 
 
 def test_rle_repeat_and_literals():
     assert gfx.rle_decode(bytes([3, 7, 0xFE, 1, 2]), 5) == bytes([7, 7, 7, 1, 2])
+
+
+def test_rle_exact_fills_the_old_size_with_no_padding():
+    raw = bytes([5] * 200 + [1, 2, 3] * 20 + [0] * 90)
+    base = len(sprites.rle_encode(raw))
+    for spare in range(0, 200):
+        packed = sprites.rle_exact(raw, base + spare)
+        assert len(packed) == base + spare
+        assert gfx.rle_decode(packed, len(raw)) == raw
+        i = 0
+        while i < len(packed):  # the game counts packed bytes: tokens must end exactly at the end, none empty
+            assert packed[i] != 0
+            i += 2 if packed[i] < 0x80 else 257 - packed[i]
+        assert i == len(packed)
+    with pytest.raises(ValueError):
+        sprites.rle_exact(raw, base - 1)
 
 
 def test_m2_bank_parses_and_rejects_bad_offsets():

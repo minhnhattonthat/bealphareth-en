@@ -62,6 +62,39 @@ def rle_encode(raw):
     return bytes(out)
 
 
+def rle_exact(raw, size):
+    """rle_encode(raw) grown to exactly `size` bytes. The game's decoder counts packed bytes, and zero padding of odd length
+    runs it past the end (scene 236 hung). Runs turn into literals, literals split, until nothing is left to pad."""
+    packed = rle_encode(raw)
+    spare = size - len(packed)
+    if spare < 0:
+        raise ValueError(f"{len(packed)} packed bytes in {size}")
+    tokens, i = [], 0
+    while i < len(packed):
+        n = packed[i]
+        step = 2 if n < 0x80 else 257 - n
+        tokens.append(packed[i:i + step])
+        i += step
+    out = []
+    for t in tokens:
+        n = t[0]
+        if spare >= 2 and 2 <= n < 0x80:
+            m = min(n - 1, spare - 1)  # m literal bytes then a run of n - m: m + 1 bytes more
+            out += [bytes([256 - m]) + t[1:2] * m, bytes([n - m]) + t[1:2]]
+            spare -= m + 1
+        else:
+            out.append(t)
+    while spare:  # one byte more per split of a literal token with 2+ bytes (header n; n + 1 means one literal fewer)
+        for k, t in enumerate(out):
+            if t[0] >= 0x80 and len(t) >= 3:
+                out[k:k + 1] = [b"\xff" + t[1:2], bytes([t[0] + 1]) + t[2:]]
+                spare -= 1
+                break
+        else:
+            raise ValueError(f"cannot grow {len(packed)} packed bytes to {size}")
+    return b"".join(out)
+
+
 def sheets_in(b):
     """Every sprite sheet of a scene overlay: (part offset, index, at, flags, w, h, comp, raw, palette bytes)."""
     if len(b) < 16 or struct.unpack_from("<I", b, 0)[0] != 2:
@@ -239,10 +272,7 @@ def pages(files=None):
 def pack_into(blob, at, flags, comp, raw):
     """Write a sheet's new pixels over the old ones. The packed size may not grow: what follows it does not move."""
     if flags & 0x8000:
-        packed = rle_encode(raw)
-        if len(packed) > comp:
-            raise ValueError(f"{len(packed)} packed bytes in {comp}")
-        blob[at + 16:at + 16 + comp] = packed + bytes(comp - len(packed))
+        blob[at + 16:at + 16 + comp] = rle_exact(raw, comp)
     else:
         blob[at + 8:at + 8 + len(raw)] = raw
 

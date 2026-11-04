@@ -32,3 +32,8 @@ Lines where the English deliberately leaves the Japanese: sexual remarks about t
 - RES#4115:7dce - Kadmon on Tiara, ケツでも振ってる -> off kickin' up her heels
 - RES#1874:f75f, f878 - Eve's offer and double entendre -> I'll pay up; doesn't see a thing through
 - RES#1874:115f8 - Eve wants to hold [HERO] -> madly in love with [HERO]
+- RES#80:16d51 - remark to Eve -> pretty little lady
+- RES#327:a673, RES#335:a829 - chest remark -> modesty
+- RES#327:c683 - dressed like that -> at this hour
+- RES#344:82fa - Orpheus on Dias -> closet skirt-chaser
+- RES#364:cdf8 - room invite removed -> You ask me over and then doze off first?

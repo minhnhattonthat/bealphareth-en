@@ -172,9 +172,9 @@
    "jp": "{0b:08}{e080} ジェシカ {e081}{0b:09}\nやったじゃん、{10}。\n『悪魔の子』が『悪魔』に\n変わったみたいだよ。{1a}『悪魔』って{e083}ばれて喜ぶのも\n変な話だけどさ。{0c:020901}",
    "read": "{0b:08}【 ジェシカ 】{0b:09}\nやったじゃん、{10}。\n『悪魔の子』が『悪魔』に\n変わったみたいだよ。{1a}『悪魔』って呼ばれて喜ぶのも\n変な話だけどさ。{0c:020901}",
    "raw": null,
-   "en": "{0b:08}【 Jessica 】{0b:09}\nHey, nice going, {10}. Looks like\nthe 'Child of the Devil' turned into the\n'Devil'.{1a}Kinda weird to be happy about being\ncalled the 'Devil', though, you know\nthat?{0c:020901}",
+   "en": "{0b:08}【 Jessica 】{0b:09}\nHey, nice going, {10}. Looks like\nthe 'Child of the Devil' turned into the\n'Devil'.{1a}Kinda weird to be happy about being\ncalled the 'Devil', though.{0c:020901}",
    "status": "done",
-   "tl": "Hey, nice going, [HERO]. Looks like the 'Child of the Devil' turned into the 'Devil'. // Kinda weird to be happy about being called the 'Devil', though, you know that?"
+   "tl": "Hey, nice going, [HERO]. Looks like the 'Child of the Devil' turned into the 'Devil'. // Kinda weird to be happy about being called the 'Devil', though."
   },
   {
    "id": "RES#107:228e2",
@@ -456,9 +456,9 @@
    "jp": "{1c:18}{0b:08}{e080} イヴ {e081}{0b:09}\nそんなに意外?\n神サマの{e089}弁者っていう割には\nなんにも知らないのね。{0c:020701}",
    "read": "{1c:18}{0b:08}【 イヴ 】{0b:09}\nそんなに意外?\n神サマの代弁者っていう割には\nなんにも知らないのね。{0c:020701}",
    "raw": null,
-   "en": "{1c:18}{0b:08}【 Eve 】{0b:09}\nIs it that surprising? For God Almighty's\nspokesman, you don't know a thing, do\nyou, dear.{0c:020701}",
+   "en": "{1c:18}{0b:08}【 Eve 】{0b:09}\nIs it that surprising? For God Almighty's\nspokesman, you don't know a thing, do\nyou.{0c:020701}",
    "status": "done",
-   "tl": "Is it that surprising? For God Almighty's spokesman, you don't know a thing, do you, dear."
+   "tl": "Is it that surprising? For God Almighty's spokesman, you don't know a thing, do you."
   },
   {
    "id": "RES#107:22f08",
@@ -678,9 +678,9 @@
    "jp": "{0c:5220282b501000}{1c:24}{0b:08}{e080} シャルン {e081}{0b:09}\nなんだか十{e093}聖者同士って\n仲悪いみたいだね。{0c:020d01}",
    "read": "{0c:5220282b501000}{1c:24}{0b:08}【 シャルン 】{0b:09}\nなんだか十三聖者同士って\n仲悪いみたいだね。{0c:020d01}",
    "raw": null,
-   "en": "{0c:5220282b501000}{1c:24}{0b:08}【 Scharn 】{0b:09}\nLooks like the Thirteen Saints don't get\nalong, you know!{0c:020d01}",
+   "en": "{0c:5220282b501000}{1c:24}{0b:08}【 Scharn 】{0b:09}\nLooks like the Thirteen Saints don't get\nalong, you know.{0c:020d01}",
    "status": "done",
-   "tl": "Looks like the Thirteen Saints don't get along, you know!"
+   "tl": "Looks like the Thirteen Saints don't get along, you know."
   },
   {
    "id": "RES#107:2320b",
@@ -839,9 +839,9 @@
    "jp": "{1c:28}{0b:08}{e080} ノエル {e081}{0b:09}\nアヴァダイルとは\n最{e094}{e095}の十{e093}聖者の{e085}前・・・{1a}でも、彼らの間にも\n考え方の相違があるみたいね。{0c:020901}",
    "read": "{1c:28}{0b:08}【 ノエル 】{0b:09}\nアヴァダイルとは\n最高位の十三聖者の名前・・・{1a}でも、彼らの間にも\n考え方の相違があるみたいね。{0c:020901}",
    "raw": null,
-   "en": "{1c:28}{0b:08}【 Noel 】{0b:09}\nAvadail is the name of the highest of\nthe Thirteen Saints...{1a}But it seems even they differ in their\nthinking, don't they.{0c:020901}",
+   "en": "{1c:28}{0b:08}【 Noel 】{0b:09}\nAvadail is the name of the highest of\nthe Thirteen Saints...{1a}But even they seem to differ in their\nthinking, don't they.{0c:020901}",
    "status": "done",
-   "tl": "Avadail is the name of the highest of the Thirteen Saints... // But it seems even they differ in their thinking, don't they."
+   "tl": "Avadail is the name of the highest of the Thirteen Saints... // But even they seem to differ in their thinking, don't they."
   },
   {
    "id": "RES#107:233fe",
@@ -1184,9 +1184,9 @@
    "jp": "{0c:523038}{1c:17}{0b:08}{e080} オルフェウス {e081}{0b:09}\n死ぬ前に答えて下さい。\nあなた方は一体何者なんですか?{1a}神の子に従う者だとか、\n神サマの{e089}弁者だとか、\n1万{e0a0}前の{e0a1}{e0a2}{e0a3}{e0a4}の人間だとか、\n聖{e0a5}に出てくる十{e093}聖者だとか・・・{1a}{0c:524048}そうかと思えば、今のなんて\nまるで{e0a9}{e0aa}の悪魔じゃないですか。\n一体何者なんです?\n何が正解なんですか?{0c:020f01}",
    "read": "{0c:523038}{1c:17}{0b:08}【 オルフェウス 】{0b:09}\n死ぬ前に答えて下さい。\nあなた方は一体何者なんですか?{1a}神の子に従う者だとか、\n神サマの代弁者だとか、\n1万年前の太陽帝国の人間だとか、\n聖書に出てくる十三聖者だとか・・・{1a}{0c:524048}そうかと思えば、今のなんて\nまるで異教の悪魔じゃないですか。\n一体何者なんです?\n何が正解なんですか?{0c:020f01}",
    "raw": null,
-   "en": "{0c:523038}{1c:17}{0b:08}【 Orpheus 】{0b:09}\nDo answer before you die, if you would\nbe so kind. What are you, precisely?{1a}Followers of the Child of God, God\nAlmighty's spokesmen, people of the Sun\nEmpire ten thousand years ago, the\nThirteen Saints of the Scriptures...{1a}{0c:524048}And then what we just saw was exactly\nlike a heathen devil, I daresay. What are\nyou, then? What is the correct answer?{0c:020f01}",
+   "en": "{0c:523038}{1c:17}{0b:08}【 Orpheus 】{0b:09}\nDo answer before you die, if you would\nbe so kind. What are you, precisely?{1a}Followers of the Child of God, God\nAlmighty's spokesmen, people of the Sun\nEmpire ten thousand years ago, the\nThirteen Saints of the Scriptures...{1a}{0c:524048}And then what we just saw was exactly\nlike a heathen devil. What are you, then?\nWhat is the correct answer?{0c:020f01}",
    "status": "done",
-   "tl": "Do answer before you die, if you would be so kind. What are you, precisely? // Followers of the Child of God, God Almighty's spokesmen, people of the Sun Empire ten thousand years ago, the Thirteen Saints of the Scriptures... // [1]And then what we just saw was exactly like a heathen devil, I daresay. What are you, then? What is the correct answer?"
+   "tl": "Do answer before you die, if you would be so kind. What are you, precisely? // Followers of the Child of God, God Almighty's spokesmen, people of the Sun Empire ten thousand years ago, the Thirteen Saints of the Scriptures... // [1]And then what we just saw was exactly like a heathen devil. What are you, then? What is the correct answer?"
   },
   {
    "id": "RES#107:242d4",
@@ -1207,9 +1207,9 @@
    "jp": "{0c:523038}死ぬ前に答えてくれ!\nお前達は一体何者なんだ!?{1a}神の子に従う者、神の{e089}弁者、\n1万{e0a0}前の{e0a1}{e0a2}{e0a3}{e0a4}の人間、\n聖{e0a5}に出てくるアノイアの聖者・・・{1a}{0c:524048}そうかと思えば、\n今のなどまるで{e0a9}{e0aa}の悪魔だ。\n一体何者なんだ?\n何が正しいんだ?{0c:020d01}",
    "read": "{0c:523038}死ぬ前に答えてくれ!\nお前達は一体何者なんだ!?{1a}神の子に従う者、神の代弁者、\n1万年前の太陽帝国の人間、\n聖書に出てくるアノイアの聖者・・・{1a}{0c:524048}そうかと思えば、\n今のなどまるで異教の悪魔だ。\n一体何者なんだ?\n何が正しいんだ?{0c:020d01}",
    "raw": null,
-   "en": "{0c:523038}Answer us before you die! What are you\npeople!?{1a}Followers of the Child of God, God's\nspokesmen, people of the Sun Empire ten\nthousand years ago, the Saints of Anoia\nfrom the Scriptures...{1a}{0c:524048}And yet just now you were as a heathen\ndevil. What are you? What is true?{0c:020d01}",
+   "en": "{0c:523038}Answer us before you die! What are you\npeople!?{1a}Followers of the Child of God, God's\nspokesmen, people of the Sun Empire ten\nthousand years ago, the Saints of Anoia\nfrom the Scriptures...{1a}{0c:524048}And yet just now you were like a\nheathen devil. What are you? What is\ntrue?{0c:020d01}",
    "status": "done",
-   "tl": "Answer us before you die! What are you people!? // Followers of the Child of God, God's spokesmen, people of the Sun Empire ten thousand years ago, the Saints of Anoia from the Scriptures... // [1]And yet just now you were as a heathen devil. What are you? What is true?"
+   "tl": "Answer us before you die! What are you people!? // Followers of the Child of God, God's spokesmen, people of the Sun Empire ten thousand years ago, the Saints of Anoia from the Scriptures... // [1]And yet just now you were like a heathen devil. What are you? What is true?"
   },
   {
    "id": "RES#107:24396",
@@ -1230,9 +1230,9 @@
    "jp": "{0c:523038}{1c:1e}{0b:08}{e080} ジェシカ {e081}{0b:09}\n死ぬ前に答えてよ。\nあんた達って本当は何者なの?{1a}神の子に従う者だとか、\n神様の{e089}弁者だとか、\n1万{e0a0}前の{e0a1}{e0a2}{e0a3}{e0a4}の人間だとか、\n聖{e0a5}に出てくる十{e093}聖者だとか・・・{1a}{0c:524048}そうかと思えば、\n今のなんてまるっきり悪魔じゃん。\n一体あんた達は何者なの?\n何が正しいの?{0c:020b01}",
    "read": "{0c:523038}{1c:1e}{0b:08}【 ジェシカ 】{0b:09}\n死ぬ前に答えてよ。\nあんた達って本当は何者なの?{1a}神の子に従う者だとか、\n神様の代弁者だとか、\n1万年前の太陽帝国の人間だとか、\n聖書に出てくる十三聖者だとか・・・{1a}{0c:524048}そうかと思えば、\n今のなんてまるっきり悪魔じゃん。\n一体あんた達は何者なの?\n何が正しいの?{0c:020b01}",
    "raw": null,
-   "en": "{0c:523038}{1c:1e}{0b:08}【 Jessica 】{0b:09}\nAnswer me before you croak, huh? What\nare you people, really?{1a}Followers of the Child of God, God's\nspokesmen, people from the Sun Empire\nten thousand years ago, the Thirteen\nSaints from the Scriptures...{1a}{0c:524048}And then that thing just now was a\ntotal devil, you know that? What are you\npeople? What's even true?{0c:020b01}",
+   "en": "{0c:523038}{1c:1e}{0b:08}【 Jessica 】{0b:09}\nAnswer me before you croak, huh? What\nare you people, really?{1a}Followers of the Child of God, God's\nspokesmen, people from the Sun Empire\nten thousand years ago, the Thirteen\nSaints from the Scriptures...{1a}{0c:524048}And then that thing just now was a\ntotal devil. What are you people? What's\neven true?{0c:020b01}",
    "status": "done",
-   "tl": "Answer me before you croak, huh? What are you people, really? // Followers of the Child of God, God's spokesmen, people from the Sun Empire ten thousand years ago, the Thirteen Saints from the Scriptures... // [1]And then that thing just now was a total devil, you know that? What are you people? What's even true?"
+   "tl": "Answer me before you croak, huh? What are you people, really? // Followers of the Child of God, God's spokesmen, people from the Sun Empire ten thousand years ago, the Thirteen Saints from the Scriptures... // [1]And then that thing just now was a total devil. What are you people? What's even true?"
   },
   {
    "id": "RES#107:24478",
@@ -1253,9 +1253,9 @@
    "jp": "{0c:523038}{0b:08}{e080} ディアス {e081}{0b:09}\n死ぬ前に質問に答えろ。{1a}貴様等は一体何者だ?\n神の子に従う者、神の{e089}弁者、\n1万{e0a0}前の{e0a1}{e0a2}{e0a3}{e0a4}の{e0a7}、\n聖{e0a5}に{e0a8}場するアノイアの聖者・・・{1a}{0c:524048}かと思えば、\n先程のなどまるで{e0a9}{e0aa}の悪魔だ。\n一体貴様等は何者だ?\n何が本当の姿なのだ?{0c:020901}",
    "read": "{0c:523038}{0b:08}【 ディアス 】{0b:09}\n死ぬ前に質問に答えろ。{1a}貴様等は一体何者だ?\n神の子に従う者、神の代弁者、\n1万年前の太陽帝国の民、\n聖書に登場するアノイアの聖者・・・{1a}{0c:524048}かと思えば、\n先程のなどまるで異教の悪魔だ。\n一体貴様等は何者だ?\n何が本当の姿なのだ?{0c:020901}",
    "raw": null,
-   "en": "{0c:523038}{0b:08}【 Dias 】{0b:09}\nAnswer my question before you die.{1a}What are you? Followers of the Child of\nGod, God's spokesmen, people of the Sun\nEmpire ten thousand years ago, Saints\nof Anoia from the Scriptures...{1a}{0c:524048}And yet what came before was a\nheathen devil. What are you? Which is\nyour true form?{0c:020901}",
+   "en": "{0c:523038}{0b:08}【 Dias 】{0b:09}\nAnswer my question before you die.{1a}What are you? Followers of the Child of\nGod, God's spokesmen, people of the Sun\nEmpire ten thousand years ago, Saints\nof Anoia from the Scriptures...{1a}{0c:524048}And yet what came before was the very\nimage of a heathen devil. What are you?\nWhich is your true form?{0c:020901}",
    "status": "done",
-   "tl": "Answer my question before you die. // What are you? Followers of the Child of God, God's spokesmen, people of the Sun Empire ten thousand years ago, Saints of Anoia from the Scriptures... // [1]And yet what came before was a heathen devil. What are you? Which is your true form?"
+   "tl": "Answer my question before you die. // What are you? Followers of the Child of God, God's spokesmen, people of the Sun Empire ten thousand years ago, Saints of Anoia from the Scriptures... // [1]And yet what came before was the very image of a heathen devil. What are you? Which is your true form?"
   },
   {
    "id": "RES#107:24552",
@@ -1944,9 +1944,9 @@
    "jp": "{0c:525808}{1c:17}{0b:08}{e080} オルフェウス {e081}{0b:09}\n節穴はどっちですか。\n{e0b6}{e0b7}{e0b8}の{e0b9}なんて\nどこにもありませんよ。{1a}妄想を見ているのは\nあなた達の方じゃないですか?{0c:020f01}",
    "read": "{0c:525808}{1c:17}{0b:08}【 オルフェウス 】{0b:09}\n節穴はどっちですか。\n黄金色の光なんて\nどこにもありませんよ。{1a}妄想を見ているのは\nあなた達の方じゃないですか?{0c:020f01}",
    "raw": null,
-   "en": "{0c:525808}{1c:17}{0b:08}【 Orpheus 】{0b:09}\nAnd who is blind, pray? There is no\ngolden light anywhere, I daresay.{1a}Surely it is you who are seeing delusions?{0c:020f01}",
+   "en": "{0c:525808}{1c:17}{0b:08}【 Orpheus 】{0b:09}\nAnd who is blind, pray? There is no\ngolden light anywhere.{1a}Surely it is you who are seeing delusions?{0c:020f01}",
    "status": "done",
-   "tl": "And who is blind, pray? There is no golden light anywhere, I daresay. // Surely it is you who are seeing delusions?"
+   "tl": "And who is blind, pray? There is no golden light anywhere. // Surely it is you who are seeing delusions?"
   },
   {
    "id": "RES#107:250a6",
@@ -2300,9 +2300,9 @@
    "jp": "{0b:08}{e080} オルフェウス {e081}{0b:09}\n消えちゃいましたね・・・\n結{e0bf}何も分からずじまいですか・・・{0c:021301}",
    "read": "{0b:08}【 オルフェウス 】{0b:09}\n消えちゃいましたね・・・\n結局何も分からずじまいですか・・・{0c:021301}",
    "raw": null,
-   "en": "{0b:08}【 Orpheus 】{0b:09}\nHe has vanished, it seems... So we are\nleft none the wiser, I daresay...{0c:021301}",
+   "en": "{0b:08}【 Orpheus 】{0b:09}\nHe has vanished, it seems... So we are\nleft none the wiser...{0c:021301}",
    "status": "done",
-   "tl": "He has vanished, it seems... So we are left none the wiser, I daresay..."
+   "tl": "He has vanished, it seems... So we are left none the wiser..."
   },
   {
    "id": "RES#107:254b5",

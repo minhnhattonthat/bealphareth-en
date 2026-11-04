@@ -431,9 +431,9 @@
    "jp": "{1c:14}おまえと知り合えて\n本当によかった・・・{1a}ありがとな、{10}・・・{1a}おまえのこと大好きだよ・・・{0c:1501}",
    "read": "{1c:14}おまえと知り合えて\n本当によかった・・・{1a}ありがとな、{10}・・・{1a}おまえのこと大好きだよ・・・{0c:1501}",
    "raw": null,
-   "en": "{1c:14}I'm so glad I got to know you...{1a}Thanks, {10}...{1a}I really do care for you...{0c:1501}",
+   "en": "{1c:14}I'm so glad I got to know you...{1a}Thanks, {10}...{1a}I really, really like you...{0c:1501}",
    "status": "done",
-   "tl": "I'm so glad I got to know you... // Thanks, [HERO]... // I really do care for you..."
+   "tl": "I'm so glad I got to know you... // Thanks, [HERO]... // I really, really like you..."
   },
   {
    "id": "RES#230:2299f",
@@ -535,9 +535,9 @@
    "jp": "{1c:16}{10}達は\n助かったんだろうか・・・{1a}外の世{e084}はどうなったんだろう・・・{1a}上下の感覚も無くなってきた・・・\nこれじゃ何も分からない・・・{1a}でも、1人なのに寂しくないのは\n何故なんだろう・・・{0c:1501}",
    "read": "{1c:16}{10}達は\n助かったんだろうか・・・{1a}外の世界はどうなったんだろう・・・{1a}上下の感覚も無くなってきた・・・\nこれじゃ何も分からない・・・{1a}でも、1人なのに寂しくないのは\n何故なんだろう・・・{0c:1501}",
    "raw": null,
-   "en": "{1c:16}Did {10} and the others make it, I\nwonder...{1a}What has become of the world outside...{1a}I am even losing my sense of up and\ndown... I can't tell anything like this...{1a}But I'm all alone, so why am I not lonely...{0c:1501}",
+   "en": "{1c:16}Did {10} and the others make it, I\nwonder...{1a}What has become of the world outside...{1a}I can't even tell up from down anymore...\nLike this, I can't make out anything...{1a}But I'm all alone, so why am I not lonely...{0c:1501}",
    "status": "done",
-   "tl": "Did [HERO] and the others make it, I wonder... // What has become of the world outside... // I am even losing my sense of up and down... I can't tell anything like this... // But I'm all alone, so why am I not lonely..."
+   "tl": "Did [HERO] and the others make it, I wonder... // What has become of the world outside... // I can't even tell up from down anymore... Like this, I can't make out anything... // But I'm all alone, so why am I not lonely..."
   },
   {
    "id": "RES#230:22b3e",
@@ -639,9 +639,9 @@
    "jp": "{1c:16}{10}は\n助かったんだろうか・・・{1a}外の世{e084}はどうなったんだろう・・・{1a}上下の感覚も無くなってきた・・・\nこれじゃ何も分からない・・・{1a}でも、1人なのに寂しくないのは\n何故なんだろう・・・{0c:1501}",
    "read": "{1c:16}{10}は\n助かったんだろうか・・・{1a}外の世界はどうなったんだろう・・・{1a}上下の感覚も無くなってきた・・・\nこれじゃ何も分からない・・・{1a}でも、1人なのに寂しくないのは\n何故なんだろう・・・{0c:1501}",
    "raw": null,
-   "en": "{1c:16}Was {10} saved, I wonder...{1a}What has become of the world outside...{1a}I can't even tell up from down anymore... I\ncan't make out anything like this...{1a}But why don't I feel lonely, even though\nI'm alone...{0c:1501}",
+   "en": "{1c:16}Was {10} saved, I wonder...{1a}What has become of the world outside...{1a}I can't even tell up from down anymore...\nLike this, I can't make out anything...{1a}But why don't I feel lonely, even though\nI'm alone...{0c:1501}",
    "status": "done",
-   "tl": "Was [HERO] saved, I wonder... // What has become of the world outside... // I can't even tell up from down anymore... I can't make out anything like this... // But why don't I feel lonely, even though I'm alone..."
+   "tl": "Was [HERO] saved, I wonder... // What has become of the world outside... // I can't even tell up from down anymore... Like this, I can't make out anything... // But why don't I feel lonely, even though I'm alone..."
   },
   {
    "id": "RES#230:22d8d",
@@ -3174,9 +3174,9 @@
    "jp": "{1c:26}{0b:08}{e080} シャルンの{e081}神 {e082}{0b:09}\nうん、面白いくらいにね。{0c:1501}",
    "read": "{1c:26}{0b:08}【 シャルンの精神 】{0b:09}\nうん、面白いくらいにね。{0c:1501}",
    "raw": null,
-   "en": "{1c:26}{0b:08}【 Scharn's Spirit 】{0b:09}\nYep! So clearly it's funny!{0c:1501}",
+   "en": "{1c:26}{0b:08}【 Scharn's Spirit 】{0b:09}\nYep, so clear it's funny!{0c:1501}",
    "status": "done",
-   "tl": "Yep! So clearly it's funny!"
+   "tl": "Yep, so clear it's funny!"
   },
   {
    "id": "RES#230:25e23",
@@ -4083,9 +4083,9 @@
    "jp": "{1c:23}{0b:08}{e080} ノエルの{e081}神 {e082}{0b:09}\n何恥ずかしいこと大声で言ってるのよ。\n馬鹿じゃないの?{0c:1501}",
    "read": "{1c:23}{0b:08}【 ノエルの精神 】{0b:09}\n何恥ずかしいこと大声で言ってるのよ。\n馬鹿じゃないの?{0c:1501}",
    "raw": null,
-   "en": "{1c:23}{0b:08}【 Noel's Spirit 】{0b:09}\nWhat embarrassing things are you saying\nout loud? Are you an idiot?{0c:1501}",
+   "en": "{1c:23}{0b:08}【 Noel's Spirit 】{0b:09}\nWhy are you shouting such embarrassing\nthings? Are you an idiot?{0c:1501}",
    "status": "done",
-   "tl": "What embarrassing things are you saying out loud? Are you an idiot?"
+   "tl": "Why are you shouting such embarrassing things? Are you an idiot?"
   },
   {
    "id": "RES#230:26dd2",
@@ -4107,9 +4107,9 @@
    "jp": "{1c:23}{0b:08}{e080} ノエルの{e081}神 {e082}{0b:09}\nこれ以上ないくらいはっきりとね。{0c:1501}",
    "read": "{1c:23}{0b:08}【 ノエルの精神 】{0b:09}\nこれ以上ないくらいはっきりとね。{0c:1501}",
    "raw": null,
-   "en": "{1c:23}{0b:08}【 Noel's Spirit 】{0b:09}\nIt could not have been clearer.{0c:1501}",
+   "en": "{1c:23}{0b:08}【 Noel's Spirit 】{0b:09}\nIt couldn't have been clearer.{0c:1501}",
    "status": "done",
-   "tl": "It could not have been clearer."
+   "tl": "It couldn't have been clearer."
   },
   {
    "id": "RES#230:26e2d",
@@ -4273,9 +4273,9 @@
    "jp": "{1c:22}{0b:08}{e080} ノエルの{e081}神 {e082}{0b:09}\nどんどん溶けて、\n{e087}じり合っていくみたい・・・{1a}これが『{e083}しい世{e084}』の力なのね・・・{1a}確かに、ここにずっといると\n他人と自分を区別する方{e0c1}も、\nそうする必要も\nなくなっていくでしょうね・・・{0c:1501}",
    "read": "{1c:22}{0b:08}【 ノエルの精神 】{0b:09}\nどんどん溶けて、\n混じり合っていくみたい・・・{1a}これが『新しい世界』の力なのね・・・{1a}確かに、ここにずっといると\n他人と自分を区別する方法も、\nそうする必要も\nなくなっていくでしょうね・・・{0c:1501}",
    "raw": null,
-   "en": "{1c:22}{0b:08}【 Noel's Spirit 】{0b:09}\nIt feels like we're melting, mingling more\nand more...{1a}So this is the power of the 'New World'...{1a}Indeed, stay here forever, and both the\nmeans and the need to tell yourself from\nothers would fade away...{0c:1501}",
+   "en": "{1c:22}{0b:08}【 Noel's Spirit 】{0b:09}\nIt feels like we're melting, mingling more\nand more...{1a}So this is the power of the 'New World'...{1a}True, stay here forever and both the\nmeans and the need to tell yourself from\nothers would probably fade away...{0c:1501}",
    "status": "done",
-   "tl": "It feels like we're melting, mingling more and more... // So this is the power of the 'New World'... // Indeed, stay here forever, and both the means and the need to tell yourself from others would fade away..."
+   "tl": "It feels like we're melting, mingling more and more... // So this is the power of the 'New World'... // True, stay here forever and both the means and the need to tell yourself from others would probably fade away..."
   },
   {
    "id": "RES#230:27139",
@@ -4474,9 +4474,9 @@
    "jp": "{1c:25}{0b:08}{e080} ルカの{e081}神 {e082}{0b:09}\nどんどん溶けて、\n{e087}じり合っていく感じがします・・・{1a}これが『{e083}しい世{e084}』の\n力なんですね・・・{1a}確かに、ここにずっといたら\n人と自分を区別して考えることなんて\n誰もしなくなるかもしれません・・・{0c:1501}",
    "read": "{1c:25}{0b:08}【 ルカの精神 】{0b:09}\nどんどん溶けて、\n混じり合っていく感じがします・・・{1a}これが『新しい世界』の\n力なんですね・・・{1a}確かに、ここにずっといたら\n人と自分を区別して考えることなんて\n誰もしなくなるかもしれません・・・{0c:1501}",
    "raw": null,
-   "en": "{1c:25}{0b:08}【 Luca's Spirit 】{0b:09}\nIt feels like we are melting, mingling more\nand more...{1a}So this is the power of the 'New World'...{1a}If one stayed here forever, perhaps no\none would think of themselves and\nothers as separate anymore...{0c:1501}",
+   "en": "{1c:25}{0b:08}【 Luca's Spirit 】{0b:09}\nIt feels like we are melting, mingling more\nand more...{1a}So this is the power of the 'New World'...{1a}Indeed, if one stayed here forever,\nperhaps no one would think of\nthemselves and others as separate\nanymore...{0c:1501}",
    "status": "done",
-   "tl": "It feels like we are melting, mingling more and more... // So this is the power of the 'New World'... // If one stayed here forever, perhaps no one would think of themselves and others as separate anymore..."
+   "tl": "It feels like we are melting, mingling more and more... // So this is the power of the 'New World'... // Indeed, if one stayed here forever, perhaps no one would think of themselves and others as separate anymore..."
   },
   {
    "id": "RES#230:274d4",
@@ -5365,9 +5365,9 @@
    "jp": "{1c:12}ねえ、{10}・・・{1a}言{e099}なんて、この白い世{e084}の中では\nもう必要ないかもしれないけど、{1a}ううん・・・だからこそ、\nどうしても今あなたに\n伝えたいことがあるんだ・・・{1a}あたし、あなたと出逢えて\n本当に良かった・・・{1a}あなたとの出逢いがなければ、\nあたしはここまで来ることも\n出来なかった・・・{1a}あなたとの出逢いがなければ、\nあたしは兄さんの思い出に縛られて\n1歩も先に進むことは\n出来なかった・・・{1a}{10}、\nあなたのことほんとうに大好き。{1a}初めはあなたと兄さんを\n重ねて見てたかもしれない・・・{1a}でも、今は{10}が・・・\nあなただけが好き・・・{1a}せっかくあなたが告白してくれたのに、\n今までドタバタしてて\nデートどころじゃなかったけど、{1a}もし無事に帰れたら\nいっぱいデートしようね、\n約束だよ・・・{0c:1501}",
    "read": "{1c:12}ねえ、{10}・・・{1a}言葉なんて、この白い世界の中では\nもう必要ないかもしれないけど、{1a}ううん・・・だからこそ、\nどうしても今あなたに\n伝えたいことがあるんだ・・・{1a}あたし、あなたと出逢えて\n本当に良かった・・・{1a}あなたとの出逢いがなければ、\nあたしはここまで来ることも\n出来なかった・・・{1a}あなたとの出逢いがなければ、\nあたしは兄さんの思い出に縛られて\n1歩も先に進むことは\n出来なかった・・・{1a}{10}、\nあなたのことほんとうに大好き。{1a}初めはあなたと兄さんを\n重ねて見てたかもしれない・・・{1a}でも、今は{10}が・・・\nあなただけが好き・・・{1a}せっかくあなたが告白してくれたのに、\n今までドタバタしてて\nデートどころじゃなかったけど、{1a}もし無事に帰れたら\nいっぱいデートしようね、\n約束だよ・・・{0c:1501}",
    "raw": null,
-   "en": "{1c:12}Hey, {10}...{1a}Words may not be needed anymore in this\nwhite world, but{1a}no... that's exactly why there's\nsomething I just have to tell you now...{1a}I'm so glad I met you...{1a}If I'd never met you, I couldn't even have\ncome this far...{1a}If I'd never met you, I'd have stayed tied\nto my memories of my brother, and\nnever taken one step forward...{1a}{10}, I really, really love you.{1a}At first, maybe I saw you and my\nbrother as one...{1a}But now it's {10}... You're the only\none I love...{1a}You told me how you felt, and all this\ntime we've been too busy running around\nto even go on a date,{1a}but if we get back safe, let's go on lots\nof dates! It's a promise...{0c:1501}",
+   "en": "{1c:12}Hey, {10}...{1a}Words may not be needed anymore in this\nwhite world, but{1a}no... that's exactly why there's\nsomething I just have to tell you now...{1a}I'm so glad I met you...{1a}If I'd never met you, I couldn't even have\ncome this far...{1a}If I'd never met you, I'd have stayed tied\nto my memories of my brother, and\nnever taken one step forward...{1a}{10}, I really, really love you.{1a}At first, maybe I saw my brother in you...{1a}But now it's {10}... You're the only\none I love...{1a}You told me how you felt, and all this\ntime we've been too busy running around\nto even go on a date,{1a}but if we get back safe, let's go on lots\nof dates. It's a promise...{0c:1501}",
    "status": "done",
-   "tl": "Hey, [HERO]... // Words may not be needed anymore in this white world, but // no... that's exactly why there's something I just have to tell you now... // I'm so glad I met you... // If I'd never met you, I couldn't even have come this far... // If I'd never met you, I'd have stayed tied to my memories of my brother, and never taken one step forward... // [HERO], I really, really love you. // At first, maybe I saw you and my brother as one... // But now it's [HERO]... You're the only one I love... // You told me how you felt, and all this time we've been too busy running around to even go on a date, // but if we get back safe, let's go on lots of dates! It's a promise..."
+   "tl": "Hey, [HERO]... // Words may not be needed anymore in this white world, but // no... that's exactly why there's something I just have to tell you now... // I'm so glad I met you... // If I'd never met you, I couldn't even have come this far... // If I'd never met you, I'd have stayed tied to my memories of my brother, and never taken one step forward... // [HERO], I really, really love you. // At first, maybe I saw my brother in you... // But now it's [HERO]... You're the only one I love... // You told me how you felt, and all this time we've been too busy running around to even go on a date, // but if we get back safe, let's go on lots of dates. It's a promise..."
   },
   {
    "id": "RES#230:28629",
@@ -5388,9 +5388,9 @@
    "jp": "{1c:12}ねえ、{10}・・・{1a}言{e099}なんて、この白い世{e084}の中では\nもう必要ないかもしれないけど、{1a}ううん・・・だからこそ、\nどうしても今あなたに\n伝えたいことがあるんだ・・・{1a}あなたと出逢えて\n本当に良かった・・・{1a}あなたとの出逢いがなければ、\nあたしはここまで来ることも\n出来なかった・・・{1a}あなたとの出逢いがなければ、\nあたしは兄さんの思い出に縛られて\n1歩も先に進むことは\n出来なかった・・・{1a}{10}、\nあたし、あなたのことが好き。{1a}初めはあなたと兄さんを\n重ねて見てたかもしれない・・・{1a}でも、今は{10}が・・・\nあなただけが好き・・・{0c:1501}",
    "read": "{1c:12}ねえ、{10}・・・{1a}言葉なんて、この白い世界の中では\nもう必要ないかもしれないけど、{1a}ううん・・・だからこそ、\nどうしても今あなたに\n伝えたいことがあるんだ・・・{1a}あなたと出逢えて\n本当に良かった・・・{1a}あなたとの出逢いがなければ、\nあたしはここまで来ることも\n出来なかった・・・{1a}あなたとの出逢いがなければ、\nあたしは兄さんの思い出に縛られて\n1歩も先に進むことは\n出来なかった・・・{1a}{10}、\nあたし、あなたのことが好き。{1a}初めはあなたと兄さんを\n重ねて見てたかもしれない・・・{1a}でも、今は{10}が・・・\nあなただけが好き・・・{0c:1501}",
    "raw": null,
-   "en": "{1c:12}Hey, {10}...{1a}Words may not be needed anymore in this\nwhite world, but{1a}no... that's exactly why there's\nsomething I just have to tell you now...{1a}I'm so glad I met you...{1a}If I'd never met you, I couldn't even have\ncome this far...{1a}If I'd never met you, I'd have stayed tied\nto my memories of my brother, and\nnever taken one step forward...{1a}{10}, I love you.{1a}At first, maybe I saw you and my\nbrother as one...{1a}But now it's {10}... You're the only\none I love...{0c:1501}",
+   "en": "{1c:12}Hey, {10}...{1a}Words may not be needed anymore in this\nwhite world, but{1a}no... that's exactly why there's\nsomething I just have to tell you now...{1a}I'm so glad I met you...{1a}If I'd never met you, I couldn't even have\ncome this far...{1a}If I'd never met you, I'd have stayed tied\nto my memories of my brother, and\nnever taken one step forward...{1a}{10}, I love you.{1a}At first, maybe I saw my brother in you...{1a}But now it's {10}... You're the only\none I love...{0c:1501}",
    "status": "done",
-   "tl": "Hey, [HERO]... // Words may not be needed anymore in this white world, but // no... that's exactly why there's something I just have to tell you now... // I'm so glad I met you... // If I'd never met you, I couldn't even have come this far... // If I'd never met you, I'd have stayed tied to my memories of my brother, and never taken one step forward... // [HERO], I love you. // At first, maybe I saw you and my brother as one... // But now it's [HERO]... You're the only one I love..."
+   "tl": "Hey, [HERO]... // Words may not be needed anymore in this white world, but // no... that's exactly why there's something I just have to tell you now... // I'm so glad I met you... // If I'd never met you, I couldn't even have come this far... // If I'd never met you, I'd have stayed tied to my memories of my brother, and never taken one step forward... // [HERO], I love you. // At first, maybe I saw my brother in you... // But now it's [HERO]... You're the only one I love..."
   },
   {
    "id": "RES#230:28762",
@@ -5411,9 +5411,9 @@
    "jp": "{1c:14}ねえ、{10}・・・{1a}言{e099}なんて、この白い世{e084}の中では\nもう必要ないかもしれないけど、{1a}ううん・・・だからこそ、\nどうしても今あなたに\n伝えたいことがあるんだ・・・{1a}あたし、あなたと出逢えて\n本当に良かった・・・{1a}あなたとの出逢いがなければ、\nあたしはここまで来ることも\n出来なかった・・・{1a}あなたとの出逢いがなければ、\nあたしは兄さんの思い出に縛られて\n1歩も先に進むことは\n出来なかった・・・{1a}ありがと、{10}・・・\nあなたは最{e0a1}の友達だよ。{0c:1501}",
    "read": "{1c:14}ねえ、{10}・・・{1a}言葉なんて、この白い世界の中では\nもう必要ないかもしれないけど、{1a}ううん・・・だからこそ、\nどうしても今あなたに\n伝えたいことがあるんだ・・・{1a}あたし、あなたと出逢えて\n本当に良かった・・・{1a}あなたとの出逢いがなければ、\nあたしはここまで来ることも\n出来なかった・・・{1a}あなたとの出逢いがなければ、\nあたしは兄さんの思い出に縛られて\n1歩も先に進むことは\n出来なかった・・・{1a}ありがと、{10}・・・\nあなたは最高の友達だよ。{0c:1501}",
    "raw": null,
-   "en": "{1c:14}Hey, {10}...{1a}Words may not be needed anymore in this\nwhite world, but{1a}no... that's exactly why there's\nsomething I just have to tell you now...{1a}I'm so glad I met you...{1a}If I'd never met you, I couldn't even have\ncome this far...{1a}If I'd never met you, I'd have stayed tied\nto my memories of my brother, and\nnever taken one step forward...{1a}Thanks, {10}... You're the best\nfriend ever, you know!{0c:1501}",
+   "en": "{1c:14}Hey, {10}...{1a}Words may not be needed anymore in this\nwhite world, but{1a}no... that's exactly why there's\nsomething I just have to tell you now...{1a}I'm so glad I met you...{1a}If I'd never met you, I couldn't even have\ncome this far...{1a}If I'd never met you, I'd have stayed tied\nto my memories of my brother, and\nnever taken one step forward...{1a}Thanks, {10}... You're the best\nfriend ever, you know.{0c:1501}",
    "status": "done",
-   "tl": "Hey, [HERO]... // Words may not be needed anymore in this white world, but // no... that's exactly why there's something I just have to tell you now... // I'm so glad I met you... // If I'd never met you, I couldn't even have come this far... // If I'd never met you, I'd have stayed tied to my memories of my brother, and never taken one step forward... // Thanks, [HERO]... You're the best friend ever, you know!"
+   "tl": "Hey, [HERO]... // Words may not be needed anymore in this white world, but // no... that's exactly why there's something I just have to tell you now... // I'm so glad I met you... // If I'd never met you, I couldn't even have come this far... // If I'd never met you, I'd have stayed tied to my memories of my brother, and never taken one step forward... // Thanks, [HERO]... You're the best friend ever, you know."
   },
   {
    "id": "RES#230:2886e",
@@ -6067,9 +6067,9 @@
    "jp": "{1c:1b}この世{e084}・・・膨らんでる・・・{1a}そうか、{e089}発する寸前なんですね・・・{1a}ぼくはこの世{e084}の誕生と消滅に\n巻き{e085}まれちゃったわけですか・・・{0c:1501}",
    "read": "{1c:1b}この世界・・・膨らんでる・・・{1a}そうか、爆発する寸前なんですね・・・{1a}ぼくはこの世界の誕生と消滅に\n巻き込まれちゃったわけですか・・・{0c:1501}",
    "raw": null,
-   "en": "{1c:1b}This world... It is swelling...{1a}I see, so it is on the verge of exploding...{1a}So I have been swept up in the birth and\ndeath of this world, have I...{0c:1501}",
+   "en": "{1c:1b}This world... It is swelling...{1a}I see, so it is on the verge of exploding...{1a}So I have been caught up in the birth and\ndeath of this world, have I...{0c:1501}",
    "status": "done",
-   "tl": "This world... It is swelling... // I see, so it is on the verge of exploding... // So I have been swept up in the birth and death of this world, have I..."
+   "tl": "This world... It is swelling... // I see, so it is on the verge of exploding... // So I have been caught up in the birth and death of this world, have I..."
   },
   {
    "id": "RES#230:297c7",
@@ -6182,9 +6182,9 @@
    "jp": "{1c:1b}この世{e084}・・・膨らんでる・・・{1a}そうか、{e089}発する寸前なんですね・・・{1a}ぼくはこの世{e084}の誕生と消滅に\n巻き{e085}まれちゃったわけですか・・・{0c:1501}",
    "read": "{1c:1b}この世界・・・膨らんでる・・・{1a}そうか、爆発する寸前なんですね・・・{1a}ぼくはこの世界の誕生と消滅に\n巻き込まれちゃったわけですか・・・{0c:1501}",
    "raw": null,
-   "en": "{1c:1b}This world... It is swelling...{1a}I see, so it is on the verge of exploding...{1a}So I have been swept up in the birth and\ndeath of this world, have I...{0c:1501}",
+   "en": "{1c:1b}This world... It is swelling...{1a}I see, so it is on the verge of exploding...{1a}So I have been caught up in the birth and\ndeath of this world, have I...{0c:1501}",
    "status": "done",
-   "tl": "This world... It is swelling... // I see, so it is on the verge of exploding... // So I have been swept up in the birth and death of this world, have I..."
+   "tl": "This world... It is swelling... // I see, so it is on the verge of exploding... // So I have been caught up in the birth and death of this world, have I..."
   },
   {
    "id": "RES#230:29a0d",
@@ -6297,9 +6297,9 @@
    "jp": "{1c:1b}この世{e084}・・・膨らんでる・・・{1a}そうか、{e089}発する寸前なんですね・・・{1a}ぼくはこの世{e084}の誕生と消滅に\n巻き{e085}まれちゃったわけですか・・・{0c:1501}",
    "read": "{1c:1b}この世界・・・膨らんでる・・・{1a}そうか、爆発する寸前なんですね・・・{1a}ぼくはこの世界の誕生と消滅に\n巻き込まれちゃったわけですか・・・{0c:1501}",
    "raw": null,
-   "en": "{1c:1b}This world... It is swelling...{1a}I see, so it is on the verge of exploding...{1a}So I have been swept up in the birth and\ndeath of this world, have I...{0c:1501}",
+   "en": "{1c:1b}This world... It is swelling...{1a}I see, so it is on the verge of exploding...{1a}So I have been caught up in the birth and\ndeath of this world, have I...{0c:1501}",
    "status": "done",
-   "tl": "This world... It is swelling... // I see, so it is on the verge of exploding... // So I have been swept up in the birth and death of this world, have I..."
+   "tl": "This world... It is swelling... // I see, so it is on the verge of exploding... // So I have been caught up in the birth and death of this world, have I..."
   },
   {
    "id": "RES#230:29c34",
@@ -6896,9 +6896,9 @@
    "jp": "{1c:21}ねえ、{10}・・・{1a}この世{e084}の中じゃ\n言{e099}なんて必要ないみたいだけど、{1a}これが最後の機{e0ba}かもしれないから\n自分の口で言っておくわ・・・{1a}ありがと、\nあなたのおかげで案外楽しかった。{1a}退屈しのぎのつもりで来た割には\nスリルもあったし、\n面白いモノも見られたし・・・{1a}中でもあなたとの出逢いは\nうれしい誤算ね。{1a}初めは{e0ea}愛いだけの\n頭の悪い女って思ってたけど\n時間と{e0e3}に興味が沸いてきた。{1a}今では1番興味のある存{e0b2}かもね・・・\nあなたが男なら惚れてたわ。{1a}もし無事に戻れたら、\n一緒にどこか旅しましょ。\nあたしが飽きるまで・・・{1a}あなたの{e0e6}来が賭けの賞{e0e9}・・・\nいいわよね。{0c:1501}",
    "read": "{1c:21}ねえ、{10}・・・{1a}この世界の中じゃ\n言葉なんて必要ないみたいだけど、{1a}これが最後の機会かもしれないから\n自分の口で言っておくわ・・・{1a}ありがと、\nあなたのおかげで案外楽しかった。{1a}退屈しのぎのつもりで来た割には\nスリルもあったし、\n面白いモノも見られたし・・・{1a}中でもあなたとの出逢いは\nうれしい誤算ね。{1a}初めは可愛いだけの\n頭の悪い女って思ってたけど\n時間と共に興味が沸いてきた。{1a}今では1番興味のある存在かもね・・・\nあなたが男なら惚れてたわ。{1a}もし無事に戻れたら、\n一緒にどこか旅しましょ。\nあたしが飽きるまで・・・{1a}あなたの未来が賭けの賞品・・・\nいいわよね。{0c:1501}",
    "raw": null,
-   "en": "{1c:21}Say, {10}...{1a}Words don't seem necessary in this\nworld, but{1a}this may be my last chance, so I'll say it\nwith my own mouth...{1a}Thanks. You made this more fun than I\nexpected.{1a}For someone who came just to kill\nboredom, I got my thrills and saw a few\namusing things...{1a}Meeting you most of all was a pleasant\nmiscalculation.{1a}At first I took you for a stupid woman\nwho was only cute, but my interest grew\nwith time.{1a}Now you're what interests me most, I\nsuppose... If you were a man, I'd have\nfallen for you.{1a}If we get back safe, let's go traveling\nsomewhere together. Until I get bored...{1a}Your future is the prize in the wager...\nThat's all right, isn't it.{0c:1501}",
+   "en": "{1c:21}Say, {10}...{1a}Words don't seem necessary in this\nworld, but{1a}this may be my last chance, so I'll say it\nwith my own mouth...{1a}Thanks. You made this more fun than I\nexpected.{1a}For someone who came just to kill\nboredom, I got my thrills and saw a few\namusing things...{1a}Meeting you most of all was a pleasant\nmiscalculation.{1a}At first I took you for a stupid woman\nwith nothing but a cute face, but my\ninterest grew with time.{1a}Now you're what interests me most, I\nsuppose... If you were a man, I'd have\nfallen for you.{1a}If we get back safe, let's go traveling\nsomewhere together. Until I get bored...{1a}Your future is the prize in the wager...\nThat's all right, isn't it.{0c:1501}",
    "status": "done",
-   "tl": "Say, [HERO]... // Words don't seem necessary in this world, but // this may be my last chance, so I'll say it with my own mouth... // Thanks. You made this more fun than I expected. // For someone who came just to kill boredom, I got my thrills and saw a few amusing things... // Meeting you most of all was a pleasant miscalculation. // At first I took you for a stupid woman who was only cute, but my interest grew with time. // Now you're what interests me most, I suppose... If you were a man, I'd have fallen for you. // If we get back safe, let's go traveling somewhere together. Until I get bored... // Your future is the prize in the wager... That's all right, isn't it."
+   "tl": "Say, [HERO]... // Words don't seem necessary in this world, but // this may be my last chance, so I'll say it with my own mouth... // Thanks. You made this more fun than I expected. // For someone who came just to kill boredom, I got my thrills and saw a few amusing things... // Meeting you most of all was a pleasant miscalculation. // At first I took you for a stupid woman with nothing but a cute face, but my interest grew with time. // Now you're what interests me most, I suppose... If you were a man, I'd have fallen for you. // If we get back safe, let's go traveling somewhere together. Until I get bored... // Your future is the prize in the wager... That's all right, isn't it."
   },
   {
    "id": "RES#230:2a958",
@@ -7069,9 +7069,9 @@
    "jp": "{1c:10}貴様の意識が\n{e0eb}{e0ec}に流れ{e085}んでくる・・・{1a}そうか・・・\nこれが『{e083}しい世{e084}』の力か・・・{1a}確かに、こんな所にいれば\n他人と自分との境{e084}{e096}など\n消えて無くなるだろうな・・・{1a}いや・・・それだけではない・・・{1a}この世{e084}と我{e0ec}も\n1つになろうとしているのか・・・{0c:1501}",
    "read": "{1c:10}貴様の意識が\n徐々に流れ込んでくる・・・{1a}そうか・・・\nこれが『新しい世界』の力か・・・{1a}確かに、こんな所にいれば\n他人と自分との境界線など\n消えて無くなるだろうな・・・{1a}いや・・・それだけではない・・・{1a}この世界と我々も\n1つになろうとしているのか・・・{0c:1501}",
    "raw": null,
-   "en": "{1c:10}Your mind is flowing into me, little by\nlittle...{1a}I see... So this is the power of the 'New\nWorld'...{1a}Indeed, in a place such as this, the line\nbetween self and others would simply\nvanish...{1a}No... it is more than that...{1a}This world and we ourselves are\nbecoming one as well...{0c:1501}",
+   "en": "{1c:10}Your mind is flowing into me, little by\nlittle...{1a}I see... So this is the power of the 'New\nWorld'...{1a}Indeed, in a place such as this, the line\nbetween self and others would simply\nvanish...{1a}No... it is more than that...{1a}Are this world and we ourselves\nbecoming one as well...{0c:1501}",
    "status": "done",
-   "tl": "Your mind is flowing into me, little by little... // I see... So this is the power of the 'New World'... // Indeed, in a place such as this, the line between self and others would simply vanish... // No... it is more than that... // This world and we ourselves are becoming one as well..."
+   "tl": "Your mind is flowing into me, little by little... // I see... So this is the power of the 'New World'... // Indeed, in a place such as this, the line between self and others would simply vanish... // No... it is more than that... // Are this world and we ourselves becoming one as well..."
   },
   {
    "id": "RES#230:2abbc",
@@ -7207,9 +7207,9 @@
    "jp": "{1c:10}貴様の意識が\n{e0eb}{e0ec}に流れ{e085}んでくる・・・{1a}そうか・・・\nこれが『{e083}しい世{e084}』の力か・・・{1a}確かに、こんな所にいれば\n他人と自分との境{e084}{e096}など\n消えて無くなるだろうな・・・{1a}いや・・・それだけではない・・・{1a}この世{e084}と我{e0ec}も\n1つになろうとしているのか・・・{0c:1501}",
    "read": "{1c:10}貴様の意識が\n徐々に流れ込んでくる・・・{1a}そうか・・・\nこれが『新しい世界』の力か・・・{1a}確かに、こんな所にいれば\n他人と自分との境界線など\n消えて無くなるだろうな・・・{1a}いや・・・それだけではない・・・{1a}この世界と我々も\n1つになろうとしているのか・・・{0c:1501}",
    "raw": null,
-   "en": "{1c:10}Your mind is flowing into me, little by\nlittle...{1a}I see... So this is the power of the 'New\nWorld'...{1a}Indeed, in a place such as this, the line\nbetween self and others would simply\nvanish...{1a}No... it is more than that...{1a}This world and we ourselves are\nbecoming one as well...{0c:1501}",
+   "en": "{1c:10}Your mind is flowing into me, little by\nlittle...{1a}I see... So this is the power of the 'New\nWorld'...{1a}Indeed, in a place such as this, the line\nbetween self and others would simply\nvanish...{1a}No... it is more than that...{1a}Are this world and we ourselves\nbecoming one as well...{0c:1501}",
    "status": "done",
-   "tl": "Your mind is flowing into me, little by little... // I see... So this is the power of the 'New World'... // Indeed, in a place such as this, the line between self and others would simply vanish... // No... it is more than that... // This world and we ourselves are becoming one as well..."
+   "tl": "Your mind is flowing into me, little by little... // I see... So this is the power of the 'New World'... // Indeed, in a place such as this, the line between self and others would simply vanish... // No... it is more than that... // Are this world and we ourselves becoming one as well..."
   },
   {
    "id": "RES#230:2add1",
@@ -7633,9 +7633,9 @@
    "jp": "{1c:19}暗い{e184}庫の中に\n閉じこもっていたあたしに\nあなたは{e08d}を{e186}えてくれた・・・{1a}劣等感に苦しんでいたあたしに\nあなたは自信を{e186}えてくれた・・・{1a}1人の友人も出来ず、\n人を信じる勇気もなかったあたしに、\nあなたは勇気を{e186}えてくれた・・・{0c:1501}",
    "read": "{1c:19}暗い書庫の中に\n閉じこもっていたあたしに\nあなたは光を与えてくれた・・・{1a}劣等感に苦しんでいたあたしに\nあなたは自信を与えてくれた・・・{1a}1人の友人も出来ず、\n人を信じる勇気もなかったあたしに、\nあなたは勇気を与えてくれた・・・{0c:1501}",
    "raw": null,
-   "en": "{1c:19}I had shut myself up in that dark library,\nand you gave me light...{1a}I was suffering from my own inferiority,\nand you gave me confidence...{1a}I hadn't a single friend, nor the courage\nto trust anyone, and you gave me that\ncourage...{0c:1501}",
+   "en": "{1c:19}I had shut myself up in that dark library,\nand you gave me light...{1a}I was tormented by feeling inferior, and\nyou gave me confidence...{1a}I hadn't a single friend, nor the courage\nto trust anyone, and you gave me that\ncourage...{0c:1501}",
    "status": "done",
-   "tl": "I had shut myself up in that dark library, and you gave me light... // I was suffering from my own inferiority, and you gave me confidence... // I hadn't a single friend, nor the courage to trust anyone, and you gave me that courage..."
+   "tl": "I had shut myself up in that dark library, and you gave me light... // I was tormented by feeling inferior, and you gave me confidence... // I hadn't a single friend, nor the courage to trust anyone, and you gave me that courage..."
   },
   {
    "id": "RES#230:2b5a2",
@@ -7806,9 +7806,9 @@
    "jp": "{1c:1b}{10}さん達は\n助かったのでしょうか・・・{1a}外の世{e084}はどうなったのでしょう・・・{1a}上下の感覚も無くなってきた・・・\nこれじゃ何も分からないや・・・{1a}でも、1人なのに寂しくないのは\n何故なんだろう・・・{0c:1501}",
    "read": "{1c:1b}{10}さん達は\n助かったのでしょうか・・・{1a}外の世界はどうなったのでしょう・・・{1a}上下の感覚も無くなってきた・・・\nこれじゃ何も分からないや・・・{1a}でも、1人なのに寂しくないのは\n何故なんだろう・・・{0c:1501}",
    "raw": null,
-   "en": "{1c:1b}I wonder if {10}-san and the\nothers were saved...{1a}What has become of the outside world, I\nwonder...{1a}I can't even tell up from down anymore... I\ncan't make out anything like this...{1a}But why is it I don't feel lonely, even\nthough I'm alone...?{0c:1501}",
+   "en": "{1c:1b}I wonder if {10}-san and the\nothers were saved...{1a}What has become of the outside world, I\nwonder...{1a}I can't even tell up from down anymore...\nLike this, I can't make out anything...{1a}But why is it I don't feel lonely, even\nthough I'm alone...?{0c:1501}",
    "status": "done",
-   "tl": "I wonder if [HERO]-san and the others were saved... // What has become of the outside world, I wonder... // I can't even tell up from down anymore... I can't make out anything like this... // But why is it I don't feel lonely, even though I'm alone...?"
+   "tl": "I wonder if [HERO]-san and the others were saved... // What has become of the outside world, I wonder... // I can't even tell up from down anymore... Like this, I can't make out anything... // But why is it I don't feel lonely, even though I'm alone...?"
   },
   {
    "id": "RES#230:2b85f",
@@ -7921,9 +7921,9 @@
    "jp": "{1c:1b}{10}さん達は\n助かったのでしょうか・・・{1a}外の世{e084}はどうなったのでしょう・・・{1a}上下の感覚も無くなってきた・・・\nこれじゃ何も分からないや・・・{1a}でも、1人なのに寂しくないのは\n何故なんだろう・・・{0c:1501}",
    "read": "{1c:1b}{10}さん達は\n助かったのでしょうか・・・{1a}外の世界はどうなったのでしょう・・・{1a}上下の感覚も無くなってきた・・・\nこれじゃ何も分からないや・・・{1a}でも、1人なのに寂しくないのは\n何故なんだろう・・・{0c:1501}",
    "raw": null,
-   "en": "{1c:1b}I wonder if {10}-san and the\nothers were saved...{1a}What has become of the outside world, I\nwonder...{1a}I can't even tell up from down anymore... I\ncan't make out anything like this...{1a}But why is it I don't feel lonely, even\nthough I'm alone...?{0c:1501}",
+   "en": "{1c:1b}I wonder if {10}-san and the\nothers were saved...{1a}What has become of the outside world, I\nwonder...{1a}I can't even tell up from down anymore...\nLike this, I can't make out anything...{1a}But why is it I don't feel lonely, even\nthough I'm alone...?{0c:1501}",
    "status": "done",
-   "tl": "I wonder if [HERO]-san and the others were saved... // What has become of the outside world, I wonder... // I can't even tell up from down anymore... I can't make out anything like this... // But why is it I don't feel lonely, even though I'm alone...?"
+   "tl": "I wonder if [HERO]-san and the others were saved... // What has become of the outside world, I wonder... // I can't even tell up from down anymore... Like this, I can't make out anything... // But why is it I don't feel lonely, even though I'm alone...?"
   },
   {
    "id": "RES#230:2bac2",
@@ -8335,9 +8335,9 @@
    "jp": "{1c:23}{e08d}の外のことも\nだんだん見えてきた・・・{1a}よかった・・・\n{13}さんは巻き{e085}まれずに\nすんだみたいだよ・・・{1a}ってことは・・・{1a}うん、\nまた{10}さんと2人っきりに\nなっちゃったね・・・{0c:1501}",
    "read": "{1c:23}光の外のことも\nだんだん見えてきた・・・{1a}よかった・・・\n{13}さんは巻き込まれずに\nすんだみたいだよ・・・{1a}ってことは・・・{1a}うん、\nまた{10}さんと2人っきりに\nなっちゃったね・・・{0c:1501}",
    "raw": null,
-   "en": "{1c:23}I'm starting to see beyond the light,\nlittle by little...{1a}I'm so glad... {13}-san got\naway without being swept up in this...{1a}Which means...{1a}Yeah, it's just you and me again,\n{10}-san...{0c:1501}",
+   "en": "{1c:23}I'm starting to see beyond the light,\nlittle by little...{1a}I'm so glad... looks like\n{13}-san got away\nwithout being swept up in this...{1a}Which means...{1a}Yeah, it's just you and me again,\n{10}-san...{0c:1501}",
    "status": "done",
-   "tl": "I'm starting to see beyond the light, little by little... // I'm so glad... [VAR13]-san got away without being swept up in this... // Which means... // Yeah, it's just you and me again, [HERO]-san..."
+   "tl": "I'm starting to see beyond the light, little by little... // I'm so glad... looks like [VAR13]-san got away without being swept up in this... // Which means... // Yeah, it's just you and me again, [HERO]-san..."
   },
   {
    "id": "RES#230:2c3bc",
@@ -8484,9 +8484,9 @@
    "jp": "{1c:23}あたし、{10}さんと出逢えて\n本当に良かった・・・{1a}2人で{e0b8}んなこと経験したよね・・・{1a}怖い思いもいっぱいしたけど、\nそれでも{10}さんが\n側にいてくれたおかげで\nいつも安心だった・・・{1a}悲しい思い出もあったけど、\nそれでも{10}さんが\n側にいてくれたおかげで\n励まされた・・・{0c:1501}",
    "read": "{1c:23}あたし、{10}さんと出逢えて\n本当に良かった・・・{1a}2人で色んなこと経験したよね・・・{1a}怖い思いもいっぱいしたけど、\nそれでも{10}さんが\n側にいてくれたおかげで\nいつも安心だった・・・{1a}悲しい思い出もあったけど、\nそれでも{10}さんが\n側にいてくれたおかげで\n励まされた・・・{0c:1501}",
    "raw": null,
-   "en": "{1c:23}I'm so glad I met you, {10}-san...{1a}We went through so many things\ntogether, didn't we...{1a}There were lots of scary times, but I\nalways felt safe with you by my side,\n{10}-san...{1a}There were sad memories too, but with\nyou by my side, {10}-san, I could\ncheer up...{0c:1501}",
+   "en": "{1c:23}I'm so glad I met you, {10}-san...{1a}We went through so many things\ntogether, didn't we...{1a}There were lots of scary times, but I\nalways felt safe with you by my side,\n{10}-san...{1a}There were sad memories too, but having\nyou by my side, {10}-san, cheered\nme up...{0c:1501}",
    "status": "done",
-   "tl": "I'm so glad I met you, [HERO]-san... // We went through so many things together, didn't we... // There were lots of scary times, but I always felt safe with you by my side, [HERO]-san... // There were sad memories too, but with you by my side, [HERO]-san, I could cheer up..."
+   "tl": "I'm so glad I met you, [HERO]-san... // We went through so many things together, didn't we... // There were lots of scary times, but I always felt safe with you by my side, [HERO]-san... // There were sad memories too, but having you by my side, [HERO]-san, cheered me up..."
   },
   {
    "id": "RES#230:2c6d1",

@@ -531,9 +531,9 @@
    "jp": "{0b:08}{e080} アーサー {e081}{0b:09}\nもうこんな時間なのか!\nくっ、僕がいながら\n間に合わないなんて・・・{1a}{10}、今からでも\nあの{e082}{e083}のところに行ってみないか?\nこうなったらあの人を\n{e094}得するしかない。急ごう!",
    "read": "{0b:08}【 アーサー 】{0b:09}\nもうこんな時間なのか!\nくっ、僕がいながら\n間に合わないなんて・・・{1a}{10}、今からでも\nあの司祭のところに行ってみないか?\nこうなったらあの人を\n説得するしかない。急ごう!",
    "raw": null,
-   "en": "{0b:08}【 Arthur 】{0b:09}\nIs it this late already!? Agh, that we\ncouldn't make it in time, with me here...{1a}{10}, why don't we go to that\npriest, even now? We have no choice but\nto persuade him. Hurry!",
+   "en": "{0b:08}【 Arthur 】{0b:09}\nIs it this late already!? Agh, and with me\nhere, we still couldn't make it in time...{1a}{10}, why don't we go to that\npriest, even now? We have no choice but\nto persuade him. Let's hurry!",
    "status": "done",
-   "tl": "Is it this late already!? Agh, that we couldn't make it in time, with me here... // [HERO], why don't we go to that priest, even now? We have no choice but to persuade him. Hurry!"
+   "tl": "Is it this late already!? Agh, and with me here, we still couldn't make it in time... // [HERO], why don't we go to that priest, even now? We have no choice but to persuade him. Let's hurry!"
   },
   {
    "id": "RES#7:1426b",
@@ -554,9 +554,9 @@
    "jp": "{0b:08}{e080} エレアノール {e081}{0b:09}\nもうすぐ\n満月の{e096}時なのですね・・・{1a}申し訳ありません、\n私の見{e097}みがあまかったせいで・・・{1a}こうなればあの{e082}{e083}を\n{e094}得するしか道はないでしょう。{1a}確かに、簡単に{e094}得に\n応じる方のようには\n見受けられませんでしたが、{1a}たとえ今の{e093}額でも、1ガルトも\n獲得できないよりはましでしょう。\n利に{e099}いあの方ならそう思うはず。{1a}急ぎましょう。あの{e082}{e083}の元へ。",
    "read": "{0b:08}【 エレアノール 】{0b:09}\nもうすぐ\n満月の零時なのですね・・・{1a}申し訳ありません、\n私の見込みがあまかったせいで・・・{1a}こうなればあの司祭を\n説得するしか道はないでしょう。{1a}確かに、簡単に説得に\n応じる方のようには\n見受けられませんでしたが、{1a}たとえ今の金額でも、1ガルトも\n獲得できないよりはましでしょう。\n利に賢いあの方ならそう思うはず。{1a}急ぎましょう。あの司祭の元へ。",
    "raw": null,
-   "en": "{0b:08}【 Eleanor 】{0b:09}\nMidnight of the full moon is nearly upon\nus...{1a}I apologize. My estimate was too\noptimistic...{1a}As things stand, there is no way left\nbut to persuade that priest.{1a}Indeed, he did not seem one to yield\neasily to persuasion, but{1a}even the present sum is surely better\nthan not a single galt. A man so shrewd\nabout profit should see that.{1a}Let us hurry. To that priest.",
+   "en": "{0b:08}【 Eleanor 】{0b:09}\nMidnight of the full moon is nearly upon\nus...{1a}I apologize. My estimate was too\noptimistic...{1a}As things stand, there is no way left\nbut to persuade that priest.{1a}Indeed, he did not seem one to yield\neasily to persuasion,{1a}but even the present sum is surely\nbetter than not a single galt. A man so\nshrewd about profit should see that.{1a}Let us hurry. To that priest.",
    "status": "done",
-   "tl": "Midnight of the full moon is nearly upon us... // I apologize. My estimate was too optimistic... // As things stand, there is no way left but to persuade that priest. // Indeed, he did not seem one to yield easily to persuasion, but // even the present sum is surely better than not a single galt. A man so shrewd about profit should see that. // Let us hurry. To that priest."
+   "tl": "Midnight of the full moon is nearly upon us... // I apologize. My estimate was too optimistic... // As things stand, there is no way left but to persuade that priest. // Indeed, he did not seem one to yield easily to persuasion, // but even the present sum is surely better than not a single galt. A man so shrewd about profit should see that. // Let us hurry. To that priest."
   },
   {
    "id": "RES#7:14355",
@@ -624,9 +624,9 @@
    "jp": "{0b:08}{e080} {03}ジェシカ {e081}{0b:09}\n{02}えっ、\nもうこんな時間じゃん{01}!{1a}{10}{02}、\n今からあの{e082}{e083}の所に行くよ{01}!{1a}{02}お{e093}は集められなかったけど、\n{e094}得するしかないでしょ、\nここまで来てあきらめるのも\n気分が悪いしさ。{1a}だいじょうぶ、あのおっさんも\nお{e093}のことに関しては\n馬鹿じゃなさそうだから、\nこの{e093}額でも受けとるよ。{1a}断ったら{01}1{03}ガルト{02}も\n手に入らないんだもんね。\nじゃあ急ごっ{01}!",
    "read": "{0b:08}【 {03}ジェシカ 】{0b:09}\n{02}えっ、\nもうこんな時間じゃん{01}!{1a}{10}{02}、\n今からあの司祭の所に行くよ{01}!{1a}{02}お金は集められなかったけど、\n説得するしかないでしょ、\nここまで来てあきらめるのも\n気分が悪いしさ。{1a}だいじょうぶ、あのおっさんも\nお金のことに関しては\n馬鹿じゃなさそうだから、\nこの金額でも受けとるよ。{1a}断ったら{01}1{03}ガルト{02}も\n手に入らないんだもんね。\nじゃあ急ごっ{01}!",
    "raw": null,
-   "en": "{0b:08}【 Jessica 】{0b:09}\nHuh!? It's already this late!{1a}{10}, we're going to that priest\nright now!{1a}We couldn't get the money together, but\nwe've gotta talk him around, you know.\nGiving up after coming this far would\nleave a bad taste.{1a}Don't worry, that old guy's no idiot when\nit comes to money, so he'll take this\nmuch, too.{1a}If he says no, he doesn't get a single\ngalt, right? Now let's hurry!",
+   "en": "{0b:08}【 Jessica 】{0b:09}\nHuh!? It's already this late!{1a}{10}, we're going to that priest\nright now!{1a}We couldn't get the money together, but\nwe've gotta talk him around, you know.\nGiving up after coming this far would\nleave a bad taste.{1a}Don't worry, that old guy's no idiot when\nit comes to money, so he'll take even\nthis much.{1a}If he says no, he doesn't get a single\ngalt, right? Now let's hurry!",
    "status": "done",
-   "tl": "Huh!? It's already this late! // [HERO], we're going to that priest right now! // We couldn't get the money together, but we've gotta talk him around, you know. Giving up after coming this far would leave a bad taste. // Don't worry, that old guy's no idiot when it comes to money, so he'll take this much, too. // If he says no, he doesn't get a single galt, right? Now let's hurry!"
+   "tl": "Huh!? It's already this late! // [HERO], we're going to that priest right now! // We couldn't get the money together, but we've gotta talk him around, you know. Giving up after coming this far would leave a bad taste. // Don't worry, that old guy's no idiot when it comes to money, so he'll take even this much. // If he says no, he doesn't get a single galt, right? Now let's hurry!"
   },
   {
    "id": "RES#7:145bb",
@@ -705,9 +705,9 @@
    "jp": "{0b:08}{e080} ルカ {e081}{0b:09}\nど、どうしましょう!\nいつの間にかあと{e09d}分しか・・・{1a}{10}さん、\n今からカドモンさんのところに\n行ってみませんか?\nお願いするしかもう・・・",
    "read": "{0b:08}【 ルカ 】{0b:09}\nど、どうしましょう!\nいつの間にかあと数分しか・・・{1a}{10}さん、\n今からカドモンさんのところに\n行ってみませんか?\nお願いするしかもう・・・",
    "raw": null,
-   "en": "{0b:08}【 Luca 】{0b:09}\nWh-what shall we do! Before we knew it,\njust a few minutes are left...{1a}{10}-san, shall we go to\nKadmon-san now? All that is left is to\nbeg him...",
+   "en": "{0b:08}【 Luca 】{0b:09}\nWh-what shall we do! Before we knew it,\nwe were down to just a few minutes...{1a}{10}-san, shall we go to\nKadmon-san now? All that is left is to\nbeg him...",
    "status": "done",
-   "tl": "Wh-what shall we do! Before we knew it, just a few minutes are left... // [HERO]-san, shall we go to Kadmon-san now? All that is left is to beg him..."
+   "tl": "Wh-what shall we do! Before we knew it, we were down to just a few minutes... // [HERO]-san, shall we go to Kadmon-san now? All that is left is to beg him..."
   },
   {
    "id": "RES#7:147c4",
