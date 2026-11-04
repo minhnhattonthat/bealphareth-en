@@ -34,6 +34,11 @@ Run `python -X utf8 tools/batches.py check <batch>` from the repo root and fix e
 - Same Japanese, same English: repeated stock lines stay word for word within your batches.
 - A leftover test string (`ノエル台詞1`, `説明未設定`) is translated flat: `Noel line 1`, `No description yet`.
 - Kadmon's オレ様 and カドモン様 are the brag "the great Kadmon", not an honorific. 旦那 is "Mister" (バルデスの旦那 Mister Valdes), 新入り "rookie", 共鳴 "resonance", 永遠の世界 "Eternal World".
+- Stammers follow the Japanese. Find each 、-repeat (わ、わかりました) and put one stammer on the same word, first letter only. No 、-repeat in the JP, no hyphen. Luca's shy voice is not a licence for extra stammers; never stammer a second word unless the JP does.
+- Doctrine: always "the Prophet", "the Thirteen Saints", a single "Saint". "Devil" is capitalised only for the prophesied Devil and "Child of the Devil"; a figurative 悪魔 is "a devil". Quote marks only for 『』 in the JP, never added.
+- 最低/卑劣/非道い take period words chosen per speaker (despicable, scum, low, contemptible), never "the worst" or "garbage". Don't repeat a stock idiom ("fits the bill") across speakers in a scene's variants; give each speaker their own phrase.
+- Voice tags ("you know", "dear", "I daresay", "ain't") only where the JP line has a matching particle, address word or register marker, and only if that speaker's style row lists it. At most one per line; never borrow a device from another speaker. Render ええ by meaning: Yes, Of course, Not at all.
+- Rebuild each sentence in natural English order, not JP clause order. Check what "only", "alone" and "even" attach to. Keep the JP's end tone: かな/だろう musings end in `...` or `?`, and `!` only where the JP shouts.
 - Mistakes the earlier pass flattened: `・・・全然そうは見えねえがな` is `...You sure don't look it.`, not `But you don't look like that at all.`
 
 ## Consistency
