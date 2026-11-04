@@ -24,6 +24,7 @@ sys.path.insert(0, str(ROOT / "tools"))
 import check_rom  # noqa: E402
 import extract  # noqa: E402
 import insert  # noqa: E402
+import overlays  # noqa: E402
 import res  # noqa: E402
 import vwf_font  # noqa: E402
 
@@ -156,6 +157,7 @@ def build(marker=False, qa=None, out=OUT, only=None):
                 rebuilt = insert_marker_scene(doc, blob, codec, qa, font, report)
             else:
                 rebuilt, pool = insert.fit_scene(blob, doc, insert.encoded(doc, codec, qa=qa), pool, report)
+            rebuilt = overlays.apply(doc["entry"], rebuilt)
             if rebuilt != blob:
                 assert len(rebuilt) == s
                 main_res[o:o + s] = rebuilt

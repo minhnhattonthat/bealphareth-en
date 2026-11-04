@@ -148,6 +148,43 @@ KANA_PATH equ 0x8004F23C           ; original one-byte path (kana modes)
     j     vwf_measure_ret
     lw    s4, 0x20(sp)
 
+; --- name labels (HUD, party, status): 8 px VRAM cell per letter becomes one proportional 48 px field per name -----------
+; every site: paint into a scratch cell, compose into the name's own buffer, upload the whole field, no step per letter
+.org 0x8003A2E0
+    addiu v1, zero, 12
+.org 0x8003A354
+    jal   vwf_paint
+.org 0x8003A360
+    jal   label_hud
+.org 0x8003A370
+    nop
+.org 0x8003A3BC
+    addiu v0, zero, 48
+
+.org 0x8003C774
+    addiu v0, zero, 12
+.org 0x8003C80C
+    jal   vwf_paint
+.org 0x8003C818
+    jal   label_party
+.org 0x8003C824
+    nop
+    nop
+.org 0x8003C850
+    addiu v1, zero, 48
+
+.org 0x8003DD9C
+    addiu v1, zero, 12
+.org 0x8003DE10
+    jal   vwf_paint
+.org 0x8003DE1C
+    jal   label_status
+.org 0x8003DE2C
+    nop
+    nop
+.org 0x8003DE5C
+    addiu v1, zero, 48
+
 ; --- text speed: frames per glyph, normal 3 and slow 5 in Japanese. English has about twice the glyphs per line. --------------
 .org 0x8004ED14
     addiu v1, zero, 3
@@ -289,5 +326,90 @@ m_head:
     addu  v0, v0, v1
     j     0x80050ACC
     addu  v0, s0, v0
+
+; name labels. The painter's cell goes to label_cell instead of the name's buffer.
+vwf_paint:
+    la    a3, label_cell
+    j     0x800317F8
+    nop
+
+; HUD: the 0x480 buffer at 0x800A68D0 holds one 48 px field per slot, slot = (rect x - 0x3C0) / 12
+label_hud:
+    lhu   t2, (a0)
+    lbu   t0, -1(s0)
+    addiu t2, t2, -0x3C0
+    sll   t3, t2, 4
+    sll   t2, t2, 3
+    addu  t2, t2, t3
+    la    t3, 0x800A68D0
+    addu  t2, t2, t3
+    j     vwf_label
+    move  t1, s3
+label_party:
+    lbu   t0, -1(s0)
+    move  t2, a1
+    j     vwf_label
+    move  t1, s4
+label_status:
+    lbu   t0, (s0)
+    move  t2, a1
+    j     vwf_label
+    move  t1, s3
+
+; a0 = rect, t0 = code, t1 = letters so far, t2 = this name's buffer (48 x 12 px, 4bpp, 24 bytes a row). Ends in LoadImage.
+vwf_label:
+    la    t3, label_pen
+    addiu t4, zero, 1
+    bne   t1, t4, @@letter
+    lw    t5, (t3)
+    move  t5, zero
+    addiu t4, t2, 288
+@@clear:
+    addiu t4, t4, -4
+    bne   t4, t2, @@clear
+    sw    zero, (t4)
+@@letter:
+    la    t4, WIDTHS - 0x20
+    addu  t4, t4, t0
+    lbu   t6, (t4)
+    srl   t7, t5, 3                ; word
+    addu  t6, t5, t6
+    sw    t6, (t3)
+    andi  t8, t5, 7
+    sltiu t4, t7, 6
+    beqz  t4, @@send               ; past the field: clipped
+    sll   t8, t8, 2                ; nibbles
+    sltiu v1, t7, 5                ; a next word exists in this row
+    sll   t7, t7, 2
+    addu  t7, t2, t7
+    la    t3, label_cell
+    addiu t4, zero, 12
+@@row:
+    lw    t6, (t3)
+    lw    t0, (t7)
+    sllv  t9, t6, t8
+    or    t0, t0, t9
+    sw    t0, (t7)
+    beqz  t8, @@next
+    subu  v0, zero, t8             ; srlv takes the low 5 bits: 32 - shift
+    beqz  v1, @@next
+    srlv  t9, t6, v0
+    lw    t0, 4(t7)
+    nop
+    or    t0, t0, t9
+    sw    t0, 4(t7)
+@@next:
+    addiu t4, t4, -1
+    addiu t3, t3, 4
+    bgtz  t4, @@row
+    addiu t7, t7, 24
+@@send:
+    j     0x80090690
+    move  a1, t2
+
+label_pen:
+    .word 0
+label_cell:
+    .fill 0x30
 .endarea
 .close

@@ -8,6 +8,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 import extract  # noqa: E402
 import insert  # noqa: E402
+import overlays  # noqa: E402
 import res  # noqa: E402
 import textcodec  # noqa: E402
 import vwf_font  # noqa: E402
@@ -153,6 +154,17 @@ def test_system_keeps_the_pool_at_its_end():
     except insert.Overflow:
         return
     raise AssertionError("pool over a full block")
+
+
+def test_name_entry_is_ascii_and_keeps_its_slots():
+    doc = json.loads((ROOT / "script/res1023.json").read_text(encoding="utf8"))
+    blob = scene(doc)
+    out = overlays.apply(1023, blob)
+    assert len(out) == len(blob)
+    assert out[0xFAA8:0xFAB1] == b"\1W\1e\1l\1d\0"
+    assert struct.unpack_from("<I", out, overlays.GRID_PAGE_0)[0] == struct.unpack_from("<I", blob, overlays.GRID_PAGE_0 + 4)[0]
+    assert out[0xC5E8:0xC5F4] == blob[0xC5E8:0xC5F4]  # the other page words stay
+    assert overlays.apply(1024, blob) == blob
 
 
 def test_system_cells_compact_and_banks_move_down():
