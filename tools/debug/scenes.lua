@@ -60,6 +60,7 @@ S.menu_status = field("120 -;6 start;30 -;6 circle;30 -;6 right;30 -;6 circle;60
 S.menu_help = field("120 -;6 start;30 -;6 circle;30 -;6 right;30 -;6 right;30 -;6 circle;60 -")
 S.menu_party = field("120 -;6 start;30 -;6 down;30 -;6 circle;60 -")
 S.menu_system = field("120 -;6 start;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 circle;60 -")
+S.menu_controls = field("120 -;6 start;30 -;6 down;30 -;6 down;30 -;6 circle;240 -")
 -- Leftover debug menu (Aug 24 2000), R2+Cross with debug on: its screens are English and never shipped text.
 local D = "20 r2+cross;40 -;"
 S.debug_menu = field(D, { debug = true })

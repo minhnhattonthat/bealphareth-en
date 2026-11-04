@@ -26,6 +26,7 @@ import extract  # noqa: E402
 import insert  # noqa: E402
 import overlays  # noqa: E402
 import res  # noqa: E402
+import stills  # noqa: E402
 import vwf_font  # noqa: E402
 
 TOOLS = ROOT / "tools/mkpsxiso/mkpsxiso-2.30-win64"
@@ -162,6 +163,8 @@ def build(marker=False, qa=None, out=OUT, only=None):
                 assert len(rebuilt) == s
                 main_res[o:o + s] = rebuilt
                 changed += 1
+    if not marker:
+        print(f"still pages {stills.build_all(main_res, table)}")
     if len(font_res) != ss:
         raise ValueError("system entry changed size")
     main_res[so:so + ss] = font_res  # never seen loaded, kept in step in case a path does

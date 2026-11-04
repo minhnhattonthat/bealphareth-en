@@ -114,6 +114,158 @@ def image(b):
     return np.clip(a + 128, 0, 255).astype(np.uint8), w * 16, h * 16, n
 
 
+HEIGHT_MB = 30  # stills are 320x480, 600 macroblocks, column by column
+VLC_ENC = {rl: code for code, rl in VLC.items()}
+
+
+def parse_levels(b):
+    """Coefficient levels of a still: [(dc, [(run, level), ..]), ..], block by block (Cr Cb Y1 Y2 Y3 Y4 per macroblock)."""
+    words = np.frombuffer(b, dtype="<u2", offset=8, count=(len(b) - 8) // 2)
+    bits = "".join(f"{w:016b}" for w in words.tolist())
+    p, n = 0, len(bits)
+    out = []
+    while p + 10 < n and len(out) < HEIGHT_MB * 20 * 6:
+        dc = int(bits[p:p + 10], 2)
+        p += 10
+        if dc >= 512:
+            dc -= 1024
+        ac = []
+        while bits[p:p + 2] != "10":
+            if bits[p:p + 6] == "000001":
+                run = int(bits[p + 6:p + 12], 2)
+                lev = int(bits[p + 12:p + 22], 2)
+                if lev >= 512:
+                    lev -= 1024
+                ac.append((run, lev, True))
+                p += 22
+                continue
+            for size in range(2, MAXLEN + 1):
+                hit = VLC.get(bits[p:p + size])
+                if hit:
+                    run, lev = hit
+                    p += size
+                    if bits[p] == "1":
+                        lev = -lev
+                    p += 1
+                    ac.append((run, lev, False))
+                    break
+            else:
+                raise ValueError(f"bad code at bit {p}")
+        p += 2
+        out.append((dc, ac))
+    return out, p
+
+
+def block_bits(dc, ac):
+    """The bitstream of one block. An AC entry carries whether the original used an escape, so a stream rebuilds exactly."""
+    parts = [f"{dc & 0x3FF:010b}"]
+    for run, lev, esc in ac:
+        code = VLC_ENC.get((run, abs(lev)))
+        if code and not esc:
+            parts.append(code + ("1" if lev < 0 else "0"))
+        else:
+            parts.append(f"000001{run:06b}{lev & 0x3FF:010b}")
+    parts.append("10")
+    return "".join(parts)
+
+
+def stream(blocks_, qs):
+    """A whole still from its block levels: header, then words. The header's first field counts run-length codes / 2,
+    rounded up to 32 (original stills all follow this; see tests/test_bs.py)."""
+    bits = "".join(block_bits(dc, ac) for dc, ac in blocks_)
+    bits += "0111111111"  # end of frame
+    bits += "0" * (-len(bits) % 32)
+    words = [int(bits[i:i + 16], 2) for i in range(0, len(bits), 16)]
+    codes = sum(len(ac) + 2 for _, ac in blocks_)
+    head = (codes // 2 + 31) // 32 * 32
+    return struct.pack("<HHHH", head, 0x3800, qs, 2) + np.array(words, dtype="<u2").tobytes()
+
+
+def idct_block(dc, ac, qs):
+    co = np.zeros(64)
+    co[0] = dc * IQ[0]
+    k = 0
+    for run, lev, _ in ac:
+        k += run + 1
+        if k > 63:
+            raise ValueError("run past the block")
+        z = ZZ[k]
+        co[z] = lev * IQ[z] * qs / 8
+    return C @ co.reshape(8, 8) @ C.T
+
+
+def dct_block(px, qs, dead=0):
+    """(dc, ac) levels of an 8x8 pixel block (centred on 0); AC levels up to `dead` are dropped, to save bits."""
+    co = (C.T @ px @ C).reshape(64)
+    dc = int(np.clip(round(co[0] / IQ[0]), -512, 511))
+    ac = []
+    run = 0
+    for k in range(1, 64):
+        z = ZZ[k]
+        lev = int(np.clip(round(co[z] * 8 / (IQ[z] * qs)), -512, 511))
+        if abs(lev) <= dead:
+            run += 1
+        else:
+            ac.append((run, lev, False))
+            run = 0
+    return dc, ac
+
+
+def decode_planes(b):
+    """(Y 480x320, Cb 240x160, Cr 240x160) as float arrays (Y centred on 0), and the block levels."""
+    qs = struct.unpack_from("<H", b, 4)[0]
+    levels, _ = parse_levels(b)
+    w = len(levels) // 6 // HEIGHT_MB
+    y = np.zeros((HEIGHT_MB * 16, w * 16))
+    cb = np.zeros((HEIGHT_MB * 8, w * 8))
+    cr = np.zeros((HEIGHT_MB * 8, w * 8))
+    for m in range(len(levels) // 6):
+        x0, y0 = (m // HEIGHT_MB) * 8, (m % HEIGHT_MB) * 8
+        px = [idct_block(*levels[m * 6 + k], qs) for k in range(6)]
+        cr[y0:y0 + 8, x0:x0 + 8] = px[0]
+        cb[y0:y0 + 8, x0:x0 + 8] = px[1]
+        for k, (dy, dx) in enumerate(((0, 0), (0, 8), (8, 0), (8, 8))):
+            y[y0 * 2 + dy:y0 * 2 + dy + 8, x0 * 2 + dx:x0 * 2 + dx + 8] = px[2 + k]
+    return y, cb, cr, levels
+
+
+def to_rgb(y, cb, cr):
+    cb2 = cb.repeat(2, axis=0).repeat(2, axis=1)
+    cr2 = cr.repeat(2, axis=0).repeat(2, axis=1)
+    rgb = np.stack((y + 1.402 * cr2, y - 0.3437 * cb2 - 0.7143 * cr2, y + 1.772 * cb2), axis=2) + 128
+    return np.clip(rgb, 0, 255).astype(np.uint8)
+
+
+def from_rgb(rgb):
+    """(Y, Cb, Cr) planes of an RGB image, the inverse of to_rgb; chroma averaged down 2x2."""
+    a = rgb.astype(float) - 128
+    y = 0.299 * a[:, :, 0] + 0.587 * a[:, :, 1] + 0.114 * a[:, :, 2]
+    cb = (a[:, :, 2] - y) / 1.772
+    cr = (a[:, :, 0] - y) / 1.402
+    h, w = y.shape
+    down = lambda p: p.reshape(h // 2, 2, w // 2, 2).mean(axis=(1, 3))  # noqa: E731
+    return y, down(cb), down(cr)
+
+
+def edit_still(b, rgb, changed, dead=0):
+    """A new stream for still `b` showing `rgb`: macroblocks outside the boolean mask `changed` (480x320) keep their
+    original codes, the rest are encoded at the still's own qscale (`dead`: see dct_block)."""
+    qs = struct.unpack_from("<H", b, 4)[0]
+    y, cb, cr = from_rgb(rgb)
+    levels, _ = parse_levels(b)
+    w = len(levels) // 6 // HEIGHT_MB
+    out = list(levels)
+    for m in range(w * HEIGHT_MB):
+        x0, y0 = (m // HEIGHT_MB) * 8, (m % HEIGHT_MB) * 8
+        if not changed[y0 * 2:y0 * 2 + 16, x0 * 2:x0 * 2 + 16].any():
+            continue
+        out[m * 6] = dct_block(cr[y0:y0 + 8, x0:x0 + 8], qs, dead)
+        out[m * 6 + 1] = dct_block(cb[y0:y0 + 8, x0:x0 + 8], qs, dead)
+        for k, (dy, dx) in enumerate(((0, 0), (0, 8), (8, 0), (8, 8))):
+            out[m * 6 + 2 + k] = dct_block(y[y0 * 2 + dy:y0 * 2 + dy + 8, x0 * 2 + dx:x0 * 2 + dx + 8], qs, dead)
+    return stream(out, qs)
+
+
 if __name__ == "__main__":
     d = res.load()
     t = res.table(d)
