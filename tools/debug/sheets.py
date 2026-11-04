@@ -9,6 +9,8 @@ import re
 import sys
 from pathlib import Path
 
+from PIL import Image, ImageDraw
+
 ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT / "tools"))
 from skill import SKILL
@@ -31,12 +33,31 @@ def order(name):
     return (0, int(name[1:])) if name[1:].isdigit() else (1, name)
 
 
+def pair_page(chunk, scenes, jp, path, cols):
+    """Full-size labelled EN | JP pairs, so a reviewer reads text without zooming and sees the game's own behaviour beside it."""
+    cell_w, cell_h = 320, 240
+    rows = (len(chunk) + cols - 1) // cols
+    page = Image.new("RGB", (cols * (2 * cell_w + 8), rows * (cell_h + 14)), (60, 0, 60))
+    d = ImageDraw.Draw(page)
+    for i, n in enumerate(chunk):
+        x, y = (i % cols) * (2 * cell_w + 8), (i // cols) * (cell_h + 14)
+        d.text((x + 2, y + 1), f"{n} EN", fill=(255, 255, 0))
+        d.text((x + cell_w + 2, y + 1), f"{n} JP", fill=(255, 160, 0))
+        for dx, root in ((0, scenes), (cell_w, jp)):
+            shot = root / n / "final.png"
+            if shot.exists():
+                # shortcut: a 640 px mode shot is halved, zoom it from the scene folder when its text matters
+                page.paste(Image.open(shot).convert("RGB").resize((cell_w, cell_h), Image.LANCZOS), (x + dx, y + 14))
+    page.save(path)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--scenes", type=Path, default=OUT, help="the regen.py output to page")
     ap.add_argument("--out", help="default SCENES/sheets")
     ap.add_argument("--per", type=int, default=24)
     ap.add_argument("--cols", type=int, default=6)
+    ap.add_argument("--jp", type=Path, help="the original's regen.py output: full-size labelled EN|JP pairs instead of half-size tiles")
     a = ap.parse_args()
     scenes = a.scenes
     out = Path(a.out) if a.out else scenes / "sheets"
@@ -57,9 +78,11 @@ def main():
         names_g = [n for n in names if kind(n) == group]
         for page, i in enumerate(range(0, len(names_g), a.per), 1):
             chunk = names_g[i:i + a.per]
-            imgs = [sheet.read_png(str(scenes / n / "final.png")) for n in chunk]
             path = out / f"{group}_{page:02d}.png"
-            sheet.sheet(imgs, a.cols, str(path), div=2)
+            if a.jp:
+                pair_page(chunk, scenes, a.jp, path, a.cols)
+            else:
+                sheet.sheet([sheet.read_png(str(scenes / n / "final.png")) for n in chunk], a.cols, str(path), div=2)
             (out / f"{group}_{page:02d}.txt").write_text("\n".join(chunk) + "\n")
             index += [f"{n}\t{int(proven.get(n, False))}\t{path.name}\t{j}" for j, n in enumerate(chunk)]
             print(f"{path.name}: {len(chunk)} tiles {chunk[0]}..{chunk[-1]}")

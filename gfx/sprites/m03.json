@@ -2,15 +2,15 @@
   {"sheet": "217+e4a0.0", "erase": [[64, 239, 72, 246]], "blocks": [
     {"box": [122, 38, 213, 51], "text": "Select / O Confirm", "align": "center", "size": 11},
     {"box": [4, 57, 74, 71], "text": "Black Passage", "align": "center", "size": 11},
-    {"box": [2, 74, 72, 87], "text": "Underground City", "align": "center", "size": 11},
-    {"box": [2, 90, 36, 103], "text": "Purgatory", "align": "center", "size": 11},
-    {"box": [43, 90, 76, 103], "text": "Celestial", "align": "center", "size": 11},
-    {"box": [2, 106, 72, 119], "text": "Corridor of Time", "align": "center", "size": 11},
+    {"box": [2, 74, 72, 87], "text": "Underground City", "align": "center", "size": 11, "pixel": true},
+    {"box": [2, 90, 37, 103], "text": "Purgatory", "align": "center", "size": 11, "pixel": true},
+    {"box": [43, 90, 76, 103], "text": "Celestial", "align": "center", "size": 11, "pixel": true},
+    {"box": [2, 106, 72, 119], "text": "Corridor of Time", "align": "center", "size": 11, "pixel": true},
     {"box": [2, 121, 72, 135], "text": "Sea of Spirit", "align": "center", "size": 11},
     {"box": [2, 140, 72, 154], "text": "Land of Origin", "align": "center", "size": 11},
     {"box": [4, 158, 51, 170], "text": "Asla", "align": "right", "size": 11},
     {"box": [2, 173, 77, 185], "text": "Fael", "size": 11},
-    {"box": [7, 237, 147, 248], "text": "Asla Fael", "align": "center", "size": 11}
+    {"box": [7, 237, 147, 248], "text": "Asla Fael", "align": "center", "size": 11, "pixel": true}
   ]},
   {"sheet": "217+22df8.0", "dark": true, "blocks": [
     {"box": [0, 2, 48, 15], "text": "North Upper", "align": "center", "size": 11},
@@ -33,7 +33,7 @@
     {"box": [0, 82, 48, 95], "text": "Atonement", "align": "center", "size": 11},
     {"box": [57, 82, 94, 95], "text": "Gate", "align": "center", "size": 11},
     {"box": [204, 79, 246, 92], "text": "Level 35", "align": "center", "size": 11},
-    {"box": [0, 98, 49, 111], "text": "Cleansing Fire", "align": "center", "size": 11, "bold": false},
+    {"box": [0, 98, 49, 111], "text": "Cleansing\nFire", "align": "center", "size": 11, "bold": false},
     {"box": [57, 102, 94, 115], "text": "Light", "align": "center", "size": 11},
     {"box": [139, 99, 189, 112], "text": "First Temple", "align": "center", "size": 11},
     {"box": [204, 99, 246, 112], "text": "Level 12", "align": "center", "size": 11},

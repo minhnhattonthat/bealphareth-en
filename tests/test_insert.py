@@ -61,6 +61,25 @@ def test_sub_scene_text_stays_below_the_buffer():
         insert.rebuild_scene(scene(doc), doc, {s["off"]: b"x" * 0x10000})
 
 
+def test_sub_scene_keeps_what_it_cannot_hold_in_its_own_file():
+    doc = next(d for d in docs() if d.get("entry") == 1195)
+    blob = bytes(scene(doc))
+    s = next(s for s in doc["strings"] if s["len"] > 20)
+    big = b"A" * 0x8000
+    report = []
+    out, pool = insert.fit_scene(blob, doc, {s["off"]: big}, b"", report)
+    assert pool == b"" and "sub pool" in report[0] and len(out) == len(blob)
+    end = struct.unpack_from("<I", out, 4)[0]
+    assert end % 4 == 0
+    magic, size = struct.unpack_from("<II", out, end - 8)
+    assert magic == insert.SUB_POOL_MAGIC and out[end - 8 - size:end - 8] == big + b"\0"
+    bank = doc["banks"][0]
+    at = bank["at"] + struct.unpack_from("<I", out, bank["at"] + 8)[0]
+    index = next(i for i, x in enumerate(doc["strings"]) if x["off"] == s["off"])
+    off = struct.unpack_from("<I", out, at + 4 + 4 * index)[0]
+    assert (insert.SCENE_LOAD[len(blob)] + at + off) & 0xFFFFFFFF == insert.SUB_POOL_RAM
+
+
 def test_shared_strings_read_back_the_same():
     doc = next(d for d in docs() if d.get("entry") == 1195)
     blob = bytes(scene(doc))
@@ -204,6 +223,12 @@ def test_name_entry_is_ascii_and_keeps_its_slots():
     assert struct.unpack_from("<I", out, overlays.GRID_PAGE_0)[0] == struct.unpack_from("<I", blob, overlays.GRID_PAGE_0 + 4)[0]
     assert out[0xC5E8:0xC5F4] == blob[0xC5E8:0xC5F4]  # the other page words stay
     assert overlays.apply(1024, blob) == blob
+
+
+def test_loose_names_leave_the_default_names_to_the_entry_screen():
+    out = bytearray(b"x" * 0x10000)
+    assert overlays.patch_loose_names(out, {1023: (0, 0x10000)}, [(1023, 0xFAA8, [0xC7E4], "ウェルド")], b"", 0x1000) == b""
+    assert out == b"x" * 0x10000
 
 
 def test_system_cells_compact_and_banks_move_down():

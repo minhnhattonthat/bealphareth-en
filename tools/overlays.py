@@ -65,6 +65,8 @@ def patch_loose_names(main_res, table, rows, pool, pool_end):
     """rows: loose_scan.scan on the original disc. A new name not in tbl/loose_names.tsv raises."""
     names = dict(line.split("\t") for line in NAMES.read_text(encoding="utf8").splitlines())
     for entry, off, words, text in rows:
+        if entry == 1023 and off in DEFAULTS:  # patch_name_entry's: compact bytes would put the entry cursor on the name's last letter
+            continue
         pool = patch_loose_name(main_res, table[entry][0], off, words, names[text], pool, pool_end)
     return pool
 

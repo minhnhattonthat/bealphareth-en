@@ -11,6 +11,9 @@ WIDE_WORDS equ 10                  ; trap label field in 32-bit words: 80 px, it
 RETURN_NEXT equ 0x8004F360         ; after the pen moved: wait, flush test, next char
 FLUSH    equ 0x8004F480            ; end the block
 KANA_PATH equ 0x8004F23C           ; original one-byte path (kana modes)
+SUB_RAM  equ 0x80136C00            ; a sub-scene's load address
+SUB_POOL_RAM equ 0x8017EA00        ; insert.SUB_POOL_RAM
+SUB_POOL_MAGIC equ 0x424F5046      ; insert.SUB_POOL_MAGIC
 
 .open "MAIN.EXE", 0x80010000 - 0x800
 
@@ -202,6 +205,10 @@ KANA_PATH equ 0x8004F23C           ; original one-byte path (kana modes)
     j     m_head
     nop
 
+; --- sub-scene load 0x80027928: a sub-scene's far strings leave its file before the next load lands on them ----------------
+.org 0x80027948
+    jal   sub_far
+
 .close
 
 ; --- resident code, in RES#3927 (loaded at 0x801B9000, always there while text draws) ----------------------------------
@@ -210,6 +217,36 @@ KANA_PATH equ 0x8004F23C           ; original one-byte path (kana modes)
 .incbin "vwf_widths.bin"
 .org RESIDENT
 .area FONT_RES + 0xBFC - RESIDENT
+
+; the load, then a file ending in [pool, magic, pool length] (insert.sub_pool) copies its pool to SUB_POOL_RAM
+sub_far:
+    addiu sp, sp, -0x18
+    sw    ra, 0x14(sp)
+    jal   0x8002770C
+    nop
+    la    t0, SUB_RAM
+    lw    t1, 4(t0)                ; size_total
+    nop
+    addu  t1, t1, t0
+    lw    t2, -8(t1)
+    li    t3, SUB_POOL_MAGIC
+    bne   t2, t3, @@done
+    lw    t2, -4(t1)
+    la    t4, SUB_POOL_RAM
+    subu  t1, t1, t2
+    addiu t1, t1, -8
+@@copy:
+    lbu   t3, 0(t1)
+    addiu t2, t2, -1
+    addiu t1, t1, 1
+    sb    t3, 0(t4)
+    bgtz  t2, @@copy
+    addiu t4, t4, 1
+@@done:
+    lw    ra, 0x14(sp)
+    addiu sp, sp, 0x18
+    jr    ra
+    nop
 
 ; a1 = one-byte code at (s1). ASCII mode only; the kana modes keep the original path.
 vwf_char:

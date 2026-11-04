@@ -7,7 +7,7 @@
 - [x] RES#1023:26aed - 1番手前の建物 - "frontmost" is stiff - "from the very first building in the underground city" - fixed
 - [x] RES#1023:27905 - 逆に - contrast dropped - "If anything, I bet it's glad to have a new owner." - fixed
 - [x] RES#1023:2793e - 旅の疲れを癒して下さい - "rest off your journey" stumbles - "Please rest in your room after your journey." - fixed
-- [x] PSX.EXE:1b6db, 1b6e2 - 詳細 / 詳細表示 - EN has a leading space the JP lacks; confirm in visual QA whether a button icon needs it - "Details", "Show Details" - qa: shop help prompt; does a button icon need the leading space
+- [x] PSX.EXE:1b6db, 1b6e2 - 詳細 / 詳細表示 - EN has a leading space the JP lacks; confirm in visual QA whether a button icon needs it - "Details", "Show Details" - checked: `{9f82}` is a wide icon, the space stays; shop itself not reached in QA
 - [x] PSX.EXE:1d201, 1d234 - バルデスの大剣, ガイウスの大剣 - named weapons take 's, blocked by the 100 px name limit (109, 103 px) - "Valdes's Greatsword", "Gaius's Greatsword" if phase 7 widens the column - waived: no widening, over 100 px
 - [x] PSX.EXE:1d16d, 1d178, 1d185, 1d1ac, 1d1d2 - マルカ, ファカラル, 隠者, アノート, ナキエルの大剣/戦斧 - 's dropped against the same series' other weapons, same limit (103-109 px) - "Malka's Greatsword", "Fakaral's Battleaxe", "Hermit's Greatsword", "Anote's Greatsword", "Nakiel's Greatsword" if widened - waived: no widening, over 100 px
 - [x] PSX.EXE:1d1b8, 1d1de, 1d249, 1d253, 1d221 - 大剣 - "Claymore" and "Drakehead Blade" stand in for greatsword, same limit (109-121 px) - "Radamael Greatsword", "Astaras Greatsword", "Nameless Greatsword", "Accursed Greatsword", "Drakehead Greatsword" if widened - waived: no widening, over 100 px
@@ -20,7 +20,7 @@
 - [x] PSX.EXE:1e547 - 片手剣/攻45/-/防-8,HP+30 - class shortened, 286 px of 276; 1e4f1 uses "Sword/" - "One-Handed Sword/Attack 45/-/Defense-8, HP+30" if widened - waived: no widening, 286 px
 - [x] PSX.EXE:1e4f1, 1f174, 1f1a9 - class word shortened or dropped to spell out the stats; breaks the column pattern - restore "One-Handed Sword/" and "Armor/" if the help bar widens - waived: no widening
 - [x] PSX.EXE:1f1e6 - 他登場しません - 他 is "more" in 1ed2c, 1edf8 - "Armor/Defense 20/More, not in game" - fixed
-- [x] PSX.EXE:21ca5 - 昇順|降順 - Forward, Reverse is loose if the width allows more - Ascending|[1]Descending - qa: sort submenu width; Descending is 58 px against Reverse 43 px, swap only if the window holds it
+- [x] PSX.EXE:21ca5 - 昇順|降順 - Forward, Reverse is loose if the width allows more - Ascending|[1]Descending - checked: kept Forward|Reverse, the narrower pair; sort window not reached in QA
 - [x] PSX.EXE:22b62 - 構成表を手に入れた - telegraphic, no article - [VAR13][1] got the [2][VAR14][3] formula - fixed
 - [x] RES#1:27110 - また一緒にいこうな - "y'know" sits awkwardly after "let's" - Mm, let's head out together again sometime, I guess. - fixed
 - [x] RES#1:27746 - 早く行こう - 早く dropped - Nothing is finished yet. Let us hurry on. - fixed
@@ -67,7 +67,7 @@
 - [x] 72:12ca3 - Orpheus - missing article - "from the old Kindness Peddler" - fixed
 - [x] RES#73:16cf9 - 分かってはいるんだがな (Valdes) - trailing "I know it, but" softened - ...is still the scum of the earth... I know it, all right. - fixed
 - [x] 72:15046, 76:2de31, 82:1e591 - Luca stammers on the wrong sound (JP stammers on あ) - drop the stammer or "A-actually... thank you!" - waived: brief wants stammer on same word, first letter; already so
-- [x] 73:16a66 - unlabelled line sounds formal between Sara/Scharn - check the plate in-game - qa: who speaks (likely Sara, ですね to Valdes); reworded to "You and Qumran-san really are close, aren't you, Valdes-san?"
+- [x] 73:16a66 - unlabelled line sounds formal between Sara/Scharn - check the plate in-game - checked in the script: Sara, ですね to Valdes (not seen in game); reworded to "You and Qumran-san really are close, aren't you, Valdes-san?"
 - [x] RES#73:177f4 - 誕生と消滅 (Qumran) - verb agreement reads off - Perhaps because endless birth and extinction bring a suffering that never ends. - fixed
 - [x] RES#73:17ba0 - 奴等の苦しみ (Valdes) - "those two's" clumsy - When's the suffering ever gonna end for those two? - fixed
 - [x] RES#73:17d53 - 話が大きすぎて - "so big" slightly literal - They're gone... It was all way over my head, though... - fixed
@@ -165,7 +165,7 @@
 - [x] RES#107:233a7 - Noel 相違があるみたいね - tag does not match "it seems" - "But even they seem to differ in their thinking, don't they." - fixed
 - [x] RES#107:242df - cut character 今のなどまるで - "you were as a heathen devil" is stilted - "And yet just now you were like a heathen devil." - fixed
 - [x] RES#107:24483 - Dias まるで異教の悪魔 - まるで dropped - "And yet what came before was the very image of a heathen devil." - fixed
-- [x] RES#107:256f7 - アザゼルめ under a ~Eleanor label; the words are a Saint's - EN already reads right, check the plate in QA - qa: which plate shows on this line, and whether it is reachable
+- [x] RES#107:256f7 - アザゼルめ under a ~Eleanor label; the words are a Saint's - EN already reads right, check the plate in QA - checked: no plate in the string, reads right under any speaker, wording per D14; line not reached in QA
 - [x] RES#108:230f9 - Jessica 嫌な予感したんだ - "I just knew I had a bad feeling" is clumsy - "I had a bad feeling about this, you know?" - fixed
 - [x] RES#108:242eb - Leia 未熟な人間 - "unfinished person" is odd - "I am a callow person, who could not grasp even my own feelings." - fixed
 - [x] RES#108:24653 - ぼくも・・・そう思う・・・ - "I... I" repeats a word the JP does not - "Me too... I think so..." - fixed
@@ -319,7 +319,7 @@
 - [x] RES#327:cbac - Orpheus 何もなかったような顔 - "wear a face" is stiff - "You look as if nothing had happened..." - fixed
 - [x] RES#328:a4f0 - Orpheus 夜は若い2人のため - "the young, the two of us" stumbles - "The night belongs to two young people like us." - fixed
 - [x] RES#331:854b - Jessica 行ってあげても - "come along for you" is odd - "All right, I'll come along, if you want." - fixed
-- [x] 331:8fb5, 331:9233 - "[1].[2].[3]" pause codes - check they don't show in-game - qa: "treasure..." dots pace out, no stray code on screen
+- [x] 331:8fb5, 331:9233 - "[1].[2].[3]" pause codes - check they don't show in-game - checked: `{07:05}` encodes to the same bytes as the Japanese (0x07 0x05), so the game's pause handles it; line not reached in QA
 - [x] RES#331:a01d - Jessica 血も涙もない - idiom left literal - "Cold-blooded, that's you all over." - fixed
 - [x] RES#335:a3b4 - その目が1番うさん臭いんだけど。 - `!` where the JP does not shout - Those eyes are the fishiest thing about you, though. - fixed
 - [x] RES#335:a496 - どんな仲なのよ! - "And" opener reads stiff for Scharn - Been what to each other!? - fixed
@@ -339,7 +339,7 @@
 - [x] RES#348:a6fb - 自信ない - two "while" in one sentence - I trust my logic and my knowledge, but I have no confidence in persuading someone while respecting their feelings. - fixed
 - [x] 348:898f - Pasca 色男 "lover boy" - fine only if the branch is male-hero-only; check - fixed
 - [x] RES#351:9386 - うわぁぁぁぁ!! - reads as crying more than a scream - Aaaaagh!! - fixed
-- [x] RES#351:84d5, 854f - joined line and choice fragments - check in-game - qa: whether these joined cut-Maleficus entries ever display, and how
+- [x] RES#351:84d5, 854f - joined line and choice fragments - check in-game - not reached in QA: the joined text is translated as it stands, whether it ever displays is unknown
 - [x] RES#352:9074 - Stella Mira 3人みたいに - points at the wrong group - "people like those three who refuse what they don't want" - waived: bare 3人 addresses the party of three
 - [x] RES#353:98cc - 素直なヤツ - "honest" misses the gullible sense the tease rests on - But I love trusting types like that. - fixed
 - [x] RES#354:855e - 他の方との約束があるので - calque - I-I'm very sorry, I have promised someone else... - fixed

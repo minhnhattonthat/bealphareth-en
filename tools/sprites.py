@@ -176,6 +176,35 @@ def to_rgb(px, pal, ground=(40, 0, 40)):
     return rgb
 
 
+def _glyphs(rows):
+    """{char: columns} from a table of 5-row strings."""
+    out = {}
+    for chars, art in rows:
+        for ch, g in zip(chars, art.split()):
+            rows5 = g.split("/")
+            out[ch] = [[int(row[i] == "#") for row in rows5] for i in range(len(rows5[0]))]
+    return out
+
+
+# 3x5 capitals (M, N, W wider): drawn here, no font file to license
+PIXEL_FONT = _glyphs([
+    ("ABCDEFG", ".#./#.#/###/#.#/#.# ##./#.#/##./#.#/##. .##/#../#../#../.## ##./#.#/#.#/#.#/##. "
+                "###/#../##./#../### ###/#../##./#../#.. .##/#../#.#/#.#/.##"),
+    ("HIJKLMN", "#.#/#.#/###/#.#/#.# #/#/#/#/# ..#/..#/..#/#.#/.#. #.#/#.#/##./#.#/#.# #../#../#../#../### "
+                "#...#/##.##/#.#.#/#...#/#...# #..#/##.#/#.##/#..#/#..#"),
+    ("OPQRSTU", ".#./#.#/#.#/#.#/.#. ##./#.#/##./#../#.. .#./#.#/#.#/##./.## ##./#.#/##./#.#/#.# "
+                ".##/#../.#./..#/##. ###/.#./.#./.#./.#. #.#/#.#/#.#/#.#/.##"),
+    ("VWXYZ", "#.#/#.#/#.#/#.#/.#. #..#/#..#/#..#/####/#..# #.#/#.#/.#./#.#/#.# #.#/#.#/.#./.#./.#. ###/..#/.#./#../###"),
+    ("0123456789", ".#./#.#/#.#/#.#/.#. .#./##./.#./.#./### ##./..#/.#./#../### ##./..#/.#./..#/##. #.#/#.#/###/..#/..# "
+                   "###/#../##./..#/##. .##/#../##./#.#/.#. ###/..#/.#./.#./.#. .#./#.#/.#./#.#/.#. .#./#.#/.##/..#/##."),
+    ("&", ".#./#.#/.#./#.#/.##"),
+])
+PIXEL_FONT["."] = [[0, 0, 0, 0, 1]]
+PIXEL_FONT[","] = [[0, 0, 0, 1, 1]]
+PIXEL_FONT["/"] = [[0, 0, 0, 1, 1], [0, 1, 1, 0, 0], [1, 1, 0, 0, 0]]
+PIXEL_FONT["'"] = [[1, 1, 0, 0, 0]]
+
+
 def font(size, bold):
     return ImageFont.truetype(str(FONT[bold]), size)
 
@@ -217,10 +246,48 @@ def ramp(pal, used):
     return sorted(idx, key=lambda i: rgb[i] @ np.array([299, 587, 114]))
 
 
+def pixel_row(text):
+    """Text in PIXEL_FONT as a bool array, 5 rows a line, lines centred: a serif under 11 px thresholds to mush on these labels."""
+    rows = []
+    for line in text.upper().split("\n"):
+        cols = []
+        for ch in line:
+            cols += PIXEL_FONT[ch] if ch != " " else [[0] * 5]
+            cols.append([0] * 5)
+        rows.append(np.array(cols[:-1], bool).T)
+    width = max(r.shape[1] for r in rows)
+    out = np.zeros((6 * len(rows) - 1, width), bool)
+    for i, r in enumerate(rows):
+        at = (width - r.shape[1]) // 2
+        out[6 * i:6 * i + 5, at:at + r.shape[1]] = r
+    return out
+
+
+def draw_pixel(px, block, r):
+    x0, y0, x1, y1 = block["box"]
+    a = pixel_row(block["text"])
+    room = x1 - x0 - a.shape[1]
+    x = x0 + max(0, {"center": room // 2, "right": room}.get(block.get("align"), 0))
+    y = y0 + (y1 - y0 - a.shape[0]) // 2
+    h, w = a.shape[0], min(a.shape[1], x1 - x)
+    a = a[:, :w]
+    if not block.get("dark"):  # the banners' dark edge
+        grown = ndimage.binary_dilation(np.pad(a, 1), np.ones((3, 3), bool))
+        ey, ex = max(y - 1, y0), max(x - 1, x0)
+        crop = grown[ey - y + 1:, ex - x + 1:]
+        crop = crop[:y1 - ey, :x1 - ex]
+        px[ey:ey + crop.shape[0], ex:ex + crop.shape[1]][crop] = r[0]
+    px[y:y + h, x:x + w][a] = r[-1]
+
+
 def draw_block(px, block, pal, used):
     """Text at the lettering's brightest colour with a dark edge, as the game's has it."""
     x0, y0, x1, y1 = block["box"]
     fnt, lines, step, _ = layout(block)
+    if block.get("dark") or block.get("pixel"):
+        r = ramp(pal, used)
+        draw_pixel(px, block, r[::-1] if block.get("dark") else r)
+        return px
     h, w = px.shape
     cover = Image.new("L", (w, h), 0)
     edge = Image.new("L", (w, h), 0)
@@ -434,8 +501,11 @@ def cmd_check(args):
             if JP.search(block["text"]):
                 print(sid, "Japanese in text", block["text"][:50])
                 bad += 1
-            if not layout({"bold": page.get("dark", False), **block})[3]:
+            if not page.get("dark") and not layout(block)[3]:
                 print(sid, "does not fit", block["box"], block["text"][:50])
+                bad += 1
+            if (page.get("dark") or block.get("pixel")) and pixel_row(block["text"]).shape[1] > x1 - x0:
+                print(sid, "pixel text does not fit", block["box"], block["text"][:50])
                 bad += 1
         if flags & 0x8000:
             packed = rle_encode(from_indices(edited(to_indices(w, h, raw), page, pal)))

@@ -65,7 +65,7 @@ def parse_scenes():
 
 
 def one(a):
-    name, sc, rom, outdir, state, every, length = a
+    name, sc, rom, outdir, state, every, length, extra, mash = a
     out = outdir / name
     if sc.get("base") == "route":
         route = ROOT / sc.get("route", NEWGAME)
@@ -81,11 +81,13 @@ def one(a):
     cmd = [sys.executable, "-X", "utf8", f"{SKILL}/scripts/emu.py", str(rom), "--out", str(out), "--route", str(route),
            "--script", str(WARP), "--var", f"SCENES_LUA=[[{SCENES.as_posix()}]]", "--var", f"SCENE='{name}'",
            "--frames", str(frames), "--shots", ",".join(str(frames - d) for d in (900, 600, 300)),
-           "--timeout", "280", "--mash-key", "circle"]
+           "--timeout", "480", "--mash-key", "circle"]
+    if extra:
+        cmd += ["--script", extra]
     if every:
         cmd += ["--shot-every", str(every)]
-    if sc.get("mash"):
-        cmd += ["--mash", "60"]
+    if sc.get("mash") or mash:
+        cmd += ["--mash", str(mash or 60)]
     if state:
         cmd += ["--state-out", str(ROOT / f"work/states/{name}.sstate")]
     p = subprocess.run(cmd, capture_output=True, text=True)
@@ -109,6 +111,8 @@ def main():
     ap.add_argument("--field-frames", type=int, help="frames to hand control (longer text in a marker build takes longer)")
     ap.add_argument("--every", type=int, help="also a shot every N frames: cards and captions come and go")
     ap.add_argument("--frames", type=int, help="run length instead of the scene's own")
+    ap.add_argument("--script", help="one more Lua script for every run (a probe)")
+    ap.add_argument("--mash", type=int, help="press circle every N frames after the route: plays a scene's text on")
     a = ap.parse_args()
     if a.field_frames:
         global FIELD_FRAMES
@@ -119,7 +123,7 @@ def main():
     outdir.mkdir(parents=True, exist_ok=True)
     rows = []
     with cf.ThreadPoolExecutor(a.jobs) as ex:
-        for r in ex.map(one, [(n, scenes[n], ROOT / a.rom, outdir, a.state, a.every, a.frames) for n in names]):
+        for r in ex.map(one, [(n, scenes[n], ROOT / a.rom, outdir, a.state, a.every, a.frames, a.script, a.mash) for n in names]):
             rows.append(r)
             print(*r, flush=True)
     res = outdir / "result.tsv"

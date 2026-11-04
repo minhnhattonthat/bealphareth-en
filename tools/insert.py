@@ -21,7 +21,11 @@ BASE_CELLS = 0x1D4C  # base kanji font in RES#3927 (0x801BAD4C), up to the syste
 MAIN_FILE_BASE = 0x8000F800  # RAM address of MAIN.EXE file offset 0
 SYSTEM_RAM = 0x801B9000
 SCENE_LOAD = {0xA0000: 0x800D6C00, 0x40000: 0x80136C00}  # RAM address of a scene by slot size (docs/re/disc.md)
-TEXT_END = {0x40000: 0x20000}  # 0x80019A24 copies 32 KB over 0x80156C00 as a sub-scene starts: text past it is overwritten
+# Sub-scenes: 0x80019A24 loads over 0x80156C00 as one starts, and the game reads some parts after that (#4107's map texture),
+# so a part that ended below this line must stay below it. Maps have the same at 0x60000 (a sub-scene over 0x80136C00), not seen to matter.
+LOAD_LINE = {0x40000: 0x20000}
+SUB_POOL_RAM, SUB_POOL_SIZE = 0x8017EA00, 0x9600  # stays zero through the whole Japanese tour (tools/lua/free_probe.lua)
+SUB_POOL_MAGIC = 0x424F5046  # asm/vwf.asm sub_far: a sub-scene file ending in [pool, magic, pool length]
 # Every base-font glyph English draws, in new cell order: `{code}` (0x8080 + index) is what the encoder emits.
 KEPT = "【】○×△□→←▽"
 
@@ -216,17 +220,18 @@ def rebuild_scene(blob, doc, new, drop_glyphs=False, far=None, share=False):
     """The scene overlay with new strings: part table and header follow the shift; the slot size does not change.
     drop_glyphs frees the scene font, which no English string draws from. far: see build_m2."""
     out, remap = splice(blob, doc, new, drop_glyphs=drop_glyphs, far=far, load=SCENE_LOAD[len(blob)], share=share)
-    limit = TEXT_END.get(len(blob))
-    if limit:
-        for bank in doc["banks"]:
-            if bank["kind"] != "raw" and remap(bank_end(blob, bank)) > limit:
-                raise Overflow(f"text ends at {remap(bank_end(blob, bank)):#x}, past {limit:#x}")
     sec2 = struct.unpack_from("<I", blob, 12)[0]
     n, size = struct.unpack_from("<II", blob, sec2 + 8)
     base = sec2 + 16
     offs = struct.unpack_from(f"<{n}I", blob, base)
     if remap(sec2) != sec2:
         raise ValueError("a bank before the part table")
+    limit = LOAD_LINE.get(len(blob))
+    if limit:
+        ends = [base + v for v in offs[1:]] + [base + size] + [bank_end(blob, b) for b in doc["banks"] if b["kind"] != "raw"]
+        for end in ends:
+            if end <= limit < remap(end):
+                raise Overflow(f"data ending at {end:#x} moves to {remap(end):#x}, past {limit:#x}")
     struct.pack_into(f"<I{n}I", out, sec2 + 12, remap(base + size) - base, *[remap(base + v) - base for v in offs])
     total = struct.unpack_from("<I", blob, 4)[0]
     struct.pack_into("<I", out, 4, remap(total))
@@ -238,6 +243,34 @@ def rebuild_scene(blob, doc, new, drop_glyphs=False, far=None, share=False):
     else:
         out += bytes(-tail)
     return bytes(out)
+
+
+def sub_pool(blob, doc, new, report):
+    """A sub-scene with its longest strings at the end of its own file: sub_far (asm/vwf.asm) copies them to SUB_POOL_RAM
+    as it loads, before anything lands on that end. Only one sub-scene is loaded at a time, so they share the buffer."""
+    far = {}
+    own = b""
+    last = None
+    for off, b in sorted(new.items(), key=lambda kv: -len(kv[1])):
+        far[off] = SUB_POOL_RAM + len(own)
+        own += b + b"\0"
+        if len(own) > SUB_POOL_SIZE:
+            raise Overflow(f"{doc['source']}: {len(own):#x} of sub pool {SUB_POOL_SIZE:#x}")
+        try:
+            out = bytearray(rebuild_scene(blob, doc, new, drop_glyphs=True, far=far, share=True))
+        except Overflow as e:
+            last = e
+            continue
+        total = struct.unpack_from("<I", out, 4)[0]
+        end = (total + len(own) + 8 + 3) & ~3
+        if end > len(blob):
+            raise Overflow(f"{doc['source']}: file with its pool ends at {end:#x}")
+        out[end - 8 - len(own):end - 8] = own
+        struct.pack_into("<II", out, end - 8, SUB_POOL_MAGIC, len(own))
+        struct.pack_into("<I", out, 4, end)
+        report.append(f"{doc['source']}: {len(far)} strings, {len(own):#x} bytes in the sub pool")
+        return bytes(out)
+    raise last
 
 
 def fit_scene(blob, doc, new, pool, report):
@@ -254,17 +287,22 @@ def fit_scene(blob, doc, new, pool, report):
     except Overflow:
         pass
     try:
-        out = rebuild_scene(blob, doc, new, drop_glyphs=True)
-        report.append(f"{doc['source']}: scene font dropped")
+        out = rebuild_scene(blob, doc, new, drop_glyphs=True, share=True)
+        report.append(f"{doc['source']}: scene font dropped, repeated strings stored once")
         return out, pool
     except Overflow as e:
         last = e
+    if len(blob) in LOAD_LINE:
+        try:
+            return sub_pool(blob, doc, new, report), pool
+        except Overflow as e:  # RES#361: its file is full to the slot's end
+            last = e
     far = {}
     for off, b in sorted(new.items(), key=lambda kv: -len(kv[1])):
         pool = b + b"\0" + pool
         far[off] = SYSTEM_RAM + SYSTEM_SIZE - len(pool)
         try:
-            out = rebuild_scene(blob, doc, new, drop_glyphs=True, far=far)
+            out = rebuild_scene(blob, doc, new, drop_glyphs=True, far=far, share=True)
             report.append(f"{doc['source']}: scene font dropped, {len(far)} strings in the far pool")
             return out, pool
         except Overflow as e:
@@ -276,7 +314,7 @@ def rebuild_system(blob, doc, new, keep_cells=None, pool=b""):
     """RES#3927 = M4 [fonts, system M4, more]: the outer table follows the system bank.
     keep_cells: base-font cell numbers English draws; they become cells 0.. and the banks move down over the rest.
     pool: far strings of scenes (fit_scene), the last bytes of the block."""
-    out, remap = splice(blob, doc, new, delta=SYSTEM_DELTA)
+    out, remap = splice(blob, doc, new, delta=SYSTEM_DELTA, share=True)
     n = struct.unpack_from("<H", blob, 2)[0]
     offs = struct.unpack_from(f"<{n + 1}I", blob, 4)
     table = [remap(v) for v in offs]

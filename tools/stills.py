@@ -76,6 +76,28 @@ def inpaint(a, mask):
     return out
 
 
+def balance(words, fnt, width, count):
+    """words in count rows, as even as they will go, so no row is left with a single word when another break would do."""
+    best = {(len(words), 0): (0, None)}
+    for rows in range(1, count + 1):
+        for i in range(len(words) - 1, -1, -1):
+            for j in range(i + 1, len(words) + 1):
+                row = " ".join(words[i:j])
+                length = fnt.getlength(row)
+                if j > i + 1 and length > width:
+                    break
+                if (j, rows - 1) in best:
+                    cost = best[(j, rows - 1)][0] + (width - length) ** 2 + (width ** 2 if j == i + 1 else 0)
+                    if (i, rows) not in best or cost < best[(i, rows)][0]:
+                        best[(i, rows)] = (cost, j)
+    out, i = [], 0
+    for rows in range(count, 0, -1):
+        j = best[(i, rows)][1]
+        out.append(" ".join(words[i:j]))
+        i = j
+    return out
+
+
 def wrap(text, fnt, width):
     lines = []
     for para in text.split("\n"):
@@ -89,11 +111,7 @@ def wrap(text, fnt, width):
             else:
                 cur = trial
         rows.append(cur)
-        if len(rows) > 1 and " " not in rows[-1] and " " in rows[-2]:  # no one-word last row
-            head, _, word = rows[-2].rpartition(" ")
-            if fnt.getlength(f"{word} {rows[-1]}") <= width:
-                rows[-2:] = [head, f"{word} {rows[-1]}"]
-        lines += rows
+        lines += balance(para.split(" "), fnt, width, len(rows)) if len(rows) > 1 else rows
     return lines
 
 

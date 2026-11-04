@@ -72,8 +72,8 @@ S.debug_save = field(D .. "6 down;25 -;6 down;25 -;6 down;25 -;6 circle;40 -;6 d
   { debug = true })
 S.debug_load = field(D .. "6 down;25 -;6 down;25 -;6 down;25 -;6 circle;40 -;6 down;25 -;6 down;25 -;6 down;25 -;6 down;25 -;6 circle;120 -",
   { debug = true })
--- Game over and the credits need a battle wipe / ending run; the field HP write does not trigger the death check
--- (tested: HP 0 on the leader for 40k frames, game stays on the opening map), so they are phase-8 work, not a warp.
+-- Game over needs a hit, not a warp: the field HP write alone does not trigger the death check. tools/lua/hp_low.lua on m6
+-- keeps HP at 1 and wanders until something hits (Mission Failed about f10600, WANDER_UNTIL=10300). Credits are Latin art (m233).
 -- Pre-game screens, reached by the boot route only.
 S.title = { route = "tools/routes/boot.txt", frames = 3800 }
 
