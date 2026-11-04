@@ -33,11 +33,11 @@
     {"box": [0, 82, 48, 95], "text": "Atonement", "align": "center", "size": 11},
     {"box": [57, 82, 94, 95], "text": "Gate", "align": "center", "size": 11},
     {"box": [204, 79, 246, 92], "text": "Level 35", "align": "center", "size": 11},
-    {"box": [0, 98, 49, 111], "text": "Cleansing Fire", "align": "center", "size": 11},
+    {"box": [0, 98, 49, 111], "text": "Cleansing Fire", "align": "center", "size": 11, "bold": false},
     {"box": [57, 102, 94, 115], "text": "Light", "align": "center", "size": 11},
     {"box": [139, 99, 189, 112], "text": "First Temple", "align": "center", "size": 11},
     {"box": [204, 99, 246, 112], "text": "Level 12", "align": "center", "size": 11},
-    {"box": [0, 115, 49, 127], "text": "Time Corridor", "align": "center", "size": 11},
+    {"box": [0, 115, 49, 127], "text": "Time Corridor", "align": "center", "size": 11, "bold": false},
     {"box": [57, 122, 94, 135], "text": "Power", "align": "center", "size": 11},
     {"box": [106, 119, 127, 132], "text": "1F", "align": "center", "size": 11},
     {"box": [130, 119, 159, 132], "text": "15F", "align": "center", "size": 11},
@@ -49,7 +49,7 @@
     {"box": [131, 139, 167, 152], "text": "Top F", "align": "center", "size": 11},
     {"box": [204, 139, 246, 152], "text": "Level 32", "align": "center", "size": 11},
     {"box": [0, 145, 35, 158], "text": "Seal Gate", "align": "center", "size": 11},
-    {"box": [104, 159, 153, 172], "text": "West Sanctum", "align": "center", "size": 11},
+    {"box": [104, 159, 153, 172], "text": "West Sanctum", "align": "center", "size": 11, "bold": false},
     {"box": [0, 162, 47, 175], "text": "In Soul Gate", "align": "center", "size": 11},
     {"box": [0, 178, 47, 191], "text": "In Seal Gate", "align": "center", "size": 11},
     {"box": [132, 178, 180, 189], "text": "Fire & Ice", "align": "center", "size": 11},
@@ -65,6 +65,6 @@
     {"box": [40, 226, 76, 239], "text": "Supreme", "align": "center", "size": 11},
     {"box": [228, 236, 240, 248], "text": "Up", "align": "center", "size": 11},
     {"box": [0, 242, 36, 255], "text": "Sunken", "align": "center", "size": 11},
-    {"box": [40, 242, 88, 255], "text": "Wander Outer", "align": "center", "size": 11}
+    {"box": [40, 242, 88, 255], "text": "Wander Outer", "align": "center", "size": 11, "bold": false}
   ]}
 ]

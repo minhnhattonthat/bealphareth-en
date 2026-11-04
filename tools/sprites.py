@@ -242,6 +242,9 @@ def draw_block(px, block, pal, used):
     c, e = np.array(cover), np.array(edge)
     inside = np.zeros_like(px, bool)
     inside[y0:y1, x0:x1] = True
+    if small and block.get("dark"):  # solid core only: pale coverage steps vanish into the parchment
+        px[inside & (c >= 110)] = r[-1]
+        return px
     if small and len(r) >= 6:  # no edge: it would eat the counters; coverage picks the grey
         level = np.array(r)[np.minimum(c.astype(int) * len(r) // 200, len(r) - 1)]
         px[inside & (c >= 40)] = level[inside & (c >= 40)]
@@ -265,7 +268,7 @@ def edited(px, page, pal):
         out[y0:y1, x0:x1] = 0
     used = np.concatenate(used) if used else px.ravel()
     for block in page.get("blocks", []):
-        draw_block(out, {"dark": page.get("dark"), **block}, pal, used)
+        draw_block(out, {"dark": page.get("dark"), "bold": page.get("dark", False), **block}, pal, used)
     return out
 
 
@@ -431,7 +434,7 @@ def cmd_check(args):
             if JP.search(block["text"]):
                 print(sid, "Japanese in text", block["text"][:50])
                 bad += 1
-            if not layout(block)[3]:
+            if not layout({"bold": page.get("dark", False), **block})[3]:
                 print(sid, "does not fit", block["box"], block["text"][:50])
                 bad += 1
         if flags & 0x8000:

@@ -371,7 +371,7 @@ def wrap_pages(tl, plate_first=False, widths=None, box=BOX_W, last=LAST_W, max_r
         rows.append(row)
     if rows:
         pages.append(rows)
-    if r"\n" not in tl:
+    if " " in tl.rpartition(r"\n")[2]:  # a one-word last paragraph is the writer's own break
         pull_widow(pages, limit_rows, box, last, w)
     return pages
 
