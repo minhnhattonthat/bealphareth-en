@@ -63,6 +63,30 @@ def test_check_entry_catches_mistakes():
     assert any("100px" in x for x in batches.check_entry(item, "A very long name for an iron sword indeed", [], PLATES))
 
 
+def test_book_wraps_to_one_scrolling_page():
+    m = masked("{09:0f}{0b:06}見出し\n\n本文です。\n続きです。{0b:07}")
+    assert m.form == "book" and m.text == r"見出し\n\n本文です。\n続きです。"
+    en = batches.unmask(m, r"Heading\n\n" + "long words go here " * 40, {})
+    assert en.startswith("{09:0f}{0b:06}Heading\n\nlong") and en.endswith("{0b:07}") and "{1a}" not in en
+    assert all(batches.page_px(r) <= batches.BOOK_W for r in en.split("\n")[2:-1])
+
+
+def test_glossary_plates_fit():
+    plates, _ = batches.glossary()
+    for jp, en in plates.items():
+        assert batches.page_px(en) <= batches.PLATE_W, (jp, en)
+
+
+def test_every_plate_is_in_the_glossary():
+    plates, _ = batches.glossary()
+    for _path, doc in batches.load_docs():
+        for s in doc["strings"]:
+            read = batches.read_of(s)
+            if read and batches.is_translatable(batches.Masked(read, "dlg"), s["id"]):
+                for m in batches.PLATE_RE.finditer(read):
+                    assert batches.plain_plate(m.group(1)) in plates, (s["id"], m.group(1))
+
+
 def test_placeholder_only_in_scenes():
     m = masked("パスカ\n歯車OFF(仮)")
     assert batches.is_placeholder(m, SCENE)

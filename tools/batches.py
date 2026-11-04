@@ -35,6 +35,7 @@ ROWS = 4
 CHOICE_W = 260
 MENU_W = 276
 PLATE_W = 180
+BOOK_W = 252  # original rows run 21-22 kanji (252-264 px); not measured at the limit yet (phase 8)
 PARTY_NAME_W = 72
 ITEM_NAME_W = 100
 SPELL_NAME_W = 124
@@ -117,6 +118,10 @@ def parse(read):
 def form_of(doc, read):
     if doc["kind"] == "exe":
         return "menu"
+    if "{0b:06}" in read and "\n" in read:
+        return "book"  # Qumran's library: one scrolling page
+    if ":" in TOKEN.sub("", read) and any(page.count("\n") >= 4 for page in read.split("{1a}")):
+        return "menu"  # the character sheet keeps its rows
     if "|" not in read:
         return "dlg"
     # first-visit|repeat dialogue also uses |: it wraps like dialogue, a choice list has one row per option
@@ -162,7 +167,7 @@ class Masked:
             elif k == "sep":
                 out.append("|")
             elif k == "nl":
-                out.append(r"\n" if form == "menu" else " / ")
+                out.append(r"\n" if form in ("menu", "book") else " / ")
             elif k == "var":
                 out.append(f"[{var_name(it[1])}]")
             elif k == "plate":
@@ -277,7 +282,7 @@ def piece_width(piece, w):
     return sum(w[ord(c) - 0x20] for c in piece)
 
 
-def wrap_pages(tl, plate_first=False, widths=None):
+def wrap_pages(tl, plate_first=False, widths=None, box=BOX_W, last=LAST_W, max_rows=ROWS):
     """Greedy word wrap of one masked page text into rows; returns a list of pages, each a list of row strings.
 
     [n], plates and variables stay glued to their word. An explicit \\n forces a row end. A plate takes a row."""
@@ -301,10 +306,10 @@ def wrap_pages(tl, plate_first=False, widths=None):
     rows = []
     row = ""
     row_px = 0
-    limit_rows = ROWS - (1 if plate_first else 0)
+    limit_rows = max_rows - (1 if plate_first else 0)
 
     def row_limit():
-        return LAST_W if len(rows) == limit_rows - 1 else BOX_W
+        return last if len(rows) == limit_rows - 1 else box
 
     def flush_row():
         nonlocal row, row_px, rows
@@ -390,6 +395,10 @@ def unmask(m, tl, plates):
     # a plate in the frame shortens that page by a row
     plate_first = any(it[0] == "plate" for it in m.head)
     out = [head]
+    if m.form == "book":
+        rows = wrap_pages(tl, widths=vwf_font.widths(), box=BOOK_W, last=BOOK_W, max_rows=1 << 30)[0]
+        body = re.sub(r"\[(\d+)\]", lambda g: "".join("{02}{75}" if c == "{75}" else c for c in m.codes[int(g.group(1)) - 1]), "\n".join(rows))
+        return head + expand_vars(body) + tail
     if m.form != "dlg":
         body = tl
         body = re.sub(r"\[(\d+)\]", lambda g: "".join("{02}{75}" if c == "{75}" else c for c in m.codes[int(g.group(1)) - 1]), body)
@@ -510,8 +519,12 @@ def collect():
 
 
 def limit_of(doc, form, idx, plate, s=None):
+    if form == "book":
+        return f"{BOOK_W}px"
     if form == "choice":
-        return f"{CHOICE_W}px"
+        # a long list is the help bar of the choice list before it
+        help_bar = max(len(o) for o in visible_jp(read_of(s) or "").split("|")) > 16 if s else False
+        return f"{MENU_W if help_bar else CHOICE_W}px"
     if form == "menu":
         return f"{exe_limit(doc, idx, s)}px"
     return f"{BOX_W}px*{ROWS - 1 if plate else ROWS}r"
@@ -548,7 +561,7 @@ def cmd_split(args):
             for line in p.read_text(encoding="utf8").splitlines():
                 pending.add(line.split("\t")[-1])
     entries, terms = collect()
-    entries = [e for e in entries if e["text"] not in pending]
+    entries = [e for e in entries if e["text"] not in pending and e["id"].startswith(args.only)]
     batch = []
     chars = 0
     made = 0
@@ -644,6 +657,8 @@ def check_entry(e, en, terms, plates):
         errs.append(f"variables {va} != {vb}")
     if ORDINAL.search(en):
         errs.append("ordinal suffix glued to a variable")
+    if e["form"] == "book":
+        return errs + [f"glossary: {r[0]} -> {r[1]}" for r in term_hits(jp, terms) if r[1].lower() not in en.lower()]
     if e["form"] == "menu" and jp.count(r"\n") != en.count(r"\n"):
         errs.append("line count differs from the original (menu text keeps its \\n)")
     if e["form"] == "choice" or e["form"] == "menu":
@@ -654,7 +669,8 @@ def check_entry(e, en, terms, plates):
                 errs.append(f"{opt!r} is {px}px, limit {limit}px")
     for row in term_hits(jp, terms):
         jp_term, en_term = row[0], row[1]
-        if en_term not in en:
+        exact = en_term in en or (row[4].startswith("Items") and en_term.lower() in en.lower())
+        if not exact:
             errs.append(f"glossary: {jp_term} -> {en_term}")
     for row in terms:
         for av in row[2]:
@@ -811,6 +827,7 @@ def main():
     p = sub.add_parser("split")
     p.add_argument("--chars", type=int, default=3500)
     p.add_argument("--entries", type=int, default=120)
+    p.add_argument("--only", default="", help="id prefix, e.g. RES#1023: for one source")
     p.set_defaults(func=cmd_split)
     p = sub.add_parser("check")
     p.add_argument("batch", nargs="+")

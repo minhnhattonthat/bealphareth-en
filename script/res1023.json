@@ -30,8 +30,9 @@
    "jp": "{09:03}○{09:01}選択 {09:04}×{09:01}戻る {09:05}□{09:01}終了 {09:02}{0e}L1R1 {0f}{09:01}文字種切替",
    "read": "{09:03}○{09:01}選択 {09:04}×{09:01}戻る {09:05}□{09:01}終了 {09:02}{0e}L1R1 {0f}{09:01}文字種切替",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{09:03}○{09:01}Select {09:04}×{09:01}Back {09:05}□{09:01}End {09:02}{0e}L1 R1 {0f}{09:01}Character Set",
+   "status": "done",
+   "tl": "Select [1]Back [2]End [3]L1 R1 [4]Character Set"
   },
   {
    "id": "RES#1023:23921",
@@ -41,8 +42,9 @@
    "jp": "{09:03}○{09:01}選択 {09:04}×{09:01}戻る {09:05}□{09:01}終了",
    "read": "{09:03}○{09:01}選択 {09:04}×{09:01}戻る {09:05}□{09:01}終了",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{09:03}○{09:01}Select {09:04}×{09:01}Back {09:05}□{09:01}End",
+   "status": "done",
+   "tl": "Select [1]Back [2]End"
   },
   {
    "id": "RES#1023:23941",
@@ -52,8 +54,9 @@
    "jp": "名前を入力してください",
    "read": "名前を入力してください",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Please enter your name",
+   "status": "done",
+   "tl": "Please enter your name"
   },
   {
    "id": "RES#1023:23951",
@@ -63,8 +66,9 @@
    "jp": "サインをしてください",
    "read": "サインをしてください",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Please sign here",
+   "status": "done",
+   "tl": "Please sign here"
   },
   {
    "id": "RES#1023:2395e",
@@ -74,8 +78,9 @@
    "jp": "{09:02}文字種切替{09:01}|{09:04}戻る{09:01}|{09:05}終了{09:01}",
    "read": "{09:02}文字種切替{09:01}|{09:04}戻る{09:01}|{09:05}終了{09:01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{09:02}Character Set{09:01}|{09:04}Back{09:01}|{09:05}End{09:01}",
+   "status": "done",
+   "tl": "Character Set[1]|[2]Back[3]|[4]End"
   },
   {
    "id": "RES#1023:2397e",
@@ -96,8 +101,9 @@
    "jp": "{1c:10}{0b:08}【 初老の男 】{0b:09}\n・・・こいつはこれでよし、と。\nよし、次は?{0c:fe}",
    "read": "{1c:10}{0b:08}【 初老の男 】{0b:09}\n・・・こいつはこれでよし、と。\nよし、次は?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Aging Man 】{0b:09}\n...All right, that's this one done. Okay,\nnext?{0c:fe}",
+   "status": "done",
+   "tl": "...All right, that's this one done. Okay, next?"
   },
   {
    "id": "RES#1023:23ab0",
@@ -118,8 +124,9 @@
    "jp": "{1c:10}これで最後だな。{0c:fe}",
    "read": "{1c:10}これで最後だな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}You're the last one, huh.{0c:fe}",
+   "status": "done",
+   "tl": "You're the last one, huh."
   },
   {
    "id": "RES#1023:23ad8",
@@ -140,8 +147,9 @@
    "jp": "{1c:11}今からする質問に答えろ。\nただし、お前からの疑問質問は後だ。{1a}{0c:5102}今日中に役人共に送らなきゃ\nならねえ書類が山ほどあるんだ、\nさっさとこんな作業\n終わらしてえからな。{1a}じゃあ始めるぜ。\nまず性別は? ほら早く言え。{0c:fe}",
    "read": "{1c:11}今からする質問に答えろ。\nただし、お前からの疑問質問は後だ。{1a}{0c:5102}今日中に役人共に送らなきゃ\nならねえ書類が山ほどあるんだ、\nさっさとこんな作業\n終わらしてえからな。{1a}じゃあ始めるぜ。\nまず性別は? ほら早く言え。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Answer the questions I'm about to ask.\nAny questions from you come later.{1a}{0c:5102}I've got a mountain of papers that have\nto reach the officials today, and I wanna\nget this chore over with.{1a}Let's start. First, sex? Come on, spit it\nout.{0c:fe}",
+   "status": "done",
+   "tl": "Answer the questions I'm about to ask. Any questions from you come later. // [1]I've got a mountain of papers that have to reach the officials today, and I wanna get this chore over with. // Let's start. First, sex? Come on, spit it out."
   },
   {
    "id": "RES#1023:23b75",
@@ -162,8 +170,9 @@
    "jp": "{0c:235848510954520301}{1c:10}{0b:08}【 初老の男 】{0b:09}\n男・・・と。\nまあ、見りゃわかるんだがな、{1a}ここに書いてある順番通りに\n訊かねえと、\n書く欄を間違えちまうんだよ。{1a}で、名前は?\n偽名でも何でもいい、早く言え。{0c:1601}",
    "read": "{0c:235848510954520301}{1c:10}{0b:08}【 初老の男 】{0b:09}\n男・・・と。\nまあ、見りゃわかるんだがな、{1a}ここに書いてある順番通りに\n訊かねえと、\n書く欄を間違えちまうんだよ。{1a}で、名前は?\n偽名でも何でもいい、早く言え。{0c:1601}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:235848510954520301}{1c:10}{0b:08}【 Aging Man 】{0b:09}\nMale... there. Sure, I can see that for\nmyself,{1a}but if I don't ask in the order it says\nhere, I fill in the wrong damn box.{1a}So, name? An alias, whatever, just say it\nquick.{0c:1601}",
+   "status": "done",
+   "tl": "Male... there. Sure, I can see that for myself, // but if I don't ask in the order it says here, I fill in the wrong damn box. // So, name? An alias, whatever, just say it quick."
   },
   {
    "id": "RES#1023:23c03",
@@ -173,8 +182,9 @@
    "jp": "{0c:235848510954520301}{1c:10}{0b:08}【 初老の男 】{0b:09}\n女・・・と。{1a}まあ、見りゃわかるんだが\n変な趣味の奴もいるからな、\n念の為ってやつだ。{1a}で、名前は?\n偽名でも何でもいい、早く言え。{0c:fe}",
    "read": "{0c:235848510954520301}{1c:10}{0b:08}【 初老の男 】{0b:09}\n女・・・と。{1a}まあ、見りゃわかるんだが\n変な趣味の奴もいるからな、\n念の為ってやつだ。{1a}で、名前は?\n偽名でも何でもいい、早く言え。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:235848510954520301}{1c:10}{0b:08}【 Aging Man 】{0b:09}\nFemale... there.{1a}Sure, I can see that for myself, but you\nget all kinds of weirdos, so better safe\nthan sorry.{1a}So, name? An alias, whatever, just say it\nquick.{0c:fe}",
+   "status": "done",
+   "tl": "Female... there. // Sure, I can see that for myself, but you get all kinds of weirdos, so better safe than sorry. // So, name? An alias, whatever, just say it quick."
   },
   {
    "id": "RES#1023:23c79",
@@ -206,8 +216,9 @@
    "jp": "{0c:235848510954520301}{1c:11}{0b:08}【 初老の男 】{0b:09}\n{10}か・・・\n変わった名だな。\nで、国は?{0c:020601}",
    "read": "{0c:235848510954520301}{1c:11}{0b:08}【 初老の男 】{0b:09}\n{10}か・・・\n変わった名だな。\nで、国は?{0c:020601}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:235848510954520301}{1c:11}{0b:08}【 Aging Man 】{0b:09}\n{10}, huh... Funny sort of name.\nAnd your country?{0c:020601}",
+   "status": "done",
+   "tl": "[HERO], huh... Funny sort of name. And your country?"
   },
   {
    "id": "RES#1023:23ce7",
@@ -217,8 +228,9 @@
    "jp": "{1c:12}{0b:08}【 初老の男 】{0b:09}\nん?\nどうして俺の名前を知ってるんだ?{1a}この俺の名前をかたるとは\nいい度胸だな。\n偽名なら別の名前を使え。{0c:02fd01}",
    "read": "{1c:12}{0b:08}【 初老の男 】{0b:09}\nん?\nどうして俺の名前を知ってるんだ?{1a}この俺の名前をかたるとは\nいい度胸だな。\n偽名なら別の名前を使え。{0c:02fd01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Aging Man 】{0b:09}\nHuh? How d'you know my name?{1a}Using my own name on me, you got some\nnerve. If it's an alias, pick another one.{0c:02fd01}",
+   "status": "done",
+   "tl": "Huh? How d'you know my name? // Using my own name on me, you got some nerve. If it's an alias, pick another one."
   },
   {
    "id": "RES#1023:23d49",
@@ -228,8 +240,9 @@
    "jp": "{1c:12}{0b:08}【 初老の男 】{0b:09}\nどうして奴の名前を知ってるんだ?\nお前を呼ぶ時面倒だ、\n偽名なら別の名前を使えよ。{0c:02fc01}",
    "read": "{1c:12}{0b:08}【 初老の男 】{0b:09}\nどうして奴の名前を知ってるんだ?\nお前を呼ぶ時面倒だ、\n偽名なら別の名前を使えよ。{0c:02fc01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Aging Man 】{0b:09}\nHow d'you know that guy's name? It'd be\na pain calling you by it. If it's an alias,\npick another one.{0c:02fc01}",
+   "status": "done",
+   "tl": "How d'you know that guy's name? It'd be a pain calling you by it. If it's an alias, pick another one."
   },
   {
    "id": "RES#1023:23d9d",
@@ -239,8 +252,9 @@
    "jp": "{1c:11}{0b:08}【 初老の男 】{0b:09}\nん? どうしてあの子の\n名前を知ってるんだ?{1a}お前を呼ぶ時面倒だ、\n偽名なら別の名前を使えよ。{0c:02fb01}",
    "read": "{1c:11}{0b:08}【 初老の男 】{0b:09}\nん? どうしてあの子の\n名前を知ってるんだ?{1a}お前を呼ぶ時面倒だ、\n偽名なら別の名前を使えよ。{0c:02fb01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Aging Man 】{0b:09}\nHuh? How d'you know that girl's name?{1a}It'd be a pain calling you by it. If it's an\nalias, pick another one.{0c:02fb01}",
+   "status": "done",
+   "tl": "Huh? How d'you know that girl's name? // It'd be a pain calling you by it. If it's an alias, pick another one."
   },
   {
    "id": "RES#1023:23df9",
@@ -250,8 +264,9 @@
    "jp": "{1c:11}{0b:08}【 初老の男 】{0b:09}\n{10}・・・?\nさっきも同じ名前の奴がいたな。{1a}お前を呼ぶ時面倒だ、\n偽名なら別の名前を使えよ。{0c:02fa01}",
    "read": "{1c:11}{0b:08}【 初老の男 】{0b:09}\n{10}・・・?\nさっきも同じ名前の奴がいたな。{1a}お前を呼ぶ時面倒だ、\n偽名なら別の名前を使えよ。{0c:02fa01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Aging Man 】{0b:09}\n{10}...? I just had someone with\nthat name.{1a}It'd be a pain calling you by it. If it's an\nalias, pick another one.{0c:02fa01}",
+   "status": "done",
+   "tl": "[HERO]...? I just had someone with that name. // It'd be a pain calling you by it. If it's an alias, pick another one."
   },
   {
    "id": "RES#1023:23e52",
@@ -283,8 +298,9 @@
    "jp": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 初老の男 】{0b:09}\n北から来たのか。{1a}ここから近いし、国自体貧しいから、\n当然1番多いのが\nお前の国の出身者だ。{1a}今回はお前で、えー、7人かな。\nまあ、いつも必ず50人以上は\nやってくるから、\nこれでも少ないんだがな。{1a}{0c:235848510954520301}{0c:2b50235111}で、身分は? これもきまりでな。{0c:020c01}",
    "read": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 初老の男 】{0b:09}\n北から来たのか。{1a}ここから近いし、国自体貧しいから、\n当然1番多いのが\nお前の国の出身者だ。{1a}今回はお前で、えー、7人かな。\nまあ、いつも必ず50人以上は\nやってくるから、\nこれでも少ないんだがな。{1a}{0c:235848510954520301}{0c:2b50235111}で、身分は? これもきまりでな。{0c:020c01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 Aging Man 】{0b:09}\nUp from the north, huh.{1a}It's close by and the country's dirt poor,\nso naturally your folk outnumber\neverybody.{1a}This time you make, uh, seven, I think.\nMind you, we always get fifty or more,\nso that's few for you people.{1a}{0c:235848510954520301}{0c:2b50235111}So, your station? Rules are rules.{0c:020c01}",
+   "status": "done",
+   "tl": "Up from the north, huh. // It's close by and the country's dirt poor, so naturally your folk outnumber everybody. // This time you make, uh, seven, I think. Mind you, we always get fifty or more, so that's few for you people. // [1]So, your station? Rules are rules."
   },
   {
    "id": "RES#1023:23f28",
@@ -294,8 +310,9 @@
    "jp": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 初老の男 】{0b:09}\nバイレステか・・・懐かしいねぇ。\nこの俺もバイレステ出身だ。\nよろしくな。{1a}今回は、えー、\nお前で5人目だったかな。{1a}{0c:235848510954520301}{0c:2b50235111}で、身分は? これもきまりでな。{0c:020b01}",
    "read": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 初老の男 】{0b:09}\nバイレステか・・・懐かしいねぇ。\nこの俺もバイレステ出身だ。\nよろしくな。{1a}今回は、えー、\nお前で5人目だったかな。{1a}{0c:235848510954520301}{0c:2b50235111}で、身分は? これもきまりでな。{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 Aging Man 】{0b:09}\nBaileste, huh... Takes me back. I'm from\nBaileste myself. Pleased to meet ya.{1a}This time you're, uh, the fifth, I think.{1a}{0c:235848510954520301}{0c:2b50235111}So, your station? Rules are rules.{0c:020b01}",
+   "status": "done",
+   "tl": "Baileste, huh... Takes me back. I'm from Baileste myself. Pleased to meet ya. // This time you're, uh, the fifth, I think. // [1]So, your station? Rules are rules."
   },
   {
    "id": "RES#1023:23fbe",
@@ -305,8 +322,9 @@
    "jp": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 初老の男 】{0b:09}\nビアストクか・・・\n遠い所からご苦労なことだな。{1a}ここに来るのに2ヶ月はかかったろ?\nまあ、最低2ヶ月は生き延びろよ。\nじゃねえと、笑い話にも\nならねえからな。{1a}今回はお前の他にもう1人いたな。\n何がって?\nビアストクの出身者だよ。{1a}{0c:235848510954520301}{0c:2b50235111}で、身分は? これもきまりでな。{0c:020a01}",
    "read": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 初老の男 】{0b:09}\nビアストクか・・・\n遠い所からご苦労なことだな。{1a}ここに来るのに2ヶ月はかかったろ?\nまあ、最低2ヶ月は生き延びろよ。\nじゃねえと、笑い話にも\nならねえからな。{1a}今回はお前の他にもう1人いたな。\n何がって?\nビアストクの出身者だよ。{1a}{0c:235848510954520301}{0c:2b50235111}で、身分は? これもきまりでな。{0c:020a01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 Aging Man 】{0b:09}\nBiastok, huh... A long haul you made of it.{1a}Must've taken you two months to get\nhere, right? So stay alive two months at\nleast. Otherwise it ain't even funny.{1a}There was one other this time, besides\nyou. One other what? Biastok native,\nthat's what.{1a}{0c:235848510954520301}{0c:2b50235111}So, your station? Rules are rules.{0c:020a01}",
+   "status": "done",
+   "tl": "Biastok, huh... A long haul you made of it. // Must've taken you two months to get here, right? So stay alive two months at least. Otherwise it ain't even funny. // There was one other this time, besides you. One other what? Biastok native, that's what. // [1]So, your station? Rules are rules."
   },
   {
    "id": "RES#1023:240a4",
@@ -316,8 +334,9 @@
    "jp": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 初老の男 】{0b:09}\nルミニアか・・・懐かしいねえ。{1a}ここに来る前、俺はずっと\n船に乗って商いをしてたんだが、\nあの国には何度となく行ったからな。{1a}そういや、ルミニアから来た奴が\nお前の他にも1人いたな。\n身なりも動機も一風変わった\n娘だったが・・・{1a}{0c:235848510954520301}{0c:2b50235111}で、お前の身分は?\nこれもきまりでな。{0c:020901}",
    "read": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 初老の男 】{0b:09}\nルミニアか・・・懐かしいねえ。{1a}ここに来る前、俺はずっと\n船に乗って商いをしてたんだが、\nあの国には何度となく行ったからな。{1a}そういや、ルミニアから来た奴が\nお前の他にも1人いたな。\n身なりも動機も一風変わった\n娘だったが・・・{1a}{0c:235848510954520301}{0c:2b50235111}で、お前の身分は?\nこれもきまりでな。{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 Aging Man 】{0b:09}\nLuminia, huh... Takes me back.{1a}Before I came here I spent my life on\nships, trading, and I put in at that\ncountry more times than I can count.{1a}Come to think of it, one other came\nfrom Luminia besides you. A girl, odd in\nboth her looks and her reasons...{1a}{0c:235848510954520301}{0c:2b50235111}So, what's your station? Rules are rules.{0c:020901}",
+   "status": "done",
+   "tl": "Luminia, huh... Takes me back. // Before I came here I spent my life on ships, trading, and I put in at that country more times than I can count. // Come to think of it, one other came from Luminia besides you. A girl, odd in both her looks and her reasons... // [1]So, what's your station? Rules are rules."
   },
   {
    "id": "RES#1023:24184",
@@ -327,8 +346,9 @@
    "jp": "{0c:520408}{0c:2b50235111}{1c:11}{0b:08}【 初老の男 】{0b:09}\nクラスダールか・・・\n極東のあまり豊かとは\n言えねえ国だな。{1a}俺も何回か行ったことはあるが、\nみな純朴というか、\n真面目というか・・・{1a}悪く言や、面白みのない所だったな。\nちなみに、お前1人だけだぜ、\n今回あの国から来た奴は。{1a}{0c:235848510954520301}{0c:2b50235111}でと、お前の身分は?\nこれもきまりでな。{0c:020801}",
    "read": "{0c:520408}{0c:2b50235111}{1c:11}{0b:08}【 初老の男 】{0b:09}\nクラスダールか・・・\n極東のあまり豊かとは\n言えねえ国だな。{1a}俺も何回か行ったことはあるが、\nみな純朴というか、\n真面目というか・・・{1a}悪く言や、面白みのない所だったな。\nちなみに、お前1人だけだぜ、\n今回あの国から来た奴は。{1a}{0c:235848510954520301}{0c:2b50235111}でと、お前の身分は?\nこれもきまりでな。{0c:020801}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520408}{0c:2b50235111}{1c:11}{0b:08}【 Aging Man 】{0b:09}\nKrasdar, huh... Way out in the far east,\nand not what you'd call rich.{1a}I've been there a few times. Simple folk,\nhonest folk, or...{1a}Put it unkindly, a dull place. By the way,\nyou're the only one from there this time.{1a}{0c:235848510954520301}{0c:2b50235111}Now then, what's your station? Rules\nare rules.{0c:020801}",
+   "status": "done",
+   "tl": "Krasdar, huh... Way out in the far east, and not what you'd call rich. // I've been there a few times. Simple folk, honest folk, or... // Put it unkindly, a dull place. By the way, you're the only one from there this time. // [1]Now then, what's your station? Rules are rules."
   },
   {
    "id": "RES#1023:24265",
@@ -338,8 +358,9 @@
    "jp": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 初老の男 】{0b:09}\n砂漠の国セフィータか・・・\n懐かしいねえ。{1a}ここに来る前、俺はずっと\n船に乗って商いをしてたんだが、\nあの国の港には何度となく\n行ったからな。{1a}そういや、珍しいことに\nあの国の出身者はお前1人だけだ。\nあの国の人間は冒険心が旺盛で\n有名なんだがな。{1a}{0c:235848510954520301}{0c:2b50235111}で、お前の身分は?\nこれもきまりでな。{0c:020701}",
    "read": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 初老の男 】{0b:09}\n砂漠の国セフィータか・・・\n懐かしいねえ。{1a}ここに来る前、俺はずっと\n船に乗って商いをしてたんだが、\nあの国の港には何度となく\n行ったからな。{1a}そういや、珍しいことに\nあの国の出身者はお前1人だけだ。\nあの国の人間は冒険心が旺盛で\n有名なんだがな。{1a}{0c:235848510954520301}{0c:2b50235111}で、お前の身分は?\nこれもきまりでな。{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 Aging Man 】{0b:09}\nSefita, the desert country, huh... Takes\nme back.{1a}Before I came here I spent my life on\nships, trading, and I put in at that\ncountry's ports more times than I can\ncount.{1a}Funny thing, you're the only one from\nthere. Those people are famous for\nitchy feet, too.{1a}{0c:235848510954520301}{0c:2b50235111}So, what's your station? Rules are rules.{0c:020701}",
+   "status": "done",
+   "tl": "Sefita, the desert country, huh... Takes me back. // Before I came here I spent my life on ships, trading, and I put in at that country's ports more times than I can count. // Funny thing, you're the only one from there. Those people are famous for itchy feet, too. // [1]So, what's your station? Rules are rules."
   },
   {
    "id": "RES#1023:24356",
@@ -349,8 +370,9 @@
    "jp": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 初老の男 】{0b:09}\nファコルツか・・・\nどんな所だ?{1a}ここに来る前、俺はずっと\n船に乗って商いをしてたんだが、\nファコルツにまで足を延ばすこと\nなんて1度もなかったからな。{1a}そういや、お前1人だけだったな、\n今回あの国から来た奴は。{1a}{0c:235848510954520301}{0c:2b50235111}で、お前の身分は?\nこれもきまりでな。{0c:020601}",
    "read": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 初老の男 】{0b:09}\nファコルツか・・・\nどんな所だ?{1a}ここに来る前、俺はずっと\n船に乗って商いをしてたんだが、\nファコルツにまで足を延ばすこと\nなんて1度もなかったからな。{1a}そういや、お前1人だけだったな、\n今回あの国から来た奴は。{1a}{0c:235848510954520301}{0c:2b50235111}で、お前の身分は?\nこれもきまりでな。{0c:020601}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 Aging Man 】{0b:09}\nFakolz, huh... What's it like?{1a}Before I came here I spent my life on\nships, trading, but I never once got as\nfar as Fakolz.{1a}Come to think of it, you're the only one\nfrom there this time.{1a}{0c:235848510954520301}{0c:2b50235111}So, what's your station? Rules are rules.{0c:020601}",
+   "status": "done",
+   "tl": "Fakolz, huh... What's it like? // Before I came here I spent my life on ships, trading, but I never once got as far as Fakolz. // Come to think of it, you're the only one from there this time. // [1]So, what's your station? Rules are rules."
   },
   {
    "id": "RES#1023:2442c",
@@ -360,8 +382,9 @@
    "jp": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 初老の男 】{0b:09}\nラコースか・・・懐かしいねえ。{1a}ここに来る前、俺はずっと\n船に乗って商いをしてたんだが、\nあの国には何度となく行ったからな。{1a}そういや、ラコースから来た娘が\n1人いたな・・・{1a}{0c:235848510954520301}{0c:2b50235111}で、お前の身分は?\nこれもきまりでな。{0c:020501}",
    "read": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 初老の男 】{0b:09}\nラコースか・・・懐かしいねえ。{1a}ここに来る前、俺はずっと\n船に乗って商いをしてたんだが、\nあの国には何度となく行ったからな。{1a}そういや、ラコースから来た娘が\n1人いたな・・・{1a}{0c:235848510954520301}{0c:2b50235111}で、お前の身分は?\nこれもきまりでな。{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 Aging Man 】{0b:09}\nRacoss, huh... Takes me back.{1a}Before I came here I spent my life on\nships, trading, and I put in at that\ncountry more times than I can count.{1a}Come to think of it, there was one girl\nfrom Racoss...{1a}{0c:235848510954520301}{0c:2b50235111}So, what's your station? Rules are rules.{0c:020501}",
+   "status": "done",
+   "tl": "Racoss, huh... Takes me back. // Before I came here I spent my life on ships, trading, and I put in at that country more times than I can count. // Come to think of it, there was one girl from Racoss... // [1]So, what's your station? Rules are rules."
   },
   {
    "id": "RES#1023:244e8",
@@ -371,8 +394,9 @@
    "jp": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 初老の男 】{0b:09}\nトラドアか・・・懐かしいねえ。{1a}ここに来る前、俺はずっと\n船に乗って商いをしてたんだが、\nあの国には何度となく行ったからな。{1a}そういや、確かバルデスは\nトラドアから来たんだっけな・・・{07:14}\nって言ってもお前には\n誰だか分からねえか。{07:05}{1a}{0c:235848510954520301}{0c:2b50235111}それから、と・・・\nお前の身分は? これもきまりでな。{0c:020401}",
    "read": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 初老の男 】{0b:09}\nトラドアか・・・懐かしいねえ。{1a}ここに来る前、俺はずっと\n船に乗って商いをしてたんだが、\nあの国には何度となく行ったからな。{1a}そういや、確かバルデスは\nトラドアから来たんだっけな・・・{07:14}\nって言ってもお前には\n誰だか分からねえか。{07:05}{1a}{0c:235848510954520301}{0c:2b50235111}それから、と・・・\nお前の身分は? これもきまりでな。{0c:020401}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 Aging Man 】{0b:09}\nTradoa, huh... Takes me back.{1a}Before I came here I spent my life on\nships, trading, and I put in at that\ncountry more times than I can count.{1a}Come to think of it, I believe Valdes\ncame from Tradoa...{07:14} Not that you'd know\nwho that is.{07:05}{1a}{0c:235848510954520301}{0c:2b50235111}What else, now... Your station? Rules are\nrules.{0c:020401}",
+   "status": "done",
+   "tl": "Tradoa, huh... Takes me back. // Before I came here I spent my life on ships, trading, and I put in at that country more times than I can count. // Come to think of it, I believe Valdes came from Tradoa...[1] Not that you'd know who that is.[2] // [3]What else, now... Your station? Rules are rules."
   },
   {
    "id": "RES#1023:245ce",
@@ -382,8 +406,9 @@
    "jp": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 初老の男 】{0b:09}\nフィサーノか・・・懐かしいねえ。{1a}ここに来る前、俺はずっと\n船に乗って商いをしてたんだが、\nあの都市には何度となく\n行ったからな。{1a}そういや、あいつと出会ったのも\nフィサーノだったか・・・\nいやすまねえ、こっちの話だ。{1a}{0c:235848510954520301}{0c:2b50235111}で、お前の身分は?\nこれもきまりでな。{0c:020301}",
    "read": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 初老の男 】{0b:09}\nフィサーノか・・・懐かしいねえ。{1a}ここに来る前、俺はずっと\n船に乗って商いをしてたんだが、\nあの都市には何度となく\n行ったからな。{1a}そういや、あいつと出会ったのも\nフィサーノだったか・・・\nいやすまねえ、こっちの話だ。{1a}{0c:235848510954520301}{0c:2b50235111}で、お前の身分は?\nこれもきまりでな。{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 Aging Man 】{0b:09}\nFisano, huh... Takes me back.{1a}Before I came here I spent my life on\nships, trading, and I put in at that city\nmore times than I can count.{1a}Come to think of it, Fisano's where I met\nthat fella... No, sorry, never mind me.{1a}{0c:235848510954520301}{0c:2b50235111}So, what's your station? Rules are rules.{0c:020301}",
+   "status": "done",
+   "tl": "Fisano, huh... Takes me back. // Before I came here I spent my life on ships, trading, and I put in at that city more times than I can count. // Come to think of it, Fisano's where I met that fella... No, sorry, never mind me. // [1]So, what's your station? Rules are rules."
   },
   {
    "id": "RES#1023:2469f",
@@ -393,8 +418,9 @@
    "jp": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 初老の男 】{0b:09}\nイレニアか・・・懐かしいねえ。{1a}ここに来る前、俺はずっと\n船に乗って商いをしてたんだが、\nあの国には何度となく行ったからな。{1a}しかしお前さん、\nあまり島の人間ぽくねえな。\nイレニア人と言えば褐色の肌に黒髪と\n昔から相場が決まってるんだが・・・{1a}{0c:235848510954520301}{0c:2b50235111}まあいい。で、お前の身分は?\nこれもきまりでな。{0c:020201}",
    "read": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 初老の男 】{0b:09}\nイレニアか・・・懐かしいねえ。{1a}ここに来る前、俺はずっと\n船に乗って商いをしてたんだが、\nあの国には何度となく行ったからな。{1a}しかしお前さん、\nあまり島の人間ぽくねえな。\nイレニア人と言えば褐色の肌に黒髪と\n昔から相場が決まってるんだが・・・{1a}{0c:235848510954520301}{0c:2b50235111}まあいい。で、お前の身分は?\nこれもきまりでな。{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 Aging Man 】{0b:09}\nIrenia, huh... Takes me back.{1a}Before I came here I spent my life on\nships, trading, and I put in at that\ncountry more times than I can count.{1a}Though you don't look much like an\nislander, friend. Irenians have always been\nbrown skin and black hair...{1a}{0c:235848510954520301}{0c:2b50235111}Well, whatever. So, what's your station?\nRules are rules.{0c:020201}",
+   "status": "done",
+   "tl": "Irenia, huh... Takes me back. // Before I came here I spent my life on ships, trading, and I put in at that country more times than I can count. // Though you don't look much like an islander, friend. Irenians have always been brown skin and black hair... // [1]Well, whatever. So, what's your station? Rules are rules."
   },
   {
    "id": "RES#1023:2478c",
@@ -404,8 +430,9 @@
    "jp": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 初老の男 】{0b:09}\nレノスか・・・懐かしいねえ。{1a}ここに来る前、俺はずっと\n船に乗って商いをしてたんだが、\nレノスには何度となく行ったからな。{1a}とはいっても、どうも\n好きになれねえ町だったが・・・{1a}5千年の歴史の重みって奴かな、\nどこか堅苦しいって言うか、\n落ち着かねえって言うか・・・{1a}{0c:235848510954520301}{0c:2b50235111}おっと、お前の故郷に\nケチつけて悪かったな。\n・・・でと、お前の身分は?\nこれもきまりでな。{0c:020101}",
    "read": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 初老の男 】{0b:09}\nレノスか・・・懐かしいねえ。{1a}ここに来る前、俺はずっと\n船に乗って商いをしてたんだが、\nレノスには何度となく行ったからな。{1a}とはいっても、どうも\n好きになれねえ町だったが・・・{1a}5千年の歴史の重みって奴かな、\nどこか堅苦しいって言うか、\n落ち着かねえって言うか・・・{1a}{0c:235848510954520301}{0c:2b50235111}おっと、お前の故郷に\nケチつけて悪かったな。\n・・・でと、お前の身分は?\nこれもきまりでな。{0c:020101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520408}{0c:2b50235111}{1c:15}{0b:08}【 Aging Man 】{0b:09}\nLenos, huh... Takes me back.{1a}Before I came here I spent my life on\nships, trading, and I put in at Lenos more\ntimes than I can count.{1a}Mind you, I never could warm to that\ntown...{1a}Five thousand years of history weighing\non it, I guess. Stiff, or uneasy, or some\nsuch...{1a}{0c:235848510954520301}{0c:2b50235111}Oops, sorry for knocking your hometown.\n...Now then, what's your station? Rules\nare rules.{0c:020101}",
+   "status": "done",
+   "tl": "Lenos, huh... Takes me back. // Before I came here I spent my life on ships, trading, and I put in at Lenos more times than I can count. // Mind you, I never could warm to that town... // Five thousand years of history weighing on it, I guess. Stiff, or uneasy, or some such... // [1]Oops, sorry for knocking your hometown. ...Now then, what's your station? Rules are rules."
   },
   {
    "id": "RES#1023:248a1",
@@ -426,8 +453,9 @@
    "jp": "{0c:235848510954520301}{0c:2b50235111}{1c:14}{0b:08}【 初老の男 】{0b:09}\n・・・・・・{1a}1つ忠告しておく。\nそのことは絶対に誰にも言うな。{1a}この町は、貧乏人が\n命の危機の代償に富を掴む場所だ。\n貴族が遊びで来る所じゃねえ。{1a}それに、俺達平民は\nいくらここに長くいる奴でも\nお前ら貴族に対する恨みだけは\n忘れてないだろうからな。{1a}この町では身分なんて\nクソの役にもたたねえってこと、\nゆめゆめ忘れるなよ。{1a}まあいい、最後の質問だ。\nここに来た目的は?{0c:020701}",
    "read": "{0c:235848510954520301}{0c:2b50235111}{1c:14}{0b:08}【 初老の男 】{0b:09}\n・・・・・・{1a}1つ忠告しておく。\nそのことは絶対に誰にも言うな。{1a}この町は、貧乏人が\n命の危機の代償に富を掴む場所だ。\n貴族が遊びで来る所じゃねえ。{1a}それに、俺達平民は\nいくらここに長くいる奴でも\nお前ら貴族に対する恨みだけは\n忘れてないだろうからな。{1a}この町では身分なんて\nクソの役にもたたねえってこと、\nゆめゆめ忘れるなよ。{1a}まあいい、最後の質問だ。\nここに来た目的は?{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:235848510954520301}{0c:2b50235111}{1c:14}{0b:08}【 Aging Man 】{0b:09}\n......{1a}One word of advice. Never, ever tell\nanybody that.{1a}This town is where paupers trade their\nlives for a shot at riches. It ain't a place\nnobles come to play.{1a}And we commoners, however long a\nfella's been here, won't ever forget our\ngrudge against you nobles.{1a}In this town, rank ain't worth a damn.\nDon't you ever forget it.{1a}Well, whatever. Last question. Why'd you\ncome here?{0c:020701}",
+   "status": "done",
+   "tl": "...... // One word of advice. Never, ever tell anybody that. // This town is where paupers trade their lives for a shot at riches. It ain't a place nobles come to play. // And we commoners, however long a fella's been here, won't ever forget our grudge against you nobles. // In this town, rank ain't worth a damn. Don't you ever forget it. // Well, whatever. Last question. Why'd you come here?"
   },
   {
    "id": "RES#1023:249c3",
@@ -437,8 +465,9 @@
    "jp": "{0c:235848510954520301}{0c:2b50235111}{1c:14}{0b:08}【 初老の男 】{0b:09}\nふうん、騎士サマね・・・{1a}1つ忠告しておく。\nそのことは絶対に誰にも言うな。{1a}この町は、貧乏人が\n命の危機の代償に富を掴む場所だ。\n貴族が遊びで来る所じゃねえ。{1a}それに、俺達平民は\nいくらここに長くいる奴でも\nお前ら貴族に対する恨みだけは\n忘れてないだろうからな。{1a}この町では身分なんて\nクソの役にもたたねえってこと、\nゆめゆめ忘れるなよ。{1a}まあいい、最後の質問だ。\nここに来た目的は?{0c:020601}",
    "read": "{0c:235848510954520301}{0c:2b50235111}{1c:14}{0b:08}【 初老の男 】{0b:09}\nふうん、騎士サマね・・・{1a}1つ忠告しておく。\nそのことは絶対に誰にも言うな。{1a}この町は、貧乏人が\n命の危機の代償に富を掴む場所だ。\n貴族が遊びで来る所じゃねえ。{1a}それに、俺達平民は\nいくらここに長くいる奴でも\nお前ら貴族に対する恨みだけは\n忘れてないだろうからな。{1a}この町では身分なんて\nクソの役にもたたねえってこと、\nゆめゆめ忘れるなよ。{1a}まあいい、最後の質問だ。\nここに来た目的は?{0c:020601}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:235848510954520301}{0c:2b50235111}{1c:14}{0b:08}【 Aging Man 】{0b:09}\nHmph, a knight, is it...{1a}One word of advice. Never, ever tell\nanybody that.{1a}This town is where paupers trade their\nlives for a shot at riches. It ain't a place\nnobles come to play.{1a}And we commoners, however long a\nfella's been here, won't ever forget our\ngrudge against you nobles.{1a}In this town, rank ain't worth a damn.\nDon't you ever forget it.{1a}Well, whatever. Last question. Why'd you\ncome here?{0c:020601}",
+   "status": "done",
+   "tl": "Hmph, a knight, is it... // One word of advice. Never, ever tell anybody that. // This town is where paupers trade their lives for a shot at riches. It ain't a place nobles come to play. // And we commoners, however long a fella's been here, won't ever forget our grudge against you nobles. // In this town, rank ain't worth a damn. Don't you ever forget it. // Well, whatever. Last question. Why'd you come here?"
   },
   {
    "id": "RES#1023:24ae9",
@@ -448,8 +477,9 @@
    "jp": "{0c:235848510954520301}{0c:2b50235111}{1c:11}{0b:08}【 初老の男 】{0b:09}\n教会の人間か・・・\nあまり神サマの名前使って\n悪さするんじゃねえぞ。{1a}無法者の集まりとはいえ、\n信心深い田舎者も少なくねえからな。{1a}まあいい、最後の質問だ。\nここに来た目的は?{0c:020501}",
    "read": "{0c:235848510954520301}{0c:2b50235111}{1c:11}{0b:08}【 初老の男 】{0b:09}\n教会の人間か・・・\nあまり神サマの名前使って\n悪さするんじゃねえぞ。{1a}無法者の集まりとはいえ、\n信心深い田舎者も少なくねえからな。{1a}まあいい、最後の質問だ。\nここに来た目的は?{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:235848510954520301}{0c:2b50235111}{1c:11}{0b:08}【 Aging Man 】{0b:09}\nA churchman, huh... Don't go making\ntrouble in God's good name.{1a}We may be a pack of outlaws, but plenty\nof them are pious country boys.{1a}Well, whatever. Last question. Why'd you\ncome here?{0c:020501}",
+   "status": "done",
+   "tl": "A churchman, huh... Don't go making trouble in God's good name. // We may be a pack of outlaws, but plenty of them are pious country boys. // Well, whatever. Last question. Why'd you come here?"
   },
   {
    "id": "RES#1023:24b8b",
@@ -459,8 +489,9 @@
    "jp": "{0c:235848510954520301}{0c:2b50235111}{1c:15}{0b:08}【 初老の男 】{0b:09}\n一攫千金を目指すには\nもってこいの場所だからな、ここは。{1a}自分の店を持つためだとか、\n借金を返すためだとか・・・\nそんな奴は大勢見てきたよ。{1a}もっとも、その多くが\n夢やぶれるどころか\n命まで落としちまう・・・{1a}まあ、それを承知で来たんだろうから\n多くは言わねえが、\n無茶はするんじゃねえぞ。\n先輩の商人としての忠告だ。{1a}でと・・・ 最後の質問だ。\nここに来た目的は?{0c:020401}",
    "read": "{0c:235848510954520301}{0c:2b50235111}{1c:15}{0b:08}【 初老の男 】{0b:09}\n一攫千金を目指すには\nもってこいの場所だからな、ここは。{1a}自分の店を持つためだとか、\n借金を返すためだとか・・・\nそんな奴は大勢見てきたよ。{1a}もっとも、その多くが\n夢やぶれるどころか\n命まで落としちまう・・・{1a}まあ、それを承知で来たんだろうから\n多くは言わねえが、\n無茶はするんじゃねえぞ。\n先輩の商人としての忠告だ。{1a}でと・・・ 最後の質問だ。\nここに来た目的は?{0c:020401}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:235848510954520301}{0c:2b50235111}{1c:15}{0b:08}【 Aging Man 】{0b:09}\nRight place to strike it rich, this.{1a}Wanna open your own shop, pay off your\ndebts... I've seen plenty like that.{1a}Though most of 'em lose more than their\ndreams. They lose their lives...{1a}Still, you knew that coming, so I won't\nsay much. Just don't do anything stupid.\nThat's advice from an old merchant.{1a}Now then... last question. Why'd you come\nhere?{0c:020401}",
+   "status": "done",
+   "tl": "Right place to strike it rich, this. // Wanna open your own shop, pay off your debts... I've seen plenty like that. // Though most of 'em lose more than their dreams. They lose their lives... // Still, you knew that coming, so I won't say much. Just don't do anything stupid. That's advice from an old merchant. // Now then... last question. Why'd you come here?"
   },
   {
    "id": "RES#1023:24c9a",
@@ -470,8 +501,9 @@
    "jp": "{0c:235848510954520301}{0c:2b50235111}{1c:11}{0b:08}【 初老の男 】{0b:09}\n・・・の割には鋭さが足りねえな。{1a}まあ、人は見かけに\nよらねえって言葉もあるし、\n今後の活躍に期待しておくぜ。{1a}でと、最後の質問だ。\nここに来た目的は?{0c:020301}",
    "read": "{0c:235848510954520301}{0c:2b50235111}{1c:11}{0b:08}【 初老の男 】{0b:09}\n・・・の割には鋭さが足りねえな。{1a}まあ、人は見かけに\nよらねえって言葉もあるし、\n今後の活躍に期待しておくぜ。{1a}でと、最後の質問だ。\nここに来た目的は?{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:235848510954520301}{0c:2b50235111}{1c:11}{0b:08}【 Aging Man 】{0b:09}\n...You don't look too sharp for one,\nthough.{1a}Well, they say looks can deceive. I'll be\nexpecting great things.{1a}Now then, last question. Why'd you come\nhere?{0c:020301}",
+   "status": "done",
+   "tl": "...You don't look too sharp for one, though. // Well, they say looks can deceive. I'll be expecting great things. // Now then, last question. Why'd you come here?"
   },
   {
    "id": "RES#1023:24d27",
@@ -481,8 +513,9 @@
    "jp": "{0c:235848510954520301}{0c:2b50235111}{1c:11}{0b:08}【 初老の男 】{0b:09}\n・・・全然そうは見えねえがな。\nだいたいなんだ?\nその貧相な身体は・・・{1a}まあいい、最後の質問だ。\nここに来た目的は?{0c:020201}",
    "read": "{0c:235848510954520301}{0c:2b50235111}{1c:11}{0b:08}【 初老の男 】{0b:09}\n・・・全然そうは見えねえがな。\nだいたいなんだ?\nその貧相な身体は・・・{1a}まあいい、最後の質問だ。\nここに来た目的は?{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:235848510954520301}{0c:2b50235111}{1c:11}{0b:08}【 Aging Man 】{0b:09}\n...You sure don't look it. I mean, what's\nwith that scrawny body...?{1a}Well, whatever. Last question. Why'd you\ncome here?{0c:020201}",
+   "status": "done",
+   "tl": "...You sure don't look it. I mean, what's with that scrawny body...? // Well, whatever. Last question. Why'd you come here?"
   },
   {
    "id": "RES#1023:24d9f",
@@ -492,8 +525,9 @@
    "jp": "{0c:235848510954520301}{0c:2b50235111}{1c:11}{0b:08}【 初老の男 】{0b:09}\nいつの時代も割を食うのは\n貧乏人だから、夢を見るしか\nねえんだろうな。{1a}ここには大勢いるぜ、そんな奴が。\nもっとも、その多くが\n夢やぶれるどころか\n命まで落としちまう。{1a}まあ、それを承知で来たんだろうから\n同情はしねえが・・・{1a}で、最後の質問だ。\nここに来た目的は?{0c:020101}",
    "read": "{0c:235848510954520301}{0c:2b50235111}{1c:11}{0b:08}【 初老の男 】{0b:09}\nいつの時代も割を食うのは\n貧乏人だから、夢を見るしか\nねえんだろうな。{1a}ここには大勢いるぜ、そんな奴が。\nもっとも、その多くが\n夢やぶれるどころか\n命まで落としちまう。{1a}まあ、それを承知で来たんだろうから\n同情はしねえが・・・{1a}で、最後の質問だ。\nここに来た目的は?{0c:020101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:235848510954520301}{0c:2b50235111}{1c:11}{0b:08}【 Aging Man 】{0b:09}\nIn any age it's the poor that get the\nshort end, so I guess dreaming's all you\ngot.{1a}Plenty like that here. Though most of\n'em lose more than their dreams. They\nlose their lives.{1a}Well, you knew that coming, so no\nsympathy from me...{1a}So, last question. Why'd you come here?{0c:020101}",
+   "status": "done",
+   "tl": "In any age it's the poor that get the short end, so I guess dreaming's all you got. // Plenty like that here. Though most of 'em lose more than their dreams. They lose their lives. // Well, you knew that coming, so no sympathy from me... // So, last question. Why'd you come here?"
   },
   {
    "id": "RES#1023:24e6d",
@@ -514,8 +548,9 @@
    "jp": "{1c:11}{0c:521516}{0b:08}【 初老の男 】{0b:09}\nほう・・・\nってことは没落貴族って{03}ヤツ{02}か。{1a}{0c:235848510954520301}言っちゃなんだが、ざまぁ見ろだな。\nこれで少しはお前も貧乏人の\n苦労ってもんが分かるだろ。{1a}{0c:521a16}まあ、せいぜい頑張って金を稼げよ。\n借金の量にもよるが、\n上手くいきゃ{01}2{02}・{01}3年{02}で帰れるさ。\nもちろん、生きていればの話だがな。{1a}{0c:5105}よし、と・・・\nじゃあ、これに{03}サイン{02}しろ。{0c:020b01}",
    "read": "{1c:11}{0c:521516}{0b:08}【 初老の男 】{0b:09}\nほう・・・\nってことは没落貴族って{03}ヤツ{02}か。{1a}{0c:235848510954520301}言っちゃなんだが、ざまぁ見ろだな。\nこれで少しはお前も貧乏人の\n苦労ってもんが分かるだろ。{1a}{0c:521a16}まあ、せいぜい頑張って金を稼げよ。\n借金の量にもよるが、\n上手くいきゃ{01}2{02}・{01}3年{02}で帰れるさ。\nもちろん、生きていればの話だがな。{1a}{0c:5105}よし、と・・・\nじゃあ、これに{03}サイン{02}しろ。{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0c:521516}{0b:08}【 Aging Man 】{0b:09}\nOh ho... So you're one of them ruined\nnobles.{1a}{0c:235848510954520301}No offense, but serves you right. Maybe\nnow you'll learn what being poor's like.{1a}{0c:521a16}Well, work hard and earn your money.\nDepends on the debt, but with luck you'll\nhead home in two or three years. If you\nlive, of course.{1a}{0c:5105}All right, then... Now sign this.{0c:020b01}",
+   "status": "done",
+   "tl": "Oh ho... So you're one of them ruined nobles. // [1]No offense, but serves you right. Maybe now you'll learn what being poor's like. // [2]Well, work hard and earn your money. Depends on the debt, but with luck you'll head home in two or three years. If you live, of course. // [3]All right, then... Now sign this."
   },
   {
    "id": "RES#1023:24f62",
@@ -525,8 +560,9 @@
    "jp": "{1c:11}{0c:521516}{0b:08}【 初老の男 】{0b:09}\nまったく、近頃の教会の人間は・・・ {1a}{0c:235848510954520301}汝、物欲に囚われるなかれってのは\n習わなかったのか?\nまあどうでもいいがよ。{1a}{0c:51052348}よし、と・・・\nじゃあ、これにサインしろ。{0c:020a01}",
    "read": "{1c:11}{0c:521516}{0b:08}【 初老の男 】{0b:09}\nまったく、近頃の教会の人間は・・・ {1a}{0c:235848510954520301}汝、物欲に囚われるなかれってのは\n習わなかったのか?\nまあどうでもいいがよ。{1a}{0c:51052348}よし、と・・・\nじゃあ、これにサインしろ。{0c:020a01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0c:521516}{0b:08}【 Aging Man 】{0b:09}\nHonestly, churchmen these days...{1a}{0c:235848510954520301}\"Thou shalt not be bound by greed.\"\nThey skip that lesson? Well, not that I\ncare.{1a}{0c:51052348}All right, then... Now sign this.{0c:020a01}",
+   "status": "done",
+   "tl": "Honestly, churchmen these days... // [1]\"Thou shalt not be bound by greed.\" They skip that lesson? Well, not that I care. // [2]All right, then... Now sign this."
   },
   {
    "id": "RES#1023:24ff0",
@@ -536,8 +572,9 @@
    "jp": "{1c:15}{0c:235848510954520301}{0b:08}【 初老の男 】{0b:09}\n聞くまでもねえか。\n{0c:51052348}よし、と・・・\nじゃあ、これにサインしろ。{0c:020901}",
    "read": "{1c:15}{0c:235848510954520301}{0b:08}【 初老の男 】{0b:09}\n聞くまでもねえか。\n{0c:51052348}よし、と・・・\nじゃあ、これにサインしろ。{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0c:235848510954520301}{0b:08}【 Aging Man 】{0b:09}\nGuess I didn't need to ask. {0c:51052348}All right,\nthen... Now sign this.{0c:020901}",
+   "status": "done",
+   "tl": "Guess I didn't need to ask. [1]All right, then... Now sign this."
   },
   {
    "id": "RES#1023:2503d",
@@ -547,8 +584,9 @@
    "jp": "{1c:11}{0c:521516}{0b:08}【 初老の男 】{0b:09}\n『アザレの石』か・・・{1a}水を差すようで悪いが、\nその石が本当にあるかどうかが\nまず問題だな。{1a}{0c:521a16}なにせ、この38年間\n1度も見つかったことがねえんだ、\nあまり期待しない方がいい。{1a}{0c:235848510954520301}俺が探してみせるぜって\n意気揚々とこの町に来た奴に、\nあびせる言葉じゃねえのは\n重々承知してるが、{1a}金なり財宝なり、\n別のもので妥協するのも\n考えた方がいいぜ。{1a}{0c:51052348}よし、と・・・\nじゃあ、これにサインしろ。{0c:020801}",
    "read": "{1c:11}{0c:521516}{0b:08}【 初老の男 】{0b:09}\n『アザレの石』か・・・{1a}水を差すようで悪いが、\nその石が本当にあるかどうかが\nまず問題だな。{1a}{0c:521a16}なにせ、この38年間\n1度も見つかったことがねえんだ、\nあまり期待しない方がいい。{1a}{0c:235848510954520301}俺が探してみせるぜって\n意気揚々とこの町に来た奴に、\nあびせる言葉じゃねえのは\n重々承知してるが、{1a}金なり財宝なり、\n別のもので妥協するのも\n考えた方がいいぜ。{1a}{0c:51052348}よし、と・・・\nじゃあ、これにサインしろ。{0c:020801}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0c:521516}{0b:08}【 Aging Man 】{0b:09}\nThe 'Azare Stone', huh...{1a}Hate to rain on you, but the first\nquestion's whether that stone even\nexists.{1a}{0c:521a16}Thirty-eight years and nobody's found it\nonce, so don't get your hopes up.{1a}{0c:235848510954520301}I know that's no thing to say to\nsomeone who strolled into town crowing\n\"I'll find it!\",{1a}but gold, treasure, some other prize...\nyou might wanna think about settling.{1a}{0c:51052348}All right, then... Now sign this.{0c:020801}",
+   "status": "done",
+   "tl": "The 'Azare Stone', huh... // Hate to rain on you, but the first question's whether that stone even exists. // [1]Thirty-eight years and nobody's found it once, so don't get your hopes up. // [2]I know that's no thing to say to someone who strolled into town crowing \"I'll find it!\", // but gold, treasure, some other prize... you might wanna think about settling. // [3]All right, then... Now sign this."
   },
   {
    "id": "RES#1023:25160",
@@ -558,8 +596,9 @@
    "jp": "{1c:12}{0c:521b16}{0b:08}【 初老の男 】{0b:09}\n武者修行だぁ{01}?\n{02}まったく、貴族ってのは\n{03}ヒマ{02}でいいねえ。{1a}だいたいだなあ、金を稼ぐために\n強くなるってのなら話は分かる。{1a}{0c:521c16}強くなればなっただけ、\n行動範囲も広がるし、\n生き延びる確率も\n増えるわけだからな。{1a}だが、強くなることそのものが\n目的ってのはどういう理屈だ{01}?{1a}{0c:235848510954520301}{1c:11}毎年必{02}ず{01}2{02}・{01}3人\n同{02}じような事を言う奴が来るが、\n俺みたいな商人には\n理解出来ねえ考え方だな。{1a}{0c:51052348}よし、と・・・\nじゃあ、これに{03}サイン{02}しろ。{0c:020701}",
    "read": "{1c:12}{0c:521b16}{0b:08}【 初老の男 】{0b:09}\n武者修行だぁ{01}?\n{02}まったく、貴族ってのは\n{03}ヒマ{02}でいいねえ。{1a}だいたいだなあ、金を稼ぐために\n強くなるってのなら話は分かる。{1a}{0c:521c16}強くなればなっただけ、\n行動範囲も広がるし、\n生き延びる確率も\n増えるわけだからな。{1a}だが、強くなることそのものが\n目的ってのはどういう理屈だ{01}?{1a}{0c:235848510954520301}{1c:11}毎年必{02}ず{01}2{02}・{01}3人\n同{02}じような事を言う奴が来るが、\n俺みたいな商人には\n理解出来ねえ考え方だな。{1a}{0c:51052348}よし、と・・・\nじゃあ、これに{03}サイン{02}しろ。{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0c:521b16}{0b:08}【 Aging Man 】{0b:09}\nTraining, is it? Honestly, you nobles got\ntoo much time on your hands.{1a}I mean, getting strong so you can earn\nmoney, that I understand.{1a}{0c:521c16}The stronger you are, the farther you\ncan go, and the better your odds of\nstaying alive.{1a}But getting strong just for its own\nsake? What kind of logic is that?{1a}{0c:235848510954520301}{1c:11}Every year two or three show up saying\nthe same thing. A merchant like me can't\nmake sense of it.{1a}{0c:51052348}All right, then... Now sign this.{0c:020701}",
+   "status": "done",
+   "tl": "Training, is it? Honestly, you nobles got too much time on your hands. // I mean, getting strong so you can earn money, that I understand. // [1]The stronger you are, the farther you can go, and the better your odds of staying alive. // But getting strong just for its own sake? What kind of logic is that? // [2]Every year two or three show up saying the same thing. A merchant like me can't make sense of it. // [3]All right, then... Now sign this."
   },
   {
    "id": "RES#1023:2529b",
@@ -569,8 +608,9 @@
    "jp": "{1c:15}{0c:521718}{0b:08}【 初老の男 】{0b:09}\n自分を鍛えに来たってわけか?\n今時珍しい真面目な聖職者サマだな。\n{0c:235848511954510954520301}さっきの言葉は取り消すぜ。{1a}{0c:51052348}よし、と・・・\nじゃあ、これにサインしろ。{0c:020601}",
    "read": "{1c:15}{0c:521718}{0b:08}【 初老の男 】{0b:09}\n自分を鍛えに来たってわけか?\n今時珍しい真面目な聖職者サマだな。\n{0c:235848511954510954520301}さっきの言葉は取り消すぜ。{1a}{0c:51052348}よし、と・・・\nじゃあ、これにサインしろ。{0c:020601}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0c:521718}{0b:08}【 Aging Man 】{0b:09}\nCome to train yourself, is that it? What\na serious holy man, and a rare one these\ndays. {0c:235848511954510954520301}I take back what I said.{1a}{0c:51052348}All right, then... Now sign this.{0c:020601}",
+   "status": "done",
+   "tl": "Come to train yourself, is that it? What a serious holy man, and a rare one these days. [1]I take back what I said. // [2]All right, then... Now sign this."
   },
   {
    "id": "RES#1023:25329",
@@ -580,8 +620,9 @@
    "jp": "{1c:13}{0c:521718}{0b:08}【 初老の男 】{0b:09}\nへ? \n金を稼ぎに来たんじゃねえのか?{1a}{0c:521b16}{1c:11}変わったヤツだな。\n第一、平民が武者修行なんぞして\nどうするつもりだ?{1a}{0c:521c16}このご時世、腕っぷしが強くなっても\n仕官の道があるわけでもねえ、\nどこかの商館の用心棒が\nいいところだぜ。{1a}{0c:235848510954520301}まあ、どう生きようが\nお前の勝手だが、\n今時あまり流行らねえぜ、\nそういうのはよ。{1a}{0c:51052348}よし、と・・・\nじゃあ、これにサインしろ。{0c:020501}",
    "read": "{1c:13}{0c:521718}{0b:08}【 初老の男 】{0b:09}\nへ? \n金を稼ぎに来たんじゃねえのか?{1a}{0c:521b16}{1c:11}変わったヤツだな。\n第一、平民が武者修行なんぞして\nどうするつもりだ?{1a}{0c:521c16}このご時世、腕っぷしが強くなっても\n仕官の道があるわけでもねえ、\nどこかの商館の用心棒が\nいいところだぜ。{1a}{0c:235848510954520301}まあ、どう生きようが\nお前の勝手だが、\n今時あまり流行らねえぜ、\nそういうのはよ。{1a}{0c:51052348}よし、と・・・\nじゃあ、これにサインしろ。{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0c:521718}{0b:08}【 Aging Man 】{0b:09}\nHuh? You didn't come to earn money?{1a}{0c:521b16}{1c:11}Strange one, ain't you. Besides, what's a\ncommoner gonna do with training?{1a}{0c:521c16}These days no one's hiring a commoner\nfor strong arms. Bodyguard to some\ntrading house is the best you'd get.{1a}{0c:235848510954520301}Well, how you live's your business, but\nthat sort of thing ain't much in fashion.{1a}{0c:51052348}All right, then... Now sign this.{0c:020501}",
+   "status": "done",
+   "tl": "Huh? You didn't come to earn money? // [1]Strange one, ain't you. Besides, what's a commoner gonna do with training? // [2]These days no one's hiring a commoner for strong arms. Bodyguard to some trading house is the best you'd get. // [3]Well, how you live's your business, but that sort of thing ain't much in fashion. // [4]All right, then... Now sign this."
   },
   {
    "id": "RES#1023:2543c",
@@ -591,8 +632,9 @@
    "jp": "{1c:11}{0c:521b16}{0b:08}【 初老の男 】{0b:09}\nお前、学者なのか?\nその締まりのない顔でか?{1a}まあ、貴族なら金さえありゃ\n誰でも入れる大学ってのも\nあるらしいから、{1a}{0c:235848510954520301}学者の肩書きなんぞ\nアテにはならねえが、\nそれにしても限度があるぜ。{1a}{0c:51052348}よし、と・・・\nじゃあ、これにサインしろ。{0c:020401}",
    "read": "{1c:11}{0c:521b16}{0b:08}【 初老の男 】{0b:09}\nお前、学者なのか?\nその締まりのない顔でか?{1a}まあ、貴族なら金さえありゃ\n誰でも入れる大学ってのも\nあるらしいから、{1a}{0c:235848510954520301}学者の肩書きなんぞ\nアテにはならねえが、\nそれにしても限度があるぜ。{1a}{0c:51052348}よし、と・・・\nじゃあ、これにサインしろ。{0c:020401}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0c:521b16}{0b:08}【 Aging Man 】{0b:09}\nYou, a scholar? With that slack face?{1a}Well, they say there's universities that'll\ntake any noble with money,{1a}{0c:235848510954520301}so a scholar's title don't mean much, but\nthere's limits.{1a}{0c:51052348}All right, then... Now sign this.{0c:020401}",
+   "status": "done",
+   "tl": "You, a scholar? With that slack face? // Well, they say there's universities that'll take any noble with money, // [1]so a scholar's title don't mean much, but there's limits. // [2]All right, then... Now sign this."
   },
   {
    "id": "RES#1023:254f9",
@@ -602,8 +644,9 @@
    "jp": "{1c:11}{0c:521516}{0b:08}【 初老の男 】{0b:09}\n遺跡の研究・・・?\n神に仕える身の聖職者が\nこの遺跡で一体何を研究するんだ?\nどうも嘘臭えな・・・{1a}{0c:235848510954520301}まあ、どうでもいいか。\nよし、と・・・\n{0c:51052348}じゃあ、これにサインしろ。{0c:020301}",
    "read": "{1c:11}{0c:521516}{0b:08}【 初老の男 】{0b:09}\n遺跡の研究・・・?\n神に仕える身の聖職者が\nこの遺跡で一体何を研究するんだ?\nどうも嘘臭えな・・・{1a}{0c:235848510954520301}まあ、どうでもいいか。\nよし、と・・・\n{0c:51052348}じゃあ、これにサインしろ。{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0c:521516}{0b:08}【 Aging Man 】{0b:09}\nResearching the ruins...? And what's a\nservant of God gonna research in this\nruin, exactly? Smells like a lie to me...{1a}{0c:235848510954520301}Well, what do I care. All right, then... {0c:51052348}Now\nsign this.{0c:020301}",
+   "status": "done",
+   "tl": "Researching the ruins...? And what's a servant of God gonna research in this ruin, exactly? Smells like a lie to me... // [1]Well, what do I care. All right, then... [2]Now sign this."
   },
   {
    "id": "RES#1023:25595",
@@ -613,8 +656,9 @@
    "jp": "{1c:15}{0c:521516}{0b:08}【 初老の男 】{0b:09}\nほう、学者さんかい。\nでもよく親が許したな。{1a}{0c:521a16}金持ちの商人の子供なら\n数学か法学を学ぶのが普通だ。{1a}貧乏な商人の子供なら\nもっとガキのうちから\n自分の店を手伝わされるだろう。{1a}{0c:235848510954520301}だからあまり多くねえぜ。\n商人出の学者ってのはよ。\n{0c:51052348}よし、と・・・\nじゃあ、これにサインしろ。{0c:020201}",
    "read": "{1c:15}{0c:521516}{0b:08}【 初老の男 】{0b:09}\nほう、学者さんかい。\nでもよく親が許したな。{1a}{0c:521a16}金持ちの商人の子供なら\n数学か法学を学ぶのが普通だ。{1a}貧乏な商人の子供なら\nもっとガキのうちから\n自分の店を手伝わされるだろう。{1a}{0c:235848510954520301}だからあまり多くねえぜ。\n商人出の学者ってのはよ。\n{0c:51052348}よし、と・・・\nじゃあ、これにサインしろ。{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0c:521516}{0b:08}【 Aging Man 】{0b:09}\nOh ho, a scholar, are ya. Surprised your\nfolks allowed it.{1a}{0c:521a16}A rich merchant's kid would normally\nstudy math or law.{1a}A poor merchant's kid would be minding\nthe shop since before he could walk.{1a}{0c:235848510954520301}So you don't see many scholars out of\nmerchant stock. {0c:51052348}All right, then... Now sign\nthis.{0c:020201}",
+   "status": "done",
+   "tl": "Oh ho, a scholar, are ya. Surprised your folks allowed it. // [1]A rich merchant's kid would normally study math or law. // A poor merchant's kid would be minding the shop since before he could walk. // [2]So you don't see many scholars out of merchant stock. [3]All right, then... Now sign this."
   },
   {
    "id": "RES#1023:25677",
@@ -624,8 +668,9 @@
    "jp": "{1c:13}{0c:521718}{0b:08}【 初老の男 】{0b:09}\nえっ、学者さんかい!?\nこりゃたまげた。{1a}{0c:521c16}{1c:15}いやなに、平民出の学者なんて\nそうはいねえからな。{1a}{0c:521a16}苦労したんだろうな、お前も。\n頑張れよ、応援するぜ。{1a}{0c:235848510954520301}{0c:0c0a51052348}よし、と・・・\nじゃあ、これにサインしろ。{0c:020101}",
    "read": "{1c:13}{0c:521718}{0b:08}【 初老の男 】{0b:09}\nえっ、学者さんかい!?\nこりゃたまげた。{1a}{0c:521c16}{1c:15}いやなに、平民出の学者なんて\nそうはいねえからな。{1a}{0c:521a16}苦労したんだろうな、お前も。\n頑張れよ、応援するぜ。{1a}{0c:235848510954520301}{0c:0c0a51052348}よし、と・・・\nじゃあ、これにサインしろ。{0c:020101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0c:521718}{0b:08}【 Aging Man 】{0b:09}\nWhat, you're a scholar!? Well, I'll be\ndamned.{1a}{0c:521c16}{1c:15}No, it's just you don't see many scholars\nborn common.{1a}{0c:521a16}Must've been hard on you. Keep at it, I'm\nrooting for ya.{1a}{0c:235848510954520301}{0c:0c0a51052348}All right, then... Now sign this.{0c:020101}",
+   "status": "done",
+   "tl": "What, you're a scholar!? Well, I'll be damned. // [1]No, it's just you don't see many scholars born common. // [2]Must've been hard on you. Keep at it, I'm rooting for ya. // [3]All right, then... Now sign this."
   },
   {
    "id": "RES#1023:25726",
@@ -646,8 +691,9 @@
    "jp": "{1c:15}字だけはまともだな。{0c:020501}",
    "read": "{1c:15}字だけはまともだな。{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Well, the handwriting's decent, at least.{0c:020501}",
+   "status": "done",
+   "tl": "Well, the handwriting's decent, at least."
   },
   {
    "id": "RES#1023:2574d",
@@ -657,8 +703,9 @@
    "jp": "{1c:15}レノスの教会文字か。\n久しぶりに見るな。{0c:020401}",
    "read": "{1c:15}レノスの教会文字か。\n久しぶりに見るな。{0c:020401}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}The church hand of Lenos, huh. Been a\nwhile since I saw that.{0c:020401}",
+   "status": "done",
+   "tl": "The church hand of Lenos, huh. Been a while since I saw that."
   },
   {
    "id": "RES#1023:25771",
@@ -668,8 +715,9 @@
    "jp": "{1c:15}さすが商人の子だ、\n書き慣れてるな。{0c:020301}",
    "read": "{1c:15}さすが商人の子だ、\n書き慣れてるな。{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}A merchant's kid all right. You've got a\npracticed hand.{0c:020301}",
+   "status": "done",
+   "tl": "A merchant's kid all right. You've got a practiced hand."
   },
   {
    "id": "RES#1023:25790",
@@ -679,8 +727,9 @@
    "jp": "{0c:520607}{1c:11}それにしても汚ねえ字だな。{0c:020201}",
    "read": "{0c:520607}{1c:11}それにしても汚ねえ字だな。{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520607}{1c:11}Damn, that's ugly handwriting.{0c:020201}",
+   "status": "done",
+   "tl": "Damn, that's ugly handwriting."
   },
   {
    "id": "RES#1023:257ac",
@@ -712,8 +761,9 @@
    "jp": "{1c:15}後は簡単な書類だけだから\nこっちでやっておく。\nよし、行っていいぜ。{0c:fe}",
    "read": "{1c:15}後は簡単な書類だけだから\nこっちでやっておく。\nよし、行っていいぜ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}All that's left is simple paperwork, so I'll\nhandle it. All right, off you go.{0c:fe}",
+   "status": "done",
+   "tl": "All that's left is simple paperwork, so I'll handle it. All right, off you go."
   },
   {
    "id": "RES#1023:257e9",
@@ -734,8 +784,9 @@
    "jp": "{1c:15}{0b:08}【 初老の男 】{0b:09}\n・・・こいつはこれでよし、と。\nよし、次は?{0c:15}",
    "read": "{1c:15}{0b:08}【 初老の男 】{0b:09}\n・・・こいつはこれでよし、と。\nよし、次は?{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Aging Man 】{0b:09}\n...All right, that's this one done. Okay,\nnext?{0c:15}",
+   "status": "done",
+   "tl": "...All right, that's this one done. Okay, next?"
   },
   {
    "id": "RES#1023:25823",
@@ -745,8 +796,9 @@
    "jp": "{1c:10}これで最後だな。{0c:15}",
    "read": "{1c:10}これで最後だな。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}You're the last one, huh.{0c:15}",
+   "status": "done",
+   "tl": "You're the last one, huh."
   },
   {
    "id": "RES#1023:25833",
@@ -756,8 +808,9 @@
    "jp": "{1c:11}役人どもにいくつも書類を\n出さなきゃならねえんだ。\nお前の名前は?\n偽名でも何でもいい、早く言え。{1a}早いことこんな作業\n終わらしてえからな。{0c:15}",
    "read": "{1c:11}役人どもにいくつも書類を\n出さなきゃならねえんだ。\nお前の名前は?\n偽名でも何でもいい、早く言え。{1a}早いことこんな作業\n終わらしてえからな。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}I've gotta send a whole stack of forms\nto the officials. What's your name? An\nalias, whatever, just say it quick.{1a}I wanna get this chore over with.{0c:15}",
+   "status": "done",
+   "tl": "I've gotta send a whole stack of forms to the officials. What's your name? An alias, whatever, just say it quick. // I wanna get this chore over with."
   },
   {
    "id": "RES#1023:25892",
@@ -767,8 +820,9 @@
    "jp": "{1c:15}{10}か・・・\n変わった名だな。\nで、性別は・・・{0c:15}",
    "read": "{1c:15}{10}か・・・\n変わった名だな。\nで、性別は・・・{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{10}, huh... Funny sort of name.\nAnd your sex...{0c:15}",
+   "status": "done",
+   "tl": "[HERO], huh... Funny sort of name. And your sex..."
   },
   {
    "id": "RES#1023:258b3",
@@ -778,8 +832,9 @@
    "jp": "{1c:15}男・・・と。\n変な趣味の奴もいるからな、\n念の為ってやつだ。\nで、国は?{0c:16}",
    "read": "{1c:15}男・・・と。\n変な趣味の奴もいるからな、\n念の為ってやつだ。\nで、国は?{0c:16}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Male... there. You get all kinds of weirdos,\nso better safe than sorry. And your\ncountry?{0c:16}",
+   "status": "done",
+   "tl": "Male... there. You get all kinds of weirdos, so better safe than sorry. And your country?"
   },
   {
    "id": "RES#1023:258e6",
@@ -789,8 +844,9 @@
    "jp": "{1c:15}女・・・と。\nまあ、見りゃわかるんだがな、ここに\n書いてある順番通りに訊かねえと、\n書く欄を間違えちまうんだよ。{1a}で、国は?{0c:15}",
    "read": "{1c:15}女・・・と。\nまあ、見りゃわかるんだがな、ここに\n書いてある順番通りに訊かねえと、\n書く欄を間違えちまうんだよ。{1a}で、国は?{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Female... there. Sure, I can see that for\nmyself, but if I don't ask in the order it\nsays here, I fill in the wrong damn box.{1a}And your country?{0c:15}",
+   "status": "done",
+   "tl": "Female... there. Sure, I can see that for myself, but if I don't ask in the order it says here, I fill in the wrong damn box. // And your country?"
   },
   {
    "id": "RES#1023:25937",
@@ -800,8 +856,9 @@
    "jp": "{1c:15}北から来たのか。\nここから近いし、国自体貧しいから、\n当然1番多いのがお前の国の\n出身者だ。{1a}今回はお前で、えー、7人かな。\nまあ、いつも必ず50人以上\nやってくるから、\nこれでも少ないんだがな。{1a}{0c:03}で、身分は? これもきまりでな。{0c:020c}",
    "read": "{1c:15}北から来たのか。\nここから近いし、国自体貧しいから、\n当然1番多いのがお前の国の\n出身者だ。{1a}今回はお前で、えー、7人かな。\nまあ、いつも必ず50人以上\nやってくるから、\nこれでも少ないんだがな。{1a}{0c:03}で、身分は? これもきまりでな。{0c:020c}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Up from the north, huh. It's close by and\nthe country's dirt poor, so naturally\nyour folk outnumber everybody.{1a}This time you make, uh, seven, I think.\nMind you, we always get fifty or more,\nso that's few for you people.{1a}{0c:03}So, your station? Rules are rules.{0c:020c}",
+   "status": "done",
+   "tl": "Up from the north, huh. It's close by and the country's dirt poor, so naturally your folk outnumber everybody. // This time you make, uh, seven, I think. Mind you, we always get fifty or more, so that's few for you people. // [1]So, your station? Rules are rules."
   },
   {
    "id": "RES#1023:259d7",
@@ -811,8 +868,9 @@
    "jp": "{1c:15}バイレステか・・・懐かしいねぇ。\nこの俺もバイレステ出身だ。\nよろしくな。\n今回は、んー、5人目だったかな。{1a}{0c:03}で、身分は? これもきまりでな。{0c:020b}",
    "read": "{1c:15}バイレステか・・・懐かしいねぇ。\nこの俺もバイレステ出身だ。\nよろしくな。\n今回は、んー、5人目だったかな。{1a}{0c:03}で、身分は? これもきまりでな。{0c:020b}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Baileste, huh... Takes me back. I'm from\nBaileste myself. Pleased to meet ya. This\ntime you're, hmm, the fifth, I think.{1a}{0c:03}So, your station? Rules are rules.{0c:020b}",
+   "status": "done",
+   "tl": "Baileste, huh... Takes me back. I'm from Baileste myself. Pleased to meet ya. This time you're, hmm, the fifth, I think. // [1]So, your station? Rules are rules."
   },
   {
    "id": "RES#1023:25a3a",
@@ -822,8 +880,9 @@
    "jp": "{1c:15}ビアストクか・・・\n遠い所からご苦労なことだな。\nここに来るのに2ヶ月はかかったろ?{1a}まあ、最低2ヶ月は生き延びろよ。\nじゃねえと、\n笑い話にもならねえからな。{1a}{0c:03}で、身分は? これもきまりでな。{0c:020a}",
    "read": "{1c:15}ビアストクか・・・\n遠い所からご苦労なことだな。\nここに来るのに2ヶ月はかかったろ?{1a}まあ、最低2ヶ月は生き延びろよ。\nじゃねえと、\n笑い話にもならねえからな。{1a}{0c:03}で、身分は? これもきまりでな。{0c:020a}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Biastok, huh... A long haul you made of it.\nMust've taken you two months to get\nhere, right?{1a}So stay alive two months at least.\nOtherwise it ain't even funny.{1a}{0c:03}So, your station? Rules are rules.{0c:020a}",
+   "status": "done",
+   "tl": "Biastok, huh... A long haul you made of it. Must've taken you two months to get here, right? // So stay alive two months at least. Otherwise it ain't even funny. // [1]So, your station? Rules are rules."
   },
   {
    "id": "RES#1023:25ac0",
@@ -833,8 +892,9 @@
    "jp": "{1c:15}ルミニアか・・・懐かしいねえ。\nここに来る前、俺はずっと船に乗って\n商いをしてたんだが、\nあの国には何度となく行ったからな。{1a}そういや、ルミニアから来た娘が\n1人いたな。\nとても戦いに来たようには\n思えなかったが・・・{1a}{0c:03}で、お前の身分は?\nこれもきまりでな。{0c:0209}",
    "read": "{1c:15}ルミニアか・・・懐かしいねえ。\nここに来る前、俺はずっと船に乗って\n商いをしてたんだが、\nあの国には何度となく行ったからな。{1a}そういや、ルミニアから来た娘が\n1人いたな。\nとても戦いに来たようには\n思えなかったが・・・{1a}{0c:03}で、お前の身分は?\nこれもきまりでな。{0c:0209}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Luminia, huh... Takes me back. Before I\ncame here I spent my life on ships,\ntrading, and I put in at that country\nmore times than I can count.{1a}Come to think of it, there was a girl\nfrom Luminia. She sure didn't look like\nshe came to fight...{1a}{0c:03}So, what's your station? Rules are rules.{0c:0209}",
+   "status": "done",
+   "tl": "Luminia, huh... Takes me back. Before I came here I spent my life on ships, trading, and I put in at that country more times than I can count. // Come to think of it, there was a girl from Luminia. She sure didn't look like she came to fight... // [1]So, what's your station? Rules are rules."
   },
   {
    "id": "RES#1023:25b67",
@@ -844,8 +904,9 @@
    "jp": "{1c:11}クラスダールか・・・極東の、\nあまり豊かとは言えねえ国だな。\n俺も何回か行ったことはあるが、みな\n純朴というか、真面目というか・・・{1a}悪く言や、面白みのない所だったな。\nそういや、クラスダールから\n来た奴が他にも1人いたぜ。{1a}{0c:03}で、お前の身分は?\nこれもきまりでな。{0c:0208}",
    "read": "{1c:11}クラスダールか・・・極東の、\nあまり豊かとは言えねえ国だな。\n俺も何回か行ったことはあるが、みな\n純朴というか、真面目というか・・・{1a}悪く言や、面白みのない所だったな。\nそういや、クラスダールから\n来た奴が他にも1人いたぜ。{1a}{0c:03}で、お前の身分は?\nこれもきまりでな。{0c:0208}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Krasdar, huh... Way out in the far east,\nand not what you'd call rich. I've been\nthere a few times. Simple folk, honest\nfolk, or...{1a}Put it unkindly, a dull place. Come to\nthink of it, there's one other from\nKrasdar.{1a}{0c:03}So, what's your station? Rules are rules.{0c:0208}",
+   "status": "done",
+   "tl": "Krasdar, huh... Way out in the far east, and not what you'd call rich. I've been there a few times. Simple folk, honest folk, or... // Put it unkindly, a dull place. Come to think of it, there's one other from Krasdar. // [1]So, what's your station? Rules are rules."
   },
   {
    "id": "RES#1023:25c17",
@@ -855,8 +916,9 @@
    "jp": "{1c:15}砂漠の国セフィータか・・・\n懐かしいねえ。{1a}ここに来る前、俺はずっと船に乗って\n商いをしてたんだが、\nあの国の港には何度となく\n行ったからな。{1a}そういや、セフィータから来た\n姉弟がいたな・・・{1a}{0c:03}で、お前の身分は?\nこれもきまりでな。{0c:0207}",
    "read": "{1c:15}砂漠の国セフィータか・・・\n懐かしいねえ。{1a}ここに来る前、俺はずっと船に乗って\n商いをしてたんだが、\nあの国の港には何度となく\n行ったからな。{1a}そういや、セフィータから来た\n姉弟がいたな・・・{1a}{0c:03}で、お前の身分は?\nこれもきまりでな。{0c:0207}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Sefita, the desert country, huh... Takes\nme back.{1a}Before I came here I spent my life on\nships, trading, and I put in at that\ncountry's ports more times than I can\ncount.{1a}Come to think of it, there was a sister\nand brother from Sefita...{1a}{0c:03}So, what's your station? Rules are rules.{0c:0207}",
+   "status": "done",
+   "tl": "Sefita, the desert country, huh... Takes me back. // Before I came here I spent my life on ships, trading, and I put in at that country's ports more times than I can count. // Come to think of it, there was a sister and brother from Sefita... // [1]So, what's your station? Rules are rules."
   },
   {
    "id": "RES#1023:25cb0",
@@ -866,8 +928,9 @@
    "jp": "{1c:15}ファコルツか・・・\nどんな所だ?{1a}ここに来る前、俺はずっと船に乗って\n商いをしてたんだが、\nファコルツにまで足を延ばす\nことなんて1度もなかったからな。{1a}{0c:03}で、お前の身分は?\nこれもきまりでな。{0c:0206}",
    "read": "{1c:15}ファコルツか・・・\nどんな所だ?{1a}ここに来る前、俺はずっと船に乗って\n商いをしてたんだが、\nファコルツにまで足を延ばす\nことなんて1度もなかったからな。{1a}{0c:03}で、お前の身分は?\nこれもきまりでな。{0c:0206}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Fakolz, huh... What's it like?{1a}Before I came here I spent my life on\nships, trading, but I never once got as\nfar as Fakolz.{1a}{0c:03}So, what's your station? Rules are rules.{0c:0206}",
+   "status": "done",
+   "tl": "Fakolz, huh... What's it like? // Before I came here I spent my life on ships, trading, but I never once got as far as Fakolz. // [1]So, what's your station? Rules are rules."
   },
   {
    "id": "RES#1023:25d31",
@@ -877,8 +940,9 @@
    "jp": "{1c:15}ラコースか・・・懐かしいねえ。\nここに来る前、俺はずっと船に乗って\n商いをしてたんだが、\nあの国には何度となく行ったからな。{1a}そういや、ラコースから来た娘が\n1人いたな・・・{1a}{0c:03}で、お前の身分は?\nこれもきまりでな。{0c:0205}",
    "read": "{1c:15}ラコースか・・・懐かしいねえ。\nここに来る前、俺はずっと船に乗って\n商いをしてたんだが、\nあの国には何度となく行ったからな。{1a}そういや、ラコースから来た娘が\n1人いたな・・・{1a}{0c:03}で、お前の身分は?\nこれもきまりでな。{0c:0205}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Racoss, huh... Takes me back. Before I\ncame here I spent my life on ships,\ntrading, and I put in at that country\nmore times than I can count.{1a}Come to think of it, there was one girl\nfrom Racoss...{1a}{0c:03}So, what's your station? Rules are rules.{0c:0205}",
+   "status": "done",
+   "tl": "Racoss, huh... Takes me back. Before I came here I spent my life on ships, trading, and I put in at that country more times than I can count. // Come to think of it, there was one girl from Racoss... // [1]So, what's your station? Rules are rules."
   },
   {
    "id": "RES#1023:25dbf",
@@ -888,8 +952,9 @@
    "jp": "{1c:15}トラドアか・・・懐かしいねえ。\nここに来る前、俺はずっと船に乗って\n商いをしてたんだが、\nあの国には何度となく行ったからな。{1a}そういや、確かバルデスは\nトラドアから来たんだっけな・・・\nって言ってもお前には分からねえか。{1a}{0c:03}それから、と・・・ お前の身分は?\nこれもきまりでな。{0c:0204}",
    "read": "{1c:15}トラドアか・・・懐かしいねえ。\nここに来る前、俺はずっと船に乗って\n商いをしてたんだが、\nあの国には何度となく行ったからな。{1a}そういや、確かバルデスは\nトラドアから来たんだっけな・・・\nって言ってもお前には分からねえか。{1a}{0c:03}それから、と・・・ お前の身分は?\nこれもきまりでな。{0c:0204}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Tradoa, huh... Takes me back. Before I\ncame here I spent my life on ships,\ntrading, and I put in at that country\nmore times than I can count.{1a}Come to think of it, I believe Valdes\ncame from Tradoa... Not that you'd know.{1a}{0c:03}What else, now... Your station? Rules are\nrules.{0c:0204}",
+   "status": "done",
+   "tl": "Tradoa, huh... Takes me back. Before I came here I spent my life on ships, trading, and I put in at that country more times than I can count. // Come to think of it, I believe Valdes came from Tradoa... Not that you'd know. // [1]What else, now... Your station? Rules are rules."
   },
   {
    "id": "RES#1023:25e6e",
@@ -899,8 +964,9 @@
    "jp": "{1c:15}フィサーノか・・・懐かしいねえ。{1a}ここに来る前、俺はずっと船に乗って\n商いをしてたんだが、\nあの都市には何度となく\n行ったからな。{1a}そういや、あいつと出会ったのも\nフィサーノだったか・・・\nいやすまねえ、こっちの話だ。{1a}{0c:03}で、お前の身分は?\nこれもきまりでな。{0c:17}",
    "read": "{1c:15}フィサーノか・・・懐かしいねえ。{1a}ここに来る前、俺はずっと船に乗って\n商いをしてたんだが、\nあの都市には何度となく\n行ったからな。{1a}そういや、あいつと出会ったのも\nフィサーノだったか・・・\nいやすまねえ、こっちの話だ。{1a}{0c:03}で、お前の身分は?\nこれもきまりでな。{0c:17}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Fisano, huh... Takes me back.{1a}Before I came here I spent my life on\nships, trading, and I put in at that city\nmore times than I can count.{1a}Come to think of it, Fisano's where I met\nthat fella... No, sorry, never mind me.{1a}{0c:03}So, what's your station? Rules are rules.{0c:17}",
+   "status": "done",
+   "tl": "Fisano, huh... Takes me back. // Before I came here I spent my life on ships, trading, and I put in at that city more times than I can count. // Come to think of it, Fisano's where I met that fella... No, sorry, never mind me. // [1]So, what's your station? Rules are rules."
   },
   {
    "id": "RES#1023:25f10",
@@ -910,8 +976,9 @@
    "jp": "{1c:15}イレニアか・・・懐かしいねえ。\nここに来る前、俺はずっと船に乗って\n商いをしてたんだが、\nあの国には何度となく行ったからな。{1a}しかし、お前さん、\nあまり島の人間ぽくねえな・・・{1a}{0c:03}まあいい。で、お前の身分は?\nこれもきまりでな。{0c:16}",
    "read": "{1c:15}イレニアか・・・懐かしいねえ。\nここに来る前、俺はずっと船に乗って\n商いをしてたんだが、\nあの国には何度となく行ったからな。{1a}しかし、お前さん、\nあまり島の人間ぽくねえな・・・{1a}{0c:03}まあいい。で、お前の身分は?\nこれもきまりでな。{0c:16}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Irenia, huh... Takes me back. Before I\ncame here I spent my life on ships,\ntrading, and I put in at that country\nmore times than I can count.{1a}Though you don't look much like an\nislander, friend...{1a}{0c:03}Well, whatever. So, what's your station?\nRules are rules.{0c:16}",
+   "status": "done",
+   "tl": "Irenia, huh... Takes me back. Before I came here I spent my life on ships, trading, and I put in at that country more times than I can count. // Though you don't look much like an islander, friend... // [1]Well, whatever. So, what's your station? Rules are rules."
   },
   {
    "id": "RES#1023:25fa0",
@@ -921,8 +988,9 @@
    "jp": "{1c:15}レノスか・・・懐かしいねえ。\nここに来る前、俺はずっと船に乗って\n商いをしてたんだが、\nレノスには何度となく行ったからな。{1a}とはいっても、あまりいい印象は\nねえが・・・{1a}{0c:03}まあいい。で、お前の身分は?\nこれもきまりでな。{0c:15}",
    "read": "{1c:15}レノスか・・・懐かしいねえ。\nここに来る前、俺はずっと船に乗って\n商いをしてたんだが、\nレノスには何度となく行ったからな。{1a}とはいっても、あまりいい印象は\nねえが・・・{1a}{0c:03}まあいい。で、お前の身分は?\nこれもきまりでな。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Lenos, huh... Takes me back. Before I\ncame here I spent my life on ships,\ntrading, and I put in at Lenos more times\nthan I can count.{1a}Mind you, I don't remember it fondly...{1a}{0c:03}Well, whatever. So, what's your station?\nRules are rules.{0c:15}",
+   "status": "done",
+   "tl": "Lenos, huh... Takes me back. Before I came here I spent my life on ships, trading, and I put in at Lenos more times than I can count. // Mind you, I don't remember it fondly... // [1]Well, whatever. So, what's your station? Rules are rules."
   },
   {
    "id": "RES#1023:2602b",
@@ -932,8 +1000,9 @@
    "jp": "{1c:14}・・・・・・\n親を恨むんだな。{1a}1つ忠告しておく。そのことは絶対に\n誰にも言うな。\nここは、貧乏人が、命の危機の代償に\n富を掴む場所だ。{1a}いくらここに長くいても、\nお前ら貴族に対する恨みだけは\n忘れてないだろうからな。\n努々忘れるなよ。{1a}まったく、頭の悪い金持ちほど\n不愉快なモノはねえ・・・{1a}{0c:03}よし、と・・・\nじゃあ、これにサインしろ。{0c:0207}",
    "read": "{1c:14}・・・・・・\n親を恨むんだな。{1a}1つ忠告しておく。そのことは絶対に\n誰にも言うな。\nここは、貧乏人が、命の危機の代償に\n富を掴む場所だ。{1a}いくらここに長くいても、\nお前ら貴族に対する恨みだけは\n忘れてないだろうからな。\n努々忘れるなよ。{1a}まったく、頭の悪い金持ちほど\n不愉快なモノはねえ・・・{1a}{0c:03}よし、と・・・\nじゃあ、これにサインしろ。{0c:0207}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}...... Blame your parents.{1a}One word of advice. Never, ever tell\nanybody that. This is where paupers\ntrade their lives for a shot at riches.{1a}However long they've been here, they\nwon't forget their grudge against you\nnobles. Don't you ever forget it.{1a}Damn it, nothing's more unpleasant than\na rich idiot...{1a}{0c:03}All right, then... Now sign this.{0c:0207}",
+   "status": "done",
+   "tl": "...... Blame your parents. // One word of advice. Never, ever tell anybody that. This is where paupers trade their lives for a shot at riches. // However long they've been here, they won't forget their grudge against you nobles. Don't you ever forget it. // Damn it, nothing's more unpleasant than a rich idiot... // [1]All right, then... Now sign this."
   },
   {
    "id": "RES#1023:26108",
@@ -943,8 +1012,9 @@
    "jp": "{1c:14}・・・・・・\nふうん、騎士サマね・・・\nどおりで頭が悪そうなわけだ。{1a}1つ忠告しておく。\nそのことは絶対に誰にも言うな。\nここは、貧乏人が、命の危機の代償に\n富を掴む場所だ。{1a}いくらここに長くいても、\nお前ら貴族に対する恨みだけは\n忘れてないだろうからな。{1a}ここは身分なんてクソの役にも\nたたねえ。\n努々忘れるなよ。{1a}{0c:03}よし、と・・・\nじゃあ、これにサインしろ。{0c:0206}",
    "read": "{1c:14}・・・・・・\nふうん、騎士サマね・・・\nどおりで頭が悪そうなわけだ。{1a}1つ忠告しておく。\nそのことは絶対に誰にも言うな。\nここは、貧乏人が、命の危機の代償に\n富を掴む場所だ。{1a}いくらここに長くいても、\nお前ら貴族に対する恨みだけは\n忘れてないだろうからな。{1a}ここは身分なんてクソの役にも\nたたねえ。\n努々忘れるなよ。{1a}{0c:03}よし、と・・・\nじゃあ、これにサインしろ。{0c:0206}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}...... Hmph, a knight, is it... No wonder you\nlook so dim.{1a}One word of advice. Never, ever tell\nanybody that. This is where paupers\ntrade their lives for a shot at riches.{1a}However long they've been here, they\nwon't forget their grudge against you\nnobles.{1a}Rank ain't worth a damn here. Don't you\never forget it.{1a}{0c:03}All right, then... Now sign this.{0c:0206}",
+   "status": "done",
+   "tl": "...... Hmph, a knight, is it... No wonder you look so dim. // One word of advice. Never, ever tell anybody that. This is where paupers trade their lives for a shot at riches. // However long they've been here, they won't forget their grudge against you nobles. // Rank ain't worth a damn here. Don't you ever forget it. // [1]All right, then... Now sign this."
   },
   {
    "id": "RES#1023:261f1",
@@ -954,8 +1024,9 @@
    "jp": "{1c:11}・・・・・・\n坊さんかい・・・\nどおりで小狡そうな顔してやがる。{1a}あまり神サマの名前使って\n悪さするんじゃねえぞ。\n無法者の集まりとはいえ、\n信心深い田舎者も少なくねえからな。{1a}{0c:03}よし、と・・・\nじゃあ、これにサインしろ。{0c:0205}",
    "read": "{1c:11}・・・・・・\n坊さんかい・・・\nどおりで小狡そうな顔してやがる。{1a}あまり神サマの名前使って\n悪さするんじゃねえぞ。\n無法者の集まりとはいえ、\n信心深い田舎者も少なくねえからな。{1a}{0c:03}よし、と・・・\nじゃあ、これにサインしろ。{0c:0205}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}...... A priest, huh... No wonder you've got\nthat sly face.{1a}Don't go making trouble in God's good\nname. We may be a pack of outlaws, but\nplenty of them are pious country boys.{1a}{0c:03}All right, then... Now sign this.{0c:0205}",
+   "status": "done",
+   "tl": "...... A priest, huh... No wonder you've got that sly face. // Don't go making trouble in God's good name. We may be a pack of outlaws, but plenty of them are pious country boys. // [1]All right, then... Now sign this."
   },
   {
    "id": "RES#1023:26281",
@@ -965,8 +1036,9 @@
    "jp": "{1c:15}一攫千金を目指すにはもってこいの\n場所だからな、ここは。{1a}自分の店を持つためだとか、\n借金を返すためだとか・・・\nそんな奴は大勢見てきたよ。{1a}もっともその多くが、夢やぶれる\nどころか命まで落としちまう。\nまあ、それを承知で来たんだろう\nから、多くは言わねえが・・・{1a}{0c:03}よし、と・・・\nじゃあ、これにサインしろ。{0c:0204}",
    "read": "{1c:15}一攫千金を目指すにはもってこいの\n場所だからな、ここは。{1a}自分の店を持つためだとか、\n借金を返すためだとか・・・\nそんな奴は大勢見てきたよ。{1a}もっともその多くが、夢やぶれる\nどころか命まで落としちまう。\nまあ、それを承知で来たんだろう\nから、多くは言わねえが・・・{1a}{0c:03}よし、と・・・\nじゃあ、これにサインしろ。{0c:0204}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Right place to strike it rich, this.{1a}Wanna open your own shop, pay off your\ndebts... I've seen plenty like that.{1a}Though most of 'em lose more than their\ndreams. They lose their lives. Still, you\nknew that coming, so I won't say much...{1a}{0c:03}All right, then... Now sign this.{0c:0204}",
+   "status": "done",
+   "tl": "Right place to strike it rich, this. // Wanna open your own shop, pay off your debts... I've seen plenty like that. // Though most of 'em lose more than their dreams. They lose their lives. Still, you knew that coming, so I won't say much... // [1]All right, then... Now sign this."
   },
   {
    "id": "RES#1023:26343",
@@ -976,8 +1048,9 @@
    "jp": "{1c:11}・・・の割に、\nトロそうな顔してやがるな。\nまあ、せいぜい頑張れよ。{1a}{0c:03}よし、と・・・\nじゃあ、これにサインしろ。{0c:17}",
    "read": "{1c:11}・・・の割に、\nトロそうな顔してやがるな。\nまあ、せいぜい頑張れよ。{1a}{0c:03}よし、と・・・\nじゃあ、これにサインしろ。{0c:17}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}...You've got a slow look about you for\none, though. Well, work hard.{1a}{0c:03}All right, then... Now sign this.{0c:17}",
+   "status": "done",
+   "tl": "...You've got a slow look about you for one, though. Well, work hard. // [1]All right, then... Now sign this."
   },
   {
    "id": "RES#1023:2638c",
@@ -987,8 +1060,9 @@
    "jp": "{1c:11}・・・全然そうは見えねえがな。\nだいたいなんだ?\nその貧相な身体は・・・\nまあ、せいぜい頑張れよ。{1a}{0c:03}よし、と・・・\nじゃあ、これにサインしろ。{0c:16}",
    "read": "{1c:11}・・・全然そうは見えねえがな。\nだいたいなんだ?\nその貧相な身体は・・・\nまあ、せいぜい頑張れよ。{1a}{0c:03}よし、と・・・\nじゃあ、これにサインしろ。{0c:16}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}...You sure don't look it. I mean, what's\nwith that scrawny body...? Well, work\nhard.{1a}{0c:03}All right, then... Now sign this.{0c:16}",
+   "status": "done",
+   "tl": "...You sure don't look it. I mean, what's with that scrawny body...? Well, work hard. // [1]All right, then... Now sign this."
   },
   {
    "id": "RES#1023:263e9",
@@ -998,8 +1072,9 @@
    "jp": "{1c:11}いつの時代も割を食うのは\n貧乏人だから、夢を見るしか\nねえんだろうな。{1a}ここには大勢いるぜ。\nそんな奴が・・・\nもっともその多くが、夢やぶれる\nどころか命まで落としちまう。{1a}まあ、それを承知で来たんだろうから\n同情はしねえが・・・{1a}{0c:03}よし、と・・・\nじゃあ、これにサインしろ。{0c:15}",
    "read": "{1c:11}いつの時代も割を食うのは\n貧乏人だから、夢を見るしか\nねえんだろうな。{1a}ここには大勢いるぜ。\nそんな奴が・・・\nもっともその多くが、夢やぶれる\nどころか命まで落としちまう。{1a}まあ、それを承知で来たんだろうから\n同情はしねえが・・・{1a}{0c:03}よし、と・・・\nじゃあ、これにサインしろ。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}In any age it's the poor that get the\nshort end, so I guess dreaming's all you\ngot.{1a}Plenty like that here... Though most of\n'em lose more than their dreams. They\nlose their lives.{1a}Well, you knew that coming, so no\nsympathy from me...{1a}{0c:03}All right, then... Now sign this.{0c:15}",
+   "status": "done",
+   "tl": "In any age it's the poor that get the short end, so I guess dreaming's all you got. // Plenty like that here... Though most of 'em lose more than their dreams. They lose their lives. // Well, you knew that coming, so no sympathy from me... // [1]All right, then... Now sign this."
   },
   {
    "id": "RES#1023:26492",
@@ -1009,8 +1084,9 @@
    "jp": "{1c:11}それにしても汚ねえ字だな。{0c:15}",
    "read": "{1c:11}それにしても汚ねえ字だな。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Damn, that's ugly handwriting.{0c:15}",
+   "status": "done",
+   "tl": "Damn, that's ugly handwriting."
   },
   {
    "id": "RES#1023:264a7",
@@ -1020,8 +1096,9 @@
    "jp": "{1c:15}後は簡単な書類だけだから\nこっちでやっておく。\nよし、行っていいぜ。{0c:15}",
    "read": "{1c:15}後は簡単な書類だけだから\nこっちでやっておく。\nよし、行っていいぜ。{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}All that's left is simple paperwork, so I'll\nhandle it. All right, off you go.{0c:15}",
+   "status": "done",
+   "tl": "All that's left is simple paperwork, so I'll handle it. All right, off you go."
   },
   {
    "id": "RES#1023:264d5",
@@ -1053,8 +1130,9 @@
    "jp": "{1c:15}{0b:08}【 初老の男 】{0b:09}\nふう、やっと終わった。{0c:1501}",
    "read": "{1c:15}{0b:08}【 初老の男 】{0b:09}\nふう、やっと終わった。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Aging Man 】{0b:09}\nWhew, finally done.{0c:1501}",
+   "status": "done",
+   "tl": "Whew, finally done."
   },
   {
    "id": "RES#1023:265ab",
@@ -1075,8 +1153,9 @@
    "jp": "{0c:5100}{1c:15}全員残ってるな。\n{0c:5202e1}{07:1e}ん?{07:1e} クラウスの妹とやらが\nいねえか・・・{07:05}{0c:1501}",
    "read": "{0c:5100}{1c:15}全員残ってるな。\n{0c:5202e1}{07:1e}ん?{07:1e} クラウスの妹とやらが\nいねえか・・・{07:05}{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5100}{1c:15}Everyone's here. {0c:5202e1}{07:1e}Hm?{07:1e} Klaus's sister or\nwhoever's missing...{07:05}{0c:1501}",
+   "status": "done",
+   "tl": "Everyone's here. [1]Hm?[2] Klaus's sister or whoever's missing..."
   },
   {
    "id": "RES#1023:265f6",
@@ -1097,8 +1176,9 @@
    "jp": "{0c:51f1}{1c:1a}{0b:08}【 屈強な戦士 】{0b:09}\nなんだ、今回はやけに少ないな。{0c:1501}",
    "read": "{0c:51f1}{1c:1a}{0b:08}【 屈強な戦士 】{0b:09}\nなんだ、今回はやけに少ないな。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51f1}{1c:1a}{0b:08}【 Burly Warrior 】{0b:09}\nWhat's this, awful few this time.{0c:1501}",
+   "status": "done",
+   "tl": "What's this, awful few this time."
   },
   {
    "id": "RES#1023:26645",
@@ -1119,8 +1199,9 @@
    "jp": "{0c:520109}{1c:11}{0b:08}【 初老の男 】{0b:09}\nああ、何でもこいつらが通った\nすぐ後に道が崩れたらしい。{1a}{0c:51e1}他の隊商の奴らは迂回したそうだが、\n間に合わなかったみたいだな。{0c:2b03091501}",
    "read": "{0c:520109}{1c:11}{0b:08}【 初老の男 】{0b:09}\nああ、何でもこいつらが通った\nすぐ後に道が崩れたらしい。{1a}{0c:51e1}他の隊商の奴らは迂回したそうだが、\n間に合わなかったみたいだな。{0c:2b03091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520109}{1c:11}{0b:08}【 Aging Man 】{0b:09}\nYeah, seems the road caved in right\nafter this lot went through.{1a}{0c:51e1}The other caravans took the long way\nround, but looks like they didn't make it\nin time.{0c:2b03091501}",
+   "status": "done",
+   "tl": "Yeah, seems the road caved in right after this lot went through. // [1]The other caravans took the long way round, but looks like they didn't make it in time."
   },
   {
    "id": "RES#1023:266c5",
@@ -1130,8 +1211,9 @@
    "jp": "{0c:52f2ef}{1c:17}{0b:08}【 屈強な戦士 】{0b:09}\nそれで若い奴らばかりなのか?{0c:2b00091501}",
    "read": "{0c:52f2ef}{1c:17}{0b:08}【 屈強な戦士 】{0b:09}\nそれで若い奴らばかりなのか?{0c:2b00091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52f2ef}{1c:17}{0b:08}【 Burly Warrior 】{0b:09}\nThat why they're all youngsters?{0c:2b00091501}",
+   "status": "done",
+   "tl": "That why they're all youngsters?"
   },
   {
    "id": "RES#1023:266f9",
@@ -1141,8 +1223,9 @@
    "jp": "{1c:11}{0b:08}【 初老の男 】{0b:09}\n若い奴から順に出発するからな。\n合計{01}14人{02}・・・今回はこれだけさ。\n{0c:2b0355f1}{01}2年前{02}の秋は百人も来たのにな。{0c:2b03091501}",
    "read": "{1c:11}{0b:08}【 初老の男 】{0b:09}\n若い奴から順に出発するからな。\n合計{01}14人{02}・・・今回はこれだけさ。\n{0c:2b0355f1}{01}2年前{02}の秋は百人も来たのにな。{0c:2b03091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Aging Man 】{0b:09}\nYoungest set out first. Fourteen in all...\nthat's it this time. {0c:2b0355f1}Two autumns ago we\nhad a hundred.{0c:2b03091501}",
+   "status": "done",
+   "tl": "Youngest set out first. Fourteen in all... that's it this time. [1]Two autumns ago we had a hundred."
   },
   {
    "id": "RES#1023:26760",
@@ -1152,8 +1235,9 @@
    "jp": "{0c:5113}{1c:18}{0b:08}【 屈強な戦士 】{0b:09}\nだが、そのうち生き残ったのは\n10人足らずか・・・{0c:2b00091501}",
    "read": "{0c:5113}{1c:18}{0b:08}【 屈強な戦士 】{0b:09}\nだが、そのうち生き残ったのは\n10人足らずか・・・{0c:2b00091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5113}{1c:18}{0b:08}【 Burly Warrior 】{0b:09}\nBut fewer than ten of them lived...{0c:2b00091501}",
+   "status": "done",
+   "tl": "But fewer than ten of them lived..."
   },
   {
    "id": "RES#1023:267a1",
@@ -1163,8 +1247,9 @@
    "jp": "{0c:51e2}{1c:11}{0b:08}【 初老の男 】{0b:09}\nあれはどうしようもなかったんだ。\n{0c:51f0}もう忘れろ。{0c:2b03091501}",
    "read": "{0c:51e2}{1c:11}{0b:08}【 初老の男 】{0b:09}\nあれはどうしようもなかったんだ。\n{0c:51f0}もう忘れろ。{0c:2b03091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51e2}{1c:11}{0b:08}【 Aging Man 】{0b:09}\nCouldn't be helped, that. {0c:51f0}Forget it\nalready.{0c:2b03091501}",
+   "status": "done",
+   "tl": "Couldn't be helped, that. [1]Forget it already."
   },
   {
    "id": "RES#1023:267dd",
@@ -1185,8 +1270,9 @@
    "jp": "{0c:521415}{1c:18}{0b:08}【 屈強な戦士 】{0b:09}\nそうはいかないさ・・・{0c:1501}",
    "read": "{0c:521415}{1c:18}{0b:08}【 屈強な戦士 】{0b:09}\nそうはいかないさ・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521415}{1c:18}{0b:08}【 Burly Warrior 】{0b:09}\nCan't do that...{0c:1501}",
+   "status": "done",
+   "tl": "Can't do that..."
   },
   {
    "id": "RES#1023:26824",
@@ -1207,8 +1293,9 @@
    "jp": "{0c:5204052d2b0555322b0b55362b0755382b0e553c2b12553f2b0855ff052b0f55562b012310032b042352f83a2b132352ff04442b0c554704042e}{1c:10}{0b:08}【 初老の男 】{0b:09}\nやあ諸君、カルスの棺桶によく来た!\n{0c:520607}俺はこの町で酒場兼ガラクタ店兼\n外との交渉役をやってるオイゲンだ。{1a}ついでに外の情報も\n壁新聞にして貼ってるから\n暇な時に見に来ればいい。{1a}{0c:5100}あまり他人に干渉しないのが\nここのルールだが、\nお前らみたいな若いのを放っておいて\n死なれたんじゃ酒が不味くなるから、{1a}この町で生きていくために\n最低限必要なルールだけは\n今ここで教えとく。{1a}{0c:520408}まず1つ・・・ここには、\n国も、身分も全く存在しない・・・\n外で俺達を縛っていた法律も、\n警察も、軍隊もここにはない。{1a}貴族だろうが盗人だろうが、\n金持ちだろうが貧乏人だろうが、\nここではただの冒険者だ!{1a}{0c:5100}といっても、自由に何をやっても\nいいってわけじゃない。{1a}『自由』なんてものは、\nそいつの力に見合った分しか\n{0c:52e308}ないって事を覚えとけ!!{0c:0afe}",
    "read": "{0c:5204052d2b0555322b0b55362b0755382b0e553c2b12553f2b0855ff052b0f55562b012310032b042352f83a2b132352ff04442b0c554704042e}{1c:10}{0b:08}【 初老の男 】{0b:09}\nやあ諸君、カルスの棺桶によく来た!\n{0c:520607}俺はこの町で酒場兼ガラクタ店兼\n外との交渉役をやってるオイゲンだ。{1a}ついでに外の情報も\n壁新聞にして貼ってるから\n暇な時に見に来ればいい。{1a}{0c:5100}あまり他人に干渉しないのが\nここのルールだが、\nお前らみたいな若いのを放っておいて\n死なれたんじゃ酒が不味くなるから、{1a}この町で生きていくために\n最低限必要なルールだけは\n今ここで教えとく。{1a}{0c:520408}まず1つ・・・ここには、\n国も、身分も全く存在しない・・・\n外で俺達を縛っていた法律も、\n警察も、軍隊もここにはない。{1a}貴族だろうが盗人だろうが、\n金持ちだろうが貧乏人だろうが、\nここではただの冒険者だ!{1a}{0c:5100}といっても、自由に何をやっても\nいいってわけじゃない。{1a}『自由』なんてものは、\nそいつの力に見合った分しか\n{0c:52e308}ないって事を覚えとけ!!{0c:0afe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5204052d2b0555322b0b55362b0755382b0e553c2b12553f2b0855ff052b0f55562b012310032b042352f83a2b132352ff04442b0c554704042e}{1c:10}{0b:08}【 Aging Man 】{0b:09}\nWell now, boys and girls, welcome to the\nCoffin of Kars! {0c:520607}I'm Eugen. I run the\ntavern here, plus the junk shop, plus I{1a}deal with the outside.{1a}I also post outside news on a wall\nnewspaper, so come look when you're\nbored.{1a}{0c:5100}Around here we mostly stay out of each\nother's business, but if young pups like\nyou die for lack of telling, it spoils my\ndrink,{1a}so I'll tell you right now the bare minimum\nof rules you need to stay alive in this\ntown.{1a}{0c:520408}First... there's no country and no rank\nhere at all. The laws that bound us\noutside, the police, the army, there's\nnone of that here.{1a}Noble or thief, rich or poor, in here\nyou're just another adventurer!{1a}{0c:5100}That don't mean you can do any damn\nthing you please.{1a}Remember, you only get as much\n'freedom' as {0c:52e308}you've got the strength to\nback up!!{0c:0afe}",
+   "status": "done",
+   "tl": "Well now, boys and girls, welcome to the Coffin of Kars! [1]I'm Eugen. I run the tavern here, plus the junk shop, plus I deal with the outside. // I also post outside news on a wall newspaper, so come look when you're bored. // [2]Around here we mostly stay out of each other's business, but if young pups like you die for lack of telling, it spoils my drink, // so I'll tell you right now the bare minimum of rules you need to stay alive in this town. // [3]First... there's no country and no rank here at all. The laws that bound us outside, the police, the army, there's none of that here. // Noble or thief, rich or poor, in here you're just another adventurer! // [4]That don't mean you can do any damn thing you please. // Remember, you only get as much 'freedom' as [5]you've got the strength to back up!!"
   },
   {
    "id": "RES#1023:26a72",
@@ -1229,8 +1316,9 @@
    "jp": "{1c:11}次に遺跡の構造だが・・・{0c:fe}",
    "read": "{1c:11}次に遺跡の構造だが・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Next, the layout of the ruins...{0c:fe}",
+   "status": "done",
+   "tl": "Next, the layout of the ruins..."
   },
   {
    "id": "RES#1023:26aa6",
@@ -1251,8 +1339,9 @@
    "jp": "{1c:17}{0b:08}【 屈強な戦士 】{0b:09}\nその話の前に\n『宝玉』のことはいいのか?{0c:2b0009fe}",
    "read": "{1c:17}{0b:08}【 屈強な戦士 】{0b:09}\nその話の前に\n『宝玉』のことはいいのか?{0c:2b0009fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Burly Warrior 】{0b:09}\nBefore you get to that, what about the\n'Jewel'?{0c:2b0009fe}",
+   "status": "done",
+   "tl": "Before you get to that, what about the 'Jewel'?"
   },
   {
    "id": "RES#1023:26aed",
@@ -1262,8 +1351,9 @@
    "jp": "{1c:15}{0c:510b}{0b:08}【 オイゲン 】{0b:09}\nん? ああ、そうか。{1a}{0c:51002b03235115}この町が『自由』な町だってことは\n今言ったとおりだ。\n賦役もねえし、貴族共の気まぐれに\n付き合わされることもない。{1a}好きな時に遺跡に潜り、\n好きな時に休む。\n遺跡に潜らず毎日酒を飲んでようが\nそれはそれでそいつの勝手だ。{1a}{0c:5108}だが、その『自由』って奴を\n手に入れるために、\nまずやらなきゃならねえことがある。{1a}{0c:5100}ランツの町で役人共から聞いたとは\n思うが、お前達は仮の居住権を\n与えられているだけだからな。{1a}この町の正式な居住権を\n手に入れるためには、{1a}{0c:52e308}地下都市アスラ・ファエルの\n1番手前の建物にある\n{09:08}『太陽の宝玉』{09:01}ってお宝を\n取ってこなければならねえ。{1a}そのお宝を取ってきて初めて\nお前達はこの町の正式な住人として\n認められるってわけだ。{1a}こいつを見つけるまでは\nいくら金を稼ごうと、\n1ガルトも外に持ち出せない。{1a}いくら沢山の財宝を見つけても\nそれは本当にお前達のモノに\nなった訳じゃねえってことだな。{1a}{0c:5100}二大国のお偉方の決めた事だから\n深い意味は知らねえが、{1a}この狭い町に\nやる気のない人間が居座られると\n困るってことなんだろう。{1a}この町から吸い上げる利益は\n二大国にとっても\n半端じゃねえ額だからな。{1a}金や財宝に興味がなくても\n{09:08}『太陽の宝玉』{09:01}は重要だ。\nこいつは地下都市の奥に行く\n『鍵』になってるからな。{1a}ま、詳しいことは\n後で俺の所に聞きに来ればいい。{1a}で、最後に地下遺跡のことなんだが、\n{0c:520109}{1c:11}あー、えーと・・・{0c:fe}",
    "read": "{1c:15}{0c:510b}{0b:08}【 オイゲン 】{0b:09}\nん? ああ、そうか。{1a}{0c:51002b03235115}この町が『自由』な町だってことは\n今言ったとおりだ。\n賦役もねえし、貴族共の気まぐれに\n付き合わされることもない。{1a}好きな時に遺跡に潜り、\n好きな時に休む。\n遺跡に潜らず毎日酒を飲んでようが\nそれはそれでそいつの勝手だ。{1a}{0c:5108}だが、その『自由』って奴を\n手に入れるために、\nまずやらなきゃならねえことがある。{1a}{0c:5100}ランツの町で役人共から聞いたとは\n思うが、お前達は仮の居住権を\n与えられているだけだからな。{1a}この町の正式な居住権を\n手に入れるためには、{1a}{0c:52e308}地下都市アスラ・ファエルの\n1番手前の建物にある\n{09:08}『太陽の宝玉』{09:01}ってお宝を\n取ってこなければならねえ。{1a}そのお宝を取ってきて初めて\nお前達はこの町の正式な住人として\n認められるってわけだ。{1a}こいつを見つけるまでは\nいくら金を稼ごうと、\n1ガルトも外に持ち出せない。{1a}いくら沢山の財宝を見つけても\nそれは本当にお前達のモノに\nなった訳じゃねえってことだな。{1a}{0c:5100}二大国のお偉方の決めた事だから\n深い意味は知らねえが、{1a}この狭い町に\nやる気のない人間が居座られると\n困るってことなんだろう。{1a}この町から吸い上げる利益は\n二大国にとっても\n半端じゃねえ額だからな。{1a}金や財宝に興味がなくても\n{09:08}『太陽の宝玉』{09:01}は重要だ。\nこいつは地下都市の奥に行く\n『鍵』になってるからな。{1a}ま、詳しいことは\n後で俺の所に聞きに来ればいい。{1a}で、最後に地下遺跡のことなんだが、\n{0c:520109}{1c:11}あー、えーと・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0c:510b}{0b:08}【 Eugen 】{0b:09}\nHm? Oh, right.{1a}{0c:51002b03235115}I just told you this town's 'free'. No\nforced labor, and no humoring some\nnoble's whims.{1a}Go down in the ruins when you like, rest\nwhen you like. Skip the ruins and drink\nevery day if you want, that's your own\nlookout.{1a}{0c:5108}But to get your hands on that\n'freedom', there's one thing you gotta\ndo first.{1a}{0c:5100}The officials at Lanz must've told you,\nyou've only got temporary residency\nhere.{1a}To get proper residency in this town,{1a}{0c:52e308}you gotta fetch the treasure called {09:08}the\n'Sun Jewel'{09:01} from the frontmost building\nin the underground city of Asla Fael.{1a}Only when you bring that back do you\ncount as a proper citizen of this town.{1a}Until you find it, however much you earn,\nyou can't take a single galt outside.{1a}However much treasure you find, it ain't\nreally yours.{1a}{0c:5100}The bigwigs of the two great powers\nmade that rule, so I don't know what's\nbehind it,{1a}but I guess they don't want folks with\nno drive squatting in this cramped town.{1a}What the two powers squeeze out of\nthis place is no small sum.{1a}Even if you don't care about money or\ntreasure, {09:08}the 'Sun Jewel'{09:01} matters. It's\nthe 'key' to the deeper parts of the\nunderground city.{1a}Well, come ask me later for the details.{1a}And finally, about the underground ruins...\n{0c:520109}{1c:11}uh, let's see...{0c:fe}",
+   "status": "done",
+   "tl": "Hm? Oh, right. // [1]I just told you this town's 'free'. No forced labor, and no humoring some noble's whims. // Go down in the ruins when you like, rest when you like. Skip the ruins and drink every day if you want, that's your own lookout. // [2]But to get your hands on that 'freedom', there's one thing you gotta do first. // [3]The officials at Lanz must've told you, you've only got temporary residency here. // To get proper residency in this town, // [4]you gotta fetch the treasure called [5]the 'Sun Jewel'[6] from the frontmost building in the underground city of Asla Fael. // Only when you bring that back do you count as a proper citizen of this town. // Until you find it, however much you earn, you can't take a single galt outside. // However much treasure you find, it ain't really yours. // [7]The bigwigs of the two great powers made that rule, so I don't know what's behind it, // but I guess they don't want folks with no drive squatting in this cramped town. // What the two powers squeeze out of this place is no small sum. // Even if you don't care about money or treasure, [8]the 'Sun Jewel'[9] matters. It's the 'key' to the deeper parts of the underground city. // Well, come ask me later for the details. // And finally, about the underground ruins... [10]uh, let's see..."
   },
   {
    "id": "RES#1023:26e50",
@@ -1284,8 +1374,9 @@
    "jp": "{0c:51ea}{1c:1c}{0b:08}【 学者風の男 】{0b:09}\nやってますね。{0c:2b0f2351563c}{0c:2b00091501}",
    "read": "{0c:51ea}{1c:1c}{0b:08}【 学者風の男 】{0b:09}\nやってますね。{0c:2b0f2351563c}{0c:2b00091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51ea}{1c:1c}{0b:08}【 Scholarly Man 】{0b:09}\nHard at it, I see.{0c:2b0f2351563c}{0c:2b00091501}",
+   "status": "done",
+   "tl": "Hard at it, I see."
   },
   {
    "id": "RES#1023:26e9d",
@@ -1295,8 +1386,9 @@
    "jp": "{0c:2b0b235135}{0c:2b13235141}{0c:2b0c2352484a}{0c:2b042352f9f6}{0c:52e4e5}{1c:10}{0b:08}【 オイゲン 】{0b:09}\nおっ、先生、いい所に来た。{1a}俺はどうも真面目に\n話すのが苦手でよ、\n折角暗記してきたんだがなあ・・・{1a}じゃあ、先生、後は頼むぜ。\n地下遺跡のこと\nこいつらに教えてやってくれ。{0c:1501}",
    "read": "{0c:2b0b235135}{0c:2b13235141}{0c:2b0c2352484a}{0c:2b042352f9f6}{0c:52e4e5}{1c:10}{0b:08}【 オイゲン 】{0b:09}\nおっ、先生、いい所に来た。{1a}俺はどうも真面目に\n話すのが苦手でよ、\n折角暗記してきたんだがなあ・・・{1a}じゃあ、先生、後は頼むぜ。\n地下遺跡のこと\nこいつらに教えてやってくれ。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b0b235135}{0c:2b13235141}{0c:2b0c2352484a}{0c:2b042352f9f6}{0c:52e4e5}{1c:10}{0b:08}【 Eugen 】{0b:09}\nAh, sensei, good timing.{1a}I'm no good at talking serious. And I went\nand memorized it, too...{1a}So, sensei, it's all yours. Tell this lot\nabout the underground ruins.{0c:1501}",
+   "status": "done",
+   "tl": "Ah, sensei, good timing. // I'm no good at talking serious. And I went and memorized it, too... // So, sensei, it's all yours. Tell this lot about the underground ruins."
   },
   {
    "id": "RES#1023:26f47",
@@ -1328,8 +1420,9 @@
    "jp": "{1c:1b}{0b:08}【 学者風の男 】{0b:09}\n私はここで地下遺跡の研究を\nしているクムランといいます。{1a}本当は『太陽帝国』の歴史から\n説明したかったのですが、\n財宝にしか興味のない人の方が\n多いでしょうから今度にしましょう。{1a}それでは、知っておくと便利な情報を\n幾つかお教えします。{1a}{0c:520fff08}まず初めに、地下遺跡の中は\n階層によって時間の進み方が\n全く違うということ・・・{1a}地下遺跡の中では、\n1時間いたつもりなのに\n1分しか経っていなかったり、\n逆に10日経っている事もあります。{1a}{0c:52ff09ff0a}あなた方の中にはあまり時間に\n余裕のない人もいるでしょう。{1a}もし目的を成し遂げるための時間が\nあまり残されていないのであれば、\n時の流れの速い場所に長居するのは\n避けるべきですね。{0c:fe}",
    "read": "{1c:1b}{0b:08}【 学者風の男 】{0b:09}\n私はここで地下遺跡の研究を\nしているクムランといいます。{1a}本当は『太陽帝国』の歴史から\n説明したかったのですが、\n財宝にしか興味のない人の方が\n多いでしょうから今度にしましょう。{1a}それでは、知っておくと便利な情報を\n幾つかお教えします。{1a}{0c:520fff08}まず初めに、地下遺跡の中は\n階層によって時間の進み方が\n全く違うということ・・・{1a}地下遺跡の中では、\n1時間いたつもりなのに\n1分しか経っていなかったり、\n逆に10日経っている事もあります。{1a}{0c:52ff09ff0a}あなた方の中にはあまり時間に\n余裕のない人もいるでしょう。{1a}もし目的を成し遂げるための時間が\nあまり残されていないのであれば、\n時の流れの速い場所に長居するのは\n避けるべきですね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Scholarly Man 】{0b:09}\nMy name is Qumran, and I study the\nunderground ruins here.{1a}I would have liked to begin with the\nhistory of the 'Sun Empire', but most of\nyou care only for treasure, so that can\nwait for another day.{1a}Instead, let me pass on a few useful\nfacts.{1a}{0c:520fff08}First, the passage of time inside the\nruins differs completely from one level\nto another.{1a}Inside you may feel you have stayed an\nhour and find only a minute has passed,\nor that ten days have.{1a}{0c:52ff09ff0a}Some of you may not have much time to\nspare.{1a}If you have little time left to achieve\nyour goal, you should avoid lingering\nwhere time flows quickly.{0c:fe}",
+   "status": "done",
+   "tl": "My name is Qumran, and I study the underground ruins here. // I would have liked to begin with the history of the 'Sun Empire', but most of you care only for treasure, so that can wait for another day. // Instead, let me pass on a few useful facts. // [1]First, the passage of time inside the ruins differs completely from one level to another. // Inside you may feel you have stayed an hour and find only a minute has passed, or that ten days have. // [2]Some of you may not have much time to spare. // If you have little time left to achieve your goal, you should avoid lingering where time flows quickly."
   },
   {
    "id": "RES#1023:2716a",
@@ -1339,8 +1432,9 @@
    "jp": "{1c:1b}次に、魔物の攻撃についてです。{1a}魔物達は、炎や冷気、電撃など\n様々な攻撃で私達冒険者を苦しめます。{1a}中でも毒や炎による攻撃は、\n熟練の戦士にとっても\n致命傷となってしまうことも\n珍しくありません。{1a}いつどんな攻撃を受けても\n対処出来るように、遺跡に入る前には\n必ず道具を揃えておいて下さい。{1a}また、いい装備品が見つかったら\n忘れないうちに装備して下さい。\nでないと宝の持ちぐされですからね。{1a}{0c:52ff0bff0a}えーと、\nだいたいこんなところですか。{1a}{0c:51ff08}遺跡や太陽帝国の歴史、それから\n魔法について詳しく知りたければ、\nいつでも私に尋ねて下さい。\n{0c:234851ff0c54520d0e}出来る限りお教えします。{1a}遺跡で魔物と戦う心構えについては、\n{0c:234852ec10}このバルデスさんに聞いて下さい。{0c:2b03091501}",
    "read": "{1c:1b}次に、魔物の攻撃についてです。{1a}魔物達は、炎や冷気、電撃など\n様々な攻撃で私達冒険者を苦しめます。{1a}中でも毒や炎による攻撃は、\n熟練の戦士にとっても\n致命傷となってしまうことも\n珍しくありません。{1a}いつどんな攻撃を受けても\n対処出来るように、遺跡に入る前には\n必ず道具を揃えておいて下さい。{1a}また、いい装備品が見つかったら\n忘れないうちに装備して下さい。\nでないと宝の持ちぐされですからね。{1a}{0c:52ff0bff0a}えーと、\nだいたいこんなところですか。{1a}{0c:51ff08}遺跡や太陽帝国の歴史、それから\n魔法について詳しく知りたければ、\nいつでも私に尋ねて下さい。\n{0c:234851ff0c54520d0e}出来る限りお教えします。{1a}遺跡で魔物と戦う心構えについては、\n{0c:234852ec10}このバルデスさんに聞いて下さい。{0c:2b03091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}Next, the attacks of the monsters.{1a}They torment us adventurers with fire,\ncold, lightning and more.{1a}Poison and flame in particular can often\nprove fatal even to a seasoned warrior.{1a}Be sure to stock up on supplies before\nentering the ruins, so you can handle any\nattack at any time.{1a}And if you find good equipment,\nremember to put it on. Otherwise it's a\ntreasure wasted.{1a}{0c:52ff0bff0a}Let me see, I think that covers it.{1a}{0c:51ff08}If you would like to know more about the\nruins, the history of the Sun Empire or\nmagic, ask me any time. {0c:234851ff0c54520d0e}I will teach you all\nI can.{1a}As for how to prepare to fight\nmonsters in the ruins, {0c:234852ec10}please ask\nValdes-san here.{0c:2b03091501}",
+   "status": "done",
+   "tl": "Next, the attacks of the monsters. // They torment us adventurers with fire, cold, lightning and more. // Poison and flame in particular can often prove fatal even to a seasoned warrior. // Be sure to stock up on supplies before entering the ruins, so you can handle any attack at any time. // And if you find good equipment, remember to put it on. Otherwise it's a treasure wasted. // [1]Let me see, I think that covers it. // [2]If you would like to know more about the ruins, the history of the Sun Empire or magic, ask me any time. [3]I will teach you all I can. // As for how to prepare to fight monsters in the ruins, [4]please ask Valdes-san here."
   },
   {
    "id": "RES#1023:27324",
@@ -1350,8 +1444,9 @@
    "jp": "{0c:2b0f2351562b031000}{0c:51162b0b55352b12553e}{0c:2b0448062352f9f6}{0c:2b134851412b0c4852484a}{1c:1a}{0b:08}【 バルデス 】{0b:09}\nんーと、あまり注目されて喋るのは\n得意じゃねえんだが・・・{1a}{0c:5115}みんな、どんな理由でこの町に\n来たのかは知らんが、\nまあ、頑張ってくれ。{0c:2b02091501}",
    "read": "{0c:2b0f2351562b031000}{0c:51162b0b55352b12553e}{0c:2b0448062352f9f6}{0c:2b134851412b0c4852484a}{1c:1a}{0b:08}【 バルデス 】{0b:09}\nんーと、あまり注目されて喋るのは\n得意じゃねえんだが・・・{1a}{0c:5115}みんな、どんな理由でこの町に\n来たのかは知らんが、\nまあ、頑張ってくれ。{0c:2b02091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b0f2351562b031000}{0c:51162b0b55352b12553e}{0c:2b0448062352f9f6}{0c:2b134851412b0c4852484a}{1c:1a}{0b:08}【 Valdes 】{0b:09}\nUh, I ain't too good at talking with\neveryone staring...{1a}{0c:5115}I don't know why you all came to this\ntown, but, well, do your best.{0c:2b02091501}",
+   "status": "done",
+   "tl": "Uh, I ain't too good at talking with everyone staring... // [1]I don't know why you all came to this town, but, well, do your best."
   },
   {
    "id": "RES#1023:273bf",
@@ -1372,8 +1467,9 @@
    "jp": "{0c:521110}{1c:1b}{0b:08}【 クムラン 】{0b:09}\nそれだけですか?{0c:2b03091501}",
    "read": "{0c:521110}{1c:1b}{0b:08}【 クムラン 】{0b:09}\nそれだけですか?{0c:2b03091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521110}{1c:1b}{0b:08}【 Qumran 】{0b:09}\nIs that all?{0c:2b03091501}",
+   "status": "done",
+   "tl": "Is that all?"
   },
   {
    "id": "RES#1023:273f3",
@@ -1383,8 +1479,9 @@
    "jp": "{0c:5115}{1c:1a}{0b:08}【 バルデス 】{0b:09}\nあー、えー、\n決して無理はするなってことかな。{1a}{0c:5115}敵が強けりゃ逃げることだ。\n逃げることは恥ずかしいことでも\n何でもない。{1a}みんな、思うところがあって\nここに来たんだろうからな、\nとにかく、生き残ることだ。{0c:2b02091501}",
    "read": "{0c:5115}{1c:1a}{0b:08}【 バルデス 】{0b:09}\nあー、えー、\n決して無理はするなってことかな。{1a}{0c:5115}敵が強けりゃ逃げることだ。\n逃げることは恥ずかしいことでも\n何でもない。{1a}みんな、思うところがあって\nここに来たんだろうからな、\nとにかく、生き残ることだ。{0c:2b02091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5115}{1c:1a}{0b:08}【 Valdes 】{0b:09}\nUh, er, I guess just... don't push your\nluck.{1a}{0c:5115}If the enemy's strong, run. There's\nnothing shameful in running.{1a}You all had your reasons for coming\nhere, so above all, stay alive.{0c:2b02091501}",
+   "status": "done",
+   "tl": "Uh, er, I guess just... don't push your luck. // [1]If the enemy's strong, run. There's nothing shameful in running. // You all had your reasons for coming here, so above all, stay alive."
   },
   {
    "id": "RES#1023:27489",
@@ -1394,8 +1491,9 @@
    "jp": "{0c:52ec10}{1c:1c}{0b:08}【 クムラン 】{0b:09}\n全くその通りですね。\n{1c:1b}{0c:52ff0dff0e}{07:14}オイゲンさんは違う考えの\nようですが。{07:05}{0c:fe}",
    "read": "{0c:52ec10}{1c:1c}{0b:08}【 クムラン 】{0b:09}\n全くその通りですね。\n{1c:1b}{0c:52ff0dff0e}{07:14}オイゲンさんは違う考えの\nようですが。{07:05}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ec10}{1c:1c}{0b:08}【 Qumran 】{0b:09}\nQuite right. {1c:1b}{0c:52ff0dff0e}{07:14}Though Eugen-san seems to\nthink otherwise.{07:05}{0c:fe}",
+   "status": "done",
+   "tl": "Quite right. [1]Though Eugen-san seems to think otherwise."
   },
   {
    "id": "RES#1023:274d6",
@@ -1416,8 +1514,9 @@
    "jp": "{0c:5115}{0c:2b022352ff0f10}{1c:16}{0b:08}【 バルデス 】{0b:09}\nあとは、1人で潜るなって\n事くらいかな。{1a}どんなに戦い慣れた奴でも\n1人の力には限界がある。\nましてや、俺達の相手は\n人間の理解を超えた化け物共だ。{1a}安心して背中を任せることの出来る\nヤツ、そんな仲間を作ることだな。{0c:2b00091501}",
    "read": "{0c:5115}{0c:2b022352ff0f10}{1c:16}{0b:08}【 バルデス 】{0b:09}\nあとは、1人で潜るなって\n事くらいかな。{1a}どんなに戦い慣れた奴でも\n1人の力には限界がある。\nましてや、俺達の相手は\n人間の理解を超えた化け物共だ。{1a}安心して背中を任せることの出来る\nヤツ、そんな仲間を作ることだな。{0c:2b00091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5115}{0c:2b022352ff0f10}{1c:16}{0b:08}【 Valdes 】{0b:09}\nOh, and don't go down alone, that's\nabout it.{1a}However used to a fight a guy is, one\nman's strength has its limits. And what\nwe're up against are monsters beyond\nhuman understanding.{1a}So find people you can trust to watch\nyour back.{0c:2b00091501}",
+   "status": "done",
+   "tl": "Oh, and don't go down alone, that's about it. // However used to a fight a guy is, one man's strength has its limits. And what we're up against are monsters beyond human understanding. // So find people you can trust to watch your back."
   },
   {
    "id": "RES#1023:275a1",
@@ -1438,8 +1537,9 @@
    "jp": "{0c:520405}{1c:15}{0b:08}【 オイゲン 】{0b:09}\n長旅で疲れただろうから、\n今日は休んでくれ。{1a}{0c:52dfe0}あっちの大きい建物を空けて\nおいたから勝手に使いな。{0c:2b01091501}",
    "read": "{0c:520405}{1c:15}{0b:08}【 オイゲン 】{0b:09}\n長旅で疲れただろうから、\n今日は休んでくれ。{1a}{0c:52dfe0}あっちの大きい建物を空けて\nおいたから勝手に使いな。{0c:2b01091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520405}{1c:15}{0b:08}【 Eugen 】{0b:09}\nYou must be tired from the long trip, so\nrest today.{1a}{0c:52dfe0}I've cleared out that big building over\nthere, so help yourselves.{0c:2b01091501}",
+   "status": "done",
+   "tl": "You must be tired from the long trip, so rest today. // [1]I've cleared out that big building over there, so help yourselves."
   },
   {
    "id": "RES#1023:2761b",
@@ -1460,8 +1560,9 @@
    "jp": "{1c:1a}{0b:08}【 バルデス 】{0b:09}\nん? お前、武器はどうしたんだ?\nオイゲン、何か分けてやれよ。{0c:2b00091501}",
    "read": "{1c:1a}{0b:08}【 バルデス 】{0b:09}\nん? お前、武器はどうしたんだ?\nオイゲン、何か分けてやれよ。{0c:2b00091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}{0b:08}【 Valdes 】{0b:09}\nHm? Where's your weapon? Eugen, spare\nthe kid something.{0c:2b00091501}",
+   "status": "done",
+   "tl": "Hm? Where's your weapon? Eugen, spare the kid something."
   },
   {
    "id": "RES#1023:2787c",
@@ -1471,8 +1572,9 @@
    "jp": "{0c:520a0b}{1c:11}{0b:08}【 オイゲン 】{0b:09}\nちっ、しょうがねえ奴だな。\nほらよ、これを持っていけ。{0c:1501}",
    "read": "{0c:520a0b}{1c:11}{0b:08}【 オイゲン 】{0b:09}\nちっ、しょうがねえ奴だな。\nほらよ、これを持っていけ。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520a0b}{1c:11}{0b:08}【 Eugen 】{0b:09}\nTch, what a pain in the neck. Here, take\nthis.{0c:1501}",
+   "status": "done",
+   "tl": "Tch, what a pain in the neck. Here, take this."
   },
   {
    "id": "RES#1023:278b6",
@@ -1493,8 +1595,9 @@
    "jp": "{0c:520405}{1c:10}{0b:08}【 オイゲン 】{0b:09}\n礼ならいいぜ。\nどうせ持ち主は墓の中さ。{0c:2b03091501}",
    "read": "{0c:520405}{1c:10}{0b:08}【 オイゲン 】{0b:09}\n礼ならいいぜ。\nどうせ持ち主は墓の中さ。{0c:2b03091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520405}{1c:10}{0b:08}【 Eugen 】{0b:09}\nDon't thank me. The owner's in the\ngrave anyway.{0c:2b03091501}",
+   "status": "done",
+   "tl": "Don't thank me. The owner's in the grave anyway."
   },
   {
    "id": "RES#1023:27905",
@@ -1504,8 +1607,9 @@
    "jp": "{1c:17}{0b:08}【 バルデス 】{0b:09}\n逆に、新しい持ち主が出来て\n喜んでるだろうよ。{0c:2b02091501}",
    "read": "{1c:17}{0b:08}【 バルデス 】{0b:09}\n逆に、新しい持ち主が出来て\n喜んでるだろうよ。{0c:2b02091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Valdes 】{0b:09}\nI bet it's glad to have a new owner.{0c:2b02091501}",
+   "status": "done",
+   "tl": "I bet it's glad to have a new owner."
   },
   {
    "id": "RES#1023:2793e",
@@ -1515,8 +1619,9 @@
    "jp": "{1c:1c}{0b:08}【 クムラン 】{0b:09}\nお似合いですよ。{1a}{1c:1b}じゃあ、私達はこれで・・・\nあなたも部屋で旅の疲れを\n癒して下さい。{0c:2b01091501}",
    "read": "{1c:1c}{0b:08}【 クムラン 】{0b:09}\nお似合いですよ。{1a}{1c:1b}じゃあ、私達はこれで・・・\nあなたも部屋で旅の疲れを\n癒して下さい。{0c:2b01091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Qumran 】{0b:09}\nIt suits you.{1a}{1c:1b}Well, we'll be off... Do rest off your\njourney in your room.{0c:2b01091501}",
+   "status": "done",
+   "tl": "It suits you. // [1]Well, we'll be off... Do rest off your journey in your room."
   },
   {
    "id": "RES#1023:27990",
@@ -1548,8 +1653,9 @@
    "jp": "{1c:17}{0b:08}【 バルデス 】{0b:09}\nおう、じゃあな!{0c:1501}",
    "read": "{1c:17}{0b:08}【 バルデス 】{0b:09}\nおう、じゃあな!{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Valdes 】{0b:09}\nRight, see ya!{0c:1501}",
+   "status": "done",
+   "tl": "Right, see ya!"
   },
   {
    "id": "RES#1023:27a24",
@@ -1570,8 +1676,9 @@
    "jp": "性別",
    "read": "性別",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Sex",
+   "status": "done",
+   "tl": "Sex"
   },
   {
    "id": "RES#1023:27a5a",
@@ -1581,8 +1688,9 @@
    "jp": "男|女",
    "read": "男|女",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Male|Female",
+   "status": "done",
+   "tl": "Male|Female"
   },
   {
    "id": "RES#1023:27a60",
@@ -1592,8 +1700,9 @@
    "jp": "出身国",
    "read": "出身国",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Homeland",
+   "status": "done",
+   "tl": "Homeland"
   },
   {
    "id": "RES#1023:27a67",
@@ -1614,8 +1723,9 @@
    "jp": "出身身分",
    "read": "出身身分",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Station",
+   "status": "done",
+   "tl": "Station"
   },
   {
    "id": "RES#1023:27afb",
@@ -1625,8 +1735,9 @@
    "jp": "上級貴族|騎士|聖職者|商人|猟師|農民",
    "read": "上級貴族|騎士|聖職者|商人|猟師|農民",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "High Noble|Knight|Clergy|Merchant|Hunter|Farmer",
+   "status": "done",
+   "tl": "High Noble|Knight|Clergy|Merchant|Hunter|Farmer"
   },
   {
    "id": "RES#1023:27b1f",
@@ -1636,8 +1747,9 @@
    "jp": "使用武器 細剣 |使用武器 片手剣|使用武器 槍  |使用武器 短剣 |使用武器 弓  |使用武器 両手剣",
    "read": "使用武器 細剣 |使用武器 片手剣|使用武器 槍  |使用武器 短剣 |使用武器 弓  |使用武器 両手剣",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Weapon: Rapier|Weapon: One-Handed Sword|Weapon: Spear|Weapon: Dagger|Weapon: Bow|Weapon: Two-Handed Sword",
+   "status": "done",
+   "tl": "Weapon: Rapier|Weapon: One-Handed Sword|Weapon: Spear|Weapon: Dagger|Weapon: Bow|Weapon: Two-Handed Sword"
   },
   {
    "id": "RES#1023:27b79",
@@ -1647,8 +1759,9 @@
    "jp": "職業",
    "read": "職業",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Class",
+   "status": "done",
+   "tl": "Class"
   },
   {
    "id": "RES#1023:27b7e",
@@ -1658,8 +1771,9 @@
    "jp": "木を切るための片刃斧 威力は高いが振りは遅い|なまくら片手剣 切れ味には期待出来ない|刺突用の剣 威力は低いが素早い攻撃が可能|一般的な狩猟用の単弓|シンプルな槍 攻撃力は並だが間合の広さが有利|小型の懐剣 間合は狭いが素早い攻撃が可能|最も基本的なウイザード魔法の魔法具|最も基本的なカノン魔法の魔法具|ポイズナー(毒術師)の使用する武器|最も基本的なプリースト魔法の魔法具",
    "read": "木を切るための片刃斧 威力は高いが振りは遅い|なまくら片手剣 切れ味には期待出来ない|刺突用の剣 威力は低いが素早い攻撃が可能|一般的な狩猟用の単弓|シンプルな槍 攻撃力は並だが間合の広さが有利|小型の懐剣 間合は狭いが素早い攻撃が可能|最も基本的なウイザード魔法の魔法具|最も基本的なカノン魔法の魔法具|ポイズナー(毒術師)の使用する武器|最も基本的なプリースト魔法の魔法具",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "A single-edged wood axe: heavy hits, slow swing|A dull one-handed sword: no keen edge to speak of|A thrusting sword: weak, but quick to strike|An ordinary hunting bow|A plain spear: average power, long reach|A small dagger: short reach, quick to strike|The most basic Magic Tool for Wizard magic|The most basic Magic Tool for Canon magic|The weapon of a Poisoner|The most basic Magic Tool for Priest magic",
+   "status": "done",
+   "tl": "A single-edged wood axe: heavy hits, slow swing|A dull one-handed sword: no keen edge to speak of|A thrusting sword: weak, but quick to strike|An ordinary hunting bow|A plain spear: average power, long reach|A small dagger: short reach, quick to strike|The most basic Magic Tool for Wizard magic|The most basic Magic Tool for Canon magic|The weapon of a Poisoner|The most basic Magic Tool for Priest magic"
   },
   {
    "id": "RES#1023:27ca7",
@@ -1669,8 +1783,9 @@
    "jp": "目的",
    "read": "目的",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Purpose",
+   "status": "done",
+   "tl": "Purpose"
   },
   {
    "id": "RES#1023:27cac",
@@ -1691,8 +1806,9 @@
    "jp": "最大の版図を誇る大国 経済の根幹は農業|海洋貿易で栄える大国 海外に多くの属領を持つ|酷寒の地の貧しい国 民は純朴で信仰心に厚い|西の砂漠地帯は文明の発祥の地と言われている|教皇の力が唯一及ばない極東の貧しい国|灼熱の砂漠の国 遊牧部族の集合国家|アスロイトから2百年前に独立した歴史の浅い国|歴史の古い国 北部は農業が、南部は商業が盛ん|痩せた大地の貧しい国 純朴で陽気な民が多い|12の都市国家が集まってできた連合国家|バイレステの搾取に苦しむ貧しい島国|アノイア教教皇の直轄領 その中心は聖都レノス",
    "read": "最大の版図を誇る大国 経済の根幹は農業|海洋貿易で栄える大国 海外に多くの属領を持つ|酷寒の地の貧しい国 民は純朴で信仰心に厚い|西の砂漠地帯は文明の発祥の地と言われている|教皇の力が唯一及ばない極東の貧しい国|灼熱の砂漠の国 遊牧部族の集合国家|アスロイトから2百年前に独立した歴史の浅い国|歴史の古い国 北部は農業が、南部は商業が盛ん|痩せた大地の貧しい国 純朴で陽気な民が多い|12の都市国家が集まってできた連合国家|バイレステの搾取に苦しむ貧しい島国|アノイア教教皇の直轄領 その中心は聖都レノス",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "The largest realm; its economy rests on farming|A great seafaring trade power with many colonies|Poor land of bitter cold; simple, devout people|Its western deserts: the cradle of civilization|Poor far-east land, alone beyond the Pope's reach|Land of scorching desert; a union of nomad tribes|A young country, free of Asroit for 200 years|Old country; farms in the north, trade in the south|Poor land of thin soil; simple, cheerful people|A league of twelve city-states|Poor island nation, bled dry by Baileste|The Anoian Pope's own domain, around holy Lenos",
+   "status": "done",
+   "tl": "The largest realm; its economy rests on farming|A great seafaring trade power with many colonies|Poor land of bitter cold; simple, devout people|Its western deserts: the cradle of civilization|Poor far-east land, alone beyond the Pope's reach|Land of scorching desert; a union of nomad tribes|A young country, free of Asroit for 200 years|Old country; farms in the north, trade in the south|Poor land of thin soil; simple, cheerful people|A league of twelve city-states|Poor island nation, bled dry by Baileste|The Anoian Pope's own domain, around holy Lenos"
   },
   {
    "id": "RES#1023:27e66",
@@ -1702,8 +1818,9 @@
    "jp": "  性別{01}:{09:06}{14}{09:01}\n  名前:{09:06}{13}{09:01}\n 出身国:{09:06}{15}{09:01}\n出身身分:{09:06}{16}{09:01}\n  目的:{02}{09:06}{17}{09:01}",
    "read": "  性別{01}:{09:06}{14}{09:01}\n  名前:{09:06}{13}{09:01}\n 出身国:{09:06}{15}{09:01}\n出身身分:{09:06}{16}{09:01}\n  目的:{02}{09:06}{17}{09:01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Sex:{09:06}{14}{09:01}\nName:{09:06}{13}{09:01}\nHomeland:{09:06}{15}{09:01}\nStation:{09:06}{16}{09:01}\nPurpose:{09:06}{17}{09:01}",
+   "status": "done",
+   "tl": "Sex:[1][VAR14][2]\\nName:[3][VAR13][4]\\nHomeland:[5][VAR15][6]\\nStation:[7][VAR16][8]\\nPurpose:[9][VAR17]"
   },
   {
    "id": "RES#1023:27eac",
@@ -1713,8 +1830,9 @@
    "jp": "これでよろしいですか?",
    "read": "これでよろしいですか?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Is this all right?",
+   "status": "done",
+   "tl": "Is this all right?"
   }
  ],
  "entry": 1023
