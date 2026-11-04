@@ -148,6 +148,17 @@ KANA_PATH equ 0x8004F23C           ; original one-byte path (kana modes)
     j     vwf_measure_ret
     lw    s4, 0x20(sp)
 
+; --- text speed: frames per glyph, normal 3 and slow 5 in Japanese. English has about twice the glyphs per line. --------------
+.org 0x8004ED14
+    addiu v1, zero, 3
+    addiu v1, zero, 2
+.org 0x8004F17C
+    addiu v1, zero, 3
+    addiu v1, zero, 2
+.org 0x8004F504
+    addiu v1, zero, 3
+    addiu v1, zero, 2
+
 ; --- 0x80050A8C finds a bank's base id after its offset table: M2 only, English can turn a bank into an M4 of strings -------
 .org 0x80050AB4
     j     m_head

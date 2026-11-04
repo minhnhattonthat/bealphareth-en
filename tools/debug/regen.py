@@ -22,7 +22,7 @@ import sheet
 SCENES = ROOT / "tools/debug/scenes.lua"
 WARP = ROOT / "tools/debug/warp.lua"
 NEWGAME = ROOT / "tools/routes/newgame.txt"
-OPENING_FRAMES, FIELD_FRAMES = 7000, 28000
+OPENING_FRAMES, FIELD_FRAMES = 7000, 34000  # English reached field control at about f30000 (Japanese f26200)
 
 
 def parse_scenes():
