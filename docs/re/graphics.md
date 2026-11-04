@@ -5,7 +5,7 @@
 ## Formats (verified by rendering; tools named)
 
 - **Sprite sheet** (`tools/gfx.py`): u32 palette bytes + 8, u32 palette count, 16-colour palettes, then records `u16 flags, w, h, 0`. Flag 0x8000: `u32 packed, u32 raw`, then RLE (n<0x80: repeat next byte n times; n>=0x80: copy 256-n literals). Otherwise raw 4bpp. Stand-alone entries, and inside scene overlays.
-- **Scene parts** (`tools/gfx_part.py`, `sweep_overlays.py`): in section 2, name string, u32 n, u32 off[n]; each part starts at `count_word_offset + 8 + off`, checked on #1023 (M4 text, sprite sheets at exact offsets).
+- **Scene parts** (`tools/gfx_part.py`, `sweep_overlays.py`): section 2 is `char name[8], u32 n, u32 off[n]`; part k starts at `sec + 16 + off[k]`, checked on #1023 (M4 text, sprite sheets at exact offsets).
 - **MDEC BS v2 still** (`tools/bs.py`): `u16 codes, 0x3800, u16 qscale, u16 2`, 320x480, 600 macroblocks. Decoder is luma only and survey-grade; **no encoder yet**. Re-inserting a page needs a BS v2 encoder that fits the entry (slots are 0x800-aligned; read buffer limit not yet measured).
 - **8bpp full screen** (`u16 1, u16 ncolors`, palette, pixels; `tools/gfx8.py`): #2250-2252, #3922-3926, #4108-4124. Width not pinned down (not 320).
 - **Bitmap with header** (head 0x00100000, `tools/gfx_zoom.py`): palette, then w,h at +0x30, pixels at +0x34. #3942 onward.
@@ -29,6 +29,9 @@ Sources: boot-to-first-mission tour (`work/qa/t2`, cold boot, frames to 23,500) 
 | 11 | Prologue FMV subtitles (時は、後世の歴史家から...) | `STR/PROLO.STR` | Burned-in video | Yes | ffmpeg subtitles + re-encode, `platform-ps1.md` |
 | 12 | Title logo: English "Bealphareth" with katakana ベアルファレス over it | #3924 (8bpp), on screen at title | 8bpp | Yes | Official English logotype exists, so remove the katakana (D5) |
 | 13 | Stylised lettering among combat effects | #4355-#4501 (~23 sheets) | Sprite sheet | Reported English or unsure | Check in battle |
+| 14 | Floor and area names: 上層, 階層, 天宮, 回廊, 地上へ ... | #217+22df8 | Sprite sheet | Yes | Redraw; find what indexes each cell |
+| 15 | World map names (黒の老道, 地下都市, 煉獄 天界, 時の回廊, 精神の海, 始原の地, アスラ・ファエル) and hint ↓↑選択/○決定 | #217+e4a0 | Sprite sheet | Yes | Redraw |
+| 16 | Two more mission title cards | #10+23e48, #26+28ca0 | Sprite sheet | Yes | With row 7 |
 
 Already English, no work: `NEW GAME / LOAD GAME / PUSH START BUTTON` (#3946), `Game Over` (#3943), "The pulsing heartbeat dies out, faltering quietly." (#3942), HUD labels `Hp/max Lv Rest Atk Dex Exp Arm` (#3936), element labels (#3944), digits and days/time (#3954), Sony and Zealsoft logos. Character cards #2216-#2246: art only.
 
@@ -37,7 +40,7 @@ Already English, no work: `NEW GAME / LOAD GAME / PUSH START BUTTON` (#3946), `G
 Say so rather than treat this as complete:
 
 - **Mid-game screens** were not toured: only the first mission's start. Repeat after the debug tool (phase 2) and the marker build (phase 5), which reveals any Japanese that did not change.
-- **39 scene overlays have no parsed part table** (`sweep_overlays.py` prints them, e.g. #10, #26, #160, #181, #196, #215-217, #222, #226, #227, #229): their sheets were not swept.
+- **Rows 14-16 came from a second overlay pass** I read myself at thumbnail size (13 scenes, 41 sheets, `sweep_overlays.py OUT <entries>`), not from codex. 26 further overlays (#226, #229, #303.. #360, #570, #1732) have no part table: the four inspected are code stubs of 0x9B-0x2E8F bytes with no assets, the rest not inspected one by one.
 - **Map tile classes** (`00 00 xx xx`, about 300 entries, #2301-#2599, plus similar at #3327-#3396, #3729-#3793, #4700-#4803) render as noise at the guessed width: layout unknown, not read. Lettering there is unlikely, not excluded.
 - **Unknown formats skipped:** 0x30 frame tables (no pixels), #1244-style 0x28 entries that fail the palette check (23), `DUMMY` #2955/#3215, #3673/#3674, #3795-3797, #3930-3938, #3947-3955.
 - `codex` labels are one unverified pass at half size; spot checks agreed, but counts are approximate until phase 7 lists each entry.

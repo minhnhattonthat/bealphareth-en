@@ -38,7 +38,7 @@ u32 offset[count]   // relative to byte 8; entry data at offset+8, 0x800-aligned
 ```
 u32 2, u32 size_total, u32 8, u32 sec2_offset
 +0x10 code (MIPS) ...
-sec2_offset: name string (NUL), padded; u32 n; u32 off[n] (from sec2_offset)
+sec2_offset: char name[8]; u32 n; u32 off[n]; part k starts at sec2_offset + 16 + off[k]
 ```
 Example #1023: size_total 0x84DB4, sec2 at 0x10114 with 31 parts; slot 0xA0000, so 0x1B24F bytes unused on disc.
 

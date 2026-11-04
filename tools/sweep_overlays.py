@@ -11,15 +11,17 @@ import res
 
 OUT = Path(sys.argv[1])
 OUT.mkdir(parents=True, exist_ok=True)
+ONLY = {int(x) for x in sys.argv[2:]}  # optional: restrict to these entries
 seen = {}
 bad = []
 nparts = 0
 for i, o, s, b in res.entries():
     if struct.unpack_from("<I", b, 0)[0] != 2:
         continue
-    sec = struct.unpack_from("<I", b, 12)[0]
-    end = b.find(b"\0", sec)
-    start = (end + 4) & ~3
+    if ONLY and i not in ONLY:
+        continue
+    sec = struct.unpack_from("<I", b, 12)[0]  # section 2: char name[8], u32 n, u32 off[n]; parts start at sec + 16 + off
+    start = sec + 8
     n = struct.unpack_from("<I", b, start)[0] if start + 4 <= s else 0
     if not 0 < n < 400:
         bad.append(i)
@@ -27,7 +29,7 @@ for i, o, s, b in res.entries():
     offs = struct.unpack_from(f"<{n}I", b, start + 4)
     nparts += n
     for off in offs:
-        at = start - 8 + 16 + off  # part offsets count from 8 bytes before the count word + 16 (fits name "..." + u32 n in #1023)
+        at = sec + 16 + off
         if at + 16 > s:
             continue
         for w, h, r, _ in gfx.sprite_sheets(b[at:at + 0x40000]):
