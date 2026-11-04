@@ -247,9 +247,25 @@ def from_rgb(rgb):
     return y, down(cb), down(cr)
 
 
-def edit_still(b, rgb, changed, dead=0, mb_h=HEIGHT_MB):
+def thin(block, cut, top):
+    """A block without its AC levels up to `top` from zigzag position `cut` on; their runs join the next code."""
+    dc, ac = block
+    out = []
+    k = run = 0
+    for r, lev, esc in ac:
+        k += r + 1
+        if k >= cut and abs(lev) <= top:
+            run += r + 1
+        else:
+            out.append((r + run, lev, esc))
+            run = 0
+    return dc, out
+
+
+def edit_still(b, rgb, changed, dead=0, mb_h=HEIGHT_MB, keep=None, cut=64, top=1):
     """A new stream for still `b` showing `rgb`: macroblocks outside the boolean mask `changed` (480x320) keep their
-    original codes, the rest are encoded at the still's own qscale (`dead`: see dct_block)."""
+    original codes, the rest are encoded at the still's own qscale (`dead`: see dct_block).
+    keep: mask of the new lettering. Macroblocks off it are thinned (see thin) to pay for the ones on it."""
     qs = struct.unpack_from("<H", b, 4)[0]
     y, cb, cr = from_rgb(rgb)
     levels, _ = parse_levels(b, mb_h)
@@ -257,12 +273,13 @@ def edit_still(b, rgb, changed, dead=0, mb_h=HEIGHT_MB):
     out = list(levels)
     for m in range(w * mb_h):
         x0, y0 = (m // mb_h) * 8, (m % mb_h) * 8
-        if not changed[y0 * 2:y0 * 2 + 16, x0 * 2:x0 * 2 + 16].any():
-            continue
-        out[m * 6] = dct_block(cr[y0:y0 + 8, x0:x0 + 8], qs, dead)
-        out[m * 6 + 1] = dct_block(cb[y0:y0 + 8, x0:x0 + 8], qs, dead)
-        for k, (dy, dx) in enumerate(((0, 0), (0, 8), (8, 0), (8, 8))):
-            out[m * 6 + 2 + k] = dct_block(y[y0 * 2 + dy:y0 * 2 + dy + 8, x0 * 2 + dx:x0 * 2 + dx + 8], qs, dead)
+        if changed[y0 * 2:y0 * 2 + 16, x0 * 2:x0 * 2 + 16].any():
+            out[m * 6] = dct_block(cr[y0:y0 + 8, x0:x0 + 8], qs, dead)
+            out[m * 6 + 1] = dct_block(cb[y0:y0 + 8, x0:x0 + 8], qs, dead)
+            for k, (dy, dx) in enumerate(((0, 0), (0, 8), (8, 0), (8, 8))):
+                out[m * 6 + 2 + k] = dct_block(y[y0 * 2 + dy:y0 * 2 + dy + 8, x0 * 2 + dx:x0 * 2 + dx + 8], qs, dead)
+        if keep is not None and not keep[y0 * 2:y0 * 2 + 16, x0 * 2:x0 * 2 + 16].any():
+            out[m * 6:m * 6 + 6] = [thin(block, cut, top) for block in out[m * 6:m * 6 + 6]]
     return stream(out, qs)
 
 

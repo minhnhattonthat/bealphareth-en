@@ -1,15 +1,15 @@
 [
 {"entry": 3168, "blocks": [
  {"box": [28, 307, 292, 328], "ink": "dark", "text": "Guardian Hand (Standard)", "align": "center", "bold": true, "size": 18},
- {"box": [28, 345, 304, 412], "ink": "dark", "text": "A small monster released from the Guardian's arms.\nSprays oil.\nWeak to acid and electricity."}
+ {"box": [28, 345, 304, 412], "ink": "dark", "text": "A small monster released from the Guardian's arms.\nSprays oil.\nWeak to acid and lightning."}
 ], "erase": [{"box": [28, 412, 170, 430], "ink": "dark"}]},
 {"entry": 3169, "blocks": [
  {"box": [28, 307, 292, 328], "ink": "dark", "text": "Guardian Hand (Freeze)", "align": "center", "bold": true, "size": 18},
- {"box": [28, 345, 304, 412], "ink": "dark", "text": "A small monster released from the Guardian's arms.\nSprays water.\nWeak to acid, electricity and heat."}
+ {"box": [28, 345, 304, 412], "ink": "dark", "text": "A small monster released from the Guardian's arms.\nSprays water.\nWeak to acid, lightning and heat."}
 ], "erase": [{"box": [28, 412, 170, 430], "ink": "dark"}]},
 {"entry": 3170, "blocks": [
  {"box": [28, 286, 292, 307], "ink": "dark", "text": "Guardian Hand (Heat)", "align": "center", "bold": true, "size": 18},
- {"box": [34, 335, 304, 412], "ink": "dark", "text": "A small monster released from the arms of the Guardian Heat. Spews oil.\nWeak to acid, electricity and cold."}
+ {"box": [34, 335, 304, 412], "ink": "dark", "text": "A small monster released from the arms of the Guardian Heat. Spews oil.\nWeak to acid, lightning and cold."}
 ], "erase": [{"box": [30, 412, 160, 430], "ink": "dark"}]},
 {"entry": 3171, "blocks": [
  {"box": [28, 304, 292, 325], "ink": "dark", "text": "Guardian Head", "align": "center", "bold": true, "size": 18},
@@ -28,7 +28,7 @@
 {"entry": 3176, "blocks": [
  {"box": [30, 272, 280, 292], "ink": "dark", "text": "Frost Son", "align": "center", "bold": true, "size": 18},
  {"box": [32, 294, 304, 414], "ink": "dark", "text": "A pseudo-life form spawned by the Frost Mum. Besides using magic, it attacks with cold on contact.\nWeak to heat and fire; healed by cold and ice.\nElements held: Mana"}
-], "erase": [{"box": [38, 244, 94, 246], "ink": "dark"}, {"box": [30, 412, 120, 430], "ink": "dark"}]},
+], "erase": [{"box": [38, 234, 250, 278], "ink": "dark"}, {"box": [38, 234, 250, 270], "ink": "dark", "dim": true}, {"box": [30, 412, 120, 430], "ink": "dark"}]},
 {"entry": 3177, "blocks": [
  {"box": [28, 210, 280, 231], "ink": "dark", "text": "Frost Mum", "align": "center", "bold": true, "size": 18},
  {"box": [28, 274, 304, 414], "ink": "dark", "text": "A mid-level demon skilled in cold attacks. Besides spawning its kin, the Frost Sons, it wields high-level magic.\nWeak to heat and fire; healed by cold and ice.\nElements held: Mana"}
@@ -40,11 +40,11 @@
 {"entry": 3179, "blocks": []},
 {"entry": 3180, "blocks": [
  {"box": [28, 301, 292, 322], "ink": "dark", "text": "Guardian (Freeze)", "align": "center", "bold": true, "size": 18},
- {"box": [34, 330, 304, 350], "ink": "dark", "text": "Weak to acid, electricity and heat."}
+ {"box": [34, 330, 304, 350], "ink": "dark", "text": "Weak to acid, lightning and heat."}
 ]},
 {"entry": 3181, "blocks": [
  {"box": [28, 292, 292, 313], "ink": "dark", "text": "Guardian (Standard)", "align": "center", "bold": true, "size": 18},
- {"box": [28, 323, 304, 343], "ink": "dark", "text": "Weak to acid and electricity."}
+ {"box": [28, 323, 304, 343], "ink": "dark", "text": "Weak to acid and lightning."}
 ]},
 {"entry": 3182, "blocks": [{"box": [40, 302, 280, 322], "ink": "dark", "text": "Azazel", "align": "center", "bold": true, "size": 18}]},
 {"entry": 3183, "blocks": [{"box": [40, 285, 280, 306], "ink": "dark", "text": "Batosai", "align": "center", "bold": true, "size": 18}]},

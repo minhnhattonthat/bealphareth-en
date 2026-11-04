@@ -31,7 +31,7 @@
  {"box": [78, 46, 202, 72], "ink": "light", "text": "Anti-Fire", "align": "center", "bold": true, "size": 18},
  {"box": [36, 138, 198, 262], "ink": "light", "text": "A special tube.\n\nUsing it makes you strong against heat and Fire attacks, if only for a time."},
  {"box": [36, 266, 198, 310], "ink": "light", "text": "Effect: Temporarily raises Heat Resist"}]},
-{"entry": 2687, "blocks": [
+{"entry": 2687, "erase": [{"box": [163, 276, 169, 292], "ink": "light", "dim": true}], "blocks": [
  {"box": [78, 46, 202, 72], "ink": "light", "text": "Anti-Ice", "align": "center", "bold": true, "size": 18},
  {"box": [28, 142, 186, 262], "ink": "light", "text": "A special tube.\n\nUsing it makes you strong against ice and Cold attacks, if only for a time."},
  {"box": [28, 266, 186, 310], "ink": "light", "text": "Effect: Temporarily raises Cold Resist"}]},

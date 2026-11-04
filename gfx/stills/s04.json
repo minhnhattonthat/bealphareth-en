@@ -1,16 +1,16 @@
 [
 {"entry": 2707, "blocks": [
  {"box": [78, 46, 202, 72], "ink": "light", "text": "Ice Truecrystal", "align": "center", "bold": true, "size": 18},
- {"box": [44, 176, 178, 304], "ink": "light", "text": "A gem in which the Ice Element is condensed to high density. It also serves as a guide to places where the power of ice is strong."}]},
+ {"box": [44, 176, 178, 304], "ink": "light", "text": "A gem in which the Ice element is condensed to high density. It also serves as a guide to places where the power of ice is strong."}]},
 {"entry": 2708, "blocks": [
  {"box": [78, 46, 202, 72], "ink": "light", "text": "Light Truecrystal", "align": "center", "bold": true, "size": 18},
- {"box": [44, 176, 178, 304], "ink": "light", "text": "A gem in which the Light Element is condensed to high density. It also serves as a guide to places where the power of light is strong."}]},
+ {"box": [44, 176, 178, 304], "ink": "light", "text": "A gem in which the Light element is condensed to high density. It also serves as a guide to places where the power of light is strong."}]},
 {"entry": 2709, "blocks": [
  {"box": [78, 46, 202, 72], "ink": "light", "text": "Spirit Truecrystal", "align": "center", "bold": true, "size": 18},
- {"box": [44, 176, 178, 304], "ink": "light", "text": "A gem in which the Spirit Element is condensed to high density. It also serves as a guide to places where the power of spirit is strong."}]},
+ {"box": [44, 176, 178, 304], "ink": "light", "text": "A gem in which the Spirit element is condensed to high density. It also serves as a guide to places where the power of spirit is strong."}]},
 {"entry": 2710, "blocks": [
  {"box": [78, 46, 202, 72], "ink": "light", "text": "Dark Truecrystal", "align": "center", "bold": true, "size": 18},
- {"box": [44, 180, 178, 308], "ink": "light", "text": "A gem in which the Dark Element is condensed to high density. It also serves as a guide to places where the power of darkness is strong."}]},
+ {"box": [44, 180, 178, 308], "ink": "light", "text": "A gem in which the Dark element is condensed to high density. It also serves as a guide to places where the power of darkness is strong."}]},
 {"entry": 2711, "blocks": [
  {"box": [78, 46, 202, 72], "ink": "light", "text": "Abyss Key", "align": "center", "bold": true, "size": 18},
  {"box": [56, 195, 185, 258], "ink": "light", "text": "A key taken out of the Spirit Truecrystal."}]},
@@ -62,7 +62,7 @@
 {"entry": 2723, "erase": [{"box": [135, 290, 150, 298], "ink": "light", "dim": true}], "blocks": [
  {"box": [78, 46, 202, 72], "ink": "light", "text": "Wind Sword", "align": "center", "bold": true, "size": 18},
  {"box": [50, 146, 215, 222], "ink": "light", "text": "A sword made of a strange material. It has the power to knock foes back."},
- {"box": [50, 242, 160, 296], "ink": "light", "text": "Attack 20\nKnockback +5"}]},
+ {"box": [50, 242, 160, 296], "ink": "light", "dim": true, "text": "Attack 20\nKnockback +5"}]},
 {"entry": 2724, "blocks": [
  {"box": [78, 46, 202, 72], "ink": "light", "text": "Barat's Sword", "align": "center", "bold": true, "size": 18},
  {"box": [175, 126, 312, 210], "ink": "light", "text": "A one-handed sword made of a strange material. Its blade is as hot as flame."},

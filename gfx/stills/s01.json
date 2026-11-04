@@ -5,7 +5,7 @@
 {"entry": 2618, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
   {"box": [85, 46, 197, 74], "ink": "light", "text": "Glamorous Outfit", "align": "center", "bold": true, "size": 18},
   {"box": [150, 135, 312, 250], "ink": "light", "text": "Women's clothing. A man can wear it too, but should be ready for some icy stares."},
-  {"box": [150, 256, 250, 310], "ink": "light", "text": "Defense 1\nDexterity +5"}]},
+  {"box": [150, 256, 250, 310], "ink": "light", "dim": true, "text": "Defense 1\nDexterity +5"}]},
 {"entry": 2619, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
   {"box": [85, 46, 197, 74], "ink": "light", "text": "Brother's Armor", "align": "center", "bold": true, "size": 18},
   {"box": [37, 152, 160, 320], "ink": "light", "text": "An ordinary chain mail improved by Klaus, Scharn's brother.\n\nIn its present state, though, it looks unusable."}]},
@@ -48,7 +48,7 @@
 {"entry": 2629, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
   {"box": [85, 46, 197, 74], "ink": "light", "text": "Oushiul's Armor", "align": "center", "bold": true, "size": 18},
   {"box": [30, 100, 165, 275], "ink": "light", "text": "Armor worn by the angel Oushiul.\n\nNot made for human proportions and hard to wear well, which may be why it lowers Dexterity."},
-  {"box": [30, 279, 140, 358], "ink": "light", "text": "Defense 15\nAttack +7\nDexterity -30"}]},
+  {"box": [30, 279, 140, 358], "ink": "light", "dim": true, "text": "Defense 15\nAttack +7\nDexterity -30"}]},
 {"entry": 2630, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
   {"box": [85, 46, 197, 74], "ink": "light", "text": "Criesta's Armor", "align": "center", "bold": true, "size": 18},
   {"box": [50, 110, 170, 330], "ink": "light", "text": "Armor made of Criesta, a strange metal lighter than steel yet very hard.\n\nIt has the power to raise the wearer's Dexterity."},
@@ -60,7 +60,7 @@
 {"entry": 2632, "erase": [{"box": [150, 284, 240, 296], "ink": "light"},{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
   {"box": [85, 46, 197, 74], "ink": "light", "text": "Patron Saint Robe", "align": "center", "bold": true, "size": 18},
   {"box": [146, 115, 305, 270], "ink": "light", "text": "A garment worn by the Saints. It raises the wearer's Will and MP.\n\nBeing cloth, however, it is vulnerable to heat."},
-  {"box": [146, 295, 270, 385], "ink": "light", "text": "Defense 5\nMP +10\nWill +25\nHeat Resist -"}]},
+  {"box": [146, 295, 270, 385], "ink": "light", "dim": true, "text": "Defense 5\nMP +10\nWill +25\nHeat Resist -"}]},
 {"entry": 2633, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
   {"box": [85, 46, 197, 74], "ink": "light", "text": "Agitator's Robe", "align": "center", "bold": true, "size": 18},
   {"box": [128, 104, 305, 278], "ink": "light", "text": "The robe of an Excitatoria (Agitator).\n\nPerhaps through a power of the robe itself, it raises Will.\nBeing cloth, it is vulnerable to heat."},
@@ -68,7 +68,7 @@
 {"entry": 2634, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
   {"box": [85, 46, 197, 74], "ink": "light", "text": "Green Armor", "align": "center", "bold": true, "size": 18},
   {"box": [47, 116, 190, 335], "ink": "light", "text": "A strange armor made of something harder than metal, yet it reshapes itself to fit the wearer's build.\n\nPerhaps through some effect of the material, it also raises the wearer's HP."},
-  {"box": [47, 343, 130, 388], "ink": "light", "text": "Defense 10\nHP +40"}]},
+  {"box": [47, 343, 130, 388], "ink": "light", "dim": true, "text": "Defense 10\nHP +40"}]},
 {"entry": 2635, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
   {"box": [85, 46, 197, 74], "ink": "light", "text": "Fire Armor", "align": "center", "bold": true, "size": 18},
   {"box": [172, 110, 312, 262], "ink": "light", "text": "Armor that harbors the power of fire.\n\nIt halves Fire attacks, but that special power lowers Attack slightly."},
@@ -80,7 +80,7 @@
 {"entry": 2637, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
   {"box": [85, 46, 197, 74], "ink": "light", "text": "Thunder Armor", "align": "center", "bold": true, "size": 18},
   {"box": [172, 150, 312, 243], "ink": "light", "text": "Armor that harbors the power of thunderclouds.\nIt has the power to halve Lightning attacks."},
-  {"box": [172, 247, 295, 328], "ink": "light", "text": "Defense 20\nWill +20\nLightning Resist +"}]},
+  {"box": [172, 247, 295, 328], "ink": "light", "dim": true, "text": "Defense 20\nWill +20\nLightning Resist +"}]},
 {"entry": 2638, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
   {"box": [80, 46, 202, 74], "ink": "light", "text": "Closed Evil Eye Armor", "align": "center", "bold": true, "size": 18},
   {"box": [150, 160, 305, 310], "ink": "light", "text": "Armor made of a strange material. A cursed armor that drains the strength of its wearer. Rumor has it that something is sealed inside..."}]},

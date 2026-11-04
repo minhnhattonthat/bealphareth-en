@@ -6,7 +6,8 @@
     stills.py sheets OUTDIR [--per 12 --cols 6] every page's English, paged for visual QA
 
 A file is a list of pages: {"entry": 2700, "blocks": [{"box": [x0, y0, x1, y1], "ink": "light"|"dark", "text": "...",
-"align": "left"|"center", "size": 15, "bold": false}], "erase": [{"box": [...], "ink": "light"|"dark"}]}. A block's box
+"align": "left"|"center", "size": 15, "bold": false}], "erase": [{"box": [...], "ink": "light"|"dark"}], "lines":
+[[x0, y0, x1, y1]]}. A block's box
 is where the Japanese was: it is erased (only text-like pixels, so art under it survives) and the English is wrapped to fit,
 shrinking if it must. `erase` blocks only remove. `\\n` in text forces a line. Untouched macroblocks keep their codes."""
 import argparse
@@ -32,7 +33,9 @@ CACHE = ROOT / "work/gfx/stills"
 SIZE_DEFAULT, SIZE_MIN = 15, 10
 ERASE_MARGIN = 8
 JP = re.compile(r"[぀-ヿ一-鿿々]")
-DEAD_ZONES = (0, 1, 2, 3, 4, 5, 6, 7, 8)  # how hard a page over its slot drops small coefficients in the touched macroblocks
+THIN_STEPS = [(1, c) for c in (64, 48, 32, 24, 16, 12, 8, 6, 4, 3, 2, 1)] + [(2, c) for c in (8, 4, 2, 1)]  # (level, from zigzag position): see bs.thin
+DEAD_ZONES = (0, 1, 2, 3, 4, 5, 6, 7, 8)  # how hard a page still over its slot drops small coefficients in the touched macroblocks
+PLATE_Y, PLATE_W = 46, 112  # item cards: a title box at this y sits on a plate this wide, whatever width its box says
 DIM_PAGES = range(3968, 3978)  # the controls pages: pale red and blue text on a soft ground
 
 
@@ -42,8 +45,8 @@ def font(size, bold):
 
 def text_mask(a, box, ink, dim=False):
     """Text-like pixels of the RGB array inside a box (with a margin: boxes are read by eye), widened over their
-    antialiased edge. dim: anything lighter than its surroundings, for dim or coloured text on a soft ground; it takes
-    art in the box with it."""
+    antialiased edge. dim: anything lighter (ink "dark": darker) than its surroundings, for dim or coloured text on a soft
+    ground; it takes art in the box with it."""
     x0, y0 = max(box[0] - ERASE_MARGIN, 0), max(box[1] - ERASE_MARGIN, 0)
     x1, y1 = min(box[2] + ERASE_MARGIN, a.shape[1]), min(box[3] + ERASE_MARGIN, a.shape[0])
     region = a[y0:y1, x0:x1].astype(int)
@@ -52,7 +55,7 @@ def text_mask(a, box, ink, dim=False):
     med = np.median(luma)
     cyan = (region[:, :, 1] > region[:, :, 0] + 30) & (region[:, :, 2] > region[:, :, 0] + 30)  # the cards' stat lines
     if dim:
-        hit = luma - ndimage.gaussian_filter(luma.astype(float), 8) > 10
+        hit = (1 if ink == "light" else -1) * (luma - ndimage.gaussian_filter(luma.astype(float), 8)) > 10
     else:
         hit = (luma > max(110, med + 45)) & ((chroma < 70) | cyan) if ink == "light" else luma < med - 30
     grown = ndimage.binary_dilation(hit, iterations=2)
@@ -100,6 +103,8 @@ def layout(block):
     w, h = x1 - x0, y1 - y0
     bold = block.get("bold", False)
     top = block.get("size", SIZE_DEFAULT)
+    if block.get("align") == "center" and y0 == PLATE_Y:
+        w = min(w, PLATE_W)
     if block.get("align") == "center":  # a title stays on one line while it can
         for size in range(top, SIZE_MIN - 1, -1):
             fnt = font(size, bold)
@@ -132,7 +137,7 @@ def draw_block(img, block):
 
 
 def render(page, rgb):
-    """The page's new RGB image."""
+    """(the page's new RGB image, mask of the new lettering)."""
     a = rgb.copy()
     for block in page.get("erase", []) + page.get("blocks", []):
         dim = block.get("dim", False) or page["entry"] in DIM_PAGES
@@ -140,15 +145,23 @@ def render(page, rgb):
     img = Image.fromarray(a)
     for block in page.get("blocks", []):
         draw_block(img, block)
-    return np.array(img)
+    for line in page.get("lines", []):  # art an erase took with the text
+        ImageDraw.Draw(img).line(line, fill=(190, 190, 190))
+    new = np.array(img)
+    return new, (new != a).any(axis=2)
 
 
 def encode_page(page, b, slot):
-    """(stream, rgb) of a page, within its slot, or raises ValueError."""
+    """(stream, rgb) of a page, within its slot, or raises ValueError. Over the slot, the page's finest detail off the
+    lettering goes first: lettering loses thin strokes to a dead zone only as a last resort."""
     y, cb, cr, _ = bs.decode_planes(b)
     rgb = bs.to_rgb(y, cb, cr)
-    new = render(page, rgb)
+    new, lettering = render(page, rgb)
     changed = (new != rgb).any(axis=2)
+    for top, cut in THIN_STEPS:
+        out = bs.edit_still(b, new, changed, keep=lettering, cut=cut, top=top)
+        if len(out) <= slot:
+            return out, new
     for dead in DEAD_ZONES:
         out = bs.edit_still(b, new, changed, dead)
         if len(out) <= slot:
