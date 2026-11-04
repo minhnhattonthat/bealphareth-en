@@ -4,7 +4,9 @@ import struct
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
+import pytest
+
+ROOT =Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 import extract  # noqa: E402
 import insert  # noqa: E402
@@ -38,6 +40,43 @@ def test_empty_rebuild_is_identity():
     blob = d[o:o + s]
     system = next(doc for doc in docs() if doc["source"] == "PSX.EXE")
     assert insert.rebuild_system(blob, system, {}) == blob
+
+
+def test_a_grown_part_keeps_the_next_parts_aligned():
+    d = res.load()
+    o, s = res.table(d)[insert.SYSTEM_RES]
+    blob = d[o:o + s]
+    system = next(doc for doc in docs() if doc["source"] == "PSX.EXE")
+    first = system["strings"][0]
+    out = insert.rebuild_system(blob, system, {first["off"] - insert.SYSTEM_DELTA: b"x" * first["len"]}, keep_cells=[828])
+    bank = struct.unpack_from("<I", out, 8)[0]
+    n = struct.unpack_from("<H", out, bank + 2)[0]
+    assert all(v % 4 == 0 for v in struct.unpack_from(f"<{n}I", out, bank + 4))
+
+
+def test_sub_scene_text_stays_below_the_buffer():
+    doc = next(d for d in docs() if d["source"] == "RES#1195" or d.get("entry") == 1195)
+    s = next(s for s in doc["strings"] if s["len"] > 20)
+    with pytest.raises(insert.Overflow):
+        insert.rebuild_scene(scene(doc), doc, {s["off"]: b"x" * 0x10000})
+
+
+def test_shared_strings_read_back_the_same():
+    doc = next(d for d in docs() if d.get("entry") == 1195)
+    blob = bytes(scene(doc))
+    first = next(s for s in doc["strings"] if s["len"] > 1)  # an untouched bank is copied as it is: touch one string
+    out = insert.rebuild_scene(blob, doc, {first["off"]: blob[first["off"]:first["off"] + first["len"] - 1]}, share=True)
+    bank = doc["banks"][0]["at"]
+
+    def strings(b):
+        part = bank + struct.unpack_from("<I", b, bank + 8)[0]
+        n = struct.unpack_from("<H", b, part + 2)[0]
+        width = "I" if b[part + 1] == 0x34 else "H"
+        offs = struct.unpack_from(f"<{n}{width}", b, part + 4)
+        return [b[part + v:b.index(0, part + v)] for v in offs]
+
+    assert len(out) == len(blob) and strings(out) == strings(blob)
+    assert struct.unpack_from("<I", out, 4)[0] < struct.unpack_from("<I", blob, 4)[0]
 
 
 def test_grown_string_moves_only_what_follows():

@@ -3,6 +3,7 @@
     stills.py grid OUT.png ENTRY [ENTRY..]      originals with a 40 px coordinate grid, to read text boxes from
     stills.py preview OUT.png FILE.json [ENTRY..]  each page before and after
     stills.py check [FILE.json ..]              overflowing boxes, leftover Japanese in text, pages over their slot
+    stills.py sheets OUTDIR [--per 12 --cols 6] every page's English, paged for visual QA
 
 A file is a list of pages: {"entry": 2700, "blocks": [{"box": [x0, y0, x1, y1], "ink": "light"|"dark", "text": "...",
 "align": "left"|"center", "size": 15, "bold": false}], "erase": [{"box": [...], "ink": "light"|"dark"}]}. A block's box
@@ -31,7 +32,7 @@ CACHE = ROOT / "work/gfx/stills"
 SIZE_DEFAULT, SIZE_MIN = 15, 10
 ERASE_MARGIN = 8
 JP = re.compile(r"[぀-ヿ一-鿿々]")
-DEAD_ZONES = (0, 1, 2, 3, 5, 8)  # how hard a page over its slot drops small coefficients in the touched macroblocks
+DEAD_ZONES = (0, 1, 2, 3, 4, 5, 6, 7, 8)  # how hard a page over its slot drops small coefficients in the touched macroblocks
 DIM_PAGES = range(3968, 3978)  # the controls pages: pale red and blue text on a soft ground
 
 
@@ -75,15 +76,21 @@ def inpaint(a, mask):
 def wrap(text, fnt, width):
     lines = []
     for para in text.split("\n"):
+        rows = []
         cur = ""
         for word in para.split(" "):
             trial = f"{cur} {word}" if cur else word
             if cur and fnt.getlength(trial) > width:
-                lines.append(cur)
+                rows.append(cur)
                 cur = word
             else:
                 cur = trial
-        lines.append(cur)
+        rows.append(cur)
+        if len(rows) > 1 and " " not in rows[-1] and " " in rows[-2]:  # no one-word last row
+            head, _, word = rows[-2].rpartition(" ")
+            if fnt.getlength(f"{word} {rows[-1]}") <= width:
+                rows[-2:] = [head, f"{word} {rows[-1]}"]
+        lines += rows
     return lines
 
 
@@ -228,6 +235,22 @@ def cmd_preview(args):
     sheet(images, args.out, args.cols)
 
 
+def cmd_sheets(args):
+    """Every page's English, paged for visual QA."""
+    d = res.load()
+    table = res.table(d)
+    out = Path(args.out)
+    out.mkdir(parents=True, exist_ok=True)
+    plist = list(pages())
+    for i in range(0, len(plist), args.per):
+        images = []
+        for page in plist[i:i + args.per]:
+            b, s, _ = original(d, table, page["entry"])
+            y, cb, cr, _ = bs.decode_planes(encode_page(page, b, s)[0])
+            images.append((str(page["entry"]), bs.to_rgb(y, cb, cr)))
+        sheet(images, out / f"stills_{i // args.per + 1:02d}.png", args.cols)
+
+
 def cmd_check(args):
     d = res.load()
     table = res.table(d)
@@ -274,6 +297,11 @@ def main():
     p.add_argument("entries", nargs="*", type=int)
     p.add_argument("--cols", type=int, default=4)
     p.set_defaults(fn=cmd_preview)
+    p = sub.add_parser("sheets")
+    p.add_argument("out")
+    p.add_argument("--per", type=int, default=12)
+    p.add_argument("--cols", type=int, default=6)
+    p.set_defaults(fn=cmd_sheets)
     p = sub.add_parser("check")
     p.add_argument("files", nargs="*")
     p.set_defaults(fn=cmd_check)

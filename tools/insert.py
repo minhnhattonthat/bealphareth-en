@@ -21,6 +21,7 @@ BASE_CELLS = 0x1D4C  # base kanji font in RES#3927 (0x801BAD4C), up to the syste
 MAIN_FILE_BASE = 0x8000F800  # RAM address of MAIN.EXE file offset 0
 SYSTEM_RAM = 0x801B9000
 SCENE_LOAD = {0xA0000: 0x800D6C00, 0x40000: 0x80136C00}  # RAM address of a scene by slot size (docs/re/disc.md)
+TEXT_END = {0x40000: 0x20000}  # 0x80019A24 copies 32 KB over 0x80156C00 as a sub-scene starts: text past it is overwritten
 # Every base-font glyph English draws, in new cell order: `{code}` (0x8080 + index) is what the encoder emits.
 KEPT = "【】○×△□→←▽"
 
@@ -115,10 +116,11 @@ def marker(jp, tag, fill=1.0, font=None):
     return "".join(out)
 
 
-def build_m2(blob, at, end, new, far=None, ram=0):
+def build_m2(blob, at, end, new, far=None, ram=0, share=False):
     """The M2 at blob[at:end] with strings in `new` ({offset: bytes without NUL}) replaced. Past u16 offsets it comes back
     as an M4 of strings: the lookups read either width (`m_head` in asm/vwf.asm covers the one that did not).
-    far: {offset: RAM address} of strings kept outside the scene; `ram` is this bank's address, u32 offsets wrap to them."""
+    far: {offset: RAM address} of strings kept outside the scene; `ram` is this bank's address, u32 offsets wrap to them.
+    share: repeated strings are stored once (the game finds a string's end by its NUL, never by the next offset)."""
     n = struct.unpack_from("<H", blob, at + 2)[0]
     offs = struct.unpack_from(f"<{n + 1}H", blob, at + 4)
     if not any(at + offs[k] in new for k in range(n)):
@@ -132,24 +134,31 @@ def build_m2(blob, at, end, new, far=None, ram=0):
     wide = bool(far) or offs[0] + sum(len(c) for c in chunks if c) > M2_MAX
     pos = 4 + (4 if wide else 2) * (n + 1) + len(extra)
     table = []
+    stored = {}
+    body = []
     for k, chunk in enumerate(chunks):
         if chunk is None:
             table.append((far[at + offs[k]] - ram) & 0xFFFFFFFF)
             continue
+        if share and chunk in stored:
+            table.append(stored[chunk])
+            continue
+        stored[chunk] = pos
         table.append(pos)
+        body.append(chunk)
         pos += len(chunk)
     table.append(pos)
     head = (b"M4" + struct.pack(f"<H{n + 1}I", n, *table)) if wide else (b"M2" + struct.pack(f"<H{n + 1}H", n, *table))
     tail = bytes(blob[at + offs[-1]:end]) if (end - at - offs[-1]) else b""
-    return head + extra + b"".join(c for c in chunks if c) + tail
+    return head + extra + b"".join(body) + tail
 
 
-def build_bank(blob, bank, delta, new, drop_glyphs=False, far=None, load=0):
+def build_bank(blob, bank, delta, new, drop_glyphs=False, far=None, load=0, share=False):
     """(old_start, old_end, new_bytes) of a bank; its M4 table is rewritten when a part grows."""
     if bank["kind"] == "M2":
         part = bank["parts"][0]
         a = part["at"] - delta
-        return a, a + part["size"], build_m2(blob, a, a + part["size"], new, far, load + a)
+        return a, a + part["size"], build_m2(blob, a, a + part["size"], new, far, load + a, share)
     at = bank["at"] - delta
     n = struct.unpack_from("<H", blob, at + 2)[0]
     offs = struct.unpack_from(f"<{n + 1}I", blob, at + 4)
@@ -157,9 +166,10 @@ def build_bank(blob, bank, delta, new, drop_glyphs=False, far=None, load=0):
     table = []
     for k, part in enumerate(bank["parts"]):
         a, e = at + offs[k], at + offs[k + 1]
+        out += bytes(-len(out) % 4)  # the game reads a part's head with lhu: an odd address raises an exception
         table.append(len(out))
         if part["kind"] == "M2":
-            out += build_m2(blob, a, e, new, far, load + at + len(out))
+            out += build_m2(blob, a, e, new, far, load + at + len(out), share)
         elif not (drop_glyphs and part["kind"] == "glyph"):
             out += blob[a:e]
     table.append(len(out))
@@ -167,7 +177,7 @@ def build_bank(blob, bank, delta, new, drop_glyphs=False, far=None, load=0):
     return at, at + offs[-1], bytes(out)
 
 
-def splice(blob, doc, new, delta=0, drop_glyphs=False, far=None, load=0):
+def splice(blob, doc, new, delta=0, drop_glyphs=False, far=None, load=0, share=False):
     """(new blob, offset map) after replacing the banks; a grown bank pushes what follows, kept 4-byte aligned."""
     spans = []
     if far and sum(b["kind"] != "raw" for b in doc["banks"]) != 1:
@@ -175,7 +185,7 @@ def splice(blob, doc, new, delta=0, drop_glyphs=False, far=None, load=0):
     for bank in doc["banks"]:
         if bank["kind"] == "raw":
             continue
-        a, e, b = build_bank(blob, bank, delta, new, drop_glyphs, far, load)
+        a, e, b = build_bank(blob, bank, delta, new, drop_glyphs, far, load, share)
         if (len(b) - (e - a)) % 4:
             b += b"\0" * (4 - (len(b) - (e - a)) % 4)
         spans.append((a, e, b))
@@ -195,10 +205,22 @@ def splice(blob, doc, new, delta=0, drop_glyphs=False, far=None, load=0):
     return out, remap
 
 
-def rebuild_scene(blob, doc, new, drop_glyphs=False, far=None):
+def bank_end(blob, bank):
+    if bank["kind"] == "M2":
+        return bank["parts"][0]["at"] + bank["parts"][0]["size"]
+    n = struct.unpack_from("<H", blob, bank["at"] + 2)[0]
+    return bank["at"] + struct.unpack_from("<I", blob, bank["at"] + 4 + 4 * n)[0]
+
+
+def rebuild_scene(blob, doc, new, drop_glyphs=False, far=None, share=False):
     """The scene overlay with new strings: part table and header follow the shift; the slot size does not change.
     drop_glyphs frees the scene font, which no English string draws from. far: see build_m2."""
-    out, remap = splice(blob, doc, new, drop_glyphs=drop_glyphs, far=far, load=SCENE_LOAD[len(blob)])
+    out, remap = splice(blob, doc, new, drop_glyphs=drop_glyphs, far=far, load=SCENE_LOAD[len(blob)], share=share)
+    limit = TEXT_END.get(len(blob))
+    if limit:
+        for bank in doc["banks"]:
+            if bank["kind"] != "raw" and remap(bank_end(blob, bank)) > limit:
+                raise Overflow(f"text ends at {remap(bank_end(blob, bank)):#x}, past {limit:#x}")
     sec2 = struct.unpack_from("<I", blob, 12)[0]
     n, size = struct.unpack_from("<II", blob, sec2 + 8)
     base = sec2 + 16
@@ -219,10 +241,16 @@ def rebuild_scene(blob, doc, new, drop_glyphs=False, far=None):
 
 
 def fit_scene(blob, doc, new, pool, report):
-    """A rebuilt scene that fits its slot: as it is, else without its font, else with its longest strings in the far pool
-    (the end of the system block, always in RAM). pool: bytes so far; returns (scene, pool)."""
+    """A rebuilt scene that fits its slot: as it is, else with repeated strings stored once, else without its font, else with
+    its longest strings in the far pool (the end of the system block, always in RAM). pool: bytes so far; returns (scene, pool)."""
     try:
         return rebuild_scene(blob, doc, new), pool
+    except Overflow:
+        pass
+    try:
+        out = rebuild_scene(blob, doc, new, share=True)
+        report.append(f"{doc['source']}: repeated strings stored once")
+        return out, pool
     except Overflow:
         pass
     try:
