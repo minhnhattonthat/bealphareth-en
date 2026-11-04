@@ -41,8 +41,9 @@
    "jp": "{1c:10}{0b:08}{e080} ジェシカ {e081}{0b:09}\n{10}、入るよ。{0c:2b50233aff}{0c:fe}",
    "read": "{1c:10}{0b:08}【 ジェシカ 】{0b:09}\n{10}、入るよ。{0c:2b50233aff}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Jessica 】{0b:09}\n{10}, I'm coming in.{0c:2b50233aff}{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], I'm coming in."
   },
   {
    "id": "RES#706:d7ac",
@@ -63,8 +64,9 @@
    "jp": "{1c:10}いい情報持ってきたんだ。\nもちろん聞くよね。{0c:fe}",
    "read": "{1c:10}いい情報持ってきたんだ。\nもちろん聞くよね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I've got some good news. You wanna hear\nit, of course.{0c:fe}",
+   "status": "done",
+   "tl": "I've got some good news. You wanna hear it, of course."
   },
   {
    "id": "RES#706:d80a",
@@ -85,8 +87,9 @@
    "jp": "もちろん聞くよ|聞きたくない",
    "read": "もちろん聞くよ|聞きたくない",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Of course I do|I don't want to",
+   "status": "done",
+   "tl": "Of course I do|I don't want to"
   },
   {
    "id": "RES#706:d828",
@@ -107,8 +110,9 @@
    "jp": "もちろん聞くよ|聞きたくない",
    "read": "もちろん聞くよ|聞きたくない",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Of course I do|I don't want to",
+   "status": "done",
+   "tl": "Of course I do|I don't want to"
   },
   {
    "id": "RES#706:d83f",
@@ -129,8 +133,9 @@
    "jp": "{0c:200005200104040420000b2001040404}{1c:10}どうせ後で聞きたくなるクセにさ。\nまあいいや、勝手に話すよ。{0c:fe}",
    "read": "{0c:200005200104040420000b2001040404}{1c:10}どうせ後で聞きたくなるクセにさ。\nまあいいや、勝手に話すよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:200005200104040420000b2001040404}{1c:10}You'll want to later anyway, you know.\nWhatever, I'll just tell you.{0c:fe}",
+   "status": "done",
+   "tl": "You'll want to later anyway, you know. Whatever, I'll just tell you."
   },
   {
    "id": "RES#706:d882",
@@ -140,8 +145,9 @@
    "jp": "{1c:10}この町ってさ、\nこの前{e083}{e084}が来なかったせいで\n{e085}べ物が全然足りてないじゃん。{1a}値段も10倍20倍になっちゃって、\n今じゃパン1{e089}の値段が、\n外の世{e08a}での1ヶ月分の{e08c}ぎと\n同じくらいの{e08d}額だもんね。{0c:fe}",
    "read": "{1c:10}この町ってさ、\nこの前隊商が来なかったせいで\n食べ物が全然足りてないじゃん。{1a}値段も10倍20倍になっちゃって、\n今じゃパン1個の値段が、\n外の世界での1ヶ月分の稼ぎと\n同じくらいの金額だもんね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}This town's way short on food, you\nknow, since the caravan didn't come last\ntime.{1a}Prices are up 10 or 20 times, and now a\nsingle loaf of bread costs about what\nyou'd earn in a month outside.{0c:fe}",
+   "status": "done",
+   "tl": "This town's way short on food, you know, since the caravan didn't come last time. // Prices are up 10 or 20 times, and now a single loaf of bread costs about what you'd earn in a month outside."
   },
   {
    "id": "RES#706:d90d",
@@ -162,8 +168,9 @@
    "jp": "{0c:5228002b501000}{1c:10}でさ、もし今\n{e085}べ物を大{e08f}に見つけたら、\n毛虫並のあんたの評判も\n少しはよくなると思わない?{0c:fe}",
    "read": "{0c:5228002b501000}{1c:10}でさ、もし今\n食べ物を大量に見つけたら、\n毛虫並のあんたの評判も\n少しはよくなると思わない?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5228002b501000}{1c:10}So, if you found a big load of food right\nnow, don't you think your reputation,\nabout on par with a caterpillar's, might\nget a little better?{0c:fe}",
+   "status": "done",
+   "tl": "So, if you found a big load of food right now, don't you think your reputation, about on par with a caterpillar's, might get a little better?"
   },
   {
    "id": "RES#706:d96c",
@@ -184,8 +191,9 @@
    "jp": "{1c:10}実はさ、{e094}獄の上の方で、\n大きな{e095}い実を見つけたんだ。{1a}{e085}べてみたら\nこれが案外おいしくてさ。{1a}で、提案なんだけど、\n今から3人で取りに行かない?{0c:020201}",
    "read": "{1c:10}実はさ、煉獄の上の方で、\n大きな丸い実を見つけたんだ。{1a}食べてみたら\nこれが案外おいしくてさ。{1a}で、提案なんだけど、\n今から3人で取りに行かない?{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Thing is, I found some big round fruit up\nin the upper part of Purgatory.{1a}I tried one and it's actually pretty good.{1a}So here's my idea: what do you say the\n3 of us go get some, now?{0c:020201}",
+   "status": "done",
+   "tl": "Thing is, I found some big round fruit up in the upper part of Purgatory. // I tried one and it's actually pretty good. // So here's my idea: what do you say the 3 of us go get some, now?"
   },
   {
    "id": "RES#706:d9e9",
@@ -195,8 +203,9 @@
    "jp": "{1c:10}実はさ、{e094}獄の上の方で、\n大きな{e095}い実を見つけたんだ。{1a}{e085}べてみたら\nこれが案外おいしくてさ。{1a}で、提案なんだけど、\n今から2人で取りに行かない?{0c:fe}",
    "read": "{1c:10}実はさ、煉獄の上の方で、\n大きな丸い実を見つけたんだ。{1a}食べてみたら\nこれが案外おいしくてさ。{1a}で、提案なんだけど、\n今から2人で取りに行かない?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Thing is, I found some big round fruit up\nin the upper part of Purgatory.{1a}I tried one and it's actually pretty good.{1a}So here's my idea: what do you say the\n2 of us go get some, now?{0c:fe}",
+   "status": "done",
+   "tl": "Thing is, I found some big round fruit up in the upper part of Purgatory. // I tried one and it's actually pretty good. // So here's my idea: what do you say the 2 of us go get some, now?"
   },
   {
    "id": "RES#706:da4d",
@@ -217,8 +226,9 @@
    "jp": "{0c:5228002b501000}{1c:10}あっ、そうそう、\n時間の方は気にしなくて大丈夫だよ。{1a}{e098}合のいいことに\nその実の落ちてた場所って\n時間の進みが無茶苦茶遅いから、\n{e099}日の昼までには楽勝で帰れるよ。{0c:020201}",
    "read": "{0c:5228002b501000}{1c:10}あっ、そうそう、\n時間の方は気にしなくて大丈夫だよ。{1a}都合のいいことに\nその実の落ちてた場所って\n時間の進みが無茶苦茶遅いから、\n明日の昼までには楽勝で帰れるよ。{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5228002b501000}{1c:10}Oh, right, and don't worry about the\ntime.{1a}Conveniently, time runs crazy slow where\nthat fruit was lying, so you'll easily be\nback by tomorrow noon.{0c:020201}",
+   "status": "done",
+   "tl": "Oh, right, and don't worry about the time. // Conveniently, time runs crazy slow where that fruit was lying, so you'll easily be back by tomorrow noon."
   },
   {
    "id": "RES#706:dad9",
@@ -228,8 +238,9 @@
    "jp": "{0c:5228002b501000}{1c:10}そうそう、\nあんたは{e099}日、昼の2時までに\n帰らなきゃいけないんだよね。{1a}でも、時間の方は気にしなくて\n全然平気だから。{1a}{e098}合のいいことに\nその実の落ちてた場所って\n時間の進みが無茶苦茶遅いから、\n{e099}日の昼までには楽勝で帰れるよ。{0c:fe}",
    "read": "{0c:5228002b501000}{1c:10}そうそう、\nあんたは明日、昼の2時までに\n帰らなきゃいけないんだよね。{1a}でも、時間の方は気にしなくて\n全然平気だから。{1a}都合のいいことに\nその実の落ちてた場所って\n時間の進みが無茶苦茶遅いから、\n明日の昼までには楽勝で帰れるよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5228002b501000}{1c:10}Oh yeah, you have to be back by 2 in the\nafternoon tomorrow, right?{1a}But don't you worry about the time at\nall.{1a}Conveniently, time runs crazy slow where\nthat fruit was lying, so you'll easily be\nback by tomorrow noon.{0c:fe}",
+   "status": "done",
+   "tl": "Oh yeah, you have to be back by 2 in the afternoon tomorrow, right? // But don't you worry about the time at all. // Conveniently, time runs crazy slow where that fruit was lying, so you'll easily be back by tomorrow noon."
   },
   {
    "id": "RES#706:db7d",
@@ -250,8 +261,9 @@
    "jp": "{1c:10}あんたってさ、\n町中の人間におもいっきり\n嫌われちゃってるじゃん。{1a}凶戦士のコトも\n確かに致命的だったけど、\nあんたその前から\n評判よくなかったしさ。{1a}アッシュの{e09c}の{e09d}の{e09e}{e09f}集めるときも\n手伝わなかったし、\nレイアを助けるときも\n何もしなかったし。{1a}こんなせまい町だから\nもうみんな知ってるわけ。{1a}あんたの場合、わざと\n嫌われようとしてるフシがあるから\n嫌われても平気なんだろうけど、{1a}このままだと背中から\n刺されかねないしさ、{1a}{0c:5228002b501000}ってことで一緒に行こうよ。\nいま{e085}べ物見つけて持って帰ったら\n町の人間のあんたを見る目も\nすこしは変わると思うからさ。{0c:020401}",
    "read": "{1c:10}あんたってさ、\n町中の人間におもいっきり\n嫌われちゃってるじゃん。{1a}凶戦士のコトも\n確かに致命的だったけど、\nあんたその前から\n評判よくなかったしさ。{1a}アッシュの妹の薬の材料集めるときも\n手伝わなかったし、\nレイアを助けるときも\n何もしなかったし。{1a}こんなせまい町だから\nもうみんな知ってるわけ。{1a}あんたの場合、わざと\n嫌われようとしてるフシがあるから\n嫌われても平気なんだろうけど、{1a}このままだと背中から\n刺されかねないしさ、{1a}{0c:5228002b501000}ってことで一緒に行こうよ。\nいま食べ物見つけて持って帰ったら\n町の人間のあんたを見る目も\nすこしは変わると思うからさ。{0c:020401}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}You know, the whole town hates your\nguts.{1a}The Berserker thing was definitely fatal,\nbut your reputation wasn't great even\nbefore that.{1a}You didn't help gather the stuff for\nAsh's sister's medicine, and you did\nnothing when we rescued Leia.{1a}It's a tiny town, so everyone knows\nalready.{1a}You almost seem to want people to hate\nyou, so I guess it doesn't bother you,{1a}but the way things are you could get\nstabbed in the back, you know,{1a}{0c:5228002b501000}so let's go together. Bring back food\nright now, and the way people in town\nlook at you might change a little.{0c:020401}",
+   "status": "done",
+   "tl": "You know, the whole town hates your guts. // The Berserker thing was definitely fatal, but your reputation wasn't great even before that. // You didn't help gather the stuff for Ash's sister's medicine, and you did nothing when we rescued Leia. // It's a tiny town, so everyone knows already. // You almost seem to want people to hate you, so I guess it doesn't bother you, // but the way things are you could get stabbed in the back, you know, // [1]so let's go together. Bring back food right now, and the way people in town look at you might change a little."
   },
   {
    "id": "RES#706:dd0a",
@@ -261,8 +273,9 @@
    "jp": "{1c:10}あんたってさ、\n町中の人間におもいっきり\n嫌われちゃってるじゃん。{1a}あんたにあの時の責任は\nないんだろうけど、\nそれでもこのままってのも\nあんまり気分良くないでしょ?{1a}{0c:5228002b501000}だったら一緒に行こうよ。\nいま{e085}べ物見つけて持って帰ったら\n町の人間のあんたを見る目も\nすこしは変わると思うよ。{0c:020301}",
    "read": "{1c:10}あんたってさ、\n町中の人間におもいっきり\n嫌われちゃってるじゃん。{1a}あんたにあの時の責任は\nないんだろうけど、\nそれでもこのままってのも\nあんまり気分良くないでしょ?{1a}{0c:5228002b501000}だったら一緒に行こうよ。\nいま食べ物見つけて持って帰ったら\n町の人間のあんたを見る目も\nすこしは変わると思うよ。{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}You know, the whole town hates your\nguts.{1a}You're probably not to blame for what\nhappened back then, but you can't feel\ntoo good going on like this, right?{1a}{0c:5228002b501000}So let's go together. Bring back food\nright now, and the way people in town\nlook at you might change a little.{0c:020301}",
+   "status": "done",
+   "tl": "You know, the whole town hates your guts. // You're probably not to blame for what happened back then, but you can't feel too good going on like this, right? // [1]So let's go together. Bring back food right now, and the way people in town look at you might change a little."
   },
   {
    "id": "RES#706:ddc3",
@@ -272,8 +285,9 @@
    "jp": "{1c:10}あたし達ってさ、\n町中の人間におもいっきり\n嫌われちゃってるじゃん。{1a}{0c:5228002b501000}あたしは{e0a1}愛いからまだいいけど、\nあんたの場合・・・ね。{1a}凶戦士のコトも\n確かに致命的だったけど、\nあんたその前から\n評判よくなかったしさ。{1a}アッシュの{e09c}の{e09d}の{e09e}{e09f}集めるときも\n手伝わなかったし、\nレイアを助けるときも\n何もしなかったし。{1a}こんなせまい町だから\nもうみんな知ってるわけよ。{1a}あんたの場合、わざと\n嫌われようとしてるフシがあるから\n嫌われても平気なんだろうけど、{1a}このままだと背中から\n刺されかねないしさ、{1a}{0c:5228002b501000}ってことで一緒に行こうよ。\nいま{e085}べ物見つけて持って帰ったら\n町の人間のあんたを見る目も\nすこしは変わると思うからさ。{0c:020201}",
    "read": "{1c:10}あたし達ってさ、\n町中の人間におもいっきり\n嫌われちゃってるじゃん。{1a}{0c:5228002b501000}あたしは可愛いからまだいいけど、\nあんたの場合・・・ね。{1a}凶戦士のコトも\n確かに致命的だったけど、\nあんたその前から\n評判よくなかったしさ。{1a}アッシュの妹の薬の材料集めるときも\n手伝わなかったし、\nレイアを助けるときも\n何もしなかったし。{1a}こんなせまい町だから\nもうみんな知ってるわけよ。{1a}あんたの場合、わざと\n嫌われようとしてるフシがあるから\n嫌われても平気なんだろうけど、{1a}このままだと背中から\n刺されかねないしさ、{1a}{0c:5228002b501000}ってことで一緒に行こうよ。\nいま食べ物見つけて持って帰ったら\n町の人間のあんたを見る目も\nすこしは変わると思うからさ。{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}You know, the whole town hates our\nguts.{1a}{0c:5228002b501000}I'm cute, so I'm not so bad off, but you...\nwell.{1a}The Berserker thing was definitely fatal,\nbut your reputation wasn't great even\nbefore that.{1a}You didn't help gather the stuff for\nAsh's sister's medicine, and you did\nnothing when we rescued Leia.{1a}It's a tiny town, so everyone knows\nalready.{1a}You almost seem to want people to hate\nyou, so I guess it doesn't bother you,{1a}but the way things are you could get\nstabbed in the back, you know,{1a}{0c:5228002b501000}so let's go together. Bring back food\nright now, and the way people in town\nlook at you might change a little.{0c:020201}",
+   "status": "done",
+   "tl": "You know, the whole town hates our guts. // [1]I'm cute, so I'm not so bad off, but you... well. // The Berserker thing was definitely fatal, but your reputation wasn't great even before that. // You didn't help gather the stuff for Ash's sister's medicine, and you did nothing when we rescued Leia. // It's a tiny town, so everyone knows already. // You almost seem to want people to hate you, so I guess it doesn't bother you, // but the way things are you could get stabbed in the back, you know, // [2]so let's go together. Bring back food right now, and the way people in town look at you might change a little."
   },
   {
    "id": "RES#706:df4d",
@@ -283,8 +297,9 @@
    "jp": "{1c:10}あたし達ってさ、\n町中の人間におもいっきり\n嫌われちゃってるじゃん。{1a}{0c:5228002b501000}あたしは{e0a1}愛いからまだいいけど、\nあんたの場合・・・ね。{1a}あんたにあの時の責任は\nないんだろうけど、\nそれでもこのままってのも\nあんまり気分良くないでしょ?{1a}{0c:5228002b501000}だったら一緒に行こうよ。\nいま{e085}べ物見つけて持って帰ったら\n町の人間のあんたを見る目も\nすこしは変わると思うよ。{0c:fe}",
    "read": "{1c:10}あたし達ってさ、\n町中の人間におもいっきり\n嫌われちゃってるじゃん。{1a}{0c:5228002b501000}あたしは可愛いからまだいいけど、\nあんたの場合・・・ね。{1a}あんたにあの時の責任は\nないんだろうけど、\nそれでもこのままってのも\nあんまり気分良くないでしょ?{1a}{0c:5228002b501000}だったら一緒に行こうよ。\nいま食べ物見つけて持って帰ったら\n町の人間のあんたを見る目も\nすこしは変わると思うよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}You know, the whole town hates our\nguts.{1a}{0c:5228002b501000}I'm cute, so I'm not so bad off, but you...\nwell.{1a}You're probably not to blame for what\nhappened back then, but you can't feel\ntoo good going on like this, right?{1a}{0c:5228002b501000}So let's go together. Bring back food\nright now, and the way people in town\nlook at you might change a little.{0c:fe}",
+   "status": "done",
+   "tl": "You know, the whole town hates our guts. // [1]I'm cute, so I'm not so bad off, but you... well. // You're probably not to blame for what happened back then, but you can't feel too good going on like this, right? // [2]So let's go together. Bring back food right now, and the way people in town look at you might change a little."
   },
   {
    "id": "RES#706:e030",
@@ -316,8 +331,9 @@
    "jp": "{1c:15}{0b:08}{e080} アーサー {e081}{0b:09}\n{10}も一緒に行こう。{1a}{0c:2b502351102b542c1000}{e085}糧の不足はそろそろ\n深刻な問題になってきていると\nオイゲンさんも言っていたし、\n皆が困ってるのは事実なんだから。{0c:2b5309fe}",
    "read": "{1c:15}{0b:08}【 アーサー 】{0b:09}\n{10}も一緒に行こう。{1a}{0c:2b502351102b542c1000}食糧の不足はそろそろ\n深刻な問題になってきていると\nオイゲンさんも言っていたし、\n皆が困ってるのは事実なんだから。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Arthur 】{0b:09}\n{10}, come with us too.{1a}{0c:2b502351102b542c1000}Eugen-san said the food shortage is\ngetting serious, and it's a fact that\neveryone's in trouble.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "[HERO], come with us too. // [1]Eugen-san said the food shortage is getting serious, and it's a fact that everyone's in trouble."
   },
   {
    "id": "RES#706:e0e3",
@@ -327,8 +343,9 @@
    "jp": "{0c:5230002b542c1000}{1c:10}{0b:08}{e080} ジェシカ {e081}{0b:09}\nうん、そうそう。\n全くその{e0a5}りだね!{0c:2b542c09fe}",
    "read": "{0c:5230002b542c1000}{1c:10}{0b:08}【 ジェシカ 】{0b:09}\nうん、そうそう。\n全くその通りだね!{0c:2b542c09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5230002b542c1000}{1c:10}{0b:08}【 Jessica 】{0b:09}\nYeah, yeah. That's exactly right!{0c:2b542c09fe}",
+   "status": "done",
+   "tl": "Yeah, yeah. That's exactly right!"
   },
   {
    "id": "RES#706:e11d",
@@ -349,8 +366,9 @@
    "jp": "{1c:15}{0b:08}{e080} アーサー {e081}{0b:09}\nでも・・・\nジェシカ、1つ聞いていいかい?{1a}{0c:2b502351102b531000}ずっと気になってたんだけど、\nどうして僕達を誘ったんだ?\n君は別に凶戦士に\nなったわけではないのに・・・{0c:2b5309fe}",
    "read": "{1c:15}{0b:08}【 アーサー 】{0b:09}\nでも・・・\nジェシカ、1つ聞いていいかい?{1a}{0c:2b502351102b531000}ずっと気になってたんだけど、\nどうして僕達を誘ったんだ?\n君は別に凶戦士に\nなったわけではないのに・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Arthur 】{0b:09}\nBut... Jessica, may I ask you something?{1a}{0c:2b502351102b531000}I've been wondering all this time. Why did\nyou invite us? You never turned\nBerserker yourself, after all...{0c:2b5309fe}",
+   "status": "done",
+   "tl": "But... Jessica, may I ask you something? // [1]I've been wondering all this time. Why did you invite us? You never turned Berserker yourself, after all..."
   },
   {
    "id": "RES#706:e1a9",
@@ -371,8 +389,9 @@
    "jp": "{1c:13}{0b:08}{e080} ジェシカ {e081}{0b:09}\nそ、それは・・・\nな、仲間を助けたいからに\nきまってるじゃん・・・{0c:2b542c09fe}",
    "read": "{1c:13}{0b:08}【 ジェシカ 】{0b:09}\nそ、それは・・・\nな、仲間を助けたいからに\nきまってるじゃん・・・{0c:2b542c09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Jessica 】{0b:09}\nTh-that's... To help my f-friends,\nobviously...{0c:2b542c09fe}",
+   "status": "done",
+   "tl": "Th-that's... To help my f-friends, obviously..."
   },
   {
    "id": "RES#706:e1f5",
@@ -382,8 +401,9 @@
    "jp": "{1c:15}{0b:08}{e080} アーサー {e081}{0b:09}\n本当かい!?{1a}僕は今まで君に嫌われて\nいるものとばかり思ってたよ。\nありがとう、ジェシカ。\n本当に嬉しいよ!{0c:2b5309fe}",
    "read": "{1c:15}{0b:08}【 アーサー 】{0b:09}\n本当かい!?{1a}僕は今まで君に嫌われて\nいるものとばかり思ってたよ。\nありがとう、ジェシカ。\n本当に嬉しいよ!{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Arthur 】{0b:09}\nReally!?{1a}All this time I thought you hated me.\nThank you, Jessica. I'm so glad!{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Really!? // All this time I thought you hated me. Thank you, Jessica. I'm so glad!"
   },
   {
    "id": "RES#706:e254",
@@ -460,8 +480,9 @@
    "jp": "{0c:5230002b542c1000}{1c:10}{0b:08}{e080} ジェシカ {e081}{0b:09}\nうん、そうそう。\n全くその{e0a5}りだね!{0c:2b542c09fe}",
    "read": "{0c:5230002b542c1000}{1c:10}{0b:08}【 ジェシカ 】{0b:09}\nうん、そうそう。\n全くその通りだね!{0c:2b542c09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5230002b542c1000}{1c:10}{0b:08}【 Jessica 】{0b:09}\nYeah, yeah. That's exactly right!{0c:2b542c09fe}",
+   "status": "done",
+   "tl": "Yeah, yeah. That's exactly right!"
   },
   {
    "id": "RES#706:e481",
@@ -504,8 +525,9 @@
    "jp": "{1c:13}{0b:08}{e080} ジェシカ {e081}{0b:09}\nそ、それは・・・\nな、仲間を助けたいからに\nきまってるじゃん・・・{0c:2b542c09fe}",
    "read": "{1c:13}{0b:08}【 ジェシカ 】{0b:09}\nそ、それは・・・\nな、仲間を助けたいからに\nきまってるじゃん・・・{0c:2b542c09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Jessica 】{0b:09}\nTh-that's... To help my f-friends,\nobviously...{0c:2b542c09fe}",
+   "status": "done",
+   "tl": "Th-that's... To help my f-friends, obviously..."
   },
   {
    "id": "RES#706:e552",
@@ -625,8 +647,9 @@
    "jp": "{0c:5230002b542c1000}{1c:10}{0b:08}{e080} ジェシカ {e081}{0b:09}\nうん、そうそう。\n全くその{e0a5}りだね!{0c:2b542c09fe}",
    "read": "{0c:5230002b542c1000}{1c:10}{0b:08}【 ジェシカ 】{0b:09}\nうん、そうそう。\n全くその通りだね!{0c:2b542c09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5230002b542c1000}{1c:10}{0b:08}【 Jessica 】{0b:09}\nYeah, yeah. That's exactly right!{0c:2b542c09fe}",
+   "status": "done",
+   "tl": "Yeah, yeah. That's exactly right!"
   },
   {
    "id": "RES#706:e873",
@@ -669,8 +692,9 @@
    "jp": "{1c:13}{0b:08}{e080} ジェシカ {e081}{0b:09}\nそ、それは・・・\nな、仲間を助けたいからに\nきまってるじゃん・・・{0c:2b542c09fe}",
    "read": "{1c:13}{0b:08}【 ジェシカ 】{0b:09}\nそ、それは・・・\nな、仲間を助けたいからに\nきまってるじゃん・・・{0c:2b542c09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Jessica 】{0b:09}\nTh-that's... To help my f-friends,\nobviously...{0c:2b542c09fe}",
+   "status": "done",
+   "tl": "Th-that's... To help my f-friends, obviously..."
   },
   {
    "id": "RES#706:e946",
@@ -2082,8 +2106,9 @@
    "jp": "{1c:1f}{0b:08}{e080} シャルン {e081}{0b:09}\nもう!{0c:fe}",
    "read": "{1c:1f}{0b:08}【 シャルン 】{0b:09}\nもう!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}{0b:08}【 Scharn 】{0b:09}\nOh, stop it!{0c:fe}",
+   "status": "done",
+   "tl": "Oh, stop it!"
   },
   {
    "id": "RES#706:107ab",

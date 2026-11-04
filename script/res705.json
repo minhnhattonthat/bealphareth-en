@@ -41,8 +41,9 @@
    "jp": "{1c:10}{0b:08}{e080} {e081}{e082}{03}ティアラ {e083}{0b:09}\n{02}そこも駄目でしたか・{07:05}・{07:05}・{07:14}{1a}わかりました。\nでは、{e084}日からは下の{e085}{e086}の\n{e087}{e088}をお願いします。{07:07}{1a}{e084}日の昼、{03}アングル{02}さんという方が\n出発されますので、\n途中までその方と同行して下さい。{1a}出発は{e084}日の{01}14時{02}、\nそれまでお休み下さい。{0c:fe}",
    "read": "{1c:10}{0b:08}【 司祭{03}ティアラ 】{0b:09}\n{02}そこも駄目でしたか・{07:05}・{07:05}・{07:14}{1a}わかりました。\nでは、明日からは下の階層の\n探索をお願いします。{07:07}{1a}明日の昼、{03}アングル{02}さんという方が\n出発されますので、\n途中までその方と同行して下さい。{1a}出発は明日の{01}14時{02}、\nそれまでお休み下さい。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nSo that place was no good either.{07:05}.{07:05}.{07:14}{1a}I understand. Then, starting tomorrow,\nplease search the lower floors.{07:07}{1a}Tomorrow at midday, a man named\nAngle-san will be setting out, so please\ngo with him part of the way.{1a}He leaves at 14:00 tomorrow. Please\nrest until then.{0c:fe}",
+   "status": "done",
+   "tl": "So that place was no good either.[1].[2].[3] // I understand. Then, starting tomorrow, please search the lower floors.[4] // Tomorrow at midday, a man named Angle-san will be setting out, so please go with him part of the way. // He leaves at 14:00 tomorrow. Please rest until then."
   },
   {
    "id": "RES#705:140d2",
@@ -86,8 +87,9 @@
    "jp": "{0b:08}{e080} 戦士アングル {e083}{0b:09}\nやあ、君が{10}かい。{1a}私の{e08b}前はアングル、\nアスラ・ファエル最強の戦士、\nカルス・バスティードの英雄だ。{0c:fe}",
    "read": "{0b:08}【 戦士アングル 】{0b:09}\nやあ、君が{10}かい。{1a}私の名前はアングル、\nアスラ・ファエル最強の戦士、\nカルス・バスティードの英雄だ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Angle the Warrior 】{0b:09}\nAh, so you're {10}.{1a}My name is Angle, the strongest warrior\nin Asla Fael, the hero of Kars Bastide.{0c:fe}",
+   "status": "done",
+   "tl": "Ah, so you're [HERO]. // My name is Angle, the strongest warrior in Asla Fael, the hero of Kars Bastide."
   },
   {
    "id": "RES#705:143e6",
@@ -108,8 +110,9 @@
    "jp": "{0b:08}{e080} 自{e08e}最強の戦士アングル {e083}{0b:09}\n待ち合わせの時間に\n間に合ったことは評価しよう。{1a}だけど、僕のような偉大な戦士より\n遅れてくるのはどういうことだい?{1a}いや、君のその頭では\n自分の立場など分かるわけないか。\n無理なことを要求してすまない。{1a}私のように知性とたくましさを\n併せ持つ戦士なんて\nそうはいないのだからね。{0c:fe}",
    "read": "{0b:08}【 自称最強の戦士アングル 】{0b:09}\n待ち合わせの時間に\n間に合ったことは評価しよう。{1a}だけど、僕のような偉大な戦士より\n遅れてくるのはどういうことだい?{1a}いや、君のその頭では\n自分の立場など分かるわけないか。\n無理なことを要求してすまない。{1a}私のように知性とたくましさを\n併せ持つ戦士なんて\nそうはいないのだからね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Angle, Self-Styled Strongest 】{0b:09}\nI commend you for arriving on time.{1a}But how is it you come later than so\ngreat a warrior as I?{1a}No, no, with that head of yours, how\ncould you know your own station? I\napologize for asking the impossible.{1a}For warriors like me, blessed with both\nintellect and brawn, are few and far\nbetween, after all.{0c:fe}",
+   "status": "done",
+   "tl": "I commend you for arriving on time. // But how is it you come later than so great a warrior as I? // No, no, with that head of yours, how could you know your own station? I apologize for asking the impossible. // For warriors like me, blessed with both intellect and brawn, are few and far between, after all."
   },
   {
    "id": "RES#705:144d2",
@@ -130,8 +133,9 @@
    "jp": "{1c:10}{0b:08}{e080} {e081}{e082}ティアラ {e083}{0b:09}\nあの・・・アングルさん・・・{0c:2b5409fe}",
    "read": "{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nあの・・・アングルさん・・・{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nUm... Angle-san...{0c:2b5409fe}",
+   "status": "done",
+   "tl": "Um... Angle-san..."
   },
   {
    "id": "RES#705:1451f",
@@ -141,8 +145,9 @@
    "jp": "{0c:51081007}{0b:08}{e080} 自{e08e}最強の戦士アングル {e083}{0b:09}\nわかってるとも、シスター。\n私がこの子達を責任持って\n{e092}れていくよ。{1a}{0c:51081003}よし、じゃあついてきたまえ!{0c:2b5309fe}",
    "read": "{0c:51081007}{0b:08}【 自称最強の戦士アングル 】{0b:09}\nわかってるとも、シスター。\n私がこの子達を責任持って\n連れていくよ。{1a}{0c:51081003}よし、じゃあついてきたまえ!{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51081007}{0b:08}【 Angle, Self-Styled Strongest 】{0b:09}\nI know, I know, Sister. I shall take\nresponsibility for bringing these young\nones along.{1a}{0c:51081003}Very well, follow me!{0c:2b5309fe}",
+   "status": "done",
+   "tl": "I know, I know, Sister. I shall take responsibility for bringing these young ones along. // [1]Very well, follow me!"
   },
   {
    "id": "RES#705:1458b",
@@ -152,8 +157,9 @@
    "jp": "{1c:11}{0b:08}{e080} {e081}{e082}ティアラ {e083}{0b:09}\nすみません、{10}さん。{0c:fe}",
    "read": "{1c:11}{0b:08}【 司祭ティアラ 】{0b:09}\nすみません、{10}さん。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Priest Tiara 】{0b:09}\nI am sorry, {10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "I am sorry, [HERO]-san."
   },
   {
    "id": "RES#705:145b0",
@@ -197,8 +203,9 @@
    "jp": "{0b:08}{e080} 戦士アングル {e083}{0b:09}\nやあ、君が{10}かい。{1a}私の{e08b}前はアングル、\nアスラ・ファエル最強の戦士、\nカルス・バスティードの英雄だ。{0c:fe}",
    "read": "{0b:08}【 戦士アングル 】{0b:09}\nやあ、君が{10}かい。{1a}私の名前はアングル、\nアスラ・ファエル最強の戦士、\nカルス・バスティードの英雄だ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Angle the Warrior 】{0b:09}\nAh, so you're {10}.{1a}My name is Angle, the strongest warrior\nin Asla Fael, the hero of Kars Bastide.{0c:fe}",
+   "status": "done",
+   "tl": "Ah, so you're [HERO]. // My name is Angle, the strongest warrior in Asla Fael, the hero of Kars Bastide."
   },
   {
    "id": "RES#705:148be",
@@ -219,8 +226,9 @@
    "jp": "{0b:08}{e080} 自{e08e}最強の戦士アングル {e083}{0b:09}\n臆さずに来たことは評価しよう。{1a}だけど、僕のような偉大な戦士を\n3分16秒も待たすというのは\nどういうことだい?{1a}いや、君のその頭では\n自分の立場など分かるわけないか。\n無理なことを要求してすまない。{1a}私のように知性とたくましさを\n併せ持つ戦士なんて\nそうはいないのだからね。{0c:fe}",
    "read": "{0b:08}【 自称最強の戦士アングル 】{0b:09}\n臆さずに来たことは評価しよう。{1a}だけど、僕のような偉大な戦士を\n3分16秒も待たすというのは\nどういうことだい?{1a}いや、君のその頭では\n自分の立場など分かるわけないか。\n無理なことを要求してすまない。{1a}私のように知性とたくましさを\n併せ持つ戦士なんて\nそうはいないのだからね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Angle, Self-Styled Strongest 】{0b:09}\nI commend you for coming without fear.{1a}But how is it you keep so great a\nwarrior as I waiting for 3 minutes and 16\nseconds?{1a}No, no, with that head of yours, how\ncould you know your own station? I\napologize for asking the impossible.{1a}For warriors like me, blessed with both\nintellect and brawn, are few and far\nbetween, after all.{0c:fe}",
+   "status": "done",
+   "tl": "I commend you for coming without fear. // But how is it you keep so great a warrior as I waiting for 3 minutes and 16 seconds? // No, no, with that head of yours, how could you know your own station? I apologize for asking the impossible. // For warriors like me, blessed with both intellect and brawn, are few and far between, after all."
   },
   {
    "id": "RES#705:149a8",
@@ -241,8 +249,9 @@
    "jp": "{1c:10}{0b:08}{e080} {e081}{e082}ティアラ {e083}{0b:09}\nあの・・・アングルさん・・・{0c:2b5409fe}",
    "read": "{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nあの・・・アングルさん・・・{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nUm... Angle-san...{0c:2b5409fe}",
+   "status": "done",
+   "tl": "Um... Angle-san..."
   },
   {
    "id": "RES#705:149f5",
@@ -252,8 +261,9 @@
    "jp": "{0c:51081007}{0b:08}{e080} 自{e08e}最強の戦士アングル {e083}{0b:09}\nわかってるとも、シスター。\n私がこの子達を責任持って\n{e092}れていくよ。{1a}{0c:51081003}よし、じゃあついてきたまえ!{0c:2b5309fe}",
    "read": "{0c:51081007}{0b:08}【 自称最強の戦士アングル 】{0b:09}\nわかってるとも、シスター。\n私がこの子達を責任持って\n連れていくよ。{1a}{0c:51081003}よし、じゃあついてきたまえ!{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51081007}{0b:08}【 Angle, Self-Styled Strongest 】{0b:09}\nI know, I know, Sister. I shall take\nresponsibility for bringing these young\nones along.{1a}{0c:51081003}Very well, follow me!{0c:2b5309fe}",
+   "status": "done",
+   "tl": "I know, I know, Sister. I shall take responsibility for bringing these young ones along. // [1]Very well, follow me!"
   },
   {
    "id": "RES#705:14a61",
@@ -263,8 +273,9 @@
    "jp": "{1c:11}{0b:08}{e080} {e081}{e082}ティアラ {e083}{0b:09}\nすみません、{10}さん。{0c:fe}",
    "read": "{1c:11}{0b:08}【 司祭ティアラ 】{0b:09}\nすみません、{10}さん。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Priest Tiara 】{0b:09}\nI am sorry, {10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "I am sorry, [HERO]-san."
   },
   {
    "id": "RES#705:14a86",

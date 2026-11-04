@@ -41,8 +41,9 @@
    "jp": "{0b:08}{e080} {e081}りかかった男A {e082}{0b:09}\nおう、若いの。\nちょうどよかった。{1a}俺達が頼むのも変だが、\nティアラちゃんの所に\n顔を出してくれねえか?{0c:2b5409fe}",
    "read": "{0b:08}【 通りかかった男A 】{0b:09}\nおう、若いの。\nちょうどよかった。{1a}俺達が頼むのも変だが、\nティアラちゃんの所に\n顔を出してくれねえか?{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Passerby A 】{0b:09}\nHey, young'un. Good timing.{1a}Funny us askin', but could ya drop by and\nsee Tiara-chan?{0c:2b5409fe}",
+   "status": "done",
+   "tl": "Hey, young'un. Good timing. // Funny us askin', but could ya drop by and see Tiara-chan?"
   },
   {
    "id": "RES#362:14b3d",
@@ -52,8 +53,9 @@
    "jp": "{0b:08}{e080} {e081}りかかった男B {e082}{0b:09}\nちょっと手を貸してやって\nほしいんだ。{0c:2b5309fe}",
    "read": "{0b:08}【 通りかかった男B 】{0b:09}\nちょっと手を貸してやって\nほしいんだ。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Passerby B 】{0b:09}\nWe'd like ya to lend her a hand.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "We'd like ya to lend her a hand."
   },
   {
    "id": "RES#362:14b70",
@@ -63,8 +65,9 @@
    "jp": "{0b:08}{e080} {e081}りかかった男A {e082}{0b:09}\n無理強いはしねえが、\nま、よろしくたのむわ。\nじゃあな。{0c:fe}",
    "read": "{0b:08}【 通りかかった男A 】{0b:09}\n無理強いはしねえが、\nま、よろしくたのむわ。\nじゃあな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Passerby A 】{0b:09}\nAin't gonna force ya, but, well, we're\ncountin' on ya. See ya.{0c:fe}",
+   "status": "done",
+   "tl": "Ain't gonna force ya, but, well, we're countin' on ya. See ya."
   },
   {
    "id": "RES#362:14baa",
@@ -85,8 +88,9 @@
    "jp": "{0c:28001000}{1c:26}{0b:08}{e080} ルカ {e082}{0b:09}\n{e084}{e085}で何かあったのでしょうか・・・{0c:021101}",
    "read": "{0c:28001000}{1c:26}{0b:08}【 ルカ 】{0b:09}\n教会で何かあったのでしょうか・・・{0c:021101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:28001000}{1c:26}{0b:08}【 Luca 】{0b:09}\nHas something happened at the\nChurch...?{0c:021101}",
+   "status": "done",
+   "tl": "Has something happened at the Church...?"
   },
   {
    "id": "RES#362:14c66",
@@ -107,8 +111,9 @@
    "jp": "{0c:28001000}{1c:27}{0b:08}{e080} サラ {e082}{0b:09}\nティアラさんに\n何かあったのかな・・・{1a}早く行ってみようよ。\nバルデスさんの言{e086}も\n伝えなきゃいけないし。{0c:020f01}",
    "read": "{0c:28001000}{1c:27}{0b:08}【 サラ 】{0b:09}\nティアラさんに\n何かあったのかな・・・{1a}早く行ってみようよ。\nバルデスさんの言葉も\n伝えなきゃいけないし。{0c:020f01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:28001000}{1c:27}{0b:08}【 Sara 】{0b:09}\nI wonder if something happened to\nTiara-san...{1a}Let's hurry over. We have to pass on\nValdes-san's words, too.{0c:020f01}",
+   "status": "done",
+   "tl": "I wonder if something happened to Tiara-san... // Let's hurry over. We have to pass on Valdes-san's words, too."
   },
   {
    "id": "RES#362:14ccb",
@@ -129,8 +134,9 @@
    "jp": "{1c:22}{0b:08}{e080} イヴ {e082}{0b:09}\n{e084}{e085}か・・・\nあまり{e087}居したくない所ね。{1a}{0c:28001000}ま、伝言もあるし、\nさっさと行って終わりにしましょ。{0c:020d01}",
    "read": "{1c:22}{0b:08}【 イヴ 】{0b:09}\n教会か・・・\nあまり長居したくない所ね。{1a}{0c:28001000}ま、伝言もあるし、\nさっさと行って終わりにしましょ。{0c:020d01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:22}{0b:08}【 Eve 】{0b:09}\nThe Church, is it... Not a place I care to\nlinger.{1a}{0c:28001000}Well, we do have that message. Let's go\nand get it over with.{0c:020d01}",
+   "status": "done",
+   "tl": "The Church, is it... Not a place I care to linger. // [1]Well, we do have that message. Let's go and get it over with."
   },
   {
    "id": "RES#362:14d2b",
@@ -151,8 +157,9 @@
    "jp": "{1c:1c}{0b:08}{e080} シャルン {e082}{0b:09}\n{e084}{e085}で何かあったのかな・・・{1a}{0c:28001000}ちょうどバルデスさんから\n伝言頼まれてたところだし、\n早く行ってみようよ。{0c:020b01}",
    "read": "{1c:1c}{0b:08}【 シャルン 】{0b:09}\n教会で何かあったのかな・・・{1a}{0c:28001000}ちょうどバルデスさんから\n伝言頼まれてたところだし、\n早く行ってみようよ。{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Scharn 】{0b:09}\nI wonder if something happened at the\nChurch...{1a}{0c:28001000}Valdes-san just gave us that message\nto deliver anyway, so let's hurry over!{0c:020b01}",
+   "status": "done",
+   "tl": "I wonder if something happened at the Church... // [1]Valdes-san just gave us that message to deliver anyway, so let's hurry over!"
   },
   {
    "id": "RES#362:14d93",
@@ -173,8 +180,9 @@
    "jp": "{1c:14}{0b:08}{e080} アーサー {e082}{0b:09}\n何があったんだろう・・・{1a}{0c:28001000}ちょうどバルデスさんから\n伝言を頼まれてたところだし、\n早く行ってみよう!{0c:020901}",
    "read": "{1c:14}{0b:08}【 アーサー 】{0b:09}\n何があったんだろう・・・{1a}{0c:28001000}ちょうどバルデスさんから\n伝言を頼まれてたところだし、\n早く行ってみよう!{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Arthur 】{0b:09}\nI wonder what happened...{1a}{0c:28001000}We do have that message from\nValdes-san to deliver. Let's hurry there!{0c:020901}",
+   "status": "done",
+   "tl": "I wonder what happened... // [1]We do have that message from Valdes-san to deliver. Let's hurry there!"
   },
   {
    "id": "RES#362:14df8",
@@ -195,8 +203,9 @@
    "jp": "{1c:17}{0b:08}{e080} パスカ {e082}{0b:09}\n{e084}{e085}で何かあったのかな・・・{1a}{0c:28001000}とにかく行ってみようぜ。\nおっさんの伝言も\n伝えなきゃいけねえしよ。{0c:020701}",
    "read": "{1c:17}{0b:08}【 パスカ 】{0b:09}\n教会で何かあったのかな・・・{1a}{0c:28001000}とにかく行ってみようぜ。\nおっさんの伝言も\n伝えなきゃいけねえしよ。{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Pasca 】{0b:09}\nSomethin' happen at the Church, I\nwonder...{1a}{0c:28001000}Anyway, let's go see. Gotta pass on the\nold guy's message too.{0c:020701}",
+   "status": "done",
+   "tl": "Somethin' happen at the Church, I wonder... // [1]Anyway, let's go see. Gotta pass on the old guy's message too."
   },
   {
    "id": "RES#362:14e59",
@@ -217,8 +226,9 @@
    "jp": "{0c:28001000}{1c:1e}{0b:08}{e080} ジェシカ {e082}{0b:09}\nなんだろね。\nとにかく行ってみよっか。{1a}おっさんの伝言も\n伝えなきゃいけないし。{0c:020501}",
    "read": "{0c:28001000}{1c:1e}{0b:08}【 ジェシカ 】{0b:09}\nなんだろね。\nとにかく行ってみよっか。{1a}おっさんの伝言も\n伝えなきゃいけないし。{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:28001000}{1c:1e}{0b:08}【 Jessica 】{0b:09}\nWonder what it is. Let's just go see,\nhuh?{1a}We've gotta deliver the old guy's\nmessage anyway.{0c:020501}",
+   "status": "done",
+   "tl": "Wonder what it is. Let's just go see, huh? // We've gotta deliver the old guy's message anyway."
   },
   {
    "id": "RES#362:14eaf",
@@ -239,8 +249,9 @@
    "jp": "{0c:28001000}{1c:11}{0b:08}{e080} アッシュ {e082}{0b:09}\n行っていいよな、{10}。\nバルデスさんからも\nたのまれてるもんな。{0c:020301}",
    "read": "{0c:28001000}{1c:11}{0b:08}【 アッシュ 】{0b:09}\n行っていいよな、{10}。\nバルデスさんからも\nたのまれてるもんな。{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:28001000}{1c:11}{0b:08}【 Ash 】{0b:09}\nWe should go, right, {10}?\nValdes-san asked us to, too, y'know.{0c:020301}",
+   "status": "done",
+   "tl": "We should go, right, [HERO]? Valdes-san asked us to, too, y'know."
   },
   {
    "id": "RES#362:14efb",
@@ -261,8 +272,9 @@
    "jp": "{0c:28001000}{1c:25}{0b:08}{e080} ノエル {e082}{0b:09}\n行ってみましょ、{10}。{0c:fe}",
    "read": "{0c:28001000}{1c:25}{0b:08}【 ノエル 】{0b:09}\n行ってみましょ、{10}。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:28001000}{1c:25}{0b:08}【 Noel 】{0b:09}\nLet's go see, {10}.{0c:fe}",
+   "status": "done",
+   "tl": "Let's go see, [HERO]."
   },
   {
    "id": "RES#362:14f2d",
@@ -306,8 +318,9 @@
    "jp": "{0c:28001000}{1c:24}{0b:08}{e080} ディアス {e082}{0b:09}\n行くなら1人で行け。{0c:fe}",
    "read": "{0c:28001000}{1c:24}{0b:08}【 ディアス 】{0b:09}\n行くなら1人で行け。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:28001000}{1c:24}{0b:08}【 Dias 】{0b:09}\nIf you go, go alone.{0c:fe}",
+   "status": "done",
+   "tl": "If you go, go alone."
   },
   {
    "id": "RES#362:14f90",
@@ -328,8 +341,9 @@
    "jp": "{0c:28001000}{1c:21}ちょっと用事を思い出しました。\n失礼しますね。{0c:fe}",
    "read": "{0c:28001000}{1c:21}ちょっと用事を思い出しました。\n失礼しますね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:28001000}{1c:21}I have just remembered an errand. If you\nwill excuse me.{0c:fe}",
+   "status": "done",
+   "tl": "I have just remembered an errand. If you will excuse me."
   },
   {
    "id": "RES#362:14fc4",
@@ -361,8 +375,9 @@
    "jp": "{1c:28}{0b:08}{e080} {e089}{e08a}ティアラ {e082}{0b:09}\nそうですか・・・\nバルデスさんとクムランさんは・・・{0c:fe}",
    "read": "{1c:28}{0b:08}【 司祭ティアラ 】{0b:09}\nそうですか・・・\nバルデスさんとクムランさんは・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:28}{0b:08}【 Priest Tiara 】{0b:09}\nI see... So Valdes-san and Qumran-san\nare...{0c:fe}",
+   "status": "done",
+   "tl": "I see... So Valdes-san and Qumran-san are..."
   },
   {
    "id": "RES#362:15431",
@@ -383,8 +398,9 @@
    "jp": "{1c:2a}わかりました。\nわざわざありがとうございます。{0c:fe}",
    "read": "{1c:2a}わかりました。\nわざわざありがとうございます。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:2a}I understand. Thank you for going to the\ntrouble.{0c:fe}",
+   "status": "done",
+   "tl": "I understand. Thank you for going to the trouble."
   },
   {
    "id": "RES#362:1545a",
@@ -405,8 +421,9 @@
    "jp": "{1c:29}皆さんにお願いがあります。{1a}ロレンツォさんという方の\n行方を{e08b}していただきたいのです。{0c:fe}",
    "read": "{1c:29}皆さんにお願いがあります。{1a}ロレンツォさんという方の\n行方を探していただきたいのです。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:29}I have a request of you all.{1a}I would ask you, please, to search for a\nman named Lorenzo-san.{0c:fe}",
+   "status": "done",
+   "tl": "I have a request of you all. // I would ask you, please, to search for a man named Lorenzo-san."
   },
   {
    "id": "RES#362:1549f",
@@ -427,8 +444,9 @@
    "jp": "{1c:22}{0b:08}{e080} イヴ {e082}{0b:09}\nただの{e08c}ね人でわざわざ{e08d}んだの?{0c:2b5309fe}",
    "read": "{1c:22}{0b:08}【 イヴ 】{0b:09}\nただの尋ね人でわざわざ呼んだの?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:22}{0b:08}【 Eve 】{0b:09}\nYou called us all the way here over a\nmissing person?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "You called us all the way here over a missing person?"
   },
   {
    "id": "RES#362:154da",
@@ -450,8 +468,9 @@
    "jp": "{0c:524e4d}{1c:22}{0b:08}{e080} イヴ {e082}{0b:09}\nここがフツーの平{e08e}な町だったら\n話は分かるけど、\n{e08f}にも『棺{e091}』ってよばれてる町よ。{1a}大の男の1人や2人\nいなくなったところで\n騒ぐ必要なんてあるのかしら。{0c:2b5309fe}",
    "read": "{0c:524e4d}{1c:22}{0b:08}【 イヴ 】{0b:09}\nここがフツーの平和な町だったら\n話は分かるけど、\n仮にも『棺桶』ってよばれてる町よ。{1a}大の男の1人や2人\nいなくなったところで\n騒ぐ必要なんてあるのかしら。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524e4d}{1c:22}{0b:08}【 Eve 】{0b:09}\nIn a nice, ordinary, peaceful town, I could\nunderstand. But this town is called the\n'Coffin', you know.{1a}One or two grown men go missing, and is\nthat really worth a fuss, I wonder.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "In a nice, ordinary, peaceful town, I could understand. But this town is called the 'Coffin', you know. // One or two grown men go missing, and is that really worth a fuss, I wonder."
   },
   {
    "id": "RES#362:15585",
@@ -461,8 +480,9 @@
    "jp": "{1c:28}{0b:08}{e080} {e089}{e08a}ティアラ {e082}{0b:09}\n健康な方なら心配は\nいらないかもしれませんが、\nロレンツォさんのお体は、{1a}皆さんが来られる1{e095}{e096}前に\n{e097}こったある事故が原因で\nほとんど自由が利きません。\n今は歩くだけで激痛が走るほどです。{0c:2b5809fe}",
    "read": "{1c:28}{0b:08}【 司祭ティアラ 】{0b:09}\n健康な方なら心配は\nいらないかもしれませんが、\nロレンツォさんのお体は、{1a}皆さんが来られる1年半前に\n起こったある事故が原因で\nほとんど自由が利きません。\n今は歩くだけで激痛が走るほどです。{0c:2b5809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:28}{0b:08}【 Priest Tiara 】{0b:09}\nIf he were in good health, there might be\nno cause for worry, but Lorenzo-san's\nbody,{1a}because of a certain accident a year and\na half before you all came, scarcely\nobeys him. Now even walking brings him\nterrible pain.{0c:2b5809fe}",
+   "status": "done",
+   "tl": "If he were in good health, there might be no cause for worry, but Lorenzo-san's body, // because of a certain accident a year and a half before you all came, scarcely obeys him. Now even walking brings him terrible pain."
   },
   {
    "id": "RES#362:1561e",
@@ -472,8 +492,9 @@
    "jp": "{0c:512a}{1c:1b}{0b:08}{e080} シャルン {e082}{0b:09}\nそれって{e09b}室の人と同じ怪我なの?{0c:2b5309fe}",
    "read": "{0c:512a}{1c:1b}{0b:08}【 シャルン 】{0b:09}\nそれって病室の人と同じ怪我なの?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:512a}{1c:1b}{0b:08}【 Scharn 】{0b:09}\nIs that the same injury as the people in\nthe sickroom?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Is that the same injury as the people in the sickroom?"
   },
   {
    "id": "RES#362:15653",
@@ -483,8 +504,9 @@
    "jp": "{0c:5114}{1c:29}{0b:08}{e080} {e089}{e08a}ティアラ {e082}{0b:09}\nはい・・・{1a}あの事故にあった方{e09d}には\nどんな{e09e}{e09f}魔{e0a0}も\nどんなお{e0a1}も効きません・・・{1a}手足のしびれも痛みもひどく、\nとても{e0a2}を{e0a3}れる{e0a4}{e0a5}では\nないのです。{1a}どうしてそんなお体で\n{e0a6}{e0a7}に入られたのか、\nどなたも理由は聞いていませんが、{1a}{0c:5115}とにかく、今は一刻でも早く\nお{e08b}しして{e0a9}れ戻さなければ、\nお命が心配なのです・・・{0c:2b5509fe}",
    "read": "{0c:5114}{1c:29}{0b:08}【 司祭ティアラ 】{0b:09}\nはい・・・{1a}あの事故にあった方々には\nどんな治癒魔法も\nどんなお薬も効きません・・・{1a}手足のしびれも痛みもひどく、\nとても剣を振れる状態では\nないのです。{1a}どうしてそんなお体で\n遺跡に入られたのか、\nどなたも理由は聞いていませんが、{1a}{0c:5115}とにかく、今は一刻でも早く\nお探しして連れ戻さなければ、\nお命が心配なのです・・・{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5114}{1c:29}{0b:08}【 Priest Tiara 】{0b:09}\nYes...{1a}For those caught in that accident, no\nhealing magic and no medicine has any\neffect...{1a}The numbness and pain in his limbs are\nsevere. He is in no condition to swing a\nsword.{1a}No one has heard why he entered the\nruins in such a state,{1a}{0c:5115}but in any case, unless we find him and\nbring him back as soon as we can, I fear\nfor his life...{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Yes... // For those caught in that accident, no healing magic and no medicine has any effect... // The numbness and pain in his limbs are severe. He is in no condition to swing a sword. // No one has heard why he entered the ruins in such a state, // [1]but in any case, unless we find him and bring him back as soon as we can, I fear for his life..."
   },
   {
    "id": "RES#362:15739",
@@ -494,8 +516,9 @@
    "jp": "{1c:17}{0b:08}{e080} パスカ {e082}{0b:09}\nで、オレ達に声がかかったわけか。{0c:2b5309fe}",
    "read": "{1c:17}{0b:08}【 パスカ 】{0b:09}\nで、オレ達に声がかかったわけか。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Pasca 】{0b:09}\nSo that's why ya called on us.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "So that's why ya called on us."
   },
   {
    "id": "RES#362:15766",
@@ -505,8 +528,9 @@
    "jp": "{0c:521612}{1c:2a}{0b:08}{e080} {e089}{e08a}ティアラ {e082}{0b:09}\nはい。{1a}他にも何人かの方に\n手伝っていただいているのですが、\n地下{e0a6}{e0a7}はあまりに{e0aa}大です。{1a}ロレンツォさんの立ち寄りそうな\n場所に限定しても\nまだ人手が足りません。{1a}そこで、皆さんには\n『{e0ab}の{e0ac}{e0ad}』と『{e0ae}の{e0ac}{e0ad}』\nそして『{e0af}の{e0ac}{e0ad}』という\n3つの建物を手分けして{1a}{e08b}していただけないかと\n思っています。{1a}{0c:521712}どうか皆さんのお力を\nお貸し下さい。\nあまり多くは用意出来ないかも\nしれませんが、お礼も用意します。{0c:2b5509fe}",
    "read": "{0c:521612}{1c:2a}{0b:08}【 司祭ティアラ 】{0b:09}\nはい。{1a}他にも何人かの方に\n手伝っていただいているのですが、\n地下遺跡はあまりに広大です。{1a}ロレンツォさんの立ち寄りそうな\n場所に限定しても\nまだ人手が足りません。{1a}そこで、皆さんには\n『西の斎殿』と『東の斎殿』\nそして『北の斎殿』という\n3つの建物を手分けして{1a}探していただけないかと\n思っています。{1a}{0c:521712}どうか皆さんのお力を\nお貸し下さい。\nあまり多くは用意出来ないかも\nしれませんが、お礼も用意します。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521612}{1c:2a}{0b:08}【 Priest Tiara 】{0b:09}\nYes.{1a}Several others are helping, but the\nunderground ruins are simply too vast.{1a}Even keeping to the places Lorenzo-san\nmight stop by, we still do not have\nenough hands.{1a}So I was hoping you might divide among\nyourselves three buildings, the 'West\nSanctum', the 'East Sanctum' and the\n'North Sanctum',{1a}and search them for him.{1a}{0c:521712}Please, lend us your strength. I may not\nbe able to offer very much, but I will\nprepare a reward.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Yes. // Several others are helping, but the underground ruins are simply too vast. // Even keeping to the places Lorenzo-san might stop by, we still do not have enough hands. // So I was hoping you might divide among yourselves three buildings, the 'West Sanctum', the 'East Sanctum' and the 'North Sanctum', // and search them for him. // [1]Please, lend us your strength. I may not be able to offer very much, but I will prepare a reward."
   },
   {
    "id": "RES#362:15893",
@@ -516,8 +540,9 @@
    "jp": "{0c:511c}{1c:17}{0b:08}{e080} パスカ {e082}{0b:09}\nいらねえよ、そんなの。{0c:2b5609fe}",
    "read": "{0c:511c}{1c:17}{0b:08}【 パスカ 】{0b:09}\nいらねえよ、そんなの。{0c:2b5609fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:511c}{1c:17}{0b:08}【 Pasca 】{0b:09}\nForget it, we don't need that.{0c:2b5609fe}",
+   "status": "done",
+   "tl": "Forget it, we don't need that."
   },
   {
    "id": "RES#362:158bb",
@@ -527,8 +552,9 @@
    "jp": "{0c:2b58235127}{0c:5139}{1c:20}{0b:08}{e080} ジェシカ {e082}{0b:09}\nなに勝手に言ってんのよ。\nくれるって言ってるんだから\nもらえばいいのに。{0c:2b5709fe}",
    "read": "{0c:2b58235127}{0c:5139}{1c:20}{0b:08}【 ジェシカ 】{0b:09}\nなに勝手に言ってんのよ。\nくれるって言ってるんだから\nもらえばいいのに。{0c:2b5709fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b58235127}{0c:5139}{1c:20}{0b:08}【 Jessica 】{0b:09}\nWho asked you? She's offering, so why\nnot just take it?{0c:2b5709fe}",
+   "status": "done",
+   "tl": "Who asked you? She's offering, so why not just take it?"
   },
   {
    "id": "RES#362:15908",
@@ -538,8 +564,9 @@
    "jp": "{0c:2348520404520805}{1c:15}{0b:08}{e080} アーサー {e082}{0b:09}\n何を言ってるんだ!\n君はこんな時にお{e0b1}を要求するのか?\n人の命がかかってるんだぞ!{0c:2b5609fe}",
    "read": "{0c:2348520404520805}{1c:15}{0b:08}【 アーサー 】{0b:09}\n何を言ってるんだ!\n君はこんな時にお金を要求するのか?\n人の命がかかってるんだぞ!{0c:2b5609fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2348520404520805}{1c:15}{0b:08}【 Arthur 】{0b:09}\nWhat are you saying! You would demand\nmoney at a time like this? A person's life\nis at stake!{0c:2b5609fe}",
+   "status": "done",
+   "tl": "What are you saying! You would demand money at a time like this? A person's life is at stake!"
   },
   {
    "id": "RES#362:15963",
@@ -549,8 +576,9 @@
    "jp": "{0c:513a}{0c:2b50232b561000}{0c:2b512c232b5610002b522c232b561000}{1c:1f}{0b:08}{e080} ジェシカ {e082}{0b:09}\nだから?{1a}相手は貴{e0b2}でしょ?\n{e0b1}でももらわなきゃ\nやってられないよ。{0c:2b5709fe}",
    "read": "{0c:513a}{0c:2b50232b561000}{0c:2b512c232b5610002b522c232b561000}{1c:1f}{0b:08}【 ジェシカ 】{0b:09}\nだから?{1a}相手は貴族でしょ?\n金でももらわなきゃ\nやってられないよ。{0c:2b5709fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:513a}{0c:2b50232b561000}{0c:2b512c232b5610002b522c232b561000}{1c:1f}{0b:08}【 Jessica 】{0b:09}\nSo?{1a}We're talking about a noble, right? I can't\nbe bothered without getting paid, you\nknow that?{0c:2b5709fe}",
+   "status": "done",
+   "tl": "So? // We're talking about a noble, right? I can't be bothered without getting paid, you know that?"
   },
   {
    "id": "RES#362:159c7",
@@ -572,8 +600,9 @@
    "jp": "{0c:511d}{1c:18}{0b:08}{e080} パスカ {e082}{0b:09}\nなあ、どうして貴{e0b2}だって\nわかったんだ?{0c:2b5909fe}",
    "read": "{0c:511d}{1c:18}{0b:08}【 パスカ 】{0b:09}\nなあ、どうして貴族だって\nわかったんだ?{0c:2b5909fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:511d}{1c:18}{0b:08}【 Pasca 】{0b:09}\nSay, how'd ya know he's a noble?{0c:2b5909fe}",
+   "status": "done",
+   "tl": "Say, how'd ya know he's a noble?"
   },
   {
    "id": "RES#362:15a22",
@@ -583,8 +612,9 @@
    "jp": "{1c:22}{0b:08}{e080} イヴ {e082}{0b:09}\nロレンツォって{e0b3}前は、\nバイレステでは貴{e0b2}にしか\n使わない{e0b3}前だからね。{0c:2b5809fe}",
    "read": "{1c:22}{0b:08}【 イヴ 】{0b:09}\nロレンツォって名前は、\nバイレステでは貴族にしか\n使わない名前だからね。{0c:2b5809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:22}{0b:08}【 Eve 】{0b:09}\nIn Baileste, Lorenzo is a name only nobles\nuse, you know.{0c:2b5809fe}",
+   "status": "done",
+   "tl": "In Baileste, Lorenzo is a name only nobles use, you know."
   },
   {
    "id": "RES#362:15a67",
@@ -594,8 +624,9 @@
    "jp": "{0c:5128}{0c:2b50232b591000}{0c:2b512c232b5910002b522c232b591000}{1c:1b}{0b:08}{e080} シャルン {e082}{0b:09}\n珍しい{e0b3}前なの?{0c:2b5909fe}",
    "read": "{0c:5128}{0c:2b50232b591000}{0c:2b512c232b5910002b522c232b591000}{1c:1b}{0b:08}【 シャルン 】{0b:09}\n珍しい名前なの?{0c:2b5909fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5128}{0c:2b50232b591000}{0c:2b512c232b5910002b522c232b591000}{1c:1b}{0b:08}【 Scharn 】{0b:09}\nIs it a rare name?{0c:2b5909fe}",
+   "status": "done",
+   "tl": "Is it a rare name?"
   },
   {
    "id": "RES#362:15aac",
@@ -605,8 +636,9 @@
    "jp": "{1c:22}{0b:08}{e080} イヴ {e082}{0b:09}\n別に。\n貴{e0b2}の中ではどこにでもいる\nありふれた{e0b3}前だけど。{0c:2b5709fe}",
    "read": "{1c:22}{0b:08}【 イヴ 】{0b:09}\n別に。\n貴族の中ではどこにでもいる\nありふれた名前だけど。{0c:2b5709fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:22}{0b:08}【 Eve 】{0b:09}\nNot really. Among nobles it's common\nenough, the sort you find anywhere.{0c:2b5709fe}",
+   "status": "done",
+   "tl": "Not really. Among nobles it's common enough, the sort you find anywhere."
   },
   {
    "id": "RES#362:15ae7",
@@ -616,8 +648,9 @@
    "jp": "{1c:15}{0b:08}{e080} アーサー {e082}{0b:09}\nどうして君はそんなに貴{e0b2}を\n毛嫌いするんだ?{0c:2b5609fe}",
    "read": "{1c:15}{0b:08}【 アーサー 】{0b:09}\nどうして君はそんなに貴族を\n毛嫌いするんだ?{0c:2b5609fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Arthur 】{0b:09}\nWhy do you detest nobles so much?{0c:2b5609fe}",
+   "status": "done",
+   "tl": "Why do you detest nobles so much?"
   },
   {
    "id": "RES#362:15b1d",
@@ -638,8 +671,9 @@
    "jp": "{1c:20}{0b:08}{e080} ジェシカ {e082}{0b:09}\nどうしてって聞かれても、\n嫌いなもんはしょうがないでしょ。{0c:2b5709fe}",
    "read": "{1c:20}{0b:08}【 ジェシカ 】{0b:09}\nどうしてって聞かれても、\n嫌いなもんはしょうがないでしょ。{0c:2b5709fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Jessica 】{0b:09}\nYou can ask why all you want. I hate 'em,\nand that's that.{0c:2b5709fe}",
+   "status": "done",
+   "tl": "You can ask why all you want. I hate 'em, and that's that."
   },
   {
    "id": "RES#362:15b79",
@@ -649,8 +683,9 @@
    "jp": "{0c:520805}{1c:15}{0b:08}{e080} アーサー {e082}{0b:09}\nそんなのは答になってない!{0c:fe}",
    "read": "{0c:520805}{1c:15}{0b:08}【 アーサー 】{0b:09}\nそんなのは答になってない!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520805}{1c:15}{0b:08}【 Arthur 】{0b:09}\nThat's no answer!{0c:fe}",
+   "status": "done",
+   "tl": "That's no answer!"
   },
   {
    "id": "RES#362:15ba4",
@@ -671,8 +706,9 @@
    "jp": "{0c:513a}{1c:1d}{0b:08}{e080} ジェシカ {e082}{0b:09}\nうるさいなあ!\nあんたとは{e0b6}{e081}に喋って\nあげてるでしょ!!{0c:2b5809fe}",
    "read": "{0c:513a}{1c:1d}{0b:08}【 ジェシカ 】{0b:09}\nうるさいなあ!\nあんたとは普通に喋って\nあげてるでしょ!!{0c:2b5809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:513a}{1c:1d}{0b:08}【 Jessica 】{0b:09}\nGeez, shut up! I'm talking to you like a\nnormal person, aren't I!!{0c:2b5809fe}",
+   "status": "done",
+   "tl": "Geez, shut up! I'm talking to you like a normal person, aren't I!!"
   },
   {
    "id": "RES#362:15bf1",
@@ -682,8 +718,9 @@
    "jp": "{0c:5129}{1c:1b}{0b:08}{e080} シャルン {e082}{0b:09}\nジェシカ、\nなにイラついてるの?{0c:2b5609fe}",
    "read": "{0c:5129}{1c:1b}{0b:08}【 シャルン 】{0b:09}\nジェシカ、\nなにイラついてるの?{0c:2b5609fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5129}{1c:1b}{0b:08}【 Scharn 】{0b:09}\nJessica, why are you so worked up?{0c:2b5609fe}",
+   "status": "done",
+   "tl": "Jessica, why are you so worked up?"
   },
   {
    "id": "RES#362:15c22",
@@ -704,8 +741,9 @@
    "jp": "{1c:1d}{0b:08}{e080} ジェシカ {e082}{0b:09}\nべつに・・・{0c:fe}",
    "read": "{1c:1d}{0b:08}【 ジェシカ 】{0b:09}\nべつに・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}{0b:08}【 Jessica 】{0b:09}\nIt's nothing...{0c:fe}",
+   "status": "done",
+   "tl": "It's nothing..."
   },
   {
    "id": "RES#362:15c47",
@@ -726,8 +764,9 @@
    "jp": "{0c:2b53235118}{0c:5101}{1c:10}{0b:08}{e080} アッシュ {e082}{0b:09}\nあの・・・{07:05}いいかな。{1a}おれも貴{e0b2}のこと\nずっときらいだったし、\n今でもあんまり\n好きにはなれないけど、{1a}でも、アーサーも{10}も\nそんなに悪いやつじゃないだろ?{0c:020201}",
    "read": "{0c:2b53235118}{0c:5101}{1c:10}{0b:08}【 アッシュ 】{0b:09}\nあの・・・{07:05}いいかな。{1a}おれも貴族のこと\nずっときらいだったし、\n今でもあんまり\n好きにはなれないけど、{1a}でも、アーサーも{10}も\nそんなに悪いやつじゃないだろ?{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b53235118}{0c:5101}{1c:10}{0b:08}【 Ash 】{0b:09}\nUm...{07:05} can I say something?{1a}I always hated nobles too, and I still can't\nmuch like them,{1a}but Arthur and {10} aren't such\nbad people, right?{0c:020201}",
+   "status": "done",
+   "tl": "Um...[1] can I say something? // I always hated nobles too, and I still can't much like them, // but Arthur and [HERO] aren't such bad people, right?"
   },
   {
    "id": "RES#362:15cd1",
@@ -737,8 +776,9 @@
    "jp": "{0c:2b53235118}{0c:5101}{1c:10}{0b:08}{e080} アッシュ {e082}{0b:09}\nあの・・・{07:14}いいかな。{1a}おれも貴{e0b2}のこと\nずっときらいだったし、\n今でもあんまり\n好きにはなれないけど、{1a}でも、アーサーって\nそんなに悪いやつじゃないだろ?{0c:fe}",
    "read": "{0c:2b53235118}{0c:5101}{1c:10}{0b:08}【 アッシュ 】{0b:09}\nあの・・・{07:14}いいかな。{1a}おれも貴族のこと\nずっときらいだったし、\n今でもあんまり\n好きにはなれないけど、{1a}でも、アーサーって\nそんなに悪いやつじゃないだろ?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b53235118}{0c:5101}{1c:10}{0b:08}【 Ash 】{0b:09}\nUm...{07:14} can I say something?{1a}I always hated nobles too, and I still can't\nmuch like them,{1a}but Arthur isn't such a bad person,\nright?{0c:fe}",
+   "status": "done",
+   "tl": "Um...[1] can I say something? // I always hated nobles too, and I still can't much like them, // but Arthur isn't such a bad person, right?"
   },
   {
    "id": "RES#362:15d4a",
@@ -759,8 +799,9 @@
    "jp": "{0c:2b50232b541000}{0c:2b512c232b5410002b522c232b541000}{0c:520903}{1c:14}{0b:08}{e080} アーサー {e082}{0b:09}\nありがとう、アッシュ・・・{0c:2b5409fe}",
    "read": "{0c:2b50232b541000}{0c:2b512c232b5410002b522c232b541000}{0c:520903}{1c:14}{0b:08}【 アーサー 】{0b:09}\nありがとう、アッシュ・・・{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b50232b541000}{0c:2b512c232b5410002b522c232b541000}{0c:520903}{1c:14}{0b:08}【 Arthur 】{0b:09}\nThank you, Ash...{0c:2b5409fe}",
+   "status": "done",
+   "tl": "Thank you, Ash..."
   },
   {
    "id": "RES#362:15d99",
@@ -770,8 +811,9 @@
    "jp": "{0c:2b5523511e}{1c:10}{0b:08}{e080} アッシュ {e082}{0b:09}\nその人だってそうじゃないかな。\n{e085}ってみると意外といい人かも\nしれないよ。{0c:2b5909fe}",
    "read": "{0c:2b5523511e}{1c:10}{0b:08}【 アッシュ 】{0b:09}\nその人だってそうじゃないかな。\n会ってみると意外といい人かも\nしれないよ。{0c:2b5909fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5523511e}{1c:10}{0b:08}【 Ash 】{0b:09}\nI bet that man's the same. Once you\nmeet him, he might turn out nicer than\nyou'd think.{0c:2b5909fe}",
+   "status": "done",
+   "tl": "I bet that man's the same. Once you meet him, he might turn out nicer than you'd think."
   },
   {
    "id": "RES#362:15de4",
@@ -781,8 +823,9 @@
    "jp": "{0c:524e4d}{1c:22}{0b:08}{e080} イヴ {e082}{0b:09}\nもう死体になってるかも\nしれないけどね。{0c:2b5809fe}",
    "read": "{0c:524e4d}{1c:22}{0b:08}【 イヴ 】{0b:09}\nもう死体になってるかも\nしれないけどね。{0c:2b5809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524e4d}{1c:22}{0b:08}【 Eve 】{0b:09}\nHe might be a corpse by now, of course.{0c:2b5809fe}",
+   "status": "done",
+   "tl": "He might be a corpse by now, of course."
   },
   {
    "id": "RES#362:15e17",
@@ -792,8 +835,9 @@
    "jp": "{0c:5128}{1c:19}{0b:08}{e080} シャルン {e082}{0b:09}\nイヴ!{0c:2b5409fe}",
    "read": "{0c:5128}{1c:19}{0b:08}【 シャルン 】{0b:09}\nイヴ!{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5128}{1c:19}{0b:08}【 Scharn 】{0b:09}\nEve!{0c:2b5409fe}",
+   "status": "done",
+   "tl": "Eve!"
   },
   {
    "id": "RES#362:15e38",
@@ -803,8 +847,9 @@
    "jp": "{1c:11}{0b:08}{e080} アッシュ {e082}{0b:09}\nうまく言えないけど、\n身分とかで人を決めつけるのって\nやっぱりよくないと思うぞ。{1a}ちゃんとつきあってみれば、\nきっとおたがいのこと\n理解できると思うんだ。{1a}おれもこの町にくるまでは\n貴{e0b2}はみんな弱い者を苦しめる\n悪いやつだって思ってたけど、{1a}本当は身分とかってあんまり\n関係ないんじゃないかな。{0c:2b5909fe}",
    "read": "{1c:11}{0b:08}【 アッシュ 】{0b:09}\nうまく言えないけど、\n身分とかで人を決めつけるのって\nやっぱりよくないと思うぞ。{1a}ちゃんとつきあってみれば、\nきっとおたがいのこと\n理解できると思うんだ。{1a}おれもこの町にくるまでは\n貴族はみんな弱い者を苦しめる\n悪いやつだって思ってたけど、{1a}本当は身分とかってあんまり\n関係ないんじゃないかな。{0c:2b5909fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Ash 】{0b:09}\nI can't say it very well, but I don't think\nit's right to judge people by their\nstation and such.{1a}If you really get to know each other, I\nfigure you can understand one another.{1a}I thought the same before I came to this\ntown, that nobles were all bad people\nwho hurt the weak,{1a}but I guess station and such don't really\nmatter much.{0c:2b5909fe}",
+   "status": "done",
+   "tl": "I can't say it very well, but I don't think it's right to judge people by their station and such. // If you really get to know each other, I figure you can understand one another. // I thought the same before I came to this town, that nobles were all bad people who hurt the weak, // but I guess station and such don't really matter much."
   },
   {
    "id": "RES#362:15efc",
@@ -814,8 +859,9 @@
    "jp": "{0c:2b53235112}{0c:2b5523511d}{1c:22}{0b:08}{e080} イヴ {e082}{0b:09}\nでも、強い立場の人間ほど\n無邪気に人を傷つけるのも事実よね。{1a}フツーっていわれてる人間ほど、\n{e0b8}が揃うとただの暴君になるし。{1a}世の中はそんなに単純じゃないわ。\n他人を理解する事なんて\n永久に出来ないのと同じでね。{0c:2b5409fe}",
    "read": "{0c:2b53235112}{0c:2b5523511d}{1c:22}{0b:08}【 イヴ 】{0b:09}\nでも、強い立場の人間ほど\n無邪気に人を傷つけるのも事実よね。{1a}フツーっていわれてる人間ほど、\n数が揃うとただの暴君になるし。{1a}世の中はそんなに単純じゃないわ。\n他人を理解する事なんて\n永久に出来ないのと同じでね。{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b53235112}{0c:2b5523511d}{1c:22}{0b:08}【 Eve 】{0b:09}\nBut it's also true that the stronger\nsomeone's position, the more innocently\nthey wound others, isn't it.{1a}And the people they call ordinary turn\ninto plain tyrants once there are enough\nof them.{1a}The world isn't that simple. Just as no\none can ever truly understand another,\nyou know.{0c:2b5409fe}",
+   "status": "done",
+   "tl": "But it's also true that the stronger someone's position, the more innocently they wound others, isn't it. // And the people they call ordinary turn into plain tyrants once there are enough of them. // The world isn't that simple. Just as no one can ever truly understand another, you know."
   },
   {
    "id": "RES#362:15fae",
@@ -837,8 +883,9 @@
    "jp": "{1c:22}{0b:08}{e080} イヴ {e082}{0b:09}\nどうでもいいけど\nそろそろこの話題も飽きたわね。\n早く本題の方終わらせましょ。{1a}もらいたい人はもらえばいいし、\nもらいたくない人はもらわない。\nそれでいいじゃない、簡単でしょ?{1a}人は人、他人は他人、\n自分の好きなやり方でやれば\nいいんじゃないの?{0c:2b5709fe}",
    "read": "{1c:22}{0b:08}【 イヴ 】{0b:09}\nどうでもいいけど\nそろそろこの話題も飽きたわね。\n早く本題の方終わらせましょ。{1a}もらいたい人はもらえばいいし、\nもらいたくない人はもらわない。\nそれでいいじゃない、簡単でしょ?{1a}人は人、他人は他人、\n自分の好きなやり方でやれば\nいいんじゃないの?{0c:2b5709fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:22}{0b:08}【 Eve 】{0b:09}\nWell, whatever. I'm getting rather tired\nof this topic. Let's hurry and finish the\nreal business.{1a}Those who want the money can take it,\nand those who don't, don't. Isn't that\nfine? Simple, isn't it?{1a}To each their own. Do it however you\nlike, why don't you?{0c:2b5709fe}",
+   "status": "done",
+   "tl": "Well, whatever. I'm getting rather tired of this topic. Let's hurry and finish the real business. // Those who want the money can take it, and those who don't, don't. Isn't that fine? Simple, isn't it? // To each their own. Do it however you like, why don't you?"
   },
   {
    "id": "RES#362:16098",
@@ -848,8 +895,9 @@
    "jp": "{0c:510a}{1c:13}{0b:08}{e080} アーサー {e082}{0b:09}\nでも、それでは・・・{0c:2b5909fe}",
    "read": "{0c:510a}{1c:13}{0b:08}【 アーサー 】{0b:09}\nでも、それでは・・・{0c:2b5909fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:510a}{1c:13}{0b:08}【 Arthur 】{0b:09}\nBut then...{0c:2b5909fe}",
+   "status": "done",
+   "tl": "But then..."
   },
   {
    "id": "RES#362:160c0",
@@ -859,8 +907,9 @@
    "jp": "{1c:23}{0b:08}{e080} イヴ {e082}{0b:09}\nお{e0b1}が絡むのがそんなに嫌なの?\n{e0af}の人間って妙なところ\n頭が固いわね。{1a}それとも、他人が{e0b1}をもらってるのに\n自分はタダ働きってのがイヤなの?\n世間知らずのお坊ちゃんの割には\n{e0b1}に細かいのね。{1a}あなた達の目的は\nそのオジサンを{e08b}す事でしょ?\nなら、{e08b}す人間は大勢いた方が\nいいんじゃないの?{0c:2b5709fe}",
    "read": "{1c:23}{0b:08}【 イヴ 】{0b:09}\nお金が絡むのがそんなに嫌なの?\n北の人間って妙なところ\n頭が固いわね。{1a}それとも、他人が金をもらってるのに\n自分はタダ働きってのがイヤなの?\n世間知らずのお坊ちゃんの割には\n金に細かいのね。{1a}あなた達の目的は\nそのオジサンを探す事でしょ?\nなら、探す人間は大勢いた方が\nいいんじゃないの?{0c:2b5709fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:23}{0b:08}【 Eve 】{0b:09}\nDo you hate money being involved that\nmuch? You northerners are pigheaded in\nthe oddest places.{1a}Or is it that you hate working for free\nwhile others get paid? For a sheltered\nlittle rich boy, you're quite the\npenny-pincher.{1a}Your goal is to find this fellow, isn't it?\nThen isn't it better to have plenty of\npeople looking?{0c:2b5709fe}",
+   "status": "done",
+   "tl": "Do you hate money being involved that much? You northerners are pigheaded in the oddest places. // Or is it that you hate working for free while others get paid? For a sheltered little rich boy, you're quite the penny-pincher. // Your goal is to find this fellow, isn't it? Then isn't it better to have plenty of people looking?"
   },
   {
    "id": "RES#362:16196",
@@ -870,8 +919,9 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e082}{0b:09}\n確かにそうだけど・・・{0c:2b5909fe}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n確かにそうだけど・・・{0c:2b5909fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nThat's true, but...{0c:2b5909fe}",
+   "status": "done",
+   "tl": "That's true, but..."
   },
   {
    "id": "RES#362:161bc",
@@ -881,8 +931,9 @@
    "jp": "{1c:23}{0b:08}{e080} イヴ {e082}{0b:09}\n善意や情に期待するよりは\nよっぽど確実かもしれないわよ。{1a}お{e0b1}の分はきちんと\n働いてくれるんだから。{1a}それに、少なくともあたしは、\n誰かがあたしのために\nタダで働くなんていい迷惑だわ。{1a}後で恩着せがましく\n言われるのもイヤだし、\n恩人との感動の再{e085}なんて\n考えるだけでもうっとうしいし。{1a}{e0b1}さえ払えばすむ契約の方が\n後{e09d}気楽でいいじゃない。{0c:2b5809fe}",
    "read": "{1c:23}{0b:08}【 イヴ 】{0b:09}\n善意や情に期待するよりは\nよっぽど確実かもしれないわよ。{1a}お金の分はきちんと\n働いてくれるんだから。{1a}それに、少なくともあたしは、\n誰かがあたしのために\nタダで働くなんていい迷惑だわ。{1a}後で恩着せがましく\n言われるのもイヤだし、\n恩人との感動の再会なんて\n考えるだけでもうっとうしいし。{1a}金さえ払えばすむ契約の方が\n後々気楽でいいじゃない。{0c:2b5809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:23}{0b:08}【 Eve 】{0b:09}\nIt may well be far more reliable than\ncounting on goodwill and kindness, you\nknow.{1a}People will work properly for what\nthey're paid.{1a}Besides, I for one would find it a\nnuisance for someone to work for me\nfor free.{1a}I don't care to have it held over me\nlater, and a touching reunion with my\nbenefactor is tiresome just to think\nabout.{1a}A contract that's settled once you've\npaid is much easier down the road, isn't\nit.{0c:2b5809fe}",
+   "status": "done",
+   "tl": "It may well be far more reliable than counting on goodwill and kindness, you know. // People will work properly for what they're paid. // Besides, I for one would find it a nuisance for someone to work for me for free. // I don't care to have it held over me later, and a touching reunion with my benefactor is tiresome just to think about. // A contract that's settled once you've paid is much easier down the road, isn't it."
   },
   {
    "id": "RES#362:162a5",
@@ -892,8 +943,9 @@
    "jp": "{0c:2b54235100}{0c:5127}{1c:1b}{0b:08}{e080} シャルン {e082}{0b:09}\nちょっと賛{e0c5}出来ない所も\nあるけど、イヴの言うとおり、{1a}今大事なのはロレンツォさんって人を\n{e08b}し出すことなんだよね。{1a}じゃあ、お{e0b1}のことは{e0c6}いといて\n先にみんなで{e08b}しに行こうよ。{0c:2b5909fe}",
    "read": "{0c:2b54235100}{0c:5127}{1c:1b}{0b:08}【 シャルン 】{0b:09}\nちょっと賛成出来ない所も\nあるけど、イヴの言うとおり、{1a}今大事なのはロレンツォさんって人を\n探し出すことなんだよね。{1a}じゃあ、お金のことは置いといて\n先にみんなで探しに行こうよ。{0c:2b5909fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b54235100}{0c:5127}{1c:1b}{0b:08}【 Scharn 】{0b:09}\nThere's some of that I can't quite agree\nwith, but Eve's right!{1a}What matters now is finding this\nLorenzo-san, isn't it?{1a}So let's set the money aside and all go\nlook for him first!{0c:2b5909fe}",
+   "status": "done",
+   "tl": "There's some of that I can't quite agree with, but Eve's right! // What matters now is finding this Lorenzo-san, isn't it? // So let's set the money aside and all go look for him first!"
   },
   {
    "id": "RES#362:16338",
@@ -903,8 +955,9 @@
    "jp": "{1c:22}{0b:08}{e080} イヴ {e082}{0b:09}\nあたしは行かないけどね。{0c:2b5509fe}",
    "read": "{1c:22}{0b:08}【 イヴ 】{0b:09}\nあたしは行かないけどね。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:22}{0b:08}【 Eve 】{0b:09}\nI'm not going, though.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "I'm not going, though."
   },
   {
    "id": "RES#362:1635d",
@@ -914,8 +967,9 @@
    "jp": "{1c:18}{0b:08}{e080} パスカ {e082}{0b:09}\nなんだよそれ。\nお前にしては上手くこの場を\nまとめたと思ったのによ。{0c:2b5909fe}",
    "read": "{1c:18}{0b:08}【 パスカ 】{0b:09}\nなんだよそれ。\nお前にしては上手くこの場を\nまとめたと思ったのによ。{0c:2b5909fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Pasca 】{0b:09}\nWhat the hell? And here I thought ya\npulled this mess together pretty good,\nfor you.{0c:2b5909fe}",
+   "status": "done",
+   "tl": "What the hell? And here I thought ya pulled this mess together pretty good, for you."
   },
   {
    "id": "RES#362:1639d",
@@ -925,8 +979,9 @@
    "jp": "{1c:22}{0b:08}{e080} イヴ {e082}{0b:09}\n今は気分じゃないから。\n理由はそれだけ。{1a}お{e0b1}にも興味ないし、\n別に行く理由もないしね。{0c:2b5509fe}",
    "read": "{1c:22}{0b:08}【 イヴ 】{0b:09}\n今は気分じゃないから。\n理由はそれだけ。{1a}お金にも興味ないし、\n別に行く理由もないしね。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:22}{0b:08}【 Eve 】{0b:09}\nI'm not in the mood right now. That's my\nonly reason.{1a}I've no interest in the money either, and\nno reason to go.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "I'm not in the mood right now. That's my only reason. // I've no interest in the money either, and no reason to go."
   },
   {
    "id": "RES#362:163ed",
@@ -936,8 +991,9 @@
    "jp": "{1c:18}{0b:08}{e080} パスカ {e082}{0b:09}\nならなんでここにいるんだ?{0c:2b5909fe}",
    "read": "{1c:18}{0b:08}【 パスカ 】{0b:09}\nならなんでここにいるんだ?{0c:2b5909fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Pasca 】{0b:09}\nThen why're ya here?{0c:2b5909fe}",
+   "status": "done",
+   "tl": "Then why're ya here?"
   },
   {
    "id": "RES#362:16414",
@@ -947,8 +1003,9 @@
    "jp": "{0c:524e4d}{1c:22}{0b:08}{e080} イヴ {e082}{0b:09}\n面白いからに決まってるじゃない。\nだからあたしのことは気にせずに\n先に進めて。{0c:2b5509fe}",
    "read": "{0c:524e4d}{1c:22}{0b:08}【 イヴ 】{0b:09}\n面白いからに決まってるじゃない。\nだからあたしのことは気にせずに\n先に進めて。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524e4d}{1c:22}{0b:08}【 Eve 】{0b:09}\nBecause it's amusing, of course. So\nnever mind me and carry on.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Because it's amusing, of course. So never mind me and carry on."
   },
   {
    "id": "RES#362:1645e",
@@ -958,8 +1015,9 @@
    "jp": "{1c:18}{0b:08}{e080} パスカ {e082}{0b:09}\nったく、\n気にするなって言われてもよ・・・{0c:2b5809fe}",
    "read": "{1c:18}{0b:08}【 パスカ 】{0b:09}\nったく、\n気にするなって言われてもよ・・・{0c:2b5809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Pasca 】{0b:09}\nDamn. Easy for you to say never mind...{0c:2b5809fe}",
+   "status": "done",
+   "tl": "Damn. Easy for you to say never mind..."
   },
   {
    "id": "RES#362:1648e",
@@ -980,8 +1038,9 @@
    "jp": "{1c:1b}{0b:08}{e080} シャルン {e082}{0b:09}\nティアラ、\nもう1度おさらいするけど、{1a}『なんとかの{e0ac}{e0ad}』って{e0b3}前の\n3つの建物を手分けして\nさがせばいいんだよね。{0c:2b5309fe}",
    "read": "{1c:1b}{0b:08}【 シャルン 】{0b:09}\nティアラ、\nもう1度おさらいするけど、{1a}『なんとかの斎殿』って名前の\n3つの建物を手分けして\nさがせばいいんだよね。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Scharn 】{0b:09}\nTiara, let me go over it one more time.{1a}We split up and search the three\nbuildings called the 'Something Sanctum',\nright?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Tiara, let me go over it one more time. // We split up and search the three buildings called the 'Something Sanctum', right?"
   },
   {
    "id": "RES#362:164f9",
@@ -991,8 +1050,9 @@
    "jp": "{0c:2b50232b531000}{0c:2b512c232b5310002b522c232b531000}{0c:521612}{1c:2a}{0b:08}{e080} {e089}{e08a}ティアラ {e082}{0b:09}\nはい。\n3つの建物とも{09:08}『{e0c7}{e0c8}の{e0c9}{e0ca}』{09:01}のある\n『第一神{e0ad}』のすぐ隣にあります。{1a}どの建物も『第一神{e0ad}』と比べると\n規模は小さく、時間の流れも\nさほど速くはありません。{0c:2b5809fe}",
    "read": "{0c:2b50232b531000}{0c:2b512c232b5310002b522c232b531000}{0c:521612}{1c:2a}{0b:08}【 司祭ティアラ 】{0b:09}\nはい。\n3つの建物とも{09:08}『太陽の宝玉』{09:01}のある\n『第一神殿』のすぐ隣にあります。{1a}どの建物も『第一神殿』と比べると\n規模は小さく、時間の流れも\nさほど速くはありません。{0c:2b5809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b50232b531000}{0c:2b512c232b5310002b522c232b531000}{0c:521612}{1c:2a}{0b:08}【 Priest Tiara 】{0b:09}\nYes. All three stand right beside the\n'First Temple', where {09:08}the 'Sun Jewel'{09:01} lies.{1a}Each is smaller than the 'First Temple',\nand the flow of time is not so fast\nthere.{0c:2b5809fe}",
+   "status": "done",
+   "tl": "Yes. All three stand right beside the 'First Temple', where [1]the 'Sun Jewel'[2] lies. // Each is smaller than the 'First Temple', and the flow of time is not so fast there."
   },
   {
    "id": "RES#362:165ae",
@@ -1002,8 +1062,9 @@
    "jp": "{1c:1b}{0b:08}{e080} シャルン {e082}{0b:09}\nロレンツォさんの{e0ce}徴は?{0c:fe}",
    "read": "{1c:1b}{0b:08}【 シャルン 】{0b:09}\nロレンツォさんの特徴は?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Scharn 】{0b:09}\nWhat does Lorenzo-san look like?{0c:fe}",
+   "status": "done",
+   "tl": "What does Lorenzo-san look like?"
   },
   {
    "id": "RES#362:165d4",
@@ -1024,8 +1085,9 @@
    "jp": "{1c:2a}{0b:08}{e080} {e089}{e08a}ティアラ {e082}{0b:09}\nいつも紺{e0d1}の{e0d2}を着ておられました。\nそして、右手と右足に包帯を。{1a}背はアッシュさんと同じくらい、\nただ、かなり痩せておられます。{0c:2b5809fe}",
    "read": "{1c:2a}{0b:08}【 司祭ティアラ 】{0b:09}\nいつも紺色の服を着ておられました。\nそして、右手と右足に包帯を。{1a}背はアッシュさんと同じくらい、\nただ、かなり痩せておられます。{0c:2b5809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:2a}{0b:08}【 Priest Tiara 】{0b:09}\nHe always wore navy blue clothes, and\nbandages on his right hand and right leg.{1a}He is about as tall as Ash-san, but very\nthin.{0c:2b5809fe}",
+   "status": "done",
+   "tl": "He always wore navy blue clothes, and bandages on his right hand and right leg. // He is about as tall as Ash-san, but very thin."
   },
   {
    "id": "RES#362:16656",
@@ -1035,8 +1097,9 @@
    "jp": "{1c:1a}{0b:08}{e080} シャルン {e082}{0b:09}\nそれくらい知ってれば\n大体わかるかな。{0c:2b5309fe}",
    "read": "{1c:1a}{0b:08}【 シャルン 】{0b:09}\nそれくらい知ってれば\n大体わかるかな。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}{0b:08}【 Scharn 】{0b:09}\nIf we know that much, we can probably\nspot him!{0c:2b5309fe}",
+   "status": "done",
+   "tl": "If we know that much, we can probably spot him!"
   },
   {
    "id": "RES#362:16686",
@@ -1046,8 +1109,9 @@
    "jp": "{1c:28}{0b:08}{e080} {e089}{e08a}ティアラ {e082}{0b:09}\n私も{e08b}しに行きたいのですが、{1a}ロレンツォさんが戻ってこられた時\n手当をしなければなりませんので\nここを{e0d7}れることが出来ません。{1a}{0c:521712}皆さん、よろしくお願いします。{0c:2b5809fe}",
    "read": "{1c:28}{0b:08}【 司祭ティアラ 】{0b:09}\n私も探しに行きたいのですが、{1a}ロレンツォさんが戻ってこられた時\n手当をしなければなりませんので\nここを離れることが出来ません。{1a}{0c:521712}皆さん、よろしくお願いします。{0c:2b5809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:28}{0b:08}【 Priest Tiara 】{0b:09}\nI would like to go and search as well,{1a}but I must be here to treat Lorenzo-san\nwhen he returns, so I cannot leave.{1a}{0c:521712}Please, everyone, I am counting on you.{0c:2b5809fe}",
+   "status": "done",
+   "tl": "I would like to go and search as well, // but I must be here to treat Lorenzo-san when he returns, so I cannot leave. // [1]Please, everyone, I am counting on you."
   },
   {
    "id": "RES#362:16706",
@@ -1057,8 +1121,9 @@
    "jp": "{0c:5127}{1c:1b}{0b:08}{e080} シャルン {e082}{0b:09}\n{e0a9}絡は密に取った方が\nいいだろうから、\n6日後にまたここに集合。いいね。{0c:fe}",
    "read": "{0c:5127}{1c:1b}{0b:08}【 シャルン 】{0b:09}\n連絡は密に取った方が\nいいだろうから、\n6日後にまたここに集合。いいね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5127}{1c:1b}{0b:08}【 Scharn 】{0b:09}\nWe'd better keep in close touch, so we\nall meet back here in six days. Okay?{0c:fe}",
+   "status": "done",
+   "tl": "We'd better keep in close touch, so we all meet back here in six days. Okay?"
   },
   {
    "id": "RES#362:16750",

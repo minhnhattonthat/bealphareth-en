@@ -41,8 +41,9 @@
    "jp": "{1c:10}{0b:08}【 パスカ 】{0b:09}\nふう、さすがにちょっと疲れたな。\n酒場にでもいかねえか?\nたまには息抜きでもしなきゃな。{0c:fe}{0c:f20202f40236}",
    "read": "{1c:10}{0b:08}【 パスカ 】{0b:09}\nふう、さすがにちょっと疲れたな。\n酒場にでもいかねえか?\nたまには息抜きでもしなきゃな。{0c:fe}{0c:f20202f40236}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Pasca 】{0b:09}\nWhew, even I'm a little beat. Whaddya say\nwe hit the tavern? Gotta blow off some\nsteam now and then.{0c:fe}{0c:f20202f40236}",
+   "status": "done",
+   "tl": "Whew, even I'm a little beat. Whaddya say we hit the tavern? Gotta blow off some steam now and then."
   },
   {
    "id": "RES#361:7d16",
@@ -63,8 +64,9 @@
    "jp": "{0c:29051000}{0b:08}【 アーサー 】{0b:09}\nそうだな。付き合うよ。{1a}{0c:28001000}{10}、君も来るよな。{0c:023401}",
    "read": "{0c:29051000}{0b:08}【 アーサー 】{0b:09}\nそうだな。付き合うよ。{1a}{0c:28001000}{10}、君も来るよな。{0c:023401}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:29051000}{0b:08}【 Arthur 】{0b:09}\nGood idea. I'll join you.{1a}{0c:28001000}{10}, you're coming too, aren't\nyou?{0c:023401}",
+   "status": "done",
+   "tl": "Good idea. I'll join you. // [1][HERO], you're coming too, aren't you?"
   },
   {
    "id": "RES#361:7d5d",
@@ -85,8 +87,9 @@
    "jp": "{0c:29051000}{1c:15}{0b:08}【 シャルン 】{0b:09}\nうん、いいよ。{1a}{0c:28001000}{10}も行くよね。{0c:023201}",
    "read": "{0c:29051000}{1c:15}{0b:08}【 シャルン 】{0b:09}\nうん、いいよ。{1a}{0c:28001000}{10}も行くよね。{0c:023201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:29051000}{1c:15}{0b:08}【 Scharn 】{0b:09}\nOkay, sure!{1a}{0c:28001000}{10}, you're coming too, right?{0c:023201}",
+   "status": "done",
+   "tl": "Okay, sure! // [1][HERO], you're coming too, right?"
   },
   {
    "id": "RES#361:7d9d",
@@ -107,8 +110,9 @@
    "jp": "{0c:29051000}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nそれいいね。じゃあ行こっ。{0c:023001}",
    "read": "{0c:29051000}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nそれいいね。じゃあ行こっ。{0c:023001}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:29051000}{1c:17}{0b:08}【 Jessica 】{0b:09}\nSounds good. Let's go, then.{0c:023001}",
+   "status": "done",
+   "tl": "Sounds good. Let's go, then."
   },
   {
    "id": "RES#361:7dd5",
@@ -129,8 +133,9 @@
    "jp": "{0c:29051000}{1c:1a}{0b:08}【 サラ 】{0b:09}\nうん、いいよ。{1a}{0c:28001000}{10}さんも行くよね。{0c:022e01}",
    "read": "{0c:29051000}{1c:1a}{0b:08}【 サラ 】{0b:09}\nうん、いいよ。{1a}{0c:28001000}{10}さんも行くよね。{0c:022e01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:29051000}{1c:1a}{0b:08}【 Sara 】{0b:09}\nOkay, sure.{1a}{0c:28001000}You're coming too, right,\n{10}-san?{0c:022e01}",
+   "status": "done",
+   "tl": "Okay, sure. // [1]You're coming too, right, [HERO]-san?"
   },
   {
    "id": "RES#361:7e15",
@@ -151,8 +156,9 @@
    "jp": "{0c:29051000}{0b:08}【 アッシュ 】{0b:09}\nごめん、今日は疲れたから\nかえってねるよ。{0c:290509fe}",
    "read": "{0c:29051000}{0b:08}【 アッシュ 】{0b:09}\nごめん、今日は疲れたから\nかえってねるよ。{0c:290509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:29051000}{0b:08}【 Ash 】{0b:09}\nSorry, I'm tired today, so I guess I'll head\nhome and sleep.{0c:290509fe}",
+   "status": "done",
+   "tl": "Sorry, I'm tired today, so I guess I'll head home and sleep."
   },
   {
    "id": "RES#361:7e56",
@@ -162,8 +168,9 @@
    "jp": "{0c:29011000}{1c:10}{0b:08}【 パスカ 】{0b:09}\nそっか、じゃあしょうがねえな。{1a}{0c:28001000}{10}、2人で行くか。{0c:fe}",
    "read": "{0c:29011000}{1c:10}{0b:08}【 パスカ 】{0b:09}\nそっか、じゃあしょうがねえな。{1a}{0c:28001000}{10}、2人で行くか。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:29011000}{1c:10}{0b:08}【 Pasca 】{0b:09}\nThat so? Well, can't be helped.{1a}{0c:28001000}{10}, guess it's just the two of\nus.{0c:fe}",
+   "status": "done",
+   "tl": "That so? Well, can't be helped. // [1][HERO], guess it's just the two of us."
   },
   {
    "id": "RES#361:7e95",
@@ -207,8 +214,9 @@
    "jp": "{0c:29031000}{1c:12}{0b:08}【 パスカ 】{0b:09}\nそう言うと思ったけどさ、\nもっと気楽にやっても\nいいんじゃねえか?{0c:290309fe}",
    "read": "{0c:29031000}{1c:12}{0b:08}【 パスカ 】{0b:09}\nそう言うと思ったけどさ、\nもっと気楽にやっても\nいいんじゃねえか?{0c:290309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:29031000}{1c:12}{0b:08}【 Pasca 】{0b:09}\nFigured you'd say that, but couldn't ya\ntake it a little easier?{0c:290309fe}",
+   "status": "done",
+   "tl": "Figured you'd say that, but couldn't ya take it a little easier?"
   },
   {
    "id": "RES#361:7f0f",
@@ -230,8 +238,9 @@
    "jp": "{1c:10}{0b:08}【 パスカ 】{0b:09}\nわかったよ。\nイヤだって言ってるのに\n無理に誘うのも変だしな。{1a}{0c:28001000}{10}、2人で行くか。{0c:fe}",
    "read": "{1c:10}{0b:08}【 パスカ 】{0b:09}\nわかったよ。\nイヤだって言ってるのに\n無理に誘うのも変だしな。{1a}{0c:28001000}{10}、2人で行くか。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Pasca 】{0b:09}\nAll right, all right. Ain't right to drag\nsomebody along who says no.{1a}{0c:28001000}{10}, guess it's just the two of\nus.{0c:fe}",
+   "status": "done",
+   "tl": "All right, all right. Ain't right to drag somebody along who says no. // [1][HERO], guess it's just the two of us."
   },
   {
    "id": "RES#361:7f7b",
@@ -263,8 +272,9 @@
    "jp": "{0c:29051000}{0b:08}【 エレアノール 】{0b:09}\nすみません、私はサディーヤさんに\nセディクのお話を伺う約束が\nありますので・・・{0c:290509fe}",
    "read": "{0c:29051000}{0b:08}【 エレアノール 】{0b:09}\nすみません、私はサディーヤさんに\nセディクのお話を伺う約束が\nありますので・・・{0c:290509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:29051000}{0b:08}【 Eleanor 】{0b:09}\nI am sorry. I have promised to call on\nSadiya-san and hear about the Sedik...{0c:290509fe}",
+   "status": "done",
+   "tl": "I am sorry. I have promised to call on Sadiya-san and hear about the Sedik..."
   },
   {
    "id": "RES#361:7fe0",
@@ -274,8 +284,9 @@
    "jp": "{0c:29041000}{1c:10}{0b:08}【 パスカ 】{0b:09}\nそっか、じゃあしょうがねえな。{1a}{0c:28001000}{10}、2人で行くか。{0c:fe}",
    "read": "{0c:29041000}{1c:10}{0b:08}【 パスカ 】{0b:09}\nそっか、じゃあしょうがねえな。{1a}{0c:28001000}{10}、2人で行くか。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:29041000}{1c:10}{0b:08}【 Pasca 】{0b:09}\nThat so? Well, can't be helped.{1a}{0c:28001000}{10}, guess it's just the two of\nus.{0c:fe}",
+   "status": "done",
+   "tl": "That so? Well, can't be helped. // [1][HERO], guess it's just the two of us."
   },
   {
    "id": "RES#361:801f",
@@ -307,8 +318,9 @@
    "jp": "{0c:29051000}{1c:1e}{0b:08}【 オルフェウス 】{0b:09}\n遠慮します。\nみんなでワイワイってのは\nあまり好きになれないので。{0c:290509fe}",
    "read": "{0c:29051000}{1c:1e}{0b:08}【 オルフェウス 】{0b:09}\n遠慮します。\nみんなでワイワイってのは\nあまり好きになれないので。{0c:290509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:29051000}{1c:1e}{0b:08}【 Orpheus 】{0b:09}\nI'll pass, if you don't mind. A rowdy crowd\nhas never been much to my liking.{0c:290509fe}",
+   "status": "done",
+   "tl": "I'll pass, if you don't mind. A rowdy crowd has never been much to my liking."
   },
   {
    "id": "RES#361:807b",
@@ -318,8 +330,9 @@
    "jp": "{0c:290b1000}{1c:12}{0b:08}【 パスカ 】{0b:09}\nへえ・・・意外な答だな。{0c:290b09fe}",
    "read": "{0c:290b1000}{1c:12}{0b:08}【 パスカ 】{0b:09}\nへえ・・・意外な答だな。{0c:290b09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:290b1000}{1c:12}{0b:08}【 Pasca 】{0b:09}\nHuh... Ain't the answer I expected.{0c:290b09fe}",
+   "status": "done",
+   "tl": "Huh... Ain't the answer I expected."
   },
   {
    "id": "RES#361:80a9",
@@ -329,8 +342,9 @@
    "jp": "{1c:1e}{0b:08}【 オルフェウス 】{0b:09}\n何が意外なんです?\nぼくほど物静かで知的な男は\nいませんよ。{0c:290509fe}",
    "read": "{1c:1e}{0b:08}【 オルフェウス 】{0b:09}\n何が意外なんです?\nぼくほど物静かで知的な男は\nいませんよ。{0c:290509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}{0b:08}【 Orpheus 】{0b:09}\nWhat's so unexpected about it? You\nwon't find a quieter, more intelligent man\nthan me, I daresay.{0c:290509fe}",
+   "status": "done",
+   "tl": "What's so unexpected about it? You won't find a quieter, more intelligent man than me, I daresay."
   },
   {
    "id": "RES#361:80ed",
@@ -340,8 +354,9 @@
    "jp": "{1c:12}{0b:08}【 パスカ 】{0b:09}\n勝手に言ってろよ。{1a}{0c:28001000}しょうがねえ、\n{10}、2人で行くか。\n酒場に行けば誰かいるだろ。{0c:fe}",
    "read": "{1c:12}{0b:08}【 パスカ 】{0b:09}\n勝手に言ってろよ。{1a}{0c:28001000}しょうがねえ、\n{10}、2人で行くか。\n酒場に行けば誰かいるだろ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Pasca 】{0b:09}\nSay whatever ya like.{1a}{0c:28001000}Can't be helped. {10}, guess it's\njust the two of us. There'll be somebody\nat the tavern.{0c:fe}",
+   "status": "done",
+   "tl": "Say whatever ya like. // [1]Can't be helped. [HERO], guess it's just the two of us. There'll be somebody at the tavern."
   },
   {
    "id": "RES#361:813d",
@@ -373,8 +388,9 @@
    "jp": "{0c:29051000}{1c:1f}{0b:08}【 イヴ 】{0b:09}\nそうね・・・\nでも今日は遠慮するわ。\nそんな気分じゃないから。{0c:290509fe}",
    "read": "{0c:29051000}{1c:1f}{0b:08}【 イヴ 】{0b:09}\nそうね・・・\nでも今日は遠慮するわ。\nそんな気分じゃないから。{0c:290509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:29051000}{1c:1f}{0b:08}【 Eve 】{0b:09}\nWell, now... But I'll pass today. I'm not in\nthe mood.{0c:290509fe}",
+   "status": "done",
+   "tl": "Well, now... But I'll pass today. I'm not in the mood."
   },
   {
    "id": "RES#361:8194",
@@ -384,8 +400,9 @@
    "jp": "{0c:290c1000}{1c:10}{0b:08}【 パスカ 】{0b:09}\nそっか、じゃあしょうがねえな。{1a}{0c:28001000}{10}、2人で行くか。{0c:fe}",
    "read": "{0c:290c1000}{1c:10}{0b:08}【 パスカ 】{0b:09}\nそっか、じゃあしょうがねえな。{1a}{0c:28001000}{10}、2人で行くか。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:290c1000}{1c:10}{0b:08}【 Pasca 】{0b:09}\nThat so? Well, can't be helped.{1a}{0c:28001000}{10}, guess it's just the two of\nus.{0c:fe}",
+   "status": "done",
+   "tl": "That so? Well, can't be helped. // [1][HERO], guess it's just the two of us."
   },
   {
    "id": "RES#361:81d3",
@@ -429,8 +446,9 @@
    "jp": "{0c:290d1000}{1c:12}{0b:08}【 パスカ 】{0b:09}\nそうくるとは思ったけどさ。{1a}{0c:28001000}{10}、2人で行くか。{0c:fe}",
    "read": "{0c:290d1000}{1c:12}{0b:08}【 パスカ 】{0b:09}\nそうくるとは思ったけどさ。{1a}{0c:28001000}{10}、2人で行くか。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:290d1000}{1c:12}{0b:08}【 Pasca 】{0b:09}\nFigured that's how it'd go.{1a}{0c:28001000}{10}, guess it's just the two of\nus.{0c:fe}",
+   "status": "done",
+   "tl": "Figured that's how it'd go. // [1][HERO], guess it's just the two of us."
   },
   {
    "id": "RES#361:8241",
@@ -462,8 +480,9 @@
    "jp": "{0c:29051000}{0b:08}【 ノエル 】{0b:09}\n遠慮するわ。\nあたしはそんなに暇じゃないから。{0c:290509fe}",
    "read": "{0c:29051000}{0b:08}【 ノエル 】{0b:09}\n遠慮するわ。\nあたしはそんなに暇じゃないから。{0c:290509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:29051000}{0b:08}【 Noel 】{0b:09}\nI'll pass. I don't have that much free\ntime.{0c:290509fe}",
+   "status": "done",
+   "tl": "I'll pass. I don't have that much free time."
   },
   {
    "id": "RES#361:828c",
@@ -473,8 +492,9 @@
    "jp": "{0c:290e1000}{1c:12}{0b:08}【 パスカ 】{0b:09}\n今から研究か?{0c:290e09fe}",
    "read": "{0c:290e1000}{1c:12}{0b:08}【 パスカ 】{0b:09}\n今から研究か?{0c:290e09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:290e1000}{1c:12}{0b:08}【 Pasca 】{0b:09}\nOff to do research?{0c:290e09fe}",
+   "status": "done",
+   "tl": "Off to do research?"
   },
   {
    "id": "RES#361:82b6",
@@ -484,8 +504,9 @@
    "jp": "{0b:08}【 ノエル 】{0b:09}\nあなた達には関係ないわ。{0c:290509fe}",
    "read": "{0b:08}【 ノエル 】{0b:09}\nあなた達には関係ないわ。{0c:290509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Noel 】{0b:09}\nThat's none of your business.{0c:290509fe}",
+   "status": "done",
+   "tl": "That's none of your business."
   },
   {
    "id": "RES#361:82dc",
@@ -495,8 +516,9 @@
    "jp": "{1c:10}{0b:08}【 パスカ 】{0b:09}\nイヤだって言ってるヤツを\n無理に誘うつもりもねえけどさ、{1a}たまには肩の力抜いた方が\nいい考えまとまるんじゃねえのか?{1a}クムランさんだって\nちょくちょく酒場に来るぜ。{0c:290e09fe}",
    "read": "{1c:10}{0b:08}【 パスカ 】{0b:09}\nイヤだって言ってるヤツを\n無理に誘うつもりもねえけどさ、{1a}たまには肩の力抜いた方が\nいい考えまとまるんじゃねえのか?{1a}クムランさんだって\nちょくちょく酒場に来るぜ。{0c:290e09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Pasca 】{0b:09}\nI ain't gonna drag along somebody who\nsays no,{1a}but don't ya think you'd come up with\nbetter ideas if ya loosened up once in a\nwhile?{1a}Even Qumran-san drops by the tavern\nnow and then.{0c:290e09fe}",
+   "status": "done",
+   "tl": "I ain't gonna drag along somebody who says no, // but don't ya think you'd come up with better ideas if ya loosened up once in a while? // Even Qumran-san drops by the tavern now and then."
   },
   {
    "id": "RES#361:8358",
@@ -506,8 +528,9 @@
    "jp": "{0b:08}【 ノエル 】{0b:09}\nでもこれがあたしのやり方なの。{0c:290509fe}",
    "read": "{0b:08}【 ノエル 】{0b:09}\nでもこれがあたしのやり方なの。{0c:290509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Noel 】{0b:09}\nBut this is how I do things.{0c:290509fe}",
+   "status": "done",
+   "tl": "But this is how I do things."
   },
   {
    "id": "RES#361:837f",
@@ -517,8 +540,9 @@
    "jp": "{1c:10}{0b:08}【 パスカ 】{0b:09}\nそっか、じゃあしょうがねえな。{1a}{0c:28001000}{10}、2人で行くか。{0c:fe}",
    "read": "{1c:10}{0b:08}【 パスカ 】{0b:09}\nそっか、じゃあしょうがねえな。{1a}{0c:28001000}{10}、2人で行くか。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Pasca 】{0b:09}\nThat so? Well, can't be helped.{1a}{0c:28001000}{10}, guess it's just the two of\nus.{0c:fe}",
+   "status": "done",
+   "tl": "That so? Well, can't be helped. // [1][HERO], guess it's just the two of us."
   },
   {
    "id": "RES#361:83b8",
@@ -550,8 +574,9 @@
    "jp": "{0c:29051000}{1c:20}{0b:08}【 ルカ 】{0b:09}\nすみません・・・\nわたしは遠慮しておきます・・・{0c:290509fe}",
    "read": "{0c:29051000}{1c:20}{0b:08}【 ルカ 】{0b:09}\nすみません・・・\nわたしは遠慮しておきます・・・{0c:290509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:29051000}{1c:20}{0b:08}【 Luca 】{0b:09}\nI am sorry... I think I will decline...{0c:290509fe}",
+   "status": "done",
+   "tl": "I am sorry... I think I will decline..."
   },
   {
    "id": "RES#361:8404",
@@ -561,8 +586,9 @@
    "jp": "{0c:29111000}{1c:12}{0b:08}【 パスカ 】{0b:09}\nあれ?\n坊さんって酒場に入ったら\n駄目なんだったっけ?{0c:291109fe}",
    "read": "{0c:29111000}{1c:12}{0b:08}【 パスカ 】{0b:09}\nあれ?\n坊さんって酒場に入ったら\n駄目なんだったっけ?{0c:291109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:29111000}{1c:12}{0b:08}【 Pasca 】{0b:09}\nHuh? Monks ain't allowed in taverns, is\nthat it?{0c:291109fe}",
+   "status": "done",
+   "tl": "Huh? Monks ain't allowed in taverns, is that it?"
   },
   {
    "id": "RES#361:8447",
@@ -572,8 +598,9 @@
    "jp": "{1c:20}{0b:08}【 ルカ 】{0b:09}\n入るだけならよいのですが・・・{0c:290509fe}",
    "read": "{1c:20}{0b:08}【 ルカ 】{0b:09}\n入るだけならよいのですが・・・{0c:290509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Luca 】{0b:09}\nMerely entering is permitted, but...{0c:290509fe}",
+   "status": "done",
+   "tl": "Merely entering is permitted, but..."
   },
   {
    "id": "RES#361:846f",
@@ -583,8 +610,9 @@
    "jp": "{1c:10}{0b:08}【 パスカ 】{0b:09}\nじゃあいいじゃねえか。\nたまには息抜きも必要だぜ。{0c:291109fe}",
    "read": "{1c:10}{0b:08}【 パスカ 】{0b:09}\nじゃあいいじゃねえか。\nたまには息抜きも必要だぜ。{0c:291109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Pasca 】{0b:09}\nThen what's the problem? Everybody's\ngotta blow off steam now and then.{0c:291109fe}",
+   "status": "done",
+   "tl": "Then what's the problem? Everybody's gotta blow off steam now and then."
   },
   {
    "id": "RES#361:84a5",
@@ -594,8 +622,9 @@
    "jp": "{1c:20}{0b:08}【 ルカ 】{0b:09}\nいえ・・・その・・・\nお酒の匂いが苦手なんです・・・{0c:290509fe}",
    "read": "{1c:20}{0b:08}【 ルカ 】{0b:09}\nいえ・・・その・・・\nお酒の匂いが苦手なんです・・・{0c:290509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Luca 】{0b:09}\nNo... It is just... I cannot bear the smell of\nliquor...{0c:290509fe}",
+   "status": "done",
+   "tl": "No... It is just... I cannot bear the smell of liquor..."
   },
   {
    "id": "RES#361:84db",
@@ -605,8 +634,9 @@
    "jp": "{1c:10}{0b:08}【 パスカ 】{0b:09}\nそっか、\n酒臭えオヤジの巣窟だもんな。{1a}{0c:28001000}しょうがねえ、\n{10}、2人で行くか。{0c:fe}",
    "read": "{1c:10}{0b:08}【 パスカ 】{0b:09}\nそっか、\n酒臭えオヤジの巣窟だもんな。{1a}{0c:28001000}しょうがねえ、\n{10}、2人で行くか。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Pasca 】{0b:09}\nRight, the place is a nest of\nbooze-stinkin' old men.{1a}{0c:28001000}Can't be helped. {10}, guess it's\njust the two of us.{0c:fe}",
+   "status": "done",
+   "tl": "Right, the place is a nest of booze-stinkin' old men. // [1]Can't be helped. [HERO], guess it's just the two of us."
   },
   {
    "id": "RES#361:8526",
@@ -660,8 +690,9 @@
    "jp": "{1c:10}{0b:08}【 パスカ 】{0b:09}\nなんだ、みんな来てたのか。{0c:fe}",
    "read": "{1c:10}{0b:08}【 パスカ 】{0b:09}\nなんだ、みんな来てたのか。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Pasca 】{0b:09}\nWhat, you're all here already?{0c:fe}",
+   "status": "done",
+   "tl": "What, you're all here already?"
   },
   {
    "id": "RES#361:89ae",
@@ -682,8 +713,9 @@
    "jp": "{0c:524344}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nそういえばさ、\nパスカってアスロイトの\n山猿なんだよね。{0c:fe}",
    "read": "{0c:524344}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nそういえばさ、\nパスカってアスロイトの\n山猿なんだよね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524344}{1c:17}{0b:08}【 Jessica 】{0b:09}\nSay, Pasca, you're a mountain monkey\nfrom Asroit, right?{0c:fe}",
+   "status": "done",
+   "tl": "Say, Pasca, you're a mountain monkey from Asroit, right?"
   },
   {
    "id": "RES#361:8a61",
@@ -704,8 +736,9 @@
    "jp": "{0c:520f10}{1c:12}{0b:08}【 パスカ 】{0b:09}\n山猿はねえだろ、\nまあ間違っちゃいねえけど。{1a}で、それがどうかしたのか?{0c:2b5509fe}",
    "read": "{0c:520f10}{1c:12}{0b:08}【 パスカ 】{0b:09}\n山猿はねえだろ、\nまあ間違っちゃいねえけど。{1a}で、それがどうかしたのか?{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520f10}{1c:12}{0b:08}【 Pasca 】{0b:09}\nMountain monkey's a bit much, though I\nguess ya ain't wrong.{1a}So what about it?{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Mountain monkey's a bit much, though I guess ya ain't wrong. // So what about it?"
   },
   {
    "id": "RES#361:8acf",
@@ -715,8 +748,9 @@
    "jp": "{1c:17}{0b:08}【 ジェシカ 】{0b:09}\n珍しい名前だなって思ってさ。{0c:2b5409fe}",
    "read": "{1c:17}{0b:08}【 ジェシカ 】{0b:09}\n珍しい名前だなって思ってさ。{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Jessica 】{0b:09}\nI was just thinking it's a rare name, you\nknow?{0c:2b5409fe}",
+   "status": "done",
+   "tl": "I was just thinking it's a rare name, you know?"
   },
   {
    "id": "RES#361:8afb",
@@ -726,8 +760,9 @@
    "jp": "{0c:523736}{1c:15}{0b:08}【 シャルン 】{0b:09}\nうん、あんまりアスロイトには\nない名前だよね。{0c:2b5709fe}",
    "read": "{0c:523736}{1c:15}{0b:08}【 シャルン 】{0b:09}\nうん、あんまりアスロイトには\nない名前だよね。{0c:2b5709fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523736}{1c:15}{0b:08}【 Scharn 】{0b:09}\nYeah, you don't hear that name much in\nAsroit!{0c:2b5709fe}",
+   "status": "done",
+   "tl": "Yeah, you don't hear that name much in Asroit!"
   },
   {
    "id": "RES#361:8b35",
@@ -737,8 +772,9 @@
    "jp": "{0c:526667}{1c:1c}{0b:08}【 バルデス 】{0b:09}\n親御さんのどちらかが\nトラドアの生まれなのか?{0c:4c0509fe}",
    "read": "{0c:526667}{1c:1c}{0b:08}【 バルデス 】{0b:09}\n親御さんのどちらかが\nトラドアの生まれなのか?{0c:4c0509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:526667}{1c:1c}{0b:08}【 Valdes 】{0b:09}\nWas one of your folks born in Tradoa?{0c:4c0509fe}",
+   "status": "done",
+   "tl": "Was one of your folks born in Tradoa?"
   },
   {
    "id": "RES#361:8b71",
@@ -748,8 +784,9 @@
    "jp": "{0c:52110e}{1c:11}{0b:08}【 パスカ 】{0b:09}\nえっ、そうだけど・・・{1a}そっか、おっさんも\nトラドアの人間なんだよな。{0c:2b5709fe}",
    "read": "{0c:52110e}{1c:11}{0b:08}【 パスカ 】{0b:09}\nえっ、そうだけど・・・{1a}そっか、おっさんも\nトラドアの人間なんだよな。{0c:2b5709fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52110e}{1c:11}{0b:08}【 Pasca 】{0b:09}\nHuh? Yeah, but...{1a}Right, you're from Tradoa too, mister.{0c:2b5709fe}",
+   "status": "done",
+   "tl": "Huh? Yeah, but... // Right, you're from Tradoa too, mister."
   },
   {
    "id": "RES#361:8bb6",
@@ -759,8 +796,9 @@
    "jp": "{1c:1c}{0b:08}【 バルデス 】{0b:09}\n一応な。{0c:4c0509fe}",
    "read": "{1c:1c}{0b:08}【 バルデス 】{0b:09}\n一応な。{0c:4c0509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Valdes 】{0b:09}\nMore or less.{0c:4c0509fe}",
+   "status": "done",
+   "tl": "More or less."
   },
   {
    "id": "RES#361:8bd6",
@@ -770,8 +808,9 @@
    "jp": "{1c:11}{0b:08}【 パスカ 】{0b:09}\nオヤジがトラドアの生まれなんだ。\nオレは1度も行ったことねえから、\nどんな国かは知らねえけど。{1a}{0c:52130e}アスロイトはお袋の国さ。\nオレはお袋の村で生まれたんだ。{0c:2b5409fe}",
    "read": "{1c:11}{0b:08}【 パスカ 】{0b:09}\nオヤジがトラドアの生まれなんだ。\nオレは1度も行ったことねえから、\nどんな国かは知らねえけど。{1a}{0c:52130e}アスロイトはお袋の国さ。\nオレはお袋の村で生まれたんだ。{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Pasca 】{0b:09}\nMy old man was born in Tradoa. Never\nbeen there myself, so I couldn't tell ya\nwhat it's like.{1a}{0c:52130e}Asroit's my ma's country. I was born in\nher village.{0c:2b5409fe}",
+   "status": "done",
+   "tl": "My old man was born in Tradoa. Never been there myself, so I couldn't tell ya what it's like. // [1]Asroit's my ma's country. I was born in her village."
   },
   {
    "id": "RES#361:8c54",
@@ -781,8 +820,9 @@
    "jp": "{1c:15}{0b:08}【 シャルン 】{0b:09}\nパスカの御両親って\n違う国の人同士で結婚したんだ。\nなんだか素敵だね。{0c:2b5509fe}",
    "read": "{1c:15}{0b:08}【 シャルン 】{0b:09}\nパスカの御両親って\n違う国の人同士で結婚したんだ。\nなんだか素敵だね。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Scharn 】{0b:09}\nSo your parents married across\ncountries, Pasca! That's kind of\nwonderful!{0c:2b5509fe}",
+   "status": "done",
+   "tl": "So your parents married across countries, Pasca! That's kind of wonderful!"
   },
   {
    "id": "RES#361:8c9d",
@@ -792,8 +832,9 @@
    "jp": "{0c:524748}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nそれからそれから?{0c:4c0509fe}",
    "read": "{0c:524748}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nそれからそれから?{0c:4c0509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524748}{1c:17}{0b:08}【 Jessica 】{0b:09}\nAnd then? And then?{0c:4c0509fe}",
+   "status": "done",
+   "tl": "And then? And then?"
   },
   {
    "id": "RES#361:8cc6",
@@ -803,8 +844,9 @@
    "jp": "{0c:521410}{1c:12}{0b:08}【 パスカ 】{0b:09}\nそれからって・・・\nもう別に話すことねえぜ。\n何が聞きたいんだ?{0c:2b5509fe}",
    "read": "{0c:521410}{1c:12}{0b:08}【 パスカ 】{0b:09}\nそれからって・・・\nもう別に話すことねえぜ。\n何が聞きたいんだ?{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521410}{1c:12}{0b:08}【 Pasca 】{0b:09}\nAnd then...? Ain't nothin' more to tell.\nWhat do ya wanna hear?{0c:2b5509fe}",
+   "status": "done",
+   "tl": "And then...? Ain't nothin' more to tell. What do ya wanna hear?"
   },
   {
    "id": "RES#361:8d09",
@@ -814,8 +856,9 @@
    "jp": "{1c:18}{0b:08}【 ジェシカ 】{0b:09}\n2人のなれそめとかさ。{0c:4c0509fe}",
    "read": "{1c:18}{0b:08}【 ジェシカ 】{0b:09}\n2人のなれそめとかさ。{0c:4c0509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Jessica 】{0b:09}\nLike how the two of them got together.{0c:4c0509fe}",
+   "status": "done",
+   "tl": "Like how the two of them got together."
   },
   {
    "id": "RES#361:8d30",
@@ -825,8 +868,9 @@
    "jp": "{1c:12}{0b:08}【 パスカ 】{0b:09}\nそんなの聞いてどうするんだ?{0c:2b5409fe}",
    "read": "{1c:12}{0b:08}【 パスカ 】{0b:09}\nそんなの聞いてどうするんだ?{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Pasca 】{0b:09}\nWhat're ya gonna do with that?{0c:2b5409fe}",
+   "status": "done",
+   "tl": "What're ya gonna do with that?"
   },
   {
    "id": "RES#361:8d59",
@@ -836,8 +880,9 @@
    "jp": "{0c:523b36}{1c:15}{0b:08}【 シャルン 】{0b:09}\nジェシカも一応は女の子だもんね。\n女の子ならやっぱり興味あるよ。\nあたしも聞きたいな。{0c:4c0509fe}",
    "read": "{0c:523b36}{1c:15}{0b:08}【 シャルン 】{0b:09}\nジェシカも一応は女の子だもんね。\n女の子ならやっぱり興味あるよ。\nあたしも聞きたいな。{0c:4c0509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523b36}{1c:15}{0b:08}【 Scharn 】{0b:09}\nJessica's a girl too, more or less! Any girl\nwould be curious. I want to hear it too!{0c:4c0509fe}",
+   "status": "done",
+   "tl": "Jessica's a girl too, more or less! Any girl would be curious. I want to hear it too!"
   },
   {
    "id": "RES#361:8dac",
@@ -847,8 +892,9 @@
    "jp": "{0c:52160e}{1c:11}{0b:08}【 {03}パスカ 】{0b:09}\n{02}まあ別にいいけどよ・・・{1a}{03}オヤジ{02}が{01}22歳{02}、お袋が{01}17歳{02}のとき、\n巡礼の旅で{03}レノス{02}に行ったときに\n{01}2人{02}は出会ったんだってさ。{1a}{0c:52170e}で、お袋が{03}レノス{02}を出発する日に、\n{03}オヤジ{02}からお袋に{03}プロポーズ\n{02}したんだと。{0c:2b5409fe}",
    "read": "{0c:52160e}{1c:11}{0b:08}【 {03}パスカ 】{0b:09}\n{02}まあ別にいいけどよ・・・{1a}{03}オヤジ{02}が{01}22歳{02}、お袋が{01}17歳{02}のとき、\n巡礼の旅で{03}レノス{02}に行ったときに\n{01}2人{02}は出会ったんだってさ。{1a}{0c:52170e}で、お袋が{03}レノス{02}を出発する日に、\n{03}オヤジ{02}からお袋に{03}プロポーズ\n{02}したんだと。{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52160e}{1c:11}{0b:08}【 Pasca 】{0b:09}\nWell, I don't mind, I guess...{1a}Back when my old man was 22 and my ma\n17, they met on a pilgrimage to Lenos, so\nthey say.{1a}{0c:52170e}Then, the day my ma was leavin' Lenos,\nmy old man up and proposed to her, or so\nI hear.{0c:2b5409fe}",
+   "status": "done",
+   "tl": "Well, I don't mind, I guess... // Back when my old man was 22 and my ma 17, they met on a pilgrimage to Lenos, so they say. // [1]Then, the day my ma was leavin' Lenos, my old man up and proposed to her, or so I hear."
   },
   {
    "id": "RES#361:8e52",
@@ -858,8 +904,9 @@
    "jp": "{1c:15}{0b:08}【 シャルン 】{0b:09}\n積極的なお父さんだね。{0c:2b5309fe}",
    "read": "{1c:15}{0b:08}【 シャルン 】{0b:09}\n積極的なお父さんだね。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Scharn 】{0b:09}\nYour dad sure was bold!{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Your dad sure was bold!"
   },
   {
    "id": "RES#361:8e7b",
@@ -869,8 +916,9 @@
    "jp": "{1c:14}{0b:08}【 アーサー 】{0b:09}\n聖都レノスを巡礼中に・・・?\nちょっと不謹慎じゃないのか?{0c:fe}",
    "read": "{1c:14}{0b:08}【 アーサー 】{0b:09}\n聖都レノスを巡礼中に・・・?\nちょっと不謹慎じゃないのか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Arthur 】{0b:09}\nDuring a pilgrimage to the holy city of\nLenos...? Isn't that a little irreverent?{0c:fe}",
+   "status": "done",
+   "tl": "During a pilgrimage to the holy city of Lenos...? Isn't that a little irreverent?"
   },
   {
    "id": "RES#361:8eba",
@@ -891,8 +939,9 @@
    "jp": "{1c:15}{0b:08}【 シャルン 】{0b:09}\nここにいる女性陣のアーサーへの\n点数がぐんと下がったよ。{1a}{0c:2b5323520300}巡礼中でもいいじゃない。\nそういう出会いって素敵だと思う。{0c:2b5609fe}",
    "read": "{1c:15}{0b:08}【 シャルン 】{0b:09}\nここにいる女性陣のアーサーへの\n点数がぐんと下がったよ。{1a}{0c:2b5323520300}巡礼中でもいいじゃない。\nそういう出会いって素敵だと思う。{0c:2b5609fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Scharn 】{0b:09}\nYou just dropped way down in the eyes\nof every girl here, Arthur!{1a}{0c:2b5323520300}So what if it was a pilgrimage? I think\nmeeting that way is wonderful!{0c:2b5609fe}",
+   "status": "done",
+   "tl": "You just dropped way down in the eyes of every girl here, Arthur! // [1]So what if it was a pilgrimage? I think meeting that way is wonderful!"
   },
   {
    "id": "RES#361:8f4d",
@@ -902,8 +951,9 @@
    "jp": "{0c:525b5c}{1c:1a}{0b:08}【 サラ 】{0b:09}\nうん、あたしも素敵だと思うな。{0c:2b5509fe}",
    "read": "{0c:525b5c}{1c:1a}{0b:08}【 サラ 】{0b:09}\nうん、あたしも素敵だと思うな。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:525b5c}{1c:1a}{0b:08}【 Sara 】{0b:09}\nYes, I think it's wonderful too.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Yes, I think it's wonderful too."
   },
   {
    "id": "RES#361:8f7c",
@@ -913,8 +963,9 @@
    "jp": "{0c:524b45}{1c:19}{0b:08}【 ジェシカ 】{0b:09}\nあんたってほんと子供だね。     {0c:520405}{0c:524c4d}{10}も何か言ってやりなよ。{0c:fe}",
    "read": "{0c:524b45}{1c:19}{0b:08}【 ジェシカ 】{0b:09}\nあんたってほんと子供だね。     {0c:520405}{0c:524c4d}{10}も何か言ってやりなよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524b45}{1c:19}{0b:08}【 Jessica 】{0b:09}\nYou really are a child, you know that?\n{0c:520405}{0c:524c4d}{10}, you say something to him\ntoo.{0c:fe}",
+   "status": "done",
+   "tl": "You really are a child, you know that? [1][HERO], you say something to him too."
   },
   {
    "id": "RES#361:8fc4",
@@ -935,8 +986,9 @@
    "jp": "まったく、無粋な男だぜ|アーサーの言うことも一理あるよ",
    "read": "まったく、無粋な男だぜ|アーサーの言うことも一理あるよ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Hell, the man's got no romance|Arthur does have a point",
+   "status": "done",
+   "tl": "Hell, the man's got no romance|Arthur does have a point"
   },
   {
    "id": "RES#361:8ff5",
@@ -957,8 +1009,9 @@
    "jp": "ほんと、無粋な男ね|アーサーの言うことも一理あるよ",
    "read": "ほんと、無粋な男ね|アーサーの言うことも一理あるよ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Really, he has no romance at all|Arthur does have a point",
+   "status": "done",
+   "tl": "Really, he has no romance at all|Arthur does have a point"
   },
   {
    "id": "RES#361:901d",
@@ -990,8 +1043,9 @@
    "jp": "{0c:521819}{1c:12}{0b:08}【 パスカ 】{0b:09}\n・・・散々な言われようだな。{0c:2b5309fe}",
    "read": "{0c:521819}{1c:12}{0b:08}【 パスカ 】{0b:09}\n・・・散々な言われようだな。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521819}{1c:12}{0b:08}【 Pasca 】{0b:09}\n...They're really layin' into ya.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "...They're really layin' into ya."
   },
   {
    "id": "RES#361:9067",
@@ -1024,8 +1078,9 @@
    "jp": "{0c:521819}{1c:11}{0b:08}【 パスカ 】{0b:09}\nよかったな。\n口調からして同情票だけど。{0c:2b5309fe}",
    "read": "{0c:521819}{1c:11}{0b:08}【 パスカ 】{0b:09}\nよかったな。\n口調からして同情票だけど。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521819}{1c:11}{0b:08}【 Pasca 】{0b:09}\nLucky you. Though from the sound of it,\nthat's a pity vote.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Lucky you. Though from the sound of it, that's a pity vote."
   },
   {
    "id": "RES#361:90d8",
@@ -1058,8 +1113,9 @@
    "jp": "{0c:521a0e}{1c:11}{0b:08}【 パスカ 】{0b:09}\nで、どこまで話したっけ・・・{07:0a}{1a}{0c:2b5423523536}{0c:2b5523524e48}{0c:2b5623525d58}{0c:2b5023520502}{0c:2b5323520802}そうそう、\nお袋の体はあんまり強い方じゃ\nなかったし、巡礼中もかなり\nキツかったみたいだから、{1a}オヤジの方がお袋の村に\n来ることになったんだ。{1a}{0c:2b5523524f50}お袋の村・・・\nつまりオレの村でもあるんだけど、\n山奥にある農家半分猟師半分の\n小さな村の割には、{1a}よそ者に対して冷たいところが\nあんまりねえし、オヤジも\nトラドアで猟師をやってたから、\n村にはすんなり受け入れられて、{1a}{0c:52170e}で、何の問題もなく結婚、\nで、2年後にオレが生まれたと。\nそのすぐ後にお袋は\n死んじまったけどな。{0c:2b5409fe}",
    "read": "{0c:521a0e}{1c:11}{0b:08}【 パスカ 】{0b:09}\nで、どこまで話したっけ・・・{07:0a}{1a}{0c:2b5423523536}{0c:2b5523524e48}{0c:2b5623525d58}{0c:2b5023520502}{0c:2b5323520802}そうそう、\nお袋の体はあんまり強い方じゃ\nなかったし、巡礼中もかなり\nキツかったみたいだから、{1a}オヤジの方がお袋の村に\n来ることになったんだ。{1a}{0c:2b5523524f50}お袋の村・・・\nつまりオレの村でもあるんだけど、\n山奥にある農家半分猟師半分の\n小さな村の割には、{1a}よそ者に対して冷たいところが\nあんまりねえし、オヤジも\nトラドアで猟師をやってたから、\n村にはすんなり受け入れられて、{1a}{0c:52170e}で、何の問題もなく結婚、\nで、2年後にオレが生まれたと。\nそのすぐ後にお袋は\n死んじまったけどな。{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521a0e}{1c:11}{0b:08}【 Pasca 】{0b:09}\nSo, where was I...{07:0a}{1a}{0c:2b5423523536}{0c:2b5523524e48}{0c:2b5623525d58}{0c:2b5023520502}{0c:2b5323520802}Right, right. My ma's health wasn't all\nthat strong, and the pilgrimage was\npretty hard on her,{1a}so my old man ended up comin' to her\nvillage.{1a}{0c:2b5523524f50}My ma's village... which is my village too, I\nguess... For a tiny place way up in the\nmountains, half farmers and half\nhunters,{1a}it ain't all that cold to outsiders. And my\nold man had been a hunter back in\nTradoa, so the village took him in easy.{1a}{0c:52170e}So they got married, no trouble at all,\nand two years later I was born. My ma\ndied right after that, though.{0c:2b5409fe}",
+   "status": "done",
+   "tl": "So, where was I...[1] // [2]Right, right. My ma's health wasn't all that strong, and the pilgrimage was pretty hard on her, // so my old man ended up comin' to her village. // [3]My ma's village... which is my village too, I guess... For a tiny place way up in the mountains, half farmers and half hunters, // it ain't all that cold to outsiders. And my old man had been a hunter back in Tradoa, so the village took him in easy. // [4]So they got married, no trouble at all, and two years later I was born. My ma died right after that, though."
   },
   {
    "id": "RES#361:928a",
@@ -1069,8 +1125,9 @@
    "jp": "{1c:16}{0b:08}【 {03}シャルン 】{0b:09}\n{02}たった{01}2年間{02}・・・\nちょっと悲しいね。{0c:4c0509fe}",
    "read": "{1c:16}{0b:08}【 {03}シャルン 】{0b:09}\n{02}たった{01}2年間{02}・・・\nちょっと悲しいね。{0c:4c0509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}{0b:08}【 Scharn 】{0b:09}\nJust two years... That's kind of sad.{0c:4c0509fe}",
+   "status": "done",
+   "tl": "Just two years... That's kind of sad."
   },
   {
    "id": "RES#361:92bc",
@@ -1080,8 +1137,9 @@
    "jp": "{0c:521b1c}{1c:11}{0b:08}【 パスカ 】{0b:09}\nどうだろ・・・\nオレはあんまりそうは思わねえな。{1a}{0c:2b5523525152}オヤジとお袋が一緒に暮らした時間は\n2年ちょっとだけど、\n息子のオレが言うのも変だけど、\nいい夫婦だったんだなって思うぜ。{1a}オヤジからは何度も何度も\nお袋の話を聞いたし、{1a}オヤジが死んだ後は、\n近所の大人達から何度も\nオヤジとお袋の話を\n聞かせてもらってさ、{1a}{0c:2b5523525354}レノスで初めて会ったときの話とか、\nお袋が死んだ後もオヤジがトラドアに\n戻らなかったのは、お袋の故郷で\nオレを育てたかったからだとか、{1a}色んなこと聞かせてもらったけど、\nオレは2人とも幸せだったって思う。\nオレがこんな馬鹿に育ったことを\n除いたらな。{0c:2b5409fe}",
    "read": "{0c:521b1c}{1c:11}{0b:08}【 パスカ 】{0b:09}\nどうだろ・・・\nオレはあんまりそうは思わねえな。{1a}{0c:2b5523525152}オヤジとお袋が一緒に暮らした時間は\n2年ちょっとだけど、\n息子のオレが言うのも変だけど、\nいい夫婦だったんだなって思うぜ。{1a}オヤジからは何度も何度も\nお袋の話を聞いたし、{1a}オヤジが死んだ後は、\n近所の大人達から何度も\nオヤジとお袋の話を\n聞かせてもらってさ、{1a}{0c:2b5523525354}レノスで初めて会ったときの話とか、\nお袋が死んだ後もオヤジがトラドアに\n戻らなかったのは、お袋の故郷で\nオレを育てたかったからだとか、{1a}色んなこと聞かせてもらったけど、\nオレは2人とも幸せだったって思う。\nオレがこんな馬鹿に育ったことを\n除いたらな。{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521b1c}{1c:11}{0b:08}【 Pasca 】{0b:09}\nI dunno... I don't really see it that way.{1a}{0c:2b5523525152}They only had a little over two years\ntogether, and it's funny comin' from\ntheir own son, but I think they were a\ngood couple.{1a}My old man told me about my ma, over\nand over,{1a}and after he died, the grown-ups around\nthe village told me about the both of\n'em, over and over,{1a}{0c:2b5523525354}like how they first met in Lenos, and\nhow my old man never went back to\nTradoa after my ma died 'cause he\nwanted to raise me in her hometown.{1a}I heard all kinds of stuff, and I think\nthey were both happy. Except for me\ngrowin' up such an idiot, anyway.{0c:2b5409fe}",
+   "status": "done",
+   "tl": "I dunno... I don't really see it that way. // [1]They only had a little over two years together, and it's funny comin' from their own son, but I think they were a good couple. // My old man told me about my ma, over and over, // and after he died, the grown-ups around the village told me about the both of 'em, over and over, // [2]like how they first met in Lenos, and how my old man never went back to Tradoa after my ma died 'cause he wanted to raise me in her hometown. // I heard all kinds of stuff, and I think they were both happy. Except for me growin' up such an idiot, anyway."
   },
   {
    "id": "RES#361:9454",
@@ -1091,8 +1149,9 @@
    "jp": "{1c:15}{0b:08}【 シャルン 】{0b:09}\nやっぱりお母さんに会いたい?{0c:4c0509fe}",
    "read": "{1c:15}{0b:08}【 シャルン 】{0b:09}\nやっぱりお母さんに会いたい?{0c:4c0509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Scharn 】{0b:09}\nDo you still wish you could meet your\nmom?{0c:4c0509fe}",
+   "status": "done",
+   "tl": "Do you still wish you could meet your mom?"
   },
   {
    "id": "RES#361:947f",
@@ -1102,8 +1161,9 @@
    "jp": "{0c:521d1e}{1c:11}{0b:08}【 パスカ 】{0b:09}\nそりゃな。{1a}どんな顔してたんだろとか、\nどんな声してたんだろとかさ、\nやっぱ興味あるよ。{1a}でも、神サマが何か1つだけ\n願いをかなえてくれるとして、\nそれを願うかって聞かれたら、\n多分そこまでは思わねえ。{1a}お袋の記憶が全然ねえから、\nいくら話聞いても\nいまいちピンとこねえんだ。{0c:2b5409fe}",
    "read": "{0c:521d1e}{1c:11}{0b:08}【 パスカ 】{0b:09}\nそりゃな。{1a}どんな顔してたんだろとか、\nどんな声してたんだろとかさ、\nやっぱ興味あるよ。{1a}でも、神サマが何か1つだけ\n願いをかなえてくれるとして、\nそれを願うかって聞かれたら、\n多分そこまでは思わねえ。{1a}お袋の記憶が全然ねえから、\nいくら話聞いても\nいまいちピンとこねえんだ。{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521d1e}{1c:11}{0b:08}【 Pasca 】{0b:09}\nWell, sure.{1a}What her face looked like, what her voice\nsounded like... 'Course I'm curious.{1a}But say God would grant me just one\nwish, and somebody asked if I'd wish for\nthat. I prob'ly wouldn't go that far.{1a}I got no memory of her at all, so no\nmatter how many stories I hear, it just\ndon't quite sink in.{0c:2b5409fe}",
+   "status": "done",
+   "tl": "Well, sure. // What her face looked like, what her voice sounded like... 'Course I'm curious. // But say God would grant me just one wish, and somebody asked if I'd wish for that. I prob'ly wouldn't go that far. // I got no memory of her at all, so no matter how many stories I hear, it just don't quite sink in."
   },
   {
    "id": "RES#361:9540",
@@ -1113,8 +1173,9 @@
    "jp": "{0c:523736}{1c:15}{0b:08}【 シャルン 】{0b:09}\nうん、そういうのわかる。\nあたしのお母さんも\nあたしが2歳の時に亡くなったから。{0c:4c0509fe}",
    "read": "{0c:523736}{1c:15}{0b:08}【 シャルン 】{0b:09}\nうん、そういうのわかる。\nあたしのお母さんも\nあたしが2歳の時に亡くなったから。{0c:4c0509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523736}{1c:15}{0b:08}【 Scharn 】{0b:09}\nYeah, I know that feeling. My mom died\nwhen I was two as well.{0c:4c0509fe}",
+   "status": "done",
+   "tl": "Yeah, I know that feeling. My mom died when I was two as well."
   },
   {
    "id": "RES#361:958d",
@@ -1124,8 +1185,9 @@
    "jp": "{0c:521f1c}{1c:11}{0b:08}【 パスカ 】{0b:09}\nでもオヤジには会いてえ。{1a}オレが6歳のときに死んだから、\n中途半端に記憶が残ってる分\n余計にそう思うのかもしれねえな。{1a}ガキの頃はよく泣いてたよ。\nオヤジに会いてえ会いてえってな。{0c:2b5409fe}",
    "read": "{0c:521f1c}{1c:11}{0b:08}【 パスカ 】{0b:09}\nでもオヤジには会いてえ。{1a}オレが6歳のときに死んだから、\n中途半端に記憶が残ってる分\n余計にそう思うのかもしれねえな。{1a}ガキの頃はよく泣いてたよ。\nオヤジに会いてえ会いてえってな。{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521f1c}{1c:11}{0b:08}【 Pasca 】{0b:09}\nBut my old man, I wanna see him.{1a}He died when I was six. Maybe it's 'cause\nI've got just enough memories left that I\nfeel it more.{1a}Cried a lot when I was a kid. Wanted to\nsee my old man, wanted to see him so\nbad.{0c:2b5409fe}",
+   "status": "done",
+   "tl": "But my old man, I wanna see him. // He died when I was six. Maybe it's 'cause I've got just enough memories left that I feel it more. // Cried a lot when I was a kid. Wanted to see my old man, wanted to see him so bad."
   },
   {
    "id": "RES#361:9621",
@@ -1135,8 +1197,9 @@
    "jp": "{0c:523d3e}{1c:16}{0b:08}【 シャルン 】{0b:09}\nごめんね、\n嫌なこと聞いたかな・・・{0c:4c0509fe}",
    "read": "{0c:523d3e}{1c:16}{0b:08}【 シャルン 】{0b:09}\nごめんね、\n嫌なこと聞いたかな・・・{0c:4c0509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523d3e}{1c:16}{0b:08}【 Scharn 】{0b:09}\nSorry... Did I ask something awful?{0c:4c0509fe}",
+   "status": "done",
+   "tl": "Sorry... Did I ask something awful?"
   },
   {
    "id": "RES#361:9654",
@@ -1146,8 +1209,9 @@
    "jp": "{0c:521d1e}{1c:11}{0b:08}【 パスカ 】{0b:09}\n全然気にしてねえよ。\nそれにジェシカよりはマシさ。{1a}オレには、オヤジとお袋の話を\nしてくれるお節介な大人達が\n周りに大勢いたからな。{0c:2b5309fe}",
    "read": "{0c:521d1e}{1c:11}{0b:08}【 パスカ 】{0b:09}\n全然気にしてねえよ。\nそれにジェシカよりはマシさ。{1a}オレには、オヤジとお袋の話を\nしてくれるお節介な大人達が\n周りに大勢いたからな。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521d1e}{1c:11}{0b:08}【 Pasca 】{0b:09}\nDon't mind it one bit. Besides, I got it\nbetter than Jessica.{1a}I had a whole crowd of nosy grown-ups\naround to tell me about my old man and\nmy ma.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Don't mind it one bit. Besides, I got it better than Jessica. // I had a whole crowd of nosy grown-ups around to tell me about my old man and my ma."
   },
   {
    "id": "RES#361:96c9",
@@ -1157,8 +1221,9 @@
    "jp": "{0c:2b5323520905}{0c:2b5423523f40}{0c:2b5623525e56}{0c:2b5723526869}{0c:2b5023520600}{1c:13}{0b:08}【 アーサー 】{0b:09}\nそうか・・・\nジェシカは御両親の名前も顔も\n知らないんだったな・・・{0c:2b5409fe}",
    "read": "{0c:2b5323520905}{0c:2b5423523f40}{0c:2b5623525e56}{0c:2b5723526869}{0c:2b5023520600}{1c:13}{0b:08}【 アーサー 】{0b:09}\nそうか・・・\nジェシカは御両親の名前も顔も\n知らないんだったな・・・{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5323520905}{0c:2b5423523f40}{0c:2b5623525e56}{0c:2b5723526869}{0c:2b5023520600}{1c:13}{0b:08}【 Arthur 】{0b:09}\nThat's right... Jessica doesn't know her\nparents' names or faces, does she...{0c:2b5409fe}",
+   "status": "done",
+   "tl": "That's right... Jessica doesn't know her parents' names or faces, does she..."
   },
   {
    "id": "RES#361:9736",
@@ -1168,8 +1233,9 @@
    "jp": "{1c:15}{0b:08}【 シャルン 】{0b:09}\nそう考えると\nジェシカって強いよね。{0c:4c0509fe}",
    "read": "{1c:15}{0b:08}【 シャルン 】{0b:09}\nそう考えると\nジェシカって強いよね。{0c:4c0509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Scharn 】{0b:09}\nWhen you think about it, Jessica's really\nstrong, you know!{0c:4c0509fe}",
+   "status": "done",
+   "tl": "When you think about it, Jessica's really strong, you know!"
   },
   {
    "id": "RES#361:9766",
@@ -1179,8 +1245,9 @@
    "jp": "{0c:52201e}{1c:11}{0b:08}【 パスカ 】{0b:09}\nああ、オレもそう思う。{1a}親がいねえのは一緒でも、\nオヤジとお袋が最後までオレのこと\n心配してくれてたんだって\n知ってるだけでやっぱ違うよ。{1a}{0c:521215}オレがこいつの立場だったら\nどうなってたか分からねえ。{0c:2b5609fe}",
    "read": "{0c:52201e}{1c:11}{0b:08}【 パスカ 】{0b:09}\nああ、オレもそう思う。{1a}親がいねえのは一緒でも、\nオヤジとお袋が最後までオレのこと\n心配してくれてたんだって\n知ってるだけでやっぱ違うよ。{1a}{0c:521215}オレがこいつの立場だったら\nどうなってたか分からねえ。{0c:2b5609fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52201e}{1c:11}{0b:08}【 Pasca 】{0b:09}\nYeah, I think so too.{1a}We both got no folks, but just knowin'\nmy old man and my ma worried about me\nto the end makes all the difference.{1a}{0c:521215}If I'd been in her shoes, no tellin' how I'd\nhave turned out.{0c:2b5609fe}",
+   "status": "done",
+   "tl": "Yeah, I think so too. // We both got no folks, but just knowin' my old man and my ma worried about me to the end makes all the difference. // [1]If I'd been in her shoes, no tellin' how I'd have turned out."
   },
   {
    "id": "RES#361:9800",
@@ -1202,8 +1269,9 @@
    "jp": "{0c:52210e}{1c:11}{0b:08}【 パスカ 】{0b:09}\nなんだか話がどんどん\n重くなっちまったな。\n別の話題にしようぜ。{1a}{0c:2b5023520102}{0c:2b5423524136}{0c:2b5323520a02}{0c:2b5623526158}{0c:2b5723526a67}自分で話しておいてなんだけど、\nこういうシメった雰囲気って\nあんまり好きじゃねえんだ。{0c:2b5409fe}",
    "read": "{0c:52210e}{1c:11}{0b:08}【 パスカ 】{0b:09}\nなんだか話がどんどん\n重くなっちまったな。\n別の話題にしようぜ。{1a}{0c:2b5023520102}{0c:2b5423524136}{0c:2b5323520a02}{0c:2b5623526158}{0c:2b5723526a67}自分で話しておいてなんだけど、\nこういうシメった雰囲気って\nあんまり好きじゃねえんだ。{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52210e}{1c:11}{0b:08}【 Pasca 】{0b:09}\nDamn, this talk just keeps gettin'\nheavier. Let's change the subject.{1a}{0c:2b5023520102}{0c:2b5423524136}{0c:2b5323520a02}{0c:2b5623526158}{0c:2b5723526a67}I know I'm the one who started it, but I\nain't too fond of moods this damp.{0c:2b5409fe}",
+   "status": "done",
+   "tl": "Damn, this talk just keeps gettin' heavier. Let's change the subject. // [1]I know I'm the one who started it, but I ain't too fond of moods this damp."
   },
   {
    "id": "RES#361:98c2",
@@ -1213,8 +1281,9 @@
    "jp": "{1c:15}{0b:08}【 シャルン 】{0b:09}\nそうだね。{0c:2b5709fe}",
    "read": "{1c:15}{0b:08}【 シャルン 】{0b:09}\nそうだね。{0c:2b5709fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Scharn 】{0b:09}\nYou're right.{0c:2b5709fe}",
+   "status": "done",
+   "tl": "You're right."
   },
   {
    "id": "RES#361:98e1",
@@ -1224,8 +1293,9 @@
    "jp": "{0c:526667}{1c:1d}{0b:08}【 バルデス 】{0b:09}\nよし、じゃあ何か注文するか。\n{0c:2b5423523839}{0c:2b5323520b0c}{0c:2b5623526263}{0c:2b5023520708}心配するな。今日は俺のおごりだ。{0c:fe}",
    "read": "{0c:526667}{1c:1d}{0b:08}【 バルデス 】{0b:09}\nよし、じゃあ何か注文するか。\n{0c:2b5423523839}{0c:2b5323520b0c}{0c:2b5623526263}{0c:2b5023520708}心配するな。今日は俺のおごりだ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:526667}{1c:1d}{0b:08}【 Valdes 】{0b:09}\nAll right, let's order somethin'. {0c:2b5423523839}{0c:2b5323520b0c}{0c:2b5623526263}{0c:2b5023520708}Don't you\nworry. It's on me today.{0c:fe}",
+   "status": "done",
+   "tl": "All right, let's order somethin'. [1]Don't you worry. It's on me today."
   },
   {
    "id": "RES#361:9944",
@@ -1246,8 +1316,9 @@
    "jp": "{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nおごり!?\n誰かおごってくれるの!?{0c:fe}",
    "read": "{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nおごり!?\n誰かおごってくれるの!?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Jessica 】{0b:09}\nFree drinks!? Somebody's buying!?{0c:fe}",
+   "status": "done",
+   "tl": "Free drinks!? Somebody's buying!?"
   },
   {
    "id": "RES#361:997d",
@@ -1302,8 +1373,9 @@
    "jp": "{0c:523233}{1c:11}{0b:08}【 パスカ 】{0b:09}\nよっ、{10}。\n昨日は大変だったな。{1a}あれじゃ気分転換にも\nならなかっただろうけど、\nまた今日も行くか。{1a}{09:08}『太陽の宝玉』{09:01}とかいうの\n早く探しちまおうぜ。{0c:fe}",
    "read": "{0c:523233}{1c:11}{0b:08}【 パスカ 】{0b:09}\nよっ、{10}。\n昨日は大変だったな。{1a}あれじゃ気分転換にも\nならなかっただろうけど、\nまた今日も行くか。{1a}{09:08}『太陽の宝玉』{09:01}とかいうの\n早く探しちまおうぜ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523233}{1c:11}{0b:08}【 Pasca 】{0b:09}\nYo, {10}. Rough one yesterday,\nhuh?{1a}That couldn't have been much of a break\nfor ya, but wanna go again today?{1a}Let's hurry up and find {09:08}this 'Sun Jewel'{09:01}\nor whatever.{0c:fe}",
+   "status": "done",
+   "tl": "Yo, [HERO]. Rough one yesterday, huh? // That couldn't have been much of a break for ya, but wanna go again today? // Let's hurry up and find [1]this 'Sun Jewel'[2] or whatever."
   },
   {
    "id": "RES#361:9ac4",
