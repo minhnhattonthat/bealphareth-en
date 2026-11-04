@@ -41,8 +41,9 @@
    "jp": "{0c:51003a00}{0b:08}【 足を怪我している男 】{0b:09}\n君は{01}?\n{02}あの子の友達か{01}?{1a}{02}あの子の・・・{03}シャルン{02}のことを\n心配して来てくれたのか{01}?{02}{07:19}{0c:fb05}",
    "read": "{0c:51003a00}{0b:08}【 足を怪我している男 】{0b:09}\n君は{01}?\n{02}あの子の友達か{01}?{1a}{02}あの子の・・・{03}シャルン{02}のことを\n心配して来てくれたのか{01}?{02}{07:19}{0c:fb05}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51003a00}{0b:08}【 Man with a Hurt Leg 】{0b:09}\nAnd you are? A friend of hers?{1a}Did you come because you were worried\nabout her... about Scharn?{07:19}{0c:fb05}",
+   "status": "done",
+   "tl": "And you are? A friend of hers? // Did you come because you were worried about her... about Scharn?"
   },
   {
    "id": "RES#1181:851c",
@@ -52,8 +53,9 @@
    "jp": "はい|いえ、別に・・・",
    "read": "はい|いえ、別に・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Yes|No, not really...",
+   "status": "done",
+   "tl": "Yes|No, not really..."
   },
   {
    "id": "RES#1181:8529",
@@ -74,8 +76,9 @@
    "jp": "{0c:f706050b00fe0b06020b08040b0a020b1202}{0b:08}【 足を怪我している男 】{0b:09}\nあの子の兄貴に代わって\n礼を言っておくよ。{1a}俺は1年前まであの子の兄貴、\nクラウスと一緒に戦ってたんだ。{1a}クラウスは強い戦士だった。\n槍の腕だけでなく、精神的にも、\n総てにおいてな。{1a}{0c:52090a}バルデスさんにも一目置かれるくらい\n強い戦士だったあいつが、\nまさかあんな死に方をするなんて\n今でも信じられない・・・{0c:1501}",
    "read": "{0c:f706050b00fe0b06020b08040b0a020b1202}{0b:08}【 足を怪我している男 】{0b:09}\nあの子の兄貴に代わって\n礼を言っておくよ。{1a}俺は1年前まであの子の兄貴、\nクラウスと一緒に戦ってたんだ。{1a}クラウスは強い戦士だった。\n槍の腕だけでなく、精神的にも、\n総てにおいてな。{1a}{0c:52090a}バルデスさんにも一目置かれるくらい\n強い戦士だったあいつが、\nまさかあんな死に方をするなんて\n今でも信じられない・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:f706050b00fe0b06020b08040b0a020b1202}{0b:08}【 Man with a Hurt Leg 】{0b:09}\nThen let me thank you, in her brother's\nplace.{1a}Until a year ago, I fought alongside her\nbrother, Klaus.{1a}Klaus was a strong warrior. Not just\nwith a spear, but in spirit, in everything.{1a}{0c:52090a}Even Valdes-san gave him his due, a\nwarrior that strong... To die the way he\ndid... I still can't believe it...{0c:1501}",
+   "status": "done",
+   "tl": "Then let me thank you, in her brother's place. // Until a year ago, I fought alongside her brother, Klaus. // Klaus was a strong warrior. Not just with a spear, but in spirit, in everything. // [1]Even Valdes-san gave him his due, a warrior that strong... To die the way he did... I still can't believe it..."
   },
   {
    "id": "RES#1181:8626",
@@ -96,8 +99,9 @@
    "jp": "ここは、クラウスと俺とが\n一緒に住んでいた部屋さ。\nあの子はこの部屋でずっと泣いてる。{1a}{0c:52090a}泣きながらも、\n離れて暮らした6年間の\n戦士としての兄貴の姿を\n感じとろうとしてるらしいんだ。{1a}俺も力になってやりたいが、\n何もしてやれない・・・\n俺の身体も長くはないんでな・・・{1a}{0c:5100}気丈そうな子だがまだまだ若い。\nあの子を支えてやってくれ・・・{0c:1501}",
    "read": "ここは、クラウスと俺とが\n一緒に住んでいた部屋さ。\nあの子はこの部屋でずっと泣いてる。{1a}{0c:52090a}泣きながらも、\n離れて暮らした6年間の\n戦士としての兄貴の姿を\n感じとろうとしてるらしいんだ。{1a}俺も力になってやりたいが、\n何もしてやれない・・・\n俺の身体も長くはないんでな・・・{1a}{0c:5100}気丈そうな子だがまだまだ若い。\nあの子を支えてやってくれ・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "This is the room Klaus and I shared.\nShe's been in here crying all this time.{1a}{0c:52090a}Even through her tears, it seems she's\ntrying to get a feel for her brother as a\nwarrior, for the six years they lived\napart.{1a}I want to help her, but there's nothing I\ncan do... This body of mine won't last\nmuch longer...{1a}{0c:5100}She seems strong-willed, but she's still\nyoung. Please stand by her...{0c:1501}",
+   "status": "done",
+   "tl": "This is the room Klaus and I shared. She's been in here crying all this time. // [1]Even through her tears, it seems she's trying to get a feel for her brother as a warrior, for the six years they lived apart. // I want to help her, but there's nothing I can do... This body of mine won't last much longer... // [2]She seems strong-willed, but she's still young. Please stand by her..."
   },
   {
    "id": "RES#1181:870b",
@@ -118,8 +122,9 @@
    "jp": "{0c:5100}{0b:08}【 足を怪我している男 】{0b:09}\nあの子のことを\n心配してくれてありがとよ。{1a}クラウスもあの世できっと\n喜んでるよ・・・{0c:1501}",
    "read": "{0c:5100}{0b:08}【 足を怪我している男 】{0b:09}\nあの子のことを\n心配してくれてありがとよ。{1a}クラウスもあの世できっと\n喜んでるよ・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5100}{0b:08}【 Man with a Hurt Leg 】{0b:09}\nThanks for worrying about her.{1a}I'm sure Klaus is glad too, in the next\nworld...{0c:1501}",
+   "status": "done",
+   "tl": "Thanks for worrying about her. // I'm sure Klaus is glad too, in the next world..."
   },
   {
    "id": "RES#1181:8765",
@@ -140,8 +145,9 @@
    "jp": "{0c:5100}{0b:08}【 足を怪我している男 】{0b:09}\nそうか・・・\nいや、違うならいいんだ。{0c:1501}",
    "read": "{0c:5100}{0b:08}【 足を怪我している男 】{0b:09}\nそうか・・・\nいや、違うならいいんだ。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5100}{0b:08}【 Man with a Hurt Leg 】{0b:09}\nI see... No, if that's not it, never mind.{0c:1501}",
+   "status": "done",
+   "tl": "I see... No, if that's not it, never mind."
   },
   {
    "id": "RES#1181:87a2",
@@ -162,8 +168,9 @@
    "jp": "{0c:5100}{0b:08}【 足を怪我している男 】{0b:09}\nすまないが\n静かにしてやってくれ・・・{0c:1501}",
    "read": "{0c:5100}{0b:08}【 足を怪我している男 】{0b:09}\nすまないが\n静かにしてやってくれ・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5100}{0b:08}【 Man with a Hurt Leg 】{0b:09}\nI'm sorry, but please let her have some\nquiet...{0c:1501}",
+   "status": "done",
+   "tl": "I'm sorry, but please let her have some quiet..."
   },
   {
    "id": "RES#1181:87de",
@@ -195,8 +202,9 @@
    "jp": "{0c:0402}{0b:08}【 足を怪我している男 】{0b:09}\nああ、君か・・・\nあの子はまだその部屋の中さ・・・{0c:1501}",
    "read": "{0c:0402}{0b:08}【 足を怪我している男 】{0b:09}\nああ、君か・・・\nあの子はまだその部屋の中さ・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:0402}{0b:08}【 Man with a Hurt Leg 】{0b:09}\nAh, it's you... She's still in that room...{0c:1501}",
+   "status": "done",
+   "tl": "Ah, it's you... She's still in that room..."
   },
   {
    "id": "RES#1181:885e",
@@ -217,8 +225,9 @@
    "jp": "{0c:5100}{0b:08}【 足を怪我している男 】{0b:09}\nあの子のことを\n心配してくれてありがとよ。{1a}クラウスもあの世できっと\n喜んでるよ・・・{0c:1501}",
    "read": "{0c:5100}{0b:08}【 足を怪我している男 】{0b:09}\nあの子のことを\n心配してくれてありがとよ。{1a}クラウスもあの世できっと\n喜んでるよ・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5100}{0b:08}【 Man with a Hurt Leg 】{0b:09}\nThanks for worrying about her.{1a}I'm sure Klaus is glad too, in the next\nworld...{0c:1501}",
+   "status": "done",
+   "tl": "Thanks for worrying about her. // I'm sure Klaus is glad too, in the next world..."
   },
   {
    "id": "RES#1181:88b8",
@@ -273,8 +282,9 @@
    "jp": "{0c:5100}{0b:08}【 足を怪我している男 】{0b:09}\nすまないが\n静かにしてやってくれ・・・{0c:1501}",
    "read": "{0c:5100}{0b:08}【 足を怪我している男 】{0b:09}\nすまないが\n静かにしてやってくれ・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5100}{0b:08}【 Man with a Hurt Leg 】{0b:09}\nI'm sorry, but please let her have some\nquiet...{0c:1501}",
+   "status": "done",
+   "tl": "I'm sorry, but please let her have some quiet..."
   },
   {
    "id": "RES#1181:8960",
@@ -295,8 +305,9 @@
    "jp": "{0c:f706100b00050b06000b08f60b0a000b1200}な、なにを・・・!{0c:15}",
    "read": "{0c:f706100b00050b06000b08f60b0a000b1200}な、なにを・・・!{0c:15}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:f706100b00050b06000b08f60b0a000b1200}Wh-what are you...!{0c:15}",
+   "status": "done",
+   "tl": "Wh-what are you...!"
   },
   {
    "id": "RES#1181:898a",
@@ -306,8 +317,9 @@
    "jp": "頼む、\n今はそっとしてやってくれ・・・",
    "read": "頼む、\n今はそっとしてやってくれ・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Please, leave her be for now...",
+   "status": "done",
+   "tl": "Please, leave her be for now..."
   },
   {
    "id": "RES#1181:89a0",
@@ -328,8 +340,9 @@
    "jp": "{0b:08}【 足を怪我している男 】{0b:09}\n頼む、\n今はそっとしてやってくれ・・・{0c:fe}",
    "read": "{0b:08}【 足を怪我している男 】{0b:09}\n頼む、\n今はそっとしてやってくれ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Man with a Hurt Leg 】{0b:09}\nPlease, leave her be for now...{0c:fe}",
+   "status": "done",
+   "tl": "Please, leave her be for now..."
   },
   {
    "id": "RES#1181:8a53",
@@ -350,8 +363,9 @@
    "jp": "{1c:14}{0b:08}【 パスカ 】{0b:09}\nお前なに考えてんだよ、\n早く出ようぜ。{0c:021901}",
    "read": "{1c:14}{0b:08}【 パスカ 】{0b:09}\nお前なに考えてんだよ、\n早く出ようぜ。{0c:021901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Pasca 】{0b:09}\nThe hell are ya thinkin'? Let's get outta\nhere, now.{0c:021901}",
+   "status": "done",
+   "tl": "The hell are ya thinkin'? Let's get outta here, now."
   },
   {
    "id": "RES#1181:8ac3",
@@ -372,8 +386,9 @@
    "jp": "{1c:15}{0b:08}【 エレアノール 】{0b:09}\n{10}、今はそっとして\nおいてあげましょう・・・{0c:021701}",
    "read": "{1c:15}{0b:08}【 エレアノール 】{0b:09}\n{10}、今はそっとして\nおいてあげましょう・・・{0c:021701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Eleanor 】{0b:09}\n{10}, let us leave her in peace for\nnow...{0c:021701}",
+   "status": "done",
+   "tl": "[HERO], let us leave her in peace for now..."
   },
   {
    "id": "RES#1181:8b00",
@@ -394,8 +409,9 @@
    "jp": "{1c:16}{0b:08}【 ジェシカ 】{0b:09}\nあんたなに考えてんのよ、\n外に出るよ。{0c:021501}",
    "read": "{1c:16}{0b:08}【 ジェシカ 】{0b:09}\nあんたなに考えてんのよ、\n外に出るよ。{0c:021501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}{0b:08}【 Jessica 】{0b:09}\nWhat's going on in that head of yours,\nhuh? We're going outside.{0c:021501}",
+   "status": "done",
+   "tl": "What's going on in that head of yours, huh? We're going outside."
   },
   {
    "id": "RES#1181:8b3a",
@@ -416,8 +432,9 @@
    "jp": "{1c:17}{0b:08}【 サラ 】{0b:09}\nそっとしておいてあげようよ、\n{10}さん。{0c:021301}",
    "read": "{1c:17}{0b:08}【 サラ 】{0b:09}\nそっとしておいてあげようよ、\n{10}さん。{0c:021301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Sara 】{0b:09}\nLet's leave her alone, okay,\n{10}-san?{0c:021301}",
+   "status": "done",
+   "tl": "Let's leave her alone, okay, [HERO]-san?"
   },
   {
    "id": "RES#1181:8b6f",
@@ -438,8 +455,9 @@
    "jp": "{1c:18}{0b:08}【 アーサー 】{0b:09}\n{10}、早く出よう。{0c:021101}",
    "read": "{1c:18}{0b:08}【 アーサー 】{0b:09}\n{10}、早く出よう。{0c:021101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Arthur 】{0b:09}\n{10}, let's get out of here, quickly.{0c:021101}",
+   "status": "done",
+   "tl": "[HERO], let's get out of here, quickly."
   },
   {
    "id": "RES#1181:8b9d",
@@ -460,8 +478,9 @@
    "jp": "{1c:19}{0b:08}【 アッシュ 】{0b:09}\nあの子にわるいよ・・・\nはやく出よう。{0c:020f01}",
    "read": "{1c:19}{0b:08}【 アッシュ 】{0b:09}\nあの子にわるいよ・・・\nはやく出よう。{0c:020f01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Ash 】{0b:09}\nThis isn't fair to her... Let's go, quick.{0c:020f01}",
+   "status": "done",
+   "tl": "This isn't fair to her... Let's go, quick."
   },
   {
    "id": "RES#1181:8bd6",
@@ -482,8 +501,9 @@
    "jp": "{1c:1a}{0b:08}【 イヴ 】{0b:09}\nあなたって悪趣味ね・・・{0c:020d01}",
    "read": "{1c:1a}{0b:08}【 イヴ 】{0b:09}\nあなたって悪趣味ね・・・{0c:020d01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}{0b:08}【 Eve 】{0b:09}\nWhat poor taste you have...{0c:020d01}",
+   "status": "done",
+   "tl": "What poor taste you have..."
   },
   {
    "id": "RES#1181:8c07",
@@ -515,8 +535,9 @@
    "jp": "{1c:1b}{0b:08}【 オルフェウス 】{0b:09}\nこういう時は、そっとして\nおいてあげるのが紳士ですよ。{0c:020a01}",
    "read": "{1c:1b}{0b:08}【 オルフェウス 】{0b:09}\nこういう時は、そっとして\nおいてあげるのが紳士ですよ。{0c:020a01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Orpheus 】{0b:09}\nAt a time like this, a gentleman leaves a\nlady in peace, I daresay.{0c:020a01}",
+   "status": "done",
+   "tl": "At a time like this, a gentleman leaves a lady in peace, I daresay."
   },
   {
    "id": "RES#1181:8c56",
@@ -526,8 +547,9 @@
    "jp": "{1c:1b}{0b:08}【 オルフェウス 】{0b:09}\nそっとしておいてあげましょう・・・{0c:020901}",
    "read": "{1c:1b}{0b:08}【 オルフェウス 】{0b:09}\nそっとしておいてあげましょう・・・{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Orpheus 】{0b:09}\nLet us leave her in peace...{0c:020901}",
+   "status": "done",
+   "tl": "Let us leave her in peace..."
   },
   {
    "id": "RES#1181:8c82",
@@ -548,8 +570,9 @@
    "jp": "{1c:1c}{0b:08}【 レイア 】{0b:09}\n悪趣味だな・・・\n外で待っている。{0c:020701}",
    "read": "{1c:1c}{0b:08}【 レイア 】{0b:09}\n悪趣味だな・・・\n外で待っている。{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Leia 】{0b:09}\nHow tasteless... I will wait outside.{0c:020701}",
+   "status": "done",
+   "tl": "How tasteless... I will wait outside."
   },
   {
    "id": "RES#1181:8cbb",
@@ -570,8 +593,9 @@
    "jp": "{1c:1d}{0b:08}【 ノエル 】{0b:09}\n非常識な人ね・・・\n外に出るわよ。{0c:020501}",
    "read": "{1c:1d}{0b:08}【 ノエル 】{0b:09}\n非常識な人ね・・・\n外に出るわよ。{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}{0b:08}【 Noel 】{0b:09}\nHave you no sense at all...? I'm going\noutside.{0c:020501}",
+   "status": "done",
+   "tl": "Have you no sense at all...? I'm going outside."
   },
   {
    "id": "RES#1181:8cf5",
@@ -592,8 +616,9 @@
    "jp": "{1c:1e}{0b:08}【 ルカ 】{0b:09}\nあ、あの・・・\nそ、外に出ませんか・・・?{0c:020301}",
    "read": "{1c:1e}{0b:08}【 ルカ 】{0b:09}\nあ、あの・・・\nそ、外に出ませんか・・・?{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}{0b:08}【 Luca 】{0b:09}\nU-um... c-could we go outside...?{0c:020301}",
+   "status": "done",
+   "tl": "U-um... c-could we go outside...?"
   },
   {
    "id": "RES#1181:8d2f",
@@ -614,8 +639,9 @@
    "jp": "{1c:1f}{0b:08}【 ディアス 】{0b:09}\n用はなかろう。{0c:fe}",
    "read": "{1c:1f}{0b:08}【 ディアス 】{0b:09}\n用はなかろう。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}{0b:08}【 Dias 】{0b:09}\nYou have no business here.{0c:fe}",
+   "status": "done",
+   "tl": "You have no business here."
   },
   {
    "id": "RES#1181:8d59",
@@ -647,8 +673,9 @@
    "jp": "{0c:51003a00}{0b:08}【 足を怪我している男 】{0b:09}\nああ、君か・・・{1a}あの子はまだその部屋の中さ・・・{1a}あの子がその部屋に入って\nもう3日経ったが、\nその間あの子はほとんど何も\n口にしていない・・・{1a}{0c:52090a}あの子の体の事も心配なんだが、\nあの子の兄貴を見殺しにしたこの俺が\nあの子に一体どんな言葉をかけて\nやればいいのか・・・{0c:1501}",
    "read": "{0c:51003a00}{0b:08}【 足を怪我している男 】{0b:09}\nああ、君か・・・{1a}あの子はまだその部屋の中さ・・・{1a}あの子がその部屋に入って\nもう3日経ったが、\nその間あの子はほとんど何も\n口にしていない・・・{1a}{0c:52090a}あの子の体の事も心配なんだが、\nあの子の兄貴を見殺しにしたこの俺が\nあの子に一体どんな言葉をかけて\nやればいいのか・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51003a00}{0b:08}【 Man with a Hurt Leg 】{0b:09}\nAh, it's you...{1a}She's still in that room...{1a}It's been three days since she went in,\nand in all that time she's hardly eaten a\nthing...{1a}{0c:52090a}I'm worried for her health too, but what\non earth can I say to her, when I'm the\none who left her brother to die...{0c:1501}",
+   "status": "done",
+   "tl": "Ah, it's you... // She's still in that room... // It's been three days since she went in, and in all that time she's hardly eaten a thing... // [1]I'm worried for her health too, but what on earth can I say to her, when I'm the one who left her brother to die..."
   },
   {
    "id": "RES#1181:8e97",
@@ -681,8 +708,9 @@
    "jp": "{1c:10}{0b:08}【 シャルン 】{0b:09}\nジェイドさん、\n{0c:520100}心配かけて本当にごめんなさい。{0c:2b51091501}",
    "read": "{1c:10}{0b:08}【 シャルン 】{0b:09}\nジェイドさん、\n{0c:520100}心配かけて本当にごめんなさい。{0c:2b51091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Scharn 】{0b:09}\nJade-san, {0c:520100}I'm so sorry for worrying you.{0c:2b51091501}",
+   "status": "done",
+   "tl": "Jade-san, [1]I'm so sorry for worrying you."
   },
   {
    "id": "RES#1181:8f5a",
@@ -692,8 +720,9 @@
    "jp": "{0c:52090a}{0b:08}【 ジェイド 】{0b:09}\nいや、謝らなければ\nならないのは俺の方だ・・・{1a}俺は君の兄貴を救うことが\n出来なかった・・・{0c:2908091501}",
    "read": "{0c:52090a}{0b:08}【 ジェイド 】{0b:09}\nいや、謝らなければ\nならないのは俺の方だ・・・{1a}俺は君の兄貴を救うことが\n出来なかった・・・{0c:2908091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52090a}{0b:08}【 Jade 】{0b:09}\nNo, I'm the one who should apologize...{1a}I couldn't save your brother...{0c:2908091501}",
+   "status": "done",
+   "tl": "No, I'm the one who should apologize... // I couldn't save your brother..."
   },
   {
    "id": "RES#1181:8fb0",
@@ -714,8 +743,9 @@
    "jp": "{1c:11}{0b:08}【 シャルン 】{0b:09}\nううん、気を使わないで下さい。\n兄さんも覚悟は出来てたと思います。{0c:2b51091501}",
    "read": "{1c:11}{0b:08}【 シャルン 】{0b:09}\nううん、気を使わないで下さい。\n兄さんも覚悟は出来てたと思います。{0c:2b51091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Scharn 】{0b:09}\nNo, please don't feel you have to say\nthat. I think my brother was ready for it.{0c:2b51091501}",
+   "status": "done",
+   "tl": "No, please don't feel you have to say that. I think my brother was ready for it."
   },
   {
    "id": "RES#1181:8ffe",
@@ -725,8 +755,9 @@
    "jp": "{0b:08}【 ジェイド 】{0b:09}\nそう言って貰えると\n少しは気が楽になる・・・\nしかし・・・{0c:2908091501}",
    "read": "{0b:08}【 ジェイド 】{0b:09}\nそう言って貰えると\n少しは気が楽になる・・・\nしかし・・・{0c:2908091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Jade 】{0b:09}\nHearing that does ease my mind a little...\nBut still...{0c:2908091501}",
+   "status": "done",
+   "tl": "Hearing that does ease my mind a little... But still..."
   },
   {
    "id": "RES#1181:9039",
@@ -736,8 +767,9 @@
    "jp": "{1c:10}{0b:08}【 シャルン 】{0b:09}\nあたしはもう大丈夫です。{1a}{0c:520b0c}それに、いつまでも泣いてちゃ\n兄さんに笑われるから。{0c:1501}",
    "read": "{1c:10}{0b:08}【 シャルン 】{0b:09}\nあたしはもう大丈夫です。{1a}{0c:520b0c}それに、いつまでも泣いてちゃ\n兄さんに笑われるから。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Scharn 】{0b:09}\nI'm all right now.{1a}{0c:520b0c}Besides, if I keep crying forever, my\nbrother will laugh at me.{0c:1501}",
+   "status": "done",
+   "tl": "I'm all right now. // [1]Besides, if I keep crying forever, my brother will laugh at me."
   },
   {
    "id": "RES#1181:9083",
@@ -747,8 +779,9 @@
    "jp": "{0c:510d}{1c:12}恥ずかしいとこ\n見られちゃったかな。{1a}えーと・・・\n確か{10}って言ったよね、\nあたしがその部屋で泣いてたこと、\n他の人には言わないでね。{0c:fe}",
    "read": "{0c:510d}{1c:12}恥ずかしいとこ\n見られちゃったかな。{1a}えーと・・・\n確か{10}って言ったよね、\nあたしがその部屋で泣いてたこと、\n他の人には言わないでね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:510d}{1c:12}Guess you saw me at my most\nembarrassing, huh?{1a}Um... It's {10}, right? Please don't\ntell anyone I was crying in that room,\nokay?{0c:fe}",
+   "status": "done",
+   "tl": "Guess you saw me at my most embarrassing, huh? // Um... It's [HERO], right? Please don't tell anyone I was crying in that room, okay?"
   },
   {
    "id": "RES#1181:90da",
@@ -769,8 +802,9 @@
    "jp": "{1c:12}ありがと、{10}。{1a}それから・・・\nもし今から遺跡に行くのなら\nあたしも誘ってくれないかな。{1a}いっぱい頑張って、\n兄さんに早く追いつきたいんだ。{0c:1501}",
    "read": "{1c:12}ありがと、{10}。{1a}それから・・・\nもし今から遺跡に行くのなら\nあたしも誘ってくれないかな。{1a}いっぱい頑張って、\n兄さんに早く追いつきたいんだ。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Thanks, {10}.{1a}And, um... if you're going to the ruins\nnow, won't you ask me along too?{1a}I'm gonna work really hard and catch up\nwith my brother soon!{0c:1501}",
+   "status": "done",
+   "tl": "Thanks, [HERO]. // And, um... if you're going to the ruins now, won't you ask me along too? // I'm gonna work really hard and catch up with my brother soon!"
   },
   {
    "id": "RES#1181:9149",
@@ -791,8 +825,9 @@
    "jp": "{1c:12}{0c:510e}{0b:08}【 シャルン 】{0b:09}\nありがと、{10}。\nあたし頑張るよ。{1a}{0c:5100}ジェイドさん、\n{0c:2b515508}ありがとうございました。\n{0c:520100}また今度お話を聞かせて下さい。{0c:1501}",
    "read": "{1c:12}{0c:510e}{0b:08}【 シャルン 】{0b:09}\nありがと、{10}。\nあたし頑張るよ。{1a}{0c:5100}ジェイドさん、\n{0c:2b515508}ありがとうございました。\n{0c:520100}また今度お話を聞かせて下さい。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0c:510e}{0b:08}【 Scharn 】{0b:09}\nThanks, {10}. I'll do my best!{1a}{0c:5100}Jade-san, {0c:2b515508}thank you for everything.\n{0c:520100}Please tell me more stories another time.{0c:1501}",
+   "status": "done",
+   "tl": "Thanks, [HERO]. I'll do my best! // [1]Jade-san, [2]thank you for everything. [3]Please tell me more stories another time."
   },
   {
    "id": "RES#1181:91b8",
@@ -813,8 +848,9 @@
    "jp": "{0b:08}【 ジェイド 】{0b:09}\n気丈な子だな・・・\nクラウスの言った通りだよ・・・{0c:2908091501}",
    "read": "{0b:08}【 ジェイド 】{0b:09}\n気丈な子だな・・・\nクラウスの言った通りだよ・・・{0c:2908091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Jade 】{0b:09}\nStrong-willed girl... Just like Klaus said...{0c:2908091501}",
+   "status": "done",
+   "tl": "Strong-willed girl... Just like Klaus said..."
   },
   {
    "id": "RES#1181:91ff",
@@ -824,8 +860,9 @@
    "jp": "{0c:510d}{1c:12}{0b:08}【 シャルン 】{0b:09}\nじゃあ行きましょ!{0c:fe}",
    "read": "{0c:510d}{1c:12}{0b:08}【 シャルン 】{0b:09}\nじゃあ行きましょ!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:510d}{1c:12}{0b:08}【 Scharn 】{0b:09}\nOkay, let's go!{0c:fe}",
+   "status": "done",
+   "tl": "Okay, let's go!"
   },
   {
    "id": "RES#1181:9225",
@@ -846,8 +883,9 @@
    "jp": "{1c:12}{0b:08}【 シャルン 】{0b:09}\nそう・・・\nううん、気にしてないよ。\nいつでも誘ってね。{0c:1501}",
    "read": "{1c:12}{0b:08}【 シャルン 】{0b:09}\nそう・・・\nううん、気にしてないよ。\nいつでも誘ってね。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Scharn 】{0b:09}\nI see... No, don't worry about it! Ask me\nanytime, okay?{0c:1501}",
+   "status": "done",
+   "tl": "I see... No, don't worry about it! Ask me anytime, okay?"
   },
   {
    "id": "RES#1181:9271",
@@ -857,8 +895,9 @@
    "jp": "{0c:5100}{1c:12}ジェイドさん、\n{0c:2b515508}ありがとうございました。\n{0c:520100}また今度お話を聞かせて下さい。{0c:1501}",
    "read": "{0c:5100}{1c:12}ジェイドさん、\n{0c:2b515508}ありがとうございました。\n{0c:520100}また今度お話を聞かせて下さい。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5100}{1c:12}Jade-san, {0c:2b515508}thank you for everything.\n{0c:520100}Please tell me more stories another time.{0c:1501}",
+   "status": "done",
+   "tl": "Jade-san, [1]thank you for everything. [2]Please tell me more stories another time."
   },
   {
    "id": "RES#1181:92b2",
@@ -879,8 +918,9 @@
    "jp": "{0b:08}【 ジェイド 】{0b:09}\n気丈な子だな・・・\nクラウスの言った通りだよ・・・{0c:1501}",
    "read": "{0b:08}【 ジェイド 】{0b:09}\n気丈な子だな・・・\nクラウスの言った通りだよ・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Jade 】{0b:09}\nStrong-willed girl... Just like Klaus said...{0c:1501}",
+   "status": "done",
+   "tl": "Strong-willed girl... Just like Klaus said..."
   },
   {
    "id": "RES#1181:92f6",
@@ -901,8 +941,9 @@
    "jp": "{0c:51003a00}あの子をよろしく頼む・・・\n仲良くしてやってくれ。{0c:fe}",
    "read": "{0c:51003a00}あの子をよろしく頼む・・・\n仲良くしてやってくれ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51003a00}Please look after her... Be a good friend\nto her.{0c:fe}",
+   "status": "done",
+   "tl": "Please look after her... Be a good friend to her."
   },
   {
    "id": "RES#1181:9344",
@@ -934,8 +975,9 @@
    "jp": "{0c:51003a00}{0b:08}【 足を怪我している男 】{0b:09}\nああ、君か・・・{1a}あの子はまだその部屋の中さ・・・{1a}あの子がその部屋に入って\nもう3日経ったが、\nその間あの子はほとんど何も\n口にしていない・・・{1a}{0c:52090a}あの子の体の事も心配なんだが、\nあの子の兄貴を見殺しにしたこの俺が\nあの子に一体どんな言葉をかけて\nやればいいのか・・・{0c:1501}",
    "read": "{0c:51003a00}{0b:08}【 足を怪我している男 】{0b:09}\nああ、君か・・・{1a}あの子はまだその部屋の中さ・・・{1a}あの子がその部屋に入って\nもう3日経ったが、\nその間あの子はほとんど何も\n口にしていない・・・{1a}{0c:52090a}あの子の体の事も心配なんだが、\nあの子の兄貴を見殺しにしたこの俺が\nあの子に一体どんな言葉をかけて\nやればいいのか・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51003a00}{0b:08}【 Man with a Hurt Leg 】{0b:09}\nAh, it's you...{1a}She's still in that room...{1a}It's been three days since she went in,\nand in all that time she's hardly eaten a\nthing...{1a}{0c:52090a}I'm worried for her health too, but what\non earth can I say to her, when I'm the\none who left her brother to die...{0c:1501}",
+   "status": "done",
+   "tl": "Ah, it's you... // She's still in that room... // It's been three days since she went in, and in all that time she's hardly eaten a thing... // [1]I'm worried for her health too, but what on earth can I say to her, when I'm the one who left her brother to die..."
   },
   {
    "id": "RES#1181:9489",
@@ -968,8 +1010,9 @@
    "jp": "{1c:10}{0b:08}【 シャルン 】{0b:09}\nジェイドさん、\n{0c:520100}心配かけて本当にごめんなさい。{0c:2b51091501}",
    "read": "{1c:10}{0b:08}【 シャルン 】{0b:09}\nジェイドさん、\n{0c:520100}心配かけて本当にごめんなさい。{0c:2b51091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Scharn 】{0b:09}\nJade-san, {0c:520100}I'm so sorry for worrying you.{0c:2b51091501}",
+   "status": "done",
+   "tl": "Jade-san, [1]I'm so sorry for worrying you."
   },
   {
    "id": "RES#1181:954c",
@@ -979,8 +1022,9 @@
    "jp": "{0c:52090a}{0b:08}【 足を怪我している男 】{0b:09}\nいや、謝らなければ\nならないのは俺の方だ・・・{1a}俺は君の兄貴を救うことが\n出来なかった・・・{0c:2908091501}",
    "read": "{0c:52090a}{0b:08}【 足を怪我している男 】{0b:09}\nいや、謝らなければ\nならないのは俺の方だ・・・{1a}俺は君の兄貴を救うことが\n出来なかった・・・{0c:2908091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52090a}{0b:08}【 Man with a Hurt Leg 】{0b:09}\nNo, I'm the one who should apologize...{1a}I couldn't save your brother...{0c:2908091501}",
+   "status": "done",
+   "tl": "No, I'm the one who should apologize... // I couldn't save your brother..."
   },
   {
    "id": "RES#1181:95a9",
@@ -1001,8 +1045,9 @@
    "jp": "{1c:11}{0b:08}【 シャルン 】{0b:09}\nううん、気を使わないで下さい。\n兄さんも覚悟は出来てたと思います。{0c:2b51091501}",
    "read": "{1c:11}{0b:08}【 シャルン 】{0b:09}\nううん、気を使わないで下さい。\n兄さんも覚悟は出来てたと思います。{0c:2b51091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Scharn 】{0b:09}\nNo, please don't feel you have to say\nthat. I think my brother was ready for it.{0c:2b51091501}",
+   "status": "done",
+   "tl": "No, please don't feel you have to say that. I think my brother was ready for it."
   },
   {
    "id": "RES#1181:95f7",
@@ -1012,8 +1057,9 @@
    "jp": "{0b:08}【 足を怪我している男 】{0b:09}\nそう言って貰えると\n少しは気が楽になる・・・\nしかし・・・{0c:2908091501}",
    "read": "{0b:08}【 足を怪我している男 】{0b:09}\nそう言って貰えると\n少しは気が楽になる・・・\nしかし・・・{0c:2908091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Man with a Hurt Leg 】{0b:09}\nHearing that does ease my mind a little...\nBut still...{0c:2908091501}",
+   "status": "done",
+   "tl": "Hearing that does ease my mind a little... But still..."
   },
   {
    "id": "RES#1181:9639",
@@ -1023,8 +1069,9 @@
    "jp": "{1c:10}{0b:08}【 シャルン 】{0b:09}\nあたしはもう大丈夫です。{1a}{0c:520b0c}それに、いつまでも泣いてちゃ\n兄さんに笑われるから。{0c:1501}",
    "read": "{1c:10}{0b:08}【 シャルン 】{0b:09}\nあたしはもう大丈夫です。{1a}{0c:520b0c}それに、いつまでも泣いてちゃ\n兄さんに笑われるから。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Scharn 】{0b:09}\nI'm all right now.{1a}{0c:520b0c}Besides, if I keep crying forever, my\nbrother will laugh at me.{0c:1501}",
+   "status": "done",
+   "tl": "I'm all right now. // [1]Besides, if I keep crying forever, my brother will laugh at me."
   },
   {
    "id": "RES#1181:9683",
@@ -1034,8 +1081,9 @@
    "jp": "{0c:510d}{1c:12}恥ずかしいとこ\n見られちゃったかな。{1a}えーと・・・\n確か{10}って言ったよね、\nあたしがこの部屋で泣いてたこと、\n他の人には言わないでね。{0c:fe}",
    "read": "{0c:510d}{1c:12}恥ずかしいとこ\n見られちゃったかな。{1a}えーと・・・\n確か{10}って言ったよね、\nあたしがこの部屋で泣いてたこと、\n他の人には言わないでね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:510d}{1c:12}Guess you saw me at my most\nembarrassing, huh?{1a}Um... It's {10}, right? Please don't\ntell anyone I was crying in this room,\nokay?{0c:fe}",
+   "status": "done",
+   "tl": "Guess you saw me at my most embarrassing, huh? // Um... It's [HERO], right? Please don't tell anyone I was crying in this room, okay?"
   },
   {
    "id": "RES#1181:96da",
@@ -1056,8 +1104,9 @@
    "jp": "{1c:12}ありがと、{10}。{1a}それから・・・\nもしよかったら今度からあたしも\n誘ってくれないかな。{1a}いっぱい頑張って、\n兄さんに早く追いつきたいんだ。{0c:fe}",
    "read": "{1c:12}ありがと、{10}。{1a}それから・・・\nもしよかったら今度からあたしも\n誘ってくれないかな。{1a}いっぱい頑張って、\n兄さんに早く追いつきたいんだ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Thanks, {10}.{1a}And, um... if it's okay, won't you start\nasking me along from now on?{1a}I'm gonna work really hard and catch up\nwith my brother soon!{0c:fe}",
+   "status": "done",
+   "tl": "Thanks, [HERO]. // And, um... if it's okay, won't you start asking me along from now on? // I'm gonna work really hard and catch up with my brother soon!"
   },
   {
    "id": "RES#1181:9744",
@@ -1078,8 +1127,9 @@
    "jp": "{1c:12}ありがとう、\nこれからもよろしくね。{0c:1501}",
    "read": "{1c:12}ありがとう、\nこれからもよろしくね。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Thank you! I'm counting on you from now\non, okay?{0c:1501}",
+   "status": "done",
+   "tl": "Thank you! I'm counting on you from now on, okay?"
   },
   {
    "id": "RES#1181:9775",
@@ -1100,8 +1150,9 @@
    "jp": "{0c:5100}{1c:12}ジェイドさん、\n{0c:2b515508}ありがとうございました。\n{0c:520100}また今度お話を聞かせて下さい。{0c:1501}",
    "read": "{0c:5100}{1c:12}ジェイドさん、\n{0c:2b515508}ありがとうございました。\n{0c:520100}また今度お話を聞かせて下さい。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5100}{1c:12}Jade-san, {0c:2b515508}thank you for everything.\n{0c:520100}Please tell me more stories another time.{0c:1501}",
+   "status": "done",
+   "tl": "Jade-san, [1]thank you for everything. [2]Please tell me more stories another time."
   },
   {
    "id": "RES#1181:97d7",
@@ -1122,8 +1173,9 @@
    "jp": "{0b:08}【 ジェイド 】{0b:09}\n気丈な子だな・・・\nクラウスの言った通りだよ・・・{0c:1501}",
    "read": "{0b:08}【 ジェイド 】{0b:09}\n気丈な子だな・・・\nクラウスの言った通りだよ・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Jade 】{0b:09}\nStrong-willed girl... Just like Klaus said...{0c:1501}",
+   "status": "done",
+   "tl": "Strong-willed girl... Just like Klaus said..."
   },
   {
    "id": "RES#1181:981c",
@@ -1144,8 +1196,9 @@
    "jp": "{0c:51003a00}あの子をよろしく頼む・・・\n仲良くしてやってくれ。{0c:02eb01}",
    "read": "{0c:51003a00}あの子をよろしく頼む・・・\n仲良くしてやってくれ。{0c:02eb01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51003a00}Please look after her... Be a good friend\nto her.{0c:02eb01}",
+   "status": "done",
+   "tl": "Please look after her... Be a good friend to her."
   },
   {
    "id": "RES#1181:986b",
@@ -1166,8 +1219,9 @@
    "jp": "{0c:51003a00}{0b:08}【 足を怪我している男 】{0b:09}\n毎日来てくれるんだな、君は・・・{1a}君のような友達がいるなら\nあの子も安心だ。\nクラウスもあの世で喜んでるだろう。{0c:fe}",
    "read": "{0c:51003a00}{0b:08}【 足を怪我している男 】{0b:09}\n毎日来てくれるんだな、君は・・・{1a}君のような友達がいるなら\nあの子も安心だ。\nクラウスもあの世で喜んでるだろう。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51003a00}{0b:08}【 Man with a Hurt Leg 】{0b:09}\nYou come every day, don't you...{1a}With a friend like you, she can rest easy.\nKlaus must be glad too, in the next\nworld.{0c:fe}",
+   "status": "done",
+   "tl": "You come every day, don't you... // With a friend like you, she can rest easy. Klaus must be glad too, in the next world."
   },
   {
    "id": "RES#1181:9935",
@@ -1188,8 +1242,9 @@
    "jp": "あの子はまだ部屋の中だよ・・・{1a}{0c:2800231000}あの子がその部屋に入って\nもう3日が過ぎたが、\nその間あの子はほとんど何も\n口にしていない・・・{1a}{0c:52090a}あの子の体の事も心配なんだが、\nあの子の兄貴を見殺しにしたこの俺が\nあの子に一体どんな言葉をかけて\nやればいいのか・・・{0c:1501}",
    "read": "あの子はまだ部屋の中だよ・・・{1a}{0c:2800231000}あの子がその部屋に入って\nもう3日が過ぎたが、\nその間あの子はほとんど何も\n口にしていない・・・{1a}{0c:52090a}あの子の体の事も心配なんだが、\nあの子の兄貴を見殺しにしたこの俺が\nあの子に一体どんな言葉をかけて\nやればいいのか・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "She's still in the room...{1a}{0c:2800231000}It's been three days since she went into\nthat room, and in all that time she's\nhardly eaten a thing...{1a}{0c:52090a}I'm worried for her health too, but what\non earth can I say to her, when I'm the\none who left her brother to die...{0c:1501}",
+   "status": "done",
+   "tl": "She's still in the room... // [1]It's been three days since she went into that room, and in all that time she's hardly eaten a thing... // [2]I'm worried for her health too, but what on earth can I say to her, when I'm the one who left her brother to die..."
   },
   {
    "id": "RES#1181:99f4",
@@ -1222,8 +1277,9 @@
    "jp": "{1c:10}{0b:08}【 シャルン 】{0b:09}\nジェイドさん、\n{0c:520100}心配かけて本当にごめんなさい。{0c:2b51091501}",
    "read": "{1c:10}{0b:08}【 シャルン 】{0b:09}\nジェイドさん、\n{0c:520100}心配かけて本当にごめんなさい。{0c:2b51091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Scharn 】{0b:09}\nJade-san, {0c:520100}I'm so sorry for worrying you.{0c:2b51091501}",
+   "status": "done",
+   "tl": "Jade-san, [1]I'm so sorry for worrying you."
   },
   {
    "id": "RES#1181:9ab7",
@@ -1233,8 +1289,9 @@
    "jp": "{0c:52090a}{0b:08}【 ジェイド 】{0b:09}\nいや、謝らなければ\nならないのは俺の方だ・・・{1a}俺は君の兄貴を救うことが\n出来なかった・・・{0c:2908091501}",
    "read": "{0c:52090a}{0b:08}【 ジェイド 】{0b:09}\nいや、謝らなければ\nならないのは俺の方だ・・・{1a}俺は君の兄貴を救うことが\n出来なかった・・・{0c:2908091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52090a}{0b:08}【 Jade 】{0b:09}\nNo, I'm the one who should apologize...{1a}I couldn't save your brother...{0c:2908091501}",
+   "status": "done",
+   "tl": "No, I'm the one who should apologize... // I couldn't save your brother..."
   },
   {
    "id": "RES#1181:9b0d",
@@ -1255,8 +1312,9 @@
    "jp": "{1c:11}{0b:08}【 シャルン 】{0b:09}\nううん、気を使わないで下さい。\n兄さんも覚悟は出来てたと思います。{0c:2b51091501}",
    "read": "{1c:11}{0b:08}【 シャルン 】{0b:09}\nううん、気を使わないで下さい。\n兄さんも覚悟は出来てたと思います。{0c:2b51091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Scharn 】{0b:09}\nNo, please don't feel you have to say\nthat. I think my brother was ready for it.{0c:2b51091501}",
+   "status": "done",
+   "tl": "No, please don't feel you have to say that. I think my brother was ready for it."
   },
   {
    "id": "RES#1181:9b5b",
@@ -1266,8 +1324,9 @@
    "jp": "{0b:08}【 ジェイド 】{0b:09}\nそう言って貰えると\n少しは気が楽になる・・・\nしかし・・・{0c:2908091501}",
    "read": "{0b:08}【 ジェイド 】{0b:09}\nそう言って貰えると\n少しは気が楽になる・・・\nしかし・・・{0c:2908091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Jade 】{0b:09}\nHearing that does ease my mind a little...\nBut still...{0c:2908091501}",
+   "status": "done",
+   "tl": "Hearing that does ease my mind a little... But still..."
   },
   {
    "id": "RES#1181:9b96",
@@ -1277,8 +1336,9 @@
    "jp": "{1c:10}{0b:08}【 シャルン 】{0b:09}\nあたしはもう大丈夫です。{1a}{0c:520b0c}それに、いつまでも泣いてちゃ\n兄さんに笑われるから。{0c:1501}",
    "read": "{1c:10}{0b:08}【 シャルン 】{0b:09}\nあたしはもう大丈夫です。{1a}{0c:520b0c}それに、いつまでも泣いてちゃ\n兄さんに笑われるから。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Scharn 】{0b:09}\nI'm all right now.{1a}{0c:520b0c}Besides, if I keep crying forever, my\nbrother will laugh at me.{0c:1501}",
+   "status": "done",
+   "tl": "I'm all right now. // [1]Besides, if I keep crying forever, my brother will laugh at me."
   },
   {
    "id": "RES#1181:9be0",
@@ -1288,8 +1348,9 @@
    "jp": "{0c:510d}{1c:12}{0b:08}【 シャルン 】{0b:09}\n恥ずかしいとこ\n見られちゃったかな。{1a}えーと・・・\n確か{10}って言ったよね、\nあたしがこの部屋で泣いてたこと、\n他の人には言わないでね。{0c:fe}",
    "read": "{0c:510d}{1c:12}{0b:08}【 シャルン 】{0b:09}\n恥ずかしいとこ\n見られちゃったかな。{1a}えーと・・・\n確か{10}って言ったよね、\nあたしがこの部屋で泣いてたこと、\n他の人には言わないでね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:510d}{1c:12}{0b:08}【 Scharn 】{0b:09}\nGuess you saw me at my most\nembarrassing, huh?{1a}Um... It's {10}, right? Please don't\ntell anyone I was crying in this room,\nokay?{0c:fe}",
+   "status": "done",
+   "tl": "Guess you saw me at my most embarrassing, huh? // Um... It's [HERO], right? Please don't tell anyone I was crying in this room, okay?"
   },
   {
    "id": "RES#1181:9c48",
@@ -1310,8 +1371,9 @@
    "jp": "{1c:12}ありがと、{10}。{1a}それで・・・\nもし今から遺跡に行くのなら\nあたしも誘ってくれないかな。{1a}いっぱい頑張って、\n兄さんに早く追いつきたいんだ。{0c:fe}",
    "read": "{1c:12}ありがと、{10}。{1a}それで・・・\nもし今から遺跡に行くのなら\nあたしも誘ってくれないかな。{1a}いっぱい頑張って、\n兄さんに早く追いつきたいんだ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Thanks, {10}.{1a}So... if you're going to the ruins now,\nwon't you ask me along too?{1a}I'm gonna work really hard and catch up\nwith my brother soon!{0c:fe}",
+   "status": "done",
+   "tl": "Thanks, [HERO]. // So... if you're going to the ruins now, won't you ask me along too? // I'm gonna work really hard and catch up with my brother soon!"
   },
   {
    "id": "RES#1181:9cb5",
@@ -1332,8 +1394,9 @@
    "jp": "{1c:12}ありがと、{10}。\nあたし頑張るよ。{0c:2b51091501}",
    "read": "{1c:12}ありがと、{10}。\nあたし頑張るよ。{0c:2b51091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Thanks, {10}. I'll do my best!{0c:2b51091501}",
+   "status": "done",
+   "tl": "Thanks, [HERO]. I'll do my best!"
   },
   {
    "id": "RES#1181:9ce7",
@@ -1343,8 +1406,9 @@
    "jp": "{0c:5108}{0b:08}【 ジェイド 】{0b:09}\nシャルン、\n{0c:29085500}いい友達をもったな。{1a}{0c:510028001000}君の友達は、君のことが心配で\n毎日ここに足を運んでくれたんだよ。{0c:2908091501}",
    "read": "{0c:5108}{0b:08}【 ジェイド 】{0b:09}\nシャルン、\n{0c:29085500}いい友達をもったな。{1a}{0c:510028001000}君の友達は、君のことが心配で\n毎日ここに足を運んでくれたんだよ。{0c:2908091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5108}{0b:08}【 Jade 】{0b:09}\nScharn, {0c:29085500}you've got a good friend here.{1a}{0c:510028001000}This friend of yours was so worried\nabout you, they came here every single\nday.{0c:2908091501}",
+   "status": "done",
+   "tl": "Scharn, [1]you've got a good friend here. // [2]This friend of yours was so worried about you, they came here every single day."
   },
   {
    "id": "RES#1181:9d4f",
@@ -1354,8 +1418,9 @@
    "jp": "{0c:510d}{1c:13}{0b:08}【 シャルン 】{0b:09}\nえっ、ほんと!?{0c:1501}",
    "read": "{0c:510d}{1c:13}{0b:08}【 シャルン 】{0b:09}\nえっ、ほんと!?{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:510d}{1c:13}{0b:08}【 Scharn 】{0b:09}\nHuh, really!?{0c:1501}",
+   "status": "done",
+   "tl": "Huh, really!?"
   },
   {
    "id": "RES#1181:9d74",
@@ -1376,8 +1441,9 @@
    "jp": "{1c:12}あなたとは、この町に来る途中に\n{01}2{02}・{01}3回{02}お話しただけなのに・・・{1a}{0c:510e}たったそれだけなのに、\nあたしの事を\n心配してくれたなんて・・・{1a}{0c:510f}ありがとう、{10}。\n心の中の悲しみが\n全部消えちゃうくらい嬉しいよ。\nこれからも仲良くしてね。{0c:1501}",
    "read": "{1c:12}あなたとは、この町に来る途中に\n{01}2{02}・{01}3回{02}お話しただけなのに・・・{1a}{0c:510e}たったそれだけなのに、\nあたしの事を\n心配してくれたなんて・・・{1a}{0c:510f}ありがとう、{10}。\n心の中の悲しみが\n全部消えちゃうくらい嬉しいよ。\nこれからも仲良くしてね。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}You and I only talked two or three times\non the way to this town...{1a}{0c:510e}Only that, and you still worried about me\nlike this...{1a}{0c:510f}Thank you, {10}. I'm so happy, all\nthe sadness in my heart is just gone!\nLet's keep being friends, okay?{0c:1501}",
+   "status": "done",
+   "tl": "You and I only talked two or three times on the way to this town... // [1]Only that, and you still worried about me like this... // [2]Thank you, [HERO]. I'm so happy, all the sadness in my heart is just gone! Let's keep being friends, okay?"
   },
   {
    "id": "RES#1181:9e2a",
@@ -1398,8 +1464,9 @@
    "jp": "{0c:5100}{1c:12}ジェイドさん、\n{0c:2b515508}ありがとうございました。\n{0c:520100}また今度お話を聞かせて下さい。{0c:1501}",
    "read": "{0c:5100}{1c:12}ジェイドさん、\n{0c:2b515508}ありがとうございました。\n{0c:520100}また今度お話を聞かせて下さい。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5100}{1c:12}Jade-san, {0c:2b515508}thank you for everything.\n{0c:520100}Please tell me more stories another time.{0c:1501}",
+   "status": "done",
+   "tl": "Jade-san, [1]thank you for everything. [2]Please tell me more stories another time."
   },
   {
    "id": "RES#1181:9e8c",
@@ -1420,8 +1487,9 @@
    "jp": "{0b:08}【 ジェイド 】{0b:09}\n気丈な子だな・・・\nクラウスの言った通りだよ・・・{0c:2908091501}",
    "read": "{0b:08}【 ジェイド 】{0b:09}\n気丈な子だな・・・\nクラウスの言った通りだよ・・・{0c:2908091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Jade 】{0b:09}\nStrong-willed girl... Just like Klaus said...{0c:2908091501}",
+   "status": "done",
+   "tl": "Strong-willed girl... Just like Klaus said..."
   },
   {
    "id": "RES#1181:9ed3",
@@ -1431,8 +1499,9 @@
    "jp": "{0c:510d}{1c:12}{0b:08}【 シャルン 】{0b:09}\n{10}、\nじゃあ行きましょ!{0c:fe}",
    "read": "{0c:510d}{1c:12}{0b:08}【 シャルン 】{0b:09}\n{10}、\nじゃあ行きましょ!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:510d}{1c:12}{0b:08}【 Scharn 】{0b:09}\n{10}, okay, let's go!{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], okay, let's go!"
   },
   {
    "id": "RES#1181:9efc",
@@ -1464,8 +1533,9 @@
    "jp": "{0c:51003a00}{0b:08}【 足を怪我している男 】{0b:09}\n毎日来てくれるんだな、君は・・・{1a}君のような友達がいるなら\nあの子も安心だ。\nクラウスもあの世で喜んでるだろう。\nあの子はまだ部屋の中だよ・・・{1a}あの子がその部屋に入って\nもう3日が過ぎたが、\nその間あの子はほとんど何も\n口にしていない・・・{1a}{0c:52090a}あの子の体の事も心配なんだが、\nあの子の兄貴を見殺しにしたこの俺が\nあの子に一体どんな言葉をかけて\nやればいいのか・・・{0c:1501}",
    "read": "{0c:51003a00}{0b:08}【 足を怪我している男 】{0b:09}\n毎日来てくれるんだな、君は・・・{1a}君のような友達がいるなら\nあの子も安心だ。\nクラウスもあの世で喜んでるだろう。\nあの子はまだ部屋の中だよ・・・{1a}あの子がその部屋に入って\nもう3日が過ぎたが、\nその間あの子はほとんど何も\n口にしていない・・・{1a}{0c:52090a}あの子の体の事も心配なんだが、\nあの子の兄貴を見殺しにしたこの俺が\nあの子に一体どんな言葉をかけて\nやればいいのか・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51003a00}{0b:08}【 Man with a Hurt Leg 】{0b:09}\nYou come every day, don't you...{1a}With a friend like you, she can rest easy.\nKlaus must be glad too, in the next\nworld. She's still in the room...{1a}It's been three days since she went into\nthat room, and in all that time she's\nhardly eaten a thing...{1a}{0c:52090a}I'm worried for her health too, but what\non earth can I say to her, when I'm the\none who left her brother to die...{0c:1501}",
+   "status": "done",
+   "tl": "You come every day, don't you... // With a friend like you, she can rest easy. Klaus must be glad too, in the next world. She's still in the room... // It's been three days since she went into that room, and in all that time she's hardly eaten a thing... // [1]I'm worried for her health too, but what on earth can I say to her, when I'm the one who left her brother to die..."
   },
   {
    "id": "RES#1181:a080",
@@ -1498,8 +1568,9 @@
    "jp": "{1c:10}{0b:08}【 シャルン 】{0b:09}\nジェイドさん、\n{0c:520100}心配かけて本当にごめんなさい。{0c:2b51091501}",
    "read": "{1c:10}{0b:08}【 シャルン 】{0b:09}\nジェイドさん、\n{0c:520100}心配かけて本当にごめんなさい。{0c:2b51091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Scharn 】{0b:09}\nJade-san, {0c:520100}I'm so sorry for worrying you.{0c:2b51091501}",
+   "status": "done",
+   "tl": "Jade-san, [1]I'm so sorry for worrying you."
   },
   {
    "id": "RES#1181:a143",
@@ -1509,8 +1580,9 @@
    "jp": "{0c:52090a}{0b:08}【 ジェイド 】{0b:09}\nいや、謝らなければ\nならないのは俺の方だ・・・{1a}俺は君の兄貴を救うことが\n出来なかった・・・{0c:2908091501}",
    "read": "{0c:52090a}{0b:08}【 ジェイド 】{0b:09}\nいや、謝らなければ\nならないのは俺の方だ・・・{1a}俺は君の兄貴を救うことが\n出来なかった・・・{0c:2908091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52090a}{0b:08}【 Jade 】{0b:09}\nNo, I'm the one who should apologize...{1a}I couldn't save your brother...{0c:2908091501}",
+   "status": "done",
+   "tl": "No, I'm the one who should apologize... // I couldn't save your brother..."
   },
   {
    "id": "RES#1181:a199",
@@ -1531,8 +1603,9 @@
    "jp": "{1c:11}{0b:08}【 シャルン 】{0b:09}\nううん、気を使わないで下さい。\n兄さんも覚悟は出来てたと思います。{0c:2b51091501}",
    "read": "{1c:11}{0b:08}【 シャルン 】{0b:09}\nううん、気を使わないで下さい。\n兄さんも覚悟は出来てたと思います。{0c:2b51091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Scharn 】{0b:09}\nNo, please don't feel you have to say\nthat. I think my brother was ready for it.{0c:2b51091501}",
+   "status": "done",
+   "tl": "No, please don't feel you have to say that. I think my brother was ready for it."
   },
   {
    "id": "RES#1181:a1e7",
@@ -1542,8 +1615,9 @@
    "jp": "{0b:08}【 ジェイド 】{0b:09}\nそう言って貰えると\n少しは気が楽になる・・・\nしかし・・・{0c:2908091501}",
    "read": "{0b:08}【 ジェイド 】{0b:09}\nそう言って貰えると\n少しは気が楽になる・・・\nしかし・・・{0c:2908091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Jade 】{0b:09}\nHearing that does ease my mind a little...\nBut still...{0c:2908091501}",
+   "status": "done",
+   "tl": "Hearing that does ease my mind a little... But still..."
   },
   {
    "id": "RES#1181:a222",
@@ -1553,8 +1627,9 @@
    "jp": "{0c:520b0c}{1c:10}{0b:08}【 シャルン 】{0b:09}\nあたしはもう大丈夫です。\nそれに、いつまでも泣いてちゃ\n兄さんに笑われるから。{0c:1501}",
    "read": "{0c:520b0c}{1c:10}{0b:08}【 シャルン 】{0b:09}\nあたしはもう大丈夫です。\nそれに、いつまでも泣いてちゃ\n兄さんに笑われるから。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520b0c}{1c:10}{0b:08}【 Scharn 】{0b:09}\nI'm all right now. Besides, if I keep crying\nforever, my brother will laugh at me.{0c:1501}",
+   "status": "done",
+   "tl": "I'm all right now. Besides, if I keep crying forever, my brother will laugh at me."
   },
   {
    "id": "RES#1181:a26c",
@@ -1564,8 +1639,9 @@
    "jp": "{0c:510d}{1c:12}恥ずかしいとこ\n見られちゃったかな。{1a}えーと・・・\n確か{10}って言ったよね、\nあたしがこの部屋で泣いてたこと、\n他の人には言わないでね。{0c:fe}",
    "read": "{0c:510d}{1c:12}恥ずかしいとこ\n見られちゃったかな。{1a}えーと・・・\n確か{10}って言ったよね、\nあたしがこの部屋で泣いてたこと、\n他の人には言わないでね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:510d}{1c:12}Guess you saw me at my most\nembarrassing, huh?{1a}Um... It's {10}, right? Please don't\ntell anyone I was crying in this room,\nokay?{0c:fe}",
+   "status": "done",
+   "tl": "Guess you saw me at my most embarrassing, huh? // Um... It's [HERO], right? Please don't tell anyone I was crying in this room, okay?"
   },
   {
    "id": "RES#1181:a2c3",
@@ -1586,8 +1662,9 @@
    "jp": "{1c:12}ありがと、{10}。{1a}それから・・・\nもしよかったら今度からあたしも\n誘ってくれないかな。{1a}いっぱい頑張って、\n兄さんに早く追いつきたいんだ。{0c:fe}",
    "read": "{1c:12}ありがと、{10}。{1a}それから・・・\nもしよかったら今度からあたしも\n誘ってくれないかな。{1a}いっぱい頑張って、\n兄さんに早く追いつきたいんだ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Thanks, {10}.{1a}And, um... if it's okay, won't you start\nasking me along from now on?{1a}I'm gonna work really hard and catch up\nwith my brother soon!{0c:fe}",
+   "status": "done",
+   "tl": "Thanks, [HERO]. // And, um... if it's okay, won't you start asking me along from now on? // I'm gonna work really hard and catch up with my brother soon!"
   },
   {
    "id": "RES#1181:a32b",
@@ -1608,8 +1685,9 @@
    "jp": "{1c:12}ありがとう、\nこれからもよろしくね。{0c:2b51091501}",
    "read": "{1c:12}ありがとう、\nこれからもよろしくね。{0c:2b51091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Thank you! I'm counting on you from now\non, okay?{0c:2b51091501}",
+   "status": "done",
+   "tl": "Thank you! I'm counting on you from now on, okay?"
   },
   {
    "id": "RES#1181:a35d",
@@ -1619,8 +1697,9 @@
    "jp": "{0c:5108}{0b:08}【 ジェイド 】{0b:09}\nシャルン、\n{0c:2908550c}いい友達をもったな。{1a}{0c:510028001000}君の友達は、君のことが心配で\n毎日ここに足を運んでくれたんだよ。{0c:2908091501}",
    "read": "{0c:5108}{0b:08}【 ジェイド 】{0b:09}\nシャルン、\n{0c:2908550c}いい友達をもったな。{1a}{0c:510028001000}君の友達は、君のことが心配で\n毎日ここに足を運んでくれたんだよ。{0c:2908091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5108}{0b:08}【 Jade 】{0b:09}\nScharn, {0c:2908550c}you've got a good friend here.{1a}{0c:510028001000}This friend of yours was so worried\nabout you, they came here every single\nday.{0c:2908091501}",
+   "status": "done",
+   "tl": "Scharn, [1]you've got a good friend here. // [2]This friend of yours was so worried about you, they came here every single day."
   },
   {
    "id": "RES#1181:a3c5",
@@ -1630,8 +1709,9 @@
    "jp": "{0c:510d}{1c:13}{0b:08}【 シャルン 】{0b:09}\nえっ、ほんと!?{0c:1501}",
    "read": "{0c:510d}{1c:13}{0b:08}【 シャルン 】{0b:09}\nえっ、ほんと!?{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:510d}{1c:13}{0b:08}【 Scharn 】{0b:09}\nHuh, really!?{0c:1501}",
+   "status": "done",
+   "tl": "Huh, really!?"
   },
   {
    "id": "RES#1181:a3ea",
@@ -1652,8 +1732,9 @@
    "jp": "{1c:12}あなたとは、この町に来る途中に\n{01}2{02}・{01}3回{02}お話しただけなのに・・・{1a}{0c:510e}たったそれだけなのに、\nあたしの事を\n心配してくれたなんて・・・{1a}{0c:510f}ありがとう、{10}。\n心の中の悲しみが\n全部消えちゃうくらい嬉しいよ。\nこれからも仲良くしてね。{0c:1501}",
    "read": "{1c:12}あなたとは、この町に来る途中に\n{01}2{02}・{01}3回{02}お話しただけなのに・・・{1a}{0c:510e}たったそれだけなのに、\nあたしの事を\n心配してくれたなんて・・・{1a}{0c:510f}ありがとう、{10}。\n心の中の悲しみが\n全部消えちゃうくらい嬉しいよ。\nこれからも仲良くしてね。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}You and I only talked two or three times\non the way to this town...{1a}{0c:510e}Only that, and you still worried about me\nlike this...{1a}{0c:510f}Thank you, {10}. I'm so happy, all\nthe sadness in my heart is just gone!\nLet's keep being friends, okay?{0c:1501}",
+   "status": "done",
+   "tl": "You and I only talked two or three times on the way to this town... // [1]Only that, and you still worried about me like this... // [2]Thank you, [HERO]. I'm so happy, all the sadness in my heart is just gone! Let's keep being friends, okay?"
   },
   {
    "id": "RES#1181:a4a0",
@@ -1674,8 +1755,9 @@
    "jp": "{0c:5100}{1c:12}ジェイドさん、\n{0c:2b515508}本当にありがとうございました。\n{0c:520100}また今度お話を聞かせて下さい。{0c:1501}",
    "read": "{0c:5100}{1c:12}ジェイドさん、\n{0c:2b515508}本当にありがとうございました。\n{0c:520100}また今度お話を聞かせて下さい。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5100}{1c:12}Jade-san, {0c:2b515508}thank you so much for\neverything. {0c:520100}Please tell me more stories\nanother time.{0c:1501}",
+   "status": "done",
+   "tl": "Jade-san, [1]thank you so much for everything. [2]Please tell me more stories another time."
   },
   {
    "id": "RES#1181:a505",
@@ -1696,8 +1778,9 @@
    "jp": "{0b:08}【 ジェイド 】{0b:09}\n気丈な子だな・・・\nクラウスの言った通りだよ・・・{0c:1501}",
    "read": "{0b:08}【 ジェイド 】{0b:09}\n気丈な子だな・・・\nクラウスの言った通りだよ・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Jade 】{0b:09}\nStrong-willed girl... Just like Klaus said...{0c:1501}",
+   "status": "done",
+   "tl": "Strong-willed girl... Just like Klaus said..."
   },
   {
    "id": "RES#1181:a549",
@@ -1718,8 +1801,9 @@
    "jp": "{0c:51003a00}{0b:08}【 ジェイド 】{0b:09}\nあの子をよろしく頼む・・・\n仲良くしてやってくれ。{0c:02b701}",
    "read": "{0c:51003a00}{0b:08}【 ジェイド 】{0b:09}\nあの子をよろしく頼む・・・\n仲良くしてやってくれ。{0c:02b701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51003a00}{0b:08}【 Jade 】{0b:09}\nPlease look after her... Be a good friend\nto her.{0c:02b701}",
+   "status": "done",
+   "tl": "Please look after her... Be a good friend to her."
   }
  ],
  "entry": 1181

@@ -41,8 +41,9 @@
    "jp": "{1c:11}{0b:08}{e080} バルデス {e081}{0b:09}\nおう、{e082}入り!{0c:fe}",
    "read": "{1c:11}{0b:08}【 バルデス 】{0b:09}\nおう、新入り!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Valdes 】{0b:09}\nHey, rookie!{0c:fe}",
+   "status": "done",
+   "tl": "Hey, rookie!"
   },
   {
    "id": "RES#1048:14553",
@@ -63,8 +64,9 @@
    "jp": "{1c:10}地下{e083}{e084}の{e085}間を\nドーム{e086}に包む城{e089}を{e08a}りていくと\n伝{e08b}の{e083}{e084}「アスラ・ファエル」の\n入り口に辿り着く。{1a}つまり、本当のスタートはもっと先だ。\nそこまでは大したお{e08d}もない{e08e}わりに\n強い魔物もいない。{1a}そこまで行けないようなら、\n悪いことは言わねえ、自分の{e08f}{e090}で\n大人しくしてることだ。{0c:1501}",
    "read": "{1c:10}地下都市の空間を\nドーム状に包む城壁を降りていくと\n伝説の都市「アスラ・ファエル」の\n入り口に辿り着く。{1a}つまり、本当のスタートはもっと先だ。\nそこまでは大したお宝もない代わりに\n強い魔物もいない。{1a}そこまで行けないようなら、\n悪いことは言わねえ、自分の部屋で\n大人しくしてることだ。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Climb down the walls that wrap the\nunderground city's space like a dome, and\nyou reach the entrance to the legendary\ncity \"Asla Fael\".{1a}In other words, the real start's further\non. Up to there, there ain't much\ntreasure, but no strong monsters\nneither.{1a}If you can't make it that far, take my\nadvice: stay in your room and keep quiet.{0c:1501}",
+   "status": "done",
+   "tl": "Climb down the walls that wrap the underground city's space like a dome, and you reach the entrance to the legendary city \"Asla Fael\". // In other words, the real start's further on. Up to there, there ain't much treasure, but no strong monsters neither. // If you can't make it that far, take my advice: stay in your room and keep quiet."
   },
   {
    "id": "RES#1048:14676",
@@ -85,8 +87,9 @@
    "jp": "{1c:11}ほら、これを持っていきな。{0c:1501}",
    "read": "{1c:11}ほら、これを持っていきな。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Here, take this.{0c:1501}",
+   "status": "done",
+   "tl": "Here, take this."
   },
   {
    "id": "RES#1048:14694",
@@ -118,8 +121,9 @@
    "jp": "{0c:520a0b2b50235118}{1c:10}その小さなカプセルの中に、\n魔物相手の戦いに役立つ仕{e091}けが\n1{e092}{e093}ずつ入っている。{1a}地{e094}{e095}、{e096}結の{e097}{e098}、\n重力{e099}に自動{e09a}出機・・・{1a}なかにはどう使えばいいのか\nさっぱり分からんものもあるが、\n使いこなせば魔物との戦いが\n有利になるのは間違いない。 {1a}いや、\nこういった道具を使いこなさなければ\nここでは生き残れないと言っても\n言い過ぎじゃねえだろう。{1a}どんな{e09b}{e09c}でも使い続ければ\n切れ味は{e09d}るし、\n魔{e09e}を使えば{e09f}神的な疲労が\nどんどん溜まっていく。{1a}{0c:510c}その{e0a1}、そのカプセル・・・\n俺達は『トラップカプセル』って\n{e0a2}んでるが、それを使う分には\n疲れなんて関係ないし、{1a}上手に罠を仕{e091}ければ\n武器を使って戦うより\nはるかに楽に敵を倒せる。{1a}いくら体を{e0a3}えても、魔物に\n比べれば人間なんて非力なものさ。\n筋力にしろ生命力にしろ、\n格段に奴らの方が上だ。{1a}人間が魔物に勝てるのは       {0c:52fdff06}唯一、ここだけだからな。\n頭を使って{e0a7}け物{e0a8}を\n引っかき回してやれ。{0c:fe}",
    "read": "{0c:520a0b2b50235118}{1c:10}その小さなカプセルの中に、\n魔物相手の戦いに役立つ仕掛けが\n1種類ずつ入っている。{1a}地雷火、氷結の爆弾、\n重力柱に自動射出機・・・{1a}なかにはどう使えばいいのか\nさっぱり分からんものもあるが、\n使いこなせば魔物との戦いが\n有利になるのは間違いない。 {1a}いや、\nこういった道具を使いこなさなければ\nここでは生き残れないと言っても\n言い過ぎじゃねえだろう。{1a}どんな名剣でも使い続ければ\n切れ味は鈍るし、\n魔法を使えば精神的な疲労が\nどんどん溜まっていく。{1a}{0c:510c}その点、そのカプセル・・・\n俺達は『トラップカプセル』って\n呼んでるが、それを使う分には\n疲れなんて関係ないし、{1a}上手に罠を仕掛ければ\n武器を使って戦うより\nはるかに楽に敵を倒せる。{1a}いくら体を鍛えても、魔物に\n比べれば人間なんて非力なものさ。\n筋力にしろ生命力にしろ、\n格段に奴らの方が上だ。{1a}人間が魔物に勝てるのは       {0c:52fdff06}唯一、ここだけだからな。\n頭を使って化け物共を\n引っかき回してやれ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520a0b2b50235118}{1c:10}In those little capsules, there's one kind\nof device apiece, handy for fighting\nmonsters.{1a}Land mines, freezing bombs, gravity\npillars, automatic launchers...{1a}Some of them I can't make heads or tails\nof, but once you master them, they'll\ngive you the upper hand against\nmonsters, no question.{1a}Nah, it ain't going too far to say you\nwon't survive here without mastering\ntools like these.{1a}Even the finest sword dulls with use,\nand using magic keeps piling on mental\nfatigue.{1a}{0c:510c}Now, those capsules... we call them 'Trap\nCapsules'... using those, fatigue don't\ncome into it,{1a}and if you set your traps well, you can\nbring down enemies far easier than\nfighting with weapons.{1a}No matter how you train your body,\npeople are weak next to monsters.\nStrength, vitality, they've got us beat\nby a mile.{1a}The one place people got monsters beat\n{0c:52fdff06}is right here, after all. So use your head\nand run those freaks ragged.{0c:fe}",
+   "status": "done",
+   "tl": "In those little capsules, there's one kind of device apiece, handy for fighting monsters. // Land mines, freezing bombs, gravity pillars, automatic launchers... // Some of them I can't make heads or tails of, but once you master them, they'll give you the upper hand against monsters, no question. // Nah, it ain't going too far to say you won't survive here without mastering tools like these. // Even the finest sword dulls with use, and using magic keeps piling on mental fatigue. // [1]Now, those capsules... we call them 'Trap Capsules'... using those, fatigue don't come into it, // and if you set your traps well, you can bring down enemies far easier than fighting with weapons. // No matter how you train your body, people are weak next to monsters. Strength, vitality, they've got us beat by a mile. // The one place people got monsters beat [2]is right here, after all. So use your head and run those freaks ragged."
   },
   {
    "id": "RES#1048:1490f",
@@ -140,8 +144,9 @@
    "jp": "{1c:10}不思{e0a9}な道具だろ?{1a}そんな小さなカプセルの中に\n俺の体より大きな装{e0aa}を\n入れる事も出来る。{1a}カプセルも、中身の仕{e091}けも、\n{e0ab}{e0ac}で見つけた古{e08e}の道具を\nクムランが使いやすく\n{e0ad}良したものなんだが、{1a}一{e08f}、サディーヤの手伝った物や、\nガイウスの手伝った物もある。\nいわば、古{e08e}の{e0ab}{e0ae}と\n{e0af}{e08e}の{e0b0}{e0b1}の融合ってわけだな。{1a}残念なことに、魔{e09e}を詠唱するために\n必要な道具との相性が悪くて、\n魔{e09e}使いには扱えないように\nなってるんだが、{1a}それ以外は何の{e0b6}約もないし\n{e0b7}別な訓練もいらない。\n{e0ba}しい話はクムランに聞けばいい。\nそうそう、これも持っていけ。{0c:1501}",
    "read": "{1c:10}不思議な道具だろ?{1a}そんな小さなカプセルの中に\n俺の体より大きな装置を\n入れる事も出来る。{1a}カプセルも、中身の仕掛けも、\n遺跡で見つけた古代の道具を\nクムランが使いやすく\n改良したものなんだが、{1a}一部、サディーヤの手伝った物や、\nガイウスの手伝った物もある。\nいわば、古代の遺産と\n現代の技術の融合ってわけだな。{1a}残念なことに、魔法を詠唱するために\n必要な道具との相性が悪くて、\n魔法使いには扱えないように\nなってるんだが、{1a}それ以外は何の制約もないし\n特別な訓練もいらない。\n詳しい話はクムランに聞けばいい。\nそうそう、これも持っていけ。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Strange gadget, ain't it?{1a}You can fit a device bigger than my body\ninside a little capsule like that.{1a}Both the capsules and the devices inside\nare ancient tools found in the ruins,\nreworked by Qumran to be easier to use,{1a}and Sadiya helped on some, Gaius on\nothers. You could call it a fusion of\nancient legacy and modern skill.{1a}Sad to say, they don't get along with\nthe tools you need for casting magic, so\nwizards can't handle them,{1a}but apart from that, no restrictions, no\nspecial training. Ask Qumran for the\ndetails. Oh, right, take this too.{0c:1501}",
+   "status": "done",
+   "tl": "Strange gadget, ain't it? // You can fit a device bigger than my body inside a little capsule like that. // Both the capsules and the devices inside are ancient tools found in the ruins, reworked by Qumran to be easier to use, // and Sadiya helped on some, Gaius on others. You could call it a fusion of ancient legacy and modern skill. // Sad to say, they don't get along with the tools you need for casting magic, so wizards can't handle them, // but apart from that, no restrictions, no special training. Ask Qumran for the details. Oh, right, take this too."
   },
   {
    "id": "RES#1048:14aa2",
@@ -162,8 +167,9 @@
    "jp": "{1c:10}『時の行{e0bb}図』って道具だ。\nこの道具を使うと町まで一{e0bc}で\n戻ってくることが出来る。{1a}それに、\n1度でも行ったことのある{e0bd}{e0be}なら\n自由に行き来することも{e0bf}{e0c0}だ。{1a}見た目はオモチャみたいだが、\nいわば俺達{e0c1}険者の命綱だな。{1a}その道具が見つかったおかげで、\n10{e0c3}前にはとてもじゃないが\n潜れなかったような深い{e0bd}{e0be}に\n行くことも{e0bf}{e0c0}になった。{1a}だが過信は禁物だ。\n『時の行{e0bb}図』が使えない所も\nあることだけは覚えておけ。{0c:fe}",
    "read": "{1c:10}『時の行路図』って道具だ。\nこの道具を使うと町まで一瞬で\n戻ってくることが出来る。{1a}それに、\n1度でも行ったことのある階層なら\n自由に行き来することも可能だ。{1a}見た目はオモチャみたいだが、\nいわば俺達冒険者の命綱だな。{1a}その道具が見つかったおかげで、\n10年前にはとてもじゃないが\n潜れなかったような深い階層に\n行くことも可能になった。{1a}だが過信は禁物だ。\n『時の行路図』が使えない所も\nあることだけは覚えておけ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}It's a tool called the 'Chart of Time'. Use\nit and you can get back to town in an\ninstant.{1a}Plus, any level you've been to even once,\nyou can come and go freely.{1a}Looks like a toy, but it's a lifeline for us\nadventurers.{1a}Thanks to finding that thing, we can\nnow reach deep levels you couldn't have\ndived to ten years back, no way.{1a}But don't put too much faith in it.\nRemember, there's places the 'Chart of\nTime' won't work.{0c:fe}",
+   "status": "done",
+   "tl": "It's a tool called the 'Chart of Time'. Use it and you can get back to town in an instant. // Plus, any level you've been to even once, you can come and go freely. // Looks like a toy, but it's a lifeline for us adventurers. // Thanks to finding that thing, we can now reach deep levels you couldn't have dived to ten years back, no way. // But don't put too much faith in it. Remember, there's places the 'Chart of Time' won't work."
   },
   {
    "id": "RES#1048:14beb",
@@ -184,8 +190,9 @@
    "jp": "{1c:11}じゃあな、気をつけて行けよ!{0c:1501}",
    "read": "{1c:11}じゃあな、気をつけて行けよ!{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}See you, and watch yourself out there!{0c:1501}",
+   "status": "done",
+   "tl": "See you, and watch yourself out there!"
   },
   {
    "id": "RES#1048:14c1d",
@@ -217,8 +224,9 @@
    "jp": "{0c:520102}{1c:11}{0b:08}{e080} バルデス {e081}{0b:09}\nおう、{e082}入り!{0c:fe}",
    "read": "{0c:520102}{1c:11}{0b:08}【 バルデス 】{0b:09}\nおう、新入り!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520102}{1c:11}{0b:08}【 Valdes 】{0b:09}\nHey, rookie!{0c:fe}",
+   "status": "done",
+   "tl": "Hey, rookie!"
   },
   {
    "id": "RES#1048:14d4b",
@@ -239,8 +247,9 @@
    "jp": "{1c:10}地下{e083}{e084}の{e085}間を\nドーム{e086}に包む城{e089}を{e08a}りていくと\n伝{e08b}の{e083}{e084}『アスラ・ファエル』の\n入り口に辿り着く。{1a}つまり、本当のスタートはもっと先だ。\nそこまでは大したお{e08d}もない{e08e}わりに\n強い魔物もいない。{1a}そこまで行けないようなら、\n悪いことは言わねえ、自分の{e08f}{e090}で\n大人しくしてることだ。{0c:fe}",
    "read": "{1c:10}地下都市の空間を\nドーム状に包む城壁を降りていくと\n伝説の都市『アスラ・ファエル』の\n入り口に辿り着く。{1a}つまり、本当のスタートはもっと先だ。\nそこまでは大したお宝もない代わりに\n強い魔物もいない。{1a}そこまで行けないようなら、\n悪いことは言わねえ、自分の部屋で\n大人しくしてることだ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Climb down the wall that wraps the\nunderground city in a dome and you'll\nreach the entrance to the legendary\ncity, 'Asla Fael'.{1a}In other words, the real start's a ways\noff yet. Up to there you won't find\nmuch treasure, but no strong monsters\nneither.{1a}If you can't make it even that far, take\nmy advice: stay in your room and keep\nquiet.{0c:fe}",
+   "status": "done",
+   "tl": "Climb down the wall that wraps the underground city in a dome and you'll reach the entrance to the legendary city, 'Asla Fael'. // In other words, the real start's a ways off yet. Up to there you won't find much treasure, but no strong monsters neither. // If you can't make it even that far, take my advice: stay in your room and keep quiet."
   },
   {
    "id": "RES#1048:14e6c",
@@ -261,8 +270,9 @@
    "jp": "{1c:11}ほら、これを持っていきな。{0c:fe}",
    "read": "{1c:11}ほら、これを持っていきな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Here, take this.{0c:fe}",
+   "status": "done",
+   "tl": "Here, take this."
   },
   {
    "id": "RES#1048:14e89",
@@ -294,8 +304,9 @@
    "jp": "{0c:2b50235118}{0c:520a0b}{1c:10}その小さなカプセルの中に、\n魔物相手の戦いに役立つ仕{e091}けが\n1{e092}{e093}ずつ入っている。{1a}地{e094}{e095}、{e096}結の{e097}{e098}、\n重力{e099}に自動{e09a}出機・・・{1a}なかにはどう使えばいいのか\nさっぱり分からんものもあるが、\n使いこなせば魔物との戦いが\n有利になるのは間違いない。 {1a}いや、\nこういった道具を使いこなさなければ\nここでは生き残れないと言っても\n言い過ぎじゃねえだろう。{1a}どんな{e09b}{e09c}でも使い続ければ\n切れ味は{e09d}るし、\n魔{e09e}を使えば{e09f}神的な疲労が\nどんどん溜まっていく。{1a}{0c:510c}その{e0a1}、そのカプセル・・・\n俺達は『トラップカプセル』って\n{e0a2}んでるが、それを使う分には\n疲れなんて関係ないし、{1a}上手に罠を仕{e091}ければ\n武器を使って戦うより\nはるかに楽に敵を倒せる。{1a}いくら体を{e0a3}えても、魔物に\n比べれば人間なんて非力なものさ。\n筋力にしろ生命力にしろ、\n格段に奴らの方が上だ。{1a}人間が魔物に勝てるのは       \n{0c:52fdff06}唯一、ここだけだからな。\n頭を使って{e0a7}け物{e0a8}を\n引っかき回してやれ。{0c:fe}",
    "read": "{0c:2b50235118}{0c:520a0b}{1c:10}その小さなカプセルの中に、\n魔物相手の戦いに役立つ仕掛けが\n1種類ずつ入っている。{1a}地雷火、氷結の爆弾、\n重力柱に自動射出機・・・{1a}なかにはどう使えばいいのか\nさっぱり分からんものもあるが、\n使いこなせば魔物との戦いが\n有利になるのは間違いない。 {1a}いや、\nこういった道具を使いこなさなければ\nここでは生き残れないと言っても\n言い過ぎじゃねえだろう。{1a}どんな名剣でも使い続ければ\n切れ味は鈍るし、\n魔法を使えば精神的な疲労が\nどんどん溜まっていく。{1a}{0c:510c}その点、そのカプセル・・・\n俺達は『トラップカプセル』って\n呼んでるが、それを使う分には\n疲れなんて関係ないし、{1a}上手に罠を仕掛ければ\n武器を使って戦うより\nはるかに楽に敵を倒せる。{1a}いくら体を鍛えても、魔物に\n比べれば人間なんて非力なものさ。\n筋力にしろ生命力にしろ、\n格段に奴らの方が上だ。{1a}人間が魔物に勝てるのは       \n{0c:52fdff06}唯一、ここだけだからな。\n頭を使って化け物共を\n引っかき回してやれ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b50235118}{0c:520a0b}{1c:10}Inside those little capsules is a\ncontraption for fighting monsters, one\nkind apiece.{1a}Fire mines, freezing bombs, gravity\npillars, auto-launchers...{1a}Some of 'em, I couldn't tell you how\nthey're meant to work, but master 'em\nand there's no doubt they'll give you the\nedge on monsters.{1a}No, it ain't going too far to say you\nwon't survive here unless you master\ntools like these.{1a}Even the finest sword dulls if you keep\nswinging it, and magic just piles on the\nmental strain.{1a}{0c:510c}But those capsules... 'Trap Capsules', we\ncall 'em... using those don't tire you out\none bit,{1a}and set a trap right and you'll take an\nenemy down a whole lot easier than you\nwould with a weapon.{1a}Train your body all you like, a human's\nstill a weakling next to a monster.\nMuscle, vitality, they've got us beat by a\nmile.{1a}There's {0c:52fdff06}only one place a human can beat\na monster: right here. So use your head\nand run those beasts ragged.{0c:fe}",
+   "status": "done",
+   "tl": "Inside those little capsules is a contraption for fighting monsters, one kind apiece. // Fire mines, freezing bombs, gravity pillars, auto-launchers... // Some of 'em, I couldn't tell you how they're meant to work, but master 'em and there's no doubt they'll give you the edge on monsters. // No, it ain't going too far to say you won't survive here unless you master tools like these. // Even the finest sword dulls if you keep swinging it, and magic just piles on the mental strain. // [1]But those capsules... 'Trap Capsules', we call 'em... using those don't tire you out one bit, // and set a trap right and you'll take an enemy down a whole lot easier than you would with a weapon. // Train your body all you like, a human's still a weakling next to a monster. Muscle, vitality, they've got us beat by a mile. // There's [2]only one place a human can beat a monster: right here. So use your head and run those beasts ragged."
   },
   {
    "id": "RES#1048:15103",
@@ -316,8 +327,9 @@
    "jp": "{1c:10}不思{e0a9}な道具だろ?{1a}そんな小さなカプセルの中に\n俺の体より大きな装{e0aa}を\n入れる事も出来る。{1a}カプセルも、中身の仕{e091}けも、\n{e0ab}{e0ac}で見つけた古{e08e}の道具を\nクムランが使いやすく\n{e0ad}良したものなんだが、{1a}一{e08f}、サディーヤの手伝った物や、\nガイウスの手伝った物もある。\nいわば、古{e08e}の{e0ab}{e0ae}と\n{e0af}{e08e}の{e0b0}{e0b1}の融合ってわけだな。{1a}残念なことに、魔{e09e}を詠唱するために\n必要な道具との相性が悪くて、\n魔{e09e}使いには扱えないように\nなってるんだが、{1a}それ以外は何の{e0b6}約もないし\n{e0b7}別な訓練もいらない。\n{e0ba}しい話はクムランに聞けばいい。\nそうそう、これも持っていけ。{0c:fe}",
    "read": "{1c:10}不思議な道具だろ?{1a}そんな小さなカプセルの中に\n俺の体より大きな装置を\n入れる事も出来る。{1a}カプセルも、中身の仕掛けも、\n遺跡で見つけた古代の道具を\nクムランが使いやすく\n改良したものなんだが、{1a}一部、サディーヤの手伝った物や、\nガイウスの手伝った物もある。\nいわば、古代の遺産と\n現代の技術の融合ってわけだな。{1a}残念なことに、魔法を詠唱するために\n必要な道具との相性が悪くて、\n魔法使いには扱えないように\nなってるんだが、{1a}それ以外は何の制約もないし\n特別な訓練もいらない。\n詳しい話はクムランに聞けばいい。\nそうそう、これも持っていけ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Strange gadget, ain't it?{1a}You can fit a device bigger than my body\ninside a little capsule like that.{1a}Both the capsules and the devices inside\nare ancient tools found in the ruins,\nreworked by Qumran to be easier to use,{1a}and Sadiya helped on some, Gaius on\nothers. You could call it a fusion of\nancient legacy and modern skill.{1a}Sad to say, they don't get along with\nthe tools you need for casting magic, so\nwizards can't handle them,{1a}but apart from that, no restrictions, no\nspecial training. Ask Qumran for the\ndetails. Oh, right, take this too.{0c:fe}",
+   "status": "done",
+   "tl": "Strange gadget, ain't it? // You can fit a device bigger than my body inside a little capsule like that. // Both the capsules and the devices inside are ancient tools found in the ruins, reworked by Qumran to be easier to use, // and Sadiya helped on some, Gaius on others. You could call it a fusion of ancient legacy and modern skill. // Sad to say, they don't get along with the tools you need for casting magic, so wizards can't handle them, // but apart from that, no restrictions, no special training. Ask Qumran for the details. Oh, right, take this too."
   },
   {
    "id": "RES#1048:15295",
@@ -338,8 +350,9 @@
    "jp": "{1c:10}『時の行{e0bb}図』って道具だ。\nこの道具を使うと町まで一{e0bc}で\n戻ってくることが出来る。{1a}それに、\n1度でも行ったことのある{e0bd}{e0be}なら\n自由に行き来することも{e0bf}{e0c0}だ。{1a}見た目はオモチャみたいだが、\nいわば俺達{e0c1}険者の命綱だな。{1a}その道具が見つかったおかげで、\n10{e0c3}前にはとてもじゃないが\n潜れなかったような深い{e0bd}{e0be}に\n行くことも{e0bf}{e0c0}になった。{1a}だが過信は禁物だ。\n『時の行{e0bb}図』が使えない所も\nあることだけは覚えておけ。{0c:fe}",
    "read": "{1c:10}『時の行路図』って道具だ。\nこの道具を使うと町まで一瞬で\n戻ってくることが出来る。{1a}それに、\n1度でも行ったことのある階層なら\n自由に行き来することも可能だ。{1a}見た目はオモチャみたいだが、\nいわば俺達冒険者の命綱だな。{1a}その道具が見つかったおかげで、\n10年前にはとてもじゃないが\n潜れなかったような深い階層に\n行くことも可能になった。{1a}だが過信は禁物だ。\n『時の行路図』が使えない所も\nあることだけは覚えておけ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}It's a tool called the 'Chart of Time'. Use\nit and you can get back to town in an\ninstant.{1a}Plus, any level you've been to even once,\nyou can come and go freely.{1a}Looks like a toy, but it's a lifeline for us\nadventurers.{1a}Thanks to finding that thing, we can\nnow reach deep levels you couldn't have\ndived to ten years back, no way.{1a}But don't put too much faith in it.\nRemember, there's places the 'Chart of\nTime' won't work.{0c:fe}",
+   "status": "done",
+   "tl": "It's a tool called the 'Chart of Time'. Use it and you can get back to town in an instant. // Plus, any level you've been to even once, you can come and go freely. // Looks like a toy, but it's a lifeline for us adventurers. // Thanks to finding that thing, we can now reach deep levels you couldn't have dived to ten years back, no way. // But don't put too much faith in it. Remember, there's places the 'Chart of Time' won't work."
   },
   {
    "id": "RES#1048:153de",
@@ -360,8 +373,9 @@
    "jp": "{1c:10}大体の事はわかったな。{0c:4c0209fe}",
    "read": "{1c:10}大体の事はわかったな。{0c:4c0209fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}So, that's the general idea.{0c:4c0209fe}",
+   "status": "done",
+   "tl": "So, that's the general idea."
   },
   {
    "id": "RES#1048:15413",
@@ -371,8 +385,9 @@
    "jp": "{0c:523008}{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n感謝します。勇者バルデス。{0c:2b5309fe}",
    "read": "{0c:523008}{1c:13}{0b:08}【 アーサー 】{0b:09}\n感謝します。勇者バルデス。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523008}{1c:13}{0b:08}【 Arthur 】{0b:09}\nThank you, Valdes the Hero.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Thank you, Valdes the Hero."
   },
   {
    "id": "RES#1048:15444",
@@ -382,8 +397,9 @@
    "jp": "{0c:5210184c021000}{1c:12}{0b:08}{e080} バルデス {e081}{0b:09}\n勇者バルデス・・・?\nなんだそりゃ。{e0c6}卓の{e0c8}士か何かか?\nおとぎ話の{e0c9}み過ぎだぜ。{1a}それに、俺は勇者でも何でもねえ。\n危なくなったら逃げるし、\n怖くて足がすくむ時もある。{1a}{0c:522028}怪我すりゃ痛いし、死ぬのも怖い。\n{e0ca}{e0cb}の人間さ。{0c:4c0209fe}",
    "read": "{0c:5210184c021000}{1c:12}{0b:08}【 バルデス 】{0b:09}\n勇者バルデス・・・?\nなんだそりゃ。円卓の騎士か何かか?\nおとぎ話の読み過ぎだぜ。{1a}それに、俺は勇者でも何でもねえ。\n危なくなったら逃げるし、\n怖くて足がすくむ時もある。{1a}{0c:522028}怪我すりゃ痛いし、死ぬのも怖い。\n普通の人間さ。{0c:4c0209fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5210184c021000}{1c:12}{0b:08}【 Valdes 】{0b:09}\nValdes the Hero...? What's that, one of\nthe Knights of the Round Table or\nsomething? You've read too many fairy{1a}tales.{1a}Besides, I ain't no hero or anything like it.\nI run when it gets dangerous, and\nsometimes I'm so scared my legs lock up.{1a}{0c:522028}It hurts when I get hurt, and dying\nscares me. Just an ordinary man.{0c:4c0209fe}",
+   "status": "done",
+   "tl": "Valdes the Hero...? What's that, one of the Knights of the Round Table or something? You've read too many fairy tales. // Besides, I ain't no hero or anything like it. I run when it gets dangerous, and sometimes I'm so scared my legs lock up. // [1]It hurts when I get hurt, and dying scares me. Just an ordinary man."
   },
   {
    "id": "RES#1048:154f9",
@@ -393,8 +409,9 @@
    "jp": "{0c:523840}{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\nでも、あなたは\nこの町で最強だと・・・{0c:2b5309fe}",
    "read": "{0c:523840}{1c:13}{0b:08}【 アーサー 】{0b:09}\nでも、あなたは\nこの町で最強だと・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523840}{1c:13}{0b:08}【 Arthur 】{0b:09}\nBut they say you are the strongest in\nthis town...{0c:2b5309fe}",
+   "status": "done",
+   "tl": "But they say you are the strongest in this town..."
   },
   {
    "id": "RES#1048:1552e",
@@ -404,8 +421,9 @@
    "jp": "{1c:10}{0b:08}{e080} バルデス {e081}{0b:09}\n人より臆{e0cc}だったから\n生き延びただけさ。{0c:4c0209fe}",
    "read": "{1c:10}{0b:08}【 バルデス 】{0b:09}\n人より臆病だったから\n生き延びただけさ。{0c:4c0209fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Valdes 】{0b:09}\nI lived because I was more of a coward\nthan most, that's all.{0c:4c0209fe}",
+   "status": "done",
+   "tl": "I lived because I was more of a coward than most, that's all."
   },
   {
    "id": "RES#1048:15561",
@@ -427,8 +445,9 @@
    "jp": "{0c:523038}{1c:10}{0b:08}{e080} バルデス {e081}{0b:09}\n{e0c8}士道物語とやらに憧れるのは\nお前の勝手だが、\nそれはあくまでも虚構の世{e0d1}だ。{1a}目の前でよだれを垂らしてる魔物には\n英雄の勇気なんて{e0cb}用しねえぜ。{1a}じゃあな、気をつけて行けよ!{0c:fe}",
    "read": "{0c:523038}{1c:10}{0b:08}【 バルデス 】{0b:09}\n騎士道物語とやらに憧れるのは\nお前の勝手だが、\nそれはあくまでも虚構の世界だ。{1a}目の前でよだれを垂らしてる魔物には\n英雄の勇気なんて通用しねえぜ。{1a}じゃあな、気をつけて行けよ!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523038}{1c:10}{0b:08}【 Valdes 】{0b:09}\nDream about your tales of chivalry all\nyou want, that's your business, but\nthat's still a made-up world.{1a}A hero's courage won't get you nowhere\nwith a monster drooling right in your\nface.{1a}Well, so long. Watch yourself out there!{0c:fe}",
+   "status": "done",
+   "tl": "Dream about your tales of chivalry all you want, that's your business, but that's still a made-up world. // A hero's courage won't get you nowhere with a monster drooling right in your face. // Well, so long. Watch yourself out there!"
   },
   {
    "id": "RES#1048:15614",
@@ -460,8 +479,9 @@
    "jp": "{0c:520102}{1c:11}{0b:08}{e080} バルデス {e081}{0b:09}\nおう、{e082}入り!{0c:fe}",
    "read": "{0c:520102}{1c:11}{0b:08}【 バルデス 】{0b:09}\nおう、新入り!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520102}{1c:11}{0b:08}【 Valdes 】{0b:09}\nHey, rookie!{0c:fe}",
+   "status": "done",
+   "tl": "Hey, rookie!"
   },
   {
    "id": "RES#1048:15704",
@@ -482,8 +502,9 @@
    "jp": "{1c:10}地下{e083}{e084}の{e085}間を\nドーム{e086}に包む城{e089}を{e08a}りていくと\n伝{e08b}の{e083}{e084}『アスラ・ファエル』の\n入り口に辿り着く。{1a}つまり、本当のスタートはもっと先だ。\nそこまでは大したお{e08d}もない{e08e}わりに\n強い魔物もいない。{1a}そこまで行けないようなら、\n悪いことは言わねえ、自分の{e08f}{e090}で\n大人しくしてることだ。{0c:fe}",
    "read": "{1c:10}地下都市の空間を\nドーム状に包む城壁を降りていくと\n伝説の都市『アスラ・ファエル』の\n入り口に辿り着く。{1a}つまり、本当のスタートはもっと先だ。\nそこまでは大したお宝もない代わりに\n強い魔物もいない。{1a}そこまで行けないようなら、\n悪いことは言わねえ、自分の部屋で\n大人しくしてることだ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Climb down the wall that wraps the\nunderground city in a dome and you'll\nreach the entrance to the legendary\ncity, 'Asla Fael'.{1a}In other words, the real start's a ways\noff yet. Up to there you won't find\nmuch treasure, but no strong monsters\nneither.{1a}If you can't make it even that far, take\nmy advice: stay in your room and keep\nquiet.{0c:fe}",
+   "status": "done",
+   "tl": "Climb down the wall that wraps the underground city in a dome and you'll reach the entrance to the legendary city, 'Asla Fael'. // In other words, the real start's a ways off yet. Up to there you won't find much treasure, but no strong monsters neither. // If you can't make it even that far, take my advice: stay in your room and keep quiet."
   },
   {
    "id": "RES#1048:15825",
@@ -504,8 +525,9 @@
    "jp": "{1c:11}ほら、これを持っていきな。{0c:fe}",
    "read": "{1c:11}ほら、これを持っていきな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Here, take this.{0c:fe}",
+   "status": "done",
+   "tl": "Here, take this."
   },
   {
    "id": "RES#1048:15842",
@@ -537,8 +559,9 @@
    "jp": "{0c:520a0b}{0c:2b50235118}{1c:10}その小さなカプセルの中に、\n魔物相手の戦いに役立つ仕{e091}けが\n1{e092}{e093}ずつ入っている。{1a}地{e094}{e095}、{e096}結の{e097}{e098}、\n重力{e099}に自動{e09a}出機・・・{1a}なかにはどう使えばいいのか\nさっぱり分からんものもあるが、\n使いこなせば魔物との戦いが\n有利になるのは間違いない。 {1a}いや、\nこういった道具を使いこなさなければ\nここでは生き残れないと言っても\n言い過ぎじゃねえだろう。{1a}どんな{e09b}{e09c}でも使い続ければ\n切れ味は{e09d}るし、\n魔{e09e}を使えば{e09f}神的な疲労が\nどんどん溜まっていく。{1a}{0c:510c}その{e0a1}、そのカプセル・・・\n俺達は『トラップカプセル』って\n{e0a2}んでるが、それを使う分には\n疲れなんて関係ないし、{1a}上手に罠を仕{e091}ければ\n武器を使って戦うより\nはるかに楽に敵を倒せる。{1a}いくら体を{e0a3}えても、魔物に\n比べれば人間なんて非力なものさ。\n筋力にしろ生命力にしろ、\n格段に奴らの方が上だ。{1a}人間が魔物に勝てるのは       {0c:52fdff06}唯一、ここだけだからな。\n頭を使って{e0a7}け物{e0a8}を\n引っかき回してやれ。{0c:fe}",
    "read": "{0c:520a0b}{0c:2b50235118}{1c:10}その小さなカプセルの中に、\n魔物相手の戦いに役立つ仕掛けが\n1種類ずつ入っている。{1a}地雷火、氷結の爆弾、\n重力柱に自動射出機・・・{1a}なかにはどう使えばいいのか\nさっぱり分からんものもあるが、\n使いこなせば魔物との戦いが\n有利になるのは間違いない。 {1a}いや、\nこういった道具を使いこなさなければ\nここでは生き残れないと言っても\n言い過ぎじゃねえだろう。{1a}どんな名剣でも使い続ければ\n切れ味は鈍るし、\n魔法を使えば精神的な疲労が\nどんどん溜まっていく。{1a}{0c:510c}その点、そのカプセル・・・\n俺達は『トラップカプセル』って\n呼んでるが、それを使う分には\n疲れなんて関係ないし、{1a}上手に罠を仕掛ければ\n武器を使って戦うより\nはるかに楽に敵を倒せる。{1a}いくら体を鍛えても、魔物に\n比べれば人間なんて非力なものさ。\n筋力にしろ生命力にしろ、\n格段に奴らの方が上だ。{1a}人間が魔物に勝てるのは       {0c:52fdff06}唯一、ここだけだからな。\n頭を使って化け物共を\n引っかき回してやれ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520a0b}{0c:2b50235118}{1c:10}In those little capsules, there's one kind\nof device apiece, handy for fighting\nmonsters.{1a}Land mines, freezing bombs, gravity\npillars, automatic launchers...{1a}Some of them I can't make heads or tails\nof, but once you master them, they'll\ngive you the upper hand against\nmonsters, no question.{1a}Nah, it ain't going too far to say you\nwon't survive here without mastering\ntools like these.{1a}Even the finest sword dulls with use,\nand using magic keeps piling on mental\nfatigue.{1a}{0c:510c}Now, those capsules... we call them 'Trap\nCapsules'... using those, fatigue don't\ncome into it,{1a}and if you set your traps well, you can\nbring down enemies far easier than\nfighting with weapons.{1a}No matter how you train your body,\npeople are weak next to monsters.\nStrength, vitality, they've got us beat\nby a mile.{1a}The one place people got monsters beat\n{0c:52fdff06}is right here, after all. So use your head\nand run those freaks ragged.{0c:fe}",
+   "status": "done",
+   "tl": "In those little capsules, there's one kind of device apiece, handy for fighting monsters. // Land mines, freezing bombs, gravity pillars, automatic launchers... // Some of them I can't make heads or tails of, but once you master them, they'll give you the upper hand against monsters, no question. // Nah, it ain't going too far to say you won't survive here without mastering tools like these. // Even the finest sword dulls with use, and using magic keeps piling on mental fatigue. // [1]Now, those capsules... we call them 'Trap Capsules'... using those, fatigue don't come into it, // and if you set your traps well, you can bring down enemies far easier than fighting with weapons. // No matter how you train your body, people are weak next to monsters. Strength, vitality, they've got us beat by a mile. // The one place people got monsters beat [2]is right here, after all. So use your head and run those freaks ragged."
   },
   {
    "id": "RES#1048:15ab9",
@@ -559,8 +582,9 @@
    "jp": "{0c:5104}{1c:10}不思{e0a9}な道具だろ?{1a}そんな小さなカプセルの中に\n俺の体より大きな装{e0aa}を\n入れる事も出来る。{1a}カプセルも、中身の仕{e091}けも、\n{e0ab}{e0ac}で見つけた古{e08e}の道具を\nクムランが使いやすく\n{e0ad}良したものなんだが、{1a}一{e08f}、サディーヤの手伝った物や、\nガイウスの手伝った物もある。\nいわば、古{e08e}の{e0ab}{e0ae}と\n{e0af}{e08e}の{e0b0}{e0b1}の融合ってわけだな。{1a}残念なことに、魔{e09e}を詠唱するために\n必要な道具との相性が悪くて、\n魔{e09e}使いには扱えないように\nなってるんだが、{1a}それ以外は何の{e0b6}約もないし\n{e0b7}別な訓練もいらない。\n{e0ba}しい話はクムランに聞けばいい。\nそうそう、これも持っていけ。{0c:fe}",
    "read": "{0c:5104}{1c:10}不思議な道具だろ?{1a}そんな小さなカプセルの中に\n俺の体より大きな装置を\n入れる事も出来る。{1a}カプセルも、中身の仕掛けも、\n遺跡で見つけた古代の道具を\nクムランが使いやすく\n改良したものなんだが、{1a}一部、サディーヤの手伝った物や、\nガイウスの手伝った物もある。\nいわば、古代の遺産と\n現代の技術の融合ってわけだな。{1a}残念なことに、魔法を詠唱するために\n必要な道具との相性が悪くて、\n魔法使いには扱えないように\nなってるんだが、{1a}それ以外は何の制約もないし\n特別な訓練もいらない。\n詳しい話はクムランに聞けばいい。\nそうそう、これも持っていけ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5104}{1c:10}Strange gadget, ain't it?{1a}You can fit a device bigger than my body\ninside a little capsule like that.{1a}Both the capsules and the devices inside\nare ancient tools found in the ruins,\nreworked by Qumran to be easier to use,{1a}and Sadiya helped on some, Gaius on\nothers. You could call it a fusion of\nancient legacy and modern skill.{1a}Sad to say, they don't get along with\nthe tools you need for casting magic, so\nwizards can't handle them,{1a}but apart from that, no restrictions, no\nspecial training. Ask Qumran for the\ndetails. Oh, right, take this too.{0c:fe}",
+   "status": "done",
+   "tl": "Strange gadget, ain't it? // You can fit a device bigger than my body inside a little capsule like that. // Both the capsules and the devices inside are ancient tools found in the ruins, reworked by Qumran to be easier to use, // and Sadiya helped on some, Gaius on others. You could call it a fusion of ancient legacy and modern skill. // Sad to say, they don't get along with the tools you need for casting magic, so wizards can't handle them, // but apart from that, no restrictions, no special training. Ask Qumran for the details. Oh, right, take this too."
   },
   {
    "id": "RES#1048:15c4f",
@@ -581,8 +605,9 @@
    "jp": "{1c:10}『時の行{e0bb}図』って道具だ。\nこの道具を使うと町まで一{e0bc}で\n戻ってくることが出来る。{1a}それに、\n1度でも行ったことのある{e0bd}{e0be}なら\n自由に行き来することも{e0bf}{e0c0}だ。{1a}見た目はオモチャみたいだが、\nいわば俺達{e0c1}険者の命綱だな。{1a}その道具が見つかったおかげで、\n10{e0c3}前にはとてもじゃないが\n潜れなかったような深い{e0bd}{e0be}に\n行くことも{e0bf}{e0c0}になった。{1a}だが過信は禁物だ。\n『時の行{e0bb}図』が使えない所も\nあることだけは覚えておけ。{0c:fe}",
    "read": "{1c:10}『時の行路図』って道具だ。\nこの道具を使うと町まで一瞬で\n戻ってくることが出来る。{1a}それに、\n1度でも行ったことのある階層なら\n自由に行き来することも可能だ。{1a}見た目はオモチャみたいだが、\nいわば俺達冒険者の命綱だな。{1a}その道具が見つかったおかげで、\n10年前にはとてもじゃないが\n潜れなかったような深い階層に\n行くことも可能になった。{1a}だが過信は禁物だ。\n『時の行路図』が使えない所も\nあることだけは覚えておけ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}It's a tool called the 'Chart of Time'. Use\nit and you can get back to town in an\ninstant.{1a}Plus, any level you've been to even once,\nyou can come and go freely.{1a}Looks like a toy, but it's a lifeline for us\nadventurers.{1a}Thanks to finding that thing, we can\nnow reach deep levels you couldn't have\ndived to ten years back, no way.{1a}But don't put too much faith in it.\nRemember, there's places the 'Chart of\nTime' won't work.{0c:fe}",
+   "status": "done",
+   "tl": "It's a tool called the 'Chart of Time'. Use it and you can get back to town in an instant. // Plus, any level you've been to even once, you can come and go freely. // Looks like a toy, but it's a lifeline for us adventurers. // Thanks to finding that thing, we can now reach deep levels you couldn't have dived to ten years back, no way. // But don't put too much faith in it. Remember, there's places the 'Chart of Time' won't work."
   },
   {
    "id": "RES#1048:15d98",
@@ -603,8 +628,9 @@
    "jp": "{1c:10}大体の事はわかったな。{0c:4c0509fe}",
    "read": "{1c:10}大体の事はわかったな。{0c:4c0509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}So, that's the general idea.{0c:4c0509fe}",
+   "status": "done",
+   "tl": "So, that's the general idea."
   },
   {
    "id": "RES#1048:15dcd",
@@ -614,8 +640,9 @@
    "jp": "{0c:523038}{1c:14}{0b:08}{e080} パスカ {e081}{0b:09}\nなあ、おっさん。{0c:2b5309fe}",
    "read": "{0c:523038}{1c:14}{0b:08}【 パスカ 】{0b:09}\nなあ、おっさん。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523038}{1c:14}{0b:08}【 Pasca 】{0b:09}\nHey, mister.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Hey, mister."
   },
   {
    "id": "RES#1048:15df3",
@@ -625,8 +652,9 @@
    "jp": "{0c:52424a4c051000}{1c:12}{0b:08}{e080} バルデス {e081}{0b:09}\nおっさん?\n俺はまだ30にもなってねえぜ。{0c:4c0509fe}",
    "read": "{0c:52424a4c051000}{1c:12}{0b:08}【 バルデス 】{0b:09}\nおっさん?\n俺はまだ30にもなってねえぜ。{0c:4c0509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52424a4c051000}{1c:12}{0b:08}【 Valdes 】{0b:09}\nMister? I ain't even thirty yet.{0c:4c0509fe}",
+   "status": "done",
+   "tl": "Mister? I ain't even thirty yet."
   },
   {
    "id": "RES#1048:15e30",
@@ -636,8 +664,9 @@
    "jp": "{0c:524041}{1c:14}{0b:08}{e080} パスカ {e081}{0b:09}\nちょっと聞いてもいいかな。{0c:2b5309fe}",
    "read": "{0c:524041}{1c:14}{0b:08}【 パスカ 】{0b:09}\nちょっと聞いてもいいかな。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524041}{1c:14}{0b:08}【 Pasca 】{0b:09}\nCan I ask ya something?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Can I ask ya something?"
   },
   {
    "id": "RES#1048:15e5c",
@@ -647,8 +676,9 @@
    "jp": "{1c:10}{0b:08}{e080} バルデス {e081}{0b:09}\nああ。何だ?{0c:4c0509fe}",
    "read": "{1c:10}{0b:08}【 バルデス 】{0b:09}\nああ。何だ?{0c:4c0509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Valdes 】{0b:09}\nYeah. What is it?{0c:4c0509fe}",
+   "status": "done",
+   "tl": "Yeah. What is it?"
   },
   {
    "id": "RES#1048:15e7e",
@@ -658,8 +688,9 @@
    "jp": "{1c:15}{0b:08}{e080} パスカ {e081}{0b:09}\nなんでこう、みんな親切なんだ?{1a}話に聞いてたのと\nかなり違うんだけど。{0c:2b5309fe}",
    "read": "{1c:15}{0b:08}【 パスカ 】{0b:09}\nなんでこう、みんな親切なんだ?{1a}話に聞いてたのと\nかなり違うんだけど。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Pasca 】{0b:09}\nHow come everyone's so damn nice\naround here?{1a}It's a whole lot different from what I\nheard.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "How come everyone's so damn nice around here? // It's a whole lot different from what I heard."
   },
   {
    "id": "RES#1048:15ec1",
@@ -669,8 +700,9 @@
    "jp": "{0c:52525a}{1c:10}{0b:08}{e080} バルデス {e081}{0b:09}\nどう違う?{0c:4c0509fe}",
    "read": "{0c:52525a}{1c:10}{0b:08}【 バルデス 】{0b:09}\nどう違う?{0c:4c0509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52525a}{1c:10}{0b:08}【 Valdes 】{0b:09}\nDifferent how?{0c:4c0509fe}",
+   "status": "done",
+   "tl": "Different how?"
   },
   {
    "id": "RES#1048:15ee7",
@@ -680,8 +712,9 @@
    "jp": "{1c:14}{0b:08}{e080} パスカ {e081}{0b:09}\n身分も{e09e}も警察も軍{e0d9}もない\n無{e09e}者の町だから、{1a}{e0c1}険者同士のリンチや喧嘩は\n当たり前、殺しも珍しくないとか、\n頼れるのは自分だけとか・・・{0c:2b5309fe}",
    "read": "{1c:14}{0b:08}【 パスカ 】{0b:09}\n身分も法も警察も軍隊もない\n無法者の町だから、{1a}冒険者同士のリンチや喧嘩は\n当たり前、殺しも珍しくないとか、\n頼れるのは自分だけとか・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Pasca 】{0b:09}\nA town of outlaws with no station, no\nlaw, no police, no army, so...{1a}adventurers lynching and brawling's just\nnormal, killing ain't rare, only one ya can\ncount on is yourself...{0c:2b5309fe}",
+   "status": "done",
+   "tl": "A town of outlaws with no station, no law, no police, no army, so... // adventurers lynching and brawling's just normal, killing ain't rare, only one ya can count on is yourself..."
   },
   {
    "id": "RES#1048:15f60",
@@ -691,8 +724,9 @@
    "jp": "{0c:52626a}{1c:10}{0b:08}{e080} バルデス {e081}{0b:09}\n昔はそうだったな。\nそれに、いまでも{e0dd}分は当たってる。{0c:4c0509fe}",
    "read": "{0c:52626a}{1c:10}{0b:08}【 バルデス 】{0b:09}\n昔はそうだったな。\nそれに、いまでも半分は当たってる。{0c:4c0509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52626a}{1c:10}{0b:08}【 Valdes 】{0b:09}\nThat's how it used to be. And it's still\nhalf true.{0c:4c0509fe}",
+   "status": "done",
+   "tl": "That's how it used to be. And it's still half true."
   },
   {
    "id": "RES#1048:15f9e",
@@ -714,8 +748,9 @@
    "jp": "{1c:10}{0b:08}{e080} バルデス {e081}{0b:09}\n頼れるのは自分だけってのは\n全然変わらない。{1a}俺達はほんのちょっと\n手助けをするだけだ。{0c:4c0509fe}",
    "read": "{1c:10}{0b:08}【 バルデス 】{0b:09}\n頼れるのは自分だけってのは\n全然変わらない。{1a}俺達はほんのちょっと\n手助けをするだけだ。{0c:4c0509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Valdes 】{0b:09}\nYou can only count on yourself: that\npart ain't changed at all.{1a}We just give you a little bit of a hand.{0c:4c0509fe}",
+   "status": "done",
+   "tl": "You can only count on yourself: that part ain't changed at all. // We just give you a little bit of a hand."
   },
   {
    "id": "RES#1048:1600b",
@@ -725,8 +760,9 @@
    "jp": "{0c:524951}{1c:15}{0b:08}{e080} パスカ {e081}{0b:09}\nそこだよ。\nどうして助けてくれるんだ?\nそんな義理なんてないだろ?{0c:2b5309fe}",
    "read": "{0c:524951}{1c:15}{0b:08}【 パスカ 】{0b:09}\nそこだよ。\nどうして助けてくれるんだ?\nそんな義理なんてないだろ?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524951}{1c:15}{0b:08}【 Pasca 】{0b:09}\nThat's the thing. Why help us? Ya don't\nowe us nothing, right?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "That's the thing. Why help us? Ya don't owe us nothing, right?"
   },
   {
    "id": "RES#1048:16050",
@@ -736,8 +772,9 @@
    "jp": "{0c:52727a}{1c:10}{0b:08}{e080} バルデス {e081}{0b:09}\n若い奴らを守ってやるのは\n大人の役割だ。{1a}お前らが俺の{e0df}の相手を出来る{e0e0}に\n{e0e1}{e0e2}するまではな。{0c:4c0509fe}",
    "read": "{0c:52727a}{1c:10}{0b:08}【 バルデス 】{0b:09}\n若い奴らを守ってやるのは\n大人の役割だ。{1a}お前らが俺の酒の相手を出来る位に\n成長するまではな。{0c:4c0509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52727a}{1c:10}{0b:08}【 Valdes 】{0b:09}\nLooking after the young ones is what\ngrown-ups are for.{1a}Until you've grown up enough to keep me\ncompany over a drink, anyway.{0c:4c0509fe}",
+   "status": "done",
+   "tl": "Looking after the young ones is what grown-ups are for. // Until you've grown up enough to keep me company over a drink, anyway."
   },
   {
    "id": "RES#1048:160af",
@@ -747,8 +784,9 @@
    "jp": "{0c:52595a}{1c:14}{0b:08}{e080} パスカ {e081}{0b:09}\nあんた、いい人なんだな。{0c:2b5309fe}",
    "read": "{0c:52595a}{1c:14}{0b:08}【 パスカ 】{0b:09}\nあんた、いい人なんだな。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52595a}{1c:14}{0b:08}【 Pasca 】{0b:09}\nYou're a good guy, ain't ya.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "You're a good guy, ain't ya."
   },
   {
    "id": "RES#1048:160da",
@@ -758,8 +796,9 @@
    "jp": "{1c:11}{0b:08}{e080} バルデス {e081}{0b:09}\n一緒に{e0df}を飲みかわす相手が\n欲しいだけさ。{1a}じゃあな、気をつけて行けよ!{0c:02cd01}",
    "read": "{1c:11}{0b:08}【 バルデス 】{0b:09}\n一緒に酒を飲みかわす相手が\n欲しいだけさ。{1a}じゃあな、気をつけて行けよ!{0c:02cd01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Valdes 】{0b:09}\nI just want somebody to drink with,\nthat's all.{1a}Well, so long. Watch yourself out there!{0c:02cd01}",
+   "status": "done",
+   "tl": "I just want somebody to drink with, that's all. // Well, so long. Watch yourself out there!"
   },
   {
    "id": "RES#1048:16121",
@@ -780,8 +819,9 @@
    "jp": "{0c:520102}{1c:11}{0b:08}{e080} バルデス {e081}{0b:09}\nおう、{e082}入り!{0c:fe}",
    "read": "{0c:520102}{1c:11}{0b:08}【 バルデス 】{0b:09}\nおう、新入り!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520102}{1c:11}{0b:08}【 Valdes 】{0b:09}\nHey, rookie!{0c:fe}",
+   "status": "done",
+   "tl": "Hey, rookie!"
   },
   {
    "id": "RES#1048:1620b",
@@ -802,8 +842,9 @@
    "jp": "{1c:10}地下{e083}{e084}の{e085}間を\nドーム{e086}に包む城{e089}を{e08a}りていくと\n伝{e08b}の{e083}{e084}『アスラ・ファエル』の\n入り口に辿り着く。{1a}つまり、本当のスタートはもっと先だ。\nそこまでは大したお{e08d}もない{e08e}わりに\n強い魔物もいない。{1a}そこまで行けないようなら、\n悪いことは言わねえ、自分の{e08f}{e090}で\n大人しくしてることだ。{0c:fe}",
    "read": "{1c:10}地下都市の空間を\nドーム状に包む城壁を降りていくと\n伝説の都市『アスラ・ファエル』の\n入り口に辿り着く。{1a}つまり、本当のスタートはもっと先だ。\nそこまでは大したお宝もない代わりに\n強い魔物もいない。{1a}そこまで行けないようなら、\n悪いことは言わねえ、自分の部屋で\n大人しくしてることだ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Climb down the wall that wraps the\nunderground city in a dome and you'll\nreach the entrance to the legendary\ncity, 'Asla Fael'.{1a}In other words, the real start's a ways\noff yet. Up to there you won't find\nmuch treasure, but no strong monsters\nneither.{1a}If you can't make it even that far, take\nmy advice: stay in your room and keep\nquiet.{0c:fe}",
+   "status": "done",
+   "tl": "Climb down the wall that wraps the underground city in a dome and you'll reach the entrance to the legendary city, 'Asla Fael'. // In other words, the real start's a ways off yet. Up to there you won't find much treasure, but no strong monsters neither. // If you can't make it even that far, take my advice: stay in your room and keep quiet."
   },
   {
    "id": "RES#1048:1632c",
@@ -824,8 +865,9 @@
    "jp": "{1c:11}ほら、これを持っていきな。{0c:fe}",
    "read": "{1c:11}ほら、これを持っていきな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Here, take this.{0c:fe}",
+   "status": "done",
+   "tl": "Here, take this."
   },
   {
    "id": "RES#1048:16349",
@@ -857,8 +899,9 @@
    "jp": "{0c:520a0b}{0c:2b50235118}{1c:10}その小さなカプセルの中に、\n魔物相手の戦いに役立つ仕{e091}けが\n1{e092}{e093}ずつ入っている。{1a}地{e094}{e095}、{e096}結の{e097}{e098}、\n重力{e099}に自動{e09a}出機・・・{1a}なかにはどう使えばいいのか\nさっぱり分からんものもあるが、\n使いこなせば魔物との戦いが\n有利になるのは間違いない。 {1a}いや、\nこういった道具を使いこなさなければ\nここでは生き残れないと言っても\n言い過ぎじゃねえだろう。{1a}どんな{e09b}{e09c}でも使い続ければ\n切れ味は{e09d}るし、\n魔{e09e}を使えば{e09f}神的な疲労が\nどんどん溜まっていく。{1a}{0c:510c}その{e0a1}、そのカプセル・・・\n俺達は『トラップカプセル』って\n{e0a2}んでるが、それを使う分には\n疲れなんて関係ないし、{1a}上手に罠を仕{e091}ければ\n武器を使って戦うより\nはるかに楽に敵を倒せる。{1a}いくら体を{e0a3}えても、魔物に\n比べれば人間なんて非力なものさ。\n筋力にしろ生命力にしろ、\n格段に奴らの方が上だ。{1a}人間が魔物に勝てるのは       {0c:52fdff06}唯一、ここだけだからな。\n頭を使って{e0a7}け物{e0a8}を\n引っかき回してやれ。{0c:fe}",
    "read": "{0c:520a0b}{0c:2b50235118}{1c:10}その小さなカプセルの中に、\n魔物相手の戦いに役立つ仕掛けが\n1種類ずつ入っている。{1a}地雷火、氷結の爆弾、\n重力柱に自動射出機・・・{1a}なかにはどう使えばいいのか\nさっぱり分からんものもあるが、\n使いこなせば魔物との戦いが\n有利になるのは間違いない。 {1a}いや、\nこういった道具を使いこなさなければ\nここでは生き残れないと言っても\n言い過ぎじゃねえだろう。{1a}どんな名剣でも使い続ければ\n切れ味は鈍るし、\n魔法を使えば精神的な疲労が\nどんどん溜まっていく。{1a}{0c:510c}その点、そのカプセル・・・\n俺達は『トラップカプセル』って\n呼んでるが、それを使う分には\n疲れなんて関係ないし、{1a}上手に罠を仕掛ければ\n武器を使って戦うより\nはるかに楽に敵を倒せる。{1a}いくら体を鍛えても、魔物に\n比べれば人間なんて非力なものさ。\n筋力にしろ生命力にしろ、\n格段に奴らの方が上だ。{1a}人間が魔物に勝てるのは       {0c:52fdff06}唯一、ここだけだからな。\n頭を使って化け物共を\n引っかき回してやれ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520a0b}{0c:2b50235118}{1c:10}In those little capsules, there's one kind\nof device apiece, handy for fighting\nmonsters.{1a}Land mines, freezing bombs, gravity\npillars, automatic launchers...{1a}Some of them I can't make heads or tails\nof, but once you master them, they'll\ngive you the upper hand against\nmonsters, no question.{1a}Nah, it ain't going too far to say you\nwon't survive here without mastering\ntools like these.{1a}Even the finest sword dulls with use,\nand using magic keeps piling on mental\nfatigue.{1a}{0c:510c}Now, those capsules... we call them 'Trap\nCapsules'... using those, fatigue don't\ncome into it,{1a}and if you set your traps well, you can\nbring down enemies far easier than\nfighting with weapons.{1a}No matter how you train your body,\npeople are weak next to monsters.\nStrength, vitality, they've got us beat\nby a mile.{1a}The one place people got monsters beat\n{0c:52fdff06}is right here, after all. So use your head\nand run those freaks ragged.{0c:fe}",
+   "status": "done",
+   "tl": "In those little capsules, there's one kind of device apiece, handy for fighting monsters. // Land mines, freezing bombs, gravity pillars, automatic launchers... // Some of them I can't make heads or tails of, but once you master them, they'll give you the upper hand against monsters, no question. // Nah, it ain't going too far to say you won't survive here without mastering tools like these. // Even the finest sword dulls with use, and using magic keeps piling on mental fatigue. // [1]Now, those capsules... we call them 'Trap Capsules'... using those, fatigue don't come into it, // and if you set your traps well, you can bring down enemies far easier than fighting with weapons. // No matter how you train your body, people are weak next to monsters. Strength, vitality, they've got us beat by a mile. // The one place people got monsters beat [2]is right here, after all. So use your head and run those freaks ragged."
   },
   {
    "id": "RES#1048:165c0",
@@ -879,8 +922,9 @@
    "jp": "{0c:5104}{1c:10}不思{e0a9}な道具だろ?{1a}そんな小さなカプセルの中に\n俺の体より大きな装{e0aa}を\n入れる事も出来る。{1a}カプセルも、中身の仕{e091}けも、\n{e0ab}{e0ac}で見つけた古{e08e}の道具を\nクムランが使いやすく\n{e0ad}良したものなんだが、{1a}一{e08f}、サディーヤの手伝った物や、\nガイウスの手伝った物もある。\nいわば、古{e08e}の{e0ab}{e0ae}と\n{e0af}{e08e}の{e0b0}{e0b1}の融合ってわけだな。{1a}残念なことに、魔{e09e}を詠唱するために\n必要な道具との相性が悪くて、\n魔{e09e}使いには扱えないように\nなってるんだが、{1a}それ以外は何の{e0b6}約もないし\n{e0b7}別な訓練もいらない。\n{e0ba}しい話はクムランに聞けばいい。\nそうそう、これも持っていけ。{0c:fe}",
    "read": "{0c:5104}{1c:10}不思議な道具だろ?{1a}そんな小さなカプセルの中に\n俺の体より大きな装置を\n入れる事も出来る。{1a}カプセルも、中身の仕掛けも、\n遺跡で見つけた古代の道具を\nクムランが使いやすく\n改良したものなんだが、{1a}一部、サディーヤの手伝った物や、\nガイウスの手伝った物もある。\nいわば、古代の遺産と\n現代の技術の融合ってわけだな。{1a}残念なことに、魔法を詠唱するために\n必要な道具との相性が悪くて、\n魔法使いには扱えないように\nなってるんだが、{1a}それ以外は何の制約もないし\n特別な訓練もいらない。\n詳しい話はクムランに聞けばいい。\nそうそう、これも持っていけ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5104}{1c:10}Strange gadget, ain't it?{1a}You can fit a device bigger than my body\ninside a little capsule like that.{1a}Both the capsules and the devices inside\nare ancient tools found in the ruins,\nreworked by Qumran to be easier to use,{1a}and Sadiya helped on some, Gaius on\nothers. You could call it a fusion of\nancient legacy and modern skill.{1a}Sad to say, they don't get along with\nthe tools you need for casting magic, so\nwizards can't handle them,{1a}but apart from that, no restrictions, no\nspecial training. Ask Qumran for the\ndetails. Oh, right, take this too.{0c:fe}",
+   "status": "done",
+   "tl": "Strange gadget, ain't it? // You can fit a device bigger than my body inside a little capsule like that. // Both the capsules and the devices inside are ancient tools found in the ruins, reworked by Qumran to be easier to use, // and Sadiya helped on some, Gaius on others. You could call it a fusion of ancient legacy and modern skill. // Sad to say, they don't get along with the tools you need for casting magic, so wizards can't handle them, // but apart from that, no restrictions, no special training. Ask Qumran for the details. Oh, right, take this too."
   },
   {
    "id": "RES#1048:16756",
@@ -901,8 +945,9 @@
    "jp": "{1c:10}『時の行{e0bb}図』って道具だ。\nこの道具を使うと町まで一{e0bc}で\n戻ってくることが出来る。{1a}それに、\n1度でも行ったことのある{e0bd}{e0be}なら\n自由に行き来することも{e0bf}{e0c0}だ。{1a}見た目はオモチャみたいだが、\nいわば俺達{e0c1}険者の命綱だな。{1a}その道具が見つかったおかげで、\n10{e0c3}前にはとてもじゃないが\n潜れなかったような深い{e0bd}{e0be}に\n行くことも{e0bf}{e0c0}になった。{1a}だが過信は禁物だ。\n『時の行{e0bb}図』が使えない所も\nあることだけは覚えておけ。{0c:fe}",
    "read": "{1c:10}『時の行路図』って道具だ。\nこの道具を使うと町まで一瞬で\n戻ってくることが出来る。{1a}それに、\n1度でも行ったことのある階層なら\n自由に行き来することも可能だ。{1a}見た目はオモチャみたいだが、\nいわば俺達冒険者の命綱だな。{1a}その道具が見つかったおかげで、\n10年前にはとてもじゃないが\n潜れなかったような深い階層に\n行くことも可能になった。{1a}だが過信は禁物だ。\n『時の行路図』が使えない所も\nあることだけは覚えておけ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}It's a tool called the 'Chart of Time'. Use\nit and you can get back to town in an\ninstant.{1a}Plus, any level you've been to even once,\nyou can come and go freely.{1a}Looks like a toy, but it's a lifeline for us\nadventurers.{1a}Thanks to finding that thing, we can\nnow reach deep levels you couldn't have\ndived to ten years back, no way.{1a}But don't put too much faith in it.\nRemember, there's places the 'Chart of\nTime' won't work.{0c:fe}",
+   "status": "done",
+   "tl": "It's a tool called the 'Chart of Time'. Use it and you can get back to town in an instant. // Plus, any level you've been to even once, you can come and go freely. // Looks like a toy, but it's a lifeline for us adventurers. // Thanks to finding that thing, we can now reach deep levels you couldn't have dived to ten years back, no way. // But don't put too much faith in it. Remember, there's places the 'Chart of Time' won't work."
   },
   {
    "id": "RES#1048:1689f",
@@ -923,8 +968,9 @@
    "jp": "{1c:10}大体のことはわかったな。{0c:4c0a09fe}",
    "read": "{1c:10}大体のことはわかったな。{0c:4c0a09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}So, that's the general idea.{0c:4c0a09fe}",
+   "status": "done",
+   "tl": "So, that's the general idea."
   },
   {
    "id": "RES#1048:168d4",
@@ -934,8 +980,9 @@
    "jp": "{0c:523038}{1c:17}{0b:08}{e080} ジェシカ {e081}{0b:09}\nねえ、おっさん。{0c:2b5309fe}",
    "read": "{0c:523038}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nねえ、おっさん。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523038}{1c:17}{0b:08}【 Jessica 】{0b:09}\nHey, mister.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Hey, mister."
   },
   {
    "id": "RES#1048:168fb",
@@ -945,8 +992,9 @@
    "jp": "{0c:52424a4c0a1000}{1c:12}{0b:08}{e080} バルデス {e081}{0b:09}\nお、おっさん?\n俺はまだ30にもなってねえぜ。{0c:4c0a09fe}",
    "read": "{0c:52424a4c0a1000}{1c:12}{0b:08}【 バルデス 】{0b:09}\nお、おっさん?\n俺はまだ30にもなってねえぜ。{0c:4c0a09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52424a4c0a1000}{1c:12}{0b:08}【 Valdes 】{0b:09}\nM-mister? I ain't even thirty yet.{0c:4c0a09fe}",
+   "status": "done",
+   "tl": "M-mister? I ain't even thirty yet."
   },
   {
    "id": "RES#1048:1693a",
@@ -956,8 +1004,9 @@
    "jp": "{0c:524048}{1c:18}{0b:08}{e080} ジェシカ {e081}{0b:09}\nちょっと聞いてもいいかな。{0c:2b5309fe}",
    "read": "{0c:524048}{1c:18}{0b:08}【 ジェシカ 】{0b:09}\nちょっと聞いてもいいかな。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524048}{1c:18}{0b:08}【 Jessica 】{0b:09}\nCan I ask ya something?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Can I ask ya something?"
   },
   {
    "id": "RES#1048:16967",
@@ -967,8 +1016,9 @@
    "jp": "{1c:11}{0b:08}{e080} バルデス {e081}{0b:09}\nああ。何だ?{0c:4c0a09fe}",
    "read": "{1c:11}{0b:08}【 バルデス 】{0b:09}\nああ。何だ?{0c:4c0a09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Valdes 】{0b:09}\nYeah. What is it?{0c:4c0a09fe}",
+   "status": "done",
+   "tl": "Yeah. What is it?"
   },
   {
    "id": "RES#1048:16989",
@@ -978,8 +1028,9 @@
    "jp": "{1c:17}{0b:08}{e080} ジェシカ {e081}{0b:09}\nなんで、みんな親切なの?{1a}{e0df}場のおっさんとか、\n{e0e4}鏡の兄さんとか・・・\n話に聞いてたのと\nかなり違うんだけど。{0c:2b5309fe}",
    "read": "{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nなんで、みんな親切なの?{1a}酒場のおっさんとか、\n眼鏡の兄さんとか・・・\n話に聞いてたのと\nかなり違うんだけど。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Jessica 】{0b:09}\nHow come everyone's so nice?{1a}The old mister at the tavern, the young\nguy with the glasses... It's way different\nfrom what I heard.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "How come everyone's so nice? // The old mister at the tavern, the young guy with the glasses... It's way different from what I heard."
   },
   {
    "id": "RES#1048:169e6",
@@ -989,8 +1040,9 @@
    "jp": "{0c:52828a}{1c:12}{0b:08}{e080} バルデス {e081}{0b:09}\nクムランは俺よりも\n{e0c3}上なんだがな・・・{1a}{0c:52525a}まあいい。\nで、聞いてた話とどう違う?{0c:4c0a09fe}",
    "read": "{0c:52828a}{1c:12}{0b:08}【 バルデス 】{0b:09}\nクムランは俺よりも\n年上なんだがな・・・{1a}{0c:52525a}まあいい。\nで、聞いてた話とどう違う?{0c:4c0a09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52828a}{1c:12}{0b:08}【 Valdes 】{0b:09}\nQumran's older than me, for what it's\nworth...{1a}{0c:52525a}Whatever. So, how's it different from\nwhat you heard?{0c:4c0a09fe}",
+   "status": "done",
+   "tl": "Qumran's older than me, for what it's worth... // [1]Whatever. So, how's it different from what you heard?"
   },
   {
    "id": "RES#1048:16a39",
@@ -1000,8 +1052,9 @@
    "jp": "{0c:525058}{1c:17}{0b:08}{e080} ジェシカ {e081}{0b:09}\n身分も{e09e}も警察も軍{e0d9}もない\n無{e09e}者の町だから、{1a}{e0c1}険者同士のリンチや喧嘩は\n当たり前、殺しも珍しくないとか、\n頼れるのは自分だけとか聞いてたから{1a}{0c:526068}ちょっと拍子抜けだよ。\nみんな変にいい子ちゃんでさ。{0c:2b5309fe}",
    "read": "{0c:525058}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\n身分も法も警察も軍隊もない\n無法者の町だから、{1a}冒険者同士のリンチや喧嘩は\n当たり前、殺しも珍しくないとか、\n頼れるのは自分だけとか聞いてたから{1a}{0c:526068}ちょっと拍子抜けだよ。\nみんな変にいい子ちゃんでさ。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:525058}{1c:17}{0b:08}【 Jessica 】{0b:09}\nTown of outlaws, no station, no law, no\npolice, no army...{1a}Adventurers lynching and brawling's just\nnormal, killing's nothing special, you can\nonly rely on yourself, that's what I\nheard,{1a}{0c:526068}so this is kind of a letdown. Everybody's\nso weirdly goody-goody.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Town of outlaws, no station, no law, no police, no army... // Adventurers lynching and brawling's just normal, killing's nothing special, you can only rely on yourself, that's what I heard, // [1]so this is kind of a letdown. Everybody's so weirdly goody-goody."
   },
   {
    "id": "RES#1048:16ae1",
@@ -1011,8 +1064,9 @@
    "jp": "{0c:52626a}{1c:10}{0b:08}{e080} バルデス {e081}{0b:09}\n昔はそうだったな。\nそれに、いまでも{e0dd}分は当たってる。{0c:4c0a09fe}",
    "read": "{0c:52626a}{1c:10}{0b:08}【 バルデス 】{0b:09}\n昔はそうだったな。\nそれに、いまでも半分は当たってる。{0c:4c0a09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52626a}{1c:10}{0b:08}【 Valdes 】{0b:09}\nThat's how it used to be. And it's still\nhalf true.{0c:4c0a09fe}",
+   "status": "done",
+   "tl": "That's how it used to be. And it's still half true."
   },
   {
    "id": "RES#1048:16b1f",
@@ -1034,8 +1088,9 @@
    "jp": "{1c:10}{0b:08}{e080} バルデス {e081}{0b:09}\n頼れるのは自分だけってのは\n全然変わらない。{1a}俺達はほんのちょっと\n手助けをするだけだ。{0c:4c0a09fe}",
    "read": "{1c:10}{0b:08}【 バルデス 】{0b:09}\n頼れるのは自分だけってのは\n全然変わらない。{1a}俺達はほんのちょっと\n手助けをするだけだ。{0c:4c0a09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Valdes 】{0b:09}\nYou can only count on yourself: that\npart ain't changed at all.{1a}We just give you a little bit of a hand.{0c:4c0a09fe}",
+   "status": "done",
+   "tl": "You can only count on yourself: that part ain't changed at all. // We just give you a little bit of a hand."
   },
   {
    "id": "RES#1048:16b96",
@@ -1045,8 +1100,9 @@
    "jp": "{0c:528088}{1c:16}{0b:08}{e080} ジェシカ {e081}{0b:09}\nどうして助けてくれるの?\n1ガルトの得にもならないのにさ。{0c:2b5309fe}",
    "read": "{0c:528088}{1c:16}{0b:08}【 ジェシカ 】{0b:09}\nどうして助けてくれるの?\n1ガルトの得にもならないのにさ。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:528088}{1c:16}{0b:08}【 Jessica 】{0b:09}\nWhy help us? You won't make a single\ngalt off it.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Why help us? You won't make a single galt off it."
   },
   {
    "id": "RES#1048:16bd7",
@@ -1056,8 +1112,9 @@
    "jp": "{0c:52727a}{1c:10}{0b:08}{e080} バルデス {e081}{0b:09}\n若い奴らを守ってやるのは\n大人の役割だ。{1a}お前らが俺の{e0df}の相手を\n出来るくらいに{e0e1}{e0e2}するまではな。{0c:4c0a09fe}",
    "read": "{0c:52727a}{1c:10}{0b:08}【 バルデス 】{0b:09}\n若い奴らを守ってやるのは\n大人の役割だ。{1a}お前らが俺の酒の相手を\n出来るくらいに成長するまではな。{0c:4c0a09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52727a}{1c:10}{0b:08}【 Valdes 】{0b:09}\nLooking after the young ones is what\ngrown-ups are for.{1a}Until you've grown up enough to keep me\ncompany over a drink, anyway.{0c:4c0a09fe}",
+   "status": "done",
+   "tl": "Looking after the young ones is what grown-ups are for. // Until you've grown up enough to keep me company over a drink, anyway."
   },
   {
    "id": "RES#1048:16c37",
@@ -1067,8 +1124,9 @@
    "jp": "{0c:529098}{1c:18}{0b:08}{e080} ジェシカ {e081}{0b:09}\nへえ、今時珍しいね。そんな考え方。\nおっさん見かけによらず\nいい人なんだね。{0c:2b5309fe}",
    "read": "{0c:529098}{1c:18}{0b:08}【 ジェシカ 】{0b:09}\nへえ、今時珍しいね。そんな考え方。\nおっさん見かけによらず\nいい人なんだね。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:529098}{1c:18}{0b:08}【 Jessica 】{0b:09}\nHuh, you don't see that kind of thinking\nmuch these days. You're a nicer guy\nthan you look, mister.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Huh, you don't see that kind of thinking much these days. You're a nicer guy than you look, mister."
   },
   {
    "id": "RES#1048:16c83",
@@ -1078,8 +1136,9 @@
    "jp": "{1c:11}{0b:08}{e080} バルデス {e081}{0b:09}\n一緒に{e0df}を飲みかわす相手が\n欲しいだけさ。{1a}じゃあな、気をつけて行けよ!{0c:fe}",
    "read": "{1c:11}{0b:08}【 バルデス 】{0b:09}\n一緒に酒を飲みかわす相手が\n欲しいだけさ。{1a}じゃあな、気をつけて行けよ!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Valdes 】{0b:09}\nI just want somebody to drink with,\nthat's all.{1a}Well, so long. Watch yourself out there!{0c:fe}",
+   "status": "done",
+   "tl": "I just want somebody to drink with, that's all. // Well, so long. Watch yourself out there!"
   },
   {
    "id": "RES#1048:16cc8",
@@ -1111,8 +1170,9 @@
    "jp": "{0c:520102}{1c:11}{0b:08}{e080} バルデス {e081}{0b:09}\nおう、{e082}入り!{0c:fe}",
    "read": "{0c:520102}{1c:11}{0b:08}【 バルデス 】{0b:09}\nおう、新入り!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520102}{1c:11}{0b:08}【 Valdes 】{0b:09}\nHey, rookie!{0c:fe}",
+   "status": "done",
+   "tl": "Hey, rookie!"
   },
   {
    "id": "RES#1048:16db8",
@@ -1133,8 +1193,9 @@
    "jp": "{1c:10}地下{e083}{e084}の{e085}間を\nドーム{e086}に包む城{e089}を{e08a}りていくと\n伝{e08b}の{e083}{e084}『アスラ・ファエル』の\n入り口に辿り着く。{1a}つまり、本当のスタートはもっと先だ。\nそこまでは大したお{e08d}もない{e08e}わりに\n強い魔物もいない。{1a}そこまで行けないようなら、\n悪いことは言わねえ、自分の{e08f}{e090}で\n大人しくしてることだ。{0c:fe}",
    "read": "{1c:10}地下都市の空間を\nドーム状に包む城壁を降りていくと\n伝説の都市『アスラ・ファエル』の\n入り口に辿り着く。{1a}つまり、本当のスタートはもっと先だ。\nそこまでは大したお宝もない代わりに\n強い魔物もいない。{1a}そこまで行けないようなら、\n悪いことは言わねえ、自分の部屋で\n大人しくしてることだ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Climb down the wall that wraps the\nunderground city in a dome and you'll\nreach the entrance to the legendary\ncity, 'Asla Fael'.{1a}In other words, the real start's a ways\noff yet. Up to there you won't find\nmuch treasure, but no strong monsters\nneither.{1a}If you can't make it even that far, take\nmy advice: stay in your room and keep\nquiet.{0c:fe}",
+   "status": "done",
+   "tl": "Climb down the wall that wraps the underground city in a dome and you'll reach the entrance to the legendary city, 'Asla Fael'. // In other words, the real start's a ways off yet. Up to there you won't find much treasure, but no strong monsters neither. // If you can't make it even that far, take my advice: stay in your room and keep quiet."
   },
   {
    "id": "RES#1048:16ed9",
@@ -1155,8 +1216,9 @@
    "jp": "{1c:11}ほら、これを持っていきな。{0c:fe}",
    "read": "{1c:11}ほら、これを持っていきな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Here, take this.{0c:fe}",
+   "status": "done",
+   "tl": "Here, take this."
   },
   {
    "id": "RES#1048:16ef6",
@@ -1188,8 +1250,9 @@
    "jp": "{0c:520a0b}{0c:2b50235118}{1c:10}その小さなカプセルの中に、\n魔物相手の戦いに役立つ仕{e091}けが\n1{e092}{e093}ずつ入っている。{1a}地{e094}{e095}、{e096}結の{e097}{e098}、\n重力{e099}に自動{e09a}出機・・・{1a}なかにはどう使えばいいのか\nさっぱり分からんものもあるが、\n使いこなせば魔物との戦いが\n有利になるのは間違いない。 {1a}いや、\nこういった道具を使いこなさなければ\nここでは生き残れないと言っても\n言い過ぎじゃねえだろう。{1a}どんな{e09b}{e09c}でも使い続ければ\n切れ味は{e09d}るし、\n魔{e09e}を使えば{e09f}神的な疲労が\nどんどん溜まっていく。{1a}{0c:510c}その{e0a1}、そのカプセル・・・\n俺達は『トラップカプセル』って\n{e0a2}んでるが、それを使う分には\n疲れなんて関係ないし、{1a}上手に罠を仕{e091}ければ\n武器を使って戦うより\nはるかに楽に敵を倒せる。{1a}いくら体を{e0a3}えても、魔物に\n比べれば人間なんて非力なものさ。\n筋力にしろ生命力にしろ、\n格段に奴らの方が上だ。{1a}人間が魔物に勝てるのは       {0c:52fdff06}唯一、ここだけだからな。\n頭を使って{e0a7}け物{e0a8}を\n引っかき回してやれ。{0c:fe}",
    "read": "{0c:520a0b}{0c:2b50235118}{1c:10}その小さなカプセルの中に、\n魔物相手の戦いに役立つ仕掛けが\n1種類ずつ入っている。{1a}地雷火、氷結の爆弾、\n重力柱に自動射出機・・・{1a}なかにはどう使えばいいのか\nさっぱり分からんものもあるが、\n使いこなせば魔物との戦いが\n有利になるのは間違いない。 {1a}いや、\nこういった道具を使いこなさなければ\nここでは生き残れないと言っても\n言い過ぎじゃねえだろう。{1a}どんな名剣でも使い続ければ\n切れ味は鈍るし、\n魔法を使えば精神的な疲労が\nどんどん溜まっていく。{1a}{0c:510c}その点、そのカプセル・・・\n俺達は『トラップカプセル』って\n呼んでるが、それを使う分には\n疲れなんて関係ないし、{1a}上手に罠を仕掛ければ\n武器を使って戦うより\nはるかに楽に敵を倒せる。{1a}いくら体を鍛えても、魔物に\n比べれば人間なんて非力なものさ。\n筋力にしろ生命力にしろ、\n格段に奴らの方が上だ。{1a}人間が魔物に勝てるのは       {0c:52fdff06}唯一、ここだけだからな。\n頭を使って化け物共を\n引っかき回してやれ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520a0b}{0c:2b50235118}{1c:10}In those little capsules, there's one kind\nof device apiece, handy for fighting\nmonsters.{1a}Land mines, freezing bombs, gravity\npillars, automatic launchers...{1a}Some of them I can't make heads or tails\nof, but once you master them, they'll\ngive you the upper hand against\nmonsters, no question.{1a}Nah, it ain't going too far to say you\nwon't survive here without mastering\ntools like these.{1a}Even the finest sword dulls with use,\nand using magic keeps piling on mental\nfatigue.{1a}{0c:510c}Now, those capsules... we call them 'Trap\nCapsules'... using those, fatigue don't\ncome into it,{1a}and if you set your traps well, you can\nbring down enemies far easier than\nfighting with weapons.{1a}No matter how you train your body,\npeople are weak next to monsters.\nStrength, vitality, they've got us beat\nby a mile.{1a}The one place people got monsters beat\n{0c:52fdff06}is right here, after all. So use your head\nand run those freaks ragged.{0c:fe}",
+   "status": "done",
+   "tl": "In those little capsules, there's one kind of device apiece, handy for fighting monsters. // Land mines, freezing bombs, gravity pillars, automatic launchers... // Some of them I can't make heads or tails of, but once you master them, they'll give you the upper hand against monsters, no question. // Nah, it ain't going too far to say you won't survive here without mastering tools like these. // Even the finest sword dulls with use, and using magic keeps piling on mental fatigue. // [1]Now, those capsules... we call them 'Trap Capsules'... using those, fatigue don't come into it, // and if you set your traps well, you can bring down enemies far easier than fighting with weapons. // No matter how you train your body, people are weak next to monsters. Strength, vitality, they've got us beat by a mile. // The one place people got monsters beat [2]is right here, after all. So use your head and run those freaks ragged."
   },
   {
    "id": "RES#1048:1716d",
@@ -1210,8 +1273,9 @@
    "jp": "{0c:5104}{1c:10}不思{e0a9}な道具だろ?{1a}そんな小さなカプセルの中に\n俺の体より大きな装{e0aa}を\n入れる事も出来る。{1a}カプセルも、中身の仕{e091}けも、\n{e0ab}{e0ac}で見つけた古{e08e}の道具を\nクムランが使いやすく\n{e0ad}良したものなんだが、{1a}一{e08f}、サディーヤの手伝った物や、\nガイウスの手伝った物もある。\nいわば、古{e08e}の{e0ab}{e0ae}と\n{e0af}{e08e}の{e0b0}{e0b1}の融合ってわけだな。{1a}残念なことに、魔{e09e}を詠唱するために\n必要な道具との相性が悪くて、\n魔{e09e}使いには扱えないように\nなってるんだが、{1a}それ以外は何の{e0b6}約もないし\n{e0b7}別な訓練もいらない。\n{e0ba}しい話はクムランに聞けばいい。\nそうそう、これも持っていけ。{0c:fe}",
    "read": "{0c:5104}{1c:10}不思議な道具だろ?{1a}そんな小さなカプセルの中に\n俺の体より大きな装置を\n入れる事も出来る。{1a}カプセルも、中身の仕掛けも、\n遺跡で見つけた古代の道具を\nクムランが使いやすく\n改良したものなんだが、{1a}一部、サディーヤの手伝った物や、\nガイウスの手伝った物もある。\nいわば、古代の遺産と\n現代の技術の融合ってわけだな。{1a}残念なことに、魔法を詠唱するために\n必要な道具との相性が悪くて、\n魔法使いには扱えないように\nなってるんだが、{1a}それ以外は何の制約もないし\n特別な訓練もいらない。\n詳しい話はクムランに聞けばいい。\nそうそう、これも持っていけ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5104}{1c:10}Strange gadget, ain't it?{1a}You can fit a device bigger than my body\ninside a little capsule like that.{1a}Both the capsules and the devices inside\nare ancient tools found in the ruins,\nreworked by Qumran to be easier to use,{1a}and Sadiya helped on some, Gaius on\nothers. You could call it a fusion of\nancient legacy and modern skill.{1a}Sad to say, they don't get along with\nthe tools you need for casting magic, so\nwizards can't handle them,{1a}but apart from that, no restrictions, no\nspecial training. Ask Qumran for the\ndetails. Oh, right, take this too.{0c:fe}",
+   "status": "done",
+   "tl": "Strange gadget, ain't it? // You can fit a device bigger than my body inside a little capsule like that. // Both the capsules and the devices inside are ancient tools found in the ruins, reworked by Qumran to be easier to use, // and Sadiya helped on some, Gaius on others. You could call it a fusion of ancient legacy and modern skill. // Sad to say, they don't get along with the tools you need for casting magic, so wizards can't handle them, // but apart from that, no restrictions, no special training. Ask Qumran for the details. Oh, right, take this too."
   },
   {
    "id": "RES#1048:17303",
@@ -1232,8 +1296,9 @@
    "jp": "{1c:10}『時の行{e0bb}図』って道具だ。\nこの道具を使うと町まで一{e0bc}で\n戻ってくることが出来る。{1a}それに、\n1度でも行ったことのある{e0bd}{e0be}なら\n自由に行き来することも{e0bf}{e0c0}だ。{1a}見た目はオモチャみたいだが、\nいわば俺達{e0c1}険者の命綱だな。{1a}その道具が見つかったおかげで、\n10{e0c3}前にはとてもじゃないが\n潜れなかったような深い{e0bd}{e0be}に\n行くことも{e0bf}{e0c0}になった。{1a}だが過信は禁物だ。\n『時の行{e0bb}図』が使えない所も\nあることだけは覚えておけ。{0c:fe}",
    "read": "{1c:10}『時の行路図』って道具だ。\nこの道具を使うと町まで一瞬で\n戻ってくることが出来る。{1a}それに、\n1度でも行ったことのある階層なら\n自由に行き来することも可能だ。{1a}見た目はオモチャみたいだが、\nいわば俺達冒険者の命綱だな。{1a}その道具が見つかったおかげで、\n10年前にはとてもじゃないが\n潜れなかったような深い階層に\n行くことも可能になった。{1a}だが過信は禁物だ。\n『時の行路図』が使えない所も\nあることだけは覚えておけ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}It's a tool called the 'Chart of Time'. Use\nit and you can get back to town in an\ninstant.{1a}Plus, any level you've been to even once,\nyou can come and go freely.{1a}Looks like a toy, but it's a lifeline for us\nadventurers.{1a}Thanks to finding that thing, we can\nnow reach deep levels you couldn't have\ndived to ten years back, no way.{1a}But don't put too much faith in it.\nRemember, there's places the 'Chart of\nTime' won't work.{0c:fe}",
+   "status": "done",
+   "tl": "It's a tool called the 'Chart of Time'. Use it and you can get back to town in an instant. // Plus, any level you've been to even once, you can come and go freely. // Looks like a toy, but it's a lifeline for us adventurers. // Thanks to finding that thing, we can now reach deep levels you couldn't have dived to ten years back, no way. // But don't put too much faith in it. Remember, there's places the 'Chart of Time' won't work."
   },
   {
    "id": "RES#1048:1744c",
@@ -1254,8 +1319,9 @@
    "jp": "{1c:10}大体のことはわかったな。{0c:4c0b09fe}",
    "read": "{1c:10}大体のことはわかったな。{0c:4c0b09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}So, that's the general idea.{0c:4c0b09fe}",
+   "status": "done",
+   "tl": "So, that's the general idea."
   },
   {
    "id": "RES#1048:17481",
@@ -1265,8 +1331,9 @@
    "jp": "{0c:5230381001}{1c:19}{0b:08}{e080} オルフェウス {e081}{0b:09}\nわからないなあ。\n他人に{e0e7}渉しないのが\nここのルール・・・{1a}そう言ってませんでしたっけ?\nさっきのオジサンは。{0c:2b5309fe}",
    "read": "{0c:5230381001}{1c:19}{0b:08}【 オルフェウス 】{0b:09}\nわからないなあ。\n他人に干渉しないのが\nここのルール・・・{1a}そう言ってませんでしたっけ?\nさっきのオジサンは。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5230381001}{1c:19}{0b:08}【 Orpheus 】{0b:09}\nI confess I don't follow. Meddling with no\none is the rule here...{1a}Isn't that what the old fellow said just\nnow?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "I confess I don't follow. Meddling with no one is the rule here... // Isn't that what the old fellow said just now?"
   },
   {
    "id": "RES#1048:174e6",
@@ -1276,8 +1343,9 @@
    "jp": "{1c:12}{0b:08}{e080} バルデス {e081}{0b:09}\nすまんな。余計な口出しだったか?{0c:4c0b09fe}",
    "read": "{1c:12}{0b:08}【 バルデス 】{0b:09}\nすまんな。余計な口出しだったか?{0c:4c0b09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Valdes 】{0b:09}\nSorry about that. Was I butting in?{0c:4c0b09fe}",
+   "status": "done",
+   "tl": "Sorry about that. Was I butting in?"
   },
   {
    "id": "RES#1048:17515",
@@ -1287,8 +1355,9 @@
    "jp": "{0c:525058}{1c:1a}{0b:08}{e080} オルフェウス {e081}{0b:09}\nいえいえ。感謝してますよ。\nこんないいプレゼントいただいて\n感謝しないわけがありません。{0c:fe}",
    "read": "{0c:525058}{1c:1a}{0b:08}【 オルフェウス 】{0b:09}\nいえいえ。感謝してますよ。\nこんないいプレゼントいただいて\n感謝しないわけがありません。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:525058}{1c:1a}{0b:08}【 Orpheus 】{0b:09}\nNot at all. I'm most grateful. Given such\na lovely present, how could I not be?{0c:fe}",
+   "status": "done",
+   "tl": "Not at all. I'm most grateful. Given such a lovely present, how could I not be?"
   },
   {
    "id": "RES#1048:17565",
@@ -1309,8 +1378,9 @@
    "jp": "{1c:19}ただ不思{e0a9}なだけです。\nあなたはここで一番強いらしいのに、\nなぜ{e082}入りに媚びを売る\n必要があるのか・・・{1a}{0c:5280882b531000}メリットなんてないですよ?{0c:2b5309fe}",
    "read": "{1c:19}ただ不思議なだけです。\nあなたはここで一番強いらしいのに、\nなぜ新入りに媚びを売る\n必要があるのか・・・{1a}{0c:5280882b531000}メリットなんてないですよ?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}I merely find it curious. You are said to\nbe the strongest here, so why would you\nneed to curry favor with rookies...{1a}{0c:5280882b531000}There's nothing in it for you, you know?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "I merely find it curious. You are said to be the strongest here, so why would you need to curry favor with rookies... // [1]There's nothing in it for you, you know?"
   },
   {
    "id": "RES#1048:175d1",
@@ -1320,8 +1390,9 @@
    "jp": "{0c:52727a}{1c:10}{0b:08}{e080} バルデス {e081}{0b:09}\n若い奴らを守ってやるのは\n大人の役割だ。{1a}お前らが俺の{e0df}の相手を出来る\nくらいに{e0e1}{e0e2}するまではな。\nただそれだけさ。{0c:4c0b09fe}",
    "read": "{0c:52727a}{1c:10}{0b:08}【 バルデス 】{0b:09}\n若い奴らを守ってやるのは\n大人の役割だ。{1a}お前らが俺の酒の相手を出来る\nくらいに成長するまではな。\nただそれだけさ。{0c:4c0b09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52727a}{1c:10}{0b:08}【 Valdes 】{0b:09}\nLooking after the young ones is what\ngrown-ups are for.{1a}Until you've grown up enough to keep me\ncompany over a drink, anyway. That's all\nthere is to it.{0c:4c0b09fe}",
+   "status": "done",
+   "tl": "Looking after the young ones is what grown-ups are for. // Until you've grown up enough to keep me company over a drink, anyway. That's all there is to it."
   },
   {
    "id": "RES#1048:1763a",
@@ -1331,8 +1402,9 @@
    "jp": "{0c:529098}{1c:19}{0b:08}{e080} オルフェウス {e081}{0b:09}\n赤の他人に無償の愛ですか?\nいまどきそんな理由じゃ\n誰も信じないですよ。{0c:2b5309fe}",
    "read": "{0c:529098}{1c:19}{0b:08}【 オルフェウス 】{0b:09}\n赤の他人に無償の愛ですか?\nいまどきそんな理由じゃ\n誰も信じないですよ。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:529098}{1c:19}{0b:08}【 Orpheus 】{0b:09}\nSelfless love for total strangers, is it?\nNobody would believe such a reason\nthese days.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Selfless love for total strangers, is it? Nobody would believe such a reason these days."
   },
   {
    "id": "RES#1048:1768b",
@@ -1342,8 +1414,9 @@
    "jp": "{0c:52929a}{1c:12}{0b:08}{e080} バルデス {e081}{0b:09}\nはっはっ、ずいぶん\n突っかかる奴だな。\nなら言い直すぜ。自分のためだ。{1a}{0c:52a2aa}お前らが死んでも\n言い訳出来るからさ。\n俺はあいつらのために\nやれるだけのことはした、ってよ。{0c:4c0b09fe}",
    "read": "{0c:52929a}{1c:12}{0b:08}【 バルデス 】{0b:09}\nはっはっ、ずいぶん\n突っかかる奴だな。\nなら言い直すぜ。自分のためだ。{1a}{0c:52a2aa}お前らが死んでも\n言い訳出来るからさ。\n俺はあいつらのために\nやれるだけのことはした、ってよ。{0c:4c0b09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52929a}{1c:12}{0b:08}【 Valdes 】{0b:09}\nHa ha, you sure like to pick a fight. Then\nI'll put it another way. It's for my own\nsake.{1a}{0c:52a2aa}So I've got an excuse when you die. I did\nall I could for those kids, see.{0c:4c0b09fe}",
+   "status": "done",
+   "tl": "Ha ha, you sure like to pick a fight. Then I'll put it another way. It's for my own sake. // [1]So I've got an excuse when you die. I did all I could for those kids, see."
   },
   {
    "id": "RES#1048:1770f",
@@ -1353,8 +1426,9 @@
    "jp": "{0c:52a0a8}{1c:19}{0b:08}{e080} オルフェウス {e081}{0b:09}\nだいたいわかりました。{1a}{0c:52b0b8}気にしないで下さい。\nアザレの{e0ec}に最も近い人間の姿が\n知りたかっただけですから。{0c:2b5309fe}",
    "read": "{0c:52a0a8}{1c:19}{0b:08}【 オルフェウス 】{0b:09}\nだいたいわかりました。{1a}{0c:52b0b8}気にしないで下さい。\nアザレの石に最も近い人間の姿が\n知りたかっただけですから。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52a0a8}{1c:19}{0b:08}【 Orpheus 】{0b:09}\nI believe I understand, more or less.{1a}{0c:52b0b8}Please, think nothing of it. I merely\nwished to see what the person closest\nto the Azare Stone looks like.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "I believe I understand, more or less. // [1]Please, think nothing of it. I merely wished to see what the person closest to the Azare Stone looks like."
   },
   {
    "id": "RES#1048:17774",
@@ -1364,8 +1438,9 @@
    "jp": "{0c:52b2ba}{1c:12}{0b:08}{e080} バルデス {e081}{0b:09}\nアザレの{e0ec}?\n俺は永遠の命なんて興味ねえぜ。{0c:4c0b09fe}",
    "read": "{0c:52b2ba}{1c:12}{0b:08}【 バルデス 】{0b:09}\nアザレの石?\n俺は永遠の命なんて興味ねえぜ。{0c:4c0b09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52b2ba}{1c:12}{0b:08}【 Valdes 】{0b:09}\nThe Azare Stone? I got no interest in\neternal life.{0c:4c0b09fe}",
+   "status": "done",
+   "tl": "The Azare Stone? I got no interest in eternal life."
   },
   {
    "id": "RES#1048:177b2",
@@ -1375,8 +1450,9 @@
    "jp": "{1c:1a}{0b:08}{e080} オルフェウス {e081}{0b:09}\n{e0ec}を手にしてもその意志を\n{e0ef}くことを期待してますよ。{0c:2b5309fe}",
    "read": "{1c:1a}{0b:08}【 オルフェウス 】{0b:09}\n石を手にしてもその意志を\n貫くことを期待してますよ。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}{0b:08}【 Orpheus 】{0b:09}\nI do hope you'll hold to that, even with\nthe Stone in hand.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "I do hope you'll hold to that, even with the Stone in hand."
   },
   {
    "id": "RES#1048:177ef",
@@ -1386,8 +1462,9 @@
    "jp": "{1c:11}{0b:08}{e080} バルデス {e081}{0b:09}\nああ、そのつもりだ。\nじゃあな、気をつけて行けよ!{0c:fe}",
    "read": "{1c:11}{0b:08}【 バルデス 】{0b:09}\nああ、そのつもりだ。\nじゃあな、気をつけて行けよ!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Valdes 】{0b:09}\nYeah, that's the plan. Well, so long.\nWatch yourself out there!{0c:fe}",
+   "status": "done",
+   "tl": "Yeah, that's the plan. Well, so long. Watch yourself out there!"
   },
   {
    "id": "RES#1048:17822",
@@ -1419,8 +1496,9 @@
    "jp": "{0c:520102}{1c:11}{0b:08}{e080} バルデス {e081}{0b:09}\nおう、{e082}入り!{0c:fe}",
    "read": "{0c:520102}{1c:11}{0b:08}【 バルデス 】{0b:09}\nおう、新入り!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520102}{1c:11}{0b:08}【 Valdes 】{0b:09}\nHey, rookie!{0c:fe}",
+   "status": "done",
+   "tl": "Hey, rookie!"
   },
   {
    "id": "RES#1048:17912",
@@ -1441,8 +1519,9 @@
    "jp": "{1c:10}地下{e083}{e084}の{e085}間を\nドーム{e086}に包む城{e089}を{e08a}りていくと\n伝{e08b}の{e083}{e084}『アスラ・ファエル』の\n入り口に辿り着く。{1a}つまり、本当のスタートはもっと先だ。\nそこまでは大したお{e08d}もない{e08e}わりに\n強い魔物もいない。{1a}そこまで行けないようなら、\n悪いことは言わねえ、自分の{e08f}{e090}で\n大人しくしてることだ。{0c:fe}",
    "read": "{1c:10}地下都市の空間を\nドーム状に包む城壁を降りていくと\n伝説の都市『アスラ・ファエル』の\n入り口に辿り着く。{1a}つまり、本当のスタートはもっと先だ。\nそこまでは大したお宝もない代わりに\n強い魔物もいない。{1a}そこまで行けないようなら、\n悪いことは言わねえ、自分の部屋で\n大人しくしてることだ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Climb down the wall that wraps the\nunderground city in a dome and you'll\nreach the entrance to the legendary\ncity, 'Asla Fael'.{1a}In other words, the real start's a ways\noff yet. Up to there you won't find\nmuch treasure, but no strong monsters\nneither.{1a}If you can't make it even that far, take\nmy advice: stay in your room and keep\nquiet.{0c:fe}",
+   "status": "done",
+   "tl": "Climb down the wall that wraps the underground city in a dome and you'll reach the entrance to the legendary city, 'Asla Fael'. // In other words, the real start's a ways off yet. Up to there you won't find much treasure, but no strong monsters neither. // If you can't make it even that far, take my advice: stay in your room and keep quiet."
   },
   {
    "id": "RES#1048:17a33",
@@ -1463,8 +1542,9 @@
    "jp": "{1c:11}ほら、これを持っていきな。{0c:fe}",
    "read": "{1c:11}ほら、これを持っていきな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Here, take this.{0c:fe}",
+   "status": "done",
+   "tl": "Here, take this."
   },
   {
    "id": "RES#1048:17a50",
@@ -1496,8 +1576,9 @@
    "jp": "{0c:520a0b}{0c:2b50235118}{1c:10}その小さなカプセルの中に、\n魔物相手の戦いに役立つ仕{e091}けが\n1{e092}{e093}ずつ入っている。{1a}地{e094}{e095}、{e096}結の{e097}{e098}、\n重力{e099}に自動{e09a}出機・・・{1a}なかにはどう使えばいいのか\nさっぱり分からんものもあるが、\n使いこなせば魔物との戦いが\n有利になるのは間違いない。 {1a}いや、\nこういった道具を使いこなさなければ\nここでは生き残れないと言っても\n言い過ぎじゃねえだろう。{1a}どんな{e09b}{e09c}でも使い続ければ\n切れ味は{e09d}るし、\n魔{e09e}を使えば{e09f}神的な疲労が\nどんどん溜まっていく。{1a}{0c:510c}その{e0a1}、そのカプセル・・・\n俺達は『トラップカプセル』って\n{e0a2}んでるが、それを使う分には\n疲れなんて関係ないし、{1a}上手に罠を仕{e091}ければ\n武器を使って戦うより\nはるかに楽に敵を倒せる。{1a}いくら体を{e0a3}えても、魔物に\n比べれば人間なんて非力なものさ。\n筋力にしろ生命力にしろ、\n格段に奴らの方が上だ。{1a}人間が魔物に勝てるのは       {0c:52fdff06}唯一、ここだけだからな。\n頭を使って{e0a7}け物{e0a8}を\n引っかき回してやれ。{0c:fe}",
    "read": "{0c:520a0b}{0c:2b50235118}{1c:10}その小さなカプセルの中に、\n魔物相手の戦いに役立つ仕掛けが\n1種類ずつ入っている。{1a}地雷火、氷結の爆弾、\n重力柱に自動射出機・・・{1a}なかにはどう使えばいいのか\nさっぱり分からんものもあるが、\n使いこなせば魔物との戦いが\n有利になるのは間違いない。 {1a}いや、\nこういった道具を使いこなさなければ\nここでは生き残れないと言っても\n言い過ぎじゃねえだろう。{1a}どんな名剣でも使い続ければ\n切れ味は鈍るし、\n魔法を使えば精神的な疲労が\nどんどん溜まっていく。{1a}{0c:510c}その点、そのカプセル・・・\n俺達は『トラップカプセル』って\n呼んでるが、それを使う分には\n疲れなんて関係ないし、{1a}上手に罠を仕掛ければ\n武器を使って戦うより\nはるかに楽に敵を倒せる。{1a}いくら体を鍛えても、魔物に\n比べれば人間なんて非力なものさ。\n筋力にしろ生命力にしろ、\n格段に奴らの方が上だ。{1a}人間が魔物に勝てるのは       {0c:52fdff06}唯一、ここだけだからな。\n頭を使って化け物共を\n引っかき回してやれ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520a0b}{0c:2b50235118}{1c:10}In those little capsules, there's one kind\nof device apiece, handy for fighting\nmonsters.{1a}Land mines, freezing bombs, gravity\npillars, automatic launchers...{1a}Some of them I can't make heads or tails\nof, but once you master them, they'll\ngive you the upper hand against\nmonsters, no question.{1a}Nah, it ain't going too far to say you\nwon't survive here without mastering\ntools like these.{1a}Even the finest sword dulls with use,\nand using magic keeps piling on mental\nfatigue.{1a}{0c:510c}Now, those capsules... we call them 'Trap\nCapsules'... using those, fatigue don't\ncome into it,{1a}and if you set your traps well, you can\nbring down enemies far easier than\nfighting with weapons.{1a}No matter how you train your body,\npeople are weak next to monsters.\nStrength, vitality, they've got us beat\nby a mile.{1a}The one place people got monsters beat\n{0c:52fdff06}is right here, after all. So use your head\nand run those freaks ragged.{0c:fe}",
+   "status": "done",
+   "tl": "In those little capsules, there's one kind of device apiece, handy for fighting monsters. // Land mines, freezing bombs, gravity pillars, automatic launchers... // Some of them I can't make heads or tails of, but once you master them, they'll give you the upper hand against monsters, no question. // Nah, it ain't going too far to say you won't survive here without mastering tools like these. // Even the finest sword dulls with use, and using magic keeps piling on mental fatigue. // [1]Now, those capsules... we call them 'Trap Capsules'... using those, fatigue don't come into it, // and if you set your traps well, you can bring down enemies far easier than fighting with weapons. // No matter how you train your body, people are weak next to monsters. Strength, vitality, they've got us beat by a mile. // The one place people got monsters beat [2]is right here, after all. So use your head and run those freaks ragged."
   },
   {
    "id": "RES#1048:17cc7",
@@ -1518,8 +1599,9 @@
    "jp": "{0c:5104}{1c:10}不思{e0a9}な道具だろ?{1a}そんな小さなカプセルの中に\n俺の体より大きな装{e0aa}を\n入れる事も出来る。{1a}カプセルも、中身の仕{e091}けも、\n{e0ab}{e0ac}で見つけた古{e08e}の道具を\nクムランが使いやすく\n{e0ad}良したものなんだが、{1a}一{e08f}、サディーヤの手伝った物や、\nガイウスの手伝った物もある。\nいわば、古{e08e}の{e0ab}{e0ae}と\n{e0af}{e08e}の{e0b0}{e0b1}の融合ってわけだな。{1a}残念なことに、魔{e09e}を詠唱するために\n必要な道具との相性が悪くて、\n魔{e09e}使いには扱えないように\nなってるんだが、{1a}それ以外は何の{e0b6}約もないし\n{e0b7}別な訓練もいらない。\n{e0ba}しい話はクムランに聞けばいい。\nそうそう、これも持っていけ。{0c:fe}",
    "read": "{0c:5104}{1c:10}不思議な道具だろ?{1a}そんな小さなカプセルの中に\n俺の体より大きな装置を\n入れる事も出来る。{1a}カプセルも、中身の仕掛けも、\n遺跡で見つけた古代の道具を\nクムランが使いやすく\n改良したものなんだが、{1a}一部、サディーヤの手伝った物や、\nガイウスの手伝った物もある。\nいわば、古代の遺産と\n現代の技術の融合ってわけだな。{1a}残念なことに、魔法を詠唱するために\n必要な道具との相性が悪くて、\n魔法使いには扱えないように\nなってるんだが、{1a}それ以外は何の制約もないし\n特別な訓練もいらない。\n詳しい話はクムランに聞けばいい。\nそうそう、これも持っていけ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5104}{1c:10}Strange gadget, ain't it?{1a}You can fit a device bigger than my body\ninside a little capsule like that.{1a}Both the capsules and the devices inside\nare ancient tools found in the ruins,\nreworked by Qumran to be easier to use,{1a}and Sadiya helped on some, Gaius on\nothers. You could call it a fusion of\nancient legacy and modern skill.{1a}Sad to say, they don't get along with\nthe tools you need for casting magic, so\nwizards can't handle them,{1a}but apart from that, no restrictions, no\nspecial training. Ask Qumran for the\ndetails. Oh, right, take this too.{0c:fe}",
+   "status": "done",
+   "tl": "Strange gadget, ain't it? // You can fit a device bigger than my body inside a little capsule like that. // Both the capsules and the devices inside are ancient tools found in the ruins, reworked by Qumran to be easier to use, // and Sadiya helped on some, Gaius on others. You could call it a fusion of ancient legacy and modern skill. // Sad to say, they don't get along with the tools you need for casting magic, so wizards can't handle them, // but apart from that, no restrictions, no special training. Ask Qumran for the details. Oh, right, take this too."
   },
   {
    "id": "RES#1048:17e5d",
@@ -1540,8 +1622,9 @@
    "jp": "{1c:10}『時の行{e0bb}図』って道具だ。\nこの道具を使うと町まで一{e0bc}で\n戻ってくることが出来る。{1a}それに、\n1度でも行ったことのある{e0bd}{e0be}なら\n自由に行き来することも{e0bf}{e0c0}だ。{1a}見た目はオモチャみたいだが、\nいわば俺達{e0c1}険者の命綱だな。{1a}その道具が見つかったおかげで、\n10{e0c3}前にはとてもじゃないが\n潜れなかったような深い{e0bd}{e0be}に\n行くことも{e0bf}{e0c0}になった。{1a}だが過信は禁物だ。\n『時の行{e0bb}図』が使えない所も\nあることだけは覚えておけ。{0c:fe}",
    "read": "{1c:10}『時の行路図』って道具だ。\nこの道具を使うと町まで一瞬で\n戻ってくることが出来る。{1a}それに、\n1度でも行ったことのある階層なら\n自由に行き来することも可能だ。{1a}見た目はオモチャみたいだが、\nいわば俺達冒険者の命綱だな。{1a}その道具が見つかったおかげで、\n10年前にはとてもじゃないが\n潜れなかったような深い階層に\n行くことも可能になった。{1a}だが過信は禁物だ。\n『時の行路図』が使えない所も\nあることだけは覚えておけ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}It's a tool called the 'Chart of Time'. Use\nit and you can get back to town in an\ninstant.{1a}Plus, any level you've been to even once,\nyou can come and go freely.{1a}Looks like a toy, but it's a lifeline for us\nadventurers.{1a}Thanks to finding that thing, we can\nnow reach deep levels you couldn't have\ndived to ten years back, no way.{1a}But don't put too much faith in it.\nRemember, there's places the 'Chart of\nTime' won't work.{0c:fe}",
+   "status": "done",
+   "tl": "It's a tool called the 'Chart of Time'. Use it and you can get back to town in an instant. // Plus, any level you've been to even once, you can come and go freely. // Looks like a toy, but it's a lifeline for us adventurers. // Thanks to finding that thing, we can now reach deep levels you couldn't have dived to ten years back, no way. // But don't put too much faith in it. Remember, there's places the 'Chart of Time' won't work."
   },
   {
    "id": "RES#1048:17fa6",
@@ -1562,8 +1645,9 @@
    "jp": "{1c:10}大体のことはわかったな。{0c:4c1109fe}",
    "read": "{1c:10}大体のことはわかったな。{0c:4c1109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}So, that's the general idea.{0c:4c1109fe}",
+   "status": "done",
+   "tl": "So, that's the general idea."
   },
   {
    "id": "RES#1048:17fdb",
@@ -1573,8 +1657,9 @@
    "jp": "{0c:523038}{1c:1b}{0b:08}{e080} ルカ {e081}{0b:09}\nあ、ありがとうございます。\nバルデスさん。{0c:2b5309fe}",
    "read": "{0c:523038}{1c:1b}{0b:08}【 ルカ 】{0b:09}\nあ、ありがとうございます。\nバルデスさん。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523038}{1c:1b}{0b:08}【 Luca 】{0b:09}\nTh-thank you, Valdes-san.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Th-thank you, Valdes-san."
   },
   {
    "id": "RES#1048:1800f",
@@ -1595,8 +1680,9 @@
    "jp": "{0c:52c4cc}{1c:12}{0b:08}{e080} バルデス {e081}{0b:09}\nほう・・・こりゃまた珍しいな。{0c:4c1109fe}",
    "read": "{0c:52c4cc}{1c:12}{0b:08}【 バルデス 】{0b:09}\nほう・・・こりゃまた珍しいな。{0c:4c1109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52c4cc}{1c:12}{0b:08}【 Valdes 】{0b:09}\nHuh... now there's a rare sight.{0c:4c1109fe}",
+   "status": "done",
+   "tl": "Huh... now there's a rare sight."
   },
   {
    "id": "RES#1048:1804b",
@@ -1606,8 +1692,9 @@
    "jp": "{0c:524048}{1c:1b}{0b:08}{e080} ルカ {e081}{0b:09}\nそんなに{e180}{e181}の人間は\n少ないのですか?{0c:2b5309fe}",
    "read": "{0c:524048}{1c:1b}{0b:08}【 ルカ 】{0b:09}\nそんなに教会の人間は\n少ないのですか?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524048}{1c:1b}{0b:08}【 Luca 】{0b:09}\nAre people of the Church so few here?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Are people of the Church so few here?"
   },
   {
    "id": "RES#1048:18081",
@@ -1617,8 +1704,9 @@
    "jp": "{0c:52d4d5}{1c:10}{0b:08}{e080} バルデス {e081}{0b:09}\nいや、少なくねえよ。\n{e182}面目そうな神父が珍しいって\n思っただけさ。{1a}{e180}{e181}の{e183}を{e184}んだだの、\n信者を強請っただの、\nろくでもねえのが多かったからな。{1a}{0c:52dde5}{e180}{e181}に行ってみな。いまも1人いるぜ。\nティアラちゃんに{e186}れて{e0df}飲んでる\n薄汚ねえ奴がそうさ。{0c:4c1109fe}",
    "read": "{0c:52d4d5}{1c:10}{0b:08}【 バルデス 】{0b:09}\nいや、少なくねえよ。\n真面目そうな神父が珍しいって\n思っただけさ。{1a}教会の金を盗んだだの、\n信者を強請っただの、\nろくでもねえのが多かったからな。{1a}{0c:52dde5}教会に行ってみな。いまも1人いるぜ。\nティアラちゃんに隠れて酒飲んでる\n薄汚ねえ奴がそうさ。{0c:4c1109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52d4d5}{1c:10}{0b:08}【 Valdes 】{0b:09}\nNah, there's plenty. I just figured an\nhonest-looking priest is a rare thing.{1a}Stole the Church's money, shook down\nthe faithful... Most of 'em were no damn\ngood.{1a}{0c:52dde5}Go take a look at the Church. There's\none there right now. That filthy fella\ndrinking behind Tiara-chan's back, that's\nhim.{0c:4c1109fe}",
+   "status": "done",
+   "tl": "Nah, there's plenty. I just figured an honest-looking priest is a rare thing. // Stole the Church's money, shook down the faithful... Most of 'em were no damn good. // [1]Go take a look at the Church. There's one there right now. That filthy fella drinking behind Tiara-chan's back, that's him."
   },
   {
    "id": "RES#1048:1813c",
@@ -1628,8 +1716,9 @@
    "jp": "{0c:525058}{1c:1c}{0b:08}{e080} ルカ {e081}{0b:09}\nは、はあ・・・{0c:2b5309fe}",
    "read": "{0c:525058}{1c:1c}{0b:08}【 ルカ 】{0b:09}\nは、はあ・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:525058}{1c:1c}{0b:08}【 Luca 】{0b:09}\nI-I see...{0c:2b5309fe}",
+   "status": "done",
+   "tl": "I-I see..."
   },
   {
    "id": "RES#1048:18160",
@@ -1639,8 +1728,9 @@
    "jp": "{1c:11}{0b:08}{e080} バルデス {e081}{0b:09}\nたかられないように注意するんだな。\nじゃあな、気をつけて行けよ!{0c:fe}",
    "read": "{1c:11}{0b:08}【 バルデス 】{0b:09}\nたかられないように注意するんだな。\nじゃあな、気をつけて行けよ!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Valdes 】{0b:09}\nBetter watch he don't shake you down.\nWell, so long. Watch yourself out there!{0c:fe}",
+   "status": "done",
+   "tl": "Better watch he don't shake you down. Well, so long. Watch yourself out there!"
   },
   {
    "id": "RES#1048:1819c",
@@ -1672,8 +1762,9 @@
    "jp": "{0c:520102}{1c:11}{0b:08}{e080} バルデス {e081}{0b:09}\nおう、{e082}入り!{0c:fe}",
    "read": "{0c:520102}{1c:11}{0b:08}【 バルデス 】{0b:09}\nおう、新入り!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520102}{1c:11}{0b:08}【 Valdes 】{0b:09}\nHey, rookie!{0c:fe}",
+   "status": "done",
+   "tl": "Hey, rookie!"
   },
   {
    "id": "RES#1048:1828e",
@@ -1694,8 +1785,9 @@
    "jp": "{1c:10}地下{e083}{e084}の{e085}間を\nドーム{e086}に包む城{e089}を{e08a}りていくと\n伝{e08b}の{e083}{e084}『アスラ・ファエル』の\n入り口に辿り着く。{1a}つまり、本当のスタートはもっと先だ。\nそこまでは大したお{e08d}もない{e08e}わりに\n強い魔物もいない。{1a}そこまで行けないようなら、\n悪いことは言わねえ、自分の{e08f}{e090}で\n大人しくしてることだ。{0c:fe}",
    "read": "{1c:10}地下都市の空間を\nドーム状に包む城壁を降りていくと\n伝説の都市『アスラ・ファエル』の\n入り口に辿り着く。{1a}つまり、本当のスタートはもっと先だ。\nそこまでは大したお宝もない代わりに\n強い魔物もいない。{1a}そこまで行けないようなら、\n悪いことは言わねえ、自分の部屋で\n大人しくしてることだ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Climb down the wall that wraps the\nunderground city in a dome and you'll\nreach the entrance to the legendary\ncity, 'Asla Fael'.{1a}In other words, the real start's a ways\noff yet. Up to there you won't find\nmuch treasure, but no strong monsters\nneither.{1a}If you can't make it even that far, take\nmy advice: stay in your room and keep\nquiet.{0c:fe}",
+   "status": "done",
+   "tl": "Climb down the wall that wraps the underground city in a dome and you'll reach the entrance to the legendary city, 'Asla Fael'. // In other words, the real start's a ways off yet. Up to there you won't find much treasure, but no strong monsters neither. // If you can't make it even that far, take my advice: stay in your room and keep quiet."
   },
   {
    "id": "RES#1048:183af",
@@ -1716,8 +1808,9 @@
    "jp": "{1c:11}ほら、これを持っていきな。{0c:fe}",
    "read": "{1c:11}ほら、これを持っていきな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Here, take this.{0c:fe}",
+   "status": "done",
+   "tl": "Here, take this."
   },
   {
    "id": "RES#1048:183cc",
@@ -1749,8 +1842,9 @@
    "jp": "{0c:520a0b}{0c:2b50235118}{1c:10}その小さなカプセルの中に、\n魔物相手の戦いに役立つ仕{e091}けが\n1{e092}{e093}ずつ入っている。{1a}地{e094}{e095}、{e096}結の{e097}{e098}、\n重力{e099}に自動{e09a}出機・・・{1a}なかにはどう使えばいいのか\nさっぱり分からんものもあるが、\n使いこなせば魔物との戦いが\n有利になるのは間違いない。 {1a}いや、\nこういった道具を使いこなさなければ\nここでは生き残れないと言っても\n言い過ぎじゃねえだろう。{1a}どんな{e09b}{e09c}でも使い続ければ\n切れ味は{e09d}るし、\n魔{e09e}を使えば{e09f}神的な疲労が\nどんどん溜まっていく。{1a}{0c:510c}その{e0a1}、そのカプセル・・・\n俺達は『トラップカプセル』って\n{e0a2}んでるが、それを使う分には\n疲れなんて関係ないし、{1a}上手に罠を仕{e091}ければ\n武器を使って戦うより\nはるかに楽に敵を倒せる。{1a}いくら体を{e0a3}えても、魔物に\n比べれば人間なんて非力なものさ。\n筋力にしろ生命力にしろ、\n格段に奴らの方が上だ。{1a}人間が魔物に勝てるのは       {0c:52fdff06}唯一、ここだけだからな。\n頭を使って{e0a7}け物{e0a8}を\n引っかき回してやれ。{0c:fe}",
    "read": "{0c:520a0b}{0c:2b50235118}{1c:10}その小さなカプセルの中に、\n魔物相手の戦いに役立つ仕掛けが\n1種類ずつ入っている。{1a}地雷火、氷結の爆弾、\n重力柱に自動射出機・・・{1a}なかにはどう使えばいいのか\nさっぱり分からんものもあるが、\n使いこなせば魔物との戦いが\n有利になるのは間違いない。 {1a}いや、\nこういった道具を使いこなさなければ\nここでは生き残れないと言っても\n言い過ぎじゃねえだろう。{1a}どんな名剣でも使い続ければ\n切れ味は鈍るし、\n魔法を使えば精神的な疲労が\nどんどん溜まっていく。{1a}{0c:510c}その点、そのカプセル・・・\n俺達は『トラップカプセル』って\n呼んでるが、それを使う分には\n疲れなんて関係ないし、{1a}上手に罠を仕掛ければ\n武器を使って戦うより\nはるかに楽に敵を倒せる。{1a}いくら体を鍛えても、魔物に\n比べれば人間なんて非力なものさ。\n筋力にしろ生命力にしろ、\n格段に奴らの方が上だ。{1a}人間が魔物に勝てるのは       {0c:52fdff06}唯一、ここだけだからな。\n頭を使って化け物共を\n引っかき回してやれ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520a0b}{0c:2b50235118}{1c:10}In those little capsules, there's one kind\nof device apiece, handy for fighting\nmonsters.{1a}Land mines, freezing bombs, gravity\npillars, automatic launchers...{1a}Some of them I can't make heads or tails\nof, but once you master them, they'll\ngive you the upper hand against\nmonsters, no question.{1a}Nah, it ain't going too far to say you\nwon't survive here without mastering\ntools like these.{1a}Even the finest sword dulls with use,\nand using magic keeps piling on mental\nfatigue.{1a}{0c:510c}Now, those capsules... we call them 'Trap\nCapsules'... using those, fatigue don't\ncome into it,{1a}and if you set your traps well, you can\nbring down enemies far easier than\nfighting with weapons.{1a}No matter how you train your body,\npeople are weak next to monsters.\nStrength, vitality, they've got us beat\nby a mile.{1a}The one place people got monsters beat\n{0c:52fdff06}is right here, after all. So use your head\nand run those freaks ragged.{0c:fe}",
+   "status": "done",
+   "tl": "In those little capsules, there's one kind of device apiece, handy for fighting monsters. // Land mines, freezing bombs, gravity pillars, automatic launchers... // Some of them I can't make heads or tails of, but once you master them, they'll give you the upper hand against monsters, no question. // Nah, it ain't going too far to say you won't survive here without mastering tools like these. // Even the finest sword dulls with use, and using magic keeps piling on mental fatigue. // [1]Now, those capsules... we call them 'Trap Capsules'... using those, fatigue don't come into it, // and if you set your traps well, you can bring down enemies far easier than fighting with weapons. // No matter how you train your body, people are weak next to monsters. Strength, vitality, they've got us beat by a mile. // The one place people got monsters beat [2]is right here, after all. So use your head and run those freaks ragged."
   },
   {
    "id": "RES#1048:18643",
@@ -1771,8 +1865,9 @@
    "jp": "{0c:523038}{1c:1e}{0b:08}{e080} サラ {e081}{0b:09}\n綺麗な道具・・・\n何が{e18b}ってるんだろう・・・{0c:2b5309fe}",
    "read": "{0c:523038}{1c:1e}{0b:08}【 サラ 】{0b:09}\n綺麗な道具・・・\n何が光ってるんだろう・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523038}{1c:1e}{0b:08}【 Sara 】{0b:09}\nWhat a pretty tool... I wonder what's\nmaking it shine...{0c:2b5309fe}",
+   "status": "done",
+   "tl": "What a pretty tool... I wonder what's making it shine..."
   },
   {
    "id": "RES#1048:186a1",
@@ -1782,8 +1877,9 @@
    "jp": "{0c:5104}{1c:10}{0b:08}{e080} バルデス {e081}{0b:09}\n不思{e0a9}な道具だろ?{1a}そんな小さなカプセルの中に\n俺の体より大きな装{e0aa}を\n入れる事も出来る。{1a}カプセルも、中身の仕{e091}けも、\n{e0ab}{e0ac}で見つけた古{e08e}の道具を\nクムランが使いやすく\n{e0ad}良したものなんだが、{1a}一{e08f}、サディーヤの手伝った物や、\nガイウスの手伝った物もある。\nいわば、古{e08e}の{e0ab}{e0ae}と\n{e0af}{e08e}の{e0b0}{e0b1}の融合ってわけだな。{1a}残念なことに、魔{e09e}を詠唱するために\n必要な道具との相性が悪くて、\n魔{e09e}使いには扱えないように\nなってるんだが、{1a}それ以外は何の{e0b6}約もないし\n{e0b7}別な訓練もいらない。\n{e0ba}しい話はクムランに聞けばいい。\nそうそう、これも持っていけ。{0c:fe}",
    "read": "{0c:5104}{1c:10}{0b:08}【 バルデス 】{0b:09}\n不思議な道具だろ?{1a}そんな小さなカプセルの中に\n俺の体より大きな装置を\n入れる事も出来る。{1a}カプセルも、中身の仕掛けも、\n遺跡で見つけた古代の道具を\nクムランが使いやすく\n改良したものなんだが、{1a}一部、サディーヤの手伝った物や、\nガイウスの手伝った物もある。\nいわば、古代の遺産と\n現代の技術の融合ってわけだな。{1a}残念なことに、魔法を詠唱するために\n必要な道具との相性が悪くて、\n魔法使いには扱えないように\nなってるんだが、{1a}それ以外は何の制約もないし\n特別な訓練もいらない。\n詳しい話はクムランに聞けばいい。\nそうそう、これも持っていけ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5104}{1c:10}{0b:08}【 Valdes 】{0b:09}\nStrange gadget, ain't it?{1a}You can fit a device bigger than my body\ninside a little capsule like that.{1a}Both the capsules and the devices inside\nare ancient tools found in the ruins,\nreworked by Qumran to be easier to use,{1a}and Sadiya helped on some, Gaius on\nothers. You could call it a fusion of\nancient legacy and modern skill.{1a}Sad to say, they don't get along with\nthe tools you need for casting magic, so\nwizards can't handle them,{1a}but apart from that, no restrictions, no\nspecial training. Ask Qumran for the\ndetails. Oh, right, take this too.{0c:fe}",
+   "status": "done",
+   "tl": "Strange gadget, ain't it? // You can fit a device bigger than my body inside a little capsule like that. // Both the capsules and the devices inside are ancient tools found in the ruins, reworked by Qumran to be easier to use, // and Sadiya helped on some, Gaius on others. You could call it a fusion of ancient legacy and modern skill. // Sad to say, they don't get along with the tools you need for casting magic, so wizards can't handle them, // but apart from that, no restrictions, no special training. Ask Qumran for the details. Oh, right, take this too."
   },
   {
    "id": "RES#1048:18826",
@@ -1804,8 +1900,9 @@
    "jp": "{1c:10}『時の行{e0bb}図』って道具だ。\nこの道具を使うと町まで一{e0bc}で\n戻ってくることが出来る。{1a}それに、\n1度でも行ったことのある{e0bd}{e0be}なら\n自由に行き来することも{e0bf}{e0c0}だ。{1a}見た目はオモチャみたいだが、\nいわば俺達{e0c1}険者の命綱だな。{1a}その道具が見つかったおかげで、\n10{e0c3}前にはとてもじゃないが\n潜れなかったような深い{e0bd}{e0be}に\n行くことも{e0bf}{e0c0}になった。{1a}だが過信は禁物だ。\n『時の行{e0bb}図』が使えない所も\nあることだけは覚えておけ。{0c:fe}",
    "read": "{1c:10}『時の行路図』って道具だ。\nこの道具を使うと町まで一瞬で\n戻ってくることが出来る。{1a}それに、\n1度でも行ったことのある階層なら\n自由に行き来することも可能だ。{1a}見た目はオモチャみたいだが、\nいわば俺達冒険者の命綱だな。{1a}その道具が見つかったおかげで、\n10年前にはとてもじゃないが\n潜れなかったような深い階層に\n行くことも可能になった。{1a}だが過信は禁物だ。\n『時の行路図』が使えない所も\nあることだけは覚えておけ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}It's a tool called the 'Chart of Time'. Use\nit and you can get back to town in an\ninstant.{1a}Plus, any level you've been to even once,\nyou can come and go freely.{1a}Looks like a toy, but it's a lifeline for us\nadventurers.{1a}Thanks to finding that thing, we can\nnow reach deep levels you couldn't have\ndived to ten years back, no way.{1a}But don't put too much faith in it.\nRemember, there's places the 'Chart of\nTime' won't work.{0c:fe}",
+   "status": "done",
+   "tl": "It's a tool called the 'Chart of Time'. Use it and you can get back to town in an instant. // Plus, any level you've been to even once, you can come and go freely. // Looks like a toy, but it's a lifeline for us adventurers. // Thanks to finding that thing, we can now reach deep levels you couldn't have dived to ten years back, no way. // But don't put too much faith in it. Remember, there's places the 'Chart of Time' won't work."
   },
   {
    "id": "RES#1048:1896f",
@@ -1826,8 +1923,9 @@
    "jp": "{1c:10}大体のことはわかったな。{0c:4c1209fe}",
    "read": "{1c:10}大体のことはわかったな。{0c:4c1209fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}So, that's the general idea.{0c:4c1209fe}",
+   "status": "done",
+   "tl": "So, that's the general idea."
   },
   {
    "id": "RES#1048:189a4",
@@ -1837,8 +1935,9 @@
    "jp": "{0c:524048}{1c:1d}{0b:08}{e080} サラ {e081}{0b:09}\nいろいろありがとうございます、\nバルデスさん。{0c:2b5309fe}",
    "read": "{0c:524048}{1c:1d}{0b:08}【 サラ 】{0b:09}\nいろいろありがとうございます、\nバルデスさん。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524048}{1c:1d}{0b:08}【 Sara 】{0b:09}\nThank you for everything, Valdes-san.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Thank you for everything, Valdes-san."
   },
   {
    "id": "RES#1048:189da",
@@ -1848,8 +1947,9 @@
    "jp": "{0c:52727a}{1c:11}{0b:08}{e080} バルデス {e081}{0b:09}\nそんなに感謝されるほどの\nことでもねえよ。{1a}若い奴らを守ってやるのは\n大人の役割だ。{1a}じゃあな、気をつけて行けよ!{0c:fe}",
    "read": "{0c:52727a}{1c:11}{0b:08}【 バルデス 】{0b:09}\nそんなに感謝されるほどの\nことでもねえよ。{1a}若い奴らを守ってやるのは\n大人の役割だ。{1a}じゃあな、気をつけて行けよ!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52727a}{1c:11}{0b:08}【 Valdes 】{0b:09}\nAw, it ain't worth all that thanks.{1a}Looking after the young ones is what\ngrown-ups are for.{1a}Well, so long. Watch yourself out there!{0c:fe}",
+   "status": "done",
+   "tl": "Aw, it ain't worth all that thanks. // Looking after the young ones is what grown-ups are for. // Well, so long. Watch yourself out there!"
   },
   {
    "id": "RES#1048:18a3b",
@@ -1870,8 +1970,9 @@
    "jp": "{09:06}{10}{09:01}はトラップカプセルを手に入れた",
    "read": "{09:06}{10}{09:01}はトラップカプセルを手に入れた",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{09:06}{10}{09:01} obtained the Trap Capsule",
+   "status": "done",
+   "tl": "[HERO][1] obtained the Trap Capsule"
   }
  ],
  "entry": 1048

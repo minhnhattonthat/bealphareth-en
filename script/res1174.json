@@ -41,8 +41,9 @@
    "jp": "{1c:10}{0b:08}{e080} オイゲン {e081}{0b:09}\nいま忙しいんだ。また後にしてくれ。{0c:1538}",
    "read": "{1c:10}{0b:08}【 オイゲン 】{0b:09}\nいま忙しいんだ。また後にしてくれ。{0c:1538}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Eugen 】{0b:09}\nI'm busy right now. Come back later.{0c:1538}",
+   "status": "done",
+   "tl": "I'm busy right now. Come back later."
   },
   {
    "id": "RES#1174:99c6",
@@ -52,8 +53,9 @@
    "jp": "{1c:10}{0b:08}{e080} オイゲン {e081}{0b:09}\n後にしてくれ。",
    "read": "{1c:10}{0b:08}【 オイゲン 】{0b:09}\n後にしてくれ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Eugen 】{0b:09}\nCome back later.",
+   "status": "done",
+   "tl": "Come back later."
   },
   {
    "id": "RES#1174:99e2",
@@ -85,8 +87,9 @@
    "jp": "{1c:11}{0b:08}{e080} サラ {e081}{0b:09}\n{10}さん、いらっしゃい。{1a}あたし?\nオイゲンさんのお手伝いしてるの。{1a}オイゲンさん1人で大変そうだし、\nあたしもお{e082}理とかお{e083}除とか\n大好きだから。\n体動かしてるととっても楽しいよ。{0c:1501}",
    "read": "{1c:11}{0b:08}【 サラ 】{0b:09}\n{10}さん、いらっしゃい。{1a}あたし?\nオイゲンさんのお手伝いしてるの。{1a}オイゲンさん1人で大変そうだし、\nあたしもお料理とかお掃除とか\n大好きだから。\n体動かしてるととっても楽しいよ。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Sara 】{0b:09}\nWelcome, {10}-san.{1a}Me? I'm helping Eugen-san.{1a}It looks hard for Eugen-san all by\nhimself, and I just love cooking and\ncleaning. Moving around is so much fun.{0c:1501}",
+   "status": "done",
+   "tl": "Welcome, [HERO]-san. // Me? I'm helping Eugen-san. // It looks hard for Eugen-san all by himself, and I just love cooking and cleaning. Moving around is so much fun."
   },
   {
    "id": "RES#1174:9a83",
@@ -107,8 +110,9 @@
    "jp": "{1c:11}うん、いいよ。\nあとは弱{e085}でコトコト\n煮{e087}むだけだから。{0c:f70286}",
    "read": "{1c:11}うん、いいよ。\nあとは弱火でコトコト\n煮込むだけだから。{0c:f70286}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Sure, okay. All that's left is to let it\nsimmer on low heat.{0c:f70286}",
+   "status": "done",
+   "tl": "Sure, okay. All that's left is to let it simmer on low heat."
   },
   {
    "id": "RES#1174:9aba",
@@ -118,8 +122,9 @@
    "jp": "{1c:11}ごめんなさい、\n今は手がはなせないんだ。\nまた今度じゃダメかな。{0c:020201}",
    "read": "{1c:11}ごめんなさい、\n今は手がはなせないんだ。\nまた今度じゃダメかな。{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}I'm sorry, my hands are full right now.\nMaybe another time, would that be\nokay?{0c:020201}",
+   "status": "done",
+   "tl": "I'm sorry, my hands are full right now. Maybe another time, would that be okay?"
   },
   {
    "id": "RES#1174:9ae8",
@@ -252,8 +257,9 @@
    "jp": "{1c:11}{0b:08}{e080} サラ {e081}{0b:09}\nみんな、いらっしゃい。{1a}あたし?\nオイゲンさんのお手伝いしてるの。{1a}オイゲンさん1人で大変そうだし、\nあたしもお{e082}理とかお{e083}除とか\n大好きだから。\n体動かしてるととっても楽しいよ。{0c:1501}",
    "read": "{1c:11}{0b:08}【 サラ 】{0b:09}\nみんな、いらっしゃい。{1a}あたし?\nオイゲンさんのお手伝いしてるの。{1a}オイゲンさん1人で大変そうだし、\nあたしもお料理とかお掃除とか\n大好きだから。\n体動かしてるととっても楽しいよ。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Sara 】{0b:09}\nWelcome, everyone.{1a}Me? I'm helping Eugen-san.{1a}It looks hard for Eugen-san all by\nhimself, and I just love cooking and\ncleaning. Moving around is so much fun.{0c:1501}",
+   "status": "done",
+   "tl": "Welcome, everyone. // Me? I'm helping Eugen-san. // It looks hard for Eugen-san all by himself, and I just love cooking and cleaning. Moving around is so much fun."
   },
   {
    "id": "RES#1174:9c0b",
@@ -307,8 +313,9 @@
    "jp": "{1c:11}{0b:08}{e080} サラ {e081}{0b:09}\nみんなもがんばってね。{0c:1501}",
    "read": "{1c:11}{0b:08}【 サラ 】{0b:09}\nみんなもがんばってね。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Sara 】{0b:09}\nYou all do your best too, okay?{0c:1501}",
+   "status": "done",
+   "tl": "You all do your best too, okay?"
   },
   {
    "id": "RES#1174:9c63",
@@ -362,8 +369,9 @@
    "jp": "{1c:11}{0b:08}{e080} サラ {e081}{0b:09}\n{10}さん、いらっしゃい。\n今日はどうしたの?{0c:1501}",
    "read": "{1c:11}{0b:08}【 サラ 】{0b:09}\n{10}さん、いらっしゃい。\n今日はどうしたの?{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Sara 】{0b:09}\nWelcome, {10}-san. What brings\nyou here today?{0c:1501}",
+   "status": "done",
+   "tl": "Welcome, [HERO]-san. What brings you here today?"
   },
   {
    "id": "RES#1174:9cc4",
@@ -384,8 +392,9 @@
    "jp": "{1c:11}うん、いいよ。\nあとは弱{e085}でコトコト\n煮{e087}むだけだから。{0c:f70286}",
    "read": "{1c:11}うん、いいよ。\nあとは弱火でコトコト\n煮込むだけだから。{0c:f70286}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Sure, okay. All that's left is to let it\nsimmer on low heat.{0c:f70286}",
+   "status": "done",
+   "tl": "Sure, okay. All that's left is to let it simmer on low heat."
   },
   {
    "id": "RES#1174:9cfb",
@@ -395,8 +404,9 @@
    "jp": "{1c:11}ごめんなさい、\n今は手がはなせないんだ。\nまた今度じゃダメかな。{0c:020201}",
    "read": "{1c:11}ごめんなさい、\n今は手がはなせないんだ。\nまた今度じゃダメかな。{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}I'm sorry, my hands are full right now.\nMaybe another time, would that be\nokay?{0c:020201}",
+   "status": "done",
+   "tl": "I'm sorry, my hands are full right now. Maybe another time, would that be okay?"
   },
   {
    "id": "RES#1174:9d29",
@@ -540,8 +550,9 @@
    "jp": "{0c:501a5101}{1c:16}{0b:08}{e080} パスカ {e081}{0b:09}\nよっ。なんだか楽しそうじゃん。{0c:29122c091501}",
    "read": "{0c:501a5101}{1c:16}{0b:08}【 パスカ 】{0b:09}\nよっ。なんだか楽しそうじゃん。{0c:29122c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:501a5101}{1c:16}{0b:08}【 Pasca 】{0b:09}\nHey. Lookin' like you're havin' fun.{0c:29122c091501}",
+   "status": "done",
+   "tl": "Hey. Lookin' like you're havin' fun."
   },
   {
    "id": "RES#1174:9e43",
@@ -551,8 +562,9 @@
    "jp": "{0c:3a05521909}{1c:11}{0b:08}{e080} サラ {e081}{0b:09}\nうん、でも、もっといろんな\nお{e082}理つくりたいんだけどね。{0c:29052c091501}",
    "read": "{0c:3a05521909}{1c:11}{0b:08}【 サラ 】{0b:09}\nうん、でも、もっといろんな\nお料理つくりたいんだけどね。{0c:29052c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:3a05521909}{1c:11}{0b:08}【 Sara 】{0b:09}\nYes, but I wish I could make lots more\nkinds of food.{0c:29052c091501}",
+   "status": "done",
+   "tl": "Yes, but I wish I could make lots more kinds of food."
   },
   {
    "id": "RES#1174:9e82",
@@ -562,8 +574,9 @@
    "jp": "{0c:520201}{1c:15}{0b:08}{e080} パスカ {e081}{0b:09}\nここじゃろくな{e088}{e082}が\n手に入らねえって言ってたよな。{1a}オイゲンさんの趣味かバルデスさんの\n趣味かわかんねえけど、{e089}の方は\n{e08a}{e08b}も{e08c}もそこそこあるのにな。{1a}{0c:520301}わざわざ、カルスの峰を越えて\n{e089}樽を運ぶくらいだったら、\n肉か何かにすりゃいいのに。{1a}{0c:5104}あーっ、{e090}鮮な肉と野{e092}が\nたらふく{e093}いてえ。{0c:29122c091501}",
    "read": "{0c:520201}{1c:15}{0b:08}【 パスカ 】{0b:09}\nここじゃろくな材料が\n手に入らねえって言ってたよな。{1a}オイゲンさんの趣味かバルデスさんの\n趣味かわかんねえけど、酒の方は\n種類も量もそこそこあるのにな。{1a}{0c:520301}わざわざ、カルスの峰を越えて\n酒樽を運ぶくらいだったら、\n肉か何かにすりゃいいのに。{1a}{0c:5104}あーっ、新鮮な肉と野菜が\nたらふく食いてえ。{0c:29122c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520201}{1c:15}{0b:08}【 Pasca 】{0b:09}\nYou were sayin' you can't get decent\ningredients here.{1a}Dunno if it's Eugen-san's taste or\nValdes-san's, but there's plenty of\nbooze, all kinds.{1a}{0c:520301}If they're gonna haul casks over the\nKars peaks anyhow, oughta make it meat\nor somethin'.{1a}{0c:5104}Aaah, damn, I wanna stuff myself with\nfresh meat and vegetables.{0c:29122c091501}",
+   "status": "done",
+   "tl": "You were sayin' you can't get decent ingredients here. // Dunno if it's Eugen-san's taste or Valdes-san's, but there's plenty of booze, all kinds. // [1]If they're gonna haul casks over the Kars peaks anyhow, oughta make it meat or somethin'. // [2]Aaah, damn, I wanna stuff myself with fresh meat and vegetables."
   },
   {
    "id": "RES#1174:9f5a",
@@ -584,8 +597,9 @@
    "jp": "{0c:3a00}{1c:11}{0b:08}{e080} サラ {e081}{0b:09}\nうん、いいよ。\nあとは弱{e085}でコトコト\n煮{e087}むだけだから。{0c:f70286}{0c:020601}",
    "read": "{0c:3a00}{1c:11}{0b:08}【 サラ 】{0b:09}\nうん、いいよ。\nあとは弱火でコトコト\n煮込むだけだから。{0c:f70286}{0c:020601}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:3a00}{1c:11}{0b:08}【 Sara 】{0b:09}\nSure, okay. All that's left is to let it\nsimmer on low heat.{0c:f70286}{0c:020601}",
+   "status": "done",
+   "tl": "Sure, okay. All that's left is to let it simmer on low heat."
   },
   {
    "id": "RES#1174:9fa9",
@@ -595,8 +609,9 @@
    "jp": "{0c:3a00}{1c:11}ごめんなさい、\n今は手がはなせないんだ。\nまた今度じゃダメかな。{0c:020201}",
    "read": "{0c:3a00}{1c:11}ごめんなさい、\n今は手がはなせないんだ。\nまた今度じゃダメかな。{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:3a00}{1c:11}I'm sorry, my hands are full right now.\nMaybe another time, would that be\nokay?{0c:020201}",
+   "status": "done",
+   "tl": "I'm sorry, my hands are full right now. Maybe another time, would that be okay?"
   },
   {
    "id": "RES#1174:9fdb",
@@ -796,8 +811,9 @@
    "jp": "{1c:11}{0b:08}{e080} サラ {e081}{0b:09}\nみんなもがんばってね。{0c:1501}",
    "read": "{1c:11}{0b:08}【 サラ 】{0b:09}\nみんなもがんばってね。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Sara 】{0b:09}\nYou all do your best too, okay?{0c:1501}",
+   "status": "done",
+   "tl": "You all do your best too, okay?"
   },
   {
    "id": "RES#1174:a12f",
@@ -862,8 +878,9 @@
    "jp": "{1c:11}{0b:08}{e080} サラ {e081}{0b:09}\n{10}さん、いらっしゃい。\n今日はね、{e094}漬け肉の\n煮{e087}み{e082}理をつくってるの。{1a}これね、あたしの故{e096}では\nアイスバインって言うんだ。{0c:1501}",
    "read": "{1c:11}{0b:08}【 サラ 】{0b:09}\n{10}さん、いらっしゃい。\n今日はね、塩漬け肉の\n煮込み料理をつくってるの。{1a}これね、あたしの故郷では\nアイスバインって言うんだ。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Sara 】{0b:09}\nWelcome, {10}-san. Today I'm\nmaking a stew of salted meat.{1a}Where I come from, we call this eisbein.{0c:1501}",
+   "status": "done",
+   "tl": "Welcome, [HERO]-san. Today I'm making a stew of salted meat. // Where I come from, we call this eisbein."
   },
   {
    "id": "RES#1174:a1e0",
@@ -884,8 +901,9 @@
    "jp": "そうか、頑張れよ|手伝おうか?",
    "read": "そうか、頑張れよ|手伝おうか?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I see. Keep at it|Want a hand?",
+   "status": "done",
+   "tl": "I see. Keep at it|Want a hand?"
   },
   {
    "id": "RES#1174:a202",
@@ -906,8 +924,9 @@
    "jp": "そう、頑張ってね|あたしも手伝うよ、サラ",
    "read": "そう、頑張ってね|あたしも手伝うよ、サラ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I see. Keep at it|I'll help too, Sara",
+   "status": "done",
+   "tl": "I see. Keep at it|I'll help too, Sara"
   },
   {
    "id": "RES#1174:a222",
@@ -939,8 +958,9 @@
    "jp": "{1c:11}ありがとう。\nでもあともう少しで出来あがるよ。{0c:1501}",
    "read": "{1c:11}ありがとう。\nでもあともう少しで出来あがるよ。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Thank you. But it's almost done.{0c:1501}",
+   "status": "done",
+   "tl": "Thank you. But it's almost done."
   },
   {
    "id": "RES#1174:a252",
@@ -961,8 +981,9 @@
    "jp": "{1c:11}今から?\nうん、わかった。\nでももうちょっと待っててね。{0c:f70286}{0c:020701}",
    "read": "{1c:11}今から?\nうん、わかった。\nでももうちょっと待っててね。{0c:f70286}{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Right now? Okay, got it. But wait just a\nlittle longer, okay?{0c:f70286}{0c:020701}",
+   "status": "done",
+   "tl": "Right now? Okay, got it. But wait just a little longer, okay?"
   },
   {
    "id": "RES#1174:a28c",
@@ -972,8 +993,9 @@
    "jp": "{1c:11}ごめんなさい、\n今は手がはなせないんだ。\nまた今度じゃダメかな。{0c:020201}",
    "read": "{1c:11}ごめんなさい、\n今は手がはなせないんだ。\nまた今度じゃダメかな。{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}I'm sorry, my hands are full right now.\nMaybe another time, would that be\nokay?{0c:020201}",
+   "status": "done",
+   "tl": "I'm sorry, my hands are full right now. Maybe another time, would that be okay?"
   },
   {
    "id": "RES#1174:a2ba",
@@ -1072,8 +1094,9 @@
    "jp": "{1c:11}{0b:08}{e080} サラ {e081}{0b:09}\nごめん、お待たせ。\nじゃあ行こうよ。{0c:1501}",
    "read": "{1c:11}{0b:08}【 サラ 】{0b:09}\nごめん、お待たせ。\nじゃあ行こうよ。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Sara 】{0b:09}\nSorry to keep you waiting. Let's go then.{0c:1501}",
+   "status": "done",
+   "tl": "Sorry to keep you waiting. Let's go then."
   },
   {
    "id": "RES#1174:a377",
@@ -1205,8 +1228,9 @@
    "jp": "{1c:11}えっ、手伝ってくれるの?\nうれしい! ありがとう。{1a}でも{10}さんって\nいいところの生まれなんだよね。\n男の子でもお{e082}理なんてするの?{0c:29002c091501}",
    "read": "{1c:11}えっ、手伝ってくれるの?\nうれしい! ありがとう。{1a}でも{10}さんって\nいいところの生まれなんだよね。\n男の子でもお料理なんてするの?{0c:29002c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Oh, you'll help me? I'm so happy! Thank\nyou.{1a}But you're from a good family, aren't\nyou, {10}-san? Do boys cook too?{0c:29002c091501}",
+   "status": "done",
+   "tl": "Oh, you'll help me? I'm so happy! Thank you. // But you're from a good family, aren't you, [HERO]-san? Do boys cook too?"
   },
   {
    "id": "RES#1174:a459",
@@ -1227,8 +1251,9 @@
    "jp": "{1c:11}じゃあこのお{e082}理の\n{e097}り方を{e098}えてあげるね。\n大丈夫、簡単だよ。{0c:29002c091501}",
    "read": "{1c:11}じゃあこのお料理の\n作り方を教えてあげるね。\n大丈夫、簡単だよ。{0c:29002c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Then I'll teach you how to make this dish.\nDon't worry, it's easy.{0c:29002c091501}",
+   "status": "done",
+   "tl": "Then I'll teach you how to make this dish. Don't worry, it's easy."
   },
   {
    "id": "RES#1174:a49f",
@@ -1249,8 +1274,9 @@
    "jp": "{1c:14}えーと、まず初めに・・・{0c:1501}",
    "read": "{1c:14}えーと、まず初めに・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}Um, first of all...{0c:1501}",
+   "status": "done",
+   "tl": "Um, first of all..."
   },
   {
    "id": "RES#1174:a4c4",
@@ -1271,8 +1297,9 @@
    "jp": "{1c:11}手伝ってくれるの?\nうれしい! ありがとう。{1a}でも、{10}さんって\nいいところのお嬢様なんだよね。\nお{e082}理なんてしたことあるの?{0c:29002c091501}",
    "read": "{1c:11}手伝ってくれるの?\nうれしい! ありがとう。{1a}でも、{10}さんって\nいいところのお嬢様なんだよね。\nお料理なんてしたことあるの?{0c:29002c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}You'll help me? I'm so happy! Thank you.{1a}But you're a young lady from a good\nfamily, aren't you, {10}-san? Have\nyou ever cooked at all?{0c:29002c091501}",
+   "status": "done",
+   "tl": "You'll help me? I'm so happy! Thank you. // But you're a young lady from a good family, aren't you, [HERO]-san? Have you ever cooked at all?"
   },
   {
    "id": "RES#1174:a51e",
@@ -1293,8 +1320,9 @@
    "jp": "{1c:11}じゃあこのお{e082}理の\n{e097}り方を{e098}えてあげるね。\n大丈夫、簡単だよ。{0c:29002c091501}",
    "read": "{1c:11}じゃあこのお料理の\n作り方を教えてあげるね。\n大丈夫、簡単だよ。{0c:29002c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Then I'll teach you how to make this dish.\nDon't worry, it's easy.{0c:29002c091501}",
+   "status": "done",
+   "tl": "Then I'll teach you how to make this dish. Don't worry, it's easy."
   },
   {
    "id": "RES#1174:a564",
@@ -1315,8 +1343,9 @@
    "jp": "{1c:11}えーと、まず初めに・・・{0c:1501}",
    "read": "{1c:11}えーと、まず初めに・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Um, first of all...{0c:1501}",
+   "status": "done",
+   "tl": "Um, first of all..."
   },
   {
    "id": "RES#1174:a589",
@@ -1337,8 +1366,9 @@
    "jp": "{1c:11}手伝ってくれるの?\nうれしい! ありがとう。{1a}{10}さんもアスロイトから\n来たんだったよね。\nならアイスバインの{e097}り方\n知ってるよね。{0c:29002c091501}",
    "read": "{1c:11}手伝ってくれるの?\nうれしい! ありがとう。{1a}{10}さんもアスロイトから\n来たんだったよね。\nならアイスバインの作り方\n知ってるよね。{0c:29002c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}You'll help me? I'm so happy! Thank you.{1a}You came from Asroit too, didn't you,\n{10}-san? So you know how to\nmake eisbein, right?{0c:29002c091501}",
+   "status": "done",
+   "tl": "You'll help me? I'm so happy! Thank you. // You came from Asroit too, didn't you, [HERO]-san? So you know how to make eisbein, right?"
   },
   {
    "id": "RES#1174:a5e9",
@@ -1359,8 +1389,9 @@
    "jp": "{1c:11}あれっ、知らないんだ。\nじゃああたしが{e097}り方\n{e098}えてあげるね。\n大丈夫、簡単だよ。{0c:29002c091501}",
    "read": "{1c:11}あれっ、知らないんだ。\nじゃああたしが作り方\n教えてあげるね。\n大丈夫、簡単だよ。{0c:29002c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Oh, you don't know? Then I'll teach you\nhow to make it. Don't worry, it's easy.{0c:29002c091501}",
+   "status": "done",
+   "tl": "Oh, you don't know? Then I'll teach you how to make it. Don't worry, it's easy."
   },
   {
    "id": "RES#1174:a637",
@@ -1381,8 +1412,9 @@
    "jp": "{1c:14}えーと、まず初めに・・・{0c:1501}",
    "read": "{1c:14}えーと、まず初めに・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}Um, first of all...{0c:1501}",
+   "status": "done",
+   "tl": "Um, first of all..."
   },
   {
    "id": "RES#1174:a65c",
@@ -1403,8 +1435,9 @@
    "jp": "{1c:11}手伝ってくれるの?\nうれしい! ありがとう。{1a}じゃああたしが{e097}り方\n{e098}えてあげるね。\n大丈夫、簡単だよ。{0c:29002c091501}",
    "read": "{1c:11}手伝ってくれるの?\nうれしい! ありがとう。{1a}じゃああたしが作り方\n教えてあげるね。\n大丈夫、簡単だよ。{0c:29002c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}You'll help me? I'm so happy! Thank you.{1a}Then I'll teach you how to make it. Don't\nworry, it's easy.{0c:29002c091501}",
+   "status": "done",
+   "tl": "You'll help me? I'm so happy! Thank you. // Then I'll teach you how to make it. Don't worry, it's easy."
   },
   {
    "id": "RES#1174:a6af",
@@ -1425,8 +1458,9 @@
    "jp": "{1c:14}えーと、まず初めに・・・{0c:1501}",
    "read": "{1c:14}えーと、まず初めに・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}Um, first of all...{0c:1501}",
+   "status": "done",
+   "tl": "Um, first of all..."
   },
   {
    "id": "RES#1174:a6d4",
@@ -1469,8 +1503,9 @@
    "jp": "{1c:11}{0b:08}{e080} サラ {e081}{0b:09}\nお疲れさま。 おかげで助かったよ。{1a}でも{10}さんって\nほんとうに器用だね。\nあたし感心しちゃった。{0c:29002c091501}",
    "read": "{1c:11}{0b:08}【 サラ 】{0b:09}\nお疲れさま。 おかげで助かったよ。{1a}でも{10}さんって\nほんとうに器用だね。\nあたし感心しちゃった。{0c:29002c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Sara 】{0b:09}\nThanks for all your hard work. You really\nhelped me.{1a}You're so good with your hands,\n{10}-san. I'm really impressed.{0c:29002c091501}",
+   "status": "done",
+   "tl": "Thanks for all your hard work. You really helped me. // You're so good with your hands, [HERO]-san. I'm really impressed."
   },
   {
    "id": "RES#1174:a73d",
@@ -1491,8 +1526,9 @@
    "jp": "{1c:11}2人でお{e082}理するって楽しいね。\nまた一緒にできたらいいな。{1a}それで、これからどうするの?{0c:1501}",
    "read": "{1c:11}2人でお料理するって楽しいね。\nまた一緒にできたらいいな。{1a}それで、これからどうするの?{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Cooking together is fun, isn't it? I hope\nwe can do it again.{1a}So, what are you going to do now?{0c:1501}",
+   "status": "done",
+   "tl": "Cooking together is fun, isn't it? I hope we can do it again. // So, what are you going to do now?"
   },
   {
    "id": "RES#1174:a788",
@@ -1513,8 +1549,9 @@
    "jp": "{1c:11}うん、もちろんいいよ。\nじゃあ一緒にがんばろうね。{0c:f70286}{0c:020701}",
    "read": "{1c:11}うん、もちろんいいよ。\nじゃあ一緒にがんばろうね。{0c:f70286}{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Sure, of course it's okay. Then let's do\nour best together, okay?{0c:f70286}{0c:020701}",
+   "status": "done",
+   "tl": "Sure, of course it's okay. Then let's do our best together, okay?"
   },
   {
    "id": "RES#1174:a7bd",
@@ -1524,8 +1561,9 @@
    "jp": "{1c:12}あっ、ごめんなさい!\nこれから別の約束があるの。\nまた今度じゃダメかな。{0c:020201}",
    "read": "{1c:12}あっ、ごめんなさい!\nこれから別の約束があるの。\nまた今度じゃダメかな。{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Oh, I'm sorry! I already promised someone\nelse. Maybe another time, would that be\nokay?{0c:020201}",
+   "status": "done",
+   "tl": "Oh, I'm sorry! I already promised someone else. Maybe another time, would that be okay?"
   },
   {
    "id": "RES#1174:a7f2",
@@ -1535,8 +1573,9 @@
    "jp": "{1c:11}じゃあまたね。\n本当に楽しかったよ。{0c:1501}",
    "read": "{1c:11}じゃあまたね。\n本当に楽しかったよ。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}See you later, then. That was really fun.{0c:1501}",
+   "status": "done",
+   "tl": "See you later, then. That was really fun."
   },
   {
    "id": "RES#1174:a80e",
@@ -1623,8 +1662,9 @@
    "jp": "{1c:11}{0b:08}{e080} サラ {e081}{0b:09}\nじゃあまたね。\nあたしはまだ少し用事があるから。{0c:1501}",
    "read": "{1c:11}{0b:08}【 サラ 】{0b:09}\nじゃあまたね。\nあたしはまだ少し用事があるから。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Sara 】{0b:09}\nSee you later, then. I still have a few\nthings to do here.{0c:1501}",
+   "status": "done",
+   "tl": "See you later, then. I still have a few things to do here."
   },
   {
    "id": "RES#1174:a896",
@@ -1689,8 +1729,9 @@
    "jp": "{1c:11}{0b:08}{e080} サラ {e081}{0b:09}\n{10}さん、いらっしゃい。\n今日はどうしたの?{0c:1501}",
    "read": "{1c:11}{0b:08}【 サラ 】{0b:09}\n{10}さん、いらっしゃい。\n今日はどうしたの?{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Sara 】{0b:09}\nWelcome, {10}-san. What brings\nyou here today?{0c:1501}",
+   "status": "done",
+   "tl": "Welcome, [HERO]-san. What brings you here today?"
   },
   {
    "id": "RES#1174:a912",
@@ -1711,8 +1752,9 @@
    "jp": "お前を誘いに来たんだけど・・・|ちょっと覗きに来ただけさ|手伝いに来たんだよ",
    "read": "お前を誘いに来たんだけど・・・|ちょっと覗きに来ただけさ|手伝いに来たんだよ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I came to ask you along...|Just came to take a look|I came to help",
+   "status": "done",
+   "tl": "I came to ask you along...|Just came to take a look|I came to help"
   },
   {
    "id": "RES#1174:a94e",
@@ -1733,8 +1775,9 @@
    "jp": "あなたを誘いに来たんだけど・・・|ちょっと覗きに来ただけよ|手伝いに来たの",
    "read": "あなたを誘いに来たんだけど・・・|ちょっと覗きに来ただけよ|手伝いに来たの",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I came to ask you along...|Just came to take a look|I came to help",
+   "status": "done",
+   "tl": "I came to ask you along...|Just came to take a look|I came to help"
   },
   {
    "id": "RES#1174:a982",
@@ -1755,8 +1798,9 @@
    "jp": "{1c:11}今から?\nうん、わかった。\nでももうちょっと待っててね。{0c:f70286}{0c:020101}",
    "read": "{1c:11}今から?\nうん、わかった。\nでももうちょっと待っててね。{0c:f70286}{0c:020101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Right now? Okay, got it. But wait just a\nlittle longer, okay?{0c:f70286}{0c:020101}",
+   "status": "done",
+   "tl": "Right now? Okay, got it. But wait just a little longer, okay?"
   },
   {
    "id": "RES#1174:a9b6",
@@ -1799,8 +1843,9 @@
    "jp": "{1c:11}{0b:08}{e080} サラ {e081}{0b:09}\nお待たせ。\nじゃあ行こうよ。{0c:1501}",
    "read": "{1c:11}{0b:08}【 サラ 】{0b:09}\nお待たせ。\nじゃあ行こうよ。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Sara 】{0b:09}\nSorry to keep you waiting. Let's go,\nokay?{0c:1501}",
+   "status": "done",
+   "tl": "Sorry to keep you waiting. Let's go, okay?"
   },
   {
    "id": "RES#1174:aa29",
@@ -1821,8 +1866,9 @@
    "jp": "{1c:11}何のお構いもできないけど、\nゆっくりしていってね。{0c:1501}",
    "read": "{1c:11}何のお構いもできないけど、\nゆっくりしていってね。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}I can't offer you much, but please make\nyourself at home, okay?{0c:1501}",
+   "status": "done",
+   "tl": "I can't offer you much, but please make yourself at home, okay?"
   },
   {
    "id": "RES#1174:aa68",
@@ -1898,8 +1944,9 @@
    "jp": "{1c:11}{0b:08}{e080} サラ {e081}{0b:09}\nゆっくりしていってね。{0c:1501}",
    "read": "{1c:11}{0b:08}【 サラ 】{0b:09}\nゆっくりしていってね。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Sara 】{0b:09}\nPlease make yourself at home, okay?{0c:1501}",
+   "status": "done",
+   "tl": "Please make yourself at home, okay?"
   },
   {
    "id": "RES#1174:aad6",
@@ -1931,8 +1978,9 @@
    "jp": "{1c:11}また手伝ってくれるの?\nありがとう、{10}さん。{1a}今日はクネーデルを\nつくってるところなの。{0c:0b120229002c091501}",
    "read": "{1c:11}また手伝ってくれるの?\nありがとう、{10}さん。{1a}今日はクネーデルを\nつくってるところなの。{0c:0b120229002c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}You'll help me again? Thank you,\n{10}-san.{1a}Today I'm making knodel.{0c:0b120229002c091501}",
+   "status": "done",
+   "tl": "You'll help me again? Thank you, [HERO]-san. // Today I'm making knodel."
   },
   {
    "id": "RES#1174:ab32",
@@ -1953,8 +2001,9 @@
    "jp": "{1c:14}えーと、じゃあ{10}さんには\n何から手伝ってもらおうかな・・・{0c:1501}",
    "read": "{1c:14}えーと、じゃあ{10}さんには\n何から手伝ってもらおうかな・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}Um, so what should I have you help with\nfirst, {10}-san...?{0c:1501}",
+   "status": "done",
+   "tl": "Um, so what should I have you help with first, [HERO]-san...?"
   },
   {
    "id": "RES#1174:ab6a",
@@ -1986,8 +2035,9 @@
    "jp": "{1c:11}お疲れさまでした。\n本当に助かったよ。\nありがとう、{10}さん。{0c:29002c091501}",
    "read": "{1c:11}お疲れさまでした。\n本当に助かったよ。\nありがとう、{10}さん。{0c:29002c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Thanks for all your hard work. You were\na really big help. Thank you,\n{10}-san.{0c:29002c091501}",
+   "status": "done",
+   "tl": "Thanks for all your hard work. You were a really big help. Thank you, [HERO]-san."
   },
   {
    "id": "RES#1174:abaa",
@@ -2008,8 +2058,9 @@
    "jp": "{1c:11}それで、これからどうするの?{0c:1501}",
    "read": "{1c:11}それで、これからどうするの?{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}So, what are you going to do now?{0c:1501}",
+   "status": "done",
+   "tl": "So, what are you going to do now?"
   },
   {
    "id": "RES#1174:abcf",
@@ -2030,8 +2081,9 @@
    "jp": "{1c:11}うん、もちろんいいよ。\nじゃあ一緒にがんばろうね。{0c:f70286}{0c:020601}",
    "read": "{1c:11}うん、もちろんいいよ。\nじゃあ一緒にがんばろうね。{0c:f70286}{0c:020601}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Sure, of course it's okay. Then let's do\nour best together, okay?{0c:f70286}{0c:020601}",
+   "status": "done",
+   "tl": "Sure, of course it's okay. Then let's do our best together, okay?"
   },
   {
    "id": "RES#1174:ac04",
@@ -2130,8 +2182,9 @@
    "jp": "{1c:11}{0b:08}{e080} サラ {e081}{0b:09}\nじゃあまたね。\nあたしはまだ少し用事があるから。{0c:1501}",
    "read": "{1c:11}{0b:08}【 サラ 】{0b:09}\nじゃあまたね。\nあたしはまだ少し用事があるから。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Sara 】{0b:09}\nSee you later, then. I still have a few\nthings to do here.{0c:1501}",
+   "status": "done",
+   "tl": "See you later, then. I still have a few things to do here."
   },
   {
    "id": "RES#1174:ac9a",
@@ -2196,8 +2249,9 @@
    "jp": "{1c:11}{0b:08}{e080} サラ {e081}{0b:09}\n{10}さん、いらっしゃい。\n今日はどうしたの?{0c:1501}",
    "read": "{1c:11}{0b:08}【 サラ 】{0b:09}\n{10}さん、いらっしゃい。\n今日はどうしたの?{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Sara 】{0b:09}\nWelcome, {10}-san. What brings\nyou here today?{0c:1501}",
+   "status": "done",
+   "tl": "Welcome, [HERO]-san. What brings you here today?"
   },
   {
    "id": "RES#1174:ad16",
@@ -2218,8 +2272,9 @@
    "jp": "お前を誘いに来たんだけど・・・|ちょっと覗きに来ただけさ|手伝いに来たんだよ",
    "read": "お前を誘いに来たんだけど・・・|ちょっと覗きに来ただけさ|手伝いに来たんだよ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I came to ask you along...|Just came to take a look|I came to help",
+   "status": "done",
+   "tl": "I came to ask you along...|Just came to take a look|I came to help"
   },
   {
    "id": "RES#1174:ad52",
@@ -2240,8 +2295,9 @@
    "jp": "あなたを誘いに来たんだけど・・・|ちょっと覗きに来ただけよ|手伝いに来たの",
    "read": "あなたを誘いに来たんだけど・・・|ちょっと覗きに来ただけよ|手伝いに来たの",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I came to ask you along...|Just came to take a look|I came to help",
+   "status": "done",
+   "tl": "I came to ask you along...|Just came to take a look|I came to help"
   },
   {
    "id": "RES#1174:ad86",
@@ -2262,8 +2318,9 @@
    "jp": "{1c:11}今から?\nうん、わかった。もちろん行くよ。\nでももうちょっと待っててね。{0c:f70286}{0c:020101}",
    "read": "{1c:11}今から?\nうん、わかった。もちろん行くよ。\nでももうちょっと待っててね。{0c:f70286}{0c:020101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Right now? Okay, I understand. Of\ncourse I'll go. But wait just a little\nlonger, okay?{0c:f70286}{0c:020101}",
+   "status": "done",
+   "tl": "Right now? Okay, I understand. Of course I'll go. But wait just a little longer, okay?"
   },
   {
    "id": "RES#1174:adc3",
@@ -2306,8 +2363,9 @@
    "jp": "{1c:11}{0b:08}{e080} サラ {e081}{0b:09}\nお待たせ。\nじゃあ行こうよ。{0c:1501}",
    "read": "{1c:11}{0b:08}【 サラ 】{0b:09}\nお待たせ。\nじゃあ行こうよ。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Sara 】{0b:09}\nSorry to keep you waiting. Let's go,\nokay?{0c:1501}",
+   "status": "done",
+   "tl": "Sorry to keep you waiting. Let's go, okay?"
   },
   {
    "id": "RES#1174:ae36",
@@ -2328,8 +2386,9 @@
    "jp": "{1c:11}何のお構いもできないけど、\nゆっくりしていってね。{0c:1501}",
    "read": "{1c:11}何のお構いもできないけど、\nゆっくりしていってね。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}I can't offer you much, but please make\nyourself at home, okay?{0c:1501}",
+   "status": "done",
+   "tl": "I can't offer you much, but please make yourself at home, okay?"
   },
   {
    "id": "RES#1174:ae75",
@@ -2405,8 +2464,9 @@
    "jp": "{1c:11}{0b:08}{e080} サラ {e081}{0b:09}\nゆっくりしていってね。{0c:1501}",
    "read": "{1c:11}{0b:08}【 サラ 】{0b:09}\nゆっくりしていってね。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Sara 】{0b:09}\nPlease make yourself at home, okay?{0c:1501}",
+   "status": "done",
+   "tl": "Please make yourself at home, okay?"
   },
   {
    "id": "RES#1174:aee3",
@@ -2438,8 +2498,9 @@
    "jp": "{1c:11}いつもありがとう。\n{10}さんもお{e082}理つくるの\n好きになった?{0c:0b120229002c091501}",
    "read": "{1c:11}いつもありがとう。\n{10}さんもお料理つくるの\n好きになった?{0c:0b120229002c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Thank you, as always. Have you come to\nlike cooking too, {10}-san?{0c:0b120229002c091501}",
+   "status": "done",
+   "tl": "Thank you, as always. Have you come to like cooking too, [HERO]-san?"
   },
   {
    "id": "RES#1174:af2c",
@@ -2460,8 +2521,9 @@
    "jp": "{1c:14}えーと、今日は何から\n手伝ってもらおうかな・・・{0c:1501}",
    "read": "{1c:14}えーと、今日は何から\n手伝ってもらおうかな・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}Um, what should I have you help with\nfirst today...?{0c:1501}",
+   "status": "done",
+   "tl": "Um, what should I have you help with first today...?"
   },
   {
    "id": "RES#1174:af61",
@@ -2493,8 +2555,9 @@
    "jp": "{1c:11}お疲れさまでした。\n本当に助かったよ。\nありがとう、{10}さん。{0c:29002c091501}",
    "read": "{1c:11}お疲れさまでした。\n本当に助かったよ。\nありがとう、{10}さん。{0c:29002c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Thanks for all your hard work. You were\na really big help. Thank you,\n{10}-san.{0c:29002c091501}",
+   "status": "done",
+   "tl": "Thanks for all your hard work. You were a really big help. Thank you, [HERO]-san."
   },
   {
    "id": "RES#1174:afa1",
@@ -2515,8 +2578,9 @@
    "jp": "{1c:11}それで、これからどうするの?{0c:1501}",
    "read": "{1c:11}それで、これからどうするの?{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}So, what are you going to do now?{0c:1501}",
+   "status": "done",
+   "tl": "So, what are you going to do now?"
   },
   {
    "id": "RES#1174:afc6",
@@ -2537,8 +2601,9 @@
    "jp": "{1c:11}うん、もちろんいいよ。\nじゃあ一緒にがんばろうね。{0c:f70286}{0c:020601}",
    "read": "{1c:11}うん、もちろんいいよ。\nじゃあ一緒にがんばろうね。{0c:f70286}{0c:020601}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Sure, of course it's okay. Then let's do\nour best together, okay?{0c:f70286}{0c:020601}",
+   "status": "done",
+   "tl": "Sure, of course it's okay. Then let's do our best together, okay?"
   },
   {
    "id": "RES#1174:affb",
@@ -2637,8 +2702,9 @@
    "jp": "{1c:11}{0b:08}{e080} サラ {e081}{0b:09}\nじゃあまたね。\nあたしはまだ少し用事があるから。{0c:1501}",
    "read": "{1c:11}{0b:08}【 サラ 】{0b:09}\nじゃあまたね。\nあたしはまだ少し用事があるから。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Sara 】{0b:09}\nSee you later, then. I still have a few\nthings to do here.{0c:1501}",
+   "status": "done",
+   "tl": "See you later, then. I still have a few things to do here."
   },
   {
    "id": "RES#1174:b091",
@@ -2692,8 +2758,9 @@
    "jp": "{1c:13}{0b:08}{e080} サラ {e081}{0b:09}\n・・・いらっしゃい、\n{10}さん。{0c:1501}",
    "read": "{1c:13}{0b:08}【 サラ 】{0b:09}\n・・・いらっしゃい、\n{10}さん。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Sara 】{0b:09}\n...Welcome, {10}-san.{0c:1501}",
+   "status": "done",
+   "tl": "...Welcome, [HERO]-san."
   },
   {
    "id": "RES#1174:b0e9",
@@ -2726,8 +2793,9 @@
    "jp": "{0c:521a09}{1c:13}ごめんなさい・・・\nあたし忙しいから・・・{0c:020201}",
    "read": "{0c:521a09}{1c:13}ごめんなさい・・・\nあたし忙しいから・・・{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521a09}{1c:13}I'm sorry... I'm busy right now...{0c:020201}",
+   "status": "done",
+   "tl": "I'm sorry... I'm busy right now..."
   },
   {
    "id": "RES#1174:b12b",
@@ -2849,8 +2917,9 @@
    "jp": "{1c:13}{0b:08}{e080} サラ {e081}{0b:09}\nみんな、今から出かけるの?\n気をつけてね・・・{0c:1501}",
    "read": "{1c:13}{0b:08}【 サラ 】{0b:09}\nみんな、今から出かけるの?\n気をつけてね・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Sara 】{0b:09}\nAre you all going out now? Please be\ncareful...{0c:1501}",
+   "status": "done",
+   "tl": "Are you all going out now? Please be careful..."
   },
   {
    "id": "RES#1174:b1ef",
@@ -2960,8 +3029,9 @@
    "jp": "{1c:11}{0b:08}{e080} サラ {e081}{0b:09}\n{10}さんいらっしゃい。{1a}本当はもっといろんなお{e082}理\nつくりたいんだけど、\n今は贅沢言ってられないもんね。{1a}みんなの元気が出るお{e082}理\nたくさん{e097}らなきゃ。{0c:1501}",
    "read": "{1c:11}{0b:08}【 サラ 】{0b:09}\n{10}さんいらっしゃい。{1a}本当はもっといろんなお料理\nつくりたいんだけど、\n今は贅沢言ってられないもんね。{1a}みんなの元気が出るお料理\nたくさん作らなきゃ。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Sara 】{0b:09}\nWelcome, {10}-san.{1a}I really want to make all kinds of dishes,\nbut we can't ask for luxuries right now,\ncan we?{1a}I have to make lots of food that gives\neveryone strength.{0c:1501}",
+   "status": "done",
+   "tl": "Welcome, [HERO]-san. // I really want to make all kinds of dishes, but we can't ask for luxuries right now, can we? // I have to make lots of food that gives everyone strength."
   },
   {
    "id": "RES#1174:b2eb",
@@ -2982,8 +3052,9 @@
    "jp": "{1c:11}うん、がんばろうね。{0c:f70286}",
    "read": "{1c:11}うん、がんばろうね。{0c:f70286}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Mm-hm, let's do our best, okay?{0c:f70286}",
+   "status": "done",
+   "tl": "Mm-hm, let's do our best, okay?"
   },
   {
    "id": "RES#1174:b30a",
@@ -2993,8 +3064,9 @@
    "jp": "{1c:11}{10}さんも気をつけてね。{0c:1501}",
    "read": "{1c:11}{10}さんも気をつけてね。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}You be careful too, {10}-san.{0c:1501}",
+   "status": "done",
+   "tl": "You be careful too, [HERO]-san."
   },
   {
    "id": "RES#1174:b31d",
@@ -3048,8 +3120,9 @@
    "jp": "{1c:11}{0b:08}{e080} サラ {e081}{0b:09}\n{10}さんも気をつけてね。{0c:1501}",
    "read": "{1c:11}{0b:08}【 サラ 】{0b:09}\n{10}さんも気をつけてね。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Sara 】{0b:09}\nYou be careful too, {10}-san.{0c:1501}",
+   "status": "done",
+   "tl": "You be careful too, [HERO]-san."
   },
   {
    "id": "RES#1174:b376",
@@ -3126,8 +3199,9 @@
    "jp": "{0c:501a5101}{1c:15}{0b:08}{e080} パスカ {e081}{0b:09}\nサラってさ、ただでこの店\n手伝ってるんだったよな。{0c:29122c091501}",
    "read": "{0c:501a5101}{1c:15}{0b:08}【 パスカ 】{0b:09}\nサラってさ、ただでこの店\n手伝ってるんだったよな。{0c:29122c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:501a5101}{1c:15}{0b:08}【 Pasca 】{0b:09}\nHey, Sara, you're helpin' out at this place\nfor free, ain't ya?{0c:29122c091501}",
+   "status": "done",
+   "tl": "Hey, Sara, you're helpin' out at this place for free, ain't ya?"
   },
   {
    "id": "RES#1174:b450",
@@ -3137,8 +3211,9 @@
    "jp": "{0c:3a05521909}{1c:11}{0b:08}{e080} サラ {e081}{0b:09}\nうん、オイゲンさんは\nお駄賃くれるって\n言ってくれてるけど。{0c:29052c091501}",
    "read": "{0c:3a05521909}{1c:11}{0b:08}【 サラ 】{0b:09}\nうん、オイゲンさんは\nお駄賃くれるって\n言ってくれてるけど。{0c:29052c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:3a05521909}{1c:11}{0b:08}【 Sara 】{0b:09}\nMm-hm. Eugen-san did say he'd give me\nsome pocket money, though.{0c:29052c091501}",
+   "status": "done",
+   "tl": "Mm-hm. Eugen-san did say he'd give me some pocket money, though."
   },
   {
    "id": "RES#1174:b494",
@@ -3148,8 +3223,9 @@
    "jp": "{0c:520201}{1c:17}{0b:08}{e080} パスカ {e081}{0b:09}\nなら、どうして\nもらっておかねえんだ?{1a}故{e096}の子供達のために\nいくらでもお{e09f}が欲しいんだろ?\nまさか故{e096}に帰るの\n{e0a0}めた訳じゃねえよな。{0c:29122c091501}",
    "read": "{0c:520201}{1c:17}{0b:08}【 パスカ 】{0b:09}\nなら、どうして\nもらっておかねえんだ?{1a}故郷の子供達のために\nいくらでもお金が欲しいんだろ?\nまさか故郷に帰るの\n諦めた訳じゃねえよな。{0c:29122c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520201}{1c:17}{0b:08}【 Pasca 】{0b:09}\nThen why ain't ya takin' it?{1a}Ya want all the money ya can get for\nthe kids back home, don't ya? Don't tell\nme you've given up on goin' back.{0c:29122c091501}",
+   "status": "done",
+   "tl": "Then why ain't ya takin' it? // Ya want all the money ya can get for the kids back home, don't ya? Don't tell me you've given up on goin' back."
   },
   {
    "id": "RES#1174:b508",
@@ -3159,8 +3235,9 @@
    "jp": "{0c:521909}{1c:11}{0b:08}{e080} サラ {e081}{0b:09}\nうん。でも、オイゲンさんには\nお世話になってるから。{0c:29052c091501}",
    "read": "{0c:521909}{1c:11}{0b:08}【 サラ 】{0b:09}\nうん。でも、オイゲンさんには\nお世話になってるから。{0c:29052c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521909}{1c:11}{0b:08}【 Sara 】{0b:09}\nNo, I haven't. But Eugen-san has done so\nmuch for me.{0c:29052c091501}",
+   "status": "done",
+   "tl": "No, I haven't. But Eugen-san has done so much for me."
   },
   {
    "id": "RES#1174:b545",
@@ -3170,8 +3247,9 @@
    "jp": "{0c:520302}{1c:17}{0b:08}{e080} パスカ {e081}{0b:09}\nふうん・・・\nオレにはわかんねえな。\nまあ、その方がサラらしいけどよ。{0c:29122c091501}",
    "read": "{0c:520302}{1c:17}{0b:08}【 パスカ 】{0b:09}\nふうん・・・\nオレにはわかんねえな。\nまあ、その方がサラらしいけどよ。{0c:29122c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520302}{1c:17}{0b:08}【 Pasca 】{0b:09}\nHuh... I don't get it. Well, guess that's\nmore like you anyway, Sara.{0c:29122c091501}",
+   "status": "done",
+   "tl": "Huh... I don't get it. Well, guess that's more like you anyway, Sara."
   },
   {
    "id": "RES#1174:b58d",
@@ -3192,8 +3270,9 @@
    "jp": "{0c:3a00}{1c:11}うん、3人でがんばろうね。{0c:f70286}{0c:020501}",
    "read": "{0c:3a00}{1c:11}うん、3人でがんばろうね。{0c:f70286}{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:3a00}{1c:11}Mm-hm, let's do our best, the three of\nus, okay?{0c:f70286}{0c:020501}",
+   "status": "done",
+   "tl": "Mm-hm, let's do our best, the three of us, okay?"
   },
   {
    "id": "RES#1174:b5bb",
@@ -3203,8 +3282,9 @@
    "jp": "{0c:3a00}{1c:11}{10}さんもパスカさんも\nがんばってね。{0c:1501}",
    "read": "{0c:3a00}{1c:11}{10}さんもパスカさんも\nがんばってね。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:3a00}{1c:11}You do your best too, okay,\n{10}-san, Pasca-san?{0c:1501}",
+   "status": "done",
+   "tl": "You do your best too, okay, [HERO]-san, Pasca-san?"
   },
   {
    "id": "RES#1174:b5da",
@@ -3280,8 +3360,9 @@
    "jp": "{1c:11}{0b:08}{e080} サラ {e081}{0b:09}\n{10}さんもパスカさんも\nがんばってね。{0c:1501}",
    "read": "{1c:11}{0b:08}【 サラ 】{0b:09}\n{10}さんもパスカさんも\nがんばってね。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Sara 】{0b:09}\nYou do your best too, okay,\n{10}-san, Pasca-san?{0c:1501}",
+   "status": "done",
+   "tl": "You do your best too, okay, [HERO]-san, Pasca-san?"
   },
   {
    "id": "RES#1174:b66e",
@@ -3335,8 +3416,9 @@
    "jp": "{1c:14}{0b:08}{e080} サラ {e081}{0b:09}\nみんなもがんばってね。\nきっといいことあるはずだから。{0c:1501}",
    "read": "{1c:14}{0b:08}【 サラ 】{0b:09}\nみんなもがんばってね。\nきっといいことあるはずだから。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Sara 】{0b:09}\nYou all do your best too, okay? I'm sure\nsomething good is coming.{0c:1501}",
+   "status": "done",
+   "tl": "You all do your best too, okay? I'm sure something good is coming."
   },
   {
    "id": "RES#1174:b6d2",

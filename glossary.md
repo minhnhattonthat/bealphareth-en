@@ -360,6 +360,8 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 太陽帝国 | Sun Empire | | | Solar Empire |
 | 新しい世界 | New World | | | |
 | セルツ鋼 | Seltz steel | | | |
+| タッセル商会 | Tassel Trading House | | | |
+| 魔の12月 | Demon December | | | |
 | バーゼル | Basel | | | |
 | サンタ・ツリエル修道院 | Santa Turiel Monastery | | | |
 | カッセル | Kassel | | | |

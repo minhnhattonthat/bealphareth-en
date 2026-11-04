@@ -30,8 +30,9 @@
    "jp": "{1c:15}おう、{10}。\n{e080}{e081}にみんな集まってるんだってよ。\n行ってみようぜ。",
    "read": "{1c:15}おう、{10}。\n教会にみんな集まってるんだってよ。\n行ってみようぜ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}Hey, {10}. Hear everybody's\ngatherin' at the church. Let's go take a\nlook.",
+   "status": "done",
+   "tl": "Hey, [HERO]. Hear everybody's gatherin' at the church. Let's go take a look."
   },
   {
    "id": "RES#1188:9669",
@@ -52,8 +53,9 @@
    "jp": "{0c:2b5023100023}{0c:2001002348ff00b4511b54ff00b5521a19ff00b62101}{1c:17}{0b:08}{e082} ジェシカ {e083}{0b:09}\nきたきた。\nこれでみんな集まったんじゃない?\n歓迎{e081}でもしてくれるのかな?{0c:2b60091501}",
    "read": "{0c:2b5023100023}{0c:2001002348ff00b4511b54ff00b5521a19ff00b62101}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nきたきた。\nこれでみんな集まったんじゃない?\n歓迎会でもしてくれるのかな?{0c:2b60091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:2001002348ff00b4511b54ff00b5521a19ff00b62101}{1c:17}{0b:08}【 Jessica 】{0b:09}\nThere they are. That makes everybody,\ndoesn't it? Think they're throwing us a\nwelcome party or something?{0c:2b60091501}",
+   "status": "done",
+   "tl": "There they are. That makes everybody, doesn't it? Think they're throwing us a welcome party or something?"
   },
   {
    "id": "RES#1188:9829",
@@ -74,8 +76,9 @@
    "jp": "{0c:2b5023100023}{0c:5114}{1c:15}{0b:08}{e082} パスカ {e083}{0b:09}\nだといいけどさ。{0c:2b5c091501}",
    "read": "{0c:2b5023100023}{0c:5114}{1c:15}{0b:08}【 パスカ 】{0b:09}\nだといいけどさ。{0c:2b5c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:5114}{1c:15}{0b:08}【 Pasca 】{0b:09}\nBe nice if they were.{0c:2b5c091501}",
+   "status": "done",
+   "tl": "Be nice if they were."
   },
   {
    "id": "RES#1188:9865",
@@ -85,8 +88,9 @@
    "jp": "{0c:511e}{1c:20}{0b:08}{e082} シャルン {e083}{0b:09}\nしーっ。{0c:fe}",
    "read": "{0c:511e}{1c:20}{0b:08}【 シャルン 】{0b:09}\nしーっ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:511e}{1c:20}{0b:08}【 Scharn 】{0b:09}\nShhh.{0c:fe}",
+   "status": "done",
+   "tl": "Shhh."
   },
   {
    "id": "RES#1188:9884",
@@ -107,8 +111,9 @@
    "jp": "{0c:2b5023100023}{1c:1e}{0b:08}{e082} {e086}{e087}ティアラ {e083}{0b:09}\nこの{e080}{e081}で{e086}{e087}を勤めさせて\nいただいてるティアラです。{1a}つい{e089}時間前、\n私宛に一{e08b}のお手紙が届きました。{1a}差出人はアスロイト王{e08e}バルム郡\n第十二{e080}区の{e086}{e087}の方です。\nこの手紙にアッシュさんの{e091}さんの\nことが{e092}かれていました。{0c:2b5a091501}",
    "read": "{0c:2b5023100023}{1c:1e}{0b:08}【 司祭ティアラ 】{0b:09}\nこの教会で司祭を勤めさせて\nいただいてるティアラです。{1a}つい数時間前、\n私宛に一通のお手紙が届きました。{1a}差出人はアスロイト王国バルム郡\n第十二教区の司祭の方です。\nこの手紙にアッシュさんの妹さんの\nことが書かれていました。{0c:2b5a091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:1e}{0b:08}【 Priest Tiara 】{0b:09}\nI am Tiara, and I have the honor of\nserving as priest of this church.{1a}Only a few hours ago, a letter reached\nme, addressed to my name.{1a}The sender is a priest of the Twelfth\nParish in Balm County, in the Kingdom of\nAsroit. It concerned Ash-san's younger\nsister.{0c:2b5a091501}",
+   "status": "done",
+   "tl": "I am Tiara, and I have the honor of serving as priest of this church. // Only a few hours ago, a letter reached me, addressed to my name. // The sender is a priest of the Twelfth Parish in Balm County, in the Kingdom of Asroit. It concerned Ash-san's younger sister."
   },
   {
    "id": "RES#1188:9986",
@@ -118,8 +123,9 @@
    "jp": "{0c:2b5023100023}{0c:511c}{1c:17}{0b:08}{e082} ジェシカ {e083}{0b:09}\nアッシュって誰だっけ?{0c:2b60091501}",
    "read": "{0c:2b5023100023}{0c:511c}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nアッシュって誰だっけ?{0c:2b60091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:511c}{1c:17}{0b:08}【 Jessica 】{0b:09}\nAsh... who's that again?{0c:2b60091501}",
+   "status": "done",
+   "tl": "Ash... who's that again?"
   },
   {
    "id": "RES#1188:99ba",
@@ -129,8 +135,9 @@
    "jp": "{0c:2b5023100023}{0c:51142b5d23510023}{1c:15}{0b:08}{e082} パスカ {e083}{0b:09}\nさっきまで一緒にいたじゃねえか。\nお前、{e093}前も知らずに話してたのか?{0c:2b5a091501}",
    "read": "{0c:2b5023100023}{0c:51142b5d23510023}{1c:15}{0b:08}【 パスカ 】{0b:09}\nさっきまで一緒にいたじゃねえか。\nお前、名前も知らずに話してたのか?{0c:2b5a091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:51142b5d23510023}{1c:15}{0b:08}【 Pasca 】{0b:09}\nHe was with us just a minute ago! You\nbeen talkin' to him without even knowin'\nhis name?{0c:2b5a091501}",
+   "status": "done",
+   "tl": "He was with us just a minute ago! You been talkin' to him without even knowin' his name?"
   },
   {
    "id": "RES#1188:9a10",
@@ -140,8 +147,9 @@
    "jp": "{0c:2b5023100023}{0c:521d1e}{1c:17}{0b:08}{e082} ジェシカ {e083}{0b:09}\nその場のノリで話あわせてれば\n{e093}前なんて覚えてなくても\nやっていけるよ。{0c:1501}",
    "read": "{0c:2b5023100023}{0c:521d1e}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nその場のノリで話あわせてれば\n名前なんて覚えてなくても\nやっていけるよ。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:521d1e}{1c:17}{0b:08}【 Jessica 】{0b:09}\nJust go along with whatever's going on\nand you get by fine without remembering\nnames, you know.{0c:1501}",
+   "status": "done",
+   "tl": "Just go along with whatever's going on and you get by fine without remembering names, you know."
   },
   {
    "id": "RES#1188:9a60",
@@ -162,8 +170,9 @@
    "jp": "{0c:2b5023100023}{1c:15}{0b:08}{e082} パスカ {e083}{0b:09}\nお前さ・・・{0c:2b5c091501}",
    "read": "{0c:2b5023100023}{1c:15}{0b:08}【 パスカ 】{0b:09}\nお前さ・・・{0c:2b5c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:15}{0b:08}【 Pasca 】{0b:09}\nYou, I swear...{0c:2b5c091501}",
+   "status": "done",
+   "tl": "You, I swear..."
   },
   {
    "id": "RES#1188:9a93",
@@ -173,8 +182,9 @@
    "jp": "{0c:511e}{1c:20}{0b:08}{e082} シャルン {e083}{0b:09}\nしーっ。\n静かにしようよ。{0c:fe}",
    "read": "{0c:511e}{1c:20}{0b:08}【 シャルン 】{0b:09}\nしーっ。\n静かにしようよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:511e}{1c:20}{0b:08}【 Scharn 】{0b:09}\nShhh. Let's be quiet!{0c:fe}",
+   "status": "done",
+   "tl": "Shhh. Let's be quiet!"
   },
   {
    "id": "RES#1188:9abc",
@@ -195,8 +205,9 @@
    "jp": "{0c:2b5023100023}{1c:10}{0b:08}{e082} アーサー {e083}{0b:09}\nどうしてその手紙があなたの所に?{0c:2b5b091501}",
    "read": "{0c:2b5023100023}{1c:10}{0b:08}【 アーサー 】{0b:09}\nどうしてその手紙があなたの所に?{0c:2b5b091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:10}{0b:08}【 Arthur 】{0b:09}\nWhy did that letter come to you?{0c:2b5b091501}",
+   "status": "done",
+   "tl": "Why did that letter come to you?"
   },
   {
    "id": "RES#1188:9b0d",
@@ -206,8 +217,9 @@
    "jp": "{0c:2b5023100023}{0c:523433}{1c:18}{0b:08}{e082} オルフェウス {e083}{0b:09}\n下{e094}の人間は{0c:2b5d23510d23}地区{e080}{e081}の{e086}{e087}に\n手紙を{e092}いてもらうんですよ。 {1a}庶{e096}はあまり{e097}を知らないし、\n支配する側にしてみれば、その方が\n何かと管理しやすいですからね。{0c:2b60091501}",
    "read": "{0c:2b5023100023}{0c:523433}{1c:18}{0b:08}【 オルフェウス 】{0b:09}\n下々の人間は{0c:2b5d23510d23}地区教会の司祭に\n手紙を書いてもらうんですよ。 {1a}庶民はあまり字を知らないし、\n支配する側にしてみれば、その方が\n何かと管理しやすいですからね。{0c:2b60091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:523433}{1c:18}{0b:08}【 Orpheus 】{0b:09}\nThe lower orders have {0c:2b5d23510d23}the district\nchurch's priest write their letters, you\nsee.{1a}Common folk know few letters, and for\nthose who rule, that makes everything\nso much easier to manage.{0c:2b60091501}",
+   "status": "done",
+   "tl": "The lower orders have [1]the district church's priest write their letters, you see. // Common folk know few letters, and for those who rule, that makes everything so much easier to manage."
   },
   {
    "id": "RES#1188:9ba5",
@@ -217,8 +229,9 @@
    "jp": "{0c:2b5023100023}{0c:2b5d5500}{1c:15}{0b:08}{e082} パスカ {e083}{0b:09}\nで、当の本人は?{0c:2b61091501}",
    "read": "{0c:2b5023100023}{0c:2b5d5500}{1c:15}{0b:08}【 パスカ 】{0b:09}\nで、当の本人は?{0c:2b61091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:2b5d5500}{1c:15}{0b:08}【 Pasca 】{0b:09}\nSo where's the man himself?{0c:2b61091501}",
+   "status": "done",
+   "tl": "So where's the man himself?"
   },
   {
    "id": "RES#1188:9bd9",
@@ -228,8 +241,9 @@
    "jp": "{0c:2b5023100023}{0c:2b5d2352010223}{1c:1e}{0b:08}{e082} {e086}{e087}ティアラ {e083}{0b:09}\nサディーヤさんの{e09b}で\n話し合っています。{0c:1501}",
    "read": "{0c:2b5023100023}{0c:2b5d2352010223}{1c:1e}{0b:08}【 司祭ティアラ 】{0b:09}\nサディーヤさんの家で\n話し合っています。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:2b5d2352010223}{1c:1e}{0b:08}【 Priest Tiara 】{0b:09}\nHe is at Sadiya-san's house, talking it\nover.{0c:1501}",
+   "status": "done",
+   "tl": "He is at Sadiya-san's house, talking it over."
   },
   {
    "id": "RES#1188:9c1d",
@@ -250,8 +264,9 @@
    "jp": "{0c:2b5023100023}{1c:1f}{0b:08}{e082} バルデス {e083}{0b:09}\n後は俺が{e09c}{e09d}する。\nティアラちゃんは\nサディーヤの所に行ってくれ。{0c:1501}",
    "read": "{0c:2b5023100023}{1c:1f}{0b:08}【 バルデス 】{0b:09}\n後は俺が説明する。\nティアラちゃんは\nサディーヤの所に行ってくれ。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:1f}{0b:08}【 Valdes 】{0b:09}\nI'll take it from here. Tiara-chan, you go\non over to Sadiya's.{0c:1501}",
+   "status": "done",
+   "tl": "I'll take it from here. Tiara-chan, you go on over to Sadiya's."
   },
   {
    "id": "RES#1188:9cab",
@@ -272,8 +287,9 @@
    "jp": "{1c:1f}要約するとこうだ。{1a}アッシュは、赤{e09f}{e0a0}の後{e0a1}症で\n失{e09d}し苦しんでる{e091}を{e0a3}すために\nこの町に来たそうだが、\nその{e091}の容{e0a4}が急に悪{e0a5}したらしい。{0c:1501}",
    "read": "{1c:1f}要約するとこうだ。{1a}アッシュは、赤熱病の後遺症で\n失明し苦しんでる妹を治すために\nこの町に来たそうだが、\nその妹の容態が急に悪化したらしい。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}Here's the short of it.{1a}Ash came to this town to cure his\nsister, who's gone blind and is suffering\nthe aftereffects of red fever. Seems\nher condition's suddenly taken a turn{1a}for the worse.{0c:1501}",
+   "status": "done",
+   "tl": "Here's the short of it. // Ash came to this town to cure his sister, who's gone blind and is suffering the aftereffects of red fever. Seems her condition's suddenly taken a turn for the worse."
   },
   {
    "id": "RES#1188:9d29",
@@ -294,8 +310,9 @@
    "jp": "{1c:16}{0b:08}{e082} シャルン {e083}{0b:09}\nなんとかならないの?{0c:2b62091501}",
    "read": "{1c:16}{0b:08}【 シャルン 】{0b:09}\nなんとかならないの?{0c:2b62091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}{0b:08}【 Scharn 】{0b:09}\nIsn't there anything we can do?{0c:2b62091501}",
+   "status": "done",
+   "tl": "Isn't there anything we can do?"
   },
   {
    "id": "RES#1188:9d66",
@@ -305,8 +322,9 @@
    "jp": "{0c:2b5023100023}{0c:511a}{1c:1f}{0b:08}{e082} バルデス {e083}{0b:09}\nサディーヤがその{e0a6}を{e0a7}っている。\n{0c:2b5c551c}だが、その{e0a8}{e0a9}が{e0aa}つか\n足りないらしい。{1a}{0c:5119}俺はアッシュを{e0ab}れて\n今からその{e0a8}{e0a9}の1つを{e0ac}しに行く。\n足りない{e0a8}{e0a9}はあと1つ・・・\nそれを{e0ac}してやってほしい。{0c:2b53091501}",
    "read": "{0c:2b5023100023}{0c:511a}{1c:1f}{0b:08}【 バルデス 】{0b:09}\nサディーヤがその薬を作っている。\n{0c:2b5c551c}だが、その材料が幾つか\n足りないらしい。{1a}{0c:5119}俺はアッシュを連れて\n今からその材料の1つを探しに行く。\n足りない材料はあと1つ・・・\nそれを探してやってほしい。{0c:2b53091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:511a}{1c:1f}{0b:08}【 Valdes 】{0b:09}\nSadiya's making the medicine. {0c:2b5c551c}But it\nseems she's short a few of the\ningredients.{1a}{0c:5119}I'm taking Ash to look for one of them\nright now. That leaves one more missing...\nI want you to go find it.{0c:2b53091501}",
+   "status": "done",
+   "tl": "Sadiya's making the medicine. [1]But it seems she's short a few of the ingredients. // [2]I'm taking Ash to look for one of them right now. That leaves one more missing... I want you to go find it."
   },
   {
    "id": "RES#1188:9e0d",
@@ -316,8 +334,9 @@
    "jp": "{1c:1a}{0b:08}{e082} ディアス {e083}{0b:09}\nそれは命令か?{0c:2b62091501}",
    "read": "{1c:1a}{0b:08}【 ディアス 】{0b:09}\nそれは命令か?{0c:2b62091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}{0b:08}【 Dias 】{0b:09}\nIs that an order?{0c:2b62091501}",
+   "status": "done",
+   "tl": "Is that an order?"
   },
   {
    "id": "RES#1188:9e32",
@@ -327,8 +346,9 @@
    "jp": "{0c:2b5023100023}{0c:511a}{1c:1f}{0b:08}{e082} バルデス {e083}{0b:09}\nいや。\n足りない{e0a8}{e0a9}はアスラ・ファエルに\n向かう{e0ad}道の支流にある。{1a}そこの{e0ae}{e0af}はたかが知れているし、\n面倒な仕{e0b0}けもある。\n少なくとも1ヶ月はこのためだけに\n時間を{e0b2}やすことになるだろう。{1a}強{e0b3}はしない。\nこの中には、出来るだけ早く\n用を済ませて故{e0b4}に戻らなきゃ\nならない奴もいるだろうからな。{1a}自分でよく考えて判断してくれ。{0c:51192b5b091501}",
    "read": "{0c:2b5023100023}{0c:511a}{1c:1f}{0b:08}【 バルデス 】{0b:09}\nいや。\n足りない材料はアスラ・ファエルに\n向かう羨道の支流にある。{1a}そこの財宝はたかが知れているし、\n面倒な仕掛けもある。\n少なくとも1ヶ月はこのためだけに\n時間を費やすことになるだろう。{1a}強制はしない。\nこの中には、出来るだけ早く\n用を済ませて故郷に戻らなきゃ\nならない奴もいるだろうからな。{1a}自分でよく考えて判断してくれ。{0c:51192b5b091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:511a}{1c:1f}{0b:08}【 Valdes 】{0b:09}\nNo. The missing ingredient's in a branch\nof the passage headed for Asla Fael.{1a}The treasure there ain't worth much,\nand there's nasty mechanisms too. You'd\nspend a month at least on this alone.{1a}I won't force anybody. Some of you\ngotta finish your business quick as you\ncan and get back home.{1a}Think it through and decide for\nyourselves.{0c:51192b5b091501}",
+   "status": "done",
+   "tl": "No. The missing ingredient's in a branch of the passage headed for Asla Fael. // The treasure there ain't worth much, and there's nasty mechanisms too. You'd spend a month at least on this alone. // I won't force anybody. Some of you gotta finish your business quick as you can and get back home. // Think it through and decide for yourselves."
   },
   {
    "id": "RES#1188:9f28",
@@ -338,8 +358,9 @@
    "jp": "{0c:2b5023100023}{0c:523536}{1c:18}{0b:08}{e082} オルフェウス {e083}{0b:09}\n{e0b6}アスロイトからこの町まで\n{0c:2b5223525253232b54553f2b56550c2b5755472b5a23521a19232b58554c2b5955122b5c55212b5d550d2b605515}手紙が届くには、{1a}どんなに少なく見積もっても\n2ヶ月はかかりますよね。{1a}ということは、その手紙は\n2ヶ月前に{e092}かれたということ。\nその子はもうとっくに\n死んでるかもしれませんよ。{1a}{0c:523738}それに、たとえ今すぐ{e0a6}を\n送ったとしても、\n往復だけで4ヶ月も経つんです。\nそれまでその子がもつという保{e0ba}は?{0c:1501}",
    "read": "{0c:2b5023100023}{0c:523536}{1c:18}{0b:08}【 オルフェウス 】{0b:09}\n北アスロイトからこの町まで\n{0c:2b5223525253232b54553f2b56550c2b5755472b5a23521a19232b58554c2b5955122b5c55212b5d550d2b605515}手紙が届くには、{1a}どんなに少なく見積もっても\n2ヶ月はかかりますよね。{1a}ということは、その手紙は\n2ヶ月前に書かれたということ。\nその子はもうとっくに\n死んでるかもしれませんよ。{1a}{0c:523738}それに、たとえ今すぐ薬を\n送ったとしても、\n往復だけで4ヶ月も経つんです。\nそれまでその子がもつという保証は?{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:523536}{1c:18}{0b:08}【 Orpheus 】{0b:09}\nFrom northern Asroit to this town, {0c:2b5223525253232b54553f2b56550c2b5755472b5a23521a19232b58554c2b5955122b5c55212b5d550d2b605515}a\nletter needs{1a}two months at the very least, does it\nnot?{1a}Which means that letter was written\ntwo months ago. The child may well be\nlong dead by now.{1a}{0c:523738}What's more, even if we sent the\nmedicine this instant, the round trip\nalone takes four months. What\nguarantee is there that she will last{1a}until then?{0c:1501}",
+   "status": "done",
+   "tl": "From northern Asroit to this town, [1]a letter needs // two months at the very least, does it not? // Which means that letter was written two months ago. The child may well be long dead by now. // [2]What's more, even if we sent the medicine this instant, the round trip alone takes four months. What guarantee is there that she will last until then?"
   },
   {
    "id": "RES#1188:a047",
@@ -360,8 +381,9 @@
    "jp": "{0c:2b5023100023}{1c:1f}{0b:08}{e082} バルデス {e083}{0b:09}\n確かにお前の言う{e08b}りだ。\n俺達のやることは無駄に\n終わるかもしれん。{0c:2b5b091501}",
    "read": "{0c:2b5023100023}{1c:1f}{0b:08}【 バルデス 】{0b:09}\n確かにお前の言う通りだ。\n俺達のやることは無駄に\n終わるかもしれん。{0c:2b5b091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:1f}{0b:08}【 Valdes 】{0b:09}\nYou're right, no question. What we're\ndoing might all go to waste.{0c:2b5b091501}",
+   "status": "done",
+   "tl": "You're right, no question. What we're doing might all go to waste."
   },
   {
    "id": "RES#1188:a0ac",
@@ -371,8 +393,9 @@
    "jp": "{0c:2b5023100023}{0c:513a}{1c:18}{0b:08}{e082} オルフェウス {e083}{0b:09}\nならやめましょうよ。ね。{0c:1501}",
    "read": "{0c:2b5023100023}{0c:513a}{1c:18}{0b:08}【 オルフェウス 】{0b:09}\nならやめましょうよ。ね。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:513a}{1c:18}{0b:08}【 Orpheus 】{0b:09}\nThen let us drop it, shall we?{0c:1501}",
+   "status": "done",
+   "tl": "Then let us drop it, shall we?"
   },
   {
    "id": "RES#1188:a0de",
@@ -393,8 +416,9 @@
    "jp": "{0c:2b5023100023}{1c:1f}{0b:08}{e082} バルデス {e083}{0b:09}\nサディーヤが言うには、\n手紙に{e092}かれている症{e0bb}なら\n{e0bc}{e0bd}くらいはもつこともあるそうだ。{1a}{0c:2b5823524d4a23}とは言っても、\nもちろん安心は出来ない。\n相手はまだ幼い子供だからな。{1a}なるべく早く{e0a6}を送りたい。\n手伝ってもいいと思う奴は\nここに残っていてくれ。{0c:1501}",
    "read": "{0c:2b5023100023}{1c:1f}{0b:08}【 バルデス 】{0b:09}\nサディーヤが言うには、\n手紙に書かれている症状なら\n半年くらいはもつこともあるそうだ。{1a}{0c:2b5823524d4a23}とは言っても、\nもちろん安心は出来ない。\n相手はまだ幼い子供だからな。{1a}なるべく早く薬を送りたい。\n手伝ってもいいと思う奴は\nここに残っていてくれ。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:1f}{0b:08}【 Valdes 】{0b:09}\nSadiya says with the symptoms in that\nletter, she could last about half a year.{1a}{0c:2b5823524d4a23}That said, it's nothing to rest easy\nabout. She's still just a little kid.{1a}I wanna get that medicine sent as soon\nas we can. Anybody willing to help, stay\nhere.{0c:1501}",
+   "status": "done",
+   "tl": "Sadiya says with the symptoms in that letter, she could last about half a year. // [1]That said, it's nothing to rest easy about. She's still just a little kid. // I wanna get that medicine sent as soon as we can. Anybody willing to help, stay here."
   },
   {
    "id": "RES#1188:a1d7",
@@ -415,8 +439,9 @@
    "jp": "{0c:2b5023100023}{1c:10}{0b:08}{e082} アーサー {e083}{0b:09}\n仲間が困っているんだ。\n{0c:2b5223525253232b54553f2b56550c2b5755472b5a23521a19232b58554c2b5955122b5c55212b605515}みんなで助けてあげよう!{0c:2b5b091501}",
    "read": "{0c:2b5023100023}{1c:10}{0b:08}【 アーサー 】{0b:09}\n仲間が困っているんだ。\n{0c:2b5223525253232b54553f2b56550c2b5755472b5a23521a19232b58554c2b5955122b5c55212b605515}みんなで助けてあげよう!{0c:2b5b091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:10}{0b:08}【 Arthur 】{0b:09}\nA comrade is in trouble. {0c:2b5223525253232b54553f2b56550c2b5755472b5a23521a19232b58554c2b5955122b5c55212b605515}We have to help\nhim, all of us!{0c:2b5b091501}",
+   "status": "done",
+   "tl": "A comrade is in trouble. [1]We have to help him, all of us!"
   },
   {
    "id": "RES#1188:a265",
@@ -426,8 +451,9 @@
    "jp": "{0c:2b5023100023}{0c:5139}{1c:18}{0b:08}{e082} オルフェウス {e083}{0b:09}\nどうして君が仕切るんですか?{1a}{0c:2b5d5506}ひょっとして、僕は貴{e0be}だから\nみんなの上に立つべきだ・・・\n{0c:5133}なぁんて思ってるんですか?{0c:2b5d091501}",
    "read": "{0c:2b5023100023}{0c:5139}{1c:18}{0b:08}【 オルフェウス 】{0b:09}\nどうして君が仕切るんですか?{1a}{0c:2b5d5506}ひょっとして、僕は貴族だから\nみんなの上に立つべきだ・・・\n{0c:5133}なぁんて思ってるんですか?{0c:2b5d091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:5139}{1c:18}{0b:08}【 Orpheus 】{0b:09}\nWhy are you the one giving orders?{1a}{0c:2b5d5506}Might you be thinking, I am a noble, so I\nbelong above the rest... {0c:5133}or some such?{0c:2b5d091501}",
+   "status": "done",
+   "tl": "Why are you the one giving orders? // [1]Might you be thinking, I am a noble, so I belong above the rest... [2]or some such?"
   },
   {
    "id": "RES#1188:a2de",
@@ -437,8 +463,9 @@
    "jp": "{0c:2b5023100023}{0c:520507}{1c:10}{0b:08}{e082} アーサー {e083}{0b:09}\nでも、誰かがみんなを\nまとめないと・・・{0c:2b5b09fe}",
    "read": "{0c:2b5023100023}{0c:520507}{1c:10}{0b:08}【 アーサー 】{0b:09}\nでも、誰かがみんなを\nまとめないと・・・{0c:2b5b09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:520507}{1c:10}{0b:08}【 Arthur 】{0b:09}\nBut someone has to pull everyone\ntogether...{0c:2b5b09fe}",
+   "status": "done",
+   "tl": "But someone has to pull everyone together..."
   },
   {
    "id": "RES#1188:a31a",
@@ -448,8 +475,9 @@
    "jp": "{0c:523433}{1c:18}{0b:08}{e082} オルフェウス {e083}{0b:09}\n大きなお世話ですよ。\nそれに、お互い知り合って\nまだ日も浅いんです、{1a}{e093}前と顔さえ一致しない間柄で、\n仲間意識に訴えかけて\nただで働かそうなんて\n虫が良すぎませんか?{1a}まあ、男のために働くこと自体\nぼくには解せないのですが・・・{0c:2b5d09fe}",
    "read": "{0c:523433}{1c:18}{0b:08}【 オルフェウス 】{0b:09}\n大きなお世話ですよ。\nそれに、お互い知り合って\nまだ日も浅いんです、{1a}名前と顔さえ一致しない間柄で、\n仲間意識に訴えかけて\nただで働かそうなんて\n虫が良すぎませんか?{1a}まあ、男のために働くこと自体\nぼくには解せないのですが・・・{0c:2b5d09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523433}{1c:18}{0b:08}【 Orpheus 】{0b:09}\nMind your own business, if you please.\nBesides, we have only just met.{1a}To appeal to comradeship among people\nwho cannot even match names to faces,\nand have them work for free... is that\nnot rather too convenient?{1a}Then again, working for a man's sake at\nall is beyond me...{0c:2b5d09fe}",
+   "status": "done",
+   "tl": "Mind your own business, if you please. Besides, we have only just met. // To appeal to comradeship among people who cannot even match names to faces, and have them work for free... is that not rather too convenient? // Then again, working for a man's sake at all is beyond me..."
   },
   {
    "id": "RES#1188:a3cb",
@@ -459,8 +487,9 @@
    "jp": "{0c:520507}{1c:10}{0b:08}{e082} アーサー {e083}{0b:09}\n知り合ってからの時間なんて\n関係ないじゃないか。{1a}困ってる人がいるんだ、\n助けるのが・・・{0c:2b60091501}",
    "read": "{0c:520507}{1c:10}{0b:08}【 アーサー 】{0b:09}\n知り合ってからの時間なんて\n関係ないじゃないか。{1a}困ってる人がいるんだ、\n助けるのが・・・{0c:2b60091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520507}{1c:10}{0b:08}【 Arthur 】{0b:09}\nHow long we've known each other\ndoesn't matter!{1a}Someone is in trouble, and helping them\nis...{0c:2b60091501}",
+   "status": "done",
+   "tl": "How long we've known each other doesn't matter! // Someone is in trouble, and helping them is..."
   },
   {
    "id": "RES#1188:a421",
@@ -481,8 +510,9 @@
    "jp": "{0c:2b5023100023}{1c:15}{0b:08}{e082} パスカ {e083}{0b:09}\nいくのか?{0c:2b5255512b54553e2b56550b2b5755422b5a55182b58554a2b59550e2b5c551c2b5d55002b6055122b51091501}",
    "read": "{0c:2b5023100023}{1c:15}{0b:08}【 パスカ 】{0b:09}\nいくのか?{0c:2b5255512b54553e2b56550b2b5755422b5a55182b58554a2b59550e2b5c551c2b5d55002b6055122b51091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:15}{0b:08}【 Pasca 】{0b:09}\nYou goin'?{0c:2b5255512b54553e2b56550b2b5755422b5a55182b58554a2b59550e2b5c551c2b5d55002b6055122b51091501}",
+   "status": "done",
+   "tl": "You goin'?"
   },
   {
    "id": "RES#1188:a489",
@@ -492,8 +522,9 @@
    "jp": "{0c:2b5023100023}{0c:5109}{1c:12}{0b:08}{e082} レイア {e083}{0b:09}\n誰が死のうと私には関係ない。{0c:1501}",
    "read": "{0c:2b5023100023}{0c:5109}{1c:12}{0b:08}【 レイア 】{0b:09}\n誰が死のうと私には関係ない。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:5109}{1c:12}{0b:08}【 Leia 】{0b:09}\nIt is no concern of mine who dies.{0c:1501}",
+   "status": "done",
+   "tl": "It is no concern of mine who dies."
   },
   {
    "id": "RES#1188:a4bf",
@@ -525,8 +556,9 @@
    "jp": "{0c:2b5023100023}{1c:1a}{0b:08}{e082} ディアス {e083}{0b:09}\n他人の生死などに興味はない。{0c:1501}",
    "read": "{0c:2b5023100023}{1c:1a}{0b:08}【 ディアス 】{0b:09}\n他人の生死などに興味はない。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:1a}{0b:08}【 Dias 】{0b:09}\nThe lives of others are of no interest\nto me.{0c:1501}",
+   "status": "done",
+   "tl": "The lives of others are of no interest to me."
   },
   {
    "id": "RES#1188:a57d",
@@ -547,8 +579,9 @@
    "jp": "{0c:2b5023100023}{0c:2b525555522728}{1c:17}{0b:08}{e082} ジェシカ {e083}{0b:09}\nあーあ、行っちゃった・・・{0c:2b5d091501}",
    "read": "{0c:2b5023100023}{0c:2b525555522728}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nあーあ、行っちゃった・・・{0c:2b5d091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:2b525555522728}{1c:17}{0b:08}【 Jessica 】{0b:09}\nAw, there they go...{0c:2b5d091501}",
+   "status": "done",
+   "tl": "Aw, there they go..."
   },
   {
    "id": "RES#1188:a5ca",
@@ -558,8 +591,9 @@
    "jp": "{0c:2b5023100023}{0c:520809}{1c:11}{0b:08}{e082} アーサー {e083}{0b:09}\nなんて冷たい人達だ!\n{e0c2}び止めてくる!!{0c:2b60091501}",
    "read": "{0c:2b5023100023}{0c:520809}{1c:11}{0b:08}【 アーサー 】{0b:09}\nなんて冷たい人達だ!\n呼び止めてくる!!{0c:2b60091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:520809}{1c:11}{0b:08}【 Arthur 】{0b:09}\nWhat cold people! I'll call them back!!{0c:2b60091501}",
+   "status": "done",
+   "tl": "What cold people! I'll call them back!!"
   },
   {
    "id": "RES#1188:a60e",
@@ -569,8 +603,9 @@
    "jp": "{0c:2b5023100023}{1c:15}{0b:08}{e082} パスカ {e083}{0b:09}\nほっとけよ。{07:14}\n{0c:51152b5d23510a520b0023}あれ、{0c:2b5223525253232b54553f2b56550c2b5755472b5a23521a19232b58554c2b5955122b5c55212b5d550d2b605515}お前は出ていかねえのか?{0c:2b5b091501}",
    "read": "{0c:2b5023100023}{1c:15}{0b:08}【 パスカ 】{0b:09}\nほっとけよ。{07:14}\n{0c:51152b5d23510a520b0023}あれ、{0c:2b5223525253232b54553f2b56550c2b5755472b5a23521a19232b58554c2b5955122b5c55212b5d550d2b605515}お前は出ていかねえのか?{0c:2b5b091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:15}{0b:08}【 Pasca 】{0b:09}\nLeave 'em be.{07:14} {0c:51152b5d23510a520b0023}Huh, {0c:2b5223525253232b54553f2b56550c2b5755472b5a23521a19232b58554c2b5955122b5c55212b5d550d2b605515}you ain't leavin'?{0c:2b5b091501}",
+   "status": "done",
+   "tl": "Leave 'em be.[1] [2]Huh, [3]you ain't leavin'?"
   },
   {
    "id": "RES#1188:a688",
@@ -580,8 +615,9 @@
    "jp": "{0c:2b5023100023}{1c:18}{0b:08}{e082} オルフェウス {e083}{0b:09}\n出ていきませんよ。{1a}口では冷たいことをいいながら、\n実は誰よりも心配している、\nそれがこのぼくなんです。 {0c:2b60091501}",
    "read": "{0c:2b5023100023}{1c:18}{0b:08}【 オルフェウス 】{0b:09}\n出ていきませんよ。{1a}口では冷たいことをいいながら、\n実は誰よりも心配している、\nそれがこのぼくなんです。 {0c:2b60091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:18}{0b:08}【 Orpheus 】{0b:09}\nI am not leaving.{1a}Saying cold things while in truth being\nmore worried than anyone... that is simply\nwho I am.{0c:2b60091501}",
+   "status": "done",
+   "tl": "I am not leaving. // Saying cold things while in truth being more worried than anyone... that is simply who I am."
   },
   {
    "id": "RES#1188:a6e9",
@@ -591,8 +627,9 @@
    "jp": "{0c:2b5023100023}{0c:521617}{1c:15}{0b:08}{e082} パスカ {e083}{0b:09}\n・・・だとよ。\nで、みんなはどうする?{0c:1501}",
    "read": "{0c:2b5023100023}{0c:521617}{1c:15}{0b:08}【 パスカ 】{0b:09}\n・・・だとよ。\nで、みんなはどうする?{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:521617}{1c:15}{0b:08}【 Pasca 】{0b:09}\n...So he says. Well, what about the rest\nof ya?{0c:1501}",
+   "status": "done",
+   "tl": "...So he says. Well, what about the rest of ya?"
   },
   {
    "id": "RES#1188:a721",
@@ -613,8 +650,9 @@
    "jp": "{0c:2b5023100023}{0c:5230202b605515}{1c:16}{0b:08}{e082} シャルン {e083}{0b:09}\nあたしは大丈夫。\n{0c:2b57235144232b5823514c232b5923510d23}この町に来た目的も{e0bc}分は\n終わっちゃったから。{1a}いくらでも手伝えるよ。\n{0c:512f}でも・・・{0c:1501}",
    "read": "{0c:2b5023100023}{0c:5230202b605515}{1c:16}{0b:08}【 シャルン 】{0b:09}\nあたしは大丈夫。\n{0c:2b57235144232b5823514c232b5923510d23}この町に来た目的も半分は\n終わっちゃったから。{1a}いくらでも手伝えるよ。\n{0c:512f}でも・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:5230202b605515}{1c:16}{0b:08}【 Scharn 】{0b:09}\nI'm fine! {0c:2b57235144232b5823514c232b5923510d23}Half of what I came to this\ntown for is already over.{1a}I can help as much as you want! {0c:512f}But...{0c:1501}",
+   "status": "done",
+   "tl": "I'm fine! [1]Half of what I came to this town for is already over. // I can help as much as you want! [2]But..."
   },
   {
    "id": "RES#1188:a7cb",
@@ -635,8 +673,9 @@
    "jp": "{0c:5120}{1c:16}でも、だからって\nみんなに強{e0b3}は出来ないよね。\nみんなそれぞれこの町に来た目的は\n違うんだから。{1a}お{e0c3}を貯めて早く故{e0b4}に戻らなきゃ\nいけない人に1ヶ月は{e0c5}いもの。{0c:1501}",
    "read": "{0c:5120}{1c:16}でも、だからって\nみんなに強制は出来ないよね。\nみんなそれぞれこの町に来た目的は\n違うんだから。{1a}お金を貯めて早く故郷に戻らなきゃ\nいけない人に1ヶ月は長いもの。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5120}{1c:16}But still, we can't force everybody,\nright? Everyone came to this town for\ndifferent reasons.{1a}For someone who has to save money and\nget home soon, a month is a long time!{0c:1501}",
+   "status": "done",
+   "tl": "But still, we can't force everybody, right? Everyone came to this town for different reasons. // For someone who has to save money and get home soon, a month is a long time!"
   },
   {
    "id": "RES#1188:a853",
@@ -657,8 +696,9 @@
    "jp": "{0c:2b5023100023}{0c:520c00}{1c:11}{0b:08}{e082} アーサー {e083}{0b:09}\n僕もバルデスさんを手伝う。\n困っている人を助けるのは\n{e0c6}士の使命だ!{0c:2b5f091501}",
    "read": "{0c:2b5023100023}{0c:520c00}{1c:11}{0b:08}【 アーサー 】{0b:09}\n僕もバルデスさんを手伝う。\n困っている人を助けるのは\n騎士の使命だ!{0c:2b5f091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:520c00}{1c:11}{0b:08}【 Arthur 】{0b:09}\nI'll help Valdes-san too. Helping people in\nneed is a knight's duty!{0c:2b5f091501}",
+   "status": "done",
+   "tl": "I'll help Valdes-san too. Helping people in need is a knight's duty!"
   },
   {
    "id": "RES#1188:a8d9",
@@ -668,8 +708,9 @@
    "jp": "{0c:2b5023100023}{0c:52403f}{1c:19}{0b:08}{e082} イヴ {e083}{0b:09}\nその子の話聞いていなかったの?\n{0c:2b605510}それも強{e0b3}っていうのよ。\n呆れるくらい単純な{e0c6}士サマね。{0c:1501}",
    "read": "{0c:2b5023100023}{0c:52403f}{1c:19}{0b:08}【 イヴ 】{0b:09}\nその子の話聞いていなかったの?\n{0c:2b605510}それも強制っていうのよ。\n呆れるくらい単純な騎士サマね。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:52403f}{1c:19}{0b:08}【 Eve 】{0b:09}\nWeren't you listening to that girl?\n{0c:2b605510}That's forcing people too, you know.\nWhat an astonishingly simple knight you{1a}are, dear.{0c:1501}",
+   "status": "done",
+   "tl": "Weren't you listening to that girl? [1]That's forcing people too, you know. What an astonishingly simple knight you are, dear."
   },
   {
    "id": "RES#1188:a93c",
@@ -690,8 +731,9 @@
    "jp": "{0c:2b5023100023}{1c:14}{0b:08}{e082} パスカ {e083}{0b:09}\nオレの{e0c7}って\n{0c:2b5955102b5c551f}話になんねえほど{e0c8}乏でさ、\n{e0c7}中がオレの帰りを待ってるから、{1a}正直言って、1ヶ月も\n{e0c3}を{e0ca}げないのは{e0cb}いけど、{1a}誰かが困ってるのを知ってて\n助けない訳にはいかねえもんな。\n手伝うぜ。{0c:1501}",
    "read": "{0c:2b5023100023}{1c:14}{0b:08}【 パスカ 】{0b:09}\nオレの村って\n{0c:2b5955102b5c551f}話になんねえほど貧乏でさ、\n村中がオレの帰りを待ってるから、{1a}正直言って、1ヶ月も\n金を稼げないのは辛いけど、{1a}誰かが困ってるのを知ってて\n助けない訳にはいかねえもんな。\n手伝うぜ。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:14}{0b:08}【 Pasca 】{0b:09}\nMy village, {0c:2b5955102b5c551f}it's so poor it ain't even\nfunny, and the whole place is waitin' for\nme to get back.{1a}Honestly, a month with no money comin'\nin is gonna hurt,{1a}but I can't just know somebody's in\ntrouble and not help, can I? I'm in.{0c:1501}",
+   "status": "done",
+   "tl": "My village, [1]it's so poor it ain't even funny, and the whole place is waitin' for me to get back. // Honestly, a month with no money comin' in is gonna hurt, // but I can't just know somebody's in trouble and not help, can I? I'm in."
   },
   {
    "id": "RES#1188:a9ec",
@@ -701,8 +743,9 @@
    "jp": "{0c:51102b5923510d23}{1c:14}もしあいつの{e091}が助かったら\nあいつに何かおごってもらうよ。{0c:2b52091501}",
    "read": "{0c:51102b5923510d23}{1c:14}もしあいつの妹が助かったら\nあいつに何かおごってもらうよ。{0c:2b52091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51102b5923510d23}{1c:14}If his sister pulls through, I'm makin' him\nbuy me somethin'.{0c:2b52091501}",
+   "status": "done",
+   "tl": "If his sister pulls through, I'm makin' him buy me somethin'."
   },
   {
    "id": "RES#1188:aa20",
@@ -712,8 +755,9 @@
    "jp": "{0c:2b5023100023}{1c:1d}{0b:08}{e082} サラ {e083}{0b:09}\nあたしのお{e0cc}さんが\n{0c:2b5c55212b54553f}小さな{e0cd}{e0ce}{e0cf}をやってて\nそのためのお{e0c3}を貯めに{1a}この町に来たんだけど、\n1ヶ月くらい全然平気。手伝えるよ。\n{0c:525654}それに、みんなで仲良くしたいもん。{0c:2b58091501}",
    "read": "{0c:2b5023100023}{1c:1d}{0b:08}【 サラ 】{0b:09}\nあたしのお母さんが\n{0c:2b5c55212b54553f}小さな孤児院をやってて\nそのためのお金を貯めに{1a}この町に来たんだけど、\n1ヶ月くらい全然平気。手伝えるよ。\n{0c:525654}それに、みんなで仲良くしたいもん。{0c:2b58091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:1d}{0b:08}【 Sara 】{0b:09}\nMy mom {0c:2b5c55212b54553f}runs a little orphanage, and I\ncame to save money for it,{1a}but a month or so is no problem at all. I\ncan help. {0c:525654}Besides, I want us all to get\nalong, okay?{0c:2b58091501}",
+   "status": "done",
+   "tl": "My mom [1]runs a little orphanage, and I came to save money for it, // but a month or so is no problem at all. I can help. [2]Besides, I want us all to get along, okay?"
   },
   {
    "id": "RES#1188:aab6",
@@ -723,8 +767,9 @@
    "jp": "{0c:2b5023100023}{0c:2b52235150232b5a5533}{1c:1c}{0b:08}{e082} ルカ {e083}{0b:09}\n神に仕える身です。         {0c:524e4b}困っている人がいれば助けなければ。{1a}{e0a1}{e0d0}に潜るのは怖いですけど・・・\nでも頑張ります。{0c:514a2b57235141232b56091501}",
    "read": "{0c:2b5023100023}{0c:2b52235150232b5a5533}{1c:1c}{0b:08}【 ルカ 】{0b:09}\n神に仕える身です。         {0c:524e4b}困っている人がいれば助けなければ。{1a}遺跡に潜るのは怖いですけど・・・\nでも頑張ります。{0c:514a2b57235141232b56091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:2b52235150232b5a5533}{1c:1c}{0b:08}【 Luca 】{0b:09}\nI am one who serves God. {0c:524e4b}If someone is in\ntrouble, I must help.{1a}Going down into the ruins is frightening,\nbut... I will do my best.{0c:514a2b57235141232b56091501}",
+   "status": "done",
+   "tl": "I am one who serves God. [1]If someone is in trouble, I must help. // Going down into the ruins is frightening, but... I will do my best."
   },
   {
    "id": "RES#1188:ab39",
@@ -734,8 +779,9 @@
    "jp": "{0c:2b5023100023}{1c:13}{0b:08}{e082} エレアノール {e083}{0b:09}\nこの町に来た理由は言えませんが、\n無為に時間を過ごしていた身・・・\n私もお手伝いします。{0c:2b5f091501}",
    "read": "{0c:2b5023100023}{1c:13}{0b:08}【 エレアノール 】{0b:09}\nこの町に来た理由は言えませんが、\n無為に時間を過ごしていた身・・・\n私もお手伝いします。{0c:2b5f091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:13}{0b:08}【 Eleanor 】{0b:09}\nI cannot say why I came to this town,\nbut I have been passing my days in\nidleness... I will help as well.{0c:2b5f091501}",
+   "status": "done",
+   "tl": "I cannot say why I came to this town, but I have been passing my days in idleness... I will help as well."
   },
   {
    "id": "RES#1188:ab98",
@@ -745,8 +791,9 @@
    "jp": "{0c:2b5023100023}{1c:19}{0b:08}{e082} イヴ {e083}{0b:09}\n偽善者面は好きじゃないけど、\n{e0d2}にすることも断る理由もないし。{1a}ま、退屈しなくてすむなら\nお手伝いするわ。\n約束はしないけど。{0c:2b54091501}",
    "read": "{0c:2b5023100023}{1c:19}{0b:08}【 イヴ 】{0b:09}\n偽善者面は好きじゃないけど、\n特にすることも断る理由もないし。{1a}ま、退屈しなくてすむなら\nお手伝いするわ。\n約束はしないけど。{0c:2b54091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:19}{0b:08}【 Eve 】{0b:09}\nI don't care for the hypocrite's act, but\nI've nothing in particular to do and no\nreason to refuse.{1a}Well, if it keeps me from being bored, I'll\nhelp, I suppose. I make no promises,\nthough.{0c:2b54091501}",
+   "status": "done",
+   "tl": "I don't care for the hypocrite's act, but I've nothing in particular to do and no reason to refuse. // Well, if it keeps me from being bored, I'll help, I suppose. I make no promises, though."
   },
   {
    "id": "RES#1188:ac07",
@@ -756,8 +803,9 @@
    "jp": "{0c:2b5023100023}{0c:52403f}{1c:1b}{0b:08}{e082} ノエル {e083}{0b:09}\n・・・そうね、みんなに付き合うわ。\nフィールドワークと思えば\n無駄じゃないから。{0c:2b5a091501}",
    "read": "{0c:2b5023100023}{0c:52403f}{1c:1b}{0b:08}【 ノエル 】{0b:09}\n・・・そうね、みんなに付き合うわ。\nフィールドワークと思えば\n無駄じゃないから。{0c:2b5a091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:52403f}{1c:1b}{0b:08}【 Noel 】{0b:09}\n...Well, all right, I'll go along with everyone.\nIf I call it fieldwork, it isn't a waste.{0c:2b5a091501}",
+   "status": "done",
+   "tl": "...Well, all right, I'll go along with everyone. If I call it fieldwork, it isn't a waste."
   },
   {
    "id": "RES#1188:ac5d",
@@ -767,8 +815,9 @@
    "jp": "{0c:2b5023100023}{0c:5227282b5c551f2b52235151232b5923511023}{1c:17}{0b:08}{e082} ジェシカ {e083}{0b:09}\nあたしも手伝うよ。\nお{e0af}があたしを待ってるけど、\n人助けも大事だもんね。{0c:2b60091501}",
    "read": "{0c:2b5023100023}{0c:5227282b5c551f2b52235151232b5923511023}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nあたしも手伝うよ。\nお宝があたしを待ってるけど、\n人助けも大事だもんね。{0c:2b60091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:5227282b5c551f2b52235151232b5923511023}{1c:17}{0b:08}【 Jessica 】{0b:09}\nI'll help too. Treasure's waiting for me,\nbut helping people matters too, right?{0c:2b60091501}",
+   "status": "done",
+   "tl": "I'll help too. Treasure's waiting for me, but helping people matters too, right?"
   },
   {
    "id": "RES#1188:acc1",
@@ -801,8 +850,9 @@
    "jp": "{0c:2b5023100023}{0c:52292a}{1c:17}{0b:08}{e082} ジェシカ {e083}{0b:09}\nそういえばさ、\nあんた確か『アザレの{e0d3}』を\n{e0ac}しに来たんだよね。{1a}あれって30{e0bd}以上\n見つかってないんでしょ?\nなら1ヶ月くらい問題ないよね。{0c:fe}",
    "read": "{0c:2b5023100023}{0c:52292a}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nそういえばさ、\nあんた確か『アザレの石』を\n探しに来たんだよね。{1a}あれって30年以上\n見つかってないんでしょ?\nなら1ヶ月くらい問題ないよね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:52292a}{1c:17}{0b:08}【 Jessica 】{0b:09}\nCome to think of it, you came looking for\nthe 'Azare Stone', right?{1a}Nobody's found one in over thirty years,\nhave they? So a month's no big deal,\nright?{0c:fe}",
+   "status": "done",
+   "tl": "Come to think of it, you came looking for the 'Azare Stone', right? // Nobody's found one in over thirty years, have they? So a month's no big deal, right?"
   },
   {
    "id": "RES#1188:adb6",
@@ -834,8 +884,9 @@
    "jp": "ああ、手伝わせてもらうよ|断る",
    "read": "ああ、手伝わせてもらうよ|断る",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Sure, let me help|I refuse",
+   "status": "done",
+   "tl": "Sure, let me help|I refuse"
   },
   {
    "id": "RES#1188:add8",
@@ -867,8 +918,9 @@
    "jp": "もちろん手伝うよ|断る",
    "read": "もちろん手伝うよ|断る",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Of course I'll help|I refuse",
+   "status": "done",
+   "tl": "Of course I'll help|I refuse"
   },
   {
    "id": "RES#1188:adf1",
@@ -900,8 +952,9 @@
    "jp": "{0c:2b5023100023}{1c:14}{0b:08}{e082} パスカ {e083}{0b:09}\nよし、決まりだな。{0c:2b5a091501}",
    "read": "{0c:2b5023100023}{1c:14}{0b:08}【 パスカ 】{0b:09}\nよし、決まりだな。{0c:2b5a091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:14}{0b:08}【 Pasca 】{0b:09}\nAll right, that settles it.{0c:2b5a091501}",
+   "status": "done",
+   "tl": "All right, that settles it."
   },
   {
    "id": "RES#1188:ae3d",
@@ -911,8 +964,9 @@
    "jp": "{0c:2b5023100023}{1c:17}{0b:08}{e082} ジェシカ {e083}{0b:09}\n決まったのはいいけど、\nいつまでここで待ってればいいの?{0c:1501}",
    "read": "{0c:2b5023100023}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\n決まったのはいいけど、\nいつまでここで待ってればいいの?{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:17}{0b:08}【 Jessica 】{0b:09}\nSettled's fine, but how long are we\nsupposed to wait here?{0c:1501}",
+   "status": "done",
+   "tl": "Settled's fine, but how long are we supposed to wait here?"
   },
   {
    "id": "RES#1188:ae7c",
@@ -933,8 +987,9 @@
    "jp": "{0c:2b5023100023}{0c:522223}{1c:16}{0b:08}{e082} シャルン {e083}{0b:09}\nねえ、サディーヤさんの所に\n行ってみる?{0c:2b60091501}",
    "read": "{0c:2b5023100023}{0c:522223}{1c:16}{0b:08}【 シャルン 】{0b:09}\nねえ、サディーヤさんの所に\n行ってみる?{0c:2b60091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:522223}{1c:16}{0b:08}【 Scharn 】{0b:09}\nHey, should we go see Sadiya-san?{0c:2b60091501}",
+   "status": "done",
+   "tl": "Hey, should we go see Sadiya-san?"
   },
   {
    "id": "RES#1188:aec5",
@@ -944,8 +999,9 @@
    "jp": "{0c:2b5023100023}{0c:5115}{1c:15}{0b:08}{e082} パスカ {e083}{0b:09}\nそうだな。\nでも、大勢で行くのもなんだし、{1a}{10}とお前が話聞いてこいよ。\nオレ達はここで待ってるからさ。{0c:2b5c091501}",
    "read": "{0c:2b5023100023}{0c:5115}{1c:15}{0b:08}【 パスカ 】{0b:09}\nそうだな。\nでも、大勢で行くのもなんだし、{1a}{10}とお前が話聞いてこいよ。\nオレ達はここで待ってるからさ。{0c:2b5c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:5115}{1c:15}{0b:08}【 Pasca 】{0b:09}\nYeah. But no point all of us goin',{1a}so you and {10} go hear what's up.\nWe'll wait here.{0c:2b5c091501}",
+   "status": "done",
+   "tl": "Yeah. But no point all of us goin', // so you and [HERO] go hear what's up. We'll wait here."
   },
   {
    "id": "RES#1188:af28",
@@ -955,8 +1011,9 @@
    "jp": "{0c:2b5023100023}{1c:16}{0b:08}{e082} シャルン {e083}{0b:09}\nうん、じゃあ行ってくるね。{0c:1501}",
    "read": "{0c:2b5023100023}{1c:16}{0b:08}【 シャルン 】{0b:09}\nうん、じゃあ行ってくるね。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:16}{0b:08}【 Scharn 】{0b:09}\nOkay, then I'll go!{0c:1501}",
+   "status": "done",
+   "tl": "Okay, then I'll go!"
   },
   {
    "id": "RES#1188:af56",
@@ -988,8 +1045,9 @@
    "jp": "{0c:2b5023100023}{0c:5133}{1c:18}{0b:08}{e082} オルフェウス {e083}{0b:09}\n冷え{e0d6}んできましたね・・・{0c:1501}",
    "read": "{0c:2b5023100023}{0c:5133}{1c:18}{0b:08}【 オルフェウス 】{0b:09}\n冷え込んできましたね・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:5133}{1c:18}{0b:08}【 Orpheus 】{0b:09}\nIt has grown rather chilly in here...{0c:1501}",
+   "status": "done",
+   "tl": "It has grown rather chilly in here..."
   },
   {
    "id": "RES#1188:aff6",
@@ -1010,8 +1068,9 @@
    "jp": "{0c:2b5023100023}{0c:5115}{1c:15}{0b:08}{e082} パスカ {e083}{0b:09}\nま、しょうがねえよ。\nこいつにはこいつの考えがあるんだろ。\n{0c:5110}それに強{e0b3}するもんでもねえしな。{0c:2b5c091501}",
    "read": "{0c:2b5023100023}{0c:5115}{1c:15}{0b:08}【 パスカ 】{0b:09}\nま、しょうがねえよ。\nこいつにはこいつの考えがあるんだろ。\n{0c:5110}それに強制するもんでもねえしな。{0c:2b5c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:5115}{1c:15}{0b:08}【 Pasca 】{0b:09}\nWell, can't be helped. This one's got\nreasons of their own, I guess. {0c:5110}Besides, it\nain't somethin' ya can force on{1a}anybody.{0c:2b5c091501}",
+   "status": "done",
+   "tl": "Well, can't be helped. This one's got reasons of their own, I guess. [1]Besides, it ain't somethin' ya can force on anybody."
   },
   {
    "id": "RES#1188:b059",
@@ -1021,8 +1080,9 @@
    "jp": "{0c:2b5023100023}{0c:522223}{1c:16}{0b:08}{e082} シャルン {e083}{0b:09}\nね、ねえ、\nサディーヤさんの所に行ってみる?{0c:1501}",
    "read": "{0c:2b5023100023}{0c:522223}{1c:16}{0b:08}【 シャルン 】{0b:09}\nね、ねえ、\nサディーヤさんの所に行ってみる?{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:522223}{1c:16}{0b:08}【 Scharn 】{0b:09}\nH-hey, should we go see Sadiya-san?{0c:1501}",
+   "status": "done",
+   "tl": "H-hey, should we go see Sadiya-san?"
   },
   {
    "id": "RES#1188:b099",
@@ -1043,8 +1103,9 @@
    "jp": "{0c:2b5023100023}{0c:5115}{1c:15}{0b:08}{e082} パスカ {e083}{0b:09}\nそうだな。\nでも、大勢で行くのもなんだし、{1a}お前が話聞いてこいよ。\nオレ達はここで待ってるからさ。{0c:2b5c091501}",
    "read": "{0c:2b5023100023}{0c:5115}{1c:15}{0b:08}【 パスカ 】{0b:09}\nそうだな。\nでも、大勢で行くのもなんだし、{1a}お前が話聞いてこいよ。\nオレ達はここで待ってるからさ。{0c:2b5c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:5115}{1c:15}{0b:08}【 Pasca 】{0b:09}\nYeah. But no point all of us goin',{1a}so you go hear what's up. We'll wait here.{0c:2b5c091501}",
+   "status": "done",
+   "tl": "Yeah. But no point all of us goin', // so you go hear what's up. We'll wait here."
   },
   {
    "id": "RES#1188:b102",
@@ -1054,8 +1115,9 @@
    "jp": "{0c:2b5023100023}{1c:16}{0b:08}{e082} シャルン {e083}{0b:09}\nうん、じゃあ行ってくるね。{0c:1501}",
    "read": "{0c:2b5023100023}{1c:16}{0b:08}【 シャルン 】{0b:09}\nうん、じゃあ行ってくるね。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:16}{0b:08}【 Scharn 】{0b:09}\nOkay, then I'll go!{0c:1501}",
+   "status": "done",
+   "tl": "Okay, then I'll go!"
   },
   {
    "id": "RES#1188:b130",
@@ -1076,8 +1138,9 @@
    "jp": "{0c:2b5023100023}{1c:17}{0b:08}{e082} ジェシカ {e083}{0b:09}\nあんたも出ていけば?{0c:2b63091501}",
    "read": "{0c:2b5023100023}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nあんたも出ていけば?{0c:2b63091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:17}{0b:08}【 Jessica 】{0b:09}\nWhy don't you leave too?{0c:2b63091501}",
+   "status": "done",
+   "tl": "Why don't you leave too?"
   },
   {
    "id": "RES#1188:b181",
@@ -1121,8 +1184,9 @@
    "jp": "{0c:2b5023100023}{0c:52292a}{1c:17}{0b:08}{e082} ジェシカ {e083}{0b:09}\n確かあんたも\nお{e0c3}{e0ca}ぎに来たんだよね。{0c:2b6009fe}",
    "read": "{0c:2b5023100023}{0c:52292a}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\n確かあんたも\nお金稼ぎに来たんだよね。{0c:2b6009fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:52292a}{1c:17}{0b:08}【 Jessica 】{0b:09}\nYou came here to make money too,\ndidn't you?{0c:2b6009fe}",
+   "status": "done",
+   "tl": "You came here to make money too, didn't you?"
   },
   {
    "id": "RES#1188:b209",
@@ -1132,8 +1196,9 @@
    "jp": "{0c:2b5023100023}{1c:15}{0b:08}{e082} パスカ {e083}{0b:09}\nそっか、お前もいろいろ大変なんだな。\nで、どうする? 無理ならいいんだぜ。{0c:fe}",
    "read": "{0c:2b5023100023}{1c:15}{0b:08}【 パスカ 】{0b:09}\nそっか、お前もいろいろ大変なんだな。\nで、どうする? 無理ならいいんだぜ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:15}{0b:08}【 Pasca 】{0b:09}\nI see, you've got it rough too, huh. So,\nwhat'll it be? It's okay if ya can't.{0c:fe}",
+   "status": "done",
+   "tl": "I see, you've got it rough too, huh. So, what'll it be? It's okay if ya can't."
   },
   {
    "id": "RES#1188:b253",
@@ -1165,8 +1230,9 @@
    "jp": "もちろん手伝わせてもらうよ|ごめん・・・",
    "read": "もちろん手伝わせてもらうよ|ごめん・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Of course, let me help|Sorry...",
+   "status": "done",
+   "tl": "Of course, let me help|Sorry..."
   },
   {
    "id": "RES#1188:b279",
@@ -1198,8 +1264,9 @@
    "jp": "もちろん手伝うよ|ごめんね・・・あたし・・・",
    "read": "もちろん手伝うよ|ごめんね・・・あたし・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Of course I'll help|Sorry... I...",
+   "status": "done",
+   "tl": "Of course I'll help|Sorry... I..."
   },
   {
    "id": "RES#1188:b29c",
@@ -1231,8 +1298,9 @@
    "jp": "{0c:2b5023100023}{1c:15}{0b:08}{e082} パスカ {e083}{0b:09}\n本当にいいのか?{0c:2b5b091501}",
    "read": "{0c:2b5023100023}{1c:15}{0b:08}【 パスカ 】{0b:09}\n本当にいいのか?{0c:2b5b091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:15}{0b:08}【 Pasca 】{0b:09}\nYou sure about this?{0c:2b5b091501}",
+   "status": "done",
+   "tl": "You sure about this?"
   },
   {
    "id": "RES#1188:b2ea",
@@ -1242,8 +1310,9 @@
    "jp": "{0c:2b5023100023}{0c:523433}{1c:18}{0b:08}{e082} オルフェウス {e083}{0b:09}\nそりゃ断れませんよね。\nこの場の流れを考えると。{0c:2b5a091501}",
    "read": "{0c:2b5023100023}{0c:523433}{1c:18}{0b:08}【 オルフェウス 】{0b:09}\nそりゃ断れませんよね。\nこの場の流れを考えると。{0c:2b5a091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:523433}{1c:18}{0b:08}【 Orpheus 】{0b:09}\nWell, one can hardly refuse, can one? Not\nthe way things are going here.{0c:2b5a091501}",
+   "status": "done",
+   "tl": "Well, one can hardly refuse, can one? Not the way things are going here."
   },
   {
    "id": "RES#1188:b330",
@@ -1253,8 +1322,9 @@
    "jp": "{0c:2b5023100023}{1c:17}{0b:08}{e082} ジェシカ {e083}{0b:09}\nところでさ、\nいつまでここで待ってればいいの?{0c:02e201}",
    "read": "{0c:2b5023100023}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nところでさ、\nいつまでここで待ってればいいの?{0c:02e201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:17}{0b:08}【 Jessica 】{0b:09}\nBy the way, how long are we supposed\nto wait here?{0c:02e201}",
+   "status": "done",
+   "tl": "By the way, how long are we supposed to wait here?"
   },
   {
    "id": "RES#1188:b36a",
@@ -1275,8 +1345,9 @@
    "jp": "{0c:2b5023100023}{1c:17}{0b:08}{e082} ジェシカ {e083}{0b:09}\nならしょうがないか。\nところでさ、\nいつまでここで待ってればいいの?{0c:2b5c091501}",
    "read": "{0c:2b5023100023}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nならしょうがないか。\nところでさ、\nいつまでここで待ってればいいの?{0c:2b5c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:17}{0b:08}【 Jessica 】{0b:09}\nGuess that can't be helped, then. By the\nway, how long are we supposed to wait\nhere?{0c:2b5c091501}",
+   "status": "done",
+   "tl": "Guess that can't be helped, then. By the way, how long are we supposed to wait here?"
   },
   {
    "id": "RES#1188:b3c5",
@@ -1286,8 +1357,9 @@
    "jp": "{0c:2b5023100023}{0c:522223}{1c:16}{0b:08}{e082} シャルン {e083}{0b:09}\nねえ、サディーヤさんの所に\n行ってみる?{0c:02e901}",
    "read": "{0c:2b5023100023}{0c:522223}{1c:16}{0b:08}【 シャルン 】{0b:09}\nねえ、サディーヤさんの所に\n行ってみる?{0c:02e901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:522223}{1c:16}{0b:08}【 Scharn 】{0b:09}\nHey, should we go see Sadiya-san?{0c:02e901}",
+   "status": "done",
+   "tl": "Hey, should we go see Sadiya-san?"
   },
   {
    "id": "RES#1188:b404",
@@ -1320,8 +1392,9 @@
    "jp": "{0c:2b5023100023}{0c:52292a}{1c:17}{0b:08}{e082} ジェシカ {e083}{0b:09}\n確かあんたが\nこの町に来た理由って\n{e0d7}行のためなんだよね。{0c:fe}",
    "read": "{0c:2b5023100023}{0c:52292a}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\n確かあんたが\nこの町に来た理由って\n修行のためなんだよね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:52292a}{1c:17}{0b:08}【 Jessica 】{0b:09}\nYou came to this town to train, didn't\nyou?{0c:fe}",
+   "status": "done",
+   "tl": "You came to this town to train, didn't you?"
   },
   {
    "id": "RES#1188:b47a",
@@ -1342,8 +1415,9 @@
    "jp": "{0c:2b5023100023}{1c:17}ふーん、あたしとは別の生き物だね。\n自分を{e0d8}えるとか、\n道を{e0d9}めるとか・・・\n疲れるだけじゃん。{1a}{0c:522e2f}ねえねえ、そんなに暇なの?{0c:2b5c091501}",
    "read": "{0c:2b5023100023}{1c:17}ふーん、あたしとは別の生き物だね。\n自分を鍛えるとか、\n道を究めるとか・・・\n疲れるだけじゃん。{1a}{0c:522e2f}ねえねえ、そんなに暇なの?{0c:2b5c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:17}Huh, you and me are different species.\nToughening yourself up, mastering the\nway... That just wears you out.{1a}{0c:522e2f}Hey, hey, you really got that much free\ntime?{0c:2b5c091501}",
+   "status": "done",
+   "tl": "Huh, you and me are different species. Toughening yourself up, mastering the way... That just wears you out. // [1]Hey, hey, you really got that much free time?"
   },
   {
    "id": "RES#1188:b4eb",
@@ -1353,8 +1427,9 @@
    "jp": "{0c:2b5023100023}{1c:16}{0b:08}{e082} シャルン {e083}{0b:09}\n悪かったわね。あたしもよ。{0c:2b5a091501}",
    "read": "{0c:2b5023100023}{1c:16}{0b:08}【 シャルン 】{0b:09}\n悪かったわね。あたしもよ。{0c:2b5a091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:16}{0b:08}【 Scharn 】{0b:09}\nWell, excuse me! I'm one of those too!{0c:2b5a091501}",
+   "status": "done",
+   "tl": "Well, excuse me! I'm one of those too!"
   },
   {
    "id": "RES#1188:b51c",
@@ -1364,8 +1439,9 @@
    "jp": "{0c:2b5023100023}{1c:17}{0b:08}{e082} ジェシカ {e083}{0b:09}\nでも、自分を{e0d8}えてるのなら、\n人助けくらいやって当然だよね。\nどうせ時間はあるんでしょ?{0c:fe}",
    "read": "{0c:2b5023100023}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nでも、自分を鍛えてるのなら、\n人助けくらいやって当然だよね。\nどうせ時間はあるんでしょ?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:17}{0b:08}【 Jessica 】{0b:09}\nBut if you're toughening yourself up,\nhelping people's the least you can do,\nright? You've got the time anyway,{1a}don't you?{0c:fe}",
+   "status": "done",
+   "tl": "But if you're toughening yourself up, helping people's the least you can do, right? You've got the time anyway, don't you?"
   },
   {
    "id": "RES#1188:b571",
@@ -1397,8 +1473,9 @@
    "jp": "もちろん手伝わせてもらうよ|断る",
    "read": "もちろん手伝わせてもらうよ|断る",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Of course, let me help|I refuse",
+   "status": "done",
+   "tl": "Of course, let me help|I refuse"
   },
   {
    "id": "RES#1188:b594",
@@ -1430,8 +1507,9 @@
    "jp": "もちろん手伝うよ|断る",
    "read": "もちろん手伝うよ|断る",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Of course I'll help|I refuse",
+   "status": "done",
+   "tl": "Of course I'll help|I refuse"
   },
   {
    "id": "RES#1188:b5ad",
@@ -1463,8 +1541,9 @@
    "jp": "{0c:2b5023100023}{0c:520809}{1c:11}{0b:08}{e082} アーサー {e083}{0b:09}\nき、君は自分さえよければ\nそれでいいのか!?{0c:02d601}",
    "read": "{0c:2b5023100023}{0c:520809}{1c:11}{0b:08}【 アーサー 】{0b:09}\nき、君は自分さえよければ\nそれでいいのか!?{0c:02d601}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:520809}{1c:11}{0b:08}【 Arthur 】{0b:09}\nY-you only care about yourself, is that\nit!?{0c:02d601}",
+   "status": "done",
+   "tl": "Y-you only care about yourself, is that it!?"
   },
   {
    "id": "RES#1188:b60b",
@@ -1497,8 +1576,9 @@
    "jp": "{0c:2b5023100023}{0c:52292a}{1c:17}{0b:08}{e082} ジェシカ {e083}{0b:09}\n確かあんたが\nこの町に来た理由って\n{e0a1}{e0d0}の{e0db}{e0d9}のためなんだよね。{0c:fe}",
    "read": "{0c:2b5023100023}{0c:52292a}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\n確かあんたが\nこの町に来た理由って\n遺跡の研究のためなんだよね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:52292a}{1c:17}{0b:08}【 Jessica 】{0b:09}\nYou came to this town to study the\nruins, didn't you?{0c:fe}",
+   "status": "done",
+   "tl": "You came to this town to study the ruins, didn't you?"
   },
   {
    "id": "RES#1188:b68e",
@@ -1519,8 +1599,9 @@
    "jp": "{0c:2b5023100023}{1c:17}ふーん・・・でも、その割に\n頭良さそうじゃないね。{0c:2b5c091501}",
    "read": "{0c:2b5023100023}{1c:17}ふーん・・・でも、その割に\n頭良さそうじゃないね。{0c:2b5c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:17}Huh... You don't look all that smart for\nit, though.{0c:2b5c091501}",
+   "status": "done",
+   "tl": "Huh... You don't look all that smart for it, though."
   },
   {
    "id": "RES#1188:b6cd",
@@ -1530,8 +1611,9 @@
    "jp": "{0c:2b5023100023}{0c:522d2e}{1c:16}{0b:08}{e082} シャルン {e083}{0b:09}\nそう? ジェシカよりは\n随分マシだと思うけど。{0c:2b5a091501}",
    "read": "{0c:2b5023100023}{0c:522d2e}{1c:16}{0b:08}【 シャルン 】{0b:09}\nそう? ジェシカよりは\n随分マシだと思うけど。{0c:2b5a091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:522d2e}{1c:16}{0b:08}【 Scharn 】{0b:09}\nReally? Way smarter than you, Jessica, I\nthink!{0c:2b5a091501}",
+   "status": "done",
+   "tl": "Really? Way smarter than you, Jessica, I think!"
   },
   {
    "id": "RES#1188:b714",
@@ -1541,8 +1623,9 @@
    "jp": "{0c:2b5023100023}{1c:17}{0b:08}{e082} ジェシカ {e083}{0b:09}\nあたしは頭悪いの認めてるからいいの。\nそれに、頭良くてこんなに\n{e0dd}愛かったらそれこそイヤミじゃん。{0c:2b5c091501}",
    "read": "{0c:2b5023100023}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nあたしは頭悪いの認めてるからいいの。\nそれに、頭良くてこんなに\n可愛かったらそれこそイヤミじゃん。{0c:2b5c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:17}{0b:08}【 Jessica 】{0b:09}\nI admit I'm dumb, so it's fine. Besides, if I\nwere smart and this cute, that'd just be\nrubbing it in, you know that?{0c:2b5c091501}",
+   "status": "done",
+   "tl": "I admit I'm dumb, so it's fine. Besides, if I were smart and this cute, that'd just be rubbing it in, you know that?"
   },
   {
    "id": "RES#1188:b771",
@@ -1552,8 +1635,9 @@
    "jp": "{0c:2b5023100023}{1c:16}{0b:08}{e082} シャルン {e083}{0b:09}\n誰が{e0dd}愛いって?{0c:1501}",
    "read": "{0c:2b5023100023}{1c:16}{0b:08}【 シャルン 】{0b:09}\n誰が可愛いって?{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:16}{0b:08}【 Scharn 】{0b:09}\nWho's cute, now?{0c:1501}",
+   "status": "done",
+   "tl": "Who's cute, now?"
   },
   {
    "id": "RES#1188:b79d",
@@ -1563,8 +1647,9 @@
    "jp": "{0c:5123}{1c:16}それで、時間割けそう?{0c:fe}",
    "read": "{0c:5123}{1c:16}それで、時間割けそう?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5123}{1c:16}So, do you think you can spare the time?{0c:fe}",
+   "status": "done",
+   "tl": "So, do you think you can spare the time?"
   },
   {
    "id": "RES#1188:b7b6",
@@ -1596,8 +1681,9 @@
    "jp": "もちろん手伝わせてもらうよ|断る",
    "read": "もちろん手伝わせてもらうよ|断る",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Of course, let me help|I refuse",
+   "status": "done",
+   "tl": "Of course, let me help|I refuse"
   },
   {
    "id": "RES#1188:b7d9",
@@ -1629,8 +1715,9 @@
    "jp": "もちろん手伝うよ|断る",
    "read": "もちろん手伝うよ|断る",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Of course I'll help|I refuse",
+   "status": "done",
+   "tl": "Of course I'll help|I refuse"
   },
   {
    "id": "RES#1188:b7f2",
@@ -1662,8 +1749,9 @@
    "jp": "{0c:2b5023100023}{1c:11}{0b:08}{e082} アーサー {e083}{0b:09}\nき、君は・・・\n{0c:520809}自分さえよければそれでいいのか!?{1a}何の{e0db}{e0d9}かはしらないけど、\n人の命以上に重要なことなんて・・・{0c:02c401}",
    "read": "{0c:2b5023100023}{1c:11}{0b:08}【 アーサー 】{0b:09}\nき、君は・・・\n{0c:520809}自分さえよければそれでいいのか!?{1a}何の研究かはしらないけど、\n人の命以上に重要なことなんて・・・{0c:02c401}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:11}{0b:08}【 Arthur 】{0b:09}\nY-you... {0c:520809}you only care about yourself, is\nthat it!?{1a}I don't know what you're studying, but\nnothing can matter more than a person's\nlife...{0c:02c401}",
+   "status": "done",
+   "tl": "Y-you... [1]you only care about yourself, is that it!? // I don't know what you're studying, but nothing can matter more than a person's life..."
   },
   {
    "id": "RES#1188:b87d",
@@ -1684,8 +1772,9 @@
    "jp": "{0c:2b5023100023}{0c:522c2d}{1c:17}あのさ、何か\n喋ってくれてもいいじゃん。{0c:2b60091501}",
    "read": "{0c:2b5023100023}{0c:522c2d}{1c:17}あのさ、何か\n喋ってくれてもいいじゃん。{0c:2b60091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:522c2d}{1c:17}Hey, you could at least say something,\nyou know.{0c:2b60091501}",
+   "status": "done",
+   "tl": "Hey, you could at least say something, you know."
   },
   {
    "id": "RES#1188:b8b4",
@@ -1695,8 +1784,9 @@
    "jp": "{0c:2b5023100023}{1c:15}まあいいじゃねえか。{1a}誰だって人に言いたくないことの\n1つや2つあるだろうし、\n無理に聞くことはねえだろ。{0c:2b5c091501}",
    "read": "{0c:2b5023100023}{1c:15}まあいいじゃねえか。{1a}誰だって人に言いたくないことの\n1つや2つあるだろうし、\n無理に聞くことはねえだろ。{0c:2b5c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:15}Aw, let it go.{1a}Everybody's got a thing or two they\ndon't wanna talk about. No need to\nforce it outta anyone.{0c:2b5c091501}",
+   "status": "done",
+   "tl": "Aw, let it go. // Everybody's got a thing or two they don't wanna talk about. No need to force it outta anyone."
   },
   {
    "id": "RES#1188:b905",
@@ -1706,8 +1796,9 @@
    "jp": "{0c:2b5023100023}{1c:16}それで、手伝える?\n{e0a6}の{e0a8}{e0a9}{e0ac}しの方は。{0c:1501}",
    "read": "{0c:2b5023100023}{1c:16}それで、手伝える?\n薬の材料探しの方は。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:16}So, can you help? With looking for the\nmedicine ingredient, I mean.{0c:1501}",
+   "status": "done",
+   "tl": "So, can you help? With looking for the medicine ingredient, I mean."
   },
   {
    "id": "RES#1188:b931",
@@ -1784,8 +1875,9 @@
    "jp": "{0c:2b5023100023}{0c:523132}{1c:17}あーそうですか。\n駄目なんだって。薄情なヤツ!!{0c:2b60091501}",
    "read": "{0c:2b5023100023}{0c:523132}{1c:17}あーそうですか。\n駄目なんだって。薄情なヤツ!!{0c:2b60091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:523132}{1c:17}Oh, is that so. Can't do it, apparently.\nWhat a heartless creep!!{0c:2b60091501}",
+   "status": "done",
+   "tl": "Oh, is that so. Can't do it, apparently. What a heartless creep!!"
   },
   {
    "id": "RES#1188:b9ac",
@@ -1795,8 +1887,9 @@
    "jp": "{0c:2b5023100023}{1c:15}ま、しょうがねえよ。\n{0c:5110}強{e0b3}は出来ねえからな。{0c:2b5c091501}",
    "read": "{0c:2b5023100023}{1c:15}ま、しょうがねえよ。\n{0c:5110}強制は出来ねえからな。{0c:2b5c091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:15}Well, can't be helped. {0c:5110}Ain't like we can\nforce anybody.{0c:2b5c091501}",
+   "status": "done",
+   "tl": "Well, can't be helped. [1]Ain't like we can force anybody."
   },
   {
    "id": "RES#1188:b9dc",
@@ -1806,8 +1899,9 @@
    "jp": "{0c:2b5023100023}{0c:522223}{1c:16}ね、ねえ、\nサディーヤさんの所に行ってみる?{0c:02ba01}",
    "read": "{0c:2b5023100023}{0c:522223}{1c:16}ね、ねえ、\nサディーヤさんの所に行ってみる?{0c:02ba01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:522223}{1c:16}H-hey, should we go see Sadiya-san?{0c:02ba01}",
+   "status": "done",
+   "tl": "H-hey, should we go see Sadiya-san?"
   },
   {
    "id": "RES#1188:ba0c",
@@ -1828,8 +1922,9 @@
    "jp": "{0c:2b5023100023}{0c:5200012b5055042b5123510323}{1c:11}{0b:08}{e082} シャルン {e083}{0b:09}\n11人がお手伝い出来ます。\n何でも言ってください。{0c:2b51091501}",
    "read": "{0c:2b5023100023}{0c:5200012b5055042b5123510323}{1c:11}{0b:08}【 シャルン 】{0b:09}\n11人がお手伝い出来ます。\n何でも言ってください。{0c:2b51091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:5200012b5055042b5123510323}{1c:11}{0b:08}【 Scharn 】{0b:09}\nEleven of us can help. Just tell us what\nyou need!{0c:2b51091501}",
+   "status": "done",
+   "tl": "Eleven of us can help. Just tell us what you need!"
   },
   {
    "id": "RES#1188:bb3f",
@@ -1839,8 +1934,9 @@
    "jp": "{0c:2b5023100023}{0c:520405}{1c:10}{0b:08}{e082} アッシュ {e083}{0b:09}\nあ、ありがとう、\nほんとにみんな・・・{0c:2b52091501}",
    "read": "{0c:2b5023100023}{0c:520405}{1c:10}{0b:08}【 アッシュ 】{0b:09}\nあ、ありがとう、\nほんとにみんな・・・{0c:2b52091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:520405}{1c:10}{0b:08}【 Ash 】{0b:09}\nTh-thank you, really, everybody...{0c:2b52091501}",
+   "status": "done",
+   "tl": "Th-thank you, really, everybody..."
   },
   {
    "id": "RES#1188:bb7a",
@@ -1861,8 +1957,9 @@
    "jp": "{0c:2b5023100023}{1c:11}{0b:08}{e082} シャルン {e083}{0b:09}\n困った時はお互い様だよ。\n{0c:520405}ね、{10}。{0c:1501}",
    "read": "{0c:2b5023100023}{1c:11}{0b:08}【 シャルン 】{0b:09}\n困った時はお互い様だよ。\n{0c:520405}ね、{10}。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:11}{0b:08}【 Scharn 】{0b:09}\nWe all need each other when times are\ntough! {0c:520405}Right, {10}?{0c:1501}",
+   "status": "done",
+   "tl": "We all need each other when times are tough! [1]Right, [HERO]?"
   },
   {
    "id": "RES#1188:bbbd",
@@ -1883,8 +1980,9 @@
    "jp": "{0c:2b5023100023}{1c:16}{0b:08}{e082} バルデス {e083}{0b:09}\nいい仲間を持ったな、アッシュ。\nこれで{0c:511c}最後の1つも安心して\n任せられる。{0c:1501}",
    "read": "{0c:2b5023100023}{1c:16}{0b:08}【 バルデス 】{0b:09}\nいい仲間を持ったな、アッシュ。\nこれで{0c:511c}最後の1つも安心して\n任せられる。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:16}{0b:08}【 Valdes 】{0b:09}\nYou've got good friends, Ash. Now I can\nrest easy leaving {0c:511c}that last one to them.{0c:1501}",
+   "status": "done",
+   "tl": "You've got good friends, Ash. Now I can rest easy leaving [1]that last one to them."
   },
   {
    "id": "RES#1188:bc25",
@@ -1905,8 +2003,9 @@
    "jp": "{0c:2b5023100023}{0c:521d20}{1c:16}じゃあ行ってくるか。{0c:2b63091501}",
    "read": "{0c:2b5023100023}{0c:521d20}{1c:16}じゃあ行ってくるか。{0c:2b63091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:521d20}{1c:16}All right, time to get going.{0c:2b63091501}",
+   "status": "done",
+   "tl": "All right, time to get going."
   },
   {
    "id": "RES#1188:bc55",
@@ -1927,8 +2026,9 @@
    "jp": "{0c:2b5023100023}{0c:524243}{1c:14}{0b:08}{e082} クムラン {e083}{0b:09}\nでは私達も行きましょうか。{0c:2b63091501}",
    "read": "{0c:2b5023100023}{0c:524243}{1c:14}{0b:08}【 クムラン 】{0b:09}\nでは私達も行きましょうか。{0c:2b63091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:524243}{1c:14}{0b:08}【 Qumran 】{0b:09}\nThen shall we be going as well?{0c:2b63091501}",
+   "status": "done",
+   "tl": "Then shall we be going as well?"
   },
   {
    "id": "RES#1188:bcd7",
@@ -1949,8 +2049,9 @@
    "jp": "{0c:2b5023100023}{1c:15}{0b:08}{e082} {e0e3}{e0e4}{e0e5}サディーヤ {e083}{0b:09}\nあなた方に{e0ac}して頂きたいものは\n『ラフメル』という植物の{e0e7}です。{1a}地下{e0e8}{e0e9}アスラ・ファエルへ\n向かう『{e0ea}の{e0ad}道』には、\nいくつかの枝道があるのですが\nおふたりはご存じですか?{0c:1501}",
    "read": "{0c:2b5023100023}{1c:15}{0b:08}【 毒術師サディーヤ 】{0b:09}\nあなた方に探して頂きたいものは\n『ラフメル』という植物の葉です。{1a}地下都市アスラ・ファエルへ\n向かう『黒の羨道』には、\nいくつかの枝道があるのですが\nおふたりはご存じですか?{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:15}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nWhat I ask you to find is the leaf of a\nplant called 'Rahmel'.{1a}There are several side branches along\nthe 'Black Passage', which leads to the\nunderground city of Asla Fael. Do you\ntwo know of them?{0c:1501}",
+   "status": "done",
+   "tl": "What I ask you to find is the leaf of a plant called 'Rahmel'. // There are several side branches along the 'Black Passage', which leads to the underground city of Asla Fael. Do you two know of them?"
   },
   {
    "id": "RES#1188:bdc5",
@@ -1971,8 +2072,9 @@
    "jp": "{0c:2b5023100023}{1c:15}その中の1つに\n『{e0ed}の{e0ad}道』と{e0c2}ばれる道が\nあります。{1a}そして、その『{e0ed}の{e0ad}道』の{e0ee}に\nその植物・・・\nラフメルは自生しています。{0c:2b52091501}",
    "read": "{0c:2b5023100023}{1c:15}その中の1つに\n『青の羨道』と呼ばれる道が\nあります。{1a}そして、その『青の羨道』の奥に\nその植物・・・\nラフメルは自生しています。{0c:2b52091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:15}One of them is called the 'Blue Passage'.{1a}And deep within that 'Blue Passage',\nthat plant... Rahmel, grows wild.{0c:2b52091501}",
+   "status": "done",
+   "tl": "One of them is called the 'Blue Passage'. // And deep within that 'Blue Passage', that plant... Rahmel, grows wild."
   },
   {
    "id": "RES#1188:be42",
@@ -1982,8 +2084,9 @@
    "jp": "{0c:2b5023100023}{1c:11}{0b:08}{e082} シャルン {e083}{0b:09}\nその『{e0ed}の{e0ad}道』って所は\nどこにあるんですか?{0c:2b55091501}",
    "read": "{0c:2b5023100023}{1c:11}{0b:08}【 シャルン 】{0b:09}\nその『青の羨道』って所は\nどこにあるんですか?{0c:2b55091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:11}{0b:08}【 Scharn 】{0b:09}\nWhere is this 'Blue Passage'?{0c:2b55091501}",
+   "status": "done",
+   "tl": "Where is this 'Blue Passage'?"
   },
   {
    "id": "RES#1188:be83",
@@ -1993,8 +2096,9 @@
    "jp": "{0c:2b5023100023}{0c:525657}{1c:15}{0b:08}{e082} {e0e3}{e0e4}{e0e5}サディーヤ {e083}{0b:09}\n『{e0ed}の{e0ad}道』への入り口を\n見つけるのは簡単です。{1a}『{e0ea}の{e0ad}道』の中ほどの\nとある{e0ef}{e180}に\n鏡のように{e182}かれた{e0d3}の{e087}壇が\nあるのですが、{1a}その{e087}壇の側にある{e0d3}の扉が\n『{e0ed}の{e0ad}道』への入り口です。{1a}ですが、その扉の{e185}{e186}を解くのは\nあまり容易であるとは言えません。{1a}{e087}壇と同じ{e0ef}{e180}のどこかにある\n{e188}の{e189}をした{e18a}{e18b}の{e0d3}を、\n月の力が最も強くなる刻、{1a}つまり満月の{e18e}夜中に\n{e087}壇に埋め{e0d6}むことによってのみ\n扉の{e185}{e186}は解かれます。{0c:1501}",
    "read": "{0c:2b5023100023}{0c:525657}{1c:15}{0b:08}【 毒術師サディーヤ 】{0b:09}\n『青の羨道』への入り口を\n見つけるのは簡単です。{1a}『黒の羨道』の中ほどの\nとある階層に\n鏡のように磨かれた石の祭壇が\nあるのですが、{1a}その祭壇の側にある石の扉が\n『青の羨道』への入り口です。{1a}ですが、その扉の封印を解くのは\nあまり容易であるとは言えません。{1a}祭壇と同じ階層のどこかにある\n雫の形をした黄色の石を、\n月の力が最も強くなる刻、{1a}つまり満月の真夜中に\n祭壇に埋め込むことによってのみ\n扉の封印は解かれます。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:525657}{1c:15}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nFinding the entrance to the 'Blue\nPassage' is easy.{1a}On a certain level midway through the\n'Black Passage' there is a stone altar,\npolished like a mirror,{1a}and the stone door beside that altar is\nthe entrance to the 'Blue Passage'.{1a}However, breaking that door's seal is not\nso simple.{1a}Somewhere on the same level as the\naltar lies a yellow stone in the shape of\na droplet. At the hour when the moon's\npower is strongest,{1a}that is, at midnight of the full moon, set\nit into the altar. Only then will the door's\nseal be broken.{0c:1501}",
+   "status": "done",
+   "tl": "Finding the entrance to the 'Blue Passage' is easy. // On a certain level midway through the 'Black Passage' there is a stone altar, polished like a mirror, // and the stone door beside that altar is the entrance to the 'Blue Passage'. // However, breaking that door's seal is not so simple. // Somewhere on the same level as the altar lies a yellow stone in the shape of a droplet. At the hour when the moon's power is strongest, // that is, at midnight of the full moon, set it into the altar. Only then will the door's seal be broken."
   },
   {
    "id": "RES#1188:bfc5",
@@ -2015,8 +2119,9 @@
    "jp": "{0c:2b5023100023}{1c:12}{0b:08}{e082} {03}シャルン {e083}{0b:09}\n満月{02}の日の{e18e}夜中・・・\nってことは、あと{01}5日後{02}・・・{01}?{0c:2b55091501}",
    "read": "{0c:2b5023100023}{1c:12}{0b:08}【 {03}シャルン 】{0b:09}\n満月{02}の日の真夜中・・・\nってことは、あと{01}5日後{02}・・・{01}?{0c:2b55091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{1c:12}{0b:08}【 Scharn 】{0b:09}\nMidnight on the day of the full moon... So\nthat's five days from now...?{0c:2b55091501}",
+   "status": "done",
+   "tl": "Midnight on the day of the full moon... So that's five days from now...?"
   },
   {
    "id": "RES#1188:c01a",
@@ -2037,8 +2142,9 @@
    "jp": "{0c:2b5023100023}{0c:525859}{1c:15}{0b:08}{e082} {e0e3}{e0e4}{e0e5}サディーヤ {e083}{0b:09}\nはい。\nそれを逃せばまた次の月まで\n待たねばなりませんが、{1a}アッシュさんの{e091}さんのご容体から\n考えるとその余裕はありません。\n『{e0ed}の{e0ad}道』に入るチャンスは\n{0c:525a54}1度だけと考えて下さい。{0c:2b52091501}",
    "read": "{0c:2b5023100023}{0c:525859}{1c:15}{0b:08}【 毒術師サディーヤ 】{0b:09}\nはい。\nそれを逃せばまた次の月まで\n待たねばなりませんが、{1a}アッシュさんの妹さんのご容体から\n考えるとその余裕はありません。\n『青の羨道』に入るチャンスは\n{0c:525a54}1度だけと考えて下さい。{0c:2b52091501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5023100023}{0c:525859}{1c:15}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nYes. If you miss it, you must wait until\nthe next month,{1a}but given the condition of Ash-san's\nsister, there is no time for that.\nConsider that you have {0c:525a54}only one chance\nto enter the 'Blue Passage'.{0c:2b52091501}",
+   "status": "done",
+   "tl": "Yes. If you miss it, you must wait until the next month, // but given the condition of Ash-san's sister, there is no time for that. Consider that you have [1]only one chance to enter the 'Blue Passage'."
   },
   {
    "id": "RES#1188:c0c9",
@@ -2060,8 +2166,9 @@
    "jp": "{1c:15}{0c:525554}{0b:08}{e082} {e0e3}{e0e4}{e0e5}サディーヤ {e083}{0b:09}\n{e188}の{e0d3}は1ヶ月ほどで\n雪のように消えてなくなります。{1a}ですので、誰かの持ち物を\n借りるというわけにはいきません。{1a}満月の夜までに\nこの{e0af}{e0d3}を見つけることが\n第一の関{e192}となるでしょう。{0c:2b5209fe}",
    "read": "{1c:15}{0c:525554}{0b:08}【 毒術師サディーヤ 】{0b:09}\n雫の石は1ヶ月ほどで\n雪のように消えてなくなります。{1a}ですので、誰かの持ち物を\n借りるというわけにはいきません。{1a}満月の夜までに\nこの宝石を見つけることが\n第一の関門となるでしょう。{0c:2b5209fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0c:525554}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nA Droplet Stone vanishes like melting\nsnow in about a month.{1a}So you cannot simply borrow one that\nsomeone owns.{1a}Finding this jewel by the night of the full\nmoon will be your first barrier.{0c:2b5209fe}",
+   "status": "done",
+   "tl": "A Droplet Stone vanishes like melting snow in about a month. // So you cannot simply borrow one that someone owns. // Finding this jewel by the night of the full moon will be your first barrier."
   },
   {
    "id": "RES#1188:c184",
@@ -2071,8 +2178,9 @@
    "jp": "{1c:11}{0b:08}{e082} シャルン {e083}{0b:09}\n分かりました。{1a}でも、サディーヤさんはこれを\n第一の関{e192}って言いましたよね、\n他にもまだ何か・・・{0c:2b5509fe}",
    "read": "{1c:11}{0b:08}【 シャルン 】{0b:09}\n分かりました。{1a}でも、サディーヤさんはこれを\n第一の関門って言いましたよね、\n他にもまだ何か・・・{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Scharn 】{0b:09}\nI understand.{1a}But you called that the first barrier,\nSadiya-san, didn't you? Is there\nsomething else...?{0c:2b5509fe}",
+   "status": "done",
+   "tl": "I understand. // But you called that the first barrier, Sadiya-san, didn't you? Is there something else...?"
   },
   {
    "id": "RES#1188:c1d9",
@@ -2082,8 +2190,9 @@
    "jp": "{1c:15}{0c:525b54}{0b:08}{e082} {e0e3}{e0e4}{e0e5}サディーヤ {e083}{0b:09}\nはい。『{e0ed}の{e0ad}道』の中に\nもう1つの関{e192}があります。{0c:2b5209fe}",
    "read": "{1c:15}{0c:525b54}{0b:08}【 毒術師サディーヤ 】{0b:09}\nはい。『青の羨道』の中に\nもう1つの関門があります。{0c:2b5209fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0c:525b54}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nYes. There is another barrier inside the\n'Blue Passage'.{0c:2b5209fe}",
+   "status": "done",
+   "tl": "Yes. There is another barrier inside the 'Blue Passage'."
   },
   {
    "id": "RES#1188:c223",
@@ -2093,8 +2202,9 @@
    "jp": "{1c:12}{0b:08}{e082} シャルン {e083}{0b:09}\nまた{e185}{e186}か何かが・・・{0c:2b5509fe}",
    "read": "{1c:12}{0b:08}【 シャルン 】{0b:09}\nまた封印か何かが・・・{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Scharn 】{0b:09}\nAnother seal or something...?{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Another seal or something...?"
   },
   {
    "id": "RES#1188:c24b",
@@ -2104,8 +2214,9 @@
    "jp": "{1c:15}{0c:525554}{0b:08}{e082} {e0e3}{e0e4}{e0e5}サディーヤ {e083}{0b:09}\nいえ、\n今度は物理的な{e193}{e194}ではありません。\n残された時間が問題なのです。{1a}{e0a6}の調合にかかる時間と、\n転送器の日程から{e196}算すると、\n『{e0ed}の{e0ad}道』の中では\n1ヶ月以上の時間がさけないのです。{0c:2b5209fe}",
    "read": "{1c:15}{0c:525554}{0b:08}【 毒術師サディーヤ 】{0b:09}\nいえ、\n今度は物理的な障害ではありません。\n残された時間が問題なのです。{1a}薬の調合にかかる時間と、\n転送器の日程から逆算すると、\n『青の羨道』の中では\n1ヶ月以上の時間がさけないのです。{0c:2b5209fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0c:525554}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nNo. This time it is not a physical\nobstacle. The problem is the time\nremaining.{1a}Working back from the time needed to\nbrew the medicine and the Transporter's\nschedule, you cannot spend more than a\nmonth inside the 'Blue Passage'.{0c:2b5209fe}",
+   "status": "done",
+   "tl": "No. This time it is not a physical obstacle. The problem is the time remaining. // Working back from the time needed to brew the medicine and the Transporter's schedule, you cannot spend more than a month inside the 'Blue Passage'."
   },
   {
    "id": "RES#1188:c2f4",
@@ -2115,8 +2226,9 @@
    "jp": "{1c:13}{0b:08}{e082} シャルン {e083}{0b:09}\n『{e0ed}の{e0ad}道』の大きさが\nどのくらいなのか分からないけど、\n1ヶ月もあれば・・・{0c:2b5509fe}",
    "read": "{1c:13}{0b:08}【 シャルン 】{0b:09}\n『青の羨道』の大きさが\nどのくらいなのか分からないけど、\n1ヶ月もあれば・・・{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Scharn 】{0b:09}\nI don't know how big the 'Blue Passage'\nis, but with a whole month...{0c:2b5509fe}",
+   "status": "done",
+   "tl": "I don't know how big the 'Blue Passage' is, but with a whole month..."
   },
   {
    "id": "RES#1188:c340",
@@ -2126,8 +2238,9 @@
    "jp": "{1c:15}{0c:525554}{0b:08}{e082} {e0e3}{e0e4}{e0e5}サディーヤ {e083}{0b:09}\nいえ、『{e0ed}の{e0ad}道』の中は、\n1日がわずか{e089}分で過ぎてしまうほど\n時間の流れが早いのです。{1a}{0c:525657}魔物を1匹ずつ相手にしていたのでは\n1ヶ月などすぐに過ぎてしまう・・・\n『{e0ed}の{e0ad}道』に入ったら\n{e0ee}に進むことだけを考えて下さい。{1a}{0c:525a54}また、もし1ヶ月経っても\nラフメルの{e0e7}を見つけられなければ、\nどんなに{e0ee}に進んでいても\nそこで{e198}めて戻って下さい。{0c:2b5209fe}",
    "read": "{1c:15}{0c:525554}{0b:08}【 毒術師サディーヤ 】{0b:09}\nいえ、『青の羨道』の中は、\n1日がわずか数分で過ぎてしまうほど\n時間の流れが早いのです。{1a}{0c:525657}魔物を1匹ずつ相手にしていたのでは\n1ヶ月などすぐに過ぎてしまう・・・\n『青の羨道』に入ったら\n奥に進むことだけを考えて下さい。{1a}{0c:525a54}また、もし1ヶ月経っても\nラフメルの葉を見つけられなければ、\nどんなに奥に進んでいても\nそこで諦めて戻って下さい。{0c:2b5209fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0c:525554}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nNo. Inside the 'Blue Passage', time flows\nso fast that a day passes in mere\nminutes.{1a}{0c:525657}If you take on the monsters one at a\ntime, a month will be gone at once... Once\nyou enter the 'Blue Passage', think only\nof pressing deeper.{1a}{0c:525a54}And if a month passes and you have not\nfound the Rahmel leaf, then however\ndeep you have gone, give up there and\ncome back.{0c:2b5209fe}",
+   "status": "done",
+   "tl": "No. Inside the 'Blue Passage', time flows so fast that a day passes in mere minutes. // [1]If you take on the monsters one at a time, a month will be gone at once... Once you enter the 'Blue Passage', think only of pressing deeper. // [2]And if a month passes and you have not found the Rahmel leaf, then however deep you have gone, give up there and come back."
   },
   {
    "id": "RES#1188:c44b",
@@ -2149,8 +2262,9 @@
    "jp": "{1c:15}{0b:08}{e082} {e0e3}{e0e4}{e0e5}サディーヤ {e083}{0b:09}\n地下{e0a1}{e0d0}での戦いというものに\nまだ慣れてないあなた方にとって、{1a}この仕事はかなり厳しいものに\nなるかもしれません。{1a}ですから出来るだけ大勢の人に\n手伝って欲しいと思っていました。  {0c:525b54}でも、11人もいれば安心です。{0c:fe}",
    "read": "{1c:15}{0b:08}【 毒術師サディーヤ 】{0b:09}\n地下遺跡での戦いというものに\nまだ慣れてないあなた方にとって、{1a}この仕事はかなり厳しいものに\nなるかもしれません。{1a}ですから出来るだけ大勢の人に\n手伝って欲しいと思っていました。  {0c:525b54}でも、11人もいれば安心です。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nFor those of you not yet used to\nfighting in the underground ruins,{1a}this task may prove very hard.{1a}That is why I hoped for as many helpers\nas possible. {0c:525b54}But with eleven of you, I can\nrest easy.{0c:fe}",
+   "status": "done",
+   "tl": "For those of you not yet used to fighting in the underground ruins, // this task may prove very hard. // That is why I hoped for as many helpers as possible. [1]But with eleven of you, I can rest easy."
   },
   {
    "id": "RES#1188:c514",
@@ -2171,8 +2285,9 @@
    "jp": "{1c:15}初めての戦いの後で\n疲れたでしょうから\n今日は{e19a}{e19b}に帰ってお休み下さい。{1a}そして{e09d}日から頑張って下さい。\n皆さんの協力だけが頼りです。{0c:fe}",
    "read": "{1c:15}初めての戦いの後で\n疲れたでしょうから\n今日は宿舎に帰ってお休み下さい。{1a}そして明日から頑張って下さい。\n皆さんの協力だけが頼りです。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}You must be tired after your first\nbattle, so please return to your\nquarters and rest today.{1a}Then do your best from tomorrow on. I\nhave only your help to rely on.{0c:fe}",
+   "status": "done",
+   "tl": "You must be tired after your first battle, so please return to your quarters and rest today. // Then do your best from tomorrow on. I have only your help to rely on."
   },
   {
    "id": "RES#1188:c57d",

@@ -250,8 +250,9 @@
    "jp": "{1c:10}{0c:23fa03}{0b:08}{e080} アッシュ {e081}{0b:09}\nあ、{10}。\nいまから行くのかい?{0c:fe}",
    "read": "{1c:10}{0c:23fa03}{0b:08}【 アッシュ 】{0b:09}\nあ、{10}。\nいまから行くのかい?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0c:23fa03}{0b:08}【 Ash 】{0b:09}\nOh, {10}. You going in now?{0c:fe}",
+   "status": "done",
+   "tl": "Oh, [HERO]. You going in now?"
   },
   {
    "id": "RES#871:8138",
@@ -272,8 +273,9 @@
    "jp": "{1c:10}でも1人はあぶないぞ。\nそうだ、おれもいっしょに行くよ。{1a}外のことも心配だけど、\nいま、おれ達にできることって{1a}『シェオルの{e082}』を壊して\n{0b:05}{14}を助けてやること\nだけだもんな。{1a}がんばろうな、{10}。{0c:fe}",
    "read": "{1c:10}でも1人はあぶないぞ。\nそうだ、おれもいっしょに行くよ。{1a}外のことも心配だけど、\nいま、おれ達にできることって{1a}『シェオルの柱』を壊して\n{0b:05}{14}を助けてやること\nだけだもんな。{1a}がんばろうな、{10}。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}But it's dangerous on your own. I know,\nI'll come with you.{1a}I'm worried about outside too, but right\nnow, all we can do{1a}is break the 'Pillar of Sheol' and save\n{0b:05}{14}.{1a}Let's do our best, {10}.{0c:fe}",
+   "status": "done",
+   "tl": "But it's dangerous on your own. I know, I'll come with you. // I'm worried about outside too, but right now, all we can do // is break the 'Pillar of Sheol' and save [1][VAR14]. // Let's do our best, [HERO]."
   },
   {
    "id": "RES#871:81b6",
@@ -305,8 +307,9 @@
    "jp": "{1c:11}{0c:23fa03}{0b:08}{e080} アーサー {e081}{0b:09}\nあっ、{10}!\n今から行くのかい?{0c:fe}",
    "read": "{1c:11}{0c:23fa03}{0b:08}【 アーサー 】{0b:09}\nあっ、{10}!\n今から行くのかい?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0c:23fa03}{0b:08}【 Arthur 】{0b:09}\nAh, {10}! Are you going now?{0c:fe}",
+   "status": "done",
+   "tl": "Ah, [HERO]! Are you going now?"
   },
   {
    "id": "RES#871:8293",
@@ -327,8 +330,9 @@
    "jp": "{1c:11}でも1人では危険じゃないか?\nそうだ、僕も一緒に行くよ。{1a}外の事も心配だけど、\n今僕達のすべきことは\n{0b:05}{14}を助ける事なんだ。{1a}{10}、力を合わせて\n『シェオルの{e082}』を壊し、\n{0b:05}{14}の魂を救い出そう!{0c:fe}",
    "read": "{1c:11}でも1人では危険じゃないか?\nそうだ、僕も一緒に行くよ。{1a}外の事も心配だけど、\n今僕達のすべきことは\n{0b:05}{14}を助ける事なんだ。{1a}{10}、力を合わせて\n『シェオルの柱』を壊し、\n{0b:05}{14}の魂を救い出そう!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}But isn't that dangerous alone? I know, I\nwill go with you.{1a}I'm worried about outside as well, but\nwhat we must do now is save\n{0b:05}{14}.{1a}{10}, let's join forces, destroy\nthe 'Pillar of Sheol' and rescue\n{0b:05}{14}'s soul!{0c:fe}",
+   "status": "done",
+   "tl": "But isn't that dangerous alone? I know, I will go with you. // I'm worried about outside as well, but what we must do now is save [1][VAR14]. // [HERO], let's join forces, destroy the 'Pillar of Sheol' and rescue [2][VAR14]'s soul!"
   },
   {
    "id": "RES#871:8322",
@@ -360,8 +364,9 @@
    "jp": "{1c:12}{0c:23fa03}{0b:08}{e080} エレアノール {e081}{0b:09}\n{10}・・・\n1人で入るのですか?{0c:fe}",
    "read": "{1c:12}{0c:23fa03}{0b:08}【 エレアノール 】{0b:09}\n{10}・・・\n1人で入るのですか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0c:23fa03}{0b:08}【 Eleanor 】{0b:09}\n{10}... You are going in alone?{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]... You are going in alone?"
   },
   {
    "id": "RES#871:8400",
@@ -382,8 +387,9 @@
    "jp": "{1c:12}{e084}獄の最深{e085}には\n強力な魔物がいると聞きます。\n1人だと危険ではないでしょうか?\n私もお供します。{1a}今私達のすべきことは\n{0b:05}{14}の魂を解放すること・・・{1a}外の情報も気になりますが、\n今は『シェオルの{e082}』の\n発見及び{e087}壊に心を砕きましょう。{1a}{10}、頑張りましょう。{0c:fe}",
    "read": "{1c:12}煉獄の最深部には\n強力な魔物がいると聞きます。\n1人だと危険ではないでしょうか?\n私もお供します。{1a}今私達のすべきことは\n{0b:05}{14}の魂を解放すること・・・{1a}外の情報も気になりますが、\n今は『シェオルの柱』の\n発見及び破壊に心を砕きましょう。{1a}{10}、頑張りましょう。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}I hear powerful monsters dwell in the\ndepths of Purgatory. Would it not be\ndangerous alone? I will accompany you.{1a}What we must do now is free\n{0b:05}{14}'s soul...{1a}The news from outside concerns me as\nwell, but for now, let us devote\nourselves to finding and destroying the\n'Pillar of Sheol'.{1a}{10}, let us do our best.{0c:fe}",
+   "status": "done",
+   "tl": "I hear powerful monsters dwell in the depths of Purgatory. Would it not be dangerous alone? I will accompany you. // What we must do now is free [1][VAR14]'s soul... // The news from outside concerns me as well, but for now, let us devote ourselves to finding and destroying the 'Pillar of Sheol'. // [HERO], let us do our best."
   },
   {
    "id": "RES#871:84bb",
@@ -415,8 +421,9 @@
    "jp": "{1c:13}{0c:23fa03}{0b:08}{e080} パスカ {e081}{0b:09}\nお、{10}じゃねえか。\n今から行くのか?{0c:fe}",
    "read": "{1c:13}{0c:23fa03}{0b:08}【 パスカ 】{0b:09}\nお、{10}じゃねえか。\n今から行くのか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0c:23fa03}{0b:08}【 Pasca 】{0b:09}\nHey, ain't that {10}? You headin'\nin now?{0c:fe}",
+   "status": "done",
+   "tl": "Hey, ain't that [HERO]? You headin' in now?"
   },
   {
    "id": "RES#871:8598",
@@ -437,8 +444,9 @@
    "jp": "{1c:13}でも1人は危ねえぞ。\nそうだ、オレと一緒に行かねえか?{1a}さっさと『シェオルの{e082}』ぶっ壊して\n{0b:05}{14}を助けてやらなきゃな。\n頑張ろうぜ、{10}。{0c:fe}",
    "read": "{1c:13}でも1人は危ねえぞ。\nそうだ、オレと一緒に行かねえか?{1a}さっさと『シェオルの柱』ぶっ壊して\n{0b:05}{14}を助けてやらなきゃな。\n頑張ろうぜ、{10}。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}But goin' alone's dangerous. Hey, how\nabout we go together?{1a}Gotta smash that 'Pillar of Sheol' quick\nand save {0b:05}{14}. Let's give\nit our all, {10}.{0c:fe}",
+   "status": "done",
+   "tl": "But goin' alone's dangerous. Hey, how about we go together? // Gotta smash that 'Pillar of Sheol' quick and save [1][VAR14]. Let's give it our all, [HERO]."
   },
   {
    "id": "RES#871:85fe",
@@ -470,8 +478,9 @@
    "jp": "{1c:14}{0c:23fa03}{0b:08}{e080} シャルン {e081}{0b:09}\nあっ、{10}。\n今から行くの?{0c:fe}",
    "read": "{1c:14}{0c:23fa03}{0b:08}【 シャルン 】{0b:09}\nあっ、{10}。\n今から行くの?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0c:23fa03}{0b:08}【 Scharn 】{0b:09}\nOh, {10}. Are you going now?{0c:fe}",
+   "status": "done",
+   "tl": "Oh, [HERO]. Are you going now?"
   },
   {
    "id": "RES#871:86d7",
@@ -492,8 +501,9 @@
    "jp": "{1c:14}でも1人じゃ危険じゃない?\nそうだ、あたしも一緒に行くよ。{1a}早く『シェオルの{e082}』を壊して\n{0b:05}{14}を助けてやらなきゃね。\n頑張ろうね、{10}。{0c:fe}",
    "read": "{1c:14}でも1人じゃ危険じゃない?\nそうだ、あたしも一緒に行くよ。{1a}早く『シェオルの柱』を壊して\n{0b:05}{14}を助けてやらなきゃね。\n頑張ろうね、{10}。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}But isn't it dangerous alone? I know, I'll\ncome too!{1a}We've got to break the 'Pillar of Sheol'\nfast and save {0b:05}{14}. Let's\ndo our best, {10}!{0c:fe}",
+   "status": "done",
+   "tl": "But isn't it dangerous alone? I know, I'll come too! // We've got to break the 'Pillar of Sheol' fast and save [1][VAR14]. Let's do our best, [HERO]!"
   },
   {
    "id": "RES#871:873c",
@@ -525,8 +535,9 @@
    "jp": "{1c:15}{0c:23fa03}{0b:08}{e080} ジェシカ {e081}{0b:09}\nあれ、{10}じゃん。\n今から行くの?{0c:fe}",
    "read": "{1c:15}{0c:23fa03}{0b:08}【 ジェシカ 】{0b:09}\nあれ、{10}じゃん。\n今から行くの?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0c:23fa03}{0b:08}【 Jessica 】{0b:09}\nHuh, if it isn't {10}. You going\nnow?{0c:fe}",
+   "status": "done",
+   "tl": "Huh, if it isn't [HERO]. You going now?"
   },
   {
    "id": "RES#871:8818",
@@ -547,8 +558,9 @@
    "jp": "{1c:15}でもさ、\nあんた1人で大丈夫?{1a}{0c:521018}そうだ、あたしが\nついて行ってやるよ。\nあんたまで死なれちゃ\nティアラが{e089}哀想だもんね。{1a}じゃあ『シェオルの{e082}』\n{e08b}しに行こっか。{1a}さっさとぶっ壊して\n{0b:05}{14}を助けてやらなきゃね。\nがんばろうね、{10}!{0c:fe}",
    "read": "{1c:15}でもさ、\nあんた1人で大丈夫?{1a}{0c:521018}そうだ、あたしが\nついて行ってやるよ。\nあんたまで死なれちゃ\nティアラが可哀想だもんね。{1a}じゃあ『シェオルの柱』\n探しに行こっか。{1a}さっさとぶっ壊して\n{0b:05}{14}を助けてやらなきゃね。\nがんばろうね、{10}!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}But hey, you gonna be okay all by\nyourself?{1a}{0c:521018}I know, I'll tag along with you. If you went\nand died too, it'd be awful for Tiara, you\nknow.{1a}So, let's go look for that 'Pillar of Sheol'.{1a}We gotta smash it quick and save\n{0b:05}{14}. Let's do our best,\n{10}!{0c:fe}",
+   "status": "done",
+   "tl": "But hey, you gonna be okay all by yourself? // [1]I know, I'll tag along with you. If you went and died too, it'd be awful for Tiara, you know. // So, let's go look for that 'Pillar of Sheol'. // We gotta smash it quick and save [2][VAR14]. Let's do our best, [HERO]!"
   },
   {
    "id": "RES#871:88b7",
@@ -580,8 +592,9 @@
    "jp": "{0c:2b50235108}{1c:16}{0c:23fa03}{0b:08}{e080} ルカ {e081}{0b:09}\nあれ、{10}さん・・・\n今から行かれるのですか?{0c:fe}",
    "read": "{0c:2b50235108}{1c:16}{0c:23fa03}{0b:08}【 ルカ 】{0b:09}\nあれ、{10}さん・・・\n今から行かれるのですか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b50235108}{1c:16}{0c:23fa03}{0b:08}【 Luca 】{0b:09}\nOh, {10}-san... Are you going now?{0c:fe}",
+   "status": "done",
+   "tl": "Oh, [HERO]-san... Are you going now?"
   },
   {
    "id": "RES#871:899e",
@@ -602,8 +615,9 @@
    "jp": "{1c:16}でも、1人というのは\n少し危険ではないですか?{1a}{e084}獄の一番{e08c}には\n強力な魔物がいると聞きました。\nあまりお役に立てないとは思いますが、\nわたしもお供しましょうか?{1a}怖いですけど、\nわたしも{0b:05}{14}さんを\nはやく助けたいですから。{1a}頑張りましょう、{10}さん。{0c:fe}",
    "read": "{1c:16}でも、1人というのは\n少し危険ではないですか?{1a}煉獄の一番奥には\n強力な魔物がいると聞きました。\nあまりお役に立てないとは思いますが、\nわたしもお供しましょうか?{1a}怖いですけど、\nわたしも{0b:05}{14}さんを\nはやく助けたいですから。{1a}頑張りましょう、{10}さん。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}But is going alone not a little dangerous?{1a}I have heard there are powerful\nmonsters in the deepest part of\nPurgatory. I do not think I would be much\nhelp, but shall I accompany you?{1a}I am frightened, but I want to save\n{0b:05}{14}-san soon too.{1a}Let us do our best, {10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "But is going alone not a little dangerous? // I have heard there are powerful monsters in the deepest part of Purgatory. I do not think I would be much help, but shall I accompany you? // I am frightened, but I want to save [1][VAR14]-san soon too. // Let us do our best, [HERO]-san."
   },
   {
    "id": "RES#871:8a45",
@@ -635,8 +649,9 @@
    "jp": "{1c:17}{0c:23fa03}{0b:08}{e080} サラ {e081}{0b:09}\nあっ、{10}さん、\n今から1人で出かけるの?{0c:fe}",
    "read": "{1c:17}{0c:23fa03}{0b:08}【 サラ 】{0b:09}\nあっ、{10}さん、\n今から1人で出かけるの?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0c:23fa03}{0b:08}【 Sara 】{0b:09}\nOh, {10}-san, are you going out\nalone now?{0c:fe}",
+   "status": "done",
+   "tl": "Oh, [HERO]-san, are you going out alone now?"
   },
   {
    "id": "RES#871:8b26",
@@ -657,8 +672,9 @@
    "jp": "{1c:17}あたしも一緒に行くよ。\n1人より2人の方が\n{0c:521018}いいことあると思うもん。{1a}はやく『シェオルの{e082}』を見つけて\n{0b:05}{14}さんを助けようね。\nがんばろうね、{10}さん。{0c:fe}",
    "read": "{1c:17}あたしも一緒に行くよ。\n1人より2人の方が\n{0c:521018}いいことあると思うもん。{1a}はやく『シェオルの柱』を見つけて\n{0b:05}{14}さんを助けようね。\nがんばろうね、{10}さん。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}I'll go with you too. With two instead of\none, I think {0c:521018}good things will happen.{1a}Let's find the 'Pillar of Sheol' soon and\nsave {0b:05}{14}-san, okay?\nLet's do our best, {10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "I'll go with you too. With two instead of one, I think [1]good things will happen. // Let's find the 'Pillar of Sheol' soon and save [2][VAR14]-san, okay? Let's do our best, [HERO]-san."
   },
   {
    "id": "RES#871:8b96",

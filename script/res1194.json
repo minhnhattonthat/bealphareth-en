@@ -30,8 +30,9 @@
    "jp": "クムラン",
    "read": "クムラン",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Qumran",
+   "status": "done",
+   "tl": "Qumran"
   },
   {
    "id": "RES#1194:d724",
@@ -305,8 +306,9 @@
    "jp": "{1c:10}そうですね、\nでは始めてみましょうか。{1a}・・・って、まだトラップカプセルを\n持ってないじゃありませんか。{1a}おかしいなあ、先程バルデスさんが\n皆さんにお渡しする分を\n持って行かれたのですが・・・{1a}ともかく今は無理ですね。{0c:1501}",
    "read": "{1c:10}そうですね、\nでは始めてみましょうか。{1a}・・・って、まだトラップカプセルを\n持ってないじゃありませんか。{1a}おかしいなあ、先程バルデスさんが\n皆さんにお渡しする分を\n持って行かれたのですが・・・{1a}ともかく今は無理ですね。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Well then, shall we begin?{1a}...But wait, you do not have a Trap\nCapsule yet, do you?{1a}How odd. Valdes-san took the ones\nmeant for all of you a little while ago...{1a}In any case, it is impossible for now.{0c:1501}",
+   "status": "done",
+   "tl": "Well then, shall we begin? // ...But wait, you do not have a Trap Capsule yet, do you? // How odd. Valdes-san took the ones meant for all of you a little while ago... // In any case, it is impossible for now."
   },
   {
    "id": "RES#1194:d7c0",
@@ -338,8 +340,9 @@
    "jp": "{1c:10}本当にこのトラップカプセルで\nよろしいですか?|{1c:10}本当にこの魔法操具で\nよろしいですか?|{1c:10}では、早速始めてみますが、\n本当にそのトラップカプセルで\nよろしいですか?|{1c:10}では、早速始めてみますが、\n本当にその魔法操具で\nよろしいですか?",
    "read": "{1c:10}本当にこのトラップカプセルで\nよろしいですか?|{1c:10}本当にこの魔法操具で\nよろしいですか?|{1c:10}では、早速始めてみますが、\n本当にそのトラップカプセルで\nよろしいですか?|{1c:10}では、早速始めてみますが、\n本当にその魔法操具で\nよろしいですか?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Are you certain about this Trap\nCapsule?|{1c:10}Are you certain about this Spell Device?|{1c:10}Then I will begin at once, but are you\ncertain about that Trap Capsule?|{1c:10}Then I will begin at once, but are you\ncertain about that Spell Device?",
+   "status": "done",
+   "tl": "Are you certain about this Trap Capsule?|[1]Are you certain about this Spell Device?|[2]Then I will begin at once, but are you certain about that Trap Capsule?|[3]Then I will begin at once, but are you certain about that Spell Device?"
   },
   {
    "id": "RES#1194:d860",
@@ -349,8 +352,9 @@
    "jp": "はい|いいえ",
    "read": "はい|いいえ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Yes|No",
+   "status": "done",
+   "tl": "Yes|No"
   },
   {
    "id": "RES#1194:d867",
@@ -360,8 +364,9 @@
    "jp": "{1c:10}トラップカプセルに\nついての説明はまだですよね。\n説明しましょうか?",
    "read": "{1c:10}トラップカプセルに\nついての説明はまだですよね。\n説明しましょうか?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I have not yet explained Trap Capsules,\nhave I? Shall I explain?",
+   "status": "done",
+   "tl": "I have not yet explained Trap Capsules, have I? Shall I explain?"
   },
   {
    "id": "RES#1194:d893",
@@ -371,8 +376,9 @@
    "jp": "{1c:10}本当にこの魔法操具で\nよろしいですか?",
    "read": "{1c:10}本当にこの魔法操具で\nよろしいですか?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Are you certain about this Spell Device?",
+   "status": "done",
+   "tl": "Are you certain about this Spell Device?"
   },
   {
    "id": "RES#1194:d8b0",
@@ -382,8 +388,9 @@
    "jp": "{1c:10}魔法操具についての説明は\nまだですよね。\n説明しましょうか?",
    "read": "{1c:10}魔法操具についての説明は\nまだですよね。\n説明しましょうか?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I have not yet explained Spell Devices,\nhave I? Shall I explain?",
+   "status": "done",
+   "tl": "I have not yet explained Spell Devices, have I? Shall I explain?"
   },
   {
    "id": "RES#1194:d8da",
@@ -393,8 +400,9 @@
    "jp": "{1c:11}では作業に取りかかってきますね。{0c:1501}",
    "read": "{1c:11}では作業に取りかかってきますね。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Then I will go and start work.{0c:1501}",
+   "status": "done",
+   "tl": "Then I will go and start work."
   },
   {
    "id": "RES#1194:d8f4",
@@ -415,8 +423,9 @@
    "jp": "{1c:10}お待たせしました。{0c:1501}",
    "read": "{1c:10}お待たせしました。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Thank you for waiting.{0c:1501}",
+   "status": "done",
+   "tl": "Thank you for waiting."
   },
   {
    "id": "RES#1194:d92a",
@@ -437,8 +446,9 @@
    "jp": "{1c:11}よく考えて下さいね。\n時間はいくらでもありますから。{0c:1501}",
    "read": "{1c:11}よく考えて下さいね。\n時間はいくらでもありますから。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Please think it over carefully. There is all\nthe time in the world.{0c:1501}",
+   "status": "done",
+   "tl": "Please think it over carefully. There is all the time in the world."
   },
   {
    "id": "RES#1194:d954",
@@ -459,8 +469,9 @@
    "jp": "{1c:10}もうこれ以上は開発出来ませんね。{0c:1501}",
    "read": "{1c:10}もうこれ以上は開発出来ませんね。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}It cannot be developed any further.{0c:1501}",
+   "status": "done",
+   "tl": "It cannot be developed any further."
   },
   {
    "id": "RES#1194:d976",
@@ -481,8 +492,9 @@
    "jp": "{1c:13}今の私の技術力では\nこれ以上の開発は無理です。\nもうしばらくお待ち下さい。{0c:1501}",
    "read": "{1c:13}今の私の技術力では\nこれ以上の開発は無理です。\nもうしばらくお待ち下さい。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}With my present skill, further\ndevelopment is impossible. Please wait a\nwhile longer.{0c:1501}",
+   "status": "done",
+   "tl": "With my present skill, further development is impossible. Please wait a while longer."
   },
   {
    "id": "RES#1194:d9b4",
@@ -503,8 +515,9 @@
    "jp": "{1c:10}トラップカプセルは、\n改良をすればするほど\nより強力なトラップを\n使用することが可能になります。{1a}本当は無料で、と\nいきたいところなのですが、\nこれが案外お金がかかりまして・・・{1a}皆さんから必要経費だけ\n頂くことにしています。{1a}言い訳っぽいですが、\n一応、何故お金がかかるかも\n言っておきますね。{1a}皆さんがお持ちのトラップカプセルは\n見た目は確かにどれも似ていますが、\nこの世に同じ特性のものは\n1つとしてなく、{1a}例えば、{10}さんのものと\n似たような効果の\nトラップが入っている\nトラップカプセルであっても、{1a}中の仕組みは1つ1つ\n全く異なってしまうのです。\nつまり、同じ改良の手順が\n通用しないわけですね。{1a}また、開発・改造と一口に言っても、\nトラップカプセルの中身・・・\nつまりトラップ自体の改良と、{1a}入れ物である\nトラップカプセルの開発、\nこの両方をしなければなりません。{1a}1つ1つのトラップカプセルには\n様々な個性がありますし、\nカプセルとトラップには\nそれぞれに相性があったりで、{1a}試行錯誤を何度も\n繰り返さなければなりません。\nこのせいでお金が\nかかってしまうのです。{1a}ただし、1度開発してしまえば\nそのトラップは何千回使おうとも\n使い放題です。決して高くない\n投資であると思いますよ。",
    "read": "{1c:10}トラップカプセルは、\n改良をすればするほど\nより強力なトラップを\n使用することが可能になります。{1a}本当は無料で、と\nいきたいところなのですが、\nこれが案外お金がかかりまして・・・{1a}皆さんから必要経費だけ\n頂くことにしています。{1a}言い訳っぽいですが、\n一応、何故お金がかかるかも\n言っておきますね。{1a}皆さんがお持ちのトラップカプセルは\n見た目は確かにどれも似ていますが、\nこの世に同じ特性のものは\n1つとしてなく、{1a}例えば、{10}さんのものと\n似たような効果の\nトラップが入っている\nトラップカプセルであっても、{1a}中の仕組みは1つ1つ\n全く異なってしまうのです。\nつまり、同じ改良の手順が\n通用しないわけですね。{1a}また、開発・改造と一口に言っても、\nトラップカプセルの中身・・・\nつまりトラップ自体の改良と、{1a}入れ物である\nトラップカプセルの開発、\nこの両方をしなければなりません。{1a}1つ1つのトラップカプセルには\n様々な個性がありますし、\nカプセルとトラップには\nそれぞれに相性があったりで、{1a}試行錯誤を何度も\n繰り返さなければなりません。\nこのせいでお金が\nかかってしまうのです。{1a}ただし、1度開発してしまえば\nそのトラップは何千回使おうとも\n使い放題です。決して高くない\n投資であると思いますよ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}The more a Trap Capsule is improved,\nthe more powerful the traps it can use.{1a}I would like to do it free of charge, but\nit turns out to cost a fair bit...{1a}so I ask everyone for only the necessary\nexpenses.{1a}It may sound like an excuse, but allow me\nto explain why it costs money.{1a}The Trap Capsules you all carry certainly\nlook alike, but no two in this world have\nthe same properties,{1a}and even a Trap Capsule holding a trap\nwith an effect similar to\n{10}-san's{1a}has entirely different workings inside. In\nother words, the same improvement\nprocedure will not work on both.{1a}And development and modification,\nthough one phrase, mean improving what\nis inside the Trap Capsule... that is, the\ntrap itself,{1a}and developing the Trap Capsule that\nholds it. Both must be done.{1a}Each Trap Capsule has its own\ncharacter, and each capsule and trap\nhave their own affinity,{1a}so it takes repeated trial and error.\nThat is why it costs money.{1a}However, once developed, that trap can\nbe used as often as you like, thousands\nof times over. I believe it is by no means\nan expensive investment.",
+   "status": "done",
+   "tl": "The more a Trap Capsule is improved, the more powerful the traps it can use. // I would like to do it free of charge, but it turns out to cost a fair bit... // so I ask everyone for only the necessary expenses. // It may sound like an excuse, but allow me to explain why it costs money. // The Trap Capsules you all carry certainly look alike, but no two in this world have the same properties, // and even a Trap Capsule holding a trap with an effect similar to [HERO]-san's // has entirely different workings inside. In other words, the same improvement procedure will not work on both. // And development and modification, though one phrase, mean improving what is inside the Trap Capsule... that is, the trap itself, // and developing the Trap Capsule that holds it. Both must be done. // Each Trap Capsule has its own character, and each capsule and trap have their own affinity, // so it takes repeated trial and error. That is why it costs money. // However, once developed, that trap can be used as often as you like, thousands of times over. I believe it is by no means an expensive investment."
   },
   {
    "id": "RES#1194:dc6d",
@@ -514,8 +527,9 @@
    "jp": "{1c:11}では作業に取りかかってきますね。",
    "read": "{1c:11}では作業に取りかかってきますね。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Then I will go and start work.",
+   "status": "done",
+   "tl": "Then I will go and start work."
   },
   {
    "id": "RES#1194:dc83",
@@ -525,8 +539,9 @@
    "jp": "{1c:10}お待たせしました。",
    "read": "{1c:10}お待たせしました。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Thank you for waiting.",
+   "status": "done",
+   "tl": "Thank you for waiting."
   },
   {
    "id": "RES#1194:dc90",
@@ -536,8 +551,9 @@
    "jp": "{1c:11}よく考えて下さいね。\n時間はいくらでもありますから。{0c:1501}",
    "read": "{1c:11}よく考えて下さいね。\n時間はいくらでもありますから。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Please think it over carefully. There is all\nthe time in the world.{0c:1501}",
+   "status": "done",
+   "tl": "Please think it over carefully. There is all the time in the world."
   },
   {
    "id": "RES#1194:dcb5",
@@ -558,8 +574,9 @@
    "jp": "{1c:10}『魔法』を詠唱するには\n杖や石版の形をした『魔法具』と、\n刻印のきざまれた腕輪『魔法操具』と\nいう2つの道具が必要です。{1a}この2つを装備し、\n炎が飛んでいく姿などの\nその魔法のイメージを{1a}強力な思念として\n『魔法具』に送ることで、\n魔法は具現化されます。{1a}『魔法操具』は、『魔法具』を\n扱うための鍵のようなもので、\n唱える魔法ごとに\n別の刻印が必要となります。{1a}どの『魔法操具』も\n初めは1つの刻印しか\n表面にあらわれていませんが、\n本当は複数の刻印が隠されています。{1a}その刻印を復活させる作業を\n今からしようという訳です。",
    "read": "{1c:10}『魔法』を詠唱するには\n杖や石版の形をした『魔法具』と、\n刻印のきざまれた腕輪『魔法操具』と\nいう2つの道具が必要です。{1a}この2つを装備し、\n炎が飛んでいく姿などの\nその魔法のイメージを{1a}強力な思念として\n『魔法具』に送ることで、\n魔法は具現化されます。{1a}『魔法操具』は、『魔法具』を\n扱うための鍵のようなもので、\n唱える魔法ごとに\n別の刻印が必要となります。{1a}どの『魔法操具』も\n初めは1つの刻印しか\n表面にあらわれていませんが、\n本当は複数の刻印が隠されています。{1a}その刻印を復活させる作業を\n今からしようという訳です。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}To cast 'magic' you need two\nimplements: a 'Magic Tool' in the shape\nof a staff or tablet, and a 'Spell Device',\na bracelet engraved with a sigil.{1a}With these two equipped, you take your\nimage of that magic, such as the sight\nof a flame flying,{1a}and by sending it to the 'Magic Tool' as a\npowerful thought-form, you give the\nmagic substance.{1a}The 'Spell Device' is like a key for\nhandling the 'Magic Tool', and each spell\nyou cast needs its own sigil.{1a}Every 'Spell Device' at first shows only\none sigil on its surface, but in truth\nseveral sigils lie hidden.{1a}The work we will now do is to restore\nthose sigils.",
+   "status": "done",
+   "tl": "To cast 'magic' you need two implements: a 'Magic Tool' in the shape of a staff or tablet, and a 'Spell Device', a bracelet engraved with a sigil. // With these two equipped, you take your image of that magic, such as the sight of a flame flying, // and by sending it to the 'Magic Tool' as a powerful thought-form, you give the magic substance. // The 'Spell Device' is like a key for handling the 'Magic Tool', and each spell you cast needs its own sigil. // Every 'Spell Device' at first shows only one sigil on its surface, but in truth several sigils lie hidden. // The work we will now do is to restore those sigils."
   },
   {
    "id": "RES#1194:de2d",
@@ -569,8 +586,9 @@
    "jp": "{1c:11}では作業に取りかかってきますね。",
    "read": "{1c:11}では作業に取りかかってきますね。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Then I will go and start work.",
+   "status": "done",
+   "tl": "Then I will go and start work."
   },
   {
    "id": "RES#1194:de43",
@@ -580,8 +598,9 @@
    "jp": "{1c:10}お待たせしました。",
    "read": "{1c:10}お待たせしました。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Thank you for waiting.",
+   "status": "done",
+   "tl": "Thank you for waiting."
   },
   {
    "id": "RES#1194:de50",
@@ -591,8 +610,9 @@
    "jp": "{1c:11}よく考えて下さいね。\n時間はいくらでもありますから。{0c:1501}",
    "read": "{1c:11}よく考えて下さいね。\n時間はいくらでもありますから。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Please think it over carefully. There is all\nthe time in the world.{0c:1501}",
+   "status": "done",
+   "tl": "Please think it over carefully. There is all the time in the world."
   },
   {
    "id": "RES#1194:de75",
@@ -624,8 +644,9 @@
    "jp": "{1c:10}私の知っていることであれば、\n何でもお教えしますが・・・",
    "read": "{1c:10}私の知っていることであれば、\n何でもお教えしますが・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}If it is something I know, I will teach you\nanything you ask...",
+   "status": "done",
+   "tl": "If it is something I know, I will teach you anything you ask..."
   },
   {
    "id": "RES#1194:dea6",
@@ -635,8 +656,9 @@
    "jp": "クムランの研究について|地下遺跡の各層について|魔法・トラップカプセルについて|もういい",
    "read": "クムランの研究について|地下遺跡の各層について|魔法・トラップカプセルについて|もういい",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Qumran's research|Each level of the ruins|Magic and Trap Capsules|That's enough",
+   "status": "done",
+   "tl": "Qumran's research|Each level of the ruins|Magic and Trap Capsules|That's enough"
   },
   {
    "id": "RES#1194:dee1",
@@ -701,8 +723,9 @@
    "jp": "{1c:11}私の研究に興味をもって下さるとは\nうれしいですね。\nでは、どんな話をしましょうか。",
    "read": "{1c:11}私の研究に興味をもって下さるとは\nうれしいですね。\nでは、どんな話をしましょうか。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}How pleasing that you take an interest\nin my research. Now, what shall we talk\nabout?",
+   "status": "done",
+   "tl": "How pleasing that you take an interest in my research. Now, what shall we talk about?"
   },
   {
    "id": "RES#1194:df35",
@@ -712,8 +735,9 @@
    "jp": "遺跡の謎|太陽帝国について|魔物について|アザレの石について|アザレの石は何処に?|太陽帝国の文明について|遺跡とアノイア教との関係について|このネタはもういい",
    "read": "遺跡の謎|太陽帝国について|魔物について|アザレの石について|アザレの石は何処に?|太陽帝国の文明について|遺跡とアノイア教との関係について|このネタはもういい",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Mystery of the ruins|The Sun Empire|Monsters|The Azare Stone|Where's the Azare Stone?|Sun Empire civilization|The ruins and the Anoian Church|Enough of this topic",
+   "status": "done",
+   "tl": "Mystery of the ruins|The Sun Empire|Monsters|The Azare Stone|Where's the Azare Stone?|Sun Empire civilization|The ruins and the Anoian Church|Enough of this topic"
   },
   {
    "id": "RES#1194:dfa7",
@@ -822,8 +846,9 @@
    "jp": "{1c:10}地下遺跡の全体像は\nまだ見えていませんが、\n現在確認出来ている4つの層について\nお話ししましょう。",
    "read": "{1c:10}地下遺跡の全体像は\nまだ見えていませんが、\n現在確認出来ている4つの層について\nお話ししましょう。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}The full picture of the underground ruins\nhas not yet come into view, but let me\ntell you about the four levels confirmed\nso far.",
+   "status": "done",
+   "tl": "The full picture of the underground ruins has not yet come into view, but let me tell you about the four levels confirmed so far."
   },
   {
    "id": "RES#1194:e033",
@@ -833,8 +858,9 @@
    "jp": "黒の羨道|地下都市アスラ・ファエル|煉獄|時の回廊|このネタはもういい",
    "read": "黒の羨道|地下都市アスラ・ファエル|煉獄|時の回廊|このネタはもういい",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Black Passage|Underground City Asla Fael|Purgatory|Corridor of Time|Enough of this topic",
+   "status": "done",
+   "tl": "Black Passage|Underground City Asla Fael|Purgatory|Corridor of Time|Enough of this topic"
   },
   {
    "id": "RES#1194:e066",
@@ -910,8 +936,9 @@
    "jp": "{1c:10}どのようなことを\nお話しすればよいでしょうか。",
    "read": "{1c:10}どのようなことを\nお話しすればよいでしょうか。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}What would you like me to tell you\nabout?",
+   "status": "done",
+   "tl": "What would you like me to tell you about?"
   },
   {
    "id": "RES#1194:e0af",
@@ -921,8 +948,9 @@
    "jp": "魔法について|トラップカプセルについて|他の話|このネタはもういい",
    "read": "魔法について|トラップカプセルについて|他の話|このネタはもういい",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Magic|Trap Capsules|Something else|Enough of this topic",
+   "status": "done",
+   "tl": "Magic|Trap Capsules|Something else|Enough of this topic"
   },
   {
    "id": "RES#1194:e0d9",
@@ -976,8 +1004,9 @@
    "jp": "{1c:10}そうですか。{0c:040c}",
    "read": "{1c:10}そうですか。{0c:040c}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I see.{0c:040c}",
+   "status": "done",
+   "tl": "I see."
   },
   {
    "id": "RES#1194:e103",
@@ -998,8 +1027,9 @@
    "jp": "{1c:10}私の知っていることであれば、\n何でもお教えしますが・・・",
    "read": "{1c:10}私の知っていることであれば、\n何でもお教えしますが・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}If it is something I know, I will teach you\nanything you ask...",
+   "status": "done",
+   "tl": "If it is something I know, I will teach you anything you ask..."
   },
   {
    "id": "RES#1194:e12f",
@@ -1009,8 +1039,9 @@
    "jp": "クムランの研究について|地下遺跡の各層について|魔法・トラップカプセルについて|もういい",
    "read": "クムランの研究について|地下遺跡の各層について|魔法・トラップカプセルについて|もういい",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Qumran's research|Each level of the ruins|Magic and Trap Capsules|That's enough",
+   "status": "done",
+   "tl": "Qumran's research|Each level of the ruins|Magic and Trap Capsules|That's enough"
   },
   {
    "id": "RES#1194:e16a",
@@ -1075,8 +1106,9 @@
    "jp": "{1c:10}では、どんな話をしましょうか。",
    "read": "{1c:10}では、どんな話をしましょうか。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Then what shall we talk about?",
+   "status": "done",
+   "tl": "Then what shall we talk about?"
   },
   {
    "id": "RES#1194:e19e",
@@ -1086,8 +1118,9 @@
    "jp": "遺跡の謎|太陽帝国について|魔物について|アザレの石について|アザレの石は何処に?|太陽帝国の文明について|遺跡とアノイア教との関係について|このネタはもういい",
    "read": "遺跡の謎|太陽帝国について|魔物について|アザレの石について|アザレの石は何処に?|太陽帝国の文明について|遺跡とアノイア教との関係について|このネタはもういい",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Mystery of the ruins|The Sun Empire|Monsters|The Azare Stone|Where's the Azare Stone?|Sun Empire civilization|The ruins and the Anoian Church|Enough of this topic",
+   "status": "done",
+   "tl": "Mystery of the ruins|The Sun Empire|Monsters|The Azare Stone|Where's the Azare Stone?|Sun Empire civilization|The ruins and the Anoian Church|Enough of this topic"
   },
   {
    "id": "RES#1194:e210",
@@ -1196,8 +1229,9 @@
    "jp": "{1c:10}地下遺跡の全体像は\nまだ見えていませんが、\n現在確認出来ている4つの層について\nお話ししましょう。",
    "read": "{1c:10}地下遺跡の全体像は\nまだ見えていませんが、\n現在確認出来ている4つの層について\nお話ししましょう。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}The full picture of the underground ruins\nhas not yet come into view, but let me\ntell you about the four levels confirmed\nso far.",
+   "status": "done",
+   "tl": "The full picture of the underground ruins has not yet come into view, but let me tell you about the four levels confirmed so far."
   },
   {
    "id": "RES#1194:e29c",
@@ -1207,8 +1241,9 @@
    "jp": "黒の羨道|地下都市アスラ・ファエル|煉獄|時の回廊|このネタはもういい",
    "read": "黒の羨道|地下都市アスラ・ファエル|煉獄|時の回廊|このネタはもういい",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Black Passage|Underground City Asla Fael|Purgatory|Corridor of Time|Enough of this topic",
+   "status": "done",
+   "tl": "Black Passage|Underground City Asla Fael|Purgatory|Corridor of Time|Enough of this topic"
   },
   {
    "id": "RES#1194:e2cf",
@@ -1284,8 +1319,9 @@
    "jp": "{1c:10}どのようなことを\nお話しすればよいでしょうか。",
    "read": "{1c:10}どのようなことを\nお話しすればよいでしょうか。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}What would you like me to tell you\nabout?",
+   "status": "done",
+   "tl": "What would you like me to tell you about?"
   },
   {
    "id": "RES#1194:e314",
@@ -1295,8 +1331,9 @@
    "jp": "魔法について|トラップカプセルについて|他の話|このネタはもういい",
    "read": "魔法について|トラップカプセルについて|他の話|このネタはもういい",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Magic|Trap Capsules|Something else|Enough of this topic",
+   "status": "done",
+   "tl": "Magic|Trap Capsules|Something else|Enough of this topic"
   },
   {
    "id": "RES#1194:e33e",
@@ -1350,8 +1387,9 @@
    "jp": "{1c:10}そうですか。{0c:040c}",
    "read": "{1c:10}そうですか。{0c:040c}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I see.{0c:040c}",
+   "status": "done",
+   "tl": "I see."
   },
   {
    "id": "RES#1194:e362",
@@ -1383,8 +1421,9 @@
    "jp": "{1c:10}私の知識が何かの\nお役に立てばよいのですが・・・",
    "read": "{1c:10}私の知識が何かの\nお役に立てばよいのですが・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I do hope my knowledge can be of some\nuse...",
+   "status": "done",
+   "tl": "I do hope my knowledge can be of some use..."
   },
   {
    "id": "RES#1194:e391",
@@ -1394,8 +1433,9 @@
    "jp": "クムランの研究について|地下遺跡の各層について|魔法・トラップカプセルについて|もういい",
    "read": "クムランの研究について|地下遺跡の各層について|魔法・トラップカプセルについて|もういい",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Qumran's research|Each level of the ruins|Magic and Trap Capsules|That's enough",
+   "status": "done",
+   "tl": "Qumran's research|Each level of the ruins|Magic and Trap Capsules|That's enough"
   },
   {
    "id": "RES#1194:e3cc",
@@ -1460,8 +1500,9 @@
    "jp": "{1c:10}では、どんな話をしましょうか。",
    "read": "{1c:10}では、どんな話をしましょうか。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Then what shall we talk about?",
+   "status": "done",
+   "tl": "Then what shall we talk about?"
   },
   {
    "id": "RES#1194:e400",
@@ -1471,8 +1512,9 @@
    "jp": "アスラ・ファエルの謎|太陽帝国について|魔物について|アザレの石について|遺跡とアノイア教との関係について|このネタはもういい",
    "read": "アスラ・ファエルの謎|太陽帝国について|魔物について|アザレの石について|遺跡とアノイア教との関係について|このネタはもういい",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Mystery of Asla Fael|The Sun Empire|Monsters|The Azare Stone|The ruins and the Anoian Church|Enough of this topic",
+   "status": "done",
+   "tl": "Mystery of Asla Fael|The Sun Empire|Monsters|The Azare Stone|The ruins and the Anoian Church|Enough of this topic"
   },
   {
    "id": "RES#1194:e455",
@@ -1559,8 +1601,9 @@
    "jp": "{1c:10}地下遺跡の全体像は\nまだ掴めていませんが、\n分かる限りのことをお話しします。",
    "read": "{1c:10}地下遺跡の全体像は\nまだ掴めていませんが、\n分かる限りのことをお話しします。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}The full picture of the underground ruins\nis still beyond our grasp, but I will tell you\nall I know.",
+   "status": "done",
+   "tl": "The full picture of the underground ruins is still beyond our grasp, but I will tell you all I know."
   },
   {
    "id": "RES#1194:e4b5",
@@ -1570,8 +1613,9 @@
    "jp": "黒の羨道|地下都市アスラ・ファエル|煉獄|時の回廊|始原の地|このネタはもういい",
    "read": "黒の羨道|地下都市アスラ・ファエル|煉獄|時の回廊|始原の地|このネタはもういい",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Black Passage|Underground City Asla Fael|Purgatory|Corridor of Time|Land of Origin|Enough of this topic",
+   "status": "done",
+   "tl": "Black Passage|Underground City Asla Fael|Purgatory|Corridor of Time|Land of Origin|Enough of this topic"
   },
   {
    "id": "RES#1194:e4f0",
@@ -1658,8 +1702,9 @@
    "jp": "{1c:10}どのようなことを\nお話しすればよいでしょうか。",
    "read": "{1c:10}どのようなことを\nお話しすればよいでしょうか。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}What would you like me to tell you\nabout?",
+   "status": "done",
+   "tl": "What would you like me to tell you about?"
   },
   {
    "id": "RES#1194:e537",
@@ -1669,8 +1714,9 @@
    "jp": "魔法について|トラップカプセルについて|他の話|このネタはもういい",
    "read": "魔法について|トラップカプセルについて|他の話|このネタはもういい",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Magic|Trap Capsules|Something else|Enough of this topic",
+   "status": "done",
+   "tl": "Magic|Trap Capsules|Something else|Enough of this topic"
   },
   {
    "id": "RES#1194:e561",
@@ -1724,8 +1770,9 @@
    "jp": "{1c:10}そうですか。{0c:040c}",
    "read": "{1c:10}そうですか。{0c:040c}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I see.{0c:040c}",
+   "status": "done",
+   "tl": "I see."
   },
   {
    "id": "RES#1194:e585",
@@ -1746,8 +1793,9 @@
    "jp": "{1c:10}私の知識が何かの\nお役に立てばよいのですが・・・",
    "read": "{1c:10}私の知識が何かの\nお役に立てばよいのですが・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I do hope my knowledge can be of some\nuse...",
+   "status": "done",
+   "tl": "I do hope my knowledge can be of some use..."
   },
   {
    "id": "RES#1194:e5af",
@@ -1757,8 +1805,9 @@
    "jp": "クムランの研究について|地下遺跡の各層について|魔法・トラップカプセルについて|もういい",
    "read": "クムランの研究について|地下遺跡の各層について|魔法・トラップカプセルについて|もういい",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Qumran's research|Each level of the ruins|Magic and Trap Capsules|That's enough",
+   "status": "done",
+   "tl": "Qumran's research|Each level of the ruins|Magic and Trap Capsules|That's enough"
   },
   {
    "id": "RES#1194:e5ea",
@@ -1823,8 +1872,9 @@
    "jp": "{1c:10}では、どんな話をしましょうか。",
    "read": "{1c:10}では、どんな話をしましょうか。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Then what shall we talk about?",
+   "status": "done",
+   "tl": "Then what shall we talk about?"
   },
   {
    "id": "RES#1194:e61e",
@@ -1834,8 +1884,9 @@
    "jp": "アスラ・ファエルの謎|太陽帝国について|魔物について|アザレの石について|このネタはもういい",
    "read": "アスラ・ファエルの謎|太陽帝国について|魔物について|アザレの石について|このネタはもういい",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Mystery of Asla Fael|The Sun Empire|Monsters|The Azare Stone|Enough of this topic",
+   "status": "done",
+   "tl": "Mystery of Asla Fael|The Sun Empire|Monsters|The Azare Stone|Enough of this topic"
   },
   {
    "id": "RES#1194:e65b",
@@ -1911,8 +1962,9 @@
    "jp": "{1c:10}地下遺跡についてですか?",
    "read": "{1c:10}地下遺跡についてですか?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}About the underground ruins, is it?",
+   "status": "done",
+   "tl": "About the underground ruins, is it?"
   },
   {
    "id": "RES#1194:e695",
@@ -1922,8 +1974,9 @@
    "jp": "黒の羨道|地下都市アスラ・ファエル|煉獄|時の回廊|天界|始原の地|このネタはもういい",
    "read": "黒の羨道|地下都市アスラ・ファエル|煉獄|時の回廊|天界|始原の地|このネタはもういい",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Black Passage|Underground City Asla Fael|Purgatory|Corridor of Time|Celestial Realm|Land of Origin|Enough of this topic",
+   "status": "done",
+   "tl": "Black Passage|Underground City Asla Fael|Purgatory|Corridor of Time|Celestial Realm|Land of Origin|Enough of this topic"
   },
   {
    "id": "RES#1194:e6d5",
@@ -2021,8 +2074,9 @@
    "jp": "{1c:10}どのようなことを\nお話しすればよいでしょうか。",
    "read": "{1c:10}どのようなことを\nお話しすればよいでしょうか。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}What would you like me to tell you\nabout?",
+   "status": "done",
+   "tl": "What would you like me to tell you about?"
   },
   {
    "id": "RES#1194:e722",
@@ -2032,8 +2086,9 @@
    "jp": "魔法について|トラップカプセルについて|他の話|このネタはもういい",
    "read": "魔法について|トラップカプセルについて|他の話|このネタはもういい",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Magic|Trap Capsules|Something else|Enough of this topic",
+   "status": "done",
+   "tl": "Magic|Trap Capsules|Something else|Enough of this topic"
   },
   {
    "id": "RES#1194:e74c",
@@ -2087,8 +2142,9 @@
    "jp": "{1c:10}そうですか。{0c:040c}",
    "read": "{1c:10}そうですか。{0c:040c}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I see.{0c:040c}",
+   "status": "done",
+   "tl": "I see."
   },
   {
    "id": "RES#1194:e770",
@@ -2098,8 +2154,9 @@
    "jp": "{1c:13}すみません、\nまだ考えがまとまりきらなくて・・・\nもう少しお待ち頂けますか?{0c:040c}",
    "read": "{1c:13}すみません、\nまだ考えがまとまりきらなくて・・・\nもう少しお待ち頂けますか?{0c:040c}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}I am sorry, my thoughts are not quite in\norder yet... Could you wait a little longer?{0c:040c}",
+   "status": "done",
+   "tl": "I am sorry, my thoughts are not quite in order yet... Could you wait a little longer?"
   },
   {
    "id": "RES#1194:e7a2",
@@ -2120,8 +2177,9 @@
    "jp": "{1c:10}私の知識が何かの\nお役に立てばよいのですが・・・",
    "read": "{1c:10}私の知識が何かの\nお役に立てばよいのですが・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I do hope my knowledge can be of some\nuse...",
+   "status": "done",
+   "tl": "I do hope my knowledge can be of some use..."
   },
   {
    "id": "RES#1194:e7cc",
@@ -2131,8 +2189,9 @@
    "jp": "クムランの研究について|地下遺跡の各層について|魔法・トラップカプセルについて|もういい",
    "read": "クムランの研究について|地下遺跡の各層について|魔法・トラップカプセルについて|もういい",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Qumran's research|Each level of the ruins|Magic and Trap Capsules|That's enough",
+   "status": "done",
+   "tl": "Qumran's research|Each level of the ruins|Magic and Trap Capsules|That's enough"
   },
   {
    "id": "RES#1194:e807",
@@ -2197,8 +2256,9 @@
    "jp": "{1c:10}では、どんな話をしましょうか。",
    "read": "{1c:10}では、どんな話をしましょうか。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Then what shall we talk about?",
+   "status": "done",
+   "tl": "Then what shall we talk about?"
   },
   {
    "id": "RES#1194:e83b",
@@ -2208,8 +2268,9 @@
    "jp": "アノイア教について|十三聖者について|悪魔とは|このネタはもういい",
    "read": "アノイア教について|十三聖者について|悪魔とは|このネタはもういい",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "The Anoian Church|The Thirteen Saints|What is the Devil?|Enough of this topic",
+   "status": "done",
+   "tl": "The Anoian Church|The Thirteen Saints|What is the Devil?|Enough of this topic"
   },
   {
    "id": "RES#1194:e868",
@@ -2274,8 +2335,9 @@
    "jp": "{1c:10}地下遺跡・・・・つまり、\n7つの精神世界についてですね。",
    "read": "{1c:10}地下遺跡・・・・つまり、\n7つの精神世界についてですね。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}The underground ruins... that is, the\nseven spirit worlds, you mean.",
+   "status": "done",
+   "tl": "The underground ruins... that is, the seven spirit worlds, you mean."
   },
   {
    "id": "RES#1194:e8b1",
@@ -2285,8 +2347,9 @@
    "jp": "黒の羨道|地下都市アスラ・ファエル|煉獄|時の回廊|天界|精神の海|始原の地|このネタはもういい",
    "read": "黒の羨道|地下都市アスラ・ファエル|煉獄|時の回廊|天界|精神の海|始原の地|このネタはもういい",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Black Passage|Underground City Asla Fael|Purgatory|Corridor of Time|Celestial Realm|Sea of Spirit|Land of Origin|Enough of this topic",
+   "status": "done",
+   "tl": "Black Passage|Underground City Asla Fael|Purgatory|Corridor of Time|Celestial Realm|Sea of Spirit|Land of Origin|Enough of this topic"
   },
   {
    "id": "RES#1194:e8f9",
@@ -2395,8 +2458,9 @@
    "jp": "{1c:10}どのようなことを\nお話しすればよいでしょうか。",
    "read": "{1c:10}どのようなことを\nお話しすればよいでしょうか。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}What would you like me to tell you\nabout?",
+   "status": "done",
+   "tl": "What would you like me to tell you about?"
   },
   {
    "id": "RES#1194:e94c",
@@ -2406,8 +2470,9 @@
    "jp": "魔法について|トラップカプセルについて|他の話|このネタはもういい",
    "read": "魔法について|トラップカプセルについて|他の話|このネタはもういい",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Magic|Trap Capsules|Something else|Enough of this topic",
+   "status": "done",
+   "tl": "Magic|Trap Capsules|Something else|Enough of this topic"
   },
   {
    "id": "RES#1194:e976",
@@ -2461,8 +2526,9 @@
    "jp": "{1c:10}そうですか。{0c:040c}",
    "read": "{1c:10}そうですか。{0c:040c}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}I see.{0c:040c}",
+   "status": "done",
+   "tl": "I see."
   },
   {
    "id": "RES#1194:e99a",
@@ -2483,8 +2549,9 @@
    "jp": "{1c:13}これからの戦いには\n知識などもう意味を\n為さないでしょうが・・・",
    "read": "{1c:13}これからの戦いには\n知識などもう意味を\n為さないでしょうが・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}In the battles to come, knowledge will\nsurely no longer mean anything, but...",
+   "status": "done",
+   "tl": "In the battles to come, knowledge will surely no longer mean anything, but..."
   },
   {
    "id": "RES#1194:e9cc",
@@ -2494,8 +2561,9 @@
    "jp": "最後の戦いについて|もういい",
    "read": "最後の戦いについて|もういい",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "The final battle|That's enough",
+   "status": "done",
+   "tl": "The final battle|That's enough"
   },
   {
    "id": "RES#1194:e9de",
@@ -2516,8 +2584,9 @@
    "jp": "{1c:10}頑張って下さい、{10}さん。{0c:040c}",
    "read": "{1c:10}頑張って下さい、{10}さん。{0c:040c}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Please do your best, {10}-san.{0c:040c}",
+   "status": "done",
+   "tl": "Please do your best, [HERO]-san."
   },
   {
    "id": "RES#1194:e9fa",
@@ -2527,8 +2596,9 @@
    "jp": "{1c:10}伝説の国『太陽帝国』の\n首都アスラ・ファエル・・・{1a}この遺跡が見つかったのは、\n今から約40年前のことでした。\nしかし、未だにこの地下都市の\n全貌は見えてきません。{1a}地下遺跡の構造、何で出来ているのか、\n何のためにつくられたのか、\nその当時の生活や文化、技術水準、{1a}私達より優れた技術を持つ\n太陽帝国が何故滅んだのか・・・\n情けない話ですが、あまりにも\nわからないことが多すぎます。{1a}世界にはアスラ・ファエル以外にも、\n地下都市の遺構が幾つか存在しますが、\nどれも洞窟に毛の生えたような\n小規模なものでしかありません。{1a}しかもその大半が、侵略者から\n逃げるための避難所のようなもので、{1a}『太陽帝国』という他を圧倒する\n軍事力をもつ大帝国が、\nそのような避難所を\n必要とするかは疑問です。{1a}また、あのような\n広大な空間がありながら、\n地下都市には人の生活の形跡が\n全くありません。{1a}地下都市全体が、神々を祀るための\n巨大な地下神殿であったとか、{1a}天変地異から民を守るための\nシェルターであったとか、\nいろいろな推測が可能ですが、\n真実はまだわかりません。{0c:040e}",
    "read": "{1c:10}伝説の国『太陽帝国』の\n首都アスラ・ファエル・・・{1a}この遺跡が見つかったのは、\n今から約40年前のことでした。\nしかし、未だにこの地下都市の\n全貌は見えてきません。{1a}地下遺跡の構造、何で出来ているのか、\n何のためにつくられたのか、\nその当時の生活や文化、技術水準、{1a}私達より優れた技術を持つ\n太陽帝国が何故滅んだのか・・・\n情けない話ですが、あまりにも\nわからないことが多すぎます。{1a}世界にはアスラ・ファエル以外にも、\n地下都市の遺構が幾つか存在しますが、\nどれも洞窟に毛の生えたような\n小規模なものでしかありません。{1a}しかもその大半が、侵略者から\n逃げるための避難所のようなもので、{1a}『太陽帝国』という他を圧倒する\n軍事力をもつ大帝国が、\nそのような避難所を\n必要とするかは疑問です。{1a}また、あのような\n広大な空間がありながら、\n地下都市には人の生活の形跡が\n全くありません。{1a}地下都市全体が、神々を祀るための\n巨大な地下神殿であったとか、{1a}天変地異から民を守るための\nシェルターであったとか、\nいろいろな推測が可能ですが、\n真実はまだわかりません。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Asla Fael, capital of the legendary\nnation, the 'Sun Empire'...{1a}These ruins were found some forty\nyears ago. Yet even now, the whole of\nthis underground city has not come into\nview.{1a}The structure of the underground ruins,\nwhat they are made of, what they were\nbuilt for, the life, culture and level of\ntechnology of that age,{1a}and why the Sun Empire, whose\ntechnology surpassed our own, perished...\nIt is a sorry thing to admit, but there is\nfar too much we do not know.{1a}The world holds a few other remains of\nunderground cities besides Asla Fael, but\nall are small, little more than glorified\ncaves.{1a}Most of them, moreover, are shelters of\na kind for fleeing invaders,{1a}and it is doubtful that a great empire\nlike the 'Sun Empire', with its\noverwhelming military might, would need\nsuch shelters.{1a}Furthermore, for all its vast space, the\nunderground city shows no trace\nwhatever of human life.{1a}One can suppose many things: that the\nentire underground city was a huge\nunderground temple to the gods,{1a}or a shelter to protect the people from\ncataclysms. But the truth is still\nunknown.{0c:040e}",
+   "status": "done",
+   "tl": "Asla Fael, capital of the legendary nation, the 'Sun Empire'... // These ruins were found some forty years ago. Yet even now, the whole of this underground city has not come into view. // The structure of the underground ruins, what they are made of, what they were built for, the life, culture and level of technology of that age, // and why the Sun Empire, whose technology surpassed our own, perished... It is a sorry thing to admit, but there is far too much we do not know. // The world holds a few other remains of underground cities besides Asla Fael, but all are small, little more than glorified caves. // Most of them, moreover, are shelters of a kind for fleeing invaders, // and it is doubtful that a great empire like the 'Sun Empire', with its overwhelming military might, would need such shelters. // Furthermore, for all its vast space, the underground city shows no trace whatever of human life. // One can suppose many things: that the entire underground city was a huge underground temple to the gods, // or a shelter to protect the people from cataclysms. But the truth is still unknown."
   },
   {
    "id": "RES#1194:ec7f",
@@ -2538,8 +2608,9 @@
    "jp": "{1c:10}今より遙か昔、\n人々が戦乱に明け暮れていた時代、{1a}突如この世界に現れ繁栄し、\nそして忽然と消えたと\n伝えられている大帝国・・・{1a}首都は、永遠の都市という意味を持つ\n大都市『{03}アスラ・ファエル』・・・{1a}他{02}を圧する高度な\n物資文明と精神文明を持ち、\n十数年で世界の半分を支配し、{1a}首都{03}アスラ・ファエル{02}の繁栄ぶりは、\n天上界の神々が\n妬むほどであった・・・{1a}・・・とまあ、このように\n伝えられていましたが、{1a}半世紀前まで、この国が実際に\n存在していたと信じる学者は\n{01}1人{02}もいませんでした。{1a}なにしろ、過去、この国の遺跡が\n見つかったことは{01}1度{02}もなく、\n太陽帝国に関する伝承の内容も\n余りにも荒唐無稽であったからです。{1a}『太陽帝国』の名も\n後世の人々が付けた名前で、\n文献にその名前が見つかるのは\n聖書が書かれたのとほぼ同時期です。{1a}ようするに、神話にありがちな\n架空の国と思われていたわけですね。{1a}しかし、{03}アノイア暦{01}5060年{02}、\n永遠の命をもたらす『{03}アザレ{02}の石』と、\n巨大な地下都市の入り口の発見で\nその認識も一変させられます。{1a}しかも、『魔法』『不老不死』\n『巨大な地下遺跡』といった\n現代の科学力では解析すら不可能な\n高度な技術を、{1a}{01}1万年{02}も昔の人々が実現して\nいたのです。この事実は、\n私達を驚愕させるに充分でした。{1a}多くの研究者が町の内外で\nこの遺跡を研究してきましたが、\n太陽帝国の全貌はまだ{01}1割{02}も\n解明されていないでしょう。{0c:040e}",
    "read": "{1c:10}今より遙か昔、\n人々が戦乱に明け暮れていた時代、{1a}突如この世界に現れ繁栄し、\nそして忽然と消えたと\n伝えられている大帝国・・・{1a}首都は、永遠の都市という意味を持つ\n大都市『{03}アスラ・ファエル』・・・{1a}他{02}を圧する高度な\n物資文明と精神文明を持ち、\n十数年で世界の半分を支配し、{1a}首都{03}アスラ・ファエル{02}の繁栄ぶりは、\n天上界の神々が\n妬むほどであった・・・{1a}・・・とまあ、このように\n伝えられていましたが、{1a}半世紀前まで、この国が実際に\n存在していたと信じる学者は\n{01}1人{02}もいませんでした。{1a}なにしろ、過去、この国の遺跡が\n見つかったことは{01}1度{02}もなく、\n太陽帝国に関する伝承の内容も\n余りにも荒唐無稽であったからです。{1a}『太陽帝国』の名も\n後世の人々が付けた名前で、\n文献にその名前が見つかるのは\n聖書が書かれたのとほぼ同時期です。{1a}ようするに、神話にありがちな\n架空の国と思われていたわけですね。{1a}しかし、{03}アノイア暦{01}5060年{02}、\n永遠の命をもたらす『{03}アザレ{02}の石』と、\n巨大な地下都市の入り口の発見で\nその認識も一変させられます。{1a}しかも、『魔法』『不老不死』\n『巨大な地下遺跡』といった\n現代の科学力では解析すら不可能な\n高度な技術を、{1a}{01}1万年{02}も昔の人々が実現して\nいたのです。この事実は、\n私達を驚愕させるに充分でした。{1a}多くの研究者が町の内外で\nこの遺跡を研究してきましたが、\n太陽帝国の全貌はまだ{01}1割{02}も\n解明されていないでしょう。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Long, long ago, in an age when people\nwere lost in endless war,{1a}a great empire, so it is told, suddenly\nappeared in this world, flourished, and\njust as suddenly vanished...{1a}Its capital was the great city of 'Asla\nFael', a name meaning Eternal City...{1a}Possessing a material and spiritual\ncivilization advanced beyond all others, it\nruled half the world within little more\nthan a decade,{1a}and the prosperity of its capital Asla\nFael was such that the gods of the\nheavens envied it...{1a}...Or so it was told,{1a}but until half a century ago, not a single\nscholar believed this nation had actually\nexisted.{1a}After all, no ruin of this nation had ever\nbeen found, and the traditions about the\nSun Empire were far too absurd.{1a}Even the name 'Sun Empire' was given by\nlater generations, and it first appears in\nwritings at about the time the\nScriptures were written.{1a}In short, it was thought a fictional\nnation of the sort common in myth.{1a}However, in Anoian year 5060, the\ndiscovery of the 'Azare Stone', bringer\nof eternal life, and of the entrance to a\nhuge underground city changed that{1a}view at a stroke.{1a}What is more, 'magic', 'agelessness and\nundying life', 'vast underground ruins',\nadvanced techniques that today's\nscience cannot even analyze,{1a}were achieved by people ten thousand\nyears ago. That fact was enough to\nastonish us.{1a}Many researchers have studied these\nruins, in town and out, but not even a\ntenth of the Sun Empire has yet been\nmade clear, I should think.{0c:040e}",
+   "status": "done",
+   "tl": "Long, long ago, in an age when people were lost in endless war, // a great empire, so it is told, suddenly appeared in this world, flourished, and just as suddenly vanished... // Its capital was the great city of 'Asla Fael', a name meaning Eternal City... // Possessing a material and spiritual civilization advanced beyond all others, it ruled half the world within little more than a decade, // and the prosperity of its capital Asla Fael was such that the gods of the heavens envied it... // ...Or so it was told, // but until half a century ago, not a single scholar believed this nation had actually existed. // After all, no ruin of this nation had ever been found, and the traditions about the Sun Empire were far too absurd. // Even the name 'Sun Empire' was given by later generations, and it first appears in writings at about the time the Scriptures were written. // In short, it was thought a fictional nation of the sort common in myth. // However, in Anoian year 5060, the discovery of the 'Azare Stone', bringer of eternal life, and of the entrance to a huge underground city changed that view at a stroke. // What is more, 'magic', 'agelessness and undying life', 'vast underground ruins', advanced techniques that today's science cannot even analyze, // were achieved by people ten thousand years ago. That fact was enough to astonish us. // Many researchers have studied these ruins, in town and out, but not even a tenth of the Sun Empire has yet been made clear, I should think."
   },
   {
    "id": "RES#1194:efdf",
@@ -2549,8 +2620,9 @@
    "jp": "{1c:10}魔物についても、どこから来たのか、\nなぜ突然地下遺跡に出現したのか、\n彼等はいったい何者なのかなど、\n不明な点だらけです。{1a}とはいえ『分かりません』で\n話を終わらせてしまうのも\n申し訳ありませんので、{1a}私以外の科学者や神学者の説を\n幾つか紹介しましょう。{1a}まず{01}1{02}つ目、\n魔物達は最下層にある\nなにか特別な物を守っている番人の\nようなものであるという説・・・{1a}学者のみならず、\nこの町の冒険者の多くが\nこの説を信じていますね。{1a}遺跡内は、奥深くに進めば進むほど\n出現する魔物は強くなっていきます。\n見つかる財宝もそれに比例して\n立派なものになっていきますので、{1a}最下層にはよほど凄い財宝が\nあるのだろうと、\n多くの冒険者が期待しているのも\n無理からぬことです。{1a}次に、自らの繁栄におごり\n神をないがしろにした\n太陽帝国の人々が、神の怒りをかい\n魔物に姿を変えられたという説・・・{1a}反教皇派の神学者や司教・・・\nつまり生真面目な聖衣の方々は\nこの説を推しています。{1a}{01}3{02}つ目、永遠の生命を追い求めた\n太陽帝国の人々が、\n実験に失敗しあのような姿に\nなってしまったという説・・・{1a}他には、{01}1万年前{02}、\n魔物達は遺跡の中だけでなく、\n世界各地にいたのだという\n説もあります。{1a}各地に伝わる神話や伝説は\nその魔物達が{03}モデル{02}になって\n創られたものだと。{1a}事実、世界各地の神話や伝説には\n{03}アスラ・ファエル{02}の魔物達に\n酷似した怪物達の描写を\n幾つも見つけることが出来ます。{1a}一見正しそうに思えるのですが、\n地下遺跡の魔物達の中には\n今からたった{01}50年前{02}に\n子供向け寓話の中で生み出された{1a}原作者の明らかな怪物に\n酷似した魔物も数種いるので、\nこの説にはいささか疑問が残ります。{1a}以上をまとめると、\nやっぱり『さっぱり分からない』って\nことなんですね。{0c:040e}",
    "read": "{1c:10}魔物についても、どこから来たのか、\nなぜ突然地下遺跡に出現したのか、\n彼等はいったい何者なのかなど、\n不明な点だらけです。{1a}とはいえ『分かりません』で\n話を終わらせてしまうのも\n申し訳ありませんので、{1a}私以外の科学者や神学者の説を\n幾つか紹介しましょう。{1a}まず{01}1{02}つ目、\n魔物達は最下層にある\nなにか特別な物を守っている番人の\nようなものであるという説・・・{1a}学者のみならず、\nこの町の冒険者の多くが\nこの説を信じていますね。{1a}遺跡内は、奥深くに進めば進むほど\n出現する魔物は強くなっていきます。\n見つかる財宝もそれに比例して\n立派なものになっていきますので、{1a}最下層にはよほど凄い財宝が\nあるのだろうと、\n多くの冒険者が期待しているのも\n無理からぬことです。{1a}次に、自らの繁栄におごり\n神をないがしろにした\n太陽帝国の人々が、神の怒りをかい\n魔物に姿を変えられたという説・・・{1a}反教皇派の神学者や司教・・・\nつまり生真面目な聖衣の方々は\nこの説を推しています。{1a}{01}3{02}つ目、永遠の生命を追い求めた\n太陽帝国の人々が、\n実験に失敗しあのような姿に\nなってしまったという説・・・{1a}他には、{01}1万年前{02}、\n魔物達は遺跡の中だけでなく、\n世界各地にいたのだという\n説もあります。{1a}各地に伝わる神話や伝説は\nその魔物達が{03}モデル{02}になって\n創られたものだと。{1a}事実、世界各地の神話や伝説には\n{03}アスラ・ファエル{02}の魔物達に\n酷似した怪物達の描写を\n幾つも見つけることが出来ます。{1a}一見正しそうに思えるのですが、\n地下遺跡の魔物達の中には\n今からたった{01}50年前{02}に\n子供向け寓話の中で生み出された{1a}原作者の明らかな怪物に\n酷似した魔物も数種いるので、\nこの説にはいささか疑問が残ります。{1a}以上をまとめると、\nやっぱり『さっぱり分からない』って\nことなんですね。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}As for the monsters, too, where they\ncame from, why they suddenly appeared\nin the underground ruins, what on earth\nthey are: nearly all of it is unknown.{1a}Still, it would be rude to end the talk at\n'I do not know',{1a}so let me present a few theories from\nother scientists and theologians.{1a}First, the theory that the monsters are\nguardians of a sort, protecting\nsomething special on the lowest level...{1a}Not only scholars but many of this\ntown's adventurers believe this theory.{1a}The deeper one goes in the ruins, the\nstronger the monsters that appear. The\ntreasure found grows finer in\nproportion,{1a}so it is no wonder that many\nadventurers hope for some truly\nmarvelous treasure on the lowest level.{1a}Next, the theory that the people of the\nSun Empire, proud of their prosperity\nand slighting God, drew God's wrath and\nwere turned into monsters...{1a}Anti-papal theologians and bishops... that\nis, the earnest gentlemen of the holy\nvestments, favor this theory.{1a}Third, the theory that the people of the\nSun Empire, in pursuit of eternal life,\nfailed in an experiment and took on\nthose forms...{1a}There is also a theory that ten\nthousand years ago, monsters lived not\nonly in the ruins but all over the world.{1a}That the myths and legends told in\nvarious lands were created with those\nmonsters as models.{1a}Indeed, in the myths and legends of the\nworld one can find many descriptions of\ncreatures closely resembling the\nmonsters of Asla Fael.{1a}It seems correct at first glance, but\namong the monsters of the underground\nruins are a few kinds closely resembling\ncreatures invented in a children's fable{1a}only fifty years ago,{1a}creatures whose author is clearly known,\nso this theory leaves some doubt.{1a}To sum up, the answer is still 'I have not\nthe faintest idea', after all.{0c:040e}",
+   "status": "done",
+   "tl": "As for the monsters, too, where they came from, why they suddenly appeared in the underground ruins, what on earth they are: nearly all of it is unknown. // Still, it would be rude to end the talk at 'I do not know', // so let me present a few theories from other scientists and theologians. // First, the theory that the monsters are guardians of a sort, protecting something special on the lowest level... // Not only scholars but many of this town's adventurers believe this theory. // The deeper one goes in the ruins, the stronger the monsters that appear. The treasure found grows finer in proportion, // so it is no wonder that many adventurers hope for some truly marvelous treasure on the lowest level. // Next, the theory that the people of the Sun Empire, proud of their prosperity and slighting God, drew God's wrath and were turned into monsters... // Anti-papal theologians and bishops... that is, the earnest gentlemen of the holy vestments, favor this theory. // Third, the theory that the people of the Sun Empire, in pursuit of eternal life, failed in an experiment and took on those forms... // There is also a theory that ten thousand years ago, monsters lived not only in the ruins but all over the world. // That the myths and legends told in various lands were created with those monsters as models. // Indeed, in the myths and legends of the world one can find many descriptions of creatures closely resembling the monsters of Asla Fael. // It seems correct at first glance, but among the monsters of the underground ruins are a few kinds closely resembling creatures invented in a children's fable only fifty years ago, // creatures whose author is clearly known, so this theory leaves some doubt. // To sum up, the answer is still 'I have not the faintest idea', after all."
   },
   {
    "id": "RES#1194:f3e3",
@@ -2560,8 +2632,9 @@
    "jp": "{1c:10}『{03}アザレ{02}の石』・・・\nこの石の光を浴びた人間は\n不老不死となり、{1a}いかなる病気や怪我でも、\nたとえ心臓に剣を突き立てられても\n死なない人間となります。{1a}赤く熱した鉄で体を傷つけても\n次の日には傷跡{01}1{02}つ残らない・・・\nこれが、本当に幸せなことか\nどうかはわかりません。{1a}ともかく、今から約{01}40年前{02}、\n偶然この石を見つけた{03}アオゥル族{02}の\n{01}13人{02}は、この石の放つ光を浴び\n不老不死となりました。{1a}そして、永遠の命を得たいがために、\n{03}アスロイト王国{02}と\n{03}バイレステ共和国{02}の指導者達は\nこの地下遺跡の発掘を始めました。{1a}そう、すべての始まりは\n『{03}アザレ{02}の石』だったのです。{1a}しかしそれ以降、\nこの『{03}アザレ{02}の石』は\n{01}1度{02}も発見されていません。{1a}最初の『{03}アザレ{02}の石』も、\n{03}アオゥル族{02}の人々を不死にすると、\n役目を終えたのか、光を失い\nただの石ころに変わったそうです。{1a}私も、自分の目で\n実際に見たことはありませんので、\n『{03}アザレ{02}の石』とは一体何なのか、\nどういった物なのかはわかりません。{1a}『太陽帝国』が永遠の世界を\n追い求めていたことは\nほぼ間違いないでしょう。{1a}しかし、その技術が完成して\n生まれたのが『{03}アザレ{02}の石』ならば、\nなぜ、地下遺跡に不死となった人が\n{01}1人{02}もいないのか・・・{1a}疑問は尽きません。{0c:040e}",
    "read": "{1c:10}『{03}アザレ{02}の石』・・・\nこの石の光を浴びた人間は\n不老不死となり、{1a}いかなる病気や怪我でも、\nたとえ心臓に剣を突き立てられても\n死なない人間となります。{1a}赤く熱した鉄で体を傷つけても\n次の日には傷跡{01}1{02}つ残らない・・・\nこれが、本当に幸せなことか\nどうかはわかりません。{1a}ともかく、今から約{01}40年前{02}、\n偶然この石を見つけた{03}アオゥル族{02}の\n{01}13人{02}は、この石の放つ光を浴び\n不老不死となりました。{1a}そして、永遠の命を得たいがために、\n{03}アスロイト王国{02}と\n{03}バイレステ共和国{02}の指導者達は\nこの地下遺跡の発掘を始めました。{1a}そう、すべての始まりは\n『{03}アザレ{02}の石』だったのです。{1a}しかしそれ以降、\nこの『{03}アザレ{02}の石』は\n{01}1度{02}も発見されていません。{1a}最初の『{03}アザレ{02}の石』も、\n{03}アオゥル族{02}の人々を不死にすると、\n役目を終えたのか、光を失い\nただの石ころに変わったそうです。{1a}私も、自分の目で\n実際に見たことはありませんので、\n『{03}アザレ{02}の石』とは一体何なのか、\nどういった物なのかはわかりません。{1a}『太陽帝国』が永遠の世界を\n追い求めていたことは\nほぼ間違いないでしょう。{1a}しかし、その技術が完成して\n生まれたのが『{03}アザレ{02}の石』ならば、\nなぜ、地下遺跡に不死となった人が\n{01}1人{02}もいないのか・・・{1a}疑問は尽きません。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}The 'Azare Stone'... Any person bathed in\nthis stone's light becomes ageless and\nundying,{1a}a person who will not die of any sickness\nor wound, not even a sword driven\nthrough the heart.{1a}Cut the body with red-hot iron, and by\nthe next day not a scar remains...\nWhether this is truly happiness, I cannot\nsay.{1a}In any event, some forty years ago,\nthirteen of the Aoul tribe who found\nthis stone by chance were bathed in its\nlight and became ageless and undying.{1a}Then, wishing to gain eternal life, the\nleaders of the Kingdom of Asroit and\nthe Republic of Baileste began\nexcavating these underground ruins.{1a}Yes, it all began with the 'Azare Stone'.{1a}But since then, no 'Azare Stone' has\never been found.{1a}Even the first 'Azare Stone', once it had\nmade the Aoul people undying, lost its\nlight, its role perhaps fulfilled, and\nturned into a mere pebble, they say.{1a}I have never seen one with my own eyes,\nso I cannot tell you what an 'Azare\nStone' truly is, or what sort of thing.{1a}It is all but certain that the 'Sun Empire'\nwas pursuing the Eternal World.{1a}But if the 'Azare Stone' is what came\nof perfecting that technique, why is\nthere not a single person made undying in\nthe underground ruins...{1a}The questions never end.{0c:040e}",
+   "status": "done",
+   "tl": "The 'Azare Stone'... Any person bathed in this stone's light becomes ageless and undying, // a person who will not die of any sickness or wound, not even a sword driven through the heart. // Cut the body with red-hot iron, and by the next day not a scar remains... Whether this is truly happiness, I cannot say. // In any event, some forty years ago, thirteen of the Aoul tribe who found this stone by chance were bathed in its light and became ageless and undying. // Then, wishing to gain eternal life, the leaders of the Kingdom of Asroit and the Republic of Baileste began excavating these underground ruins. // Yes, it all began with the 'Azare Stone'. // But since then, no 'Azare Stone' has ever been found. // Even the first 'Azare Stone', once it had made the Aoul people undying, lost its light, its role perhaps fulfilled, and turned into a mere pebble, they say. // I have never seen one with my own eyes, so I cannot tell you what an 'Azare Stone' truly is, or what sort of thing. // It is all but certain that the 'Sun Empire' was pursuing the Eternal World. // But if the 'Azare Stone' is what came of perfecting that technique, why is there not a single person made undying in the underground ruins... // The questions never end."
   },
   {
    "id": "RES#1194:f6bf",
@@ -2571,8 +2644,9 @@
    "jp": "{1c:10}『アザレの石』の所在については\n有力な説が2つあります。{1a}最も広く信じられている説は、\n地下遺跡の1番奥に\nあるという説でしょう。{1a}この説は、地下遺跡の中で見つけた\n幾つかの石版や壁画に、{1a}『世界の底に永遠の源あり』という\n一節が彫られていたことから\n導き出された仮説です。{1a}ただし、地下遺跡の終点がどこなのか\n誰も知りませんので、\nこの説の真偽を確かめる方法は\n今のところありません。{1a}もう1つの説が、\n地下都市アスラ・ファエルの何処かに\nあるという説です。{1a}地下都市の主要な建物の壁には、\n『永遠』や『輪廻』を意味する\n言葉やデザインが\n幾つも彫られていますし、{1a}『アザレの石』と同時に\n発見された装飾品が、\n現在地下都市内で発見されている\n装飾品と同じだという噂もあります。{1a}ただし、こちらの方も真偽のほどは\n分かりません。{1a}『アザレの石』と共に発見された\n装飾品は、アスロイト王宮の宝物庫に\nあるので、私のような一介の学者が\n見ることは出来ませんし、{1a}なにより、地下都市の4割近くが\n調査済みにもかかわらず\n何の痕跡も見つかっていないという\n現状もあります。{1a}アノイア暦5060年の大地震と共に\n地上世界にひょっこりあらわれた\n『アザレの石』・・・{1a}遺跡の1番奥にせよ地下都市にせよ、\nはるか地中にある物が\nいきなり地上に出てくるのも\n考えてみれば不思議な話です。{1a}もしかすると\n全く別の所にあるのかも・・・\n疑問は尽きません。{0c:040e}",
    "read": "{1c:10}『アザレの石』の所在については\n有力な説が2つあります。{1a}最も広く信じられている説は、\n地下遺跡の1番奥に\nあるという説でしょう。{1a}この説は、地下遺跡の中で見つけた\n幾つかの石版や壁画に、{1a}『世界の底に永遠の源あり』という\n一節が彫られていたことから\n導き出された仮説です。{1a}ただし、地下遺跡の終点がどこなのか\n誰も知りませんので、\nこの説の真偽を確かめる方法は\n今のところありません。{1a}もう1つの説が、\n地下都市アスラ・ファエルの何処かに\nあるという説です。{1a}地下都市の主要な建物の壁には、\n『永遠』や『輪廻』を意味する\n言葉やデザインが\n幾つも彫られていますし、{1a}『アザレの石』と同時に\n発見された装飾品が、\n現在地下都市内で発見されている\n装飾品と同じだという噂もあります。{1a}ただし、こちらの方も真偽のほどは\n分かりません。{1a}『アザレの石』と共に発見された\n装飾品は、アスロイト王宮の宝物庫に\nあるので、私のような一介の学者が\n見ることは出来ませんし、{1a}なにより、地下都市の4割近くが\n調査済みにもかかわらず\n何の痕跡も見つかっていないという\n現状もあります。{1a}アノイア暦5060年の大地震と共に\n地上世界にひょっこりあらわれた\n『アザレの石』・・・{1a}遺跡の1番奥にせよ地下都市にせよ、\nはるか地中にある物が\nいきなり地上に出てくるのも\n考えてみれば不思議な話です。{1a}もしかすると\n全く別の所にあるのかも・・・\n疑問は尽きません。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}There are two leading theories as to the\nwhereabouts of the 'Azare Stone'.{1a}The most widely believed is that it lies at\nthe very deepest point of the\nunderground ruins.{1a}This theory was drawn from several\ntablets and murals found in the\nunderground ruins,{1a}on which is carved the passage 'At the\nfloor of the world lies the wellspring of\neternity.'{1a}However, since no one knows where the\nunderground ruins end, there is at\npresent no way to test its truth.{1a}The other theory is that it lies\nsomewhere in the underground city of\nAsla Fael.{1a}On the walls of the city's principal\nbuildings are carved many words and\ndesigns signifying 'eternity' and\n'reincarnation',{1a}and there is also a rumor that the\nornaments discovered along with the\n'Azare Stone' match those now being\nfound in the underground city.{1a}Here too, however, the truth is unknown.{1a}The ornaments discovered with the\n'Azare Stone' are in the treasury of the\nroyal palace of Asroit, where a mere\nscholar such as myself cannot see{1a}them,{1a}and above all, there is the fact that\nnearly 40 percent of the underground\ncity has been surveyed without a trace\nbeing found.{1a}The 'Azare Stone' simply turned up on\nthe surface, along with the great\nearthquake of Anoian year 5060...{1a}Whether it lay at the deepest point of\nthe ruins or in the underground city, it is\na curious thing, when you think of it, for\nsomething so far underground to come{1a}suddenly to the surface.{1a}Perhaps it lies somewhere else entirely...\nThe questions never end.{0c:040e}",
+   "status": "done",
+   "tl": "There are two leading theories as to the whereabouts of the 'Azare Stone'. // The most widely believed is that it lies at the very deepest point of the underground ruins. // This theory was drawn from several tablets and murals found in the underground ruins, // on which is carved the passage 'At the floor of the world lies the wellspring of eternity.' // However, since no one knows where the underground ruins end, there is at present no way to test its truth. // The other theory is that it lies somewhere in the underground city of Asla Fael. // On the walls of the city's principal buildings are carved many words and designs signifying 'eternity' and 'reincarnation', // and there is also a rumor that the ornaments discovered along with the 'Azare Stone' match those now being found in the underground city. // Here too, however, the truth is unknown. // The ornaments discovered with the 'Azare Stone' are in the treasury of the royal palace of Asroit, where a mere scholar such as myself cannot see them, // and above all, there is the fact that nearly 40 percent of the underground city has been surveyed without a trace being found. // The 'Azare Stone' simply turned up on the surface, along with the great earthquake of Anoian year 5060... // Whether it lay at the deepest point of the ruins or in the underground city, it is a curious thing, when you think of it, for something so far underground to come suddenly to the surface. // Perhaps it lies somewhere else entirely... The questions never end."
   },
   {
    "id": "RES#1194:fa0e",
@@ -2582,8 +2656,9 @@
    "jp": "{1c:10}『太陽帝国』は、今から1万年ほど前、\nアノイア暦前4500年に\n繁栄したと考えられています。{1a}それより5百年前のリガレア文明や\n2千年後の第一王朝と比べると、\n比較にならないほど『太陽帝国』の\n科学技術は進んでいる・・・{1a}そこだけを見ると、\n『太陽帝国』は突然この世に\n現れたかのようにも思えてきます。{1a}一方、文字や宗教の面では、\n他の時代の文明との共通性や連続性が\n幾つか発見されています。{1a}もっとも、\n2百年前の教会建築で\n使われ始めた装飾方式、{1a}つまり、近世にしか\nその類型が存在しないはずの物も\n幾つか発見されているので、\nこれまた理解に苦しむばかりです。 {1a}もちろん、\n他の時代との関連性があるおかげで\n私達学者は太陽帝国の文字を\n読むことが出来るのですが・・・{0c:040e}",
    "read": "{1c:10}『太陽帝国』は、今から1万年ほど前、\nアノイア暦前4500年に\n繁栄したと考えられています。{1a}それより5百年前のリガレア文明や\n2千年後の第一王朝と比べると、\n比較にならないほど『太陽帝国』の\n科学技術は進んでいる・・・{1a}そこだけを見ると、\n『太陽帝国』は突然この世に\n現れたかのようにも思えてきます。{1a}一方、文字や宗教の面では、\n他の時代の文明との共通性や連続性が\n幾つか発見されています。{1a}もっとも、\n2百年前の教会建築で\n使われ始めた装飾方式、{1a}つまり、近世にしか\nその類型が存在しないはずの物も\n幾つか発見されているので、\nこれまた理解に苦しむばかりです。 {1a}もちろん、\n他の時代との関連性があるおかげで\n私達学者は太陽帝国の文字を\n読むことが出来るのですが・・・{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}The 'Sun Empire' is thought to have\nflourished about ten thousand years\nago, around the year 4500 before the\nAnoian calendar.{1a}Set beside the Rigalean civilization five\nhundred years earlier or the First\nDynasty two thousand years later, the\nscience and technology of the 'Sun{1a}Empire' are advanced beyond all\ncomparison...{1a}Looking at that alone, one might almost\nthink the 'Sun Empire' had appeared in\nthis world out of nowhere.{1a}In writing and religion, on the other hand,\nseveral points of commonality and\ncontinuity with the civilizations of other\neras have been found.{1a}Then again, ornamental styles that first\ncame into use in church architecture\ntwo hundred years ago,{1a}in other words, things whose like should\nexist only in recent times, have also been\nfound here and there, which leaves us\nbaffled all over again.{1a}Of course, it is thanks to those ties\nwith other eras that we scholars can\nread the writing of the Sun Empire at\nall...{0c:040e}",
+   "status": "done",
+   "tl": "The 'Sun Empire' is thought to have flourished about ten thousand years ago, around the year 4500 before the Anoian calendar. // Set beside the Rigalean civilization five hundred years earlier or the First Dynasty two thousand years later, the science and technology of the 'Sun Empire' are advanced beyond all comparison... // Looking at that alone, one might almost think the 'Sun Empire' had appeared in this world out of nowhere. // In writing and religion, on the other hand, several points of commonality and continuity with the civilizations of other eras have been found. // Then again, ornamental styles that first came into use in church architecture two hundred years ago, // in other words, things whose like should exist only in recent times, have also been found here and there, which leaves us baffled all over again. // Of course, it is thanks to those ties with other eras that we scholars can read the writing of the Sun Empire at all..."
   },
   {
    "id": "RES#1194:fbea",
@@ -2593,8 +2668,9 @@
    "jp": "{1c:10}『煉獄』『時の回廊』・・・{1a}これらの名称は私達冒険者、\nつまり現代の人間が\n{03}アノイア教{02}の聖書を元に付けた\n名前なのですが、{1a}偶然か必然か、\n{03}アノイア教{02}の聖書と地下遺跡には\n奇妙な符合点が幾つも\n発見されています。{1a}地下都市の奥にある『煉獄』、\nそして『時の回廊』の風景は、\n聖書に描かれたそれらの風景と\nあまりにも似ていますし、{1a}聖書の中には、魔物の出現などを\nまるで予言書のように\n細かく描写している一節もあります。{1a}今から{01}5千年前{02}に書かれた\n{03}アノイア教{02}の聖書と、\n{01}1万年前{02}に繁栄したと\nいわれている太陽帝国・・・{1a}{01}5千年前{02}、\n預言者{03}アノイア{02}と十三聖者は\n地下遺跡をその目で見て、{1a}それを聖書という本に\nまとめあげたのではないか・・・\nそのような荒唐無稽な仮説まで\n出るほどです。{0c:040e}",
    "read": "{1c:10}『煉獄』『時の回廊』・・・{1a}これらの名称は私達冒険者、\nつまり現代の人間が\n{03}アノイア教{02}の聖書を元に付けた\n名前なのですが、{1a}偶然か必然か、\n{03}アノイア教{02}の聖書と地下遺跡には\n奇妙な符合点が幾つも\n発見されています。{1a}地下都市の奥にある『煉獄』、\nそして『時の回廊』の風景は、\n聖書に描かれたそれらの風景と\nあまりにも似ていますし、{1a}聖書の中には、魔物の出現などを\nまるで予言書のように\n細かく描写している一節もあります。{1a}今から{01}5千年前{02}に書かれた\n{03}アノイア教{02}の聖書と、\n{01}1万年前{02}に繁栄したと\nいわれている太陽帝国・・・{1a}{01}5千年前{02}、\n預言者{03}アノイア{02}と十三聖者は\n地下遺跡をその目で見て、{1a}それを聖書という本に\nまとめあげたのではないか・・・\nそのような荒唐無稽な仮説まで\n出るほどです。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}'Purgatory', the 'Corridor of Time'...{1a}These names were given by us\nadventurers, that is, by people of the\npresent day, on the basis of the Anoian\nScriptures,{1a}yet whether by chance or by necessity,\na number of strange correspondences\nhave been found between the Anoian\nScriptures and the underground ruins.{1a}The scenery of 'Purgatory', deep in the\nunderground city, and of the 'Corridor\nof Time' resembles the scenes painted in\nthe Scriptures all too closely,{1a}and there are passages in the\nScriptures that describe the appearance\nof monsters and the like in fine detail, as\nthough it were a book of prophecy.{1a}The Anoian Scriptures, written five\nthousand years ago, and the Sun Empire,\nsaid to have flourished ten thousand\nyears ago...{1a}Five thousand years ago, did the\nProphet Anoia and the Thirteen Saints\nsee the underground ruins with their own\neyes,{1a}and set them down in the book we call\nthe Scriptures...? Even so wild a\nhypothesis as that has been put\nforward.{0c:040e}",
+   "status": "done",
+   "tl": "'Purgatory', the 'Corridor of Time'... // These names were given by us adventurers, that is, by people of the present day, on the basis of the Anoian Scriptures, // yet whether by chance or by necessity, a number of strange correspondences have been found between the Anoian Scriptures and the underground ruins. // The scenery of 'Purgatory', deep in the underground city, and of the 'Corridor of Time' resembles the scenes painted in the Scriptures all too closely, // and there are passages in the Scriptures that describe the appearance of monsters and the like in fine detail, as though it were a book of prophecy. // The Anoian Scriptures, written five thousand years ago, and the Sun Empire, said to have flourished ten thousand years ago... // Five thousand years ago, did the Prophet Anoia and the Thirteen Saints see the underground ruins with their own eyes, // and set them down in the book we call the Scriptures...? Even so wild a hypothesis as that has been put forward."
   },
   {
    "id": "RES#1194:fdd2",
@@ -2604,8 +2680,9 @@
    "jp": "{1c:10}『黒の羨道』は\n地下都市アスラ・ファエルを\nドーム状に包む城壁の北側側面を、{1a}まるで網の目のように通っていると\n言われています。{1a}地下都市に向かう道には\n幾つもの枝道が存在しますが、\n落ち着いて進めば\nそれほど迷う事もないでしょう。{1a}徘徊する魔物も、\nここより下の層と比べると\nはるかに非力ですので、{1a}ここで手間取るようでは、\n酷なようですが\n戦いには向いていないと\n言わざるを得ません・・・{1a}と、偉そうな事を言っておきながら、\n私の場合はバルデスさんという\n心強い相棒が最初から\n側にいてくれたおかげで{1a}ほとんど苦労せずに進めたので、\n私から皆さんに\n役に立つアドバイスは\n差し上げられないのです。{1a}もし1人で潜っていたなら\n私もおろおろするばかりで\n何も出来なかったでしょうから。{0c:040e}",
    "read": "{1c:10}『黒の羨道』は\n地下都市アスラ・ファエルを\nドーム状に包む城壁の北側側面を、{1a}まるで網の目のように通っていると\n言われています。{1a}地下都市に向かう道には\n幾つもの枝道が存在しますが、\n落ち着いて進めば\nそれほど迷う事もないでしょう。{1a}徘徊する魔物も、\nここより下の層と比べると\nはるかに非力ですので、{1a}ここで手間取るようでは、\n酷なようですが\n戦いには向いていないと\n言わざるを得ません・・・{1a}と、偉そうな事を言っておきながら、\n私の場合はバルデスさんという\n心強い相棒が最初から\n側にいてくれたおかげで{1a}ほとんど苦労せずに進めたので、\n私から皆さんに\n役に立つアドバイスは\n差し上げられないのです。{1a}もし1人で潜っていたなら\n私もおろおろするばかりで\n何も出来なかったでしょうから。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}The 'Black Passage' runs through the\nnorth face of the wall that encloses the\nunderground city of Asla Fael like a\ndome,{1a}threading it like the mesh of a net, or so\nit is said.{1a}The road to the underground city has\nmany branches, but if you proceed\ncalmly, you should not get too badly lost.{1a}The monsters that roam it are also far\nweaker than those on the levels below,{1a}so if you have trouble here, harsh as it\nmay sound, I must say that you are not\nsuited to fighting...{1a}That said, for all my lofty talk, in my\ncase I had so reliable a partner as\nValdes-san at my side from the very\nstart,{1a}and got through with almost no hardship,\nso I have no useful advice to offer any\nof you.{1a}Had I gone down alone, I too could have\ndone nothing but dither helplessly.{0c:040e}",
+   "status": "done",
+   "tl": "The 'Black Passage' runs through the north face of the wall that encloses the underground city of Asla Fael like a dome, // threading it like the mesh of a net, or so it is said. // The road to the underground city has many branches, but if you proceed calmly, you should not get too badly lost. // The monsters that roam it are also far weaker than those on the levels below, // so if you have trouble here, harsh as it may sound, I must say that you are not suited to fighting... // That said, for all my lofty talk, in my case I had so reliable a partner as Valdes-san at my side from the very start, // and got through with almost no hardship, so I have no useful advice to offer any of you. // Had I gone down alone, I too could have done nothing but dither helplessly."
   },
   {
    "id": "RES#1194:ff8b",
@@ -2615,8 +2692,9 @@
    "jp": "{1c:10}『アスラ・ファエル』という名称は、\n『黒の羨道』や『煉獄』なども含めた\n遺跡全体を指す場合の方が\n多いのですが、{1a}厳密に言えば\n『太陽帝国』の首都である、\n黄金色の地下都市のみを指す名称と\n考えた方がいいでしょう。{1a}さて、\n『アスラ・ファエル』の1番の謎は、\n何といってもその巨大さですね。{1a}初めてアスラ・ファエルに\n足を踏み入れた人は誰しも、\n本当にここが地下の世界なのかと\n自分の目を疑うといいます。{1a}そこには、\n大小あわせて千を越える\n建物が存在しますが、{1a}探索を始めて\n40年近くが経過した今でも\n私達冒険者の足跡は\nまだ半分にも達していないのです。{1a}バルデスさんという\n心強い相棒のいる私でさえ、\nこの6年間に訪れた場所は\n全体の2割にも達していません。{1a}ちなみに、皆さんが探さなければ\nならない『太陽の宝玉』は、{1a}アスラ・ファエルの城門に隣接した\n『第一神殿』という名の建物の\n最上階の広間にあります。{1a}城門から1番近い建物とはいえ、\n城門から『太陽の宝玉』がある\n広間までは、『黒の羨道』の全長に\n匹敵する距離があります。{1a}心してかかって下さい。{0c:040e}",
    "read": "{1c:10}『アスラ・ファエル』という名称は、\n『黒の羨道』や『煉獄』なども含めた\n遺跡全体を指す場合の方が\n多いのですが、{1a}厳密に言えば\n『太陽帝国』の首都である、\n黄金色の地下都市のみを指す名称と\n考えた方がいいでしょう。{1a}さて、\n『アスラ・ファエル』の1番の謎は、\n何といってもその巨大さですね。{1a}初めてアスラ・ファエルに\n足を踏み入れた人は誰しも、\n本当にここが地下の世界なのかと\n自分の目を疑うといいます。{1a}そこには、\n大小あわせて千を越える\n建物が存在しますが、{1a}探索を始めて\n40年近くが経過した今でも\n私達冒険者の足跡は\nまだ半分にも達していないのです。{1a}バルデスさんという\n心強い相棒のいる私でさえ、\nこの6年間に訪れた場所は\n全体の2割にも達していません。{1a}ちなみに、皆さんが探さなければ\nならない『太陽の宝玉』は、{1a}アスラ・ファエルの城門に隣接した\n『第一神殿』という名の建物の\n最上階の広間にあります。{1a}城門から1番近い建物とはいえ、\n城門から『太陽の宝玉』がある\n広間までは、『黒の羨道』の全長に\n匹敵する距離があります。{1a}心してかかって下さい。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}The name 'Asla Fael' is more often used\nfor the ruins as a whole, including the\n'Black Passage', 'Purgatory' and so on,{1a}but strictly speaking, it is better\nthought of as the name of the golden\nunderground city alone, the capital of\nthe 'Sun Empire'.{1a}Now, the greatest mystery of 'Asla\nFael' is, above all, its sheer size.{1a}Everyone who first sets foot in Asla\nFael, they say, doubts their own eyes:\ncan this truly be a world underground?{1a}More than a thousand buildings, great\nand small, stand there,{1a}yet even now, nearly 40 years after\nexploration began, the footprints of us\nadventurers do not reach even half of\nthem.{1a}Even I, with so reliable a partner as\nValdes-san, have visited less than 20\npercent of it in these six years.{1a}Incidentally, as for the 'Sun Jewel' that\nyou all must find,{1a}it lies in the hall on the top floor of a\nbuilding called the 'First Temple', which\nadjoins the city gate of Asla Fael.{1a}It may be the building nearest the gate,\nbut the distance from the gate to the\nhall with the 'Sun Jewel' matches the full\nlength of the 'Black Passage'.{1a}Please be on your guard.{0c:040e}",
+   "status": "done",
+   "tl": "The name 'Asla Fael' is more often used for the ruins as a whole, including the 'Black Passage', 'Purgatory' and so on, // but strictly speaking, it is better thought of as the name of the golden underground city alone, the capital of the 'Sun Empire'. // Now, the greatest mystery of 'Asla Fael' is, above all, its sheer size. // Everyone who first sets foot in Asla Fael, they say, doubts their own eyes: can this truly be a world underground? // More than a thousand buildings, great and small, stand there, // yet even now, nearly 40 years after exploration began, the footprints of us adventurers do not reach even half of them. // Even I, with so reliable a partner as Valdes-san, have visited less than 20 percent of it in these six years. // Incidentally, as for the 'Sun Jewel' that you all must find, // it lies in the hall on the top floor of a building called the 'First Temple', which adjoins the city gate of Asla Fael. // It may be the building nearest the gate, but the distance from the gate to the hall with the 'Sun Jewel' matches the full length of the 'Black Passage'. // Please be on your guard."
   },
   {
    "id": "RES#1194:1022a",
@@ -2626,8 +2704,9 @@
    "jp": "{1c:10}灼熱の溶岩流、\nむき出しの荒れた岩肌、\n呼吸が苦しくなるほどの熱気・・・{1a}まさに聖書に描かれている\n『煉獄』のような景色が\n地下都市アスラ・ファエルの\nさらに下に広がっています。{1a}この『煉獄』という呼び名にしても、\nその地を訪れた人達が、誰ともなく\n自然に使い始めたと聞いています。{1a}それほど聖書の描写に\nそっくりなわけですね。{1a}そこで手に入る財宝は\n『アスラ・ファエル』と比べると\n高価な物が多いにもかかわらず、{1a}この町の人達はあまり『煉獄』に\n足を踏み入れようとはしません。{1a}危険度の面でも、効率の面でも\n『煉獄』は冒険者を遠ざけていますが、{1a}『煉獄』という名称とその景色が\n聖書に描かれた死者の世界を\n連想させてしまうという\n精神的な問題もあるでしょう。{1a}ちなみに、聖書における『煉獄』とは\n天界と地獄の間にあり、{1a}死者の霊魂が天界にはいる前に\n炎によって罪を浄化される場所と\nされていますね。{1a}本物の、つまり聖書の『煉獄』は\n死ななければ入れませんが、\n私達の足下にある『煉獄』は、{1a}地下都市に幾つもある階段を\n降りるだけで行くことが出来ます。\nもちろん、当分は入らない方が\n賢明ですが。{0c:040e}",
    "read": "{1c:10}灼熱の溶岩流、\nむき出しの荒れた岩肌、\n呼吸が苦しくなるほどの熱気・・・{1a}まさに聖書に描かれている\n『煉獄』のような景色が\n地下都市アスラ・ファエルの\nさらに下に広がっています。{1a}この『煉獄』という呼び名にしても、\nその地を訪れた人達が、誰ともなく\n自然に使い始めたと聞いています。{1a}それほど聖書の描写に\nそっくりなわけですね。{1a}そこで手に入る財宝は\n『アスラ・ファエル』と比べると\n高価な物が多いにもかかわらず、{1a}この町の人達はあまり『煉獄』に\n足を踏み入れようとはしません。{1a}危険度の面でも、効率の面でも\n『煉獄』は冒険者を遠ざけていますが、{1a}『煉獄』という名称とその景色が\n聖書に描かれた死者の世界を\n連想させてしまうという\n精神的な問題もあるでしょう。{1a}ちなみに、聖書における『煉獄』とは\n天界と地獄の間にあり、{1a}死者の霊魂が天界にはいる前に\n炎によって罪を浄化される場所と\nされていますね。{1a}本物の、つまり聖書の『煉獄』は\n死ななければ入れませんが、\n私達の足下にある『煉獄』は、{1a}地下都市に幾つもある階段を\n降りるだけで行くことが出来ます。\nもちろん、当分は入らない方が\n賢明ですが。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Searing rivers of lava, bare and jagged\nrock, heat so fierce it is hard to\nbreathe...{1a}Scenery just like the 'Purgatory' painted\nin the Scriptures spreads out beneath\nthe underground city of Asla Fael.{1a}Even the name 'Purgatory', I am told,\ncame naturally into use among those who\nvisited the place, with no one person\ncoining it.{1a}That is how closely it resembles the\nScriptures' description.{1a}Although the treasures to be had there\nare often more valuable than those of\n'Asla Fael',{1a}the people of this town seldom set foot\nin 'Purgatory'.{1a}In both danger and efficiency,\n'Purgatory' keeps adventurers at a\ndistance,{1a}but there is also a matter of the mind:\nthe name 'Purgatory' and its scenery call\nto mind the world of the dead painted in\nthe Scriptures.{1a}Incidentally, 'Purgatory' in the Scriptures\nlies between the Celestial Realm and Hell,{1a}and is held to be the place where the\nsouls of the dead have their sins purged\nby fire before entering the Celestial\nRealm.{1a}The real 'Purgatory', that is, the one in\nthe Scriptures, can be entered only by\ndying, but the 'Purgatory' beneath our\nfeet{1a}you may reach simply by going down one\nof the many stairways in the\nunderground city. Of course, it would be\nwise to stay out of it for the time{1a}being.{0c:040e}",
+   "status": "done",
+   "tl": "Searing rivers of lava, bare and jagged rock, heat so fierce it is hard to breathe... // Scenery just like the 'Purgatory' painted in the Scriptures spreads out beneath the underground city of Asla Fael. // Even the name 'Purgatory', I am told, came naturally into use among those who visited the place, with no one person coining it. // That is how closely it resembles the Scriptures' description. // Although the treasures to be had there are often more valuable than those of 'Asla Fael', // the people of this town seldom set foot in 'Purgatory'. // In both danger and efficiency, 'Purgatory' keeps adventurers at a distance, // but there is also a matter of the mind: the name 'Purgatory' and its scenery call to mind the world of the dead painted in the Scriptures. // Incidentally, 'Purgatory' in the Scriptures lies between the Celestial Realm and Hell, // and is held to be the place where the souls of the dead have their sins purged by fire before entering the Celestial Realm. // The real 'Purgatory', that is, the one in the Scriptures, can be entered only by dying, but the 'Purgatory' beneath our feet // you may reach simply by going down one of the many stairways in the underground city. Of course, it would be wise to stay out of it for the time being."
   },
   {
    "id": "RES#1194:104cd",
@@ -2637,8 +2716,9 @@
    "jp": "{1c:10}煉獄よりさらに下に潜ると、\n氷のように冷たいうち捨てられた\n神殿の跡があります。{1a}現在確認されている各層の中で\n最も奥深くにあるこの遺跡を、\n私達は『時の回廊』と呼んでいます。{1a}遺跡で発見された壁画や石版には、\nさらに奥に『永遠の世界』が\n存在すると書かれていますが、\n真偽を確かめる方法はありません。{1a}理由は簡単、\n時の回廊は数階層で行き止まりと\nなっているからです。{1a}『時の回廊』という名称も\n『煉獄』と同じく、\n聖書を元に名付けられました。{1a}聖書中の『時の回廊』は、\n二大神ゼメンとゼウェアクが\n古の神々を、それを祀る神殿と共に\n封印した場所であるとされています。{1a}もっともこのお話よりは、\n永遠の命を得るため、自分の友人を\n封印された古の神々に生け贄に捧げた\n罪深き男の説話の方が有名ですね。{0c:040e}",
    "read": "{1c:10}煉獄よりさらに下に潜ると、\n氷のように冷たいうち捨てられた\n神殿の跡があります。{1a}現在確認されている各層の中で\n最も奥深くにあるこの遺跡を、\n私達は『時の回廊』と呼んでいます。{1a}遺跡で発見された壁画や石版には、\nさらに奥に『永遠の世界』が\n存在すると書かれていますが、\n真偽を確かめる方法はありません。{1a}理由は簡単、\n時の回廊は数階層で行き止まりと\nなっているからです。{1a}『時の回廊』という名称も\n『煉獄』と同じく、\n聖書を元に名付けられました。{1a}聖書中の『時の回廊』は、\n二大神ゼメンとゼウェアクが\n古の神々を、それを祀る神殿と共に\n封印した場所であるとされています。{1a}もっともこのお話よりは、\n永遠の命を得るため、自分の友人を\n封印された古の神々に生け贄に捧げた\n罪深き男の説話の方が有名ですね。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Delve further below Purgatory and you\nfind the remains of an abandoned temple,\ncold as ice.{1a}This site, the deepest of all the levels\nconfirmed so far, we call the 'Corridor\nof Time'.{1a}Murals and tablets found in the ruins say\nthat an 'Eternal World' lies deeper still,\nbut there is no way to test the truth\nof this.{1a}The reason is simple: the Corridor of\nTime comes to a dead end after a few\nlevels.{1a}The name 'Corridor of Time', like\n'Purgatory', was taken from the\nScriptures.{1a}The 'Corridor of Time' in the Scriptures\nis held to be the place where the Two\nSupreme Gods Zemen and Zeweak sealed\naway the ancient gods, together with{1a}the temples that enshrined them.{1a}Better known than this account,\nhowever, is the tale of the sinful man\nwho sacrificed his own friend to the\nsealed ancient gods to gain eternal life.{0c:040e}",
+   "status": "done",
+   "tl": "Delve further below Purgatory and you find the remains of an abandoned temple, cold as ice. // This site, the deepest of all the levels confirmed so far, we call the 'Corridor of Time'. // Murals and tablets found in the ruins say that an 'Eternal World' lies deeper still, but there is no way to test the truth of this. // The reason is simple: the Corridor of Time comes to a dead end after a few levels. // The name 'Corridor of Time', like 'Purgatory', was taken from the Scriptures. // The 'Corridor of Time' in the Scriptures is held to be the place where the Two Supreme Gods Zemen and Zeweak sealed away the ancient gods, together with the temples that enshrined them. // Better known than this account, however, is the tale of the sinful man who sacrificed his own friend to the sealed ancient gods to gain eternal life."
   },
   {
    "id": "RES#1194:106b7",
@@ -2648,8 +2728,9 @@
    "jp": "{1c:10}『魔法』を詠唱するには\n杖や石版の形をした『魔法具』と、\n刻印のきざまれた腕輪『魔法操具』\nという2つの道具が必要です。{1a}この2つを装備し、\n炎が相手を燃やし尽くすなどの\nイメージを、『思念』として\n『魔法具』に送ることで{1a}心の中のイメージが具現化され、\n魔法が発射されます。{1a}『魔法操具』は、『魔法具』を\n扱うための鍵のようなもので、\n唱える魔法ごとに\n別の刻印が必要となります。{1a}この鍵と、頭に描いた魔法の\nイメージがピタリと一致した時のみ\n魔法が具現化されるわけですね。{1a}どの『魔法操具』も\n初めは1つの刻印しか\n表面にあらわれていませんが、{1a}実際には必ず数種類の刻印が\n隠されています。{1a}昨年、私はその刻印を強引に\n浮かび上がらす装置の試作機を\n完成させました。{1a}まだ安定性は低いので\nいきなり強力な魔法の刻印を\n浮かび上がらせることは出来ませんが、{1a}魔法を増やしたい時は\nぜひ私にご相談下さい。{1a}ただし、刻印を復活させた\n『魔法操具』には、\n他人に受け渡しが出来ない、{1a}1度手にすれば2度と\n他の魔法操具を持つことは出来ない、{1a}トラップカプセルの効果を\n打ち消してしまうので、\n武器を持って戦う人は事実上\n使えないなどの制約があります。{1a}『魔法具』の方は、\n持ち替えることは可能ですが、\nそれによって魔法の種類が\n変わることはありません。{1a}ですが、魔法自体の威力を\n高めることは出来ますので、\n性能のよい魔法具を見つけることも\n魔法使いの重要な仕事でしょう。{1a}以上が、現在解明されている\n魔法の仕組みの全てです。{0c:f702a6040e}",
    "read": "{1c:10}『魔法』を詠唱するには\n杖や石版の形をした『魔法具』と、\n刻印のきざまれた腕輪『魔法操具』\nという2つの道具が必要です。{1a}この2つを装備し、\n炎が相手を燃やし尽くすなどの\nイメージを、『思念』として\n『魔法具』に送ることで{1a}心の中のイメージが具現化され、\n魔法が発射されます。{1a}『魔法操具』は、『魔法具』を\n扱うための鍵のようなもので、\n唱える魔法ごとに\n別の刻印が必要となります。{1a}この鍵と、頭に描いた魔法の\nイメージがピタリと一致した時のみ\n魔法が具現化されるわけですね。{1a}どの『魔法操具』も\n初めは1つの刻印しか\n表面にあらわれていませんが、{1a}実際には必ず数種類の刻印が\n隠されています。{1a}昨年、私はその刻印を強引に\n浮かび上がらす装置の試作機を\n完成させました。{1a}まだ安定性は低いので\nいきなり強力な魔法の刻印を\n浮かび上がらせることは出来ませんが、{1a}魔法を増やしたい時は\nぜひ私にご相談下さい。{1a}ただし、刻印を復活させた\n『魔法操具』には、\n他人に受け渡しが出来ない、{1a}1度手にすれば2度と\n他の魔法操具を持つことは出来ない、{1a}トラップカプセルの効果を\n打ち消してしまうので、\n武器を持って戦う人は事実上\n使えないなどの制約があります。{1a}『魔法具』の方は、\n持ち替えることは可能ですが、\nそれによって魔法の種類が\n変わることはありません。{1a}ですが、魔法自体の威力を\n高めることは出来ますので、\n性能のよい魔法具を見つけることも\n魔法使いの重要な仕事でしょう。{1a}以上が、現在解明されている\n魔法の仕組みの全てです。{0c:f702a6040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}To cast 'magic', one needs two\nimplements: a 'Magic Tool' in the form of\na staff or tablet, and a 'Spell Device', a\nbracelet engraved with a sigil.{1a}When you equip these two and send an\nimage, such as flames burning an enemy\nto nothing, into the 'Magic Tool' as a\n'thought-form',{1a}the image in your mind takes shape, and\nthe magic is released.{1a}The 'Spell Device' is a kind of key for\nhandling the 'Magic Tool', and each spell\ncast requires a different sigil.{1a}Only when this key and the image of the\nmagic in your mind match exactly does\nthe magic take shape.{1a}Every 'Spell Device' shows only one sigil\non its surface at first,{1a}but in truth, several kinds of sigil are\nalways hidden within it.{1a}Last year I completed a prototype of a\ndevice that forcibly brings those sigils to\nthe surface.{1a}Its stability is still low, so it cannot raise\nthe sigil of a powerful spell right away,{1a}but when you wish to add to your magic,\nplease do consult me.{1a}However, a 'Spell Device' with restored\nsigils carries certain restrictions: it\ncannot be passed to anyone else,{1a}once you have taken one up you can\nnever hold another Spell Device,{1a}and it cancels the effect of Trap\nCapsules, so those who fight with\nweapons effectively cannot use it.{1a}As for the 'Magic Tool', you may switch\nto another, but doing so does not\nchange the kinds of magic you have.{1a}It can, however, raise the power of the\nmagic itself, so finding a fine Magic Tool\nis also an important part of a wizard's\nwork.{1a}That is everything now known about the\nworkings of magic.{0c:f702a6040e}",
+   "status": "done",
+   "tl": "To cast 'magic', one needs two implements: a 'Magic Tool' in the form of a staff or tablet, and a 'Spell Device', a bracelet engraved with a sigil. // When you equip these two and send an image, such as flames burning an enemy to nothing, into the 'Magic Tool' as a 'thought-form', // the image in your mind takes shape, and the magic is released. // The 'Spell Device' is a kind of key for handling the 'Magic Tool', and each spell cast requires a different sigil. // Only when this key and the image of the magic in your mind match exactly does the magic take shape. // Every 'Spell Device' shows only one sigil on its surface at first, // but in truth, several kinds of sigil are always hidden within it. // Last year I completed a prototype of a device that forcibly brings those sigils to the surface. // Its stability is still low, so it cannot raise the sigil of a powerful spell right away, // but when you wish to add to your magic, please do consult me. // However, a 'Spell Device' with restored sigils carries certain restrictions: it cannot be passed to anyone else, // once you have taken one up you can never hold another Spell Device, // and it cancels the effect of Trap Capsules, so those who fight with weapons effectively cannot use it. // As for the 'Magic Tool', you may switch to another, but doing so does not change the kinds of magic you have. // It can, however, raise the power of the magic itself, so finding a fine Magic Tool is also an important part of a wizard's work. // That is everything now known about the workings of magic."
   },
   {
    "id": "RES#1194:10a57",
@@ -2659,8 +2740,9 @@
    "jp": "{1c:10}手のひらに収まるほどの\n小さなカプセルの中に、\n魔物相手の戦いに役立つ仕掛けが\n2系統ずつ入っています。{1a}また、トラップカプセルを\n改造することによって\nより強力なトラップを\n使用することが可能になります。{1a}本当は無料で、と\nいきたいところなのですが、\nこれが案外お金がかかりまして・・・{1a}皆さんから必要経費だけ\n頂くことにしています。{1a}言い訳っぽいですが、\n一応、何故お金がかかるかも\n言っておきますね。{1a}皆さんがお持ちのトラップカプセルは\n見た目は確かにどれも似ていますが、\nこの世に同じ特性のものは\n1つとしてなく、{1a}例えば、{10}さんのものと\n似たような効果の\nトラップが入っている\nトラップカプセルがあっても、{1a}中の仕組みは1つ1つ\n全く異なってしまうのです。\nつまり、同じ改良の手順が\n通用しないわけですね。{1a}また、開発・改造と一口に言っても、\nトラップカプセルの中身・・・\nつまりトラップ自体の改良と、{1a}入れ物である\nトラップカプセルの開発、\nこの両方をしなければなりません。{1a}1つ1つのトラップカプセルには\n様々な個性がありますし、\nカプセルとトラップには\nそれぞれに相性があったりで、{1a}試行錯誤を何度も\n繰り返さなければなりません。\nこのせいでお金が\nかかってしまうのです。{1a}ただし、1度開発してしまえば\nそのトラップは何千回使おうとも\n使い放題です。決して高くない\n投資であると思いますよ。{0c:f7028d040e}",
    "read": "{1c:10}手のひらに収まるほどの\n小さなカプセルの中に、\n魔物相手の戦いに役立つ仕掛けが\n2系統ずつ入っています。{1a}また、トラップカプセルを\n改造することによって\nより強力なトラップを\n使用することが可能になります。{1a}本当は無料で、と\nいきたいところなのですが、\nこれが案外お金がかかりまして・・・{1a}皆さんから必要経費だけ\n頂くことにしています。{1a}言い訳っぽいですが、\n一応、何故お金がかかるかも\n言っておきますね。{1a}皆さんがお持ちのトラップカプセルは\n見た目は確かにどれも似ていますが、\nこの世に同じ特性のものは\n1つとしてなく、{1a}例えば、{10}さんのものと\n似たような効果の\nトラップが入っている\nトラップカプセルがあっても、{1a}中の仕組みは1つ1つ\n全く異なってしまうのです。\nつまり、同じ改良の手順が\n通用しないわけですね。{1a}また、開発・改造と一口に言っても、\nトラップカプセルの中身・・・\nつまりトラップ自体の改良と、{1a}入れ物である\nトラップカプセルの開発、\nこの両方をしなければなりません。{1a}1つ1つのトラップカプセルには\n様々な個性がありますし、\nカプセルとトラップには\nそれぞれに相性があったりで、{1a}試行錯誤を何度も\n繰り返さなければなりません。\nこのせいでお金が\nかかってしまうのです。{1a}ただし、1度開発してしまえば\nそのトラップは何千回使おうとも\n使い放題です。決して高くない\n投資であると思いますよ。{0c:f7028d040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Inside a small capsule that fits in the\npalm of your hand are two lines of\ndevices useful in battle against\nmonsters.{1a}By modifying a Trap Capsule, you can\nalso use more powerful traps.{1a}I would like to do this free of charge,\nbut it turns out to be rather costly...{1a}so I ask you only for the necessary\nexpenses.{1a}It may sound like an excuse, but let me\nat least tell you why it costs money.{1a}The Trap Capsules you carry may all look\nalike, but no two in this world have the\nsame properties.{1a}For example, even if another Trap\nCapsule holds traps with effects much\nlike those in {10}-san's,{1a}the mechanism inside is different in each\nand every one. In other words, the same\nsteps of improvement will not carry over.{1a}And though we speak simply of\ndevelopment and modification, there is\nthe contents of the Trap Capsule... that\nis, improving the trap itself,{1a}and developing the Trap Capsule that\nhouses it, and both must be done.{1a}Each Trap Capsule has its own\ncharacter, and capsules and traps each\nhave their own affinities,{1a}so it takes trial and error, over and\nover. That is why it costs money.{1a}However, once a trap is developed, it is\nyours to use as you like, thousands of\ntimes over. I believe it is by no means an\nexpensive investment.{0c:f7028d040e}",
+   "status": "done",
+   "tl": "Inside a small capsule that fits in the palm of your hand are two lines of devices useful in battle against monsters. // By modifying a Trap Capsule, you can also use more powerful traps. // I would like to do this free of charge, but it turns out to be rather costly... // so I ask you only for the necessary expenses. // It may sound like an excuse, but let me at least tell you why it costs money. // The Trap Capsules you carry may all look alike, but no two in this world have the same properties. // For example, even if another Trap Capsule holds traps with effects much like those in [HERO]-san's, // the mechanism inside is different in each and every one. In other words, the same steps of improvement will not carry over. // And though we speak simply of development and modification, there is the contents of the Trap Capsule... that is, improving the trap itself, // and developing the Trap Capsule that houses it, and both must be done. // Each Trap Capsule has its own character, and capsules and traps each have their own affinities, // so it takes trial and error, over and over. That is why it costs money. // However, once a trap is developed, it is yours to use as you like, thousands of times over. I believe it is by no means an expensive investment."
   },
   {
    "id": "RES#1194:10d5d",
@@ -2670,8 +2752,9 @@
    "jp": "{1c:13}そういえば・・・{1a}ノエルさんやルカさん達には\nオイゲンさんが総督府で面談した時に\n魔法具と魔法操具を\nお渡ししたそうなのですが、{1a}ディアスさんだけは既に\n持っておられたのだそうですね。{1a}この2つの道具も他の財宝と同じく\n一旦ランツの町に運ばれますが、{1a}他の財宝とは異なり、\n魔法具は一般の人に販売することが\n固く禁止されているのです。{1a}魔法操具の方は魔法具がなければ\nただの飾りになってしまいますので\n入手に制限はありませんし、{1a}希少価値もさほど高くないので\n持っていても不思議ではないのですが、\nディアスさんはどうやって\n魔法具を手に入れたのか・・・{1a}・・・あまり魔法とは\n関係のない話題でしたね。{0c:040e}",
    "read": "{1c:13}そういえば・・・{1a}ノエルさんやルカさん達には\nオイゲンさんが総督府で面談した時に\n魔法具と魔法操具を\nお渡ししたそうなのですが、{1a}ディアスさんだけは既に\n持っておられたのだそうですね。{1a}この2つの道具も他の財宝と同じく\n一旦ランツの町に運ばれますが、{1a}他の財宝とは異なり、\n魔法具は一般の人に販売することが\n固く禁止されているのです。{1a}魔法操具の方は魔法具がなければ\nただの飾りになってしまいますので\n入手に制限はありませんし、{1a}希少価値もさほど高くないので\n持っていても不思議ではないのですが、\nディアスさんはどうやって\n魔法具を手に入れたのか・・・{1a}・・・あまり魔法とは\n関係のない話題でしたね。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}Come to think of it...{1a}I hear that when Eugen-san interviewed\nNoel-san, Luca-san and the others at\nthe Governor's Office, he gave them\nMagic Tools and Spell Devices,{1a}but that Dias-san alone already had his\nown.{1a}These two implements, like other\ntreasures, are first carried to the town\nof Lanz,{1a}but unlike other treasures, selling Magic\nTools to the general public is strictly\nforbidden.{1a}A Spell Device without a Magic Tool is a\nmere ornament, so there is no\nrestriction on obtaining one,{1a}and since they are not especially rare, it\nwould be no surprise to own one, but\nhow did Dias-san come by a Magic Tool...{1a}...That had little to do with magic, did it\nnot?{0c:040e}",
+   "status": "done",
+   "tl": "Come to think of it... // I hear that when Eugen-san interviewed Noel-san, Luca-san and the others at the Governor's Office, he gave them Magic Tools and Spell Devices, // but that Dias-san alone already had his own. // These two implements, like other treasures, are first carried to the town of Lanz, // but unlike other treasures, selling Magic Tools to the general public is strictly forbidden. // A Spell Device without a Magic Tool is a mere ornament, so there is no restriction on obtaining one, // and since they are not especially rare, it would be no surprise to own one, but how did Dias-san come by a Magic Tool... // ...That had little to do with magic, did it not?"
   },
   {
    "id": "RES#1194:10ee9",
@@ -2681,8 +2764,9 @@
    "jp": "{1c:10}『黒の羨道』は\n地下都市アスラ・ファエルを\nドーム状に包む城壁の北側側面を、{1a}まるで網の目のように通っていると\n言われています。{1a}{10}さんも\nご存じだとは思いますが、\nアスラ・ファエルに向かう道には\n幾つもの枝道が存在します。{1a}皆さんご存じの『青の羨道』以外にも、\nまだまだ脇道枝道はあるのですが、{1a}黒の羨道自体が\n学術的にも、見つかる財宝の価値も、\nアスラ・ファエルと比べると\n若干見劣りしますので、{1a}特定の何かを探す目的でも無い限り、\n何度も足を運ぶ所ではないでしょう。{0c:040e}",
    "read": "{1c:10}『黒の羨道』は\n地下都市アスラ・ファエルを\nドーム状に包む城壁の北側側面を、{1a}まるで網の目のように通っていると\n言われています。{1a}{10}さんも\nご存じだとは思いますが、\nアスラ・ファエルに向かう道には\n幾つもの枝道が存在します。{1a}皆さんご存じの『青の羨道』以外にも、\nまだまだ脇道枝道はあるのですが、{1a}黒の羨道自体が\n学術的にも、見つかる財宝の価値も、\nアスラ・ファエルと比べると\n若干見劣りしますので、{1a}特定の何かを探す目的でも無い限り、\n何度も足を運ぶ所ではないでしょう。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}The 'Black Passage' runs through the\nnorth face of the wall that encloses the\nunderground city of Asla Fael like a\ndome,{1a}threading it like the mesh of a net, or so\nit is said.{1a}As I expect you know, {10}-san,\nthe road to Asla Fael has many\nbranches.{1a}Besides the 'Blue Passage' you all know,\nthere are still more side paths and\nbranches,{1a}but the Black Passage itself falls\nsomewhat short of Asla Fael, both in\nscholarly interest and in the value of the\ntreasure found there,{1a}so unless you are seeking something in\nparticular, it is not a place to visit again\nand again.{0c:040e}",
+   "status": "done",
+   "tl": "The 'Black Passage' runs through the north face of the wall that encloses the underground city of Asla Fael like a dome, // threading it like the mesh of a net, or so it is said. // As I expect you know, [HERO]-san, the road to Asla Fael has many branches. // Besides the 'Blue Passage' you all know, there are still more side paths and branches, // but the Black Passage itself falls somewhat short of Asla Fael, both in scholarly interest and in the value of the treasure found there, // so unless you are seeking something in particular, it is not a place to visit again and again."
   },
   {
    "id": "RES#1194:1102e",
@@ -2692,8 +2776,9 @@
    "jp": "{1c:10}『アスラ・ファエル』という名称は、\n『黒の羨道』や『煉獄』なども含めた\n遺跡全体を指す場合の方が\n多いのですが、{1a}厳密に言えば\n『太陽帝国』の首都である、\n黄金色の地下都市のみを指す名称と\n考えた方がいいでしょう。{1a}さて、\n『アスラ・ファエル』の最大の謎は、\n何といってもその巨大さですね。{1a}空を見上げれば、\n永遠に沈むことない太陽があり\n雲が流れている・・・{1a}何度足を運んでも、\nそこが地底深くの世界であることを\n忘れてしまいそうです。{1a}そこには、\n大小あわせて千を越える\n建物が存在しますが、{1a}探索を始めて\n40年近くが経過した今でも\n私達冒険者の足跡は\nまだ半分にも達していません。{1a}バルデスさんという\n心強い相棒のいる私でさえ、\n6年間に訪れた場所は\n全体の2割にも達していないのです。{1a}ちなみに、皆さんが探さなければ\nならない『太陽の宝玉』は、\n『第一神殿』の最上階の\n広間にあります。{1a}1つの建物内とはいえ、\n城門から『太陽の宝玉』がある\n広間までは、『黒の羨道』の全長に\n匹敵する距離があります。{1a}心してかかって下さいね。{0c:040e}",
    "read": "{1c:10}『アスラ・ファエル』という名称は、\n『黒の羨道』や『煉獄』なども含めた\n遺跡全体を指す場合の方が\n多いのですが、{1a}厳密に言えば\n『太陽帝国』の首都である、\n黄金色の地下都市のみを指す名称と\n考えた方がいいでしょう。{1a}さて、\n『アスラ・ファエル』の最大の謎は、\n何といってもその巨大さですね。{1a}空を見上げれば、\n永遠に沈むことない太陽があり\n雲が流れている・・・{1a}何度足を運んでも、\nそこが地底深くの世界であることを\n忘れてしまいそうです。{1a}そこには、\n大小あわせて千を越える\n建物が存在しますが、{1a}探索を始めて\n40年近くが経過した今でも\n私達冒険者の足跡は\nまだ半分にも達していません。{1a}バルデスさんという\n心強い相棒のいる私でさえ、\n6年間に訪れた場所は\n全体の2割にも達していないのです。{1a}ちなみに、皆さんが探さなければ\nならない『太陽の宝玉』は、\n『第一神殿』の最上階の\n広間にあります。{1a}1つの建物内とはいえ、\n城門から『太陽の宝玉』がある\n広間までは、『黒の羨道』の全長に\n匹敵する距離があります。{1a}心してかかって下さいね。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}The name 'Asla Fael' is more often used\nfor the ruins as a whole, including the\n'Black Passage', 'Purgatory' and so on,{1a}but strictly speaking, it is better\nthought of as the name of the golden\nunderground city alone, the capital of\nthe 'Sun Empire'.{1a}Now, the greatest mystery of 'Asla\nFael' is, above all, its sheer size.{1a}Look up at the sky and there is a sun\nthat never sets, and clouds drifting by...{1a}However many times I go there, I nearly\nforget that it is a world deep under the\nearth.{1a}More than a thousand buildings, great\nand small, stand there,{1a}yet even now, nearly 40 years after\nexploration began, the footprints of us\nadventurers do not reach even half of\nthem.{1a}Even I, with so reliable a partner as\nValdes-san, have visited less than 20\npercent of it in six years.{1a}Incidentally, the 'Sun Jewel' that you all\nmust find lies in the hall on the top floor\nof the 'First Temple'.{1a}It may be a single building, but the\ndistance from the gate to the hall with\nthe 'Sun Jewel' matches the full length\nof the 'Black Passage'.{1a}Please do be on your guard.{0c:040e}",
+   "status": "done",
+   "tl": "The name 'Asla Fael' is more often used for the ruins as a whole, including the 'Black Passage', 'Purgatory' and so on, // but strictly speaking, it is better thought of as the name of the golden underground city alone, the capital of the 'Sun Empire'. // Now, the greatest mystery of 'Asla Fael' is, above all, its sheer size. // Look up at the sky and there is a sun that never sets, and clouds drifting by... // However many times I go there, I nearly forget that it is a world deep under the earth. // More than a thousand buildings, great and small, stand there, // yet even now, nearly 40 years after exploration began, the footprints of us adventurers do not reach even half of them. // Even I, with so reliable a partner as Valdes-san, have visited less than 20 percent of it in six years. // Incidentally, the 'Sun Jewel' that you all must find lies in the hall on the top floor of the 'First Temple'. // It may be a single building, but the distance from the gate to the hall with the 'Sun Jewel' matches the full length of the 'Black Passage'. // Please do be on your guard."
   },
   {
    "id": "RES#1194:112b6",
@@ -2703,8 +2788,9 @@
    "jp": "{1c:13}そういえば・・・{1a}2年ほど前に書いた書物の中で、\n私は、『様々な国や組織が\n魔法具の獲得に乗り出している』と\n書いたのですが、{1a}どうやら教皇庁が\nかなりの量の魔法具を\n買い占めているようですね。{1a}ランツから来た最新のレポートの中に、\n『魔法具の7割が南に流れている』と\n書かれてありましたが、{1a}私が独自に調べた結果によりますと、\nバイレステ共和国政府が\n魔法具の獲得に力を入れている\n様子はありません。{1a}また、フィサーノ、イレニア、\nセフィータなどの国にバイレステが\n魔法具の販売を許可することも\n考えられません。{1a}各国とバイレステ共和国との関係は\n支配する側とされる側の関係ですから、\n強力な兵器となりうる魔法具の\n販売を許可するわけがないのです。{1a}南にあり、バイレステやアスロイトが\n魔法具の取得を容認する勢力・・・\nこれは私の推察に過ぎませんが、\n該当する勢力は教皇庁のみです。{1a}この平和な時代に何故\nあのようなものを集めるのか・・・\nこの平和が破られるようなことが\nおこらなければよいのですが・・・{0c:040e}",
    "read": "{1c:13}そういえば・・・{1a}2年ほど前に書いた書物の中で、\n私は、『様々な国や組織が\n魔法具の獲得に乗り出している』と\n書いたのですが、{1a}どうやら教皇庁が\nかなりの量の魔法具を\n買い占めているようですね。{1a}ランツから来た最新のレポートの中に、\n『魔法具の7割が南に流れている』と\n書かれてありましたが、{1a}私が独自に調べた結果によりますと、\nバイレステ共和国政府が\n魔法具の獲得に力を入れている\n様子はありません。{1a}また、フィサーノ、イレニア、\nセフィータなどの国にバイレステが\n魔法具の販売を許可することも\n考えられません。{1a}各国とバイレステ共和国との関係は\n支配する側とされる側の関係ですから、\n強力な兵器となりうる魔法具の\n販売を許可するわけがないのです。{1a}南にあり、バイレステやアスロイトが\n魔法具の取得を容認する勢力・・・\nこれは私の推察に過ぎませんが、\n該当する勢力は教皇庁のみです。{1a}この平和な時代に何故\nあのようなものを集めるのか・・・\nこの平和が破られるようなことが\nおこらなければよいのですが・・・{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}Come to think of it...{1a}In a book I wrote about two years ago, I\nstated that 'various nations and\norganizations are moving to acquire Magic\nTools',{1a}and it appears the Holy See is buying up\na considerable number of them.{1a}A recent report from Lanz said that '70\npercent of Magic Tools are flowing\nsouth',{1a}but according to my own inquiries, the\ngovernment of the Republic of Baileste\nshows no sign of putting effort into\nacquiring Magic Tools.{1a}Nor can I imagine Baileste permitting the\nsale of Magic Tools to countries such as\nFisano, Irenia or Sefita.{1a}Those countries and the Republic of\nBaileste stand as ruled and ruler, so it\nwould never permit the sale of Magic\nTools, which could become powerful{1a}weapons.{1a}A power in the south whose acquisition\nof Magic Tools both Baileste and Asroit\ntolerate... This is only my own guess, but\nthe one power that fits is the Holy{1a}See.{1a}Why gather such things in this age of\npeace... I only hope that nothing happens\nto break this peace...{0c:040e}",
+   "status": "done",
+   "tl": "Come to think of it... // In a book I wrote about two years ago, I stated that 'various nations and organizations are moving to acquire Magic Tools', // and it appears the Holy See is buying up a considerable number of them. // A recent report from Lanz said that '70 percent of Magic Tools are flowing south', // but according to my own inquiries, the government of the Republic of Baileste shows no sign of putting effort into acquiring Magic Tools. // Nor can I imagine Baileste permitting the sale of Magic Tools to countries such as Fisano, Irenia or Sefita. // Those countries and the Republic of Baileste stand as ruled and ruler, so it would never permit the sale of Magic Tools, which could become powerful weapons. // A power in the south whose acquisition of Magic Tools both Baileste and Asroit tolerate... This is only my own guess, but the one power that fits is the Holy See. // Why gather such things in this age of peace... I only hope that nothing happens to break this peace..."
   },
   {
    "id": "RES#1194:11516",
@@ -2714,8 +2800,9 @@
    "jp": "{1c:12}アスラ・ファエルは\n精神世界の集合体であり、\nそこでは人々の様々な感情が\n具現化・物質化する・・・{1a}そして、精神世界と物質世界は\n今まさに融合しつつあり、\nやがては全ての境界が消え去り\n形のない1つの『意志』になる・・・{1a}そして、それこそが\n太陽帝国の人々が追い求めた\n『永遠の世界』の正体なのでは\nないか・・・{1a}これが、私の導き出した\n地下遺跡の謎への回答です。{1a}といっても、\n自分の導き出したこの結論によって\n余計に謎が深まった部分の方が\n多いかもしれませんね。{1a}最大の疑問は、『もしアノイア教が\n存在しなかったら』ということです。{1a}太陽帝国の人々が、\nアノイア教の教義における\n『新しい世界』とほとんど同じ形の\n『永遠の世界』を追い求めていたのは{1a}地上世界に残る様々な文献から考えて\nほぼ間違いないと確信しています。{1a}ですが、もしアノイア教が\n5千年前に誕生しなかったら、{1a}『新しい世界』を求める感情が\n人々の心に芽生えることなど\nなかったわけですし、{1a}物質世界と精神世界の融合や、\n魔物の出現でさえも\n起こらなかったかもしれません。{1a}もしアノイア教が存在したとしても、\n『新しい世界』という教義がなければ\n別の結果になっていたでしょうし、{1a}アノイア教が\nただの地方宗教で終わっていても\n違う結果になっていたでしょう。{1a}さすがにそんなことはないでしょうが、\nもし偶然の未来に賭けたのであれば、\n太陽帝国の計画はあまりにもお粗末と\n言わざるをえないでしょうね。{1a}1万年前に滅んだはずの太陽帝国が\nどうやって5千年後の\nアノイア教の誕生と隆盛を\nここまで正確に予測したのか・・・{1a}これが最大の疑問です。{0c:040e}",
    "read": "{1c:12}アスラ・ファエルは\n精神世界の集合体であり、\nそこでは人々の様々な感情が\n具現化・物質化する・・・{1a}そして、精神世界と物質世界は\n今まさに融合しつつあり、\nやがては全ての境界が消え去り\n形のない1つの『意志』になる・・・{1a}そして、それこそが\n太陽帝国の人々が追い求めた\n『永遠の世界』の正体なのでは\nないか・・・{1a}これが、私の導き出した\n地下遺跡の謎への回答です。{1a}といっても、\n自分の導き出したこの結論によって\n余計に謎が深まった部分の方が\n多いかもしれませんね。{1a}最大の疑問は、『もしアノイア教が\n存在しなかったら』ということです。{1a}太陽帝国の人々が、\nアノイア教の教義における\n『新しい世界』とほとんど同じ形の\n『永遠の世界』を追い求めていたのは{1a}地上世界に残る様々な文献から考えて\nほぼ間違いないと確信しています。{1a}ですが、もしアノイア教が\n5千年前に誕生しなかったら、{1a}『新しい世界』を求める感情が\n人々の心に芽生えることなど\nなかったわけですし、{1a}物質世界と精神世界の融合や、\n魔物の出現でさえも\n起こらなかったかもしれません。{1a}もしアノイア教が存在したとしても、\n『新しい世界』という教義がなければ\n別の結果になっていたでしょうし、{1a}アノイア教が\nただの地方宗教で終わっていても\n違う結果になっていたでしょう。{1a}さすがにそんなことはないでしょうが、\nもし偶然の未来に賭けたのであれば、\n太陽帝国の計画はあまりにもお粗末と\n言わざるをえないでしょうね。{1a}1万年前に滅んだはずの太陽帝国が\nどうやって5千年後の\nアノイア教の誕生と隆盛を\nここまで正確に予測したのか・・・{1a}これが最大の疑問です。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Asla Fael is an aggregate of spirit\nworlds, where people's many emotions\ntake form and become matter...{1a}And the spirit world and the material\nworld are even now fusing; in time all\nboundaries will vanish, and they will\nbecome one formless 'Will'...{1a}And might that not be the true nature\nof the 'Eternal World' that the people of\nthe Sun Empire pursued...{1a}That is the answer I have drawn to the\nriddle of the underground ruins.{1a}That said, this conclusion of mine may\nwell have deepened more mysteries than\nit solved.{1a}The greatest question is: 'What if the\nAnoian faith had never existed?'{1a}That the people of the Sun Empire\npursued an 'Eternal World' almost\nidentical in form to the 'New World' of\nAnoian doctrine{1a}I hold to be all but certain, judging from\nthe many texts that survive in the\nsurface world.{1a}Yet had the Anoian faith not been born\nfive thousand years ago,{1a}the longing for a 'New World' would never\nhave sprung up in people's hearts,{1a}and the fusion of the material world and\nthe spirit world, even the appearance of\nmonsters, might never have happened.{1a}Even had the Anoian faith existed,\nwithout the doctrine of the 'New World'\nthe result would surely have been\ndifferent,{1a}and had the Anoian faith ended as a\nmere local religion, the result would\nlikewise have been different.{1a}Surely it cannot be so, but if they were\ngambling on a chance future, then the\nplan of the Sun Empire must be called\nshoddy in the extreme.{1a}How could the Sun Empire, which should\nhave fallen ten thousand years ago,\nforesee so exactly the birth and rise of\nthe Anoian faith five thousand years{1a}later...{1a}That is the greatest question.{0c:040e}",
+   "status": "done",
+   "tl": "Asla Fael is an aggregate of spirit worlds, where people's many emotions take form and become matter... // And the spirit world and the material world are even now fusing; in time all boundaries will vanish, and they will become one formless 'Will'... // And might that not be the true nature of the 'Eternal World' that the people of the Sun Empire pursued... // That is the answer I have drawn to the riddle of the underground ruins. // That said, this conclusion of mine may well have deepened more mysteries than it solved. // The greatest question is: 'What if the Anoian faith had never existed?' // That the people of the Sun Empire pursued an 'Eternal World' almost identical in form to the 'New World' of Anoian doctrine // I hold to be all but certain, judging from the many texts that survive in the surface world. // Yet had the Anoian faith not been born five thousand years ago, // the longing for a 'New World' would never have sprung up in people's hearts, // and the fusion of the material world and the spirit world, even the appearance of monsters, might never have happened. // Even had the Anoian faith existed, without the doctrine of the 'New World' the result would surely have been different, // and had the Anoian faith ended as a mere local religion, the result would likewise have been different. // Surely it cannot be so, but if they were gambling on a chance future, then the plan of the Sun Empire must be called shoddy in the extreme. // How could the Sun Empire, which should have fallen ten thousand years ago, foresee so exactly the birth and rise of the Anoian faith five thousand years later... // That is the greatest question."
   },
   {
    "id": "RES#1194:118ce",
@@ -2725,8 +2812,9 @@
    "jp": "{1c:12}アスラ・ファエルは\n精神世界の集合体であり、\nそこでは人々の様々な感情が\n具現化・物質化する・・・{1a}あの広大な地下都市も、\n太陽帝国に対する私達のイメージから\n生まれたのだと思います。{1a}ただしこれは、太陽帝国という国が\n実在しなかったことを\n意味するわけではありません。{1a}太陽帝国という国名が\n書物に登場するのは\n今から約5千年前ですが、{1a}国の名前は違えど、それ以前にも\n太陽帝国らしき国に関する\n神話や伝承は存在していましたし、{1a}なにより、\n『人間の精神を具現化する仕掛け』を\n太陽帝国の人達が造らなければ、{1a}あの広大な地下都市は\n生まれてこなかったのですから。{1a}1万年前の正式な国名は\n太陽帝国ではなかったかもしれません。\nまた、1万年前ではなくもっと前、\nもっと後かもしれません。{1a}しかし、カルスの山脈の中に\n類い希なる高度な文明を築いた人々が\n存在したということだけは\n間違いないでしょう。{0c:040e}",
    "read": "{1c:12}アスラ・ファエルは\n精神世界の集合体であり、\nそこでは人々の様々な感情が\n具現化・物質化する・・・{1a}あの広大な地下都市も、\n太陽帝国に対する私達のイメージから\n生まれたのだと思います。{1a}ただしこれは、太陽帝国という国が\n実在しなかったことを\n意味するわけではありません。{1a}太陽帝国という国名が\n書物に登場するのは\n今から約5千年前ですが、{1a}国の名前は違えど、それ以前にも\n太陽帝国らしき国に関する\n神話や伝承は存在していましたし、{1a}なにより、\n『人間の精神を具現化する仕掛け』を\n太陽帝国の人達が造らなければ、{1a}あの広大な地下都市は\n生まれてこなかったのですから。{1a}1万年前の正式な国名は\n太陽帝国ではなかったかもしれません。\nまた、1万年前ではなくもっと前、\nもっと後かもしれません。{1a}しかし、カルスの山脈の中に\n類い希なる高度な文明を築いた人々が\n存在したということだけは\n間違いないでしょう。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Asla Fael is an aggregate of spirit\nworlds, where people's many emotions\ntake form and become matter...{1a}That vast underground city too, I\nbelieve, was born of our image of the\nSun Empire.{1a}This does not mean, however, that no\ncountry called the Sun Empire ever\nexisted.{1a}The name of the Sun Empire first\nappears in books about five thousand\nyears ago,{1a}but myths and traditions of a similar\ncountry, under other names, existed\nbefore then,{1a}and above all, had the people of the Sun\nEmpire not built the 'mechanism that\ngives form to the human spirit',{1a}that vast underground city would never\nhave been born.{1a}The formal name of the country ten\nthousand years ago may not have been\nthe Sun Empire. And it may have stood\nnot ten thousand years ago but far{1a}earlier, or far later.{1a}But this much alone is surely beyond\ndoubt: a people raised a civilization of\nrare sophistication in the Kars\nMountains.{0c:040e}",
+   "status": "done",
+   "tl": "Asla Fael is an aggregate of spirit worlds, where people's many emotions take form and become matter... // That vast underground city too, I believe, was born of our image of the Sun Empire. // This does not mean, however, that no country called the Sun Empire ever existed. // The name of the Sun Empire first appears in books about five thousand years ago, // but myths and traditions of a similar country, under other names, existed before then, // and above all, had the people of the Sun Empire not built the 'mechanism that gives form to the human spirit', // that vast underground city would never have been born. // The formal name of the country ten thousand years ago may not have been the Sun Empire. And it may have stood not ten thousand years ago but far earlier, or far later. // But this much alone is surely beyond doubt: a people raised a civilization of rare sophistication in the Kars Mountains."
   },
   {
    "id": "RES#1194:11af5",
@@ -2736,8 +2824,9 @@
    "jp": "{1c:12}アスラ・ファエルは\n精神世界の集合体であり、\nそこでは人々の様々な感情が\n具現化・物質化する・・・{1a}魔物の出現に関しては\nこれでほとんどの謎が解決しました。{1a}人間の恐怖心、猜疑心、\n憎悪、嫉妬などの負の感情が\n具現化したものが\nあの魔物達なのでしょう。{1a}アノイア教の布教により\n悪魔におとしめられた古代の神々や、\n出自の明らかな歴史の浅い魔獣が\n出現するのもこれで説明がつきます。{1a}そして、精神世界と物質世界、\nつまりアスラ・ファエルと\n私達が住むこの地上世界が\n融合しつつあるという仮説によって、{1a}町の外に魔物が出現したことも\n説明がつきます。{1a}しかしながら、\nこれらの説が真実であるとするならば、\n恐怖心以外が具現化することも\n考えられないでしょうか・・・{1a}悪魔や魔獣以外の魔物・・・\nあまり考えたくはない仮説ですね。{0c:040e}",
    "read": "{1c:12}アスラ・ファエルは\n精神世界の集合体であり、\nそこでは人々の様々な感情が\n具現化・物質化する・・・{1a}魔物の出現に関しては\nこれでほとんどの謎が解決しました。{1a}人間の恐怖心、猜疑心、\n憎悪、嫉妬などの負の感情が\n具現化したものが\nあの魔物達なのでしょう。{1a}アノイア教の布教により\n悪魔におとしめられた古代の神々や、\n出自の明らかな歴史の浅い魔獣が\n出現するのもこれで説明がつきます。{1a}そして、精神世界と物質世界、\nつまりアスラ・ファエルと\n私達が住むこの地上世界が\n融合しつつあるという仮説によって、{1a}町の外に魔物が出現したことも\n説明がつきます。{1a}しかしながら、\nこれらの説が真実であるとするならば、\n恐怖心以外が具現化することも\n考えられないでしょうか・・・{1a}悪魔や魔獣以外の魔物・・・\nあまり考えたくはない仮説ですね。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Asla Fael is an aggregate of spirit\nworlds, where people's many emotions\ntake form and become matter...{1a}With this, nearly every mystery about\nthe appearance of monsters has been\nsolved.{1a}Those monsters are surely the embodied\nform of negative human emotions: fear,\nsuspicion, hatred, jealousy.{1a}It also explains the appearance of\nancient gods reduced to devils by the\nspread of the Anoian faith, and of\nbeasts of recent history and known{1a}origin.{1a}And the hypothesis that the spirit world\nand the material world, that is, Asla Fael\nand this surface world where we live, are\nfusing,{1a}also explains the appearance of\nmonsters outside the town.{1a}Yet if these theories are true, might\nnot emotions other than fear also take\nform...{1a}Monsters other than devils and beasts...\nThat is not a hypothesis I care to dwell\non.{0c:040e}",
+   "status": "done",
+   "tl": "Asla Fael is an aggregate of spirit worlds, where people's many emotions take form and become matter... // With this, nearly every mystery about the appearance of monsters has been solved. // Those monsters are surely the embodied form of negative human emotions: fear, suspicion, hatred, jealousy. // It also explains the appearance of ancient gods reduced to devils by the spread of the Anoian faith, and of beasts of recent history and known origin. // And the hypothesis that the spirit world and the material world, that is, Asla Fael and this surface world where we live, are fusing, // also explains the appearance of monsters outside the town. // Yet if these theories are true, might not emotions other than fear also take form... // Monsters other than devils and beasts... That is not a hypothesis I care to dwell on."
   },
   {
    "id": "RES#1194:11ce2",
@@ -2747,8 +2836,9 @@
    "jp": "{1c:12}アザレの石については、\n人類の永遠の命に対する憧れが\nこの石を生んだのか、{1a}『人間の精神を具現化する仕掛け』を\n作った人々、つまり太陽帝国の人々が\nこの石を創ったのか、\nどちらであるかはまだ分かりません。{1a}もし後者であれば、\n『人間の精神を具現化する仕掛け』を\n作った人々は、『永遠の命』を\n自分自身にもたらす方法がありながら{1a}『精神世界と物質世界の融合』という、\n別の形の『永遠』を\n求めたことになります。{1a}アザレの石には\n決定的な欠陥があるのか、{1a}それとも、全く別の目的で\nアザレの石は創られたのか・・・\n疑問は尽きません。{0c:040e}",
    "read": "{1c:12}アザレの石については、\n人類の永遠の命に対する憧れが\nこの石を生んだのか、{1a}『人間の精神を具現化する仕掛け』を\n作った人々、つまり太陽帝国の人々が\nこの石を創ったのか、\nどちらであるかはまだ分かりません。{1a}もし後者であれば、\n『人間の精神を具現化する仕掛け』を\n作った人々は、『永遠の命』を\n自分自身にもたらす方法がありながら{1a}『精神世界と物質世界の融合』という、\n別の形の『永遠』を\n求めたことになります。{1a}アザレの石には\n決定的な欠陥があるのか、{1a}それとも、全く別の目的で\nアザレの石は創られたのか・・・\n疑問は尽きません。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}As for the Azare Stone, it is not yet\nknown whether humankind's longing for\neternal life gave birth to this stone,{1a}or whether the people who made the\n'mechanism that gives form to the\nhuman spirit', that is, the people of the\nSun Empire, created it.{1a}If the latter, then the people who made\nthe 'mechanism that gives form to the\nhuman spirit' had the means to bring\n'eternal life' to themselves,{1a}and yet sought another form of\n'eternity', the 'fusion of the spirit world\nand the material world'.{1a}Has the Azare Stone some fatal flaw,{1a}or was the Azare Stone created for\nanother purpose entirely... The questions\nnever end.{0c:040e}",
+   "status": "done",
+   "tl": "As for the Azare Stone, it is not yet known whether humankind's longing for eternal life gave birth to this stone, // or whether the people who made the 'mechanism that gives form to the human spirit', that is, the people of the Sun Empire, created it. // If the latter, then the people who made the 'mechanism that gives form to the human spirit' had the means to bring 'eternal life' to themselves, // and yet sought another form of 'eternity', the 'fusion of the spirit world and the material world'. // Has the Azare Stone some fatal flaw, // or was the Azare Stone created for another purpose entirely... The questions never end."
   },
   {
    "id": "RES#1194:11e55",
@@ -2758,8 +2848,9 @@
    "jp": "{1c:12}『煉獄』や『時の回廊』をはじめ、\nアスラ・ファエルとアノイア教には\n奇妙な符合点が幾つも\n発見されていました。{1a}これらの疑問も、\nアスラ・ファエルが人々の感情を\n具現化するという仮説によって{1a}そのほとんどが説明出来るわけですが、\nこうなると今度は\n別の疑問が浮かびます・・・{1a}第一神殿でお会いした時\nお話ししましたが、地下遺跡の中には\n明らかにアノイア教的ではない\nメッセージも残っているのです。{1a}輪廻転生への恐れもそうですし、\n永遠に対する絶望ともとれる内容の\n碑文も時折発見されます。{1a}あれらが何を意味するのか・・・\n疑問は尽きません。{0c:040e}",
    "read": "{1c:12}『煉獄』や『時の回廊』をはじめ、\nアスラ・ファエルとアノイア教には\n奇妙な符合点が幾つも\n発見されていました。{1a}これらの疑問も、\nアスラ・ファエルが人々の感情を\n具現化するという仮説によって{1a}そのほとんどが説明出来るわけですが、\nこうなると今度は\n別の疑問が浮かびます・・・{1a}第一神殿でお会いした時\nお話ししましたが、地下遺跡の中には\n明らかにアノイア教的ではない\nメッセージも残っているのです。{1a}輪廻転生への恐れもそうですし、\n永遠に対する絶望ともとれる内容の\n碑文も時折発見されます。{1a}あれらが何を意味するのか・・・\n疑問は尽きません。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}'Purgatory', the 'Corridor of Time' and\nmore: a number of strange\ncorrespondences have been found\nbetween Asla Fael and the Anoian{1a}faith.{1a}These questions too, by the hypothesis\nthat Asla Fael gives form to human\nemotions,{1a}can for the most part be explained, but\nnow another question arises...{1a}As I told you when we met in the First\nTemple, the underground ruins also hold\nmessages that are plainly not Anoian.{1a}There is the dread of reincarnation, and\nnow and then inscriptions turn up that\ncould be read as despair at eternity.{1a}What do they mean... The questions\nnever end.{0c:040e}",
+   "status": "done",
+   "tl": "'Purgatory', the 'Corridor of Time' and more: a number of strange correspondences have been found between Asla Fael and the Anoian faith. // These questions too, by the hypothesis that Asla Fael gives form to human emotions, // can for the most part be explained, but now another question arises... // As I told you when we met in the First Temple, the underground ruins also hold messages that are plainly not Anoian. // There is the dread of reincarnation, and now and then inscriptions turn up that could be read as despair at eternity. // What do they mean... The questions never end."
   },
   {
    "id": "RES#1194:11fc3",
@@ -2769,8 +2860,9 @@
    "jp": "{1c:12}煉獄や時の回廊が\nアノイア教の聖書に登場するように\n黒の羨道も聖書の中に登場します。{1a}名前は『誘惑の道』・・・\nまるで歓楽街のような名前ですね。{1a}聖書中の描写はたったの7行なので\n詳細な設定は分からないのですが、{1a}『光の届かない真っ暗な道』、\n『人が入ってはならない道』などと\n簡素に書かれています。{1a}あの黒の羨道も、\n人間が知ってはいけなかった\n禁断の実だったのでしょうか・・・{0c:040e}",
    "read": "{1c:12}煉獄や時の回廊が\nアノイア教の聖書に登場するように\n黒の羨道も聖書の中に登場します。{1a}名前は『誘惑の道』・・・\nまるで歓楽街のような名前ですね。{1a}聖書中の描写はたったの7行なので\n詳細な設定は分からないのですが、{1a}『光の届かない真っ暗な道』、\n『人が入ってはならない道』などと\n簡素に書かれています。{1a}あの黒の羨道も、\n人間が知ってはいけなかった\n禁断の実だったのでしょうか・・・{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Just as Purgatory and the Corridor of\nTime appear in the Anoian Scriptures, so\ntoo does the Black Passage.{1a}Its name is the 'Road of Temptation'... It\nsounds rather like a pleasure quarter,\ndoes it not?{1a}Its description in the Scriptures runs a\nmere seven lines, so the details are\nunknown,{1a}but it is called simply 'a pitch-dark road\nno light can reach' and 'a road man must\nnot enter'.{1a}Was that Black Passage too a forbidden\nfruit that humankind was never meant\nto know...{0c:040e}",
+   "status": "done",
+   "tl": "Just as Purgatory and the Corridor of Time appear in the Anoian Scriptures, so too does the Black Passage. // Its name is the 'Road of Temptation'... It sounds rather like a pleasure quarter, does it not? // Its description in the Scriptures runs a mere seven lines, so the details are unknown, // but it is called simply 'a pitch-dark road no light can reach' and 'a road man must not enter'. // Was that Black Passage too a forbidden fruit that humankind was never meant to know..."
   },
   {
    "id": "RES#1194:120cd",
@@ -2780,8 +2872,9 @@
    "jp": "{1c:13}あの空も、沈むことない太陽も\nそしてあの巨大な地下都市も全て\n私達の精神が生み出したもの\nだったとは・・・{1a}自分の導き出した結論ながら、\n衝撃でもあります。{1a}『人間の精神を具現化する仕掛け』を\n作った人々は、どうやって\n壁のヒビに至るまで具現化する装置を\n創ったのか・・・{1a}人間の精神が具現化され\nあの地下都市が出来たのだとしても、\nその元となる地下都市のイメージは\n一体誰が創作したのか、{1a}聖書の中のアスラ・ファエルの描写は\n何を元に書かれたのか、\n本物の太陽帝国の首都は\n一体どんな場所だったのか・・・{1a}相変わらず謎は深まるばかりです。{0c:040e}",
    "read": "{1c:13}あの空も、沈むことない太陽も\nそしてあの巨大な地下都市も全て\n私達の精神が生み出したもの\nだったとは・・・{1a}自分の導き出した結論ながら、\n衝撃でもあります。{1a}『人間の精神を具現化する仕掛け』を\n作った人々は、どうやって\n壁のヒビに至るまで具現化する装置を\n創ったのか・・・{1a}人間の精神が具現化され\nあの地下都市が出来たのだとしても、\nその元となる地下都市のイメージは\n一体誰が創作したのか、{1a}聖書の中のアスラ・ファエルの描写は\n何を元に書かれたのか、\n本物の太陽帝国の首都は\n一体どんな場所だったのか・・・{1a}相変わらず謎は深まるばかりです。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}That sky, the sun that never sets, and\nthat huge underground city were all born\nof our own minds...{1a}Though the conclusion is my own, it still\nshakes me.{1a}How did the people who made the\n'mechanism that gives form to the\nhuman spirit' create a device that gives\nform to everything, down to the{1a}cracks in the walls...{1a}Even if the underground city came to be\nthrough the human spirit taking form,\nwho on earth devised the image of it to\nbegin with,{1a}what were the Scriptures' descriptions\nof Asla Fael based on, and what kind of\nplace was the real capital of the Sun\nEmpire...{1a}As ever, the mystery only deepens.{0c:040e}",
+   "status": "done",
+   "tl": "That sky, the sun that never sets, and that huge underground city were all born of our own minds... // Though the conclusion is my own, it still shakes me. // How did the people who made the 'mechanism that gives form to the human spirit' create a device that gives form to everything, down to the cracks in the walls... // Even if the underground city came to be through the human spirit taking form, who on earth devised the image of it to begin with, // what were the Scriptures' descriptions of Asla Fael based on, and what kind of place was the real capital of the Sun Empire... // As ever, the mystery only deepens."
   },
   {
    "id": "RES#1194:12246",
@@ -2791,8 +2884,9 @@
    "jp": "{1c:10}聖書における『煉獄』とは\n天国と地獄の間にあり、{1a}死者の霊魂が天国に入る前に\n炎によって罪を浄化される場所と\nされていますね。{1a}ちなみに、\n初期アノイア教の『地獄』は\n私達がよく教会で聞かされる{1a}『怖い悪魔がいて、\n血の池があって・・・』という\n世界ではありません。{1a}何もない世界・・・\nいえ『世界』ですらありません。\nいわゆる『完全な無』なのです。{1a}神が創った7つの世界の中にも\n『地獄』はありませんし、{1a}完全に消え去ることが\n当時の人々にとっての\n最大の恐怖だったのかもしれませんね。{1a}私達がよく聞く『地獄』の風景は、\nアノイア教の教えに従わない場合\nどのようなことになるか、{1a}信者に恐怖を教える必要があったため、\nアノイア教の誕生から約千年後に\n教会の手によって\n創られたのだそうです。{0c:040e}",
    "read": "{1c:10}聖書における『煉獄』とは\n天国と地獄の間にあり、{1a}死者の霊魂が天国に入る前に\n炎によって罪を浄化される場所と\nされていますね。{1a}ちなみに、\n初期アノイア教の『地獄』は\n私達がよく教会で聞かされる{1a}『怖い悪魔がいて、\n血の池があって・・・』という\n世界ではありません。{1a}何もない世界・・・\nいえ『世界』ですらありません。\nいわゆる『完全な無』なのです。{1a}神が創った7つの世界の中にも\n『地獄』はありませんし、{1a}完全に消え去ることが\n当時の人々にとっての\n最大の恐怖だったのかもしれませんね。{1a}私達がよく聞く『地獄』の風景は、\nアノイア教の教えに従わない場合\nどのようなことになるか、{1a}信者に恐怖を教える必要があったため、\nアノイア教の誕生から約千年後に\n教会の手によって\n創られたのだそうです。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}'Purgatory' in the Scriptures lies\nbetween Heaven and Hell,{1a}and is held to be the place where the\nsouls of the dead have their sins purged\nby fire before entering Heaven.{1a}Incidentally, the 'Hell' of the early Anoian\nfaith is not the world we so often hear\nof in church,{1a}'with fearsome devils, and lakes of\nblood...'{1a}A world of nothing... No, not even a\n'world'. It is what one might call a\n'perfect Void'.{1a}Among the seven worlds God created\nthere is no 'Hell' either,{1a}so perhaps vanishing completely was the\ngreatest terror to the people of that\nage.{1a}As for the scenes of 'Hell' we so often\nhear of, the faithful had to be taught\nto fear what would happen if they did\nnot follow Anoian teaching,{1a}and so, it is said, the Church created\nthem about a thousand years after the\nbirth of the Anoian faith.{0c:040e}",
+   "status": "done",
+   "tl": "'Purgatory' in the Scriptures lies between Heaven and Hell, // and is held to be the place where the souls of the dead have their sins purged by fire before entering Heaven. // Incidentally, the 'Hell' of the early Anoian faith is not the world we so often hear of in church, // 'with fearsome devils, and lakes of blood...' // A world of nothing... No, not even a 'world'. It is what one might call a 'perfect Void'. // Among the seven worlds God created there is no 'Hell' either, // so perhaps vanishing completely was the greatest terror to the people of that age. // As for the scenes of 'Hell' we so often hear of, the faithful had to be taught to fear what would happen if they did not follow Anoian teaching, // and so, it is said, the Church created them about a thousand years after the birth of the Anoian faith."
   },
   {
    "id": "RES#1194:1241e",
@@ -2802,8 +2896,9 @@
    "jp": "{1c:13}『時の回廊』・・・ですか・・・{1a}聖書中の『時の回廊』は、\n二大神ゼメンとゼウェアクが\n古の神々を、それを祀る神殿と共に\n封印した場所であるとされています。{1a}もっともこのお話よりは、\n永遠の命を得るため、自分の友人を\n封印された古の神々に生け贄に捧げた\n罪深き男の説話の方が有名ですね。{1a}そして、\nこれとほとんど同じ内容の碑文が\n時の回廊内で発見されました・・・{1a}ええ・・・\nこの程度の根拠で・・・私は・・・{1a}すみません・・・\nこの話はこれで終わらせて\n頂けますか?{0c:040e}",
    "read": "{1c:13}『時の回廊』・・・ですか・・・{1a}聖書中の『時の回廊』は、\n二大神ゼメンとゼウェアクが\n古の神々を、それを祀る神殿と共に\n封印した場所であるとされています。{1a}もっともこのお話よりは、\n永遠の命を得るため、自分の友人を\n封印された古の神々に生け贄に捧げた\n罪深き男の説話の方が有名ですね。{1a}そして、\nこれとほとんど同じ内容の碑文が\n時の回廊内で発見されました・・・{1a}ええ・・・\nこの程度の根拠で・・・私は・・・{1a}すみません・・・\nこの話はこれで終わらせて\n頂けますか?{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}The 'Corridor of Time'... is it...{1a}The 'Corridor of Time' in the Scriptures\nis held to be the place where the Two\nSupreme Gods Zemen and Zeweak sealed\naway the ancient gods, together with{1a}the temples that enshrined them.{1a}Better known than this account,\nhowever, is the tale of the sinful man\nwho sacrificed his own friend to the\nsealed ancient gods to gain eternal life.{1a}And an inscription of almost the same\ncontent was found within the Corridor\nof Time...{1a}Yes... On grounds as slight as these... I...{1a}Forgive me... Might we end this talk here?{0c:040e}",
+   "status": "done",
+   "tl": "The 'Corridor of Time'... is it... // The 'Corridor of Time' in the Scriptures is held to be the place where the Two Supreme Gods Zemen and Zeweak sealed away the ancient gods, together with the temples that enshrined them. // Better known than this account, however, is the tale of the sinful man who sacrificed his own friend to the sealed ancient gods to gain eternal life. // And an inscription of almost the same content was found within the Corridor of Time... // Yes... On grounds as slight as these... I... // Forgive me... Might we end this talk here?"
   },
   {
    "id": "RES#1194:12559",
@@ -2813,8 +2908,9 @@
    "jp": "{1c:10}地下遺跡の1番奥にあると\n考えられている『始原の地』・・・{1a}しかし、誰も実際にその目で\n見たことはありませんので、\n代わりに聖書の文章を\n幾つか紹介しましょう。{1a}まず、聖書の冒頭・・・\n天地創造の章には\nこのように書かれています。{1a}『無よりゼメンとゼウェアク別れる。\n其の地を始原の地という。\n始原の地より七つの世界生まれる。\n神、その外に十三の人をつくれり。』{1a}これは、始原の地とは\n二大神ゼメンとゼウェアクが\n2つに別れた地、{1a}そして、7つの世界が誕生する\n天地創造の始まりの地であることを\n意味する文章ですね。{1a}それ以前の世界は、\n二大神すらも存在しない\n『無』の世界であったとされています。{1a}そして、聖書の巻末・・・\n黙示録の章にはこう書かれています。{1a}『人々の神を求める声が高まり、\n復讐と怒りを司る忌まわしき魔物が\n天界の神殿を血で汚した時、\n第二の預言者あらわれる・・・{1a}そして、第二の預言者が\n『始原の地』への光の扉を開いた時\n人の時代は終わり、{1a}永遠なる神の時代\n『新しい世界』が始まる・・・』{1a}これが、\nいわゆる第二の天地創造ですね。{1a}今私達がいるこの世界はなくなり、\n肉体と霊魂の境界のない\n永遠なる神の国が創られる・・・{1a}二大神は再び1つに戻り、\nそこに人々の肉体と霊魂が融合し、\n『完全なる1つのもの』になる・・・{1a}その国の住人は、『永遠の命』と\n『神と共なる至福の生活』を\n手に入れることが出来る・・・\nそう聖書には書かれています。{1a}私達人間も、\n二大神ゼメンとゼウェアクも、\n全てが1つに融合する\n完璧な世界の誕生・・・{1a}特にこのくだりは、\nどの教派であっても\n礼拝のたびに必ず口にする\n聖書でも最も重要かつ有名な一節です。{1a}そして、精神を具現化する\nアスラ・ファエルという装置が、\n地上世界と融合しているのであれば、{1a}この有名な一節が現実のものに\nなっても何ら不思議ではない・・・{1a}事実、\n黙示録の章に書かれてあることの\n幾つかは既に現実のものと\nなっているのですから。{1a}これを阻止するには、\n『始原の地』を封印する・・・{1a}つまり『始原の地』への\n唯一の入り口である『光の扉』が\n開くのを阻止するしかないのではと\n私は考えています。{1a}といっても、この根拠さえ\n聖書や遺跡で発見された碑文から\n導き出したのですから、{1a}必ず成功する、絶対に正しいとは\n言い難いのですが・・・{0c:040e}",
    "read": "{1c:10}地下遺跡の1番奥にあると\n考えられている『始原の地』・・・{1a}しかし、誰も実際にその目で\n見たことはありませんので、\n代わりに聖書の文章を\n幾つか紹介しましょう。{1a}まず、聖書の冒頭・・・\n天地創造の章には\nこのように書かれています。{1a}『無よりゼメンとゼウェアク別れる。\n其の地を始原の地という。\n始原の地より七つの世界生まれる。\n神、その外に十三の人をつくれり。』{1a}これは、始原の地とは\n二大神ゼメンとゼウェアクが\n2つに別れた地、{1a}そして、7つの世界が誕生する\n天地創造の始まりの地であることを\n意味する文章ですね。{1a}それ以前の世界は、\n二大神すらも存在しない\n『無』の世界であったとされています。{1a}そして、聖書の巻末・・・\n黙示録の章にはこう書かれています。{1a}『人々の神を求める声が高まり、\n復讐と怒りを司る忌まわしき魔物が\n天界の神殿を血で汚した時、\n第二の預言者あらわれる・・・{1a}そして、第二の預言者が\n『始原の地』への光の扉を開いた時\n人の時代は終わり、{1a}永遠なる神の時代\n『新しい世界』が始まる・・・』{1a}これが、\nいわゆる第二の天地創造ですね。{1a}今私達がいるこの世界はなくなり、\n肉体と霊魂の境界のない\n永遠なる神の国が創られる・・・{1a}二大神は再び1つに戻り、\nそこに人々の肉体と霊魂が融合し、\n『完全なる1つのもの』になる・・・{1a}その国の住人は、『永遠の命』と\n『神と共なる至福の生活』を\n手に入れることが出来る・・・\nそう聖書には書かれています。{1a}私達人間も、\n二大神ゼメンとゼウェアクも、\n全てが1つに融合する\n完璧な世界の誕生・・・{1a}特にこのくだりは、\nどの教派であっても\n礼拝のたびに必ず口にする\n聖書でも最も重要かつ有名な一節です。{1a}そして、精神を具現化する\nアスラ・ファエルという装置が、\n地上世界と融合しているのであれば、{1a}この有名な一節が現実のものに\nなっても何ら不思議ではない・・・{1a}事実、\n黙示録の章に書かれてあることの\n幾つかは既に現実のものと\nなっているのですから。{1a}これを阻止するには、\n『始原の地』を封印する・・・{1a}つまり『始原の地』への\n唯一の入り口である『光の扉』が\n開くのを阻止するしかないのではと\n私は考えています。{1a}といっても、この根拠さえ\n聖書や遺跡で発見された碑文から\n導き出したのですから、{1a}必ず成功する、絶対に正しいとは\n言い難いのですが・・・{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}The 'Land of Origin', thought to lie at\nthe very deepest point of the\nunderground ruins...{1a}However, no one has actually seen it\nwith their own eyes, so instead, let me\nintroduce a few passages from the\nScriptures.{1a}First, the opening of the Scriptures...\nThe chapter of Creation says this.{1a}'From the Void, Zemen and Zeweak\nparted. That land is called the Land of\nOrigin. From the Land of Origin were the\nseven worlds born. And God made{1a}thirteen men outside them.'{1a}This passage means that the Land of\nOrigin is the land where the Two\nSupreme Gods Zemen and Zeweak parted\nin two,{1a}and the land where Creation began, with\nthe birth of the seven worlds.{1a}What came before is held to have been a\nworld of 'Void', where not even the Two\nSupreme Gods existed.{1a}And the end of the Scriptures... The\nchapter of Revelation says this.{1a}'When the voices of the people crying\nout for God swell, and a hateful monster\nruling vengeance and wrath stains the\ntemple of the Celestial Realm with{1a}blood, the second Prophet shall appear...{1a}And when the second Prophet opens the\ndoor of light to the 'Land of Origin', the\nage of man shall end,{1a}and the eternal age of God, the 'New\nWorld', shall begin...'{1a}This is the so-called second Creation.{1a}This world we now live in will be no more,\nand an eternal kingdom of God with no\nboundary between flesh and soul will be\nmade...{1a}The Two Supreme Gods will return to\none, and people's flesh and souls will fuse\nwith them into 'one perfect whole'...{1a}The dwellers of that kingdom will gain\n'eternal life' and 'a life of bliss with\nGod'... So the Scriptures say.{1a}We humans and the Two Supreme Gods\nZemen and Zeweak all fusing into one,\nthe birth of a perfect world...{1a}This part above all is the most important\nand famous passage of the Scriptures,\nspoken at every service in every\ndenomination.{1a}And if Asla Fael, a device that gives\nform to the spirit, is fusing with the\nsurface world,{1a}it would be no wonder at all if this\nfamous passage came true...{1a}In fact, several things written in the\nchapter of Revelation have already come\ntrue.{1a}To stop this, we must seal the 'Land of\nOrigin'...{1a}In other words, I believe the only way\nmay be to keep the 'Door of Light', the\none entrance to the 'Land of Origin',\nfrom opening.{1a}That said, even these grounds I drew\nfrom the Scriptures and from\ninscriptions found in the ruins,{1a}so I can hardly say it is certain to\nsucceed, or absolutely right...{0c:040e}",
+   "status": "done",
+   "tl": "The 'Land of Origin', thought to lie at the very deepest point of the underground ruins... // However, no one has actually seen it with their own eyes, so instead, let me introduce a few passages from the Scriptures. // First, the opening of the Scriptures... The chapter of Creation says this. // 'From the Void, Zemen and Zeweak parted. That land is called the Land of Origin. From the Land of Origin were the seven worlds born. And God made thirteen men outside them.' // This passage means that the Land of Origin is the land where the Two Supreme Gods Zemen and Zeweak parted in two, // and the land where Creation began, with the birth of the seven worlds. // What came before is held to have been a world of 'Void', where not even the Two Supreme Gods existed. // And the end of the Scriptures... The chapter of Revelation says this. // 'When the voices of the people crying out for God swell, and a hateful monster ruling vengeance and wrath stains the temple of the Celestial Realm with blood, the second Prophet shall appear... // And when the second Prophet opens the door of light to the 'Land of Origin', the age of man shall end, // and the eternal age of God, the 'New World', shall begin...' // This is the so-called second Creation. // This world we now live in will be no more, and an eternal kingdom of God with no boundary between flesh and soul will be made... // The Two Supreme Gods will return to one, and people's flesh and souls will fuse with them into 'one perfect whole'... // The dwellers of that kingdom will gain 'eternal life' and 'a life of bliss with God'... So the Scriptures say. // We humans and the Two Supreme Gods Zemen and Zeweak all fusing into one, the birth of a perfect world... // This part above all is the most important and famous passage of the Scriptures, spoken at every service in every denomination. // And if Asla Fael, a device that gives form to the spirit, is fusing with the surface world, // it would be no wonder at all if this famous passage came true... // In fact, several things written in the chapter of Revelation have already come true. // To stop this, we must seal the 'Land of Origin'... // In other words, I believe the only way may be to keep the 'Door of Light', the one entrance to the 'Land of Origin', from opening. // That said, even these grounds I drew from the Scriptures and from inscriptions found in the ruins, // so I can hardly say it is certain to succeed, or absolutely right..."
   },
   {
    "id": "RES#1194:12aaf",
@@ -2824,8 +2920,9 @@
    "jp": "{1c:10}魔法具もトラップカプセルも\n全てが我々の精神が生み出した\n偶像であるとすれば、{1a}私達は、『人間の精神を\n具現化する仕掛け』を創った\n古代の人々の協力があったからこそ{1a}ここまで勝ち抜くことが出来たと\n言えるのではないでしょうか・・・{1a}魔法やトラップカプセルを\n一切使わずに戦うなど、\nもはや不可能に近いでしょう。{1a}何故、太陽帝国の人々は\n私達に反攻へのヒントと\n道具を遺してくれたのか・・・{1a}少し複雑な気分ですね。{0c:040e}",
    "read": "{1c:10}魔法具もトラップカプセルも\n全てが我々の精神が生み出した\n偶像であるとすれば、{1a}私達は、『人間の精神を\n具現化する仕掛け』を創った\n古代の人々の協力があったからこそ{1a}ここまで勝ち抜くことが出来たと\n言えるのではないでしょうか・・・{1a}魔法やトラップカプセルを\n一切使わずに戦うなど、\nもはや不可能に近いでしょう。{1a}何故、太陽帝国の人々は\n私達に反攻へのヒントと\n道具を遺してくれたのか・・・{1a}少し複雑な気分ですね。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}If Magic Tools and Trap Capsules are all\nidols born of our own minds,{1a}could we not say that it was only with\nthe help of the ancients who created\nthe 'mechanism that gives form to the\nhuman spirit'{1a}that we have fought our way this far...{1a}To fight without any magic or Trap\nCapsules at all would by now be nearly\nimpossible.{1a}Why did the people of the Sun Empire\nleave us hints and tools for our\ncounterattack...{1a}It leaves me with rather mixed feelings.{0c:040e}",
+   "status": "done",
+   "tl": "If Magic Tools and Trap Capsules are all idols born of our own minds, // could we not say that it was only with the help of the ancients who created the 'mechanism that gives form to the human spirit' // that we have fought our way this far... // To fight without any magic or Trap Capsules at all would by now be nearly impossible. // Why did the people of the Sun Empire leave us hints and tools for our counterattack... // It leaves me with rather mixed feelings."
   },
   {
    "id": "RES#1194:12bcd",
@@ -2835,8 +2932,9 @@
    "jp": "{1c:12}アスラ・ファエルは\n精神世界の集合体であり、\nそこでは人々の様々な感情が\n具現化・物質化する・・・{1a}魔物の出現に関しては\nこれでほとんどの謎が解決しました。{1a}遺跡に出現する多くの魔物達は、\n人間の恐怖心、猜疑心、\n憎悪、嫉妬などの負の感情が\n具現化したものなのでしょう。{1a}アノイア教の布教により\n悪魔におとしめられた古代の神々や、\n出自の明らかな歴史の浅い魔獣が\n出現するのもこれで説明がつきます。{1a}そして、天界において、\n天使達が具現化したことも\n同じ理由で説明出来るでしょう。{1a}ただしこちらは負の感情ではなく、\n信仰心という強力な意識に\n根ざしたものですから、{1a}今まで以上に困難な戦いになることは\n避けられないでしょう・・・{1a}ですが、姿は天使といっても\nその目的は他の魔物と変わりません。\n姿に騙されず、\n本質を見極めて戦って下さい。{0c:040e}",
    "read": "{1c:12}アスラ・ファエルは\n精神世界の集合体であり、\nそこでは人々の様々な感情が\n具現化・物質化する・・・{1a}魔物の出現に関しては\nこれでほとんどの謎が解決しました。{1a}遺跡に出現する多くの魔物達は、\n人間の恐怖心、猜疑心、\n憎悪、嫉妬などの負の感情が\n具現化したものなのでしょう。{1a}アノイア教の布教により\n悪魔におとしめられた古代の神々や、\n出自の明らかな歴史の浅い魔獣が\n出現するのもこれで説明がつきます。{1a}そして、天界において、\n天使達が具現化したことも\n同じ理由で説明出来るでしょう。{1a}ただしこちらは負の感情ではなく、\n信仰心という強力な意識に\n根ざしたものですから、{1a}今まで以上に困難な戦いになることは\n避けられないでしょう・・・{1a}ですが、姿は天使といっても\nその目的は他の魔物と変わりません。\n姿に騙されず、\n本質を見極めて戦って下さい。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Asla Fael is an aggregate of spirit\nworlds, where people's many emotions\ntake form and become matter...{1a}With this, nearly every mystery about\nthe appearance of monsters has been\nsolved.{1a}Most of the monsters that appear in\nthe ruins are surely the embodied form\nof negative human emotions: fear,\nsuspicion, hatred, jealousy.{1a}It also explains the appearance of\nancient gods reduced to devils by the\nspread of the Anoian faith, and of\nbeasts of recent history and known{1a}origin.{1a}And the angels taking form in the\nCelestial Realm can be explained for the\nsame reason.{1a}These, however, are rooted not in\nnegative emotions but in the powerful\nforce of faith,{1a}so a harder battle than any so far will\nbe unavoidable...{1a}Yet though they have the form of\nangels, their purpose is no different\nfrom that of other monsters. Please do\nnot be fooled by their form; see their{1a}true nature as you fight.{0c:040e}",
+   "status": "done",
+   "tl": "Asla Fael is an aggregate of spirit worlds, where people's many emotions take form and become matter... // With this, nearly every mystery about the appearance of monsters has been solved. // Most of the monsters that appear in the ruins are surely the embodied form of negative human emotions: fear, suspicion, hatred, jealousy. // It also explains the appearance of ancient gods reduced to devils by the spread of the Anoian faith, and of beasts of recent history and known origin. // And the angels taking form in the Celestial Realm can be explained for the same reason. // These, however, are rooted not in negative emotions but in the powerful force of faith, // so a harder battle than any so far will be unavoidable... // Yet though they have the form of angels, their purpose is no different from that of other monsters. Please do not be fooled by their form; see their true nature as you fight."
   },
   {
    "id": "RES#1194:12dc5",
@@ -2846,8 +2944,9 @@
    "jp": "{1c:12}天国、天界、天上界、天儀の国・・・\n聖書の本編だけで\n十以上の名を持つ神の理想郷・・・{1a}ただし、神の理想郷と言っても\nここに神がいるわけではありません。{1a}神は、真の神の楽園である\n『始原の地』にあり、\n天界は、神の使いである天使が\n治めるとされています。{1a}『人々の神を求める声が高まり、\n復讐と怒りを司る忌まわしき魔物が\n天界の神殿を血で汚した時、\n第二の預言者あらわれる・・・』{1a}聖書の巻末、\n黙示録の章にはこう書かれています。{1a}天界の神殿を血で汚す\n忌まわしき魔物とは・・・{1a}ともかく行ってみなければ\n何も分かりませんね。{0c:040e}",
    "read": "{1c:12}天国、天界、天上界、天儀の国・・・\n聖書の本編だけで\n十以上の名を持つ神の理想郷・・・{1a}ただし、神の理想郷と言っても\nここに神がいるわけではありません。{1a}神は、真の神の楽園である\n『始原の地』にあり、\n天界は、神の使いである天使が\n治めるとされています。{1a}『人々の神を求める声が高まり、\n復讐と怒りを司る忌まわしき魔物が\n天界の神殿を血で汚した時、\n第二の預言者あらわれる・・・』{1a}聖書の巻末、\n黙示録の章にはこう書かれています。{1a}天界の神殿を血で汚す\n忌まわしき魔物とは・・・{1a}ともかく行ってみなければ\n何も分かりませんね。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Heaven, the Celestial Realm, the Realm\nAbove, the Land of the Heavenly\nSphere... God's paradise, with more than\nten names in the main text of the{1a}Scriptures alone...{1a}But though it is called God's paradise,\nGod is not there.{1a}God dwells in the 'Land of Origin', the\ntrue paradise of God, and the Celestial\nRealm is said to be ruled by angels, God's\nmessengers.{1a}'When the voices of the people crying\nout for God swell, and a hateful monster\nruling vengeance and wrath stains the\ntemple of the Celestial Realm with{1a}blood, the second Prophet shall appear...'{1a}At the end of the Scriptures, in the\nchapter of Revelation, it is written thus.{1a}The hateful monster that stains the\ntemple of the Celestial Realm with blood...{1a}In any case, we will learn nothing unless\nwe go there.{0c:040e}",
+   "status": "done",
+   "tl": "Heaven, the Celestial Realm, the Realm Above, the Land of the Heavenly Sphere... God's paradise, with more than ten names in the main text of the Scriptures alone... // But though it is called God's paradise, God is not there. // God dwells in the 'Land of Origin', the true paradise of God, and the Celestial Realm is said to be ruled by angels, God's messengers. // 'When the voices of the people crying out for God swell, and a hateful monster ruling vengeance and wrath stains the temple of the Celestial Realm with blood, the second Prophet shall appear...' // At the end of the Scriptures, in the chapter of Revelation, it is written thus. // The hateful monster that stains the temple of the Celestial Realm with blood... // In any case, we will learn nothing unless we go there."
   },
   {
    "id": "RES#1194:12f31",
@@ -2857,8 +2956,9 @@
    "jp": "{1c:12}第一聖者アヴァダイルは\n{10}さん達の前で言いました。{1a}『私達は太陽帝国の子であり、\n預言者アノイアの高弟であり、\nアオゥルの血族でもある・・・』と。{1a}彼等は1万年も前から\n全ての計画を準備していた・・・\nとなれば、導き出される答は\n1つしかないのです。{1a}そう・・・\nアノイア教の存在自体、\n仕組まれていたものであると\n考えるしかありません。{1a}私は今まで\n1万年前の太陽帝国の人々が\nどうやってここまで正確に\n未来を予測したのかが疑問でした。{1a}アノイア教が誕生しなければ、\nそしてアノイア教が世界宗教にまで\n成長しなければ、{1a}彼等の計画は何ひとつ\n実現しないからです。{1a}彼等が偶然の未来に賭けたのであれば\nその計画はあまりにもお粗末だと\n言うしかない・・・\nそう思っていました。{1a}ですが、彼等は\n未来を予測したのではなかった・・・\n彼等は、自分達に都合のいいように\n未来を創っていったのでしょう。{1a}アノイア教の誕生もそうですし、\nアノイア教の教義も、\n世界宗教にまで成長する道のりも、\n全て彼等の仕業だった・・・{1a}魔物の発生も、\n地下遺跡の入り口が突然現れたことも、\n天使の降臨もそうでしょうし、{1a}もしかすると\n千年続いたあの平和な時代さえも、\n彼等の登場をより衝撃的にするための\n準備期間だったのかもしれない・・・{1a}もちろんこれはまだ仮説ですので、\n明確な根拠などはありません。\nですが、これらがすべて\n仕組まれていたものなら、{1a}今回の一連の出来事についての\n聖書の不自然な描写も、\nすべて説明出来るのです。{0c:040e}",
    "read": "{1c:12}第一聖者アヴァダイルは\n{10}さん達の前で言いました。{1a}『私達は太陽帝国の子であり、\n預言者アノイアの高弟であり、\nアオゥルの血族でもある・・・』と。{1a}彼等は1万年も前から\n全ての計画を準備していた・・・\nとなれば、導き出される答は\n1つしかないのです。{1a}そう・・・\nアノイア教の存在自体、\n仕組まれていたものであると\n考えるしかありません。{1a}私は今まで\n1万年前の太陽帝国の人々が\nどうやってここまで正確に\n未来を予測したのかが疑問でした。{1a}アノイア教が誕生しなければ、\nそしてアノイア教が世界宗教にまで\n成長しなければ、{1a}彼等の計画は何ひとつ\n実現しないからです。{1a}彼等が偶然の未来に賭けたのであれば\nその計画はあまりにもお粗末だと\n言うしかない・・・\nそう思っていました。{1a}ですが、彼等は\n未来を予測したのではなかった・・・\n彼等は、自分達に都合のいいように\n未来を創っていったのでしょう。{1a}アノイア教の誕生もそうですし、\nアノイア教の教義も、\n世界宗教にまで成長する道のりも、\n全て彼等の仕業だった・・・{1a}魔物の発生も、\n地下遺跡の入り口が突然現れたことも、\n天使の降臨もそうでしょうし、{1a}もしかすると\n千年続いたあの平和な時代さえも、\n彼等の登場をより衝撃的にするための\n準備期間だったのかもしれない・・・{1a}もちろんこれはまだ仮説ですので、\n明確な根拠などはありません。\nですが、これらがすべて\n仕組まれていたものなら、{1a}今回の一連の出来事についての\n聖書の不自然な描写も、\nすべて説明出来るのです。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}The First Saint Avadail said before\n{10}-san and the others:{1a}'We are children of the Sun Empire, high\ndisciples of the Prophet Anoia, and kin\nof the Aoul...'{1a}They had been preparing the whole plan\nfor ten thousand years... If so, only one\nanswer can be drawn.{1a}Yes... We can only conclude that the very\nexistence of the Anoian faith was\ncontrived.{1a}Until now I had wondered how the people\nof the Sun Empire, ten thousand years\nago, could foresee the future so\nexactly.{1a}For had the Anoian faith not been born,\nand had the Anoian faith not grown into\na world religion,{1a}nothing in their plan could have come\nabout.{1a}If they were gambling on a chance\nfuture, their plan could only be called\nshoddy in the extreme... So I thought.{1a}But they did not foresee the future...\nThey surely made the future, to suit\nthemselves.{1a}The birth of the Anoian faith, its\ndoctrine, its road to becoming a world\nreligion: all of it was their doing...{1a}So too, it seems, the rise of the\nmonsters, the sudden appearance of the\nentrance to the underground ruins, and\nthe descent of the angels,{1a}and perhaps even that thousand-year\nage of peace was but a time of\npreparation, to make their arrival the\nmore shocking...{1a}Of course this is still only a hypothesis,\nwith no clear evidence. But if all of this\nwas contrived,{1a}then the Scriptures' unnatural\ndescriptions of this whole chain of\nevents can all be explained.{0c:040e}",
+   "status": "done",
+   "tl": "The First Saint Avadail said before [HERO]-san and the others: // 'We are children of the Sun Empire, high disciples of the Prophet Anoia, and kin of the Aoul...' // They had been preparing the whole plan for ten thousand years... If so, only one answer can be drawn. // Yes... We can only conclude that the very existence of the Anoian faith was contrived. // Until now I had wondered how the people of the Sun Empire, ten thousand years ago, could foresee the future so exactly. // For had the Anoian faith not been born, and had the Anoian faith not grown into a world religion, // nothing in their plan could have come about. // If they were gambling on a chance future, their plan could only be called shoddy in the extreme... So I thought. // But they did not foresee the future... They surely made the future, to suit themselves. // The birth of the Anoian faith, its doctrine, its road to becoming a world religion: all of it was their doing... // So too, it seems, the rise of the monsters, the sudden appearance of the entrance to the underground ruins, and the descent of the angels, // and perhaps even that thousand-year age of peace was but a time of preparation, to make their arrival the more shocking... // Of course this is still only a hypothesis, with no clear evidence. But if all of this was contrived, // then the Scriptures' unnatural descriptions of this whole chain of events can all be explained."
   },
   {
    "id": "RES#1194:13297",
@@ -2868,8 +2968,9 @@
    "jp": "{1c:12}十三聖者は自分達のことを\n『神ではない』\n『神の代弁者にすぎない』と\n言いました。{1a}では、神とは何か・・・{1a}彼等は神のことを\n『人類全体の意志』\n『ひとりひとりの心の働きの源』\n『アスラ・ファエルの根源』{1a}そして、『新しい世界』\nそのものであると説明しました。{1a}彼等が言うように\n人間が神を生み出したのであれば、\n十三聖者は人の心を代弁している\nということにもなります。{1a}さらに、十三聖者は自分達のことを\n『太陽帝国の子』とも\n言いました・・・{1a}話がややこしくなりましたが、\nこれらの言葉から\n太陽帝国とアノイア教が同じ未来を\n理想としていたのが証明出来ますね。{1a}私達の心はアノイア教によって\n染め上げられているのですから。{1a}ですが、こうなると\n今度は別の疑問が浮かびます・・・{1a}第一神殿でお会いした時\nお話ししましたが、地下遺跡の中には\n明らかにアノイア教的ではない\nメッセージも残っているのです。{1a}輪廻転生への恐れもそうですし、\n永遠に対する絶望ともとれる内容の\n碑文も時折発見されます。{1a}アノイア教と太陽帝国が\n同じ方向を向いていたのだとすれば、\n永遠に対する絶望などという、{1a}どちらにも当てはまらない内容の\n碑文が残っているはずは\nありません・・・{1a}これが一体何を意味するのか・・・\n謎は深まるばかりです。{0c:040e}",
    "read": "{1c:12}十三聖者は自分達のことを\n『神ではない』\n『神の代弁者にすぎない』と\n言いました。{1a}では、神とは何か・・・{1a}彼等は神のことを\n『人類全体の意志』\n『ひとりひとりの心の働きの源』\n『アスラ・ファエルの根源』{1a}そして、『新しい世界』\nそのものであると説明しました。{1a}彼等が言うように\n人間が神を生み出したのであれば、\n十三聖者は人の心を代弁している\nということにもなります。{1a}さらに、十三聖者は自分達のことを\n『太陽帝国の子』とも\n言いました・・・{1a}話がややこしくなりましたが、\nこれらの言葉から\n太陽帝国とアノイア教が同じ未来を\n理想としていたのが証明出来ますね。{1a}私達の心はアノイア教によって\n染め上げられているのですから。{1a}ですが、こうなると\n今度は別の疑問が浮かびます・・・{1a}第一神殿でお会いした時\nお話ししましたが、地下遺跡の中には\n明らかにアノイア教的ではない\nメッセージも残っているのです。{1a}輪廻転生への恐れもそうですし、\n永遠に対する絶望ともとれる内容の\n碑文も時折発見されます。{1a}アノイア教と太陽帝国が\n同じ方向を向いていたのだとすれば、\n永遠に対する絶望などという、{1a}どちらにも当てはまらない内容の\n碑文が残っているはずは\nありません・・・{1a}これが一体何を意味するのか・・・\n謎は深まるばかりです。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}The Thirteen Saints said of themselves\nthat they are 'not gods' and 'no more\nthan God's spokesmen'.{1a}Then what is God...{1a}They described God as 'the will of all\nhumankind', 'the source of the working\nof each and every heart', 'the root of\nAsla Fael',{1a}and the 'New World' itself.{1a}If humankind gave birth to God, as they\nsay, then the Thirteen Saints are also\nspeaking for the human heart.{1a}Further, the Thirteen Saints also called\nthemselves 'children of the Sun Empire'...{1a}This has grown tangled, but these words\nprove that the Sun Empire and the\nAnoian faith held the same future as\ntheir ideal.{1a}For our hearts have been dyed by the\nAnoian faith.{1a}But now another question arises...{1a}As I told you when we met in the First\nTemple, the underground ruins also hold\nmessages that are plainly not Anoian.{1a}There is the dread of reincarnation, and\nnow and then inscriptions turn up that\ncould be read as despair at eternity.{1a}If the Anoian faith and the Sun Empire\nfaced the same way, then inscriptions\nspeaking of despair at eternity,{1a}which fit neither of them, should not\nexist...{1a}What on earth does this mean... The\nmystery only deepens.{0c:040e}",
+   "status": "done",
+   "tl": "The Thirteen Saints said of themselves that they are 'not gods' and 'no more than God's spokesmen'. // Then what is God... // They described God as 'the will of all humankind', 'the source of the working of each and every heart', 'the root of Asla Fael', // and the 'New World' itself. // If humankind gave birth to God, as they say, then the Thirteen Saints are also speaking for the human heart. // Further, the Thirteen Saints also called themselves 'children of the Sun Empire'... // This has grown tangled, but these words prove that the Sun Empire and the Anoian faith held the same future as their ideal. // For our hearts have been dyed by the Anoian faith. // But now another question arises... // As I told you when we met in the First Temple, the underground ruins also hold messages that are plainly not Anoian. // There is the dread of reincarnation, and now and then inscriptions turn up that could be read as despair at eternity. // If the Anoian faith and the Sun Empire faced the same way, then inscriptions speaking of despair at eternity, // which fit neither of them, should not exist... // What on earth does this mean... The mystery only deepens."
   },
   {
    "id": "RES#1194:1357e",
@@ -2879,8 +2980,9 @@
    "jp": "{1c:12}第二聖者バルカイルは言いました。\n悪魔とは『新しい世界』の到来を\n妨げる者、と。{1a}以前にもお話しした通り、\nやはり、『新しい世界』の到来を\n妨げる者こそが悪魔なのでしょう。{1a}そして、第二聖者バルカイルは\n『悪魔にも役割がある』と言いました。{1a}その役割とは一体何か・・・\nずばり、『神に倒されること』で\nはないでしょうか。{1a}彼等が言うように、\n悪魔の存在・悪の存在を\n完全に否定する宗教は\nそう多くはありません。{1a}二大神が全てを支配し、\nそれ以外の神の存在を認めていない\nアノイア教の教義の中にも\n強力な力を持つ悪魔は存在します。{1a}預言者アノイアを処刑した役人は\n悪魔に操られていたとありますし、\nそれ以前にも数々の苦難をアノイアに\n与えたとあります。{1a}悪魔の存在意義は単純です。{1a}倒すべき対象が存在しなければ、\n神がどのくらい偉大なのか\n人々に伝えることが出来ないからです。{1a}そして、\n倒すべき悪魔が強ければ強いほど、\n神の絶対性は増すのです。{1a}これを『新しい世界』と\n私達との間に置きかえてみると、{1a}私達悪魔の子が\n彼等の妨害をすればするほど、\n神、つまり『新しい世界』は\n完璧なものになる・・・{1a}あまり嬉しくない仮説ですが、\nこうなりますね。{1a}私達の妨害も、彼等にとっては\n既に予定されていたことなのかも\nしれません・・・{1a}ですが、私達は後戻り\nすることも出来ない・・・{1a}全てが彼等に有利ですが、\n彼等の計画がほころびを見せるまで\n諦めずに頑張りましょう。{0c:040e}",
    "read": "{1c:12}第二聖者バルカイルは言いました。\n悪魔とは『新しい世界』の到来を\n妨げる者、と。{1a}以前にもお話しした通り、\nやはり、『新しい世界』の到来を\n妨げる者こそが悪魔なのでしょう。{1a}そして、第二聖者バルカイルは\n『悪魔にも役割がある』と言いました。{1a}その役割とは一体何か・・・\nずばり、『神に倒されること』で\nはないでしょうか。{1a}彼等が言うように、\n悪魔の存在・悪の存在を\n完全に否定する宗教は\nそう多くはありません。{1a}二大神が全てを支配し、\nそれ以外の神の存在を認めていない\nアノイア教の教義の中にも\n強力な力を持つ悪魔は存在します。{1a}預言者アノイアを処刑した役人は\n悪魔に操られていたとありますし、\nそれ以前にも数々の苦難をアノイアに\n与えたとあります。{1a}悪魔の存在意義は単純です。{1a}倒すべき対象が存在しなければ、\n神がどのくらい偉大なのか\n人々に伝えることが出来ないからです。{1a}そして、\n倒すべき悪魔が強ければ強いほど、\n神の絶対性は増すのです。{1a}これを『新しい世界』と\n私達との間に置きかえてみると、{1a}私達悪魔の子が\n彼等の妨害をすればするほど、\n神、つまり『新しい世界』は\n完璧なものになる・・・{1a}あまり嬉しくない仮説ですが、\nこうなりますね。{1a}私達の妨害も、彼等にとっては\n既に予定されていたことなのかも\nしれません・・・{1a}ですが、私達は後戻り\nすることも出来ない・・・{1a}全てが彼等に有利ですが、\n彼等の計画がほころびを見せるまで\n諦めずに頑張りましょう。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}The Second Saint Barkail said it: the\nDevil is one who hinders the coming of\nthe 'New World'.{1a}As I told you before, the one who\nhinders the coming of the 'New World'\nmust indeed be the Devil.{1a}And the Second Saint Barkail said, 'The\nDevil too has a role.'{1a}What is that role... To put it bluntly,\nmight it not be 'to be defeated by God'?{1a}As they say, few religions wholly deny\nthe existence of the Devil, the\nexistence of evil.{1a}Even in the doctrine of the Anoian faith,\nwhere the Two Supreme Gods rule all and\nno other god is acknowledged, a Devil of\ngreat power exists.{1a}It is written that the officials who\nexecuted the Prophet Anoia were\nmanipulated by the Devil, and that\nbefore that it brought Anoia many{1a}trials.{1a}The Devil's reason for being is simple.{1a}Without someone to defeat, there is no\nway to show people how great God is.{1a}And the stronger the Devil to be\ndefeated, the more absolute God\nbecomes.{1a}Apply this to the 'New World' and\nourselves,{1a}and the more we Children of the Devil\nhinder them, the more perfect God, that\nis, the 'New World', becomes...{1a}Not a welcome hypothesis, but that is\nhow it comes out.{1a}Even our hindrance may already have\nbeen part of their schedule...{1a}But we cannot turn back either...{1a}Everything favors them, but let us keep\ntrying, and not give up until their plan\nshows a crack.{0c:040e}",
+   "status": "done",
+   "tl": "The Second Saint Barkail said it: the Devil is one who hinders the coming of the 'New World'. // As I told you before, the one who hinders the coming of the 'New World' must indeed be the Devil. // And the Second Saint Barkail said, 'The Devil too has a role.' // What is that role... To put it bluntly, might it not be 'to be defeated by God'? // As they say, few religions wholly deny the existence of the Devil, the existence of evil. // Even in the doctrine of the Anoian faith, where the Two Supreme Gods rule all and no other god is acknowledged, a Devil of great power exists. // It is written that the officials who executed the Prophet Anoia were manipulated by the Devil, and that before that it brought Anoia many trials. // The Devil's reason for being is simple. // Without someone to defeat, there is no way to show people how great God is. // And the stronger the Devil to be defeated, the more absolute God becomes. // Apply this to the 'New World' and ourselves, // and the more we Children of the Devil hinder them, the more perfect God, that is, the 'New World', becomes... // Not a welcome hypothesis, but that is how it comes out. // Even our hindrance may already have been part of their schedule... // But we cannot turn back either... // Everything favors them, but let us keep trying, and not give up until their plan shows a crack."
   },
   {
    "id": "RES#1194:138ca",
@@ -2890,8 +2992,9 @@
    "jp": "{1c:12}聖書の中のアスラ・ファエルの描写は\n一体何を元に書かれたのか・・・\nこの疑問は解決しましたね。{1a}聖書を書き記した十三聖者達は、\n太陽帝国の民でもあったのですから。{1a}彼等が聖書に\n自分達が5千年前に創った国のことを\n正確に書き記したのであれば、{1a}1万年前に栄えた太陽帝国の姿も\nおのずと分かります。{1a}全てが彼等の創造によるものなら\n本物の太陽帝国は\nどんな場所だったのか・・・\nもう本人以外には分かりませんね。{0c:040e}",
    "read": "{1c:12}聖書の中のアスラ・ファエルの描写は\n一体何を元に書かれたのか・・・\nこの疑問は解決しましたね。{1a}聖書を書き記した十三聖者達は、\n太陽帝国の民でもあったのですから。{1a}彼等が聖書に\n自分達が5千年前に創った国のことを\n正確に書き記したのであれば、{1a}1万年前に栄えた太陽帝国の姿も\nおのずと分かります。{1a}全てが彼等の創造によるものなら\n本物の太陽帝国は\nどんな場所だったのか・・・\nもう本人以外には分かりませんね。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}What were the Scriptures' descriptions\nof Asla Fael based on... That question is\nnow answered.{1a}For the Thirteen Saints who wrote the\nScriptures were also people of the Sun\nEmpire.{1a}If they recorded accurately in the\nScriptures the country they themselves\ncreated five thousand years ago,{1a}then what the Sun Empire that\nflourished ten thousand years ago looked\nlike follows naturally.{1a}If everything was of their creation, what\nkind of place was the real Sun Empire...\nNo one but they can know now.{0c:040e}",
+   "status": "done",
+   "tl": "What were the Scriptures' descriptions of Asla Fael based on... That question is now answered. // For the Thirteen Saints who wrote the Scriptures were also people of the Sun Empire. // If they recorded accurately in the Scriptures the country they themselves created five thousand years ago, // then what the Sun Empire that flourished ten thousand years ago looked like follows naturally. // If everything was of their creation, what kind of place was the real Sun Empire... No one but they can know now."
   },
   {
    "id": "RES#1194:139eb",
@@ -2901,8 +3004,9 @@
    "jp": "{1c:10}聖書における『煉獄』とは\n天国と地獄の間にあり、{1a}死者の霊魂が天国に入る前に\n炎によって罪を浄化される場所と\nされていますね。{1a}ちなみに、\n初期アノイア教の『地獄』は\n私達がよく教会で聞かされる{1a}『怖い悪魔がいて、\n血の池があって・・・』という\n世界ではありません。{1a}何もない世界・・・\nいえ『世界』ですらありません。\nいわゆる『完全な無』なのです。{1a}神が創った7つの世界の中にも\n『地獄』はありませんし、{1a}完全に消え去ることが\n当時の人々にとっての\n最大の恐怖だったのかもしれませんね。{1a}あれほどの技術力を持った彼等でも\n『無』になることは恐怖だった・・・\nそのようにも考えられるのでは\nないでしょうか。{0c:040e}",
    "read": "{1c:10}聖書における『煉獄』とは\n天国と地獄の間にあり、{1a}死者の霊魂が天国に入る前に\n炎によって罪を浄化される場所と\nされていますね。{1a}ちなみに、\n初期アノイア教の『地獄』は\n私達がよく教会で聞かされる{1a}『怖い悪魔がいて、\n血の池があって・・・』という\n世界ではありません。{1a}何もない世界・・・\nいえ『世界』ですらありません。\nいわゆる『完全な無』なのです。{1a}神が創った7つの世界の中にも\n『地獄』はありませんし、{1a}完全に消え去ることが\n当時の人々にとっての\n最大の恐怖だったのかもしれませんね。{1a}あれほどの技術力を持った彼等でも\n『無』になることは恐怖だった・・・\nそのようにも考えられるのでは\nないでしょうか。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}'Purgatory' in the Scriptures lies\nbetween Heaven and Hell,{1a}and is held to be the place where the\nsouls of the dead have their sins purged\nby fire before entering Heaven.{1a}Incidentally, the 'Hell' of the early Anoian\nfaith is not the world we so often hear\nof in church,{1a}'with fearsome devils, and lakes of\nblood...'{1a}A world of nothing... No, not even a\n'world'. It is what one might call a\n'perfect Void'.{1a}Among the seven worlds God created\nthere is no 'Hell' either,{1a}so perhaps vanishing completely was the\ngreatest terror to the people of that\nage.{1a}Even people of such technical skill as\ntheirs feared the 'Void'... One could see\nit that way, could one not?{0c:040e}",
+   "status": "done",
+   "tl": "'Purgatory' in the Scriptures lies between Heaven and Hell, // and is held to be the place where the souls of the dead have their sins purged by fire before entering Heaven. // Incidentally, the 'Hell' of the early Anoian faith is not the world we so often hear of in church, // 'with fearsome devils, and lakes of blood...' // A world of nothing... No, not even a 'world'. It is what one might call a 'perfect Void'. // Among the seven worlds God created there is no 'Hell' either, // so perhaps vanishing completely was the greatest terror to the people of that age. // Even people of such technical skill as theirs feared the 'Void'... One could see it that way, could one not?"
   },
   {
    "id": "RES#1194:13b80",
@@ -2912,8 +3016,9 @@
    "jp": "{1c:13}『人々の神を求める声が高まり、\n復讐と怒りを司る忌まわしき魔物が\n天界の神殿を血で汚した時、\n第二の預言者あらわれる・・・』{1a}聖書の巻末、\n黙示録の章にはこう書かれています。{1a}天界の神殿を血で汚す\n忌まわしき魔物とは、\n残念ながらファトゥムさんの\nことでした・・・{1a}しかし、あの場所に\n第二の預言者は現れませんでした。{1a}第一聖者アヴァダイルも\n『後は預言者の復活を待つだけ』と\n言っただけ・・{1a}第二の預言者とは一体・・・{0c:040e}",
    "read": "{1c:13}『人々の神を求める声が高まり、\n復讐と怒りを司る忌まわしき魔物が\n天界の神殿を血で汚した時、\n第二の預言者あらわれる・・・』{1a}聖書の巻末、\n黙示録の章にはこう書かれています。{1a}天界の神殿を血で汚す\n忌まわしき魔物とは、\n残念ながらファトゥムさんの\nことでした・・・{1a}しかし、あの場所に\n第二の預言者は現れませんでした。{1a}第一聖者アヴァダイルも\n『後は預言者の復活を待つだけ』と\n言っただけ・・{1a}第二の預言者とは一体・・・{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}'When the voices of the people crying\nout for God swell, and a hateful monster\nruling vengeance and wrath stains the\ntemple of the Celestial Realm with{1a}blood, the second Prophet shall appear...'{1a}At the end of the Scriptures, in the\nchapter of Revelation, it is written thus.{1a}The hateful monster that stains the\ntemple of the Celestial Realm with blood\nwas, sadly, Fatum-san...{1a}Yet the second Prophet did not appear\nin that place.{1a}The First Saint Avadail too said no more\nthan, 'Now we need only await the\nProphet's resurrection'...{1a}Who can this second Prophet be...{0c:040e}",
+   "status": "done",
+   "tl": "'When the voices of the people crying out for God swell, and a hateful monster ruling vengeance and wrath stains the temple of the Celestial Realm with blood, the second Prophet shall appear...' // At the end of the Scriptures, in the chapter of Revelation, it is written thus. // The hateful monster that stains the temple of the Celestial Realm with blood was, sadly, Fatum-san... // Yet the second Prophet did not appear in that place. // The First Saint Avadail too said no more than, 'Now we need only await the Prophet's resurrection'... // Who can this second Prophet be..."
   },
   {
    "id": "RES#1194:13ca9",
@@ -2923,8 +3028,9 @@
    "jp": "{1c:12}実は、『精神の海』という名前は\n聖書には登場しません。{1a}いえ、名前だけではありません。\n神が創った7つの世界のうち、\n『始原の地』に隣り合うこの世界だけ\n一切の描写がされていないのです。{1a}始原の地に近づいてきたことや、\n精神世界と物質世界の融合が\n進行していることも\nもちろん関係しているでしょうが、{1a}人々の心にこの場所に対する\n明確なイメージがないため、\n行く人によって見える風景が\n異なるのかもしれませんね。{1a}あ・・・\n一切の描写がないと言いましたが、\n『光の扉』の描写ならありました。{1a}聖書の巻末、\n黙示録の章にはこう書かれています。{1a}『人々の神を求める声が高まり、\n復讐と怒りを司る忌まわしき魔物が\n天界の神殿を血で汚した時、\n第二の預言者あらわれる・・・{1a}そして、第二の預言者が\n『始原の地』への光の扉を開いた時\n人の時代は終わり、{1a}永遠なる神の時代\n『新しい世界』が始まる・・・』{1a}『始原の地』の隣の『精神の海』に\nこの『光の扉』はあるのでしょう。\nでは、その『光の扉』を開く\n第二の預言者とは・・・{1a}とにかく行ってみるしか\nないでしょう。\n私も後から行きます。{0c:040e}",
    "read": "{1c:12}実は、『精神の海』という名前は\n聖書には登場しません。{1a}いえ、名前だけではありません。\n神が創った7つの世界のうち、\n『始原の地』に隣り合うこの世界だけ\n一切の描写がされていないのです。{1a}始原の地に近づいてきたことや、\n精神世界と物質世界の融合が\n進行していることも\nもちろん関係しているでしょうが、{1a}人々の心にこの場所に対する\n明確なイメージがないため、\n行く人によって見える風景が\n異なるのかもしれませんね。{1a}あ・・・\n一切の描写がないと言いましたが、\n『光の扉』の描写ならありました。{1a}聖書の巻末、\n黙示録の章にはこう書かれています。{1a}『人々の神を求める声が高まり、\n復讐と怒りを司る忌まわしき魔物が\n天界の神殿を血で汚した時、\n第二の預言者あらわれる・・・{1a}そして、第二の預言者が\n『始原の地』への光の扉を開いた時\n人の時代は終わり、{1a}永遠なる神の時代\n『新しい世界』が始まる・・・』{1a}『始原の地』の隣の『精神の海』に\nこの『光の扉』はあるのでしょう。\nでは、その『光の扉』を開く\n第二の預言者とは・・・{1a}とにかく行ってみるしか\nないでしょう。\n私も後から行きます。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}In truth, the name 'Sea of Spirit' does\nnot appear in the Scriptures.{1a}No, not only the name. Of the seven\nworlds God made, this one alone, next to\nthe 'Land of Origin', is given no\ndescription whatsoever.{1a}The nearness of the Land of Origin and\nthe advancing fusion of the spirit world\nand the material world surely play a part\nas well,{1a}but because people's hearts hold no\nclear image of this place, perhaps the\nscenery differs with whoever goes\nthere.{1a}Ah... I said there was no description at\nall, but there is a description of the\n'Door of Light'.{1a}At the end of the Scriptures, in the\nchapter of Revelation, it is written thus.{1a}'When the voices of the people crying\nout for God swell, and a hateful monster\nruling vengeance and wrath stains the\ntemple of the Celestial Realm with{1a}blood, the second Prophet shall appear...{1a}And when the second Prophet opens the\ndoor of light to the 'Land of Origin', the\nage of man shall end,{1a}and the eternal age of God, the 'New\nWorld', shall begin...'{1a}The 'Door of Light' must lie in the 'Sea\nof Spirit', next to the 'Land of Origin'.\nThen who is the second Prophet who\nopens that 'Door of Light'...{1a}In any case, we can only go and see. I will\nfollow later.{0c:040e}",
+   "status": "done",
+   "tl": "In truth, the name 'Sea of Spirit' does not appear in the Scriptures. // No, not only the name. Of the seven worlds God made, this one alone, next to the 'Land of Origin', is given no description whatsoever. // The nearness of the Land of Origin and the advancing fusion of the spirit world and the material world surely play a part as well, // but because people's hearts hold no clear image of this place, perhaps the scenery differs with whoever goes there. // Ah... I said there was no description at all, but there is a description of the 'Door of Light'. // At the end of the Scriptures, in the chapter of Revelation, it is written thus. // 'When the voices of the people crying out for God swell, and a hateful monster ruling vengeance and wrath stains the temple of the Celestial Realm with blood, the second Prophet shall appear... // And when the second Prophet opens the door of light to the 'Land of Origin', the age of man shall end, // and the eternal age of God, the 'New World', shall begin...' // The 'Door of Light' must lie in the 'Sea of Spirit', next to the 'Land of Origin'. Then who is the second Prophet who opens that 'Door of Light'... // In any case, we can only go and see. I will follow later."
   },
   {
    "id": "RES#1194:13f43",
@@ -2934,8 +3040,9 @@
    "jp": "{1c:13}第一聖者アヴァダイルは言いました。{1a}『この門をくぐると\n『精神の海』が広がっている。\nそこを越えた先に、\n君達の言う『始原の地』がある。{1a}『神』はそこにある。\n君達がそこにたどり着いた時、\n君が本当の『悪魔』になっていれば、\n『神』と戦う資格を得るだろう』と。{1a}もし、光の扉が封印出来なければ、\n私達は神と戦わなければ\nならないのでしょうか・・・\nそれだけは避けたいですね。{0c:040e}",
    "read": "{1c:13}第一聖者アヴァダイルは言いました。{1a}『この門をくぐると\n『精神の海』が広がっている。\nそこを越えた先に、\n君達の言う『始原の地』がある。{1a}『神』はそこにある。\n君達がそこにたどり着いた時、\n君が本当の『悪魔』になっていれば、\n『神』と戦う資格を得るだろう』と。{1a}もし、光の扉が封印出来なければ、\n私達は神と戦わなければ\nならないのでしょうか・・・\nそれだけは避けたいですね。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}The First Saint Avadail said:{1a}'Through this gate lies the 'Sea of\nSpirit'. Beyond it is the place you call the\n'Land of Origin'.{1a}'God' is there. If by the time you reach it\nyou have become the true 'Devil', you\nshall earn the right to fight 'God'.'{1a}If the Door of Light cannot be sealed,\nmust we fight God... That alone I would\nwish to avoid.{0c:040e}",
+   "status": "done",
+   "tl": "The First Saint Avadail said: // 'Through this gate lies the 'Sea of Spirit'. Beyond it is the place you call the 'Land of Origin'. // 'God' is there. If by the time you reach it you have become the true 'Devil', you shall earn the right to fight 'God'.' // If the Door of Light cannot be sealed, must we fight God... That alone I would wish to avoid."
   },
   {
    "id": "RES#1194:1403f",
@@ -2945,8 +3052,9 @@
    "jp": "{1c:12}外では、教皇の軍勢が\n台風の目になっているようですね。{1a}悪魔の出現、天使の降臨、\n終わることのない戦争が\n教皇軍にとっては全て追い風に\n作用しているようですが、{1a}魔法具の存在も、教皇軍躍進の\n原動力の1つにあるようです。{1a}刻印を復活させない魔法操具など、\n私達にしてみれば基本装備に\n過ぎないのですが、{1a}弓や剣と違い特別な訓練がなくても\n戦力になり得るので\n数が揃えば充分脅威となるでしょう。{1a}ですが、この40年間にこの町で\n発見された魔法具・魔法操具は\nどんなに多く見積もっても\n5千組程度のはず・・・{1a}なのに、壁新聞の記事を読むと、\n数十万単位の魔法具が\n存在するようにしか読めないのです。{1a}町の外では魔法具までもが\n具現化しているのでしょうか・・・{1a}だとすれば、\n外の戦乱はさらに苛烈なものに\nなると覚悟しなければなりませんね。{1a}もちろん、\n『新しい世界』が到来してしまえば\nこれもただの杞憂に\n終わってしまいますが。{0c:040e}",
    "read": "{1c:12}外では、教皇の軍勢が\n台風の目になっているようですね。{1a}悪魔の出現、天使の降臨、\n終わることのない戦争が\n教皇軍にとっては全て追い風に\n作用しているようですが、{1a}魔法具の存在も、教皇軍躍進の\n原動力の1つにあるようです。{1a}刻印を復活させない魔法操具など、\n私達にしてみれば基本装備に\n過ぎないのですが、{1a}弓や剣と違い特別な訓練がなくても\n戦力になり得るので\n数が揃えば充分脅威となるでしょう。{1a}ですが、この40年間にこの町で\n発見された魔法具・魔法操具は\nどんなに多く見積もっても\n5千組程度のはず・・・{1a}なのに、壁新聞の記事を読むと、\n数十万単位の魔法具が\n存在するようにしか読めないのです。{1a}町の外では魔法具までもが\n具現化しているのでしょうか・・・{1a}だとすれば、\n外の戦乱はさらに苛烈なものに\nなると覚悟しなければなりませんね。{1a}もちろん、\n『新しい世界』が到来してしまえば\nこれもただの杞憂に\n終わってしまいますが。{0c:040e}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Out in the world, the Pope's forces\nseem to be the eye of the storm.{1a}The appearance of devils, the descent\nof angels and endless war all seem to be\nfair winds for the Papal Army,{1a}but the existence of Magic Tools seems\nto be one of the driving forces behind\nits rise as well.{1a}To us, a Spell Device with no restored\nsigils is no more than basic equipment,{1a}but unlike bows or swords they make a\nfighting force with no special training, so\nin numbers they could be a real threat.{1a}Yet in these 40 years, the Magic Tools\nand Spell Devices found in this town can\nnumber no more than some five thousand\nsets, however generously one counts...{1a}And yet the articles in the wall\nnewspaper can only be read as saying\nMagic Tools exist by the hundreds of\nthousands.{1a}Are even Magic Tools taking form\noutside the town...{1a}If so, we must be prepared for the\nfighting out there to grow fiercer still.{1a}Of course, if the 'New World' arrives,\nthis too will prove no more than a\nneedless worry.{0c:040e}",
+   "status": "done",
+   "tl": "Out in the world, the Pope's forces seem to be the eye of the storm. // The appearance of devils, the descent of angels and endless war all seem to be fair winds for the Papal Army, // but the existence of Magic Tools seems to be one of the driving forces behind its rise as well. // To us, a Spell Device with no restored sigils is no more than basic equipment, // but unlike bows or swords they make a fighting force with no special training, so in numbers they could be a real threat. // Yet in these 40 years, the Magic Tools and Spell Devices found in this town can number no more than some five thousand sets, however generously one counts... // And yet the articles in the wall newspaper can only be read as saying Magic Tools exist by the hundreds of thousands. // Are even Magic Tools taking form outside the town... // If so, we must be prepared for the fighting out there to grow fiercer still. // Of course, if the 'New World' arrives, this too will prove no more than a needless worry."
   },
   {
    "id": "RES#1194:1426c",
@@ -6002,8 +6110,9 @@
    "jp": "{1c:16}{0b:08}【 クムラン 】{0b:09}\nすみません・・・\n1人にして下さい・・・{0c:1501}",
    "read": "{1c:16}{0b:08}【 クムラン 】{0b:09}\nすみません・・・\n1人にして下さい・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}{0b:08}【 Qumran 】{0b:09}\nI am sorry... Please leave me alone...{0c:1501}",
+   "status": "done",
+   "tl": "I am sorry... Please leave me alone..."
   },
   {
    "id": "RES#1194:162c9",
@@ -6046,8 +6155,9 @@
    "jp": "{1c:16}{0b:08}【 クムラン 】{0b:09}\nすみません・・・\n1人にして下さい・・・{0c:1501}",
    "read": "{1c:16}{0b:08}【 クムラン 】{0b:09}\nすみません・・・\n1人にして下さい・・・{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}{0b:08}【 Qumran 】{0b:09}\nI am sorry... Please leave me alone...{0c:1501}",
+   "status": "done",
+   "tl": "I am sorry... Please leave me alone..."
   },
   {
    "id": "RES#1194:16338",
@@ -6797,8 +6907,9 @@
    "jp": "{1c:10}頑張って下さい、{10}さん。{0c:1501}",
    "read": "{1c:10}頑張って下さい、{10}さん。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Please do your best, {10}-san.{0c:1501}",
+   "status": "done",
+   "tl": "Please do your best, [HERO]-san."
   },
   {
    "id": "RES#1194:16c63",
@@ -7039,8 +7150,9 @@
    "jp": "{1c:12}頑張って下さい、{10}さん。{0c:1501}",
    "read": "{1c:12}頑張って下さい、{10}さん。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Please do your best, {10}-san.{0c:1501}",
+   "status": "done",
+   "tl": "Please do your best, [HERO]-san."
   },
   {
    "id": "RES#1194:16f0b",
@@ -7271,8 +7383,9 @@
    "jp": "{1c:10}頑張って下さい、{10}さん。{0c:1501}",
    "read": "{1c:10}頑張って下さい、{10}さん。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Please do your best, {10}-san.{0c:1501}",
+   "status": "done",
+   "tl": "Please do your best, [HERO]-san."
   },
   {
    "id": "RES#1194:170af",
@@ -7811,8 +7924,9 @@
    "jp": "{1c:10}頑張って下さい、{10}さん。{0c:1501}",
    "read": "{1c:10}頑張って下さい、{10}さん。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}Please do your best, {10}-san.{0c:1501}",
+   "status": "done",
+   "tl": "Please do your best, [HERO]-san."
   },
   {
    "id": "RES#1194:176a2",
@@ -10328,8 +10442,9 @@
    "jp": "{1c:12}頑張って下さい、{10}さん。{0c:1501}",
    "read": "{1c:12}頑張って下さい、{10}さん。{0c:1501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}Please do your best, {10}-san.{0c:1501}",
+   "status": "done",
+   "tl": "Please do your best, [HERO]-san."
   },
   {
    "id": "RES#1194:1a117",

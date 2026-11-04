@@ -22,3 +22,11 @@ Lines where the English deliberately leaves the Japanese: sexual remarks about t
 - RES#706:12e98, 12f20 - オレだって男なんだぜ -> I ain't no nursemaid
 - RES#706:135b2, 1363d - 変なコト -> sweet talk
 - RES#791:7ca9, 7de2 - スケベなこと -> courtin', romance; そっちの趣味 -> that ain't my thing
+- RES#1171:a277, a400 - going to a girl's room -> go see someone you're sweet on, come callin'
+- RES#1173:1399d, 14bbb - remarks on arms -> tough-lookin', frail
+- RES#1173:1799d - wanna play with me -> keep me company
+- RES#1200:10d2d, 10e26 - taste in pretty pages (Orpheus at 15), noblewomen's liking -> vanity about display, service
+- RES#1200:11eff - 欲求のまま...もてあそび (Fatum and Nada) -> tormented them at his whim
+- RES#1405:1643a - 変な趣味 -> some weird streak
+- RES#1874:f75f, f878 - Eve's offer and double entendre -> I'll pay up; doesn't see a thing through
+- RES#1874:115f8 - Eve wants to hold [HERO] -> madly in love with [HERO]

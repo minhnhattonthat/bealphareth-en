@@ -41,8 +41,9 @@
    "jp": "{0b:08}{e080} 戦士アングル {e081}{0b:09}\nやあ、君が{10}か。{1a}私の{e082}前はアングル、\nアスラ・ファエル最強の戦士、\nカルス・バスティードの英雄だ。{0c:fe}",
    "read": "{0b:08}【 戦士アングル 】{0b:09}\nやあ、君が{10}か。{1a}私の名前はアングル、\nアスラ・ファエル最強の戦士、\nカルス・バスティードの英雄だ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Angle the Warrior 】{0b:09}\nAh, so you are {10}.{1a}My name is Angle, the strongest warrior\nin Asla Fael, the hero of Kars Bastide.{0c:fe}",
+   "status": "done",
+   "tl": "Ah, so you are [HERO]. // My name is Angle, the strongest warrior in Asla Fael, the hero of Kars Bastide."
   },
   {
    "id": "RES#708:13c0c",
@@ -63,8 +64,9 @@
    "jp": "{0b:08}{e080} 自{e085}最強の戦士アングル {e081}{0b:09}\n君はここで待っていたのかい?\nだけど、待ち合わせ場所は\n{e086}{e087}じゃなかったかな。{1a}おっと、君のその頭では\n覚えられなかったのかもしれないね。\n無理なことを要求してすまない。{1a}私のように知性とたくましさを\n併せ持つ戦士なんて\nそうはいないのだからね。{0c:fe}",
    "read": "{0b:08}【 自称最強の戦士アングル 】{0b:09}\n君はここで待っていたのかい?\nだけど、待ち合わせ場所は\n教会じゃなかったかな。{1a}おっと、君のその頭では\n覚えられなかったのかもしれないね。\n無理なことを要求してすまない。{1a}私のように知性とたくましさを\n併せ持つ戦士なんて\nそうはいないのだからね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Angle, Self-Styled Strongest 】{0b:09}\nHave you been waiting here? But was\nnot our meeting place the Church?{1a}Oops, perhaps that head of yours could\nnot retain it. Forgive me for asking the\nimpossible.{1a}Warriors like me, who combine intellect\nand brawn, are hard to come by, after\nall.{0c:fe}",
+   "status": "done",
+   "tl": "Have you been waiting here? But was not our meeting place the Church? // Oops, perhaps that head of yours could not retain it. Forgive me for asking the impossible. // Warriors like me, who combine intellect and brawn, are hard to come by, after all."
   },
   {
    "id": "RES#708:13cdd",
@@ -85,8 +87,9 @@
    "jp": "話はシスターから聞いたよ。\nじゃあ、ついてきたまえ。{0c:fe}",
    "read": "話はシスターから聞いたよ。\nじゃあ、ついてきたまえ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I heard the story from the Sister. Now\nthen, follow me.{0c:fe}",
+   "status": "done",
+   "tl": "I heard the story from the Sister. Now then, follow me."
   },
   {
    "id": "RES#708:13d1b",

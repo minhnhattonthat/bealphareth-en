@@ -41,8 +41,9 @@
    "jp": "{0b:08}【 戦士ボスマン 】{0b:09}\nおう、\n確か{10}って言ったよな。\n体の方はもう何ともないのか?{0c:fe}",
    "read": "{0b:08}【 戦士ボスマン 】{0b:09}\nおう、\n確か{10}って言ったよな。\n体の方はもう何ともないのか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Bosman the Warrior 】{0b:09}\nHey, you're {10}, right? Feelin' all\nright now?{0c:fe}",
+   "status": "done",
+   "tl": "Hey, you're [HERO], right? Feelin' all right now?"
   },
   {
    "id": "RES#736:7cd1",
@@ -63,8 +64,9 @@
    "jp": "{0b:08}【 戦士アルバート 】{0b:09}\n若い奴は治るのも早いねぇ。{1a}{0c:51582b551000}よかったな、ティアラちゃん。{0c:2b552351102b541000}{0c:2b5509fe}",
    "read": "{0b:08}【 戦士アルバート 】{0b:09}\n若い奴は治るのも早いねぇ。{1a}{0c:51582b551000}よかったな、ティアラちゃん。{0c:2b552351102b541000}{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Albert the Warrior 】{0b:09}\nYoung folks sure heal quick.{1a}{0c:51582b551000}Good for you, Tiara-chan.{0c:2b552351102b541000}{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Young folks sure heal quick. // [1]Good for you, Tiara-chan."
   },
   {
    "id": "RES#736:7d7a",
@@ -97,8 +99,9 @@
    "jp": "{0b:08}【 戦士ボスマン 】{0b:09}\nで、『煉獄』の説明を\nティアラちゃんに\n聞きに来たってわけか?{0c:fe}",
    "read": "{0b:08}【 戦士ボスマン 】{0b:09}\nで、『煉獄』の説明を\nティアラちゃんに\n聞きに来たってわけか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Bosman the Warrior 】{0b:09}\nSo you came to hear Tiara-chan explain\n'Purgatory', huh?{0c:fe}",
+   "status": "done",
+   "tl": "So you came to hear Tiara-chan explain 'Purgatory', huh?"
   },
   {
    "id": "RES#736:7dff",
@@ -119,8 +122,9 @@
    "jp": "{1c:12}{0b:08}【 司祭ティアラ 】{0b:09}\n本当に大丈夫なのですか?\nふらふらしませんか?{0c:fe}",
    "read": "{1c:12}{0b:08}【 司祭ティアラ 】{0b:09}\n本当に大丈夫なのですか?\nふらふらしませんか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Priest Tiara 】{0b:09}\nAre you truly all right? You do not feel\ndizzy?{0c:fe}",
+   "status": "done",
+   "tl": "Are you truly all right? You do not feel dizzy?"
   },
   {
    "id": "RES#736:7e50",
@@ -141,8 +145,9 @@
    "jp": "{0c:521810}{1c:13}わかりました。\n本当はまだしばらくお休みして\nいただきたいのですが、\nそうも言えない事情があります。{1a}ではさっそく\n『煉獄』と『シェオルの柱』について\nお話しをさせていただきます。{0c:fe}",
    "read": "{0c:521810}{1c:13}わかりました。\n本当はまだしばらくお休みして\nいただきたいのですが、\nそうも言えない事情があります。{1a}ではさっそく\n『煉獄』と『シェオルの柱』について\nお話しをさせていただきます。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521810}{1c:13}I understand. I would have you rest a\nwhile longer if I could, but there are\ncircumstances that do not allow me to\nsay so.{1a}Then, without delay, allow me to tell you\nabout 'Purgatory' and the 'Pillar of\nSheol'.{0c:fe}",
+   "status": "done",
+   "tl": "I understand. I would have you rest a while longer if I could, but there are circumstances that do not allow me to say so. // Then, without delay, allow me to tell you about 'Purgatory' and the 'Pillar of Sheol'."
   },
   {
    "id": "RES#736:7ed9",
@@ -163,8 +168,9 @@
    "jp": "{1c:13}地下都市の下に\n『煉獄』と呼ばれる\n灼熱の空間があります。{1a}煉獄には、無数の横穴と\n大小あわせて千以上のドームが\nまるで巨大な蟻の巣のように\n広がっているのですが、{1a}そのところどころに、\n不思議な材質で出来ている\n大きな柱が立っています。{1a}私達はその柱を、聖書から引用して\n『シェオルの柱』と呼んでいますが、{1a}{0c:522010}その『シェオルの柱』のうち\n光を発しているものこそが、\n{0b:05}{14}さんの魂を\n封じ込めている柱となります。{1a}そして、その柱を壊すと\n{0b:05}{14}さんの肉体に\n魂が戻るのです。{0c:2b5309fe}",
    "read": "{1c:13}地下都市の下に\n『煉獄』と呼ばれる\n灼熱の空間があります。{1a}煉獄には、無数の横穴と\n大小あわせて千以上のドームが\nまるで巨大な蟻の巣のように\n広がっているのですが、{1a}そのところどころに、\n不思議な材質で出来ている\n大きな柱が立っています。{1a}私達はその柱を、聖書から引用して\n『シェオルの柱』と呼んでいますが、{1a}{0c:522010}その『シェオルの柱』のうち\n光を発しているものこそが、\n{0b:05}{14}さんの魂を\n封じ込めている柱となります。{1a}そして、その柱を壊すと\n{0b:05}{14}さんの肉体に\n魂が戻るのです。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}Beneath the underground city lies a\nscorching space called 'Purgatory'.{1a}In Purgatory, countless side tunnels and\nmore than a thousand domes, great and\nsmall, spread out like a giant ant's nest,{1a}and here and there among them stand\ngreat pillars made of a strange material.{1a}Borrowing from the Scriptures, we call\neach such pillar a 'Pillar of Sheol',{1a}{0c:522010}and among them, the 'Pillar of Sheol'\ngiving off light is the very one holding\n{0b:05}{14}-san's soul sealed\ninside.{1a}And when that pillar is broken, the soul\nreturns to {0b:05}{14}-san's\nbody.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Beneath the underground city lies a scorching space called 'Purgatory'. // In Purgatory, countless side tunnels and more than a thousand domes, great and small, spread out like a giant ant's nest, // and here and there among them stand great pillars made of a strange material. // Borrowing from the Scriptures, we call each such pillar a 'Pillar of Sheol', // [1]and among them, the 'Pillar of Sheol' giving off light is the very one holding [2][VAR14]-san's soul sealed inside. // And when that pillar is broken, the soul returns to [3][VAR14]-san's body."
   },
   {
    "id": "RES#736:802c",
@@ -174,8 +180,9 @@
    "jp": "{0c:521810}{0b:08}【 戦士ボスマン 】{0b:09}\n魂だの何だの言われても\nにわかには信じられないだろうが\n全部本当の話だぜ。{0c:2b5409fe}",
    "read": "{0c:521810}{0b:08}【 戦士ボスマン 】{0b:09}\n魂だの何だの言われても\nにわかには信じられないだろうが\n全部本当の話だぜ。{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521810}{0b:08}【 Bosman the Warrior 】{0b:09}\nSouls and all that, I bet it's hard to\nswallow right off, but it's all true, I tell\nya.{0c:2b5409fe}",
+   "status": "done",
+   "tl": "Souls and all that, I bet it's hard to swallow right off, but it's all true, I tell ya."
   },
   {
    "id": "RES#736:807b",
@@ -185,8 +192,9 @@
    "jp": "{0c:526058}{0b:08}【 戦士アルバート 】{0b:09}\nああ、\nお前さんもそうやって\n生き返ったんだよ。{0c:2b5509fe}",
    "read": "{0c:526058}{0b:08}【 戦士アルバート 】{0b:09}\nああ、\nお前さんもそうやって\n生き返ったんだよ。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:526058}{0b:08}【 Albert the Warrior 】{0b:09}\nYeah, that's just how you came back to\nlife yourself.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Yeah, that's just how you came back to life yourself."
   },
   {
    "id": "RES#736:80b8",
@@ -196,8 +204,9 @@
    "jp": "{1c:11}{0b:08}【 司祭ティアラ 】{0b:09}\n聖書に出てくる『シェオルの柱』は\n『世界を支える柱』との意味も\n持っています。{1a}天界と地獄の間にある\n『煉獄』という世界は、何万本もの\n柱によって支えられている、{1a}そしてその柱は、天界に行く直前の\n霊魂によって出来ている・・・\nそう聖書には書かれています。{1a}紫の剣を剥がされ、目を覚まさない\n{10}さん達の様子から、{1a}また、肉体のみの永遠を求め、\n魂を失い、獣になってしまった\n民についての描写から、{1a}聖書とこの町で起こったこととの\n関連性について思いつき、\n町の皆さんに『シェオルの柱』を\n探していただくようお願いしました。{1a}そして、多くの方のご協力のおかげで、\nすでに3人の方が助かりました。{1a}残るは{0b:05}{14}さん\nおひとりとなったのですが、\nここに来て、さらに人手が\n足りなくなり困っていたのです。{0c:2b5309fe}",
    "read": "{1c:11}{0b:08}【 司祭ティアラ 】{0b:09}\n聖書に出てくる『シェオルの柱』は\n『世界を支える柱』との意味も\n持っています。{1a}天界と地獄の間にある\n『煉獄』という世界は、何万本もの\n柱によって支えられている、{1a}そしてその柱は、天界に行く直前の\n霊魂によって出来ている・・・\nそう聖書には書かれています。{1a}紫の剣を剥がされ、目を覚まさない\n{10}さん達の様子から、{1a}また、肉体のみの永遠を求め、\n魂を失い、獣になってしまった\n民についての描写から、{1a}聖書とこの町で起こったこととの\n関連性について思いつき、\n町の皆さんに『シェオルの柱』を\n探していただくようお願いしました。{1a}そして、多くの方のご協力のおかげで、\nすでに3人の方が助かりました。{1a}残るは{0b:05}{14}さん\nおひとりとなったのですが、\nここに来て、さらに人手が\n足りなくなり困っていたのです。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Priest Tiara 】{0b:09}\nThe 'Pillar of Sheol' in the Scriptures\nalso carries the meaning of 'the pillar\nthat supports the world'.{1a}The world called 'Purgatory', which lies\nbetween the Celestial Realm and Hell, is\nheld up by tens of thousands of pillars,{1a}and those pillars are made of spirits\nabout to enter the Celestial Realm... So\nit is written in the Scriptures.{1a}From the state of {10}-san and\nthe others, who would not wake after\nthe Purple Sword was stripped away,{1a}and from the passage on the people who\nsought eternity of the flesh alone, lost\ntheir souls and became beasts,{1a}I thought of a link between the\nScriptures and what happened in this\ntown, and asked the people here to\nsearch for the 'Pillar of Sheol'.{1a}And thanks to the help of so many,\nthree people have already been saved.{1a}Only {0b:05}{14}-san now\nremains, but just at this point we have\nrun even shorter of hands, and we have\nbeen at a loss.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "The 'Pillar of Sheol' in the Scriptures also carries the meaning of 'the pillar that supports the world'. // The world called 'Purgatory', which lies between the Celestial Realm and Hell, is held up by tens of thousands of pillars, // and those pillars are made of spirits about to enter the Celestial Realm... So it is written in the Scriptures. // From the state of [HERO]-san and the others, who would not wake after the Purple Sword was stripped away, // and from the passage on the people who sought eternity of the flesh alone, lost their souls and became beasts, // I thought of a link between the Scriptures and what happened in this town, and asked the people here to search for the 'Pillar of Sheol'. // And thanks to the help of so many, three people have already been saved. // Only [1][VAR14]-san now remains, but just at this point we have run even shorter of hands, and we have been at a loss."
   },
   {
    "id": "RES#736:8293",
@@ -207,8 +216,9 @@
    "jp": "{0b:08}【 戦士ボスマン 】{0b:09}\n魔物の少ない所、\n道の単純な所、仕掛けの簡単な所、\nそういう場所を先に探したから、{1a}今残ってるのは\nやっかいな所ばっかりなんだ。{0c:2b5409fe}",
    "read": "{0b:08}【 戦士ボスマン 】{0b:09}\n魔物の少ない所、\n道の単純な所、仕掛けの簡単な所、\nそういう場所を先に探したから、{1a}今残ってるのは\nやっかいな所ばっかりなんだ。{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Bosman the Warrior 】{0b:09}\nPlaces with few monsters, simple paths,\neasy traps, those got searched first,{1a}so what's left now is nothin' but the\nnasty ones.{0c:2b5409fe}",
+   "status": "done",
+   "tl": "Places with few monsters, simple paths, easy traps, those got searched first, // so what's left now is nothin' but the nasty ones."
   },
   {
    "id": "RES#736:8303",
@@ -218,8 +228,9 @@
    "jp": "{0b:08}【 戦士アルバート 】{0b:09}\nだから最近はみんな\nペースが落ちまくってるんだってよ。{0c:2b5509fe}",
    "read": "{0b:08}【 戦士アルバート 】{0b:09}\nだから最近はみんな\nペースが落ちまくってるんだってよ。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Albert the Warrior 】{0b:09}\nWhich is why everybody's been slowin'\nway down lately, I hear.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Which is why everybody's been slowin' way down lately, I hear."
   },
   {
    "id": "RES#736:8340",
@@ -229,8 +240,9 @@
    "jp": "{1c:11}{0b:08}【 司祭ティアラ 】{0b:09}\n煉獄の全体像を\n誰もご存じでないことも\nその原因になっていると思います。{0c:2b5409fe}",
    "read": "{1c:11}{0b:08}【 司祭ティアラ 】{0b:09}\n煉獄の全体像を\n誰もご存じでないことも\nその原因になっていると思います。{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Priest Tiara 】{0b:09}\nI believe another cause is that no one\nknows the overall shape of Purgatory.{0c:2b5409fe}",
+   "status": "done",
+   "tl": "I believe another cause is that no one knows the overall shape of Purgatory."
   },
   {
    "id": "RES#736:838c",
@@ -240,8 +252,9 @@
    "jp": "{0c:526858}{0b:08}【 戦士アルバート 】{0b:09}\n仕方ねえさ。\n今回のことがあるまでは、{1a}あそこに足を踏み入れたがる奴なんて\nほとんどいなかったからな。{0c:2b5309fe}",
    "read": "{0c:526858}{0b:08}【 戦士アルバート 】{0b:09}\n仕方ねえさ。\n今回のことがあるまでは、{1a}あそこに足を踏み入れたがる奴なんて\nほとんどいなかったからな。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:526858}{0b:08}【 Albert the Warrior 】{0b:09}\nCan't be helped. Before all this,{1a}hardly anybody ever wanted to set foot\nin there.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Can't be helped. Before all this, // hardly anybody ever wanted to set foot in there."
   },
   {
    "id": "RES#736:83e9",
@@ -251,8 +264,9 @@
    "jp": "{0b:08}【 戦士ボスマン 】{0b:09}\n調べるのが簡単な所は\nもうほとんど行き尽くしたから、{1a}今は細かい支流を中心に\n探してるんだが、{1a}新たな支流が見つかりゃ、\n町に戻って報告して\nまた潜りなおして、{1a}行き止まりにぶつかりゃ、\n別の奴らの情報を集めに\nまた町に戻って・・・{1a}これを繰り返して、端から順番に\nシラミ潰しに探さなきゃならねえから\nかなり手間がかかっちまうんだ。{0c:2b5409fe}",
    "read": "{0b:08}【 戦士ボスマン 】{0b:09}\n調べるのが簡単な所は\nもうほとんど行き尽くしたから、{1a}今は細かい支流を中心に\n探してるんだが、{1a}新たな支流が見つかりゃ、\n町に戻って報告して\nまた潜りなおして、{1a}行き止まりにぶつかりゃ、\n別の奴らの情報を集めに\nまた町に戻って・・・{1a}これを繰り返して、端から順番に\nシラミ潰しに探さなきゃならねえから\nかなり手間がかかっちまうんだ。{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Bosman the Warrior 】{0b:09}\nThe easy places to check are mostly all\ndone by now,{1a}so these days we're searchin' mainly the\nlittle side branches,{1a}and when we find a new branch, we\ngotta go back to town, report, and dive\nin all over again,{1a}and when we hit a dead end, it's back to\ntown again to get what the other fellas\nfound...{1a}Over and over, combin' it inch by inch,\nend to end, so it takes a hell of a lot of\nwork.{0c:2b5409fe}",
+   "status": "done",
+   "tl": "The easy places to check are mostly all done by now, // so these days we're searchin' mainly the little side branches, // and when we find a new branch, we gotta go back to town, report, and dive in all over again, // and when we hit a dead end, it's back to town again to get what the other fellas found... // Over and over, combin' it inch by inch, end to end, so it takes a hell of a lot of work."
   },
   {
    "id": "RES#736:84d5",
@@ -262,8 +276,9 @@
    "jp": "{0c:526058}{0b:08}【 戦士アルバート 】{0b:09}\nお前さんはほんと運が良かったよ。{1a}そりゃもちろんお前さんの時だって\n手間も時間もかかったが、\n今と比べりゃ屁みたいなもんだ。{0c:2b5309fe}",
    "read": "{0c:526058}{0b:08}【 戦士アルバート 】{0b:09}\nお前さんはほんと運が良かったよ。{1a}そりゃもちろんお前さんの時だって\n手間も時間もかかったが、\n今と比べりゃ屁みたいなもんだ。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:526058}{0b:08}【 Albert the Warrior 】{0b:09}\nYou were real lucky, ya know.{1a}Sure, it took work and time with you\ntoo, but next to now, it was a fart in\nthe wind.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "You were real lucky, ya know. // Sure, it took work and time with you too, but next to now, it was a fart in the wind."
   },
   {
    "id": "RES#736:8541",
@@ -273,8 +288,9 @@
    "jp": "{0b:08}【 戦士ボスマン 】{0b:09}\nそして何よりもの問題・・・\nこれはティアラちゃんの口からは\n絶対に出てこないだろうが、{1a}なんと言っても\n凶戦士に対する反感はデカい。\n手伝ってくれる奴が少なすぎるんだ。{0c:fe}",
    "read": "{0b:08}【 戦士ボスマン 】{0b:09}\nそして何よりもの問題・・・\nこれはティアラちゃんの口からは\n絶対に出てこないだろうが、{1a}なんと言っても\n凶戦士に対する反感はデカい。\n手伝ってくれる奴が少なすぎるんだ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Bosman the Warrior 】{0b:09}\nAnd the biggest problem of all... You\nwon't ever hear this from Tiara-chan,{1a}but folks got a big grudge against\nBerserkers, no way around it. Way too\nfew willin' to help.{0c:fe}",
+   "status": "done",
+   "tl": "And the biggest problem of all... You won't ever hear this from Tiara-chan, // but folks got a big grudge against Berserkers, no way around it. Way too few willin' to help."
   },
   {
    "id": "RES#736:85c4",
@@ -295,8 +311,9 @@
    "jp": "{0b:08}【 戦士アルバート 】{0b:09}\n俺達も初めはな・・・{0c:fe}",
    "read": "{0b:08}【 戦士アルバート 】{0b:09}\n俺達も初めはな・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Albert the Warrior 】{0b:09}\nWe were the same at first...{0c:fe}",
+   "status": "done",
+   "tl": "We were the same at first..."
   },
   {
    "id": "RES#736:8602",
@@ -317,8 +334,9 @@
    "jp": "{0b:08}【 戦士ボスマン 】{0b:09}\nああ・・・\n俺達も初めは正直言って\n乗り気じゃなかったさ。{0c:2b5409fe}",
    "read": "{0b:08}【 戦士ボスマン 】{0b:09}\nああ・・・\n俺達も初めは正直言って\n乗り気じゃなかったさ。{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Bosman the Warrior 】{0b:09}\nYeah... Honest truth, we weren't too\nkeen at first ourselves.{0c:2b5409fe}",
+   "status": "done",
+   "tl": "Yeah... Honest truth, we weren't too keen at first ourselves."
   },
   {
    "id": "RES#736:866d",
@@ -328,8 +346,9 @@
    "jp": "{0b:08}【 戦士アルバート 】{0b:09}\nだけど、バルデスの旦那に\n頼まれちまったからな。{0c:2b5309fe}",
    "read": "{0b:08}【 戦士アルバート 】{0b:09}\nだけど、バルデスの旦那に\n頼まれちまったからな。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Albert the Warrior 】{0b:09}\nBut then Mister Valdes went and asked\nus.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "But then Mister Valdes went and asked us."
   },
   {
    "id": "RES#736:86a7",
@@ -339,8 +358,9 @@
    "jp": "{0c:522810}{0b:08}【 戦士ボスマン 】{0b:09}\nああ、旦那に頼まれて\nやらなきゃ男じゃねえ。{0c:2b5409fe}",
    "read": "{0c:522810}{0b:08}【 戦士ボスマン 】{0b:09}\nああ、旦那に頼まれて\nやらなきゃ男じゃねえ。{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:522810}{0b:08}【 Bosman the Warrior 】{0b:09}\nYeah, if Mister Valdes asks and you\ndon't do it, you ain't a man.{0c:2b5409fe}",
+   "status": "done",
+   "tl": "Yeah, if Mister Valdes asks and you don't do it, you ain't a man."
   },
   {
    "id": "RES#736:86e2",
@@ -350,8 +370,9 @@
    "jp": "{0c:527058}{0b:08}【 戦士アルバート 】{0b:09}\nそれにティアラちゃんも\n頑張ってるんだし。{0c:2b5309fe}",
    "read": "{0c:527058}{0b:08}【 戦士アルバート 】{0b:09}\nそれにティアラちゃんも\n頑張ってるんだし。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:527058}{0b:08}【 Albert the Warrior 】{0b:09}\nBesides, Tiara-chan's workin' so hard\ntoo.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Besides, Tiara-chan's workin' so hard too."
   },
   {
    "id": "RES#736:871d",
@@ -372,8 +393,9 @@
    "jp": "{0c:523010}{0b:08}【 戦士ボスマン 】{0b:09}\n今、俺達の指揮を取ってるのは\nティアラちゃんなんだぜ。{1a}クムラン先生は最近\nどうも調子悪いみたいだし、\nバルデスの旦那には\nこれ以上無茶させたくねえし、{1a}サディーヤ先生は\n別の研究に忙しいし、\nオイゲンのオヤジは\n食糧の問題で頭がいっぱいだ。{1a}{0c:523840}で、こんな女の子が\n1人で頑張ってたんだ、\nその姿を見て動かなきゃ\n男じゃねえだろ。{0c:2b5509fe}",
    "read": "{0c:523010}{0b:08}【 戦士ボスマン 】{0b:09}\n今、俺達の指揮を取ってるのは\nティアラちゃんなんだぜ。{1a}クムラン先生は最近\nどうも調子悪いみたいだし、\nバルデスの旦那には\nこれ以上無茶させたくねえし、{1a}サディーヤ先生は\n別の研究に忙しいし、\nオイゲンのオヤジは\n食糧の問題で頭がいっぱいだ。{1a}{0c:523840}で、こんな女の子が\n1人で頑張ってたんだ、\nその姿を見て動かなきゃ\n男じゃねえだろ。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523010}{0b:08}【 Bosman the Warrior 】{0b:09}\nYou know, the one leadin' us right now is\nTiara-chan.{1a}Qumran-sensei ain't been doin' too well\nlately, and we don't wanna push Mister\nValdes any further,{1a}Sadiya-sensei's busy with other\nresearch, and old man Eugen's got his\nhead full of the food problem.{1a}{0c:523840}So here's this young girl workin' hard all\nby herself. See that and don't move, you\nain't a man, are ya?{0c:2b5509fe}",
+   "status": "done",
+   "tl": "You know, the one leadin' us right now is Tiara-chan. // Qumran-sensei ain't been doin' too well lately, and we don't wanna push Mister Valdes any further, // Sadiya-sensei's busy with other research, and old man Eugen's got his head full of the food problem. // [1]So here's this young girl workin' hard all by herself. See that and don't move, you ain't a man, are ya?"
   },
   {
    "id": "RES#736:8828",
@@ -383,8 +405,9 @@
    "jp": "{0c:5208102b531000}{0c:0c32}{0c:5208102b541000}{1c:14}{0b:08}【 司祭ティアラ 】{0b:09}\n本当にありがとうございます、\nアルバートさん、ボスマンさん。{0c:fe}",
    "read": "{0c:5208102b531000}{0c:0c32}{0c:5208102b541000}{1c:14}{0b:08}【 司祭ティアラ 】{0b:09}\n本当にありがとうございます、\nアルバートさん、ボスマンさん。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5208102b531000}{0c:0c32}{0c:5208102b541000}{1c:14}{0b:08}【 Priest Tiara 】{0b:09}\nThank you so very much, Albert-san,\nBosman-san.{0c:fe}",
+   "status": "done",
+   "tl": "Thank you so very much, Albert-san, Bosman-san."
   },
   {
    "id": "RES#736:887d",
@@ -405,8 +428,9 @@
    "jp": "{0b:08}【 戦士アルバート 】{0b:09}\n気にしなくていいさ。\n今じゃ当然のことを\nしてるだけだって思ってるからよ。{0c:2b5309fe}",
    "read": "{0b:08}【 戦士アルバート 】{0b:09}\n気にしなくていいさ。\n今じゃ当然のことを\nしてるだけだって思ってるからよ。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Albert the Warrior 】{0b:09}\nNo need to mention it. These days I\nfigure we're just doin' the natural thing.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "No need to mention it. These days I figure we're just doin' the natural thing."
   },
   {
    "id": "RES#736:88de",
@@ -416,8 +440,9 @@
    "jp": "{0c:51102b541000}{0b:08}【 戦士ボスマン 】{0b:09}\n格好いいこと言うじゃねえか。{0c:2b5409fe}",
    "read": "{0c:51102b541000}{0b:08}【 戦士ボスマン 】{0b:09}\n格好いいこと言うじゃねえか。{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51102b541000}{0b:08}【 Bosman the Warrior 】{0b:09}\nTalkin' pretty cool there, ain't ya.{0c:2b5409fe}",
+   "status": "done",
+   "tl": "Talkin' pretty cool there, ain't ya."
   },
   {
    "id": "RES#736:8913",
@@ -427,8 +452,9 @@
    "jp": "{0c:527880}{0b:08}【 戦士アルバート 】{0b:09}\n20代半ばにしてこのオヤジ顔でも\n一応男だからな。\n少しくらいは格好つけさせてくれよ。{0c:2b5509fe}",
    "read": "{0c:527880}{0b:08}【 戦士アルバート 】{0b:09}\n20代半ばにしてこのオヤジ顔でも\n一応男だからな。\n少しくらいは格好つけさせてくれよ。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:527880}{0b:08}【 Albert the Warrior 】{0b:09}\nMid-twenties with this old man's mug,\nbut I'm still a man, sorta. Let me look\ncool just a little.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Mid-twenties with this old man's mug, but I'm still a man, sorta. Let me look cool just a little."
   },
   {
    "id": "RES#736:896c",
@@ -449,8 +475,9 @@
    "jp": "{1c:13}{0b:08}【 司祭ティアラ 】{0b:09}\n光る柱を見つけることが目的なので、\n出来る限り戦いは避けて下さい。{1a}{0c:2b532351102b501000}{0c:2b542351582b501000}また、行き止まりがあれば\n地上に戻って下さい。\n別の場所を探してもらうことに\nなると思います。{0c:2b5409fe}",
    "read": "{1c:13}{0b:08}【 司祭ティアラ 】{0b:09}\n光る柱を見つけることが目的なので、\n出来る限り戦いは避けて下さい。{1a}{0c:2b532351102b501000}{0c:2b542351582b501000}また、行き止まりがあれば\n地上に戻って下さい。\n別の場所を探してもらうことに\nなると思います。{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Priest Tiara 】{0b:09}\nOur aim is to find the shining pillar, so\nplease avoid battle as much as you can.{1a}{0c:2b532351102b501000}{0c:2b542351582b501000}Also, if you come to a dead end, please\nreturn to the surface. I expect we will\nask you to search elsewhere.{0c:2b5409fe}",
+   "status": "done",
+   "tl": "Our aim is to find the shining pillar, so please avoid battle as much as you can. // [1]Also, if you come to a dead end, please return to the surface. I expect we will ask you to search elsewhere."
   },
   {
    "id": "RES#736:8a20",
@@ -460,8 +487,9 @@
    "jp": "{0b:08}【 戦士アルバート 】{0b:09}\nま、根気との戦いになるだろうな。{0c:fe}",
    "read": "{0b:08}【 戦士アルバート 】{0b:09}\nま、根気との戦いになるだろうな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Albert the Warrior 】{0b:09}\nWell, it's gonna come down to a battle of\npatience.{0c:fe}",
+   "status": "done",
+   "tl": "Well, it's gonna come down to a battle of patience."
   },
   {
    "id": "RES#736:8a4d",
@@ -691,8 +719,9 @@
    "jp": "{0c:511029011000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではアッシュさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "read": "{0c:511029011000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではアッシュさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:511029011000}{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nThen, Ash-san, please guide\n{10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "Then, Ash-san, please guide [HERO]-san."
   },
   {
    "id": "RES#736:8af8",
@@ -736,8 +765,9 @@
    "jp": "{0c:511029021000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではアーサーさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "read": "{0c:511029021000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではアーサーさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:511029021000}{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nThen, Arthur-san, please guide\n{10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "Then, Arthur-san, please guide [HERO]-san."
   },
   {
    "id": "RES#736:8b85",
@@ -758,8 +788,9 @@
    "jp": "{0b:08}【 アーサー 】{0b:09}\n{10}、\n頑張って助けよう!{0c:023001}",
    "read": "{0b:08}【 アーサー 】{0b:09}\n{10}、\n頑張って助けよう!{0c:023001}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Arthur 】{0b:09}\n{10}, let's do our best and save\nthem!{0c:023001}",
+   "status": "done",
+   "tl": "[HERO], let's do our best and save them!"
   },
   {
    "id": "RES#736:8bcd",
@@ -780,8 +811,9 @@
    "jp": "{0c:511029031000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではレイアさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "read": "{0c:511029031000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではレイアさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:511029031000}{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nThen, Leia-san, please guide\n{10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "Then, Leia-san, please guide [HERO]-san."
   },
   {
    "id": "RES#736:8c16",
@@ -802,8 +834,9 @@
    "jp": "{0b:08}【 レイア 】{0b:09}\n仕方ない・・・ついてこい。{0c:022c01}",
    "read": "{0b:08}【 レイア 】{0b:09}\n仕方ない・・・ついてこい。{0c:022c01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Leia 】{0b:09}\nIt cannot be helped... Follow me.{0c:022c01}",
+   "status": "done",
+   "tl": "It cannot be helped... Follow me."
   },
   {
    "id": "RES#736:8c5c",
@@ -824,8 +857,9 @@
    "jp": "{0c:511029041000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではエレアノールさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "read": "{0c:511029041000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではエレアノールさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:511029041000}{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nThen, Eleanor-san, please guide\n{10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "Then, Eleanor-san, please guide [HERO]-san."
   },
   {
    "id": "RES#736:8ca8",
@@ -846,8 +880,9 @@
    "jp": "{0b:08}【 エレアノール 】{0b:09}\nでは行きましょう、{10}。{0c:022801}",
    "read": "{0b:08}【 エレアノール 】{0b:09}\nでは行きましょう、{10}。{0c:022801}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Eleanor 】{0b:09}\nLet us go, then, {10}.{0c:022801}",
+   "status": "done",
+   "tl": "Let us go, then, [HERO]."
   },
   {
    "id": "RES#736:8cee",
@@ -868,8 +903,9 @@
    "jp": "{0c:511029051000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではパスカさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "read": "{0c:511029051000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではパスカさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:511029051000}{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nThen, Pasca-san, please guide\n{10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "Then, Pasca-san, please guide [HERO]-san."
   },
   {
    "id": "RES#736:8d37",
@@ -890,8 +926,9 @@
    "jp": "{0b:08}【 パスカ 】{0b:09}\nま、案内って言っても、\nオレだって今から行く所は\n入り口までしか知らねえんだけどな。{1a}ま、とにかく頑張って探そうぜ。{0c:022401}",
    "read": "{0b:08}【 パスカ 】{0b:09}\nま、案内って言っても、\nオレだって今から行く所は\n入り口までしか知らねえんだけどな。{1a}ま、とにかく頑張って探そうぜ。{0c:022401}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Pasca 】{0b:09}\nWell, guide or not, I don't know nothin'\npast the entrance of where we're\nheaded myself.{1a}Anyway, let's give it our best, huh?{0c:022401}",
+   "status": "done",
+   "tl": "Well, guide or not, I don't know nothin' past the entrance of where we're headed myself. // Anyway, let's give it our best, huh?"
   },
   {
    "id": "RES#736:8db6",
@@ -912,8 +949,9 @@
    "jp": "{0c:511029081000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではシャルンさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "read": "{0c:511029081000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではシャルンさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:511029081000}{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nThen, Scharn-san, please guide\n{10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "Then, Scharn-san, please guide [HERO]-san."
   },
   {
    "id": "RES#736:8e00",
@@ -957,8 +995,9 @@
    "jp": "{0c:5110290a1000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではジェシカさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "read": "{0c:5110290a1000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではジェシカさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5110290a1000}{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nThen, Jessica-san, please guide\n{10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "Then, Jessica-san, please guide [HERO]-san."
   },
   {
    "id": "RES#736:8e8c",
@@ -979,8 +1018,9 @@
    "jp": "{0b:08}【 ジェシカ 】{0b:09}\n案内って言っても\n今から行くところは\n途中までしか知らないんだけどね。{1a}ま、とにかく行こっか、\nがんばろうね、{10}。{0c:021c01}",
    "read": "{0b:08}【 ジェシカ 】{0b:09}\n案内って言っても\n今から行くところは\n途中までしか知らないんだけどね。{1a}ま、とにかく行こっか、\nがんばろうね、{10}。{0c:021c01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Jessica 】{0b:09}\nGuide or not, I only know part of the\nway to where we're going.{1a}Anyway, let's go. Let's do our best,\n{10}.{0c:021c01}",
+   "status": "done",
+   "tl": "Guide or not, I only know part of the way to where we're going. // Anyway, let's go. Let's do our best, [HERO]."
   },
   {
    "id": "RES#736:8f06",
@@ -1001,8 +1041,9 @@
    "jp": "{0c:5110290b1000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではオルフェウスさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "read": "{0c:5110290b1000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではオルフェウスさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5110290b1000}{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nThen, Orpheus-san, please guide\n{10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "Then, Orpheus-san, please guide [HERO]-san."
   },
   {
    "id": "RES#736:8f5a",
@@ -1023,8 +1064,9 @@
    "jp": "{1c:15}{0b:08}【 オルフェウス 】{0b:09}\n仕方がない、\n案内して差し上げましょう。\nティアラさんの頼みですから。{0c:021801}",
    "read": "{1c:15}{0b:08}【 オルフェウス 】{0b:09}\n仕方がない、\n案内して差し上げましょう。\nティアラさんの頼みですから。{0c:021801}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Orpheus 】{0b:09}\nIt cannot be helped. I shall guide you,\nsince Tiara-san asks it.{0c:021801}",
+   "status": "done",
+   "tl": "It cannot be helped. I shall guide you, since Tiara-san asks it."
   },
   {
    "id": "RES#736:8fc2",
@@ -1034,8 +1076,9 @@
    "jp": "{0c:5110290b1000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではオルフェウスさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "read": "{0c:5110290b1000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではオルフェウスさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5110290b1000}{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nThen, Orpheus-san, please guide\n{10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "Then, Orpheus-san, please guide [HERO]-san."
   },
   {
    "id": "RES#736:9007",
@@ -1056,8 +1099,9 @@
    "jp": "{1c:16}{0b:08}【 オルフェウス 】{0b:09}\n任せて下さい。\n{10}さんをエスコートするのは\nぼくの運命ですから。{0c:021501}",
    "read": "{1c:16}{0b:08}【 オルフェウス 】{0b:09}\n任せて下さい。\n{10}さんをエスコートするのは\nぼくの運命ですから。{0c:021501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}{0b:08}【 Orpheus 】{0b:09}\nLeave it to me. Escorting\n{10}-san is my destiny.{0c:021501}",
+   "status": "done",
+   "tl": "Leave it to me. Escorting [HERO]-san is my destiny."
   },
   {
    "id": "RES#736:9069",
@@ -1078,8 +1122,9 @@
    "jp": "{0c:5110290c1000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではイヴさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "read": "{0c:5110290c1000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではイヴさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5110290c1000}{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nThen, Eve-san, please guide\n{10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "Then, Eve-san, please guide [HERO]-san."
   },
   {
    "id": "RES#736:90b1",
@@ -1100,8 +1145,9 @@
    "jp": "{1c:17}{0b:08}【 イヴ 】{0b:09}\n仕方ないわね・・・\nあたしがリードするのは初めだけよ。{0c:021101}",
    "read": "{1c:17}{0b:08}【 イヴ 】{0b:09}\n仕方ないわね・・・\nあたしがリードするのは初めだけよ。{0c:021101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Eve 】{0b:09}\nI suppose there's no helping it... But I'm\nonly leading at the start.{0c:021101}",
+   "status": "done",
+   "tl": "I suppose there's no helping it... But I'm only leading at the start."
   },
   {
    "id": "RES#736:9109",
@@ -1122,8 +1168,9 @@
    "jp": "{0c:5110290d1000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではディアスさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "read": "{0c:5110290d1000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではディアスさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5110290d1000}{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nThen, Dias-san, please guide\n{10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "Then, Dias-san, please guide [HERO]-san."
   },
   {
    "id": "RES#736:9153",
@@ -1144,8 +1191,9 @@
    "jp": "{0b:08}【 ディアス 】{0b:09}\n仕方ない・・・\nついてこい。{0c:020d01}",
    "read": "{0b:08}【 ディアス 】{0b:09}\n仕方ない・・・\nついてこい。{0c:020d01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Dias 】{0b:09}\nIt cannot be helped... Follow me.{0c:020d01}",
+   "status": "done",
+   "tl": "It cannot be helped... Follow me."
   },
   {
    "id": "RES#736:919b",
@@ -1166,8 +1214,9 @@
    "jp": "{0c:5110290e1000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではノエルさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "read": "{0c:5110290e1000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではノエルさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5110290e1000}{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nThen, Noel-san, please guide\n{10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "Then, Noel-san, please guide [HERO]-san."
   },
   {
    "id": "RES#736:91e4",
@@ -1188,8 +1237,9 @@
    "jp": "{0b:08}【 ノエル 】{0b:09}\n・・・じゃあついてきて。{0c:020901}",
    "read": "{0b:08}【 ノエル 】{0b:09}\n・・・じゃあついてきて。{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Noel 】{0b:09}\n...Come with me, then.{0c:020901}",
+   "status": "done",
+   "tl": "...Come with me, then."
   },
   {
    "id": "RES#736:9227",
@@ -1210,8 +1260,9 @@
    "jp": "{0c:511029111000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではルカさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "read": "{0c:511029111000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではルカさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:511029111000}{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nThen, Luca-san, please guide\n{10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "Then, Luca-san, please guide [HERO]-san."
   },
   {
    "id": "RES#736:926f",
@@ -1232,8 +1283,9 @@
    "jp": "{1c:18}{0b:08}【 ルカ 】{0b:09}\nは、はい。{1a}では行きましょうか、\n{10}さん。{0c:020501}",
    "read": "{1c:18}{0b:08}【 ルカ 】{0b:09}\nは、はい。{1a}では行きましょうか、\n{10}さん。{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Luca 】{0b:09}\nY-yes.{1a}Let us go, then, {10}-san.{0c:020501}",
+   "status": "done",
+   "tl": "Y-yes. // Let us go, then, [HERO]-san."
   },
   {
    "id": "RES#736:92bd",
@@ -1254,8 +1306,9 @@
    "jp": "{0c:511029121000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではサラさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "read": "{0c:511029121000}{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれではサラさん、\n{10}さんの案内を\nお願いします。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:511029121000}{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nThen, Sara-san, please guide\n{10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "Then, Sara-san, please guide [HERO]-san."
   },
   {
    "id": "RES#736:9305",
@@ -1310,8 +1363,9 @@
    "jp": "{0c:521810}{1c:13}{0b:08}【 司祭ティアラ 】{0b:09}\nまずはどなたかと一緒に\n煉獄に入っていただきたいと\n思います。{1a}{10}さんと同じ時に\nこの町に来られた方は、\n皆さん煉獄への道を\nご存じですから。{0c:2b5309fe}",
    "read": "{0c:521810}{1c:13}{0b:08}【 司祭ティアラ 】{0b:09}\nまずはどなたかと一緒に\n煉獄に入っていただきたいと\n思います。{1a}{10}さんと同じ時に\nこの町に来られた方は、\n皆さん煉獄への道を\nご存じですから。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521810}{1c:13}{0b:08}【 Priest Tiara 】{0b:09}\nFirst, I would ask you to enter\nPurgatory with someone.{1a}Those who came to this town at the\nsame time as you, {10}-san, all\nknow the way to Purgatory.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "First, I would ask you to enter Purgatory with someone. // Those who came to this town at the same time as you, [HERO]-san, all know the way to Purgatory."
   },
   {
    "id": "RES#736:93d6",
@@ -1321,8 +1375,9 @@
    "jp": "{0c:522810}{0b:08}【 司祭ボスマン 】{0b:09}\nお前の時の行路図にも\n探索の足がかりとなる場所を\n覚えさせなきゃならねえからな。{0c:2b5509fe}",
    "read": "{0c:522810}{0b:08}【 司祭ボスマン 】{0b:09}\nお前の時の行路図にも\n探索の足がかりとなる場所を\n覚えさせなきゃならねえからな。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:522810}{0b:08}【 Priest Bosman 】{0b:09}\nYour Chart of Time's gotta learn a place\nyou can use as a foothold for the\nsearch, too.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Your Chart of Time's gotta learn a place you can use as a foothold for the search, too."
   },
   {
    "id": "RES#736:942a",
@@ -1332,8 +1387,9 @@
    "jp": "{0c:521810}{1c:14}{0b:08}【 司祭ティアラ 】{0b:09}\n頑張って下さい、{10}さん。{0c:fe}",
    "read": "{0c:521810}{1c:14}{0b:08}【 司祭ティアラ 】{0b:09}\n頑張って下さい、{10}さん。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521810}{1c:14}{0b:08}【 Priest Tiara 】{0b:09}\nPlease do your best, {10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "Please do your best, [HERO]-san."
   },
   {
    "id": "RES#736:9459",

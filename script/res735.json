@@ -41,8 +41,9 @@
    "jp": "{0b:08}{e080} 人を待っている戦士A {e081}{0b:09}\nん、お前・・・{e082}月くらい前に\n意識が戻ったヤツじゃねえのか?{0c:fe}",
    "read": "{0b:08}【 人を待っている戦士A 】{0b:09}\nん、お前・・・半月くらい前に\n意識が戻ったヤツじゃねえのか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Waiting Warrior A 】{0b:09}\nHuh, you... ain't you the one who came to\nabout half a month back?{0c:fe}",
+   "status": "done",
+   "tl": "Huh, you... ain't you the one who came to about half a month back?"
   },
   {
    "id": "RES#735:79fa",
@@ -63,8 +64,9 @@
    "jp": "{0b:08}{e080} 人を待っている戦士A {e081}{0b:09}\nあの事{e083}の後、\n{e084}{e085}に入るのは初めてなんだろ?{1a}じゃあ仲間{e086}れて出直せよ。\n1人で入っても面倒なだけだぜ。{0c:2b5409fe}",
    "read": "{0b:08}【 人を待っている戦士A 】{0b:09}\nあの事件の後、\n遺跡に入るのは初めてなんだろ?{1a}じゃあ仲間連れて出直せよ。\n1人で入っても面倒なだけだぜ。{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Waiting Warrior A 】{0b:09}\nFirst time in the ruins since that\nbusiness, right?{1a}Then go back and bring your buddies.\nGoin' in alone's just a hassle.{0c:2b5409fe}",
+   "status": "done",
+   "tl": "First time in the ruins since that business, right? // Then go back and bring your buddies. Goin' in alone's just a hassle."
   },
   {
    "id": "RES#735:7a77",
@@ -74,8 +76,9 @@
    "jp": "{0b:08}{e080} 人を待っている戦士B {e081}{0b:09}\nお前の『時の行{e087}図』にゃ\n『第一神{e088}』あたりまでの\n{e089}憶しかねえんだろ?{1a}{0c:5120}それじゃあ不効{e08b}すぎる。\n『{e08c}獄』の入り口を{e08d}すだけで\nどんなに早くても\n{e082}{e08e}はかかっちまうからな。{1a}ホントに{e08d}す気があるのかって\n疑われるのがオチだぜ。{0c:2b5309fe}",
    "read": "{0b:08}【 人を待っている戦士B 】{0b:09}\nお前の『時の行路図』にゃ\n『第一神殿』あたりまでの\n記憶しかねえんだろ?{1a}{0c:5120}それじゃあ不効率すぎる。\n『煉獄』の入り口を探すだけで\nどんなに早くても\n半年はかかっちまうからな。{1a}ホントに探す気があるのかって\n疑われるのがオチだぜ。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Waiting Warrior B 】{0b:09}\nYour 'Chart of Time' only remembers as\nfar as the 'First Temple' or so, right?{1a}{0c:5120}That's way too slow. Just findin' the\nway into 'Purgatory' would take half a\nyear, even at best.{1a}Folks'd just end up wonderin' if you\nreally mean to look.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Your 'Chart of Time' only remembers as far as the 'First Temple' or so, right? // [1]That's way too slow. Just findin' the way into 'Purgatory' would take half a year, even at best. // Folks'd just end up wonderin' if you really mean to look."
   },
   {
    "id": "RES#735:7b34",
@@ -85,8 +88,9 @@
    "jp": "{0b:08}{e080} 人を待っている戦士A {e081}{0b:09}\n今はちんたら潜ってる時じゃねえ。\nあの馬鹿{e090}くてクソ暑い{e08c}獄を{1a}限られた人手でシラミ潰しに\n{e08d}さなきゃならねえんだからな。{0c:2b5409fe}",
    "read": "{0b:08}【 人を待っている戦士A 】{0b:09}\n今はちんたら潜ってる時じゃねえ。\nあの馬鹿広くてクソ暑い煉獄を{1a}限られた人手でシラミ潰しに\n探さなきゃならねえんだからな。{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Waiting Warrior A 】{0b:09}\nThis ain't the time to go crawlin' around\ndown there. We got that stupid-huge,\nhellishly hot Purgatory{1a}to comb through inch by inch with what\nfew hands we got.{0c:2b5409fe}",
+   "status": "done",
+   "tl": "This ain't the time to go crawlin' around down there. We got that stupid-huge, hellishly hot Purgatory // to comb through inch by inch with what few hands we got."
   },
   {
    "id": "RES#735:7ba5",
@@ -96,8 +100,9 @@
    "jp": "{0b:08}{e080} 人を待っている戦士B {e081}{0b:09}\nだから早く{e093}{e094}に戻れよ。{1a}心配するな、{e095}入りの被{e097}はゼロだ。\nお前の仲間でお前を恨んでる奴は\nいねえよ、多分な。{0c:fe}",
    "read": "{0b:08}【 人を待っている戦士B 】{0b:09}\nだから早く宿舎に戻れよ。{1a}心配するな、新入りの被害はゼロだ。\nお前の仲間でお前を恨んでる奴は\nいねえよ、多分な。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Waiting Warrior B 】{0b:09}\nSo get back to your quarters, quick.{1a}Don't worry, no rookies got hurt. Ain't\nnone of your friends holds a grudge\nagainst you, probably.{0c:fe}",
+   "status": "done",
+   "tl": "So get back to your quarters, quick. // Don't worry, no rookies got hurt. Ain't none of your friends holds a grudge against you, probably."
   },
   {
    "id": "RES#735:7c10",
@@ -129,8 +134,9 @@
    "jp": "{0c:2b50235108}{0b:08}{e080} 人を待っている戦士A {e081}{0b:09}\nおいおい、\n仲間と一緒に来いって言ったろ?{0c:fe}",
    "read": "{0c:2b50235108}{0b:08}【 人を待っている戦士A 】{0b:09}\nおいおい、\n仲間と一緒に来いって言ったろ?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b50235108}{0b:08}【 Waiting Warrior A 】{0b:09}\nHey, hey, I told you to come with your\nfriends, didn't I?{0c:fe}",
+   "status": "done",
+   "tl": "Hey, hey, I told you to come with your friends, didn't I?"
   },
   {
    "id": "RES#735:7db1",

@@ -688,7 +688,8 @@ def check_entry(e, en, terms, plates):
                 errs.append(f"{opt!r} is {px}px, limit {limit}px")
     for row in term_hits(PLATE_TOKEN.sub("", jp), terms):  # a mid-string plate is copied as is
         jp_term, en_term = row[0], row[1]
-        exact = en_term in en or (row[4].startswith("Items") and en_term.lower() in en.lower())
+        first, _, rest = en_term.partition(" ")
+        exact = en_term in en or (rest and f"{first}s {rest}" in en) or (row[4].startswith("Items") and en_term.lower() in en.lower())  # "Pillars of Sheol"
         if not exact:
             errs.append(f"glossary: {jp_term} -> {en_term}")
     for row in terms:
