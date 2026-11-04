@@ -41,8 +41,9 @@
    "jp": "{0b:08}{e080} 凶戦士になった男 {e082}{0b:09}\nお前も先生に{e083}ばれたのか?\n一体なんだろうな。\n凶戦士になった人間を集めて・・・{0c:fe}",
    "read": "{0b:08}【 凶戦士になった男 】{0b:09}\nお前も先生に呼ばれたのか?\n一体なんだろうな。\n凶戦士になった人間を集めて・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Man Turned Berserker 】{0b:09}\nThe sensei call for you too? What d'you\nfigure it's about? Gatherin' up people\nwho turned Berserker...{0c:fe}",
+   "status": "done",
+   "tl": "The sensei call for you too? What d'you figure it's about? Gatherin' up people who turned Berserker..."
   },
   {
    "id": "RES#1370:10d28",
@@ -63,8 +64,9 @@
    "jp": "{0b:08}{e080} 凶戦士になった男 {e082}{0b:09}\nすまねえ、クムラン先生。\n俺達のことで\n随分落ち{e085}ませたみたいだが・・・{0c:2b5409fe}",
    "read": "{0b:08}【 凶戦士になった男 】{0b:09}\nすまねえ、クムラン先生。\n俺達のことで\n随分落ち込ませたみたいだが・・・{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Man Turned Berserker 】{0b:09}\nSorry, Qumran-sensei. Seems we got you\npretty low, over us...{0c:2b5409fe}",
+   "status": "done",
+   "tl": "Sorry, Qumran-sensei. Seems we got you pretty low, over us..."
   },
   {
    "id": "RES#1370:10e09",
@@ -74,8 +76,9 @@
    "jp": "{0c:521018}{1c:13}{0b:08}{e080} クムラン {e082}{0b:09}\nいえ、別に恨みを言うために\n集まって頂いた訳ではありませんよ。{0c:2b5509fe}",
    "read": "{0c:521018}{1c:13}{0b:08}【 クムラン 】{0b:09}\nいえ、別に恨みを言うために\n集まって頂いた訳ではありませんよ。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:13}{0b:08}【 Qumran 】{0b:09}\nNo, I did not ask you here to voice any\nreproach.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "No, I did not ask you here to voice any reproach."
   },
   {
    "id": "RES#1370:10e4d",
@@ -97,8 +100,9 @@
    "jp": "{0c:522008}{1c:14}{0b:08}{e080} クムラン {e082}{0b:09}\nそれに、いつまでも落ち{e085}んでは\nいられない{e086}{e087}になってきました。{0c:fe}",
    "read": "{0c:522008}{1c:14}{0b:08}【 クムラン 】{0b:09}\nそれに、いつまでも落ち込んでは\nいられない状況になってきました。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:522008}{1c:14}{0b:08}【 Qumran 】{0b:09}\nBesides, the situation no longer allows\nme to remain downcast.{0c:fe}",
+   "status": "done",
+   "tl": "Besides, the situation no longer allows me to remain downcast."
   },
   {
    "id": "RES#1370:10eb4",
@@ -119,8 +123,9 @@
    "jp": "{1c:19}{0b:08}{e080} アーサー {e082}{0b:09}\n・・・外の魔物のことですか?{0c:020b01}",
    "read": "{1c:19}{0b:08}【 アーサー 】{0b:09}\n・・・外の魔物のことですか?{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Arthur 】{0b:09}\n...You mean the monsters outside?{0c:020b01}",
+   "status": "done",
+   "tl": "...You mean the monsters outside?"
   },
   {
    "id": "RES#1370:10ef0",
@@ -141,8 +146,9 @@
    "jp": "{1c:1d}{0b:08}{e080} シャルン {e082}{0b:09}\n外の・・・魔物のことですか?{0c:020901}",
    "read": "{1c:1d}{0b:08}【 シャルン 】{0b:09}\n外の・・・魔物のことですか?{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}{0b:08}【 Scharn 】{0b:09}\nYou mean... the monsters outside?{0c:020901}",
+   "status": "done",
+   "tl": "You mean... the monsters outside?"
   },
   {
    "id": "RES#1370:10f2c",
@@ -163,8 +169,9 @@
    "jp": "・・・外の魔物のことですか?{0c:020701}",
    "read": "・・・外の魔物のことですか?{0c:020701}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "...You mean the monsters outside?{0c:020701}",
+   "status": "done",
+   "tl": "...You mean the monsters outside?"
   },
   {
    "id": "RES#1370:10f55",
@@ -185,8 +192,9 @@
    "jp": "{1c:20}{0b:08}{e080} ルカ {e082}{0b:09}\n・・・外の魔物のことですか?{0c:020501}",
    "read": "{1c:20}{0b:08}【 ルカ 】{0b:09}\n・・・外の魔物のことですか?{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Luca 】{0b:09}\n...You mean the monsters outside?{0c:020501}",
+   "status": "done",
+   "tl": "...You mean the monsters outside?"
   },
   {
    "id": "RES#1370:10f8f",
@@ -207,8 +215,9 @@
    "jp": "{1c:22}{0b:08}{e080} サラ {e082}{0b:09}\n・・・外の魔物のことですか?{0c:020301}",
    "read": "{1c:22}{0b:08}【 サラ 】{0b:09}\n・・・外の魔物のことですか?{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:22}{0b:08}【 Sara 】{0b:09}\n...You mean the monsters outside?{0c:020301}",
+   "status": "done",
+   "tl": "...You mean the monsters outside?"
   },
   {
    "id": "RES#1370:10fc9",
@@ -229,8 +238,9 @@
    "jp": "{0b:08}{e080} 凶戦士になった男 {e082}{0b:09}\n外の・・・魔物の事かい?{0c:fe}",
    "read": "{0b:08}【 凶戦士になった男 】{0b:09}\n外の・・・魔物の事かい?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Man Turned Berserker 】{0b:09}\nYou mean... them monsters outside?{0c:fe}",
+   "status": "done",
+   "tl": "You mean... them monsters outside?"
   },
   {
    "id": "RES#1370:10ffc",
@@ -251,8 +261,9 @@
    "jp": "{1c:16}{0b:08}{e080} クムラン {e082}{0b:09}\nはい。\nでも、それだけではありません。{1a}{0c:51082b501000}これから告げる事は、\nあなた方に過酷な選{e08a}を\n強いる事になると思います。\n心して聞いて下さい。{1a}まず、『シェオルの{e08b}』のことです。{1a}皆さんの{e08c}神を{e08d}{e08e}していた\n『シェオルの{e08b}』の{e08f}壊と\n外の魔物の出{e091}には、\n何らかの関係があると思われます。{0c:fe}",
    "read": "{1c:16}{0b:08}【 クムラン 】{0b:09}\nはい。\nでも、それだけではありません。{1a}{0c:51082b501000}これから告げる事は、\nあなた方に過酷な選択を\n強いる事になると思います。\n心して聞いて下さい。{1a}まず、『シェオルの柱』のことです。{1a}皆さんの精神を封印していた\n『シェオルの柱』の破壊と\n外の魔物の出現には、\n何らかの関係があると思われます。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}{0b:08}【 Qumran 】{0b:09}\nYes. But that is not all.{1a}{0c:51082b501000}What I am about to tell you will force a\nharsh choice upon you. Please prepare\nyourselves to hear it.{1a}First, the matter of the 'Pillar of Sheol'.{1a}There appears to be some connection\nbetween the destruction of the 'Pillar of\nSheol' that sealed your spirits and the\nappearance of the monsters outside.{0c:fe}",
+   "status": "done",
+   "tl": "Yes. But that is not all. // [1]What I am about to tell you will force a harsh choice upon you. Please prepare yourselves to hear it. // First, the matter of the 'Pillar of Sheol'. // There appears to be some connection between the destruction of the 'Pillar of Sheol' that sealed your spirits and the appearance of the monsters outside."
   },
   {
    "id": "RES#1370:110d5",
@@ -273,8 +284,9 @@
    "jp": "{0b:08}{e080} 凶戦士になった男 {e082}{0b:09}\n・・・そ、それは確かなのかい?{0c:2b5409fe}",
    "read": "{0b:08}【 凶戦士になった男 】{0b:09}\n・・・そ、それは確かなのかい?{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Man Turned Berserker 】{0b:09}\n...Th-that's for sure?{0c:2b5409fe}",
+   "status": "done",
+   "tl": "...Th-that's for sure?"
   },
   {
    "id": "RES#1370:11126",
@@ -284,8 +296,9 @@
    "jp": "{0c:522808}{1c:14}{0b:08}{e080} クムラン {e082}{0b:09}\n初めて{e08b}を{e08f}壊した日付と\n魔物の出{e091}の日付が\nぴたりと一致しています。{1a}それ以{e092}、魔物は断続的に\n出{e091}しているとのことですが、{1a}2本目3本目の{e08b}を{e08f}壊した日にも\n魔物が大{e093}に出{e091}したことが\nわかりました。{1a}さらに、{e094}{e095}{e096}で発見された\n{e097}{e098}や{e099}画と{e09a}合する{e096}容が、\nランツからの2度の手紙の中に\nいくつも{e09c}みとれるのです。{0c:fe}",
    "read": "{0c:522808}{1c:14}{0b:08}【 クムラン 】{0b:09}\n初めて柱を破壊した日付と\n魔物の出現の日付が\nぴたりと一致しています。{1a}それ以降、魔物は断続的に\n出現しているとのことですが、{1a}2本目3本目の柱を破壊した日にも\n魔物が大量に出現したことが\nわかりました。{1a}さらに、遺跡内で発見された\n石版や壁画と符合する内容が、\nランツからの2度の手紙の中に\nいくつも読みとれるのです。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:522808}{1c:14}{0b:08}【 Qumran 】{0b:09}\nThe date the first pillar was destroyed\nand the date the monsters appeared\nmatch exactly.{1a}Since then, I am told, monsters have\nbeen appearing on and off,{1a}and I learned that great numbers of\nmonsters also appeared on the days the\nsecond and third pillars were destroyed.{1a}Further, the two letters from Lanz\ncontain many points that agree with\ntablets and murals found in the ruins.{0c:fe}",
+   "status": "done",
+   "tl": "The date the first pillar was destroyed and the date the monsters appeared match exactly. // Since then, I am told, monsters have been appearing on and off, // and I learned that great numbers of monsters also appeared on the days the second and third pillars were destroyed. // Further, the two letters from Lanz contain many points that agree with tablets and murals found in the ruins."
   },
   {
    "id": "RES#1370:1121f",
@@ -306,8 +319,9 @@
    "jp": "{1c:18}{0b:08}{e080} アーサー {e082}{0b:09}\nでは、世{e09d}中の惨劇は\n全て僕達のせいなんですか!?\n僕達が助かったせいなんですか!?{0c:021501}",
    "read": "{1c:18}{0b:08}【 アーサー 】{0b:09}\nでは、世界中の惨劇は\n全て僕達のせいなんですか!?\n僕達が助かったせいなんですか!?{0c:021501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Arthur 】{0b:09}\nThen the tragedies all over the world are\nall our fault!? Because we were saved!?{0c:021501}",
+   "status": "done",
+   "tl": "Then the tragedies all over the world are all our fault!? Because we were saved!?"
   },
   {
    "id": "RES#1370:11281",
@@ -328,8 +342,9 @@
    "jp": "{1c:1a}{0b:08}{e080} エレアノール {e082}{0b:09}\nでは、私達の命と引き{e0a0}えに\nこのような{e0a1}乱が・・・!?{0c:021301}",
    "read": "{1c:1a}{0b:08}【 エレアノール 】{0b:09}\nでは、私達の命と引き替えに\nこのような混乱が・・・!?{0c:021301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}{0b:08}【 Eleanor 】{0b:09}\nThen this turmoil... in exchange for our\nlives...!?{0c:021301}",
+   "status": "done",
+   "tl": "Then this turmoil... in exchange for our lives...!?"
   },
   {
    "id": "RES#1370:112d0",
@@ -350,8 +365,9 @@
    "jp": "{1c:1b}{0b:08}{e080} パスカ {e082}{0b:09}\nそれじゃあ、\nオレ達が助かったせいで\n世{e09d}中に魔物が{e091}れちまったのか!?{0c:021101}",
    "read": "{1c:1b}{0b:08}【 パスカ 】{0b:09}\nそれじゃあ、\nオレ達が助かったせいで\n世界中に魔物が現れちまったのか!?{0c:021101}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Pasca 】{0b:09}\nSo you're sayin' monsters showed up all\nover the world 'cause we got saved!?{0c:021101}",
+   "status": "done",
+   "tl": "So you're sayin' monsters showed up all over the world 'cause we got saved!?"
   },
   {
    "id": "RES#1370:11328",
@@ -372,8 +388,9 @@
    "jp": "そんな・・・\nあたし達が助かったせいで\n世{e09d}中に魔物が{e091}れたの!?{0c:020f01}",
    "read": "そんな・・・\nあたし達が助かったせいで\n世界中に魔物が現れたの!?{0c:020f01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "No... Monsters appeared all over the\nworld because we got saved!?{0c:020f01}",
+   "status": "done",
+   "tl": "No... Monsters appeared all over the world because we got saved!?"
   },
   {
    "id": "RES#1370:11369",
@@ -394,8 +411,9 @@
    "jp": "{1c:1c}{0b:08}{e080} シャルン {e082}{0b:09}\nそんな・・・!!\nあたし達が助かったせいで\n世{e09d}中に魔物が{e091}れたの!?{0c:020d01}",
    "read": "{1c:1c}{0b:08}【 シャルン 】{0b:09}\nそんな・・・!!\nあたし達が助かったせいで\n世界中に魔物が現れたの!?{0c:020d01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Scharn 】{0b:09}\nNo...!! Monsters appeared all over the\nworld because we got saved!?{0c:020d01}",
+   "status": "done",
+   "tl": "No...!! Monsters appeared all over the world because we got saved!?"
   },
   {
    "id": "RES#1370:113c1",
@@ -416,8 +434,9 @@
    "jp": "{1c:1e}{0b:08}{e080} ジェシカ {e082}{0b:09}\nじゃあさ、\n外の魔物はあたし達のせいってわけ?\n冗談きついよ。{1a}・・・ほんとなの?{0c:020b01}",
    "read": "{1c:1e}{0b:08}【 ジェシカ 】{0b:09}\nじゃあさ、\n外の魔物はあたし達のせいってわけ?\n冗談きついよ。{1a}・・・ほんとなの?{0c:020b01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}{0b:08}【 Jessica 】{0b:09}\nSo what, the monsters outside are our\nfault? Geez, that's a bad joke.{1a}...Is it true?{0c:020b01}",
+   "status": "done",
+   "tl": "So what, the monsters outside are our fault? Geez, that's a bad joke. // ...Is it true?"
   },
   {
    "id": "RES#1370:1141d",
@@ -438,8 +457,9 @@
    "jp": "{1c:1f}{0b:08}{e080} ノエル {e082}{0b:09}\n外の{e0a1}乱はあたし達の命と\n引き{e0a0}えに{e0a2}こった事・・・\nそんな・・・!?{0c:020901}",
    "read": "{1c:1f}{0b:08}【 ノエル 】{0b:09}\n外の混乱はあたし達の命と\n引き替えに起こった事・・・\nそんな・・・!?{0c:020901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}{0b:08}【 Noel 】{0b:09}\nThe turmoil outside happened in\nexchange for our lives... No... that can't\nbe...!?{0c:020901}",
+   "status": "done",
+   "tl": "The turmoil outside happened in exchange for our lives... No... that can't be...!?"
   },
   {
    "id": "RES#1370:11473",

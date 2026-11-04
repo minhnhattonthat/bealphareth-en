@@ -76,8 +76,9 @@
    "jp": "{0c:522028}{1c:11}おれ、口べただから\n今の気持ちうまく言えないけど、\nおまえと知り合えて\n本当によかったよ。{1a}{0c:523038}絶対に戻ってこような。{0c:fe}",
    "read": "{0c:522028}{1c:11}おれ、口べただから\n今の気持ちうまく言えないけど、\nおまえと知り合えて\n本当によかったよ。{1a}{0c:523038}絶対に戻ってこような。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:522028}{1c:11}I'm no good with words, so I can't say\nhow I feel right, but I'm real glad I got to\nknow you.{1a}{0c:523038}We'll come back for sure, okay?{0c:fe}",
+   "status": "done",
+   "tl": "I'm no good with words, so I can't say how I feel right, but I'm real glad I got to know you. // [1]We'll come back for sure, okay?"
   },
   {
    "id": "RES#1874:c9b6",
@@ -144,8 +145,9 @@
    "jp": "{0c:526068}{1c:10}あ、ありがとう、{10}。{1a}おまえと知り合えて\n本当によかったよ。{1a}{0c:527078}あの、それで、あの・・・{0c:fe}",
    "read": "{0c:526068}{1c:10}あ、ありがとう、{10}。{1a}おまえと知り合えて\n本当によかったよ。{1a}{0c:527078}あの、それで、あの・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:526068}{1c:10}Th-thank you, {10}.{1a}I'm real glad I got to know you.{1a}{0c:527078}Um, so, um...{0c:fe}",
+   "status": "done",
+   "tl": "Th-thank you, [HERO]. // I'm real glad I got to know you. // [1]Um, so, um..."
   },
   {
    "id": "RES#1874:cac5",
@@ -177,8 +179,9 @@
    "jp": "{0c:529098}{1c:10}世{e082}が元に戻ったら・・・{1a}{0c:52a0a8}おれの{e083}に・・・\n何もない{e083}だけど・・・{07:32}{0c:fb05}",
    "read": "{0c:529098}{1c:10}世界が元に戻ったら・・・{1a}{0c:52a0a8}おれの村に・・・\n何もない村だけど・・・{07:32}{0c:fb05}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:529098}{1c:10}Once the world's back to normal...{1a}{0c:52a0a8}To my village... There's nothing there,\nbut...{07:32}{0c:fb05}",
+   "status": "done",
+   "tl": "Once the world's back to normal... // [1]To my village... There's nothing there, but..."
   },
   {
    "id": "RES#1874:cb22",
@@ -188,8 +191,9 @@
    "jp": "うん・・・|ごめん・・・",
    "read": "うん・・・|ごめん・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Okay...|I'm sorry...",
+   "status": "done",
+   "tl": "Okay...|I'm sorry..."
   },
   {
    "id": "RES#1874:cb2f",
@@ -232,8 +236,9 @@
    "jp": "{0c:52c0c8}{1c:10}い、いや、いいんだ、\n貴{e084}の出の{10}には\nおれの{e083}なんて退屈すぎるもんな。{1a}{0c:52d0d8}ほんと何もない{e083}なんだ。\n{e085}も汚いし、狭いし・・・{0c:fe}",
    "read": "{0c:52c0c8}{1c:10}い、いや、いいんだ、\n貴族の出の{10}には\nおれの村なんて退屈すぎるもんな。{1a}{0c:52d0d8}ほんと何もない村なんだ。\n家も汚いし、狭いし・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52c0c8}{1c:10}N-no, it's okay. You come from nobility,\n{10}, so my village would bore you\nto death.{1a}{0c:52d0d8}There really is nothing there. And the\nhouse is dirty and cramped...{0c:fe}",
+   "status": "done",
+   "tl": "N-no, it's okay. You come from nobility, [HERO], so my village would bore you to death. // [1]There really is nothing there. And the house is dirty and cramped..."
   },
   {
    "id": "RES#1874:cbb4",
@@ -254,8 +259,9 @@
    "jp": "{1c:14}ご、ごめんな、\n世{e082}がなくなっちゃうかも\nしれないのに\n自分のことばっかり考えて・・・{0c:fe}",
    "read": "{1c:14}ご、ごめんな、\n世界がなくなっちゃうかも\nしれないのに\n自分のことばっかり考えて・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}S-sorry. The world could disappear, and\nhere I am, thinking only about myself...{0c:fe}",
+   "status": "done",
+   "tl": "S-sorry. The world could disappear, and here I am, thinking only about myself..."
   },
   {
    "id": "RES#1874:cbf3",
@@ -311,8 +317,9 @@
    "jp": "{0c:52ff21ff29}{0c:2b5023522a2b}{1c:10}ご、ごめん、\n強く握りすぎた!{0c:fe}",
    "read": "{0c:52ff21ff29}{0c:2b5023522a2b}{1c:10}ご、ごめん、\n強く握りすぎた!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff21ff29}{0c:2b5023522a2b}{1c:10}S-sorry, I squeezed too hard!{0c:fe}",
+   "status": "done",
+   "tl": "S-sorry, I squeezed too hard!"
   },
   {
    "id": "RES#1874:cc63",
@@ -322,8 +329,9 @@
    "jp": "{0c:52ff31ff39}{1c:11}がんばろうな、{10}。\n絶対に戻ってこような。{0c:021801}",
    "read": "{0c:52ff31ff39}{1c:11}がんばろうな、{10}。\n絶対に戻ってこような。{0c:021801}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff31ff39}{1c:11}Let's give it all we've got, {10}.\nWe'll come back for sure, okay?{0c:021801}",
+   "status": "done",
+   "tl": "Let's give it all we've got, [HERO]. We'll come back for sure, okay?"
   },
   {
    "id": "RES#1874:cc8a",
@@ -333,8 +341,9 @@
    "jp": "{0c:52ff41ff49}{1c:10}い、いや、いいんだ、\n{10}は{e088}{e089}様に\nなるんだもんな。{0c:fe}",
    "read": "{0c:52ff41ff49}{1c:10}い、いや、いいんだ、\n{10}は司祭様に\nなるんだもんな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff41ff49}{1c:10}N-no, it's okay. You're going to be a\npriest, {10}, after all.{0c:fe}",
+   "status": "done",
+   "tl": "N-no, it's okay. You're going to be a priest, [HERO], after all."
   },
   {
    "id": "RES#1874:ccb4",
@@ -355,8 +364,9 @@
    "jp": "{0c:52ff61ff69}{1c:14}ご、ごめんな、\n世{e082}がなくなっちゃうかも\nしれないのに\nこんなちっちゃいことで・・・{0c:fe}",
    "read": "{0c:52ff61ff69}{1c:14}ご、ごめんな、\n世界がなくなっちゃうかも\nしれないのに\nこんなちっちゃいことで・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff61ff69}{1c:14}S-sorry. The world could disappear, and\nhere I am, going on about such a little\nthing...{0c:fe}",
+   "status": "done",
+   "tl": "S-sorry. The world could disappear, and here I am, going on about such a little thing..."
   },
   {
    "id": "RES#1874:ccf8",
@@ -412,8 +422,9 @@
    "jp": "{0c:52ffa1ffa9}{0c:2b5023522a2b}{1c:10}ご、ごめん、\n強く握りすぎた!{0c:fe}",
    "read": "{0c:52ffa1ffa9}{0c:2b5023522a2b}{1c:10}ご、ごめん、\n強く握りすぎた!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffa1ffa9}{0c:2b5023522a2b}{1c:10}S-sorry, I squeezed too hard!{0c:fe}",
+   "status": "done",
+   "tl": "S-sorry, I squeezed too hard!"
   },
   {
    "id": "RES#1874:cd6a",
@@ -423,8 +434,9 @@
    "jp": "{0c:52ffb1ffb9}{1c:11}がんばろうな、{10}。\n絶対に戻ってこような。{0c:020f01}",
    "read": "{0c:52ffb1ffb9}{1c:11}がんばろうな、{10}。\n絶対に戻ってこような。{0c:020f01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffb1ffb9}{1c:11}Let's give it all we've got, {10}.\nWe'll come back for sure, okay?{0c:020f01}",
+   "status": "done",
+   "tl": "Let's give it all we've got, [HERO]. We'll come back for sure, okay?"
   },
   {
    "id": "RES#1874:cd91",
@@ -445,8 +457,9 @@
    "jp": "{0c:52ffd1ffd9}{1c:10}い、いや、いいんだ、\nおれの{e083}なんて退屈すぎるもんな。{1a}ほんと何もない{e083}なんだ。\n{e085}も汚いし、狭いし・・・{0c:fe}",
    "read": "{0c:52ffd1ffd9}{1c:10}い、いや、いいんだ、\nおれの村なんて退屈すぎるもんな。{1a}ほんと何もない村なんだ。\n家も汚いし、狭いし・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffd1ffd9}{1c:10}N-no, it's okay. My village would bore you\nto death.{1a}There really is nothing there. And the\nhouse is dirty and cramped...{0c:fe}",
+   "status": "done",
+   "tl": "N-no, it's okay. My village would bore you to death. // There really is nothing there. And the house is dirty and cramped..."
   },
   {
    "id": "RES#1874:cde6",
@@ -467,8 +480,9 @@
    "jp": "{0c:52fff1fff9}{1c:14}ご、ごめんな、\n世{e082}がなくなっちゃうかも\nしれないのに\n自分のことばっかり考えて・・・{0c:fe}",
    "read": "{0c:52fff1fff9}{1c:14}ご、ごめんな、\n世界がなくなっちゃうかも\nしれないのに\n自分のことばっかり考えて・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52fff1fff9}{1c:14}S-sorry. The world could disappear, and\nhere I am, thinking only about myself...{0c:fe}",
+   "status": "done",
+   "tl": "S-sorry. The world could disappear, and here I am, thinking only about myself..."
   },
   {
    "id": "RES#1874:ce2e",
@@ -524,8 +538,9 @@
    "jp": "{0c:52ffff32ffff3a}{0c:2b5023522a2b}{1c:10}ご、ごめん、\n強く握りすぎた!{0c:fe}",
    "read": "{0c:52ffff32ffff3a}{0c:2b5023522a2b}{1c:10}ご、ごめん、\n強く握りすぎた!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffff32ffff3a}{0c:2b5023522a2b}{1c:10}S-sorry, I squeezed too hard!{0c:fe}",
+   "status": "done",
+   "tl": "S-sorry, I squeezed too hard!"
   },
   {
    "id": "RES#1874:cea8",
@@ -535,8 +550,9 @@
    "jp": "{0c:52ffff42ffff4a}{1c:11}がんばろうな、{10}。\n絶対に戻ってこような。{0c:020501}",
    "read": "{0c:52ffff42ffff4a}{1c:11}がんばろうな、{10}。\n絶対に戻ってこような。{0c:020501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffff42ffff4a}{1c:11}Let's give it all we've got, {10}.\nWe'll come back for sure, okay?{0c:020501}",
+   "status": "done",
+   "tl": "Let's give it all we've got, [HERO]. We'll come back for sure, okay?"
   },
   {
    "id": "RES#1874:ced1",
@@ -557,8 +573,9 @@
    "jp": "{0c:52ffff52ffff5a}{1c:10}い、いや、別にいいんだ。{0c:fe}",
    "read": "{0c:52ffff52ffff5a}{1c:10}い、いや、別にいいんだ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffff52ffff5a}{1c:10}N-no, it's really okay.{0c:fe}",
+   "status": "done",
+   "tl": "N-no, it's really okay."
   },
   {
    "id": "RES#1874:cefd",
@@ -579,8 +596,9 @@
    "jp": "{0c:52ffff72ffff7a}{1c:11}ご、ごめんな、\n世{e082}がなくなっちゃうかも\nしれないのに\n自分のことばっかり考えて・・・{1a}{0c:52ffff82ffff8a}でも言いたかったんだ。\nやっと言えてすっきりしたよ。{1a}{0c:52ffff92ffff9a}がんばろうな、{10}。\n絶対に戻ってこような。{0c:fe}",
    "read": "{0c:52ffff72ffff7a}{1c:11}ご、ごめんな、\n世界がなくなっちゃうかも\nしれないのに\n自分のことばっかり考えて・・・{1a}{0c:52ffff82ffff8a}でも言いたかったんだ。\nやっと言えてすっきりしたよ。{1a}{0c:52ffff92ffff9a}がんばろうな、{10}。\n絶対に戻ってこような。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffff72ffff7a}{1c:11}S-sorry. The world could disappear, and\nhere I am, thinking only about myself...{1a}{0c:52ffff82ffff8a}But I wanted to say it. I feel better now\nI finally have.{1a}{0c:52ffff92ffff9a}Let's give it all we've got, {10}.\nWe'll come back for sure, okay?{0c:fe}",
+   "status": "done",
+   "tl": "S-sorry. The world could disappear, and here I am, thinking only about myself... // [1]But I wanted to say it. I feel better now I finally have. // [2]Let's give it all we've got, [HERO]. We'll come back for sure, okay?"
   },
   {
    "id": "RES#1874:cf97",
@@ -647,8 +665,9 @@
    "jp": "{0c:523038}{1c:15}君にはいろいろな事を\n{e08a}えてもらったね。{1a}本当の強さとは何か、\n本当の勇気とは何かを\n僕は君に{e08a}えてもらったよ。{1a}{0c:524048}僕は、生まれて初めて\n『友』と{e08c}べる人間に\n出逢えた気がする・・・{1a}{0c:525058}ありがとう、{10}。\nこの町に来て、\n君と出逢えて本当によかったよ。{0c:fe}",
    "read": "{0c:523038}{1c:15}君にはいろいろな事を\n教えてもらったね。{1a}本当の強さとは何か、\n本当の勇気とは何かを\n僕は君に教えてもらったよ。{1a}{0c:524048}僕は、生まれて初めて\n『友』と呼べる人間に\n出逢えた気がする・・・{1a}{0c:525058}ありがとう、{10}。\nこの町に来て、\n君と出逢えて本当によかったよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523038}{1c:15}You have taught me so many things.{1a}What true strength is, what true\ncourage is: you taught me those.{1a}{0c:524048}I feel I have met, for the first time in my\nlife, someone I can call a 'friend'...{1a}{0c:525058}Thank you, {10}. I am truly glad I\ncame to this town and met you.{0c:fe}",
+   "status": "done",
+   "tl": "You have taught me so many things. // What true strength is, what true courage is: you taught me those. // [1]I feel I have met, for the first time in my life, someone I can call a 'friend'... // [2]Thank you, [HERO]. I am truly glad I came to this town and met you."
   },
   {
    "id": "RES#1874:d119",
@@ -715,8 +734,9 @@
    "jp": "{0c:528088}{1c:15}{10}、この戦いが終わったら、\n一緒にビアストクに来てくれないか?{0c:fe}",
    "read": "{0c:528088}{1c:15}{10}、この戦いが終わったら、\n一緒にビアストクに来てくれないか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:528088}{1c:15}{10}, when this battle is over, will\nyou come to Biastok with me?{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], when this battle is over, will you come to Biastok with me?"
   },
   {
    "id": "RES#1874:d218",
@@ -737,8 +757,9 @@
    "jp": "{0c:529098}{1c:15}僕の妻になって欲しい。{07:2d}{0c:fb05}",
    "read": "{0c:529098}{1c:15}僕の妻になって欲しい。{07:2d}{0c:fb05}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:529098}{1c:15}I want you to be my wife.{07:2d}{0c:fb05}",
+   "status": "done",
+   "tl": "I want you to be my wife."
   },
   {
    "id": "RES#1874:d249",
@@ -748,8 +769,9 @@
    "jp": "うん・・・|ごめん・・・",
    "read": "うん・・・|ごめん・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Okay...|I'm sorry...",
+   "status": "done",
+   "tl": "Okay...|I'm sorry..."
   },
   {
    "id": "RES#1874:d256",
@@ -781,8 +803,9 @@
    "jp": "{0c:52a0a8}{1c:16}ありがとう・・・\nこんな嬉しい日はないよ。{1a}{0c:52b0b8}この町に来て、\n君と出逢えて本当によかった。{1a}{0c:52c0c8}僕は{07:0f}君を守る{e08f}になる。{07:0f}{0c:020201}",
    "read": "{0c:52a0a8}{1c:16}ありがとう・・・\nこんな嬉しい日はないよ。{1a}{0c:52b0b8}この町に来て、\n君と出逢えて本当によかった。{1a}{0c:52c0c8}僕は{07:0f}君を守る盾になる。{07:0f}{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52a0a8}{1c:16}Thank you... There has never been a\nhappier day.{1a}{0c:52b0b8}I am truly glad I came to this town and\nmet you.{1a}{0c:52c0c8}I will be {07:0f}the shield that protects you.{07:0f}{0c:020201}",
+   "status": "done",
+   "tl": "Thank you... There has never been a happier day. // [1]I am truly glad I came to this town and met you. // [2]I will be [3]the shield that protects you."
   },
   {
    "id": "RES#1874:d2c5",
@@ -792,8 +815,9 @@
    "jp": "{0c:52d0d8}{1c:15}いや、いいんだ。\n心に貯まっていたものを\n言っておきたかっただけだから。{1a}{0c:52e0e8}この町に来て、\n君と出逢えて本当によかった。\nありがとう、{10}。{0c:fe}",
    "read": "{0c:52d0d8}{1c:15}いや、いいんだ。\n心に貯まっていたものを\n言っておきたかっただけだから。{1a}{0c:52e0e8}この町に来て、\n君と出逢えて本当によかった。\nありがとう、{10}。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52d0d8}{1c:15}No, it is all right. I only wanted to say\nwhat had been weighing on my heart.{1a}{0c:52e0e8}I am truly glad I came to this town and\nmet you. Thank you, {10}.{0c:fe}",
+   "status": "done",
+   "tl": "No, it is all right. I only wanted to say what had been weighing on my heart. // [1]I am truly glad I came to this town and met you. Thank you, [HERO]."
   },
   {
    "id": "RES#1874:d323",
@@ -837,8 +861,9 @@
    "jp": "{1c:19}どうして・・・\nどうして私を誘った{01}?{02}{07:2d}{0c:fb05}",
    "read": "{1c:19}どうして・・・\nどうして私を誘った{01}?{02}{07:2d}{0c:fb05}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}Why... Why did you ask me?{07:2d}{0c:fb05}",
+   "status": "done",
+   "tl": "Why... Why did you ask me?"
   },
   {
    "id": "RES#1874:d3e5",
@@ -848,8 +873,9 @@
    "jp": "君が好きだから・・・|君が寂しそうだから・・・|なんとなく",
    "read": "君が好きだから・・・|君が寂しそうだから・・・|なんとなく",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Because I love you...|Because you seem lonely...|No real reason",
+   "status": "done",
+   "tl": "Because I love you...|Because you seem lonely...|No real reason"
   },
   {
    "id": "RES#1874:d407",
@@ -881,8 +907,9 @@
    "jp": "{0c:521213}{1c:18}か、からかうな!{0c:fe}",
    "read": "{0c:521213}{1c:18}か、からかうな!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521213}{1c:18}D-do not tease me!{0c:fe}",
+   "status": "done",
+   "tl": "D-do not tease me!"
   },
   {
    "id": "RES#1874:d43d",
@@ -903,8 +930,9 @@
    "jp": "{1c:19}私には何もない・・・{1a}男を安心させる笑顔も、\n男を喜ばせる言{e091}も、\n男に甘える方{e092}も知らない・・・{0c:fe}",
    "read": "{1c:19}私には何もない・・・{1a}男を安心させる笑顔も、\n男を喜ばせる言葉も、\n男に甘える方法も知らない・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}I have nothing...{1a}No smile to set a man at ease, no words\nto please a man; I know not how to lean\non a man...{0c:fe}",
+   "status": "done",
+   "tl": "I have nothing... // No smile to set a man at ease, no words to please a man; I know not how to lean on a man..."
   },
   {
    "id": "RES#1874:d491",
@@ -914,8 +942,9 @@
    "jp": "{0c:521617}{1c:17}哀れみか!?\n私の過去を知って\n同情しただけではないのか?{0c:fe}",
    "read": "{0c:521617}{1c:17}哀れみか!?\n私の過去を知って\n同情しただけではないのか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521617}{1c:17}Is it pity!? Did you not simply learn of my\npast and feel sorry for me?{0c:fe}",
+   "status": "done",
+   "tl": "Is it pity!? Did you not simply learn of my past and feel sorry for me?"
   },
   {
    "id": "RES#1874:d4c3",
@@ -936,8 +965,9 @@
    "jp": "{0c:521820}{1c:19}本当に・・・{07:14}\n信じていいのか・・・?{07:07}{0c:fe}",
    "read": "{0c:521820}{1c:19}本当に・・・{07:14}\n信じていいのか・・・?{07:07}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521820}{1c:19}Truly...{07:14} May I believe you...?{07:07}{0c:fe}",
+   "status": "done",
+   "tl": "Truly...[1] May I believe you...?"
   },
   {
    "id": "RES#1874:d4f8",
@@ -958,8 +988,9 @@
    "jp": "{0c:522829}{1c:1a}わかった・・・{1a}一緒に行こう。{0c:020d01}",
    "read": "{0c:522829}{1c:1a}わかった・・・{1a}一緒に行こう。{0c:020d01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:522829}{1c:1a}Very well...{1a}Let us go together.{0c:020d01}",
+   "status": "done",
+   "tl": "Very well... // Let us go together."
   },
   {
    "id": "RES#1874:d527",
@@ -969,8 +1000,9 @@
    "jp": "{0c:522a32}{1c:17}哀れみなど必要ない!{0c:fe}",
    "read": "{0c:522a32}{1c:17}哀れみなど必要ない!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:522a32}{1c:17}I need no pity!{0c:fe}",
+   "status": "done",
+   "tl": "I need no pity!"
   },
   {
    "id": "RES#1874:d540",
@@ -991,8 +1023,9 @@
    "jp": "{0c:523c3d}{1c:19}か、からかうな!{0c:fe}",
    "read": "{0c:523c3d}{1c:19}か、からかうな!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523c3d}{1c:19}D-do not tease me!{0c:fe}",
+   "status": "done",
+   "tl": "D-do not tease me!"
   },
   {
    "id": "RES#1874:d576",
@@ -1013,8 +1046,9 @@
    "jp": "{0c:523e3f}{1c:19}私には何もない・・・\n男を安心させる笑顔も、\n男を喜ばせる言{e091}も、\n男に甘える方{e092}も知らない・・・{0c:fe}",
    "read": "{0c:523e3f}{1c:19}私には何もない・・・\n男を安心させる笑顔も、\n男を喜ばせる言葉も、\n男に甘える方法も知らない・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523e3f}{1c:19}I have nothing... No smile to set a man at\nease, no words to please a man; I know\nnot how to lean on a man...{0c:fe}",
+   "status": "done",
+   "tl": "I have nothing... No smile to set a man at ease, no words to please a man; I know not how to lean on a man..."
   },
   {
    "id": "RES#1874:d5d2",
@@ -1035,8 +1069,9 @@
    "jp": "{0c:52424a}{1c:19}私の過去を知って\n同情しただけではないのか?{0c:fe}",
    "read": "{0c:52424a}{1c:19}私の過去を知って\n同情しただけではないのか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52424a}{1c:19}Did you not simply learn of my past and\nfeel sorry for me?{0c:fe}",
+   "status": "done",
+   "tl": "Did you not simply learn of my past and feel sorry for me?"
   },
   {
    "id": "RES#1874:d60b",
@@ -1057,8 +1092,9 @@
    "jp": "{0c:52525a}{1c:19}本当に・・・\n信じていいのか・・・?{0c:fe}",
    "read": "{0c:52525a}{1c:19}本当に・・・\n信じていいのか・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52525a}{1c:19}Truly... May I believe you...?{0c:fe}",
+   "status": "done",
+   "tl": "Truly... May I believe you...?"
   },
   {
    "id": "RES#1874:d63c",
@@ -1079,8 +1115,9 @@
    "jp": "{0c:526263}{1c:1a}わかった・・・{1a}一緒に行こう。{0c:020201}",
    "read": "{0c:526263}{1c:1a}わかった・・・{1a}一緒に行こう。{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:526263}{1c:1a}Very well...{1a}Let us go together.{0c:020201}",
+   "status": "done",
+   "tl": "Very well... // Let us go together."
   },
   {
    "id": "RES#1874:d66f",
@@ -1090,8 +1127,9 @@
    "jp": "{0c:526465}{1c:1a}お前らしいな・・・{1a}{0c:526d75}『{e094}神の{e095}』では\n他人に心の{e096}を見せなければ\nならないという・・・{1a}{0c:527d85}お前の心の{e096}も見たいものだ・・・{0c:fe}",
    "read": "{0c:526465}{1c:1a}お前らしいな・・・{1a}{0c:526d75}『精神の海』では\n他人に心の奥を見せなければ\nならないという・・・{1a}{0c:527d85}お前の心の奥も見たいものだ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:526465}{1c:1a}How like you...{1a}{0c:526d75}In the 'Sea of Spirit', they say, one must\nshow others the depths of one's heart...{1a}{0c:527d85}I should like to see the depths of yours\nas well...{0c:fe}",
+   "status": "done",
+   "tl": "How like you... // [1]In the 'Sea of Spirit', they say, one must show others the depths of one's heart... // [2]I should like to see the depths of yours as well..."
   },
   {
    "id": "RES#1874:d6cf",
@@ -1135,8 +1173,9 @@
    "jp": "{1c:1a}お前も変わった女だな。{0c:fe}",
    "read": "{1c:1a}お前も変わった女だな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}You are a strange woman yourself.{0c:fe}",
+   "status": "done",
+   "tl": "You are a strange woman yourself."
   },
   {
    "id": "RES#1874:d786",
@@ -1157,8 +1196,9 @@
    "jp": "{0c:528d8e}{1c:1a}同性の私から見てもお前は{e097}力的だ。\nなのにどうして私を誘ったのだ?{0c:fe}",
    "read": "{0c:528d8e}{1c:1a}同性の私から見てもお前は魅力的だ。\nなのにどうして私を誘ったのだ?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:528d8e}{1c:1a}Even to my eye, as a woman, you are\ncharming. So why did you ask me?{0c:fe}",
+   "status": "done",
+   "tl": "Even to my eye, as a woman, you are charming. So why did you ask me?"
   },
   {
    "id": "RES#1874:d7ca",
@@ -1179,8 +1219,9 @@
    "jp": "{0c:528f90}{1c:1a}ふっ、変わった女だな。{0c:fe}",
    "read": "{0c:528f90}{1c:1a}ふっ、変わった女だな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:528f90}{1c:1a}Hmph. You are a strange woman.{0c:fe}",
+   "status": "done",
+   "tl": "Hmph. You are a strange woman."
   },
   {
    "id": "RES#1874:d7f2",
@@ -1212,8 +1253,9 @@
    "jp": "{0c:521018}{1c:1b}{0b:08}{e080} エレアノール {e081}{0b:09}\n{10}・{07:05}・{07:05}・{07:1e}{1a}{0c:0a05}{0c:fe}",
    "read": "{0c:521018}{1c:1b}{0b:08}【 エレアノール 】{0b:09}\n{10}・{07:05}・{07:05}・{07:1e}{1a}{0c:0a05}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:1b}{0b:08}【 Eleanor 】{0b:09}\n{10}.{07:05}.{07:05}.{07:1e}{1a}{0c:0a05}{0c:fe}",
+   "status": "done",
+   "tl": "[HERO].[1].[2]."
   },
   {
    "id": "RES#1874:d8a3",
@@ -1223,8 +1265,9 @@
    "jp": "{0c:522028}{1c:1b}私は実の父を殺した大罪人・・・{07:14}{1a}{0c:523038}私の心には、\nいまだ消すことの出来ない\n大きな{e098}い闇があります。{07:0a}{0c:fe}",
    "read": "{0c:522028}{1c:1b}私は実の父を殺した大罪人・・・{07:14}{1a}{0c:523038}私の心には、\nいまだ消すことの出来ない\n大きな黒い闇があります。{07:0a}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:522028}{1c:1b}I am a great sinner, who killed her own\nfather...{07:14}{1a}{0c:523038}In my heart there is still a vast black\ndarkness that cannot be erased.{07:0a}{0c:fe}",
+   "status": "done",
+   "tl": "I am a great sinner, who killed her own father...[1] // [2]In my heart there is still a vast black darkness that cannot be erased."
   },
   {
    "id": "RES#1874:d8f6",
@@ -1245,8 +1288,9 @@
    "jp": "{0c:524048}{1c:1b}『{e094}神の{e095}』では\nお互いの心の深淵を見ることになる、\nそう十{e09a}聖者は言いました。{1a}{0c:525058}もし、私の心の闇が\nあなたを傷つけることになったら\n迷わず私を殺して下さい。{07:2d}{0c:fb05}",
    "read": "{0c:524048}{1c:1b}『精神の海』では\nお互いの心の深淵を見ることになる、\nそう十三聖者は言いました。{1a}{0c:525058}もし、私の心の闇が\nあなたを傷つけることになったら\n迷わず私を殺して下さい。{07:2d}{0c:fb05}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524048}{1c:1b}In the 'Sea of Spirit' we shall see the\nabyss of one another's hearts; so the\nThirteen Saints said.{1a}{0c:525058}Should the darkness in my heart ever\ncome to wound you, please kill me\nwithout hesitation.{07:2d}{0c:fb05}",
+   "status": "done",
+   "tl": "In the 'Sea of Spirit' we shall see the abyss of one another's hearts; so the Thirteen Saints said. // [1]Should the darkness in my heart ever come to wound you, please kill me without hesitation."
   },
   {
    "id": "RES#1874:d980",
@@ -1256,8 +1300,9 @@
    "jp": "わかった・・・|それは出来ない",
    "read": "わかった・・・|それは出来ない",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "All right...|I cannot do that",
+   "status": "done",
+   "tl": "All right...|I cannot do that"
   },
   {
    "id": "RES#1874:d992",
@@ -1289,8 +1334,9 @@
    "jp": "{0c:526068}{1c:1c}ありがとう。{1a}{0c:527078}{10}の手で・・・{07:14}\n愛する人の手で\n死ねるのなら本望です。{07:0a}{0c:fe}",
    "read": "{0c:526068}{1c:1c}ありがとう。{1a}{0c:527078}{10}の手で・・・{07:14}\n愛する人の手で\n死ねるのなら本望です。{07:0a}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:526068}{1c:1c}Thank you.{1a}{0c:527078}By your hand, {10}...{07:14} If I may die by\nthe hand of the one I love, I could ask\nfor nothing more.{07:0a}{0c:fe}",
+   "status": "done",
+   "tl": "Thank you. // [1]By your hand, [HERO]...[2] If I may die by the hand of the one I love, I could ask for nothing more."
   },
   {
    "id": "RES#1874:d9ee",
@@ -1322,8 +1368,9 @@
    "jp": "{0c:528088}{1c:1b}ですが、私は・・・{07:14}{1a}{0c:529098}私はあなたを傷つけたくない・・・{07:14}{1a}{0c:52a0a8}愛するあなたを・・・{07:14}\n傷つけたくない・・・{07:0a}{0c:fe}",
    "read": "{0c:528088}{1c:1b}ですが、私は・・・{07:14}{1a}{0c:529098}私はあなたを傷つけたくない・・・{07:14}{1a}{0c:52a0a8}愛するあなたを・・・{07:14}\n傷つけたくない・・・{07:0a}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:528088}{1c:1b}And yet I...{07:14}{1a}{0c:529098}I do not wish to wound you...{07:14}{1a}{0c:52a0a8}You, whom I love...{07:14} I do not wish to wound\nyou...{07:0a}{0c:fe}",
+   "status": "done",
+   "tl": "And yet I...[1] // [2]I do not wish to wound you...[3] // [4]You, whom I love...[5] I do not wish to wound you..."
   },
   {
    "id": "RES#1874:da62",
@@ -1378,8 +1425,9 @@
    "jp": "{1c:1b}{0b:08}{e080} エレアノール {e081}{0b:09}\n{10}・{07:05}・{07:05}・{07:1e}{1a}{0c:0a05}{0c:fe}",
    "read": "{1c:1b}{0b:08}【 エレアノール 】{0b:09}\n{10}・{07:05}・{07:05}・{07:1e}{1a}{0c:0a05}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Eleanor 】{0b:09}\n{10}.{07:05}.{07:05}.{07:1e}{1a}{0c:0a05}{0c:fe}",
+   "status": "done",
+   "tl": "[HERO].[1].[2]."
   },
   {
    "id": "RES#1874:db46",
@@ -1389,8 +1437,9 @@
    "jp": "{0c:52e0e8}{1c:1b}私は実の父を殺した大罪人・・・{07:14}{1a}{0c:52f0f8}私の心には、\nいまだ消すことの出来ない\n大きな{e098}い闇があります。{07:0a}{0c:fe}",
    "read": "{0c:52e0e8}{1c:1b}私は実の父を殺した大罪人・・・{07:14}{1a}{0c:52f0f8}私の心には、\nいまだ消すことの出来ない\n大きな黒い闇があります。{07:0a}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52e0e8}{1c:1b}I am a great sinner, who killed her own\nfather...{07:14}{1a}{0c:52f0f8}In my heart there is still a vast black\ndarkness that cannot be erased.{07:0a}{0c:fe}",
+   "status": "done",
+   "tl": "I am a great sinner, who killed her own father...[1] // [2]In my heart there is still a vast black darkness that cannot be erased."
   },
   {
    "id": "RES#1874:db99",
@@ -1411,8 +1460,9 @@
    "jp": "{0c:52ff01ff09}{1c:1b}『{e094}神の{e095}』では\nお互いの心の深淵を見ることになる、\nそう十{e09a}聖者は言いました。{1a}{0c:52ff11ff19}もし、私の心の闇が\nあなたを傷つけることになったら\n迷わず私を殺して下さい。{0c:fe}",
    "read": "{0c:52ff01ff09}{1c:1b}『精神の海』では\nお互いの心の深淵を見ることになる、\nそう十三聖者は言いました。{1a}{0c:52ff11ff19}もし、私の心の闇が\nあなたを傷つけることになったら\n迷わず私を殺して下さい。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff01ff09}{1c:1b}In the 'Sea of Spirit' we shall see the\nabyss of one another's hearts; so the\nThirteen Saints said.{1a}{0c:52ff11ff19}Should the darkness in my heart ever\ncome to wound you, please kill me\nwithout hesitation.{0c:fe}",
+   "status": "done",
+   "tl": "In the 'Sea of Spirit' we shall see the abyss of one another's hearts; so the Thirteen Saints said. // [1]Should the darkness in my heart ever come to wound you, please kill me without hesitation."
   },
   {
    "id": "RES#1874:dc28",
@@ -1433,8 +1483,9 @@
    "jp": "{0c:52ff21ff29}{1c:1c}ありがとう。{1a}{0c:52ff31ff39}{10}の手で、\n私の大好きな友達の手で\n殺されるのなら本望です。{0c:fe}",
    "read": "{0c:52ff21ff29}{1c:1c}ありがとう。{1a}{0c:52ff31ff39}{10}の手で、\n私の大好きな友達の手で\n殺されるのなら本望です。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff21ff29}{1c:1c}Thank you.{1a}{0c:52ff31ff39}If I am to be killed by your hand,\n{10}, the hand of my dearest\nfriend, I could ask for nothing more.{0c:fe}",
+   "status": "done",
+   "tl": "Thank you. // [1]If I am to be killed by your hand, [HERO], the hand of my dearest friend, I could ask for nothing more."
   },
   {
    "id": "RES#1874:dc7f",
@@ -1478,8 +1529,9 @@
    "jp": "{0c:522028}{1c:1d}今までいろいろありがとよ。{07:08}{0c:fe}",
    "read": "{0c:522028}{1c:1d}今までいろいろありがとよ。{07:08}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:522028}{1c:1d}Thanks for everythin' up to now.{07:08}{0c:fe}",
+   "status": "done",
+   "tl": "Thanks for everythin' up to now."
   },
   {
    "id": "RES#1874:dd48",
@@ -1500,8 +1552,9 @@
    "jp": "{0c:523038}{1c:1d}って、これじゃまるで\nオレとお前のどちらかが\n死んじまうみたいだよな。{1a}{0c:524048}でもやっぱり言っておきたくてさ。\nお前にはほんと感謝してる。{1a}{0c:525058}まあ、正直言うと、\n初めて{e09b}ったときはあんまり好きじゃ\nなかったんだけどさ、{1a}{0c:526068}でも、お前いいヤツだよ。\nオレが保{e09d}する。{0c:fe}",
    "read": "{0c:523038}{1c:1d}って、これじゃまるで\nオレとお前のどちらかが\n死んじまうみたいだよな。{1a}{0c:524048}でもやっぱり言っておきたくてさ。\nお前にはほんと感謝してる。{1a}{0c:525058}まあ、正直言うと、\n初めて会ったときはあんまり好きじゃ\nなかったんだけどさ、{1a}{0c:526068}でも、お前いいヤツだよ。\nオレが保証する。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523038}{1c:1d}Damn, that makes it sound like one of us\nis gonna die, don't it.{1a}{0c:524048}But I wanted to say it anyway. I really\nam grateful to ya.{1a}{0c:525058}Well, truth is, when we first met I didn't\nmuch like ya,{1a}{0c:526068}but you're all right. I'll vouch for that.{0c:fe}",
+   "status": "done",
+   "tl": "Damn, that makes it sound like one of us is gonna die, don't it. // [1]But I wanted to say it anyway. I really am grateful to ya. // [2]Well, truth is, when we first met I didn't much like ya, // [3]but you're all right. I'll vouch for that."
   },
   {
    "id": "RES#1874:de0c",
@@ -1522,8 +1575,9 @@
    "jp": "{0c:527078}{1c:1f}絶対に帰ってこような。{0c:fe}",
    "read": "{0c:527078}{1c:1f}絶対に帰ってこような。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:527078}{1c:1f}Let's make damn sure we come back.{0c:fe}",
+   "status": "done",
+   "tl": "Let's make damn sure we come back."
   },
   {
    "id": "RES#1874:de35",
@@ -1578,8 +1632,9 @@
    "jp": "{0c:529098}{1c:1e}あのさ・・・{07:08}{0c:fe}",
    "read": "{0c:529098}{1c:1e}あのさ・・・{07:08}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:529098}{1c:1e}Hey, listen...{07:08}{0c:fe}",
+   "status": "done",
+   "tl": "Hey, listen..."
   },
   {
    "id": "RES#1874:df02",
@@ -1600,8 +1655,9 @@
    "jp": "{0c:52a0a8}{1c:1d}オレ、お前のことが好きだ。{1a}{0c:52b0b8}あ、いや、\n別に、付き合ってくれとか、\nそういう話でもねえんだ。{1a}あ、違った、\nもちろん付き合ってくれるなら\nそりゃその方が断然嬉しいけど、{1a}って、何言ってるんだろうな・・・\nとにかく『{e094}神の{e095}』に入る前に\nオレの気持ちを\nお前に伝えたかったんだ。{0c:fe}",
    "read": "{0c:52a0a8}{1c:1d}オレ、お前のことが好きだ。{1a}{0c:52b0b8}あ、いや、\n別に、付き合ってくれとか、\nそういう話でもねえんだ。{1a}あ、違った、\nもちろん付き合ってくれるなら\nそりゃその方が断然嬉しいけど、{1a}って、何言ってるんだろうな・・・\nとにかく『精神の海』に入る前に\nオレの気持ちを\nお前に伝えたかったんだ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52a0a8}{1c:1d}I love ya.{1a}{0c:52b0b8}Uh, no, I ain't sayin' ya gotta be with me\nor nothin' like that.{1a}Ah, no, wait, if ya would, then sure,\nthat'd be way better,{1a}but what the hell am I sayin'... Anyway,\nbefore we go into the 'Sea of Spirit', I\nwanted ya to know how I feel.{0c:fe}",
+   "status": "done",
+   "tl": "I love ya. // [1]Uh, no, I ain't sayin' ya gotta be with me or nothin' like that. // Ah, no, wait, if ya would, then sure, that'd be way better, // but what the hell am I sayin'... Anyway, before we go into the 'Sea of Spirit', I wanted ya to know how I feel."
   },
   {
    "id": "RES#1874:dfcf",
@@ -1622,8 +1678,9 @@
    "jp": "{0c:52d0d8}{1c:1d}本当はもっと格好いい事\n言おうと思ってたんだけど、\n頭が{e09e}っ白で何も思い浮かばねえ。{1a}{0c:52e0e8}でも、このまま死ぬのは嫌だから\n今の気持ちだけ伝えるよ。{1a}{0c:52f0f8}オレ、お前のことが好きだ。\nこの気持ちは多分一生変わらない。{07:2d}{0c:fb05}",
    "read": "{0c:52d0d8}{1c:1d}本当はもっと格好いい事\n言おうと思ってたんだけど、\n頭が真っ白で何も思い浮かばねえ。{1a}{0c:52e0e8}でも、このまま死ぬのは嫌だから\n今の気持ちだけ伝えるよ。{1a}{0c:52f0f8}オレ、お前のことが好きだ。\nこの気持ちは多分一生変わらない。{07:2d}{0c:fb05}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52d0d8}{1c:1d}Truth is, I was gonna say somethin'\ncooler, but my head's gone blank and\nnothin's comin' to me.{1a}{0c:52e0e8}But I don't wanna die like this, so I'll just\ntell ya how I feel.{1a}{0c:52f0f8}I love ya. And I figure that won't change,\nlong as I live.{07:2d}{0c:fb05}",
+   "status": "done",
+   "tl": "Truth is, I was gonna say somethin' cooler, but my head's gone blank and nothin's comin' to me. // [1]But I don't wanna die like this, so I'll just tell ya how I feel. // [2]I love ya. And I figure that won't change, long as I live."
   },
   {
    "id": "RES#1874:e078",
@@ -1633,8 +1690,9 @@
    "jp": "あたしも・・・|ごめん・・・",
    "read": "あたしも・・・|ごめん・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Me too...|I'm sorry...",
+   "status": "done",
+   "tl": "Me too...|I'm sorry..."
   },
   {
    "id": "RES#1874:e087",
@@ -1666,8 +1724,9 @@
    "jp": "{0c:52ff01ff09}{1c:1d}ありがとよ、{10}。{1a}{0c:52ff11ff19}なんだか勝てる気がしてきたぜ。\nいや・・・絶対に勝たなきゃな。{0c:fe}",
    "read": "{0c:52ff01ff09}{1c:1d}ありがとよ、{10}。{1a}{0c:52ff11ff19}なんだか勝てる気がしてきたぜ。\nいや・・・絶対に勝たなきゃな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff01ff09}{1c:1d}Thanks, {10}.{1a}{0c:52ff11ff19}Somehow I'm startin' to feel we can win.\nNo... we damn well gotta win.{0c:fe}",
+   "status": "done",
+   "tl": "Thanks, [HERO]. // [1]Somehow I'm startin' to feel we can win. No... we damn well gotta win."
   },
   {
    "id": "RES#1874:e0e7",
@@ -1688,8 +1747,9 @@
    "jp": "{0c:52ff21ff29}{1c:1f}よし、行こうぜ。{0c:fe}",
    "read": "{0c:52ff21ff29}{1c:1f}よし、行こうぜ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff21ff29}{1c:1f}All right, let's go.{0c:fe}",
+   "status": "done",
+   "tl": "All right, let's go."
   },
   {
    "id": "RES#1874:e10d",
@@ -1721,8 +1781,9 @@
    "jp": "{0c:52ff31ff39}{1c:20}いや・・・{07:1e}いいんだ。{07:07}{1a}{0c:52ff41ff49}まあ、そりゃショックじゃねえって\n言ったら{e0a0}になるけど、{1a}{0c:52ff51ff59}気持ち伝えないまま\n死ぬのはご免だったからさ。{1a}{0c:52ff61ff69}お前に気持ち伝えられて\nすっきりしたよ。\nよし、じゃあ行こうか。{0c:fe}",
    "read": "{0c:52ff31ff39}{1c:20}いや・・・{07:1e}いいんだ。{07:07}{1a}{0c:52ff41ff49}まあ、そりゃショックじゃねえって\n言ったら嘘になるけど、{1a}{0c:52ff51ff59}気持ち伝えないまま\n死ぬのはご免だったからさ。{1a}{0c:52ff61ff69}お前に気持ち伝えられて\nすっきりしたよ。\nよし、じゃあ行こうか。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff31ff39}{1c:20}No...{07:1e}it's fine.{07:07}{1a}{0c:52ff41ff49}Well, I'd be lyin' if I said it wasn't a shock,{1a}{0c:52ff51ff59}but I wasn't about to die without tellin'\nya how I feel.{1a}{0c:52ff61ff69}I told ya, and I feel better for it. All\nright, let's go.{0c:fe}",
+   "status": "done",
+   "tl": "No...[1]it's fine.[2] // [3]Well, I'd be lyin' if I said it wasn't a shock, // [4]but I wasn't about to die without tellin' ya how I feel. // [5]I told ya, and I feel better for it. All right, let's go."
   },
   {
    "id": "RES#1874:e1c8",
@@ -1809,8 +1870,9 @@
    "jp": "{0c:521018}{1c:21}{0b:08}{e080} シャルン {e081}{0b:09}\n{10}・・・\n誘ってくれてありがと。{1a}{0c:0a05}{0c:fe}",
    "read": "{0c:521018}{1c:21}{0b:08}【 シャルン 】{0b:09}\n{10}・・・\n誘ってくれてありがと。{1a}{0c:0a05}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:21}{0b:08}【 Scharn 】{0b:09}\n{10}... Thanks for inviting me!{1a}{0c:0a05}{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]... Thanks for inviting me!"
   },
   {
    "id": "RES#1874:e284",
@@ -1820,8 +1882,9 @@
    "jp": "{0c:522028}{1c:21}・・・ねえ、聞いてもいい?{0c:fe}",
    "read": "{0c:522028}{1c:21}・・・ねえ、聞いてもいい?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:522028}{1c:21}...Hey, can I ask you something?{0c:fe}",
+   "status": "done",
+   "tl": "...Hey, can I ask you something?"
   },
   {
    "id": "RES#1874:e29e",
@@ -1842,8 +1905,9 @@
    "jp": "{0c:523038}{1c:21}どうしてあたしを誘ってくれたの{01}?{02}{07:2d}{0c:fb05}",
    "read": "{0c:523038}{1c:21}どうしてあたしを誘ってくれたの{01}?{02}{07:2d}{0c:fb05}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523038}{1c:21}Why did you invite me?{07:2d}{0c:fb05}",
+   "status": "done",
+   "tl": "Why did you invite me?"
   },
   {
    "id": "RES#1874:e2d4",
@@ -1853,8 +1917,9 @@
    "jp": "君が好きだから・・・|君と一緒なら死ぬのも怖くない|なんとなく",
    "read": "君が好きだから・・・|君と一緒なら死ぬのも怖くない|なんとなく",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Because I love you...|With you, I don't fear death|No real reason",
+   "status": "done",
+   "tl": "Because I love you...|With you, I don't fear death|No real reason"
   },
   {
    "id": "RES#1874:e2fb",
@@ -1875,8 +1940,9 @@
    "jp": "{0c:f706e0}{0c:524048}{1c:24}ありがと・・・{10}。\nとってもうれしい。{0c:fe}",
    "read": "{0c:f706e0}{0c:524048}{1c:24}ありがと・・・{10}。\nとってもうれしい。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:f706e0}{0c:524048}{1c:24}Thank you... {10}. I'm so happy!{0c:fe}",
+   "status": "done",
+   "tl": "Thank you... [HERO]. I'm so happy!"
   },
   {
    "id": "RES#1874:e325",
@@ -1886,8 +1952,9 @@
    "jp": "{0c:525058}{1c:21}{10}、ほんとはね、\nあたしも今日言うつもりだったんだ。\n{0c:526068}あなたのことが好きだって。{1a}{0c:527078}だから、{10}がさっき\nあたしの{e0a1}{e0a2}に入ってきた時、\nあたし緊張してて\n心臓が{e0a5}び出しそうだったんだよ。{1a}{0c:528088}結{e0a6}何も言えなかったんだけど、\nでも、今、\n{10}の口からその言{e091}聞けて\n本当に涙が出るほど嬉しい・・・{1a}{0c:529098}毎日{e0a9}ばっかり{e0aa}り回してるから\n{e0ab}にこんなに筋肉ついちゃったけど、\nこれでも女の子だもんね、{1a}{0c:52a0a8}ずっと待ってたんだ、その言{e091}。{0c:fe}",
    "read": "{0c:525058}{1c:21}{10}、ほんとはね、\nあたしも今日言うつもりだったんだ。\n{0c:526068}あなたのことが好きだって。{1a}{0c:527078}だから、{10}がさっき\nあたしの部屋に入ってきた時、\nあたし緊張してて\n心臓が飛び出しそうだったんだよ。{1a}{0c:528088}結局何も言えなかったんだけど、\nでも、今、\n{10}の口からその言葉聞けて\n本当に涙が出るほど嬉しい・・・{1a}{0c:529098}毎日槍ばっかり振り回してるから\n腕にこんなに筋肉ついちゃったけど、\nこれでも女の子だもんね、{1a}{0c:52a0a8}ずっと待ってたんだ、その言葉。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:525058}{1c:21}{10}, the truth is, I was going to\nsay it today too! {0c:526068}That I love you.{1a}{0c:527078}So when you came into my room just\nnow, {10}, I was so nervous my\nheart almost jumped out!{1a}{0c:528088}In the end I couldn't say anything, but\nnow, hearing those words from you,\n{10}, I'm so happy I could really\ncry...{1a}{0c:529098}I swing a spear around all day, every day,\nso my arms got all these muscles, but I'm\nstill a girl, you know!{1a}{0c:52a0a8}I've been waiting for those words all this\ntime.{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], the truth is, I was going to say it today too! [1]That I love you. // [2]So when you came into my room just now, [HERO], I was so nervous my heart almost jumped out! // [3]In the end I couldn't say anything, but now, hearing those words from you, [HERO], I'm so happy I could really cry... // [4]I swing a spear around all day, every day, so my arms got all these muscles, but I'm still a girl, you know! // [5]I've been waiting for those words all this time."
   },
   {
    "id": "RES#1874:e43f",
@@ -1908,8 +1975,9 @@
    "jp": "{0c:52b0b8}{1c:21}だからありがと、{10}。\nこれで心おきなく戦えるよ。{0c:fe}",
    "read": "{0c:52b0b8}{1c:21}だからありがと、{10}。\nこれで心おきなく戦えるよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52b0b8}{1c:21}So thanks, {10}. Now I can fight\nwith nothing left on my mind!{0c:fe}",
+   "status": "done",
+   "tl": "So thanks, [HERO]. Now I can fight with nothing left on my mind!"
   },
   {
    "id": "RES#1874:e474",
@@ -1930,8 +1998,9 @@
    "jp": "{0c:f7066f}{0c:52c0c8}{1c:22}それって、プロポーズ?{0c:fe}",
    "read": "{0c:f7066f}{0c:52c0c8}{1c:22}それって、プロポーズ?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:f7066f}{0c:52c0c8}{1c:22}Is that... a proposal?{0c:fe}",
+   "status": "done",
+   "tl": "Is that... a proposal?"
   },
   {
    "id": "RES#1874:e4a3",
@@ -1952,8 +2021,9 @@
    "jp": "{0c:52d0d8}{1c:21}ありがと・・・{10}・・・{0c:fe}",
    "read": "{0c:52d0d8}{1c:21}ありがと・・・{10}・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52d0d8}{1c:21}Thank you... {10}...{0c:fe}",
+   "status": "done",
+   "tl": "Thank you... [HERO]..."
   },
   {
    "id": "RES#1874:e4c9",
@@ -1974,8 +2044,9 @@
    "jp": "{0c:52e0e8}{1c:21}でも、なんだか無理矢理\n言わせたみたいだね。{0c:fe}",
    "read": "{0c:52e0e8}{1c:21}でも、なんだか無理矢理\n言わせたみたいだね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52e0e8}{1c:21}But it kind of feels like I forced you to\nsay it.{0c:fe}",
+   "status": "done",
+   "tl": "But it kind of feels like I forced you to say it."
   },
   {
    "id": "RES#1874:e4fb",
@@ -1996,8 +2067,9 @@
    "jp": "{0c:52f0f8}{1c:21}本当にあたしのこと好き?{0c:fe}",
    "read": "{0c:52f0f8}{1c:21}本当にあたしのこと好き?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52f0f8}{1c:21}Do you really love me?{0c:fe}",
+   "status": "done",
+   "tl": "Do you really love me?"
   },
   {
    "id": "RES#1874:e526",
@@ -2018,8 +2090,9 @@
    "jp": "{0c:52ff01ff09}{1c:21}{10}、ほんとはね、\nあたしも今日言うつもりだったんだ。\nあなたのことが好きだって。{1a}{0c:52ff11ff19}だから、{10}がさっき\nあたしの{e0a1}{e0a2}に入ってきた時、\nあたし緊張してて\n心臓が{e0a5}び出しそうだったんだよ。{1a}結{e0a6}、言い出すきっかけがなくて\n何も言えなかったんだけどね。{1a}{0c:52ff21ff29}毎日{e0a9}ばっかり{e0aa}り回してるから\n{e0ab}にこんなに筋肉ついちゃったけど、\nこれでも女の子だもんね、{1a}{0c:52ff31ff39}女の子はいつでも待ってるんだよ。\n好きだって言{e091}。{0c:fe}",
    "read": "{0c:52ff01ff09}{1c:21}{10}、ほんとはね、\nあたしも今日言うつもりだったんだ。\nあなたのことが好きだって。{1a}{0c:52ff11ff19}だから、{10}がさっき\nあたしの部屋に入ってきた時、\nあたし緊張してて\n心臓が飛び出しそうだったんだよ。{1a}結局、言い出すきっかけがなくて\n何も言えなかったんだけどね。{1a}{0c:52ff21ff29}毎日槍ばっかり振り回してるから\n腕にこんなに筋肉ついちゃったけど、\nこれでも女の子だもんね、{1a}{0c:52ff31ff39}女の子はいつでも待ってるんだよ。\n好きだって言葉。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff01ff09}{1c:21}{10}, the truth is, I was going to\nsay it today too! That I love you.{1a}{0c:52ff11ff19}So when you came into my room just\nnow, {10}, I was so nervous my\nheart almost jumped out!{1a}In the end, I never found the chance, so I\ndidn't say anything.{1a}{0c:52ff21ff29}I swing a spear around all day, every day,\nso my arms got all these muscles, but I'm\nstill a girl, you know!{1a}{0c:52ff31ff39}A girl's always waiting, you know! For\nthose words, 'I love you'.{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], the truth is, I was going to say it today too! That I love you. // [1]So when you came into my room just now, [HERO], I was so nervous my heart almost jumped out! // In the end, I never found the chance, so I didn't say anything. // [2]I swing a spear around all day, every day, so my arms got all these muscles, but I'm still a girl, you know! // [3]A girl's always waiting, you know! For those words, 'I love you'."
   },
   {
    "id": "RES#1874:e63f",
@@ -2040,8 +2113,9 @@
    "jp": "{1c:21}ほんとはもうちょっと\nはっきりと聞きたかったけど、\n今でも充分しあわせ・・・{1a}{0c:52ff41ff49}これで心おきなく戦えるよ。\n頑張ろうね、{10}。{0c:fe}",
    "read": "{1c:21}ほんとはもうちょっと\nはっきりと聞きたかったけど、\n今でも充分しあわせ・・・{1a}{0c:52ff41ff49}これで心おきなく戦えるよ。\n頑張ろうね、{10}。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:21}I'd have liked to hear it a bit more\nclearly, but I'm plenty happy as it is...{1a}{0c:52ff41ff49}Now I can fight with nothing left on my\nmind! Let's do our best, {10}!{0c:fe}",
+   "status": "done",
+   "tl": "I'd have liked to hear it a bit more clearly, but I'm plenty happy as it is... // [1]Now I can fight with nothing left on my mind! Let's do our best, [HERO]!"
   },
   {
    "id": "RES#1874:e6a1",
@@ -2062,8 +2136,9 @@
    "jp": "{0c:f706e2}{0c:52ff51ff59}{1c:23}・・・・・・{1a}{0c:52ff61ff69}そう・・・\nなんとなくって言われちゃったら\nどうしようもないけど・・・{0c:fe}",
    "read": "{0c:f706e2}{0c:52ff51ff59}{1c:23}・・・・・・{1a}{0c:52ff61ff69}そう・・・\nなんとなくって言われちゃったら\nどうしようもないけど・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:f706e2}{0c:52ff51ff59}{1c:23}......{1a}{0c:52ff61ff69}I see... If you just say 'no real reason',\nthere's nothing I can do, but...{0c:fe}",
+   "status": "done",
+   "tl": "...... // [1]I see... If you just say 'no real reason', there's nothing I can do, but..."
   },
   {
    "id": "RES#1874:e6f7",
@@ -2073,8 +2148,9 @@
    "jp": "{0c:52ff71ff79}{1c:21}あーあ、どうして{10}の事\n好きになっちゃったんだろ・・・{0c:fe}",
    "read": "{0c:52ff71ff79}{1c:21}あーあ、どうして{10}の事\n好きになっちゃったんだろ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff71ff79}{1c:21}Aww, why did I have to go and fall in love\nwith you, {10}...{0c:fe}",
+   "status": "done",
+   "tl": "Aww, why did I have to go and fall in love with you, [HERO]..."
   },
   {
    "id": "RES#1874:e721",
@@ -2095,8 +2171,9 @@
    "jp": "{0c:52ff91ff99}{1c:22}あっ、なんでもないよ。\nただの独り言。{1a}じゃあ行きましょ。{0c:fe}",
    "read": "{0c:52ff91ff99}{1c:22}あっ、なんでもないよ。\nただの独り言。{1a}じゃあ行きましょ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff91ff99}{1c:22}Oh, it's nothing! Just talking to myself.{1a}Okay, let's go!{0c:fe}",
+   "status": "done",
+   "tl": "Oh, it's nothing! Just talking to myself. // Okay, let's go!"
   },
   {
    "id": "RES#1874:e761",
@@ -2139,8 +2216,9 @@
    "jp": "{0c:52ffb1ffb9}{1c:21}いよいよだね。{0c:fe}",
    "read": "{0c:52ffb1ffb9}{1c:21}いよいよだね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffb1ffb9}{1c:21}It's finally here, huh!{0c:fe}",
+   "status": "done",
+   "tl": "It's finally here, huh!"
   },
   {
    "id": "RES#1874:e81e",
@@ -2161,8 +2239,9 @@
    "jp": "{0c:52ffc1ffc9}{1c:21}いままでいろいろありがと。\n本当に楽しかったよ。{0c:fe}",
    "read": "{0c:52ffc1ffc9}{1c:21}いままでいろいろありがと。\n本当に楽しかったよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffc1ffc9}{1c:21}Thanks for everything up to now. I really\nhad fun!{0c:fe}",
+   "status": "done",
+   "tl": "Thanks for everything up to now. I really had fun!"
   },
   {
    "id": "RES#1874:e85b",
@@ -2183,8 +2262,9 @@
    "jp": "{0c:52ffd1ffd9}{1c:24}この町に来て、つらいことも\nたくさんあったけど、\n楽しいこともたくさんあったよね。{1a}{0c:52ffe1ffe9}この町での思い出は、\nあたしにとって\n一生の{e0ae}物になると思う。{1a}{0c:52fff1fff9}でも不思{e0af}だよね。\n世{e082}には何億って人がいるのに、\nあたし達がこうして\nこの小さな町で出逢うなんて。{1a}{0c:52ffff02ffff0a}{10}と出逢えなければ、\n経験出来なかったこと、\n分からなかったことも\nいっぱいある。{1a}全て、出逢いっていう\n小さな偶然から始まったんだね。{1a}そんなこと考え出すと、\n心の底から、この世{e082}が\nなくなって欲しくないって\n思えてくるんだ・・・{1a}{0c:52ffff12ffff1a}頑張ろうね、{10}。\nあたし、神様なんかに負けないよ。{0c:fe}",
    "read": "{0c:52ffd1ffd9}{1c:24}この町に来て、つらいことも\nたくさんあったけど、\n楽しいこともたくさんあったよね。{1a}{0c:52ffe1ffe9}この町での思い出は、\nあたしにとって\n一生の宝物になると思う。{1a}{0c:52fff1fff9}でも不思議だよね。\n世界には何億って人がいるのに、\nあたし達がこうして\nこの小さな町で出逢うなんて。{1a}{0c:52ffff02ffff0a}{10}と出逢えなければ、\n経験出来なかったこと、\n分からなかったことも\nいっぱいある。{1a}全て、出逢いっていう\n小さな偶然から始まったんだね。{1a}そんなこと考え出すと、\n心の底から、この世界が\nなくなって欲しくないって\n思えてくるんだ・・・{1a}{0c:52ffff12ffff1a}頑張ろうね、{10}。\nあたし、神様なんかに負けないよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffd1ffd9}{1c:24}There were a lot of hard things in this\ntown, but a lot of fun things too, right?{1a}{0c:52ffe1ffe9}My memories of this town will be a\ntreasure to me for life.{1a}{0c:52fff1fff9}Isn't it strange, though? There are\nhundreds of millions of people in the\nworld, and we met like this in this little\ntown!{1a}{0c:52ffff02ffff0a}If I hadn't met you, {10}, there's\nso much I'd never have experienced,\nnever have understood.{1a}It all started from the small chance of\nmeeting.{1a}When I start thinking that, I don't want\nthis world to go away, from the bottom\nof my heart...{1a}{0c:52ffff12ffff1a}Let's do our best, {10}! I won't\nlose to some god!{0c:fe}",
+   "status": "done",
+   "tl": "There were a lot of hard things in this town, but a lot of fun things too, right? // [1]My memories of this town will be a treasure to me for life. // [2]Isn't it strange, though? There are hundreds of millions of people in the world, and we met like this in this little town! // [3]If I hadn't met you, [HERO], there's so much I'd never have experienced, never have understood. // It all started from the small chance of meeting. // When I start thinking that, I don't want this world to go away, from the bottom of my heart... // [4]Let's do our best, [HERO]! I won't lose to some god!"
   },
   {
    "id": "RES#1874:e9d6",
@@ -2216,8 +2296,9 @@
    "jp": "{0c:521018}{1c:25}{0b:08}{e080} ジェシカ {e081}{0b:09}\nねえ、{10}。{1a}{0c:0a05}{0c:fe}",
    "read": "{0c:521018}{1c:25}{0b:08}【 ジェシカ 】{0b:09}\nねえ、{10}。{1a}{0c:0a05}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:25}{0b:08}【 Jessica 】{0b:09}\nHey, {10}.{1a}{0c:0a05}{0c:fe}",
+   "status": "done",
+   "tl": "Hey, [HERO]."
   },
   {
    "id": "RES#1874:ea81",
@@ -2227,8 +2308,9 @@
    "jp": "{0c:522028}{1c:27}あのさ・・・{0c:fe}",
    "read": "{0c:522028}{1c:27}あのさ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:522028}{1c:27}Hey, listen...{0c:fe}",
+   "status": "done",
+   "tl": "Hey, listen..."
   },
   {
    "id": "RES#1874:ea92",
@@ -2249,8 +2331,9 @@
    "jp": "{0c:523038}{1c:27}『{e094}神の{e095}』って\n{01}2人{02}ずつでしか入れないんだよね。\nでもって、{01}1番信頼{02}できる相手と\n行かなきゃ{03}ダメ{02}なんだよね。{1a}{0c:524048}あたし誘ってくれたってことはさ、\nひょっとしてあたしのこと・・・\nその・・・あの・・・{1a}{0c:525058}・・・好きだってこと{01}?{02}{07:2d}{0c:fb05}",
    "read": "{0c:523038}{1c:27}『精神の海』って\n{01}2人{02}ずつでしか入れないんだよね。\nでもって、{01}1番信頼{02}できる相手と\n行かなきゃ{03}ダメ{02}なんだよね。{1a}{0c:524048}あたし誘ってくれたってことはさ、\nひょっとしてあたしのこと・・・\nその・・・あの・・・{1a}{0c:525058}・・・好きだってこと{01}?{02}{07:2d}{0c:fb05}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523038}{1c:27}You can only go into the 'Sea of Spirit'\ntwo at a time, right? And you gotta go\nwith the person you trust most, right?{1a}{0c:524048}So you asking me, does that mean maybe\nyou... um... you know...{1a}{0c:525058}...like me?{07:2d}{0c:fb05}",
+   "status": "done",
+   "tl": "You can only go into the 'Sea of Spirit' two at a time, right? And you gotta go with the person you trust most, right? // [1]So you asking me, does that mean maybe you... um... you know... // [2]...like me?"
   },
   {
    "id": "RES#1874:eb45",
@@ -2260,8 +2343,9 @@
    "jp": "う、うん、君のことが前から・・・|当たり前のことを聞くな|勘違いするな",
    "read": "う、うん、君のことが前から・・・|当たり前のことを聞くな|勘違いするな",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Y-yes, I've always...|What a question|Don't get the wrong idea",
+   "status": "done",
+   "tl": "Y-yes, I've always...|What a question|Don't get the wrong idea"
   },
   {
    "id": "RES#1874:eb70",
@@ -2305,8 +2389,9 @@
    "jp": "{0c:527078}{1c:27}でへへへ・・・\nなんだか照れちゃうね。{1a}{0c:528088}実はさ、あたしも\n{10}のこと好きなんだ。{1a}{0c:529098}はじめはなんかイヤな奴って\n思ってたけど、一緒にいるうちに\n{10}のいいところが\nだんだん分かってきてさ、{1a}こんなこと言うの初めてだから\nちょっと恥ずかしいけど、\n今では{10}のこと\n誰よりも大好きだよ。{1a}{0c:52a0a1}そうだ! \nあたし達が神サマに勝って、\n世{e082}が元{e0b6}りになったら、{1a}{0c:52a9b1}2人でいろんな所に\n{e0b7}びに行こうよ。ねっ!?{0c:fe}",
    "read": "{0c:527078}{1c:27}でへへへ・・・\nなんだか照れちゃうね。{1a}{0c:528088}実はさ、あたしも\n{10}のこと好きなんだ。{1a}{0c:529098}はじめはなんかイヤな奴って\n思ってたけど、一緒にいるうちに\n{10}のいいところが\nだんだん分かってきてさ、{1a}こんなこと言うの初めてだから\nちょっと恥ずかしいけど、\n今では{10}のこと\n誰よりも大好きだよ。{1a}{0c:52a0a1}そうだ! \nあたし達が神サマに勝って、\n世界が元通りになったら、{1a}{0c:52a9b1}2人でいろんな所に\n遊びに行こうよ。ねっ!?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:527078}{1c:27}Heh heh heh... I'm kinda embarrassed.{1a}{0c:528088}Truth is, I like you too, {10}.{1a}{0c:529098}At first I thought you were kind of a\npain, but hanging around you, {10},\nI gradually started to see your good\npoints,{1a}and I've never said this before so it's a\nlittle embarrassing, but now I like you\nmore than anybody, {10}.{1a}{0c:52a0a1}I know! Once we beat God and the\nworld's back to normal,{1a}{0c:52a9b1}let's go all kinds of places together, just\nthe two of us. Okay!?{0c:fe}",
+   "status": "done",
+   "tl": "Heh heh heh... I'm kinda embarrassed. // [1]Truth is, I like you too, [HERO]. // [2]At first I thought you were kind of a pain, but hanging around you, [HERO], I gradually started to see your good points, // and I've never said this before so it's a little embarrassing, but now I like you more than anybody, [HERO]. // [3]I know! Once we beat God and the world's back to normal, // [4]let's go all kinds of places together, just the two of us. Okay!?"
   },
   {
    "id": "RES#1874:eca0",
@@ -2327,8 +2412,9 @@
    "jp": "{0c:52b9c1}なんだか神サマ相手でも\n絶対に勝てる気がしてきたよ。\nがんばろうね、{10}。{0c:fe}",
    "read": "{0c:52b9c1}なんだか神サマ相手でも\n絶対に勝てる気がしてきたよ。\nがんばろうね、{10}。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52b9c1}Somehow I feel like we can't lose, even\nagainst God. Let's give it all we've got,\n{10}.{0c:fe}",
+   "status": "done",
+   "tl": "Somehow I feel like we can't lose, even against God. Let's give it all we've got, [HERO]."
   },
   {
    "id": "RES#1874:ece6",
@@ -2360,8 +2446,9 @@
    "jp": "{0c:52c9d1}{1c:27}でへへへ・・・\nなんだか照れちゃうね。{0c:fe}",
    "read": "{0c:52c9d1}{1c:27}でへへへ・・・\nなんだか照れちゃうね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52c9d1}{1c:27}Heh heh heh... I'm kinda embarrassed.{0c:fe}",
+   "status": "done",
+   "tl": "Heh heh heh... I'm kinda embarrassed."
   },
   {
    "id": "RES#1874:ed31",
@@ -2382,8 +2469,9 @@
    "jp": "{0c:52d9e1}実はさ、あたしも\n{10}のこと好きなんだ。{1a}{0c:52e9f1}はじめはなんかイヤな奴って\n思ってたけど、一緒にいるうちに\n{10}のいいところが\nだんだん分かってきてさ、{1a}こんなこと言うの初めてだから\nちょっと恥ずかしいけど、\n今では{10}のこと\n誰よりも大好きだよ。{1a}{0c:52f9fa}そうだ! \nあたし達が神サマに勝って、\n世{e082}が元{e0b6}りになったら、{1a}{0c:52ff03ff0b}2人でいろんな所に\n{e0b7}びに行こうよ。ねっ!?{0c:fe}",
    "read": "{0c:52d9e1}実はさ、あたしも\n{10}のこと好きなんだ。{1a}{0c:52e9f1}はじめはなんかイヤな奴って\n思ってたけど、一緒にいるうちに\n{10}のいいところが\nだんだん分かってきてさ、{1a}こんなこと言うの初めてだから\nちょっと恥ずかしいけど、\n今では{10}のこと\n誰よりも大好きだよ。{1a}{0c:52f9fa}そうだ! \nあたし達が神サマに勝って、\n世界が元通りになったら、{1a}{0c:52ff03ff0b}2人でいろんな所に\n遊びに行こうよ。ねっ!?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52d9e1}Truth is, I like you too, {10}.{1a}{0c:52e9f1}At first I thought you were kind of a\npain, but hanging around you, {10},\nI gradually started to see your good\npoints,{1a}and I've never said this before so it's a\nlittle embarrassing, but now I like you\nmore than anybody, {10}.{1a}{0c:52f9fa}I know! Once we beat God and the\nworld's back to normal,{1a}{0c:52ff03ff0b}let's go all kinds of places together, just\nthe two of us. Okay!?{0c:fe}",
+   "status": "done",
+   "tl": "Truth is, I like you too, [HERO]. // [1]At first I thought you were kind of a pain, but hanging around you, [HERO], I gradually started to see your good points, // and I've never said this before so it's a little embarrassing, but now I like you more than anybody, [HERO]. // [2]I know! Once we beat God and the world's back to normal, // [3]let's go all kinds of places together, just the two of us. Okay!?"
   },
   {
    "id": "RES#1874:ee30",
@@ -2404,8 +2492,9 @@
    "jp": "{0c:52ff13ff1b}なんだか神サマ相手でも\n絶対に勝てる気がしてきたよ。\nがんばろうね、{10}。{0c:fe}",
    "read": "{0c:52ff13ff1b}なんだか神サマ相手でも\n絶対に勝てる気がしてきたよ。\nがんばろうね、{10}。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff13ff1b}Somehow I feel like we can't lose, even\nagainst God. Let's give it all we've got,\n{10}.{0c:fe}",
+   "status": "done",
+   "tl": "Somehow I feel like we can't lose, even against God. Let's give it all we've got, [HERO]."
   },
   {
    "id": "RES#1874:ee7c",
@@ -2426,8 +2515,9 @@
    "jp": "{0c:f706e2}{0c:52ff23ff24}{1c:27}そ、そりゃそうだよね!\nあたしだって{10}なんかに\n惚れられたら困っちゃうもん。{1a}{0c:52ff2cff2d}よかった、勘違いで・・・{07:1e}\nじゃあ行こっか!{07:07}{0c:fe}",
    "read": "{0c:f706e2}{0c:52ff23ff24}{1c:27}そ、そりゃそうだよね!\nあたしだって{10}なんかに\n惚れられたら困っちゃうもん。{1a}{0c:52ff2cff2d}よかった、勘違いで・・・{07:1e}\nじゃあ行こっか!{07:07}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:f706e2}{0c:52ff23ff24}{1c:27}O-of course, right! I'd be in a real jam if\nyou fell for me, {10}, you know\nthat?{1a}{0c:52ff2cff2d}Good thing it was a mix-up...{07:1e} Okay, let's\ngo!{07:07}{0c:fe}",
+   "status": "done",
+   "tl": "O-of course, right! I'd be in a real jam if you fell for me, [HERO], you know that? // [1]Good thing it was a mix-up...[2] Okay, let's go!"
   },
   {
    "id": "RES#1874:eeef",
@@ -2459,8 +2549,9 @@
    "jp": "{0c:52ff35ff3d}{1c:25}{0b:08}{e080} ジェシカ {e081}{0b:09}\nねえ、{10}。{1a}{0c:0a05}{0c:fe}",
    "read": "{0c:52ff35ff3d}{1c:25}{0b:08}【 ジェシカ 】{0b:09}\nねえ、{10}。{1a}{0c:0a05}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff35ff3d}{1c:25}{0b:08}【 Jessica 】{0b:09}\nHey, {10}.{1a}{0c:0a05}{0c:fe}",
+   "status": "done",
+   "tl": "Hey, [HERO]."
   },
   {
    "id": "RES#1874:ef9c",
@@ -2470,8 +2561,9 @@
    "jp": "{0c:52ff45ff4d}{1c:26}ところでさ、\nどうしてあたし誘ったの?{0c:fe}",
    "read": "{0c:52ff45ff4d}{1c:26}ところでさ、\nどうしてあたし誘ったの?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff45ff4d}{1c:26}By the way, why'd you invite me, huh?{0c:fe}",
+   "status": "done",
+   "tl": "By the way, why'd you invite me, huh?"
   },
   {
    "id": "RES#1874:efbe",
@@ -2492,8 +2584,9 @@
    "jp": "{0c:52ff55ff5d}{1c:26}{10}ってさ、\nあたしほどじゃないにしても\nそこそこ{e0b8}愛い方じゃん、{1a}{0c:52ff65ff6d}{10}に一緒に行こって\n言われたら、\nここの男どもなら全{e0b9}{03}オッケー{02}だと\n思うんだけど・・・{1a}{0c:52ff75ff7d}別に{10}と行くの\n{03}イヤ{02}ってわけじゃないけど、\nどうしてかなって思ってさ。{1a}{0c:52ff85ff8d}ひ、ひょっとして・・・\nそういう趣味が\nあるんじゃないよね・・・{01}?{02}{07:2d}{0c:fb05}",
    "read": "{0c:52ff55ff5d}{1c:26}{10}ってさ、\nあたしほどじゃないにしても\nそこそこ可愛い方じゃん、{1a}{0c:52ff65ff6d}{10}に一緒に行こって\n言われたら、\nここの男どもなら全員{03}オッケー{02}だと\n思うんだけど・・・{1a}{0c:52ff75ff7d}別に{10}と行くの\n{03}イヤ{02}ってわけじゃないけど、\nどうしてかなって思ってさ。{1a}{0c:52ff85ff8d}ひ、ひょっとして・・・\nそういう趣味が\nあるんじゃないよね・・・{01}?{02}{07:2d}{0c:fb05}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff55ff5d}{1c:26}{10}, you're not as cute as me,\nbut you're pretty cute,{1a}{0c:52ff65ff6d}so if you asked them to go with you,\n{10}, I bet every guy here would\nsay okay...{1a}{0c:52ff75ff7d}Not that I mind going with you,\n{10}, but I just wondered why.{1a}{0c:52ff85ff8d}Y-you're not... into that sort of thing,\nare you...?{07:2d}{0c:fb05}",
+   "status": "done",
+   "tl": "[HERO], you're not as cute as me, but you're pretty cute, // [1]so if you asked them to go with you, [HERO], I bet every guy here would say okay... // [2]Not that I mind going with you, [HERO], but I just wondered why. // [3]Y-you're not... into that sort of thing, are you...?"
   },
   {
    "id": "RES#1874:f0a0",
@@ -2503,8 +2596,9 @@
    "jp": "ない!ない! ないってば!|実は、昔からあなたのことが・・・",
    "read": "ない!ない! ないってば!|実は、昔からあなたのことが・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "No! No! Absolutely not!|Actually, I've always loved you...",
+   "status": "done",
+   "tl": "No! No! Absolutely not!|Actually, I've always loved you..."
   },
   {
    "id": "RES#1874:f0c6",
@@ -2525,8 +2619,9 @@
    "jp": "{0c:f706e0}{0c:52ff95ff96}{1c:27}あーびっくりした。{1a}{0c:52ff9effa6}でもさ、ここの男どもも\n情けない{03}ヤツ{02}ばっかだよね。{1a}{0c:52ffaeffb6}こんな{e0b8}愛い女の子{01}2人{02}、\n誰も誘いにこないなんてさ。{1a}{0c:52ffbeffc6}まあ、女の子同士、\n気楽に神{03}サマ倒{02}しに行こっか。{0c:fe}",
    "read": "{0c:f706e0}{0c:52ff95ff96}{1c:27}あーびっくりした。{1a}{0c:52ff9effa6}でもさ、ここの男どもも\n情けない{03}ヤツ{02}ばっかだよね。{1a}{0c:52ffaeffb6}こんな可愛い女の子{01}2人{02}、\n誰も誘いにこないなんてさ。{1a}{0c:52ffbeffc6}まあ、女の子同士、\n気楽に神{03}サマ倒{02}しに行こっか。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:f706e0}{0c:52ff95ff96}{1c:27}Whew, you scared me.{1a}{0c:52ff9effa6}But geez, the guys around here sure are\na sorry lot.{1a}{0c:52ffaeffb6}Two cute girls like us, and not one of\nthem comes asking.{1a}{0c:52ffbeffc6}Well, just us girls, let's go take God\ndown, nice and easy.{0c:fe}",
+   "status": "done",
+   "tl": "Whew, you scared me. // [1]But geez, the guys around here sure are a sorry lot. // [2]Two cute girls like us, and not one of them comes asking. // [3]Well, just us girls, let's go take God down, nice and easy."
   },
   {
    "id": "RES#1874:f162",
@@ -2547,8 +2642,9 @@
    "jp": "{0c:52ffceffd5}{1c:27}・・・・・・・{1a}{0c:52ffddffe5}{10}、あの・・・\n冗談・・・だよね・・・{0c:fe}",
    "read": "{0c:52ffceffd5}{1c:27}・・・・・・・{1a}{0c:52ffddffe5}{10}、あの・・・\n冗談・・・だよね・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffceffd5}{1c:27}.......{1a}{0c:52ffddffe5}{10}, um... You're kidding... right...{0c:fe}",
+   "status": "done",
+   "tl": "....... // [1][HERO], um... You're kidding... right..."
   },
   {
    "id": "RES#1874:f1a5",
@@ -2569,8 +2665,9 @@
    "jp": "{0c:52ffedfff5}{1c:27}{10}、あの・・・{1a}{0c:52fffdffff06}あたしさ・・・\n{10}の事嫌いじゃないけど\nそういうの、どうも・・・{0c:fe}",
    "read": "{0c:52ffedfff5}{1c:27}{10}、あの・・・{1a}{0c:52fffdffff06}あたしさ・・・\n{10}の事嫌いじゃないけど\nそういうの、どうも・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffedfff5}{1c:27}{10}, um...{1a}{0c:52fffdffff06}Look... I don't dislike you, {10}, but\nthat kind of thing, I just don't...{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], um... // [1]Look... I don't dislike you, [HERO], but that kind of thing, I just don't..."
   },
   {
    "id": "RES#1874:f1f4",
@@ -2591,8 +2688,9 @@
    "jp": "{0c:52ffff1effff26}{1c:27}・・・と、と、とりあえず行こっか。{0c:fe}",
    "read": "{0c:52ffff1effff26}{1c:27}・・・と、と、とりあえず行こっか。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffff1effff26}{1c:27}...L-l-let's just get going, okay?{0c:fe}",
+   "status": "done",
+   "tl": "...L-l-let's just get going, okay?"
   },
   {
    "id": "RES#1874:f228",
@@ -2624,8 +2722,9 @@
    "jp": "{0c:521018}{1c:17}{0b:08}{e080} オルフェウス {e081}{0b:09}\n{10}さん。{1a}{0c:0a05}{0c:fe}",
    "read": "{0c:521018}{1c:17}{0b:08}【 オルフェウス 】{0b:09}\n{10}さん。{1a}{0c:0a05}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:17}{0b:08}【 Orpheus 】{0b:09}\n{10}-san.{1a}{0c:0a05}{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]-san."
   },
   {
    "id": "RES#1874:f2d4",
@@ -2635,8 +2734,9 @@
    "jp": "{0c:522028}{1c:17}ぼくが死んだら、\n墓にこう{e0bc}して下さい。{1a}イレニアの{e0bd}人の子ディオ=ニュソス\nオルフェウスとしてここに眠る、と。{0c:fe}",
    "read": "{0c:522028}{1c:17}ぼくが死んだら、\n墓にこう記して下さい。{1a}イレニアの商人の子ディオ=ニュソス\nオルフェウスとしてここに眠る、と。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:522028}{1c:17}If I die, please have this written on my\ngrave:{1a}Dio Nysos, son of an Irenian merchant,\nsleeps here as Orpheus.{0c:fe}",
+   "status": "done",
+   "tl": "If I die, please have this written on my grave: // Dio Nysos, son of an Irenian merchant, sleeps here as Orpheus."
   },
   {
    "id": "RES#1874:f325",
@@ -2657,8 +2757,9 @@
    "jp": "{0c:524048}{1c:17}君にはいろいろ迷惑をかけたから、\n君だけにはぼくの{e09e}実の声を、\nそしてぼくの本当の{e0be}前を\n知って欲しかった・・・{0c:fe}",
    "read": "{0c:524048}{1c:17}君にはいろいろ迷惑をかけたから、\n君だけにはぼくの真実の声を、\nそしてぼくの本当の名前を\n知って欲しかった・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524048}{1c:17}I have caused you much trouble, so you,\nand you alone, I wished to know my true\nvoice, and my real name...{0c:fe}",
+   "status": "done",
+   "tl": "I have caused you much trouble, so you, and you alone, I wished to know my true voice, and my real name..."
   },
   {
    "id": "RES#1874:f38f",
@@ -2679,8 +2780,9 @@
    "jp": "{0c:526068}{1c:18}なぁんて、そんな殊勝な考えは\nこれっぽっちも\n持ち合わせていません。{1a}{0c:527078}君のことは、\n初めて{e09b}った時から嫌いでした。\nそして今もその気持ちには\n変わりありません。{1a}{0c:528088}まあ、お互い様って\n思ってるでしょうけどね。{0c:fe}",
    "read": "{0c:526068}{1c:18}なぁんて、そんな殊勝な考えは\nこれっぽっちも\n持ち合わせていません。{1a}{0c:527078}君のことは、\n初めて会った時から嫌いでした。\nそして今もその気持ちには\n変わりありません。{1a}{0c:528088}まあ、お互い様って\n思ってるでしょうけどね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:526068}{1c:18}Or so I might say, but I possess not a\nshred of such admirable sentiment.{1a}{0c:527078}I have disliked you since the day we met.\nAnd that feeling has not changed, even\nnow.{1a}{0c:528088}Well, I imagine you feel the same.{0c:fe}",
+   "status": "done",
+   "tl": "Or so I might say, but I possess not a shred of such admirable sentiment. // [1]I have disliked you since the day we met. And that feeling has not changed, even now. // [2]Well, I imagine you feel the same."
   },
   {
    "id": "RES#1874:f429",
@@ -2690,8 +2792,9 @@
    "jp": "{0c:529098}{1c:18}ってなわけで、\n今の台詞は気にしないで下さい。\nなんとなく言いたくなっただけです。{1a}{0c:52a0a8}では行きましょうか、\n男2人の{e0c1}気のない旅に。{0c:fe}",
    "read": "{0c:529098}{1c:18}ってなわけで、\n今の台詞は気にしないで下さい。\nなんとなく言いたくなっただけです。{1a}{0c:52a0a8}では行きましょうか、\n男2人の色気のない旅に。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:529098}{1c:18}And so, please pay that speech no mind. I\nmerely felt like saying it.{1a}{0c:52a0a8}Shall we go, then, on this most\nunromantic journey of two men?{0c:fe}",
+   "status": "done",
+   "tl": "And so, please pay that speech no mind. I merely felt like saying it. // [1]Shall we go, then, on this most unromantic journey of two men?"
   },
   {
    "id": "RES#1874:f488",
@@ -2723,8 +2826,9 @@
    "jp": "{0c:52b0b8}{1c:17}{0b:08}{e080} オルフェウス {e081}{0b:09}\n{10}さん。{1a}{0c:0a05}{0c:fe}",
    "read": "{0c:52b0b8}{1c:17}{0b:08}【 オルフェウス 】{0b:09}\n{10}さん。{1a}{0c:0a05}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52b0b8}{1c:17}{0b:08}【 Orpheus 】{0b:09}\n{10}-san.{1a}{0c:0a05}{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]-san."
   },
   {
    "id": "RES#1874:f534",
@@ -2734,8 +2838,9 @@
    "jp": "{0c:52c0c8}{1c:17}ぼくが死んだら、\n墓にこう{e0bc}して下さい。\nイレニアの{e0bd}人の子ディオ=ニュソス\nオルフェウスとしてここに眠る、と。{0c:fe}",
    "read": "{0c:52c0c8}{1c:17}ぼくが死んだら、\n墓にこう記して下さい。\nイレニアの商人の子ディオ=ニュソス\nオルフェウスとしてここに眠る、と。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52c0c8}{1c:17}If I die, please have this written on my\ngrave: Dio Nysos, son of an Irenian\nmerchant, sleeps here as Orpheus.{0c:fe}",
+   "status": "done",
+   "tl": "If I die, please have this written on my grave: Dio Nysos, son of an Irenian merchant, sleeps here as Orpheus."
   },
   {
    "id": "RES#1874:f585",
@@ -2756,8 +2861,9 @@
    "jp": "{0c:52d0d8}{1c:18}誤解しないで下さいね。\nまだ当分死ぬつもりはありません。{1a}{0c:52e0e8}こういうことでセンチになるのは\nぼくのキャラクターではありませんし\nま、軽く受け流して下さい。{1a}{0c:52f0f8}そう・・・なんとなく\n言いたくなっただけですから。{0c:fe}",
    "read": "{0c:52d0d8}{1c:18}誤解しないで下さいね。\nまだ当分死ぬつもりはありません。{1a}{0c:52e0e8}こういうことでセンチになるのは\nぼくのキャラクターではありませんし\nま、軽く受け流して下さい。{1a}{0c:52f0f8}そう・・・なんとなく\n言いたくなっただけですから。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52d0d8}{1c:18}Please do not misunderstand. I have no\nintention of dying for some time yet.{1a}{0c:52e0e8}Turning sentimental over such things is\nhardly my character, so do let it wash\nover you.{1a}{0c:52f0f8}Yes... I merely felt like saying it.{0c:fe}",
+   "status": "done",
+   "tl": "Please do not misunderstand. I have no intention of dying for some time yet. // [1]Turning sentimental over such things is hardly my character, so do let it wash over you. // [2]Yes... I merely felt like saying it."
   },
   {
    "id": "RES#1874:f624",
@@ -2767,8 +2873,9 @@
    "jp": "{0c:52ff01ff09}{1c:18}では行きましょうか、お姫様。\n頼りにならない{e0c4}士の役なら\nお任せ下さい。{0c:fe}",
    "read": "{0c:52ff01ff09}{1c:18}では行きましょうか、お姫様。\n頼りにならない騎士の役なら\nお任せ下さい。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff01ff09}{1c:18}Shall we go, then, my princess? If it is\nthe role of an unreliable knight you need,\nleave it to me.{0c:fe}",
+   "status": "done",
+   "tl": "Shall we go, then, my princess? If it is the role of an unreliable knight you need, leave it to me."
   },
   {
    "id": "RES#1874:f65e",
@@ -2800,8 +2907,9 @@
    "jp": "{0c:52e0e8}{1c:1c}{0b:08}{e080} イヴ {e081}{0b:09}\nあたしって相変わらず\n男見る目ないわね・・・\nこんなのに惚れちゃうなんて。{1a}{0c:0a05}{0c:fe}",
    "read": "{0c:52e0e8}{1c:1c}{0b:08}【 イヴ 】{0b:09}\nあたしって相変わらず\n男見る目ないわね・・・\nこんなのに惚れちゃうなんて。{1a}{0c:0a05}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52e0e8}{1c:1c}{0b:08}【 Eve 】{0b:09}\nMy eye for men is as poor as ever, isn't\nit... To fall for something like this.{1a}{0c:0a05}{0c:fe}",
+   "status": "done",
+   "tl": "My eye for men is as poor as ever, isn't it... To fall for something like this."
   },
   {
    "id": "RES#1874:f72d",
@@ -2811,8 +2919,9 @@
    "jp": "{0c:52f0f8}{1c:1c}なんでもないわ、\nただの独り言。{0c:fe}",
    "read": "{0c:52f0f8}{1c:1c}なんでもないわ、\nただの独り言。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52f0f8}{1c:1c}It's nothing. Just talking to myself.{0c:fe}",
+   "status": "done",
+   "tl": "It's nothing. Just talking to myself."
   },
   {
    "id": "RES#1874:f74a",
@@ -2833,8 +2942,9 @@
    "jp": "{0c:52ff01ff09}{1c:1c}なんでもないって\n言ったんだけどね。{1a}{0c:52ff11ff19}まあいいわ・・・{1a}{0c:52ff21ff29}確か・・・神サマを倒せば\nこの下らないゲームは終わるのよね。{1a}{0c:52ff31ff39}ねえ、あたしと1つ賭けをしない?\nあたしが勝ったら\nあなたの自由を1つだけ頂戴。{1a}{0c:52ff41ff49}あなたが勝ったら・・・\nそうね、何でも好きなコト言って。\nあたしを好きにしていいわよ。{1a}{0c:52ff51ff59}賭けの{e0c7}容は簡単。\n神サマはオトコかオンナか。{07:2d}{0c:fb05}",
    "read": "{0c:52ff01ff09}{1c:1c}なんでもないって\n言ったんだけどね。{1a}{0c:52ff11ff19}まあいいわ・・・{1a}{0c:52ff21ff29}確か・・・神サマを倒せば\nこの下らないゲームは終わるのよね。{1a}{0c:52ff31ff39}ねえ、あたしと1つ賭けをしない?\nあたしが勝ったら\nあなたの自由を1つだけ頂戴。{1a}{0c:52ff41ff49}あなたが勝ったら・・・\nそうね、何でも好きなコト言って。\nあたしを好きにしていいわよ。{1a}{0c:52ff51ff59}賭けの内容は簡単。\n神サマはオトコかオンナか。{07:2d}{0c:fb05}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff01ff09}{1c:1c}I did say it was nothing.{1a}{0c:52ff11ff19}Well, whatever...{1a}{0c:52ff21ff29}If I recall... once God is beaten, this silly\ngame is over.{1a}{0c:52ff31ff39}Say, care to make a little bet with me?\nIf I win, you give me one of your\nfreedoms.{1a}{0c:52ff41ff49}If you win... let's see, name anything you\nlike. I'll pay up, whatever it is.{1a}{0c:52ff51ff59}The bet is simple. Is God a man or a\nwoman?{07:2d}{0c:fb05}",
+   "status": "done",
+   "tl": "I did say it was nothing. // [1]Well, whatever... // [2]If I recall... once God is beaten, this silly game is over. // [3]Say, care to make a little bet with me? If I win, you give me one of your freedoms. // [4]If you win... let's see, name anything you like. I'll pay up, whatever it is. // [5]The bet is simple. Is God a man or a woman?"
   },
   {
    "id": "RES#1874:f862",
@@ -2844,8 +2954,9 @@
    "jp": "男だろ|女じゃないのか?",
    "read": "男だろ|女じゃないのか?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "A man, obviously|A woman, isn't it?",
+   "status": "done",
+   "tl": "A man, obviously|A woman, isn't it?"
   },
   {
    "id": "RES#1874:f872",
@@ -2866,8 +2977,9 @@
    "jp": "{0c:52ff61ff69}{1c:19}じゃああたしは\nどっちでもないって方に賭けるわ。{1a}{0c:52ff71ff79}じゃ、そろそろ行きましょうか。\n最低でも、神サマの所までは\n{e0c8}れていってね。{1a}{0c:52ff81ff89}最後までいかせてくれない男は\nキライよ。{0c:fe}",
    "read": "{0c:52ff61ff69}{1c:19}じゃああたしは\nどっちでもないって方に賭けるわ。{1a}{0c:52ff71ff79}じゃ、そろそろ行きましょうか。\n最低でも、神サマの所までは\n連れていってね。{1a}{0c:52ff81ff89}最後までいかせてくれない男は\nキライよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff61ff69}{1c:19}Then I'll bet on neither.{1a}{0c:52ff71ff79}Well, shall we be off? At the very least,\ntake me as far as God, won't you.{1a}{0c:52ff81ff89}I can't stand a man who doesn't see a\nthing through to the end.{0c:fe}",
+   "status": "done",
+   "tl": "Then I'll bet on neither. // [1]Well, shall we be off? At the very least, take me as far as God, won't you. // [2]I can't stand a man who doesn't see a thing through to the end."
   },
   {
    "id": "RES#1874:f8f6",
@@ -2899,8 +3011,9 @@
    "jp": "{0c:521018}{1c:1b}{0b:08}{e080} イヴ {e081}{0b:09}\nねえ、{10}。{1a}{0c:0a05}{0c:fe}",
    "read": "{0c:521018}{1c:1b}{0b:08}【 イヴ 】{0b:09}\nねえ、{10}。{1a}{0c:0a05}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:1b}{0b:08}【 Eve 】{0b:09}\nHey, {10}.{1a}{0c:0a05}{0c:fe}",
+   "status": "done",
+   "tl": "Hey, [HERO]."
   },
   {
    "id": "RES#1874:f99f",
@@ -2910,8 +3023,9 @@
    "jp": "{0c:522028}{1c:1b}1つ言ってもいい?{0c:fe}",
    "read": "{0c:522028}{1c:1b}1つ言ってもいい?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:522028}{1c:1b}Can I say one thing?{0c:fe}",
+   "status": "done",
+   "tl": "Can I say one thing?"
   },
   {
    "id": "RES#1874:f9b7",
@@ -2932,8 +3046,9 @@
    "jp": "{0c:523038}{1c:1b}あなた、変わってるわね。{0c:fe}",
    "read": "{0c:523038}{1c:1b}あなた、変わってるわね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523038}{1c:1b}You're a strange one, aren't you.{0c:fe}",
+   "status": "done",
+   "tl": "You're a strange one, aren't you."
   },
   {
    "id": "RES#1874:f9e4",
@@ -2954,8 +3069,9 @@
    "jp": "{0c:524048}{1c:1b}でも嫌いじゃないわ。{0c:fe}",
    "read": "{0c:524048}{1c:1b}でも嫌いじゃないわ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524048}{1c:1b}But I don't dislike it.{0c:fe}",
+   "status": "done",
+   "tl": "But I don't dislike it."
   },
   {
    "id": "RES#1874:fa0e",
@@ -2976,8 +3092,9 @@
    "jp": "{0c:525058}{1c:1b}ねえ、どうしてあたしを誘ったの?\n男なんていくらでもいるのに。{1a}{0c:526068}あたし? あたしは遠慮するわ。\nここの男達には興味ないから。{1a}{0c:527078}疲れそうなのが多いじゃない。\n{e0c1}んな意味でね。{0c:fe}",
    "read": "{0c:525058}{1c:1b}ねえ、どうしてあたしを誘ったの?\n男なんていくらでもいるのに。{1a}{0c:526068}あたし? あたしは遠慮するわ。\nここの男達には興味ないから。{1a}{0c:527078}疲れそうなのが多いじゃない。\n色んな意味でね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:525058}{1c:1b}Say, why did you ask me? There are men\nto spare.{1a}{0c:526068}Me? I'll pass. The men here don't\ninterest me.{1a}{0c:527078}Most of them look exhausting. In all\nsorts of ways.{0c:fe}",
+   "status": "done",
+   "tl": "Say, why did you ask me? There are men to spare. // [1]Me? I'll pass. The men here don't interest me. // [2]Most of them look exhausting. In all sorts of ways."
   },
   {
    "id": "RES#1874:faa5",
@@ -2987,8 +3104,9 @@
    "jp": "{0c:528088}{1c:19}ところで・・・{07:1e}\n確か、神サマを倒せば\nこの下らないゲームは終わるのよね。{07:0a}{1a}{0c:529098}ねえ、あたしと1つ賭けをしない?\nあたしが勝ったら\nあなたの大事なもの1つだけ頂戴。{1a}{0c:52a0a8}あなたが勝ったら・・・\nそうね、何でも好きなコト言って。{1a}{0c:52b0b8}賭けの{e0c7}容は簡単。\n神サマはオトコかオンナか。{07:2d}{0c:fb05}",
    "read": "{0c:528088}{1c:19}ところで・・・{07:1e}\n確か、神サマを倒せば\nこの下らないゲームは終わるのよね。{07:0a}{1a}{0c:529098}ねえ、あたしと1つ賭けをしない?\nあたしが勝ったら\nあなたの大事なもの1つだけ頂戴。{1a}{0c:52a0a8}あなたが勝ったら・・・\nそうね、何でも好きなコト言って。{1a}{0c:52b0b8}賭けの内容は簡単。\n神サマはオトコかオンナか。{07:2d}{0c:fb05}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:528088}{1c:19}By the way...{07:1e} If I recall, once God is\nbeaten, this silly game is over.{07:0a}{1a}{0c:529098}Say, care to make a little bet with me?\nIf I win, you give me one thing you hold\ndear.{1a}{0c:52a0a8}If you win... let's see, name anything you\nlike.{1a}{0c:52b0b8}The bet is simple. Is God a man or a\nwoman?{07:2d}{0c:fb05}",
+   "status": "done",
+   "tl": "By the way...[1] If I recall, once God is beaten, this silly game is over.[2] // [3]Say, care to make a little bet with me? If I win, you give me one thing you hold dear. // [4]If you win... let's see, name anything you like. // [5]The bet is simple. Is God a man or a woman?"
   },
   {
    "id": "RES#1874:fb71",
@@ -2998,8 +3116,9 @@
    "jp": "男だと思うよ|女じゃないの?",
    "read": "男だと思うよ|女じゃないの?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "A man, I think|A woman, no?",
+   "status": "done",
+   "tl": "A man, I think|A woman, no?"
   },
   {
    "id": "RES#1874:fb84",
@@ -3020,8 +3139,9 @@
    "jp": "{0c:52c0c8}{1c:1a}じゃああたしは\nどっちでもないって方に賭けるわ。{1a}{0c:52d0d8}じゃ、そろそろ行きましょうか。\nせっかく招待された\nパーティーなんだから\nせいぜい楽しみましょ。{0c:fe}",
    "read": "{0c:52c0c8}{1c:1a}じゃああたしは\nどっちでもないって方に賭けるわ。{1a}{0c:52d0d8}じゃ、そろそろ行きましょうか。\nせっかく招待された\nパーティーなんだから\nせいぜい楽しみましょ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52c0c8}{1c:1a}Then I'll bet on neither.{1a}{0c:52d0d8}Well, shall we be off? We were invited to\nthis party, after all, so let's enjoy it\nwhile we can.{0c:fe}",
+   "status": "done",
+   "tl": "Then I'll bet on neither. // [1]Well, shall we be off? We were invited to this party, after all, so let's enjoy it while we can."
   },
   {
    "id": "RES#1874:fbeb",
@@ -3075,8 +3195,9 @@
    "jp": "ある{e0c9}物に{e0c9}かれている{e0b6}りならば\n奴等は我{e0ca}のどちらかを利用して\n『何か』を{e0cb}すはずだ。{1a}注意していても無駄かもしれん。\nだが、覚悟はしておけ。{0c:fe}",
    "read": "ある書物に書かれている通りならば\n奴等は我々のどちらかを利用して\n『何か』を成すはずだ。{1a}注意していても無駄かもしれん。\nだが、覚悟はしておけ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "If it goes as a certain book says, they\nwill use one of us to accomplish\n'something'.{1a}Caution may be futile. But be prepared.{0c:fe}",
+   "status": "done",
+   "tl": "If it goes as a certain book says, they will use one of us to accomplish 'something'. // Caution may be futile. But be prepared."
   },
   {
    "id": "RES#1874:fcff",
@@ -3097,8 +3218,9 @@
    "jp": "{0c:521018}{1c:1d}貴様を信頼している。{0c:fe}",
    "read": "{0c:521018}{1c:1d}貴様を信頼している。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:1d}I trust you.{0c:fe}",
+   "status": "done",
+   "tl": "I trust you."
   },
   {
    "id": "RES#1874:fd2c",
@@ -3130,8 +3252,9 @@
    "jp": "{e08c}び止める|{e08c}び止めない",
    "read": "呼び止める|呼び止めない",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Stop him|Don't stop him",
+   "status": "done",
+   "tl": "Stop him|Don't stop him"
   },
   {
    "id": "RES#1874:fdc2",
@@ -3175,8 +3298,9 @@
    "jp": "がんばろうね!|あたし、あなたのことが好き・・・|何も言わない",
    "read": "がんばろうね!|あたし、あなたのことが好き・・・|何も言わない",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Let's do our best!|I love you...|Say nothing",
+   "status": "done",
+   "tl": "Let's do our best!|I love you...|Say nothing"
   },
   {
    "id": "RES#1874:fe1e",
@@ -3197,8 +3321,9 @@
    "jp": "{1c:1d}期待している。{0c:fe}",
    "read": "{1c:1d}期待している。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}I expect much of you.{0c:fe}",
+   "status": "done",
+   "tl": "I expect much of you."
   },
   {
    "id": "RES#1874:fe34",
@@ -3219,8 +3344,9 @@
    "jp": "{1c:1d}・・・・・・\n誉められた趣味ではないな。{0c:02ff01}",
    "read": "{1c:1d}・・・・・・\n誉められた趣味ではないな。{0c:02ff01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}...... A poor taste, that.{0c:02ff01}",
+   "status": "done",
+   "tl": "...... A poor taste, that."
   },
   {
    "id": "RES#1874:fe80",
@@ -3230,8 +3356,9 @@
    "jp": "用はないのか?{0c:fe}",
    "read": "用はないのか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Have you no business with me?{0c:fe}",
+   "status": "done",
+   "tl": "Have you no business with me?"
   },
   {
    "id": "RES#1874:fe8d",
@@ -3252,8 +3379,9 @@
    "jp": "ある{e0c9}物に{e0c9}かれている{e0b6}りならば\n奴等は我{e0ca}のどちらかを利用して\n『何か』を{e0cb}すはずだ。{1a}注意していても無駄かもしれん。\nだが、覚悟はしておけ。{0c:02fc01}",
    "read": "ある書物に書かれている通りならば\n奴等は我々のどちらかを利用して\n『何か』を成すはずだ。{1a}注意していても無駄かもしれん。\nだが、覚悟はしておけ。{0c:02fc01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "If it goes as a certain book says, they\nwill use one of us to accomplish\n'something'.{1a}Caution may be futile. But be prepared.{0c:02fc01}",
+   "status": "done",
+   "tl": "If it goes as a certain book says, they will use one of us to accomplish 'something'. // Caution may be futile. But be prepared."
   },
   {
    "id": "RES#1874:ff03",
@@ -3274,8 +3402,9 @@
    "jp": "{0b:08}{e080} ディアス {e081}{0b:09}\n行かぬのか?{0c:02fa01}",
    "read": "{0b:08}【 ディアス 】{0b:09}\n行かぬのか?{0c:02fa01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Dias 】{0b:09}\nAre you not coming?{0c:02fa01}",
+   "status": "done",
+   "tl": "Are you not coming?"
   },
   {
    "id": "RES#1874:ff3d",
@@ -3331,8 +3460,9 @@
    "jp": "{0c:523038}{1c:21}どうして・・・\nどうしてあたしのこと\n誘ってくれたの{01}?{02}{07:2d}{0c:fb05}",
    "read": "{0c:523038}{1c:21}どうして・・・\nどうしてあたしのこと\n誘ってくれたの{01}?{02}{07:2d}{0c:fb05}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523038}{1c:21}Why... why did you invite me?{07:2d}{0c:fb05}",
+   "status": "done",
+   "tl": "Why... why did you invite me?"
   },
   {
    "id": "RES#1874:10026",
@@ -3342,8 +3472,9 @@
    "jp": "君が好きだから・・・|君なら安心して背中を任せられる",
    "read": "君が好きだから・・・|君なら安心して背中を任せられる",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Because I love you...|I can trust you at my back",
+   "status": "done",
+   "tl": "Because I love you...|I can trust you at my back"
   },
   {
    "id": "RES#1874:10049",
@@ -3376,8 +3507,9 @@
    "jp": "{0c:525058}{1c:21}でも、そんなこと言われても\n信じられない・・・{1a}{0c:526068}あたし、性格も悪いし、\nみんなみたいに{e0b8}愛くないし・・・{0c:fe}",
    "read": "{0c:525058}{1c:21}でも、そんなこと言われても\n信じられない・・・{1a}{0c:526068}あたし、性格も悪いし、\nみんなみたいに可愛くないし・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:525058}{1c:21}But even if you say that, I can't believe\nit...{1a}{0c:526068}I've got a nasty personality, and I'm not\ncute like everyone else...{0c:fe}",
+   "status": "done",
+   "tl": "But even if you say that, I can't believe it... // [1]I've got a nasty personality, and I'm not cute like everyone else..."
   },
   {
    "id": "RES#1874:100b4",
@@ -3398,8 +3530,9 @@
    "jp": "{0c:527078}{1c:21}ううん・・・\n自分のことは分かってるつもり。{1a}{0c:528088}17{e0cc}間も生きてきて、\n友達と{e08c}べる相手が\n1人もいないなんて・・・{1a}{0c:529098}この町に来て痛感したわ。\n自分がいかに子供か、\nいかに何も知らなかったかって。{1a}{0c:52a0a8}あたしが今まで馬鹿にしてきた\n{e0cd}{e0b6}の女の子の方が、\nあたしよりもよっぽど\n{e0c1}{e0ca}なことを知ってる・・・{1a}{0c:52b0b8}知識や理屈なんてこんな時に\nなんの役にも立たないのに、\nそれしか自分に誇れるものがない、\n薄っぺらな存{e0d0}・・・{0c:fe}",
    "read": "{0c:527078}{1c:21}ううん・・・\n自分のことは分かってるつもり。{1a}{0c:528088}17年間も生きてきて、\n友達と呼べる相手が\n1人もいないなんて・・・{1a}{0c:529098}この町に来て痛感したわ。\n自分がいかに子供か、\nいかに何も知らなかったかって。{1a}{0c:52a0a8}あたしが今まで馬鹿にしてきた\n普通の女の子の方が、\nあたしよりもよっぽど\n色々なことを知ってる・・・{1a}{0c:52b0b8}知識や理屈なんてこんな時に\nなんの役にも立たないのに、\nそれしか自分に誇れるものがない、\n薄っぺらな存在・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:527078}{1c:21}No... I know myself well enough.{1a}{0c:528088}Seventeen years alive, and not one\nperson I can call a friend...{1a}{0c:529098}Coming to this town made it painfully\nclear. How childish I am, how little I knew.{1a}{0c:52a0a8}The ordinary girls I've looked down on\nuntil now know far more about all sorts\nof things than I do...{1a}{0c:52b0b8}Knowledge and reasoning are no use at\nall at a time like this, and yet they're all I\nhave to be proud of. I'm such a shallow\ncreature...{0c:fe}",
+   "status": "done",
+   "tl": "No... I know myself well enough. // [1]Seventeen years alive, and not one person I can call a friend... // [2]Coming to this town made it painfully clear. How childish I am, how little I knew. // [3]The ordinary girls I've looked down on until now know far more about all sorts of things than I do... // [4]Knowledge and reasoning are no use at all at a time like this, and yet they're all I have to be proud of. I'm such a shallow creature..."
   },
   {
    "id": "RES#1874:101e1",
@@ -3420,8 +3553,9 @@
    "jp": "{0c:52d0d8}{1c:21}あたしは自分が嫌い・・・\nあたしは劣等感のかたまりよ・・・{1a}{0c:52e0e8}こんなあたしのどこがいいの?\nとてもじゃないけど\nあなたの言{e091}なんて\n信じられない・・・{07:2d}{0c:fb05}",
    "read": "{0c:52d0d8}{1c:21}あたしは自分が嫌い・・・\nあたしは劣等感のかたまりよ・・・{1a}{0c:52e0e8}こんなあたしのどこがいいの?\nとてもじゃないけど\nあなたの言葉なんて\n信じられない・・・{07:2d}{0c:fb05}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52d0d8}{1c:21}I hate myself... I'm a mass of inferiority...{1a}{0c:52e0e8}What's there to like about someone like\nme? I can't possibly believe what you\nsay...{07:2d}{0c:fb05}",
+   "status": "done",
+   "tl": "I hate myself... I'm a mass of inferiority... // [1]What's there to like about someone like me? I can't possibly believe what you say..."
   },
   {
    "id": "RES#1874:10256",
@@ -3431,8 +3565,9 @@
    "jp": "君の全てが好きなんだ!|知的な君に惹かれたんだ|不器用な所が・・・",
    "read": "君の全てが好きなんだ!|知的な君に惹かれたんだ|不器用な所が・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I love all of you!|Your intellect drew me in|Your awkward side...",
+   "status": "done",
+   "tl": "I love all of you!|Your intellect drew me in|Your awkward side..."
   },
   {
    "id": "RES#1874:10284",
@@ -3453,8 +3588,9 @@
    "jp": "{0c:52f0f8}{1c:21}適当なこと言わないで!\nあたしは、自分の欠{e0d3}を\n百以上{e0d5}{e0bc}出来るわ。{1a}{0c:52ff01ff09}全てだなんて・・・\n馬鹿にしないで!{0c:fe}",
    "read": "{0c:52f0f8}{1c:21}適当なこと言わないで!\nあたしは、自分の欠点を\n百以上列記出来るわ。{1a}{0c:52ff01ff09}全てだなんて・・・\n馬鹿にしないで!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52f0f8}{1c:21}Don't just say whatever comes to mind!\nI can list over a hundred faults of mine.{1a}{0c:52ff01ff09}'All of me'... Don't make a fool of me!{0c:fe}",
+   "status": "done",
+   "tl": "Don't just say whatever comes to mind! I can list over a hundred faults of mine. // [1]'All of me'... Don't make a fool of me!"
   },
   {
    "id": "RES#1874:102e6",
@@ -3475,8 +3611,9 @@
    "jp": "{0c:52ff11ff19}{1c:21}欠{e0d3}だらけの自分を\n好きになれとでも言うの!?{0c:fe}",
    "read": "{0c:52ff11ff19}{1c:21}欠点だらけの自分を\n好きになれとでも言うの!?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff11ff19}{1c:21}Are you telling me to love myself, faults\nand all!?{0c:fe}",
+   "status": "done",
+   "tl": "Are you telling me to love myself, faults and all!?"
   },
   {
    "id": "RES#1874:10321",
@@ -3497,8 +3634,9 @@
    "jp": "{0c:52ff21ff29}{1c:21}どうして・・・\nどうしてあなたは\nそんなに優しいの・・・?{0c:fe}",
    "read": "{0c:52ff21ff29}{1c:21}どうして・・・\nどうしてあなたは\nそんなに優しいの・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff21ff29}{1c:21}Why... why are you so kind...?{0c:fe}",
+   "status": "done",
+   "tl": "Why... why are you so kind...?"
   },
   {
    "id": "RES#1874:1035d",
@@ -3519,8 +3657,9 @@
    "jp": "{1c:21}それに比べてあたしは・・・{0c:fe}",
    "read": "{1c:21}それに比べてあたしは・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:21}Compared to that, I...{0c:fe}",
+   "status": "done",
+   "tl": "Compared to that, I..."
   },
   {
    "id": "RES#1874:10384",
@@ -3541,8 +3680,9 @@
    "jp": "{1c:21}・・・信じていいの?{0c:fe}",
    "read": "{1c:21}・・・信じていいの?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:21}...May I believe you?{0c:fe}",
+   "status": "done",
+   "tl": "...May I believe you?"
   },
   {
    "id": "RES#1874:103b8",
@@ -3574,8 +3714,9 @@
    "jp": "{1c:21}あたしは{e0d6}くなんてない・・・{0c:fe}",
    "read": "{1c:21}あたしは賢くなんてない・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:21}I'm not clever at all...{0c:fe}",
+   "status": "done",
+   "tl": "I'm not clever at all..."
   },
   {
    "id": "RES#1874:103f5",
@@ -3596,8 +3737,9 @@
    "jp": "{0c:52ff71ff79}{1c:21}好きな人に告白されたのに\n素直に喜ぶことも出来ないのよ!{0c:fe}",
    "read": "{0c:52ff71ff79}{1c:21}好きな人に告白されたのに\n素直に喜ぶことも出来ないのよ!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff71ff79}{1c:21}Someone I love confesses to me, and I\ncan't even be properly happy about it!{0c:fe}",
+   "status": "done",
+   "tl": "Someone I love confesses to me, and I can't even be properly happy about it!"
   },
   {
    "id": "RES#1874:10438",
@@ -3618,8 +3760,9 @@
    "jp": "{0c:52ff91ff99}{1c:21}知的さなんて欠{e0d8}もない・・・\nこれじゃまるで道{e0d9}じゃない・・・{1a}{0c:52ffa1ffa9}本当は嬉しいのに・・・{0c:fe}",
    "read": "{0c:52ff91ff99}{1c:21}知的さなんて欠片もない・・・\nこれじゃまるで道化じゃない・・・{1a}{0c:52ffa1ffa9}本当は嬉しいのに・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff91ff99}{1c:21}There's not a shred of intellect in me...\nThis makes me nothing but a clown...{1a}{0c:52ffa1ffa9}When I'm really happy...{0c:fe}",
+   "status": "done",
+   "tl": "There's not a shred of intellect in me... This makes me nothing but a clown... // [1]When I'm really happy..."
   },
   {
    "id": "RES#1874:10493",
@@ -3640,8 +3783,9 @@
    "jp": "{1c:21}・・・信じていいの?{0c:fe}",
    "read": "{1c:21}・・・信じていいの?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:21}...May I believe you?{0c:fe}",
+   "status": "done",
+   "tl": "...May I believe you?"
   },
   {
    "id": "RES#1874:104c7",
@@ -3662,8 +3806,9 @@
    "jp": "{0c:52ffc1ffc9}{1c:21}馬鹿にしてるの・・・?{0c:fe}",
    "read": "{0c:52ffc1ffc9}{1c:21}馬鹿にしてるの・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffc1ffc9}{1c:21}Are you making fun of me...?{0c:fe}",
+   "status": "done",
+   "tl": "Are you making fun of me...?"
   },
   {
    "id": "RES#1874:104f4",
@@ -3684,8 +3829,9 @@
    "jp": "{0c:52ffd1ffd9}{1c:21}どうせあたしは不器用よ!{1a}{0c:52ffe1ffe9}好きな人に告白されたのに\n素直に喜ぶことも出来ないのよ!{0c:fe}",
    "read": "{0c:52ffd1ffd9}{1c:21}どうせあたしは不器用よ!{1a}{0c:52ffe1ffe9}好きな人に告白されたのに\n素直に喜ぶことも出来ないのよ!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffd1ffd9}{1c:21}Fine, I'm awkward!{1a}{0c:52ffe1ffe9}Someone I love confesses to me, and I\ncan't even be properly happy about it!{0c:fe}",
+   "status": "done",
+   "tl": "Fine, I'm awkward! // [1]Someone I love confesses to me, and I can't even be properly happy about it!"
   },
   {
    "id": "RES#1874:10550",
@@ -3706,8 +3852,9 @@
    "jp": "{0c:52ffff02ffff0a}{1c:21}これじゃまるで道{e0d9}じゃない・・・\n本当は嬉しいのに・・・{0c:fe}",
    "read": "{0c:52ffff02ffff0a}{1c:21}これじゃまるで道化じゃない・・・\n本当は嬉しいのに・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffff02ffff0a}{1c:21}This makes me nothing but a clown...\nWhen I'm really happy...{0c:fe}",
+   "status": "done",
+   "tl": "This makes me nothing but a clown... When I'm really happy..."
   },
   {
    "id": "RES#1874:10593",
@@ -3728,8 +3875,9 @@
    "jp": "{1c:21}・・・信じていいの?{0c:fe}",
    "read": "{1c:21}・・・信じていいの?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:21}...May I believe you?{0c:fe}",
+   "status": "done",
+   "tl": "...May I believe you?"
   },
   {
    "id": "RES#1874:105c9",
@@ -3750,8 +3898,9 @@
    "jp": "{0c:f706e1}{0c:52ffff22ffff2a}{1c:21}そう・・・{1a}{0c:52ffff32ffff3a}わかった、頑張ってみる・・・{0c:fe}",
    "read": "{0c:f706e1}{0c:52ffff22ffff2a}{1c:21}そう・・・{1a}{0c:52ffff32ffff3a}わかった、頑張ってみる・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:f706e1}{0c:52ffff22ffff2a}{1c:21}I see...{1a}{0c:52ffff32ffff3a}All right, I'll try...{0c:fe}",
+   "status": "done",
+   "tl": "I see... // [1]All right, I'll try..."
   },
   {
    "id": "RES#1874:1060e",
@@ -3818,8 +3967,9 @@
    "jp": "{0c:52ffff62ffff6a}{1c:20}こんな、わがままで、\n性格の悪いあたしに\n最後まで付き合ってくれて。{0c:fe}",
    "read": "{0c:52ffff62ffff6a}{1c:20}こんな、わがままで、\n性格の悪いあたしに\n最後まで付き合ってくれて。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffff62ffff6a}{1c:20}A selfish girl with a nasty personality like\nme, and you stayed with me till the end.{0c:fe}",
+   "status": "done",
+   "tl": "A selfish girl with a nasty personality like me, and you stayed with me till the end."
   },
   {
    "id": "RES#1874:1071e",
@@ -3840,8 +3990,9 @@
    "jp": "{0c:52ffff72ffff7a}{1c:21}ううん・・・\n自分のことは分かってるつもり。{1a}{0c:52ffff82ffff8a}17{e0cc}間も生きてきて、\n友達と{e08c}べる相手が\n1人もいないなんて・・・{1a}{0c:52ffff92ffff9a}この町に来て痛感したわ。\n自分がいかに子供か、\nいかに何も知らなかったかって。{1a}{0c:52ffffa2ffffaa}あたしが今まで馬鹿にしてきた\n{e0cd}{e0b6}の女の子の方が、\nあたしよりもよっぽど\n{e0c1}{e0ca}なことを知ってる・・・{1a}{0c:52ffffb2ffffba}知識や理屈なんてこんな時に\nなんの役にも立たないのに、\nそれしか自分に誇れるものがない、\n薄っぺらな存{e0d0}・・・{0c:fe}",
    "read": "{0c:52ffff72ffff7a}{1c:21}ううん・・・\n自分のことは分かってるつもり。{1a}{0c:52ffff82ffff8a}17年間も生きてきて、\n友達と呼べる相手が\n1人もいないなんて・・・{1a}{0c:52ffff92ffff9a}この町に来て痛感したわ。\n自分がいかに子供か、\nいかに何も知らなかったかって。{1a}{0c:52ffffa2ffffaa}あたしが今まで馬鹿にしてきた\n普通の女の子の方が、\nあたしよりもよっぽど\n色々なことを知ってる・・・{1a}{0c:52ffffb2ffffba}知識や理屈なんてこんな時に\nなんの役にも立たないのに、\nそれしか自分に誇れるものがない、\n薄っぺらな存在・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffff72ffff7a}{1c:21}No... I know myself well enough.{1a}{0c:52ffff82ffff8a}Seventeen years alive, and not one\nperson I can call a friend...{1a}{0c:52ffff92ffff9a}Coming to this town made it painfully\nclear. How childish I am, how little I knew.{1a}{0c:52ffffa2ffffaa}The ordinary girls I've looked down on\nuntil now know far more about all sorts\nof things than I do...{1a}{0c:52ffffb2ffffba}Knowledge and reasoning are no use at\nall at a time like this, and yet they're all I\nhave to be proud of. I'm such a shallow\ncreature...{0c:fe}",
+   "status": "done",
+   "tl": "No... I know myself well enough. // [1]Seventeen years alive, and not one person I can call a friend... // [2]Coming to this town made it painfully clear. How childish I am, how little I knew. // [3]The ordinary girls I've looked down on until now know far more about all sorts of things than I do... // [4]Knowledge and reasoning are no use at all at a time like this, and yet they're all I have to be proud of. I'm such a shallow creature..."
   },
   {
    "id": "RES#1874:1085f",
@@ -3862,8 +4013,9 @@
    "jp": "{0c:52ffffd2ffffda}{1c:21}{10}・・・\n今まで、馬鹿にしたような事\nいろいろ言って御免ね・・・{07:2d}{0c:fb05}",
    "read": "{0c:52ffffd2ffffda}{1c:21}{10}・・・\n今まで、馬鹿にしたような事\nいろいろ言って御免ね・・・{07:2d}{0c:fb05}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffffd2ffffda}{1c:21}{10}... I'm sorry for all the belittling\nthings I said until now...{07:2d}{0c:fb05}",
+   "status": "done",
+   "tl": "[HERO]... I'm sorry for all the belittling things I said until now..."
   },
   {
    "id": "RES#1874:108a9",
@@ -3873,8 +4025,9 @@
    "jp": "いいよそんなの、友達じゃない!|許せるわけないでしょ!",
    "read": "いいよそんなの、友達じゃない!|許せるわけないでしょ!",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Never mind, we're friends!|As if I could forgive you!",
+   "status": "done",
+   "tl": "Never mind, we're friends!|As if I could forgive you!"
   },
   {
    "id": "RES#1874:108ca",
@@ -3895,8 +4048,9 @@
    "jp": "{0c:52ffffe2ffffea}{1c:21}友達・・・?{1a}{0c:52fffff2fffffa}こんなあたしを\n友達って{e08c}んでくれるの?{0c:fe}",
    "read": "{0c:52ffffe2ffffea}{1c:21}友達・・・?{1a}{0c:52fffff2fffffa}こんなあたしを\n友達って呼んでくれるの?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffffe2ffffea}{1c:21}Friends...?{1a}{0c:52fffff2fffffa}You'd call someone like me a friend?{0c:fe}",
+   "status": "done",
+   "tl": "Friends...? // [1]You'd call someone like me a friend?"
   },
   {
    "id": "RES#1874:1090b",
@@ -3917,8 +4071,9 @@
    "jp": "{0c:52ffffff03ffffff0b}{1c:20}ありがとう、{10}・・・{1a}{0c:52ffffff13ffffff1b}この町に来たこと\n後悔したこともあったけど、\n今では本当によかったと思う・・・{1a}{0c:52ffffff23ffffff2b}それもすべて、みんなと、\n{10}と出逢ったおかげ・・・{0c:fe}",
    "read": "{0c:52ffffff03ffffff0b}{1c:20}ありがとう、{10}・・・{1a}{0c:52ffffff13ffffff1b}この町に来たこと\n後悔したこともあったけど、\n今では本当によかったと思う・・・{1a}{0c:52ffffff23ffffff2b}それもすべて、みんなと、\n{10}と出逢ったおかげ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffffff03ffffff0b}{1c:20}Thank you, {10}...{1a}{0c:52ffffff13ffffff1b}There were times I regretted coming to\nthis town, but now I'm truly glad I did...{1a}{0c:52ffffff23ffffff2b}And I owe it all to everyone, and to\nmeeting you, {10}...{0c:fe}",
+   "status": "done",
+   "tl": "Thank you, [HERO]... // [1]There were times I regretted coming to this town, but now I'm truly glad I did... // [2]And I owe it all to everyone, and to meeting you, [HERO]..."
   },
   {
    "id": "RES#1874:1099c",
@@ -3939,8 +4094,9 @@
    "jp": "{0c:52ffffff33ffffff3b}{1c:20}友達っていいね。{1a}{0c:52ffffff43ffffff4b}ありがとう、{10}。{0c:fe}",
    "read": "{0c:52ffffff33ffffff3b}{1c:20}友達っていいね。{1a}{0c:52ffffff43ffffff4b}ありがとう、{10}。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffffff33ffffff3b}{1c:20}Friends are nice, aren't they.{1a}{0c:52ffffff43ffffff4b}Thank you, {10}.{0c:fe}",
+   "status": "done",
+   "tl": "Friends are nice, aren't they. // [1]Thank you, [HERO]."
   },
   {
    "id": "RES#1874:109df",
@@ -3972,8 +4128,9 @@
    "jp": "{0c:52ffffff63ffffff6b}{1c:21}そうだよね・・・\n虫が良すぎるよね・・・{1a}{0c:52ffffff73ffffff7b}本当に御免なさい・・・{0c:fe}",
    "read": "{0c:52ffffff63ffffff6b}{1c:21}そうだよね・・・\n虫が良すぎるよね・・・{1a}{0c:52ffffff73ffffff7b}本当に御免なさい・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffffff63ffffff6b}{1c:21}You're right... That's asking too much,\nisn't it...{1a}{0c:52ffffff73ffffff7b}I'm truly sorry...{0c:fe}",
+   "status": "done",
+   "tl": "You're right... That's asking too much, isn't it... // [1]I'm truly sorry..."
   },
   {
    "id": "RES#1874:10a4a",
@@ -4084,8 +4241,9 @@
    "jp": "{0c:521018}{1c:22}今までいろいろ\nありがとうございました。{1a}{0c:521018}引っ{e0da}み思案なわたしを\n仲間に誘ってくださって、\n危険な時には何度も\n助けてくださって・・・{1a}{0c:521018}そして、事もあろうに\n皆さんを傷つけようとしたわたしを\n{10}さんは\n救って下さいました・・・{0c:fe}",
    "read": "{0c:521018}{1c:22}今までいろいろ\nありがとうございました。{1a}{0c:521018}引っ込み思案なわたしを\n仲間に誘ってくださって、\n危険な時には何度も\n助けてくださって・・・{1a}{0c:521018}そして、事もあろうに\n皆さんを傷つけようとしたわたしを\n{10}さんは\n救って下さいました・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:22}Thank you for everything up to now.{1a}{0c:521018}You invited someone as withdrawn as me\nto join you, and you saved me so many\ntimes in danger...{1a}{0c:521018}And on top of that, {10}-san, you\nsaved me, even though I tried to harm\neveryone...{0c:fe}",
+   "status": "done",
+   "tl": "Thank you for everything up to now. // [1]You invited someone as withdrawn as me to join you, and you saved me so many times in danger... // [2]And on top of that, [HERO]-san, you saved me, even though I tried to harm everyone..."
   },
   {
    "id": "RES#1874:10bb1",
@@ -4106,8 +4264,9 @@
    "jp": "{0c:521018}{1c:22}その時の{e0bc}憶は\nまだないのですけど・・・{1a}{0c:521018}でも、わかります。\n{10}さんのおかげで\n今こうして生きていられる\nということだけは。{1a}{0c:522818}{10}さん、本当に\nありがとうございました。{0c:52201856}{0c:fe}",
    "read": "{0c:521018}{1c:22}その時の記憶は\nまだないのですけど・・・{1a}{0c:521018}でも、わかります。\n{10}さんのおかげで\n今こうして生きていられる\nということだけは。{1a}{0c:522818}{10}さん、本当に\nありがとうございました。{0c:52201856}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:22}I still have no memory of that time...{1a}{0c:521018}But I do know this much. That thanks to\nyou, {10}-san, I am alive here now.{1a}{0c:522818}{10}-san, thank you so very much.{0c:52201856}{0c:fe}",
+   "status": "done",
+   "tl": "I still have no memory of that time... // [1]But I do know this much. That thanks to you, [HERO]-san, I am alive here now. // [2][HERO]-san, thank you so very much."
   },
   {
    "id": "RES#1874:10c33",
@@ -4117,8 +4276,9 @@
    "jp": "{0c:521018}{1c:22}なんだかもうお別れみたいな\n言い方ですね。\nでも、一言お礼を言いたくて・・・{1a}{0c:521018}本当にありがとうございました、\n{10}さん。{1a}わたしも・・・頑張ります!{0c:fe}",
    "read": "{0c:521018}{1c:22}なんだかもうお別れみたいな\n言い方ですね。\nでも、一言お礼を言いたくて・・・{1a}{0c:521018}本当にありがとうございました、\n{10}さん。{1a}わたしも・・・頑張ります!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:22}This almost sounds like goodbye, doesn't\nit. But I did want to thank you...{1a}{0c:521018}Thank you so very much, {10}-san.{1a}I... will do my best too!{0c:fe}",
+   "status": "done",
+   "tl": "This almost sounds like goodbye, doesn't it. But I did want to thank you... // [1]Thank you so very much, [HERO]-san. // I... will do my best too!"
   },
   {
    "id": "RES#1874:10c98",
@@ -4173,8 +4333,9 @@
    "jp": "{0c:523840}{1c:26}・・・い、いえ、なんでもないです。{0c:fe}",
    "read": "{0c:523840}{1c:26}・・・い、いえ、なんでもないです。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523840}{1c:26}...N-no, it's nothing.{0c:fe}",
+   "status": "done",
+   "tl": "...N-no, it's nothing."
   },
   {
    "id": "RES#1874:1109d",
@@ -4218,8 +4379,9 @@
    "jp": "{0c:523840}{1c:26}・・・い、いえ、なんでもないです。{0c:fe}",
    "read": "{0c:523840}{1c:26}・・・い、いえ、なんでもないです。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523840}{1c:26}...N-no, it's nothing.{0c:fe}",
+   "status": "done",
+   "tl": "...N-no, it's nothing."
   },
   {
    "id": "RES#1874:11108",
@@ -4252,8 +4414,9 @@
    "jp": "{0c:523840}{1c:26}・・・が、頑張りましょうね。{0c:fe}",
    "read": "{0c:523840}{1c:26}・・・が、頑張りましょうね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523840}{1c:26}...L-let's do our best, shall we.{0c:fe}",
+   "status": "done",
+   "tl": "...L-let's do our best, shall we."
   },
   {
    "id": "RES#1874:1116e",
@@ -4297,8 +4460,9 @@
    "jp": "{0c:523840}{1c:23}・・・い、いえ、なんでもないです。{0c:fe}",
    "read": "{0c:523840}{1c:23}・・・い、いえ、なんでもないです。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523840}{1c:23}...N-no, it's nothing.{0c:fe}",
+   "status": "done",
+   "tl": "...N-no, it's nothing."
   },
   {
    "id": "RES#1874:111d9",
@@ -4319,8 +4483,9 @@
    "jp": "{1c:27}あたっ!!{0c:2b5409fe}",
    "read": "{1c:27}あたっ!!{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:27}Ouch!!{0c:2b5409fe}",
+   "status": "done",
+   "tl": "Ouch!!"
   },
   {
    "id": "RES#1874:11209",
@@ -4330,8 +4495,9 @@
    "jp": "{0c:52b8c0}{1c:16}{0b:08}{e080} ジェシカ {e081}{0b:09}\nなにやってんの?\nはっきり言えばいいじゃん。\n{10}のこと好きだってさ。{0c:4c1109fe}",
    "read": "{0c:52b8c0}{1c:16}{0b:08}【 ジェシカ 】{0b:09}\nなにやってんの?\nはっきり言えばいいじゃん。\n{10}のこと好きだってさ。{0c:4c1109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52b8c0}{1c:16}{0b:08}【 Jessica 】{0b:09}\nWhat are you doing? Just come out and\nsay it, geez. That you like {10}.{0c:4c1109fe}",
+   "status": "done",
+   "tl": "What are you doing? Just come out and say it, geez. That you like [HERO]."
   },
   {
    "id": "RES#1874:1124e",
@@ -4352,8 +4518,9 @@
    "jp": "{0c:526860}{1c:28}{0b:08}{e080} ルカ {e081}{0b:09}\nそ、そんなこと!!{0c:2b5409fe}",
    "read": "{0c:526860}{1c:28}{0b:08}【 ルカ 】{0b:09}\nそ、そんなこと!!{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:526860}{1c:28}{0b:08}【 Luca 】{0b:09}\nN-nothing of the sort!!{0c:2b5409fe}",
+   "status": "done",
+   "tl": "N-nothing of the sort!!"
   },
   {
    "id": "RES#1874:11280",
@@ -4363,8 +4530,9 @@
    "jp": "{0c:52c8d0}{1c:15}{0b:08}{e080} ジェシカ {e081}{0b:09}\n嫌いなの?{0c:4c1109fe}",
    "read": "{0c:52c8d0}{1c:15}{0b:08}【 ジェシカ 】{0b:09}\n嫌いなの?{0c:4c1109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52c8d0}{1c:15}{0b:08}【 Jessica 】{0b:09}\nWhat, so you dislike them?{0c:4c1109fe}",
+   "status": "done",
+   "tl": "What, so you dislike them?"
   },
   {
    "id": "RES#1874:112a6",
@@ -4374,8 +4542,9 @@
    "jp": "{0c:526860}{1c:28}{0b:08}{e080} ルカ {e081}{0b:09}\nいえ、そんな・・・{0c:fe}",
    "read": "{0c:526860}{1c:28}{0b:08}【 ルカ 】{0b:09}\nいえ、そんな・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:526860}{1c:28}{0b:08}【 Luca 】{0b:09}\nNo, it is not that...{0c:fe}",
+   "status": "done",
+   "tl": "No, it is not that..."
   },
   {
    "id": "RES#1874:112c9",
@@ -4396,8 +4565,9 @@
    "jp": "{0c:527078}{1c:23}{0b:08}{e080} ルカ {e081}{0b:09}\nわたしは神に仕える\n{e0dd}道士ですから・・・{0c:fe}",
    "read": "{0c:527078}{1c:23}{0b:08}【 ルカ 】{0b:09}\nわたしは神に仕える\n修道士ですから・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:527078}{1c:23}{0b:08}【 Luca 】{0b:09}\nI am a monk in God's service, so...{0c:fe}",
+   "status": "done",
+   "tl": "I am a monk in God's service, so..."
   },
   {
    "id": "RES#1874:11305",
@@ -4418,8 +4588,9 @@
    "jp": "{1c:12}{0b:08}{e080} シャルン {e081}{0b:09}\n世{e082}がなくなるかもしれないのに\n{e08a}{e09b}も{e0dd}道士もないでしょ。{1a}{0c:4c11231007528088}{0c:526068}いいじゃない、\nお坊さんだって人間なんだから\n人を好きになってもさ。{0c:fe}",
    "read": "{1c:12}{0b:08}【 シャルン 】{0b:09}\n世界がなくなるかもしれないのに\n教会も修道士もないでしょ。{1a}{0c:4c11231007528088}{0c:526068}いいじゃない、\nお坊さんだって人間なんだから\n人を好きになってもさ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Scharn 】{0b:09}\nThe world might disappear! Who cares\nabout the Church or monks!{1a}{0c:4c11231007528088}{0c:526068}It's fine! Monks are human too, so they\ncan fall in love!{0c:fe}",
+   "status": "done",
+   "tl": "The world might disappear! Who cares about the Church or monks! // [1]It's fine! Monks are human too, so they can fall in love!"
   },
   {
    "id": "RES#1874:1139a",
@@ -4463,8 +4634,9 @@
    "jp": "{0c:527078}{1c:12}{0b:08}{e080} シャルン {e081}{0b:09}\n勇気出して告白しちゃえ。\n{0c:4c11232b53100052a088}女の子はいつでも待ってるんだよ。\n好きだって言{e091}。{0c:fe}",
    "read": "{0c:527078}{1c:12}{0b:08}【 シャルン 】{0b:09}\n勇気出して告白しちゃえ。\n{0c:4c11232b53100052a088}女の子はいつでも待ってるんだよ。\n好きだって言葉。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:527078}{1c:12}{0b:08}【 Scharn 】{0b:09}\nBe brave and confess! {0c:4c11232b53100052a088}A girl's always\nwaiting, you know! For those words, 'I\nlove you'.{0c:fe}",
+   "status": "done",
+   "tl": "Be brave and confess! [1]A girl's always waiting, you know! For those words, 'I love you'."
   },
   {
    "id": "RES#1874:11451",
@@ -4485,8 +4657,9 @@
    "jp": "{1c:1a}{0b:08}{e080} イヴ {e081}{0b:09}\n{10}が待ってるかどうかは\n疑問だけどね。\n言われて迷惑な場合もあるし。{1a}{0c:4c11232b57100052a088}{0c:52f9ff02}ま、でも、\n早く言わないとギャラリーが\n増えるだけよ。{0c:fe}",
    "read": "{1c:1a}{0b:08}【 イヴ 】{0b:09}\n{10}が待ってるかどうかは\n疑問だけどね。\n言われて迷惑な場合もあるし。{1a}{0c:4c11232b57100052a088}{0c:52f9ff02}ま、でも、\n早く言わないとギャラリーが\n増えるだけよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}{0b:08}【 Eve 】{0b:09}\nWhether {10}'s waiting is another\nmatter, I suppose. Sometimes hearing it's\njust a nuisance.{1a}{0c:4c11232b57100052a088}{0c:52f9ff02}Still, if you don't say it soon, the\naudience will only grow.{0c:fe}",
+   "status": "done",
+   "tl": "Whether [HERO]'s waiting is another matter, I suppose. Sometimes hearing it's just a nuisance. // [1]Still, if you don't say it soon, the audience will only grow."
   },
   {
    "id": "RES#1874:114f4",
@@ -4507,8 +4680,9 @@
    "jp": "{1c:10}{0b:08}{e080} エレアノール {e081}{0b:09}\n何かあったのですか?{0c:fe}",
    "read": "{1c:10}{0b:08}【 エレアノール 】{0b:09}\n何かあったのですか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Eleanor 】{0b:09}\nHas something happened?{0c:fe}",
+   "status": "done",
+   "tl": "Has something happened?"
   },
   {
    "id": "RES#1874:11530",
@@ -4529,8 +4703,9 @@
    "jp": "{0c:529098}{1c:13}{0b:08}{e080} シャルン {e081}{0b:09}\nルカがとうとう\n{10}に告白するんだって。{0c:4c112352b8b02b531000}{0c:2b5609fe}",
    "read": "{0c:529098}{1c:13}{0b:08}【 シャルン 】{0b:09}\nルカがとうとう\n{10}に告白するんだって。{0c:4c112352b8b02b531000}{0c:2b5609fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:529098}{1c:13}{0b:08}【 Scharn 】{0b:09}\nLuca's finally confessing to {10}!{0c:4c112352b8b02b531000}{0c:2b5609fe}",
+   "status": "done",
+   "tl": "Luca's finally confessing to [HERO]!"
   },
   {
    "id": "RES#1874:11586",
@@ -4540,8 +4715,9 @@
    "jp": "{0c:4c111000521820}{1c:11}{0b:08}{e080} エレアノール {e081}{0b:09}\nそうですか。\n頑張って下さい、私も応援します。{0c:4c1109fe}",
    "read": "{0c:4c111000521820}{1c:11}{0b:08}【 エレアノール 】{0b:09}\nそうですか。\n頑張って下さい、私も応援します。{0c:4c1109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:4c111000521820}{1c:11}{0b:08}【 Eleanor 】{0b:09}\nIs that so. Please do your best; you have\nmy support as well.{0c:4c1109fe}",
+   "status": "done",
+   "tl": "Is that so. Please do your best; you have my support as well."
   },
   {
    "id": "RES#1874:115c8",
@@ -4551,8 +4727,9 @@
    "jp": "{0c:2b56100052c0c8}{1c:28}{0b:08}{e080} ルカ {e081}{0b:09}\nエ、エレアノールさんまで・・・{0c:2b5709fe}",
    "read": "{0c:2b56100052c0c8}{1c:28}{0b:08}【 ルカ 】{0b:09}\nエ、エレアノールさんまで・・・{0c:2b5709fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b56100052c0c8}{1c:28}{0b:08}【 Luca 】{0b:09}\nE-Eleanor-san, you too...{0c:2b5709fe}",
+   "status": "done",
+   "tl": "E-Eleanor-san, you too..."
   },
   {
    "id": "RES#1874:115f8",
@@ -4562,8 +4739,9 @@
    "jp": "{0c:52ff0aff12}{1c:1a}{0b:08}{e080} イヴ {e081}{0b:09}\nってことで、早く言えば?\n{10}のことを抱きたいって。{0c:4c1109fe}",
    "read": "{0c:52ff0aff12}{1c:1a}{0b:08}【 イヴ 】{0b:09}\nってことで、早く言えば?\n{10}のことを抱きたいって。{0c:4c1109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff0aff12}{1c:1a}{0b:08}【 Eve 】{0b:09}\nSo go on, say it. That you're madly in\nlove with {10}.{0c:4c1109fe}",
+   "status": "done",
+   "tl": "So go on, say it. That you're madly in love with [HERO]."
   },
   {
    "id": "RES#1874:11635",
@@ -4573,8 +4751,9 @@
    "jp": "{0c:2b57100052d0d8}{1c:28}{0b:08}{e080} ルカ {e081}{0b:09}\nそ、そ、そ、そんな!\n話を勝手に{e0e1}げないで下さい!{1a}{0c:52e0d8}わたしは{10}さんに\n今までのお礼を言おうと・・・{0c:2b5709fe}",
    "read": "{0c:2b57100052d0d8}{1c:28}{0b:08}【 ルカ 】{0b:09}\nそ、そ、そ、そんな!\n話を勝手に広げないで下さい!{1a}{0c:52e0d8}わたしは{10}さんに\n今までのお礼を言おうと・・・{0c:2b5709fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b57100052d0d8}{1c:28}{0b:08}【 Luca 】{0b:09}\nS-s-s-such a thing! Please do not run\naway with this on your own!{1a}{0c:52e0d8}I only meant to thank {10}-san\nfor everything...{0c:2b5709fe}",
+   "status": "done",
+   "tl": "S-s-s-such a thing! Please do not run away with this on your own! // [1]I only meant to thank [HERO]-san for everything..."
   },
   {
    "id": "RES#1874:11698",
@@ -4584,8 +4763,9 @@
    "jp": "{0c:52ff1aff1b}{1c:1a}{0b:08}{e080} イヴ {e081}{0b:09}\nこれだけギャラリーを集めといて\n今{e0e2}それだけってのはないわね。{0c:4c1109fe}",
    "read": "{0c:52ff1aff1b}{1c:1a}{0b:08}【 イヴ 】{0b:09}\nこれだけギャラリーを集めといて\n今更それだけってのはないわね。{0c:4c1109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff1aff1b}{1c:1a}{0b:08}【 Eve 】{0b:09}\nAfter gathering an audience this size,\n'just that' won't do now, will it.{0c:4c1109fe}",
+   "status": "done",
+   "tl": "After gathering an audience this size, 'just that' won't do now, will it."
   },
   {
    "id": "RES#1874:116db",
@@ -4595,8 +4775,9 @@
    "jp": "{0c:52e0d8}{1c:28}{0b:08}{e080} ルカ {e081}{0b:09}\nそ、そんな・・・\n皆さんが勝手に\n集まったんじゃないですか!!{0c:2b5409fe}",
    "read": "{0c:52e0d8}{1c:28}{0b:08}【 ルカ 】{0b:09}\nそ、そんな・・・\n皆さんが勝手に\n集まったんじゃないですか!!{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52e0d8}{1c:28}{0b:08}【 Luca 】{0b:09}\nS-surely not... You all gathered here on\nyour own!!{0c:2b5409fe}",
+   "status": "done",
+   "tl": "S-surely not... You all gathered here on your own!!"
   },
   {
    "id": "RES#1874:1171c",
@@ -4606,8 +4787,9 @@
    "jp": "{0c:52d8d9}{1c:14}{0b:08}{e080} ジェシカ {e081}{0b:09}\nえ、そうだったっけ。{0c:fe}",
    "read": "{0c:52d8d9}{1c:14}{0b:08}【 ジェシカ 】{0b:09}\nえ、そうだったっけ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52d8d9}{1c:14}{0b:08}【 Jessica 】{0b:09}\nHuh, did we?{0c:fe}",
+   "status": "done",
+   "tl": "Huh, did we?"
   },
   {
    "id": "RES#1874:11742",
@@ -4628,8 +4810,9 @@
    "jp": "{0c:528088}{1c:12}{0b:08}{e080} シャルン {e081}{0b:09}\nでも、もうそろそろ\nかわいそうかな。{0c:2b5609fe}",
    "read": "{0c:528088}{1c:12}{0b:08}【 シャルン 】{0b:09}\nでも、もうそろそろ\nかわいそうかな。{0c:2b5609fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:528088}{1c:12}{0b:08}【 Scharn 】{0b:09}\nBut I guess it's about time we stopped,\npoor thing.{0c:2b5609fe}",
+   "status": "done",
+   "tl": "But I guess it's about time we stopped, poor thing."
   },
   {
    "id": "RES#1874:11786",
@@ -4639,8 +4822,9 @@
    "jp": "{0c:522830}{1c:11}{0b:08}{e080} エレアノール {e081}{0b:09}\nええ、そうですね、\n{e0a1}{e0a2}に戻りましょう。\n{0c:523840}頑張って下さい、ルカさん。{0c:fe}",
    "read": "{0c:522830}{1c:11}{0b:08}【 エレアノール 】{0b:09}\nええ、そうですね、\n部屋に戻りましょう。\n{0c:523840}頑張って下さい、ルカさん。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:522830}{1c:11}{0b:08}【 Eleanor 】{0b:09}\nYes, I suppose so. Let us return to our\nrooms. {0c:523840}Please do your best, Luca-san.{0c:fe}",
+   "status": "done",
+   "tl": "Yes, I suppose so. Let us return to our rooms. [1]Please do your best, Luca-san."
   },
   {
    "id": "RES#1874:117d3",
@@ -4661,8 +4845,9 @@
    "jp": "{1c:28}{0b:08}{e080} ルカ {e081}{0b:09}\nあの、{10}さん・・・{1a}{0c:521018}すみませんでした、\nわたしのせいで・・・{1a}{0c:521018}その・・・皆さんの言ったこと、\n気にしないでくださいね。{07:2d}{0c:fb05}",
    "read": "{1c:28}{0b:08}【 ルカ 】{0b:09}\nあの、{10}さん・・・{1a}{0c:521018}すみませんでした、\nわたしのせいで・・・{1a}{0c:521018}その・・・皆さんの言ったこと、\n気にしないでくださいね。{07:2d}{0c:fb05}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:28}{0b:08}【 Luca 】{0b:09}\nUm, {10}-san...{1a}{0c:521018}I am sorry, this was my fault...{1a}{0c:521018}Um... please do not mind what everyone\nsaid.{07:2d}{0c:fb05}",
+   "status": "done",
+   "tl": "Um, [HERO]-san... // [1]I am sorry, this was my fault... // [2]Um... please do not mind what everyone said."
   },
   {
    "id": "RES#1874:11896",
@@ -4672,8 +4857,9 @@
    "jp": "ううん、気にしてないよ|すごく迷惑よ!",
    "read": "ううん、気にしてないよ|すごく迷惑よ!",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "No, I don't mind|It's a real nuisance!",
+   "status": "done",
+   "tl": "No, I don't mind|It's a real nuisance!"
   },
   {
    "id": "RES#1874:118ae",
@@ -4694,8 +4880,9 @@
    "jp": "{0c:521018}{1c:22}よかった・・・\n{10}さんに嫌われたら\nわたしは・・・{0c:fe}",
    "read": "{0c:521018}{1c:22}よかった・・・\n{10}さんに嫌われたら\nわたしは・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:22}I'm so glad... If you were to dislike me,\n{10}-san, I...{0c:fe}",
+   "status": "done",
+   "tl": "I'm so glad... If you were to dislike me, [HERO]-san, I..."
   },
   {
    "id": "RES#1874:118d9",
@@ -4716,8 +4903,9 @@
    "jp": "{0c:52ff0918}{1c:28}あっ、い、いえ、\nな、なんでもないです。{0c:fe}",
    "read": "{0c:52ff0918}{1c:28}あっ、い、いえ、\nな、なんでもないです。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff0918}{1c:28}Oh, n-no, n-nothing at all.{0c:fe}",
+   "status": "done",
+   "tl": "Oh, n-no, n-nothing at all."
   },
   {
    "id": "RES#1874:11906",
@@ -4738,8 +4926,9 @@
    "jp": "{0c:521018}{1c:22}{10}さん、\n今までいろいろ\nありがとうございました。{1a}{0c:521018}引っ{e0da}み思案なわたしを\n仲間に誘ってくださって、\n危険な時には何度も\n助けてくださって・・・{1a}{0c:521018}そして、事もあろうに\n皆さんを傷つけようとしたわたしを\n{10}さんは\n救って下さいました・・・{0c:fe}",
    "read": "{0c:521018}{1c:22}{10}さん、\n今までいろいろ\nありがとうございました。{1a}{0c:521018}引っ込み思案なわたしを\n仲間に誘ってくださって、\n危険な時には何度も\n助けてくださって・・・{1a}{0c:521018}そして、事もあろうに\n皆さんを傷つけようとしたわたしを\n{10}さんは\n救って下さいました・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:22}{10}-san, thank you for\neverything up to now.{1a}{0c:521018}You invited someone as withdrawn as me\nto join you, and you saved me so many\ntimes in danger...{1a}{0c:521018}And on top of that, {10}-san, you\nsaved me, even though I tried to harm\neveryone...{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]-san, thank you for everything up to now. // [1]You invited someone as withdrawn as me to join you, and you saved me so many times in danger... // [2]And on top of that, [HERO]-san, you saved me, even though I tried to harm everyone..."
   },
   {
    "id": "RES#1874:119b1",
@@ -4760,8 +4949,9 @@
    "jp": "{0c:521018}{1c:22}その時の{e0bc}憶は\nまだないのですけど・・・{1a}{0c:521018}でも、わかります。\n{10}さんのおかげで\n今こうして生きていられる\nということだけは。{1a}{0c:522818}{10}さん、本当に\nありがとうございました。{0c:fe}",
    "read": "{0c:521018}{1c:22}その時の記憶は\nまだないのですけど・・・{1a}{0c:521018}でも、わかります。\n{10}さんのおかげで\n今こうして生きていられる\nということだけは。{1a}{0c:522818}{10}さん、本当に\nありがとうございました。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{1c:22}I still have no memory of that time...{1a}{0c:521018}But I do know this much. That thanks to\nyou, {10}-san, I am alive here now.{1a}{0c:522818}{10}-san, thank you so very much.{0c:fe}",
+   "status": "done",
+   "tl": "I still have no memory of that time... // [1]But I do know this much. That thanks to you, [HERO]-san, I am alive here now. // [2][HERO]-san, thank you so very much."
   },
   {
    "id": "RES#1874:11a2d",
@@ -5279,8 +5469,9 @@
    "jp": "{0c:52ff61ff69}{1c:29}{0b:08}{e080} サラ {e081}{0b:09}\n{10}さん。{1a}{0c:0a05}{0c:fe}",
    "read": "{0c:52ff61ff69}{1c:29}{0b:08}【 サラ 】{0b:09}\n{10}さん。{1a}{0c:0a05}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff61ff69}{1c:29}{0b:08}【 Sara 】{0b:09}\n{10}-san.{1a}{0c:0a05}{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]-san."
   },
   {
    "id": "RES#1874:121fa",

@@ -66,9 +66,9 @@
    "jp": "地下{e080}{e081}へ入ります|武器・{e08d}具・アイテムが{e08e}えます|トラップ・魔{e08f}{e090}具の{e091}発|{e092}が{e08e}えます|仲間がいます|武器が{e08e}えます|体力を回復してもらえます|先{e093}{e086}険者がいます|先{e093}{e086}険者がいます|時間を進めます|仲間と別れます",
    "read": "地下遺跡へ入ります|武器・防具・アイテムが買えます|トラップ・魔法操具の開発|薬が買えます|仲間がいます|武器が買えます|体力を回復してもらえます|先輩冒険者がいます|先輩冒険者がいます|時間を進めます|仲間と別れます",
    "raw": null,
-   "en": "Enter the underground ruins|Buy weapons, armor and items|Develop traps and Spell Devices|Buy medicine|Your companions are here|Buy weapons|Have your strength restored|Veteran adventurers are here|Veteran adventurers are here|Let time pass|Part with a companion",
+   "en": "Enter the underground ruins|Buy weapons, armor and items|Develop traps and Spell Devices|Buy medicine|Your companions are here|Buy weapons|Have your HP restored|Veteran adventurers are here|Veteran adventurers are here|Let time pass|Part with a companion",
    "status": "done",
-   "tl": "Enter the underground ruins|Buy weapons, armor and items|Develop traps and Spell Devices|Buy medicine|Your companions are here|Buy weapons|Have your strength restored|Veteran adventurers are here|Veteran adventurers are here|Let time pass|Part with a companion"
+   "tl": "Enter the underground ruins|Buy weapons, armor and items|Develop traps and Spell Devices|Buy medicine|Your companions are here|Buy weapons|Have your HP restored|Veteran adventurers are here|Veteran adventurers are here|Let time pass|Part with a companion"
   },
   {
    "id": "RES#1:2702b",
@@ -544,9 +544,9 @@
    "jp": "{0b:08}{e094} イヴ {e095}{0b:09}\nありがと。\nあたしもあなたの誘いに乗ったコト\n後悔してたところだから。",
    "read": "{0b:08}【 イヴ 】{0b:09}\nありがと。\nあたしもあなたの誘いに乗ったコト\n後悔してたところだから。",
    "raw": null,
-   "en": "{0b:08}【 Eve 】{0b:09}\nThanks, dear. I was just starting to\nregret taking you up on your offer, you\nknow.",
+   "en": "{0b:08}【 Eve 】{0b:09}\nThanks, dear. I was just starting to\nregret taking you up on your offer\nmyself.",
    "status": "done",
-   "tl": "Thanks, dear. I was just starting to regret taking you up on your offer, you know."
+   "tl": "Thanks, dear. I was just starting to regret taking you up on your offer myself."
   },
   {
    "id": "RES#1:274fc",
@@ -628,9 +628,9 @@
    "jp": "{0b:08}{e094} ルカ {e095}{0b:09}\n無茶はしないで下さいね、\n{10}さん。",
    "read": "{0b:08}【 ルカ 】{0b:09}\n無茶はしないで下さいね、\n{10}さん。",
    "raw": null,
-   "en": "{0b:08}【 Luca 】{0b:09}\nP-please don't do anything reckless,\n{10}-san.",
+   "en": "{0b:08}【 Luca 】{0b:09}\nPlease don't do anything reckless,\n{10}-san.",
    "status": "done",
-   "tl": "P-please don't do anything reckless, [HERO]-san."
+   "tl": "Please don't do anything reckless, [HERO]-san."
   },
   {
    "id": "RES#1:275c9",
@@ -1144,9 +1144,9 @@
    "jp": "{0b:08}{e094} ルカ {e095}{0b:09}\n最後までつき合わさせて下さい・・・",
    "read": "{0b:08}【 ルカ 】{0b:09}\n最後までつき合わさせて下さい・・・",
    "raw": null,
-   "en": "{0b:08}【 Luca 】{0b:09}\nP-please let me stay with you to the\nend...",
+   "en": "{0b:08}【 Luca 】{0b:09}\nPlease let me stay with you to the end...",
    "status": "done",
-   "tl": "P-please let me stay with you to the end..."
+   "tl": "Please let me stay with you to the end..."
   },
   {
    "id": "RES#1:27c67",
@@ -1156,9 +1156,9 @@
    "jp": "{0b:08}{e094} ルカ {e095}{0b:09}\nま、まだ何も終わっていません・・・\nは、早く行きましょう・・・",
    "read": "{0b:08}【 ルカ 】{0b:09}\nま、まだ何も終わっていません・・・\nは、早く行きましょう・・・",
    "raw": null,
-   "en": "{0b:08}【 Luca 】{0b:09}\nN-nothing is finished yet... L-let's hurry\non...",
+   "en": "{0b:08}【 Luca 】{0b:09}\nN-nothing is finished yet... Let's h-hurry\non...",
    "status": "done",
-   "tl": "N-nothing is finished yet... L-let's hurry on..."
+   "tl": "N-nothing is finished yet... Let's h-hurry on..."
   },
   {
    "id": "RES#1:27c9a",
@@ -1168,9 +1168,9 @@
    "jp": "{0b:08}{e094} ルカ {e095}{0b:09}\nま、まだ何も終わっていません・・・\nは、早く行きましょう・・・",
    "read": "{0b:08}【 ルカ 】{0b:09}\nま、まだ何も終わっていません・・・\nは、早く行きましょう・・・",
    "raw": null,
-   "en": "{0b:08}【 Luca 】{0b:09}\nN-nothing is finished yet... L-let's hurry\non...",
+   "en": "{0b:08}【 Luca 】{0b:09}\nN-nothing is finished yet... Let's h-hurry\non...",
    "status": "done",
-   "tl": "N-nothing is finished yet... L-let's hurry on..."
+   "tl": "N-nothing is finished yet... Let's h-hurry on..."
   },
   {
    "id": "RES#1:27ccd",
@@ -1432,9 +1432,9 @@
    "jp": "あんたって最低だね。\n見損なったよ。",
    "read": "あんたって最低だね。\n見損なったよ。",
    "raw": null,
-   "en": "You're the worst, you know that? I\nexpected better.",
+   "en": "You're scum, you know that? I expected\nbetter.",
    "status": "done",
-   "tl": "You're the worst, you know that? I expected better."
+   "tl": "You're scum, you know that? I expected better."
   },
   {
    "id": "RES#1:28003",
@@ -1444,9 +1444,9 @@
    "jp": "あんたって最低だね。",
    "read": "あんたって最低だね。",
    "raw": null,
-   "en": "You're the worst, you know that?",
+   "en": "You're scum, you know that?",
    "status": "done",
-   "tl": "You're the worst, you know that?"
+   "tl": "You're scum, you know that?"
   },
   {
    "id": "RES#1:28010",
@@ -1456,9 +1456,9 @@
    "jp": "あんたってやっぱり最低だね。",
    "read": "あんたってやっぱり最低だね。",
    "raw": null,
-   "en": "You really are the worst, you know\nthat?",
+   "en": "You really are scum, you know that?",
    "status": "done",
-   "tl": "You really are the worst, you know that?"
+   "tl": "You really are scum, you know that?"
   },
   {
    "id": "RES#1:28021",
@@ -1468,9 +1468,9 @@
    "jp": "目の前で人が血を流したのに\n何も感じない・・・\n自分が狂っていることを\n痛感しますね。",
    "read": "目の前で人が血を流したのに\n何も感じない・・・\n自分が狂っていることを\n痛感しますね。",
    "raw": null,
-   "en": "Someone bleeds before your eyes and\nyou feel nothing... It does bring home how\nmad you are, I daresay.",
+   "en": "Someone bleeds before my eyes and I\nfeel nothing... It does bring home how mad\nI am, I daresay.",
    "status": "done",
-   "tl": "Someone bleeds before your eyes and you feel nothing... It does bring home how mad you are, I daresay."
+   "tl": "Someone bleeds before my eyes and I feel nothing... It does bring home how mad I am, I daresay."
   },
   {
    "id": "RES#1:28059",
@@ -1516,9 +1516,9 @@
    "jp": "次の標的にはしないで下さいね。\nこう見えても気が弱いんですから。",
    "read": "次の標的にはしないで下さいね。\nこう見えても気が弱いんですから。",
    "raw": null,
-   "en": "Do not make me your next target, if you\nplease. I am fainthearted, you know,\nwhatever I may look like.",
+   "en": "Do not make me your next target, if you\nplease. I am fainthearted, whatever I may\nlook like.",
    "status": "done",
-   "tl": "Do not make me your next target, if you please. I am fainthearted, you know, whatever I may look like."
+   "tl": "Do not make me your next target, if you please. I am fainthearted, whatever I may look like."
   },
   {
    "id": "RES#1:28181",
@@ -1552,9 +1552,9 @@
    "jp": "いい趣味してるわね・・・\nでも悪いけど\nあたしにその気はないから。\n悦に浸るのなら1人でやってね。",
    "read": "いい趣味してるわね・・・\nでも悪いけど\nあたしにその気はないから。\n悦に浸るのなら1人でやってね。",
    "raw": null,
-   "en": "What fine taste you have... But sorry,\ndear, I'm not in the mood. If you want to\nrevel in it, do it alone, you know.",
+   "en": "What fine taste you have... But sorry, I'm\nnot in the mood. If you want to revel in\nit, do it alone, you know.",
    "status": "done",
-   "tl": "What fine taste you have... But sorry, dear, I'm not in the mood. If you want to revel in it, do it alone, you know."
+   "tl": "What fine taste you have... But sorry, I'm not in the mood. If you want to revel in it, do it alone, you know."
   },
   {
    "id": "RES#1:2822d",

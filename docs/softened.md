@@ -28,5 +28,7 @@ Lines where the English deliberately leaves the Japanese: sexual remarks about t
 - RES#1200:10d2d, 10e26 - taste in pretty pages (Orpheus at 15), noblewomen's liking -> vanity about display, service
 - RES#1200:11eff - 欲求のまま...もてあそび (Fatum and Nada) -> tormented them at his whim
 - RES#1405:1643a - 変な趣味 -> some weird streak
+- RES#1573:fe10 - スケベなこと -> chasin' skirts
+- RES#4115:7dce - Kadmon on Tiara, ケツでも振ってる -> off kickin' up her heels
 - RES#1874:f75f, f878 - Eve's offer and double entendre -> I'll pay up; doesn't see a thing through
 - RES#1874:115f8 - Eve wants to hold [HERO] -> madly in love with [HERO]

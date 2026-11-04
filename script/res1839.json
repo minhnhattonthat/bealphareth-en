@@ -41,8 +41,9 @@
    "jp": "{0c:520809}{1c:13}{0b:08}{e080} オイゲン {e081}{0b:09}\n悪いな。\nお前も疲れてるだろうから\nさっそく本題に入るが・・・{1a}あのローブの野郎{e083}のこと、\n聞かせてもらえねえか?{0c:fe}",
    "read": "{0c:520809}{1c:13}{0b:08}【 オイゲン 】{0b:09}\n悪いな。\nお前も疲れてるだろうから\nさっそく本題に入るが・・・{1a}あのローブの野郎共のこと、\n聞かせてもらえねえか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520809}{1c:13}{0b:08}【 Eugen 】{0b:09}\nSorry 'bout this. You must be tired too,\nso I'll get right to it...{1a}Mind tellin' me about those bastards in\nrobes?{0c:fe}",
+   "status": "done",
+   "tl": "Sorry 'bout this. You must be tired too, so I'll get right to it... // Mind tellin' me about those bastards in robes?"
   },
   {
    "id": "RES#1839:145d8",
@@ -63,8 +64,9 @@
    "jp": "{1c:1d}{0b:08}{e080} パスカ {e081}{0b:09}\nあれ、どうして知ってるんだ?{0c:021001}",
    "read": "{1c:1d}{0b:08}【 パスカ 】{0b:09}\nあれ、どうして知ってるんだ?{0c:021001}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}{0b:08}【 Pasca 】{0b:09}\nHuh, how'd you know about that?{0c:021001}",
+   "status": "done",
+   "tl": "Huh, how'd you know about that?"
   },
   {
    "id": "RES#1839:1460b",
@@ -85,8 +87,9 @@
    "jp": "{1c:1f}{0b:08}{e080} ジェシカ {e081}{0b:09}\nあれ、どうして\nそのこと知ってるの?{0c:020e01}",
    "read": "{1c:1f}{0b:08}【 ジェシカ 】{0b:09}\nあれ、どうして\nそのこと知ってるの?{0c:020e01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}{0b:08}【 Jessica 】{0b:09}\nHuh? How do you know about that?{0c:020e01}",
+   "status": "done",
+   "tl": "Huh? How do you know about that?"
   },
   {
    "id": "RES#1839:14643",
@@ -107,8 +110,9 @@
    "jp": "{1c:1e}{0b:08}{e080} シャルン {e081}{0b:09}\nあれ、どうしてオイゲンさんが\nそのこと知ってるの?{0c:020c01}",
    "read": "{1c:1e}{0b:08}【 シャルン 】{0b:09}\nあれ、どうしてオイゲンさんが\nそのこと知ってるの?{0c:020c01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}{0b:08}【 Scharn 】{0b:09}\nHuh? How do you know about that,\nEugen-san?{0c:020c01}",
+   "status": "done",
+   "tl": "Huh? How do you know about that, Eugen-san?"
   },
   {
    "id": "RES#1839:14684",
@@ -129,8 +133,9 @@
    "jp": "あれ、どうしてオイゲンさんが\nそのこと知ってるの?{0c:020a01}",
    "read": "あれ、どうしてオイゲンさんが\nそのこと知ってるの?{0c:020a01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Huh? How do you know about that,\nEugen-san?{0c:020a01}",
+   "status": "done",
+   "tl": "Huh? How do you know about that, Eugen-san?"
   },
   {
    "id": "RES#1839:146b2",
@@ -151,8 +156,9 @@
    "jp": "あれ、どうしてオイゲンさんが\nそのこと知ってるの?{0c:020801}",
    "read": "あれ、どうしてオイゲンさんが\nそのこと知ってるの?{0c:020801}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Huh? How do you know about that,\nEugen-san?{0c:020801}",
+   "status": "done",
+   "tl": "Huh? How do you know about that, Eugen-san?"
   },
   {
    "id": "RES#1839:146e0",
@@ -173,8 +179,9 @@
    "jp": "{1c:1c}{0b:08}{e080} アーサー {e081}{0b:09}\nえ・・・どうしてそのことを・・・{0c:020601}",
    "read": "{1c:1c}{0b:08}【 アーサー 】{0b:09}\nえ・・・どうしてそのことを・・・{0c:020601}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Arthur 】{0b:09}\nWhat... How do you know about that...{0c:020601}",
+   "status": "done",
+   "tl": "What... How do you know about that..."
   },
   {
    "id": "RES#1839:14714",
@@ -195,8 +202,9 @@
    "jp": "{1c:20}{0b:08}{e080} オルフェウス {e081}{0b:09}\n情報が早いですね。{1a}あれ? でもファトゥムさんが\nさっきのことを\n言うはずもないですし・・・\n何故知ってるんです?{0c:020401}",
    "read": "{1c:20}{0b:08}【 オルフェウス 】{0b:09}\n情報が早いですね。{1a}あれ? でもファトゥムさんが\nさっきのことを\n言うはずもないですし・・・\n何故知ってるんです?{0c:020401}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Orpheus 】{0b:09}\nYour information travels fast.{1a}Hm? But Fatum-san would hardly have\ntold you what happened just now... How\ndo you know?{0c:020401}",
+   "status": "done",
+   "tl": "Your information travels fast. // Hm? But Fatum-san would hardly have told you what happened just now... How do you know?"
   },
   {
    "id": "RES#1839:1477f",
@@ -217,8 +225,9 @@
    "jp": "{1c:21}{0b:08}{e080} ノエル {e081}{0b:09}\nどうしてそのことを・・・?{0c:020201}",
    "read": "{1c:21}{0b:08}【 ノエル 】{0b:09}\nどうしてそのことを・・・?{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:21}{0b:08}【 Noel 】{0b:09}\nHow do you know about that...?{0c:020201}",
+   "status": "done",
+   "tl": "How do you know about that...?"
   },
   {
    "id": "RES#1839:147b0",
@@ -228,8 +237,9 @@
    "jp": "{1c:11}{0b:08}{e080} オイゲン {e081}{0b:09}\nん? どうしてそのことを\n知ってるかって?{0c:fe}",
    "read": "{1c:11}{0b:08}【 オイゲン 】{0b:09}\nん? どうしてそのことを\n知ってるかって?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Eugen 】{0b:09}\nHm? How do I know about that, you say?{0c:fe}",
+   "status": "done",
+   "tl": "Hm? How do I know about that, you say?"
   },
   {
    "id": "RES#1839:147e0",
@@ -250,8 +260,9 @@
    "jp": "{0c:521119}{1c:11}{0b:08}{e080} オイゲン {e081}{0b:09}\nこの町にいるほとんどの{e085}中が\nお前達と奴らとの\nやりとりを夢で見たんだよ。{1a}{0c:522129}あの時俺はカウンターで\n{e087}を飲んでたんだが、\nいきなり、あの神{e089}の映{e08b}が\n頭の中に流れ{e08c}んできた。{1a}みんな同時に眠らされて\n同じ夢を見させられたらしい。{1a}{0c:523132}いや、ありゃ夢とは\nいわねえのかもな・・・{1a}あまりにもリアルすぎる。\nなのに意識を失っていた時間は\nほんの一{e08d}だ。{1a}{0c:523a42}何しろ、手に持ってた{e087}ビンが\n床に落ちるまでの間に\nその夢は終わってたんだからな。{0c:fe}",
    "read": "{0c:521119}{1c:11}{0b:08}【 オイゲン 】{0b:09}\nこの町にいるほとんどの連中が\nお前達と奴らとの\nやりとりを夢で見たんだよ。{1a}{0c:522129}あの時俺はカウンターで\n酒を飲んでたんだが、\nいきなり、あの神殿の映像が\n頭の中に流れ込んできた。{1a}みんな同時に眠らされて\n同じ夢を見させられたらしい。{1a}{0c:523132}いや、ありゃ夢とは\nいわねえのかもな・・・{1a}あまりにもリアルすぎる。\nなのに意識を失っていた時間は\nほんの一瞬だ。{1a}{0c:523a42}何しろ、手に持ってた酒ビンが\n床に落ちるまでの間に\nその夢は終わってたんだからな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521119}{1c:11}{0b:08}【 Eugen 】{0b:09}\nMost everybody in this town saw your\nrun-in with them in a dream.{1a}{0c:522129}Right then I was at the counter drinkin',\nand all of a sudden a vision of that\ntemple came floodin' into my head.{1a}Seems we all got put to sleep at once\nand made to see the same dream.{1a}{0c:523132}No, maybe you can't even call that a\ndream...{1a}Way too real. And yet we were out for\nno more'n an instant.{1a}{0c:523a42}Hell, the dream was over before the\nbottle in my hand hit the floor.{0c:fe}",
+   "status": "done",
+   "tl": "Most everybody in this town saw your run-in with them in a dream. // [1]Right then I was at the counter drinkin', and all of a sudden a vision of that temple came floodin' into my head. // Seems we all got put to sleep at once and made to see the same dream. // [2]No, maybe you can't even call that a dream... // Way too real. And yet we were out for no more'n an instant. // [3]Hell, the dream was over before the bottle in my hand hit the floor."
   },
   {
    "id": "RES#1839:14919",
@@ -261,8 +272,9 @@
    "jp": "{1c:11}ともかく、俺達の見た夢が\n本当にあったことなのか\n確かめておきたかったのさ。{1a}{0c:524a4b}すまねえが、何があったか一から\n{e08f}{e090}してくれねえか?{0c:fe}",
    "read": "{1c:11}ともかく、俺達の見た夢が\n本当にあったことなのか\n確かめておきたかったのさ。{1a}{0c:524a4b}すまねえが、何があったか一から\n説明してくれねえか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}Anyway, I wanted to make sure what we\ndreamed really happened.{1a}{0c:524a4b}Sorry, but can you tell me what went on,\nfrom the start?{0c:fe}",
+   "status": "done",
+   "tl": "Anyway, I wanted to make sure what we dreamed really happened. // [1]Sorry, but can you tell me what went on, from the start?"
   },
   {
    "id": "RES#1839:14971",
@@ -283,8 +295,9 @@
    "jp": "{0c:52ff35ff36}{1c:13}{0b:08}{e080} オイゲン {e081}{0b:09}\n{e091}る程な。俺達の見たのは\nやつらの目から見た{e092}景だったのか。{0c:fe}",
    "read": "{0c:52ff35ff36}{1c:13}{0b:08}【 オイゲン 】{0b:09}\n成る程な。俺達の見たのは\nやつらの目から見た風景だったのか。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff35ff36}{1c:13}{0b:08}【 Eugen 】{0b:09}\nI see. So what we saw was the view\nthrough their eyes.{0c:fe}",
+   "status": "done",
+   "tl": "I see. So what we saw was the view through their eyes."
   },
   {
    "id": "RES#1839:149c7",
@@ -294,8 +307,9 @@
    "jp": "{0c:52ff37ff38}{1c:11}で、とにかく\n『{e094}神の{e095}』って所を越えて\n『始原の地』に行かなきゃ\nならねえわけだ。{1a}そして『悪魔』に\nならなきゃいけねえ、と・・・{1a}{0c:52535b}これがどうも引っかかる。\n悪魔になるってのは\nどういうことだ?{1a}{0c:52636b}悪い事すりゃいいのか?\nものを{e098}んだりとかよ。\nなら、この町の人間は\n{e099}分以上が悪魔だぜ。{0c:2b5409fe}",
    "read": "{0c:52ff37ff38}{1c:11}で、とにかく\n『精神の海』って所を越えて\n『始原の地』に行かなきゃ\nならねえわけだ。{1a}そして『悪魔』に\nならなきゃいけねえ、と・・・{1a}{0c:52535b}これがどうも引っかかる。\n悪魔になるってのは\nどういうことだ?{1a}{0c:52636b}悪い事すりゃいいのか?\nものを盗んだりとかよ。\nなら、この町の人間は\n半分以上が悪魔だぜ。{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff37ff38}{1c:11}So, anyhow, we gotta cross this 'Sea of\nSpirit' place and get to the 'Land of\nOrigin'.{1a}And we gotta become the 'Devil', huh...{1a}{0c:52535b}That's what's stickin' in my craw. What's\nit mean, becomin' the Devil?{1a}{0c:52636b}Just do bad things? Steal stuff and\nsuch? Then better'n half this town's\ndevils already.{0c:2b5409fe}",
+   "status": "done",
+   "tl": "So, anyhow, we gotta cross this 'Sea of Spirit' place and get to the 'Land of Origin'. // And we gotta become the 'Devil', huh... // [1]That's what's stickin' in my craw. What's it mean, becomin' the Devil? // [2]Just do bad things? Steal stuff and such? Then better'n half this town's devils already."
   },
   {
    "id": "RES#1839:14a95",
@@ -305,8 +319,9 @@
    "jp": "{0c:52ff48ff50}{1c:19}{0b:08}{e080} {e09a}{e09b}ティアラ {e081}{0b:09}\n彼らは言いました。\n悪魔とは『{e09c}しい世{e09d}』の到来を\n妨げる者、と。{1a}以前クムランさんも\nおっしゃっていましたが、{1a}『{e09c}しい世{e09d}』の到来を\n心の底から拒む者が\n悪魔なのではないでしょうか・・・{0c:2b5309fe}",
    "read": "{0c:52ff48ff50}{1c:19}{0b:08}【 司祭ティアラ 】{0b:09}\n彼らは言いました。\n悪魔とは『新しい世界』の到来を\n妨げる者、と。{1a}以前クムランさんも\nおっしゃっていましたが、{1a}『新しい世界』の到来を\n心の底から拒む者が\n悪魔なのではないでしょうか・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff48ff50}{1c:19}{0b:08}【 Priest Tiara 】{0b:09}\nThey said that the Devil is one who\nhinders the coming of the 'New World'.{1a}As Qumran-san also once said,{1a}could it be that the Devil is one who\nrefuses the coming of the 'New World'\nfrom the bottom of the heart...{0c:2b5309fe}",
+   "status": "done",
+   "tl": "They said that the Devil is one who hinders the coming of the 'New World'. // As Qumran-san also once said, // could it be that the Devil is one who refuses the coming of the 'New World' from the bottom of the heart..."
   },
   {
    "id": "RES#1839:14b37",
@@ -316,8 +331,9 @@
    "jp": "{0c:52737b}{1c:11}{0b:08}{e080} オイゲン {e081}{0b:09}\n裏を返せば、俺達はまだ心の底から\n『{e09c}しい世{e09d}』の到来を\n拒んでるわけじゃねえってことか?{1a}心のどこかで\nそのクソつまらねえ世{e09d}がくるのを\n望んでいるのか?{0c:fe}",
    "read": "{0c:52737b}{1c:11}{0b:08}【 オイゲン 】{0b:09}\n裏を返せば、俺達はまだ心の底から\n『新しい世界』の到来を\n拒んでるわけじゃねえってことか?{1a}心のどこかで\nそのクソつまらねえ世界がくるのを\n望んでいるのか?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52737b}{1c:11}{0b:08}【 Eugen 】{0b:09}\nFlip that over, and it means we ain't\nrefusin' the 'New World' from the\nbottom of our hearts yet?{1a}That somewhere in our hearts, we're\nhopin' that damn dull world comes?{0c:fe}",
+   "status": "done",
+   "tl": "Flip that over, and it means we ain't refusin' the 'New World' from the bottom of our hearts yet? // That somewhere in our hearts, we're hopin' that damn dull world comes?"
   },
   {
    "id": "RES#1839:14bb8",
@@ -338,8 +354,9 @@
    "jp": "{0c:52838b2b561000}{1c:13}{0b:08}{e080} オイゲン {e081}{0b:09}\nおう、サディーヤ。\nどうだった?{0c:2b5609fe}",
    "read": "{0c:52838b2b561000}{1c:13}{0b:08}【 オイゲン 】{0b:09}\nおう、サディーヤ。\nどうだった?{0c:2b5609fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52838b2b561000}{1c:13}{0b:08}【 Eugen 】{0b:09}\nHey, Sadiya. How'd it go?{0c:2b5609fe}",
+   "status": "done",
+   "tl": "Hey, Sadiya. How'd it go?"
   },
   {
    "id": "RES#1839:14c21",
@@ -349,8 +366,9 @@
    "jp": "{0c:52ffff54ffff5c}{1c:16}{0b:08}{e080} {e0a2}{e0a3}{e0a4}サディーヤ {e081}{0b:09}\n体の傷はもう{e0a5}っています。\nですが・・・{0c:2b5309fe}",
    "read": "{0c:52ffff54ffff5c}{1c:16}{0b:08}【 毒術師サディーヤ 】{0b:09}\n体の傷はもう治っています。\nですが・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffff54ffff5c}{1c:16}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nThe wounds to the body have healed.\nHowever...{0c:2b5309fe}",
+   "status": "done",
+   "tl": "The wounds to the body have healed. However..."
   },
   {
    "id": "RES#1839:14c62",
@@ -360,8 +378,9 @@
    "jp": "{0c:52939b}{1c:11}{0b:08}{e080} オイゲン {e081}{0b:09}\n心の傷か・・・{1a}そりゃショックだろうな・・・\nいきなり自分が道具だなんて\n言われたらよ。{1a}{0c:52a3ab}おまけに、奴の姉貴が\n貴{e0a6}{e083}にやられた酷い仕打ちも、\nあいつの一{e0a6}の悲劇も、{1a}{0c:52b3bb}全{e0a9}奴らの計画の{e0aa}だった、\nしかも奴らに傷1つつけることも\n出来ねえんじゃ、\n生きていくのも嫌になるぜ。{0c:2b5609fe}",
    "read": "{0c:52939b}{1c:11}{0b:08}【 オイゲン 】{0b:09}\n心の傷か・・・{1a}そりゃショックだろうな・・・\nいきなり自分が道具だなんて\n言われたらよ。{1a}{0c:52a3ab}おまけに、奴の姉貴が\n貴族共にやられた酷い仕打ちも、\nあいつの一族の悲劇も、{1a}{0c:52b3bb}全部奴らの計画の内だった、\nしかも奴らに傷1つつけることも\n出来ねえんじゃ、\n生きていくのも嫌になるぜ。{0c:2b5609fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52939b}{1c:11}{0b:08}【 Eugen 】{0b:09}\nThe wounds to the heart, huh...{1a}Sure, it'd be a shock... Bein' told all of a\nsudden you're just a tool.{1a}{0c:52a3ab}On top of that, the awful things those\nnobles did to his big sister, and his\npeople's tragedy,{1a}{0c:52b3bb}all of it was part of their plan, and he\ncan't so much as scratch 'em. That'd\nmake anybody sick of livin'.{0c:2b5609fe}",
+   "status": "done",
+   "tl": "The wounds to the heart, huh... // Sure, it'd be a shock... Bein' told all of a sudden you're just a tool. // [1]On top of that, the awful things those nobles did to his big sister, and his people's tragedy, // [2]all of it was part of their plan, and he can't so much as scratch 'em. That'd make anybody sick of livin'."
   },
   {
    "id": "RES#1839:14d37",
@@ -371,8 +390,9 @@
    "jp": "{0c:52ffff64ffff6c}{1c:18}{0b:08}{e080} {e0a2}{e0a3}{e0a4}サディーヤ {e081}{0b:09}\nでも、あの姉弟には死ぬことすら\n許されていないのです・・・{0c:2b5309fe}",
    "read": "{0c:52ffff64ffff6c}{1c:18}{0b:08}【 毒術師サディーヤ 】{0b:09}\nでも、あの姉弟には死ぬことすら\n許されていないのです・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffff64ffff6c}{1c:18}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nBut those siblings are not permitted\neven to die...{0c:2b5309fe}",
+   "status": "done",
+   "tl": "But those siblings are not permitted even to die..."
   },
   {
    "id": "RES#1839:14d82",
@@ -382,8 +402,9 @@
    "jp": "{0c:52c3cb}{0c:2b542352ff58ff59}{1c:11}{0b:08}{e080} オイゲン {e081}{0b:09}\nやるせねえ話だな・・・{0c:2b5609fe}",
    "read": "{0c:52c3cb}{0c:2b542352ff58ff59}{1c:11}{0b:08}【 オイゲン 】{0b:09}\nやるせねえ話だな・・・{0c:2b5609fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52c3cb}{0c:2b542352ff58ff59}{1c:11}{0b:08}【 Eugen 】{0b:09}\nThat's a hard thing to swallow...{0c:2b5609fe}",
+   "status": "done",
+   "tl": "That's a hard thing to swallow..."
   },
   {
    "id": "RES#1839:14db7",
@@ -393,8 +414,9 @@
    "jp": "{0c:52ffff74ffff7c2b551000}{1c:17}{0b:08}{e080} {e0a2}{e0a3}{e0a4}サディーヤ {e081}{0b:09}\nところで、\n先程の言{e0ac}のことなのですが・・・{0c:fe}",
    "read": "{0c:52ffff74ffff7c2b551000}{1c:17}{0b:08}【 毒術師サディーヤ 】{0b:09}\nところで、\n先程の言葉のことなのですが・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffff74ffff7c2b551000}{1c:17}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nIncidentally, about what was said a\nmoment ago...{0c:fe}",
+   "status": "done",
+   "tl": "Incidentally, about what was said a moment ago..."
   },
   {
    "id": "RES#1839:14dfc",
@@ -415,8 +437,9 @@
    "jp": "{0c:52ffff84ffff8c}{1c:17}『預言者を復活させる用意』と\n彼らは言いました。{1a}そして、自分達のことを\n『神の{e0af}弁者』とも言いました。\n矛{e0b2}してないでしょうか?{0c:2b5309fe}",
    "read": "{0c:52ffff84ffff8c}{1c:17}『預言者を復活させる用意』と\n彼らは言いました。{1a}そして、自分達のことを\n『神の代弁者』とも言いました。\n矛盾してないでしょうか?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffff84ffff8c}{1c:17}'Preparations to revive the Prophet',\nthey said.{1a}And they called themselves 'God's\nspokesmen'. Is that not a contradiction?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "'Preparations to revive the Prophet', they said. // And they called themselves 'God's spokesmen'. Is that not a contradiction?"
   },
   {
    "id": "RES#1839:14e79",
@@ -426,8 +449,9 @@
    "jp": "{0c:52d3db}{1c:12}{0b:08}{e080} オイゲン {e081}{0b:09}\nん? どこがだ?{0c:2b5509fe}",
    "read": "{0c:52d3db}{1c:12}{0b:08}【 オイゲン 】{0b:09}\nん? どこがだ?{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52d3db}{1c:12}{0b:08}【 Eugen 】{0b:09}\nHuh? Where's the contradiction?{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Huh? Where's the contradiction?"
   },
   {
    "id": "RES#1839:14ea3",
@@ -437,8 +461,9 @@
    "jp": "{0c:52ff9bffa3}{1c:14}{0b:08}{e080} クムラン {e081}{0b:09}\n私もそれが気になっていました・・・{1a}{0c:2b542351ff402b551000}『預言者』とは、\n神の意志を人{e0b4}に伝える者のこと。\nアノイア{e0b5}における\nアノイアがそれです。{1a}{0c:52ffabffb3}ですが、彼らは自分達のことを\n『神の{e0af}弁者』と言った。{0c:2b5309fe}",
    "read": "{0c:52ff9bffa3}{1c:14}{0b:08}【 クムラン 】{0b:09}\n私もそれが気になっていました・・・{1a}{0c:2b542351ff402b551000}『預言者』とは、\n神の意志を人々に伝える者のこと。\nアノイア教における\nアノイアがそれです。{1a}{0c:52ffabffb3}ですが、彼らは自分達のことを\n『神の代弁者』と言った。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff9bffa3}{1c:14}{0b:08}【 Qumran 】{0b:09}\nThat concerned me as well...{1a}{0c:2b542351ff402b551000}A 'Prophet' is one who conveys God's will\nto the people. In the Anoian faith, that\nis Anoia.{1a}{0c:52ffabffb3}Yet they called themselves 'God's\nspokesmen'.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "That concerned me as well... // [1]A 'Prophet' is one who conveys God's will to the people. In the Anoian faith, that is Anoia. // [2]Yet they called themselves 'God's spokesmen'."
   },
   {
    "id": "RES#1839:14f51",
@@ -448,8 +473,9 @@
    "jp": "{0c:52e3eb2b551000}{1c:12}{0b:08}{e080} オイゲン {e081}{0b:09}\n・・・ハァ?{0c:2b5409fe}",
    "read": "{0c:52e3eb2b551000}{1c:12}{0b:08}【 オイゲン 】{0b:09}\n・・・ハァ?{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52e3eb2b551000}{1c:12}{0b:08}【 Eugen 】{0b:09}\n...Huh?{0c:2b5409fe}",
+   "status": "done",
+   "tl": "...Huh?"
   },
   {
    "id": "RES#1839:14f7a",
@@ -459,8 +485,9 @@
    "jp": "{0c:52ff5aff62}{1c:1a}{0b:08}{e080} {e09a}{e09b}ティアラ {e081}{0b:09}\n聖{e0b6}によれば、\n{0c:2b532351eb2b541000}{0c:2b552351ff932b541000}アノイアの13人の弟子達は、{1a}神の子アノイアと同じように\n神の声を聞いたわけではないのです。{1a}神の声を聞いたのは\n預言者であるアノイア唯1人のみ。\n十{e0b8}聖者は、アノイアの言{e0ac}を\n{e0b9}に伝えたに過ぎないのです。{0c:2b5309fe}",
    "read": "{0c:52ff5aff62}{1c:1a}{0b:08}【 司祭ティアラ 】{0b:09}\n聖書によれば、\n{0c:2b532351eb2b541000}{0c:2b552351ff932b541000}アノイアの13人の弟子達は、{1a}神の子アノイアと同じように\n神の声を聞いたわけではないのです。{1a}神の声を聞いたのは\n預言者であるアノイア唯1人のみ。\n十三聖者は、アノイアの言葉を\n民に伝えたに過ぎないのです。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff5aff62}{1c:1a}{0b:08}【 Priest Tiara 】{0b:09}\nAccording to the Scriptures, {0c:2b532351eb2b541000}{0c:2b552351ff932b541000}Anoia's\nthirteen disciples{1a}did not hear God's voice as Anoia, the\nChild of God, did.{1a}Only Anoia, the Prophet, heard God's\nvoice. The Thirteen Saints merely\nconveyed Anoia's words to the people.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "According to the Scriptures, [1]Anoia's thirteen disciples // did not hear God's voice as Anoia, the Child of God, did. // Only Anoia, the Prophet, heard God's voice. The Thirteen Saints merely conveyed Anoia's words to the people."
   },
   {
    "id": "RES#1839:1504d",
@@ -470,8 +497,9 @@
    "jp": "{0c:52f3f4}{1c:12}{0b:08}{e080} オイゲン {e081}{0b:09}\nあのよ・・・\n全然話に付いていけねえんだが・・・\n分かるように言ってくれ。{1a}{0c:52f5f6}{0c:2b552351ff932b531000}お前ら3人に{e0ba}まれると\n自分が猿みたいな気分になってくる。{0c:2b5409fe}",
    "read": "{0c:52f3f4}{1c:12}{0b:08}【 オイゲン 】{0b:09}\nあのよ・・・\n全然話に付いていけねえんだが・・・\n分かるように言ってくれ。{1a}{0c:52f5f6}{0c:2b552351ff932b531000}お前ら3人に囲まれると\n自分が猿みたいな気分になってくる。{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52f3f4}{1c:12}{0b:08}【 Eugen 】{0b:09}\nLook here... I can't follow a word of this...\nSay it so I can understand.{1a}{0c:52f5f6}{0c:2b552351ff932b531000}Get surrounded by you three and I start\nfeelin' like a monkey.{0c:2b5409fe}",
+   "status": "done",
+   "tl": "Look here... I can't follow a word of this... Say it so I can understand. // [1]Get surrounded by you three and I start feelin' like a monkey."
   },
   {
    "id": "RES#1839:150d0",
@@ -493,8 +521,9 @@
    "jp": "{0c:52f7ff00}{1c:11}{0b:08}{e080} オイゲン {e081}{0b:09}\nいいよ。\n謝られると余計に情けなくなる。{0c:2b5509fe}",
    "read": "{0c:52f7ff00}{1c:11}{0b:08}【 オイゲン 】{0b:09}\nいいよ。\n謝られると余計に情けなくなる。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52f7ff00}{1c:11}{0b:08}【 Eugen 】{0b:09}\nForget it. Apologizin' just makes me feel\nmore pathetic.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Forget it. Apologizin' just makes me feel more pathetic."
   },
   {
    "id": "RES#1839:15137",
@@ -504,8 +533,9 @@
    "jp": "{0c:52ffbbffc3}{1c:14}{0b:08}{e080} クムラン {e081}{0b:09}\n1つだけ{e090}らかなこと・・・{1a}{0c:2b542352ff73ff7b2b551000}{0c:2b532351002b551000}舞台にまだ{e0be}場していない\n重要な俳優が1人いると\nいうことです。{0c:2b5309fe}",
    "read": "{0c:52ffbbffc3}{1c:14}{0b:08}【 クムラン 】{0b:09}\n1つだけ明らかなこと・・・{1a}{0c:2b542352ff73ff7b2b551000}{0c:2b532351002b551000}舞台にまだ登場していない\n重要な俳優が1人いると\nいうことです。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffbbffc3}{1c:14}{0b:08}【 Qumran 】{0b:09}\nOne thing alone is clear...{1a}{0c:2b542352ff73ff7b2b551000}{0c:2b532351002b551000}There is one important actor who has\nnot yet taken the stage.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "One thing alone is clear... // [1]There is one important actor who has not yet taken the stage."
   },
   {
    "id": "RES#1839:151ac",
@@ -515,8 +545,9 @@
    "jp": "{0c:52ff08ff10}{1c:11}{0b:08}{e080} オイゲン {e081}{0b:09}\nそれが預言者か?{0c:2b5509fe}",
    "read": "{0c:52ff08ff10}{1c:11}{0b:08}【 オイゲン 】{0b:09}\nそれが預言者か?{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff08ff10}{1c:11}{0b:08}【 Eugen 】{0b:09}\nThat'd be the Prophet?{0c:2b5509fe}",
+   "status": "done",
+   "tl": "That'd be the Prophet?"
   },
   {
    "id": "RES#1839:151d9",
@@ -526,8 +557,9 @@
    "jp": "{0c:52ffcbffd3}{1c:14}{0b:08}{e080} クムラン {e081}{0b:09}\nはい。{1a}『人{e0b4}の神を求める声が{e0c0}まり、\n復讐と怒りを{e09a}る{e0c2}まわしき魔物が\n{e0c3}{e09d}の神{e089}を血で汚した時、\n第二の預言者あらわれる・・・』{1a}この聖{e0b6}の{e0c5}述のうち、\n残念ながら、『神を求める声』と\n『復讐と怒りを{e09a}る魔物』については\n{e0c7}に条{e0c9}が満たされてしまいました。{1a}あの場に第二の預言者が\n{e0cb}れたわけではありませんが、\nその{e0be}場も時間の問題では\nないかと・・・{0c:2b5309fe}",
    "read": "{0c:52ffcbffd3}{1c:14}{0b:08}【 クムラン 】{0b:09}\nはい。{1a}『人々の神を求める声が高まり、\n復讐と怒りを司る忌まわしき魔物が\n天界の神殿を血で汚した時、\n第二の預言者あらわれる・・・』{1a}この聖書の記述のうち、\n残念ながら、『神を求める声』と\n『復讐と怒りを司る魔物』については\n既に条件が満たされてしまいました。{1a}あの場に第二の預言者が\n現れたわけではありませんが、\nその登場も時間の問題では\nないかと・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffcbffd3}{1c:14}{0b:08}【 Qumran 】{0b:09}\nYes.{1a}'When the voices of the people crying\nout for God swell, and a hateful monster\nruling vengeance and wrath stains the\ntemple of the Celestial Realm with{1a}blood, the second Prophet shall appear...'{1a}Of this passage in the Scriptures, I\nregret to say, the 'voices crying out for\nGod' and the 'monster ruling vengeance\nand wrath' have already been fulfilled.{1a}The second Prophet did not appear\nthere and then, but that appearance\nmay be only a matter of time...{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Yes. // 'When the voices of the people crying out for God swell, and a hateful monster ruling vengeance and wrath stains the temple of the Celestial Realm with blood, the second Prophet shall appear...' // Of this passage in the Scriptures, I regret to say, the 'voices crying out for God' and the 'monster ruling vengeance and wrath' have already been fulfilled. // The second Prophet did not appear there and then, but that appearance may be only a matter of time..."
   },
   {
    "id": "RES#1839:152eb",
@@ -537,8 +569,9 @@
    "jp": "{0c:52ff18ff19}{1c:11}{0b:08}{e080} オイゲン {e081}{0b:09}\nなんだかな・・・{1a}いつの間にこの無{e0cc}者の町が\n世{e09d}を救う戦いの最前{e0cd}に\nなっちまったんだ?{1a}{0c:52ff1aff1b}今までは{e087}や借{e0ce}のことを\n考えてりゃそれでよかったのに、\nいきなり相手は神サマだ。{1a}俺にはまだ全然ピンとこねえ。\n世{e09d}だの神サマだの\n十{e0b8}聖者だの言われてもよ。{0c:2b5509fe}",
    "read": "{0c:52ff18ff19}{1c:11}{0b:08}【 オイゲン 】{0b:09}\nなんだかな・・・{1a}いつの間にこの無法者の町が\n世界を救う戦いの最前線に\nなっちまったんだ?{1a}{0c:52ff1aff1b}今までは酒や借金のことを\n考えてりゃそれでよかったのに、\nいきなり相手は神サマだ。{1a}俺にはまだ全然ピンとこねえ。\n世界だの神サマだの\n十三聖者だの言われてもよ。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff18ff19}{1c:11}{0b:08}【 Eugen 】{0b:09}\nWhat the hell...{1a}When'd this outlaw town turn into the\nfront line of a war to save the world?{1a}{0c:52ff1aff1b}All I ever had to think about was drink\nand debts, and all of a sudden we're up\nagainst God.{1a}It still ain't sunk in. Talk to me about the\nworld, God and the Thirteen Saints all\nyou want.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "What the hell... // When'd this outlaw town turn into the front line of a war to save the world? // [1]All I ever had to think about was drink and debts, and all of a sudden we're up against God. // It still ain't sunk in. Talk to me about the world, God and the Thirteen Saints all you want."
   },
   {
    "id": "RES#1839:153b8",
@@ -548,8 +581,9 @@
    "jp": "{0c:52ffdbffe3}{1c:15}{0b:08}{e080} クムラン {e081}{0b:09}\nそうですね。{1a}でも、世{e09d}を救うなどと\n大げさに考えなくとも\nいいと思います。{1a}まだやりたいことがある、\n話をしたい人がいる・・・\nそれだけでいいのでは\nないでしょうか。{0c:2b5309fe}",
    "read": "{0c:52ffdbffe3}{1c:15}{0b:08}【 クムラン 】{0b:09}\nそうですね。{1a}でも、世界を救うなどと\n大げさに考えなくとも\nいいと思います。{1a}まだやりたいことがある、\n話をしたい人がいる・・・\nそれだけでいいのでは\nないでしょうか。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffdbffe3}{1c:15}{0b:08}【 Qumran 】{0b:09}\nQuite so.{1a}But I do not think we need to make so\ngrand a thing of saving the world.{1a}There are still things we wish to do,\npeople we wish to speak with... Is that\nnot enough?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Quite so. // But I do not think we need to make so grand a thing of saving the world. // There are still things we wish to do, people we wish to speak with... Is that not enough?"
   },
   {
    "id": "RES#1839:15435",
@@ -559,8 +593,9 @@
    "jp": "{0c:52ff23ff24}{1c:13}{0b:08}{e080} オイゲン {e081}{0b:09}\nそうだな・・・{1a}まあともかく先に進むしかあるまい。\nだろ? クムラン。{0c:2b5509fe}",
    "read": "{0c:52ff23ff24}{1c:13}{0b:08}【 オイゲン 】{0b:09}\nそうだな・・・{1a}まあともかく先に進むしかあるまい。\nだろ? クムラン。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff23ff24}{1c:13}{0b:08}【 Eugen 】{0b:09}\nI s'pose...{1a}Well, anyhow, all we can do is keep goin'.\nRight, Qumran?{0c:2b5509fe}",
+   "status": "done",
+   "tl": "I s'pose... // Well, anyhow, all we can do is keep goin'. Right, Qumran?"
   },
   {
    "id": "RES#1839:1547d",
@@ -581,8 +616,9 @@
    "jp": "{0c:52ff2cff2d}{1c:10}{0b:08}{e080} オイゲン {e081}{0b:09}\n悪かったな。\n疲れてるのに{e0cf}び止めてよ。{0c:2b5509fe}",
    "read": "{0c:52ff2cff2d}{1c:10}{0b:08}【 オイゲン 】{0b:09}\n悪かったな。\n疲れてるのに呼び止めてよ。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff2cff2d}{1c:10}{0b:08}【 Eugen 】{0b:09}\nSorry 'bout that. Stoppin' you when\nyou're tired.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Sorry 'bout that. Stoppin' you when you're tired."
   },
   {
    "id": "RES#1839:154da",
@@ -592,8 +628,9 @@
    "jp": "{0c:52fffbffff04}{1c:14}{0b:08}{e080} クムラン {e081}{0b:09}\n疲れを充分に{e0d1}して下さい。{1a}『{e094}神の{e095}』にあるものは\nおそらく人間の心・・・{1a}{0c:52ffff0cffff14}そして十{e0b8}聖者は、\n『{e094}神の{e095}』には最も自分を\n知る者と行きなさいと告げました。{1a}{0c:52ffff1cffff24}今までの魔物から考えて、\n自分自身、もしくは仲間の心の\n何かが具{e0cb}{e0d3}するのではないかと\n考えられます。{1a}{0c:52ffff2cffff34}仲間を信頼し戦い抜いて下さい。\n皆さんなら出来るはずです。{0c:fe}",
    "read": "{0c:52fffbffff04}{1c:14}{0b:08}【 クムラン 】{0b:09}\n疲れを充分に癒して下さい。{1a}『精神の海』にあるものは\nおそらく人間の心・・・{1a}{0c:52ffff0cffff14}そして十三聖者は、\n『精神の海』には最も自分を\n知る者と行きなさいと告げました。{1a}{0c:52ffff1cffff24}今までの魔物から考えて、\n自分自身、もしくは仲間の心の\n何かが具現化するのではないかと\n考えられます。{1a}{0c:52ffff2cffff34}仲間を信頼し戦い抜いて下さい。\n皆さんなら出来るはずです。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52fffbffff04}{1c:14}{0b:08}【 Qumran 】{0b:09}\nPlease rest well.{1a}What lies in the 'Sea of Spirit' is, in all\nlikelihood, the human heart...{1a}{0c:52ffff0cffff14}And the Thirteen Saints told us to\nenter the 'Sea of Spirit' with the one\nwho knows us best.{1a}{0c:52ffff1cffff24}Judging by the monsters so far, I expect\nsomething from your own hearts, or your\ncompanions', will take form.{1a}{0c:52ffff2cffff34}Trust one another and fight through to\nthe end. You are all surely capable of it.{0c:fe}",
+   "status": "done",
+   "tl": "Please rest well. // What lies in the 'Sea of Spirit' is, in all likelihood, the human heart... // [1]And the Thirteen Saints told us to enter the 'Sea of Spirit' with the one who knows us best. // [2]Judging by the monsters so far, I expect something from your own hearts, or your companions', will take form. // [3]Trust one another and fight through to the end. You are all surely capable of it."
   },
   {
    "id": "RES#1839:155ec",

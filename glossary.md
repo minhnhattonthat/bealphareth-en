@@ -360,6 +360,22 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 太陽帝国 | Sun Empire | | | Solar Empire |
 | 新しい世界 | New World | | | |
 | セルツ鋼 | Seltz steel | | | |
+| 親衛騎士団 | Royal Guard Knights | | | |
+| プリースト・マジック | Priest Magic | | | |
+| ウーザー | Uther | | | |
+| ガゥエイン | Gawain | | | |
+| マリーン | Merlin | | | |
+| ヴァレーリア | Valeria | | | |
+| ゲーリング | Goering | | | |
+| ジェオルジウス | Georgius | | | |
+| サン・タンジェロ城 | Castel Sant'Angelo | | | |
+| ニコラウス | Nicolaus | | | |
+| アントニウス | Antonius | | | |
+| 闇の巫女 | Dark Priestess | | | |
+| 星詠みの祭司長 | high priest of star-reading | | | |
+| 初星の祭儀 | First Star rite | | | |
+| 青の一族 | Blue Clan | | | |
+| 肉体世界 | physical world | | | |
 | タッセル商会 | Tassel Trading House | | | |
 | 魔の12月 | Demon December | | | |
 | バーゼル | Basel | | | |
