@@ -115,6 +115,7 @@ class Codec:
                     out.append(" ")
                 elif c == 0x7C:
                     out.append("|")
+                    mode = 2  # the engine starts each option in hiragana mode
                 elif mode == 1:
                     out.append(chr(c))
                 else:
@@ -173,8 +174,7 @@ class Codec:
                 continue
             if ch == "|":
                 out.append(0x7C)
-                if en:  # the engine starts each option in hiragana mode
-                    mode = 2
+                mode = 2  # the engine starts each option in hiragana mode
                 i += 1
                 continue
             entry = self.rev.get(ch)

@@ -354,6 +354,8 @@ def main():
             if s["id"] in old:
                 s["en"] = old[s["id"]].get("en", "")
                 s["status"] = old[s["id"]].get("status", "todo")
+                if "tl" in old[s["id"]]:
+                    s["tl"] = old[s["id"]]["tl"]
         with open(path, "w", encoding="utf-8", newline="\n") as f:
             json.dump(doc, f, ensure_ascii=False, indent=1)
             f.write("\n")
