@@ -35,8 +35,9 @@ def sprite_sheets(b):
             break
         if flags & 0x8000:
             comp, raw = struct.unpack_from("<II", b, at + 8)
-            if raw != w * h // 2 or at + 16 + comp > len(b):
+            if raw != w * h // 2 or at + 8 + comp > len(b):
                 break
+            comp -= 8  # the field counts itself and the raw size
             out.append((w, h, rle_decode(b[at + 16:at + 16 + comp], raw), pal))
             at += 16 + ((comp + 3) & ~3)
         else:

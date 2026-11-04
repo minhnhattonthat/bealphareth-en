@@ -25,12 +25,24 @@ def test_rle_exact_fills_the_old_size_with_no_padding():
         assert len(packed) == base + spare
         assert gfx.rle_decode(packed, len(raw)) == raw
         i = 0
-        while i < len(packed):  # the game counts packed bytes: tokens must end exactly at the end, none empty
-            assert packed[i] != 0
+        while i < len(packed):  # tokens end exactly at the end, and only shapes the original sheets use: runs of 2+
+            assert packed[i] >= 2
             i += 2 if packed[i] < 0x80 else 257 - packed[i]
         assert i == len(packed)
     with pytest.raises(ValueError):
         sprites.rle_exact(raw, base - 1)
+
+
+def test_sheet_stream_stops_8_bytes_short_of_its_packed_field():
+    stream = bytes([4, 7])
+    head = struct.pack("<4HII", 0x8000, 4, 2, 0, len(stream) + 8, 4)
+    pal = struct.pack("<II", 0x28, 1) + bytes(32)
+    blob = pal + head + stream + b"NEXT"
+    [(_, _, at, _, _, _, comp, raw, _)] = list(sprites.sheets_at(blob, 0, 0))
+    assert (comp, raw) == (2, bytes([7] * 4))
+    b = bytearray(blob)
+    sprites.pack_into(b, at, 0x8000, comp, bytes([9] * 4))
+    assert b.endswith(bytes([4, 9]) + b"NEXT")
 
 
 def test_m2_bank_parses_and_rejects_bad_offsets():

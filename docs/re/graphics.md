@@ -4,7 +4,7 @@
 
 ## Formats (verified by rendering; tools named)
 
-- **Sprite sheet** (`tools/gfx.py`): u32 palette bytes + 8, u32 palette count, 16-colour palettes, then records `u16 flags, w, h, 0`. Flag 0x8000: `u32 packed, u32 raw`, then RLE (n<0x80: repeat next byte n times; n>=0x80: copy 256-n literals). Otherwise raw 4bpp. Stand-alone entries, and inside scene overlays.
+- **Sprite sheet** (`tools/gfx.py`): u32 palette bytes + 8, u32 palette count, 16-colour palettes, then records `u16 flags, w, h, 0`. Flag 0x8000: `u32 packed, u32 raw`, where `packed` counts those 8 bytes too, so the stream is `packed - 8` bytes and the next part's header follows it (all 1,189 packed sheets; writing `packed` bytes hung the ending scenes). Then RLE (n<0x80: repeat next byte n times; n>=0x80: copy 256-n literals). Otherwise raw 4bpp. Stand-alone entries, and inside scene overlays.
 - **Scene parts** (`tools/gfx_part.py`, `sweep_overlays.py`): section 2 is `char name[8], u32 n, u32 off[n]`; part k starts at `sec + 16 + off[k]`, checked on #1023 (M4 text, sprite sheets at exact offsets).
 - **MDEC BS v2 still** (`tools/bs.py`): `u16 codes, 0x3800, u16 qscale, u16 2`, 320x480, 600 macroblocks. Decoder is luma only and survey-grade; **no encoder yet**. Re-inserting a page needs a BS v2 encoder that fits the entry (slots are 0x800-aligned; read buffer limit not yet measured).
 - **8bpp full screen** (`u16 1, u16 ncolors`, palette, pixels; `tools/gfx8.py`): #2250-2252, #3922-3926, #4108-4124. Width not pinned down (not 320).

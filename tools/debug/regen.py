@@ -41,7 +41,8 @@ def parse_scenes():
     for name, body in re.findall(r"^S\.(\w+) = (.*(?:\n  .*)*)$", t, re.M):
         d = {}
         if body.startswith("field("):
-            d.update(map=171, base="field")
+            m = re.search(r"map = (\d+)", body)
+            d.update(map=int(m.group(1)) if m else 171, base="field")
         elif 'base = "route"' in body or "route =" in body:
             d["base"] = "route"
         m = re.search(r"frames = (\d+)", body)
@@ -53,6 +54,8 @@ def parse_scenes():
         if r:
             d["route"] = r.group(1)
         out[name] = d
+    for m in re.finditer(r"^S\.(\w+)\.frames = (\d+)", t, re.M):
+        out[m.group(1)]["frames"] = int(m.group(2))
     for m in re.finditer(r"^S\.(\w+)\.blank = true", t, re.M):
         out[m.group(1)]["blank"] = True
     for m in re.finditer(r'ipairs\(\{([^}]*)\}\) do S\["([ms])" \.\. id\]\.blank = true', t):
@@ -62,7 +65,7 @@ def parse_scenes():
 
 
 def one(a):
-    name, sc, rom, outdir, state = a
+    name, sc, rom, outdir, state, every, length = a
     out = outdir / name
     if sc.get("base") == "route":
         route = ROOT / sc.get("route", NEWGAME)
@@ -74,10 +77,13 @@ def one(a):
             frames = FIELD_FRAMES + 1500 + (sc.get("frames") or 0)
         else:
             frames = sc.get("frames") or OPENING_FRAMES
+    frames = length or frames
     cmd = [sys.executable, "-X", "utf8", f"{SKILL}/scripts/emu.py", str(rom), "--out", str(out), "--route", str(route),
            "--script", str(WARP), "--var", f"SCENES_LUA=[[{SCENES.as_posix()}]]", "--var", f"SCENE='{name}'",
            "--frames", str(frames), "--shots", ",".join(str(frames - d) for d in (900, 600, 300)),
            "--timeout", "280", "--mash-key", "circle"]
+    if every:
+        cmd += ["--shot-every", str(every)]
     if sc.get("mash"):
         cmd += ["--mash", "60"]
     if state:
@@ -101,6 +107,8 @@ def main():
     ap.add_argument("--out", default="work/qa/scenes")
     ap.add_argument("--state", action="store_true")
     ap.add_argument("--field-frames", type=int, help="frames to hand control (longer text in a marker build takes longer)")
+    ap.add_argument("--every", type=int, help="also a shot every N frames: cards and captions come and go")
+    ap.add_argument("--frames", type=int, help="run length instead of the scene's own")
     a = ap.parse_args()
     if a.field_frames:
         global FIELD_FRAMES
@@ -111,7 +119,7 @@ def main():
     outdir.mkdir(parents=True, exist_ok=True)
     rows = []
     with cf.ThreadPoolExecutor(a.jobs) as ex:
-        for r in ex.map(one, [(n, scenes[n], ROOT / a.rom, outdir, a.state) for n in names]):
+        for r in ex.map(one, [(n, scenes[n], ROOT / a.rom, outdir, a.state, a.every, a.frames) for n in names]):
             rows.append(r)
             print(*r, flush=True)
     res = outdir / "result.tsv"

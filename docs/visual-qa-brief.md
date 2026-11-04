@@ -27,7 +27,10 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
 - text still typing out, a box mid-fade or mid-scroll, a cursor caught mid-blink;
 - a map or scene still loading after a warp;
 - anything identical in the original's sheet.
-- <game-specific: e.g. "the double cursor in the shop is the original's">
+- Sub-scenes (`sNNN`) are force-loaded on a guessed parent map: a garbled mission card behind them, or a black screen, is an artefact of the warp. The text in them still counts.
+- A flat black shot on m223, s305, s319, s357, s1197, s1198, s1370, s1683, s1684, s2034: these draw nothing when forced.
+- The hero is Weld, default name, in a warped scene; other party members may be absent. Debug screens (`debug_*`) are the developers' own English.
+- Tiles are half size: zoom before you call any small text wrong. Each sheet has a `.txt` beside it naming its tiles in order; use those names in verdicts. The Japanese disc's shots of the same scenes are `work/qa/scenes/<name>/final.png`, so compare with `sheet.py --compare`.
 
 ## Verdicts
 Write your verdict file once you have read every sheet, one line per id in the chunk:

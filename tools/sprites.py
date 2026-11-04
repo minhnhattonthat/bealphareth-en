@@ -63,8 +63,8 @@ def rle_encode(raw):
 
 
 def rle_exact(raw, size):
-    """rle_encode(raw) grown to exactly `size` bytes. The game's decoder counts packed bytes, and zero padding of odd length
-    runs it past the end (scene 236 hung). Runs turn into literals, literals split, until nothing is left to pad."""
+    """rle_encode(raw) grown to exactly `size` bytes, so a sheet's stream ends where the original's did, in tokens the originals
+    use (runs of 2+, literals of 1+). Runs turn into literals, literals split, until nothing is left to pad."""
     packed = rle_encode(raw)
     spare = size - len(packed)
     if spare < 0:
@@ -78,8 +78,8 @@ def rle_exact(raw, size):
     out = []
     for t in tokens:
         n = t[0]
-        if spare >= 2 and 2 <= n < 0x80:
-            m = min(n - 1, spare - 1)  # m literal bytes then a run of n - m: m + 1 bytes more
+        if spare >= 2 and 3 <= n < 0x80:
+            m = min(n - 2, spare - 1)  # m literal bytes then a run of n - m: m + 1 bytes more
             out += [bytes([256 - m]) + t[1:2] * m, bytes([n - m]) + t[1:2]]
             spare -= m + 1
         else:
@@ -126,8 +126,9 @@ def sheets_at(b, base, off):
         raw = w * h // 2
         if flags & 0x8000:
             comp, rawn = struct.unpack_from("<II", b, at + 8)
-            if rawn != raw or at + 16 + comp > len(b):
+            if rawn != raw or at + 8 + comp > len(b):
                 return
+            comp -= 8  # the field counts itself and the raw size; what follows the stream is the next part's header
             yield off, k, at, flags, w, h, comp, gfx.rle_decode(b[at + 16:at + 16 + comp], raw), pal
             at += 16 + ((comp + 3) & ~3)
         else:
@@ -225,10 +226,13 @@ def draw_block(px, block, pal, used):
     edge = Image.new("L", (w, h), 0)
     dc, de = ImageDraw.Draw(cover), ImageDraw.Draw(edge)
     r = ramp(pal, used)
+    if block.get("dark"):  # lettering that is dark with a light edge, on parchment: bright ink would vanish into it
+        r.reverse()
     small = fnt.size <= CRISP
     if small and len(r) < 6:  # smoothing small text with few greys turns it to mush
         dc.fontmode = de.fontmode = "1"
-    y = y0 + max(0, (y1 - y0 - step * len(lines)) // 2)
+    top, bottom = fnt.getbbox("H")[1], fnt.getbbox("g")[3] + step * (len(lines) - 1)  # ink, not the line box: a tail stays in
+    y = y0 + (y1 - y0 - (bottom - top)) // 2 - top
     for s in lines:
         x = x0 + (x1 - x0 - fnt.getlength(s)) / 2 if block.get("align") == "center" else x0
         dc.text((x, y), s, font=fnt, fill=255)
@@ -260,7 +264,7 @@ def edited(px, page, pal):
         out[y0:y1, x0:x1] = 0
     used = np.concatenate(used) if used else px.ravel()
     for block in page.get("blocks", []):
-        draw_block(out, block, pal, used)
+        draw_block(out, {"dark": page.get("dark"), **block}, pal, used)
     return out
 
 

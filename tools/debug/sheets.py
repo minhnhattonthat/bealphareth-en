@@ -33,20 +33,22 @@ def order(name):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--out", default=str(OUT / "sheets"))
+    ap.add_argument("--scenes", type=Path, default=OUT, help="the regen.py output to page")
+    ap.add_argument("--out", help="default SCENES/sheets")
     ap.add_argument("--per", type=int, default=24)
     ap.add_argument("--cols", type=int, default=6)
     a = ap.parse_args()
-    out = Path(a.out)
+    scenes = a.scenes
+    out = Path(a.out) if a.out else scenes / "sheets"
     out.mkdir(parents=True, exist_ok=True)
 
     proven = {}
-    res = OUT / "result.tsv"
+    res = scenes / "result.tsv"
     if res.exists():
         for line in res.read_text().splitlines()[1:]:
             f = line.split("\t")
             proven[f[0]] = f[1] == "True"
-    names = sorted((p.name for p in OUT.iterdir() if (p / "final.png").exists()), key=order)
+    names = sorted((p.name for p in scenes.iterdir() if (p / "final.png").exists()), key=order)
     missing = [n for n in names if n not in proven]
     if missing:
         print(f"{len(missing)} dirs without a result.tsv row: {missing[:8]}", file=sys.stderr)
@@ -55,7 +57,7 @@ def main():
         names_g = [n for n in names if kind(n) == group]
         for page, i in enumerate(range(0, len(names_g), a.per), 1):
             chunk = names_g[i:i + a.per]
-            imgs = [sheet.read_png(str(OUT / n / "final.png")) for n in chunk]
+            imgs = [sheet.read_png(str(scenes / n / "final.png")) for n in chunk]
             path = out / f"{group}_{page:02d}.png"
             sheet.sheet(imgs, a.cols, str(path), div=2)
             (out / f"{group}_{page:02d}.txt").write_text("\n".join(chunk) + "\n")

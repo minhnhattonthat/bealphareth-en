@@ -44,6 +44,9 @@ for id, parent in pairs(SUBS) do S["s" .. id] = { map = parent, sub = id } end
 -- content only appears inside their event (phase 5 sees them in the marker tour). Tried: parent 42/44/219 renders the
 -- parent's own mission card unchanged, so the black is not a wrong parent.
 for _, id in ipairs({ 305, 319, 357, 1197, 1198, 1370, 1683, 1684, 2034 }) do S["s" .. id].blank = true end
+-- 2034 (marked ボツ, cut) jumps to map 189, a zero-byte entry, at about f6840: black forever on the Japanese disc, an emulator
+-- freeze on the English one. Stop before the dead jump.
+S.s2034.frames = 6800
 
 -- Screens. All from the tavern with the hero in hand; keys open the game's own menus.
 local function field(keys, extra)
@@ -52,6 +55,7 @@ local function field(keys, extra)
   return t
 end
 S.field_tavern = field("30 -")
+S.field_library = field("30 -", { map = 178 }) -- Monster Guide and bookshelves: the BS still pages
 -- 120 frames first: the flag warp.lua waits for is up before the field takes input, and an early Start is lost
 S.menu_main = field("120 -;6 start;60 -")
 S.menu_tabs = field("120 -;6 start;30 -;6 circle;60 -")
