@@ -32,6 +32,7 @@ Sources: boot-to-first-mission tour (`work/qa/t2`, cold boot, frames to 23,500) 
 | 14 | Floor and area names: 上層, 階層, 天宮, 回廊, 地上へ ... | #217+22df8 | Sprite sheet | Yes | Redraw; find what indexes each cell |
 | 15 | World map names (黒の老道, 地下都市, 煉獄 天界, 時の回廊, 精神の海, 始原の地, アスラ・ファエル) and hint ↓↑選択/○決定 | #217+e4a0 | Sprite sheet | Yes | Redraw |
 | 16 | Two more mission title cards | #10+23e48, #26+28ca0 | Sprite sheet | Yes | With row 7 |
+| 17 | White caption on black: この仕組まれた「平和」は人類にとってあまりにも長すぎた。 | Seen on 14 forced sub-scenes in the marker tour (e.g. `m250`); not in `script/` (`tools/jp_gap.py`). Source not found yet | Unknown | Yes | Find with `tools/vramview.py` in phase 7 |
 
 Already English, no work: `NEW GAME / LOAD GAME / PUSH START BUTTON` (#3946), `Game Over` (#3943), "The pulsing heartbeat dies out, faltering quietly." (#3942), HUD labels `Hp/max Lv Rest Atk Dex Exp Arm` (#3936), element labels (#3944), digits and days/time (#3954), Sony and Zealsoft logos. Character cards #2216-#2246: art only.
 
@@ -39,7 +40,7 @@ Already English, no work: `NEW GAME / LOAD GAME / PUSH START BUTTON` (#3946), `G
 
 Say so rather than treat this as complete:
 
-- **Mid-game screens** were not toured: only the first mission's start. The phase-2 warp now reaches all 306 scenes, but naming the Japanese on them needs the marker build (phase 5), which reveals what did not change.
+- **Mid-game screens:** the marker tour (phase 5) shot all 306 scenes once, at their first text. Mission cards (row 7), floor names (row 14) and row 17 stayed Japanese, as expected for graphics. A scene's later events and battle screens were not seen.
 - **Rows 14-16 came from a second overlay pass** I read myself at thumbnail size (13 scenes, 41 sheets, `sweep_overlays.py OUT <entries>`), not from codex. 26 further overlays (#226, #229, #303.. #360, #570, #1732) have no part table: the four inspected are code stubs of 0x9B-0x2E8F bytes with no assets, the rest not inspected one by one. `docs/re/warp.md` now sorts them: 24 are identical 0x9C empty stubs, #226 is a code stub, #229/#1000/#1002 crash on load.
 - **Map tile classes** (`00 00 xx xx`, about 300 entries, #2301-#2599, plus similar at #3327-#3396, #3729-#3793, #4700-#4803) render as noise at the guessed width: layout unknown, not read. Lettering there is unlikely, not excluded.
 - **Unknown formats skipped:** 0x30 frame tables (no pixels), #1244-style 0x28 entries that fail the palette check (23), `DUMMY` #2955/#3215, #3673/#3674, #3795-3797, #3930-3938, #3947-3955.

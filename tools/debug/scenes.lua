@@ -52,11 +52,14 @@ local function field(keys, extra)
   return t
 end
 S.field_tavern = field("30 -")
-S.menu_main = field("6 start;60 -")
-S.menu_item = field("6 start;40 -;6 circle;60 -")
-S.menu_status = field("6 start;40 -;6 down;30 -;6 circle;90 -")
-S.menu_help = field("6 start;40 -;6 down;30 -;6 down;30 -;6 circle;240 -")
-S.menu_system = field("6 start;40 -;6 down;30 -;6 down;30 -;6 down;30 -;6 circle;60 -")
+-- 120 frames first: the flag warp.lua waits for is up before the field takes input, and an early Start is lost
+S.menu_main = field("120 -;6 start;60 -")
+S.menu_tabs = field("120 -;6 start;30 -;6 circle;60 -")
+S.menu_item = field("120 -;6 start;30 -;6 circle;30 -;6 circle;60 -")
+S.menu_status = field("120 -;6 start;30 -;6 circle;30 -;6 right;30 -;6 circle;60 -")
+S.menu_help = field("120 -;6 start;30 -;6 circle;30 -;6 right;30 -;6 right;30 -;6 circle;60 -")
+S.menu_party = field("120 -;6 start;30 -;6 down;30 -;6 circle;60 -")
+S.menu_system = field("120 -;6 start;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 circle;60 -")
 -- Leftover debug menu (Aug 24 2000), R2+Cross with debug on: its screens are English and never shipped text.
 local D = "20 r2+cross;40 -;"
 S.debug_menu = field(D, { debug = true })

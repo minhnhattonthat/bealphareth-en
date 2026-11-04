@@ -40,8 +40,9 @@ u32 offset[count]   // relative to byte 8; entry data at offset+8, 0x800-aligned
 ```
 u32 2, u32 size_total, u32 8, u32 sec2_offset
 +0x10 code (MIPS) ...
-sec2_offset: char name[8]; u32 n; u32 off[n]; part k starts at sec2_offset + 16 + off[k]
+sec2_offset: char name[8]; u32 n; u32 size; u32 off[n]; part k starts at sec2_offset + 16 + off[k]
 ```
+The two offset fields (`size`, `off[]`) and the header's `size_total` must all follow when a message bank grows; a table read one word off left the last part unshifted and crashed the map load (verified: `tools/insert.py`, marker build). Nothing in the code or parts addresses a later part absolutely (`tools/ov_refs.py`, and every scene loads in the marker tour).
 Example #1023: size_total 0x84DB4, sec2 at 0x10114 with 31 parts; slot 0xA0000, so 0x1B24F bytes unused on disc.
 
 ## Free space

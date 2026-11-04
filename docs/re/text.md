@@ -13,7 +13,7 @@ No Shift-JIS game text anywhere; a raw SJIS scan finds only debug and save-title
 `tools/mscan.py` (+ `work/qa/banks.tsv`): 15 M4 and 325 M2 banks, **60,464 unique strings, 2.78 MB** (66,579 / 3.0 MB with duplicates; repeated banks: e.g. #1194/1195/1196/1198, #6/#7). Its M4 count is low: it only accepts an M4 whose parts are all M2, so the usual scene form (glyphs + M2) is counted through its M2. **The scene form is `M4 [glyph part, M2 part]` and occurs 264 times** (`tools/extract.py` scans for it); `tools/extract.py` is the authoritative scanner now.
 - The M2 in a scene holds the event script: each string is one event chunk (text + inline script opcodes).
 - `PSX.EXE` +0x1B4C0 M4 (7 parts, 1,737 strings, 30,660 bytes): system text: items, skills, status. **`RES#3927` holds a second copy of the same M4**: keep in sync.
-- **`MAIN.EXE` has raw strings too**, NUL-separated with no bank (196 of them: ability/trap help at 0x3400, debug labels): phase 4 extracts them (`raw_blocks` in `tools/extract.py`).
+- **`MAIN.EXE` has loose strings too**, NUL-terminated with no bank: trap and ability names and help at file 0x2D74..0x3E60 and 0x91BDC..0x91CC0. A 0x3C-stride table at file 0x901FC..0x91620 points at all of them (name +0, help +0x38), and no other word points there. `extract.main_loose` reads that table. An earlier density heuristic also picked up code as text; overwriting it hung the game.
 
 ## Encoding (verified: 今 80EB, 回 82CF, は 4F, お 2A, で 47, decoded lines match the screen)
 
@@ -57,15 +57,15 @@ Arg counts above are from the disassembly; the roundtrip in `tests/test_text.py`
 - One-byte fonts: ASCII at file 0x16B90 (idx = c-0x21), hiragana at 0x17250 (108), katakana at 0x17780 (191); all inside the same 16-byte-cell table addressed as `fontbase + 0xBE8 + idx*16` (draw 0x800314CC, font pointer = `*(gp+0x8E4)` set at 0x8004FEC4 from bank 0 of 0x801B9000). The kana glyphs are a custom pixel font, not MS Gothic, so their code order comes from the engine code above, not OCR.
 - Scene fonts: a scene's M4 part 0 is a glyph bank of 16-byte cells, addressed by `E0`+ codes as `(hi-0xE0)*112 + (lo-0x80)`. 264 scene fonts hold 1,399 distinct glyph bitmaps; all but 115 are identified.
 - Drawing: 0x800317F8 (code, height 0xB) with the font pointer at gp+0x8E4; caller 0x8004F244 advances **12 px per full glyph, 6 px when bit 0 of s3 is set (half-width mode exists)**. Rasterised 4bpp into a VRAM text cache around x=896, y=0 (`tools/vramview.py --4bpp 896,0,128,256`).
-- No per-glyph width table seen. English needs VWF or the half-width path: phase 5.
+- No per-glyph width table in the original. English uses a VWF: `vwf.md`.
 
 ## Extraction (phase 4)
 
 `tools/extract.py` writes `script/<source>.json`: one file per message-bank source (MAIN.EXE, PSX.EXE, RES#N), one entry per string with `id` (source:file offset), `off`, `len`, `bank`, `jp`, `en`, `status`. Ids are address-based and the JSON keeps `jp` beside `en` for diffs.
-- **61,794 strings from 279 sources**: 1,737 in the PSX.EXE system M4 (items, skills, names, status), 154-880 per scene overlay, 196 loose strings in MAIN.EXE (ability/trap help, NUL-separated outside any bank).
-- **Roundtrip is exact for all 61,794** (`tests/test_text.py`, run from the original disc). Strings whose original stream carried a redundant mode switch keep it as an explicit `{01}`/`{02}`/`{03}` token, so nothing is lost.
+- **61,774 strings from 279 sources**: 1,737 in the PSX.EXE system M4 (items, skills, names, status), 154-880 per scene overlay, 172 pointer targets in MAIN.EXE (ability/trap names and help).
+- **Roundtrip is exact for all of them** (`tests/test_text.py`, run from the original disc). Strings whose original stream carried a redundant mode switch keep it as an explicit `{01}`/`{02}`/`{03}` token, so nothing is lost.
 - 2.2% of glyph instances decode to a `{hi lo}` token because that cell's character is not yet identified (115 distinct cells, see the review sheets `work/qa/glyphs/`). The most common ones are the name-plate brackets: `{87ac}`/`{87ad}` (base font, 6.7k uses each) and their scene-font copies `{e080}`/`{e081}` (6.9k/5.9k) are a mirrored pair of vertical bracket strokes, and `{e082}` (1.1k) is a kanji the reviewer has to read from a shot before translating. Same for the 16 `9F` large-glyph cells.
-- Coverage: every M4/M2 bank on the disc is found and its strings tile the bank (test), and `script/` is regenerated from the disc in the test, so a stale dump fails. Loose text outside banks is found by a density heuristic (`raw_blocks`), which is the one place a string could still be missed; the phase-5 marker build with `jp_left.py` is the backstop for that.
+- Coverage: every M4/M2 bank on the disc is found and its strings tile the bank (test), and `script/` is regenerated from the disc in the test, so a stale dump fails. Loose text is table-driven (above); the marker tour is the backstop for anything else.
 
 
 ## Reader map

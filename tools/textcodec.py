@@ -134,7 +134,9 @@ class Codec:
         return "".join(out)
 
     # -- encode ------------------------------------------------------------------
-    def encode(self, text):
+    def encode(self, text, en=False):
+        """en: new text, not a decoded original. A printed variable or a mode restore can leave any mode, so the next
+        glyph states its mode again (an exact roundtrip of the original must not add those bytes)."""
         out = bytearray()
         mode = 2
         i, n = 0, len(text)
@@ -144,6 +146,8 @@ class Codec:
                 if not m:
                     raise ValueError("bad token at %d: %r" % (i, text[i:i + 12]))
                 code = int(m.group(1), 16) if m.group(1) else 0
+                if en and (0x10 <= code <= 0x19 or (code == 0x0B and m.group(2) not in ("08", "09"))):
+                    mode = None
                 if code in (1, 2, 3):
                     out.append(code)
                     mode = code
@@ -169,6 +173,8 @@ class Codec:
                 continue
             if ch == "|":
                 out.append(0x7C)
+                if en:  # the engine starts each option in hiragana mode
+                    mode = 2
                 i += 1
                 continue
             entry = self.rev.get(ch)
@@ -181,6 +187,8 @@ class Codec:
                 i += 1
                 continue
             need, code = entry
+            if en and ch == " ":  # 4 px in ASCII mode; the kana modes draw it 12 wide
+                need = 1
             if need is not None and need != mode:
                 out.append(need)
                 mode = need

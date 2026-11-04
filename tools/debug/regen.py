@@ -100,7 +100,11 @@ def main():
     ap.add_argument("--jobs", type=int, default=8)
     ap.add_argument("--out", default="work/qa/scenes")
     ap.add_argument("--state", action="store_true")
+    ap.add_argument("--field-frames", type=int, help="frames to hand control (longer text in a marker build takes longer)")
     a = ap.parse_args()
+    if a.field_frames:
+        global FIELD_FRAMES
+        FIELD_FRAMES = a.field_frames
     scenes = parse_scenes()
     names = [n for n in scenes if not a.names or any(fnmatch.fnmatch(n, p) for p in a.names)]
     outdir = ROOT / a.out

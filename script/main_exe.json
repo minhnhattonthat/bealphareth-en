@@ -5,92 +5,8 @@
   {
    "kind": "raw",
    "at": 11636,
-   "end": 12173,
-   "runs": 18
-  },
-  {
-   "kind": "raw",
-   "at": 12288,
-   "end": 14085,
-   "runs": 59
-  },
-  {
-   "kind": "raw",
-   "at": 14248,
-   "end": 14793,
-   "runs": 12
-  },
-  {
-   "kind": "raw",
-   "at": 14884,
-   "end": 15197,
-   "runs": 10
-  },
-  {
-   "kind": "raw",
-   "at": 15288,
-   "end": 15585,
-   "runs": 9
-  },
-  {
-   "kind": "raw",
-   "at": 15676,
-   "end": 15837,
-   "runs": 6
-  },
-  {
-   "kind": "raw",
-   "at": 30798,
-   "end": 30890,
-   "runs": 3
-  },
-  {
-   "kind": "raw",
-   "at": 86250,
-   "end": 86282,
-   "runs": 4
-  },
-  {
-   "kind": "raw",
-   "at": 254148,
-   "end": 254260,
-   "runs": 3
-  },
-  {
-   "kind": "raw",
-   "at": 257888,
-   "end": 257906,
-   "runs": 3
-  },
-  {
-   "kind": "raw",
-   "at": 314303,
-   "end": 314347,
-   "runs": 3
-  },
-  {
-   "kind": "raw",
-   "at": 321067,
-   "end": 321091,
-   "runs": 3
-  },
-  {
-   "kind": "raw",
-   "at": 412044,
-   "end": 412054,
-   "runs": 3
-  },
-  {
-   "kind": "raw",
-   "at": 565793,
-   "end": 566126,
-   "runs": 28
-  },
-  {
-   "kind": "raw",
-   "at": 596956,
    "end": 597179,
-   "runs": 28
+   "runs": 172
   }
  ],
  "strings": [
@@ -100,6 +16,7 @@
    "len": 38,
    "bank": null,
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に油をかける",
+   "read": "     起     空 地\n{02}周囲の{03}ユニット{02}に油をかける",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -110,6 +27,7 @@
    "len": 41,
    "bank": null,
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}を雷撃で攻撃",
+   "read": "     起     空 地\n{02}周囲の{03}ユニット{02}を雷撃で攻撃",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -120,6 +38,7 @@
    "len": 45,
    "bank": null,
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に凍結攻撃",
+   "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に凍結攻撃",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -130,6 +49,7 @@
    "len": 10,
    "bank": null,
    "jp": "アイスロック1",
+   "read": "アイスロック1",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -140,6 +60,7 @@
    "len": 45,
    "bank": null,
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に雷撃攻撃",
+   "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に雷撃攻撃",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -150,6 +71,7 @@
    "len": 11,
    "bank": null,
    "jp": "サンダーロック1",
+   "read": "サンダーロック1",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -160,6 +82,7 @@
    "len": 42,
    "bank": null,
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に水をまく",
+   "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に水をまく",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -170,6 +93,7 @@
    "len": 11,
    "bank": null,
    "jp": "ウォータロック1",
+   "read": "ウォータロック1",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -180,6 +104,7 @@
    "len": 42,
    "bank": null,
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に油をまく",
+   "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に油をまく",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -190,6 +115,7 @@
    "len": 11,
    "bank": null,
    "jp": "オイルブロック1",
+   "read": "オイルブロック1",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -200,6 +126,7 @@
    "len": 43,
    "bank": null,
    "jp": "       爆   空 地\n{02}攻撃を与えると周囲に凍結爆発",
+   "read": "       爆   空 地\n{02}攻撃を与えると周囲に凍結爆発",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -210,6 +137,7 @@
    "len": 9,
    "bank": null,
    "jp": "アイスボム1",
+   "read": "アイスボム1",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -220,6 +148,7 @@
    "len": 43,
    "bank": null,
    "jp": "       爆   空 地\n{02}攻撃を与えると周囲に雷撃爆発",
+   "read": "       爆   空 地\n{02}攻撃を与えると周囲に雷撃爆発",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -230,6 +159,7 @@
    "len": 10,
    "bank": null,
    "jp": "サンダーボム1",
+   "read": "サンダーボム1",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -240,6 +170,7 @@
    "len": 42,
    "bank": null,
    "jp": "   障 起     空 地\n{02}前方の{03}ユニット{02}を吸い寄せる柱",
+   "read": "   障 起     空 地\n{02}前方の{03}ユニット{02}を吸い寄せる柱",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -250,6 +181,7 @@
    "len": 9,
    "bank": null,
    "jp": "バキューム2",
+   "read": "バキューム2",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -260,6 +192,7 @@
    "len": 42,
    "bank": null,
    "jp": "   障 起     空 地\n{02}前方の{03}ユニット{02}を吸い寄せる柱",
+   "read": "   障 起     空 地\n{02}前方の{03}ユニット{02}を吸い寄せる柱",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -270,6 +203,40 @@
    "len": 9,
    "bank": null,
    "jp": "バキューム3",
+   "read": "バキューム3",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:2f90",
+   "off": 12176,
+   "len": 37,
+   "bank": null,
+   "jp": "   障     踏 空 地\n{02}障害物になる頑丈な柱",
+   "read": "   障     踏 空 地\n{02}障害物になる頑丈な柱",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:2fb8",
+   "off": 12216,
+   "len": 40,
+   "bank": null,
+   "jp": "   障     踏 空 地\n{02}障害物になる、横に広がる柱",
+   "read": "   障     踏 空 地\n{02}障害物になる、横に広がる柱",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:2fe0",
+   "off": 12256,
+   "len": 32,
+   "bank": null,
+   "jp": "   障     踏 空 地\n{02}障害物になる柱",
+   "read": "   障     踏 空 地\n{02}障害物になる柱",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -280,6 +247,7 @@
    "len": 41,
    "bank": null,
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}を雷撃で攻撃",
+   "read": "     起     空 地\n{02}周囲の{03}ユニット{02}を雷撃で攻撃",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -290,6 +258,7 @@
    "len": 41,
    "bank": null,
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}を雷撃で攻撃",
+   "read": "     起     空 地\n{02}周囲の{03}ユニット{02}を雷撃で攻撃",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -300,6 +269,7 @@
    "len": 37,
    "bank": null,
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}を凍らせる",
+   "read": "     起     空 地\n{02}周囲の{03}ユニット{02}を凍らせる",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -310,6 +280,7 @@
    "len": 37,
    "bank": null,
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}を凍らせる",
+   "read": "     起     空 地\n{02}周囲の{03}ユニット{02}を凍らせる",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -320,6 +291,7 @@
    "len": 38,
    "bank": null,
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に水をかける",
+   "read": "     起     空 地\n{02}周囲の{03}ユニット{02}に水をかける",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -330,6 +302,7 @@
    "len": 9,
    "bank": null,
    "jp": "ウォータ-2",
+   "read": "ウォータ-2",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -340,6 +313,7 @@
    "len": 38,
    "bank": null,
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に水をかける",
+   "read": "     起     空 地\n{02}周囲の{03}ユニット{02}に水をかける",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -350,6 +324,7 @@
    "len": 9,
    "bank": null,
    "jp": "ウォータ-3",
+   "read": "ウォータ-3",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -360,6 +335,7 @@
    "len": 38,
    "bank": null,
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に油をかける",
+   "read": "     起     空 地\n{02}周囲の{03}ユニット{02}に油をかける",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -370,6 +346,7 @@
    "len": 38,
    "bank": null,
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に油をかける",
+   "read": "     起     空 地\n{02}周囲の{03}ユニット{02}に油をかける",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -380,6 +357,7 @@
    "len": 38,
    "bank": null,
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に火をつける",
+   "read": "     起     空 地\n{02}周囲の{03}ユニット{02}に火をつける",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -390,6 +368,18 @@
    "len": 38,
    "bank": null,
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に火をつける",
+   "read": "     起     空 地\n{02}周囲の{03}ユニット{02}に火をつける",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:31b0",
+   "off": 12720,
+   "len": 40,
+   "bank": null,
+   "jp": "         踏   地\n{02}上に乗った{03}ユニット{02}を弾き飛ばす",
+   "read": "         踏   地\n{02}上に乗った{03}ユニット{02}を弾き飛ばす",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -400,6 +390,7 @@
    "len": 11,
    "bank": null,
    "jp": "フリップパネル1",
+   "read": "フリップパネル1",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -410,6 +401,7 @@
    "len": 43,
    "bank": null,
    "jp": "       爆   空 地\n{02}攻撃を与えると周囲に凍結爆発",
+   "read": "       爆   空 地\n{02}攻撃を与えると周囲に凍結爆発",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -420,6 +412,7 @@
    "len": 9,
    "bank": null,
    "jp": "アイスボム2",
+   "read": "アイスボム2",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -430,6 +423,7 @@
    "len": 43,
    "bank": null,
    "jp": "       爆   空 地\n{02}攻撃を与えると周囲に凍結爆発",
+   "read": "       爆   空 地\n{02}攻撃を与えると周囲に凍結爆発",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -440,6 +434,7 @@
    "len": 9,
    "bank": null,
    "jp": "アイスボム3",
+   "read": "アイスボム3",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -450,6 +445,7 @@
    "len": 43,
    "bank": null,
    "jp": "       爆   空 地\n{02}攻撃を与えると周囲に燃焼爆発",
+   "read": "       爆   空 地\n{02}攻撃を与えると周囲に燃焼爆発",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -460,6 +456,7 @@
    "len": 10,
    "bank": null,
    "jp": "フレイムボム2",
+   "read": "フレイムボム2",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -470,6 +467,7 @@
    "len": 43,
    "bank": null,
    "jp": "       爆   空 地\n{02}攻撃を与えると周囲に燃焼爆発",
+   "read": "       爆   空 地\n{02}攻撃を与えると周囲に燃焼爆発",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -480,6 +478,7 @@
    "len": 10,
    "bank": null,
    "jp": "フレイムボム3",
+   "read": "フレイムボム3",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -490,6 +489,7 @@
    "len": 43,
    "bank": null,
    "jp": "       爆   空 地\n{02}攻撃を与えると周囲に雷撃爆発",
+   "read": "       爆   空 地\n{02}攻撃を与えると周囲に雷撃爆発",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -500,6 +500,7 @@
    "len": 10,
    "bank": null,
    "jp": "サンダーボム2",
+   "read": "サンダーボム2",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -510,6 +511,7 @@
    "len": 43,
    "bank": null,
    "jp": "       爆   空 地\n{02}攻撃を与えると周囲に雷撃爆発",
+   "read": "       爆   空 地\n{02}攻撃を与えると周囲に雷撃爆発",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -520,6 +522,7 @@
    "len": 10,
    "bank": null,
    "jp": "サンダーボム3",
+   "read": "サンダーボム3",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -530,6 +533,7 @@
    "len": 45,
    "bank": null,
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に雷撃攻撃",
+   "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に雷撃攻撃",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -540,6 +544,7 @@
    "len": 11,
    "bank": null,
    "jp": "サンダーロック2",
+   "read": "サンダーロック2",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -550,6 +555,7 @@
    "len": 45,
    "bank": null,
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に雷撃攻撃",
+   "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に雷撃攻撃",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -560,6 +566,7 @@
    "len": 11,
    "bank": null,
    "jp": "サンダーロック3",
+   "read": "サンダーロック3",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -570,6 +577,7 @@
    "len": 45,
    "bank": null,
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に凍結攻撃",
+   "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に凍結攻撃",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -580,6 +588,7 @@
    "len": 10,
    "bank": null,
    "jp": "アイスロック2",
+   "read": "アイスロック2",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -590,6 +599,7 @@
    "len": 45,
    "bank": null,
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に凍結攻撃",
+   "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に凍結攻撃",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -600,6 +610,7 @@
    "len": 10,
    "bank": null,
    "jp": "アイスロック3",
+   "read": "アイスロック3",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -610,6 +621,7 @@
    "len": 38,
    "bank": null,
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に火をつける",
+   "read": "     起     空 地\n{02}周囲の{03}ユニット{02}に火をつける",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -620,6 +632,7 @@
    "len": 45,
    "bank": null,
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に燃焼攻撃",
+   "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に燃焼攻撃",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -630,6 +643,7 @@
    "len": 11,
    "bank": null,
    "jp": "フレイムロック2",
+   "read": "フレイムロック2",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -640,6 +654,7 @@
    "len": 45,
    "bank": null,
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に燃焼攻撃",
+   "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に燃焼攻撃",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -650,6 +665,7 @@
    "len": 11,
    "bank": null,
    "jp": "フレイムロック3",
+   "read": "フレイムロック3",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -660,6 +676,7 @@
    "len": 42,
    "bank": null,
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に水をまく",
+   "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に水をまく",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -670,6 +687,7 @@
    "len": 11,
    "bank": null,
    "jp": "ウォータロック2",
+   "read": "ウォータロック2",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -680,6 +698,7 @@
    "len": 42,
    "bank": null,
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に水をまく",
+   "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に水をまく",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -690,6 +709,7 @@
    "len": 11,
    "bank": null,
    "jp": "ウォータロック3",
+   "read": "ウォータロック3",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -700,6 +720,7 @@
    "len": 42,
    "bank": null,
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に油をまく",
+   "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に油をまく",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -710,6 +731,7 @@
    "len": 11,
    "bank": null,
    "jp": "オイルブロック2",
+   "read": "オイルブロック2",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -720,6 +742,7 @@
    "len": 42,
    "bank": null,
    "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に油をまく",
+   "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に油をまく",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -730,6 +753,18 @@
    "len": 11,
    "bank": null,
    "jp": "オイルブロック3",
+   "read": "オイルブロック3",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:35a4",
+   "off": 13732,
+   "len": 40,
+   "bank": null,
+   "jp": "         踏   地\n{02}上に乗った{03}ユニット{02}を弾き飛ばす",
+   "read": "         踏   地\n{02}上に乗った{03}ユニット{02}を弾き飛ばす",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -740,6 +775,18 @@
    "len": 11,
    "bank": null,
    "jp": "フリップパネル2",
+   "read": "フリップパネル2",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:35d8",
+   "off": 13784,
+   "len": 40,
+   "bank": null,
+   "jp": "         踏   地\n{02}上に乗った{03}ユニット{02}を弾き飛ばす",
+   "read": "         踏   地\n{02}上に乗った{03}ユニット{02}を弾き飛ばす",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -750,6 +797,7 @@
    "len": 11,
    "bank": null,
    "jp": "フリップパネル3",
+   "read": "フリップパネル3",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -760,6 +808,7 @@
    "len": 24,
    "bank": null,
    "jp": "   敵用{03}トラップ\n{02}敵用{03}トラップ",
+   "read": "   敵用{03}トラップ\n{02}敵用{03}トラップ",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -770,6 +819,7 @@
    "len": 11,
    "bank": null,
    "jp": "炎機雷え敵ぉ",
+   "read": "炎機雷え敵ぉ",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -780,6 +830,7 @@
    "len": 24,
    "bank": null,
    "jp": "   敵用{03}トラップ\n{02}敵用{03}トラップ",
+   "read": "   敵用{03}トラップ\n{02}敵用{03}トラップ",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -790,6 +841,7 @@
    "len": 11,
    "bank": null,
    "jp": "氷機雷え敵ぉ",
+   "read": "氷機雷え敵ぉ",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -800,6 +852,7 @@
    "len": 43,
    "bank": null,
    "jp": "       爆   空 地\n{02}攻撃を与えると周囲に燃焼爆発",
+   "read": "       爆   空 地\n{02}攻撃を与えると周囲に燃焼爆発",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -810,6 +863,7 @@
    "len": 10,
    "bank": null,
    "jp": "フレイムボム1",
+   "read": "フレイムボム1",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -820,6 +874,7 @@
    "len": 24,
    "bank": null,
    "jp": "   敵用{03}トラップ\n{02}敵用{03}トラップ",
+   "read": "   敵用{03}トラップ\n{02}敵用{03}トラップ",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -829,7 +884,8 @@
    "off": 13988,
    "len": 13,
    "bank": null,
-   "jp": "霙気機雷え敵ぉ",
+   "jp": "電気機雷え敵ぉ",
+   "read": "電気機雷え敵ぉ",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -840,6 +896,7 @@
    "len": 24,
    "bank": null,
    "jp": "   敵用{03}トラップ\n{02}敵用{03}トラップ",
+   "read": "   敵用{03}トラップ\n{02}敵用{03}トラップ",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -850,6 +907,18 @@
    "len": 11,
    "bank": null,
    "jp": "毒機雷え敵ぉ",
+   "read": "毒機雷え敵ぉ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:36d8",
+   "off": 14040,
+   "len": 36,
+   "bank": null,
+   "jp": "   {0e}障 起 爆 踏 空 地ぼ・ゆ\n{02}使用できません",
+   "read": "   {0e}障 起 爆 踏 空 地ぼ・ゆ\n{02}使用できません",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -860,6 +929,51 @@
    "len": 9,
    "bank": null,
    "jp": "トラップなし",
+   "read": "トラップなし",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3708",
+   "off": 14088,
+   "len": 36,
+   "bank": null,
+   "jp": "   仲間{01}1人 消費: 9\n{02}{01}HP{02}を少し回復する",
+   "read": "   仲間{01}1人 消費: 9\n{02}{01}HP{02}を少し回復する",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:372c",
+   "off": 14124,
+   "len": 37,
+   "bank": null,
+   "jp": "   仲間{01}1人 消費: 42\n{02}{01}HP{02}をかなり回復する",
+   "read": "   仲間{01}1人 消費: 42\n{02}{01}HP{02}をかなり回復する",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3754",
+   "off": 14164,
+   "len": 45,
+   "bank": null,
+   "jp": "   仲間全員 消費{01}: 80\n{02}全員の{01}HP{02}を完全に回復する",
+   "read": "   仲間全員 消費{01}: 80\n{02}全員の{01}HP{02}を完全に回復する",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3784",
+   "off": 14212,
+   "len": 35,
+   "bank": null,
+   "jp": "   仲間{01}1人 消費: 8\n{02}毒状態を回復する",
+   "read": "   仲間{01}1人 消費: 8\n{02}毒状態を回復する",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -870,6 +984,18 @@
    "len": 9,
    "bank": null,
    "jp": "ポイズンクリス",
+   "read": "ポイズンクリス",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:37b4",
+   "off": 14260,
+   "len": 41,
+   "bank": null,
+   "jp": "   仲間{01}1人 消費: 8\n{02}精神異常状態を回復する",
+   "read": "   仲間{01}1人 消費: 8\n{02}精神異常状態を回復する",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -880,6 +1006,18 @@
    "len": 10,
    "bank": null,
    "jp": "スピリットコイン",
+   "read": "スピリットコイン",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:37ec",
+   "off": 14316,
+   "len": 45,
+   "bank": null,
+   "jp": "   仲間{01}1人 消費: 12\n{02}状態異常をすべて回復する    ",
+   "read": "   仲間{01}1人 消費: 12\n{02}状態異常をすべて回復する    ",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -890,6 +1028,18 @@
    "len": 9,
    "bank": null,
    "jp": "ロイヤルカード",
+   "read": "ロイヤルカード",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3828",
+   "off": 14376,
+   "len": 40,
+   "bank": null,
+   "jp": "   仲間{01}1人 消費: 4\n{02}魔法封じ状態を回復する",
+   "read": "   仲間{01}1人 消費: 4\n{02}魔法封じ状態を回復する",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -900,6 +1050,7 @@
    "len": 10,
    "bank": null,
    "jp": "マジックシンボル",
+   "read": "マジックシンボル",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -910,6 +1061,7 @@
    "len": 38,
    "bank": null,
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}に水をかける",
+   "read": "     起     空 地\n{02}周囲の{03}ユニット{02}に水をかける",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -920,6 +1072,18 @@
    "len": 9,
    "bank": null,
    "jp": "ウォータ-1",
+   "read": "ウォータ-1",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3890",
+   "off": 14480,
+   "len": 40,
+   "bank": null,
+   "jp": "   自分   消費{01}: 12\n{02}熱攻撃耐性を{03}アップ{02}する",
+   "read": "   自分   消費{01}: 12\n{02}熱攻撃耐性を{03}アップ{02}する",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -930,6 +1094,18 @@
    "len": 10,
    "bank": null,
    "jp": "フレアサーリット",
+   "read": "フレアサーリット",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:38c4",
+   "off": 14532,
+   "len": 40,
+   "bank": null,
+   "jp": "   自分   消費{01}: 12\n{02}冷攻撃耐性を{03}アップ{02}する",
+   "read": "   自分   消費{01}: 12\n{02}冷攻撃耐性を{03}アップ{02}する",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -940,6 +1116,18 @@
    "len": 10,
    "bank": null,
    "jp": "コルドサーリット",
+   "read": "コルドサーリット",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:38f8",
+   "off": 14584,
+   "len": 42,
+   "bank": null,
+   "jp": "   自分   消費{01}: 12\n{02}雷撃攻撃耐性を{03}アップ{02}する",
+   "read": "   自分   消費{01}: 12\n{02}雷撃攻撃耐性を{03}アップ{02}する",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -950,6 +1138,18 @@
    "len": 10,
    "bank": null,
    "jp": "ライトサーリット",
+   "read": "ライトサーリット",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3930",
+   "off": 14640,
+   "len": 47,
+   "bank": null,
+   "jp": "   自分   消費{01}: 8\n{02}一定時間敵の魔法弾を跳ね返す  ",
+   "read": "   自分   消費{01}: 8\n{02}一定時間敵の魔法弾を跳ね返す  ",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -960,6 +1160,7 @@
    "len": 9,
    "bank": null,
    "jp": "エルヴンマント",
+   "read": "エルヴンマント",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -970,6 +1171,18 @@
    "len": 37,
    "bank": null,
    "jp": "   前方   消費{01}: 2\n{02}炎属性の魔法弾   ",
+   "read": "   前方   消費{01}: 2\n{02}炎属性の魔法弾   ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3994",
+   "off": 14740,
+   "len": 41,
+   "bank": null,
+   "jp": "   前方   消費{01}: 24\n{02}炎属性の広範囲魔法弾",
+   "read": "   前方   消費{01}: 24\n{02}炎属性の広範囲魔法弾",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -980,6 +1193,29 @@
    "len": 9,
    "bank": null,
    "jp": "フレアスパイク",
+   "read": "フレアスパイク",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:39cc",
+   "off": 14796,
+   "len": 41,
+   "bank": null,
+   "jp": "   前方   消費{01}: 15\n{02}炎属性の小範囲爆発弾",
+   "read": "   前方   消費{01}: 15\n{02}炎属性の小範囲爆発弾",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:39f8",
+   "off": 14840,
+   "len": 41,
+   "bank": null,
+   "jp": "   前方   消費{01}: 35\n{02}炎属性の広範囲爆発弾",
+   "read": "   前方   消費{01}: 35\n{02}炎属性の広範囲爆発弾",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -990,6 +1226,7 @@
    "len": 9,
    "bank": null,
    "jp": "フレアハンマー",
+   "read": "フレアハンマー",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1000,6 +1237,7 @@
    "len": 38,
    "bank": null,
    "jp": "   前方   消費{01}: 4\n{02}炎属性の低速貫通弾",
+   "read": "   前方   消費{01}: 4\n{02}炎属性の低速貫通弾",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1010,6 +1248,7 @@
    "len": 9,
    "bank": null,
    "jp": "フレアスリング",
+   "read": "フレアスリング",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1020,6 +1259,7 @@
    "len": 39,
    "bank": null,
    "jp": "   前方   消費{01}: 10\n{02}炎属性の高速貫通弾",
+   "read": "   前方   消費{01}: 10\n{02}炎属性の高速貫通弾",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1030,6 +1270,7 @@
    "len": 10,
    "bank": null,
    "jp": "フレアジャベリン",
+   "read": "フレアジャベリン",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1040,6 +1281,7 @@
    "len": 42,
    "bank": null,
    "jp": "   障 起     空 地\n{02}前方の{03}ユニット{02}を吸い寄せる柱",
+   "read": "   障 起     空 地\n{02}前方の{03}ユニット{02}を吸い寄せる柱",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1050,6 +1292,7 @@
    "len": 9,
    "bank": null,
    "jp": "バキューム1",
+   "read": "バキューム1",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1060,6 +1303,7 @@
    "len": 45,
    "bank": null,
    "jp": "   前方直線 消費{01}: 40\n{02}炎属性の最高位攻撃魔法",
+   "read": "   前方直線 消費{01}: 40\n{02}炎属性の最高位攻撃魔法",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1070,6 +1314,18 @@
    "len": 37,
    "bank": null,
    "jp": "   前方   消費{01}: 2\n{02}氷属性の魔法弾   ",
+   "read": "   前方   消費{01}: 2\n{02}氷属性の魔法弾   ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3b28",
+   "off": 15144,
+   "len": 41,
+   "bank": null,
+   "jp": "   前方   消費{01}: 24\n{02}氷属性の広範囲魔法弾",
+   "read": "   前方   消費{01}: 24\n{02}氷属性の広範囲魔法弾",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1080,6 +1336,29 @@
    "len": 9,
    "bank": null,
    "jp": "コルドスパイク",
+   "read": "コルドスパイク",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3b60",
+   "off": 15200,
+   "len": 41,
+   "bank": null,
+   "jp": "   前方   消費{01}: 15\n{02}氷属性の小範囲爆発弾",
+   "read": "   前方   消費{01}: 15\n{02}氷属性の小範囲爆発弾",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3b8c",
+   "off": 15244,
+   "len": 41,
+   "bank": null,
+   "jp": "   前方   消費{01}: 35\n{02}氷属性の広範囲爆発弾",
+   "read": "   前方   消費{01}: 35\n{02}氷属性の広範囲爆発弾",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1090,6 +1369,7 @@
    "len": 9,
    "bank": null,
    "jp": "コルドハンマー",
+   "read": "コルドハンマー",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1100,6 +1380,7 @@
    "len": 38,
    "bank": null,
    "jp": "   前方   消費{01}: 4\n{02}氷属性の低速貫通弾",
+   "read": "   前方   消費{01}: 4\n{02}氷属性の低速貫通弾",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1110,6 +1391,7 @@
    "len": 9,
    "bank": null,
    "jp": "コルドスリング",
+   "read": "コルドスリング",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1120,6 +1402,7 @@
    "len": 39,
    "bank": null,
    "jp": "   前方   消費{01}: 10\n{02}氷属性の高速貫通弾",
+   "read": "   前方   消費{01}: 10\n{02}氷属性の高速貫通弾",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1130,6 +1413,7 @@
    "len": 10,
    "bank": null,
    "jp": "コルドジャベリン",
+   "read": "コルドジャベリン",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1140,6 +1424,7 @@
    "len": 45,
    "bank": null,
    "jp": "   前方直線 消費{01}: 40\n{02}氷属性の最高位攻撃魔法",
+   "read": "   前方直線 消費{01}: 40\n{02}氷属性の最高位攻撃魔法",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1150,6 +1435,18 @@
    "len": 37,
    "bank": null,
    "jp": "   前方   消費{01}: 1\n{02}雷属性の魔法弾   ",
+   "read": "   前方   消費{01}: 1\n{02}雷属性の魔法弾   ",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3c84",
+   "off": 15492,
+   "len": 41,
+   "bank": null,
+   "jp": "   前方   消費{01}: 24\n{02}雷属性の広範囲魔法弾",
+   "read": "   前方   消費{01}: 24\n{02}雷属性の広範囲魔法弾",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1160,6 +1457,7 @@
    "len": 9,
    "bank": null,
    "jp": "ライトスパイク",
+   "read": "ライトスパイク",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1170,6 +1468,29 @@
    "len": 37,
    "bank": null,
    "jp": "     起     空 地\n{02}周囲の{03}ユニット{02}を凍らせる",
+   "read": "     起     空 地\n{02}周囲の{03}ユニット{02}を凍らせる",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3ce4",
+   "off": 15588,
+   "len": 41,
+   "bank": null,
+   "jp": "   前方   消費{01}: 15\n{02}雷属性の小範囲爆発弾",
+   "read": "   前方   消費{01}: 15\n{02}雷属性の小範囲爆発弾",
+   "raw": null,
+   "en": "",
+   "status": "todo"
+  },
+  {
+   "id": "MAIN.EXE:3d10",
+   "off": 15632,
+   "len": 41,
+   "bank": null,
+   "jp": "   前方   消費{01}: 35\n{02}雷属性の広範囲爆発弾",
+   "read": "   前方   消費{01}: 35\n{02}雷属性の広範囲爆発弾",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1180,6 +1501,7 @@
    "len": 9,
    "bank": null,
    "jp": "ライトハンマー",
+   "read": "ライトハンマー",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1190,6 +1512,7 @@
    "len": 38,
    "bank": null,
    "jp": "   前方   消費{01}: 4\n{02}雷属性の低速貫通弾",
+   "read": "   前方   消費{01}: 4\n{02}雷属性の低速貫通弾",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1200,6 +1523,7 @@
    "len": 9,
    "bank": null,
    "jp": "ライトスリング",
+   "read": "ライトスリング",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1210,6 +1534,7 @@
    "len": 39,
    "bank": null,
    "jp": "   前方   消費{01}: 10\n{02}雷属性の高速貫通弾",
+   "read": "   前方   消費{01}: 10\n{02}雷属性の高速貫通弾",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1220,6 +1545,7 @@
    "len": 10,
    "bank": null,
    "jp": "ライトジャベリン",
+   "read": "ライトジャベリン",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1230,506 +1556,40 @@
    "len": 45,
    "bank": null,
    "jp": "   前方直線 消費{01}: 40\n{02}雷属性の最高位攻撃魔法",
+   "read": "   前方直線 消費{01}: 40\n{02}雷属性の最高位攻撃魔法",
    "raw": null,
    "en": "",
    "status": "todo"
   },
   {
-   "id": "MAIN.EXE:784e",
-   "off": 30798,
-   "len": 8,
+   "id": "MAIN.EXE:3de0",
+   "off": 15840,
+   "len": 63,
    "bank": null,
-   "jp": "{02}ぜ敵ぢご{03}",
+   "jp": "○○○○○○○○○○○○○○○\n{02}○○○○○○○○○○○○○○○",
+   "read": "○○○○○○○○○○○○○○○\n{02}○○○○○○○○○○○○○○○",
    "raw": null,
    "en": "",
    "status": "todo"
   },
   {
-   "id": "MAIN.EXE:7876",
-   "off": 30838,
-   "len": 8,
+   "id": "MAIN.EXE:3e20",
+   "off": 15904,
+   "len": 45,
    "bank": null,
-   "jp": "{02}ぜ敵ぢご{03}",
+   "jp": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に燃焼攻撃",
+   "read": "   障 起     空 地\n{02}{03}スイッチ{02}または投下後に燃焼攻撃",
    "raw": null,
    "en": "",
    "status": "todo"
   },
   {
-   "id": "MAIN.EXE:78a2",
-   "off": 30882,
-   "len": 8,
+   "id": "MAIN.EXE:3e50",
+   "off": 15952,
+   "len": 11,
    "bank": null,
-   "jp": "{02}ぜ敵ぢご{03}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:150ea",
-   "off": 86250,
-   "len": 4,
-   "bank": null,
-   "jp": "狭つ",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:150ee",
-   "off": 86254,
-   "len": 8,
-   "bank": null,
-   "jp": "狭だ{01}{02}いと",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:150fe",
-   "off": 86270,
-   "len": 8,
-   "bank": null,
-   "jp": "狭〜b$L",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:15106",
-   "off": 86278,
-   "len": 4,
-   "bank": null,
-   "jp": "気ば",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:3e0c4",
-   "off": 254148,
-   "len": 8,
-   "bank": null,
-   "jp": "ぁ  {02}ぁえだ",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:3e0fc",
-   "off": 254204,
-   "len": 8,
-   "bank": null,
-   "jp": "ぁ  {02}ぁえだ",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:3e12c",
-   "off": 254252,
-   "len": 8,
-   "bank": null,
-   "jp": "ぁ  {02}ぁえだ",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:3ef60",
-   "off": 257888,
-   "len": 2,
-   "bank": null,
-   "jp": "\n",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:3ef66",
-   "off": 257894,
-   "len": 8,
-   "bank": null,
-   "jp": "ぢお{02}だ{02}ぜげ",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:3ef6e",
-   "off": 257902,
-   "len": 4,
-   "bank": null,
-   "jp": "ぢご{01}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:4cbbf",
-   "off": 314303,
-   "len": 8,
-   "bank": null,
-   "jp": "{02}ぁえだ{02}ぁぐ",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:4cbde",
-   "off": 314334,
-   "len": 5,
-   "bank": null,
-   "jp": "{02}いぁ ",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:4cbe3",
-   "off": 314339,
-   "len": 8,
-   "bank": null,
-   "jp": "{02}ぁえだ{02}ぁぐ",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:4e62b",
-   "off": 321067,
-   "len": 4,
-   "bank": null,
-   "jp": "{02}ぁぐ",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:4e638",
-   "off": 321080,
-   "len": 7,
-   "bank": null,
-   "jp": "ぁ む{02}ぁえ",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:4e63f",
-   "off": 321087,
-   "len": 4,
-   "bank": null,
-   "jp": "{02}ぁぐ",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:6498c",
-   "off": 412044,
-   "len": 2,
-   "bank": null,
-   "jp": "{01}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:6498e",
-   "off": 412046,
-   "len": 6,
-   "bank": null,
-   "jp": "{02}ぜぁえも",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:64994",
-   "off": 412052,
-   "len": 2,
-   "bank": null,
-   "jp": "{01}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a221",
-   "off": 565793,
-   "len": 5,
-   "bank": null,
-   "jp": "あああ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a230",
-   "off": 565808,
-   "len": 7,
-   "bank": null,
-   "jp": "あげあげあ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a238",
-   "off": 565816,
-   "len": 7,
-   "bank": null,
-   "jp": "あぃああぃ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a240",
-   "off": 565824,
-   "len": 7,
-   "bank": null,
-   "jp": "あぃああぃ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a248",
-   "off": 565832,
-   "len": 7,
-   "bank": null,
-   "jp": "あぃああぃ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a250",
-   "off": 565840,
-   "len": 7,
-   "bank": null,
-   "jp": "あげあげあ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a261",
-   "off": 565857,
-   "len": 5,
-   "bank": null,
-   "jp": "あああ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a279",
-   "off": 565881,
-   "len": 5,
-   "bank": null,
-   "jp": "あああ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a288",
-   "off": 565896,
-   "len": 7,
-   "bank": null,
-   "jp": "あひあひあ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a290",
-   "off": 565904,
-   "len": 7,
-   "bank": null,
-   "jp": "ああぅぅあ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a298",
-   "off": 565912,
-   "len": 7,
-   "bank": null,
-   "jp": "ああひああ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a2a0",
-   "off": 565920,
-   "len": 7,
-   "bank": null,
-   "jp": "ああぅぅあ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a2a8",
-   "off": 565928,
-   "len": 7,
-   "bank": null,
-   "jp": "あひあひあ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a2b9",
-   "off": 565945,
-   "len": 5,
-   "bank": null,
-   "jp": "あああ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a2d1",
-   "off": 565969,
-   "len": 5,
-   "bank": null,
-   "jp": "あぢあ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a2e0",
-   "off": 565984,
-   "len": 7,
-   "bank": null,
-   "jp": "ああいいあ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a2e8",
-   "off": 565992,
-   "len": 7,
-   "bank": null,
-   "jp": "あぢあぢあ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a2f0",
-   "off": 566000,
-   "len": 7,
-   "bank": null,
-   "jp": "あぢあぢあ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a2f8",
-   "off": 566008,
-   "len": 7,
-   "bank": null,
-   "jp": "あいああい{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a300",
-   "off": 566016,
-   "len": 7,
-   "bank": null,
-   "jp": "あつつつい{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a311",
-   "off": 566033,
-   "len": 5,
-   "bank": null,
-   "jp": "あああ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a329",
-   "off": 566057,
-   "len": 5,
-   "bank": null,
-   "jp": "あああ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a338",
-   "off": 566072,
-   "len": 7,
-   "bank": null,
-   "jp": "あえああえ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a340",
-   "off": 566080,
-   "len": 7,
-   "bank": null,
-   "jp": "あえああえ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a348",
-   "off": 566088,
-   "len": 7,
-   "bank": null,
-   "jp": "あえああえ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a350",
-   "off": 566096,
-   "len": 7,
-   "bank": null,
-   "jp": "あえああえ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a358",
-   "off": 566104,
-   "len": 7,
-   "bank": null,
-   "jp": "あえああえ{02}",
-   "raw": null,
-   "en": "",
-   "status": "todo"
-  },
-  {
-   "id": "MAIN.EXE:8a369",
-   "off": 566121,
-   "len": 5,
-   "bank": null,
-   "jp": "あああ{02}",
+   "jp": "フレイムロック1",
+   "read": "フレイムロック1",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1740,6 +1600,7 @@
    "len": 7,
    "bank": null,
    "jp": "オイル1",
+   "read": "オイル1",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1750,6 +1611,7 @@
    "len": 8,
    "bank": null,
    "jp": "サンダー1",
+   "read": "サンダー1",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1760,6 +1622,7 @@
    "len": 7,
    "bank": null,
    "jp": "ポール2",
+   "read": "ポール2",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1770,6 +1633,7 @@
    "len": 7,
    "bank": null,
    "jp": "ポール3",
+   "read": "ポール3",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1780,6 +1644,7 @@
    "len": 7,
    "bank": null,
    "jp": "ポール1",
+   "read": "ポール1",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1790,6 +1655,7 @@
    "len": 8,
    "bank": null,
    "jp": "サンダー2",
+   "read": "サンダー2",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1800,6 +1666,7 @@
    "len": 8,
    "bank": null,
    "jp": "サンダー3",
+   "read": "サンダー3",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1810,6 +1677,7 @@
    "len": 7,
    "bank": null,
    "jp": "アイス2",
+   "read": "アイス2",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1820,6 +1688,7 @@
    "len": 7,
    "bank": null,
    "jp": "アイス3",
+   "read": "アイス3",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1830,6 +1699,7 @@
    "len": 7,
    "bank": null,
    "jp": "オイル2",
+   "read": "オイル2",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1840,6 +1710,7 @@
    "len": 7,
    "bank": null,
    "jp": "オイル3",
+   "read": "オイル3",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1850,6 +1721,7 @@
    "len": 8,
    "bank": null,
    "jp": "フレイム2",
+   "read": "フレイム2",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1860,6 +1732,7 @@
    "len": 8,
    "bank": null,
    "jp": "フレイム3",
+   "read": "フレイム3",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1870,6 +1743,7 @@
    "len": 8,
    "bank": null,
    "jp": "フレイム1",
+   "read": "フレイム1",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1880,6 +1754,7 @@
    "len": 8,
    "bank": null,
    "jp": "ヒールスター",
+   "read": "ヒールスター",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1890,6 +1765,7 @@
    "len": 8,
    "bank": null,
    "jp": "ヒールリング",
+   "read": "ヒールリング",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1900,6 +1776,7 @@
    "len": 8,
    "bank": null,
    "jp": "ヒールオーブ",
+   "read": "ヒールオーブ",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1910,6 +1787,7 @@
    "len": 8,
    "bank": null,
    "jp": "フレアランス",
+   "read": "フレアランス",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1920,6 +1798,7 @@
    "len": 8,
    "bank": null,
    "jp": "フレアメイス",
+   "read": "フレアメイス",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1930,6 +1809,7 @@
    "len": 8,
    "bank": null,
    "jp": "フレアソード",
+   "read": "フレアソード",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1940,6 +1820,7 @@
    "len": 8,
    "bank": null,
    "jp": "コルドランス",
+   "read": "コルドランス",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1950,6 +1831,7 @@
    "len": 8,
    "bank": null,
    "jp": "コルドメイス",
+   "read": "コルドメイス",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1960,6 +1842,7 @@
    "len": 8,
    "bank": null,
    "jp": "コルドソード",
+   "read": "コルドソード",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1970,6 +1853,7 @@
    "len": 8,
    "bank": null,
    "jp": "ライトランス",
+   "read": "ライトランス",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1980,6 +1864,7 @@
    "len": 7,
    "bank": null,
    "jp": "アイス1",
+   "read": "アイス1",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -1990,6 +1875,7 @@
    "len": 8,
    "bank": null,
    "jp": "ライトメイス",
+   "read": "ライトメイス",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -2000,6 +1886,7 @@
    "len": 8,
    "bank": null,
    "jp": "ライトソード",
+   "read": "ライトソード",
    "raw": null,
    "en": "",
    "status": "todo"
@@ -2010,6 +1897,7 @@
    "len": 7,
    "bank": null,
    "jp": "べホマラー",
+   "read": "べホマラー",
    "raw": null,
    "en": "",
    "status": "todo"

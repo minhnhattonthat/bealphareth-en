@@ -1,8 +1,8 @@
 """extract.py: extract every text string on the disc into script/*.json.
 
-Sources: MAIN.EXE and PSX.EXE (M4/M2 banks plus loose NUL-terminated runs), and every
-MAIN.RES entry that holds a message bank (scene scripts). Each source becomes one JSON file
-in script/, with the strings' byte offsets so insertion can write them back.
+Sources: MAIN.EXE (the strings its trap/ability table points at), PSX.EXE (the system M4 bank), and every MAIN.RES
+scene overlay that holds a message bank (scene scripts). Each source becomes one JSON file in script/, with the strings'
+byte offsets so insertion can write them back.
 
     python tools/extract.py            # write script/ (refuses to clobber translations)
     python tools/extract.py --force    # rewrite, keeping existing "en" fields
@@ -10,9 +10,11 @@ in script/, with the strings' byte offsets so insertion can write them back.
 
 A string's `jp` is the decoded text (glyphs as Japanese, byte codes as {..} tokens) and
 encodes back to the original bytes exactly; tests/test_text.py proves that for every string.
+`read` is the same text for a human or translator: glyph tokens the font table can name become their character.
 """
 import argparse
 import json
+import re
 import struct
 import sys
 from pathlib import Path
@@ -26,6 +28,12 @@ SCRIPT = ROOT / "script"
 DISC = ROOT / "work/disc/tree"
 BASE_FONT_OFF = 0x17CE0
 BASE_FONT_CELLS = 896
+GLYPH_TOKEN = re.compile(r"\{([89a-f][0-9a-f])([89a-f][0-9a-f])\}")
+# MAIN.EXE: records of 0x3C bytes whose name (+0) and help (+0x38) words point at the game's only loose text. The two
+# text areas are read by nothing else (no other word points there, docs/re/text.md).
+MAIN_TABLE = (0x901FC, 0x91624)
+MAIN_FILE_BASE = 0x8000F800
+MAIN_TEXT = ((0x2D74, 0x3E60), (0x91BDC, 0x91CC0))
 
 
 # --- glyph table ---------------------------------------------------------------------
@@ -161,161 +169,67 @@ def m2_strings(blob, at, end):
 
 
 # --- loose strings -------------------------------------------------------------------
-def loose_runs(blob, banks, codec):
-    """NUL-terminated runs outside any bank that decode as text."""
-    spans = []
-    for _, at, parts in banks:
-        for _, a, e in parts:
-            spans.append((a, e))
-    spans.sort()
+def main_pointers(blob):
+    """[(table file offset, string file offset)] of the MAIN.EXE words that point into its text areas."""
     out = []
-    i, n, si = 0, len(blob), 0
-    while i < n:
-        while si < len(spans) and spans[si][1] <= i:
-            si += 1
-        if si < len(spans) and spans[si][0] <= i < spans[si][1]:
-            i = spans[si][1]
-            continue
-        if blob[i] == 0:
-            i += 1
-            continue
-        j = blob.find(b"\x00", i)
-        if j < 0:
-            break
-        run = blob[i:j]
-        if 2 <= len(run) <= 400 and looks_like_text(run, codec):
-            out.append((i, j + 1))
-        i = j + 1
+    for slot in range(MAIN_TABLE[0], MAIN_TABLE[1], 4):
+        target = struct.unpack_from("<I", blob, slot)[0] - MAIN_FILE_BASE
+        if any(a <= target < e for a, e in MAIN_TEXT):
+            out.append((slot, target))
     return out
 
 
-ALLOWED_TOKENS = {"01", "02", "03"}
-BLOCK_GAP = 64
-
-
-def strict_jp(raw, codec):
-    """True when a loose run is Japanese text: glyphs only, mostly kana."""
-    if not 4 <= len(raw) <= 400:
-        return False
-    text = codec.decode(raw)
-    kana = total = 0
-    i = 0
-    while i < len(text):
-        ch = text[i]
-        if ch == "{":
-            j = text.find("}", i)
-            if j < 0 or text[i + 1:j] not in ALLOWED_TOKENS:
-                return False
-            i = j + 1
-            continue
-        if ch in " \n|":
-            i += 1
-            continue
-        if not ch.isascii():
-            kana += 1
-        total += 1
-        i += 1
-    return kana >= 2 and total >= 4
-
-
-def clean_text(raw, codec):
-    """True when a run decodes to glyphs only (no opcodes), so it is safe to show as text."""
-    if not 1 <= len(raw) <= 400:
-        return False
-    if all(0x20 <= b < 0x7F for b in raw):
-        return False  # plain ASCII: debug/format strings, not translatable text
-    for pat in (b"%s", b"%d", b"%x", b"%02x", b"%3d"):
-        if pat in raw:
-            return False
-    text = codec.decode(raw)
-    if text.count("{") != len([t for t in ALLOWED_TOKENS if "{" + t + "}" in text]) and "{0" in text:
-        pass
-    i = 0
-    while i < len(text):
-        ch = text[i]
-        if ch == "{":
-            j = text.find("}", i)
-            if j < 0 or text[i + 1:j] not in ALLOWED_TOKENS:
-                return False
-            i = j + 1
-            continue
-        if ch in "\n|" or ch == " ":
-            i += 1
-            continue
-        if ch.isascii() and 0x20 <= ord(ch) < 0x7F:
-            i += 1
-            continue
-        if ch in codec.kanji_rev or ch in textcodec.JIS_HIRA or ch in textcodec.JIS_KATA:
-            i += 1
-            continue
-        if ch in textcodec.PUNCT.values():
-            i += 1
-            continue
-        return False
-    return True
-
-
-def raw_blocks(blob, banks, base, codec):
-    """Regions of loose NUL-terminated runs that hold Japanese text.
-
-    Returns [(start, end, [(run_start, run_end), ...])]. MAIN.EXE keeps its loose strings in
-    dense tables (ability/item help, debug labels) between code and data. A run counts as a
-    string when it decodes to glyphs only and sits within two runs of Japanese text, so code
-    bytes that happen to decode as kana are left alone.
-    """
-    spans = sorted((a, e) for _, at, parts in banks for _, a, e in parts)
-    runs = []
-    i, n, si = 0, len(blob), 0
-    while i < n:
-        while si < len(spans) and spans[si][1] <= i:
-            si += 1
-        if si < len(spans) and spans[si][0] <= i < spans[si][1]:
-            i = spans[si][1]
-            continue
-        j = blob.find(b"\x00", i)
-        if j < 0:
-            break
-        if j > i:
-            runs.append((i, j + 1))
-        i = j + 1
-    jp = [strict_jp(blob[a:b - 1], codec) for a, b in runs]
-    picked = []
-    for k, (a, b) in enumerate(runs):
-        near = any(jp[j] for j in range(max(0, k - 2), min(len(runs), k + 3)))
-        if near and clean_text(blob[a:b - 1], codec):
-            picked.append((a, b))
-    out = []
-    cur = []
-    for run in picked:
-        if cur and run[0] - cur[-1][1] > 64:
-            out.append(cur)
-            cur = []
-        cur.append(run)
-    if cur:
-        out.append(cur)
-    return [(blk[0][0], blk[-1][1], blk) for blk in out if len(blk) >= 3]
+def main_loose(blob):
+    """[(start, end)] of MAIN.EXE's loose strings, NUL included."""
+    return [(t, blob.index(b"\0", t) + 1) for t in sorted({t for _, t in main_pointers(blob)})]
 
 
 # --- extraction ----------------------------------------------------------------------
 def doc_codecs(blob, banks, glyphs, base):
     """One codec per bank: an M4's M2 parts use that M4's glyph bank; loose M2 banks use
-    the overlay's first glyph bank (a scene keeps one script font)."""
+    the overlay's first glyph bank (a scene keeps one script font). `.cells` is the bank's
+    scene font, for `reading`."""
     overlay = None
     for _, _, parts in banks:
         for pkind, a, e in parts:
             if pkind == "glyph":
-                overlay = scene_kanji(glyphs, blob, a, (e - a) // 16, base)
+                overlay = (scene_kanji(glyphs, blob, a, (e - a) // 16, base), cells(blob, a, (e - a) // 16))
                 break
         if overlay:
             break
     out = []
     for _, _, parts in banks:
-        local = overlay or base
+        local, table = overlay or (base, [])
         for pkind, a, e in parts:
             if pkind == "glyph":
-                local = scene_kanji(glyphs, blob, a, (e - a) // 16, base)
-        out.append(textcodec.Codec(local))
+                local, table = scene_kanji(glyphs, blob, a, (e - a) // 16, base), cells(blob, a, (e - a) // 16)
+        codec = textcodec.Codec(local)
+        codec.cells = table
+        out.append(codec)
     return out
+
+
+def reading(text, codec, glyphs):
+    """`text` for a human: glyph tokens the font table can name become their character. The exact `jp` must keep them,
+    since a one-to-one codec can't give two codes one character."""
+    if text is None:
+        return None
+    def name(m):
+        hi, lo = int(m[1], 16), int(m[2], 16)
+        if hi >= 0xE0:
+            i = (hi - 0xE0) * 112 + lo - 0x80
+            key = codec.cells[i] if i < len(codec.cells) else None
+        else:
+            i = (hi - 0x80) * 112 + lo - 0x80
+            key = base_cells()[i] if 0 <= i < BASE_FONT_CELLS else None
+        return glyphs.get(key, m[0])
+    return GLYPH_TOKEN.sub(name, text)
+
+
+def base_cells(_memo=[]):
+    if not _memo:
+        _memo.append(cells((DISC / "PSX.EXE").read_bytes(), BASE_FONT_OFF, BASE_FONT_CELLS))
+    return _memo[0]
 
 
 def source_codec(blob, banks, glyphs, base, bank=0):
@@ -346,16 +260,17 @@ def extract_source(name, kind, blob, glyphs, base, entry=None):
                         "len": s1 - s0,
                         "bank": f"{bi}.{pi}",
                         "jp": text if text is not None else None,
+                        "read": reading(text, codec, glyphs),
                         "raw": None if text is not None else raw.hex(),
                         "en": "",
                         "status": "todo",
                     })
             info["parts"].append(part)
         bank_info.append(info)
-    blocks = raw_blocks(blob, banks, base, codecs[0] if codecs else textcodec.Codec(base)) if kind == "exe" else []
-    rawcodec = codecs[0] if codecs else textcodec.Codec(base)
-    for bstart, bend, runs in blocks:
-        bank_info.append({"kind": "raw", "at": bstart, "end": bend, "runs": len(runs)})
+    if name == "MAIN.EXE":
+        rawcodec = codecs[0] if codecs else textcodec.Codec(base)
+        runs = main_loose(blob)
+        bank_info.append({"kind": "raw", "at": runs[0][0], "end": runs[-1][1], "runs": len(runs)})
         for s0, s1 in runs:
             raw = blob[s0:s1 - 1]
             text = rawcodec.roundtrip(raw)
@@ -365,6 +280,7 @@ def extract_source(name, kind, blob, glyphs, base, entry=None):
                 "len": s1 - s0,
                 "bank": None,
                 "jp": text if text is not None else None,
+                "read": reading(text, rawcodec, glyphs),
                 "raw": None if text is not None else raw.hex(),
                 "en": "",
                 "status": "todo",
