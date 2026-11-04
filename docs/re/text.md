@@ -49,4 +49,4 @@ Arg counts above are from 0x8004FBA4-0x8004FD8C and 0x800507C8-0x800508E8 (strin
 
 ## Debug leftovers
 
-`MAIN.EXE` strings `ITEM SET`/`TIME SET` (file 0xDC4), `KURI DEBUG` (0xDD0), `Not found attack mask` style messages: a debug menu may exist (phase 2).
+`MAIN.EXE` strings `ITEM SET`/`TIME SET` (file 0xDC4), `KURI DEBUG` (0xDD0), `Not found attack mask` style messages: these belong to the leftover debug menu, which exists and opens with R2+Cross (`docs/re/warp.md`).

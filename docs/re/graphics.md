@@ -39,8 +39,8 @@ Already English, no work: `NEW GAME / LOAD GAME / PUSH START BUTTON` (#3946), `G
 
 Say so rather than treat this as complete:
 
-- **Mid-game screens** were not toured: only the first mission's start. Repeat after the debug tool (phase 2) and the marker build (phase 5), which reveals any Japanese that did not change.
-- **Rows 14-16 came from a second overlay pass** I read myself at thumbnail size (13 scenes, 41 sheets, `sweep_overlays.py OUT <entries>`), not from codex. 26 further overlays (#226, #229, #303.. #360, #570, #1732) have no part table: the four inspected are code stubs of 0x9B-0x2E8F bytes with no assets, the rest not inspected one by one.
+- **Mid-game screens** were not toured: only the first mission's start. The phase-2 warp now reaches all 306 scenes, but naming the Japanese on them needs the marker build (phase 5), which reveals what did not change.
+- **Rows 14-16 came from a second overlay pass** I read myself at thumbnail size (13 scenes, 41 sheets, `sweep_overlays.py OUT <entries>`), not from codex. 26 further overlays (#226, #229, #303.. #360, #570, #1732) have no part table: the four inspected are code stubs of 0x9B-0x2E8F bytes with no assets, the rest not inspected one by one. `docs/re/warp.md` now sorts them: 24 are identical 0x9C empty stubs, #226 is a code stub, #229/#1000/#1002 crash on load.
 - **Map tile classes** (`00 00 xx xx`, about 300 entries, #2301-#2599, plus similar at #3327-#3396, #3729-#3793, #4700-#4803) render as noise at the guessed width: layout unknown, not read. Lettering there is unlikely, not excluded.
 - **Unknown formats skipped:** 0x30 frame tables (no pixels), #1244-style 0x28 entries that fail the palette check (23), `DUMMY` #2955/#3215, #3673/#3674, #3795-3797, #3930-3938, #3947-3955.
 - `codex` labels are one unverified pass at half size; spot checks agreed, but counts are approximate until phase 7 lists each entry.

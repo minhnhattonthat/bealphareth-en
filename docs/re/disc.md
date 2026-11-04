@@ -25,7 +25,7 @@ u32 offset[count]   // relative to byte 8; entry data at offset+8, 0x800-aligned
 
 | Class | Count | Index range | Notes |
 |---|---|---|---|
-| `02 00 00 00` scene overlay | 324 | 1..4126 | Slot 0x40000 (184) or 0xA0000 (140) bytes. Code + assets + text. Loads at **0x800D6C00** |
+| `02 00 00 00` scene overlay | 324 | 1..4126 | Slot 0x40000 (184) or 0xA0000 (140) bytes. Code + assets + text. A map (0xA0000) loads at **0x800D6C00**; a sub-scene (0x40000) loads at **0x80136C00** (both verified by RAM dump, `docs/re/warp.md`) |
 | `28/48/68/88/a8/e8/.. 00 00 00` | ~1000 | 365..4548 | u32 palette bytes+8, u32 palette count, 16-colour palettes, then sprite records (`00 80 00 01 00 01 ..` flags, w, h, u32 packed size). Pixel data is compressed |
 | `30 00 00 00` | 722 | 366..3957 | Framed sprites paired with the entry before them |
 | `00 00 xx xx` + 16-colour palette | ~300 | 2301..2599 | Palette then raw 4bpp map tiles |

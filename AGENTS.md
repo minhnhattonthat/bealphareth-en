@@ -8,7 +8,8 @@ After cloning: `git config core.hooksPath tools/hooks`.
 - Build:    `python -X utf8 tools/build.py` -> build/bealphareth_en.cue/.bin (checks the dump against `rom.sha1` first). Not written yet (phase 3).
 - Check:    `python -X utf8 tools/check.py` (tests + lint; the pre-commit hook runs this)
 - Smoke:    `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/bealphareth_en.cue --out work/qa/smoke --route tools/routes/boot.txt --smoke`
-- Warp:     `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/bealphareth_en.cue --out work/qa/warp --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 900 --sheet` (scenes: `tools/debug/scenes.lua`; never ask the user to play to a scene). Phase 2.
+- Warp:     `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" <cue> --out work/qa/scenes/<name> --route tools/routes/newgame.txt --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 7000 --mash-key circle` (`<cue>` is `build/bealphareth_en.cue` once built, else the Japanese disc; scenes: `tools/debug/scenes.lua`; never ask the user to play to a scene).
+- Scenes:   `python -X utf8 tools/debug/regen.py` cold-boots all 306 scenes into `work/qa/scenes/result.tsv` (name globs, `--jobs`, `--state` writes savestates); `tools/debug/sheets.py` pages the shots into contact sheets.
 - Release:  `python -X utf8 tools/release.py` (patch + verify; never publish without the user). Phase 9.
 - Clean:    `python -X utf8 tools/clean.py` (published projects: lists rebuildable/downloadable files; `--yes` deletes)
 
