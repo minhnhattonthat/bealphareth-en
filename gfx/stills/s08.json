@@ -1,0 +1,128 @@
+[
+{"entry": 2829, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Malka's Spear", "align": "center", "bold": true, "size": 18},
+ {"box": [52, 118, 190, 262], "ink": "light", "text": "A weapon made of a strange material.\n\nIt has the power to draw out its owner's Defense."},
+ {"box": [52, 268, 160, 316], "ink": "light", "text": "Attack 12\nDefense +2"}]},
+{"entry": 2830, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Fakaral's Spear", "align": "center", "bold": true, "size": 18},
+ {"box": [64, 118, 176, 198], "ink": "light", "text": "Attack 15\nCold attribute\nHeat Resist -"},
+ {"box": [136, 278, 300, 372], "ink": "light", "text": "A spear made of a strange material. The blade at its tip is as cold as ice."}]},
+{"entry": 2831, "erase": [{"box": [172, 372, 280, 378], "ink": "light"}, {"box": [176, 396, 262, 406], "ink": "light"}, {"box": [176, 396, 232, 410], "ink": "dark"}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Anote's Spear", "align": "center", "bold": true, "size": 18},
+ {"box": [168, 226, 312, 372], "ink": "light", "text": "A weapon said to have been made by the mage Anote, hero of Eastern myth.\n\nEasy to handle, and it seems able to send foes flying as well."},
+ {"box": [50, 284, 160, 362], "ink": "light", "text": "Attack 20\nDexterity +20\nKnockback +2"}]},
+{"entry": 2832, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Gaius's Spear", "align": "center", "bold": true, "size": 18},
+ {"box": [50, 244, 192, 372], "ink": "light", "text": "A spear forged by the master smith Gaius. Plain and unadorned, yet it settles into the hand as if made for you alone."},
+ {"box": [50, 386, 118, 408], "ink": "light", "text": "Attack 30"}]},
+{"entry": 2833, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Radamael's Spear", "align": "center", "bold": true, "size": 18},
+ {"box": [44, 112, 190, 272], "ink": "light", "text": "A weapon said to have been made by the angel Radamael to guard God.\n\nIt has the power to raise its user's Defense."},
+ {"box": [206, 306, 290, 352], "ink": "light", "text": "Attack 20\nDefense +5"}]},
+{"entry": 2834, "erase": [{"box": [135, 394, 162, 410], "ink": "dark"}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Arlail's Halberd", "align": "center", "bold": true, "size": 18},
+ {"box": [180, 132, 305, 182], "ink": "light", "text": "Attack 24\nLightning attribute"},
+ {"box": [55, 258, 225, 336], "ink": "light", "text": "A weapon said to have been made by the angel Arlail to carry out God's judgment."},
+ {"box": [50, 366, 158, 420], "ink": "light", "text": "It can deal Lightning damage."}]},
+{"entry": 2835, "erase": [{"box": [78, 388, 117, 404], "ink": "light"}, {"box": [133, 392, 180, 404], "ink": "light"}, {"box": [135, 394, 180, 410], "ink": "dark"}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Astaras's Spear", "align": "center", "bold": true, "size": 18},
+ {"box": [190, 108, 290, 188], "ink": "light", "text": "Attack 28\nHP +30\nKnockback +3"},
+ {"box": [60, 222, 190, 266], "ink": "light", "text": "A magic spear made of a strange material."},
+ {"box": [60, 298, 215, 372], "ink": "light", "text": "It not only raises its owner's HP but also has the power to send foes flying."}]},
+{"entry": 2836, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Gale Spear", "align": "center", "bold": true, "size": 18},
+ {"box": [50, 294, 240, 348], "ink": "light", "text": "A spear made of a strange material. It has the power to knock foes far back."},
+ {"box": [50, 362, 146, 406], "ink": "light", "text": "Attack 40\nKnockback +10"}]},
+{"entry": 2837, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Gae Bolg", "align": "center", "bold": true, "size": 18},
+ {"box": [78, 228, 256, 300], "ink": "light", "text": "A magic spear from the legends of the frontier. It boasts a superb Attack, but lowers its owner's Defense."},
+ {"box": [78, 314, 170, 362], "ink": "light", "text": "Attack 55\nDefense -7"}]},
+{"entry": 2838, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Gaius's Spear+", "align": "center", "bold": true, "size": 18},
+ {"box": [150, 228, 300, 335], "ink": "light", "text": "A spear made by the master smith Gaius: a superb piece, the \"Gaius's Spear\" forged finer still."},
+ {"box": [150, 350, 236, 372], "ink": "light", "text": "Attack 48"}]},
+{"entry": 2839, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Revelation Spear", "align": "center", "bold": true, "size": 18},
+ {"box": [88, 208, 290, 252], "ink": "light", "text": "One of the magic arms, holding a strange magical power."},
+ {"box": [88, 288, 290, 332], "ink": "light", "text": "It gives off flame and can deal devastating damage."},
+ {"box": [88, 346, 180, 410], "ink": "light", "text": "Attack 40\nFire attribute\nCold Resist -"}]},
+{"entry": 2840, "erase": [{"box": [183, 398, 234, 406], "ink": "light"}, {"box": [183, 398, 232, 410], "ink": "dark"}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Nether Spear", "align": "center", "bold": true, "size": 18},
+ {"box": [64, 122, 155, 198], "ink": "light", "text": "Attack 30\nIce attribute\nHeat Resist -"},
+ {"box": [172, 228, 305, 276], "ink": "light", "text": "A weapon that rules ice and cold."},
+ {"box": [172, 304, 310, 378], "ink": "light", "text": "It can freeze any foe it wounds, but it lowers its user's Heat Resist."}]},
+{"entry": 2841, "erase": [{"box": [44, 376, 116, 386], "ink": "light"}, {"box": [133, 384, 150, 396], "ink": "light"}], "blocks": [
+ {"box": [72, 46, 208, 72], "ink": "light", "text": "Drakehead Halberd", "align": "center", "bold": true, "size": 18},
+ {"box": [190, 104, 312, 158], "ink": "light", "text": "Attack 41\nLightning attribute"},
+ {"box": [30, 258, 178, 372], "ink": "light", "text": "One of the holy weapons of Tradoan myth, born when the world stood in peril. It is said to wield lightning at will."}]},
+{"entry": 2842, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Nameless Spear", "align": "center", "bold": true, "size": 18},
+ {"box": [158, 174, 312, 370], "ink": "light", "text": "Gaius's finest masterpiece. It has no special powers like the weapons found in the ruins, but its destructive force is truly superb."},
+ {"box": [164, 382, 240, 406], "ink": "light", "text": "Attack 78"}]},
+{"entry": 2843, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Rusty Dagger", "align": "center", "bold": true, "size": 18},
+ {"box": [68, 174, 170, 285], "ink": "light", "text": "A dagger corroded by powerful acid. It has long since lost its original form."}]},
+{"entry": 2844, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Dagger", "align": "center", "bold": true, "size": 18},
+ {"box": [60, 118, 205, 305], "ink": "light", "text": "A common short blade, more often used in daily life than as a weapon. Light and easy to handle, it makes a good weapon for beginners."},
+ {"box": [68, 322, 130, 345], "ink": "light", "text": "Attack 5"}]},
+{"entry": 2845, "erase": [{"box": [160, 190, 176, 212], "ink": "light"}, {"box": [52, 384, 117, 404], "ink": "light"}, {"box": [133, 392, 150, 404], "ink": "light"}, {"box": [135, 394, 152, 410], "ink": "dark"}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Caim's Dagger", "align": "center", "bold": true, "size": 18},
+ {"box": [50, 108, 160, 372], "ink": "light", "text": "A dagger made of a strange material, with the strange power to raise its owner's HP slightly. Heavier than it looks and awkward to handle, and its blade is chipped, so don't expect a keen edge -- but its very weight makes it a powerful weapon."}]},
+{"entry": 2846, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Dirk", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 142, 205, 270], "ink": "light", "text": "Like the \"Dagger\", a common short blade, more often used in daily life than as a weapon."},
+ {"box": [66, 290, 130, 314], "ink": "light", "text": "Attack 6"}]},
+{"entry": 2847, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Nakiel's Dagger", "align": "center", "bold": true, "size": 18},
+ {"box": [66, 148, 190, 192], "ink": "light", "text": "A weapon made of a strange material."},
+ {"box": [66, 232, 168, 290], "ink": "light", "text": "High in Attack and easy to handle."},
+ {"box": [68, 298, 140, 320], "ink": "light", "text": "Attack 27"}]},
+{"entry": 2848, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Kris", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 218, 250, 290], "ink": "light", "text": "A dagger imported from a land even farther east than the Kingdom of Krasdar."},
+ {"box": [64, 313, 130, 337], "ink": "light", "text": "Attack 8"}]},
+{"entry": 2849, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Wind Dagger", "align": "center", "bold": true, "size": 18},
+ {"box": [60, 174, 170, 280], "ink": "light", "text": "A dagger made of a strange material. It has the power to knock foes back."}]},
+{"entry": 2850, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Barat's Dagger", "align": "center", "bold": true, "size": 18},
+ {"box": [70, 112, 212, 186], "ink": "light", "text": "A dagger made of a strange material. Its blade is as hot as flame."},
+ {"box": [72, 194, 180, 268], "ink": "light", "text": "Attack 18\nHeat attribute\nCold Resist -"}]},
+{"entry": 2851, "blocks": [
+ {"box": [72, 46, 208, 72], "ink": "light", "text": "Hermit's Dagger", "align": "center", "bold": true, "size": 18},
+ {"box": [155, 118, 305, 270], "ink": "light", "text": "A weapon said to have been made by the hermit Falma, hero of Northern myth.\n\nFalma is said to have called thunderclouds at will."},
+ {"box": [158, 302, 290, 346], "ink": "light", "text": "Attack 15\nLightning attribute"}]},
+{"entry": 2852, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Malka's Dagger", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 132, 190, 184], "ink": "light", "text": "A weapon made of a strange material."},
+ {"box": [62, 218, 190, 270], "ink": "light", "text": "It has the power to draw out its owner's Defense."},
+ {"box": [64, 282, 150, 328], "ink": "light", "text": "Attack 10\nDefense +2"}]},
+{"entry": 2853, "erase": [{"box": [150, 380, 200, 382], "ink": "light"}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Fakaral's Dagger", "align": "center", "bold": true, "size": 18},
+ {"box": [136, 224, 300, 302], "ink": "light", "text": "A dagger made of a strange material. Its blade is as cold as ice."},
+ {"box": [140, 308, 240, 372], "ink": "light", "text": "Attack 18\nCold attribute\nHeat Resist -"}]},
+{"entry": 2854, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Anote's Dagger", "align": "center", "bold": true, "size": 18},
+ {"box": [170, 104, 312, 178], "ink": "light", "text": "A weapon said to have been made by the mage Anote, hero of Eastern myth."},
+ {"box": [170, 214, 312, 286], "ink": "light", "text": "Easy to handle, and it seems able to send foes flying as well."},
+ {"box": [172, 304, 300, 368], "ink": "light", "text": "Attack 22\nDexterity +20\nKnockback +2"}]},
+{"entry": 2855, "erase": [{"box": [72, 386, 118, 392], "ink": "light"}, {"box": [133, 388, 150, 396], "ink": "light"}, {"box": [135, 392, 150, 408], "ink": "dark"}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Thief's Dagger", "align": "center", "bold": true, "size": 18},
+ {"box": [70, 228, 215, 330], "ink": "light", "text": "Lighter than the \"Kris\" and easy to handle even in fine work, this dagger is a favorite among thieves."},
+ {"box": [72, 346, 165, 384], "ink": "light", "text": "Attack 13\nDexterity +10"}]},
+{"entry": 2856, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Gaius's Dagger", "align": "center", "bold": true, "size": 18},
+ {"box": [38, 142, 185, 280], "ink": "light", "text": "A dagger made by the master smith Gaius. Plain and unadorned, yet it settles into the hand as if made for you alone."},
+ {"box": [40, 297, 110, 319], "ink": "light", "text": "Attack 30"}]},
+{"entry": 2857, "blocks": [
+ {"box": [72, 46, 208, 72], "ink": "light", "text": "Radamael's Dagger", "align": "center", "bold": true, "size": 18},
+ {"box": [64, 122, 195, 196], "ink": "light", "text": "A weapon said to have been made by the angel Radamael to guard God."},
+ {"box": [64, 228, 195, 280], "ink": "light", "text": "It has the power to raise its user's Defense."},
+ {"box": [66, 292, 160, 342], "ink": "light", "text": "Attack 22\nDefense +5"}]},
+{"entry": 2858, "erase": [{"box": [160, 388, 197, 400], "ink": "light"}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Arlail's Dagger", "align": "center", "bold": true, "size": 18},
+ {"box": [150, 172, 300, 246], "ink": "light", "text": "A weapon said to have been made by the angel Arlail to carry out God's judgment."},
+ {"box": [150, 282, 300, 332], "ink": "light", "text": "It can deal Lightning damage."},
+ {"box": [152, 352, 280, 390], "ink": "light", "text": "Attack 24\nLightning attribute"}]}
+]

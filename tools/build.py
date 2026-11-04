@@ -26,7 +26,10 @@ import extract  # noqa: E402
 import insert  # noqa: E402
 import overlays  # noqa: E402
 import res  # noqa: E402
+import sprites  # noqa: E402
 import stills  # noqa: E402
+import strfmv  # noqa: E402
+import titlelogo  # noqa: E402
 import vwf_font  # noqa: E402
 
 TOOLS = ROOT / "tools/mkpsxiso/mkpsxiso-2.30-win64"
@@ -121,6 +124,9 @@ def build(marker=False, qa=None, out=OUT, only=None):
     report = []
     changed = 0
     pool = b""
+    if not marker:  # before the text: inserting strings moves a scene's parts
+        print(f"sprite sheets {sprites.build_all(main_res, table)}")
+        titlelogo.apply(main_res, table)
     # the system block goes last: it takes the far strings the scenes leave
     for doc in sorted(load_docs(), key=lambda d: d["source"] == "PSX.EXE"):
         src = doc["source"]
@@ -178,7 +184,10 @@ def build(marker=False, qa=None, out=OUT, only=None):
             dst.mkdir(parents=True, exist_ok=True)
         elif src.name not in ("MAIN.EXE", "MAIN.RES", "PSX.EXE"):
             dst.parent.mkdir(parents=True, exist_ok=True)
-            os.link(src, dst)
+            if src.name == "PROLO.STR" and not marker:
+                dst.write_bytes(strfmv.patch("PROLO", src.read_bytes()))
+            else:
+                os.link(src, dst)
     (WORK / "tree/PSX.EXE").write_bytes(psx_exe)
     (WORK / "tree/MAIN.EXE").write_bytes(main_exe)
     (WORK / "tree/MAIN.RES").write_bytes(main_res)

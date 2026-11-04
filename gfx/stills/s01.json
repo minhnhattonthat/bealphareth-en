@@ -1,0 +1,114 @@
+[
+{"entry": 2617, "erase": [{"box": [30, 78, 78, 84], "ink": "light"},{"box": [22, 81, 292, 340], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Rusty Armor", "align": "center", "bold": true, "size": 18},
+  {"box": [30, 100, 158, 330], "ink": "light", "text": "Armor forged from steel, corroded by powerful acid.\n\nDon't expect much Defense; it's heavy and only restricts your movement. You're better off not equipping it."}]},
+{"entry": 2618, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Glamorous Outfit", "align": "center", "bold": true, "size": 18},
+  {"box": [150, 135, 312, 250], "ink": "light", "text": "Women's clothing. A man can wear it too, but should be ready for some icy stares."},
+  {"box": [150, 256, 250, 310], "ink": "light", "text": "Defense 1\nDexterity +5"}]},
+{"entry": 2619, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Brother's Armor", "align": "center", "bold": true, "size": 18},
+  {"box": [37, 152, 160, 320], "ink": "light", "text": "An ordinary chain mail improved by Klaus, Scharn's brother.\n\nIn its present state, though, it looks unusable."}]},
+{"entry": 2620, "erase": [{"box": [47, 252, 115, 296], "ink": "light"}, {"box": [47, 252, 115, 296], "ink": "dark"}, {"box": [47, 252, 115, 296], "ink": "light"}, {"box": [47, 252, 115, 296], "ink": "dark"},{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Klaus's Armor", "align": "center", "bold": true, "size": 18},
+  {"box": [45, 158, 162, 245], "ink": "light", "text": "The armor left as a keepsake by Scharn's brother Klaus, now repaired."},
+  {"box": [45, 248, 130, 300], "ink": "light", "text": "Defense 17\nAttack +20"}]},
+{"entry": 2621, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Cloth Garb", "align": "center", "bold": true, "size": 18},
+  {"box": [168, 178, 312, 270], "ink": "light", "text": "Clothes made of cloth. Meant for everyday wear, so don't expect much Defense."},
+  {"box": [168, 276, 260, 300], "ink": "light", "text": "Defense 3"}]},
+{"entry": 2622, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Cloth Armor", "align": "center", "bold": true, "size": 18},
+  {"box": [55, 130, 170, 295], "ink": "light", "text": "Armor of quilted cloth.\n\nExtremely light, and its Defense should be a little better than Cloth Garb's."},
+  {"box": [55, 305, 130, 330], "ink": "light", "text": "Defense 5"}]},
+{"entry": 2623, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Soft Leather", "align": "center", "bold": true, "size": 18},
+  {"box": [44, 95, 172, 350], "ink": "light", "text": "Far easier to work than iron and sturdier than cloth, it is a favorite among new adventurers.\n\nMany adventurers also prefer it to having a heavy suit of armor restrict their movement."},
+  {"box": [44, 356, 130, 378], "ink": "light", "text": "Defense 6"}]},
+{"entry": 2624, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Plate Armor", "align": "center", "bold": true, "size": 18},
+  {"box": [60, 112, 180, 265], "ink": "light", "text": "Armor of sheet metal. Its \"weight\" is its weak point.\n\nBeing metal, it is vulnerable to Lightning attacks."},
+  {"box": [60, 285, 180, 360], "ink": "light", "text": "Defense 18\nDexterity -15\nLightning Resist -"}]},
+{"entry": 2625, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Hard Leather", "align": "center", "bold": true, "size": 18},
+  {"box": [60, 120, 172, 325], "ink": "light", "text": "Armor of many layers of leather, boiled hard.\n\nThe breastplate is reinforced beyond that of Cloth Armor, giving it that much more Defense."},
+  {"box": [60, 332, 140, 352], "ink": "light", "text": "Defense 7"}]},
+{"entry": 2626, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Sun Vestment", "align": "center", "bold": true, "size": 18},
+  {"box": [50, 96, 190, 290], "ink": "light", "text": "Believed to have been worn by priests of the Sun Empire. (The truth is uncertain.)\n\nIt holds a strange power that raises the wearer's Will and MP."},
+  {"box": [50, 296, 150, 375], "ink": "light", "text": "Defense 7\nMP +15\nWill +20"}]},
+{"entry": 2627, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Chain Mail", "align": "center", "bold": true, "size": 18},
+  {"box": [50, 104, 190, 320], "ink": "light", "text": "Armor of small metal rings linked like a chain. Fairly light, so it has many devotees among veteran adventurers.\n\nBeing metal, it is vulnerable to Lightning attacks."},
+  {"box": [50, 330, 180, 405], "ink": "light", "text": "Defense 10\nDexterity -12\nLightning Resist -"}]},
+{"entry": 2628, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Purgatory Garb", "align": "center", "bold": true, "size": 18},
+  {"box": [54, 118, 165, 295], "ink": "light", "text": "Clothes made of a strange material.\n\nStrong against heat, but apparently weak to Cold attacks."},
+  {"box": [54, 305, 170, 385], "ink": "light", "text": "Defense 5\nHeat Resist +\nCold Resist -"}]},
+{"entry": 2629, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Oushiul's Armor", "align": "center", "bold": true, "size": 18},
+  {"box": [30, 100, 165, 275], "ink": "light", "text": "Armor worn by the angel Oushiul.\n\nNot made for human proportions and hard to wear well, which may be why it lowers Dexterity."},
+  {"box": [30, 279, 140, 358], "ink": "light", "text": "Defense 15\nAttack +7\nDexterity -30"}]},
+{"entry": 2630, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Criesta's Armor", "align": "center", "bold": true, "size": 18},
+  {"box": [50, 110, 170, 330], "ink": "light", "text": "Armor made of Criesta, a strange metal lighter than steel yet very hard.\n\nIt has the power to raise the wearer's Dexterity."},
+  {"box": [50, 346, 150, 390], "ink": "light", "text": "Defense 24\nDexterity +12"}]},
+{"entry": 2631, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Dragoon's Armor", "align": "center", "bold": true, "size": 18},
+  {"box": [160, 110, 305, 295], "ink": "light", "text": "Armor said to be made from the scales of a lightning dragon.\n\nPerhaps by the dragon's blessing, it raises the wearer's Attack and Dexterity."},
+  {"box": [160, 316, 290, 420], "ink": "light", "text": "Defense 18\nAttack +8\nDexterity +30\nLightning Resist +"}]},
+{"entry": 2632, "erase": [{"box": [150, 284, 240, 296], "ink": "light"},{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Patron Saint Robe", "align": "center", "bold": true, "size": 18},
+  {"box": [146, 115, 305, 270], "ink": "light", "text": "A garment worn by the Saints. It raises the wearer's Will and MP.\n\nBeing cloth, however, it is vulnerable to heat."},
+  {"box": [146, 295, 270, 385], "ink": "light", "text": "Defense 5\nMP +10\nWill +25\nHeat Resist -"}]},
+{"entry": 2633, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Agitator's Robe", "align": "center", "bold": true, "size": 18},
+  {"box": [128, 104, 305, 278], "ink": "light", "text": "The robe of an Excitatoria (Agitator).\n\nPerhaps through a power of the robe itself, it raises Will.\nBeing cloth, it is vulnerable to heat."},
+  {"box": [128, 280, 260, 360], "ink": "light", "text": "Defense 8\nWill +30\nHeat Resist -"}]},
+{"entry": 2634, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Green Armor", "align": "center", "bold": true, "size": 18},
+  {"box": [47, 116, 190, 335], "ink": "light", "text": "A strange armor made of something harder than metal, yet it reshapes itself to fit the wearer's build.\n\nPerhaps through some effect of the material, it also raises the wearer's HP."},
+  {"box": [47, 343, 130, 388], "ink": "light", "text": "Defense 10\nHP +40"}]},
+{"entry": 2635, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Fire Armor", "align": "center", "bold": true, "size": 18},
+  {"box": [172, 110, 312, 262], "ink": "light", "text": "Armor that harbors the power of fire.\n\nIt halves Fire attacks, but that special power lowers Attack slightly."},
+  {"box": [172, 282, 300, 382], "ink": "light", "text": "Defense 13\nAttack -3\nHeat Resist +\nCold Resist -"}]},
+{"entry": 2636, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Ice Armor", "align": "center", "bold": true, "size": 18},
+  {"box": [159, 110, 305, 262], "ink": "light", "text": "Armor that harbors the power of ice.\n\nIt halves Cold attacks, but that special power lowers Attack slightly."},
+  {"box": [159, 282, 290, 382], "ink": "light", "text": "Defense 15\nAttack -3\nCold Resist +\nHeat Resist -"}]},
+{"entry": 2637, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Thunder Armor", "align": "center", "bold": true, "size": 18},
+  {"box": [172, 150, 312, 243], "ink": "light", "text": "Armor that harbors the power of thunderclouds.\nIt has the power to halve Lightning attacks."},
+  {"box": [172, 247, 295, 328], "ink": "light", "text": "Defense 20\nWill +20\nLightning Resist +"}]},
+{"entry": 2638, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [80, 46, 202, 74], "ink": "light", "text": "Closed Evil Eye Armor", "align": "center", "bold": true, "size": 18},
+  {"box": [150, 160, 305, 310], "ink": "light", "text": "Armor made of a strange material. A cursed armor that drains the strength of its wearer. Rumor has it that something is sealed inside..."}]},
+{"entry": 2639, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Evil Eye Armor", "align": "center", "bold": true, "size": 18},
+  {"box": [146, 112, 305, 295], "ink": "light", "text": "Armor made of a strange material.\n\nBesides its own high Defense, it raises Will, Dexterity and Poison Resist."},
+  {"box": [146, 312, 280, 425], "ink": "light", "text": "Defense 20\nWill +20\nDexterity +20\nPoison Resist +"}]},
+{"entry": 2640, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Nameless Armor", "align": "center", "bold": true, "size": 18},
+  {"box": [187, 124, 312, 290], "ink": "light", "text": "Armor made by the master smith Gaius.\n\nIt has no special effects, but boasts astounding Defense."},
+  {"box": [187, 302, 270, 325], "ink": "light", "text": "Defense 30"}]},
+{"entry": 2641, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Rusty Shield", "align": "center", "bold": true, "size": 18},
+  {"box": [145, 178, 280, 300], "ink": "light", "text": "A shield corroded by powerful acid. Don't expect much Defense; it's heavy and only restricts your movement. You're better off not equipping it."}]},
+{"entry": 2642, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Goat Head Statue", "align": "center", "bold": true, "size": 18},
+  {"box": [166, 185, 305, 280], "ink": "light", "text": "When used, warps you from inside the dungeon up to the surface.\n(Temporary description)"}]},
+{"entry": 2643, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Goddess Statue", "align": "center", "bold": true, "size": 18},
+  {"box": [60, 115, 190, 310], "ink": "light", "text": "An objet modeled on an ancient goddess.\n\nWhoever takes it in hand shall, it is promised, be freed from the fear of death."},
+  {"box": [58, 326, 195, 365], "ink": "light", "text": "Effect: Fully restores MP and HP"}]},
+{"entry": 2644, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Bread", "align": "center", "bold": true, "size": 18},
+  {"box": [58, 172, 190, 325], "ink": "light", "text": "Bread baked by Eugen's practiced hands.\n\nFor some reason, it's hard as stone.\nRestores 10 HP when eaten."}]},
+{"entry": 2645, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Racoss Bread", "align": "center", "bold": true, "size": 18},
+  {"box": [63, 104, 180, 350], "ink": "light", "text": "Racoss-style bread baked by Sara.\n\nRich in flavor and soft even after time has passed, it is quite popular.\n\nRestores 10 HP when eaten."}]},
+{"entry": 2646, "erase": [{"box": [90, 50, 192, 68], "ink": "light"}, {"box": [90, 50, 192, 68], "ink": "dark"}], "blocks": [
+  {"box": [85, 46, 197, 74], "ink": "light", "text": "Cheese", "align": "center", "bold": true, "size": 18},
+  {"box": [64, 188, 190, 300], "ink": "light", "text": "A cheese well suited to long keeping.\n\nRestores 30 HP when eaten."}]}
+]

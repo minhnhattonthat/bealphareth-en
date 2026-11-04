@@ -118,13 +118,13 @@ HEIGHT_MB = 30  # stills are 320x480, 600 macroblocks, column by column
 VLC_ENC = {rl: code for code, rl in VLC.items()}
 
 
-def parse_levels(b):
+def parse_levels(b, mb_h=HEIGHT_MB):
     """Coefficient levels of a still: [(dc, [(run, level), ..]), ..], block by block (Cr Cb Y1 Y2 Y3 Y4 per macroblock)."""
     words = np.frombuffer(b, dtype="<u2", offset=8, count=(len(b) - 8) // 2)
     bits = "".join(f"{w:016b}" for w in words.tolist())
     p, n = 0, len(bits)
     out = []
-    while p + 10 < n and len(out) < HEIGHT_MB * 20 * 6:
+    while p + 10 < n and len(out) < mb_h * 20 * 6:
         dc = int(bits[p:p + 10], 2)
         p += 10
         if dc >= 512:
@@ -211,16 +211,16 @@ def dct_block(px, qs, dead=0):
     return dc, ac
 
 
-def decode_planes(b):
-    """(Y 480x320, Cb 240x160, Cr 240x160) as float arrays (Y centred on 0), and the block levels."""
+def decode_planes(b, mb_h=HEIGHT_MB):
+    """(Y 480x320, Cb 240x160, Cr 240x160) as float arrays (Y centred on 0), and the block levels. mb_h: FMV frames are 15."""
     qs = struct.unpack_from("<H", b, 4)[0]
-    levels, _ = parse_levels(b)
-    w = len(levels) // 6 // HEIGHT_MB
-    y = np.zeros((HEIGHT_MB * 16, w * 16))
-    cb = np.zeros((HEIGHT_MB * 8, w * 8))
-    cr = np.zeros((HEIGHT_MB * 8, w * 8))
+    levels, _ = parse_levels(b, mb_h)
+    w = len(levels) // 6 // mb_h
+    y = np.zeros((mb_h * 16, w * 16))
+    cb = np.zeros((mb_h * 8, w * 8))
+    cr = np.zeros((mb_h * 8, w * 8))
     for m in range(len(levels) // 6):
-        x0, y0 = (m // HEIGHT_MB) * 8, (m % HEIGHT_MB) * 8
+        x0, y0 = (m // mb_h) * 8, (m % mb_h) * 8
         px = [idct_block(*levels[m * 6 + k], qs) for k in range(6)]
         cr[y0:y0 + 8, x0:x0 + 8] = px[0]
         cb[y0:y0 + 8, x0:x0 + 8] = px[1]
@@ -247,16 +247,16 @@ def from_rgb(rgb):
     return y, down(cb), down(cr)
 
 
-def edit_still(b, rgb, changed, dead=0):
+def edit_still(b, rgb, changed, dead=0, mb_h=HEIGHT_MB):
     """A new stream for still `b` showing `rgb`: macroblocks outside the boolean mask `changed` (480x320) keep their
     original codes, the rest are encoded at the still's own qscale (`dead`: see dct_block)."""
     qs = struct.unpack_from("<H", b, 4)[0]
     y, cb, cr = from_rgb(rgb)
-    levels, _ = parse_levels(b)
-    w = len(levels) // 6 // HEIGHT_MB
+    levels, _ = parse_levels(b, mb_h)
+    w = len(levels) // 6 // mb_h
     out = list(levels)
-    for m in range(w * HEIGHT_MB):
-        x0, y0 = (m // HEIGHT_MB) * 8, (m % HEIGHT_MB) * 8
+    for m in range(w * mb_h):
+        x0, y0 = (m // mb_h) * 8, (m % mb_h) * 8
         if not changed[y0 * 2:y0 * 2 + 16, x0 * 2:x0 * 2 + 16].any():
             continue
         out[m * 6] = dct_block(cr[y0:y0 + 8, x0:x0 + 8], qs, dead)

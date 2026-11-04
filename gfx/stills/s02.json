@@ -1,0 +1,98 @@
+[
+{"entry": 2647, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Dried Meat", "align": "center", "bold": true, "size": 18},
+ {"box": [55, 186, 172, 300], "ink": "light", "text": "Animal meat, smoked and dried.\n\nRestores 50 HP when eaten."}]},
+{"entry": 2648, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Potion", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 176, 208, 285], "ink": "light", "text": "A bottle of water that heals a wounded body.\n\nRestores 100 HP when used."}]},
+{"entry": 2649, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "High Potion", "align": "center", "bold": true, "size": 18},
+ {"box": [58, 148, 204, 312], "ink": "light", "text": "A bottle of water that heals a wounded body.\n\nMore potent than an ordinary Potion.\nRestores 500 HP when used."}]},
+{"entry": 2650, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Aquavit", "align": "center", "bold": true, "size": 18},
+ {"box": [60, 148, 176, 285], "ink": "light", "text": "A pouch of powder that soothes a weary mind.\n\nRestores 100 MP when used."}]},
+{"entry": 2651, "erase": [{"box": [54, 254, 176, 278], "ink": "light"}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Poison Cure", "align": "center", "bold": true, "size": 18},
+ {"box": [54, 136, 180, 262], "ink": "light", "text": "A pouch of special powder.\n\nWhen used, it clears away the poison afflicting you."},
+ {"box": [54, 276, 180, 318], "ink": "light", "text": "Effect: Cures poison"}]},
+{"entry": 2652, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Body Cure", "align": "center", "bold": true, "size": 18},
+ {"box": [50, 100, 174, 205], "ink": "light", "text": "A pouch of special powder.\n\nWhen used, it removes the attributes listed below."},
+ {"box": [50, 216, 148, 252], "ink": "light", "text": "Effect: Removes attributes"},
+ {"box": [54, 256, 120, 380], "ink": "light", "text": "- Fire\n- Poison\n- Oil\n- Dazed\n- Slow"}]},
+{"entry": 2653, "erase": [{"box": [168, 142, 184, 158], "ink": "light"}, {"box": [62, 270, 176, 292], "ink": "light"}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Mind Cure", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 128, 168, 296], "ink": "light", "text": "A pouch of special powder.\n\nWhen used, it clears your present state of mind."},
+ {"box": [62, 304, 200, 346], "ink": "light", "text": "Effect: Cures all mental ailments"}]},
+{"entry": 2654, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Chart of Time", "align": "center", "bold": true, "size": 18},
+ {"box": [40, 104, 184, 345], "ink": "light", "text": "An item that links places through a mysterious power. It can take you in an instant to anywhere you have once visited.\n\nIn the world below, where time runs tangled, it is a precious tool for telling the time in the world above."}]},
+{"entry": 2655, "erase": [{"box": [30, 220, 172, 240], "ink": "light"}], "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Trap Capsule", "align": "center", "bold": true, "size": 18},
+ {"box": [30, 140, 142, 272], "ink": "light", "text": "A tool that stores various traps.\n(Which trap comes out depends on the Trap Capsule.)"},
+ {"box": [30, 280, 176, 345], "ink": "light", "text": "Modifying it lets you use new traps."}]},
+{"entry": 2656, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Blue Leaf", "align": "center", "bold": true, "size": 18},
+ {"box": [60, 204, 160, 250], "ink": "light", "text": "A pointed blue leaf."}]},
+{"entry": 2657, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Blue Leaf", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 184, 164, 274], "ink": "light", "text": "A round blue leaf.\nUsing it counteracts poison."}]},
+{"entry": 2658, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Dead Leaf", "align": "center", "bold": true, "size": 18},
+ {"box": [64, 188, 176, 280], "ink": "light", "text": "A dead leaf.\nThere seems to be nothing unusual about it."}]},
+{"entry": 2659, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "High Aquavit", "align": "center", "bold": true, "size": 18},
+ {"box": [38, 138, 142, 338], "ink": "light", "text": "A pouch of powder that soothes a weary mind. Stronger than Aquavit.\n\nThis powder works at a mere touch, so it can also be thrown."}]},
+{"entry": 2660, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Fire Tube", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 188, 180, 285], "ink": "light", "text": "A special tube that explodes when thrown.\nIt contains the Fire element."}]},
+{"entry": 2661, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Ice Tube", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 188, 170, 285], "ink": "light", "text": "A special tube that explodes when thrown.\nIt contains the Ice element."}]},
+{"entry": 2662, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Heat Tube", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 152, 190, 292], "ink": "light", "text": "A special tube that explodes when thrown.\nIt contains the Fire element, but so thinly that nothing will burn."}]},
+{"entry": 2663, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Cold Tube", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 152, 190, 292], "ink": "light", "text": "A special tube that explodes when thrown.\nIt contains the Ice element, but so thinly that nothing will freeze."}]},
+{"entry": 2664, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Poison Tube", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 188, 186, 285], "ink": "light", "text": "A special tube that explodes when thrown.\nIt contains the Poison element."}]},
+{"entry": 2665, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Thrown Stone", "align": "center", "bold": true, "size": 18},
+ {"box": [162, 230, 280, 256], "ink": "light", "text": "Just a stone."}]},
+{"entry": 2666, "erase": [{"box": [190, 124, 208, 146], "ink": "light"}], "blocks": [
+ {"box": [84, 46, 198, 72], "ink": "light", "text": "Green Truecrystal", "align": "center", "bold": true, "size": 18},
+ {"box": [54, 112, 188, 202], "ink": "light", "text": "A beautiful, round green solid, sometimes called the \"core\" of a monster's body."},
+ {"box": [54, 206, 186, 300], "ink": "light", "text": "A valuable that human hands cannot make. Shops will exchange it for money."},
+ {"box": [54, 306, 250, 345], "ink": "light", "text": "Besides green, there are said to be blue cores as well."}]},
+{"entry": 2667, "blocks": [
+ {"box": [84, 46, 198, 72], "ink": "light", "text": "Trinity Gold Coin", "align": "center", "bold": true, "size": 18},
+ {"box": [135, 150, 292, 300], "ink": "light", "text": "Whether it comes from the Sun Empire, and from what age, is unknown, but this gold coin is rare and valuable.\n\nShops will exchange it for money."}]},
+{"entry": 2668, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Blue Truecrystal", "align": "center", "bold": true, "size": 18},
+ {"box": [54, 112, 194, 335], "ink": "light", "text": "A beautiful blue solid, sometimes called the \"core\" of a monster's body.\n\nA valuable that human hands cannot make, it seems to fetch a high price among merchants."}]},
+{"entry": 2669, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Bottle", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 218, 166, 262], "ink": "light", "text": "A bottle with a handle."}]},
+{"entry": 2670, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Cinders", "align": "center", "bold": true, "size": 18}]},
+{"entry": 2671, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Pot", "align": "center", "bold": true, "size": 18},
+ {"box": [56, 198, 170, 305], "ink": "light", "text": "A pot holding something to drink.\nThere seems to be nothing unusual about it."}]},
+{"entry": 2672, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Tankard", "align": "center", "bold": true, "size": 18},
+ {"box": [62, 215, 160, 250], "ink": "light", "text": "A glass tankard."}]},
+{"entry": 2673, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Cup", "align": "center", "bold": true, "size": 18},
+ {"box": [60, 196, 156, 315], "ink": "light", "text": "A cup for drinking from.\nThere seems to be nothing unusual about it."}]},
+{"entry": 2674, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Acid Tube", "align": "center", "bold": true, "size": 18},
+ {"box": [56, 184, 180, 285], "ink": "light", "text": "A special tube that explodes when thrown.\nIt contains the Acid element."}]},
+{"entry": 2675, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Trinket Box", "align": "center", "bold": true, "size": 18}]},
+{"entry": 2676, "blocks": [
+ {"box": [78, 46, 202, 72], "ink": "light", "text": "Water Bottle", "align": "center", "bold": true, "size": 18},
+ {"box": [45, 206, 155, 312], "ink": "light", "text": "A bottle of water.\n\nThere seems to be nothing unusual about it."},
+ {"box": [45, 330, 200, 354], "ink": "light", "text": "Effect: Makes you Wet"}]}
+]

@@ -16,6 +16,7 @@ Dispatch: a file name such as `s03` and its entries.
    - Title plates: `"align": "center", "bold": true, "size": 18`. Body text: the default size 15; set a smaller `size` only for dense pages. A block shrinks by itself to fit, down to 10.
    - Keep stat lines as separate lines (`\n`) in the order of the original: `Attack 18\nFire attribute\nCold resistance -`. Use the menu's stat words.
    - `"erase": [{"box": [...], "ink": "light"}]` removes Japanese with no English in its place (a second copy, a stray label).
+   - Dim or coloured Japanese that survives the erase: add `"dim": true` to that block or erase entry. It clears anything lighter than its surroundings, so keep such boxes off button pictures and art.
    - Latin text in the art (`PAGE 1/6`, `NEXT`, `END`, the monster's Latin scrawl, button pictures) stays: no block.
 3. `python -X utf8 tools/stills.py check gfx/stills/s03.json` until it reports 0 problems. `does not fit`: widen the box or tighten the English; never drop meaning.
 4. `python -X utf8 tools/stills.py preview work/qa/still/s03_p1.png gfx/stills/s03.json E1 E2 E3 E4 E5 E6 --cols 4` (six entries at a time) and Read it: pairs of before and after. Check that no Japanese is left, text sits on the page and reads clearly, and no art lost a chunk. Fix the boxes and repeat.

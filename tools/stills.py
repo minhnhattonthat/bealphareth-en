@@ -32,22 +32,28 @@ SIZE_DEFAULT, SIZE_MIN = 15, 10
 ERASE_MARGIN = 8
 JP = re.compile(r"[぀-ヿ一-鿿々]")
 DEAD_ZONES = (0, 1, 2, 3, 5, 8)  # how hard a page over its slot drops small coefficients in the touched macroblocks
+DIM_PAGES = range(3968, 3978)  # the controls pages: pale red and blue text on a soft ground
 
 
 def font(size, bold):
     return ImageFont.truetype(str(FONT[bold]), size)
 
 
-def text_mask(a, box, ink):
+def text_mask(a, box, ink, dim=False):
     """Text-like pixels of the RGB array inside a box (with a margin: boxes are read by eye), widened over their
-    antialiased edge."""
+    antialiased edge. dim: anything lighter than its surroundings, for dim or coloured text on a soft ground; it takes
+    art in the box with it."""
     x0, y0 = max(box[0] - ERASE_MARGIN, 0), max(box[1] - ERASE_MARGIN, 0)
     x1, y1 = min(box[2] + ERASE_MARGIN, a.shape[1]), min(box[3] + ERASE_MARGIN, a.shape[0])
     region = a[y0:y1, x0:x1].astype(int)
     luma = region @ np.array([299, 587, 114]) // 1000
     chroma = region.max(axis=2) - region.min(axis=2)
     med = np.median(luma)
-    hit = (luma > max(110, med + 45)) & (chroma < 70) if ink == "light" else luma < med - 30
+    cyan = (region[:, :, 1] > region[:, :, 0] + 30) & (region[:, :, 2] > region[:, :, 0] + 30)  # the cards' stat lines
+    if dim:
+        hit = luma - ndimage.gaussian_filter(luma.astype(float), 8) > 10
+    else:
+        hit = (luma > max(110, med + 45)) & ((chroma < 70) | cyan) if ink == "light" else luma < med - 30
     grown = ndimage.binary_dilation(hit, iterations=2)
     mask = np.zeros(a.shape[:2], bool)
     mask[y0:y1, x0:x1] = grown
@@ -122,7 +128,8 @@ def render(page, rgb):
     """The page's new RGB image."""
     a = rgb.copy()
     for block in page.get("erase", []) + page.get("blocks", []):
-        a = inpaint(a, text_mask(a, block["box"], block["ink"]))
+        dim = block.get("dim", False) or page["entry"] in DIM_PAGES
+        a = inpaint(a, text_mask(a, block["box"], block["ink"], dim))
     img = Image.fromarray(a)
     for block in page.get("blocks", []):
         draw_block(img, block)
