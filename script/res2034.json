@@ -224,8 +224,9 @@
    "jp": "{1c:15}{0b:08}{e080} アーサー {e081}{0b:09}\nクムランさん・・・\nファトゥムさんは・・・?{0c:020301}",
    "read": "{1c:15}{0b:08}【 アーサー 】{0b:09}\nクムランさん・・・\nファトゥムさんは・・・?{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Arthur 】{0b:09}\nQumran-san... What about Fatum-san...?{0c:020301}",
+   "status": "done",
+   "tl": "Qumran-san... What about Fatum-san...?"
   },
   {
    "id": "RES#2034:148d9",
@@ -269,8 +270,9 @@
    "jp": "{1c:17}{0b:08}{e080} パスカ {e081}{0b:09}\n・・・・・・{1a}やっぱり駄目だったんだな・・・{0c:020301}",
    "read": "{1c:17}{0b:08}【 パスカ 】{0b:09}\n・・・・・・{1a}やっぱり駄目だったんだな・・・{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Pasca 】{0b:09}\n...{1a}So it was no good after all, huh...{0c:020301}",
+   "status": "done",
+   "tl": "... // So it was no good after all, huh..."
   },
   {
    "id": "RES#2034:14926",
@@ -291,8 +293,9 @@
    "jp": "{1c:19}{0b:08}{e080} ジェシカ {e081}{0b:09}\n・・・・・・{1a}やっぱりダメだったの・・・?{0c:fe}",
    "read": "{1c:19}{0b:08}【 ジェシカ 】{0b:09}\n・・・・・・{1a}やっぱりダメだったの・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Jessica 】{0b:09}\n...{1a}So it was no use after all...?{0c:fe}",
+   "status": "done",
+   "tl": "... // So it was no use after all...?"
   },
   {
    "id": "RES#2034:14960",
@@ -313,8 +316,9 @@
    "jp": "{1c:10}{0b:08}{e080} クムラン {e081}{0b:09}\n最悪の結果かもしれません・・・{1a}今のファトゥムさんは\nナーダさんと全く同じ{e082}{e083}です。\nもう意識も感覚もありません。{1a}{0c:521810}どのような{e084}も、\nどのような回復魔{e085}も\n効果がありませんでした・・・{1a}{0c:522830}やはり私があの時止めていれば・・・{0c:fe}",
    "read": "{1c:10}{0b:08}【 クムラン 】{0b:09}\n最悪の結果かもしれません・・・{1a}今のファトゥムさんは\nナーダさんと全く同じ状態です。\nもう意識も感覚もありません。{1a}{0c:521810}どのような薬も、\nどのような回復魔法も\n効果がありませんでした・・・{1a}{0c:522830}やはり私があの時止めていれば・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Qumran 】{0b:09}\nThis may be the worst possible\noutcome...{1a}Fatum-san is now in exactly the same\nstate as Nada-san. He no longer has any\nconsciousness or sensation.{1a}{0c:521810}No medicine of any kind, no healing magic\nof any kind, has had any effect...{1a}{0c:522830}If only I had stopped him back then...{0c:fe}",
+   "status": "done",
+   "tl": "This may be the worst possible outcome... // Fatum-san is now in exactly the same state as Nada-san. He no longer has any consciousness or sensation. // [1]No medicine of any kind, no healing magic of any kind, has had any effect... // [2]If only I had stopped him back then..."
   },
   {
    "id": "RES#2034:14a11",
@@ -427,8 +431,9 @@
    "jp": "{0c:5258502b571000}{1c:12}{0b:08}{e080} {e086}{e087}{e088}サディーヤ {e081}{0b:09}\nありがとう、ティアラさん。\n疲れたでしょう、\n{e089}{e08a}に戻って休んで下さい。{0c:2b5709fe}",
    "read": "{0c:5258502b571000}{1c:12}{0b:08}【 毒術師サディーヤ 】{0b:09}\nありがとう、ティアラさん。\n疲れたでしょう、\n部屋に戻って休んで下さい。{0c:2b5709fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5258502b571000}{1c:12}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nThank you, Tiara-san. You must be tired.\nPlease go back to your room and rest.{0c:2b5709fe}",
+   "status": "done",
+   "tl": "Thank you, Tiara-san. You must be tired. Please go back to your room and rest."
   },
   {
    "id": "RES#2034:14b59",
@@ -438,8 +443,9 @@
    "jp": "{1c:14}{0b:08}{e080} {e08b}{e08c}ティアラ {e081}{0b:09}\nいえ・・・{07:0f}私は・・・{07:0f}まだ・・・{07:14}{0c:fe}",
    "read": "{1c:14}{0b:08}【 司祭ティアラ 】{0b:09}\nいえ・・・{07:0f}私は・・・{07:0f}まだ・・・{07:14}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Priest Tiara 】{0b:09}\nNo... {07:0f}I... {07:0f}can still...{07:14}{0c:fe}",
+   "status": "done",
+   "tl": "No... [1]I... [2]can still..."
   },
   {
    "id": "RES#2034:14b8a",
@@ -460,8 +466,9 @@
    "jp": "{1c:13}{0b:08}{e080} {e086}{e087}{e088}サディーヤ {e081}{0b:09}\nその気持ちだけで充分・・・{07:14}\nありがとう、ティアラさん。{07:05}{0c:fe}",
    "read": "{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\nその気持ちだけで充分・・・{07:14}\nありがとう、ティアラさん。{07:05}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nThat thought alone is enough...{07:14} Thank\nyou, Tiara-san.{07:05}{0c:fe}",
+   "status": "done",
+   "tl": "That thought alone is enough...[1] Thank you, Tiara-san."
   },
   {
    "id": "RES#2034:14bdc",
@@ -482,8 +489,9 @@
    "jp": "{1c:11}{0b:08}{e080} クムラン {e081}{0b:09}\n今はそっとしてあげましょう・・・{0c:fe}",
    "read": "{1c:11}{0b:08}【 クムラン 】{0b:09}\n今はそっとしてあげましょう・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Qumran 】{0b:09}\nLet us leave them in peace for now...{0c:fe}",
+   "status": "done",
+   "tl": "Let us leave them in peace for now..."
   },
   {
    "id": "RES#2034:14c33",

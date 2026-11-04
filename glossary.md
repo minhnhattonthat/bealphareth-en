@@ -360,6 +360,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 太陽帝国 | Sun Empire | | | Solar Empire |
 | 新しい世界 | New World | | | |
 | セルツ鋼 | Seltz steel | | | |
+| 仮死状態 | suspended animation | | | |
 | 親衛騎士団 | Royal Guard Knights | | | |
 | プリースト・マジック | Priest Magic | | | |
 | ウーザー | Uther | | | |

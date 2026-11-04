@@ -41,8 +41,9 @@
    "jp": "{0b:08}{e080} {e081}際に立っている戦士 {e083}{0b:09}\nどうしたんだぁ?\nこんな所に集めて。{0c:2b5d09fe}",
    "read": "{0b:08}【 壁際に立っている戦士 】{0b:09}\nどうしたんだぁ?\nこんな所に集めて。{0c:2b5d09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Warrior by the Wall 】{0b:09}\nWhat's goin' on? Haulin' us all into a place\nlike this.{0c:2b5d09fe}",
+   "status": "done",
+   "tl": "What's goin' on? Haulin' us all into a place like this."
   },
   {
    "id": "RES#1573:efe6",
@@ -52,8 +53,9 @@
    "jp": "{0c:51402b5c1000}{0b:08}{e080} {e081}際に立っている魔{e084}使い {e083}{0b:09}\nそりゃやっぱりあれだろ。{0c:2b5c09fe}",
    "read": "{0c:51402b5c1000}{0b:08}【 壁際に立っている魔法使い 】{0b:09}\nそりゃやっぱりあれだろ。{0c:2b5c09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51402b5c1000}{0b:08}【 Wizard by the Wall 】{0b:09}\nWell, it's gotta be that business, ain't it.{0c:2b5c09fe}",
+   "status": "done",
+   "tl": "Well, it's gotta be that business, ain't it."
   },
   {
    "id": "RES#1573:f01e",
@@ -63,8 +65,9 @@
    "jp": "{0c:5108}{0b:08}{e080} {e081}際に立っている戦士 {e083}{0b:09}\nあれの話か・・・{07:28}{1a}{0c:51002b5d1000}って、あれって何だぃ?{07:0a}{0c:2b5d09fe}",
    "read": "{0c:5108}{0b:08}【 壁際に立っている戦士 】{0b:09}\nあれの話か・・・{07:28}{1a}{0c:51002b5d1000}って、あれって何だぃ?{07:0a}{0c:2b5d09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5108}{0b:08}【 Warrior by the Wall 】{0b:09}\nAh, that business...{07:28}{1a}{0c:51002b5d1000}Wait, what business?{07:0a}{0c:2b5d09fe}",
+   "status": "done",
+   "tl": "Ah, that business...[1] // [2]Wait, what business?"
   },
   {
    "id": "RES#1573:f066",
@@ -74,8 +77,9 @@
    "jp": "{0b:08}{e080} {e081}際に立っている魔{e084}使い {e083}{0b:09}\nそりゃおめえ、外の・・・{0c:2b5509fe}",
    "read": "{0b:08}【 壁際に立っている魔法使い 】{0b:09}\nそりゃおめえ、外の・・・{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Wizard by the Wall 】{0b:09}\nWell, ya know, the stuff outside...{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Well, ya know, the stuff outside..."
   },
   {
    "id": "RES#1573:f097",
@@ -85,8 +89,9 @@
    "jp": "{1c:12}{0b:08}{e080} オイゲン {e083}{0b:09}\nおう、クムラン、\nもうそろそろいいんじゃねえのか?\n残りはまだ{e085}{e086}の中だろ。{0c:2b5309fe}",
    "read": "{1c:12}{0b:08}【 オイゲン 】{0b:09}\nおう、クムラン、\nもうそろそろいいんじゃねえのか?\n残りはまだ遺跡の中だろ。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Eugen 】{0b:09}\nHey, Qumran, ain't it about time? The\nrest are still down in the ruins, right?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Hey, Qumran, ain't it about time? The rest are still down in the ruins, right?"
   },
   {
    "id": "RES#1573:f0df",
@@ -96,8 +101,9 @@
    "jp": "{1c:16}{0b:08}{e080} クムラン {e083}{0b:09}\nええ。{0c:2b5e09fe}",
    "read": "{1c:16}{0b:08}【 クムラン 】{0b:09}\nええ。{0c:2b5e09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}{0b:08}【 Qumran 】{0b:09}\nYes.{0c:2b5e09fe}",
+   "status": "done",
+   "tl": "Yes."
   },
   {
    "id": "RES#1573:f0fc",
@@ -107,8 +113,9 @@
    "jp": "{0b:08}{e080} 大{e087}を担いでいる男 {e083}{0b:09}\nクムラン先生よぅ。\nその前に質問いいかい?{0c:fe}",
    "read": "{0b:08}【 大剣を担いでいる男 】{0b:09}\nクムラン先生よぅ。\nその前に質問いいかい?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Man with a Greatsword 】{0b:09}\nSay, Qumran-sensei. Mind if I ask\nsomethin' before that?{0c:fe}",
+   "status": "done",
+   "tl": "Say, Qumran-sensei. Mind if I ask somethin' before that?"
   },
   {
    "id": "RES#1573:f135",
@@ -141,8 +148,9 @@
    "jp": "{0b:08}{e080} 大{e087}を担いでいる男 {e083}{0b:09}\n魔物{e08a}が世{e08b}中に出{e08c}したのは\n『シェオルの{e08d}』を壊したからだって\n噂があるんだが、それは本当か?{0c:2b5309fe}",
    "read": "{0b:08}【 大剣を担いでいる男 】{0b:09}\n魔物共が世界中に出現したのは\n『シェオルの柱』を壊したからだって\n噂があるんだが、それは本当か?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Man with a Greatsword 】{0b:09}\nThere's a rumor the monsters showed\nup all over the world because somebody\nbroke the 'Pillar of Sheol'. That true?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "There's a rumor the monsters showed up all over the world because somebody broke the 'Pillar of Sheol'. That true?"
   },
   {
    "id": "RES#1573:f1d9",
@@ -164,8 +172,9 @@
    "jp": "{0b:08}{e080} {e090}{e091}に立っている男 {e083}{0b:09}\nオレも知りてえな。{1a}凶戦士のクソ野郎{e08a}には\n仲間を何人も殺された。{1a}{0c:52b0a8}その上、ヤツラを助けたために\n故{e093}が魔物に荒らされてる・・・\nこれじゃ怒るなっていう方が無理だ。{0c:fe}",
    "read": "{0b:08}【 左奥に立っている男 】{0b:09}\nオレも知りてえな。{1a}凶戦士のクソ野郎共には\n仲間を何人も殺された。{1a}{0c:52b0a8}その上、ヤツラを助けたために\n故郷が魔物に荒らされてる・・・\nこれじゃ怒るなっていう方が無理だ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Man at the Back Left 】{0b:09}\nI wanna know too.{1a}Them Berserker bastards killed a bunch\nof my comrades.{1a}{0c:52b0a8}And on top of that, savin' 'em has got\nmonsters tearin' up my hometown... Don't\nnobody tell me not to be mad.{0c:fe}",
+   "status": "done",
+   "tl": "I wanna know too. // Them Berserker bastards killed a bunch of my comrades. // [1]And on top of that, savin' 'em has got monsters tearin' up my hometown... Don't nobody tell me not to be mad."
   },
   {
    "id": "RES#1573:f288",
@@ -186,8 +195,9 @@
    "jp": "{0b:08}{e080} 大{e087}を担いでいる男 {e083}{0b:09}\nどうなんだ?\nヤツらを庇うために\n{e096}をつくってのはナシだぜ。{0c:fe}",
    "read": "{0b:08}【 大剣を担いでいる男 】{0b:09}\nどうなんだ?\nヤツらを庇うために\n嘘をつくってのはナシだぜ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Man with a Greatsword 】{0b:09}\nWell? And no lyin' to cover for 'em.{0c:fe}",
+   "status": "done",
+   "tl": "Well? And no lyin' to cover for 'em."
   },
   {
    "id": "RES#1573:f2dc",
@@ -208,8 +218,9 @@
    "jp": "{0c:51c9}{1c:18}{0b:08}{e080} クムラン {e083}{0b:09}\n皆さんの想{e098}{e099}り、\n{e08d}の{e09a}壊と魔物の出{e08c}は\n無関係ではありません・・・{1a}・・・ですが、魔物出{e08c}の\n本当の理由は別にあります。{0c:2b5f09fe}",
    "read": "{0c:51c9}{1c:18}{0b:08}【 クムラン 】{0b:09}\n皆さんの想像通り、\n柱の破壊と魔物の出現は\n無関係ではありません・・・{1a}・・・ですが、魔物出現の\n本当の理由は別にあります。{0c:2b5f09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51c9}{1c:18}{0b:08}【 Qumran 】{0b:09}\nJust as you all imagine, the destruction\nof the pillars and the appearance of the\nmonsters are not unrelated...{1a}...However, the true reason for the\nmonsters' appearance lies elsewhere.{0c:2b5f09fe}",
+   "status": "done",
+   "tl": "Just as you all imagine, the destruction of the pillars and the appearance of the monsters are not unrelated... // ...However, the true reason for the monsters' appearance lies elsewhere."
   },
   {
    "id": "RES#1573:f35a",
@@ -231,8 +242,9 @@
    "jp": "{1c:18}{0b:08}{e080} クムラン {e083}{0b:09}\nそれを皆さんに{e09b}{e09c}するために\nこうして集まって頂きました。{1a}ではお話しします。\n魔物の正体、\nそして地下{e085}{e086}の正体を。{0c:2b5e09fe}",
    "read": "{1c:18}{0b:08}【 クムラン 】{0b:09}\nそれを皆さんに説明するために\nこうして集まって頂きました。{1a}ではお話しします。\n魔物の正体、\nそして地下遺跡の正体を。{0c:2b5e09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Qumran 】{0b:09}\nI have gathered you all here to explain it.{1a}Let me tell you, then. The true nature\nof the monsters, and of the\nunderground ruins.{0c:2b5e09fe}",
+   "status": "done",
+   "tl": "I have gathered you all here to explain it. // Let me tell you, then. The true nature of the monsters, and of the underground ruins."
   },
   {
    "id": "RES#1573:f3e7",
@@ -242,8 +254,9 @@
    "jp": "{0c:528070}{0b:08}{e080} 大{e087}を担いでいる男 {e083}{0b:09}\nよし、聞いてやろうじゃねえか。{0c:2b5309fe}",
    "read": "{0c:528070}{0b:08}【 大剣を担いでいる男 】{0b:09}\nよし、聞いてやろうじゃねえか。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:528070}{0b:08}【 Man with a Greatsword 】{0b:09}\nAll right, let's hear it.{0c:2b5309fe}",
+   "status": "done",
+   "tl": "All right, let's hear it."
   },
   {
    "id": "RES#1573:f41b",
@@ -253,8 +266,9 @@
    "jp": "{1c:18}{0b:08}{e080} {03}クムラン {e083}{0b:09}\n魔物達{02}の出{e08c}から約{01}40{e09d}{02}、\n{e09e}つもの{e09f}{e09b}が立てられてきました。{1a}{e085}{e086}や{e0a0}{e0a1}を守る番人だという{e09b}、{1a}永遠の生命を{e0a3}い求めた\n{e0a4}{e0a5}{e0a6}{e0a7}の人{e0a8}が、\n実験に失{e0aa}しあのような姿に\nなってしまったという{e09b}・・・{1a}{01}1万{e09d}前{02}、魔物達は\n{e085}{e086}の中だけでなく、\n世{e08b}各地にいたのだという\n{e09b}もあります。{1a}各地に伝わる伝{e09b}や神話は\nその魔物達が{03}モデル{02}になって\n{e0ad}られたものだと・・・{1a}{0c:52d1c9}しかし、私はこれらの{e09b}に\n疑問を持っていました。{1a}魔物の中には、たった{01}50{e09d}前{02}に\n子供向け寓話の中で生み出された\n{e0af}者の{e09c}らかな魔物もいたからです。{0c:2b6009fe}",
    "read": "{1c:18}{0b:08}【 {03}クムラン 】{0b:09}\n魔物達{02}の出現から約{01}40年{02}、\n幾つもの仮説が立てられてきました。{1a}遺跡や財宝を守る番人だという説、{1a}永遠の生命を追い求めた\n太陽帝国の人々が、\n実験に失敗しあのような姿に\nなってしまったという説・・・{1a}{01}1万年前{02}、魔物達は\n遺跡の中だけでなく、\n世界各地にいたのだという\n説もあります。{1a}各地に伝わる伝説や神話は\nその魔物達が{03}モデル{02}になって\n創られたものだと・・・{1a}{0c:52d1c9}しかし、私はこれらの説に\n疑問を持っていました。{1a}魔物の中には、たった{01}50年前{02}に\n子供向け寓話の中で生み出された\n作者の明らかな魔物もいたからです。{0c:2b6009fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Qumran 】{0b:09}\nIn the forty or so years since the\nmonsters appeared, a number of\nhypotheses have been put forward.{1a}One holds that they are guardians of\nthe ruins and the treasure.{1a}Another, that the people of the Sun\nEmpire, in pursuit of eternal life, failed in\nan experiment and took on those forms...{1a}There is also a theory that ten\nthousand years ago the monsters lived\nnot only in the ruins but all over the\nworld,{1a}and that the legends and myths handed\ndown in every land were modelled on\nthose monsters...{1a}{0c:52d1c9}However, I had my doubts about these\ntheories.{1a}For among the monsters are some with a\nplainly known author, born a mere fifty\nyears ago in a fable for children.{0c:2b6009fe}",
+   "status": "done",
+   "tl": "In the forty or so years since the monsters appeared, a number of hypotheses have been put forward. // One holds that they are guardians of the ruins and the treasure. // Another, that the people of the Sun Empire, in pursuit of eternal life, failed in an experiment and took on those forms... // There is also a theory that ten thousand years ago the monsters lived not only in the ruins but all over the world, // and that the legends and myths handed down in every land were modelled on those monsters... // [1]However, I had my doubts about these theories. // For among the monsters are some with a plainly known author, born a mere fifty years ago in a fable for children."
   },
   {
    "id": "RES#1573:f596",
@@ -264,8 +278,9 @@
    "jp": "{0c:52e8f0}{0b:08}{e080} {e0b0}{e0b1}{e0b2}の男 {e083}{0b:09}\n前{e0b3}き{e0b4}いぜ、先生よぅ。{0c:fe}",
    "read": "{0c:52e8f0}{0b:08}【 盗賊風の男 】{0b:09}\n前置き長いぜ、先生よぅ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52e8f0}{0b:08}【 Thief-Looking Man 】{0b:09}\nYou sure take the long way round,\nsensei.{0c:fe}",
+   "status": "done",
+   "tl": "You sure take the long way round, sensei."
   },
   {
    "id": "RES#1573:f5c4",
@@ -286,8 +301,9 @@
    "jp": "{1c:1c}{0b:08}{e080} バルデス {e083}{0b:09}\n本題にはいる前に必要だ。\n黙って聞け。{0c:2b6009fe}",
    "read": "{1c:1c}{0b:08}【 バルデス 】{0b:09}\n本題にはいる前に必要だ。\n黙って聞け。{0c:2b6009fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Valdes 】{0b:09}\nHe's gotta say that before he gets to\nthe point. Shut up and listen.{0c:2b6009fe}",
+   "status": "done",
+   "tl": "He's gotta say that before he gets to the point. Shut up and listen."
   },
   {
    "id": "RES#1573:f5ff",
@@ -297,8 +313,9 @@
    "jp": "{0c:52f8ff01}{0b:08}{e080} {e0b0}{e0b1}{e0b2}の男 {e083}{0b:09}\nはい、すみません・・・{0c:fe}",
    "read": "{0c:52f8ff01}{0b:08}【 盗賊風の男 】{0b:09}\nはい、すみません・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52f8ff01}{0b:08}【 Thief-Looking Man 】{0b:09}\nYessir, sorry...{0c:fe}",
+   "status": "done",
+   "tl": "Yessir, sorry..."
   },
   {
    "id": "RES#1573:f628",
@@ -319,8 +336,9 @@
    "jp": "{0c:51c1}{1c:18}{0b:08}{e080} クムラン {e083}{0b:09}\n地下{e085}{e086}に関しても\nいろいろな疑問があります。{1a}なぜ地中にあのような\n{e0b6}大な{e0b7}間が存{e0b9}するのか、\n古{e0ba}人はどうやって地中に\n{e0a4}{e0a5}を造ったのか・・・{0c:2b5509fe}",
    "read": "{0c:51c1}{1c:18}{0b:08}【 クムラン 】{0b:09}\n地下遺跡に関しても\nいろいろな疑問があります。{1a}なぜ地中にあのような\n巨大な空間が存在するのか、\n古代人はどうやって地中に\n太陽を造ったのか・・・{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51c1}{1c:18}{0b:08}【 Qumran 】{0b:09}\nThere are many questions about the\nunderground ruins as well.{1a}Why does so vast a space exist\nunderground? How did the ancients make\na sun beneath the earth...{0c:2b5509fe}",
+   "status": "done",
+   "tl": "There are many questions about the underground ruins as well. // Why does so vast a space exist underground? How did the ancients make a sun beneath the earth..."
   },
   {
    "id": "RES#1573:f6b0",
@@ -330,8 +348,9 @@
    "jp": "{1c:13}{0b:08}{e080} オイゲン {e083}{0b:09}\nで、なんだ?\nその答ってのは。{0c:2b5309fe}",
    "read": "{1c:13}{0b:08}【 オイゲン 】{0b:09}\nで、なんだ?\nその答ってのは。{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Eugen 】{0b:09}\nSo, what's the answer, then?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "So, what's the answer, then?"
   },
   {
    "id": "RES#1573:f6dc",
@@ -341,8 +360,9 @@
    "jp": "{0c:51c9}{1c:19}{0b:08}{e080} クムラン {e083}{0b:09}\nアスラ・ファエルは\n人の『{e0bd}神世{e08b}』の集合体なのです。{1a}あの魔物も、{e0a4}{e0a5}も、{e0b6}大な{e0b7}間も、\nそして我{e0a8}が手にした{e0a0}{e0a1}の{e0be}{e0a8}も、\n全て我{e0a8}の心の中で生み出された\nものなのです。{0c:2b5509fe}",
    "read": "{0c:51c9}{1c:19}{0b:08}【 クムラン 】{0b:09}\nアスラ・ファエルは\n人の『精神世界』の集合体なのです。{1a}あの魔物も、太陽も、巨大な空間も、\nそして我々が手にした財宝の数々も、\n全て我々の心の中で生み出された\nものなのです。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51c9}{1c:19}{0b:08}【 Qumran 】{0b:09}\nAsla Fael is an aggregate of the human\n'spirit world'.{1a}Those monsters, the sun, the vast\nspace, and all the treasure we have\ntaken, every one of them was born\nwithin our own hearts.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Asla Fael is an aggregate of the human 'spirit world'. // Those monsters, the sun, the vast space, and all the treasure we have taken, every one of them was born within our own hearts."
   },
   {
    "id": "RES#1573:f771",
@@ -352,8 +372,9 @@
    "jp": "{0c:520849}{1c:13}{0b:08}{e080} オイゲン {e083}{0b:09}\nなんだそりゃ。\n魔物もお{e0a1}も全てが幻ってことか?{0c:2b5309fe}",
    "read": "{0c:520849}{1c:13}{0b:08}【 オイゲン 】{0b:09}\nなんだそりゃ。\n魔物もお宝も全てが幻ってことか?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520849}{1c:13}{0b:08}【 Eugen 】{0b:09}\nWhat's that supposed to mean?\nMonsters, treasure, it's all just an\nillusion?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "What's that supposed to mean? Monsters, treasure, it's all just an illusion?"
   },
   {
    "id": "RES#1573:f7ae",
@@ -363,8 +384,9 @@
    "jp": "{0c:52d1c9}{1c:17}{0b:08}{e080} クムラン {e083}{0b:09}\nいいえ。\n魔物も、地下{e085}{e086}も、{e0a0}{e0a1}も\n確かに存{e0b9}します。{1a}{0c:2b552c23520900}{e085}{e086}の中で拾った{e0a0}{e0a1}は、\n地上に持ってきても\n何ら変わりなく存{e0b9}する。\nこれでは幻とは{e0bf}べないでしょう。{0c:2b5509fe}",
    "read": "{0c:52d1c9}{1c:17}{0b:08}【 クムラン 】{0b:09}\nいいえ。\n魔物も、地下遺跡も、財宝も\n確かに存在します。{1a}{0c:2b552c23520900}遺跡の中で拾った財宝は、\n地上に持ってきても\n何ら変わりなく存在する。\nこれでは幻とは呼べないでしょう。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52d1c9}{1c:17}{0b:08}【 Qumran 】{0b:09}\nNo. The monsters, the underground ruins\nand the treasure do exist.{1a}{0c:2b552c23520900}Treasure found in the ruins goes on\nexisting just the same when it is carried\nto the surface. That can hardly be called\nan illusion.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "No. The monsters, the underground ruins and the treasure do exist. // [1]Treasure found in the ruins goes on existing just the same when it is carried to the surface. That can hardly be called an illusion."
   },
   {
    "id": "RES#1573:f841",
@@ -374,8 +396,9 @@
    "jp": "{1c:13}{0b:08}{e080} オイゲン {e083}{0b:09}\nじゃあ一体・・・{0c:2b5309fe}",
    "read": "{1c:13}{0b:08}【 オイゲン 】{0b:09}\nじゃあ一体・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Eugen 】{0b:09}\nThen what in the world...{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Then what in the world..."
   },
   {
    "id": "RES#1573:f865",
@@ -385,8 +408,9 @@
    "jp": "{1c:17}{0b:08}{e080} クムラン {e083}{0b:09}\nアスラ・ファエルの中では\n人{e0a8}の心の{e091}にある様{e0a8}な感情が\n物質{e0c0}、具{e08c}{e0c0}するのです。{1a}例えば、我{e0a8}が{e085}{e086}で見つける{e0a0}{e0a1}は\n人{e0a8}の欲望が物質{e0c0}したものです。\nそして魔物達は、人{e0a8}の恐怖や\n憎悪が具{e08c}{e0c0}したものなのです。{1a}今まで私達が戦った魔物に、\n神話や伝{e09b}に{e0c4}場する悪魔や魔{e0c5}が\n多いのはそのためです。{0c:2b5509fe}",
    "read": "{1c:17}{0b:08}【 クムラン 】{0b:09}\nアスラ・ファエルの中では\n人々の心の奥にある様々な感情が\n物質化、具現化するのです。{1a}例えば、我々が遺跡で見つける財宝は\n人々の欲望が物質化したものです。\nそして魔物達は、人々の恐怖や\n憎悪が具現化したものなのです。{1a}今まで私達が戦った魔物に、\n神話や伝説に登場する悪魔や魔獣が\n多いのはそのためです。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Qumran 】{0b:09}\nWithin Asla Fael, the many emotions deep\nin people's hearts are made into matter\nand given form.{1a}For example, the treasure we find in the\nruins is human desire made matter. And\nthe monsters are human fear and hatred\ngiven form.{1a}That is why so many of the monsters\nwe have fought are devils and beasts\nout of myth and legend.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Within Asla Fael, the many emotions deep in people's hearts are made into matter and given form. // For example, the treasure we find in the ruins is human desire made matter. And the monsters are human fear and hatred given form. // That is why so many of the monsters we have fought are devils and beasts out of myth and legend."
   },
   {
    "id": "RES#1573:f951",
@@ -396,8 +420,9 @@
    "jp": "{0c:521100}{1c:14}{0b:08}{e080} オイゲン {e083}{0b:09}\n憎しみや恐怖が\n魔物を生み出すのか・・・{07:1e}\nん? ちょっと待ってくれ。{07:07}{1a}アスラ・ファエルの中の魔物や{e0a0}{e0a1}が\n俺達の心の中から生まれたってのは\n理解した。{1a}{0c:520849}だが、外の魔物はどう{e09b}{e09c}する?\n今までの話は全て\n地下{e085}{e086}の中での話だろ?{1a}どうしてアスラ・ファエルの外で\nただの人間がいきなり魔物に\n{e0c0}けたりするんだ?{0c:fe}",
    "read": "{0c:521100}{1c:14}{0b:08}【 オイゲン 】{0b:09}\n憎しみや恐怖が\n魔物を生み出すのか・・・{07:1e}\nん? ちょっと待ってくれ。{07:07}{1a}アスラ・ファエルの中の魔物や財宝が\n俺達の心の中から生まれたってのは\n理解した。{1a}{0c:520849}だが、外の魔物はどう説明する?\n今までの話は全て\n地下遺跡の中での話だろ?{1a}どうしてアスラ・ファエルの外で\nただの人間がいきなり魔物に\n化けたりするんだ?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521100}{1c:14}{0b:08}【 Eugen 】{0b:09}\nSo hate and fear make monsters, huh...{07:1e}\nHm? Hold on a minute.{07:07}{1a}I get that the monsters and treasure in\nAsla Fael come outta our own hearts.{1a}{0c:520849}But how do ya explain the monsters\noutside? Everything so far's been about\ninside the underground ruins, right?{1a}How come plain folks outside Asla Fael\nare suddenly turnin' into monsters?{0c:fe}",
+   "status": "done",
+   "tl": "So hate and fear make monsters, huh...[1] Hm? Hold on a minute.[2] // I get that the monsters and treasure in Asla Fael come outta our own hearts. // [3]But how do ya explain the monsters outside? Everything so far's been about inside the underground ruins, right? // How come plain folks outside Asla Fael are suddenly turnin' into monsters?"
   },
   {
    "id": "RES#1573:fa42",
@@ -418,8 +443,9 @@
    "jp": "{1c:17}{0b:08}{e080} クムラン {e083}{0b:09}\nアスラ・ファエルと\n我{e0a8}の{e0c6}むこの地上世{e08b}とが\n融合しはじめているのです。{0c:2b5d09fe}",
    "read": "{1c:17}{0b:08}【 クムラン 】{0b:09}\nアスラ・ファエルと\n我々の住むこの地上世界とが\n融合しはじめているのです。{0c:2b5d09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Qumran 】{0b:09}\nAsla Fael and this surface world where\nwe live have begun to fuse.{0c:2b5d09fe}",
+   "status": "done",
+   "tl": "Asla Fael and this surface world where we live have begun to fuse."
   },
   {
    "id": "RES#1573:fa96",
@@ -429,8 +455,9 @@
    "jp": "{0b:08}{e080} {e081}際に立っている魔{e084}使い {e083}{0b:09}\n融合・・・?{0c:2b5309fe}",
    "read": "{0b:08}【 壁際に立っている魔法使い 】{0b:09}\n融合・・・?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Wizard by the Wall 】{0b:09}\nFuse...?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Fuse...?"
   },
   {
    "id": "RES#1573:fac3",
@@ -440,8 +467,9 @@
    "jp": "{1c:18}{0b:08}{e080} クムラン {e083}{0b:09}\n{e0bd}神世{e08b}と物質世{e08b}が\n{e0c8}ざり合い、溶け合い、\n1つの世{e08b}になりつつあるのです。{1a}私達の{e0c6}んでるこの地上と\nアスラ・ファエルとの境{e08b}{e0cb}が\n{e0cc}{e0a8}になくなってきているのです。{0c:2b5d09fe}",
    "read": "{1c:18}{0b:08}【 クムラン 】{0b:09}\n精神世界と物質世界が\n混ざり合い、溶け合い、\n1つの世界になりつつあるのです。{1a}私達の住んでるこの地上と\nアスラ・ファエルとの境界線が\n徐々になくなってきているのです。{0c:2b5d09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Qumran 】{0b:09}\nThe spirit world and the material world\nare mixing, melting together, becoming a\nsingle world.{1a}The boundary between this surface we\nlive on and Asla Fael is gradually\ndisappearing.{0c:2b5d09fe}",
+   "status": "done",
+   "tl": "The spirit world and the material world are mixing, melting together, becoming a single world. // The boundary between this surface we live on and Asla Fael is gradually disappearing."
   },
   {
    "id": "RES#1573:fb4d",
@@ -451,8 +479,9 @@
    "jp": "{0b:08}{e080} {e081}際に立っている魔{e084}使い {e083}{0b:09}\nそれで世{e08b}中に魔物が・・・?{0c:2b5309fe}",
    "read": "{0b:08}【 壁際に立っている魔法使い 】{0b:09}\nそれで世界中に魔物が・・・?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Wizard by the Wall 】{0b:09}\nSo that's why there's monsters all over\nthe world...?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "So that's why there's monsters all over the world...?"
   },
   {
    "id": "RES#1573:fb85",
@@ -462,8 +491,9 @@
    "jp": "{0c:52d9c9}{1c:18}{0b:08}{e080} クムラン {e083}{0b:09}\nはい。\n『シェオルの{e08d}』を{e09a}壊しなくとも{1a}遅かれ早かれ魔物は\n出{e08c}していたでしょう。{1a}2つの世{e08b}の融合は\nアスラ・ファエルの発見と同時に、\nいえ、もっと昔から決まっていた\nことなのかもしれないのです。{1a}『シェオルの{e08d}』の{e09a}壊は、\nそれを少し早めただけ・・・{0c:2b5509fe}",
    "read": "{0c:52d9c9}{1c:18}{0b:08}【 クムラン 】{0b:09}\nはい。\n『シェオルの柱』を破壊しなくとも{1a}遅かれ早かれ魔物は\n出現していたでしょう。{1a}2つの世界の融合は\nアスラ・ファエルの発見と同時に、\nいえ、もっと昔から決まっていた\nことなのかもしれないのです。{1a}『シェオルの柱』の破壊は、\nそれを少し早めただけ・・・{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52d9c9}{1c:18}{0b:08}【 Qumran 】{0b:09}\nYes. Even if the 'Pillar of Sheol' had not\nbeen destroyed,{1a}the monsters would have appeared\nsooner or later.{1a}The fusion of the two worlds may have\nbeen decided the moment Asla Fael was\ndiscovered, or no, perhaps long before\nthat.{1a}The destruction of the 'Pillar of Sheol'\nmerely hastened it a little...{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Yes. Even if the 'Pillar of Sheol' had not been destroyed, // the monsters would have appeared sooner or later. // The fusion of the two worlds may have been decided the moment Asla Fael was discovered, or no, perhaps long before that. // The destruction of the 'Pillar of Sheol' merely hastened it a little..."
   },
   {
    "id": "RES#1573:fc48",
@@ -473,8 +503,9 @@
    "jp": "{1c:13}{0b:08}{e080} オイゲン {e083}{0b:09}\nで、2つの世{e08b}が{e0c8}ざり合って\n1つの世{e08b}になったら\n俺達はどうなるんだ?{0c:2b5309fe}",
    "read": "{1c:13}{0b:08}【 オイゲン 】{0b:09}\nで、2つの世界が混ざり合って\n1つの世界になったら\n俺達はどうなるんだ?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Eugen 】{0b:09}\nSo when the two worlds mix together\ninto one, what happens to us?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "So when the two worlds mix together into one, what happens to us?"
   },
   {
    "id": "RES#1573:fc93",
@@ -484,8 +515,9 @@
    "jp": "{1c:17}{0b:08}{e080} クムラン {e083}{0b:09}\n我{e0a8}1人1人の肉体は消え去り、\n最後には{e0cf}のない1つの『意志』に\nなるのではないでしょうか・・・{1a}この世{e08b}を構{e0d1}するものは\n物質ではなく我{e0a8}の思念です。\n1人1人の思念が結合し\n1つの世{e08b}がつくられる・・・{1a}老いも死もない{e0d3}極の永遠・・・\nこれこそが古{e0ba}人の求めていた\n『永遠の世{e08b}』の正体なのでは\nないでしょうか・・・{0c:2b5e09fe}",
    "read": "{1c:17}{0b:08}【 クムラン 】{0b:09}\n我々1人1人の肉体は消え去り、\n最後には形のない1つの『意志』に\nなるのではないでしょうか・・・{1a}この世界を構成するものは\n物質ではなく我々の思念です。\n1人1人の思念が結合し\n1つの世界がつくられる・・・{1a}老いも死もない究極の永遠・・・\nこれこそが古代人の求めていた\n『永遠の世界』の正体なのでは\nないでしょうか・・・{0c:2b5e09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Qumran 】{0b:09}\nThe body of each one of us will vanish,\nand in the end, perhaps, we will become a\nsingle formless 'will'...{1a}What makes up this world will be not\nmatter but our thought-forms. The\nthought-forms of each person will\ncombine to create a single world...{1a}An ultimate eternity, with neither age\nnor death... Might this not be the true\nnature of the 'Eternal World' the\nancients sought...{0c:2b5e09fe}",
+   "status": "done",
+   "tl": "The body of each one of us will vanish, and in the end, perhaps, we will become a single formless 'will'... // What makes up this world will be not matter but our thought-forms. The thought-forms of each person will combine to create a single world... // An ultimate eternity, with neither age nor death... Might this not be the true nature of the 'Eternal World' the ancients sought..."
   },
   {
    "id": "RES#1573:fd87",
@@ -495,8 +527,9 @@
    "jp": "{0b:08}{e080} 大{e087}を担いでいる男 {e083}{0b:09}\n何が{e0d3}極なもんか。\n退屈なだけじゃねえか!{0c:2b5c09fe}",
    "read": "{0b:08}【 大剣を担いでいる男 】{0b:09}\n何が究極なもんか。\n退屈なだけじゃねえか!{0c:2b5c09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Man with a Greatsword 】{0b:09}\nUltimate, hell. It's just plain borin'!{0c:2b5c09fe}",
+   "status": "done",
+   "tl": "Ultimate, hell. It's just plain borin'!"
   },
   {
    "id": "RES#1573:fdc1",
@@ -506,8 +539,9 @@
    "jp": "{0c:521018}{0b:08}{e080} {e081}際に立っている戦士 {e083}{0b:09}\nそうかなぁ・・・\n死なないんだぜ、いいじゃねえか。{0c:fe}",
    "read": "{0c:521018}{0b:08}【 壁際に立っている戦士 】{0b:09}\nそうかなぁ・・・\n死なないんだぜ、いいじゃねえか。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{0b:08}【 Warrior by the Wall 】{0b:09}\nI dunno... Ya don't die, right? Sounds fine\nto me.{0c:fe}",
+   "status": "done",
+   "tl": "I dunno... Ya don't die, right? Sounds fine to me."
   },
   {
    "id": "RES#1573:fdfe",
@@ -528,8 +562,9 @@
    "jp": "{0c:5288902b5c1000}{0b:08}{e080} 大{e087}を担いでいる男 {e083}{0b:09}\nけっ、てめえは馬鹿か!?{1a}{0c:2b5c2351002b5e1000}体がなくなっちゃあ、{e0d4}も飲めねえ\nスケベなことも出来ねえ、\nそんな世{e08b}の何が楽しいんだ!?{0c:2b5509fe}",
    "read": "{0c:5288902b5c1000}{0b:08}【 大剣を担いでいる男 】{0b:09}\nけっ、てめえは馬鹿か!?{1a}{0c:2b5c2351002b5e1000}体がなくなっちゃあ、酒も飲めねえ\nスケベなことも出来ねえ、\nそんな世界の何が楽しいんだ!?{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5288902b5c1000}{0b:08}【 Man with a Greatsword 】{0b:09}\nTch, are you stupid!?{1a}{0c:2b5c2351002b5e1000}No body means no drinkin' and no chasin'\nskirts. What's the fun in a world like\nthat!?{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Tch, are you stupid!? // [1]No body means no drinkin' and no chasin' skirts. What's the fun in a world like that!?"
   },
   {
    "id": "RES#1573:fe8d",
@@ -539,8 +574,9 @@
    "jp": "{0c:5211002b5e1000}{1c:14}{0b:08}{e080} オイゲン {e083}{0b:09}\n同感だな。\n{e0d4}のない世{e08b}なんぞ\n生きていても意味がねえ。{1a}{0c:51002b531000}で、止める方{e084}はあるのか?\nその、2つの世{e08b}の融合ってのを。{0c:2b5d09fe}",
    "read": "{0c:5211002b5e1000}{1c:14}{0b:08}【 オイゲン 】{0b:09}\n同感だな。\n酒のない世界なんぞ\n生きていても意味がねえ。{1a}{0c:51002b531000}で、止める方法はあるのか?\nその、2つの世界の融合ってのを。{0c:2b5d09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5211002b5e1000}{1c:14}{0b:08}【 Eugen 】{0b:09}\nI'm with ya there. A world with no liquor\nain't worth livin' in.{1a}{0c:51002b531000}So, is there a way to stop it? This\nfusion of the two worlds or whatever.{0c:2b5d09fe}",
+   "status": "done",
+   "tl": "I'm with ya there. A world with no liquor ain't worth livin' in. // [1]So, is there a way to stop it? This fusion of the two worlds or whatever."
   },
   {
    "id": "RES#1573:ff06",
@@ -550,8 +586,9 @@
    "jp": "{0b:08}{e080} {e081}際に立っている魔{e084}使い {e083}{0b:09}\nどうなんだ、先生。{0c:fe}",
    "read": "{0b:08}【 壁際に立っている魔法使い 】{0b:09}\nどうなんだ、先生。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Wizard by the Wall 】{0b:09}\nWhat about it, sensei?{0c:fe}",
+   "status": "done",
+   "tl": "What about it, sensei?"
   },
   {
    "id": "RES#1573:ff32",
@@ -572,8 +609,9 @@
    "jp": "{1c:17}{0b:08}{e080} クムラン {e083}{0b:09}\n『無よりゼメンとゼウェアク別れる。\n其の地を{09:08}始原の地{09:01}という。{1a}{09:08}始原の地{09:01}より7つの世{e08b}生まれる。\n神、その外に13の人をつくれり。』{1a}これは、アノイアの聖{e0d8}の{e0d9}頭にある\n{e0da}地{e0ad}造の章の一節です。{1a}そして、これとほとんど\n同じ{e0dd}容の文章が、\nアスラ・ファエルで発見された{e0de}{e0df}に\n{e0e0}されていました。{0c:2b5d09fe}",
    "read": "{1c:17}{0b:08}【 クムラン 】{0b:09}\n『無よりゼメンとゼウェアク別れる。\n其の地を{09:08}始原の地{09:01}という。{1a}{09:08}始原の地{09:01}より7つの世界生まれる。\n神、その外に13の人をつくれり。』{1a}これは、アノイアの聖書の冒頭にある\n天地創造の章の一節です。{1a}そして、これとほとんど\n同じ内容の文章が、\nアスラ・ファエルで発見された石版に\n記されていました。{0c:2b5d09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Qumran 】{0b:09}\n'From the Void were Zemen and Zeweak\nparted. That land is called the {09:08}Land of\nOrigin{09:01}.{1a}From the {09:08}Land of Origin{09:01} were seven\nworlds born. God made, beyond these,\nthirteen persons.'{1a}This is a passage from the chapter of\nCreation at the opening of Anoia's\nScriptures.{1a}And text nearly identical in content was\nwritten on a stone tablet discovered in\nAsla Fael.{0c:2b5d09fe}",
+   "status": "done",
+   "tl": "'From the Void were Zemen and Zeweak parted. That land is called the [1]Land of Origin[2]. // From the [3]Land of Origin[4] were seven worlds born. God made, beyond these, thirteen persons.' // This is a passage from the chapter of Creation at the opening of Anoia's Scriptures. // And text nearly identical in content was written on a stone tablet discovered in Asla Fael."
   },
   {
    "id": "RES#1573:10041",
@@ -583,8 +621,9 @@
    "jp": "{0b:08}{e080} {e081}際に立っている魔{e084}使い {e083}{0b:09}\nそれが一体?{0c:2b5609fe}",
    "read": "{0b:08}【 壁際に立っている魔法使い 】{0b:09}\nそれが一体?{0c:2b5609fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Wizard by the Wall 】{0b:09}\nWhat of it?{0c:2b5609fe}",
+   "status": "done",
+   "tl": "What of it?"
   },
   {
    "id": "RES#1573:1006e",
@@ -594,8 +633,9 @@
    "jp": "{1c:1a}{0b:08}{e080} {e0e1}{e0e2}ティアラ {e083}{0b:09}\n聖{e0d8}中の{09:08}『始原の地』{09:01}は、      \n{0c:2b552c2351002b561000}{0c:2b572c2351e12b561000}{0c:2b502351002b561000}{0c:2b512c2351002b561000}{0c:2b522c2351002b561000}{0c:2b592c2351282b561000}{0c:2b5a2c2351402b561000}{0c:2b5b2c2351582b561000}{0c:2b5c2351002b561000}{0c:2b5d2351402b561000}{0c:2b5e2351702b561000}{0c:2b5f2351a82b561000}{0c:2b602351e02b561000}{0c:2b612351ff192b561000}{0c:2b622351ff212b561000}二大神ゼメンとゼウェアクが別れ{1a}私達が{e0c6}んでいるこの世{e08b}を含む\n7つの世{e08b}を生み出した\n{e0da}地{e0ad}造の始まりの地です。{1a}それ以前の世{e08b}は、\n神すらも存{e0b9}しない\n『無』の世{e08b}だったと\n聖{e0d8}には{e0d8}かれています。{0c:2b5e09fe}",
    "read": "{1c:1a}{0b:08}【 司祭ティアラ 】{0b:09}\n聖書中の{09:08}『始原の地』{09:01}は、      \n{0c:2b552c2351002b561000}{0c:2b572c2351e12b561000}{0c:2b502351002b561000}{0c:2b512c2351002b561000}{0c:2b522c2351002b561000}{0c:2b592c2351282b561000}{0c:2b5a2c2351402b561000}{0c:2b5b2c2351582b561000}{0c:2b5c2351002b561000}{0c:2b5d2351402b561000}{0c:2b5e2351702b561000}{0c:2b5f2351a82b561000}{0c:2b602351e02b561000}{0c:2b612351ff192b561000}{0c:2b622351ff212b561000}二大神ゼメンとゼウェアクが別れ{1a}私達が住んでいるこの世界を含む\n7つの世界を生み出した\n天地創造の始まりの地です。{1a}それ以前の世界は、\n神すらも存在しない\n『無』の世界だったと\n聖書には書かれています。{0c:2b5e09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}{0b:08}【 Priest Tiara 】{0b:09}\nThe {09:08}'Land of Origin'{09:01} in the Scriptures is\nthe land {0c:2b552c2351002b561000}{0c:2b572c2351e12b561000}{0c:2b502351002b561000}{0c:2b512c2351002b561000}{0c:2b522c2351002b561000}{0c:2b592c2351282b561000}{0c:2b5a2c2351402b561000}{0c:2b5b2c2351582b561000}{0c:2b5c2351002b561000}{0c:2b5d2351402b561000}{0c:2b5e2351702b561000}{0c:2b5f2351a82b561000}{0c:2b602351e02b561000}{0c:2b612351ff192b561000}{0c:2b622351ff212b561000}where the Two Supreme Gods,\nZemen and Zeweak, parted{1a}and gave birth to seven worlds, this one\nwe live in among them: the land where\nCreation began.{1a}The Scriptures say that the world\nbefore it was a world of 'Void', where\nnot even God existed.{0c:2b5e09fe}",
+   "status": "done",
+   "tl": "The [1]'Land of Origin'[2] in the Scriptures is the land [3]where the Two Supreme Gods, Zemen and Zeweak, parted // and gave birth to seven worlds, this one we live in among them: the land where Creation began. // The Scriptures say that the world before it was a world of 'Void', where not even God existed."
   },
   {
    "id": "RES#1573:101e7",
@@ -605,8 +645,9 @@
    "jp": "{0b:08}{e080} 大{e087}を担いでいる男 {e083}{0b:09}\nああ、一応それくらいは知ってるぜ。{0c:2b5609fe}",
    "read": "{0b:08}【 大剣を担いでいる男 】{0b:09}\nああ、一応それくらいは知ってるぜ。{0c:2b5609fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Man with a Greatsword 】{0b:09}\nYeah, I know that much, at least.{0c:2b5609fe}",
+   "status": "done",
+   "tl": "Yeah, I know that much, at least."
   },
   {
    "id": "RES#1573:1021a",
@@ -616,8 +657,9 @@
    "jp": "{1c:1a}{0b:08}{e080} {e0e1}{e0e2}ティアラ {e083}{0b:09}\nそして、{09:08}『始原の地』{09:01}は、\n神による{e0da}地{e0ad}造の\n始まりの地であると同時に、{1a}第二の{e0da}地{e0ad}造が始まる地であると\n聖{e0d8}には{e0d8}かれています。{0c:2b5509fe}",
    "read": "{1c:1a}{0b:08}【 司祭ティアラ 】{0b:09}\nそして、{09:08}『始原の地』{09:01}は、\n神による天地創造の\n始まりの地であると同時に、{1a}第二の天地創造が始まる地であると\n聖書には書かれています。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}{0b:08}【 Priest Tiara 】{0b:09}\nAnd the {09:08}'Land of Origin'{09:01}, besides being\nthe land where God's Creation began,{1a}is also the land where the second\nCreation shall begin, so the Scriptures\nsay.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "And the [1]'Land of Origin'[2], besides being the land where God's Creation began, // is also the land where the second Creation shall begin, so the Scriptures say."
   },
   {
    "id": "RES#1573:10297",
@@ -627,8 +669,9 @@
    "jp": "{1c:14}{0b:08}{e080} オイゲン {e083}{0b:09}\n第二の{e0da}地{e0ad}造・・・?\n聖{e0d8}の最後の方に{e0d8}いてあるヤツか。{0c:2b5609fe}",
    "read": "{1c:14}{0b:08}【 オイゲン 】{0b:09}\n第二の天地創造・・・?\n聖書の最後の方に書いてあるヤツか。{0c:2b5609fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Eugen 】{0b:09}\nThe second Creation...? That thing near\nthe back of the Scriptures, right?{0c:2b5609fe}",
+   "status": "done",
+   "tl": "The second Creation...? That thing near the back of the Scriptures, right?"
   },
   {
    "id": "RES#1573:102de",
@@ -638,8 +681,9 @@
    "jp": "{0c:51912b551000}{1c:1a}{0b:08}{e080} {e0e1}{e0e2}ティアラ {e083}{0b:09}\n「人{e0a8}の神を求める声が{e0e4}まり、{1a}復讐と怒りを{e0e1}る{e0e6}まわしき魔物が\n{e0da}{e08b}の神{e0e7}を血で汚した時、\n第二の預言者あらわれる・・・{1a}そして、第二の預言者が\n{09:08}『始原の地』{09:01}への{e0ea}の扉を{e0ec}いた時\n人の時{e0ba}は終わり、{1a}永遠なる神の時{e0ba}\n『{e0ed}しい世{e08b}』が始まる・・・」\n聖{e0d8}の巻末、黙示{e0ef}の章には\nそう{e0d8}かれています。{1a}今私達がいるこの世{e08b}はなくなり、\n肉体と霊魂の境{e08b}のない\n永遠なる神の{e0a7}が{e0ad}られる・・・{1a}二大神は再び1つに戻り、\nそこに人{e0a8}の肉体と霊魂が融合し、\n『{e182}全なる1つのもの』になる・・・{1a}これが『{e0ed}しい世{e08b}』、\n第二の{e0da}地{e0ad}造です。{1a}その{e0a7}の{e0c6}人は、『永遠の命』と\n『神と{e08a}なる至福の生活』を\n手に入れることが出来る・・・\nそう聖{e0d8}には{e0d8}かれています。{0c:2b5509fe}",
    "read": "{0c:51912b551000}{1c:1a}{0b:08}【 司祭ティアラ 】{0b:09}\n「人々の神を求める声が高まり、{1a}復讐と怒りを司る忌まわしき魔物が\n天界の神殿を血で汚した時、\n第二の預言者あらわれる・・・{1a}そして、第二の預言者が\n{09:08}『始原の地』{09:01}への光の扉を開いた時\n人の時代は終わり、{1a}永遠なる神の時代\n『新しい世界』が始まる・・・」\n聖書の巻末、黙示録の章には\nそう書かれています。{1a}今私達がいるこの世界はなくなり、\n肉体と霊魂の境界のない\n永遠なる神の国が創られる・・・{1a}二大神は再び1つに戻り、\nそこに人々の肉体と霊魂が融合し、\n『完全なる1つのもの』になる・・・{1a}これが『新しい世界』、\n第二の天地創造です。{1a}その国の住人は、『永遠の命』と\n『神と共なる至福の生活』を\n手に入れることが出来る・・・\nそう聖書には書かれています。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51912b551000}{1c:1a}{0b:08}【 Priest Tiara 】{0b:09}\n\"When the voices of the people crying\nout for God swell,{1a}and a hateful monster ruling vengeance\nand wrath stains the temple of the\nCelestial Realm with blood, the second\nProphet shall appear...{1a}And when the second Prophet opens the\nDoor of Light to the {09:08}'Land of Origin'{09:01},\nthe age of man shall end,{1a}and the eternal age of God, the 'New\nWorld', shall begin...\" So it is written in\nthe chapter of Revelation at the end of\nthe Scriptures.{1a}This world we now live in shall be no\nmore, and an eternal kingdom of God\nshall be made, with no boundary between\nflesh and soul...{1a}The Two Supreme Gods shall return once\nmore to one, and the flesh and souls of\nmen shall fuse with them, becoming 'One\nPerfect Whole'...{1a}This is the 'New World', the second\nCreation.{1a}Those who dwell in that kingdom shall\ngain 'Eternal Life' and 'a life of bliss\ntogether with God'... So the Scriptures\nsay.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "\"When the voices of the people crying out for God swell, // and a hateful monster ruling vengeance and wrath stains the temple of the Celestial Realm with blood, the second Prophet shall appear... // And when the second Prophet opens the Door of Light to the [1]'Land of Origin'[2], the age of man shall end, // and the eternal age of God, the 'New World', shall begin...\" So it is written in the chapter of Revelation at the end of the Scriptures. // This world we now live in shall be no more, and an eternal kingdom of God shall be made, with no boundary between flesh and soul... // The Two Supreme Gods shall return once more to one, and the flesh and souls of men shall fuse with them, becoming 'One Perfect Whole'... // This is the 'New World', the second Creation. // Those who dwell in that kingdom shall gain 'Eternal Life' and 'a life of bliss together with God'... So the Scriptures say."
   },
   {
    "id": "RES#1573:104d4",
@@ -649,8 +693,9 @@
    "jp": "{1c:15}{0b:08}{e080} オイゲン {e083}{0b:09}\n肉体と霊魂の境{e08b}のない世{e08b}か・・・{1a}言われてみれば、\n古{e0ba}人の夢見ていた『永遠の世{e08b}』と\n聖{e0d8}の『{e0ed}しい世{e08b}』は\nほとんど同じじゃねえか。{1a}{0c:2b5623529991}で、どうすりゃ・・・{0c:fe}",
    "read": "{1c:15}{0b:08}【 オイゲン 】{0b:09}\n肉体と霊魂の境界のない世界か・・・{1a}言われてみれば、\n古代人の夢見ていた『永遠の世界』と\n聖書の『新しい世界』は\nほとんど同じじゃねえか。{1a}{0c:2b5623529991}で、どうすりゃ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Eugen 】{0b:09}\nA world with no boundary between flesh\nand soul, huh...{1a}Come to think of it, the 'Eternal World'\nthe ancients dreamed about and the\n'New World' in the Scriptures are just\nabout the same thing, ain't they.{1a}{0c:2b5623529991}So, what do we...{0c:fe}",
+   "status": "done",
+   "tl": "A world with no boundary between flesh and soul, huh... // Come to think of it, the 'Eternal World' the ancients dreamed about and the 'New World' in the Scriptures are just about the same thing, ain't they. // [1]So, what do we..."
   },
   {
    "id": "RES#1573:1055f",
@@ -671,8 +716,9 @@
    "jp": "{1c:17}{0b:08}{e080} クムラン {e083}{0b:09}\n人{e0a8}の意識が\n{0c:2b552c2351002b531000}{0c:2b572c2351e12b531000}{0c:2b562c2351912b531000}{0c:2b502351002b531000}{0c:2b512c2351002b531000}{0c:2b522c2351002b531000}{0c:2b592c2351282b531000}{0c:2b5a2c2351402b531000}{0c:2b5b2c2351582b531000}{0c:2b5c2351002b531000}{0c:2b5d2351402b531000}{0c:2b5e2351702b531000}{0c:2b5f2351a82b531000}{0c:2b602351e02b531000}アスラ・ファエルの中で\n具{e08c}{e0c0}するのであれば、{1a}聖{e0d8}という、世{e08b}で最も多くの\n人{e0a8}に{e186}まれている本に何度も\nその{e187}を{e188}す{09:08}『始原の地』{09:01}が{1a}そこに存{e0b9}していたとしても\n何ら不思{e189}ではありません・・・{1a}ならば、その{09:08}『始原の地』{09:01}を\n{e18a}{e18b}することさえ出来れば・・・{0c:2b5509fe}",
    "read": "{1c:17}{0b:08}【 クムラン 】{0b:09}\n人々の意識が\n{0c:2b552c2351002b531000}{0c:2b572c2351e12b531000}{0c:2b562c2351912b531000}{0c:2b502351002b531000}{0c:2b512c2351002b531000}{0c:2b522c2351002b531000}{0c:2b592c2351282b531000}{0c:2b5a2c2351402b531000}{0c:2b5b2c2351582b531000}{0c:2b5c2351002b531000}{0c:2b5d2351402b531000}{0c:2b5e2351702b531000}{0c:2b5f2351a82b531000}{0c:2b602351e02b531000}アスラ・ファエルの中で\n具現化するのであれば、{1a}聖書という、世界で最も多くの\n人々に読まれている本に何度も\nその名を表す{09:08}『始原の地』{09:01}が{1a}そこに存在していたとしても\n何ら不思議ではありません・・・{1a}ならば、その{09:08}『始原の地』{09:01}を\n封印することさえ出来れば・・・{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Qumran 】{0b:09}\nIf human consciousness takes form\n{0c:2b552c2351002b531000}{0c:2b572c2351e12b531000}{0c:2b562c2351912b531000}{0c:2b502351002b531000}{0c:2b512c2351002b531000}{0c:2b522c2351002b531000}{0c:2b592c2351282b531000}{0c:2b5a2c2351402b531000}{0c:2b5b2c2351582b531000}{0c:2b5c2351002b531000}{0c:2b5d2351402b531000}{0c:2b5e2351702b531000}{0c:2b5f2351a82b531000}{0c:2b602351e02b531000}within Asla Fael,{1a}then it would be no wonder at all if the\n{09:08}'Land of Origin'{09:01}, named again and again in\nthe Scriptures, the most widely read\nbook in the world,{1a}existed there as well...{1a}And so, if only that {09:08}'Land of Origin'{09:01} can\nbe sealed...{0c:2b5509fe}",
+   "status": "done",
+   "tl": "If human consciousness takes form [1]within Asla Fael, // then it would be no wonder at all if the [2]'Land of Origin'[3], named again and again in the Scriptures, the most widely read book in the world, // existed there as well... // And so, if only that [4]'Land of Origin'[5] can be sealed..."
   },
   {
    "id": "RES#1573:106e5",
@@ -682,8 +728,9 @@
    "jp": "{1c:14}{0b:08}{e080} オイゲン {e083}{0b:09}\n2つの世{e08b}を融合させようとする\n力がなくなる、と・・・{0c:2b5d09fe}",
    "read": "{1c:14}{0b:08}【 オイゲン 】{0b:09}\n2つの世界を融合させようとする\n力がなくなる、と・・・{0c:2b5d09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:14}{0b:08}【 Eugen 】{0b:09}\nThen the power tryin' to fuse the two\nworlds goes away, huh...{0c:2b5d09fe}",
+   "status": "done",
+   "tl": "Then the power tryin' to fuse the two worlds goes away, huh..."
   },
   {
    "id": "RES#1573:10720",
@@ -693,8 +740,9 @@
    "jp": "{0b:08}{e080} {e081}際に立っている魔{e084}使い {e083}{0b:09}\nそう上手くいくかな・・・{0c:2b5309fe}",
    "read": "{0b:08}【 壁際に立っている魔法使い 】{0b:09}\nそう上手くいくかな・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Wizard by the Wall 】{0b:09}\nWill it go that smooth, I wonder...{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Will it go that smooth, I wonder..."
   },
   {
    "id": "RES#1573:10752",
@@ -704,8 +752,9 @@
    "jp": "{1c:17}{0b:08}{e080} クムラン {e083}{0b:09}\n聖{e0d8}や伝{e09b}の文章を\n額面{e099}りに受け止めるなど\n学者としては失格なのですが、{1a}{0c:52d9c9}今はこれに賭けてみるしか\nありません。{0c:2b5509fe}",
    "read": "{1c:17}{0b:08}【 クムラン 】{0b:09}\n聖書や伝説の文章を\n額面通りに受け止めるなど\n学者としては失格なのですが、{1a}{0c:52d9c9}今はこれに賭けてみるしか\nありません。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Qumran 】{0b:09}\nAs a scholar I ought not to take the\nwords of Scriptures and legends at face\nvalue,{1a}{0c:52d9c9}but for now, we have no choice but to\nstake everything on this.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "As a scholar I ought not to take the words of Scriptures and legends at face value, // [1]but for now, we have no choice but to stake everything on this."
   },
   {
    "id": "RES#1573:107bb",
@@ -715,8 +764,9 @@
    "jp": "{0c:521100}{1c:14}{0b:08}{e080} オイゲン {e083}{0b:09}\nまあやってみる価値は\nあるってことだな・・・{0c:2b5f09fe}",
    "read": "{0c:521100}{1c:14}{0b:08}【 オイゲン 】{0b:09}\nまあやってみる価値は\nあるってことだな・・・{0c:2b5f09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521100}{1c:14}{0b:08}【 Eugen 】{0b:09}\nWell, means it's worth a shot, I guess...{0c:2b5f09fe}",
+   "status": "done",
+   "tl": "Well, means it's worth a shot, I guess..."
   },
   {
    "id": "RES#1573:107f2",
@@ -726,8 +776,9 @@
    "jp": "{0c:52b0a8}{0b:08}{e080} {e090}{e091}に立っている男 {e083}{0b:09}\nちっ・・・{1a}魔物のことが知りたかっただけなのに\nいきなり世{e08b}がなくなるなんて\n聞かされてもよ・・・\nもう俺にはさっぱりわからん。{1a}だいたい、その{09:08}『始原の地』{09:01}ってのは\n何処にあるんだ?{0c:2b5309fe}",
    "read": "{0c:52b0a8}{0b:08}【 左奥に立っている男 】{0b:09}\nちっ・・・{1a}魔物のことが知りたかっただけなのに\nいきなり世界がなくなるなんて\n聞かされてもよ・・・\nもう俺にはさっぱりわからん。{1a}だいたい、その{09:08}『始原の地』{09:01}ってのは\n何処にあるんだ?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52b0a8}{0b:08}【 Man at the Back Left 】{0b:09}\nTch...{1a}All I wanted was to hear about the\nmonsters, and now you're tellin' me the\nworld's gonna vanish... I can't make heads\nor tails of it no more.{1a}Anyhow, where the hell's this {09:08}'Land of\nOrigin'{09:01} supposed to be?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Tch... // All I wanted was to hear about the monsters, and now you're tellin' me the world's gonna vanish... I can't make heads or tails of it no more. // Anyhow, where the hell's this [1]'Land of Origin'[2] supposed to be?"
   },
   {
    "id": "RES#1573:10884",
@@ -737,8 +788,9 @@
    "jp": "{1c:18}{0b:08}{e080} クムラン {e083}{0b:09}\n我{e0a8}は今まで\n4つの{e0bd}神世{e08b}を見てきました。{1a}『時の回{e192}』の3つ先の世{e08b}、\nそこが・・・{0c:2b5d09fe}",
    "read": "{1c:18}{0b:08}【 クムラン 】{0b:09}\n我々は今まで\n4つの精神世界を見てきました。{1a}『時の回廊』の3つ先の世界、\nそこが・・・{0c:2b5d09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Qumran 】{0b:09}\nSo far we have seen four spirit worlds.{1a}Three worlds beyond the 'Corridor of\nTime', that is where...{0c:2b5d09fe}",
+   "status": "done",
+   "tl": "So far we have seen four spirit worlds. // Three worlds beyond the 'Corridor of Time', that is where..."
   },
   {
    "id": "RES#1573:108de",
@@ -748,8 +800,9 @@
    "jp": "{0b:08}{e080} {e081}際に立っている魔{e084}使い {e083}{0b:09}\n{09:08}『始原の地』{09:01}・・・{0c:2b5509fe}",
    "read": "{0b:08}【 壁際に立っている魔法使い 】{0b:09}\n{09:08}『始原の地』{09:01}・・・{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Wizard by the Wall 】{0b:09}\n{09:08}The 'Land of Origin'{09:01}...{0c:2b5509fe}",
+   "status": "done",
+   "tl": "The 'Land of Origin'[1]..."
   },
   {
    "id": "RES#1573:10914",
@@ -759,8 +812,9 @@
    "jp": "{1c:10}{0b:08}{e080} オイゲン {e083}{0b:09}\nだが『時の回{e192}』は\n途中で行き止まりなんだろ?{0c:2b5e09fe}",
    "read": "{1c:10}{0b:08}【 オイゲン 】{0b:09}\nだが『時の回廊』は\n途中で行き止まりなんだろ?{0c:2b5e09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Eugen 】{0b:09}\nBut the 'Corridor of Time' dead-ends\npartway, don't it?{0c:2b5e09fe}",
+   "status": "done",
+   "tl": "But the 'Corridor of Time' dead-ends partway, don't it?"
   },
   {
    "id": "RES#1573:1094f",
@@ -770,8 +824,9 @@
    "jp": "{0c:528070}{0b:08}{e080} 大{e087}を担いでいる男 {e083}{0b:09}\nああ、1回しか行ったことはねえが\nあそこは・・・{0c:2b5409fe}",
    "read": "{0c:528070}{0b:08}【 大剣を担いでいる男 】{0b:09}\nああ、1回しか行ったことはねえが\nあそこは・・・{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:528070}{0b:08}【 Man with a Greatsword 】{0b:09}\nYeah, I only been the once, but that\nplace...{0c:2b5409fe}",
+   "status": "done",
+   "tl": "Yeah, I only been the once, but that place..."
   },
   {
    "id": "RES#1573:1098f",
@@ -781,8 +836,9 @@
    "jp": "{1c:1c}{0b:08}{e080} バルデス {e083}{0b:09}\nいや、鍵は見つけた・・・\n馬鹿げてるくらい単純な鍵だ。{0c:2b5509fe}",
    "read": "{1c:1c}{0b:08}【 バルデス 】{0b:09}\nいや、鍵は見つけた・・・\n馬鹿げてるくらい単純な鍵だ。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Valdes 】{0b:09}\nNo, I found the key... A key so simple it's\nridiculous.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "No, I found the key... A key so simple it's ridiculous."
   },
   {
    "id": "RES#1573:109cb",
@@ -792,8 +848,9 @@
    "jp": "{1c:10}{0b:08}{e080} オイゲン {e083}{0b:09}\nなんだ、その鍵ってのは?{0c:2b5409fe}",
    "read": "{1c:10}{0b:08}【 オイゲン 】{0b:09}\nなんだ、その鍵ってのは?{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Eugen 】{0b:09}\nWhat is it, this key?{0c:2b5409fe}",
+   "status": "done",
+   "tl": "What is it, this key?"
   },
   {
    "id": "RES#1573:109f3",
@@ -803,8 +860,9 @@
    "jp": "{1c:1c}{0b:08}{e080} バルデス {e083}{0b:09}\n人の命さ。{0c:fe}",
    "read": "{1c:1c}{0b:08}【 バルデス 】{0b:09}\n人の命さ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Valdes 】{0b:09}\nA human life.{0c:fe}",
+   "status": "done",
+   "tl": "A human life."
   },
   {
    "id": "RES#1573:10a11",
@@ -825,8 +883,9 @@
    "jp": "{1c:11}{0b:08}{e080} オイゲン {e083}{0b:09}\n命? 生け贄って事か?{0c:2b5309fe}",
    "read": "{1c:11}{0b:08}【 オイゲン 】{0b:09}\n命? 生け贄って事か?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Eugen 】{0b:09}\nA life? Ya mean a sacrifice?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "A life? Ya mean a sacrifice?"
   },
   {
    "id": "RES#1573:10b05",
@@ -836,8 +895,9 @@
    "jp": "{1c:19}{0b:08}{e080} クムラン {e083}{0b:09}\nええ・・・             {0c:2b552c2351002b531000}{0c:2b572c2351e12b531000}{0c:2b562c2351912b531000}{0c:2b502351002b531000}{0c:2b512c2351002b531000}{0c:2b522c2351002b531000}{0c:2b592c2351282b531000}{0c:2b5a2c2351402b531000}{0c:2b5b2c2351582b531000}{0c:2b5c2351002b531000}{0c:2b5d2351402b531000}{0c:2b5e2351702b531000}{0c:2b5f2351a82b531000}{0c:2b602351e02b531000}{0c:2b612351ff192b531000}{0c:2b622351ff212b531000}贄を{e196}げれば道は{e0ec}かれると考えて\n間違いないでしょう・・・{0c:2b5409fe}",
    "read": "{1c:19}{0b:08}【 クムラン 】{0b:09}\nええ・・・             {0c:2b552c2351002b531000}{0c:2b572c2351e12b531000}{0c:2b562c2351912b531000}{0c:2b502351002b531000}{0c:2b512c2351002b531000}{0c:2b522c2351002b531000}{0c:2b592c2351282b531000}{0c:2b5a2c2351402b531000}{0c:2b5b2c2351582b531000}{0c:2b5c2351002b531000}{0c:2b5d2351402b531000}{0c:2b5e2351702b531000}{0c:2b5f2351a82b531000}{0c:2b602351e02b531000}{0c:2b612351ff192b531000}{0c:2b622351ff212b531000}贄を捧げれば道は開かれると考えて\n間違いないでしょう・・・{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Qumran 】{0b:09}\nYes... {0c:2b552c2351002b531000}{0c:2b572c2351e12b531000}{0c:2b562c2351912b531000}{0c:2b502351002b531000}{0c:2b512c2351002b531000}{0c:2b522c2351002b531000}{0c:2b592c2351282b531000}{0c:2b5a2c2351402b531000}{0c:2b5b2c2351582b531000}{0c:2b5c2351002b531000}{0c:2b5d2351402b531000}{0c:2b5e2351702b531000}{0c:2b5f2351a82b531000}{0c:2b602351e02b531000}{0c:2b612351ff192b531000}{0c:2b622351ff212b531000}It is safe to assume that offering\na sacrifice will open the way...{0c:2b5409fe}",
+   "status": "done",
+   "tl": "Yes... [1]It is safe to assume that offering a sacrifice will open the way..."
   },
   {
    "id": "RES#1573:10c0f",
@@ -847,8 +907,9 @@
    "jp": "{1c:1b}{0b:08}{e080} バルデス {e083}{0b:09}\nで、みんなに別れを言いにきた。{0c:fe}",
    "read": "{1c:1b}{0b:08}【 バルデス 】{0b:09}\nで、みんなに別れを言いにきた。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Valdes 】{0b:09}\nSo, I came to say goodbye to everybody.{0c:fe}",
+   "status": "done",
+   "tl": "So, I came to say goodbye to everybody."
   },
   {
    "id": "RES#1573:10c37",
@@ -858,8 +919,9 @@
    "jp": "{1c:11}{0c:2b552c235219212b541000}{0c:2b572c2352e9ea2b541000}{0c:2b562c2352b1b92b541000}{0c:2b50235210182b541000}{0c:2b512c235208102b541000}{0c:2b522c235208102b541000}{0c:2b592c235230382b541000}{0c:2b5a2c235248502b541000}{0c:2b5b2c235260682b541000}{0c:2b5c235220282b541000}{0c:2b5d235250582b541000}{0c:2b5e235298a02b541000}{0c:2b5f2352b8c02b541000}{0c:2b602352ff09ff112b541000}{0c:2b612352ff29ff312b541000}{0c:2b622352ff39ff412b541000}{0b:08}{e080} オイゲン {e083}{0b:09}\nお前、まさか!!{0c:fe}",
    "read": "{1c:11}{0c:2b552c235219212b541000}{0c:2b572c2352e9ea2b541000}{0c:2b562c2352b1b92b541000}{0c:2b50235210182b541000}{0c:2b512c235208102b541000}{0c:2b522c235208102b541000}{0c:2b592c235230382b541000}{0c:2b5a2c235248502b541000}{0c:2b5b2c235260682b541000}{0c:2b5c235220282b541000}{0c:2b5d235250582b541000}{0c:2b5e235298a02b541000}{0c:2b5f2352b8c02b541000}{0c:2b602352ff09ff112b541000}{0c:2b612352ff29ff312b541000}{0c:2b622352ff39ff412b541000}{0b:08}【 オイゲン 】{0b:09}\nお前、まさか!!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0c:2b552c235219212b541000}{0c:2b572c2352e9ea2b541000}{0c:2b562c2352b1b92b541000}{0c:2b50235210182b541000}{0c:2b512c235208102b541000}{0c:2b522c235208102b541000}{0c:2b592c235230382b541000}{0c:2b5a2c235248502b541000}{0c:2b5b2c235260682b541000}{0c:2b5c235220282b541000}{0c:2b5d235250582b541000}{0c:2b5e235298a02b541000}{0c:2b5f2352b8c02b541000}{0c:2b602352ff09ff112b541000}{0c:2b612352ff29ff312b541000}{0c:2b622352ff39ff412b541000}{0b:08}【 Eugen 】{0b:09}\nYou... You can't mean...!!{0c:fe}",
+   "status": "done",
+   "tl": "You... You can't mean...!!"
   },
   {
    "id": "RES#1573:10d26",
@@ -880,8 +942,9 @@
    "jp": "{1c:1b}{0b:08}{e080} バルデス {e083}{0b:09}\n世話になったな、みんな。{0c:2b5509fe}",
    "read": "{1c:1b}{0b:08}【 バルデス 】{0b:09}\n世話になったな、みんな。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Valdes 】{0b:09}\nYou've all been good to me.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "You've all been good to me."
   },
   {
    "id": "RES#1573:10d5a",
@@ -891,8 +954,9 @@
    "jp": "{0c:522931}{1c:11}{0b:08}{e080} オイゲン {e083}{0b:09}\nな、何言ってやがる!!{0c:2b5c09fe}",
    "read": "{0c:522931}{1c:11}{0b:08}【 オイゲン 】{0b:09}\nな、何言ってやがる!!{0c:2b5c09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:522931}{1c:11}{0b:08}【 Eugen 】{0b:09}\nWh-what the hell are you sayin'!!{0c:2b5c09fe}",
+   "status": "done",
+   "tl": "Wh-what the hell are you sayin'!!"
   },
   {
    "id": "RES#1573:10d87",
@@ -902,8 +966,9 @@
    "jp": "{0c:523038}{0b:08}{e080} {e081}際に立っている戦士 {e083}{0b:09}\nそうだ!!\n旦那が死ぬ必要はねえだろ!{0c:2b5409fe}",
    "read": "{0c:523038}{0b:08}【 壁際に立っている戦士 】{0b:09}\nそうだ!!\n旦那が死ぬ必要はねえだろ!{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523038}{0b:08}【 Warrior by the Wall 】{0b:09}\nThat's right!! You ain't gotta die, Mister!{0c:2b5409fe}",
+   "status": "done",
+   "tl": "That's right!! You ain't gotta die, Mister!"
   },
   {
    "id": "RES#1573:10dc8",
@@ -913,8 +978,9 @@
    "jp": "{1c:1d}{0b:08}{e080} バルデス {e083}{0b:09}\n構わんさ。\nどうせこの体はもう{e0b4}くはもたねえ。{1a}それに、誰かが死ななきゃ\nこの世{e08b}は救われないんだ。{1a}{0c:527981}格好いいじゃねえか。\nトラドアの{e198}乏小{e0af}人の倅が\n世{e08b}を救う英雄になるんだ。\n笑って見送ってくれ。{0c:fe}",
    "read": "{1c:1d}{0b:08}【 バルデス 】{0b:09}\n構わんさ。\nどうせこの体はもう長くはもたねえ。{1a}それに、誰かが死ななきゃ\nこの世界は救われないんだ。{1a}{0c:527981}格好いいじゃねえか。\nトラドアの貧乏小作人の倅が\n世界を救う英雄になるんだ。\n笑って見送ってくれ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}{0b:08}【 Valdes 】{0b:09}\nIt's fine. This body ain't gonna last much\nlonger anyway.{1a}Besides, somebody's gotta die or this\nworld don't get saved.{1a}{0c:527981}Pretty cool, ain't it? A poor Tradoan\ntenant farmer's son, turnin' into the\nhero who saves the world. See me off\nwith a laugh.{0c:fe}",
+   "status": "done",
+   "tl": "It's fine. This body ain't gonna last much longer anyway. // Besides, somebody's gotta die or this world don't get saved. // [1]Pretty cool, ain't it? A poor Tradoan tenant farmer's son, turnin' into the hero who saves the world. See me off with a laugh."
   },
   {
    "id": "RES#1573:10e62",
@@ -935,8 +1001,9 @@
    "jp": "{0c:5288902b531000}{0b:08}{e080} 大{e087}を担いでいる男 {e083}{0b:09}\nクムラン先生!\n何故黙ってる!?\n止めるのが友達だろ!!{0c:2b5309fe}",
    "read": "{0c:5288902b531000}{0b:08}【 大剣を担いでいる男 】{0b:09}\nクムラン先生!\n何故黙ってる!?\n止めるのが友達だろ!!{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5288902b531000}{0b:08}【 Man with a Greatsword 】{0b:09}\nQumran-sensei! Why're you keepin'\nquiet!? A friend's supposed to stop him!!{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Qumran-sensei! Why're you keepin' quiet!? A friend's supposed to stop him!!"
   },
   {
    "id": "RES#1573:10ebf",
@@ -958,8 +1025,9 @@
    "jp": "{0b:08}{e080} {e090}{e091}に立っている男 {e083}{0b:09}\nそんな!!{1a}そうだ、\n凶戦士のクソ野郎{e08a}はどうだ!?\n奴等を生け贄にしたらいい!\n{0c:52c8d0}ちょうどここにもいる!{0c:2b5409fe}",
    "read": "{0b:08}【 左奥に立っている男 】{0b:09}\nそんな!!{1a}そうだ、\n凶戦士のクソ野郎共はどうだ!?\n奴等を生け贄にしたらいい!\n{0c:52c8d0}ちょうどここにもいる!{0c:2b5409fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Man at the Back Left 】{0b:09}\nNo way!!{1a}I know, what about them Berserker\nbastards!? Sacrifice them instead! {0c:52c8d0}We\ngot some right here!{0c:2b5409fe}",
+   "status": "done",
+   "tl": "No way!! // I know, what about them Berserker bastards!? Sacrifice them instead! [1]We got some right here!"
   },
   {
    "id": "RES#1573:10f49",
@@ -969,8 +1037,9 @@
    "jp": "{0c:51592b5f1000}{1c:1b}{0b:08}{e080} バルデス {e083}{0b:09}\nそいつらは『時の回{e192}』まで\n自力で行く力をすでに持っている。\n貴重な戦力だ。殺すことは許さねえ。{1a}それに・・・{1a}{0c:51592b501000}それに、そいつらは\n俺の死んだ弟や{e19f}達に似てるんだ。\n最後の頼みだ。\nそいつらを守ってやってくれ。{0c:fe}",
    "read": "{0c:51592b5f1000}{1c:1b}{0b:08}【 バルデス 】{0b:09}\nそいつらは『時の回廊』まで\n自力で行く力をすでに持っている。\n貴重な戦力だ。殺すことは許さねえ。{1a}それに・・・{1a}{0c:51592b501000}それに、そいつらは\n俺の死んだ弟や妹達に似てるんだ。\n最後の頼みだ。\nそいつらを守ってやってくれ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51592b5f1000}{1c:1b}{0b:08}【 Valdes 】{0b:09}\nThose kids already have the strength to\nreach the 'Corridor of Time' on their\nown. They're valuable fighters. I won't{1a}let anybody kill 'em.{1a}Besides...{1a}{0c:51592b501000}Besides, they remind me of my dead little\nbrothers and sisters. It's my last\nrequest. Protect 'em for me.{0c:fe}",
+   "status": "done",
+   "tl": "Those kids already have the strength to reach the 'Corridor of Time' on their own. They're valuable fighters. I won't let anybody kill 'em. // Besides... // [1]Besides, they remind me of my dead little brothers and sisters. It's my last request. Protect 'em for me."
   },
   {
    "id": "RES#1573:10ff3",
@@ -1014,8 +1083,9 @@
    "jp": "{0c:51c9}{1c:18}{0b:08}{e080} クムラン {e083}{0b:09}\nバルデスさんと私は\n{e09c}{e1a0}『時の回{e192}』に出発します。{1a}皆さんも戦いの準備をして下さい。\n世{e08b}を救えるのは\n私達しかいないのですから。{0c:fe}",
    "read": "{0c:51c9}{1c:18}{0b:08}【 クムラン 】{0b:09}\nバルデスさんと私は\n明朝『時の回廊』に出発します。{1a}皆さんも戦いの準備をして下さい。\n世界を救えるのは\n私達しかいないのですから。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51c9}{1c:18}{0b:08}【 Qumran 】{0b:09}\nValdes-san and I leave for the 'Corridor\nof Time' tomorrow morning.{1a}All of you, please prepare for battle as\nwell. For we are the only ones who can\nsave the world.{0c:fe}",
+   "status": "done",
+   "tl": "Valdes-san and I leave for the 'Corridor of Time' tomorrow morning. // All of you, please prepare for battle as well. For we are the only ones who can save the world."
   },
   {
    "id": "RES#1573:110bc",

@@ -52,8 +52,9 @@
    "jp": "{1c:12}{0b:08}【 アッシュ 】{0b:09}\nクムランさんの話、\n難しくてよく分からなかったけど、{1a}{0b:05}{14}を助けると、\n外の騒動が今よりもっとひどく\nなるかもしれないんだよな・・・{1a}でも・・・それでもおれ、\nやっぱり{0b:05}{14}を\n助けてやりたいよ。{1a}{10}はどうする?{0c:fe}",
    "read": "{1c:12}{0b:08}【 アッシュ 】{0b:09}\nクムランさんの話、\n難しくてよく分からなかったけど、{1a}{0b:05}{14}を助けると、\n外の騒動が今よりもっとひどく\nなるかもしれないんだよな・・・{1a}でも・・・それでもおれ、\nやっぱり{0b:05}{14}を\n助けてやりたいよ。{1a}{10}はどうする?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Ash 】{0b:09}\nI couldn't really follow what Qumran-san\nsaid, it was too hard,{1a}but if we save {0b:05}{14}, the\ntrouble outside might get even worse,\nhuh...{1a}But... even so, I still wanna save\n{0b:05}{14}.{1a}What're you gonna do, {10}?{0c:fe}",
+   "status": "done",
+   "tl": "I couldn't really follow what Qumran-san said, it was too hard, // but if we save [1][VAR14], the trouble outside might get even worse, huh... // But... even so, I still wanna save [2][VAR14]. // What're you gonna do, [HERO]?"
   },
   {
    "id": "RES#1405:14489",
@@ -74,8 +75,9 @@
    "jp": "もちろん助けに行くよ|悔しいけど奴のことは諦めた方がいい|興味ないな",
    "read": "もちろん助けに行くよ|悔しいけど奴のことは諦めた方がいい|興味ないな",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Of course I'll go save them|It hurts, but we should give up on them|Not interested",
+   "status": "done",
+   "tl": "Of course I'll go save them|It hurts, but we should give up on them|Not interested"
   },
   {
    "id": "RES#1405:144bf",
@@ -107,8 +109,9 @@
    "jp": "もちろん助けに行くわ|悔しいけど諦めるしかないわ|興味ないわね",
    "read": "もちろん助けに行くわ|悔しいけど諦めるしかないわ|興味ないわね",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Of course I'll go save them|It hurts, but we have to give up|Not interested",
+   "status": "done",
+   "tl": "Of course I'll go save them|It hurts, but we have to give up|Not interested"
   },
   {
    "id": "RES#1405:144f1",
@@ -140,8 +143,9 @@
    "jp": "{0c:5110}{1c:10}{0b:08}【 アッシュ 】{0b:09}\nそうか。\n{10}も同じ考えで\n安心したよ。{1a}じゃあいっしょに行こうか。{0c:fe}",
    "read": "{0c:5110}{1c:10}{0b:08}【 アッシュ 】{0b:09}\nそうか。\n{10}も同じ考えで\n安心したよ。{1a}じゃあいっしょに行こうか。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5110}{1c:10}{0b:08}【 Ash 】{0b:09}\nYeah? I'm relieved you feel the same,\n{10}.{1a}Let's go together, then.{0c:fe}",
+   "status": "done",
+   "tl": "Yeah? I'm relieved you feel the same, [HERO]. // Let's go together, then."
   },
   {
    "id": "RES#1405:14545",
@@ -173,8 +177,9 @@
    "jp": "{1c:12}{0b:08}【 アッシュ 】{0b:09}\n{10}の言ってることも\n分かるよ。\nおれも弟たちのこと心配だもんな。{1a}でもおれ、やっぱり助けに行くよ。\nあいつには何度も助けて\nもらったことがあるから・・・{0c:fe}",
    "read": "{1c:12}{0b:08}【 アッシュ 】{0b:09}\n{10}の言ってることも\n分かるよ。\nおれも弟たちのこと心配だもんな。{1a}でもおれ、やっぱり助けに行くよ。\nあいつには何度も助けて\nもらったことがあるから・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Ash 】{0b:09}\nI get what you're saying, {10}. I\nworry about my little brothers and\nsisters too, y'know.{1a}But I'm still going to go save them.\nThey've helped me out so many times...{0c:fe}",
+   "status": "done",
+   "tl": "I get what you're saying, [HERO]. I worry about my little brothers and sisters too, y'know. // But I'm still going to go save them. They've helped me out so many times..."
   },
   {
    "id": "RES#1405:145d4",
@@ -218,8 +223,9 @@
    "jp": "{0c:0b01f6}{0c:f7064e}{1c:11}{0b:08}【 アッシュ 】{0b:09}\nそんな・・・\n{0b:05}{14}は友達じゃないか。{1a}{0c:5118}おまえ、どうしてそんな\nかなしいこと言うんだよ・・・{0c:fe}",
    "read": "{0c:0b01f6}{0c:f7064e}{1c:11}{0b:08}【 アッシュ 】{0b:09}\nそんな・・・\n{0b:05}{14}は友達じゃないか。{1a}{0c:5118}おまえ、どうしてそんな\nかなしいこと言うんだよ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:0b01f6}{0c:f7064e}{1c:11}{0b:08}【 Ash 】{0b:09}\nHow can you... {0b:05}{14} is your\nfriend!{1a}{0c:5118}Why would you say such a sad thing...{0c:fe}",
+   "status": "done",
+   "tl": "How can you... [1][VAR14] is your friend! // [2]Why would you say such a sad thing..."
   },
   {
    "id": "RES#1405:14661",
@@ -240,8 +246,9 @@
    "jp": "{1c:12}おれ・・・1人でも行くよ・・・{0c:fe}",
    "read": "{1c:12}おれ・・・1人でも行くよ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}I... I'll go, even if it's just me...{0c:fe}",
+   "status": "done",
+   "tl": "I... I'll go, even if it's just me..."
   },
   {
    "id": "RES#1405:14697",
@@ -284,8 +291,9 @@
    "jp": "{1c:15}{0b:08}【 アーサー 】{0b:09}\n父上ならこういう時\nどうするのだろう・・・{1a}僕も{0b:05}{14}を助けてやりたい。\nでも、僕の故郷が、領民達が\n魔物に苦しめられている姿を\n想像すると・・・{1a}{0c:5110}クムランさんを信じてはいるけど\nもしもの事を考えたら、\n{0b:05}{14}を助けることは\n危険すぎる。{1a}くそっ、\n僕は一体どうすればいいんだ・・・{0c:fe}",
    "read": "{1c:15}{0b:08}【 アーサー 】{0b:09}\n父上ならこういう時\nどうするのだろう・・・{1a}僕も{0b:05}{14}を助けてやりたい。\nでも、僕の故郷が、領民達が\n魔物に苦しめられている姿を\n想像すると・・・{1a}{0c:5110}クムランさんを信じてはいるけど\nもしもの事を考えたら、\n{0b:05}{14}を助けることは\n危険すぎる。{1a}くそっ、\n僕は一体どうすればいいんだ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:15}{0b:08}【 Arthur 】{0b:09}\nWhat would Father do at a time like this...{1a}I want to save {0b:05}{14} too.\nBut when I imagine my homeland, my\npeople, suffering at the hands of\nmonsters...{1a}{0c:5110}I do trust Qumran-san, but if I consider\nwhat might happen, saving\n{0b:05}{14} is too dangerous.{1a}Damn it, what on earth am I supposed to\ndo...{0c:fe}",
+   "status": "done",
+   "tl": "What would Father do at a time like this... // I want to save [1][VAR14] too. But when I imagine my homeland, my people, suffering at the hands of monsters... // [2]I do trust Qumran-san, but if I consider what might happen, saving [3][VAR14] is too dangerous. // Damn it, what on earth am I supposed to do..."
   },
   {
    "id": "RES#1405:147bb",
@@ -306,8 +314,9 @@
    "jp": "アーサー、一緒に助けに行こう!|悔しいけど奴のことは諦めよう|どちらにせよ興味ないな",
    "read": "アーサー、一緒に助けに行こう!|悔しいけど奴のことは諦めよう|どちらにせよ興味ないな",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Arthur, let's go save them!|It hurts, but let's give up on them|Either way, I'm not interested",
+   "status": "done",
+   "tl": "Arthur, let's go save them!|It hurts, but let's give up on them|Either way, I'm not interested"
   },
   {
    "id": "RES#1405:147fd",
@@ -339,8 +348,9 @@
    "jp": "アーサー、一緒に助けに行こうよ!|悔しいけど諦めるしかないわ|どちらにせよ興味ないわ",
    "read": "アーサー、一緒に助けに行こうよ!|悔しいけど諦めるしかないわ|どちらにせよ興味ないわ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Arthur, let's go save them!|It hurts, but we have to give up|Either way, I'm not interested",
+   "status": "done",
+   "tl": "Arthur, let's go save them!|It hurts, but we have to give up|Either way, I'm not interested"
   },
   {
    "id": "RES#1405:1483f",
@@ -372,8 +382,9 @@
    "jp": "{0c:5108}{1c:13}{0b:08}【 アーサー 】{0b:09}\nいや・・・{07:1e}\nやはり{0b:05}{14}を助けるのは\n諦めるべきだ。{07:05}{1a}僕だって{0b:05}{14}を助けたい。\nでも、{0b:05}{14}1人のために\n何百万という人々が\n魔物に殺されるかもしれないんだ。{1a}{0c:5110}自分達だけが助かって\nこういうことを言うのは\n卑怯だという事も分かってる。{1a}{0c:5108}でも、僕は・・・\n僕は賛成出来ない。{0c:fe}",
    "read": "{0c:5108}{1c:13}{0b:08}【 アーサー 】{0b:09}\nいや・・・{07:1e}\nやはり{0b:05}{14}を助けるのは\n諦めるべきだ。{07:05}{1a}僕だって{0b:05}{14}を助けたい。\nでも、{0b:05}{14}1人のために\n何百万という人々が\n魔物に殺されるかもしれないんだ。{1a}{0c:5110}自分達だけが助かって\nこういうことを言うのは\n卑怯だという事も分かってる。{1a}{0c:5108}でも、僕は・・・\n僕は賛成出来ない。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5108}{1c:13}{0b:08}【 Arthur 】{0b:09}\nNo...{07:1e} We really must give up on saving\n{0b:05}{14}.{07:05}{1a}I want to save {0b:05}{14} too.\nBut for the sake of {0b:05}{14}\nalone, millions of people could be killed by\nmonsters.{1a}{0c:5110}I know it is cowardly to say such a thing\nwhen we ourselves were the ones saved.{1a}{0c:5108}But I... I cannot agree to it.{0c:fe}",
+   "status": "done",
+   "tl": "No...[1] We really must give up on saving [2][VAR14].[3] // I want to save [4][VAR14] too. But for the sake of [5][VAR14] alone, millions of people could be killed by monsters. // [6]I know it is cowardly to say such a thing when we ourselves were the ones saved. // [7]But I... I cannot agree to it."
   },
   {
    "id": "RES#1405:14924",
@@ -405,8 +416,9 @@
    "jp": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n辛い選択だな・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n辛い選択だな・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nA hard choice...{0c:fe}",
+   "status": "done",
+   "tl": "A hard choice..."
   },
   {
    "id": "RES#1405:1497d",
@@ -438,8 +450,9 @@
    "jp": "{0c:5118}{1c:14}{0b:08}【 アーサー 】{0b:09}\nそんな言い方・・・!\n見損なったぞ、{10}!!{0c:fe}",
    "read": "{0c:5118}{1c:14}{0b:08}【 アーサー 】{0b:09}\nそんな言い方・・・!\n見損なったぞ、{10}!!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5118}{1c:14}{0b:08}【 Arthur 】{0b:09}\nHow can you talk like that...! I misjudged\nyou, {10}!!{0c:fe}",
+   "status": "done",
+   "tl": "How can you talk like that...! I misjudged you, [HERO]!!"
   },
   {
    "id": "RES#1405:149ea",
@@ -482,8 +495,9 @@
    "jp": "{0b:08}【 レイア 】{0b:09}\nお前が奴を助けようが\n見捨てようが興味はない。\n私は先に進むだけだ。{07:1e}{0c:fe}",
    "read": "{0b:08}【 レイア 】{0b:09}\nお前が奴を助けようが\n見捨てようが興味はない。\n私は先に進むだけだ。{07:1e}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Leia 】{0b:09}\nWhether you save that one or abandon\nthem is of no interest to me. I will simply\npress on.{07:1e}{0c:fe}",
+   "status": "done",
+   "tl": "Whether you save that one or abandon them is of no interest to me. I will simply press on."
   },
   {
    "id": "RES#1405:14aa3",
@@ -504,8 +518,9 @@
    "jp": "レイア、一緒に助けに行こう!|悔しいけど奴のことは諦めるよ|俺もそんなこと興味ねえよ",
    "read": "レイア、一緒に助けに行こう!|悔しいけど奴のことは諦めるよ|俺もそんなこと興味ねえよ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Leia, let's go save them!|It hurts, but I'll give up on them|I'm not interested in that either",
+   "status": "done",
+   "tl": "Leia, let's go save them!|It hurts, but I'll give up on them|I'm not interested in that either"
   },
   {
    "id": "RES#1405:14ae6",
@@ -537,8 +552,9 @@
    "jp": "レイア、一緒に助けに行こうよ!|悔しいけどあの子のことは諦めるわ|あたしも興味ないわ",
    "read": "レイア、一緒に助けに行こうよ!|悔しいけどあの子のことは諦めるわ|あたしも興味ないわ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Leia, let's go save them!|It hurts, but I'll give up on them|I'm not interested either",
+   "status": "done",
+   "tl": "Leia, let's go save them!|It hurts, but I'll give up on them|I'm not interested either"
   },
   {
    "id": "RES#1405:14b29",
@@ -570,8 +586,9 @@
    "jp": "{0b:08}【 レイア 】{0b:09}\n偽善的だな・・・{1a}煉獄の最下層を目指している間は\n一緒に行動しよう。\nそこから先は好きにさせてもらう。{0c:fe}",
    "read": "{0b:08}【 レイア 】{0b:09}\n偽善的だな・・・{1a}煉獄の最下層を目指している間は\n一緒に行動しよう。\nそこから先は好きにさせてもらう。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Leia 】{0b:09}\nHow hypocritical...{1a}I will travel with you as long as we are\nbound for the bottom of Purgatory.\nPast that, I will do as I please.{0c:fe}",
+   "status": "done",
+   "tl": "How hypocritical... // I will travel with you as long as we are bound for the bottom of Purgatory. Past that, I will do as I please."
   },
   {
    "id": "RES#1405:14b94",
@@ -592,8 +609,9 @@
    "jp": "{0c:0b030f}{0b:08}【 レイア 】{0b:09}\nそれはお前の勝手だ。\n好きにしろ。{0c:fe}",
    "read": "{0c:0b030f}{0b:08}【 レイア 】{0b:09}\nそれはお前の勝手だ。\n好きにしろ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:0b030f}{0b:08}【 Leia 】{0b:09}\nThat is your own affair. Do as you\nplease.{0c:fe}",
+   "status": "done",
+   "tl": "That is your own affair. Do as you please."
   },
   {
    "id": "RES#1405:14bd8",
@@ -625,8 +643,9 @@
    "jp": "{1c:16}{0b:08}【 レイア 】{0b:09}\n{0b:05}{14}も哀れな奴だ・・・{0c:fe}",
    "read": "{1c:16}{0b:08}【 レイア 】{0b:09}\n{0b:05}{14}も哀れな奴だ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}{0b:08}【 Leia 】{0b:09}\n{0b:05}{14} is to be pitied as\nwell...{0c:fe}",
+   "status": "done",
+   "tl": "[VAR14] is to be pitied as well..."
   },
   {
    "id": "RES#1405:14c1e",
@@ -669,8 +688,9 @@
    "jp": "{1c:17}{0b:08}【 エレアノール 】{0b:09}\n{10}、\n私は今から{0b:05}{14}を助けに\n行くつもりです。{1a}確かに、外の惨劇を考えれば、\n私のとる行動は浅はかで、\n私の行動がもたらす結果は、今以上の\n悲劇を生む事になるかもしれません。{1a}{0c:5118}でも、私はやはり{0b:05}{14}を\n見捨てることは出来ない。{1a}たとえ偽善者と軽蔑されても、\n目の前で誰かが死ぬのを\n見たくないのです・・・{0c:fe}",
    "read": "{1c:17}{0b:08}【 エレアノール 】{0b:09}\n{10}、\n私は今から{0b:05}{14}を助けに\n行くつもりです。{1a}確かに、外の惨劇を考えれば、\n私のとる行動は浅はかで、\n私の行動がもたらす結果は、今以上の\n悲劇を生む事になるかもしれません。{1a}{0c:5118}でも、私はやはり{0b:05}{14}を\n見捨てることは出来ない。{1a}たとえ偽善者と軽蔑されても、\n目の前で誰かが死ぬのを\n見たくないのです・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{0b:08}【 Eleanor 】{0b:09}\n{10}, I intend to go now to save\n{0b:05}{14}.{1a}Considering the tragedy outside, what I\nam doing is indeed shallow, and what\ncomes of it may bring about a tragedy\ngreater than the one we see now.{1a}{0c:5118}But I still cannot abandon\n{0b:05}{14}.{1a}Even if I am scorned as a hypocrite, I do\nnot wish to see someone die before my\neyes...{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], I intend to go now to save [1][VAR14]. // Considering the tragedy outside, what I am doing is indeed shallow, and what comes of it may bring about a tragedy greater than the one we see now. // [2]But I still cannot abandon [3][VAR14]. // Even if I am scorned as a hypocrite, I do not wish to see someone die before my eyes..."
   },
   {
    "id": "RES#1405:14d5f",
@@ -691,8 +711,9 @@
    "jp": "俺も助けに行くつもりだよ|悔しいけど諦めるんだ、エレアノール|俺には興味ない話だ",
    "read": "俺も助けに行くつもりだよ|悔しいけど諦めるんだ、エレアノール|俺には興味ない話だ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I plan to go save them too|It hurts, but give up, Eleanor|That doesn't interest me",
+   "status": "done",
+   "tl": "I plan to go save them too|It hurts, but give up, Eleanor|That doesn't interest me"
   },
   {
    "id": "RES#1405:14d9d",
@@ -724,8 +745,9 @@
    "jp": "あたしも助けに行くつもりよ|悔しいけど諦めるのよ、エレアノール|あたしには興味ない話ね",
    "read": "あたしも助けに行くつもりよ|悔しいけど諦めるのよ、エレアノール|あたしには興味ない話ね",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I plan to go save them too|It hurts, but give up, Eleanor|That doesn't interest me",
+   "status": "done",
+   "tl": "I plan to go save them too|It hurts, but give up, Eleanor|That doesn't interest me"
   },
   {
    "id": "RES#1405:14ddd",
@@ -757,8 +779,9 @@
    "jp": "{0c:5110}{1c:18}{0b:08}【 エレアノール 】{0b:09}\nありがとう、{10}・・・{1a}ならば急ぎましょう。{0c:fe}",
    "read": "{0c:5110}{1c:18}{0b:08}【 エレアノール 】{0b:09}\nありがとう、{10}・・・{1a}ならば急ぎましょう。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5110}{1c:18}{0b:08}【 Eleanor 】{0b:09}\nThank you, {10}...{1a}Then let us hurry.{0c:fe}",
+   "status": "done",
+   "tl": "Thank you, [HERO]... // Then let us hurry."
   },
   {
    "id": "RES#1405:14e23",
@@ -790,8 +813,9 @@
    "jp": "{1c:19}{0b:08}【 エレアノール 】{0b:09}\nあなたが正しいのは分かっています。\nでも、私には出来ません・・・{0c:fe}",
    "read": "{1c:19}{0b:08}【 エレアノール 】{0b:09}\nあなたが正しいのは分かっています。\nでも、私には出来ません・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Eleanor 】{0b:09}\nI know that you are right. But I cannot\ndo it...{0c:fe}",
+   "status": "done",
+   "tl": "I know that you are right. But I cannot do it..."
   },
   {
    "id": "RES#1405:14e83",
@@ -846,8 +870,9 @@
    "jp": "{1c:19}それがあなたの本心から出た\n言葉でないことを祈っています。\nさようなら、{10}・・・{0c:fe}",
    "read": "{1c:19}それがあなたの本心から出た\n言葉でないことを祈っています。\nさようなら、{10}・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}I pray those words did not come from\nyour heart. Farewell, {10}...{0c:fe}",
+   "status": "done",
+   "tl": "I pray those words did not come from your heart. Farewell, [HERO]..."
   },
   {
    "id": "RES#1405:14f2c",
@@ -890,8 +915,9 @@
    "jp": "{1c:1c}{0b:08}【 パスカ 】{0b:09}\nツラい話だよな・・・{1a}{0b:05}{14}1人助けるのと\n引き替えに、\n何十万人が犠牲になるかも\nしれないなんてさ・・・{1a}でもオレ、やっぱ助けに行くよ。\n考えが甘いのかもしれないけど、\n一緒に戦った仲間を\n見捨てるなんて出来るわけねえ。{1a}{10}、お前はどうする?{0c:fe}",
    "read": "{1c:1c}{0b:08}【 パスカ 】{0b:09}\nツラい話だよな・・・{1a}{0b:05}{14}1人助けるのと\n引き替えに、\n何十万人が犠牲になるかも\nしれないなんてさ・・・{1a}でもオレ、やっぱ助けに行くよ。\n考えが甘いのかもしれないけど、\n一緒に戦った仲間を\n見捨てるなんて出来るわけねえ。{1a}{10}、お前はどうする?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Pasca 】{0b:09}\nRough, ain't it...{1a}Savin' just {0b:05}{14}, and in\nexchange, hundreds of thousands might\ndie...{1a}But I'm still goin'. Maybe that's soft of\nme, but no way I could abandon a friend I\nfought beside.{1a}{10}, what about you?{0c:fe}",
+   "status": "done",
+   "tl": "Rough, ain't it... // Savin' just [1][VAR14], and in exchange, hundreds of thousands might die... // But I'm still goin'. Maybe that's soft of me, but no way I could abandon a friend I fought beside. // [HERO], what about you?"
   },
   {
    "id": "RES#1405:1503d",
@@ -912,8 +938,9 @@
    "jp": "もちろん助けに行くよ|悔しいけど奴のことは諦めた方がいい|興味ないな",
    "read": "もちろん助けに行くよ|悔しいけど奴のことは諦めた方がいい|興味ないな",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Of course I'll go save them|It hurts, but we should give up on them|Not interested",
+   "status": "done",
+   "tl": "Of course I'll go save them|It hurts, but we should give up on them|Not interested"
   },
   {
    "id": "RES#1405:15073",
@@ -945,8 +972,9 @@
    "jp": "もちろん助けに行くわ|悔しいけど諦めるしかないよ|興味ないわね",
    "read": "もちろん助けに行くわ|悔しいけど諦めるしかないよ|興味ないわね",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Of course I'll go save them|It hurts, but we have to give up|Not interested",
+   "status": "done",
+   "tl": "Of course I'll go save them|It hurts, but we have to give up|Not interested"
   },
   {
    "id": "RES#1405:150a5",
@@ -978,8 +1006,9 @@
    "jp": "{1c:1a}{0b:08}【 パスカ 】{0b:09}\nそっか・・・\nお前がそう言ってくれて\nかなり気が楽になったよ。{1a}よし、じゃあ行くか。{0c:fe}",
    "read": "{1c:1a}{0b:08}【 パスカ 】{0b:09}\nそっか・・・\nお前がそう言ってくれて\nかなり気が楽になったよ。{1a}よし、じゃあ行くか。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}{0b:08}【 Pasca 】{0b:09}\nYeah... Hearin' you say that takes a real\nload off.{1a}All right, let's go.{0c:fe}",
+   "status": "done",
+   "tl": "Yeah... Hearin' you say that takes a real load off. // All right, let's go."
   },
   {
    "id": "RES#1405:150fd",
@@ -1011,8 +1040,9 @@
    "jp": "{1c:1c}{0b:08}【 パスカ 】{0b:09}\nお前の言ってることの方が\n正しいんだろうな、やっぱり。{1a}でも、オレ馬鹿だからさ、\nいくら間違ってても\n気持ちが抑えられねえんだ。{0c:fe}",
    "read": "{1c:1c}{0b:08}【 パスカ 】{0b:09}\nお前の言ってることの方が\n正しいんだろうな、やっぱり。{1a}でも、オレ馬鹿だからさ、\nいくら間違ってても\n気持ちが抑えられねえんだ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Pasca 】{0b:09}\nWhat you're sayin' is probably the right\nthing, yeah.{1a}But I'm an idiot, so no matter how wrong\nit is, I can't hold back how I feel.{0c:fe}",
+   "status": "done",
+   "tl": "What you're sayin' is probably the right thing, yeah. // But I'm an idiot, so no matter how wrong it is, I can't hold back how I feel."
   },
   {
    "id": "RES#1405:15183",
@@ -1067,8 +1097,9 @@
    "jp": "{1c:1b}{0b:08}【 パスカ 】{0b:09}\nなんだよ、それ・・・\n断るにしても言い方があるだろ?\n冷てえ奴だな。{0c:fe}",
    "read": "{1c:1b}{0b:08}【 パスカ 】{0b:09}\nなんだよ、それ・・・\n断るにしても言い方があるだろ?\n冷てえ奴だな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Pasca 】{0b:09}\nThe hell's that supposed to mean... Even\nif you're turnin' me down, there's ways\nto say it, ain't there? You're a cold{1a}one.{0c:fe}",
+   "status": "done",
+   "tl": "The hell's that supposed to mean... Even if you're turnin' me down, there's ways to say it, ain't there? You're a cold one."
   },
   {
    "id": "RES#1405:1520a",
@@ -1134,8 +1165,9 @@
    "jp": "{0c:5110}{10}、\nオレは今から柱をぶっ壊しに行く。{1a}たとえ世界中で何万人が\n死のうと関係ねえ、\nオレはあいつを見殺しにしたくない。{1a}{10}、\n手伝ってくれとは言わねえ。\nだけど、もしお前が柱を壊すことに\n反対でもオレを止めないでくれ。{0c:fe}",
    "read": "{0c:5110}{10}、\nオレは今から柱をぶっ壊しに行く。{1a}たとえ世界中で何万人が\n死のうと関係ねえ、\nオレはあいつを見殺しにしたくない。{1a}{10}、\n手伝ってくれとは言わねえ。\nだけど、もしお前が柱を壊すことに\n反対でもオレを止めないでくれ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5110}{10}, I'm off to smash that pillar\nright now.{1a}I don't care if tens of thousands die the\nworld over. I ain't lettin' her die.{1a}{10}, I ain't askin' for your help.\nBut even if you're against breakin' the\npillar, don't try to stop me.{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], I'm off to smash that pillar right now. // I don't care if tens of thousands die the world over. I ain't lettin' her die. // [HERO], I ain't askin' for your help. But even if you're against breakin' the pillar, don't try to stop me."
   },
   {
    "id": "RES#1405:15321",
@@ -1156,8 +1188,9 @@
    "jp": "1) 一緒にレベッカを助けよう|2) でも、彼女のことは諦めた方がいい|3) 興味ない",
    "read": "1) 一緒にレベッカを助けよう|2) でも、彼女のことは諦めた方がいい|3) 興味ない",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "1) Let's save Rebecca together|2) But we should give up on her|3) Not interested",
+   "status": "done",
+   "tl": "1) Let's save Rebecca together|2) But we should give up on her|3) Not interested"
   },
   {
    "id": "RES#1405:15369",
@@ -1189,8 +1222,9 @@
    "jp": "1) 一緒にレベッカを助けようよ|2) 残念だけど助けるのは諦めた方がいい|3) 興味ない",
    "read": "1) 一緒にレベッカを助けようよ|2) 残念だけど助けるのは諦めた方がいい|3) 興味ない",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "1) Let's save Rebecca together|2) Sadly, we should give up on her|3) Not interested",
+   "status": "done",
+   "tl": "1) Let's save Rebecca together|2) Sadly, we should give up on her|3) Not interested"
   },
   {
    "id": "RES#1405:153b5",
@@ -1256,8 +1290,9 @@
    "jp": "{0c:5108}ああ、お前は正しいよ・・・\nオレも相手があいつじゃなけりゃ\nそう言うかもしれねえからな。{0c:fe}",
    "read": "{0c:5108}ああ、お前は正しいよ・・・\nオレも相手があいつじゃなけりゃ\nそう言うかもしれねえからな。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5108}Yeah, you're right... If it was anyone but\nher, I might say the same.{0c:fe}",
+   "status": "done",
+   "tl": "Yeah, you're right... If it was anyone but her, I might say the same."
   },
   {
    "id": "RES#1405:1542c",
@@ -1278,8 +1313,9 @@
    "jp": "じゃあな。行って来るさ。{0c:fe}",
    "read": "じゃあな。行って来るさ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "See ya, then. I'm goin'.{0c:fe}",
+   "status": "done",
+   "tl": "See ya, then. I'm goin'."
   },
   {
    "id": "RES#1405:15457",
@@ -1311,8 +1347,9 @@
    "jp": "ああ。その方がありがてえ。{0c:fe}",
    "read": "ああ。その方がありがてえ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Yeah. That suits me better.{0c:fe}",
+   "status": "done",
+   "tl": "Yeah. That suits me better."
   },
   {
    "id": "RES#1405:1548c",
@@ -1378,8 +1415,9 @@
    "jp": "{10}・・・どうするの?{0c:fe}",
    "read": "{10}・・・どうするの?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{10}... What are you going to do?{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]... What are you going to do?"
   },
   {
    "id": "RES#1405:15521",
@@ -1400,8 +1438,9 @@
    "jp": "1) 助けに行くつもりだ|2) 残念だが奴のことは諦めた方がいい|3) 興味ない",
    "read": "1) 助けに行くつもりだ|2) 残念だが奴のことは諦めた方がいい|3) 興味ない",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "1) I plan to go save them|2) Sadly, we should give up on them|3) Not interested",
+   "status": "done",
+   "tl": "1) I plan to go save them|2) Sadly, we should give up on them|3) Not interested"
   },
   {
    "id": "RES#1405:15564",
@@ -1433,8 +1472,9 @@
    "jp": "1) 助けに行くつもり|2) 残念だけど助けるのは諦めた方がいい|3) 興味ない",
    "read": "1) 助けに行くつもり|2) 残念だけど助けるのは諦めた方がいい|3) 興味ない",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "1) I plan to go save them|2) Sadly, we should give up on them|3) Not interested",
+   "status": "done",
+   "tl": "1) I plan to go save them|2) Sadly, we should give up on them|3) Not interested"
   },
   {
    "id": "RES#1405:155a8",
@@ -1466,8 +1506,9 @@
    "jp": "{0c:521008}{10}も同じ考えで安心した。\nあたしも行くよ。{1a}今、{0b:05}{14}を助けなかったら\n後で後悔すると思うから。{0c:fe}",
    "read": "{0c:521008}{10}も同じ考えで安心した。\nあたしも行くよ。{1a}今、{0b:05}{14}を助けなかったら\n後で後悔すると思うから。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521008}I'm relieved you feel the same,\n{10}. I'm going too.{1a}If I don't save {0b:05}{14} now, I\nthink I'll regret it later.{0c:fe}",
+   "status": "done",
+   "tl": "I'm relieved you feel the same, [HERO]. I'm going too. // If I don't save [1][VAR14] now, I think I'll regret it later."
   },
   {
    "id": "RES#1405:155fa",
@@ -1522,8 +1563,9 @@
    "jp": "ごめん・・・\nあたしやっぱり助けに行きたい。{1a}今、{0b:05}{14}を助けなかったら\n後で後悔すると思うから。{0c:fe}",
    "read": "ごめん・・・\nあたしやっぱり助けに行きたい。{1a}今、{0b:05}{14}を助けなかったら\n後で後悔すると思うから。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I'm sorry... I still want to go save them.{1a}If I don't save {0b:05}{14} now, I\nthink I'll regret it later.{0c:fe}",
+   "status": "done",
+   "tl": "I'm sorry... I still want to go save them. // If I don't save [1][VAR14] now, I think I'll regret it later."
   },
   {
    "id": "RES#1405:1566b",
@@ -1555,8 +1597,9 @@
    "jp": "{0c:522008}そ、そんな・・・{1a}{10}、\nあたしやっぱり助けに行きたい。{1a}今、{0b:05}{14}を助けなかったら\n後で後悔すると思うから。{0c:fe}",
    "read": "{0c:522008}そ、そんな・・・{1a}{10}、\nあたしやっぱり助けに行きたい。{1a}今、{0b:05}{14}を助けなかったら\n後で後悔すると思うから。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:522008}Th-that can't be...{1a}{10}, I still want to go save them.{1a}If I don't save {0b:05}{14} now, I\nthink I'll regret it later.{0c:fe}",
+   "status": "done",
+   "tl": "Th-that can't be... // [HERO], I still want to go save them. // If I don't save [1][VAR14] now, I think I'll regret it later."
   },
   {
    "id": "RES#1405:156e8",
@@ -1599,8 +1642,9 @@
    "jp": "{0c:5128}{10}・・・{1a}あたし・・・パスカを助けたい。\nたとえ世界中の人が死んでも\nあたし、パスカを・・・{0c:fe}",
    "read": "{0c:5128}{10}・・・{1a}あたし・・・パスカを助けたい。\nたとえ世界中の人が死んでも\nあたし、パスカを・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5128}{10}...{1a}I... I want to save Pasca. Even if\neveryone in the world dies, I... Pasca...{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]... // I... I want to save Pasca. Even if everyone in the world dies, I... Pasca..."
   },
   {
    "id": "RES#1405:1579f",
@@ -1621,8 +1665,9 @@
    "jp": "1) 一緒にパスカを助けよう|2) でも、奴のことは諦めた方がいい|3) 興味ない",
    "read": "1) 一緒にパスカを助けよう|2) でも、奴のことは諦めた方がいい|3) 興味ない",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "1) Let's save Pasca together|2) But we should give up on him|3) Not interested",
+   "status": "done",
+   "tl": "1) Let's save Pasca together|2) But we should give up on him|3) Not interested"
   },
   {
    "id": "RES#1405:157e4",
@@ -1654,8 +1699,9 @@
    "jp": "1) 一緒にパスカを助けようよ|2) 残念だけど助けるのは諦めた方がいい|3) 興味ない",
    "read": "1) 一緒にパスカを助けようよ|2) 残念だけど助けるのは諦めた方がいい|3) 興味ない",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "1) Let's save Pasca together|2) Sadly, we should give up on him|3) Not interested",
+   "status": "done",
+   "tl": "1) Let's save Pasca together|2) Sadly, we should give up on him|3) Not interested"
   },
   {
    "id": "RES#1405:1582f",
@@ -1687,8 +1733,9 @@
    "jp": "{0c:5108}{10}・・・ありがとう・・・{0c:fe}",
    "read": "{0c:5108}{10}・・・ありがとう・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5108}{10}... Thank you...{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]... Thank you..."
   },
   {
    "id": "RES#1405:15851",
@@ -1720,8 +1767,9 @@
    "jp": "さよなら、{10}・・・{0c:fe}",
    "read": "さよなら、{10}・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Goodbye, {10}...{0c:fe}",
+   "status": "done",
+   "tl": "Goodbye, [HERO]..."
   },
   {
    "id": "RES#1405:15880",
@@ -1753,8 +1801,9 @@
    "jp": "さよなら、{10}・・・{0c:fe}",
    "read": "さよなら、{10}・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Goodbye, {10}...{0c:fe}",
+   "status": "done",
+   "tl": "Goodbye, [HERO]..."
   },
   {
    "id": "RES#1405:158c3",
@@ -1797,8 +1846,9 @@
    "jp": "{10}・・・\n俺はもう誰も\n見殺しにしたくはない・・・{1a}俺は{0b:05}{14}を助けに行く。{0c:fe}",
    "read": "{10}・・・\n俺はもう誰も\n見殺しにしたくはない・・・{1a}俺は{0b:05}{14}を助けに行く。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{10}... I will not stand by and let\nanyone die again...{1a}I am going to save {0b:05}{14}.{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]... I will not stand by and let anyone die again... // I am going to save [1][VAR14]."
   },
   {
    "id": "RES#1405:1596b",
@@ -1819,8 +1869,9 @@
    "jp": "1) 一緒に助けに行こう|2) 残念だが奴のことは諦めた方がいい|3) 興味ない",
    "read": "1) 一緒に助けに行こう|2) 残念だが奴のことは諦めた方がいい|3) 興味ない",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "1) Let's go save them together|2) Sadly, we should give up on them|3) Not interested",
+   "status": "done",
+   "tl": "1) Let's go save them together|2) Sadly, we should give up on them|3) Not interested"
   },
   {
    "id": "RES#1405:159b0",
@@ -1852,8 +1903,9 @@
    "jp": "1) 一緒に助けに行こうよ|2) 残念だけど助けるのは諦めた方がいい|3) 興味ない",
    "read": "1) 一緒に助けに行こうよ|2) 残念だけど助けるのは諦めた方がいい|3) 興味ない",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "1) Let's go save them together|2) Sadly, we should give up on them|3) Not interested",
+   "status": "done",
+   "tl": "1) Let's go save them together|2) Sadly, we should give up on them|3) Not interested"
   },
   {
    "id": "RES#1405:159f8",
@@ -1885,8 +1937,9 @@
    "jp": "ああ、行こう。{0c:fe}",
    "read": "ああ、行こう。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Yes, let us go.{0c:fe}",
+   "status": "done",
+   "tl": "Yes, let us go."
   },
   {
    "id": "RES#1405:15a12",
@@ -1918,8 +1971,9 @@
    "jp": "思慮の足りない奴だと\n罵ってくれても構わない。{1a}だが、俺はもう誰も\n見殺しにしたくはないのだ・・・{0c:fe}",
    "read": "思慮の足りない奴だと\n罵ってくれても構わない。{1a}だが、俺はもう誰も\n見殺しにしたくはないのだ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "You may curse me for a thoughtless\nfool. I do not mind.{1a}But I will not stand by and let anyone die\nagain...{0c:fe}",
+   "status": "done",
+   "tl": "You may curse me for a thoughtless fool. I do not mind. // But I will not stand by and let anyone die again..."
   },
   {
    "id": "RES#1405:15a73",
@@ -1951,8 +2005,9 @@
    "jp": "それは本心か・・・?{1a}いや・・・もういい・・・{0c:fe}",
    "read": "それは本心か・・・?{1a}いや・・・もういい・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Is that truly how you feel...?{1a}No... never mind...{0c:fe}",
+   "status": "done",
+   "tl": "Is that truly how you feel...? // No... never mind..."
   },
   {
    "id": "RES#1405:15ac8",
@@ -1995,8 +2050,9 @@
    "jp": "{0c:5110}{10}・・・\n俺は{0b:05}{14}を助けに行く。\n{0c:5108}俺が5歳の時、\n1人の老人が軍に追われ\n俺の家に逃げ込んできた。{1a}その老人が何故追われていたのかは\nわからないが、父はその老人を\n屋根裏にかくまった。{1a}しかし、ものの数分もせずに、\n宗教騎士団の騎士達が数人、\n扉を蹴破り家に入ってきた。{1a}騎士達は、父に老人のことを尋ねたが\n父は知らないと答えた。{1a}騎士の1人が俺に剣を向けた。\n父を脅迫するつもりだったのだろう。\n剣先は頬を軽く切っただけだったが、\n俺は屋根裏を指さしてしまった。{1a}そして老人は屋根裏から\n引きずり降ろされた・・・{1a}連行される老人と眼が合った。\nしかし、その時の老人の眼は、\n俺を非難するものではなく、\n慈愛に満ちた優しい眼だった・・・{1a}{0c:521820}俺は今でもその眼が忘れられない。{1a}自分の弱さが原因で\n俺は人を殺してしまった・・・\n後悔の念が今でも頭から離れない。\n今でも自分の弱さが許せない。{1a}{10}・・・\n俺はもう誰も\n見殺しにしたくはない・・・{1a}{0c:5108}俺は{0b:05}{14}を助けに行く。{0c:fe}",
    "read": "{0c:5110}{10}・・・\n俺は{0b:05}{14}を助けに行く。\n{0c:5108}俺が5歳の時、\n1人の老人が軍に追われ\n俺の家に逃げ込んできた。{1a}その老人が何故追われていたのかは\nわからないが、父はその老人を\n屋根裏にかくまった。{1a}しかし、ものの数分もせずに、\n宗教騎士団の騎士達が数人、\n扉を蹴破り家に入ってきた。{1a}騎士達は、父に老人のことを尋ねたが\n父は知らないと答えた。{1a}騎士の1人が俺に剣を向けた。\n父を脅迫するつもりだったのだろう。\n剣先は頬を軽く切っただけだったが、\n俺は屋根裏を指さしてしまった。{1a}そして老人は屋根裏から\n引きずり降ろされた・・・{1a}連行される老人と眼が合った。\nしかし、その時の老人の眼は、\n俺を非難するものではなく、\n慈愛に満ちた優しい眼だった・・・{1a}{0c:521820}俺は今でもその眼が忘れられない。{1a}自分の弱さが原因で\n俺は人を殺してしまった・・・\n後悔の念が今でも頭から離れない。\n今でも自分の弱さが許せない。{1a}{10}・・・\n俺はもう誰も\n見殺しにしたくはない・・・{1a}{0c:5108}俺は{0b:05}{14}を助けに行く。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5110}{10}... I am going to save\n{0b:05}{14}. {0c:5108}When I was five, an\nold man fleeing the army ran into my\nhouse.{1a}Why he was being hunted I do not know,\nbut my father hid him in the attic.{1a}Yet within minutes, several knights of a\nreligious order kicked in the door and\ncame inside.{1a}The knights asked my father about the\nold man, and my father said he knew\nnothing.{1a}One of the knights turned his sword on\nme. He must have meant to threaten my\nfather. The tip only grazed my cheek,\nbut I pointed at the attic.{1a}And the old man was dragged down from\nthe attic...{1a}As he was led away, our eyes met. But\nhis eyes did not accuse me. They were\ngentle, and full of compassion...{1a}{0c:521820}To this day I cannot forget those eyes.{1a}Through my own weakness, I killed a man...\nThe regret has never left my mind. To\nthis day I cannot forgive my weakness.{1a}{10}... I will not stand by and let\nanyone die again...{1a}{0c:5108}I am going to save {0b:05}{14}.{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]... I am going to save [1][VAR14]. [2]When I was five, an old man fleeing the army ran into my house. // Why he was being hunted I do not know, but my father hid him in the attic. // Yet within minutes, several knights of a religious order kicked in the door and came inside. // The knights asked my father about the old man, and my father said he knew nothing. // One of the knights turned his sword on me. He must have meant to threaten my father. The tip only grazed my cheek, but I pointed at the attic. // And the old man was dragged down from the attic... // As he was led away, our eyes met. But his eyes did not accuse me. They were gentle, and full of compassion... // [3]To this day I cannot forget those eyes. // Through my own weakness, I killed a man... The regret has never left my mind. To this day I cannot forgive my weakness. // [HERO]... I will not stand by and let anyone die again... // [4]I am going to save [5][VAR14]."
   },
   {
    "id": "RES#1405:15d89",
@@ -2017,8 +2073,9 @@
    "jp": "1) 一緒に助けに行こう|2) 残念だが奴のことは諦めた方がいい|3) 興味ない",
    "read": "1) 一緒に助けに行こう|2) 残念だが奴のことは諦めた方がいい|3) 興味ない",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "1) Let's go save them together|2) Sadly, we should give up on them|3) Not interested",
+   "status": "done",
+   "tl": "1) Let's go save them together|2) Sadly, we should give up on them|3) Not interested"
   },
   {
    "id": "RES#1405:15dce",
@@ -2050,8 +2107,9 @@
    "jp": "1) 一緒に助けに行こうよ|2) 残念だけど助けるのは諦めた方がいい|3) 興味ない",
    "read": "1) 一緒に助けに行こうよ|2) 残念だけど助けるのは諦めた方がいい|3) 興味ない",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "1) Let's go save them together|2) Sadly, we should give up on them|3) Not interested",
+   "status": "done",
+   "tl": "1) Let's go save them together|2) Sadly, we should give up on them|3) Not interested"
   },
   {
    "id": "RES#1405:15e16",
@@ -2083,8 +2141,9 @@
    "jp": "すまない・・・感謝する。{0c:fe}",
    "read": "すまない・・・感謝する。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I am sorry... and grateful.{0c:fe}",
+   "status": "done",
+   "tl": "I am sorry... and grateful."
   },
   {
    "id": "RES#1405:15e36",
@@ -2116,8 +2175,9 @@
    "jp": "思慮の足りない奴だと\n罵ってくれても構わない。{1a}だが、俺はもう誰も\n見殺しにしたくはないのだ・・・{0c:fe}",
    "read": "思慮の足りない奴だと\n罵ってくれても構わない。{1a}だが、俺はもう誰も\n見殺しにしたくはないのだ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "You may curse me for a thoughtless\nfool. I do not mind.{1a}But I will not stand by and let anyone die\nagain...{0c:fe}",
+   "status": "done",
+   "tl": "You may curse me for a thoughtless fool. I do not mind. // But I will not stand by and let anyone die again..."
   },
   {
    "id": "RES#1405:15e97",
@@ -2149,8 +2209,9 @@
    "jp": "それは本心か・・・?{1a}いや・・・もういい・・・{0c:fe}",
    "read": "それは本心か・・・?{1a}いや・・・もういい・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Is that truly how you feel...?{1a}No... never mind...{0c:fe}",
+   "status": "done",
+   "tl": "Is that truly how you feel...? // No... never mind..."
   },
   {
    "id": "RES#1405:15eec",
@@ -2193,8 +2254,9 @@
    "jp": "{1c:1e}{0b:08}【 シャルン 】{0b:09}\n{10}、\nあたし、{0b:05}{14}を助けたい。{1a}子供っぽい正義感なのかもしれない。\nそのせいでもっと大勢の人達が\n魔物に殺されるかも\nしれないんだから。{1a}でも、せっかく知り合えた仲間を\n見殺しにはしたくない。\nそんなこと出来ない。{1a}{10}、あなたはどうする?\nあなたの考えも聞かせて。{0c:fe}",
    "read": "{1c:1e}{0b:08}【 シャルン 】{0b:09}\n{10}、\nあたし、{0b:05}{14}を助けたい。{1a}子供っぽい正義感なのかもしれない。\nそのせいでもっと大勢の人達が\n魔物に殺されるかも\nしれないんだから。{1a}でも、せっかく知り合えた仲間を\n見殺しにはしたくない。\nそんなこと出来ない。{1a}{10}、あなたはどうする?\nあなたの考えも聞かせて。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}{0b:08}【 Scharn 】{0b:09}\n{10}, I want to save\n{0b:05}{14}!{1a}Maybe it's just a kid's sense of justice,\nsince even more people might get killed\nby monsters because of it.{1a}But I don't want to let a friend die, not\nwhen we finally got to know each other. I\njust can't do that.{1a}{10}, what about you? Tell me\nwhat you think too.{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], I want to save [1][VAR14]! // Maybe it's just a kid's sense of justice, since even more people might get killed by monsters because of it. // But I don't want to let a friend die, not when we finally got to know each other. I just can't do that. // [HERO], what about you? Tell me what you think too."
   },
   {
    "id": "RES#1405:1601b",
@@ -2215,8 +2277,9 @@
    "jp": "もちろん助けに行くよ|悔しいけど奴のことは諦めた方がいい|興味ないな",
    "read": "もちろん助けに行くよ|悔しいけど奴のことは諦めた方がいい|興味ないな",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Of course I'll go save them|It hurts, but we should give up on them|Not interested",
+   "status": "done",
+   "tl": "Of course I'll go save them|It hurts, but we should give up on them|Not interested"
   },
   {
    "id": "RES#1405:16051",
@@ -2248,8 +2311,9 @@
    "jp": "もちろん助けに行くわ|悔しいけど諦めるしかないよ|興味ないわね",
    "read": "もちろん助けに行くわ|悔しいけど諦めるしかないよ|興味ないわね",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Of course I'll go save them|It hurts, but we have to give up|Not interested",
+   "status": "done",
+   "tl": "Of course I'll go save them|It hurts, but we have to give up|Not interested"
   },
   {
    "id": "RES#1405:16083",
@@ -2281,8 +2345,9 @@
    "jp": "{0c:521008}{1c:1d}{0b:08}【 シャルン 】{0b:09}\nよかった。{1a}早く{0b:05}{14}を\n目覚めさせてあげようね。{0c:fe}",
    "read": "{0c:521008}{1c:1d}{0b:08}【 シャルン 】{0b:09}\nよかった。{1a}早く{0b:05}{14}を\n目覚めさせてあげようね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521008}{1c:1d}{0b:08}【 Scharn 】{0b:09}\nI'm so glad.{1a}Let's hurry and wake {0b:05}{14}\nup, okay?{0c:fe}",
+   "status": "done",
+   "tl": "I'm so glad. // Let's hurry and wake [1][VAR14] up, okay?"
   },
   {
    "id": "RES#1405:160ce",
@@ -2314,8 +2379,9 @@
    "jp": "{1c:1e}{0b:08}【 シャルン 】{0b:09}\nあなたの方が\n正しいのは分かってる・・・{1a}でも、止めたって聞かないよ。\nあたし1人でも助けに行く。{0c:fe}",
    "read": "{1c:1e}{0b:08}【 シャルン 】{0b:09}\nあなたの方が\n正しいのは分かってる・・・{1a}でも、止めたって聞かないよ。\nあたし1人でも助けに行く。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}{0b:08}【 Scharn 】{0b:09}\nI know you're the one who's right...{1a}But trying to stop me won't work, you\nknow! I'll go save them even if it's just\nme.{0c:fe}",
+   "status": "done",
+   "tl": "I know you're the one who's right... // But trying to stop me won't work, you know! I'll go save them even if it's just me."
   },
   {
    "id": "RES#1405:16142",
@@ -2336,8 +2402,9 @@
    "jp": "{1c:1e}しばらくお別れだね。{0c:fe}",
    "read": "{1c:1e}しばらくお別れだね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}I guess this is goodbye for a while.{0c:fe}",
+   "status": "done",
+   "tl": "I guess this is goodbye for a while."
   },
   {
    "id": "RES#1405:1616c",
@@ -2369,8 +2436,9 @@
    "jp": "{0c:5111}{1c:1e}{0b:08}【 シャルン 】{0b:09}\nそう・・・わかった、\nあたし1人でも助けに行く。{0c:fe}",
    "read": "{0c:5111}{1c:1e}{0b:08}【 シャルン 】{0b:09}\nそう・・・わかった、\nあたし1人でも助けに行く。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5111}{1c:1e}{0b:08}【 Scharn 】{0b:09}\nI see... All right, I'll go save them even if\nit's just me.{0c:fe}",
+   "status": "done",
+   "tl": "I see... All right, I'll go save them even if it's just me."
   },
   {
    "id": "RES#1405:161c8",
@@ -2436,8 +2504,9 @@
    "jp": "{1c:1f}{0b:08}【 ジェシカ 】{0b:09}\nあたし達を助けたせいで\n魔物が現れた、か・・・{1a}なんだかさ、\nズシーンと重たい話\n聞いちゃったね。{1a}で、{10}はどうすんの?\n{0b:05}{14}を助けに\n行くか行かないか。{1a}あたしは助けに行くよ。\nだってさ、あたしが逆の立場で、\nみんなに助けてもらえなかったら\n絶対に呪っちゃうもん。{1a}{0c:521018}いくら世界の半分の人間が\nあたしの身代わりに死んじゃっても\nあたしは絶対助かりたいよ。{1a}{0c:5120}世界中の人間が\n死んじゃうって言われたら\nちょっとは考えるかな。{1a}あたし1人で生きてても\nつまんないだろうしさ。{1a}{0c:5118}なんかあたしばっか喋ってるね。\n{10}、結局どうすんの?{0c:fe}",
    "read": "{1c:1f}{0b:08}【 ジェシカ 】{0b:09}\nあたし達を助けたせいで\n魔物が現れた、か・・・{1a}なんだかさ、\nズシーンと重たい話\n聞いちゃったね。{1a}で、{10}はどうすんの?\n{0b:05}{14}を助けに\n行くか行かないか。{1a}あたしは助けに行くよ。\nだってさ、あたしが逆の立場で、\nみんなに助けてもらえなかったら\n絶対に呪っちゃうもん。{1a}{0c:521018}いくら世界の半分の人間が\nあたしの身代わりに死んじゃっても\nあたしは絶対助かりたいよ。{1a}{0c:5120}世界中の人間が\n死んじゃうって言われたら\nちょっとは考えるかな。{1a}あたし1人で生きてても\nつまんないだろうしさ。{1a}{0c:5118}なんかあたしばっか喋ってるね。\n{10}、結局どうすんの?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}{0b:08}【 Jessica 】{0b:09}\nSo monsters showed up because you all\nsaved us, huh...{1a}Geez, that was one heavy story they\njust dumped on us.{1a}So what're you gonna do, {10}?\nGo save {0b:05}{14} or not?{1a}Me, I'm going. I mean, if it was the other\nway around, and nobody came to save\nme, I'd curse every last one of you.{1a}{0c:521018}Even if half the people in the world had\nto die in my place, I'd still want to be\nsaved, no question.{1a}{0c:5120}If they said everybody in the world would\ndie, then I might think about it a little.{1a}Being the only one alive would probably\nbe pretty boring.{1a}{0c:5118}Huh, I'm the only one talking here.\n{10}, so what're you gonna do?{0c:fe}",
+   "status": "done",
+   "tl": "So monsters showed up because you all saved us, huh... // Geez, that was one heavy story they just dumped on us. // So what're you gonna do, [HERO]? Go save [1][VAR14] or not? // Me, I'm going. I mean, if it was the other way around, and nobody came to save me, I'd curse every last one of you. // [2]Even if half the people in the world had to die in my place, I'd still want to be saved, no question. // [3]If they said everybody in the world would die, then I might think about it a little. // Being the only one alive would probably be pretty boring. // [4]Huh, I'm the only one talking here. [HERO], so what're you gonna do?"
   },
   {
    "id": "RES#1405:163aa",
@@ -2458,8 +2527,9 @@
    "jp": "もちろん助けに行くよ!|悔しいけど奴のことは諦めた方がいい|興味ないな",
    "read": "もちろん助けに行くよ!|悔しいけど奴のことは諦めた方がいい|興味ないな",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Of course I'll go save them!|It hurts, but we should give up on them|Not interested",
+   "status": "done",
+   "tl": "Of course I'll go save them!|It hurts, but we should give up on them|Not interested"
   },
   {
    "id": "RES#1405:163e2",
@@ -2491,8 +2561,9 @@
    "jp": "もちろん助けに行くわ!|悔しいけど諦めるしかないよ|興味ないわね",
    "read": "もちろん助けに行くわ!|悔しいけど諦めるしかないよ|興味ないわね",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Of course I'll go save them!|It hurts, but we have to give up|Not interested",
+   "status": "done",
+   "tl": "Of course I'll go save them!|It hurts, but we have to give up|Not interested"
   },
   {
    "id": "RES#1405:16416",
@@ -2535,8 +2606,9 @@
    "jp": "{0b:08}【 ジェシカ 】{0b:09}\nひょっとして\n1人で助けに行きたかった?{1a}男の友情に女が口を挟むなとか\n思ってない?{1a}思ってないならいいんだけどさ、\n{10}に変な趣味があったら\n思いっきりひいちゃうし。{1a}それじゃあ柱壊しに行こっか。\n重たい話は忘れて気楽にね。\n考えごとしながら戦ってちゃ\nこっちが死んじゃうよ。。{0c:fe}",
    "read": "{0b:08}【 ジェシカ 】{0b:09}\nひょっとして\n1人で助けに行きたかった?{1a}男の友情に女が口を挟むなとか\n思ってない?{1a}思ってないならいいんだけどさ、\n{10}に変な趣味があったら\n思いっきりひいちゃうし。{1a}それじゃあ柱壊しに行こっか。\n重たい話は忘れて気楽にね。\n考えごとしながら戦ってちゃ\nこっちが死んじゃうよ。。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Jessica 】{0b:09}\nDon't tell me you wanted to go save\nyour friend alone?{1a}You're not thinking girls shouldn't butt\ninto a friendship between men, are you?{1a}If you're not, then fine, but if\n{10} turned out to have some\nweird streak, I'd be backing way off.{1a}Well then, let's go break that pillar.\nForget the heavy stuff and take it\neasy. If we fight with our heads full of\nworries, we're the ones who'll end up{1a}dead.{0c:fe}",
+   "status": "done",
+   "tl": "Don't tell me you wanted to go save your friend alone? // You're not thinking girls shouldn't butt into a friendship between men, are you? // If you're not, then fine, but if [HERO] turned out to have some weird streak, I'd be backing way off. // Well then, let's go break that pillar. Forget the heavy stuff and take it easy. If we fight with our heads full of worries, we're the ones who'll end up dead."
   },
   {
    "id": "RES#1405:164fa",
@@ -2557,8 +2629,9 @@
    "jp": "{0c:521018}{0b:08}【 ジェシカ 】{0b:09}\nそうそう、男ならやっぱり\n世界を敵に回してでも\nお姫様を助けにいかないとね。{1a}それじゃあ柱壊しに行こっか。\n重たい話は忘れて気楽にね。\n考えごとしながら戦ってちゃ\nこっちが死んじゃうよ。{0c:fe}",
    "read": "{0c:521018}{0b:08}【 ジェシカ 】{0b:09}\nそうそう、男ならやっぱり\n世界を敵に回してでも\nお姫様を助けにいかないとね。{1a}それじゃあ柱壊しに行こっか。\n重たい話は忘れて気楽にね。\n考えごとしながら戦ってちゃ\nこっちが死んじゃうよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{0b:08}【 Jessica 】{0b:09}\nThat's right, if you're a man, you gotta\nsave the princess, even if it means\nmaking the whole world your enemy.{1a}Well then, let's go break that pillar.\nForget the heavy stuff and take it\neasy. If we fight with our heads full of\nworries, we're the ones who'll end up{1a}dead.{0c:fe}",
+   "status": "done",
+   "tl": "That's right, if you're a man, you gotta save the princess, even if it means making the whole world your enemy. // Well then, let's go break that pillar. Forget the heavy stuff and take it easy. If we fight with our heads full of worries, we're the ones who'll end up dead."
   },
   {
    "id": "RES#1405:1659a",
@@ -2590,8 +2663,9 @@
    "jp": "{0c:521018}{0b:08}【 ジェシカ 】{0b:09}\nそうそう、女ならやっぱり\n世界を敵に回してでも\n惚れた男を助けに行かなきゃね。{1a}それじゃあ柱壊しに行こっか。\n重たい話は忘れて気楽にね。\n考えごとしながら戦ってちゃ\nこっちが死んじゃうよ。{0c:fe}",
    "read": "{0c:521018}{0b:08}【 ジェシカ 】{0b:09}\nそうそう、女ならやっぱり\n世界を敵に回してでも\n惚れた男を助けに行かなきゃね。{1a}それじゃあ柱壊しに行こっか。\n重たい話は忘れて気楽にね。\n考えごとしながら戦ってちゃ\nこっちが死んじゃうよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{0b:08}【 Jessica 】{0b:09}\nThat's right, if you're a woman, you\ngotta save the man you fell for, even if\nit means making the whole world your{1a}enemy.{1a}Well then, let's go break that pillar.\nForget the heavy stuff and take it\neasy. If we fight with our heads full of\nworries, we're the ones who'll end up{1a}dead.{0c:fe}",
+   "status": "done",
+   "tl": "That's right, if you're a woman, you gotta save the man you fell for, even if it means making the whole world your enemy. // Well then, let's go break that pillar. Forget the heavy stuff and take it easy. If we fight with our heads full of worries, we're the ones who'll end up dead."
   },
   {
    "id": "RES#1405:16646",
@@ -2612,8 +2686,9 @@
    "jp": "{0c:521018}{0b:08}【 ジェシカ 】{0b:09}\nうん、また3人で\n一緒に行きたいもんね。{1a}それじゃあ柱壊しに行こっか。\n重たい話は忘れて気楽にね。\n考えごとしながら戦ってちゃ\nこっちが死んじゃうよ。{0c:fe}",
    "read": "{0c:521018}{0b:08}【 ジェシカ 】{0b:09}\nうん、また3人で\n一緒に行きたいもんね。{1a}それじゃあ柱壊しに行こっか。\n重たい話は忘れて気楽にね。\n考えごとしながら戦ってちゃ\nこっちが死んじゃうよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521018}{0b:08}【 Jessica 】{0b:09}\nYeah, I want the three of us going\ntogether again too.{1a}Well then, let's go break that pillar.\nForget the heavy stuff and take it\neasy. If we fight with our heads full of\nworries, we're the ones who'll end up{1a}dead.{0c:fe}",
+   "status": "done",
+   "tl": "Yeah, I want the three of us going together again too. // Well then, let's go break that pillar. Forget the heavy stuff and take it easy. If we fight with our heads full of worries, we're the ones who'll end up dead."
   },
   {
    "id": "RES#1405:166d2",
@@ -2645,8 +2720,9 @@
    "jp": "{1c:1f}{0b:08}【 ジェシカ 】{0b:09}\nふーん・・・○○○って\n案外つまんないヤツだね。{1a}そりゃあんたの言ってることの方が\n正しいんだろうけどさ、\nだからって今ここで聞かされてもね。{0c:fe}",
    "read": "{1c:1f}{0b:08}【 ジェシカ 】{0b:09}\nふーん・・・○○○って\n案外つまんないヤツだね。{1a}そりゃあんたの言ってることの方が\n正しいんだろうけどさ、\nだからって今ここで聞かされてもね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}{0b:08}【 Jessica 】{0b:09}\nHmm... ○○○ is a lot more boring than I figured,\nyou know that?{1a}Sure, what you're saying is probably\nright, but I don't need to hear it here\nand now.{0c:fe}",
+   "status": "done",
+   "tl": "Hmm... [1] is a lot more boring than I figured, you know that? // Sure, what you're saying is probably right, but I don't need to hear it here and now."
   },
   {
    "id": "RES#1405:16763",
@@ -2667,8 +2743,9 @@
    "jp": "{1c:1f}なんかシラけちゃった。\nじゃあね。{0c:fe}",
    "read": "{1c:1f}なんかシラけちゃった。\nじゃあね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1f}Geez, that killed the mood. See ya.{0c:fe}",
+   "status": "done",
+   "tl": "Geez, that killed the mood. See ya."
   },
   {
    "id": "RES#1405:16795",
@@ -2700,8 +2777,9 @@
    "jp": "{0c:522830}{0b:08}【 ジェシカ 】{0b:09}\nまたまた。無理しちゃってさ。\nほんとは助けに行きたいんでしょ?{1a}あんたの言ってるコトと\nやってるコトってさ、\n強がったりいい子ぶったり\nつじつまが全然合ってないもん。{1a}それにその童顔じゃ\nいくら口でクール気取っても\nこれっぽっちも似合わないよ。{1a}行こ行こ!\n無理しちゃ体に悪いよ。{0c:fe}",
    "read": "{0c:522830}{0b:08}【 ジェシカ 】{0b:09}\nまたまた。無理しちゃってさ。\nほんとは助けに行きたいんでしょ?{1a}あんたの言ってるコトと\nやってるコトってさ、\n強がったりいい子ぶったり\nつじつまが全然合ってないもん。{1a}それにその童顔じゃ\nいくら口でクール気取っても\nこれっぽっちも似合わないよ。{1a}行こ行こ!\n無理しちゃ体に悪いよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:522830}{0b:08}【 Jessica 】{0b:09}\nOh, come on. Quit forcing it. You really\nwant to go save them, don't you?{1a}The stuff you say and the stuff you\ndo? All that acting tough and playing the\ngood kid, none of it adds up.{1a}Besides, with that baby face, no matter\nhow cool you talk, it doesn't suit you one\nbit.{1a}Come on, let's go! Forcing yourself is bad\nfor your health.{0c:fe}",
+   "status": "done",
+   "tl": "Oh, come on. Quit forcing it. You really want to go save them, don't you? // The stuff you say and the stuff you do? All that acting tough and playing the good kid, none of it adds up. // Besides, with that baby face, no matter how cool you talk, it doesn't suit you one bit. // Come on, let's go! Forcing yourself is bad for your health."
   },
   {
    "id": "RES#1405:1687b",
@@ -2744,8 +2822,9 @@
    "jp": "{1c:20}{0b:08}【 オルフェウス 】{0b:09}\n長い話でしたね。\nさて、どうします?{0c:fe}",
    "read": "{1c:20}{0b:08}【 オルフェウス 】{0b:09}\n長い話でしたね。\nさて、どうします?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Orpheus 】{0b:09}\nThat was quite a long speech. Now then,\nwhat shall you do?{0c:fe}",
+   "status": "done",
+   "tl": "That was quite a long speech. Now then, what shall you do?"
   },
   {
    "id": "RES#1405:1690c",
@@ -2766,8 +2845,9 @@
    "jp": "もちろん助けに行くよ|悔しいけど奴のことは諦めた方がいい|興味ないな",
    "read": "もちろん助けに行くよ|悔しいけど奴のことは諦めた方がいい|興味ないな",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Of course I'll go save them|It hurts, but we should give up on them|Not interested",
+   "status": "done",
+   "tl": "Of course I'll go save them|It hurts, but we should give up on them|Not interested"
   },
   {
    "id": "RES#1405:1693c",
@@ -2799,8 +2879,9 @@
    "jp": "{1c:21}{0b:08}【 オルフェウス 】{0b:09}\nそうですか。\nじゃ、頑張って下さいね。{0c:fe}",
    "read": "{1c:21}{0b:08}【 オルフェウス 】{0b:09}\nそうですか。\nじゃ、頑張って下さいね。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:21}{0b:08}【 Orpheus 】{0b:09}\nI see. Well then, do try your best.{0c:fe}",
+   "status": "done",
+   "tl": "I see. Well then, do try your best."
   },
   {
    "id": "RES#1405:16979",
@@ -2832,8 +2913,9 @@
    "jp": "{1c:21}{0b:08}【 オルフェウス 】{0b:09}\n同感です。\n世界なんてどうでもいいですが、\n疲れることだけはごめんです。{1a}ちなみに、悔しいという感情は\n欠片もありませんが。{0c:02fe01}",
    "read": "{1c:21}{0b:08}【 オルフェウス 】{0b:09}\n同感です。\n世界なんてどうでもいいですが、\n疲れることだけはごめんです。{1a}ちなみに、悔しいという感情は\n欠片もありませんが。{0c:02fe01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:21}{0b:08}【 Orpheus 】{0b:09}\nI quite agree. The world can go hang for\nall I care, but anything tiring I will thank\nyou to spare me.{1a}Though for the record, it does not hurt\nme in the least.{0c:02fe01}",
+   "status": "done",
+   "tl": "I quite agree. The world can go hang for all I care, but anything tiring I will thank you to spare me. // Though for the record, it does not hurt me in the least."
   },
   {
    "id": "RES#1405:16a15",
@@ -2854,8 +2936,9 @@
    "jp": "{0c:5110}{1c:20}{0b:08}【 オルフェウス 】{0b:09}\nぼくはどうしようかな・・・{1a}彼女の白馬の王子になるのも\n悪くありませんが、\n面倒なことをする気分には\nなれなくて・・・{1a}{0c:5108}そうですね、\n他の方にお任せしましょうか。{0c:02fc01}",
    "read": "{0c:5110}{1c:20}{0b:08}【 オルフェウス 】{0b:09}\nぼくはどうしようかな・・・{1a}彼女の白馬の王子になるのも\n悪くありませんが、\n面倒なことをする気分には\nなれなくて・・・{1a}{0c:5108}そうですね、\n他の方にお任せしましょうか。{0c:02fc01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5110}{1c:20}{0b:08}【 Orpheus 】{0b:09}\nAs for me, what shall I do...{1a}Playing prince on a white horse for her\nwould not be so bad, but I cannot quite\nwork up the mood for anything so\nbothersome...{1a}{0c:5108}Yes, let us leave it to others, shall we?{0c:02fc01}",
+   "status": "done",
+   "tl": "As for me, what shall I do... // Playing prince on a white horse for her would not be so bad, but I cannot quite work up the mood for anything so bothersome... // [1]Yes, let us leave it to others, shall we?"
   },
   {
    "id": "RES#1405:16a9e",
@@ -2876,8 +2959,9 @@
    "jp": "{1c:20}{0b:08}【 オルフェウス 】{0b:09}\nへえ、顔に似合わず\n意外と冷たいんですね。{1a}でも同感です。\n世界なんてどうでもいいですが、\n疲れることだけはごめんです。{0c:02fa01}",
    "read": "{1c:20}{0b:08}【 オルフェウス 】{0b:09}\nへえ、顔に似合わず\n意外と冷たいんですね。{1a}でも同感です。\n世界なんてどうでもいいですが、\n疲れることだけはごめんです。{0c:02fa01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Orpheus 】{0b:09}\nMy, how unexpectedly cold of you, with\nsuch a face.{1a}But I quite agree. The world can go hang\nfor all I care, but anything tiring I will\nthank you to spare me.{0c:02fa01}",
+   "status": "done",
+   "tl": "My, how unexpectedly cold of you, with such a face. // But I quite agree. The world can go hang for all I care, but anything tiring I will thank you to spare me."
   },
   {
    "id": "RES#1405:16b13",
@@ -2898,8 +2982,9 @@
    "jp": "{1c:20}{0b:08}【 オルフェウス 】{0b:09}\nへえ、顔に似合わず\n意外と冷たいんですね。{1a}{0c:5110}ぼくはどうしようかな・・・{1a}彼女の白馬の王子になるのも\n悪くありませんが、\n面倒なことをする気分には\nなれなくて・・・{1a}{0c:5108}そうですね、\n他の方にお任せしましょうか。{0c:02f801}",
    "read": "{1c:20}{0b:08}【 オルフェウス 】{0b:09}\nへえ、顔に似合わず\n意外と冷たいんですね。{1a}{0c:5110}ぼくはどうしようかな・・・{1a}彼女の白馬の王子になるのも\n悪くありませんが、\n面倒なことをする気分には\nなれなくて・・・{1a}{0c:5108}そうですね、\n他の方にお任せしましょうか。{0c:02f801}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Orpheus 】{0b:09}\nMy, how unexpectedly cold of you, with\nsuch a face.{1a}{0c:5110}As for me, what shall I do...{1a}Playing prince on a white horse for her\nwould not be so bad, but I cannot quite\nwork up the mood for anything so\nbothersome...{1a}{0c:5108}Yes, let us leave it to others, shall we?{0c:02f801}",
+   "status": "done",
+   "tl": "My, how unexpectedly cold of you, with such a face. // [1]As for me, what shall I do... // Playing prince on a white horse for her would not be so bad, but I cannot quite work up the mood for anything so bothersome... // [2]Yes, let us leave it to others, shall we?"
   },
   {
    "id": "RES#1405:16bb8",
@@ -2931,8 +3016,9 @@
    "jp": "{1c:20}{0b:08}【 オルフェウス 】{0b:09}\n長い話でしたね。\nさて、どうします?{0c:fe}",
    "read": "{1c:20}{0b:08}【 オルフェウス 】{0b:09}\n長い話でしたね。\nさて、どうします?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:20}{0b:08}【 Orpheus 】{0b:09}\nThat was quite a long speech. Now then,\nwhat shall you do?{0c:fe}",
+   "status": "done",
+   "tl": "That was quite a long speech. Now then, what shall you do?"
   },
   {
    "id": "RES#1405:16c33",
@@ -2953,8 +3039,9 @@
    "jp": "もちろん助けに行くわ|悔しいけど諦めるしかないよ|興味ないわね",
    "read": "もちろん助けに行くわ|悔しいけど諦めるしかないよ|興味ないわね",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Of course I'll go save them|It hurts, but we have to give up|Not interested",
+   "status": "done",
+   "tl": "Of course I'll go save them|It hurts, but we have to give up|Not interested"
   },
   {
    "id": "RES#1405:16c5e",
@@ -2986,8 +3073,9 @@
    "jp": "{0c:5118}{1c:22}{0b:08}【 オルフェウス 】{0b:09}\nええっ、助けるんですか?\nいいじゃないですか。\n放っておきましょうよ。{1a}・・・駄目?\n仕方ない、お付き合いします。{0c:fe}",
    "read": "{0c:5118}{1c:22}{0b:08}【 オルフェウス 】{0b:09}\nええっ、助けるんですか?\nいいじゃないですか。\n放っておきましょうよ。{1a}・・・駄目?\n仕方ない、お付き合いします。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5118}{1c:22}{0b:08}【 Orpheus 】{0b:09}\nWhat, you are saving them? Why bother?\nLet us leave them be.{1a}...No? Oh, very well, if you insist. I will\ncome along.{0c:fe}",
+   "status": "done",
+   "tl": "What, you are saving them? Why bother? Let us leave them be. // ...No? Oh, very well, if you insist. I will come along."
   },
   {
    "id": "RES#1405:16cdf",
@@ -3008,8 +3096,9 @@
    "jp": "{0c:522028}{1c:21}{0b:08}【 オルフェウス 】{0b:09}\n{10}さん、\n君はなんて優しい人なんだ!{1a}ええ、もちろん僕も\nお手伝いしますよ。{0c:fe}",
    "read": "{0c:522028}{1c:21}{0b:08}【 オルフェウス 】{0b:09}\n{10}さん、\n君はなんて優しい人なんだ!{1a}ええ、もちろん僕も\nお手伝いしますよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:522028}{1c:21}{0b:08}【 Orpheus 】{0b:09}\n{10}-san, what a kind soul you\nare!{1a}Yes, of course I will lend a hand.{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]-san, what a kind soul you are! // Yes, of course I will lend a hand."
   },
   {
    "id": "RES#1405:16d41",
@@ -3041,8 +3130,9 @@
    "jp": "{1c:21}{0b:08}【 オルフェウス 】{0b:09}\n同感です。\n世界なんてどうでもいいですが、\n疲れることだけはごめんです。{1a}特に今はそんな気分には\nなれない・・・{1a}さて・・・部屋に戻りましょうか。{0c:020301}",
    "read": "{1c:21}{0b:08}【 オルフェウス 】{0b:09}\n同感です。\n世界なんてどうでもいいですが、\n疲れることだけはごめんです。{1a}特に今はそんな気分には\nなれない・・・{1a}さて・・・部屋に戻りましょうか。{0c:020301}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:21}{0b:08}【 Orpheus 】{0b:09}\nI quite agree. The world can go hang for\nall I care, but anything tiring I will thank\nyou to spare me.{1a}Especially now, when I am in no mood for\nit...{1a}Well then... shall we return to our rooms?{0c:020301}",
+   "status": "done",
+   "tl": "I quite agree. The world can go hang for all I care, but anything tiring I will thank you to spare me. // Especially now, when I am in no mood for it... // Well then... shall we return to our rooms?"
   },
   {
    "id": "RES#1405:16dd5",
@@ -3063,8 +3153,9 @@
    "jp": "{0c:5110}{1c:20}{0b:08}【 オルフェウス 】{0b:09}\nぼくはどうしようかな・・・{1a}彼女の白馬の王子になるのも\n悪くありませんが、\n今はそんな気分になれなくて・・・{1a}{0c:5108}そうですね、\n他の方にお任せしましょうか。{0c:fe}",
    "read": "{0c:5110}{1c:20}{0b:08}【 オルフェウス 】{0b:09}\nぼくはどうしようかな・・・{1a}彼女の白馬の王子になるのも\n悪くありませんが、\n今はそんな気分になれなくて・・・{1a}{0c:5108}そうですね、\n他の方にお任せしましょうか。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5110}{1c:20}{0b:08}【 Orpheus 】{0b:09}\nAs for me, what shall I do...{1a}Playing prince on a white horse for her\nwould not be so bad, but I am in no mood\nfor it now...{1a}{0c:5108}Yes, let us leave it to others, shall we?{0c:fe}",
+   "status": "done",
+   "tl": "As for me, what shall I do... // Playing prince on a white horse for her would not be so bad, but I am in no mood for it now... // [1]Yes, let us leave it to others, shall we?"
   },
   {
    "id": "RES#1405:16e56",
@@ -3107,8 +3198,9 @@
    "jp": "{1c:23}{0b:08}【 イヴ 】{0b:09}\n面白い話だったわね。\nあたし達が世界崩壊の元凶だなんて\nゾクゾクしちゃう。{1a}それで、どうするの? \n{0b:05}{14}の方は。{0c:fe}",
    "read": "{1c:23}{0b:08}【 イヴ 】{0b:09}\n面白い話だったわね。\nあたし達が世界崩壊の元凶だなんて\nゾクゾクしちゃう。{1a}それで、どうするの? \n{0b:05}{14}の方は。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:23}{0b:08}【 Eve 】{0b:09}\nNow that was an interesting story,\nwasn't it. We, the root of the world's\ncollapse... It gives me chills.{1a}So, what will you do? About\n{0b:05}{14}.{0c:fe}",
+   "status": "done",
+   "tl": "Now that was an interesting story, wasn't it. We, the root of the world's collapse... It gives me chills. // So, what will you do? About [1][VAR14]."
   },
   {
    "id": "RES#1405:16f2b",
@@ -3129,8 +3221,9 @@
    "jp": "もちろん助けに行くよ|悔しいけど奴のことは諦めた方がいい|興味ないな",
    "read": "もちろん助けに行くよ|悔しいけど奴のことは諦めた方がいい|興味ないな",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Of course I'll go save them|It hurts, but we should give up on them|Not interested",
+   "status": "done",
+   "tl": "Of course I'll go save them|It hurts, but we should give up on them|Not interested"
   },
   {
    "id": "RES#1405:16f61",
@@ -3162,8 +3255,9 @@
    "jp": "もちろん助けに行くわ|悔しいけど諦めるしかないよ|興味ないわね",
    "read": "もちろん助けに行くわ|悔しいけど諦めるしかないよ|興味ないわね",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Of course I'll go save them|It hurts, but we have to give up|Not interested",
+   "status": "done",
+   "tl": "Of course I'll go save them|It hurts, but we have to give up|Not interested"
   },
   {
    "id": "RES#1405:16f93",
@@ -3195,8 +3289,9 @@
    "jp": "{1c:23}{0b:08}【 イヴ 】{0b:09}\n{0b:05}{14}1人のために\n世界を魔物に売るの?\n素晴らしい友情ね、感動するわ。{1a}そうね・・・\nあたしも一緒に行こうかしら。\n退屈しなくてすみそうだし。{0c:fe}",
    "read": "{1c:23}{0b:08}【 イヴ 】{0b:09}\n{0b:05}{14}1人のために\n世界を魔物に売るの?\n素晴らしい友情ね、感動するわ。{1a}そうね・・・\nあたしも一緒に行こうかしら。\n退屈しなくてすみそうだし。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:23}{0b:08}【 Eve 】{0b:09}\n{0b:05}You would sell the world to the monsters\nfor {14} alone? What\nsplendid friendship. I'm moved.{1a}Well... perhaps I should go along too, I\nwonder. It should keep me from getting\nbored.{0c:fe}",
+   "status": "done",
+   "tl": "You would sell the world to the monsters for [VAR14] alone? What splendid friendship. I'm moved. // Well... perhaps I should go along too, I wonder. It should keep me from getting bored."
   },
   {
    "id": "RES#1405:1702d",
@@ -3217,8 +3312,9 @@
    "jp": "{1c:23}{0b:08}【 イヴ 】{0b:09}\n{0b:05}{14}1人のために\n世界を魔物に売るの?\n愛の力って偉大ね。感動しちゃうわ。{1a}そうね・・・\nあたしも一緒に行こうかしら。\n退屈しなくてすみそうだし。{0c:fe}",
    "read": "{1c:23}{0b:08}【 イヴ 】{0b:09}\n{0b:05}{14}1人のために\n世界を魔物に売るの?\n愛の力って偉大ね。感動しちゃうわ。{1a}そうね・・・\nあたしも一緒に行こうかしら。\n退屈しなくてすみそうだし。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:23}{0b:08}【 Eve 】{0b:09}\n{0b:05}You would sell the world to the monsters\nfor {14} alone? The\npower of love is a great thing, isn't it.{1a}I'm moved.{1a}Well... perhaps I should go along too, I\nwonder. It should keep me from getting\nbored.{0c:fe}",
+   "status": "done",
+   "tl": "You would sell the world to the monsters for [VAR14] alone? The power of love is a great thing, isn't it. I'm moved. // Well... perhaps I should go along too, I wonder. It should keep me from getting bored."
   },
   {
    "id": "RES#1405:170b6",
@@ -3250,8 +3346,9 @@
    "jp": "{1c:23}{0b:08}【 イヴ 】{0b:09}\nへえ・・・意外ね。\nあなたが正論を吐くなんて。{1a}つまらないから帰るわ。{0c:fe}",
    "read": "{1c:23}{0b:08}【 イヴ 】{0b:09}\nへえ・・・意外ね。\nあなたが正論を吐くなんて。{1a}つまらないから帰るわ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:23}{0b:08}【 Eve 】{0b:09}\nWell... that's a surprise. You, of all people,\nspouting sound logic.{1a}How dull. I'm going home.{0c:fe}",
+   "status": "done",
+   "tl": "Well... that's a surprise. You, of all people, spouting sound logic. // How dull. I'm going home."
   },
   {
    "id": "RES#1405:17116",
@@ -3283,8 +3380,9 @@
    "jp": "{0c:521008}{1c:23}{0b:08}【 イヴ 】{0b:09}\n顔は興味津々に見えるけど?\nま、どっちでもいいけどね。{0c:02fe01}",
    "read": "{0c:521008}{1c:23}{0b:08}【 イヴ 】{0b:09}\n顔は興味津々に見えるけど?\nま、どっちでもいいけどね。{0c:02fe01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521008}{1c:23}{0b:08}【 Eve 】{0b:09}\nYour face looks awfully curious, though?\nWell, it's all the same to me.{0c:02fe01}",
+   "status": "done",
+   "tl": "Your face looks awfully curious, though? Well, it's all the same to me."
   },
   {
    "id": "RES#1405:17187",
@@ -3316,8 +3414,9 @@
    "jp": "{0b:08}【 ディアス 】{0b:09}\n参考までに聞いておく。{1a}仲間1人の死か、世界の破滅か・・・\n貴様はどちらを選択するつもりだ?{0c:fe}",
    "read": "{0b:08}【 ディアス 】{0b:09}\n参考までに聞いておく。{1a}仲間1人の死か、世界の破滅か・・・\n貴様はどちらを選択するつもりだ?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Dias 】{0b:09}\nI ask for reference only.{1a}The death of one comrade, or the ruin\nof the world... Which do you mean to\nchoose?{0c:fe}",
+   "status": "done",
+   "tl": "I ask for reference only. // The death of one comrade, or the ruin of the world... Which do you mean to choose?"
   },
   {
    "id": "RES#1405:17229",
@@ -3338,8 +3437,9 @@
    "jp": "もちろん仲間を助けに行くよ|悔しいけど奴のことは諦めるよ|どちらも興味ないな",
    "read": "もちろん仲間を助けに行くよ|悔しいけど奴のことは諦めるよ|どちらも興味ないな",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Of course I'll go save my friend|It hurts, but I'll give up on them|Neither interests me",
+   "status": "done",
+   "tl": "Of course I'll go save my friend|It hurts, but I'll give up on them|Neither interests me"
   },
   {
    "id": "RES#1405:17264",
@@ -3371,8 +3471,9 @@
    "jp": "もちろん仲間を助けに行くわ|悔しいけど諦めるしかないわ|どちらも興味ないわね",
    "read": "もちろん仲間を助けに行くわ|悔しいけど諦めるしかないわ|どちらも興味ないわね",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Of course I'll go save my friend|It hurts, but we have to give up|Neither interests me",
+   "status": "done",
+   "tl": "Of course I'll go save my friend|It hurts, but we have to give up|Neither interests me"
   },
   {
    "id": "RES#1405:1729f",
@@ -3404,8 +3505,9 @@
    "jp": "{0b:08}【 ディアス 】{0b:09}\n貴様らしい単純な選択だ。{1a}だが、こちらも柱の破壊後に\n興味がある。{1a}目的は異なるが、\n手段と課程は一致する。\n行動を共にしよう。{0c:fe}",
    "read": "{0b:08}【 ディアス 】{0b:09}\n貴様らしい単純な選択だ。{1a}だが、こちらも柱の破壊後に\n興味がある。{1a}目的は異なるが、\n手段と課程は一致する。\n行動を共にしよう。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Dias 】{0b:09}\nA simple choice, just like you.{1a}However, what follows the pillar's\ndestruction interests me as well.{1a}Our aims differ, but our means and our\npath are the same. We shall act\ntogether.{0c:fe}",
+   "status": "done",
+   "tl": "A simple choice, just like you. // However, what follows the pillar's destruction interests me as well. // Our aims differ, but our means and our path are the same. We shall act together."
   },
   {
    "id": "RES#1405:1731f",
@@ -3437,8 +3539,9 @@
    "jp": "{0b:08}【 ディアス 】{0b:09}\n意外だな。\n貴様にそのような分別があるとは。{0c:fe}",
    "read": "{0b:08}【 ディアス 】{0b:09}\n意外だな。\n貴様にそのような分別があるとは。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Dias 】{0b:09}\nSurprising. I did not think you had such\ndiscretion.{0c:fe}",
+   "status": "done",
+   "tl": "Surprising. I did not think you had such discretion."
   },
   {
    "id": "RES#1405:17372",
@@ -3470,8 +3573,9 @@
    "jp": "{0b:08}【 ディアス 】{0b:09}\n同感だ。{0c:02fe01}",
    "read": "{0b:08}【 ディアス 】{0b:09}\n同感だ。{0c:02fe01}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0b:08}【 Dias 】{0b:09}\nAgreed.{0c:02fe01}",
+   "status": "done",
+   "tl": "Agreed."
   },
   {
    "id": "RES#1405:173c1",
@@ -3503,8 +3607,9 @@
    "jp": "{1c:24}{0b:08}【 ノエル 】{0b:09}\n{10}・・・\nあたしは助けに行くわ。{1a}仲間意識なんて感情が\n自分にあまりないのも\n分かっているつもりだし、{1a}{0b:05}{14}の魂を救うことが、\n偽善的な感情に流された\n愚かな選択だってことも\n充分理解しているつもり。{1a}それでもあたしは助けに行きたい。\nあたしはもう後悔したくないの。{0c:fe}",
    "read": "{1c:24}{0b:08}【 ノエル 】{0b:09}\n{10}・・・\nあたしは助けに行くわ。{1a}仲間意識なんて感情が\n自分にあまりないのも\n分かっているつもりだし、{1a}{0b:05}{14}の魂を救うことが、\n偽善的な感情に流された\n愚かな選択だってことも\n充分理解しているつもり。{1a}それでもあたしは助けに行きたい。\nあたしはもう後悔したくないの。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:24}{0b:08}【 Noel 】{0b:09}\n{10}... I'm going to go save them.{1a}I know perfectly well I don't have much\nfeeling for comrades,{1a}and that saving {0b:05}{14}'s\nsoul is a foolish choice, swept along by\nhypocritical sentiment. I understand that\nwell enough.{1a}Even so, I want to go save them. I don't\nwant any more regrets.{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]... I'm going to go save them. // I know perfectly well I don't have much feeling for comrades, // and that saving [1][VAR14]'s soul is a foolish choice, swept along by hypocritical sentiment. I understand that well enough. // Even so, I want to go save them. I don't want any more regrets."
   },
   {
    "id": "RES#1405:174cb",
@@ -3525,8 +3630,9 @@
    "jp": "一緒に助けに行こう、ノエル|いや、奴のことは諦めるべきだ|そんな話興味ないな",
    "read": "一緒に助けに行こう、ノエル|いや、奴のことは諦めるべきだ|そんな話興味ないな",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Let's go save them together, Noel|No, we should give up on them|Not interested in that",
+   "status": "done",
+   "tl": "Let's go save them together, Noel|No, we should give up on them|Not interested in that"
   },
   {
    "id": "RES#1405:17507",
@@ -3558,8 +3664,9 @@
    "jp": "一緒に助けに行こうよ、ノエル|いいえ、悔しくても諦めるしかないわ|そんな話、興味ないわ",
    "read": "一緒に助けに行こうよ、ノエル|いいえ、悔しくても諦めるしかないわ|そんな話、興味ないわ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Let's go save them together, Noel|No, it hurts, but we have to give up|Not interested in that",
+   "status": "done",
+   "tl": "Let's go save them together, Noel|No, it hurts, but we have to give up|Not interested in that"
   },
   {
    "id": "RES#1405:17549",
@@ -3591,8 +3698,9 @@
    "jp": "{1c:25}{0b:08}【 ノエル 】{0b:09}\nありがとう、{10}・・・\nじゃあ行きましょ。{0c:fe}",
    "read": "{1c:25}{0b:08}【 ノエル 】{0b:09}\nありがとう、{10}・・・\nじゃあ行きましょ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:25}{0b:08}【 Noel 】{0b:09}\nThank you, {10}... Well then, let's\ngo.{0c:fe}",
+   "status": "done",
+   "tl": "Thank you, [HERO]... Well then, let's go."
   },
   {
    "id": "RES#1405:17587",
@@ -3624,8 +3732,9 @@
    "jp": "{1c:24}{0b:08}【 ノエル 】{0b:09}\nあなたの判断の方が\n理にかなってるのはわかってる。{1a}・・・でもあたしは行きたいの。{0c:fe}",
    "read": "{1c:24}{0b:08}【 ノエル 】{0b:09}\nあなたの判断の方が\n理にかなってるのはわかってる。{1a}・・・でもあたしは行きたいの。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:24}{0b:08}【 Noel 】{0b:09}\nI know your judgment makes more sense.{1a}...But I want to go.{0c:fe}",
+   "status": "done",
+   "tl": "I know your judgment makes more sense. // ...But I want to go."
   },
   {
    "id": "RES#1405:175ed",
@@ -3657,8 +3766,9 @@
    "jp": "{1c:26}{0b:08}【 ノエル 】{0b:09}\nそうね・・・{07:14}昔のあたしなら\n同じ事を思ってたわ。{07:05}{1a}・・・でもあたしは行きたいの。{07:05}{0c:fe}",
    "read": "{1c:26}{0b:08}【 ノエル 】{0b:09}\nそうね・・・{07:14}昔のあたしなら\n同じ事を思ってたわ。{07:05}{1a}・・・でもあたしは行きたいの。{07:05}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:26}{0b:08}【 Noel 】{0b:09}\nI suppose so... {07:14}The old me would have\nthought the same thing.{07:05}{1a}...But I want to go.{07:05}{0c:fe}",
+   "status": "done",
+   "tl": "I suppose so... [1]The old me would have thought the same thing.[2] // ...But I want to go."
   },
   {
    "id": "RES#1405:1766c",
@@ -3701,8 +3811,9 @@
    "jp": "・・・・・・\n助けて・・・お姉ちゃんを・・・{0c:fe}",
    "read": "・・・・・・\n助けて・・・お姉ちゃんを・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "...... Save... my big sister...{0c:fe}",
+   "status": "done",
+   "tl": "...... Save... my big sister..."
   },
   {
    "id": "RES#1405:176ff",
@@ -3723,8 +3834,9 @@
    "jp": "1) ああ、助けに行こう|2) 残念だが彼女のことは諦めた方がいい|3) 興味ない",
    "read": "1) ああ、助けに行こう|2) 残念だが彼女のことは諦めた方がいい|3) 興味ない",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "1) Yes, let's go save her|2) Sadly, we should give up on her|3) Not interested",
+   "status": "done",
+   "tl": "1) Yes, let's go save her|2) Sadly, we should give up on her|3) Not interested"
   },
   {
    "id": "RES#1405:17744",
@@ -3756,8 +3868,9 @@
    "jp": "1) うん、一緒に助けに行こ!|2) 残念だけど助けるのは諦めた方がいい|3) 興味ない",
    "read": "1) うん、一緒に助けに行こ!|2) 残念だけど助けるのは諦めた方がいい|3) 興味ない",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "1) Okay, let's go save her together!|2) Sadly, we should give up on her|3) Not interested",
+   "status": "done",
+   "tl": "1) Okay, let's go save her together!|2) Sadly, we should give up on her|3) Not interested"
   },
   {
    "id": "RES#1405:1778f",
@@ -3902,8 +4015,9 @@
    "jp": "あたし、みんな大好きだよ。{1a}みんなと出会えて本当によかった。\nみんなにいろんな事教えてもらった。\nだから少しでも恩返しがしたいの。{1a}{10}・・・\nあたしは{0b:05}{14}を\n助けてあげたい。{1a}{0c:521008}どんなに危険な賭けでも、\nたとえ世界を滅ぼすことになっても、\n友達を見捨てるなんて絶対に嫌だよ。{0c:fe}",
    "read": "あたし、みんな大好きだよ。{1a}みんなと出会えて本当によかった。\nみんなにいろんな事教えてもらった。\nだから少しでも恩返しがしたいの。{1a}{10}・・・\nあたしは{0b:05}{14}を\n助けてあげたい。{1a}{0c:521008}どんなに危険な賭けでも、\nたとえ世界を滅ぼすことになっても、\n友達を見捨てるなんて絶対に嫌だよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I love everyone, I really do.{1a}I'm so glad I met you all. You all taught\nme so many things. That's why I want to\npay you back, even a little.{1a}{10}... I want to save\n{0b:05}{14}.{1a}{0c:521008}No matter how dangerous the gamble,\neven if it ends up destroying the world, I\nwon't ever abandon a friend. I just won't.{0c:fe}",
+   "status": "done",
+   "tl": "I love everyone, I really do. // I'm so glad I met you all. You all taught me so many things. That's why I want to pay you back, even a little. // [HERO]... I want to save [1][VAR14]. // [2]No matter how dangerous the gamble, even if it ends up destroying the world, I won't ever abandon a friend. I just won't."
   },
   {
    "id": "RES#1405:17938",
@@ -3924,8 +4038,9 @@
    "jp": "1) ああ、一緒に助けよう|2) 残念だが奴のことは諦めた方がいい|3) 興味ない",
    "read": "1) ああ、一緒に助けよう|2) 残念だが奴のことは諦めた方がいい|3) 興味ない",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "1) Yes, let's save them together|2) Sadly, we should give up on them|3) Not interested",
+   "status": "done",
+   "tl": "1) Yes, let's save them together|2) Sadly, we should give up on them|3) Not interested"
   },
   {
    "id": "RES#1405:1797d",
@@ -3957,8 +4072,9 @@
    "jp": "1) うん、一緒に助けようよ|2) 残念だけど助けるのは諦めた方がいい|3) 興味ない",
    "read": "1) うん、一緒に助けようよ|2) 残念だけど助けるのは諦めた方がいい|3) 興味ない",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "1) Okay, let's save them together|2) Sadly, we should give up on them|3) Not interested",
+   "status": "done",
+   "tl": "1) Okay, let's save them together|2) Sadly, we should give up on them|3) Not interested"
   },
   {
    "id": "RES#1405:179c5",
@@ -3990,8 +4106,9 @@
    "jp": "{0c:521808}ありがと、{10}。\n一緒にがんばろ!{0c:fe}",
    "read": "{0c:521808}ありがと、{10}。\n一緒にがんばろ!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521808}Thanks, {10}. Let's do our best\ntogether!{0c:fe}",
+   "status": "done",
+   "tl": "Thanks, [HERO]. Let's do our best together!"
   },
   {
    "id": "RES#1405:179ef",
@@ -4023,8 +4140,9 @@
    "jp": "{10}の言いたいことも\nよく分かるよ。{1a}でもごめん・・・\nやっぱりあたし助けに行く。{0c:fe}",
    "read": "{10}の言いたいことも\nよく分かるよ。{1a}でもごめん・・・\nやっぱりあたし助けに行く。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I understand what you mean too,\n{10}.{1a}But I'm sorry... I'm still going to go save\nthem.{0c:fe}",
+   "status": "done",
+   "tl": "I understand what you mean too, [HERO]. // But I'm sorry... I'm still going to go save them."
   },
   {
    "id": "RES#1405:17a41",
@@ -4056,8 +4174,9 @@
    "jp": "本心じゃないよね。\nあたしは{10}信じてるよ。{0c:fe}",
    "read": "本心じゃないよね。\nあたしは{10}信じてるよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "You don't really mean that, right? I\nbelieve in you, {10}.{0c:fe}",
+   "status": "done",
+   "tl": "You don't really mean that, right? I believe in you, [HERO]."
   },
   {
    "id": "RES#1405:17a93",
@@ -4100,8 +4219,9 @@
    "jp": "{10}・・・\nあたしはマレフィクスを助けたい。{1a}マレフィクスを助けることで\n世界中が不幸になったとしても、\nそれでもあたしは\nマレフィクスを助けたい・・・{1a}勝手な言いぐさなのはわかってる。\nでも・・・それでも、\nあたしはマレフィクスを\n守ってあげたい・・・{0c:fe}",
    "read": "{10}・・・\nあたしはマレフィクスを助けたい。{1a}マレフィクスを助けることで\n世界中が不幸になったとしても、\nそれでもあたしは\nマレフィクスを助けたい・・・{1a}勝手な言いぐさなのはわかってる。\nでも・・・それでも、\nあたしはマレフィクスを\n守ってあげたい・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{10}... I want to save Maleficus.{1a}Even if saving Maleficus brings misery on\nthe whole world, I still want to save\nMaleficus...{1a}I know how selfish that sounds. But...\neven so, I want to protect Maleficus...{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]... I want to save Maleficus. // Even if saving Maleficus brings misery on the whole world, I still want to save Maleficus... // I know how selfish that sounds. But... even so, I want to protect Maleficus..."
   },
   {
    "id": "RES#1405:17ba0",
@@ -4122,8 +4242,9 @@
    "jp": "1) ああ、一緒に助けよう|2) 残念だが奴のことは諦めた方がいい|3) 興味ない",
    "read": "1) ああ、一緒に助けよう|2) 残念だが奴のことは諦めた方がいい|3) 興味ない",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "1) Yes, let's save them together|2) Sadly, we should give up on them|3) Not interested",
+   "status": "done",
+   "tl": "1) Yes, let's save them together|2) Sadly, we should give up on them|3) Not interested"
   },
   {
    "id": "RES#1405:17be5",
@@ -4155,8 +4276,9 @@
    "jp": "1) うん、一緒に助けようよ|2) 残念だけど助けるのは諦めた方がいい|3) 興味ない",
    "read": "1) うん、一緒に助けようよ|2) 残念だけど助けるのは諦めた方がいい|3) 興味ない",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "1) Okay, let's save them together|2) Sadly, we should give up on them|3) Not interested",
+   "status": "done",
+   "tl": "1) Okay, let's save them together|2) Sadly, we should give up on them|3) Not interested"
   },
   {
    "id": "RES#1405:17c2d",
@@ -4188,8 +4310,9 @@
    "jp": "{0c:521808}ありがとう、{10}・・・\n本当にありがとう。{0c:fe}",
    "read": "{0c:521808}ありがとう、{10}・・・\n本当にありがとう。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521808}Thank you, {10}... Truly, thank you.{0c:fe}",
+   "status": "done",
+   "tl": "Thank you, [HERO]... Truly, thank you."
   },
   {
    "id": "RES#1405:17c5a",
@@ -4221,8 +4344,9 @@
    "jp": "{10}の言うことが\n正しいってこともわかってる。\n{0c:5120}でも・・・{1a}あたし勝手だよね。\n自分の弟のために、\nもっと大勢の人を\n苦しめようとしてる・・・{1a}{0c:5108}でも・・・\nやっぱりマレフィクスを\n見殺しにはできないよ・・・{0c:fe}",
    "read": "{10}の言うことが\n正しいってこともわかってる。\n{0c:5120}でも・・・{1a}あたし勝手だよね。\n自分の弟のために、\nもっと大勢の人を\n苦しめようとしてる・・・{1a}{0c:5108}でも・・・\nやっぱりマレフィクスを\n見殺しにはできないよ・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I know that what you say is right too,\n{10}. {0c:5120}But...{1a}I'm selfish, aren't I? For my own little\nbrother's sake, I'm trying to bring\nsuffering on so many more people...{1a}{0c:5108}But... I still can't let Maleficus die...{0c:fe}",
+   "status": "done",
+   "tl": "I know that what you say is right too, [HERO]. [1]But... // I'm selfish, aren't I? For my own little brother's sake, I'm trying to bring suffering on so many more people... // [2]But... I still can't let Maleficus die..."
   },
   {
    "id": "RES#1405:17cfd",
@@ -4299,8 +4423,9 @@
    "jp": "{1c:28}{0b:08}【 ルカ 】{0b:09}\n{10}さん、\nわたし達はどうすれば\nいいのでしょうか・・・{1a}{0c:521820}{0b:05}{14}さんを助ければ\n世界中が今以上の混乱に襲われ、{1a}かといってそれを防ぐには\n{0b:05}{14}さんを見殺しに\nしなければならない・・・{1a}アノイアの教えに関わる者としては\n人類全体の幸福を願わなければ\nならないのでしょうが、{1a}わたし個人としては、\n{0b:05}{14}さんを犠牲にするなんて\n目をつぶることが\n出来ないのです・・・{0c:fe}",
    "read": "{1c:28}{0b:08}【 ルカ 】{0b:09}\n{10}さん、\nわたし達はどうすれば\nいいのでしょうか・・・{1a}{0c:521820}{0b:05}{14}さんを助ければ\n世界中が今以上の混乱に襲われ、{1a}かといってそれを防ぐには\n{0b:05}{14}さんを見殺しに\nしなければならない・・・{1a}アノイアの教えに関わる者としては\n人類全体の幸福を願わなければ\nならないのでしょうが、{1a}わたし個人としては、\n{0b:05}{14}さんを犠牲にするなんて\n目をつぶることが\n出来ないのです・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:28}{0b:08}【 Luca 】{0b:09}\n{10}-san, what should we do...{1a}If we save {0c:521820}{0b:05}{14}-san, the\nwhole world will be struck by even\ngreater chaos,{1a}yet to prevent that, we must let\n{0b:05}{14}-san die...{1a}As one involved in Anoia's teachings, I\nought to wish for the happiness of all\nhumanity,{1a}but speaking for myself, I cannot shut\nmy eyes to sacrificing\n{0b:05}{14}-san...{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]-san, what should we do... // If we save [1][VAR14]-san, the whole world will be struck by even greater chaos, // yet to prevent that, we must let [2][VAR14]-san die... // As one involved in Anoia's teachings, I ought to wish for the happiness of all humanity, // but speaking for myself, I cannot shut my eyes to sacrificing [3][VAR14]-san..."
   },
   {
    "id": "RES#1405:17ea4",
@@ -4321,8 +4446,9 @@
    "jp": "一緒に助けに行こう、ルカ!|いや、残念だけど諦めるしかない|興味ないな",
    "read": "一緒に助けに行こう、ルカ!|いや、残念だけど諦めるしかない|興味ないな",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Let's go save them together, Luca!|No, sadly we have to give up|Not interested",
+   "status": "done",
+   "tl": "Let's go save them together, Luca!|No, sadly we have to give up|Not interested"
   },
   {
    "id": "RES#1405:17ede",
@@ -4354,8 +4480,9 @@
    "jp": "一緒に助けに行こうよ、ルカ!|残念だけど諦めるしかないわ|興味ないわね",
    "read": "一緒に助けに行こうよ、ルカ!|残念だけど諦めるしかないわ|興味ないわね",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Let's go save them together, Luca!|Sadly, we have to give up|Not interested",
+   "status": "done",
+   "tl": "Let's go save them together, Luca!|Sadly, we have to give up|Not interested"
   },
   {
    "id": "RES#1405:17f19",
@@ -4387,8 +4514,9 @@
    "jp": "{0c:5128}{1c:27}{0b:08}【 ルカ 】{0b:09}\n{10}さんも\n同じ考えなのですか!?{1a}う、うれしいです。\n一緒に行きましょう。{0c:fe}",
    "read": "{0c:5128}{1c:27}{0b:08}【 ルカ 】{0b:09}\n{10}さんも\n同じ考えなのですか!?{1a}う、うれしいです。\n一緒に行きましょう。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5128}{1c:27}{0b:08}【 Luca 】{0b:09}\nYou feel the same way,\n{10}-san!?{1a}I-I am so glad. Let us go together.{0c:fe}",
+   "status": "done",
+   "tl": "You feel the same way, [HERO]-san!? // I-I am so glad. Let us go together."
   },
   {
    "id": "RES#1405:17f71",
@@ -4420,8 +4548,9 @@
    "jp": "{1c:28}{0b:08}【 ルカ 】{0b:09}\nそ、そうですよね・・・{07:19}{1a}でも・・・{07:0f}{1a}{0c:5130}ごめんなさい・・・{07:05}\nやっぱりわたしは・・・{07:05}{0c:fe}",
    "read": "{1c:28}{0b:08}【 ルカ 】{0b:09}\nそ、そうですよね・・・{07:19}{1a}でも・・・{07:0f}{1a}{0c:5130}ごめんなさい・・・{07:05}\nやっぱりわたしは・・・{07:05}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:28}{0b:08}【 Luca 】{0b:09}\nY-yes, of course...{07:19}{1a}But...{07:0f}{1a}{0c:5130}I am sorry...{07:05} I still...{07:05}{0c:fe}",
+   "status": "done",
+   "tl": "Y-yes, of course...[1] // But...[2] // [3]I am sorry...[4] I still..."
   },
   {
    "id": "RES#1405:17fdb",
@@ -4453,8 +4582,9 @@
    "jp": "{1c:29}{0b:08}【 ルカ 】{0b:09}\nそ、そんな・・・{07:19}{1a}{0c:5130}わ、わかりました・・・{07:0f}\nこ、怖いですけど、\nわたし1人でも探しきます!!{07:05}{0c:fe}",
    "read": "{1c:29}{0b:08}【 ルカ 】{0b:09}\nそ、そんな・・・{07:19}{1a}{0c:5130}わ、わかりました・・・{07:0f}\nこ、怖いですけど、\nわたし1人でも探しきます!!{07:05}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:29}{0b:08}【 Luca 】{0b:09}\nTh-that cannot be...{07:19}{1a}{0c:5130}U-understood...{07:0f} It is s-scary, but I will go\nsearch, even if I must go alone!!{07:05}{0c:fe}",
+   "status": "done",
+   "tl": "Th-that cannot be...[1] // [2]U-understood...[3] It is s-scary, but I will go search, even if I must go alone!!"
   },
   {
    "id": "RES#1405:18068",
@@ -4497,8 +4627,9 @@
    "jp": "{1c:2b}{0b:08}【 サラ 】{0b:09}\n{10}さん・・・\n大変なこと聞いちゃったね。{1a}{0b:05}{14}さんを助けたら、\nまた世界中に魔物が\n現れるかもしれないなんて・・・{1a}でも、あたしやっぱり\n{0b:05}{14}さんを助けに行きたい。{1a}柱を壊したら魔物が現れるって話も\n絶対ってわけじゃないんだよね。{1a}それに、クムランさんも\nがんばってくれるんだから、\nうまくいくことだけを信じようよ。{1a}{0c:521008}大丈夫、きっとうまくいくよ!{0c:fe}",
    "read": "{1c:2b}{0b:08}【 サラ 】{0b:09}\n{10}さん・・・\n大変なこと聞いちゃったね。{1a}{0b:05}{14}さんを助けたら、\nまた世界中に魔物が\n現れるかもしれないなんて・・・{1a}でも、あたしやっぱり\n{0b:05}{14}さんを助けに行きたい。{1a}柱を壊したら魔物が現れるって話も\n絶対ってわけじゃないんだよね。{1a}それに、クムランさんも\nがんばってくれるんだから、\nうまくいくことだけを信じようよ。{1a}{0c:521008}大丈夫、きっとうまくいくよ!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:2b}{0b:08}【 Sara 】{0b:09}\n{10}-san... That was an awful\nthing to hear, wasn't it.{1a}If we save {0b:05}{14}-san,\nmonsters might show up all over the\nworld again...{1a}But I still want to go save\n{0b:05}{14}-san.{1a}And that part about monsters showing\nup when you break the pillar isn't for\nsure, right?{1a}Besides, Qumran-san's working hard too,\nso let's just believe it'll all turn out okay.{1a}{0c:521008}It'll be all right. It's sure to work out,\nokay?{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]-san... That was an awful thing to hear, wasn't it. // If we save [1][VAR14]-san, monsters might show up all over the world again... // But I still want to go save [2][VAR14]-san. // And that part about monsters showing up when you break the pillar isn't for sure, right? // Besides, Qumran-san's working hard too, so let's just believe it'll all turn out okay. // [3]It'll be all right. It's sure to work out, okay?"
   },
   {
    "id": "RES#1405:181c3",
@@ -4519,8 +4650,9 @@
    "jp": "ああ、一緒に助けに行こう|残念だが奴のことは諦めた方がいい|興味ないな",
    "read": "ああ、一緒に助けに行こう|残念だが奴のことは諦めた方がいい|興味ないな",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Yes, let's go save them together|Sadly, we should give up on them|Not interested",
+   "status": "done",
+   "tl": "Yes, let's go save them together|Sadly, we should give up on them|Not interested"
   },
   {
    "id": "RES#1405:181fd",
@@ -4552,8 +4684,9 @@
    "jp": "うん、一緒に助けに行こうよ|残念だけど助けるのは諦めた方がいい|興味ないわ",
    "read": "うん、一緒に助けに行こうよ|残念だけど助けるのは諦めた方がいい|興味ないわ",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "Okay, let's go save them together|Sadly, we should give up on them|Not interested",
+   "status": "done",
+   "tl": "Okay, let's go save them together|Sadly, we should give up on them|Not interested"
   },
   {
    "id": "RES#1405:1823a",
@@ -4619,8 +4752,9 @@
    "jp": "{0c:5118}{1c:2c}{0b:08}【 サラ 】{0b:09}\nでも・・・{07:19}{1a}ごめんなさい・・・{07:0f}\nあたし1人でも行ってくる。{07:05}{0c:fe}",
    "read": "{0c:5118}{1c:2c}{0b:08}【 サラ 】{0b:09}\nでも・・・{07:19}{1a}ごめんなさい・・・{07:0f}\nあたし1人でも行ってくる。{07:05}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5118}{1c:2c}{0b:08}【 Sara 】{0b:09}\nBut...{07:19}{1a}I'm sorry...{07:0f} I'll go, even if it's just me.{07:05}{0c:fe}",
+   "status": "done",
+   "tl": "But...[1] // I'm sorry...[2] I'll go, even if it's just me."
   },
   {
    "id": "RES#1405:182cf",
@@ -4652,8 +4786,9 @@
    "jp": "{0c:5108}{1c:2c}{0b:08}【 サラ 】{0b:09}\n{10}さん・{07:05}・{07:05}・{07:14}{1a}あたし1人でも行ってくる。{07:05}{0c:fe}",
    "read": "{0c:5108}{1c:2c}{0b:08}【 サラ 】{0b:09}\n{10}さん・{07:05}・{07:05}・{07:14}{1a}あたし1人でも行ってくる。{07:05}{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5108}{1c:2c}{0b:08}【 Sara 】{0b:09}\n{10}-san.{07:05}.{07:05}.{07:14}{1a}I'll go, even if it's just me.{07:05}{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]-san.[1].[2].[3] // I'll go, even if it's just me."
   },
   {
    "id": "RES#1405:18343",

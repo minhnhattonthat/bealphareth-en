@@ -52,8 +52,9 @@
    "jp": "{1c:1e}{0b:08}{e080} 聖者ウェルカイル {e081}{0b:09}\nくっ、誰だ!?{0c:fe}",
    "read": "{1c:1e}{0b:08}【 聖者ウェルカイル 】{0b:09}\nくっ、誰だ!?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}{0b:08}【 Saint Welkail 】{0b:09}\nNgh, who is there!?{0c:fe}",
+   "status": "done",
+   "tl": "Ngh, who is there!?"
   },
   {
    "id": "RES#1956:88d1",
@@ -74,8 +75,9 @@
    "jp": "{0c:52b0b8}{1c:16}{0b:08}{e080} 不死者ファトゥム {e081}{0b:09}\nやはり届かぬか・・・{0c:2b5a09fe}",
    "read": "{0c:52b0b8}{1c:16}{0b:08}【 不死者ファトゥム 】{0b:09}\nやはり届かぬか・・・{0c:2b5a09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52b0b8}{1c:16}{0b:08}【 Fatum the Undying 】{0b:09}\nSo it falls short after all...{0c:2b5a09fe}",
+   "status": "done",
+   "tl": "So it falls short after all..."
   },
   {
    "id": "RES#1956:8924",
@@ -85,8 +87,9 @@
    "jp": "{0c:2b5a2351502b561000}{0c:2b592351402b561000}{1c:1e}{0b:08}{e080} 聖者ウェルカイル {e081}{0b:09}\nな、何故ここに!?{0c:2b5809fe}",
    "read": "{0c:2b5a2351502b561000}{0c:2b592351402b561000}{1c:1e}{0b:08}【 聖者ウェルカイル 】{0b:09}\nな、何故ここに!?{0c:2b5809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b5a2351502b561000}{0c:2b592351402b561000}{1c:1e}{0b:08}【 Saint Welkail 】{0b:09}\nWh-why are you here!?{0c:2b5809fe}",
+   "status": "done",
+   "tl": "Wh-why are you here!?"
   },
   {
    "id": "RES#1956:8966",
@@ -96,8 +99,9 @@
    "jp": "{0c:2b582351182b5a1000}{1c:1b}{0b:08}{e080} 聖者バルカイル {e081}{0b:09}\nうろたえるな、ウェルカイル。\n奴は魂を持たぬ人{e083}・・・\nどう足掻こうが悪魔にはなれぬ。{0c:2b5609fe}",
    "read": "{0c:2b582351182b5a1000}{1c:1b}{0b:08}【 聖者バルカイル 】{0b:09}\nうろたえるな、ウェルカイル。\n奴は魂を持たぬ人形・・・\nどう足掻こうが悪魔にはなれぬ。{0c:2b5609fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b582351182b5a1000}{1c:1b}{0b:08}【 Saint Barkail 】{0b:09}\nBe not dismayed, Welkail. That one is a\npuppet with no soul... Struggle as it may,\nit can never become the Devil.{0c:2b5609fe}",
+   "status": "done",
+   "tl": "Be not dismayed, Welkail. That one is a puppet with no soul... Struggle as it may, it can never become the Devil."
   },
   {
    "id": "RES#1956:89c6",
@@ -107,8 +111,9 @@
    "jp": "{1c:16}{0b:08}{e080} 不死者ファトゥム {e081}{0b:09}\n余裕だな。\nもう神になったつもりか?{0c:2b5609fe}",
    "read": "{1c:16}{0b:08}【 不死者ファトゥム 】{0b:09}\n余裕だな。\nもう神になったつもりか?{0c:2b5609fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:16}{0b:08}【 Fatum the Undying 】{0b:09}\nYou seem at ease. Think you are a god\nalready?{0c:2b5609fe}",
+   "status": "done",
+   "tl": "You seem at ease. Think you are a god already?"
   },
   {
    "id": "RES#1956:89fd",
@@ -129,8 +134,9 @@
    "jp": "{1c:17}{10}、この{e084}を持て!\nこれで奴の心臓を{e086}け!{0c:2b5709fe}",
    "read": "{1c:17}{10}、この槍を持て!\nこれで奴の心臓を貫け!{0c:2b5709fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{10}, take this spear! Drive it\nthrough that one's heart!{0c:2b5709fe}",
+   "status": "done",
+   "tl": "[HERO], take this spear! Drive it through that one's heart!"
   },
   {
    "id": "RES#1956:8a60",
@@ -140,8 +146,9 @@
    "jp": "{0c:51082b561000}{1c:19}{0b:08}{e080} 聖者アヴァダイル {e081}{0b:09}\n残念だが\nまだ預言者は殺させない。{1a}{0c:2b562351d02b571000}世{e088}を紡ぐ者は我{e08a}であって\n預言者も、そして悪魔も\nそのための道具に過ぎないのだから。{0c:2b5a09fe}",
    "read": "{0c:51082b561000}{1c:19}{0b:08}【 聖者アヴァダイル 】{0b:09}\n残念だが\nまだ預言者は殺させない。{1a}{0c:2b562351d02b571000}世界を紡ぐ者は我々であって\n預言者も、そして悪魔も\nそのための道具に過ぎないのだから。{0c:2b5a09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b561000}{1c:19}{0b:08}【 Saint Avadail 】{0b:09}\nRegrettably, I will not let you kill the\nProphet yet.{1a}{0c:2b562351d02b571000}It is we who spin the world. The Prophet,\nand the Devil too, are no more than\ntools to that end.{0c:2b5a09fe}",
+   "status": "done",
+   "tl": "Regrettably, I will not let you kill the Prophet yet. // [1]It is we who spin the world. The Prophet, and the Devil too, are no more than tools to that end."
   },
   {
    "id": "RES#1956:8ae4",
@@ -151,8 +158,9 @@
    "jp": "{1c:1d}{0b:08}{e080} 聖者ウェルカイル {e081}{0b:09}\n残念だったね。\n{0c:2b562351d02b5a1000}でも、予定外の存{e08c}は\n今ここで排除させてもらうよ。{0c:fe}",
    "read": "{1c:1d}{0b:08}【 聖者ウェルカイル 】{0b:09}\n残念だったね。\n{0c:2b562351d02b5a1000}でも、予定外の存在は\n今ここで排除させてもらうよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}{0b:08}【 Saint Welkail 】{0b:09}\nHow unfortunate for you. {0c:2b562351d02b5a1000}But I will be\nremoving this unplanned presence right\nhere and now.{0c:fe}",
+   "status": "done",
+   "tl": "How unfortunate for you. [1]But I will be removing this unplanned presence right here and now."
   },
   {
    "id": "RES#1956:8b37",
@@ -173,8 +181,9 @@
    "jp": "{1c:18}{0b:08}{e080} 不死者ファトゥム {e081}{0b:09}\nうぐっ!!{0c:2b5609fe}",
    "read": "{1c:18}{0b:08}【 不死者ファトゥム 】{0b:09}\nうぐっ!!{0c:2b5609fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Fatum the Undying 】{0b:09}\nUgh!!{0c:2b5609fe}",
+   "status": "done",
+   "tl": "Ugh!!"
   },
   {
    "id": "RES#1956:8b78",
@@ -184,8 +193,9 @@
    "jp": "{1c:18}や、{e084}を!!{0c:2b5109027901}",
    "read": "{1c:18}や、槍を!!{0c:2b5109027901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}The s-spear!!{0c:2b5109027901}",
+   "status": "done",
+   "tl": "The s-spear!!"
   },
   {
    "id": "RES#1956:8b8b",
@@ -217,8 +227,9 @@
    "jp": "{1c:1b}{0b:08}{e080} 聖者{03}バルカイル {e081}{0b:09}\n{02}そ、そんな馬鹿な{01}!!{1a}何故{02}・・・\n何故こんなに容易く\n預言者の結{e088}が・・・{0c:fe}",
    "read": "{1c:1b}{0b:08}【 聖者{03}バルカイル 】{0b:09}\n{02}そ、そんな馬鹿な{01}!!{1a}何故{02}・・・\n何故こんなに容易く\n預言者の結界が・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Saint Barkail 】{0b:09}\nI-impossible!!{1a}Why... Why should the Prophet's barrier\nfall so easily...{0c:fe}",
+   "status": "done",
+   "tl": "I-impossible!! // Why... Why should the Prophet's barrier fall so easily..."
   },
   {
    "id": "RES#1956:8c74",
@@ -239,8 +250,9 @@
    "jp": "{1c:10}{0b:08}{e080} クムラン {e081}{0b:09}\nこれが人の力ですよ。{0c:2b5a09fe}",
    "read": "{1c:10}{0b:08}【 クムラン 】{0b:09}\nこれが人の力ですよ。{0c:2b5a09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Qumran 】{0b:09}\nThis is the strength of humankind.{0c:2b5a09fe}",
+   "status": "done",
+   "tl": "This is the strength of humankind."
   },
   {
    "id": "RES#1956:8ce5",
@@ -250,8 +262,9 @@
    "jp": "{0c:2b582351182b533c}{0c:2b592351402b533c}{0c:2b5a2351502b533c}{1c:1e}{0b:08}{e080} 聖者ウェルカイル {e081}{0b:09}\nば、馬鹿な!!\n第二の預言者の死は\nまだ先のはず・・・{0c:2b5309fe}",
    "read": "{0c:2b582351182b533c}{0c:2b592351402b533c}{0c:2b5a2351502b533c}{1c:1e}{0b:08}【 聖者ウェルカイル 】{0b:09}\nば、馬鹿な!!\n第二の預言者の死は\nまだ先のはず・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b582351182b533c}{0c:2b592351402b533c}{0c:2b5a2351502b533c}{1c:1e}{0b:08}【 Saint Welkail 】{0b:09}\nI-impossible!! The second Prophet's\ndeath is not due until later...{0c:2b5309fe}",
+   "status": "done",
+   "tl": "I-impossible!! The second Prophet's death is not due until later..."
   },
   {
    "id": "RES#1956:8d49",
@@ -261,8 +274,9 @@
    "jp": "{0c:51402b5a1000}{1c:10}{0b:08}{e080} クムラン {e081}{0b:09}\nあなた方の信じる運命よりも、\n仲間を思う心の方が強かった・・・{1a}使い古された言い回しですが、\nそう答えるほかありません。{0c:2b5809fe}",
    "read": "{0c:51402b5a1000}{1c:10}{0b:08}【 クムラン 】{0b:09}\nあなた方の信じる運命よりも、\n仲間を思う心の方が強かった・・・{1a}使い古された言い回しですが、\nそう答えるほかありません。{0c:2b5809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51402b5a1000}{1c:10}{0b:08}【 Qumran 】{0b:09}\nHearts that care for their companions\nproved stronger than the fate you\nbelieve in...{1a}It is a well-worn phrase, but I can give no\nother answer.{0c:2b5809fe}",
+   "status": "done",
+   "tl": "Hearts that care for their companions proved stronger than the fate you believe in... // It is a well-worn phrase, but I can give no other answer."
   },
   {
    "id": "RES#1956:8db6",
@@ -284,8 +298,9 @@
    "jp": "{0c:51402b581000}{1c:10}{0b:08}{e080} クムラン {e081}{0b:09}\n神や伝{e091}を否定すること、\nそれが私の{e093}き出した答です。{1a}あなた方の神も正義も{e094}実も\nもう私達には必要ありません。{0c:fe}",
    "read": "{0c:51402b581000}{1c:10}{0b:08}【 クムラン 】{0b:09}\n神や伝説を否定すること、\nそれが私の導き出した答です。{1a}あなた方の神も正義も真実も\nもう私達には必要ありません。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51402b581000}{1c:10}{0b:08}【 Qumran 】{0b:09}\nTo deny gods and legends: that is the\nanswer I have reached.{1a}Your god, your justice and your truth,\nwe have no more need of them.{0c:fe}",
+   "status": "done",
+   "tl": "To deny gods and legends: that is the answer I have reached. // Your god, your justice and your truth, we have no more need of them."
   },
   {
    "id": "RES#1956:8e4a",
@@ -318,8 +333,9 @@
    "jp": "{1c:11}{0b:08}{e080} クムラン {e081}{0b:09}\nアノイア{e095}を{e096}り、\n人{e08a}に1つの{e097}遍的な価値観を\n植え付けたのも、{1a}世{e088}中の人{e08a}に\n永遠の命という夢を見せたのも、{1a}すべては『{e09f}しい世{e088}』という{e0a0}の\n幻想を人{e0a2}に持たせるため・・・{0c:2b5809fe}",
    "read": "{1c:11}{0b:08}【 クムラン 】{0b:09}\nアノイア教を創り、\n人々に1つの普遍的な価値観を\n植え付けたのも、{1a}世界中の人々に\n永遠の命という夢を見せたのも、{1a}すべては『新しい世界』という名の\n幻想を人類に持たせるため・・・{0c:2b5809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Qumran 】{0b:09}\nYou founded the Anoian faith and\nplanted a single universal set of values in\npeople,{1a}you showed the whole world the dream\nof eternal life,{1a}and all of it was to give humankind the\nillusion called the 'New World'...{0c:2b5809fe}",
+   "status": "done",
+   "tl": "You founded the Anoian faith and planted a single universal set of values in people, // you showed the whole world the dream of eternal life, // and all of it was to give humankind the illusion called the 'New World'..."
   },
   {
    "id": "RES#1956:8f30",
@@ -329,8 +345,9 @@
    "jp": "{1c:1b}{0b:08}{e080} 聖者バルカイル {e081}{0b:09}\n幻想・・・だと?{0c:2b5309fe}",
    "read": "{1c:1b}{0b:08}【 聖者バルカイル 】{0b:09}\n幻想・・・だと?{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Saint Barkail 】{0b:09}\nIllusion... you say?{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Illusion... you say?"
   },
   {
    "id": "RES#1956:8f5a",
@@ -340,8 +357,9 @@
    "jp": "{0c:51502b581000}{1c:11}{0b:08}{e080} クムラン {e081}{0b:09}\n人{e0a2}{e0a3}{e0a4}の理想が存{e08c}することが\n悪いことだとは思いません。{1a}ですが、その幻想に縛られ\n{e0a6}人{e0a6}人の自由が無くなっては\nその理想もただの悪弊となります。{1a}まして、その実{e0a8}のために人の命を\n簡単に{e0a9}えたり奪うなど・・・\n私達はあなた方を断じて認めません!{0c:2b5809fe}",
    "read": "{0c:51502b581000}{1c:11}{0b:08}【 クムラン 】{0b:09}\n人類共通の理想が存在することが\n悪いことだとは思いません。{1a}ですが、その幻想に縛られ\n個人個人の自由が無くなっては\nその理想もただの悪弊となります。{1a}まして、その実現のために人の命を\n簡単に与えたり奪うなど・・・\n私達はあなた方を断じて認めません!{0c:2b5809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51502b581000}{1c:11}{0b:08}【 Qumran 】{0b:09}\nI do not say it is wrong for humanity to\nshare an ideal.{1a}But when that illusion binds people and\nstrips each one of their freedom, the\nideal becomes nothing but a blight.{1a}And to give and take human lives so\nlightly in order to achieve it... We will\nnever accept you!{0c:2b5809fe}",
+   "status": "done",
+   "tl": "I do not say it is wrong for humanity to share an ideal. // But when that illusion binds people and strips each one of their freedom, the ideal becomes nothing but a blight. // And to give and take human lives so lightly in order to achieve it... We will never accept you!"
   },
   {
    "id": "RES#1956:901e",
@@ -351,8 +369,9 @@
    "jp": "{1c:1b}{0b:08}{e080} 聖者バルカイル {e081}{0b:09}\n言いたいことはそれだけか、\n神に{e0aa}なす者{e0a3}め!{0c:fe}",
    "read": "{1c:1b}{0b:08}【 聖者バルカイル 】{0b:09}\n言いたいことはそれだけか、\n神に仇なす者共め!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Saint Barkail 】{0b:09}\nIs that all you have to say, you enemies\nof God!{0c:fe}",
+   "status": "done",
+   "tl": "Is that all you have to say, you enemies of God!"
   },
   {
    "id": "RES#1956:9057",
@@ -373,8 +392,9 @@
    "jp": "{1c:19}{0b:08}{e080} 聖者アヴァダイル {e081}{0b:09}\n約束{e0a4}り神と戦わせてやろう。\n来るがいい、『始原の地』へ。{0c:fe}",
    "read": "{1c:19}{0b:08}【 聖者アヴァダイル 】{0b:09}\n約束通り神と戦わせてやろう。\n来るがいい、『始原の地』へ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Saint Avadail 】{0b:09}\nAs promised, I will let you fight God.\nCome, then, to the 'Land of Origin'.{0c:fe}",
+   "status": "done",
+   "tl": "As promised, I will let you fight God. Come, then, to the 'Land of Origin'."
   },
   {
    "id": "RES#1956:90d9",
@@ -395,8 +415,9 @@
    "jp": "{0c:2b582351182b571000}{1c:1b}{0b:08}{e080} 聖者バルカイル {e081}{0b:09}\n馬鹿な!\n{e0ac}はまだ消えたわけではない。\n行かせるべきではない!{0c:2b5709fe}",
    "read": "{0c:2b582351182b571000}{1c:1b}{0b:08}【 聖者バルカイル 】{0b:09}\n馬鹿な!\n光はまだ消えたわけではない。\n行かせるべきではない!{0c:2b5709fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b582351182b571000}{1c:1b}{0b:08}【 Saint Barkail 】{0b:09}\nMadness! The light has not yet gone out.\nThey must not be allowed to go!{0c:2b5709fe}",
+   "status": "done",
+   "tl": "Madness! The light has not yet gone out. They must not be allowed to go!"
   },
   {
    "id": "RES#1956:913d",
@@ -406,8 +427,9 @@
    "jp": "{1c:19}{0b:08}{e080} 聖者アヴァダイル {e081}{0b:09}\n勿論『{e09f}しい世{e088}』の到来を\n{e0b0}めたわけではない。{1a}だが、確かめたくなったのだ。\n彼らの言う{e094}実を。{1a}{0c:51082b501000}それに、その者にはその資格がある。{0c:2b5809fe}",
    "read": "{1c:19}{0b:08}【 聖者アヴァダイル 】{0b:09}\n勿論『新しい世界』の到来を\n諦めたわけではない。{1a}だが、確かめたくなったのだ。\n彼らの言う真実を。{1a}{0c:51082b501000}それに、その者にはその資格がある。{0c:2b5809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Saint Avadail 】{0b:09}\nOf course I have not given up on the\ncoming of the 'New World'.{1a}But I find I wish to test it: this truth\nthey speak of.{1a}{0c:51082b501000}Besides, that one has earned the right.{0c:2b5809fe}",
+   "status": "done",
+   "tl": "Of course I have not given up on the coming of the 'New World'. // But I find I wish to test it: this truth they speak of. // [1]Besides, that one has earned the right."
   },
   {
    "id": "RES#1956:91ba",
@@ -429,8 +451,9 @@
    "jp": "{1c:19}{0b:08}{e080} 聖者アヴァダイル {e081}{0b:09}\n下がれ、バルカイル。{0c:fe}",
    "read": "{1c:19}{0b:08}【 聖者アヴァダイル 】{0b:09}\n下がれ、バルカイル。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Saint Avadail 】{0b:09}\nStand down, Barkail.{0c:fe}",
+   "status": "done",
+   "tl": "Stand down, Barkail."
   },
   {
    "id": "RES#1956:9207",
@@ -451,8 +474,9 @@
    "jp": "{1c:19}{0b:08}{e080} 聖者アヴァダイル {e081}{0b:09}\n我{e08a}の{e094}実はこの{e0b2}の向こうにある。\n来るがいい、若者よ。{0c:fe}",
    "read": "{1c:19}{0b:08}【 聖者アヴァダイル 】{0b:09}\n我々の真実はこの門の向こうにある。\n来るがいい、若者よ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Saint Avadail 】{0b:09}\nOur truth lies beyond this gate. Come,\nyoung one.{0c:fe}",
+   "status": "done",
+   "tl": "Our truth lies beyond this gate. Come, young one."
   },
   {
    "id": "RES#1956:926e",
@@ -473,8 +497,9 @@
    "jp": "{1c:13}{0b:08}{e080} {e0b4}{e0b5}{e0b6}サディーヤ {e081}{0b:09}\n・・・!!!{0c:2b5309fe}",
    "read": "{1c:13}{0b:08}【 毒術師サディーヤ 】{0b:09}\n・・・!!!{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:13}{0b:08}【 Sadiya the Poisoner 】{0b:09}\n...!!!{0c:2b5309fe}",
+   "status": "done",
+   "tl": "...!!!"
   },
   {
    "id": "RES#1956:9309",
@@ -484,8 +509,9 @@
    "jp": "{0c:51502b551000}{1c:11}{0b:08}{e080} クムラン {e081}{0b:09}\nティアラさん、\n彼らをお願いします。{0c:2b5509fe}",
    "read": "{0c:51502b551000}{1c:11}{0b:08}【 クムラン 】{0b:09}\nティアラさん、\n彼らをお願いします。{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51502b551000}{1c:11}{0b:08}【 Qumran 】{0b:09}\nTiara-san, please look after them.{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Tiara-san, please look after them."
   },
   {
    "id": "RES#1956:933f",
@@ -540,8 +566,9 @@
    "jp": "{0c:520810}{1c:25}{0b:08}{e080} ノエル {e081}{0b:09}\nこ、ここは・・・?{0c:fe}",
    "read": "{0c:520810}{1c:25}{0b:08}【 ノエル 】{0b:09}\nこ、ここは・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520810}{1c:25}{0b:08}【 Noel 】{0b:09}\nWh-where is this...?{0c:fe}",
+   "status": "done",
+   "tl": "Wh-where is this...?"
   },
   {
    "id": "RES#1956:93e3",
@@ -562,8 +589,9 @@
    "jp": "{0c:520810}{0c:2b502351202b641000}{1c:28}あの子供は・・・\nあたし・・・なの・・・?{0c:fe}",
    "read": "{0c:520810}{0c:2b502351202b641000}{1c:28}あの子供は・・・\nあたし・・・なの・・・?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:520810}{0c:2b502351202b641000}{1c:28}That child... Is that... me...?{0c:fe}",
+   "status": "done",
+   "tl": "That child... Is that... me...?"
   },
   {
    "id": "RES#1956:948c",
@@ -584,8 +612,9 @@
    "jp": "{1c:23}{0b:08}{e080} ノエルの虚{e0ba} {e081}{0b:09}\nあたしはいつも1人だった・・・{0c:fe}",
    "read": "{1c:23}{0b:08}【 ノエルの虚像 】{0b:09}\nあたしはいつも1人だった・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:23}{0b:08}【 Noel's Phantom 】{0b:09}\nI was always alone...{0c:fe}",
+   "status": "done",
+   "tl": "I was always alone..."
   },
   {
    "id": "RES#1956:94d1",
@@ -606,8 +635,9 @@
    "jp": "{1c:24}{0b:08}{e080} ノエルの虚{e0ba} {e081}{0b:09}\n友達は本だけだった。{1a}本を{e0bb}んでいる時だけが\n幸せだった。{1a}本の中ではあたしは\n何にでもなれたから・・・{0c:2b5109fe}",
    "read": "{1c:24}{0b:08}【 ノエルの虚像 】{0b:09}\n友達は本だけだった。{1a}本を読んでいる時だけが\n幸せだった。{1a}本の中ではあたしは\n何にでもなれたから・・・{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:24}{0b:08}【 Noel's Phantom 】{0b:09}\nBooks were my only friends.{1a}Reading was the only time I was happy.{1a}Because in books, I could be anything...{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Books were my only friends. // Reading was the only time I was happy. // Because in books, I could be anything..."
   },
   {
    "id": "RES#1956:9545",
@@ -617,8 +647,9 @@
    "jp": "{0c:521820}{1c:28}{0b:08}{e080} ノエル {e081}{0b:09}\nな、何なの・・・?\n何が言いたいの・・・?{0c:2b5f09fe}",
    "read": "{0c:521820}{1c:28}{0b:08}【 ノエル 】{0b:09}\nな、何なの・・・?\n何が言いたいの・・・?{0c:2b5f09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:521820}{1c:28}{0b:08}【 Noel 】{0b:09}\nWh-what is this...? What are you trying\nto say...?{0c:2b5f09fe}",
+   "status": "done",
+   "tl": "Wh-what is this...? What are you trying to say...?"
   },
   {
    "id": "RES#1956:957e",
@@ -628,8 +659,9 @@
    "jp": "{0c:52ffc9ffd1}{1c:24}{0b:08}{e080} ノエルの虚{e0ba} {e081}{0b:09}\nでも、いつの間にか\n本は友達じゃなくなっていた。{1a}本を{e0bb}むことは、\n他人に認められるための手段に\n変わっていた。{0c:2b5e09fe}",
    "read": "{0c:52ffc9ffd1}{1c:24}{0b:08}【 ノエルの虚像 】{0b:09}\nでも、いつの間にか\n本は友達じゃなくなっていた。{1a}本を読むことは、\n他人に認められるための手段に\n変わっていた。{0c:2b5e09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffc9ffd1}{1c:24}{0b:08}【 Noel's Phantom 】{0b:09}\nBut at some point, books stopped being\nfriends.{1a}Reading had turned into a means of\nwinning other people's approval.{0c:2b5e09fe}",
+   "status": "done",
+   "tl": "But at some point, books stopped being friends. // Reading had turned into a means of winning other people's approval."
   },
   {
    "id": "RES#1956:95e7",
@@ -639,8 +671,9 @@
    "jp": "{0c:52ffd9ffe1}{1c:23}{0b:08}{e080} ノエルの虚{e0ba} {e081}{0b:09}\nそして、いつの間にか\nあたしには知識の多さしか\n誇るものがなくなっていた・・・{0c:2b5109fe}",
    "read": "{0c:52ffd9ffe1}{1c:23}{0b:08}【 ノエルの虚像 】{0b:09}\nそして、いつの間にか\nあたしには知識の多さしか\n誇るものがなくなっていた・・・{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffd9ffe1}{1c:23}{0b:08}【 Noel's Phantom 】{0b:09}\nAnd at some point, the only thing I had\nleft to be proud of was how much I\nknew...{0c:2b5109fe}",
+   "status": "done",
+   "tl": "And at some point, the only thing I had left to be proud of was how much I knew..."
   },
   {
    "id": "RES#1956:9638",
@@ -650,8 +683,9 @@
    "jp": "{0c:522830}{1c:27}{0b:08}{e080} ノエル {e081}{0b:09}\nだ、だからなんなのよ!\nいい加減にしてよ!{0c:2b5f09fe}",
    "read": "{0c:522830}{1c:27}{0b:08}【 ノエル 】{0b:09}\nだ、だからなんなのよ!\nいい加減にしてよ!{0c:2b5f09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:522830}{1c:27}{0b:08}【 Noel 】{0b:09}\nS-so what! Enough already!{0c:2b5f09fe}",
+   "status": "done",
+   "tl": "S-so what! Enough already!"
   },
   {
    "id": "RES#1956:9670",
@@ -661,8 +695,9 @@
    "jp": "{0c:52ffe9fff1}{1c:24}{0b:08}{e080} ノエルの虚{e0ba} {e081}{0b:09}\n誇れるものは知識だけ・・・{1a}でも、その中に『あたし』はない。\n{e0bd}学や{e0bf}学や歴史に\nいくら{e0c2}しくなっても、\nあたしは何も変わらない。{1a}{0c:52fff9ffff02}本に{e0c3}かれてある、\n誰かの{e0c4}した知識だけが\nただ無意味に増えていくだけ・・・{0c:2b5e09fe}",
    "read": "{0c:52ffe9fff1}{1c:24}{0b:08}【 ノエルの虚像 】{0b:09}\n誇れるものは知識だけ・・・{1a}でも、その中に『あたし』はない。\n化学や法学や歴史に\nいくら詳しくなっても、\nあたしは何も変わらない。{1a}{0c:52fff9ffff02}本に書かれてある、\n誰かの遺した知識だけが\nただ無意味に増えていくだけ・・・{0c:2b5e09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffe9fff1}{1c:24}{0b:08}【 Noel's Phantom 】{0b:09}\nKnowledge was all I could be proud of...{1a}But there's no 'me' in it. However much I\nlearn of chemistry, law or history, I don't\nchange at all.{1a}{0c:52fff9ffff02}All that grows, meaninglessly, is the\nknowledge someone else left behind,\nwritten in books...{0c:2b5e09fe}",
+   "status": "done",
+   "tl": "Knowledge was all I could be proud of... // But there's no 'me' in it. However much I learn of chemistry, law or history, I don't change at all. // [1]All that grows, meaninglessly, is the knowledge someone else left behind, written in books..."
   },
   {
    "id": "RES#1956:971e",
@@ -672,8 +707,9 @@
    "jp": "{0c:52ffff0affff12}{1c:23}{0b:08}{e080} ノエルの虚{e0ba} {e081}{0b:09}\nあたしは劣等感のかたまり・・・\n同じ{e0c7}頃の子を馬鹿にしたのは、\n本当の自分に自信がないから・・・{1a}他人の知識のなさを\n馬鹿にすることでしか、\n自分の存{e08c}理由を守れないから・・・{0c:2b5109fe}",
    "read": "{0c:52ffff0affff12}{1c:23}{0b:08}【 ノエルの虚像 】{0b:09}\nあたしは劣等感のかたまり・・・\n同じ年頃の子を馬鹿にしたのは、\n本当の自分に自信がないから・・・{1a}他人の知識のなさを\n馬鹿にすることでしか、\n自分の存在理由を守れないから・・・{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffff0affff12}{1c:23}{0b:08}【 Noel's Phantom 】{0b:09}\nI'm a lump of inferiority... I sneered at\ngirls my age because I have no\nconfidence in who I really am...{1a}Only by sneering at what others don't\nknow can I defend my reason for\nexisting...{0c:2b5109fe}",
+   "status": "done",
+   "tl": "I'm a lump of inferiority... I sneered at girls my age because I have no confidence in who I really am... // Only by sneering at what others don't know can I defend my reason for existing..."
   },
   {
    "id": "RES#1956:97b9",
@@ -683,8 +719,9 @@
    "jp": "{0c:523840}{1c:27}{0b:08}{e080} ノエル {e081}{0b:09}\nもう黙ってよ!!\n自分の事よ、\n言われなくてもわかってるわ!{0c:2b5f09fe}",
    "read": "{0c:523840}{1c:27}{0b:08}【 ノエル 】{0b:09}\nもう黙ってよ!!\n自分の事よ、\n言われなくてもわかってるわ!{0c:2b5f09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:523840}{1c:27}{0b:08}【 Noel 】{0b:09}\nJust be quiet!! This is about me, I know\nit without being told!{0c:2b5f09fe}",
+   "status": "done",
+   "tl": "Just be quiet!! This is about me, I know it without being told!"
   },
   {
    "id": "RES#1956:97fd",
@@ -694,8 +731,9 @@
    "jp": "{0c:52ffff1affff22}{1c:24}{0b:08}{e080} ノエルの虚{e0ba} {e081}{0b:09}\n本当はみんなが{e0c8}ましかった・・・{1a}{0c:52ffff2affff32}下らないことで騒いだり、\n男の子と楽しそうに話したり・・・{1a}そんな当たり前のことが\nあたしには出来ない。\nやり方が分からない・・・{0c:2b5109fe}",
    "read": "{0c:52ffff1affff22}{1c:24}{0b:08}【 ノエルの虚像 】{0b:09}\n本当はみんなが羨ましかった・・・{1a}{0c:52ffff2affff32}下らないことで騒いだり、\n男の子と楽しそうに話したり・・・{1a}そんな当たり前のことが\nあたしには出来ない。\nやり方が分からない・・・{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ffff1affff22}{1c:24}{0b:08}【 Noel's Phantom 】{0b:09}\nI was envious of them all, really...{1a}{0c:52ffff2affff32}Making a fuss over silly things, chatting\nhappily with boys...{1a}Such ordinary things, and I can't do\nthem. I don't know how...{0c:2b5109fe}",
+   "status": "done",
+   "tl": "I was envious of them all, really... // [1]Making a fuss over silly things, chatting happily with boys... // Such ordinary things, and I can't do them. I don't know how..."
   },
   {
    "id": "RES#1956:988e",
@@ -705,8 +743,9 @@
    "jp": "{0c:524850}{1c:28}{0b:08}{e080} ノエル {e081}{0b:09}\nもうやめて!!\n勝手に人の心を{e0bb}まないで!{0c:fe}",
    "read": "{0c:524850}{1c:28}{0b:08}【 ノエル 】{0b:09}\nもうやめて!!\n勝手に人の心を読まないで!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:524850}{1c:28}{0b:08}【 Noel 】{0b:09}\nStop it!! Don't you dare read my heart!{0c:fe}",
+   "status": "done",
+   "tl": "Stop it!! Don't you dare read my heart!"
   },
   {
    "id": "RES#1956:98c6",
@@ -727,8 +766,9 @@
    "jp": "{1c:28}なによ・・・{1a}言われなくてもわかってるわ・・・\n自分が惨めなことくらい・・・{0c:fe}",
    "read": "{1c:28}なによ・・・{1a}言われなくてもわかってるわ・・・\n自分が惨めなことくらい・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:28}So what...{1a}I know without being told... I know how\nwretched I am...{0c:fe}",
+   "status": "done",
+   "tl": "So what... // I know without being told... I know how wretched I am..."
   },
   {
    "id": "RES#1956:992e",
@@ -749,8 +789,9 @@
    "jp": "{1c:19}{0b:08}{e080} 聖者アヴァダイル {e081}{0b:09}\n人生をやり直したいとは\n{0c:2b502351202b571000}思わないか?{0c:2b5109fe}",
    "read": "{1c:19}{0b:08}【 聖者アヴァダイル 】{0b:09}\n人生をやり直したいとは\n{0c:2b502351202b571000}思わないか?{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Saint Avadail 】{0b:09}\nDo you not wish to live your life {0c:2b502351202b571000}over\nagain?{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Do you not wish to live your life [1]over again?"
   },
   {
    "id": "RES#1956:998e",
@@ -783,8 +824,9 @@
    "jp": "{1c:1b}{0b:08}{e080} 聖者バルカイル {e081}{0b:09}\n『{e09f}しい世{e088}』には、\n{0c:2b512351702b581000}{0c:2b502351201009}時間も{e0cb}間も存{e08c}しない・・・{1a}{e0a6}人を分ける境{e088}もなく、\n人{e08a}を苦しめる{e0cd}気や死もない・・・{0c:2b5709fe}",
    "read": "{1c:1b}{0b:08}【 聖者バルカイル 】{0b:09}\n『新しい世界』には、\n{0c:2b512351702b581000}{0c:2b502351201009}時間も空間も存在しない・・・{1a}個人を分ける境界もなく、\n人々を苦しめる病気や死もない・・・{0c:2b5709fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Saint Barkail 】{0b:09}\nIn the 'New World', {0c:2b512351702b581000}{0c:2b502351201009}neither time nor\nspace exists...{1a}There are no borders dividing one from\nanother, and no sickness or death to\ntorment mankind...{0c:2b5709fe}",
+   "status": "done",
+   "tl": "In the 'New World', [1]neither time nor space exists... // There are no borders dividing one from another, and no sickness or death to torment mankind..."
   },
   {
    "id": "RES#1956:9a51",
@@ -794,8 +836,9 @@
    "jp": "{1c:19}{0b:08}{e080} 聖者アヴァダイル {e081}{0b:09}\n君の心を皆が理解してくれる。\n{0c:2b502351202b571000}淋しさもない、{e0cf}独もない・・・\n自分の弱さに悩むこともない。\n君の心は全て満たされる。{0c:fe}",
    "read": "{1c:19}{0b:08}【 聖者アヴァダイル 】{0b:09}\n君の心を皆が理解してくれる。\n{0c:2b502351202b571000}淋しさもない、孤独もない・・・\n自分の弱さに悩むこともない。\n君の心は全て満たされる。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Saint Avadail 】{0b:09}\nEveryone will understand your heart. {0c:2b502351202b571000}No\nloneliness, no solitude... You will not be\ntroubled by your own weakness. Your{1a}heart will be wholly fulfilled.{0c:fe}",
+   "status": "done",
+   "tl": "Everyone will understand your heart. [1]No loneliness, no solitude... You will not be troubled by your own weakness. Your heart will be wholly fulfilled."
   },
   {
    "id": "RES#1956:9ac3",
@@ -816,8 +859,9 @@
    "jp": "{1c:28}{0b:08}{e080} ノエル {e081}{0b:09}\n聞きたくない・・・\nそんな言{e0d3}に騙されない!!{0c:2b5709fe}",
    "read": "{1c:28}{0b:08}【 ノエル 】{0b:09}\n聞きたくない・・・\nそんな言葉に騙されない!!{0c:2b5709fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:28}{0b:08}【 Noel 】{0b:09}\nI don't want to hear it... I won't be fooled\nby words like that!!{0c:2b5709fe}",
+   "status": "done",
+   "tl": "I don't want to hear it... I won't be fooled by words like that!!"
   },
   {
    "id": "RES#1956:9b07",
@@ -827,8 +871,9 @@
    "jp": "{1c:19}{0b:08}{e080} 聖者アヴァダイル {e081}{0b:09}\n肉体を失うのが怖いのか?\n肉体など魂を縛りつける鎖だ。{1a}その鎖を断ち切ることによって、\nはじめて人は\n死や老いの恐怖に縛られない\n{e094}の自由を得ることが出来る。{0c:2b5109fe}",
    "read": "{1c:19}{0b:08}【 聖者アヴァダイル 】{0b:09}\n肉体を失うのが怖いのか?\n肉体など魂を縛りつける鎖だ。{1a}その鎖を断ち切ることによって、\nはじめて人は\n死や老いの恐怖に縛られない\n真の自由を得ることが出来る。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Saint Avadail 】{0b:09}\nDo you fear losing your body? The body\nis but a chain that binds the soul.{1a}Only by severing that chain can one at\nlast gain true freedom, unbound by the\nfear of death and age.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Do you fear losing your body? The body is but a chain that binds the soul. // Only by severing that chain can one at last gain true freedom, unbound by the fear of death and age."
   },
   {
    "id": "RES#1956:9b90",
@@ -838,8 +883,9 @@
    "jp": "{1c:28}{0b:08}{e080} ノエル {e081}{0b:09}\nだ、黙ってよ!\nあたしは聞きたくないの!!{0c:2b5709fe}",
    "read": "{1c:28}{0b:08}【 ノエル 】{0b:09}\nだ、黙ってよ!\nあたしは聞きたくないの!!{0c:2b5709fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:28}{0b:08}【 Noel 】{0b:09}\nB-be quiet! I don't want to hear it!!{0c:2b5709fe}",
+   "status": "done",
+   "tl": "B-be quiet! I don't want to hear it!!"
   },
   {
    "id": "RES#1956:9bc3",
@@ -849,8 +895,9 @@
    "jp": "{1c:19}{0b:08}{e080} 聖者アヴァダイル {e081}{0b:09}\n何故否定する?\n君は誰よりも『{e09f}しい世{e088}』の\n到来を望んでいるのに。{0c:2b5109fe}",
    "read": "{1c:19}{0b:08}【 聖者アヴァダイル 】{0b:09}\n何故否定する?\n君は誰よりも『新しい世界』の\n到来を望んでいるのに。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Saint Avadail 】{0b:09}\nWhy do you deny it? You, more than\nanyone, long for the coming of the 'New\nWorld'.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Why do you deny it? You, more than anyone, long for the coming of the 'New World'."
   },
   {
    "id": "RES#1956:9c15",
@@ -860,8 +907,9 @@
    "jp": "{0c:528890}{1c:27}{0b:08}{e080} ノエル {e081}{0b:09}\nの、望んでなんかない!!\nあたしは{10}と一緒に戦う、\nそう決心したの!{0c:fe}",
    "read": "{0c:528890}{1c:27}{0b:08}【 ノエル 】{0b:09}\nの、望んでなんかない!!\nあたしは{10}と一緒に戦う、\nそう決心したの!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:528890}{1c:27}{0b:08}【 Noel 】{0b:09}\nI never w-wished for that!! I'm going to\nfight alongside {10}. I've made up\nmy mind!{0c:fe}",
+   "status": "done",
+   "tl": "I never w-wished for that!! I'm going to fight alongside [HERO]. I've made up my mind!"
   },
   {
    "id": "RES#1956:9c5b",
@@ -893,8 +941,9 @@
    "jp": "{0c:51ff02}{1c:1f}{0b:08}{e080} {10}の虚{e0ba} {e081}{0b:09}\n本当の僕は君が思ってるような\n{0c:2b502351202b5d1000}人間じゃない。{0c:fe}",
    "read": "{0c:51ff02}{1c:1f}{0b:08}【 {10}の虚像 】{0b:09}\n本当の僕は君が思ってるような\n{0c:2b502351202b5d1000}人間じゃない。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51ff02}{1c:1f}{0b:08}【 {10}'s Phantom 】{0b:09}\nThe real me isn't {0c:2b502351202b5d1000}the kind of person you\nthink.{0c:fe}",
+   "status": "done",
+   "tl": "The real me isn't [1]the kind of person you think."
   },
   {
    "id": "RES#1956:9cc3",
@@ -915,8 +964,9 @@
    "jp": "{0c:52ff12ff1a}{1c:20}{0b:08}{e080} {10}の虚{e0ba} {e081}{0b:09}\n誰がお前のような\n{0c:2b502351202b5d1000}退屈な女に心を{e0d7}くかよ。{0c:fe}",
    "read": "{0c:52ff12ff1a}{1c:20}{0b:08}【 {10}の虚像 】{0b:09}\n誰がお前のような\n{0c:2b502351202b5d1000}退屈な女に心を開くかよ。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff12ff1a}{1c:20}{0b:08}【 {10}'s Phantom 】{0b:09}\nWho'd ever open up {0c:2b502351202b5d1000}to a dull woman like\nyou?{0c:fe}",
+   "status": "done",
+   "tl": "Who'd ever open up [1]to a dull woman like you?"
   },
   {
    "id": "RES#1956:9d27",
@@ -948,8 +998,9 @@
    "jp": "{0c:51ff02}{1c:21}{0b:08}{e080} {10}の虚{e0ba} {e081}{0b:09}\n本当の私はあなたが思ってるような\n{0c:2b502351202b5d1000}人間じゃない。{0c:fe}",
    "read": "{0c:51ff02}{1c:21}{0b:08}【 {10}の虚像 】{0b:09}\n本当の私はあなたが思ってるような\n{0c:2b502351202b5d1000}人間じゃない。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51ff02}{1c:21}{0b:08}【 {10}'s Phantom 】{0b:09}\nThe real me is not {0c:2b502351202b5d1000}the person you think I\nam.{0c:fe}",
+   "status": "done",
+   "tl": "The real me is not [1]the person you think I am."
   },
   {
    "id": "RES#1956:9d90",
@@ -970,8 +1021,9 @@
    "jp": "{0c:52ff12ff1a}{1c:22}{0b:08}{e080} {10}の虚{e0ba} {e081}{0b:09}\n冷静になって考えてみて。\n{0c:2b502351202b5d1000}誰があなたのような\n退屈な子に心を{e0d7}くと思う?{0c:fe}",
    "read": "{0c:52ff12ff1a}{1c:22}{0b:08}【 {10}の虚像 】{0b:09}\n冷静になって考えてみて。\n{0c:2b502351202b5d1000}誰があなたのような\n退屈な子に心を開くと思う?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff12ff1a}{1c:22}{0b:08}【 {10}'s Phantom 】{0b:09}\nThink it over calmly. {0c:2b502351202b5d1000}Who do you suppose\nwould open up to a dull girl like you?{0c:fe}",
+   "status": "done",
+   "tl": "Think it over calmly. [1]Who do you suppose would open up to a dull girl like you?"
   },
   {
    "id": "RES#1956:9e07",
@@ -1003,8 +1055,9 @@
    "jp": "{0c:5298a0}{1c:27}{0b:08}{e080} ノエル {e081}{0b:09}\nそんな言{e0d3}、\n{10}が言うはずない!\nあたしは{10}を信じてる!{0c:fe}",
    "read": "{0c:5298a0}{1c:27}{0b:08}【 ノエル 】{0b:09}\nそんな言葉、\n{10}が言うはずない!\nあたしは{10}を信じてる!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:5298a0}{1c:27}{0b:08}【 Noel 】{0b:09}\n{10} would never say anything like\nthat! I believe in {10}!{0c:fe}",
+   "status": "done",
+   "tl": "[HERO] would never say anything like that! I believe in [HERO]!"
   },
   {
    "id": "RES#1956:9e55",
@@ -1025,8 +1078,9 @@
    "jp": "{1c:23}{0b:08}{e080} ノエルの虚{e0ba} {e081}{0b:09}\n他人の知識のなさを\n{0c:2b502351202b5e1000}馬鹿にすることでしか\n自分の価値を認識出来ない人間が{1a}他人を信じると言うの?{0c:fe}",
    "read": "{1c:23}{0b:08}【 ノエルの虚像 】{0b:09}\n他人の知識のなさを\n{0c:2b502351202b5e1000}馬鹿にすることでしか\n自分の価値を認識出来ない人間が{1a}他人を信じると言うの?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:23}{0b:08}【 Noel's Phantom 】{0b:09}\nSomeone who can only see her own\nworth {0c:2b502351202b5e1000}by sneering at what others don't\nknow...{1a}says she trusts people?{0c:fe}",
+   "status": "done",
+   "tl": "Someone who can only see her own worth [1]by sneering at what others don't know... // says she trusts people?"
   },
   {
    "id": "RES#1956:9edf",
@@ -1047,8 +1101,9 @@
    "jp": "{0c:52a8b0}{1c:28}{0b:08}{e080} ノエル {e081}{0b:09}\nだ、黙って!{0c:fe}",
    "read": "{0c:52a8b0}{1c:28}{0b:08}【 ノエル 】{0b:09}\nだ、黙って!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52a8b0}{1c:28}{0b:08}【 Noel 】{0b:09}\nB-be quiet!{0c:fe}",
+   "status": "done",
+   "tl": "B-be quiet!"
   },
   {
    "id": "RES#1956:9f0f",
@@ -1069,8 +1124,9 @@
    "jp": "{1c:24}{0b:08}{e080} ノエルの虚{e0ba} {e081}{0b:09}\n本当に{10}を信じてるの?\n{0c:2b502351202b5f1000}優しくしてくれる人なら\n誰でもよかったんじゃないの?{0c:fe}",
    "read": "{1c:24}{0b:08}【 ノエルの虚像 】{0b:09}\n本当に{10}を信じてるの?\n{0c:2b502351202b5f1000}優しくしてくれる人なら\n誰でもよかったんじゃないの?{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:24}{0b:08}【 Noel's Phantom 】{0b:09}\nDo you really trust {10}? {0c:2b502351202b5f1000}Wouldn't\nanyone kind to you have done just as\nwell?{0c:fe}",
+   "status": "done",
+   "tl": "Do you really trust [HERO]? [1]Wouldn't anyone kind to you have done just as well?"
   },
   {
    "id": "RES#1956:9f83",
@@ -1102,8 +1158,9 @@
    "jp": "{1c:1c}{0b:08}{e080} 聖者ハンリアル {e081}{0b:09}\nあなたはもうわかってるはず。\n{0c:2b502351202b591000}この世{e088}に本当の安らぎなんて\nあるはずのないことを。{1a}でも、『{e09f}しい世{e088}』では\nみんなが分かり合える。\n人を包む殻がなくなり、\n1つになれる・・・{0c:fe}",
    "read": "{1c:1c}{0b:08}【 聖者ハンリアル 】{0b:09}\nあなたはもうわかってるはず。\n{0c:2b502351202b591000}この世界に本当の安らぎなんて\nあるはずのないことを。{1a}でも、『新しい世界』では\nみんなが分かり合える。\n人を包む殻がなくなり、\n1つになれる・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1c}{0b:08}【 Saint Hanrial 】{0b:09}\nYou must know by now. {0c:2b502351202b591000}There can be no\ntrue peace in this world.{1a}But in the 'New World', all can\nunderstand one another. The shells\naround people vanish, and all can become\none...{0c:fe}",
+   "status": "done",
+   "tl": "You must know by now. [1]There can be no true peace in this world. // But in the 'New World', all can understand one another. The shells around people vanish, and all can become one..."
   },
   {
    "id": "RES#1956:a037",
@@ -1124,8 +1181,9 @@
    "jp": "{1c:1d}{0b:08}{e080} 聖者ウェルカイル {e081}{0b:09}\n『{e09f}しい世{e088}』では、\n{0c:2b502351202b5a1000}みんなと心の底から理解し合える。{1a}さあ、願うんだ。\n『{e09f}しい世{e088}』の到来を!{0c:2b5109fe}",
    "read": "{1c:1d}{0b:08}【 聖者ウェルカイル 】{0b:09}\n『新しい世界』では、\n{0c:2b502351202b5a1000}みんなと心の底から理解し合える。{1a}さあ、願うんだ。\n『新しい世界』の到来を!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}{0b:08}【 Saint Welkail 】{0b:09}\nIn the 'New World', {0c:2b502351202b5a1000}you and everyone will\nunderstand one another from the\nbottom of your hearts.{1a}Come, make your wish. Wish for the\ncoming of the 'New World'!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "In the 'New World', [1]you and everyone will understand one another from the bottom of your hearts. // Come, make your wish. Wish for the coming of the 'New World'!"
   },
   {
    "id": "RES#1956:a0c4",
@@ -1135,8 +1193,9 @@
    "jp": "{0c:52b8c0}{1c:28}{0b:08}{e080} ノエル {e081}{0b:09}\nき、聞きたくない!{0c:fe}",
    "read": "{0c:52b8c0}{1c:28}{0b:08}【 ノエル 】{0b:09}\nき、聞きたくない!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52b8c0}{1c:28}{0b:08}【 Noel 】{0b:09}\nI don't want to h-hear it!{0c:fe}",
+   "status": "done",
+   "tl": "I don't want to h-hear it!"
   },
   {
    "id": "RES#1956:a0ea",
@@ -1157,8 +1216,9 @@
    "jp": "{0c:52c8d0}{1c:28}{0b:08}{e080} ノエル {e081}{0b:09}\nあたしは淋しくなんかない!\nあたしは・・・淋しくなんか・・・{0c:fe}",
    "read": "{0c:52c8d0}{1c:28}{0b:08}【 ノエル 】{0b:09}\nあたしは淋しくなんかない!\nあたしは・・・淋しくなんか・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52c8d0}{1c:28}{0b:08}【 Noel 】{0b:09}\nI'm not lonely! I'm... not lonely at...{0c:fe}",
+   "status": "done",
+   "tl": "I'm not lonely! I'm... not lonely at..."
   },
   {
    "id": "RES#1956:a14b",
@@ -1179,8 +1239,9 @@
    "jp": "{1c:63}きゃぁぁぁぁぁ!!{0c:2b502351a053a06b0a650010fff80063e18401e900021b2b5110006c022d01870c57060c51b0}{0c:2b5709fe}",
    "read": "{1c:63}きゃぁぁぁぁぁ!!{0c:2b502351a053a06b0a650010fff80063e18401e900021b2b5110006c022d01870c57060c51b0}{0c:2b5709fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:63}Aaaaaah!!{0c:2b502351a053a06b0a650010fff80063e18401e900021b2b5110006c022d01870c57060c51b0}{0c:2b5709fe}",
+   "status": "done",
+   "tl": "Aaaaaah!!"
   },
   {
    "id": "RES#1956:a19e",
@@ -1190,8 +1251,9 @@
    "jp": "{1c:19}{0b:08}{e080} 聖者アヴァダイル {e081}{0b:09}\n預言者よ、目覚めよ!\n『{e09f}しい世{e088}』の扉を{e0d7}け!!{0c:fe}",
    "read": "{1c:19}{0b:08}【 聖者アヴァダイル 】{0b:09}\n預言者よ、目覚めよ!\n『新しい世界』の扉を開け!!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Saint Avadail 】{0b:09}\nProphet, awaken! Open the door of the\n'New World'!!{0c:fe}",
+   "status": "done",
+   "tl": "Prophet, awaken! Open the door of the 'New World'!!"
   },
   {
    "id": "RES#1956:a1e3",
@@ -1212,8 +1274,9 @@
    "jp": "{1c:19}{0b:08}{e080} 聖者アヴァダイル {e081}{0b:09}\n{e0dc}かった・・・\n1万{e0c7}も待った・・・{0c:2b5809fe}",
    "read": "{1c:19}{0b:08}【 聖者アヴァダイル 】{0b:09}\n長かった・・・\n1万年も待った・・・{0c:2b5809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:19}{0b:08}【 Saint Avadail 】{0b:09}\nSo long... Ten thousand years I have\nwaited...{0c:2b5809fe}",
+   "status": "done",
+   "tl": "So long... Ten thousand years I have waited..."
   },
   {
    "id": "RES#1956:a284",
@@ -1223,8 +1286,9 @@
    "jp": "{1c:1b}{0b:08}{e080} 聖者バルカイル {e081}{0b:09}\nこれでようやく\n{e094}の永遠が・・・\n{e094}の安らぎが手に入る・・・{0c:2b5109fe}",
    "read": "{1c:1b}{0b:08}【 聖者バルカイル 】{0b:09}\nこれでようやく\n真の永遠が・・・\n真の安らぎが手に入る・・・{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Saint Barkail 】{0b:09}\nNow at last true eternity... true peace\nshall be ours...{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Now at last true eternity... true peace shall be ours..."
   },
   {
    "id": "RES#1956:a2c8",
@@ -1234,8 +1298,9 @@
    "jp": "{1c:28}{0b:08}{e080} ノエル {e081}{0b:09}\nそ、そんな・・・\nあたしのせいでこの世{e088}が\nなくなってしまうの・・・!?{0c:2b5809fe}",
    "read": "{1c:28}{0b:08}【 ノエル 】{0b:09}\nそ、そんな・・・\nあたしのせいでこの世界が\nなくなってしまうの・・・!?{0c:2b5809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:28}{0b:08}【 Noel 】{0b:09}\nN-no... This world's going to disappear\nbecause of me...!?{0c:2b5809fe}",
+   "status": "done",
+   "tl": "N-no... This world's going to disappear because of me...!?"
   },
   {
    "id": "RES#1956:a308",
@@ -1245,8 +1310,9 @@
    "jp": "{1c:1b}{0b:08}{e080} 聖者バルカイル {e081}{0b:09}\n『{e09f}しい世{e088}』の声を聞き、\n『始原の地』への扉を{e0d7}く者、\nそれが第二の預言者・・・{1a}汝はその預言者になったのだ。\n何を悲嘆する?{0c:2b5a09fe}",
    "read": "{1c:1b}{0b:08}【 聖者バルカイル 】{0b:09}\n『新しい世界』の声を聞き、\n『始原の地』への扉を開く者、\nそれが第二の預言者・・・{1a}汝はその預言者になったのだ。\n何を悲嘆する?{0c:2b5a09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Saint Barkail 】{0b:09}\nThe one who hears the voice of the\n'New World' and opens the door to the\n'Land of Origin': that is the second{1a}Prophet...{1a}You have become that Prophet. Why do\nyou grieve?{0c:2b5a09fe}",
+   "status": "done",
+   "tl": "The one who hears the voice of the 'New World' and opens the door to the 'Land of Origin': that is the second Prophet... // You have become that Prophet. Why do you grieve?"
   },
   {
    "id": "RES#1956:a383",
@@ -1256,8 +1322,9 @@
    "jp": "{1c:1d}{0b:08}{e080} 聖者ウェルカイル {e081}{0b:09}\n聞こえてこないか?\n『{e09f}しい世{e088}』の胎動が、\n人{e08a}の歓喜の声が!{0c:2b5109fe}",
    "read": "{1c:1d}{0b:08}【 聖者ウェルカイル 】{0b:09}\n聞こえてこないか?\n『新しい世界』の胎動が、\n人々の歓喜の声が!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}{0b:08}【 Saint Welkail 】{0b:09}\nDo you not hear it? The 'New World'\nstirring in the womb, and the people's\ncries of joy!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Do you not hear it? The 'New World' stirring in the womb, and the people's cries of joy!"
   },
   {
    "id": "RES#1956:a3d3",
@@ -1267,8 +1334,9 @@
    "jp": "{1c:28}{0b:08}{e080} ノエル {e081}{0b:09}\n{10}!\nあたしを殺して!!{0c:fe}",
    "read": "{1c:28}{0b:08}【 ノエル 】{0b:09}\n{10}!\nあたしを殺して!!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:28}{0b:08}【 Noel 】{0b:09}\n{10}! Kill me!!{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]! Kill me!!"
   },
   {
    "id": "RES#1956:a3f8",
@@ -1289,8 +1357,9 @@
    "jp": "{1c:28}そうじゃないの!\nどうすれば悪魔になれるか\nわかったの!{1a}あたしを殺せばいい!\n預言者を殺せば悪魔になれるのよ!!{0c:2b572351082b501000}{0c:2b5709fe}",
    "read": "{1c:28}そうじゃないの!\nどうすれば悪魔になれるか\nわかったの!{1a}あたしを殺せばいい!\n預言者を殺せば悪魔になれるのよ!!{0c:2b572351082b501000}{0c:2b5709fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:28}That isn't it! I know how you can become\nthe Devil!{1a}Just kill me! Kill the Prophet, and you\nbecome the Devil!!{0c:2b572351082b501000}{0c:2b5709fe}",
+   "status": "done",
+   "tl": "That isn't it! I know how you can become the Devil! // Just kill me! Kill the Prophet, and you become the Devil!!"
   },
   {
    "id": "RES#1956:a467",
@@ -1300,8 +1369,9 @@
    "jp": "{1c:1a}{0b:08}{e080} 聖者アヴァダイル {e081}{0b:09}\n正解だ。\n神と戦う資格を得るためには{1a}聖{e0c3}にかかれてある{e0a4}りに\n預言者を殺さなければならない。{0c:2b5109fe}",
    "read": "{1c:1a}{0b:08}【 聖者アヴァダイル 】{0b:09}\n正解だ。\n神と戦う資格を得るためには{1a}聖書にかかれてある通りに\n預言者を殺さなければならない。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1a}{0b:08}【 Saint Avadail 】{0b:09}\nCorrect. To earn the right to fight God,{1a}one must kill the Prophet, as it is\nwritten in the Scriptures.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Correct. To earn the right to fight God, // one must kill the Prophet, as it is written in the Scriptures."
   },
   {
    "id": "RES#1956:a4c4",
@@ -1311,8 +1381,9 @@
    "jp": "{1c:28}{0b:08}{e080} ノエル {e081}{0b:09}\nあなたになら・・・\nあなたになら殺されても構わない!\nだから!!{0c:2b5a09fe}",
    "read": "{1c:28}{0b:08}【 ノエル 】{0b:09}\nあなたになら・・・\nあなたになら殺されても構わない!\nだから!!{0c:2b5a09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:28}{0b:08}【 Noel 】{0b:09}\nBy you... If it's by you, I don't mind being\nkilled! So please!!{0c:2b5a09fe}",
+   "status": "done",
+   "tl": "By you... If it's by you, I don't mind being killed! So please!!"
   },
   {
    "id": "RES#1956:a502",
@@ -1322,8 +1393,9 @@
    "jp": "{1c:1d}{0b:08}{e080} 聖者ウェルカイル {e081}{0b:09}\nだが、『始原の地』への扉が\n{e0e2}全に{e0d7}き終わるまで、\nそれを許すわけにはいかない。{0c:fe}",
    "read": "{1c:1d}{0b:08}【 聖者ウェルカイル 】{0b:09}\nだが、『始原の地』への扉が\n完全に開き終わるまで、\nそれを許すわけにはいかない。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}{0b:08}【 Saint Welkail 】{0b:09}\nBut until the door to the 'Land of\nOrigin' has opened completely, that\ncannot be allowed.{0c:fe}",
+   "status": "done",
+   "tl": "But until the door to the 'Land of Origin' has opened completely, that cannot be allowed."
   },
   {
    "id": "RES#1956:a552",
@@ -1355,8 +1427,9 @@
    "jp": "{1c:1d}{0b:08}{e080} 聖者ウェルカイル {e081}{0b:09}\n殺しはしない。 {1a}{10}君には\n『始原の地』への扉が{e0d7}いた後に、\n『{e09f}しい世{e088}』への{e0e3}び{e0e4}となる\n役目があるのだから。{0c:028901}",
    "read": "{1c:1d}{0b:08}【 聖者ウェルカイル 】{0b:09}\n殺しはしない。 {1a}{10}君には\n『始原の地』への扉が開いた後に、\n『新しい世界』への呼び水となる\n役目があるのだから。{0c:028901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}{0b:08}【 Saint Welkail 】{0b:09}\nI will not kill you.{1a}{10}-kun, you still have a task\nonce the door to the 'Land of Origin'\nhas opened: to be the priming water\nthat draws forth the 'New World'.{0c:028901}",
+   "status": "done",
+   "tl": "I will not kill you. // [HERO]-kun, you still have a task once the door to the 'Land of Origin' has opened: to be the priming water that draws forth the 'New World'."
   },
   {
    "id": "RES#1956:a602",
@@ -1388,8 +1461,9 @@
    "jp": "{1c:1e}{0b:08}{e080} 聖者ウェルカイル {e081}{0b:09}\nくっ、誰だ!?",
    "read": "{1c:1e}{0b:08}【 聖者ウェルカイル 】{0b:09}\nくっ、誰だ!?",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1e}{0b:08}【 Saint Welkail 】{0b:09}\nNgh, who is there!?",
+   "status": "done",
+   "tl": "Ngh, who is there!?"
   },
   {
    "id": "RES#1956:a635",
@@ -1410,8 +1484,9 @@
    "jp": "{0c:52b0b8}{1c:16}{0b:08}{e080} 不死者ファトゥム {e081}{0b:09}\nやはり届かぬか・・・{0c:2b5a09fe}",
    "read": "{0c:52b0b8}{1c:16}{0b:08}【 不死者ファトゥム 】{0b:09}\nやはり届かぬか・・・{0c:2b5a09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52b0b8}{1c:16}{0b:08}【 Fatum the Undying 】{0b:09}\nSo it falls short after all...{0c:2b5a09fe}",
+   "status": "done",
+   "tl": "So it falls short after all..."
   },
   {
    "id": "RES#1956:a671",
@@ -1421,8 +1496,9 @@
    "jp": "{0c:51502b561000}{0c:51402b561000}{1c:1e}{0b:08}{e080} 聖者ウェルカイル {e081}{0b:09}\nな、何故ここに!?{0c:2b5809fe}",
    "read": "{0c:51502b561000}{0c:51402b561000}{1c:1e}{0b:08}【 聖者ウェルカイル 】{0b:09}\nな、何故ここに!?{0c:2b5809fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51502b561000}{0c:51402b561000}{1c:1e}{0b:08}【 Saint Welkail 】{0b:09}\nWh-why are you here!?{0c:2b5809fe}",
+   "status": "done",
+   "tl": "Wh-why are you here!?"
   },
   {
    "id": "RES#1956:a6ad",
@@ -1432,8 +1508,9 @@
    "jp": "{0c:51182b5a1000}{1c:1b}{0b:08}{e080} 聖者バルカイル {e081}{0b:09}\nうろたえるな、ウェルカイル。\n奴は魂を持たぬ人{e083}・・・\nどう足掻こうが悪魔にはなれぬ。{0c:2b5609fe}",
    "read": "{0c:51182b5a1000}{1c:1b}{0b:08}【 聖者バルカイル 】{0b:09}\nうろたえるな、ウェルカイル。\n奴は魂を持たぬ人形・・・\nどう足掻こうが悪魔にはなれぬ。{0c:2b5609fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51182b5a1000}{1c:1b}{0b:08}【 Saint Barkail 】{0b:09}\nBe not dismayed, Welkail. That one is a\npuppet with no soul... Struggle as it may,\nit can never become the Devil.{0c:2b5609fe}",
+   "status": "done",
+   "tl": "Be not dismayed, Welkail. That one is a puppet with no soul... Struggle as it may, it can never become the Devil."
   },
   {
    "id": "RES#1956:a70a",
@@ -1443,8 +1520,9 @@
    "jp": "{0c:51c0}{1c:16}{0b:08}{e080} 不死者ファトゥム {e081}{0b:09}\n余裕だな。\nもう神になったつもりか?{0c:52c8d02b501000}{0c:2b5609fe}",
    "read": "{0c:51c0}{1c:16}{0b:08}【 不死者ファトゥム 】{0b:09}\n余裕だな。\nもう神になったつもりか?{0c:52c8d02b501000}{0c:2b5609fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51c0}{1c:16}{0b:08}【 Fatum the Undying 】{0b:09}\nYou seem at ease. Think you are a god\nalready?{0c:52c8d02b501000}{0c:2b5609fe}",
+   "status": "done",
+   "tl": "You seem at ease. Think you are a god already?"
   },
   {
    "id": "RES#1956:a74e",
@@ -1454,8 +1532,9 @@
    "jp": "{1c:17}{10}、この{e084}を持て!\nこれで奴の心臓を{e086}け!{0c:2b5709fe}",
    "read": "{1c:17}{10}、この槍を持て!\nこれで奴の心臓を貫け!{0c:2b5709fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:17}{10}, take this spear! Drive it\nthrough that one's heart!{0c:2b5709fe}",
+   "status": "done",
+   "tl": "[HERO], take this spear! Drive it through that one's heart!"
   },
   {
    "id": "RES#1956:a775",
@@ -1465,8 +1544,9 @@
    "jp": "{0c:51082b561000}{1c:19}{0b:08}{e080} 聖者アヴァダイル {e081}{0b:09}\n残念だがその者には預言者を殺す\n理由がない。{1a}{0c:51d02b571000}強い意志がなければ\n預言者を包む{e0ac}を{e086}くことも出来ねば\n悪魔になることも叶わないだろう。{0c:2b5a09fe}",
    "read": "{0c:51082b561000}{1c:19}{0b:08}【 聖者アヴァダイル 】{0b:09}\n残念だがその者には預言者を殺す\n理由がない。{1a}{0c:51d02b571000}強い意志がなければ\n預言者を包む光を貫くことも出来ねば\n悪魔になることも叶わないだろう。{0c:2b5a09fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51082b561000}{1c:19}{0b:08}【 Saint Avadail 】{0b:09}\nRegrettably, that one has no reason to\nkill the Prophet.{1a}{0c:51d02b571000}Without a strong will, one can neither\npierce the light that surrounds the\nProphet nor become the Devil.{0c:2b5a09fe}",
+   "status": "done",
+   "tl": "Regrettably, that one has no reason to kill the Prophet. // [1]Without a strong will, one can neither pierce the light that surrounds the Prophet nor become the Devil."
   },
   {
    "id": "RES#1956:a7ff",
@@ -1476,8 +1556,9 @@
    "jp": "{1c:1d}{0b:08}{e080} 聖者ウェルカイル {e081}{0b:09}\n残念だったね。\n{0c:51d02b5a1000}せめて僕の手で\n2人仲良く消滅させてやるよ。",
    "read": "{1c:1d}{0b:08}【 聖者ウェルカイル 】{0b:09}\n残念だったね。\n{0c:51d02b5a1000}せめて僕の手で\n2人仲良く消滅させてやるよ。",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1d}{0b:08}【 Saint Welkail 】{0b:09}\nHow unfortunate for you. {0c:51d02b5a1000}At the least, I\nwill erase the two of you together with\nmy own hand.",
+   "status": "done",
+   "tl": "How unfortunate for you. [1]At the least, I will erase the two of you together with my own hand."
   },
   {
    "id": "RES#1956:a84a",
@@ -1498,8 +1579,9 @@
    "jp": "{1c:18}{0b:08}{e080} 不死者ファトゥム {e081}{0b:09}\nうぐっ!!{0c:2b5609fe}",
    "read": "{1c:18}{0b:08}【 不死者ファトゥム 】{0b:09}\nうぐっ!!{0c:2b5609fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Fatum the Undying 】{0b:09}\nUgh!!{0c:2b5609fe}",
+   "status": "done",
+   "tl": "Ugh!!"
   },
   {
    "id": "RES#1956:a87c",
@@ -1509,8 +1591,9 @@
    "jp": "{1c:18}や、{e084}を!!{0c:2b5109fe}",
    "read": "{1c:18}や、槍を!!{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}The s-spear!!{0c:2b5109fe}",
+   "status": "done",
+   "tl": "The s-spear!!"
   },
   {
    "id": "RES#1956:a88d",
@@ -1520,8 +1603,9 @@
    "jp": "{1c:28}{0b:08}{e080} ノエル {e081}{0b:09}\n{10}・・・\nあたし、あなたを信じる!!\nだからっ!!!{0c:fe}",
    "read": "{1c:28}{0b:08}【 ノエル 】{0b:09}\n{10}・・・\nあたし、あなたを信じる!!\nだからっ!!!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:28}{0b:08}【 Noel 】{0b:09}\n{10}... I believe in you!! So do it!!!{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]... I believe in you!! So do it!!!"
   },
   {
    "id": "RES#1956:a8c1",
@@ -1542,8 +1626,9 @@
    "jp": "{1c:1b}{0b:08}{e080} 聖者バルカイル {e081}{0b:09}\n何故立ち上がる?\n汝は困難を{e0a3}に乗り越えてきた仲間を\n自らの手で殺すというのか!?{0c:2b5109fe}",
    "read": "{1c:1b}{0b:08}【 聖者バルカイル 】{0b:09}\n何故立ち上がる?\n汝は困難を共に乗り越えてきた仲間を\n自らの手で殺すというのか!?{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:1b}{0b:08}【 Saint Barkail 】{0b:09}\nWhy do you rise? Would you kill with your\nown hands the comrade who has\novercome hardship at your side!?{0c:2b5109fe}",
+   "status": "done",
+   "tl": "Why do you rise? Would you kill with your own hands the comrade who has overcome hardship at your side!?"
   },
   {
    "id": "RES#1956:a96b",
@@ -1553,8 +1638,9 @@
    "jp": "{1c:28}{0b:08}{e080} ノエル {e081}{0b:09}\n{10}、お願い・・・\nあたしを殺して!!{0c:fe}",
    "read": "{1c:28}{0b:08}【 ノエル 】{0b:09}\n{10}、お願い・・・\nあたしを殺して!!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:28}{0b:08}【 Noel 】{0b:09}\n{10}, please... Kill me!!{0c:fe}",
+   "status": "done",
+   "tl": "[HERO], please... Kill me!!"
   },
   {
    "id": "RES#1956:a996",
@@ -1586,8 +1672,9 @@
    "jp": "そんなこと出来ない!!|ノエル、お前のことは忘れない!",
    "read": "そんなこと出来ない!!|ノエル、お前のことは忘れない!",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I can't do that!!|Noel, I won't forget you!",
+   "status": "done",
+   "tl": "I can't do that!!|Noel, I won't forget you!"
   },
   {
    "id": "RES#1956:a9d4",
@@ -1619,8 +1706,9 @@
    "jp": "そんなこと出来ない!!|ノエル、あなたのことは忘れない!",
    "read": "そんなこと出来ない!!|ノエル、あなたのことは忘れない!",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "I can't do that!!|Noel, I won't forget you!",
+   "status": "done",
+   "tl": "I can't do that!!|Noel, I won't forget you!"
   },
   {
    "id": "RES#1956:aa02",
@@ -1663,8 +1751,9 @@
    "jp": "{1c:26}{0b:08}{e080} ノエル {e081}{0b:09}\n{10}・・・\nあなたと出逢えて\n本当によかった・・・{1a}ありがとう、{10}・・・{0c:fe}",
    "read": "{1c:26}{0b:08}【 ノエル 】{0b:09}\n{10}・・・\nあなたと出逢えて\n本当によかった・・・{1a}ありがとう、{10}・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:26}{0b:08}【 Noel 】{0b:09}\n{10}... I'm so glad I met you...{1a}Thank you, {10}...{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]... I'm so glad I met you... // Thank you, [HERO]..."
   },
   {
    "id": "RES#1956:aa62",
@@ -1685,8 +1774,9 @@
    "jp": "{1c:18}{0b:08}{e080} 不死者ファトゥム {e081}{0b:09}\n頼む・・・{0c:0280ff7901}",
    "read": "{1c:18}{0b:08}【 不死者ファトゥム 】{0b:09}\n頼む・・・{0c:0280ff7901}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Fatum the Undying 】{0b:09}\nI ask you...{0c:0280ff7901}",
+   "status": "done",
+   "tl": "I ask you..."
   },
   {
    "id": "RES#1956:aa99",
@@ -1707,8 +1797,9 @@
    "jp": "{1c:26}{0b:08}{e080} ノエル {e081}{0b:09}\n{10}・・・{1a}好きって言ってくれて\nありがとう・・・\n本当にうれしかった・・・{1a}でも、お願い・・・\nあたしを殺して・・・{1a}あたし、あなたを守りたい・・・{0c:fe}",
    "read": "{1c:26}{0b:08}【 ノエル 】{0b:09}\n{10}・・・{1a}好きって言ってくれて\nありがとう・・・\n本当にうれしかった・・・{1a}でも、お願い・・・\nあたしを殺して・・・{1a}あたし、あなたを守りたい・・・{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:26}{0b:08}【 Noel 】{0b:09}\n{10}...{1a}Thank you for saying you love me... It\nmade me so happy...{1a}But, please... Kill me...{1a}I want to protect you...{0c:fe}",
+   "status": "done",
+   "tl": "[HERO]... // Thank you for saying you love me... It made me so happy... // But, please... Kill me... // I want to protect you..."
   },
   {
    "id": "RES#1956:ab12",
@@ -1729,8 +1820,9 @@
    "jp": "{1c:18}{0b:08}{e080} 不死者ファトゥム {e081}{0b:09}\n頼む・・・{0c:0280ff7501}",
    "read": "{1c:18}{0b:08}【 不死者ファトゥム 】{0b:09}\n頼む・・・{0c:0280ff7501}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Fatum the Undying 】{0b:09}\nI ask you...{0c:0280ff7501}",
+   "status": "done",
+   "tl": "I ask you..."
   },
   {
    "id": "RES#1956:ab49",
@@ -1751,8 +1843,9 @@
    "jp": "{1c:18}{0b:08}{e080} 不死者ファトゥム {e081}{0b:09}\n頼む・・・",
    "read": "{1c:18}{0b:08}【 不死者ファトゥム 】{0b:09}\n頼む・・・",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:18}{0b:08}【 Fatum the Undying 】{0b:09}\nI ask you...",
+   "status": "done",
+   "tl": "I ask you..."
   },
   {
    "id": "RES#1956:ab79",
@@ -1829,8 +1922,9 @@
    "jp": "{1c:10}{0b:08}{e080} クムラン {e081}{0b:09}\nよく頑張りましたね、\n{10}さん。{0c:020201}",
    "read": "{1c:10}{0b:08}【 クムラン 】{0b:09}\nよく頑張りましたね、\n{10}さん。{0c:020201}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Qumran 】{0b:09}\nYou have done very well, {10}-san.{0c:020201}",
+   "status": "done",
+   "tl": "You have done very well, [HERO]-san."
   },
   {
    "id": "RES#1956:ac28",
@@ -1840,8 +1934,9 @@
    "jp": "{1c:10}{0b:08}{e080} クムラン {e081}{0b:09}\nようやく『アンスールの指{e0e9}』が\n役に立ちました。あれがなければ\n間に合わなかったかもしれません。{1a}それにしても、\nよく頑張りましたね、\n{10}さん。{0c:fe}",
    "read": "{1c:10}{0b:08}【 クムラン 】{0b:09}\nようやく『アンスールの指輪』が\n役に立ちました。あれがなければ\n間に合わなかったかもしれません。{1a}それにしても、\nよく頑張りましたね、\n{10}さん。{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:10}{0b:08}【 Qumran 】{0b:09}\nThe 'Ansur Ring' has finally proved its\nworth. Without it, we might not have\narrived in time.{1a}In any case, you have done very well,\n{10}-san.{0c:fe}",
+   "status": "done",
+   "tl": "The 'Ansur Ring' has finally proved its worth. Without it, we might not have arrived in time. // In any case, you have done very well, [HERO]-san."
   },
   {
    "id": "RES#1956:ac93",
@@ -1884,8 +1979,9 @@
    "jp": "{0c:52ff11ff19}{1c:25}{0b:08}{e080} ノエル {e081}{0b:09}\nあたし、生きてるみたい・・・{1a}{0c:52ff21ff29}でも、どうして・・・?\nあの時は本当にもう駄目かと\n思ったんだけど・・・{0c:2b5309fe}",
    "read": "{0c:52ff11ff19}{1c:25}{0b:08}【 ノエル 】{0b:09}\nあたし、生きてるみたい・・・{1a}{0c:52ff21ff29}でも、どうして・・・?\nあの時は本当にもう駄目かと\n思ったんだけど・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff11ff19}{1c:25}{0b:08}【 Noel 】{0b:09}\nI seem to be alive...{1a}{0c:52ff21ff29}But why...? I really thought that was the\nend of me...{0c:2b5309fe}",
+   "status": "done",
+   "tl": "I seem to be alive... // [1]But why...? I really thought that was the end of me..."
   },
   {
    "id": "RES#1956:ad8a",
@@ -1895,8 +1991,9 @@
    "jp": "{0c:2b512351002b531000}{0c:2b502351002b531000}{1c:10}{0b:08}{e080} クムラン {e081}{0b:09}\nノエルさんには\n{e0ea}死{e0eb}{e0ec}になってもらいました。{1a}{0c:5170}聖{e0c3}の文面からこうなる事を察知し、\n刺さった{e0ef}間に{e180}結魔{e0bf}が\n{e181}所的に{e182}動する{e084}を、\nガイウスさんと{e0a3}同で造ったのです。{1a}彼らを騙せるかどうかは\n賭けでしたが・・・{0c:2b5109fe}",
    "read": "{0c:2b512351002b531000}{0c:2b502351002b531000}{1c:10}{0b:08}【 クムラン 】{0b:09}\nノエルさんには\n仮死状態になってもらいました。{1a}{0c:5170}聖書の文面からこうなる事を察知し、\n刺さった瞬間に凍結魔法が\n局所的に作動する槍を、\nガイウスさんと共同で造ったのです。{1a}彼らを騙せるかどうかは\n賭けでしたが・・・{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:2b512351002b531000}{0c:2b502351002b531000}{1c:10}{0b:08}【 Qumran 】{0b:09}\nI put Noel-san into a state of suspended\nanimation.{1a}{0c:5170}The wording of the Scriptures warned\nme of this, so I worked with Gaius-san\nto make a spear that casts freezing\nmagic on just the spot it pierces, the{1a}moment it strikes.{1a}Whether it would fool them was a gamble,\nthough...{0c:2b5109fe}",
+   "status": "done",
+   "tl": "I put Noel-san into a state of suspended animation. // [1]The wording of the Scriptures warned me of this, so I worked with Gaius-san to make a spear that casts freezing magic on just the spot it pierces, the moment it strikes. // Whether it would fool them was a gamble, though..."
   },
   {
    "id": "RES#1956:ae48",
@@ -1906,8 +2003,9 @@
    "jp": "{1c:25}{0b:08}{e080} ノエル {e081}{0b:09}\nそうだったんですか・・・{1a}でも恥ずかしい・・・\nあんなセリフ、\n大声で叫んじゃって・・・{0c:2b5309fe}",
    "read": "{1c:25}{0b:08}【 ノエル 】{0b:09}\nそうだったんですか・・・{1a}でも恥ずかしい・・・\nあんなセリフ、\n大声で叫んじゃって・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:25}{0b:08}【 Noel 】{0b:09}\nSo that is what happened...{1a}But how embarrassing... Screaming out\nthings like that, so loud...{0c:2b5309fe}",
+   "status": "done",
+   "tl": "So that is what happened... // But how embarrassing... Screaming out things like that, so loud..."
   },
   {
    "id": "RES#1956:ae93",
@@ -1917,8 +2015,9 @@
    "jp": "{0c:527840}{1c:12}{0b:08}{e080} クムラン {e081}{0b:09}\nすみませんでした、\nノエルさん、{10}さん。{1a}この事をお伝えする時間が\nなかったものですから。{0c:2b5109fe}",
    "read": "{0c:527840}{1c:12}{0b:08}【 クムラン 】{0b:09}\nすみませんでした、\nノエルさん、{10}さん。{1a}この事をお伝えする時間が\nなかったものですから。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:527840}{1c:12}{0b:08}【 Qumran 】{0b:09}\nI am sorry, Noel-san, {10}-san.{1a}There was simply no time to tell you.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "I am sorry, Noel-san, [HERO]-san. // There was simply no time to tell you."
   },
   {
    "id": "RES#1956:aee5",
@@ -1928,8 +2027,9 @@
    "jp": "{0c:52ff31ff39}{1c:26}{0b:08}{e080} ノエル {e081}{0b:09}\nいいえ、クムランさん。\nそのおかげでこうやって\n生きてられるんだから。{1a}{0c:52ff41ff49}あれ、そういえば\nファトゥムさんは・・・{0c:2b5509fe}",
    "read": "{0c:52ff31ff39}{1c:26}{0b:08}【 ノエル 】{0b:09}\nいいえ、クムランさん。\nそのおかげでこうやって\n生きてられるんだから。{1a}{0c:52ff41ff49}あれ、そういえば\nファトゥムさんは・・・{0c:2b5509fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:52ff31ff39}{1c:26}{0b:08}【 Noel 】{0b:09}\nNot at all, Qumran-san. That's why I'm\nalive right now, after all.{1a}{0c:52ff41ff49}Oh, come to think of it, where's\nFatum-san...{0c:2b5509fe}",
+   "status": "done",
+   "tl": "Not at all, Qumran-san. That's why I'm alive right now, after all. // [1]Oh, come to think of it, where's Fatum-san..."
   },
   {
    "id": "RES#1956:af49",
@@ -1939,8 +2039,9 @@
    "jp": "{0c:51301004}{1c:14}{0b:08}{e080} {e0b7}{e0b8}ティアラ {e081}{0b:09}\nファトゥムさんは\n{0c:2b512351002b551000}{0c:2b502351002b551000}サディーヤさんと一緒に地上に・・・\nでも・・・{0c:5118}{0c:2b5309fe}",
    "read": "{0c:51301004}{1c:14}{0b:08}【 司祭ティアラ 】{0b:09}\nファトゥムさんは\n{0c:2b512351002b551000}{0c:2b502351002b551000}サディーヤさんと一緒に地上に・・・\nでも・・・{0c:5118}{0c:2b5309fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{0c:51301004}{1c:14}{0b:08}【 Priest Tiara 】{0b:09}\nFatum-san {0c:2b512351002b551000}{0c:2b502351002b551000}has gone up to the surface\nwith Sadiya-san... But...{0c:5118}{0c:2b5309fe}",
+   "status": "done",
+   "tl": "Fatum-san [1]has gone up to the surface with Sadiya-san... But..."
   },
   {
    "id": "RES#1956:afad",
@@ -1950,8 +2051,9 @@
    "jp": "{1c:12}{0b:08}{e080} クムラン {e081}{0b:09}\n体の傷は{e186}っているのですが、\n意識が戻らないのです。{1a}{0c:5170}{0c:2b512351002b531000}{0c:2b502351002b531000}ファトゥムさんの望んでいた\n永遠の眠り、\nそれがこのような{e083}で\n訪れるなんて・・・{1a}途中でファトゥムさんと\nはぐれてしまったことを\n後悔しています。{0c:2b5109fe}",
    "read": "{1c:12}{0b:08}【 クムラン 】{0b:09}\n体の傷は治っているのですが、\n意識が戻らないのです。{1a}{0c:5170}{0c:2b512351002b531000}{0c:2b502351002b531000}ファトゥムさんの望んでいた\n永遠の眠り、\nそれがこのような形で\n訪れるなんて・・・{1a}途中でファトゥムさんと\nはぐれてしまったことを\n後悔しています。{0c:2b5109fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:12}{0b:08}【 Qumran 】{0b:09}\nThe wounds to his body have healed, but\nhe has not regained consciousness.{1a}{0c:5170}{0c:2b512351002b531000}{0c:2b502351002b531000}The eternal sleep Fatum-san longed for,\nand it should come in such a form...{1a}I regret having lost track of Fatum-san\nalong the way.{0c:2b5109fe}",
+   "status": "done",
+   "tl": "The wounds to his body have healed, but he has not regained consciousness. // [1]The eternal sleep Fatum-san longed for, and it should come in such a form... // I regret having lost track of Fatum-san along the way."
   },
   {
    "id": "RES#1956:b05a",
@@ -1984,8 +2086,9 @@
    "jp": "{1c:11}{0b:08}{e080} クムラン {e081}{0b:09}\n急ぎましょう!\n扉が閉じてしまいます!!{0c:fe}",
    "read": "{1c:11}{0b:08}【 クムラン 】{0b:09}\n急ぎましょう!\n扉が閉じてしまいます!!{0c:fe}",
    "raw": null,
-   "en": "",
-   "status": "todo"
+   "en": "{1c:11}{0b:08}【 Qumran 】{0b:09}\nLet us hurry! The door is closing!!{0c:fe}",
+   "status": "done",
+   "tl": "Let us hurry! The door is closing!!"
   },
   {
    "id": "RES#1956:b10f",
