@@ -12,4 +12,6 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 
 | File | Covers | State |
 |---|---|---|
-| <text.md> | <encoding, control codes, pointer tables> | <verified / partly guessed> |
+| disc.md | disc files, MAIN.RES archive, scene overlays, free space | archive and overlay layout verified; free space partly guessed |
+| text.md | encoding, control codes, M4/M2 banks, font, reader routines | verified on decoded lines; argument counts need the phase 4 roundtrip |
+| graphics.md | formats and the survey of Japanese drawn as graphics | static sweep done; mid-game screens need the debug tool |

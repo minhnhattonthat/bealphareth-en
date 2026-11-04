@@ -1,6 +1,6 @@
-# <Game title> English translation
+# Bealphareth English translation
 
-Unofficial English fan translation of **<Game title>** (<platform>, <publisher>, <year>): the source text and tools
+Unofficial English fan translation of **Bealphareth** (PlayStation, Sony Computer Entertainment, 2000): the source text and tools
 that build the patch.
 
 **Just want to play?** Download the patch from [Releases](../../releases) and follow its README. This repository holds
@@ -13,13 +13,13 @@ helps most.
 
 | Part | Status |
 |---|---|
-| <Dialogue / story> | <Translated> |
-| <Menus, items, skills, system messages> | <Translated> |
-| <Title screen, logos, graphics with text> | <Translated / Left in Japanese> |
-| <Name entry> | <Translated / Japanese kana only> |
-| <Songs, voiced lines, credits roll> | <Left in Japanese> |
+| Dialogue / story | Not started |
+| Menus, items, skills, system messages | Not started |
+| Item cards, documents, mission title cards, endings (drawn as graphics) | Not started |
+| Prologue video subtitles | Not started |
+| Name entry | Not started |
 
-Known issues: <none known / see [Issues](../../issues)>.
+Work in progress: no patch is available yet. Known issues: none (no build).
 
 ## What's here
 
@@ -40,11 +40,12 @@ Known issues: <none known / see [Issues](../../issues)>.
 Needs Python 3.12+ and your own dump of the Japanese game.
 
 ```sh
-git clone https://github.com/minhnhattonthat/<repo>
-cd <repo>
-# copy your dump to: rom/<file>
-#   (<size> bytes, SHA-1 <sha1>; the build refuses any other dump, see rom.sha1)
-python -X utf8 tools/build.py                          # -> build/<game>_en.<ext>
+git clone https://github.com/minhnhattonthat/bealphareth-en
+cd bealphareth-en
+git config core.hooksPath tools/hooks
+# copy your dump to: rom/Bealphareth (Japan).bin and .cue
+#   (.bin: 706733664 bytes, SHA-1 81c2845c671f57f8937748b39ba809ac2c050aaa; the build refuses any other dump, see rom.sha1)
+python -X utf8 tools/build.py                          # -> build/bealphareth_en.cue/.bin (not written yet)
 python -X utf8 tools/check.py                          # tests + text lint
 ```
 
@@ -56,8 +57,8 @@ If you enjoy this translation, you can support my work on Ko-fi:
 
 ## Licence
 
-Tools and English translation: MIT. The original Japanese text in `script/` is <publisher>'s and is included only so
-the translation can be checked against it. <Game title> is (c) <publisher>; this project is not affiliated with them.
+Tools and English translation: MIT. The original Japanese text in `script/` is Sony Computer Entertainment's and is included only so
+the translation can be checked against it. Bealphareth is (c) Sony Computer Entertainment; this project is not affiliated with them.
 Do not share patched ROMs.
 
 The translation was made with extensive AI assistance (Claude by Anthropic). Corrections are very welcome.

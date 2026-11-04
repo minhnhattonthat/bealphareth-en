@@ -10,7 +10,7 @@ No Shift-JIS game text anywhere; a raw SJIS scan finds only debug and save-title
 ```
 `lbu 0(a0)=='M'`; second byte '4' or '2' picks the width. Lookup: 0x80050974 (bank, i), 0x80050B84 (bank, id), 0x80050C1C (id, from the global bank pointer at 0x800BEAB0 = 0x801BE52C at run time).
 
-`tools/mscan.py` (+ `work/qa/banks.tsv`): 15 M4 and 325 M2 banks, **60,464 unique strings, 2.78 MB** (66,579 / 3.0 MB with duplicates; repeated banks: e.g. #1194/1195/1196/1198, #6/#7).
+`tools/mscan.py` (+ `work/qa/banks.tsv`): 15 M4 and 325 M2 banks, **60,464 unique strings, 2.78 MB** (66,579 / 3.0 MB with duplicates; repeated banks: e.g. #1194/1195/1196/1198, #6/#7). Its M4 count is low: it only accepts an M4 whose parts are all M2, so the usual scene form (glyphs + M2) is counted through its M2. Strings are correct; some early M2 hits may be false (phase 4 proves them by roundtrip). M4 parts may be glyphs (see E0xx) or images (#1049 part 1 is a palette + tiles).
 - The M2 in a scene holds the event script: each string is one event chunk (text + inline script opcodes).
 - `PSX.EXE` +0x1B4C0 M4 (7 parts, 1,737 strings, 30,660 bytes): system text: items, skills, status. **`RES#3927` holds a second copy of the same M4**: keep in sync.
 - **`MAIN.EXE` has raw strings too**, NUL-separated with no bank, e.g. file 0x3725 `01 48 50 02 ...` (status help). Phase 4 needs a sweep for these, and for literal tables in scene code, with `jp_left`-style checks.
@@ -32,7 +32,7 @@ Byte stream, mode-shifted:
 | `9F xx` | large glyph, 88 bytes per cell, from a separate table (0x80031610) |
 | `FD-FF` | one-byte codes (0x8005088C) |
 
-`E0 xx` appears in scripts (老 = E080 in 初老の男) and renders on screen, but the index formula reads zeros at 0x801E4D4C, so **E0xx source is a guess**: per-scene or a second table. Phase 4 must resolve it before the table is final.
+**`E0 xx` = per-scene extra kanji (verified):** a scene's `M4` part 0 is a bank of 16-byte 11x11 glyphs, cell `lo-0x80`: glyph 0 of #1023's part 0 (scene +0x22FDC) is 老, and 老 is E080 in 初老の男 on screen. Part 1 is the M2 script. So a kanji decode table is per scene for E0xx (read glyphs, not codes), and English builds can drop part 0.
 
 Arg counts above are from 0x8004FBA4-0x8004FD8C and 0x800507C8-0x800508E8 (string copy and measure). Phase 4 must prove them with a roundtrip over all banks.
 
