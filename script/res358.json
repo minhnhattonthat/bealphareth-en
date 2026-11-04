@@ -599,7 +599,7 @@
    "jp": "{1c:1c}ねえ{10}、\n{10}もやっぱりサラみたいな\n家庭的な子がいいんでしょ?{0c:fe}",
    "read": "{1c:1c}ねえ{10}、\n{10}もやっぱりサラみたいな\n家庭的な子がいいんでしょ?{0c:fe}",
    "raw": null,
-   "en": "{1c:1c}Hey, {10}. You'd go for a homey\ngirl like Sara too, wouldn't you,\n{10}?{0c:fe}",
+   "en": "{1c:1c}Hey, {10}. You'd go for a homey\ngirl like Sara too, wouldn't\nyou, {10}?{0c:fe}",
    "status": "done",
    "tl": "Hey, [HERO]. You'd go for a homey girl like Sara too, wouldn't you, [HERO]?"
   },
@@ -645,7 +645,7 @@
    "jp": "{1c:1c}{0b:08}【 ジェシカ 】{0b:09}\nあれぇ?\nサラの方が顔真っ赤にしてさ。{1a}{0c:522100}良かったね、{10}。\nサラもまんざらじゃ\nないみたいよ。{0c:fe}",
    "read": "{1c:1c}{0b:08}【 ジェシカ 】{0b:09}\nあれぇ?\nサラの方が顔真っ赤にしてさ。{1a}{0c:522100}良かったね、{10}。\nサラもまんざらじゃ\nないみたいよ。{0c:fe}",
    "raw": null,
-   "en": "{1c:1c}{0b:08}【 Jessica 】{0b:09}\nHuh? Now Sara's the one turning bright\nred.{1a}{0c:522100}Lucky you, {10}. Looks like Sara\ndoesn't mind one bit.{0c:fe}",
+   "en": "{1c:1c}{0b:08}【 Jessica 】{0b:09}\nHuh? Now Sara's the one turning\nbright red.{1a}{0c:522100}Lucky you, {10}. Looks like Sara\ndoesn't mind one bit.{0c:fe}",
    "status": "done",
    "tl": "Huh? Now Sara's the one turning bright red. // [1]Lucky you, [HERO]. Looks like Sara doesn't mind one bit."
   },
@@ -1469,7 +1469,7 @@
    "jp": "{1c:10}{0b:08}【 サラ 】{0b:09}\n良くなって本当によかったね。\nみんな{10}さんの帰り\n待ってたんだよ。{1a}あとは{0b:05}{14}さんだけだね。\n今度は{10}さんも手伝ってね。{0c:fe}",
    "read": "{1c:10}{0b:08}【 サラ 】{0b:09}\n良くなって本当によかったね。\nみんな{10}さんの帰り\n待ってたんだよ。{1a}あとは{0b:05}{14}さんだけだね。\n今度は{10}さんも手伝ってね。{0c:fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Sara 】{0b:09}\nI'm so glad you got better. Everyone was\nwaiting for you to come back,\n{10}-san.{1a}Now there's only {0b:05}{14}-san\nleft. This time you can help too, okay,\n{10}-san?{0c:fe}",
+   "en": "{1c:10}{0b:08}【 Sara 】{0b:09}\nI'm so glad you got better. Everyone was\nwaiting for you to come\nback, {10}-san.{1a}Now there's only {0b:05}{14}-san\nleft. This time you can help too,\nokay, {10}-san?{0c:fe}",
    "status": "done",
    "tl": "I'm so glad you got better. Everyone was waiting for you to come back, [HERO]-san. // Now there's only [1][VAR14]-san left. This time you can help too, okay, [HERO]-san?"
   },
@@ -1574,7 +1574,7 @@
    "jp": "{1c:10}{0b:08}【 サラ 】{0b:09}\n良くなって本当によかったね。\nみんな{10}さんの帰り\n待ってたんだよ。{1a}あとは{0b:05}{14}さんだけだね。\n今度は{10}さんも手伝ってね。{0c:15}",
    "read": "{1c:10}{0b:08}【 サラ 】{0b:09}\n良くなって本当によかったね。\nみんな{10}さんの帰り\n待ってたんだよ。{1a}あとは{0b:05}{14}さんだけだね。\n今度は{10}さんも手伝ってね。{0c:15}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Sara 】{0b:09}\nI'm so glad you got better. Everyone was\nwaiting for you to come back,\n{10}-san.{1a}Now there's only {0b:05}{14}-san\nleft. This time you can help too, okay,\n{10}-san?{0c:15}",
+   "en": "{1c:10}{0b:08}【 Sara 】{0b:09}\nI'm so glad you got better. Everyone was\nwaiting for you to come\nback, {10}-san.{1a}Now there's only {0b:05}{14}-san\nleft. This time you can help too,\nokay, {10}-san?{0c:15}",
    "status": "done",
    "tl": "I'm so glad you got better. Everyone was waiting for you to come back, [HERO]-san. // Now there's only [1][VAR14]-san left. This time you can help too, okay, [HERO]-san?"
   },
@@ -1632,7 +1632,7 @@
    "jp": "{1c:10}{0b:08}【 サラ 】{0b:09}\n目が覚めたら\nあんなことになっちゃって\nびっくりしちゃったね・・・{1a}でも、めげないでがんばろうね!{0c:fe}",
    "read": "{1c:10}{0b:08}【 サラ 】{0b:09}\n目が覚めたら\nあんなことになっちゃって\nびっくりしちゃったね・・・{1a}でも、めげないでがんばろうね!{0c:fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Sara 】{0b:09}\nYou must have been so shocked, waking\nup to all that...{1a}But let's not lose heart, and do our\nbest!{0c:fe}",
+   "en": "{1c:10}{0b:08}【 Sara 】{0b:09}\nYou must have been so shocked, waking\nup to all that...{1a}But let's not lose heart, and do\nour best!{0c:fe}",
    "status": "done",
    "tl": "You must have been so shocked, waking up to all that... // But let's not lose heart, and do our best!"
   },
@@ -1655,7 +1655,7 @@
    "jp": "{1c:10}うん、がんばって\n{0b:05}{14}さん助けようね!",
    "read": "{1c:10}うん、がんばって\n{0b:05}{14}さん助けようね!",
    "raw": null,
-   "en": "{1c:10}Okay, let's do our best and save\n{0b:05}{14}-san!",
+   "en": "{1c:10}Okay, let's do our best and\nsave {0b:05}{14}-san!",
    "status": "done",
    "tl": "Okay, let's do our best and save [1][VAR14]-san!"
   },
@@ -1748,7 +1748,7 @@
    "jp": "{1c:10}{0b:08}【 サラ 】{0b:09}\n目が覚めたら\nあんなことになっちゃって\nびっくりしちゃったね・・・{1a}でも、めげないでがんばろうね!{0c:4c0c09fe}",
    "read": "{1c:10}{0b:08}【 サラ 】{0b:09}\n目が覚めたら\nあんなことになっちゃって\nびっくりしちゃったね・・・{1a}でも、めげないでがんばろうね!{0c:4c0c09fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Sara 】{0b:09}\nYou must have been so shocked, waking\nup to all that...{1a}But let's not lose heart, and do our\nbest!{0c:4c0c09fe}",
+   "en": "{1c:10}{0b:08}【 Sara 】{0b:09}\nYou must have been so shocked, waking\nup to all that...{1a}But let's not lose heart, and do\nour best!{0c:4c0c09fe}",
    "status": "done",
    "tl": "You must have been so shocked, waking up to all that... // But let's not lose heart, and do our best!"
   },
@@ -1829,7 +1829,7 @@
    "jp": "{1c:10}{0b:08}【 サラ 】{0b:09}\nうん、がんばって\n{0b:05}{14}さん助けようね!{0c:fe}",
    "read": "{1c:10}{0b:08}【 サラ 】{0b:09}\nうん、がんばって\n{0b:05}{14}さん助けようね!{0c:fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Sara 】{0b:09}\nOkay, let's do our best and save\n{0b:05}{14}-san!{0c:fe}",
+   "en": "{1c:10}{0b:08}【 Sara 】{0b:09}\nOkay, let's do our best and\nsave {0b:05}{14}-san!{0c:fe}",
    "status": "done",
    "tl": "Okay, let's do our best and save [1][VAR14]-san!"
   },
@@ -2024,7 +2024,7 @@
    "jp": "{1c:10}{0b:08}【 サラ 】{0b:09}\n目が覚めたら\nあんなことになっちゃって\nびっくりしちゃったね・・・{1a}でも、めげないでがんばろうね!{0c:15}",
    "read": "{1c:10}{0b:08}【 サラ 】{0b:09}\n目が覚めたら\nあんなことになっちゃって\nびっくりしちゃったね・・・{1a}でも、めげないでがんばろうね!{0c:15}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Sara 】{0b:09}\nYou must have been so shocked, waking\nup to all that...{1a}But let's not lose heart, and do our\nbest!{0c:15}",
+   "en": "{1c:10}{0b:08}【 Sara 】{0b:09}\nYou must have been so shocked, waking\nup to all that...{1a}But let's not lose heart, and do\nour best!{0c:15}",
    "status": "done",
    "tl": "You must have been so shocked, waking up to all that... // But let's not lose heart, and do our best!"
   },
@@ -2105,7 +2105,7 @@
    "jp": "{1c:10}うん、一緒にがんばろうね。\n早く{0b:05}{14}さんを助けなきゃ!",
    "read": "{1c:10}うん、一緒にがんばろうね。\n早く{0b:05}{14}さんを助けなきゃ!",
    "raw": null,
-   "en": "{1c:10}Okay, let's do our best together. We\nhave to save {0b:05}{14}-san\nsoon!",
+   "en": "{1c:10}Okay, let's do our best together. We\nhave to save\n{0b:05}{14}-san soon!",
    "status": "done",
    "tl": "Okay, let's do our best together. We have to save [1][VAR14]-san soon!"
   },
@@ -2222,7 +2222,7 @@
    "jp": "{1c:10}{0b:08}【 サラ 】{0b:09}\nあら、お揃いでどうしたの?{0c:fe}",
    "read": "{1c:10}{0b:08}【 サラ 】{0b:09}\nあら、お揃いでどうしたの?{0c:fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Sara 】{0b:09}\nOh, what's everyone doing here\ntogether?{0c:fe}",
+   "en": "{1c:10}{0b:08}【 Sara 】{0b:09}\nOh, what's everyone doing\nhere together?{0c:fe}",
    "status": "done",
    "tl": "Oh, what's everyone doing here together?"
   },
@@ -2360,7 +2360,7 @@
    "jp": "{1c:10}{0b:08}【 サラ 】{0b:09}\nうん、一緒にがんばろうね。\n早く{0b:05}{14}さんを助けなきゃ!{0c:fe}",
    "read": "{1c:10}{0b:08}【 サラ 】{0b:09}\nうん、一緒にがんばろうね。\n早く{0b:05}{14}さんを助けなきゃ!{0c:fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Sara 】{0b:09}\nOkay, let's do our best together. We\nhave to save {0b:05}{14}-san\nsoon!{0c:fe}",
+   "en": "{1c:10}{0b:08}【 Sara 】{0b:09}\nOkay, let's do our best together. We\nhave to save\n{0b:05}{14}-san soon!{0c:fe}",
    "status": "done",
    "tl": "Okay, let's do our best together. We have to save [1][VAR14]-san soon!"
   },
@@ -2417,7 +2417,7 @@
    "jp": "{1c:1e}{0b:08}【 アーサー 】{0b:09}\nじゃあ仕方がないな。\n行こう、{10}。{0c:fe}",
    "read": "{1c:1e}{0b:08}【 アーサー 】{0b:09}\nじゃあ仕方がないな。\n行こう、{10}。{0c:fe}",
    "raw": null,
-   "en": "{1c:1e}{0b:08}【 Arthur 】{0b:09}\nThen it can't be helped. Let's go,\n{10}.{0c:fe}",
+   "en": "{1c:1e}{0b:08}【 Arthur 】{0b:09}\nThen it can't be helped. Let's\ngo, {10}.{0c:fe}",
    "status": "done",
    "tl": "Then it can't be helped. Let's go, [HERO]."
   },
@@ -2614,7 +2614,7 @@
    "jp": "{0c:31501851486000e000921006}{1c:12}{0b:08}【 サラ 】{0b:09}\n優しくて暖かい人だったね、\nバルデスさん・・・{1a}{0c:5115}でも、もう会えないんだ・・・{0c:fe}",
    "read": "{0c:31501851486000e000921006}{1c:12}{0b:08}【 サラ 】{0b:09}\n優しくて暖かい人だったね、\nバルデスさん・・・{1a}{0c:5115}でも、もう会えないんだ・・・{0c:fe}",
    "raw": null,
-   "en": "{0c:31501851486000e000921006}{1c:12}{0b:08}【 Sara 】{0b:09}\nHe was such a kind, warm person,\nValdes-san...{1a}{0c:5115}But we can never see him again...{0c:fe}",
+   "en": "{0c:31501851486000e000921006}{1c:12}{0b:08}【 Sara 】{0b:09}\nHe was such a kind, warm\nperson, Valdes-san...{1a}{0c:5115}But we can never see him again...{0c:fe}",
    "status": "done",
    "tl": "He was such a kind, warm person, Valdes-san... // [1]But we can never see him again..."
   },
@@ -2671,7 +2671,7 @@
    "jp": "{1c:14}ごめんなさい、\n他の人と行く約束しちゃったの。\n別の人をあたってくれるかな。{0c:3aff17}",
    "read": "{1c:14}ごめんなさい、\n他の人と行く約束しちゃったの。\n別の人をあたってくれるかな。{0c:3aff17}",
    "raw": null,
-   "en": "{1c:14}I'm sorry, I promised to go with someone\nelse. Could you try asking somebody\nelse?{0c:3aff17}",
+   "en": "{1c:14}I'm sorry, I promised to go with someone\nelse. Could you try asking\nsomebody else?{0c:3aff17}",
    "status": "done",
    "tl": "I'm sorry, I promised to go with someone else. Could you try asking somebody else?"
   },
@@ -2729,7 +2729,7 @@
    "jp": "{1c:12}{0b:08}【 サラ 】{0b:09}\n優しくて暖かい人だったね、\nバルデスさん・・・{1a}{0c:5115}でも、もう会えないんだ・・・{0c:15}",
    "read": "{1c:12}{0b:08}【 サラ 】{0b:09}\n優しくて暖かい人だったね、\nバルデスさん・・・{1a}{0c:5115}でも、もう会えないんだ・・・{0c:15}",
    "raw": null,
-   "en": "{1c:12}{0b:08}【 Sara 】{0b:09}\nHe was such a kind, warm person,\nValdes-san...{1a}{0c:5115}But we can never see him again...{0c:15}",
+   "en": "{1c:12}{0b:08}【 Sara 】{0b:09}\nHe was such a kind, warm\nperson, Valdes-san...{1a}{0c:5115}But we can never see him again...{0c:15}",
    "status": "done",
    "tl": "He was such a kind, warm person, Valdes-san... // [1]But we can never see him again..."
   },
@@ -2752,7 +2752,7 @@
    "jp": "{1c:14}がんばってね、みんな。\nあたしもがんばる・・・{0c:02ff}",
    "read": "{1c:14}がんばってね、みんな。\nあたしもがんばる・・・{0c:02ff}",
    "raw": null,
-   "en": "{1c:14}Do your best, everyone. I'll do my best\ntoo...{0c:02ff}",
+   "en": "{1c:14}Do your best, everyone. I'll do my\nbest too...{0c:02ff}",
    "status": "done",
    "tl": "Do your best, everyone. I'll do my best too..."
   },
@@ -2810,7 +2810,7 @@
    "jp": "{1c:13}ごめんなさい、\n他の人と行く約束しちゃったの。\n別の人をあたってくれるかな。{0c:16}",
    "read": "{1c:13}ごめんなさい、\n他の人と行く約束しちゃったの。\n別の人をあたってくれるかな。{0c:16}",
    "raw": null,
-   "en": "{1c:13}I'm sorry, I promised to go with someone\nelse. Could you try asking somebody\nelse?{0c:16}",
+   "en": "{1c:13}I'm sorry, I promised to go with someone\nelse. Could you try asking\nsomebody else?{0c:16}",
    "status": "done",
    "tl": "I'm sorry, I promised to go with someone else. Could you try asking somebody else?"
   },
@@ -2927,7 +2927,7 @@
    "jp": "{1c:11}ううん・・・\n{10}さんが誘うのは\nあたしじゃないよ。{0c:16}",
    "read": "{1c:11}ううん・・・\n{10}さんが誘うのは\nあたしじゃないよ。{0c:16}",
    "raw": null,
-   "en": "{1c:11}No... I'm not the one you should be asking,\n{10}-san.{0c:16}",
+   "en": "{1c:11}No... I'm not the one you should be\nasking, {10}-san.{0c:16}",
    "status": "done",
    "tl": "No... I'm not the one you should be asking, [HERO]-san."
   },
@@ -3009,7 +3009,7 @@
    "jp": "{1c:10}がんばってね、\n{11}さん、{10}さん。",
    "read": "{1c:10}がんばってね、\n{11}さん、{10}さん。",
    "raw": null,
-   "en": "{1c:10}Do your best, {11}-san,\n{10}-san.",
+   "en": "{1c:10}Do your best,\n{11}-san, {10}-san.",
    "status": "done",
    "tl": "Do your best, [VAR11]-san, [HERO]-san."
   },
@@ -3078,7 +3078,7 @@
    "jp": "{1c:11}えっ、あたし?\nう、うん、一緒にがんばろうね。",
    "read": "{1c:11}えっ、あたし?\nう、うん、一緒にがんばろうね。",
    "raw": null,
-   "en": "{1c:11}Huh, me? O-okay, let's do our best\ntogether.",
+   "en": "{1c:11}Huh, me? O-okay, let's do our\nbest together.",
    "status": "done",
    "tl": "Huh, me? O-okay, let's do our best together."
   },
@@ -3090,7 +3090,7 @@
    "jp": "{1c:14}ごめんなさい、\n他の子と行く約束しちゃったから。{0c:16}",
    "read": "{1c:14}ごめんなさい、\n他の子と行く約束しちゃったから。{0c:16}",
    "raw": null,
-   "en": "{1c:14}I'm sorry, I promised to go with somebody\nelse.{0c:16}",
+   "en": "{1c:14}I'm sorry, I promised to go with\nsomebody else.{0c:16}",
    "status": "done",
    "tl": "I'm sorry, I promised to go with somebody else."
   },
@@ -3323,7 +3323,7 @@
    "jp": "{1c:10}{0b:08}【 サラ 】{0b:09}\nいらっしゃい、\n{10}さん、{11}さん。{0c:fe}",
    "read": "{1c:10}{0b:08}【 サラ 】{0b:09}\nいらっしゃい、\n{10}さん、{11}さん。{0c:fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Sara 】{0b:09}\nWelcome, {10}-san,\n{11}-san.{0c:fe}",
+   "en": "{1c:10}{0b:08}【 Sara 】{0b:09}\nWelcome,\n{10}-san, {11}-san.{0c:fe}",
    "status": "done",
    "tl": "Welcome, [HERO]-san, [VAR11]-san."
   },
@@ -3346,7 +3346,7 @@
    "jp": "{1c:10}{0b:08}【 サラ 】{0b:09}\n今から出かけるんだよね。\nがんばってね。{0c:15}",
    "read": "{1c:10}{0b:08}【 サラ 】{0b:09}\n今から出かけるんだよね。\nがんばってね。{0c:15}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Sara 】{0b:09}\nYou're heading out now, right? Do your\nbest.{0c:15}",
+   "en": "{1c:10}{0b:08}【 Sara 】{0b:09}\nYou're heading out now, right? Do\nyour best.{0c:15}",
    "status": "done",
    "tl": "You're heading out now, right? Do your best."
   },
@@ -3358,7 +3358,7 @@
    "jp": "{1c:10}無事に帰ってきてね、\n{10}さん、{11}さん。",
    "read": "{1c:10}無事に帰ってきてね、\n{10}さん、{11}さん。",
    "raw": null,
-   "en": "{1c:10}Come back safe, {10}-san,\n{11}-san.",
+   "en": "{1c:10}Come back safe,\n{10}-san, {11}-san.",
    "status": "done",
    "tl": "Come back safe, [HERO]-san, [VAR11]-san."
   },
@@ -3382,7 +3382,7 @@
    "jp": "{1c:10}{10}さん、\nどうしちゃったの・・・?{0c:51ffffffff54151e}",
    "read": "{1c:10}{10}さん、\nどうしちゃったの・・・?{0c:51ffffffff54151e}",
    "raw": null,
-   "en": "{1c:10}{10}-san, what's wrong with\nyou...?{0c:51ffffffff54151e}",
+   "en": "{1c:10}{10}-san, what's wrong\nwith you...?{0c:51ffffffff54151e}",
    "status": "done",
    "tl": "[HERO]-san, what's wrong with you...?"
   },
@@ -3429,7 +3429,7 @@
    "jp": "{1c:10}{10}さん、\nどうしちゃったの・・・?{0c:51ffffffff54151e}",
    "read": "{1c:10}{10}さん、\nどうしちゃったの・・・?{0c:51ffffffff54151e}",
    "raw": null,
-   "en": "{1c:10}{10}-san, what's wrong with\nyou...?{0c:51ffffffff54151e}",
+   "en": "{1c:10}{10}-san, what's wrong\nwith you...?{0c:51ffffffff54151e}",
    "status": "done",
    "tl": "[HERO]-san, what's wrong with you...?"
   },
@@ -3523,7 +3523,7 @@
    "jp": "{1c:10}{10}さん・・・\nどうして仲良く出来ないの・・・?{0c:1501}",
    "read": "{1c:10}{10}さん・・・\nどうして仲良く出来ないの・・・?{0c:1501}",
    "raw": null,
-   "en": "{1c:10}{10}-san... Why can't we all get\nalong...?{0c:1501}",
+   "en": "{1c:10}{10}-san... Why can't we all\nget along...?{0c:1501}",
    "status": "done",
    "tl": "[HERO]-san... Why can't we all get along...?"
   },
@@ -3978,7 +3978,7 @@
    "jp": "{1c:10}どうして・・・\nどうしてそんなことをするの・・・?",
    "read": "{1c:10}どうして・・・\nどうしてそんなことをするの・・・?",
    "raw": null,
-   "en": "{1c:10}Why... Why would you do something like\nthat...?",
+   "en": "{1c:10}Why... Why would you do something\nlike that...?",
    "status": "done",
    "tl": "Why... Why would you do something like that...?"
   }

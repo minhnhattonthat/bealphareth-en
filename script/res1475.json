@@ -511,7 +511,7 @@
    "jp": "{0c:5110}{1c:1e}{0b:08}{e080} オルフェウス {e081}{0b:09}\nティアラさん、{0b:05}{14}さんは?{0c:020601}",
    "read": "{0c:5110}{1c:1e}{0b:08}【 オルフェウス 】{0b:09}\nティアラさん、{0b:05}{14}さんは?{0c:020601}",
    "raw": null,
-   "en": "{0c:5110}{1c:1e}{0b:08}【 Orpheus 】{0b:09}\nTiara-san, and how is\n{0b:05}{14}-san?{0c:020601}",
+   "en": "{0c:5110}{1c:1e}{0b:08}【 Orpheus 】{0b:09}\nTiara-san, and how\nis {0b:05}{14}-san?{0c:020601}",
    "status": "done",
    "tl": "Tiara-san, and how is [1][VAR14]-san?"
   },
@@ -671,7 +671,7 @@
    "jp": "{1c:11}{0b:05}{14}さんは無事\nお目覚めになりました。{0c:fe}",
    "read": "{1c:11}{0b:05}{14}さんは無事\nお目覚めになりました。{0c:fe}",
    "raw": null,
-   "en": "{1c:11}{0b:05}{14}-san has awoken\nsafely.{0c:fe}",
+   "en": "{1c:11}{0b:05}{14}-san has\nawoken safely.{0c:fe}",
    "status": "done",
    "tl": "[VAR14]-san has awoken safely."
   },
@@ -1187,7 +1187,7 @@
    "jp": "{0c:5110}{1c:1e}{0b:08}{e080} オルフェウス {e081}{0b:09}\nティアラさん、{0b:05}{14}さんは?{0c:020601}",
    "read": "{0c:5110}{1c:1e}{0b:08}【 オルフェウス 】{0b:09}\nティアラさん、{0b:05}{14}さんは?{0c:020601}",
    "raw": null,
-   "en": "{0c:5110}{1c:1e}{0b:08}【 Orpheus 】{0b:09}\nTiara-san, and how is\n{0b:05}{14}-san?{0c:020601}",
+   "en": "{0c:5110}{1c:1e}{0b:08}【 Orpheus 】{0b:09}\nTiara-san, and how\nis {0b:05}{14}-san?{0c:020601}",
    "status": "done",
    "tl": "Tiara-san, and how is [1][VAR14]-san?"
   },
@@ -1267,7 +1267,7 @@
    "jp": "{1c:10}{0b:08}{e080} {e082}{e083}ティアラ {e081}{0b:09}\n{0b:05}{14}さんは\n昨日お亡くなりになりました・・・{1a}美しい小さな{e087}に包まれ、\n雪のように溶けて・・・{1a}とても安らかなお顔でした・・・{0c:0202014c012c09fe}",
    "read": "{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\n{0b:05}{14}さんは\n昨日お亡くなりになりました・・・{1a}美しい小さな光に包まれ、\n雪のように溶けて・・・{1a}とても安らかなお顔でした・・・{0c:0202014c012c09fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\n{0b:05}{14}-san passed away\nyesterday...{1a}Wrapped in a small and beautiful light,\nmelting away like snow...{1a}Such a peaceful face...{0c:0202014c012c09fe}",
+   "en": "{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\n{0b:05}{14}-san passed\naway yesterday...{1a}Wrapped in a small and beautiful light,\nmelting away like snow...{1a}Such a peaceful face...{0c:0202014c012c09fe}",
    "status": "done",
    "tl": "[VAR14]-san passed away yesterday... // Wrapped in a small and beautiful light, melting away like snow... // Such a peaceful face..."
   },
@@ -1715,7 +1715,7 @@
    "jp": "{0c:51202b501000}{0c:2f0a2c4d2351082b501000}{1c:1d}{0b:08}{e080} ジェシカ {e081}{0b:09}\n{10}、\nあんた{e08d}壊したんだよね!?{1a}ならなんで?\nなんであいつが死んじゃうの?{0c:021101}",
    "read": "{0c:51202b501000}{0c:2f0a2c4d2351082b501000}{1c:1d}{0b:08}【 ジェシカ 】{0b:09}\n{10}、\nあんた柱壊したんだよね!?{1a}ならなんで?\nなんであいつが死んじゃうの?{0c:021101}",
    "raw": null,
-   "en": "{0c:51202b501000}{0c:2f0a2c4d2351082b501000}{1c:1d}{0b:08}【 Jessica 】{0b:09}\n{10}, you broke the pillar, didn't\nyou!?{1a}Then why? Why'd they have to go and\ndie?{0c:021101}",
+   "en": "{0c:51202b501000}{0c:2f0a2c4d2351082b501000}{1c:1d}{0b:08}【 Jessica 】{0b:09}\n{10}, you broke the pillar,\ndidn't you!?{1a}Then why? Why'd they have to go\nand die?{0c:021101}",
    "status": "done",
    "tl": "[HERO], you broke the pillar, didn't you!? // Then why? Why'd they have to go and die?"
   },
@@ -1784,7 +1784,7 @@
    "jp": "{0c:5120}{10}・・・\n壊してくれたんじゃないの・・・!?{0c:020b01}",
    "read": "{0c:5120}{10}・・・\n壊してくれたんじゃないの・・・!?{0c:020b01}",
    "raw": null,
-   "en": "{0c:5120}{10}... Didn't you break it for\nus...!?{0c:020b01}",
+   "en": "{0c:5120}{10}... Didn't you break it\nfor us...!?{0c:020b01}",
    "status": "done",
    "tl": "[HERO]... Didn't you break it for us...!?"
   },
@@ -1830,7 +1830,7 @@
    "jp": "{0c:51202b501000}{0c:2f042c4d2351082b501000}{1c:17}{0b:08}{e080} エレアノール {e081}{0b:09}\n{10}・・・\nあの{e08d}を壊さなかったのですか?{0c:020701}",
    "read": "{0c:51202b501000}{0c:2f042c4d2351082b501000}{1c:17}{0b:08}【 エレアノール 】{0b:09}\n{10}・・・\nあの柱を壊さなかったのですか?{0c:020701}",
    "raw": null,
-   "en": "{0c:51202b501000}{0c:2f042c4d2351082b501000}{1c:17}{0b:08}【 Eleanor 】{0b:09}\n{10}... You did not break that\npillar?{0c:020701}",
+   "en": "{0c:51202b501000}{0c:2f042c4d2351082b501000}{1c:17}{0b:08}【 Eleanor 】{0b:09}\n{10}... You did not break\nthat pillar?{0c:020701}",
    "status": "done",
    "tl": "[HERO]... You did not break that pillar?"
   },
@@ -1853,7 +1853,7 @@
    "jp": "{0c:5120}{10}・・・\nあの{e08d}を壊さなかったのか?{0c:020501}",
    "read": "{0c:5120}{10}・・・\nあの柱を壊さなかったのか?{0c:020501}",
    "raw": null,
-   "en": "{0c:5120}{10}... You did not break that\npillar?{0c:020501}",
+   "en": "{0c:5120}{10}... You did not break\nthat pillar?{0c:020501}",
    "status": "done",
    "tl": "[HERO]... You did not break that pillar?"
   },
@@ -2151,7 +2151,7 @@
    "jp": "{0c:522830}{1c:17}{0b:08}{e080} エレアノール {e081}{0b:09}\n{10}・・・\n訳を聞きたいです。\nその時間は充分あったはず・・・{0c:020701}",
    "read": "{0c:522830}{1c:17}{0b:08}【 エレアノール 】{0b:09}\n{10}・・・\n訳を聞きたいです。\nその時間は充分あったはず・・・{0c:020701}",
    "raw": null,
-   "en": "{0c:522830}{1c:17}{0b:08}【 Eleanor 】{0b:09}\n{10}... I would like to hear your\nreason. There should have been ample\ntime...{0c:020701}",
+   "en": "{0c:522830}{1c:17}{0b:08}【 Eleanor 】{0b:09}\n{10}... I would like to hear your\nreason. There should have been\nample time...{0c:020701}",
    "status": "done",
    "tl": "[HERO]... I would like to hear your reason. There should have been ample time..."
   },
@@ -2197,7 +2197,7 @@
    "jp": "{0c:522830}{1c:1f}{0b:08}{e080} オルフェウス {e081}{0b:09}\n{10}さん・・・\n訳を聞きたいですね。{0c:020301}",
    "read": "{0c:522830}{1c:1f}{0b:08}【 オルフェウス 】{0b:09}\n{10}さん・・・\n訳を聞きたいですね。{0c:020301}",
    "raw": null,
-   "en": "{0c:522830}{1c:1f}{0b:08}【 Orpheus 】{0b:09}\n{10}-san... I would like to hear your\nreason.{0c:020301}",
+   "en": "{0c:522830}{1c:1f}{0b:08}【 Orpheus 】{0b:09}\n{10}-san... I would like to hear\nyour reason.{0c:020301}",
    "status": "done",
    "tl": "[HERO]-san... I would like to hear your reason."
   },
@@ -2345,7 +2345,7 @@
    "jp": "{1c:10}{0b:05}{14}さんは\n昨日お亡くなりになりました・・・{1a}美しい小さな{e087}に包まれ、\n雪のように溶けて・・・{1a}とても安らかなお顔でした・・・{0c:fe}",
    "read": "{1c:10}{0b:05}{14}さんは\n昨日お亡くなりになりました・・・{1a}美しい小さな光に包まれ、\n雪のように溶けて・・・{1a}とても安らかなお顔でした・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:10}{0b:05}{14}-san passed away\nyesterday...{1a}Wrapped in a small and beautiful light,\nmelting away like snow...{1a}Such a peaceful face...{0c:fe}",
+   "en": "{1c:10}{0b:05}{14}-san passed\naway yesterday...{1a}Wrapped in a small and beautiful light,\nmelting away like snow...{1a}Such a peaceful face...{0c:fe}",
    "status": "done",
    "tl": "[VAR14]-san passed away yesterday... // Wrapped in a small and beautiful light, melting away like snow... // Such a peaceful face..."
   },
@@ -2357,7 +2357,7 @@
    "jp": "{1c:10}{10}さん・・・\nご自分を責めないで下さい・・・{0c:02f701}",
    "read": "{1c:10}{10}さん・・・\nご自分を責めないで下さい・・・{0c:02f701}",
    "raw": null,
-   "en": "{1c:10}{10}-san... Please do not blame\nyourself...{0c:02f701}",
+   "en": "{1c:10}{10}-san... Please do not\nblame yourself...{0c:02f701}",
    "status": "done",
    "tl": "[HERO]-san... Please do not blame yourself..."
   },
@@ -3909,7 +3909,7 @@
    "jp": "{0c:2b501000}{0c:5120}{10}、\nあんた{e08d}壊したんだよね!?{1a}ならなんで?{0c:021101}",
    "read": "{0c:2b501000}{0c:5120}{10}、\nあんた柱壊したんだよね!?{1a}ならなんで?{0c:021101}",
    "raw": null,
-   "en": "{0c:2b501000}{0c:5120}{10}, you broke the pillar, didn't\nyou!?{1a}Then why?{0c:021101}",
+   "en": "{0c:2b501000}{0c:5120}{10}, you broke the pillar,\ndidn't you!?{1a}Then why?{0c:021101}",
    "status": "done",
    "tl": "[HERO], you broke the pillar, didn't you!? // Then why?"
   },
@@ -3978,7 +3978,7 @@
    "jp": "{0c:2b501000}{0c:5120}{10}・・・\n壊してくれたんじゃないの・・・!?{0c:020b01}",
    "read": "{0c:2b501000}{0c:5120}{10}・・・\n壊してくれたんじゃないの・・・!?{0c:020b01}",
    "raw": null,
-   "en": "{0c:2b501000}{0c:5120}{10}... Didn't you break it for\nus...!?{0c:020b01}",
+   "en": "{0c:2b501000}{0c:5120}{10}... Didn't you break it\nfor us...!?{0c:020b01}",
    "status": "done",
    "tl": "[HERO]... Didn't you break it for us...!?"
   },
@@ -4024,7 +4024,7 @@
    "jp": "{0c:2b501000}{0c:5120}{10}・・・\nあの{e08d}を壊さなかったのですか?{0c:020701}",
    "read": "{0c:2b501000}{0c:5120}{10}・・・\nあの柱を壊さなかったのですか?{0c:020701}",
    "raw": null,
-   "en": "{0c:2b501000}{0c:5120}{10}... You did not break that\npillar?{0c:020701}",
+   "en": "{0c:2b501000}{0c:5120}{10}... You did not break\nthat pillar?{0c:020701}",
    "status": "done",
    "tl": "[HERO]... You did not break that pillar?"
   },
@@ -4047,7 +4047,7 @@
    "jp": "{0c:2b501000}{0c:5120}{10}・・・\nあの{e08d}を壊さなかったのか?{0c:020501}",
    "read": "{0c:2b501000}{0c:5120}{10}・・・\nあの柱を壊さなかったのか?{0c:020501}",
    "raw": null,
-   "en": "{0c:2b501000}{0c:5120}{10}... You did not break that\npillar?{0c:020501}",
+   "en": "{0c:2b501000}{0c:5120}{10}... You did not break\nthat pillar?{0c:020501}",
    "status": "done",
    "tl": "[HERO]... You did not break that pillar?"
   },
@@ -4345,7 +4345,7 @@
    "jp": "{0c:522830}{10}・・・\n訳を聞きたいです。\nその時間は充分あったはず・・・{0c:020701}",
    "read": "{0c:522830}{10}・・・\n訳を聞きたいです。\nその時間は充分あったはず・・・{0c:020701}",
    "raw": null,
-   "en": "{0c:522830}{10}... I would like to hear your\nreason. There should have been ample\ntime...{0c:020701}",
+   "en": "{0c:522830}{10}... I would like to hear your\nreason. There should have been\nample time...{0c:020701}",
    "status": "done",
    "tl": "[HERO]... I would like to hear your reason. There should have been ample time..."
   },
@@ -4391,7 +4391,7 @@
    "jp": "{0c:522830}{10}さん・・・\n訳を聞きたいですね。{0c:020301}",
    "read": "{0c:522830}{10}さん・・・\n訳を聞きたいですね。{0c:020301}",
    "raw": null,
-   "en": "{0c:522830}{10}-san... I would like to hear your\nreason.{0c:020301}",
+   "en": "{0c:522830}{10}-san... I would like to hear\nyour reason.{0c:020301}",
    "status": "done",
    "tl": "[HERO]-san... I would like to hear your reason."
   },
@@ -4551,7 +4551,7 @@
    "jp": "{10}さん・・・\nご自分を責めないで下さい・・・{0c:02f701}",
    "read": "{10}さん・・・\nご自分を責めないで下さい・・・{0c:02f701}",
    "raw": null,
-   "en": "{10}-san... Please do not blame\nyourself...{0c:02f701}",
+   "en": "{10}-san... Please do not\nblame yourself...{0c:02f701}",
    "status": "done",
    "tl": "[HERO]-san... Please do not blame yourself..."
   },

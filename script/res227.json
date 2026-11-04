@@ -30,7 +30,7 @@
    "jp": "{1c:1e}はじめまして、{10}さん。\n旅支度の資{e083}$300です。\n大事に使って下さい。",
    "read": "{1c:1e}はじめまして、{10}さん。\n旅支度の資金$300です。\n大事に使って下さい。",
    "raw": null,
-   "en": "{1c:1e}Nice to meet you, {10}-san. Here\nis $300 in travel funds. Please use it\nwisely.",
+   "en": "{1c:1e}Nice to meet you, {10}-san. Here\nis $300 in travel funds. Please use\nit wisely.",
    "status": "done",
    "tl": "Nice to meet you, [HERO]-san. Here is $300 in travel funds. Please use it wisely."
   },
@@ -253,7 +253,7 @@
    "jp": "{14}を{15}{e093}{e08f}いますか?",
    "read": "{14}を{15}個買いますか?",
    "raw": null,
-   "en": "Buy {14} x\n{15}?",
+   "en": "Buy {14}\nx {15}?",
    "status": "done",
    "tl": "Buy [VAR14] x [VAR15]?"
   },
@@ -349,7 +349,7 @@
    "jp": "{14}をメンバーから外しますか",
    "read": "{14}をメンバーから外しますか",
    "raw": null,
-   "en": "Remove {14} from the\nparty?",
+   "en": "Remove {14} from\nthe party?",
    "status": "done",
    "tl": "Remove [VAR14] from the party?"
   },
@@ -361,7 +361,7 @@
    "jp": "{14}は{e097}にメンバーになっています",
    "read": "{14}は既にメンバーになっています",
    "raw": null,
-   "en": "{14} is already in the\nparty.",
+   "en": "{14} is already in\nthe party.",
    "status": "done",
    "tl": "[VAR14] is already in the party."
   },
@@ -373,7 +373,7 @@
    "jp": "{14}と{15}をチェンジしますか",
    "read": "{14}と{15}をチェンジしますか",
    "raw": null,
-   "en": "Swap {14} and\n{15}?",
+   "en": "Swap {14}\nand {15}?",
    "status": "done",
    "tl": "Swap [VAR14] and [VAR15]?"
   },
@@ -632,7 +632,7 @@
    "jp": "{14}をメンバーから外しますか",
    "read": "{14}をメンバーから外しますか",
    "raw": null,
-   "en": "Remove {14} from the\nparty?",
+   "en": "Remove {14} from\nthe party?",
    "status": "done",
    "tl": "Remove [VAR14] from the party?"
   },
@@ -644,7 +644,7 @@
    "jp": "{14}は{e097}にメンバーになっています",
    "read": "{14}は既にメンバーになっています",
    "raw": null,
-   "en": "{14} is already in the\nparty.",
+   "en": "{14} is already in\nthe party.",
    "status": "done",
    "tl": "[VAR14] is already in the party."
   },
@@ -656,7 +656,7 @@
    "jp": "{14}と{15}をチェンジしますか",
    "read": "{14}と{15}をチェンジしますか",
    "raw": null,
-   "en": "Swap {14} and\n{15}?",
+   "en": "Swap {14}\nand {15}?",
    "status": "done",
    "tl": "Swap [VAR14] and [VAR15]?"
   },
@@ -776,7 +776,7 @@
    "jp": "{14}がいないとミッションには入れません",
    "read": "{14}がいないとミッションには入れません",
    "raw": null,
-   "en": "You cannot enter the mission without\n{14}.",
+   "en": "You cannot enter the mission\nwithout {14}.",
    "status": "done",
    "tl": "You cannot enter the mission without [VAR14]."
   },

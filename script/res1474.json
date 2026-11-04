@@ -109,7 +109,7 @@
    "jp": "{0b:08}{e080} ディアス {e081}{0b:09}\n当分は・・・\nいや、{e085}{e086}の扉が{e088}かない限り\n貴様と行動することはないだろう。{1a}では先に帰らせてもらう。{0c:fe}",
    "read": "{0b:08}【 ディアス 】{0b:09}\n当分は・・・\nいや、封印の扉が開かない限り\n貴様と行動することはないだろう。{1a}では先に帰らせてもらう。{0c:fe}",
    "raw": null,
-   "en": "{0b:08}【 Dias 】{0b:09}\nFor the time being... no, unless the Sealed\nDoor opens, I shall not be traveling with\nyou.{1a}I will return ahead of you, then.{0c:fe}",
+   "en": "{0b:08}【 Dias 】{0b:09}\nFor the time being... no, unless the Sealed\nDoor opens, I shall not be traveling\nwith you.{1a}I will return ahead of you, then.{0c:fe}",
    "status": "done",
    "tl": "For the time being... no, unless the Sealed Door opens, I shall not be traveling with you. // I will return ahead of you, then."
   },
@@ -612,7 +612,7 @@
    "jp": "バルデスさんはオイゲンさんの所に\nいるはずですが・・・{0c:021301}",
    "read": "バルデスさんはオイゲンさんの所に\nいるはずですが・・・{0c:021301}",
    "raw": null,
-   "en": "Valdes-san should be at Eugen-san's, I\nbelieve...{0c:021301}",
+   "en": "Valdes-san should be at Eugen-san's,\nI believe...{0c:021301}",
    "status": "done",
    "tl": "Valdes-san should be at Eugen-san's, I believe..."
   },
@@ -681,7 +681,7 @@
    "jp": "バルデスさんはオイゲンさん\nとお{e08a}を飲んでるはずだよ。{0c:020d01}",
    "read": "バルデスさんはオイゲンさん\nとお酒を飲んでるはずだよ。{0c:020d01}",
    "raw": null,
-   "en": "Valdes-san should be drinking with\nEugen-san.{0c:020d01}",
+   "en": "Valdes-san should be drinking\nwith Eugen-san.{0c:020d01}",
    "status": "done",
    "tl": "Valdes-san should be drinking with Eugen-san."
   },
@@ -704,7 +704,7 @@
    "jp": "バルデスさんは\n{e08a}場にいると思うんですけど・・・{0c:020b01}",
    "read": "バルデスさんは\n酒場にいると思うんですけど・・・{0c:020b01}",
    "raw": null,
-   "en": "I believe Valdes-san is at the tavern,\nbut...{0c:020b01}",
+   "en": "I believe Valdes-san is at the\ntavern, but...{0c:020b01}",
    "status": "done",
    "tl": "I believe Valdes-san is at the tavern, but..."
   },

@@ -535,7 +535,7 @@
    "jp": "{0c:0b0132}{0c:5120}{1c:14}{0b:08}【 アッシュ 】{0b:09}\nそうか・・・\nおれを助けたせいで\n今頃何万匹もの魔物が・・・{1a}おれ、助かってよかったのかな・・・{0c:2b5309fe}",
    "read": "{0c:0b0132}{0c:5120}{1c:14}{0b:08}【 アッシュ 】{0b:09}\nそうか・・・\nおれを助けたせいで\n今頃何万匹もの魔物が・・・{1a}おれ、助かってよかったのかな・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "{0c:0b0132}{0c:5120}{1c:14}{0b:08}【 Ash 】{0b:09}\nI see... Because you saved me, tens of\nthousands of monsters are out there\nright now...{1a}I wonder if it was any good, me being\nsaved...{0c:2b5309fe}",
+   "en": "{0c:0b0132}{0c:5120}{1c:14}{0b:08}【 Ash 】{0b:09}\nI see... Because you saved me, tens of\nthousands of monsters are out there\nright now...{1a}I wonder if it was any good, me\nbeing saved...{0c:2b5309fe}",
    "status": "done",
    "tl": "I see... Because you saved me, tens of thousands of monsters are out there right now... // I wonder if it was any good, me being saved..."
   },
@@ -595,7 +595,7 @@
    "jp": "{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれに、アッシュさんには大勢の\nお友達がいるではありませんか。{1a}{0c:522008}{10}さん達に\n友を助けられなかった悔恨を\n一生感じて生きろと言うのですか?\nそんなの哀しすぎます。{1a}いまは素直に、\n笑顔で再会を喜びましょう。{0c:2b5909fe}",
    "read": "{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれに、アッシュさんには大勢の\nお友達がいるではありませんか。{1a}{0c:522008}{10}さん達に\n友を助けられなかった悔恨を\n一生感じて生きろと言うのですか?\nそんなの哀しすぎます。{1a}いまは素直に、\n笑顔で再会を喜びましょう。{0c:2b5909fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nBesides, you have so many friends,\nAsh-san.{1a}{0c:522008}Would you have {10}-san and the\nothers live out their lives regretting\nthat they could not save a friend? That\nis far too sad.{1a}For now, let us simply smile and rejoice in\nthis reunion.{0c:2b5909fe}",
+   "en": "{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nBesides, you have so many\nfriends, Ash-san.{1a}{0c:522008}Would you have {10}-san and the\nothers live out their lives regretting\nthat they could not save a friend? That\nis far too sad.{1a}For now, let us simply smile and rejoice in\nthis reunion.{0c:2b5909fe}",
    "status": "done",
    "tl": "Besides, you have so many friends, Ash-san. // [1]Would you have [HERO]-san and the others live out their lives regretting that they could not save a friend? That is far too sad. // For now, let us simply smile and rejoice in this reunion."
   },
@@ -1032,7 +1032,7 @@
    "jp": "{0c:521018}{1c:16}{0b:08}【 アーサー 】{0b:09}\nありがとう、\n{10}、{11}。{1a}おかげで体の方は\nすっかりよくなったよ。{0c:fe}",
    "read": "{0c:521018}{1c:16}{0b:08}【 アーサー 】{0b:09}\nありがとう、\n{10}、{11}。{1a}おかげで体の方は\nすっかりよくなったよ。{0c:fe}",
    "raw": null,
-   "en": "{0c:521018}{1c:16}{0b:08}【 Arthur 】{0b:09}\nThank you, {10}, {11}.{1a}Because of you, my body has fully\nrecovered.{0c:fe}",
+   "en": "{0c:521018}{1c:16}{0b:08}【 Arthur 】{0b:09}\nThank you, {10}, {11}.{1a}Because of you, my body has\nfully recovered.{0c:fe}",
    "status": "done",
    "tl": "Thank you, [HERO], [VAR11]. // Because of you, my body has fully recovered."
   },
@@ -1642,7 +1642,7 @@
    "jp": "なら別に心配しなくていいんだな。{1a}体の方はもうよくなってるはずだぜ。\nはたで見ててもびっくりするほどな。{1a}意識が戻ったのはつい先日なんだが、\nそのあとがお前さんの時より\nずいぶん早くてよ、{1a}ティアラちゃんの高位の回復魔法でも\nお前さんを全快させるには\n半月近くかかったっていうのに、\nその嬢ちゃんは3日で治っちまう。{1a}ティアラちゃんもびっくりしてたぜ。\n{0c:2b5310005118}なあ、ティアラちゃん。{0c:fe}",
    "read": "なら別に心配しなくていいんだな。{1a}体の方はもうよくなってるはずだぜ。\nはたで見ててもびっくりするほどな。{1a}意識が戻ったのはつい先日なんだが、\nそのあとがお前さんの時より\nずいぶん早くてよ、{1a}ティアラちゃんの高位の回復魔法でも\nお前さんを全快させるには\n半月近くかかったっていうのに、\nその嬢ちゃんは3日で治っちまう。{1a}ティアラちゃんもびっくりしてたぜ。\n{0c:2b5310005118}なあ、ティアラちゃん。{0c:fe}",
    "raw": null,
-   "en": "Then I guess you got nothin' to worry\nabout.{1a}She oughta be all better by now. Even\nwatchin' from the side, it's startlin'.{1a}Only came to the other day, but after\nthat it went a whole lot faster than it\ndid with you.{1a}Even with Tiara-chan's high healin' magic,\nit took near half a month to get you all\nthe way mended, but that little lady's\nhealed up in three days.{1a}Even Tiara-chan was floored. {0c:2b5310005118}Ain't that\nright, Tiara-chan?{0c:fe}",
+   "en": "Then I guess you got nothin' to\nworry about.{1a}She oughta be all better by now. Even\nwatchin' from the side, it's startlin'.{1a}Only came to the other day, but after\nthat it went a whole lot faster than it\ndid with you.{1a}Even with Tiara-chan's high healin' magic,\nit took near half a month to get you all\nthe way mended, but that little lady's\nhealed up in three days.{1a}Even Tiara-chan was floored. {0c:2b5310005118}Ain't that\nright, Tiara-chan?{0c:fe}",
    "status": "done",
    "tl": "Then I guess you got nothin' to worry about. // She oughta be all better by now. Even watchin' from the side, it's startlin'. // Only came to the other day, but after that it went a whole lot faster than it did with you. // Even with Tiara-chan's high healin' magic, it took near half a month to get you all the way mended, but that little lady's healed up in three days. // Even Tiara-chan was floored. [1]Ain't that right, Tiara-chan?"
   },
@@ -2359,7 +2359,7 @@
    "jp": "{1c:1b}{0b:08}【 エレアノール 】{0b:09}\nそう・・・ですね・・・{1a}すみません、許してください・・・\nティアラ、{10}・・・{0c:020701}",
    "read": "{1c:1b}{0b:08}【 エレアノール 】{0b:09}\nそう・・・ですね・・・{1a}すみません、許してください・・・\nティアラ、{10}・・・{0c:020701}",
    "raw": null,
-   "en": "{1c:1b}{0b:08}【 Eleanor 】{0b:09}\nYes... I suppose...{1a}I am sorry. Please forgive me... Tiara,\n{10}...{0c:020701}",
+   "en": "{1c:1b}{0b:08}【 Eleanor 】{0b:09}\nYes... I suppose...{1a}I am sorry. Please forgive me...\nTiara, {10}...{0c:020701}",
    "status": "done",
    "tl": "Yes... I suppose... // I am sorry. Please forgive me... Tiara, [HERO]..."
   },
@@ -2727,7 +2727,7 @@
    "jp": "{1c:1d}お前にゃずいぶん\n面倒かけたみたいだな。\n{0c:521018}でも、おかげでこの通りだ。\nありがとよ。{0c:fe}",
    "read": "{1c:1d}お前にゃずいぶん\n面倒かけたみたいだな。\n{0c:521018}でも、おかげでこの通りだ。\nありがとよ。{0c:fe}",
    "raw": null,
-   "en": "{1c:1d}Seems I gave you a heap of trouble. {0c:521018}But\nthanks to you, look at me now. Much\nobliged.{0c:fe}",
+   "en": "{1c:1d}Seems I gave you a heap of trouble. {0c:521018}But\nthanks to you, look at me now.\nMuch obliged.{0c:fe}",
    "status": "done",
    "tl": "Seems I gave you a heap of trouble. [1]But thanks to you, look at me now. Much obliged."
   },
@@ -2773,7 +2773,7 @@
    "jp": "{1c:1d}お前らにはずいぶん\n面倒かけたみたいだな。\n{0c:521018}でも、おかげでこの通りだ。\nありがとよ。{0c:fe}",
    "read": "{1c:1d}お前らにはずいぶん\n面倒かけたみたいだな。\n{0c:521018}でも、おかげでこの通りだ。\nありがとよ。{0c:fe}",
    "raw": null,
-   "en": "{1c:1d}Seems I gave you lot a heap of trouble.\n{0c:521018}But thanks to you, look at me now. Much\nobliged.{0c:fe}",
+   "en": "{1c:1d}Seems I gave you lot a heap of trouble.\n{0c:521018}But thanks to you, look at me now.\nMuch obliged.{0c:fe}",
    "status": "done",
    "tl": "Seems I gave you lot a heap of trouble. [1]But thanks to you, look at me now. Much obliged."
   },
@@ -2911,7 +2911,7 @@
    "jp": "{0c:0b0532}{0c:f7047b}{1c:1d}{0b:08}【 パスカ 】{0b:09}\n・・・お前ってさ、すぐ顔に出るな。{1a}でも、今はその言葉を\n信じさせてもらうよ。\n情けねえけどそうでも思わなきゃ\n頭がおかしくなりそうなんだ・・・{1a}気を遣ってくれてありがとな、\n{10}。{0c:021101}",
    "read": "{0c:0b0532}{0c:f7047b}{1c:1d}{0b:08}【 パスカ 】{0b:09}\n・・・お前ってさ、すぐ顔に出るな。{1a}でも、今はその言葉を\n信じさせてもらうよ。\n情けねえけどそうでも思わなきゃ\n頭がおかしくなりそうなんだ・・・{1a}気を遣ってくれてありがとな、\n{10}。{0c:021101}",
    "raw": null,
-   "en": "{0c:0b0532}{0c:f7047b}{1c:1d}{0b:08}【 Pasca 】{0b:09}\n...You know, it shows right on your face.{1a}But I'm gonna take your word for it, for\nnow. Pathetic as it is, if I didn't think\nthat way, I'd go outta my head...{1a}Thanks for lookin' out for me,\n{10}.{0c:021101}",
+   "en": "{0c:0b0532}{0c:f7047b}{1c:1d}{0b:08}【 Pasca 】{0b:09}\n...You know, it shows right on your face.{1a}But I'm gonna take your word for it, for\nnow. Pathetic as it is, if I didn't think\nthat way, I'd go outta my head...{1a}Thanks for lookin' out for\nme, {10}.{0c:021101}",
    "status": "done",
    "tl": "...You know, it shows right on your face. // But I'm gonna take your word for it, for now. Pathetic as it is, if I didn't think that way, I'd go outta my head... // Thanks for lookin' out for me, [HERO]."
   },
@@ -2923,7 +2923,7 @@
    "jp": "{0c:0b0528}{1c:1e}{0b:08}【 パスカ 】{0b:09}\nやっぱり本当だったのか・・・{1a}{0c:5128}くそっ・・・\nどうしてオレが\n生き残っちまったんだよ・・・{0c:2b5309fe}",
    "read": "{0c:0b0528}{1c:1e}{0b:08}【 パスカ 】{0b:09}\nやっぱり本当だったのか・・・{1a}{0c:5128}くそっ・・・\nどうしてオレが\n生き残っちまったんだよ・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "{0c:0b0528}{1c:1e}{0b:08}【 Pasca 】{0b:09}\nSo it really was true...{1a}{0c:5128}Damn it... Why'd I have to be the one who\nlived...{0c:2b5309fe}",
+   "en": "{0c:0b0528}{1c:1e}{0b:08}【 Pasca 】{0b:09}\nSo it really was true...{1a}{0c:5128}Damn it... Why'd I have to be the one\nwho lived...{0c:2b5309fe}",
    "status": "done",
    "tl": "So it really was true... // [1]Damn it... Why'd I have to be the one who lived..."
   },
@@ -2947,7 +2947,7 @@
    "jp": "{1c:1e}{0b:08}【 パスカ 】{0b:09}\nお前がオレの命の\n恩人なのは分かってる。{1a}そのなんとかって柱を探すために\n危険な思いをしたってのも\n想像すりゃすぐ分かる。\nそれは感謝してる。{1a}でも・・・{1a}でも、オレ1人の命と引き替えに\n何万もの人間が死んじまったのも\n事実なんだ・・・{1a}その重みを\n一生引きずりながら生きるなんて\nオレには耐えられねえよ・・・{1a}こんなことなら\nオレが死んだ方がよかった・・・{0c:2b5309fe}",
    "read": "{1c:1e}{0b:08}【 パスカ 】{0b:09}\nお前がオレの命の\n恩人なのは分かってる。{1a}そのなんとかって柱を探すために\n危険な思いをしたってのも\n想像すりゃすぐ分かる。\nそれは感謝してる。{1a}でも・・・{1a}でも、オレ1人の命と引き替えに\n何万もの人間が死んじまったのも\n事実なんだ・・・{1a}その重みを\n一生引きずりながら生きるなんて\nオレには耐えられねえよ・・・{1a}こんなことなら\nオレが死んだ方がよかった・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "{1c:1e}{0b:08}【 Pasca 】{0b:09}\nI know you're the one who saved my life.{1a}And I can guess you risked your neck\nhuntin' for that pillar or whatever. I'm\ngrateful for that.{1a}But...{1a}But in exchange for my one life, tens of\nthousands of people died. That's a fact\ntoo...{1a}Draggin' that weight around for the\nrest of my life... I can't take that...{1a}If it was gonna be like this, I should've\njust died...{0c:2b5309fe}",
+   "en": "{1c:1e}{0b:08}【 Pasca 】{0b:09}\nI know you're the one who saved my life.{1a}And I can guess you risked your neck\nhuntin' for that pillar or whatever. I'm\ngrateful for that.{1a}But...{1a}But in exchange for my one life, tens of\nthousands of people died. That's a\nfact too...{1a}Draggin' that weight around for the\nrest of my life... I can't take that...{1a}If it was gonna be like this, I should've\njust died...{0c:2b5309fe}",
    "status": "done",
    "tl": "I know you're the one who saved my life. // And I can guess you risked your neck huntin' for that pillar or whatever. I'm grateful for that. // But... // But in exchange for my one life, tens of thousands of people died. That's a fact too... // Draggin' that weight around for the rest of my life... I can't take that... // If it was gonna be like this, I should've just died..."
   },
@@ -2983,7 +2983,7 @@
    "jp": "{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれに、パスカさんには大勢の\nお友達がいるじゃありませんか。{1a}{10}さん達に\n友を助けられなかった悔恨を\n一生感じて生きろと言うのですか?\nそんなの哀しすぎます。{0c:2b5909fe}",
    "read": "{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれに、パスカさんには大勢の\nお友達がいるじゃありませんか。{1a}{10}さん達に\n友を助けられなかった悔恨を\n一生感じて生きろと言うのですか?\nそんなの哀しすぎます。{0c:2b5909fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nBesides, you have so many friends,\nPasca-san.{1a}Would you have {10}-san and the\nothers live out their lives regretting\nthat they could not save a friend? That\nis far too sad.{0c:2b5909fe}",
+   "en": "{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nBesides, you have so many\nfriends, Pasca-san.{1a}Would you have {10}-san and the\nothers live out their lives regretting\nthat they could not save a friend? That\nis far too sad.{0c:2b5909fe}",
    "status": "done",
    "tl": "Besides, you have so many friends, Pasca-san. // Would you have [HERO]-san and the others live out their lives regretting that they could not save a friend? That is far too sad."
   },
@@ -3684,7 +3684,7 @@
    "jp": "{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\n悩みながら、\n苦しみながら生きることより、\n何もかも捨てて死を選ぶのですか?{1a}シャルンさんには\nお兄さんの思いを引き継ぐという\n大事な夢があるではないですか。{1a}{0c:522008}その夢まで捨ててしまうのですか?\nそれではお兄さんが可哀想です。{0c:2b5909fe}",
    "read": "{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\n悩みながら、\n苦しみながら生きることより、\n何もかも捨てて死を選ぶのですか?{1a}シャルンさんには\nお兄さんの思いを引き継ぐという\n大事な夢があるではないですか。{1a}{0c:522008}その夢まで捨ててしまうのですか?\nそれではお兄さんが可哀想です。{0c:2b5909fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nRather than live on, struggling and\nsuffering, would you cast everything\naway and choose death?{1a}You have an important dream,\nScharn-san, to carry on your brother's\nwishes.{1a}{0c:522008}Would you throw that dream away too?\nThat would be too cruel to your brother.{0c:2b5909fe}",
+   "en": "{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nRather than live on, struggling and\nsuffering, would you cast everything\naway and choose death?{1a}You have an important dream,\nScharn-san, to carry on your\nbrother's wishes.{1a}{0c:522008}Would you throw that dream away too?\nThat would be too cruel to your brother.{0c:2b5909fe}",
    "status": "done",
    "tl": "Rather than live on, struggling and suffering, would you cast everything away and choose death? // You have an important dream, Scharn-san, to carry on your brother's wishes. // [1]Would you throw that dream away too? That would be too cruel to your brother."
   },
@@ -3708,7 +3708,7 @@
    "jp": "{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれに、シャルンさんには大勢の\nお友達がいるじゃありませんか。{1a}{10}さん達に\n友を助けられなかった悔恨を\n一生感じて生きろと言うのですか?\nそんなの哀しすぎます。{0c:2b5909fe}",
    "read": "{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれに、シャルンさんには大勢の\nお友達がいるじゃありませんか。{1a}{10}さん達に\n友を助けられなかった悔恨を\n一生感じて生きろと言うのですか?\nそんなの哀しすぎます。{0c:2b5909fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nBesides, you have so many friends,\nScharn-san.{1a}Would you have {10}-san and the\nothers live out their lives regretting\nthat they could not save a friend? That\nis far too sad.{0c:2b5909fe}",
+   "en": "{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nBesides, you have so many\nfriends, Scharn-san.{1a}Would you have {10}-san and the\nothers live out their lives regretting\nthat they could not save a friend? That\nis far too sad.{0c:2b5909fe}",
    "status": "done",
    "tl": "Besides, you have so many friends, Scharn-san. // Would you have [HERO]-san and the others live out their lives regretting that they could not save a friend? That is far too sad."
   },
@@ -3792,7 +3792,7 @@
    "jp": "{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\n悩みながら、\n苦しみながら生きることより、\n何もかも捨てて死を選ぶのですか?{1a}シャルンさんには\nお兄さんの思いを引き継ぐという\n大事な夢があるではないですか。{1a}{0c:522008}その夢まで捨ててしまうのですか?\nそれではお兄さんが可哀想です。{0c:2b5909fe}",
    "read": "{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\n悩みながら、\n苦しみながら生きることより、\n何もかも捨てて死を選ぶのですか?{1a}シャルンさんには\nお兄さんの思いを引き継ぐという\n大事な夢があるではないですか。{1a}{0c:522008}その夢まで捨ててしまうのですか?\nそれではお兄さんが可哀想です。{0c:2b5909fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nRather than live on, struggling and\nsuffering, would you cast everything\naway and choose death?{1a}You have an important dream,\nScharn-san, to carry on your brother's\nwishes.{1a}{0c:522008}Would you throw that dream away too?\nThat would be too cruel to your brother.{0c:2b5909fe}",
+   "en": "{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nRather than live on, struggling and\nsuffering, would you cast everything\naway and choose death?{1a}You have an important dream,\nScharn-san, to carry on your\nbrother's wishes.{1a}{0c:522008}Would you throw that dream away too?\nThat would be too cruel to your brother.{0c:2b5909fe}",
    "status": "done",
    "tl": "Rather than live on, struggling and suffering, would you cast everything away and choose death? // You have an important dream, Scharn-san, to carry on your brother's wishes. // [1]Would you throw that dream away too? That would be too cruel to your brother."
   },
@@ -3816,7 +3816,7 @@
    "jp": "{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれに、シャルンさんには大勢の\nお友達がいるではありませんか。{1a}{10}さん達に\n友を助けられなかった悔恨を\n一生感じて生きろと言うのですか?\nそんなの哀しすぎます。{0c:2b5909fe}",
    "read": "{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nそれに、シャルンさんには大勢の\nお友達がいるではありませんか。{1a}{10}さん達に\n友を助けられなかった悔恨を\n一生感じて生きろと言うのですか?\nそんなの哀しすぎます。{0c:2b5909fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nBesides, you have so many friends,\nScharn-san.{1a}Would you have {10}-san and the\nothers live out their lives regretting\nthat they could not save a friend? That\nis far too sad.{0c:2b5909fe}",
+   "en": "{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nBesides, you have so many\nfriends, Scharn-san.{1a}Would you have {10}-san and the\nothers live out their lives regretting\nthat they could not save a friend? That\nis far too sad.{0c:2b5909fe}",
    "status": "done",
    "tl": "Besides, you have so many friends, Scharn-san. // Would you have [HERO]-san and the others live out their lives regretting that they could not save a friend? That is far too sad."
   },
@@ -4220,7 +4220,7 @@
    "jp": "{0c:521018}{1c:26}{0b:08}【 ジェシカ 】{0b:09}\nあんがと、{10}。\nおかげで助かったよ。{1a}もう体の方も直ったみたいでさ、\n今すぐにでも出られるよ。{0c:fe}",
    "read": "{0c:521018}{1c:26}{0b:08}【 ジェシカ 】{0b:09}\nあんがと、{10}。\nおかげで助かったよ。{1a}もう体の方も直ったみたいでさ、\n今すぐにでも出られるよ。{0c:fe}",
    "raw": null,
-   "en": "{0c:521018}{1c:26}{0b:08}【 Jessica 】{0b:09}\nThanks, {10}. You really saved my\nhide.{1a}Looks like my body's all fixed up too, so I\ncould walk out of here right now.{0c:fe}",
+   "en": "{0c:521018}{1c:26}{0b:08}【 Jessica 】{0b:09}\nThanks, {10}. You really saved\nmy hide.{1a}Looks like my body's all fixed up too, so I\ncould walk out of here right now.{0c:fe}",
    "status": "done",
    "tl": "Thanks, [HERO]. You really saved my hide. // Looks like my body's all fixed up too, so I could walk out of here right now."
   },
@@ -4472,7 +4472,7 @@
    "jp": "{0c:0b0a2d}{1c:24}{0b:08}【 ジェシカ 】{0b:09}\nあんたってすぐ顔に出るね・・・{1a}でも気を遣わなくていいよ。\nあたしは全然ショック\nうけてないから。{1a}そりゃ少しは\nあたしの代わりに\n犠牲になった人達には\n悪いかなって思うけどさ、{1a}それ以上のこと考えたら\n生きてるのまで\nイヤになっちゃうもんね。{1a}{0c:521018}でもありがと、\n気を遣ってくれてさ。{0c:020c01}",
    "read": "{0c:0b0a2d}{1c:24}{0b:08}【 ジェシカ 】{0b:09}\nあんたってすぐ顔に出るね・・・{1a}でも気を遣わなくていいよ。\nあたしは全然ショック\nうけてないから。{1a}そりゃ少しは\nあたしの代わりに\n犠牲になった人達には\n悪いかなって思うけどさ、{1a}それ以上のこと考えたら\n生きてるのまで\nイヤになっちゃうもんね。{1a}{0c:521018}でもありがと、\n気を遣ってくれてさ。{0c:020c01}",
    "raw": null,
-   "en": "{0c:0b0a2d}{1c:24}{0b:08}【 Jessica 】{0b:09}\nGeez, it all shows on your face right\naway...{1a}But you don't have to tiptoe around me.\nI'm not shaken up at all.{1a}Sure, I feel a little bad for the people\nwho got sacrificed in my place,{1a}but if I thought about it any more than\nthat, I'd get sick of being alive too.{1a}{0c:521018}Thanks anyway, for looking out for me.{0c:020c01}",
+   "en": "{0c:0b0a2d}{1c:24}{0b:08}【 Jessica 】{0b:09}\nGeez, it all shows on your face\nright away...{1a}But you don't have to tiptoe around me.\nI'm not shaken up at all.{1a}Sure, I feel a little bad for the people\nwho got sacrificed in my place,{1a}but if I thought about it any more than\nthat, I'd get sick of being alive too.{1a}{0c:521018}Thanks anyway, for looking out for me.{0c:020c01}",
    "status": "done",
    "tl": "Geez, it all shows on your face right away... // But you don't have to tiptoe around me. I'm not shaken up at all. // Sure, I feel a little bad for the people who got sacrificed in my place, // but if I thought about it any more than that, I'd get sick of being alive too. // [1]Thanks anyway, for looking out for me."
   },
@@ -4922,7 +4922,7 @@
    "jp": "{0c:521018}{1c:19}{0b:08}【 オルフェウス 】{0b:09}\n寂しい想いをさせてすみません、\n{11}さん。{1a}ぼくを助けるために、\n怖い思いを我慢しながら\n魔物達と戦ってくれたそうですね。\n感激のあまり言葉もありません。{1a}ティアラさんの介護のおかげで\n体の方もすっかりよくなってますし、\n今日明日には出られるでしょう。\n{0c:522028}もう君に寂しい思いはさせませんよ。{0c:fe}",
    "read": "{0c:521018}{1c:19}{0b:08}【 オルフェウス 】{0b:09}\n寂しい想いをさせてすみません、\n{11}さん。{1a}ぼくを助けるために、\n怖い思いを我慢しながら\n魔物達と戦ってくれたそうですね。\n感激のあまり言葉もありません。{1a}ティアラさんの介護のおかげで\n体の方もすっかりよくなってますし、\n今日明日には出られるでしょう。\n{0c:522028}もう君に寂しい思いはさせませんよ。{0c:fe}",
    "raw": null,
-   "en": "{0c:521018}{1c:19}{0b:08}【 Orpheus 】{0b:09}\nForgive me for leaving you so lonely,\n{11}-san.{1a}I hear you fought the monsters to save\nme, braving your fear. I am so moved I\nhave no words.{1a}Thanks to Tiara-san's nursing, my body\nis quite recovered, and I daresay I shall\nbe out today or tomorrow. {0c:522028}I shall never\nleave you lonely again.{0c:fe}",
+   "en": "{0c:521018}{1c:19}{0b:08}【 Orpheus 】{0b:09}\nForgive me for leaving you so\nlonely, {11}-san.{1a}I hear you fought the monsters to save\nme, braving your fear. I am so moved I\nhave no words.{1a}Thanks to Tiara-san's nursing, my body\nis quite recovered, and I daresay I shall\nbe out today or tomorrow. {0c:522028}I shall never\nleave you lonely again.{0c:fe}",
    "status": "done",
    "tl": "Forgive me for leaving you so lonely, [VAR11]-san. // I hear you fought the monsters to save me, braving your fear. I am so moved I have no words. // Thanks to Tiara-san's nursing, my body is quite recovered, and I daresay I shall be out today or tomorrow. [1]I shall never leave you lonely again."
   },
@@ -4957,7 +4957,7 @@
    "jp": "{0c:521018}{1c:19}{0b:08}【 オルフェウス 】{0b:09}\n寂しい想いをさせてすみません、\n{12}さん。{1a}ぼくを助けるために、\n怖い思いを我慢しながら\n魔物達と戦ってくれたそうですね。\n感激のあまり言葉もありません。{1a}ティアラさんの介護のおかげで\n体の方もすっかりよくなってますし、\n今日明日には出られるでしょう。\n{0c:522028}もう君に寂しい思いはさせませんよ。{0c:fe}",
    "read": "{0c:521018}{1c:19}{0b:08}【 オルフェウス 】{0b:09}\n寂しい想いをさせてすみません、\n{12}さん。{1a}ぼくを助けるために、\n怖い思いを我慢しながら\n魔物達と戦ってくれたそうですね。\n感激のあまり言葉もありません。{1a}ティアラさんの介護のおかげで\n体の方もすっかりよくなってますし、\n今日明日には出られるでしょう。\n{0c:522028}もう君に寂しい思いはさせませんよ。{0c:fe}",
    "raw": null,
-   "en": "{0c:521018}{1c:19}{0b:08}【 Orpheus 】{0b:09}\nForgive me for leaving you so lonely,\n{12}-san.{1a}I hear you fought the monsters to save\nme, braving your fear. I am so moved I\nhave no words.{1a}Thanks to Tiara-san's nursing, my body\nis quite recovered, and I daresay I shall\nbe out today or tomorrow. {0c:522028}I shall never\nleave you lonely again.{0c:fe}",
+   "en": "{0c:521018}{1c:19}{0b:08}【 Orpheus 】{0b:09}\nForgive me for leaving you so\nlonely, {12}-san.{1a}I hear you fought the monsters to save\nme, braving your fear. I am so moved I\nhave no words.{1a}Thanks to Tiara-san's nursing, my body\nis quite recovered, and I daresay I shall\nbe out today or tomorrow. {0c:522028}I shall never\nleave you lonely again.{0c:fe}",
    "status": "done",
    "tl": "Forgive me for leaving you so lonely, [VAR12]-san. // I hear you fought the monsters to save me, braving your fear. I am so moved I have no words. // Thanks to Tiara-san's nursing, my body is quite recovered, and I daresay I shall be out today or tomorrow. [1]I shall never leave you lonely again."
   },
@@ -5361,7 +5361,7 @@
    "jp": "{0c:521018}{1c:19}{0b:08}【 オルフェウス 】{0b:09}\n寂しい想いをさせてすみません、\n{10}さん。{1a}ぼくを助けるために、\n怖い思いを我慢しながら\n魔物達と戦ってくれたそうですね。\n感激のあまり言葉もありません。{1a}ティアラさんの介護のおかげで\n体の方もすっかりよくなってますし、\n今日明日には出られるでしょう。\n{0c:522028}もう君に寂しい思いはさせませんよ。{0c:fe}",
    "read": "{0c:521018}{1c:19}{0b:08}【 オルフェウス 】{0b:09}\n寂しい想いをさせてすみません、\n{10}さん。{1a}ぼくを助けるために、\n怖い思いを我慢しながら\n魔物達と戦ってくれたそうですね。\n感激のあまり言葉もありません。{1a}ティアラさんの介護のおかげで\n体の方もすっかりよくなってますし、\n今日明日には出られるでしょう。\n{0c:522028}もう君に寂しい思いはさせませんよ。{0c:fe}",
    "raw": null,
-   "en": "{0c:521018}{1c:19}{0b:08}【 Orpheus 】{0b:09}\nForgive me for leaving you so lonely,\n{10}-san.{1a}I hear you fought the monsters to save\nme, braving your fear. I am so moved I\nhave no words.{1a}Thanks to Tiara-san's nursing, my body\nis quite recovered, and I daresay I shall\nbe out today or tomorrow. {0c:522028}I shall never\nleave you lonely again.{0c:fe}",
+   "en": "{0c:521018}{1c:19}{0b:08}【 Orpheus 】{0b:09}\nForgive me for leaving you so\nlonely, {10}-san.{1a}I hear you fought the monsters to save\nme, braving your fear. I am so moved I\nhave no words.{1a}Thanks to Tiara-san's nursing, my body\nis quite recovered, and I daresay I shall\nbe out today or tomorrow. {0c:522028}I shall never\nleave you lonely again.{0c:fe}",
    "status": "done",
    "tl": "Forgive me for leaving you so lonely, [HERO]-san. // I hear you fought the monsters to save me, braving your fear. I am so moved I have no words. // Thanks to Tiara-san's nursing, my body is quite recovered, and I daresay I shall be out today or tomorrow. [1]I shall never leave you lonely again."
   },
@@ -5834,7 +5834,7 @@
    "jp": "{1c:1c}{0b:08}【 イヴ 】{0b:09}\n悲劇のヒロインぶるのは\n好きじゃないけど、\n今度ばかりはさすがにショックだわ。{1a}目が覚めたら周りにいるのは\n口の臭いオジさんばかりだし、{1a}1番恩を売りたくないタイプの\nあの可愛い司祭サマに何ヶ月も面倒を\n見てもらってたっていうし・・・{0c:fe}",
    "read": "{1c:1c}{0b:08}【 イヴ 】{0b:09}\n悲劇のヒロインぶるのは\n好きじゃないけど、\n今度ばかりはさすがにショックだわ。{1a}目が覚めたら周りにいるのは\n口の臭いオジさんばかりだし、{1a}1番恩を売りたくないタイプの\nあの可愛い司祭サマに何ヶ月も面倒を\n見てもらってたっていうし・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:1c}{0b:08}【 Eve 】{0b:09}\nI don't care to play the tragic heroine,\nbut this time even I have to admit it's a\nshock.{1a}I wake up and all I see around me is old\nmen with bad breath,{1a}and it seems that cute little\nPriest-sama, the very type I'd least\nwant to owe, has been looking after me\nfor months...{0c:fe}",
+   "en": "{1c:1c}{0b:08}【 Eve 】{0b:09}\nI don't care to play the tragic heroine,\nbut this time even I have to admit it's\na shock.{1a}I wake up and all I see around me is old\nmen with bad breath,{1a}and it seems that cute little\nPriest-sama, the very type I'd least\nwant to owe, has been looking after me\nfor months...{0c:fe}",
    "status": "done",
    "tl": "I don't care to play the tragic heroine, but this time even I have to admit it's a shock. // I wake up and all I see around me is old men with bad breath, // and it seems that cute little Priest-sama, the very type I'd least want to owe, has been looking after me for months..."
   },
@@ -5869,7 +5869,7 @@
    "jp": "{1c:1c}{0b:08}【 イヴ 】{0b:09}\n悲劇のヒロインぶるのは\n好きじゃないけど、\n今度ばかりはさすがにショックだわ。{1a}何ヶ月ぶりに目が覚めたら\nお酒の値段が何十倍にも\nなってるんだから。{0c:fe}",
    "read": "{1c:1c}{0b:08}【 イヴ 】{0b:09}\n悲劇のヒロインぶるのは\n好きじゃないけど、\n今度ばかりはさすがにショックだわ。{1a}何ヶ月ぶりに目が覚めたら\nお酒の値段が何十倍にも\nなってるんだから。{0c:fe}",
    "raw": null,
-   "en": "{1c:1c}{0b:08}【 Eve 】{0b:09}\nI don't care to play the tragic heroine,\nbut this time even I have to admit it's a\nshock.{1a}I wake up after all these months, and\nthe price of liquor has gone up dozens of\ntimes over.{0c:fe}",
+   "en": "{1c:1c}{0b:08}【 Eve 】{0b:09}\nI don't care to play the tragic heroine,\nbut this time even I have to admit it's\na shock.{1a}I wake up after all these months, and\nthe price of liquor has gone up dozens of\ntimes over.{0c:fe}",
    "status": "done",
    "tl": "I don't care to play the tragic heroine, but this time even I have to admit it's a shock. // I wake up after all these months, and the price of liquor has gone up dozens of times over."
   },
@@ -6697,7 +6697,7 @@
    "jp": "{1c:1f}{0b:08}【 ノエル 】{0b:09}\nあたし、どんな顔してクムランさんに\n会っていいのかわからない・・・{1a}この手でバルデスさんに、\nクムランさんの無二の親友に\n死の火印を押してしまったのに、\nあたしはこうして生き残ってる・・・{1a}このままじゃ会えないよ・・・{0c:2b5309fe}",
    "read": "{1c:1f}{0b:08}【 ノエル 】{0b:09}\nあたし、どんな顔してクムランさんに\n会っていいのかわからない・・・{1a}この手でバルデスさんに、\nクムランさんの無二の親友に\n死の火印を押してしまったのに、\nあたしはこうして生き残ってる・・・{1a}このままじゃ会えないよ・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "{1c:1f}{0b:08}【 Noel 】{0b:09}\nI don't know how I can ever face\nQumran-san...{1a}With these hands I put the brand of\ndeath on Valdes-san, Qumran-san's one\ntrue friend, and here I am, still alive...{1a}I can't see him like this...{0c:2b5309fe}",
+   "en": "{1c:1f}{0b:08}【 Noel 】{0b:09}\nI don't know how I can ever\nface Qumran-san...{1a}With these hands I put the brand of\ndeath on Valdes-san, Qumran-san's one\ntrue friend, and here I am, still alive...{1a}I can't see him like this...{0c:2b5309fe}",
    "status": "done",
    "tl": "I don't know how I can ever face Qumran-san... // With these hands I put the brand of death on Valdes-san, Qumran-san's one true friend, and here I am, still alive... // I can't see him like this..."
   },
@@ -6709,7 +6709,7 @@
    "jp": "{1c:12}{0b:08}【 司祭ティアラ 】{0b:09}\nバルデスさんもクムランさんも\n全く気にしていませんよ。{1a}むしろ、ノエルさんが助かったことを\n心から喜んでいるはずです。{0c:2b5909fe}",
    "read": "{1c:12}{0b:08}【 司祭ティアラ 】{0b:09}\nバルデスさんもクムランさんも\n全く気にしていませんよ。{1a}むしろ、ノエルさんが助かったことを\n心から喜んでいるはずです。{0c:2b5909fe}",
    "raw": null,
-   "en": "{1c:12}{0b:08}【 Priest Tiara 】{0b:09}\nNeither Valdes-san nor Qumran-san\nminds it in the least.{1a}Rather, I am sure they are glad from\ntheir hearts that you were saved,\nNoel-san.{0c:2b5909fe}",
+   "en": "{1c:12}{0b:08}【 Priest Tiara 】{0b:09}\nNeither Valdes-san nor Qumran-san\nminds it in the least.{1a}Rather, I am sure they are glad from\ntheir hearts that you were\nsaved, Noel-san.{0c:2b5909fe}",
    "status": "done",
    "tl": "Neither Valdes-san nor Qumran-san minds it in the least. // Rather, I am sure they are glad from their hearts that you were saved, Noel-san."
   },
@@ -7149,7 +7149,7 @@
    "jp": "{0c:521018}{1c:20}{0b:08}【 ルカ 】{0b:09}\n本当にありがとうございました、\n{10}さん。{1a}おかげで体の方は\nすっかりよくなりました。{0c:fe}",
    "read": "{0c:521018}{1c:20}{0b:08}【 ルカ 】{0b:09}\n本当にありがとうございました、\n{10}さん。{1a}おかげで体の方は\nすっかりよくなりました。{0c:fe}",
    "raw": null,
-   "en": "{0c:521018}{1c:20}{0b:08}【 Luca 】{0b:09}\nThank you so very much, {10}-san.{1a}Thanks to you, my body has fully\nrecovered.{0c:fe}",
+   "en": "{0c:521018}{1c:20}{0b:08}【 Luca 】{0b:09}\nThank you so very much, {10}-san.{1a}Thanks to you, my body has\nfully recovered.{0c:fe}",
    "status": "done",
    "tl": "Thank you so very much, [HERO]-san. // Thanks to you, my body has fully recovered."
   },
@@ -7206,7 +7206,7 @@
    "jp": "{0c:521018}{1c:20}{0b:08}【 ルカ 】{0b:09}\n本当にありがとうございました。{1a}おかげで体の方は\nすっかりよくなりました。{0c:fe}",
    "read": "{0c:521018}{1c:20}{0b:08}【 ルカ 】{0b:09}\n本当にありがとうございました。{1a}おかげで体の方は\nすっかりよくなりました。{0c:fe}",
    "raw": null,
-   "en": "{0c:521018}{1c:20}{0b:08}【 Luca 】{0b:09}\nThank you so very much.{1a}Thanks to you, my body has fully\nrecovered.{0c:fe}",
+   "en": "{0c:521018}{1c:20}{0b:08}【 Luca 】{0b:09}\nThank you so very much.{1a}Thanks to you, my body has\nfully recovered.{0c:fe}",
    "status": "done",
    "tl": "Thank you so very much. // Thanks to you, my body has fully recovered."
   },
@@ -7263,7 +7263,7 @@
    "jp": "{0c:521018}{1c:20}{0b:08}【 ルカ 】{0b:09}\n本当にありがとうございました。{1a}おかげで体の方は\nすっかりよくなりました。{0c:fe}",
    "read": "{0c:521018}{1c:20}{0b:08}【 ルカ 】{0b:09}\n本当にありがとうございました。{1a}おかげで体の方は\nすっかりよくなりました。{0c:fe}",
    "raw": null,
-   "en": "{0c:521018}{1c:20}{0b:08}【 Luca 】{0b:09}\nThank you so very much.{1a}Thanks to you, my body has fully\nrecovered.{0c:fe}",
+   "en": "{0c:521018}{1c:20}{0b:08}【 Luca 】{0b:09}\nThank you so very much.{1a}Thanks to you, my body has\nfully recovered.{0c:fe}",
    "status": "done",
    "tl": "Thank you so very much. // Thanks to you, my body has fully recovered."
   },
@@ -7436,7 +7436,7 @@
    "jp": "{1c:20}{0b:08}【 ルカ 】{0b:09}\n・・・分かりました、\n{10}さんの言葉を信じます。{0c:021001}",
    "read": "{1c:20}{0b:08}【 ルカ 】{0b:09}\n・・・分かりました、\n{10}さんの言葉を信じます。{0c:021001}",
    "raw": null,
-   "en": "{1c:20}{0b:08}【 Luca 】{0b:09}\n...I understand. I will believe your word,\n{10}-san.{0c:021001}",
+   "en": "{1c:20}{0b:08}【 Luca 】{0b:09}\n...I understand. I will believe your\nword, {10}-san.{0c:021001}",
    "status": "done",
    "tl": "...I understand. I will believe your word, [HERO]-san."
   },
@@ -7460,7 +7460,7 @@
    "jp": "{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nルカさん、\n自分を卑しめないで下さい。{0c:2b5909fe}",
    "read": "{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nルカさん、\n自分を卑しめないで下さい。{0c:2b5909fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nLuca-san, please do not demean\nyourself.{0c:2b5909fe}",
+   "en": "{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nLuca-san, please do not\ndemean yourself.{0c:2b5909fe}",
    "status": "done",
    "tl": "Luca-san, please do not demean yourself."
   },
@@ -7912,7 +7912,7 @@
    "jp": "{0c:521018}{1c:24}{0b:08}【 サラ 】{0b:09}\n助けてくれて本当にありがとう、\n{10}さん。{1a}もう体の方も大丈夫だよ。\n明日には出られるんじゃないかな。{0c:fe}",
    "read": "{0c:521018}{1c:24}{0b:08}【 サラ 】{0b:09}\n助けてくれて本当にありがとう、\n{10}さん。{1a}もう体の方も大丈夫だよ。\n明日には出られるんじゃないかな。{0c:fe}",
    "raw": null,
-   "en": "{0c:521018}{1c:24}{0b:08}【 Sara 】{0b:09}\nThank you so much for saving me,\n{10}-san.{1a}I'm all better now. I bet I can leave\ntomorrow.{0c:fe}",
+   "en": "{0c:521018}{1c:24}{0b:08}【 Sara 】{0b:09}\nThank you so much for saving\nme, {10}-san.{1a}I'm all better now. I bet I can\nleave tomorrow.{0c:fe}",
    "status": "done",
    "tl": "Thank you so much for saving me, [HERO]-san. // I'm all better now. I bet I can leave tomorrow."
   },
@@ -7958,7 +7958,7 @@
    "jp": "{0c:521018}{1c:24}{0b:08}【 サラ 】{0b:09}\n助けてくれて本当にありがとう、\n{10}さん、{11}さん。{1a}もう体の方も大丈夫だよ。\n明日には出られるんじゃないかな。{0c:fe}",
    "read": "{0c:521018}{1c:24}{0b:08}【 サラ 】{0b:09}\n助けてくれて本当にありがとう、\n{10}さん、{11}さん。{1a}もう体の方も大丈夫だよ。\n明日には出られるんじゃないかな。{0c:fe}",
    "raw": null,
-   "en": "{0c:521018}{1c:24}{0b:08}【 Sara 】{0b:09}\nThank you so much for saving me,\n{10}-san, {11}-san.{1a}I'm all better now. I bet I can leave\ntomorrow.{0c:fe}",
+   "en": "{0c:521018}{1c:24}{0b:08}【 Sara 】{0b:09}\nThank you so much for saving me,\n{10}-san, {11}-san.{1a}I'm all better now. I bet I can\nleave tomorrow.{0c:fe}",
    "status": "done",
    "tl": "Thank you so much for saving me, [HERO]-san, [VAR11]-san. // I'm all better now. I bet I can leave tomorrow."
   },
@@ -8004,7 +8004,7 @@
    "jp": "{0c:521018}{1c:24}{0b:08}【 サラ 】{0b:09}\n助けてくれて本当にありがとう。{1a}もう体の方も大丈夫だよ。\n明日には出られるんじゃないかな。{0c:fe}",
    "read": "{0c:521018}{1c:24}{0b:08}【 サラ 】{0b:09}\n助けてくれて本当にありがとう。{1a}もう体の方も大丈夫だよ。\n明日には出られるんじゃないかな。{0c:fe}",
    "raw": null,
-   "en": "{0c:521018}{1c:24}{0b:08}【 Sara 】{0b:09}\nThank you so much for saving me.{1a}I'm all better now. I bet I can leave\ntomorrow.{0c:fe}",
+   "en": "{0c:521018}{1c:24}{0b:08}【 Sara 】{0b:09}\nThank you so much for saving me.{1a}I'm all better now. I bet I can\nleave tomorrow.{0c:fe}",
    "status": "done",
    "tl": "Thank you so much for saving me. // I'm all better now. I bet I can leave tomorrow."
   },
@@ -8202,7 +8202,7 @@
    "jp": "{1c:27}{0b:08}【 サラ 】{0b:09}\nあたし、大勢の人を犠牲にしてまで\n生きるような偉い人間じゃない・・・{1a}何の取り柄もない\n普通の人間なのに・・・{1a}みんなを苦しめておきながら\nあたしは生きてるなんて・・・\nこんなことなら・・・{0c:2b5309fe}",
    "read": "{1c:27}{0b:08}【 サラ 】{0b:09}\nあたし、大勢の人を犠牲にしてまで\n生きるような偉い人間じゃない・・・{1a}何の取り柄もない\n普通の人間なのに・・・{1a}みんなを苦しめておきながら\nあたしは生きてるなんて・・・\nこんなことなら・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "{1c:27}{0b:08}【 Sara 】{0b:09}\nI'm not some great person who should\nget to live when so many people were\nsacrificed...{1a}I'm just a normal person with nothing\nspecial about me...{1a}I made everybody suffer, and here I am\nalive... If this is how it is...{0c:2b5309fe}",
+   "en": "{1c:27}{0b:08}【 Sara 】{0b:09}\nI'm not some great person who should\nget to live when so many people\nwere sacrificed...{1a}I'm just a normal person with nothing\nspecial about me...{1a}I made everybody suffer, and here I am\nalive... If this is how it is...{0c:2b5309fe}",
    "status": "done",
    "tl": "I'm not some great person who should get to live when so many people were sacrificed... // I'm just a normal person with nothing special about me... // I made everybody suffer, and here I am alive... If this is how it is..."
   },
@@ -8286,7 +8286,7 @@
    "jp": "{1c:25}{0b:08}【 サラ 】{0b:09}\n世界中に何万もの魔物が現れた理由は、\nあたし達の魂を封印していた\n『シェオルの柱』を壊したせい・・・{1a}つまり、あたし達が助かった代わりに\n世界中で大勢の人達が\n不幸な目にあったんだって・・・{1a}そういう噂が流れてるって\n教えてもらったんだけど・・・{0c:fe}",
    "read": "{1c:25}{0b:08}【 サラ 】{0b:09}\n世界中に何万もの魔物が現れた理由は、\nあたし達の魂を封印していた\n『シェオルの柱』を壊したせい・・・{1a}つまり、あたし達が助かった代わりに\n世界中で大勢の人達が\n不幸な目にあったんだって・・・{1a}そういう噂が流れてるって\n教えてもらったんだけど・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:25}{0b:08}【 Sara 】{0b:09}\nThey say tens of thousands of\nmonsters appeared all over the world\nbecause somebody broke the 'Pillar of{1a}Sheol' that sealed our souls...{1a}So in exchange for us being saved, lots\nof people all over the world got hurt...{1a}Somebody told me that rumor's going\naround...{0c:fe}",
+   "en": "{1c:25}{0b:08}【 Sara 】{0b:09}\nThey say tens of thousands of\nmonsters appeared all over the world\nbecause somebody broke the 'Pillar of{1a}Sheol' that sealed our souls...{1a}So in exchange for us being saved, lots\nof people all over the world got hurt...{1a}Somebody told me that rumor's\ngoing around...{0c:fe}",
    "status": "done",
    "tl": "They say tens of thousands of monsters appeared all over the world because somebody broke the 'Pillar of Sheol' that sealed our souls... // So in exchange for us being saved, lots of people all over the world got hurt... // Somebody told me that rumor's going around..."
   },

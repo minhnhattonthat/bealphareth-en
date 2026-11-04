@@ -122,7 +122,7 @@
    "jp": "{0c:5107}{1c:15}{0b:08}{e080} ジェシカ {e081}{0b:09}\nねえ、{10}。\n最近ルカって変わったように\n思わない?{1a}ちょっとたくましく\nなったっていうかさ・・・{0c:fe}",
    "read": "{0c:5107}{1c:15}{0b:08}【 ジェシカ 】{0b:09}\nねえ、{10}。\n最近ルカって変わったように\n思わない?{1a}ちょっとたくましく\nなったっていうかさ・・・{0c:fe}",
    "raw": null,
-   "en": "{0c:5107}{1c:15}{0b:08}【 Jessica 】{0b:09}\nHey, {10}. Don't you think Luca's\nchanged lately?{1a}Like he's gotten a little tougher or\nsomething...{0c:fe}",
+   "en": "{0c:5107}{1c:15}{0b:08}【 Jessica 】{0b:09}\nHey, {10}. Don't you think Luca's\nchanged lately?{1a}Like he's gotten a little tougher\nor something...{0c:fe}",
    "status": "done",
    "tl": "Hey, [HERO]. Don't you think Luca's changed lately? // Like he's gotten a little tougher or something..."
   },
@@ -145,7 +145,7 @@
    "jp": "{1c:10}{0b:08}{e080} ルカ {e081}{0b:09}\nそうですか?\nちょっと嬉しいです。{0c:4c0a09fe}",
    "read": "{1c:10}{0b:08}【 ルカ 】{0b:09}\nそうですか?\nちょっと嬉しいです。{0c:4c0a09fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Luca 】{0b:09}\nDo you think so? That makes me a little\nhappy.{0c:4c0a09fe}",
+   "en": "{1c:10}{0b:08}【 Luca 】{0b:09}\nDo you think so? That makes me a\nlittle happy.{0c:4c0a09fe}",
    "status": "done",
    "tl": "Do you think so? That makes me a little happy."
   },
@@ -423,7 +423,7 @@
    "jp": "{1c:12}{0b:08}{e080} ルカ {e081}{0b:09}\nあっ、{10}さん。\nい、今から行かれるんですか?{0c:fe}",
    "read": "{1c:12}{0b:08}【 ルカ 】{0b:09}\nあっ、{10}さん。\nい、今から行かれるんですか?{0c:fe}",
    "raw": null,
-   "en": "{1c:12}{0b:08}【 Luca 】{0b:09}\nOh, {10}-san. Are you leaving\nn-now?{0c:fe}",
+   "en": "{1c:12}{0b:08}【 Luca 】{0b:09}\nOh, {10}-san. Are you\nleaving n-now?{0c:fe}",
    "status": "done",
    "tl": "Oh, [HERO]-san. Are you leaving n-now?"
   },
@@ -596,7 +596,7 @@
    "jp": "{1c:12}も、申し訳ありません、\n他の方との約束があるので・・・{0c:0204}",
    "read": "{1c:12}も、申し訳ありません、\n他の方との約束があるので・・・{0c:0204}",
    "raw": null,
-   "en": "{1c:12}I-I'm very sorry, I have promised someone\nelse...{0c:0204}",
+   "en": "{1c:12}I-I'm very sorry, I have promised\nsomeone else...{0c:0204}",
    "status": "done",
    "tl": "I-I'm very sorry, I have promised someone else..."
   },
@@ -778,7 +778,7 @@
    "jp": "{1c:14}えっ・・・\nも、もう行くんですか・・・?\n危なくなったらすぐ帰りましょうね。",
    "read": "{1c:14}えっ・・・\nも、もう行くんですか・・・?\n危なくなったらすぐ帰りましょうね。",
    "raw": null,
-   "en": "{1c:14}Eh... You're going a-already...? If it gets\ndangerous, let's come straight back, all\nright?",
+   "en": "{1c:14}Eh... You're going a-already...? If it gets\ndangerous, let's come straight back,\nall right?",
    "status": "done",
    "tl": "Eh... You're going a-already...? If it gets dangerous, let's come straight back, all right?"
   },
@@ -801,7 +801,7 @@
    "jp": "{1c:12}も、申し訳ありません、\n他の方との約束があるので・・・{0c:17}",
    "read": "{1c:12}も、申し訳ありません、\n他の方との約束があるので・・・{0c:17}",
    "raw": null,
-   "en": "{1c:12}I-I'm very sorry, I have promised someone\nelse...{0c:17}",
+   "en": "{1c:12}I-I'm very sorry, I have promised\nsomeone else...{0c:17}",
    "status": "done",
    "tl": "I-I'm very sorry, I have promised someone else..."
   },
@@ -1041,7 +1041,7 @@
    "jp": "{1c:14}外は大丈夫なんでしょうか・・・\n心配で心配で・・・{1a}かといって、この町にいる限り\n何か出来るわけでもないですし・・・\nどうすればいいんでしょう・・・{0c:fe}",
    "read": "{1c:14}外は大丈夫なんでしょうか・・・\n心配で心配で・・・{1a}かといって、この町にいる限り\n何か出来るわけでもないですし・・・\nどうすればいいんでしょう・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:14}Will the outside world be all right...? I'm so\nvery worried...{1a}But as long as we're in this town,\nthere's nothing we can do... What should I\ndo...{0c:fe}",
+   "en": "{1c:14}Will the outside world be all right...? I'm so\nvery worried...{1a}But as long as we're in this town,\nthere's nothing we can do... What should\nI do...{0c:fe}",
    "status": "done",
    "tl": "Will the outside world be all right...? I'm so very worried... // But as long as we're in this town, there's nothing we can do... What should I do..."
   },
@@ -1110,7 +1110,7 @@
    "jp": "{0c:0d010d070d010b070d010c07}{1c:12}そ、そんな・・・\n冷たいですよ、{10}さん。{0c:020501}",
    "read": "{0c:0d010d070d010b070d010c07}{1c:12}そ、そんな・・・\n冷たいですよ、{10}さん。{0c:020501}",
    "raw": null,
-   "en": "{0c:0d010d070d010b070d010c07}{1c:12}Th-that's... so cold of you,\n{10}-san.{0c:020501}",
+   "en": "{0c:0d010d070d010b070d010c07}{1c:12}Th-that's... so cold of\nyou, {10}-san.{0c:020501}",
    "status": "done",
    "tl": "Th-that's... so cold of you, [HERO]-san."
   },
@@ -1157,7 +1157,7 @@
    "jp": "{1c:14}す、すみません・・・\n自分でも何を言ってるのか\nわからなくて・・・{0c:fe}",
    "read": "{1c:14}す、すみません・・・\n自分でも何を言ってるのか\nわからなくて・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:14}I-I am sorry... I don't even know what I'm\nsaying...{0c:fe}",
+   "en": "{1c:14}I-I am sorry... I don't even know what\nI'm saying...{0c:fe}",
    "status": "done",
    "tl": "I-I am sorry... I don't even know what I'm saying..."
   },
@@ -1352,7 +1352,7 @@
    "jp": "{1c:14}だ、大丈夫なんでしょうか・・・\n心配で心配で・・・{1a}かといって、この町にいる限り\n何か出来るわけでもないですし・・・\nどうすればいいんでしょう・・・{0c:fe}",
    "read": "{1c:14}だ、大丈夫なんでしょうか・・・\n心配で心配で・・・{1a}かといって、この町にいる限り\n何か出来るわけでもないですし・・・\nどうすればいいんでしょう・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:14}Will it be a-all right...? I'm so very\nworried...{1a}But as long as we're in this town,\nthere's nothing we can do... What should I\ndo...{0c:fe}",
+   "en": "{1c:14}Will it be a-all right...? I'm so\nvery worried...{1a}But as long as we're in this town,\nthere's nothing we can do... What should\nI do...{0c:fe}",
    "status": "done",
    "tl": "Will it be a-all right...? I'm so very worried... // But as long as we're in this town, there's nothing we can do... What should I do..."
   },
@@ -1421,7 +1421,7 @@
    "jp": "{0c:0d010d070d010b070d010c07}{1c:12}そ、そんな・・・\n冷たいですよ、{10}さん。{0c:020501}",
    "read": "{0c:0d010d070d010b070d010c07}{1c:12}そ、そんな・・・\n冷たいですよ、{10}さん。{0c:020501}",
    "raw": null,
-   "en": "{0c:0d010d070d010b070d010c07}{1c:12}Th-that's... so cold of you,\n{10}-san.{0c:020501}",
+   "en": "{0c:0d010d070d010b070d010c07}{1c:12}Th-that's... so cold of\nyou, {10}-san.{0c:020501}",
    "status": "done",
    "tl": "Th-that's... so cold of you, [HERO]-san."
   },
@@ -1468,7 +1468,7 @@
    "jp": "{1c:12}す、すみません・・・\n自分でも何を言ってるのか\nわからなくて・・・{0c:fe}",
    "read": "{1c:12}す、すみません・・・\n自分でも何を言ってるのか\nわからなくて・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:12}I-I am sorry... I don't even know what I'm\nsaying...{0c:fe}",
+   "en": "{1c:12}I-I am sorry... I don't even know what\nI'm saying...{0c:fe}",
    "status": "done",
    "tl": "I-I am sorry... I don't even know what I'm saying..."
   },
@@ -1503,7 +1503,7 @@
    "jp": "{0c:315016515060008000a83a00}{1c:14}{0b:08}{e080} ルカ {e081}{0b:09}\nだ、大丈夫なんでしょうか・・・\n心配で心配で・・・{0c:fe}",
    "read": "{0c:315016515060008000a83a00}{1c:14}{0b:08}【 ルカ 】{0b:09}\nだ、大丈夫なんでしょうか・・・\n心配で心配で・・・{0c:fe}",
    "raw": null,
-   "en": "{0c:315016515060008000a83a00}{1c:14}{0b:08}【 Luca 】{0b:09}\nWill it be a-all right...? I'm so very\nworried...{0c:fe}",
+   "en": "{0c:315016515060008000a83a00}{1c:14}{0b:08}【 Luca 】{0b:09}\nWill it be a-all right...? I'm so\nvery worried...{0c:fe}",
    "status": "done",
    "tl": "Will it be a-all right...? I'm so very worried..."
   },
@@ -1596,7 +1596,7 @@
    "jp": "{1c:14}{0b:08}{e080} ルカ {e081}{0b:09}\nだ、大丈夫なんでしょうか・・・\n心配で心配で・・・{0c:4c0a09fe}",
    "read": "{1c:14}{0b:08}【 ルカ 】{0b:09}\nだ、大丈夫なんでしょうか・・・\n心配で心配で・・・{0c:4c0a09fe}",
    "raw": null,
-   "en": "{1c:14}{0b:08}【 Luca 】{0b:09}\nWill it be a-all right...? I'm so very\nworried...{0c:4c0a09fe}",
+   "en": "{1c:14}{0b:08}【 Luca 】{0b:09}\nWill it be a-all right...? I'm so\nvery worried...{0c:4c0a09fe}",
    "status": "done",
    "tl": "Will it be a-all right...? I'm so very worried..."
   },
@@ -1782,7 +1782,7 @@
    "jp": "{1c:14}{0b:08}{e080} ルカ {e081}{0b:09}\nだ、大丈夫なんでしょうか・・・\n心配で心配で・・・{0c:15}",
    "read": "{1c:14}{0b:08}【 ルカ 】{0b:09}\nだ、大丈夫なんでしょうか・・・\n心配で心配で・・・{0c:15}",
    "raw": null,
-   "en": "{1c:14}{0b:08}【 Luca 】{0b:09}\nWill it be a-all right...? I'm so very\nworried...{0c:15}",
+   "en": "{1c:14}{0b:08}【 Luca 】{0b:09}\nWill it be a-all right...? I'm so\nvery worried...{0c:15}",
    "status": "done",
    "tl": "Will it be a-all right...? I'm so very worried..."
   },
@@ -1840,7 +1840,7 @@
    "jp": "{1c:13}バルデスさんに\nお別れを言いに行くのですか・・・?{1a}はい・・・{07:14}\nわたしもご一緒します・・・{07:05}",
    "read": "{1c:13}バルデスさんに\nお別れを言いに行くのですか・・・?{1a}はい・・・{07:14}\nわたしもご一緒します・・・{07:05}",
    "raw": null,
-   "en": "{1c:13}Are you going to say farewell to\nValdes-san...?{1a}Yes...{07:14} I will go with you...{07:05}",
+   "en": "{1c:13}Are you going to say farewell\nto Valdes-san...?{1a}Yes...{07:14} I will go with you...{07:05}",
    "status": "done",
    "tl": "Are you going to say farewell to Valdes-san...? // Yes...[1] I will go with you..."
   },
@@ -1912,7 +1912,7 @@
    "jp": "{0c:315017517860008000a8}{1c:11}{0b:08}{e080} ルカ {e081}{0b:09}\n悲しいですね・・・\n自分の無力さを恨みます・・・{0c:fe}",
    "read": "{0c:315017517860008000a8}{1c:11}{0b:08}【 ルカ 】{0b:09}\n悲しいですね・・・\n自分の無力さを恨みます・・・{0c:fe}",
    "raw": null,
-   "en": "{0c:315017517860008000a8}{1c:11}{0b:08}【 Luca 】{0b:09}\nIt's so sad... I curse my own\npowerlessness...{0c:fe}",
+   "en": "{0c:315017517860008000a8}{1c:11}{0b:08}【 Luca 】{0b:09}\nIt's so sad... I curse my\nown powerlessness...{0c:fe}",
    "status": "done",
    "tl": "It's so sad... I curse my own powerlessness..."
   },
@@ -1994,7 +1994,7 @@
    "jp": "{1c:11}{0b:08}{e080} ルカ {e081}{0b:09}\nどうすればバルデスさんのように\n強くなれるのでしょう・・・{0c:15}",
    "read": "{1c:11}{0b:08}【 ルカ 】{0b:09}\nどうすればバルデスさんのように\n強くなれるのでしょう・・・{0c:15}",
    "raw": null,
-   "en": "{1c:11}{0b:08}【 Luca 】{0b:09}\nHow can I become strong like\nValdes-san...{0c:15}",
+   "en": "{1c:11}{0b:08}【 Luca 】{0b:09}\nHow can I become strong\nlike Valdes-san...{0c:15}",
    "status": "done",
    "tl": "How can I become strong like Valdes-san..."
   },
@@ -2029,7 +2029,7 @@
    "jp": "{1c:10}{0b:08}{e080} ルカ {e081}{0b:09}\nあっ、{10}さん・・・\nもう行かれるのですか?{0c:fe}",
    "read": "{1c:10}{0b:08}【 ルカ 】{0b:09}\nあっ、{10}さん・・・\nもう行かれるのですか?{0c:fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Luca 】{0b:09}\nOh, {10}-san... Are you leaving\nalready?{0c:fe}",
+   "en": "{1c:10}{0b:08}【 Luca 】{0b:09}\nOh, {10}-san... Are you\nleaving already?{0c:fe}",
    "status": "done",
    "tl": "Oh, [HERO]-san... Are you leaving already?"
   },
@@ -2052,7 +2052,7 @@
    "jp": "{1c:14}えーと・・・\n{10}さんにはわたしなどより\nもっとふさわしい方が\nいると思うんです・・・{0c:16}",
    "read": "{1c:14}えーと・・・\n{10}さんにはわたしなどより\nもっとふさわしい方が\nいると思うんです・・・{0c:16}",
    "raw": null,
-   "en": "{1c:14}Um... I think there must be someone\nbetter suited for you than me,\n{10}-san...{0c:16}",
+   "en": "{1c:14}Um... I think there must be someone\nbetter suited for you than\nme, {10}-san...{0c:16}",
    "status": "done",
    "tl": "Um... I think there must be someone better suited for you than me, [HERO]-san..."
   },
@@ -2156,7 +2156,7 @@
    "jp": "{1c:14}{0b:08}{e080} ルカ {e081}{0b:09}\nあっ、{10}さん・・・\nもう行かれるのですか?{0c:fe}",
    "read": "{1c:14}{0b:08}【 ルカ 】{0b:09}\nあっ、{10}さん・・・\nもう行かれるのですか?{0c:fe}",
    "raw": null,
-   "en": "{1c:14}{0b:08}【 Luca 】{0b:09}\nOh, {10}-san... Are you leaving\nalready?{0c:fe}",
+   "en": "{1c:14}{0b:08}【 Luca 】{0b:09}\nOh, {10}-san... Are you\nleaving already?{0c:fe}",
    "status": "done",
    "tl": "Oh, [HERO]-san... Are you leaving already?"
   },
@@ -2179,7 +2179,7 @@
    "jp": "{1c:14}わ、わかりました。\n怖いですけど頑張ってみます。",
    "read": "{1c:14}わ、わかりました。\n怖いですけど頑張ってみます。",
    "raw": null,
-   "en": "{1c:14}I-I understand. I'm scared, but I'll do my\nbest.",
+   "en": "{1c:14}I-I understand. I'm scared, but I'll do\nmy best.",
    "status": "done",
    "tl": "I-I understand. I'm scared, but I'll do my best."
   },
@@ -2191,7 +2191,7 @@
    "jp": "{1c:11}すみません・・・\n他の方と約束して\nしまいましたので・・・{0c:16}",
    "read": "{1c:11}すみません・・・\n他の方と約束して\nしまいましたので・・・{0c:16}",
    "raw": null,
-   "en": "{1c:11}I am sorry... I already promised someone\nelse...{0c:16}",
+   "en": "{1c:11}I am sorry... I already promised\nsomeone else...{0c:16}",
    "status": "done",
    "tl": "I am sorry... I already promised someone else..."
   },
@@ -2389,7 +2389,7 @@
    "jp": "{1c:10}{0b:08}{e080} ルカ {e081}{0b:09}\n行ってらっしゃい、\n{11}さん、{10}さん。{0c:15}",
    "read": "{1c:10}{0b:08}【 ルカ 】{0b:09}\n行ってらっしゃい、\n{11}さん、{10}さん。{0c:15}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Luca 】{0b:09}\nSafe travels, {11}-san,\n{10}-san.{0c:15}",
+   "en": "{1c:10}{0b:08}【 Luca 】{0b:09}\nSafe travels,\n{11}-san, {10}-san.{0c:15}",
    "status": "done",
    "tl": "Safe travels, [VAR11]-san, [HERO]-san."
   },
@@ -2496,7 +2496,7 @@
    "jp": "{1c:10}{10}さん・・・\nちょっと悲しいです・・・{0c:1501}",
    "read": "{1c:10}{10}さん・・・\nちょっと悲しいです・・・{0c:1501}",
    "raw": null,
-   "en": "{1c:10}{10}-san... This makes me a little\nsad...{0c:1501}",
+   "en": "{1c:10}{10}-san... This makes me a\nlittle sad...{0c:1501}",
    "status": "done",
    "tl": "[HERO]-san... This makes me a little sad..."
   },
@@ -2805,7 +2805,7 @@
    "jp": "{1c:10}もうみんなを悲しませないで下さい・・・",
    "read": "{1c:10}もうみんなを悲しませないで下さい・・・",
    "raw": null,
-   "en": "{1c:10}Please don't make everyone sad\nanymore...",
+   "en": "{1c:10}Please don't make everyone\nsad anymore...",
    "status": "done",
    "tl": "Please don't make everyone sad anymore..."
   },

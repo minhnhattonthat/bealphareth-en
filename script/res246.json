@@ -64,7 +64,7 @@
    "jp": "{1c:10}{10}さん、\nここで・・・お別れですね。{0c:fe}",
    "read": "{1c:10}{10}さん、\nここで・・・お別れですね。{0c:fe}",
    "raw": null,
-   "en": "{1c:10}{10}-san, so this is... where we\npart.{0c:fe}",
+   "en": "{1c:10}{10}-san, so this is... where\nwe part.{0c:fe}",
    "status": "done",
    "tl": "[HERO]-san, so this is... where we part."
   },
@@ -110,7 +110,7 @@
    "jp": "{0c:5110}{1c:13}いえ、1人で大丈夫です。{1a}それに、ここでまた\n{10}さんに頼ってしまったら、{1a}わたしはいつまでたっても\n1人では何も出来ない\n情けない男になってしまいますから。{0c:fe}",
    "read": "{0c:5110}{1c:13}いえ、1人で大丈夫です。{1a}それに、ここでまた\n{10}さんに頼ってしまったら、{1a}わたしはいつまでたっても\n1人では何も出来ない\n情けない男になってしまいますから。{0c:fe}",
    "raw": null,
-   "en": "{0c:5110}{1c:13}No, I will be fine alone.{1a}Besides, if I lean on you again here,\n{10}-san,{1a}I will end up a pathetic man who can\nnever do anything alone, however long I\nlive.{0c:fe}",
+   "en": "{0c:5110}{1c:13}No, I will be fine alone.{1a}Besides, if I lean on you again\nhere, {10}-san,{1a}I will end up a pathetic man who can\nnever do anything alone, however long\nI live.{0c:fe}",
    "status": "done",
    "tl": "No, I will be fine alone. // Besides, if I lean on you again here, [HERO]-san, // I will end up a pathetic man who can never do anything alone, however long I live."
   },
@@ -133,7 +133,7 @@
    "jp": "{1c:10}生意気ですよね。\n今まで散{e084}{10}さんに\n頼ってきたのに・・・{1a}でも、決めたんです。\n{10}さんの『友達』を\n{e085}乗れるくらいの男になるって。{0c:fe}",
    "read": "{1c:10}生意気ですよね。\n今まで散々{10}さんに\n頼ってきたのに・・・{1a}でも、決めたんです。\n{10}さんの『友達』を\n名乗れるくらいの男になるって。{0c:fe}",
    "raw": null,
-   "en": "{1c:10}It is presumptuous of me, I know. After\nall the times I have leaned on you,\n{10}-san...{1a}But I have decided. I will become a man\nworthy of calling himself\n{10}-san's 'friend'.{0c:fe}",
+   "en": "{1c:10}It is presumptuous of me, I know. After\nall the times I have leaned on\nyou, {10}-san...{1a}But I have decided. I will become a man\nworthy of calling himself\n{10}-san's 'friend'.{0c:fe}",
    "status": "done",
    "tl": "It is presumptuous of me, I know. After all the times I have leaned on you, [HERO]-san... // But I have decided. I will become a man worthy of calling himself [HERO]-san's 'friend'."
   },
@@ -156,7 +156,7 @@
    "jp": "{1c:10}もちろん、\nわたしがいくら体を{e086}えたって、\n{10}さんみたいに\n強くはなれません。{1a}わたしに出来ることは何か・・・\n{10}さんを待ってる間\nずっとずっと考えてたんです。{1a}{0c:5110}{01}1{e087}間{02}、ずっと考えてみたんですが、\nやはりわたしには\n信仰を{e089}く生き方しか\n思い浮かびませんでした。{0c:fe}",
    "read": "{1c:10}もちろん、\nわたしがいくら体を鍛えたって、\n{10}さんみたいに\n強くはなれません。{1a}わたしに出来ることは何か・・・\n{10}さんを待ってる間\nずっとずっと考えてたんです。{1a}{0c:5110}{01}1年間{02}、ずっと考えてみたんですが、\nやはりわたしには\n信仰を貫く生き方しか\n思い浮かびませんでした。{0c:fe}",
    "raw": null,
-   "en": "{1c:10}Of course, however much I train my\nbody, I could never be as strong as you,\n{10}-san.{1a}What can I do... I thought about it, on and\non, while I waited for you,\n{10}-san.{1a}{0c:5110}I thought about it for a whole year, but\nafter all, the only way of life that came\nto mind was to hold true to my faith.{0c:fe}",
+   "en": "{1c:10}Of course, however much I train my\nbody, I could never be as strong as\nyou, {10}-san.{1a}What can I do... I thought about it, on and\non, while I waited for\nyou, {10}-san.{1a}{0c:5110}I thought about it for a whole year, but\nafter all, the only way of life that came\nto mind was to hold true to my faith.{0c:fe}",
    "status": "done",
    "tl": "Of course, however much I train my body, I could never be as strong as you, [HERO]-san. // What can I do... I thought about it, on and on, while I waited for you, [HERO]-san. // [1]I thought about it for a whole year, but after all, the only way of life that came to mind was to hold true to my faith."
   },
@@ -179,7 +179,7 @@
    "jp": "{1c:10}アノイア{e08b}の\n誕生の{e08d}密を知ってるのは\nあの町にいた人達のみ・・・{1a}多くの人{e084}にとって、\nいまだにアノイア{e08b}は\n心のより所であり{e08b}{e08f}です。{1a}{e090}に、この戦乱の時{e091}、\n軍馬のいななきに怯え暮らす人{e084}には\n何よりも心の支えが必要でしょう。{1a}でも、今のアノイア{e08b}では\n人{e084}の心は救えません。{1a}聖{e096}の中には、\n他人を{e097}うようにだとか、\n親を大切にだとか、\n生命の{e099}さ、人間の{e099}厳だとか・・・{1a}ありふれてはいますが、\nどの時{e091}でも{e09b}理となりうる\n人の心が描かれているのに\n{e08b}{e09d}はそこを{e09e}み{e09f}ばし、{1a}{e08b}{e0a0}庁や為政者は、アノイア{e08b}を\n神の{e085}の下に人{e084}を支配するための\n道具として利用しています。{0c:fe}",
    "read": "{1c:10}アノイア教の\n誕生の秘密を知ってるのは\nあの町にいた人達のみ・・・{1a}多くの人々にとって、\nいまだにアノイア教は\n心のより所であり教師です。{1a}特に、この戦乱の時代、\n軍馬のいななきに怯え暮らす人々には\n何よりも心の支えが必要でしょう。{1a}でも、今のアノイア教では\n人々の心は救えません。{1a}聖書の中には、\n他人を敬うようにだとか、\n親を大切にだとか、\n生命の尊さ、人間の尊厳だとか・・・{1a}ありふれてはいますが、\nどの時代でも真理となりうる\n人の心が描かれているのに\n教会はそこを読み飛ばし、{1a}教皇庁や為政者は、アノイア教を\n神の名の下に人々を支配するための\n道具として利用しています。{0c:fe}",
    "raw": null,
-   "en": "{1c:10}Only those who were in that town know\nthe secret of how the Anoian faith was\nborn...{1a}For many people, the Anoian faith is still\na refuge for the heart, and a teacher.{1a}Especially in these times of war, people\nwho live in fear of the neighing of\nwarhorses must need something to lean\non above all.{1a}But the Anoian faith as it stands\ncannot save people's hearts.{1a}The Scriptures tell us to respect\nothers, to cherish our parents, of the\nvalue of life, of human dignity...{1a}Commonplace as they are, they portray\na human heart that can be true in any\nage, and yet the Church skips over\nthose parts,{1a}and the Holy See and those who rule use\nthe Anoian faith as a tool to dominate\npeople in the name of God.{0c:fe}",
+   "en": "{1c:10}Only those who were in that town know\nthe secret of how the Anoian faith\nwas born...{1a}For many people, the Anoian faith is still\na refuge for the heart, and a teacher.{1a}Especially in these times of war, people\nwho live in fear of the neighing of\nwarhorses must need something to lean\non above all.{1a}But the Anoian faith as it stands\ncannot save people's hearts.{1a}The Scriptures tell us to respect\nothers, to cherish our parents, of the\nvalue of life, of human dignity...{1a}Commonplace as they are, they portray\na human heart that can be true in any\nage, and yet the Church skips over\nthose parts,{1a}and the Holy See and those who rule use\nthe Anoian faith as a tool to dominate\npeople in the name of God.{0c:fe}",
    "status": "done",
    "tl": "Only those who were in that town know the secret of how the Anoian faith was born... // For many people, the Anoian faith is still a refuge for the heart, and a teacher. // Especially in these times of war, people who live in fear of the neighing of warhorses must need something to lean on above all. // But the Anoian faith as it stands cannot save people's hearts. // The Scriptures tell us to respect others, to cherish our parents, of the value of life, of human dignity... // Commonplace as they are, they portray a human heart that can be true in any age, and yet the Church skips over those parts, // and the Holy See and those who rule use the Anoian faith as a tool to dominate people in the name of God."
   },
@@ -202,7 +202,7 @@
    "jp": "{1c:10}わたしは、\n仕{e0a3}まれたものでもなく、\n支配者のためのものでもなく、\n{e08b}{e09d}のためのものでもない、{1a}人{e084}の立場に立った、\n{e0a4}しいアノイア{e08b}を\n人{e084}に伝えていきたい・・・{1a}こんなわたしに\n何が出来るかは分かりません・・・{1a}でも、わたしは動きたい・・・\n{e09b}実を知った者の責任として。{0c:fe}",
    "read": "{1c:10}わたしは、\n仕組まれたものでもなく、\n支配者のためのものでもなく、\n教会のためのものでもない、{1a}人々の立場に立った、\n新しいアノイア教を\n人々に伝えていきたい・・・{1a}こんなわたしに\n何が出来るかは分かりません・・・{1a}でも、わたしは動きたい・・・\n真実を知った者の責任として。{0c:fe}",
    "raw": null,
-   "en": "{1c:10}I wish to bring to people a new Anoian\nfaith, not contrived by anyone, not for\nthe rulers, not for the Church,{1a}but standing with the people...{1a}I do not know what someone like me can\ndo...{1a}But I want to act... as the duty of one\nwho has learned the truth.{0c:fe}",
+   "en": "{1c:10}I wish to bring to people a new Anoian\nfaith, not contrived by anyone, not for\nthe rulers, not for the Church,{1a}but standing with the people...{1a}I do not know what someone like me\ncan do...{1a}But I want to act... as the duty of one\nwho has learned the truth.{0c:fe}",
    "status": "done",
    "tl": "I wish to bring to people a new Anoian faith, not contrived by anyone, not for the rulers, not for the Church, // but standing with the people... // I do not know what someone like me can do... // But I want to act... as the duty of one who has learned the truth."
   },
@@ -598,7 +598,7 @@
    "jp": "{0c:51f8}{0b:08}{e080} 兵士A {e081}{0b:09}\nま、待て!\nせ、戦場で見たことがある・・・\nこ、こいつは、で、伝{e0af}の傭兵・{07:05}・{07:05}・{07:14}{0c:2b5109fe}",
    "read": "{0c:51f8}{0b:08}【 兵士A 】{0b:09}\nま、待て!\nせ、戦場で見たことがある・・・\nこ、こいつは、で、伝説の傭兵・{07:05}・{07:05}・{07:14}{0c:2b5109fe}",
    "raw": null,
-   "en": "{0c:51f8}{0b:08}【 Soldier A 】{0b:09}\nW-wait! I've seen this one on the\nb-battlefield... T-this is the l-legendary\nmercenary.{07:05}.{07:05}.{07:14}{0c:2b5109fe}",
+   "en": "{0c:51f8}{0b:08}【 Soldier A 】{0b:09}\nW-wait! I've seen this one on the\nb-battlefield... T-this is the\nl-legendary mercenary.{07:05}.{07:05}.{07:14}{0c:2b5109fe}",
    "status": "done",
    "tl": "W-wait! I've seen this one on the b-battlefield... T-this is the l-legendary mercenary.[1].[2]."
   },
@@ -689,7 +689,7 @@
    "jp": "{1c:10}{10}さん、\nここで・・・お別れですね。{0c:fe}",
    "read": "{1c:10}{10}さん、\nここで・・・お別れですね。{0c:fe}",
    "raw": null,
-   "en": "{1c:10}{10}-san, so this is... where we\npart.{0c:fe}",
+   "en": "{1c:10}{10}-san, so this is... where\nwe part.{0c:fe}",
    "status": "done",
    "tl": "[HERO]-san, so this is... where we part."
   },
@@ -735,7 +735,7 @@
    "jp": "{0c:5110}{1c:13}いえ、1人で大丈夫です。{1a}それに、ここでまた\n{10}さんに頼ってしまったら、{1a}わたしはいつまでたっても\n1人では何も出来ない\n情けない男になってしまいますから。{0c:fe}",
    "read": "{0c:5110}{1c:13}いえ、1人で大丈夫です。{1a}それに、ここでまた\n{10}さんに頼ってしまったら、{1a}わたしはいつまでたっても\n1人では何も出来ない\n情けない男になってしまいますから。{0c:fe}",
    "raw": null,
-   "en": "{0c:5110}{1c:13}No, I will be fine alone.{1a}Besides, if I lean on you again here,\n{10}-san,{1a}I will end up a pathetic man who can\nnever do anything alone, however long I\nlive.{0c:fe}",
+   "en": "{0c:5110}{1c:13}No, I will be fine alone.{1a}Besides, if I lean on you again\nhere, {10}-san,{1a}I will end up a pathetic man who can\nnever do anything alone, however long\nI live.{0c:fe}",
    "status": "done",
    "tl": "No, I will be fine alone. // Besides, if I lean on you again here, [HERO]-san, // I will end up a pathetic man who can never do anything alone, however long I live."
   },
@@ -758,7 +758,7 @@
    "jp": "{1c:15}生意気ですよね。\n今まで散{e084}{10}さんに\n頼ってきたのに・・・{1a}それに、本当なら\n街道荒らしが出るような場所で\n女性を1人にする方が、\nよっぽど男らしくないのでしょうが、{1a}{10}さんなら・・・\n大丈夫ですよね?{0c:fe}",
    "read": "{1c:15}生意気ですよね。\n今まで散々{10}さんに\n頼ってきたのに・・・{1a}それに、本当なら\n街道荒らしが出るような場所で\n女性を1人にする方が、\nよっぽど男らしくないのでしょうが、{1a}{10}さんなら・・・\n大丈夫ですよね?{0c:fe}",
    "raw": null,
-   "en": "{1c:15}It is presumptuous of me, I know. After\nall the times I have leaned on you,\n{10}-san...{1a}Besides, truly, leaving a woman alone in a\nplace with highwaymen is far less manly, I\nsuppose,{1a}but you, {10}-san... you will be fine,\nwon't you?{0c:fe}",
+   "en": "{1c:15}It is presumptuous of me, I know. After\nall the times I have leaned on\nyou, {10}-san...{1a}Besides, truly, leaving a woman alone in a\nplace with highwaymen is far less manly,\nI suppose,{1a}but you, {10}-san... you will be fine,\nwon't you?{0c:fe}",
    "status": "done",
    "tl": "It is presumptuous of me, I know. After all the times I have leaned on you, [HERO]-san... // Besides, truly, leaving a woman alone in a place with highwaymen is far less manly, I suppose, // but you, [HERO]-san... you will be fine, won't you?"
   },
@@ -827,7 +827,7 @@
    "jp": "{1c:11}アノイア{e08b}の\n誕生の{e08d}密を知ってるのは\nあの町にいた人達のみ・・・{1a}多くの人{e084}にとって、\nいまだにアノイア{e08b}は\n心のより所であり{e08b}{e08f}です。{1a}{e090}に、この戦乱の時{e091}、\n軍馬のいななきに怯え暮らす人{e084}には\n何よりも心の支えが必要でしょう。{1a}でも、今のアノイア{e08b}では\n人{e084}の心は救えません。{1a}聖{e096}の中には、\n他人を{e097}うようにだとか、\n親を大切にだとか、\n生命の{e099}さ、人間の{e099}厳だとか・・・{1a}ありふれてはいますが、\nどの時{e091}でも{e09b}理となりうる\n人の心が描かれているのに\n{e08b}{e09d}はそこを{e09e}み{e09f}ばし、{1a}{e08b}{e0a0}庁や為政者は、アノイア{e08b}を\n神の{e085}の下に人{e084}を支配するための\n道具として利用しています。{0c:fe}",
    "read": "{1c:11}アノイア教の\n誕生の秘密を知ってるのは\nあの町にいた人達のみ・・・{1a}多くの人々にとって、\nいまだにアノイア教は\n心のより所であり教師です。{1a}特に、この戦乱の時代、\n軍馬のいななきに怯え暮らす人々には\n何よりも心の支えが必要でしょう。{1a}でも、今のアノイア教では\n人々の心は救えません。{1a}聖書の中には、\n他人を敬うようにだとか、\n親を大切にだとか、\n生命の尊さ、人間の尊厳だとか・・・{1a}ありふれてはいますが、\nどの時代でも真理となりうる\n人の心が描かれているのに\n教会はそこを読み飛ばし、{1a}教皇庁や為政者は、アノイア教を\n神の名の下に人々を支配するための\n道具として利用しています。{0c:fe}",
    "raw": null,
-   "en": "{1c:11}Only those who were in that town know\nthe secret of how the Anoian faith was\nborn...{1a}For many people, the Anoian faith is still\na refuge for the heart, and a teacher.{1a}Especially in these times of war, people\nwho live in fear of the neighing of\nwarhorses must need something to lean\non above all.{1a}But the Anoian faith as it stands\ncannot save people's hearts.{1a}The Scriptures tell us to respect\nothers, to cherish our parents, of the\nvalue of life, of human dignity...{1a}Commonplace as they are, they portray\na human heart that can be true in any\nage, and yet the Church skips over\nthose parts,{1a}and the Holy See and those who rule use\nthe Anoian faith as a tool to dominate\npeople in the name of God.{0c:fe}",
+   "en": "{1c:11}Only those who were in that town know\nthe secret of how the Anoian faith\nwas born...{1a}For many people, the Anoian faith is still\na refuge for the heart, and a teacher.{1a}Especially in these times of war, people\nwho live in fear of the neighing of\nwarhorses must need something to lean\non above all.{1a}But the Anoian faith as it stands\ncannot save people's hearts.{1a}The Scriptures tell us to respect\nothers, to cherish our parents, of the\nvalue of life, of human dignity...{1a}Commonplace as they are, they portray\na human heart that can be true in any\nage, and yet the Church skips over\nthose parts,{1a}and the Holy See and those who rule use\nthe Anoian faith as a tool to dominate\npeople in the name of God.{0c:fe}",
    "status": "done",
    "tl": "Only those who were in that town know the secret of how the Anoian faith was born... // For many people, the Anoian faith is still a refuge for the heart, and a teacher. // Especially in these times of war, people who live in fear of the neighing of warhorses must need something to lean on above all. // But the Anoian faith as it stands cannot save people's hearts. // The Scriptures tell us to respect others, to cherish our parents, of the value of life, of human dignity... // Commonplace as they are, they portray a human heart that can be true in any age, and yet the Church skips over those parts, // and the Holy See and those who rule use the Anoian faith as a tool to dominate people in the name of God."
   },
@@ -850,7 +850,7 @@
    "jp": "{1c:11}わたしは、\n仕{e0a3}まれたものでもなく、\n支配者のためのものでもなく、\n{e08b}{e09d}のためのものでもない、{1a}人{e084}の立場に立った、\n{e0a4}しいアノイア{e08b}を\n人{e084}に伝えていきたい・・・{1a}こんなわたしに\n何が出来るかは分かりません・・・{1a}でも、わたしは動きたい・・・\n{e09b}実を知った者の責任として。{0c:fe}",
    "read": "{1c:11}わたしは、\n仕組まれたものでもなく、\n支配者のためのものでもなく、\n教会のためのものでもない、{1a}人々の立場に立った、\n新しいアノイア教を\n人々に伝えていきたい・・・{1a}こんなわたしに\n何が出来るかは分かりません・・・{1a}でも、わたしは動きたい・・・\n真実を知った者の責任として。{0c:fe}",
    "raw": null,
-   "en": "{1c:11}I wish to bring to people a new Anoian\nfaith, not contrived by anyone, not for\nthe rulers, not for the Church,{1a}but standing with the people...{1a}I do not know what someone like me can\ndo...{1a}But I want to act... as the duty of one\nwho has learned the truth.{0c:fe}",
+   "en": "{1c:11}I wish to bring to people a new Anoian\nfaith, not contrived by anyone, not for\nthe rulers, not for the Church,{1a}but standing with the people...{1a}I do not know what someone like me\ncan do...{1a}But I want to act... as the duty of one\nwho has learned the truth.{0c:fe}",
    "status": "done",
    "tl": "I wish to bring to people a new Anoian faith, not contrived by anyone, not for the rulers, not for the Church, // but standing with the people... // I do not know what someone like me can do... // But I want to act... as the duty of one who has learned the truth."
   },

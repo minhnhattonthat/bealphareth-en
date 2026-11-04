@@ -438,7 +438,7 @@
    "jp": "{1c:11}ごめんな。{10}と行くの\nおっかないから・・・{0c:0202}",
    "read": "{1c:11}ごめんな。{10}と行くの\nおっかないから・・・{0c:0202}",
    "raw": null,
-   "en": "{1c:11}Sorry. Going with you scares me,\n{10}...{0c:0202}",
+   "en": "{1c:11}Sorry. Going with you scares\nme, {10}...{0c:0202}",
    "status": "done",
    "tl": "Sorry. Going with you scares me, [HERO]..."
   },
@@ -510,7 +510,7 @@
    "jp": "{0c:31ea0089007e0801010400ea0089007ef51c23f51b23600087008a1002501651183a00}{0c:5119}{1c:12}{0b:08}{e080} アッシュ {e081}{0b:09}\nふわぁ・・・\n{0c:511b}もう{e082}なのかい・・・?{07:14}\n{0c:5118}違うのか・・・{07:05}{0c:15}",
    "read": "{0c:31ea0089007e0801010400ea0089007ef51c23f51b23600087008a1002501651183a00}{0c:5119}{1c:12}{0b:08}【 アッシュ 】{0b:09}\nふわぁ・・・\n{0c:511b}もう朝なのかい・・・?{07:14}\n{0c:5118}違うのか・・・{07:05}{0c:15}",
    "raw": null,
-   "en": "{0c:31ea0089007e0801010400ea0089007ef51c23f51b23600087008a1002501651183a00}{0c:5119}{1c:12}{0b:08}【 Ash 】{0b:09}\n*Yawn*... {0c:511b}Is it morning already...?{07:14} {0c:5118}Guess\nnot...{07:05}{0c:15}",
+   "en": "{0c:31ea0089007e0801010400ea0089007ef51c23f51b23600087008a1002501651183a00}{0c:5119}{1c:12}{0b:08}【 Ash 】{0b:09}\n*Yawn*... {0c:511b}Is it morning already...?{07:14}\n{0c:5118}Guess not...{07:05}{0c:15}",
    "status": "done",
    "tl": "*Yawn*... [1]Is it morning already...?[2] [3]Guess not..."
   },
@@ -534,7 +534,7 @@
    "jp": "{0c:31600087008a1002501651183a00}{0c:5119}{1c:12}ふわぁ・・・\n\nもう{e082}なのかい・・・?\n違うのか・・・{0c:1501}",
    "read": "{0c:31600087008a1002501651183a00}{0c:5119}{1c:12}ふわぁ・・・\n\nもう朝なのかい・・・?\n違うのか・・・{0c:1501}",
    "raw": null,
-   "en": "{0c:31600087008a1002501651183a00}{0c:5119}{1c:12}*Yawn*... Is it morning already...? Guess\nnot...{0c:1501}",
+   "en": "{0c:31600087008a1002501651183a00}{0c:5119}{1c:12}*Yawn*... Is it morning already...?\nGuess not...{0c:1501}",
    "status": "done",
    "tl": "*Yawn*... Is it morning already...? Guess not..."
   },
@@ -557,7 +557,7 @@
    "jp": "{1c:11}おれ、無事なんだな・・・\n一応礼を言っとくよ。\n寝てる間に殺されたんじゃ\n情けないもんな。{0c:15}",
    "read": "{1c:11}おれ、無事なんだな・・・\n一応礼を言っとくよ。\n寝てる間に殺されたんじゃ\n情けないもんな。{0c:15}",
    "raw": null,
-   "en": "{1c:11}I'm okay, then... Guess I should thank you.\nGetting killed in my sleep would be pretty\nsorry.{0c:15}",
+   "en": "{1c:11}I'm okay, then... Guess I should thank you.\nGetting killed in my sleep would be\npretty sorry.{0c:15}",
    "status": "done",
    "tl": "I'm okay, then... Guess I should thank you. Getting killed in my sleep would be pretty sorry."
   },
@@ -616,7 +616,7 @@
    "jp": "{0c:520304}{1c:11}がんばれよ・・・\nでも、無茶はだめだぞ。{0c:5100}",
    "read": "{0c:520304}{1c:11}がんばれよ・・・\nでも、無茶はだめだぞ。{0c:5100}",
    "raw": null,
-   "en": "{0c:520304}{1c:11}Do your best... But nothing reckless,\nokay?{0c:5100}",
+   "en": "{0c:520304}{1c:11}Do your best... But nothing\nreckless, okay?{0c:5100}",
    "status": "done",
    "tl": "Do your best... But nothing reckless, okay?"
   },
@@ -652,7 +652,7 @@
    "jp": "{0c:520304}{1c:11}がんばれよ・・・\nでも、無茶はだめだぞ。{0c:5100}",
    "read": "{0c:520304}{1c:11}がんばれよ・・・\nでも、無茶はだめだぞ。{0c:5100}",
    "raw": null,
-   "en": "{0c:520304}{1c:11}Do your best... But nothing reckless,\nokay?{0c:5100}",
+   "en": "{0c:520304}{1c:11}Do your best... But nothing\nreckless, okay?{0c:5100}",
    "status": "done",
    "tl": "Do your best... But nothing reckless, okay?"
   },
@@ -664,7 +664,7 @@
    "jp": "{0c:3160009000891002501651003a00}{0c:520102}{1c:11}{0b:08}{e080} アッシュ {e081}{0b:09}\nもういくのかい・・・?\nよくがんばるな、{10}は。{0c:1501}",
    "read": "{0c:3160009000891002501651003a00}{0c:520102}{1c:11}{0b:08}【 アッシュ 】{0b:09}\nもういくのかい・・・?\nよくがんばるな、{10}は。{0c:1501}",
    "raw": null,
-   "en": "{0c:3160009000891002501651003a00}{0c:520102}{1c:11}{0b:08}【 Ash 】{0b:09}\nGoing already...? You really work hard,\n{10}.{0c:1501}",
+   "en": "{0c:3160009000891002501651003a00}{0c:520102}{1c:11}{0b:08}【 Ash 】{0b:09}\nGoing already...? You really work\nhard, {10}.{0c:1501}",
    "status": "done",
    "tl": "Going already...? You really work hard, [HERO]."
   },
@@ -699,7 +699,7 @@
    "jp": "{0c:520304}{1c:10}がんばれよ・・・\nでも、無茶はだめだぞ。{0c:5100}",
    "read": "{0c:520304}{1c:10}がんばれよ・・・\nでも、無茶はだめだぞ。{0c:5100}",
    "raw": null,
-   "en": "{0c:520304}{1c:10}Do your best... But nothing reckless,\nokay?{0c:5100}",
+   "en": "{0c:520304}{1c:10}Do your best... But nothing\nreckless, okay?{0c:5100}",
    "status": "done",
    "tl": "Do your best... But nothing reckless, okay?"
   },
@@ -711,7 +711,7 @@
    "jp": "{0c:520102}{1c:11}{0b:08}{e080} アッシュ {e081}{0b:09}\nもういくのかい・・・?       {0c:520304}よくがんばるな、{10}は。{0c:5100}{0c:15}",
    "read": "{0c:520102}{1c:11}{0b:08}【 アッシュ 】{0b:09}\nもういくのかい・・・?       {0c:520304}よくがんばるな、{10}は。{0c:5100}{0c:15}",
    "raw": null,
-   "en": "{0c:520102}{1c:11}{0b:08}【 Ash 】{0b:09}\nGoing already...? {0c:520304}You really work hard,\n{10}.{0c:5100}{0c:15}",
+   "en": "{0c:520102}{1c:11}{0b:08}【 Ash 】{0b:09}\nGoing already...? {0c:520304}You really work\nhard, {10}.{0c:5100}{0c:15}",
    "status": "done",
    "tl": "Going already...? [1]You really work hard, [HERO]."
   },
@@ -723,7 +723,7 @@
    "jp": "{0c:520304}{1c:11}がんばれよ・・・\nでも、無茶はだめだぞ。{0c:5100}",
    "read": "{0c:520304}{1c:11}がんばれよ・・・\nでも、無茶はだめだぞ。{0c:5100}",
    "raw": null,
-   "en": "{0c:520304}{1c:11}Do your best... But nothing reckless,\nokay?{0c:5100}",
+   "en": "{0c:520304}{1c:11}Do your best... But nothing\nreckless, okay?{0c:5100}",
    "status": "done",
    "tl": "Do your best... But nothing reckless, okay?"
   },
@@ -735,7 +735,7 @@
    "jp": "{0c:3160009000891002501751003a00}{0c:520102}{1c:10}{0b:08}{e080} アッシュ {e081}{0b:09}\nん? ごめんごめん。\n{0c:520304}おれアッシュ。よろしく。{0c:1501}",
    "read": "{0c:3160009000891002501751003a00}{0c:520102}{1c:10}{0b:08}【 アッシュ 】{0b:09}\nん? ごめんごめん。\n{0c:520304}おれアッシュ。よろしく。{0c:1501}",
    "raw": null,
-   "en": "{0c:3160009000891002501751003a00}{0c:520102}{1c:10}{0b:08}【 Ash 】{0b:09}\nHm? Sorry, sorry. {0c:520304}I'm Ash. Nice to meet\nyou.{0c:1501}",
+   "en": "{0c:3160009000891002501751003a00}{0c:520102}{1c:10}{0b:08}【 Ash 】{0b:09}\nHm? Sorry, sorry. {0c:520304}I'm Ash. Nice to\nmeet you.{0c:1501}",
    "status": "done",
    "tl": "Hm? Sorry, sorry. [1]I'm Ash. Nice to meet you."
   },
@@ -793,7 +793,7 @@
    "jp": "{0c:520102}{1c:10}{0b:08}{e080} アッシュ {e081}{0b:09}\nん? ごめんごめん。\n{0c:520304}おれアッシュ。よろしく。{0c:1501}",
    "read": "{0c:520102}{1c:10}{0b:08}【 アッシュ 】{0b:09}\nん? ごめんごめん。\n{0c:520304}おれアッシュ。よろしく。{0c:1501}",
    "raw": null,
-   "en": "{0c:520102}{1c:10}{0b:08}【 Ash 】{0b:09}\nHm? Sorry, sorry. {0c:520304}I'm Ash. Nice to meet\nyou.{0c:1501}",
+   "en": "{0c:520102}{1c:10}{0b:08}【 Ash 】{0b:09}\nHm? Sorry, sorry. {0c:520304}I'm Ash. Nice to\nmeet you.{0c:1501}",
    "status": "done",
    "tl": "Hm? Sorry, sorry. [1]I'm Ash. Nice to meet you."
   },
@@ -874,7 +874,7 @@
    "jp": "{0c:520102}{1c:15}{0b:08}{e080} パスカ {e081}{0b:09}\nなあ、アッシュ、\nこいつにここに来た理由言ったか?{0c:2901091501}",
    "read": "{0c:520102}{1c:15}{0b:08}【 パスカ 】{0b:09}\nなあ、アッシュ、\nこいつにここに来た理由言ったか?{0c:2901091501}",
    "raw": null,
-   "en": "{0c:520102}{1c:15}{0b:08}【 Pasca 】{0b:09}\nHey, Ash, you tell this one why you came\nhere?{0c:2901091501}",
+   "en": "{0c:520102}{1c:15}{0b:08}【 Pasca 】{0b:09}\nHey, Ash, you tell this one why you\ncame here?{0c:2901091501}",
    "status": "done",
    "tl": "Hey, Ash, you tell this one why you came here?"
   },
@@ -898,7 +898,7 @@
    "jp": "{0c:520102}{1c:15}{0b:08}{e080} パスカ {e081}{0b:09}\n余計なお世話かもしれないけど、\n聞いてもらったらどうだ?\nお前がここに来た理由をさ。{1a}協力してくれるかも\nしれねえじゃねえか。\n{0c:520304}{10}のお目当てがお前と\n一緒ならあきらめるしかねえけど。{0c:2901091501}",
    "read": "{0c:520102}{1c:15}{0b:08}【 パスカ 】{0b:09}\n余計なお世話かもしれないけど、\n聞いてもらったらどうだ?\nお前がここに来た理由をさ。{1a}協力してくれるかも\nしれねえじゃねえか。\n{0c:520304}{10}のお目当てがお前と\n一緒ならあきらめるしかねえけど。{0c:2901091501}",
    "raw": null,
-   "en": "{0c:520102}{1c:15}{0b:08}【 Pasca 】{0b:09}\nMight be none of my business, but why\ndon't you tell 'em? Why you came here, I\nmean.{1a}Never know, might lend ya a hand. {0c:520304}If\n{10}'s after the same thing as\nyou, then you'd just have to give up,\nthough.{0c:2901091501}",
+   "en": "{0c:520102}{1c:15}{0b:08}【 Pasca 】{0b:09}\nMight be none of my business, but why\ndon't you tell 'em? Why you came here,\nI mean.{1a}Never know, might lend ya a hand. {0c:520304}If\n{10}'s after the same thing as\nyou, then you'd just have to give\nup, though.{0c:2901091501}",
    "status": "done",
    "tl": "Might be none of my business, but why don't you tell 'em? Why you came here, I mean. // Never know, might lend ya a hand. [1]If [HERO]'s after the same thing as you, then you'd just have to give up, though."
   },
@@ -910,7 +910,7 @@
    "jp": "{0c:521718}{1c:13}{0b:08}{e080} アッシュ {e081}{0b:09}\nん、うん・・・{1a}約束したんだ。\n{e084}に『アザレの{e085}』もってかえって\nあげるって。{1a}おれの{e084}、ハンナって言うんだけど、\n{e086}{e087}くらい前に\n赤{e089}{e08a}にかかっちゃって・・・{1a}峠はなんとかこえたんだけど、\n{e089}が続いたせいで\n目が見えなくなっちゃったんだ。{1a}それに、{e086}{e087}経った今でも\n少し動いただけで\nすごい{e089}が出るし・・・{0c:2b50091501}",
    "read": "{0c:521718}{1c:13}{0b:08}【 アッシュ 】{0b:09}\nん、うん・・・{1a}約束したんだ。\n妹に『アザレの石』もってかえって\nあげるって。{1a}おれの妹、ハンナって言うんだけど、\n半年くらい前に\n赤熱病にかかっちゃって・・・{1a}峠はなんとかこえたんだけど、\n熱が続いたせいで\n目が見えなくなっちゃったんだ。{1a}それに、半年経った今でも\n少し動いただけで\nすごい熱が出るし・・・{0c:2b50091501}",
    "raw": null,
-   "en": "{0c:521718}{1c:13}{0b:08}【 Ash 】{0b:09}\nMm, okay...{1a}I made a promise. I told my little sister I'd\nbring her back the 'Azare Stone'.{1a}My sister, her name's Hanna, she came\ndown with red fever about half a year\nago...{1a}She got through the worst of it\nsomehow, but the fever kept on, and it\ntook her sight.{1a}And even now, half a year later, if she\nmoves just a little she runs this awful\nfever...{0c:2b50091501}",
+   "en": "{0c:521718}{1c:13}{0b:08}【 Ash 】{0b:09}\nMm, okay...{1a}I made a promise. I told my little sister I'd\nbring her back the 'Azare Stone'.{1a}My sister, her name's Hanna, she came\ndown with red fever about half a\nyear ago...{1a}She got through the worst of it\nsomehow, but the fever kept on, and it\ntook her sight.{1a}And even now, half a year later, if she\nmoves just a little she runs this\nawful fever...{0c:2b50091501}",
    "status": "done",
    "tl": "Mm, okay... // I made a promise. I told my little sister I'd bring her back the 'Azare Stone'. // My sister, her name's Hanna, she came down with red fever about half a year ago... // She got through the worst of it somehow, but the fever kept on, and it took her sight. // And even now, half a year later, if she moves just a little she runs this awful fever..."
   },
@@ -945,7 +945,7 @@
    "jp": "{0c:5103}{1c:15}他人の事あれこれ詮{e08d}するの\nあんまり好きじゃねえから、\nこの町に来た理由とか\n聞かないようにしてるんだけど、{1a}{e08e}{e08f}がランツの町を出発する前、\n下っぱ役人とこいつとの{e090}話\n偶然耳にしちまってさ・・・{1a}偶然にせよ知っちまったのに\n知らねえフリするのも変だし、\nオレの方は{e093}さえ手に入れば\n全然問題ねえから、{1a}{e093}と交換でよければ\n協力してやるよって約束したんだ。\n\n\n{0c:520506}{1c:15}{10}、このこと、\nお前も心にとどめてやってくれよ。\nもちろん強{e095}はしないけどさ。\n\n{0c:520102}{1c:15}ま、とにかく見つけるのが\n先決なんだけどな。\nどうする、3人で一緒に行くか?{0c:2901091501}",
    "read": "{0c:5103}{1c:15}他人の事あれこれ詮索するの\nあんまり好きじゃねえから、\nこの町に来た理由とか\n聞かないようにしてるんだけど、{1a}隊商がランツの町を出発する前、\n下っぱ役人とこいつとの会話\n偶然耳にしちまってさ・・・{1a}偶然にせよ知っちまったのに\n知らねえフリするのも変だし、\nオレの方は金さえ手に入れば\n全然問題ねえから、{1a}金と交換でよければ\n協力してやるよって約束したんだ。\n\n\n{0c:520506}{1c:15}{10}、このこと、\nお前も心にとどめてやってくれよ。\nもちろん強制はしないけどさ。\n\n{0c:520102}{1c:15}ま、とにかく見つけるのが\n先決なんだけどな。\nどうする、3人で一緒に行くか?{0c:2901091501}",
    "raw": null,
-   "en": "{0c:5103}{1c:15}I ain't big on pokin' around in other folks'\nbusiness, so I try not to ask why anyone\ncame to this town,{1a}but before the caravan left the town of\nLanz, I happened to overhear this guy\ntalkin' with some low-level official...{1a}Even if it was by accident, I know now,\nand actin' like I don't would be weird. And\nme, long as I get money, I got no problem\nat all,{1a}so I promised I'd help him out, if he was\nokay with a trade for money. {0c:520506}{1c:15}{10},\nyou keep this in mind too, would ya?\nAin't forcin' you, of course. {0c:520102}{1c:15}Well,{1a}anyway, findin' it comes first. So what\ndo you say, the three of us go\ntogether?{0c:2901091501}",
+   "en": "{0c:5103}{1c:15}I ain't big on pokin' around in other folks'\nbusiness, so I try not to ask why anyone\ncame to this town,{1a}but before the caravan left the town of\nLanz, I happened to overhear this guy\ntalkin' with some low-level official...{1a}Even if it was by accident, I know now,\nand actin' like I don't would be weird. And\nme, long as I get money, I got no problem\nat all,{1a}so I promised I'd help him out, if he was\nokay with a trade for money. {0c:520506}{1c:15}{10},\nyou keep this in mind too, would ya?\nAin't forcin' you, of course. {0c:520102}{1c:15}Well,{1a}anyway, findin' it comes first. So what\ndo you say, the three of us\ngo together?{0c:2901091501}",
    "status": "done",
    "tl": "I ain't big on pokin' around in other folks' business, so I try not to ask why anyone came to this town, // but before the caravan left the town of Lanz, I happened to overhear this guy talkin' with some low-level official... // Even if it was by accident, I know now, and actin' like I don't would be weird. And me, long as I get money, I got no problem at all, // so I promised I'd help him out, if he was okay with a trade for money. [1][HERO], you keep this in mind too, would ya? Ain't forcin' you, of course. [2]Well, anyway, findin' it comes first. So what do you say, the three of us go together?"
   },
@@ -1154,7 +1154,7 @@
    "jp": "{0c:520304}{1c:18}{0b:08}{e080} シャルン {e081}{0b:09}\n言うの嫌なら別にいいんだけど。{0c:2901091501}",
    "read": "{0c:520304}{1c:18}{0b:08}【 シャルン 】{0b:09}\n言うの嫌なら別にいいんだけど。{0c:2901091501}",
    "raw": null,
-   "en": "{0c:520304}{1c:18}{0b:08}【 Scharn 】{0b:09}\nIf you don't wanna say, that's fine, you\nknow.{0c:2901091501}",
+   "en": "{0c:520304}{1c:18}{0b:08}【 Scharn 】{0b:09}\nIf you don't wanna say, that's fine,\nyou know.{0c:2901091501}",
    "status": "done",
    "tl": "If you don't wanna say, that's fine, you know."
   },
@@ -1190,7 +1190,7 @@
    "jp": "{0c:521718}{1c:13}{0b:08}{e080} アッシュ {e081}{0b:09}\nん、うん、ちょっと・・・{1a}いまから{e086}{e087}くらい前に\n赤{e089}{e08a}にかかっちゃって・・・{1a}峠はなんとかこえたんだけど、\n{e089}が続いたせいで\n目が見えなくなっちゃったんだ。{1a}それに、{e086}{e087}たった今でも\n少し動いただけで\nすごい{e089}が出るし・・・{0c:2b50091501}",
    "read": "{0c:521718}{1c:13}{0b:08}【 アッシュ 】{0b:09}\nん、うん、ちょっと・・・{1a}いまから半年くらい前に\n赤熱病にかかっちゃって・・・{1a}峠はなんとかこえたんだけど、\n熱が続いたせいで\n目が見えなくなっちゃったんだ。{1a}それに、半年たった今でも\n少し動いただけで\nすごい熱が出るし・・・{0c:2b50091501}",
    "raw": null,
-   "en": "{0c:521718}{1c:13}{0b:08}【 Ash 】{0b:09}\nMm, yeah, kind of...{1a}She came down with red fever about\nhalf a year ago...{1a}She got through the worst of it\nsomehow, but the fever kept on, and it\ntook her sight.{1a}And even now, half a year later, if she\nmoves just a little she runs this awful\nfever...{0c:2b50091501}",
+   "en": "{0c:521718}{1c:13}{0b:08}【 Ash 】{0b:09}\nMm, yeah, kind of...{1a}She came down with red fever about\nhalf a year ago...{1a}She got through the worst of it\nsomehow, but the fever kept on, and it\ntook her sight.{1a}And even now, half a year later, if she\nmoves just a little she runs this\nawful fever...{0c:2b50091501}",
    "status": "done",
    "tl": "Mm, yeah, kind of... // She came down with red fever about half a year ago... // She got through the worst of it somehow, but the fever kept on, and it took her sight. // And even now, half a year later, if she moves just a little she runs this awful fever..."
   },
@@ -1460,7 +1460,7 @@
    "jp": "{0c:521618}{1c:13}{0b:08}{e080} アッシュ {e081}{0b:09}\n大丈夫じゃないかもしれないけど、\n約束したから・・・{1a}{e084}に『アザレの{e085}』\nもってかえってあげるって。{0c:2b50091501}",
    "read": "{0c:521618}{1c:13}{0b:08}【 アッシュ 】{0b:09}\n大丈夫じゃないかもしれないけど、\n約束したから・・・{1a}妹に『アザレの石』\nもってかえってあげるって。{0c:2b50091501}",
    "raw": null,
-   "en": "{0c:521618}{1c:13}{0b:08}【 Ash 】{0b:09}\nMaybe I won't be okay, but I made a\npromise...{1a}I told my little sister I'd bring her back\nthe 'Azare Stone'.{0c:2b50091501}",
+   "en": "{0c:521618}{1c:13}{0b:08}【 Ash 】{0b:09}\nMaybe I won't be okay, but I made\na promise...{1a}I told my little sister I'd bring her back\nthe 'Azare Stone'.{0c:2b50091501}",
    "status": "done",
    "tl": "Maybe I won't be okay, but I made a promise... // I told my little sister I'd bring her back the 'Azare Stone'."
   },
@@ -1484,7 +1484,7 @@
    "jp": "{0c:521718}{1c:13}{0b:08}{e080} アッシュ {e081}{0b:09}\nん、うん、ちょっと・・・{1a}{e086}{e087}くらい前に\n赤{e089}{e08a}にかかっちゃって・・・{1a}峠はなんとかこえたんだけど、\n{e089}が続いたせいで\n目が見えなくなっちゃったんだ。{1a}それに、{e086}{e087}たった今でも\n少し動いただけで\nすごい{e089}が出るし・・・{0c:2b50091501}",
    "read": "{0c:521718}{1c:13}{0b:08}【 アッシュ 】{0b:09}\nん、うん、ちょっと・・・{1a}半年くらい前に\n赤熱病にかかっちゃって・・・{1a}峠はなんとかこえたんだけど、\n熱が続いたせいで\n目が見えなくなっちゃったんだ。{1a}それに、半年たった今でも\n少し動いただけで\nすごい熱が出るし・・・{0c:2b50091501}",
    "raw": null,
-   "en": "{0c:521718}{1c:13}{0b:08}【 Ash 】{0b:09}\nMm, yeah, kind of...{1a}She came down with red fever about\nhalf a year ago...{1a}She got through the worst of it\nsomehow, but the fever kept on, and it\ntook her sight.{1a}And even now, half a year later, if she\nmoves just a little she runs this awful\nfever...{0c:2b50091501}",
+   "en": "{0c:521718}{1c:13}{0b:08}【 Ash 】{0b:09}\nMm, yeah, kind of...{1a}She came down with red fever about\nhalf a year ago...{1a}She got through the worst of it\nsomehow, but the fever kept on, and it\ntook her sight.{1a}And even now, half a year later, if she\nmoves just a little she runs this\nawful fever...{0c:2b50091501}",
    "status": "done",
    "tl": "Mm, yeah, kind of... // She came down with red fever about half a year ago... // She got through the worst of it somehow, but the fever kept on, and it took her sight. // And even now, half a year later, if she moves just a little she runs this awful fever..."
   },
@@ -1841,7 +1841,7 @@
    "jp": "{0c:510028001000}{1c:1e}がんばって見つけようね、\n{10}さん。{0c:1501}",
    "read": "{0c:510028001000}{1c:1e}がんばって見つけようね、\n{10}さん。{0c:1501}",
    "raw": null,
-   "en": "{0c:510028001000}{1c:1e}Let's do our best to find it, okay,\n{10}-san?{0c:1501}",
+   "en": "{0c:510028001000}{1c:1e}Let's do our best to find it,\nokay, {10}-san?{0c:1501}",
    "status": "done",
    "tl": "Let's do our best to find it, okay, [HERO]-san?"
   },
@@ -2076,7 +2076,7 @@
    "jp": "{1c:11}ものを大切にしなきゃだめだぞ。",
    "read": "{1c:11}ものを大切にしなきゃだめだぞ。",
    "raw": null,
-   "en": "{1c:11}You've gotta take care of things,\ny'know.",
+   "en": "{1c:11}You've gotta take care of\nthings, y'know.",
    "status": "done",
    "tl": "You've gotta take care of things, y'know."
   },
@@ -2124,7 +2124,7 @@
    "jp": "{1c:11}物にあたるなんてかっこ悪いぞ。",
    "read": "{1c:11}物にあたるなんてかっこ悪いぞ。",
    "raw": null,
-   "en": "{1c:11}Taking it out on things looks pretty\nsorry.",
+   "en": "{1c:11}Taking it out on things looks\npretty sorry.",
    "status": "done",
    "tl": "Taking it out on things looks pretty sorry."
   },
@@ -2304,7 +2304,7 @@
    "jp": "{1c:11}兄ちゃんみんなに\n約束したのにな・・・\nごめんよ・・・",
    "read": "{1c:11}兄ちゃんみんなに\n約束したのにな・・・\nごめんよ・・・",
    "raw": null,
-   "en": "{1c:11}And big brother promised you all... I'm\nsorry...",
+   "en": "{1c:11}And big brother promised you all...\nI'm sorry...",
    "status": "done",
    "tl": "And big brother promised you all... I'm sorry..."
   },
@@ -2376,7 +2376,7 @@
    "jp": "{1c:11}八つ当たりするなんてかっこ悪いぞ。",
    "read": "{1c:11}八つ当たりするなんてかっこ悪いぞ。",
    "raw": null,
-   "en": "{1c:11}Taking it out on others looks pretty\nsorry.",
+   "en": "{1c:11}Taking it out on others looks\npretty sorry.",
    "status": "done",
    "tl": "Taking it out on others looks pretty sorry."
   },

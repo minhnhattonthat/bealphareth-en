@@ -30,7 +30,7 @@
    "jp": "{1c:15}おう、{10}。\n{e080}{e081}にみんな集まってるんだってよ。\n行ってみようぜ。",
    "read": "{1c:15}おう、{10}。\n教会にみんな集まってるんだってよ。\n行ってみようぜ。",
    "raw": null,
-   "en": "{1c:15}Hey, {10}. Hear everybody's\ngatherin' at the church. Let's go take a\nlook.",
+   "en": "{1c:15}Hey, {10}. Hear everybody's\ngatherin' at the church. Let's go take\na look.",
    "status": "done",
    "tl": "Hey, [HERO]. Hear everybody's gatherin' at the church. Let's go take a look."
   },
@@ -111,7 +111,7 @@
    "jp": "{0c:2b5023100023}{1c:1e}{0b:08}{e082} {e086}{e087}ティアラ {e083}{0b:09}\nこの{e080}{e081}で{e086}{e087}を勤めさせて\nいただいてるティアラです。{1a}つい{e089}時間前、\n私宛に一{e08b}のお手紙が届きました。{1a}差出人はアスロイト王{e08e}バルム郡\n第十二{e080}区の{e086}{e087}の方です。\nこの手紙にアッシュさんの{e091}さんの\nことが{e092}かれていました。{0c:2b5a091501}",
    "read": "{0c:2b5023100023}{1c:1e}{0b:08}【 司祭ティアラ 】{0b:09}\nこの教会で司祭を勤めさせて\nいただいてるティアラです。{1a}つい数時間前、\n私宛に一通のお手紙が届きました。{1a}差出人はアスロイト王国バルム郡\n第十二教区の司祭の方です。\nこの手紙にアッシュさんの妹さんの\nことが書かれていました。{0c:2b5a091501}",
    "raw": null,
-   "en": "{0c:2b5023100023}{1c:1e}{0b:08}【 Priest Tiara 】{0b:09}\nI am Tiara, and I have the honor of\nserving as priest of this church.{1a}Only a few hours ago, a letter reached\nme, addressed to my name.{1a}The sender is a priest of the Twelfth\nParish in Balm County, in the Kingdom of\nAsroit. It concerned Ash-san's younger\nsister.{0c:2b5a091501}",
+   "en": "{0c:2b5023100023}{1c:1e}{0b:08}【 Priest Tiara 】{0b:09}\nI am Tiara, and I have the honor of\nserving as priest of this church.{1a}Only a few hours ago, a letter reached\nme, addressed to my name.{1a}The sender is a priest of the Twelfth\nParish in Balm County, in the Kingdom of\nAsroit. It concerned Ash-san's\nyounger sister.{0c:2b5a091501}",
    "status": "done",
    "tl": "I am Tiara, and I have the honor of serving as priest of this church. // Only a few hours ago, a letter reached me, addressed to my name. // The sender is a priest of the Twelfth Parish in Balm County, in the Kingdom of Asroit. It concerned Ash-san's younger sister."
   },
@@ -217,7 +217,7 @@
    "jp": "{0c:2b5023100023}{0c:523433}{1c:18}{0b:08}{e082} オルフェウス {e083}{0b:09}\n下{e094}の人間は{0c:2b5d23510d23}地区{e080}{e081}の{e086}{e087}に\n手紙を{e092}いてもらうんですよ。 {1a}庶{e096}はあまり{e097}を知らないし、\n支配する側にしてみれば、その方が\n何かと管理しやすいですからね。{0c:2b60091501}",
    "read": "{0c:2b5023100023}{0c:523433}{1c:18}{0b:08}【 オルフェウス 】{0b:09}\n下々の人間は{0c:2b5d23510d23}地区教会の司祭に\n手紙を書いてもらうんですよ。 {1a}庶民はあまり字を知らないし、\n支配する側にしてみれば、その方が\n何かと管理しやすいですからね。{0c:2b60091501}",
    "raw": null,
-   "en": "{0c:2b5023100023}{0c:523433}{1c:18}{0b:08}【 Orpheus 】{0b:09}\nThe lower orders have {0c:2b5d23510d23}the district\nchurch's priest write their letters, you\nsee.{1a}Common folk know few letters, and for\nthose who rule, that makes everything\nso much easier to manage.{0c:2b60091501}",
+   "en": "{0c:2b5023100023}{0c:523433}{1c:18}{0b:08}【 Orpheus 】{0b:09}\nThe lower orders have {0c:2b5d23510d23}the district\nchurch's priest write their letters,\nyou see.{1a}Common folk know few letters, and for\nthose who rule, that makes everything\nso much easier to manage.{0c:2b60091501}",
    "status": "done",
    "tl": "The lower orders have [1]the district church's priest write their letters, you see. // Common folk know few letters, and for those who rule, that makes everything so much easier to manage."
   },
@@ -241,7 +241,7 @@
    "jp": "{0c:2b5023100023}{0c:2b5d2352010223}{1c:1e}{0b:08}{e082} {e086}{e087}ティアラ {e083}{0b:09}\nサディーヤさんの{e09b}で\n話し合っています。{0c:1501}",
    "read": "{0c:2b5023100023}{0c:2b5d2352010223}{1c:1e}{0b:08}【 司祭ティアラ 】{0b:09}\nサディーヤさんの家で\n話し合っています。{0c:1501}",
    "raw": null,
-   "en": "{0c:2b5023100023}{0c:2b5d2352010223}{1c:1e}{0b:08}【 Priest Tiara 】{0b:09}\nHe is at Sadiya-san's house, talking it\nover.{0c:1501}",
+   "en": "{0c:2b5023100023}{0c:2b5d2352010223}{1c:1e}{0b:08}【 Priest Tiara 】{0b:09}\nHe is at Sadiya-san's house, talking\nit over.{0c:1501}",
    "status": "done",
    "tl": "He is at Sadiya-san's house, talking it over."
   },
@@ -322,7 +322,7 @@
    "jp": "{0c:2b5023100023}{0c:511a}{1c:1f}{0b:08}{e082} バルデス {e083}{0b:09}\nサディーヤがその{e0a6}を{e0a7}っている。\n{0c:2b5c551c}だが、その{e0a8}{e0a9}が{e0aa}つか\n足りないらしい。{1a}{0c:5119}俺はアッシュを{e0ab}れて\n今からその{e0a8}{e0a9}の1つを{e0ac}しに行く。\n足りない{e0a8}{e0a9}はあと1つ・・・\nそれを{e0ac}してやってほしい。{0c:2b53091501}",
    "read": "{0c:2b5023100023}{0c:511a}{1c:1f}{0b:08}【 バルデス 】{0b:09}\nサディーヤがその薬を作っている。\n{0c:2b5c551c}だが、その材料が幾つか\n足りないらしい。{1a}{0c:5119}俺はアッシュを連れて\n今からその材料の1つを探しに行く。\n足りない材料はあと1つ・・・\nそれを探してやってほしい。{0c:2b53091501}",
    "raw": null,
-   "en": "{0c:2b5023100023}{0c:511a}{1c:1f}{0b:08}【 Valdes 】{0b:09}\nSadiya's making the medicine. {0c:2b5c551c}But it\nseems she's short a few of the\ningredients.{1a}{0c:5119}I'm taking Ash to look for one of them\nright now. That leaves one more missing...\nI want you to go find it.{0c:2b53091501}",
+   "en": "{0c:2b5023100023}{0c:511a}{1c:1f}{0b:08}【 Valdes 】{0b:09}\nSadiya's making the medicine. {0c:2b5c551c}But it\nseems she's short a few of\nthe ingredients.{1a}{0c:5119}I'm taking Ash to look for one of them\nright now. That leaves one more missing...\nI want you to go find it.{0c:2b53091501}",
    "status": "done",
    "tl": "Sadiya's making the medicine. [1]But it seems she's short a few of the ingredients. // [2]I'm taking Ash to look for one of them right now. That leaves one more missing... I want you to go find it."
   },
@@ -346,7 +346,7 @@
    "jp": "{0c:2b5023100023}{0c:511a}{1c:1f}{0b:08}{e082} バルデス {e083}{0b:09}\nいや。\n足りない{e0a8}{e0a9}はアスラ・ファエルに\n向かう{e0ad}道の支流にある。{1a}そこの{e0ae}{e0af}はたかが知れているし、\n面倒な仕{e0b0}けもある。\n少なくとも1ヶ月はこのためだけに\n時間を{e0b2}やすことになるだろう。{1a}強{e0b3}はしない。\nこの中には、出来るだけ早く\n用を済ませて故{e0b4}に戻らなきゃ\nならない奴もいるだろうからな。{1a}自分でよく考えて判断してくれ。{0c:51192b5b091501}",
    "read": "{0c:2b5023100023}{0c:511a}{1c:1f}{0b:08}【 バルデス 】{0b:09}\nいや。\n足りない材料はアスラ・ファエルに\n向かう羨道の支流にある。{1a}そこの財宝はたかが知れているし、\n面倒な仕掛けもある。\n少なくとも1ヶ月はこのためだけに\n時間を費やすことになるだろう。{1a}強制はしない。\nこの中には、出来るだけ早く\n用を済ませて故郷に戻らなきゃ\nならない奴もいるだろうからな。{1a}自分でよく考えて判断してくれ。{0c:51192b5b091501}",
    "raw": null,
-   "en": "{0c:2b5023100023}{0c:511a}{1c:1f}{0b:08}【 Valdes 】{0b:09}\nNo. The missing ingredient's in a branch\nof the passage headed for Asla Fael.{1a}The treasure there ain't worth much,\nand there's nasty mechanisms too. You'd\nspend a month at least on this alone.{1a}I won't force anybody. Some of you\ngotta finish your business quick as you\ncan and get back home.{1a}Think it through and decide for\nyourselves.{0c:51192b5b091501}",
+   "en": "{0c:2b5023100023}{0c:511a}{1c:1f}{0b:08}【 Valdes 】{0b:09}\nNo. The missing ingredient's in a branch\nof the passage headed for Asla Fael.{1a}The treasure there ain't worth much,\nand there's nasty mechanisms too. You'd\nspend a month at least on this alone.{1a}I won't force anybody. Some of you\ngotta finish your business quick as you\ncan and get back home.{1a}Think it through and decide\nfor yourselves.{0c:51192b5b091501}",
    "status": "done",
    "tl": "No. The missing ingredient's in a branch of the passage headed for Asla Fael. // The treasure there ain't worth much, and there's nasty mechanisms too. You'd spend a month at least on this alone. // I won't force anybody. Some of you gotta finish your business quick as you can and get back home. // Think it through and decide for yourselves."
   },
@@ -358,7 +358,7 @@
    "jp": "{0c:2b5023100023}{0c:523536}{1c:18}{0b:08}{e082} オルフェウス {e083}{0b:09}\n{e0b6}アスロイトからこの町まで\n{0c:2b5223525253232b54553f2b56550c2b5755472b5a23521a19232b58554c2b5955122b5c55212b5d550d2b605515}手紙が届くには、{1a}どんなに少なく見積もっても\n2ヶ月はかかりますよね。{1a}ということは、その手紙は\n2ヶ月前に{e092}かれたということ。\nその子はもうとっくに\n死んでるかもしれませんよ。{1a}{0c:523738}それに、たとえ今すぐ{e0a6}を\n送ったとしても、\n往復だけで4ヶ月も経つんです。\nそれまでその子がもつという保{e0ba}は?{0c:1501}",
    "read": "{0c:2b5023100023}{0c:523536}{1c:18}{0b:08}【 オルフェウス 】{0b:09}\n北アスロイトからこの町まで\n{0c:2b5223525253232b54553f2b56550c2b5755472b5a23521a19232b58554c2b5955122b5c55212b5d550d2b605515}手紙が届くには、{1a}どんなに少なく見積もっても\n2ヶ月はかかりますよね。{1a}ということは、その手紙は\n2ヶ月前に書かれたということ。\nその子はもうとっくに\n死んでるかもしれませんよ。{1a}{0c:523738}それに、たとえ今すぐ薬を\n送ったとしても、\n往復だけで4ヶ月も経つんです。\nそれまでその子がもつという保証は?{0c:1501}",
    "raw": null,
-   "en": "{0c:2b5023100023}{0c:523536}{1c:18}{0b:08}【 Orpheus 】{0b:09}\nFrom northern Asroit to this town, {0c:2b5223525253232b54553f2b56550c2b5755472b5a23521a19232b58554c2b5955122b5c55212b5d550d2b605515}a\nletter needs{1a}two months at the very least, does it\nnot?{1a}Which means that letter was written\ntwo months ago. The child may well be\nlong dead by now.{1a}{0c:523738}What's more, even if we sent the\nmedicine this instant, the round trip\nalone takes four months. What\nguarantee is there that she will last{1a}until then?{0c:1501}",
+   "en": "{0c:2b5023100023}{0c:523536}{1c:18}{0b:08}【 Orpheus 】{0b:09}\nFrom northern Asroit to this town, {0c:2b5223525253232b54553f2b56550c2b5755472b5a23521a19232b58554c2b5955122b5c55212b5d550d2b605515}a\nletter needs{1a}two months at the very least, does\nit not?{1a}Which means that letter was written\ntwo months ago. The child may well be\nlong dead by now.{1a}{0c:523738}What's more, even if we sent the\nmedicine this instant, the round trip\nalone takes four months. What\nguarantee is there that she will last{1a}until then?{0c:1501}",
    "status": "done",
    "tl": "From northern Asroit to this town, [1]a letter needs // two months at the very least, does it not? // Which means that letter was written two months ago. The child may well be long dead by now. // [2]What's more, even if we sent the medicine this instant, the round trip alone takes four months. What guarantee is there that she will last until then?"
   },
@@ -416,7 +416,7 @@
    "jp": "{0c:2b5023100023}{1c:1f}{0b:08}{e082} バルデス {e083}{0b:09}\nサディーヤが言うには、\n手紙に{e092}かれている症{e0bb}なら\n{e0bc}{e0bd}くらいはもつこともあるそうだ。{1a}{0c:2b5823524d4a23}とは言っても、\nもちろん安心は出来ない。\n相手はまだ幼い子供だからな。{1a}なるべく早く{e0a6}を送りたい。\n手伝ってもいいと思う奴は\nここに残っていてくれ。{0c:1501}",
    "read": "{0c:2b5023100023}{1c:1f}{0b:08}【 バルデス 】{0b:09}\nサディーヤが言うには、\n手紙に書かれている症状なら\n半年くらいはもつこともあるそうだ。{1a}{0c:2b5823524d4a23}とは言っても、\nもちろん安心は出来ない。\n相手はまだ幼い子供だからな。{1a}なるべく早く薬を送りたい。\n手伝ってもいいと思う奴は\nここに残っていてくれ。{0c:1501}",
    "raw": null,
-   "en": "{0c:2b5023100023}{1c:1f}{0b:08}【 Valdes 】{0b:09}\nSadiya says with the symptoms in that\nletter, she could last about half a year.{1a}{0c:2b5823524d4a23}That said, it's nothing to rest easy\nabout. She's still just a little kid.{1a}I wanna get that medicine sent as soon\nas we can. Anybody willing to help, stay\nhere.{0c:1501}",
+   "en": "{0c:2b5023100023}{1c:1f}{0b:08}【 Valdes 】{0b:09}\nSadiya says with the symptoms in that\nletter, she could last about half a year.{1a}{0c:2b5823524d4a23}That said, it's nothing to rest easy\nabout. She's still just a little kid.{1a}I wanna get that medicine sent as soon\nas we can. Anybody willing to help,\nstay here.{0c:1501}",
    "status": "done",
    "tl": "Sadiya says with the symptoms in that letter, she could last about half a year. // [1]That said, it's nothing to rest easy about. She's still just a little kid. // I wanna get that medicine sent as soon as we can. Anybody willing to help, stay here."
   },
@@ -463,7 +463,7 @@
    "jp": "{0c:2b5023100023}{0c:520507}{1c:10}{0b:08}{e082} アーサー {e083}{0b:09}\nでも、誰かがみんなを\nまとめないと・・・{0c:2b5b09fe}",
    "read": "{0c:2b5023100023}{0c:520507}{1c:10}{0b:08}【 アーサー 】{0b:09}\nでも、誰かがみんなを\nまとめないと・・・{0c:2b5b09fe}",
    "raw": null,
-   "en": "{0c:2b5023100023}{0c:520507}{1c:10}{0b:08}【 Arthur 】{0b:09}\nBut someone has to pull everyone\ntogether...{0c:2b5b09fe}",
+   "en": "{0c:2b5023100023}{0c:520507}{1c:10}{0b:08}【 Arthur 】{0b:09}\nBut someone has to pull\neveryone together...{0c:2b5b09fe}",
    "status": "done",
    "tl": "But someone has to pull everyone together..."
   },
@@ -487,7 +487,7 @@
    "jp": "{0c:520507}{1c:10}{0b:08}{e082} アーサー {e083}{0b:09}\n知り合ってからの時間なんて\n関係ないじゃないか。{1a}困ってる人がいるんだ、\n助けるのが・・・{0c:2b60091501}",
    "read": "{0c:520507}{1c:10}{0b:08}【 アーサー 】{0b:09}\n知り合ってからの時間なんて\n関係ないじゃないか。{1a}困ってる人がいるんだ、\n助けるのが・・・{0c:2b60091501}",
    "raw": null,
-   "en": "{0c:520507}{1c:10}{0b:08}【 Arthur 】{0b:09}\nHow long we've known each other\ndoesn't matter!{1a}Someone is in trouble, and helping them\nis...{0c:2b60091501}",
+   "en": "{0c:520507}{1c:10}{0b:08}【 Arthur 】{0b:09}\nHow long we've known each other\ndoesn't matter!{1a}Someone is in trouble, and helping\nthem is...{0c:2b60091501}",
    "status": "done",
    "tl": "How long we've known each other doesn't matter! // Someone is in trouble, and helping them is..."
   },
@@ -791,7 +791,7 @@
    "jp": "{0c:2b5023100023}{1c:19}{0b:08}{e082} イヴ {e083}{0b:09}\n偽善者面は好きじゃないけど、\n{e0d2}にすることも断る理由もないし。{1a}ま、退屈しなくてすむなら\nお手伝いするわ。\n約束はしないけど。{0c:2b54091501}",
    "read": "{0c:2b5023100023}{1c:19}{0b:08}【 イヴ 】{0b:09}\n偽善者面は好きじゃないけど、\n特にすることも断る理由もないし。{1a}ま、退屈しなくてすむなら\nお手伝いするわ。\n約束はしないけど。{0c:2b54091501}",
    "raw": null,
-   "en": "{0c:2b5023100023}{1c:19}{0b:08}【 Eve 】{0b:09}\nI don't care for the hypocrite's act, but\nI've nothing in particular to do and no\nreason to refuse.{1a}Well, if it keeps me from being bored, I'll\nhelp, I suppose. I make no promises,\nthough.{0c:2b54091501}",
+   "en": "{0c:2b5023100023}{1c:19}{0b:08}【 Eve 】{0b:09}\nI don't care for the hypocrite's act, but\nI've nothing in particular to do and no\nreason to refuse.{1a}Well, if it keeps me from being bored, I'll\nhelp, I suppose. I make no\npromises, though.{0c:2b54091501}",
    "status": "done",
    "tl": "I don't care for the hypocrite's act, but I've nothing in particular to do and no reason to refuse. // Well, if it keeps me from being bored, I'll help, I suppose. I make no promises, though."
   },
@@ -850,7 +850,7 @@
    "jp": "{0c:2b5023100023}{0c:52292a}{1c:17}{0b:08}{e082} ジェシカ {e083}{0b:09}\nそういえばさ、\nあんた確か『アザレの{e0d3}』を\n{e0ac}しに来たんだよね。{1a}あれって30{e0bd}以上\n見つかってないんでしょ?\nなら1ヶ月くらい問題ないよね。{0c:fe}",
    "read": "{0c:2b5023100023}{0c:52292a}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nそういえばさ、\nあんた確か『アザレの石』を\n探しに来たんだよね。{1a}あれって30年以上\n見つかってないんでしょ?\nなら1ヶ月くらい問題ないよね。{0c:fe}",
    "raw": null,
-   "en": "{0c:2b5023100023}{0c:52292a}{1c:17}{0b:08}【 Jessica 】{0b:09}\nCome to think of it, you came looking for\nthe 'Azare Stone', right?{1a}Nobody's found one in over thirty years,\nhave they? So a month's no big deal,\nright?{0c:fe}",
+   "en": "{0c:2b5023100023}{0c:52292a}{1c:17}{0b:08}【 Jessica 】{0b:09}\nCome to think of it, you came looking for\nthe 'Azare Stone', right?{1a}Nobody's found one in over thirty years,\nhave they? So a month's no big\ndeal, right?{0c:fe}",
    "status": "done",
    "tl": "Come to think of it, you came looking for the 'Azare Stone', right? // Nobody's found one in over thirty years, have they? So a month's no big deal, right?"
   },
@@ -1068,7 +1068,7 @@
    "jp": "{0c:2b5023100023}{0c:5115}{1c:15}{0b:08}{e082} パスカ {e083}{0b:09}\nま、しょうがねえよ。\nこいつにはこいつの考えがあるんだろ。\n{0c:5110}それに強{e0b3}するもんでもねえしな。{0c:2b5c091501}",
    "read": "{0c:2b5023100023}{0c:5115}{1c:15}{0b:08}【 パスカ 】{0b:09}\nま、しょうがねえよ。\nこいつにはこいつの考えがあるんだろ。\n{0c:5110}それに強制するもんでもねえしな。{0c:2b5c091501}",
    "raw": null,
-   "en": "{0c:2b5023100023}{0c:5115}{1c:15}{0b:08}【 Pasca 】{0b:09}\nWell, can't be helped. This one's got\nreasons of their own, I guess. {0c:5110}Besides, it\nain't somethin' ya can force on{1a}anybody.{0c:2b5c091501}",
+   "en": "{0c:2b5023100023}{0c:5115}{1c:15}{0b:08}【 Pasca 】{0b:09}\nWell, can't be helped. This one's got\nreasons of their own, I guess. {0c:5110}Besides, it\nain't somethin' ya can force{1a}on anybody.{0c:2b5c091501}",
    "status": "done",
    "tl": "Well, can't be helped. This one's got reasons of their own, I guess. [1]Besides, it ain't somethin' ya can force on anybody."
   },
@@ -1345,7 +1345,7 @@
    "jp": "{0c:2b5023100023}{1c:17}{0b:08}{e082} ジェシカ {e083}{0b:09}\nならしょうがないか。\nところでさ、\nいつまでここで待ってればいいの?{0c:2b5c091501}",
    "read": "{0c:2b5023100023}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nならしょうがないか。\nところでさ、\nいつまでここで待ってればいいの?{0c:2b5c091501}",
    "raw": null,
-   "en": "{0c:2b5023100023}{1c:17}{0b:08}【 Jessica 】{0b:09}\nGuess that can't be helped, then. By the\nway, how long are we supposed to wait\nhere?{0c:2b5c091501}",
+   "en": "{0c:2b5023100023}{1c:17}{0b:08}【 Jessica 】{0b:09}\nGuess that can't be helped, then. By the\nway, how long are we supposed to\nwait here?{0c:2b5c091501}",
    "status": "done",
    "tl": "Guess that can't be helped, then. By the way, how long are we supposed to wait here?"
   },
@@ -1392,7 +1392,7 @@
    "jp": "{0c:2b5023100023}{0c:52292a}{1c:17}{0b:08}{e082} ジェシカ {e083}{0b:09}\n確かあんたが\nこの町に来た理由って\n{e0d7}行のためなんだよね。{0c:fe}",
    "read": "{0c:2b5023100023}{0c:52292a}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\n確かあんたが\nこの町に来た理由って\n修行のためなんだよね。{0c:fe}",
    "raw": null,
-   "en": "{0c:2b5023100023}{0c:52292a}{1c:17}{0b:08}【 Jessica 】{0b:09}\nYou came to this town to train, didn't\nyou?{0c:fe}",
+   "en": "{0c:2b5023100023}{0c:52292a}{1c:17}{0b:08}【 Jessica 】{0b:09}\nYou came to this town to train,\ndidn't you?{0c:fe}",
    "status": "done",
    "tl": "You came to this town to train, didn't you?"
   },
@@ -1415,7 +1415,7 @@
    "jp": "{0c:2b5023100023}{1c:17}ふーん、あたしとは別の生き物だね。\n自分を{e0d8}えるとか、\n道を{e0d9}めるとか・・・\n疲れるだけじゃん。{1a}{0c:522e2f}ねえねえ、そんなに暇なの?{0c:2b5c091501}",
    "read": "{0c:2b5023100023}{1c:17}ふーん、あたしとは別の生き物だね。\n自分を鍛えるとか、\n道を究めるとか・・・\n疲れるだけじゃん。{1a}{0c:522e2f}ねえねえ、そんなに暇なの?{0c:2b5c091501}",
    "raw": null,
-   "en": "{0c:2b5023100023}{1c:17}Huh, you and me are different species.\nToughening yourself up, mastering the\nway... That just wears you out.{1a}{0c:522e2f}Hey, hey, you really got that much free\ntime?{0c:2b5c091501}",
+   "en": "{0c:2b5023100023}{1c:17}Huh, you and me are different species.\nToughening yourself up, mastering the\nway... That just wears you out.{1a}{0c:522e2f}Hey, hey, you really got that much\nfree time?{0c:2b5c091501}",
    "status": "done",
    "tl": "Huh, you and me are different species. Toughening yourself up, mastering the way... That just wears you out. // [1]Hey, hey, you really got that much free time?"
   },
@@ -1541,7 +1541,7 @@
    "jp": "{0c:2b5023100023}{0c:520809}{1c:11}{0b:08}{e082} アーサー {e083}{0b:09}\nき、君は自分さえよければ\nそれでいいのか!?{0c:02d601}",
    "read": "{0c:2b5023100023}{0c:520809}{1c:11}{0b:08}【 アーサー 】{0b:09}\nき、君は自分さえよければ\nそれでいいのか!?{0c:02d601}",
    "raw": null,
-   "en": "{0c:2b5023100023}{0c:520809}{1c:11}{0b:08}【 Arthur 】{0b:09}\nY-you only care about yourself, is that\nit!?{0c:02d601}",
+   "en": "{0c:2b5023100023}{0c:520809}{1c:11}{0b:08}【 Arthur 】{0b:09}\nY-you only care about yourself, is\nthat it!?{0c:02d601}",
    "status": "done",
    "tl": "Y-you only care about yourself, is that it!?"
   },
@@ -1611,7 +1611,7 @@
    "jp": "{0c:2b5023100023}{0c:522d2e}{1c:16}{0b:08}{e082} シャルン {e083}{0b:09}\nそう? ジェシカよりは\n随分マシだと思うけど。{0c:2b5a091501}",
    "read": "{0c:2b5023100023}{0c:522d2e}{1c:16}{0b:08}【 シャルン 】{0b:09}\nそう? ジェシカよりは\n随分マシだと思うけど。{0c:2b5a091501}",
    "raw": null,
-   "en": "{0c:2b5023100023}{0c:522d2e}{1c:16}{0b:08}【 Scharn 】{0b:09}\nReally? Way smarter than you, Jessica, I\nthink!{0c:2b5a091501}",
+   "en": "{0c:2b5023100023}{0c:522d2e}{1c:16}{0b:08}【 Scharn 】{0b:09}\nReally? Way smarter than you, Jessica,\nI think!{0c:2b5a091501}",
    "status": "done",
    "tl": "Really? Way smarter than you, Jessica, I think!"
   },
@@ -1749,7 +1749,7 @@
    "jp": "{0c:2b5023100023}{1c:11}{0b:08}{e082} アーサー {e083}{0b:09}\nき、君は・・・\n{0c:520809}自分さえよければそれでいいのか!?{1a}何の{e0db}{e0d9}かはしらないけど、\n人の命以上に重要なことなんて・・・{0c:02c401}",
    "read": "{0c:2b5023100023}{1c:11}{0b:08}【 アーサー 】{0b:09}\nき、君は・・・\n{0c:520809}自分さえよければそれでいいのか!?{1a}何の研究かはしらないけど、\n人の命以上に重要なことなんて・・・{0c:02c401}",
    "raw": null,
-   "en": "{0c:2b5023100023}{1c:11}{0b:08}【 Arthur 】{0b:09}\nY-you... {0c:520809}you only care about yourself, is\nthat it!?{1a}I don't know what you're studying, but\nnothing can matter more than a person's\nlife...{0c:02c401}",
+   "en": "{0c:2b5023100023}{1c:11}{0b:08}【 Arthur 】{0b:09}\nY-you... {0c:520809}you only care about yourself, is\nthat it!?{1a}I don't know what you're studying, but\nnothing can matter more than a\nperson's life...{0c:02c401}",
    "status": "done",
    "tl": "Y-you... [1]you only care about yourself, is that it!? // I don't know what you're studying, but nothing can matter more than a person's life..."
   },
@@ -2214,7 +2214,7 @@
    "jp": "{1c:15}{0c:525554}{0b:08}{e082} {e0e3}{e0e4}{e0e5}サディーヤ {e083}{0b:09}\nいえ、\n今度は物理的な{e193}{e194}ではありません。\n残された時間が問題なのです。{1a}{e0a6}の調合にかかる時間と、\n転送器の日程から{e196}算すると、\n『{e0ed}の{e0ad}道』の中では\n1ヶ月以上の時間がさけないのです。{0c:2b5209fe}",
    "read": "{1c:15}{0c:525554}{0b:08}【 毒術師サディーヤ 】{0b:09}\nいえ、\n今度は物理的な障害ではありません。\n残された時間が問題なのです。{1a}薬の調合にかかる時間と、\n転送器の日程から逆算すると、\n『青の羨道』の中では\n1ヶ月以上の時間がさけないのです。{0c:2b5209fe}",
    "raw": null,
-   "en": "{1c:15}{0c:525554}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nNo. This time it is not a physical\nobstacle. The problem is the time\nremaining.{1a}Working back from the time needed to\nbrew the medicine and the Transporter's\nschedule, you cannot spend more than a\nmonth inside the 'Blue Passage'.{0c:2b5209fe}",
+   "en": "{1c:15}{0c:525554}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nNo. This time it is not a physical\nobstacle. The problem is the\ntime remaining.{1a}Working back from the time needed to\nbrew the medicine and the Transporter's\nschedule, you cannot spend more than a\nmonth inside the 'Blue Passage'.{0c:2b5209fe}",
    "status": "done",
    "tl": "No. This time it is not a physical obstacle. The problem is the time remaining. // Working back from the time needed to brew the medicine and the Transporter's schedule, you cannot spend more than a month inside the 'Blue Passage'."
   },
@@ -2238,7 +2238,7 @@
    "jp": "{1c:15}{0c:525554}{0b:08}{e082} {e0e3}{e0e4}{e0e5}サディーヤ {e083}{0b:09}\nいえ、『{e0ed}の{e0ad}道』の中は、\n1日がわずか{e089}分で過ぎてしまうほど\n時間の流れが早いのです。{1a}{0c:525657}魔物を1匹ずつ相手にしていたのでは\n1ヶ月などすぐに過ぎてしまう・・・\n『{e0ed}の{e0ad}道』に入ったら\n{e0ee}に進むことだけを考えて下さい。{1a}{0c:525a54}また、もし1ヶ月経っても\nラフメルの{e0e7}を見つけられなければ、\nどんなに{e0ee}に進んでいても\nそこで{e198}めて戻って下さい。{0c:2b5209fe}",
    "read": "{1c:15}{0c:525554}{0b:08}【 毒術師サディーヤ 】{0b:09}\nいえ、『青の羨道』の中は、\n1日がわずか数分で過ぎてしまうほど\n時間の流れが早いのです。{1a}{0c:525657}魔物を1匹ずつ相手にしていたのでは\n1ヶ月などすぐに過ぎてしまう・・・\n『青の羨道』に入ったら\n奥に進むことだけを考えて下さい。{1a}{0c:525a54}また、もし1ヶ月経っても\nラフメルの葉を見つけられなければ、\nどんなに奥に進んでいても\nそこで諦めて戻って下さい。{0c:2b5209fe}",
    "raw": null,
-   "en": "{1c:15}{0c:525554}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nNo. Inside the 'Blue Passage', time flows\nso fast that a day passes in mere\nminutes.{1a}{0c:525657}If you take on the monsters one at a\ntime, a month will be gone at once... Once\nyou enter the 'Blue Passage', think only\nof pressing deeper.{1a}{0c:525a54}And if a month passes and you have not\nfound the Rahmel leaf, then however\ndeep you have gone, give up there and\ncome back.{0c:2b5209fe}",
+   "en": "{1c:15}{0c:525554}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nNo. Inside the 'Blue Passage', time flows\nso fast that a day passes in\nmere minutes.{1a}{0c:525657}If you take on the monsters one at a\ntime, a month will be gone at once... Once\nyou enter the 'Blue Passage', think only\nof pressing deeper.{1a}{0c:525a54}And if a month passes and you have not\nfound the Rahmel leaf, then however\ndeep you have gone, give up there and\ncome back.{0c:2b5209fe}",
    "status": "done",
    "tl": "No. Inside the 'Blue Passage', time flows so fast that a day passes in mere minutes. // [1]If you take on the monsters one at a time, a month will be gone at once... Once you enter the 'Blue Passage', think only of pressing deeper. // [2]And if a month passes and you have not found the Rahmel leaf, then however deep you have gone, give up there and come back."
   },

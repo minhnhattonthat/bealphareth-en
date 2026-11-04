@@ -41,7 +41,7 @@
    "jp": "{0c:520809}{1c:13}{0b:08}{e080} オイゲン {e081}{0b:09}\n悪いな。\nお前も疲れてるだろうから\nさっそく本題に入るが・・・{1a}あのローブの野郎{e083}のこと、\n聞かせてもらえねえか?{0c:fe}",
    "read": "{0c:520809}{1c:13}{0b:08}【 オイゲン 】{0b:09}\n悪いな。\nお前も疲れてるだろうから\nさっそく本題に入るが・・・{1a}あのローブの野郎共のこと、\n聞かせてもらえねえか?{0c:fe}",
    "raw": null,
-   "en": "{0c:520809}{1c:13}{0b:08}【 Eugen 】{0b:09}\nSorry 'bout this. You must be tired too,\nso I'll get right to it...{1a}Mind tellin' me about those bastards in\nrobes?{0c:fe}",
+   "en": "{0c:520809}{1c:13}{0b:08}【 Eugen 】{0b:09}\nSorry 'bout this. You must be tired too,\nso I'll get right to it...{1a}Mind tellin' me about those bastards\nin robes?{0c:fe}",
    "status": "done",
    "tl": "Sorry 'bout this. You must be tired too, so I'll get right to it... // Mind tellin' me about those bastards in robes?"
   },
@@ -110,7 +110,7 @@
    "jp": "{1c:1e}{0b:08}{e080} シャルン {e081}{0b:09}\nあれ、どうしてオイゲンさんが\nそのこと知ってるの?{0c:020c01}",
    "read": "{1c:1e}{0b:08}【 シャルン 】{0b:09}\nあれ、どうしてオイゲンさんが\nそのこと知ってるの?{0c:020c01}",
    "raw": null,
-   "en": "{1c:1e}{0b:08}【 Scharn 】{0b:09}\nHuh? How do you know about that,\nEugen-san?{0c:020c01}",
+   "en": "{1c:1e}{0b:08}【 Scharn 】{0b:09}\nHuh? How do you know about\nthat, Eugen-san?{0c:020c01}",
    "status": "done",
    "tl": "Huh? How do you know about that, Eugen-san?"
   },
@@ -133,7 +133,7 @@
    "jp": "あれ、どうしてオイゲンさんが\nそのこと知ってるの?{0c:020a01}",
    "read": "あれ、どうしてオイゲンさんが\nそのこと知ってるの?{0c:020a01}",
    "raw": null,
-   "en": "Huh? How do you know about that,\nEugen-san?{0c:020a01}",
+   "en": "Huh? How do you know about\nthat, Eugen-san?{0c:020a01}",
    "status": "done",
    "tl": "Huh? How do you know about that, Eugen-san?"
   },
@@ -156,7 +156,7 @@
    "jp": "あれ、どうしてオイゲンさんが\nそのこと知ってるの?{0c:020801}",
    "read": "あれ、どうしてオイゲンさんが\nそのこと知ってるの?{0c:020801}",
    "raw": null,
-   "en": "Huh? How do you know about that,\nEugen-san?{0c:020801}",
+   "en": "Huh? How do you know about\nthat, Eugen-san?{0c:020801}",
    "status": "done",
    "tl": "Huh? How do you know about that, Eugen-san?"
   },
@@ -260,7 +260,7 @@
    "jp": "{0c:521119}{1c:11}{0b:08}{e080} オイゲン {e081}{0b:09}\nこの町にいるほとんどの{e085}中が\nお前達と奴らとの\nやりとりを夢で見たんだよ。{1a}{0c:522129}あの時俺はカウンターで\n{e087}を飲んでたんだが、\nいきなり、あの神{e089}の映{e08b}が\n頭の中に流れ{e08c}んできた。{1a}みんな同時に眠らされて\n同じ夢を見させられたらしい。{1a}{0c:523132}いや、ありゃ夢とは\nいわねえのかもな・・・{1a}あまりにもリアルすぎる。\nなのに意識を失っていた時間は\nほんの一{e08d}だ。{1a}{0c:523a42}何しろ、手に持ってた{e087}ビンが\n床に落ちるまでの間に\nその夢は終わってたんだからな。{0c:fe}",
    "read": "{0c:521119}{1c:11}{0b:08}【 オイゲン 】{0b:09}\nこの町にいるほとんどの連中が\nお前達と奴らとの\nやりとりを夢で見たんだよ。{1a}{0c:522129}あの時俺はカウンターで\n酒を飲んでたんだが、\nいきなり、あの神殿の映像が\n頭の中に流れ込んできた。{1a}みんな同時に眠らされて\n同じ夢を見させられたらしい。{1a}{0c:523132}いや、ありゃ夢とは\nいわねえのかもな・・・{1a}あまりにもリアルすぎる。\nなのに意識を失っていた時間は\nほんの一瞬だ。{1a}{0c:523a42}何しろ、手に持ってた酒ビンが\n床に落ちるまでの間に\nその夢は終わってたんだからな。{0c:fe}",
    "raw": null,
-   "en": "{0c:521119}{1c:11}{0b:08}【 Eugen 】{0b:09}\nMost everybody in this town saw your\nrun-in with them in a dream.{1a}{0c:522129}Right then I was at the counter drinkin',\nand all of a sudden a vision of that\ntemple came floodin' into my head.{1a}Seems we all got put to sleep at once\nand made to see the same dream.{1a}{0c:523132}No, maybe you can't even call that a\ndream...{1a}Way too real. And yet we were out for\nno more'n an instant.{1a}{0c:523a42}Hell, the dream was over before the\nbottle in my hand hit the floor.{0c:fe}",
+   "en": "{0c:521119}{1c:11}{0b:08}【 Eugen 】{0b:09}\nMost everybody in this town saw your\nrun-in with them in a dream.{1a}{0c:522129}Right then I was at the counter drinkin',\nand all of a sudden a vision of that\ntemple came floodin' into my head.{1a}Seems we all got put to sleep at once\nand made to see the same dream.{1a}{0c:523132}No, maybe you can't even call that\na dream...{1a}Way too real. And yet we were out for\nno more'n an instant.{1a}{0c:523a42}Hell, the dream was over before the\nbottle in my hand hit the floor.{0c:fe}",
    "status": "done",
    "tl": "Most everybody in this town saw your run-in with them in a dream. // [1]Right then I was at the counter drinkin', and all of a sudden a vision of that temple came floodin' into my head. // Seems we all got put to sleep at once and made to see the same dream. // [2]No, maybe you can't even call that a dream... // Way too real. And yet we were out for no more'n an instant. // [3]Hell, the dream was over before the bottle in my hand hit the floor."
   },
@@ -307,7 +307,7 @@
    "jp": "{0c:52ff37ff38}{1c:11}で、とにかく\n『{e094}神の{e095}』って所を越えて\n『始原の地』に行かなきゃ\nならねえわけだ。{1a}そして『悪魔』に\nならなきゃいけねえ、と・・・{1a}{0c:52535b}これがどうも引っかかる。\n悪魔になるってのは\nどういうことだ?{1a}{0c:52636b}悪い事すりゃいいのか?\nものを{e098}んだりとかよ。\nなら、この町の人間は\n{e099}分以上が悪魔だぜ。{0c:2b5409fe}",
    "read": "{0c:52ff37ff38}{1c:11}で、とにかく\n『精神の海』って所を越えて\n『始原の地』に行かなきゃ\nならねえわけだ。{1a}そして『悪魔』に\nならなきゃいけねえ、と・・・{1a}{0c:52535b}これがどうも引っかかる。\n悪魔になるってのは\nどういうことだ?{1a}{0c:52636b}悪い事すりゃいいのか?\nものを盗んだりとかよ。\nなら、この町の人間は\n半分以上が悪魔だぜ。{0c:2b5409fe}",
    "raw": null,
-   "en": "{0c:52ff37ff38}{1c:11}So, anyhow, we gotta cross this 'Sea of\nSpirit' place and get to the 'Land of\nOrigin'.{1a}And we gotta become the 'Devil', huh...{1a}{0c:52535b}That's what's stickin' in my craw. What's\nit mean, becomin' the Devil?{1a}{0c:52636b}Just do bad things? Steal stuff and\nsuch? Then better'n half this town's\ndevils already.{0c:2b5409fe}",
+   "en": "{0c:52ff37ff38}{1c:11}So, anyhow, we gotta cross this 'Sea of\nSpirit' place and get to the 'Land\nof Origin'.{1a}And we gotta become the 'Devil', huh...{1a}{0c:52535b}That's what's stickin' in my craw. What's\nit mean, becomin' the Devil?{1a}{0c:52636b}Just do bad things? Steal stuff and\nsuch? Then better'n half this town's\ndevils already.{0c:2b5409fe}",
    "status": "done",
    "tl": "So, anyhow, we gotta cross this 'Sea of Spirit' place and get to the 'Land of Origin'. // And we gotta become the 'Devil', huh... // [1]That's what's stickin' in my craw. What's it mean, becomin' the Devil? // [2]Just do bad things? Steal stuff and such? Then better'n half this town's devils already."
   },
@@ -366,7 +366,7 @@
    "jp": "{0c:52ffff54ffff5c}{1c:16}{0b:08}{e080} {e0a2}{e0a3}{e0a4}サディーヤ {e081}{0b:09}\n体の傷はもう{e0a5}っています。\nですが・・・{0c:2b5309fe}",
    "read": "{0c:52ffff54ffff5c}{1c:16}{0b:08}【 毒術師サディーヤ 】{0b:09}\n体の傷はもう治っています。\nですが・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "{0c:52ffff54ffff5c}{1c:16}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nThe wounds to the body have healed.\nHowever...{0c:2b5309fe}",
+   "en": "{0c:52ffff54ffff5c}{1c:16}{0b:08}【 Sadiya the Poisoner 】{0b:09}\nThe wounds to the body have\nhealed. However...{0c:2b5309fe}",
    "status": "done",
    "tl": "The wounds to the body have healed. However..."
   },
@@ -461,7 +461,7 @@
    "jp": "{0c:52ff9bffa3}{1c:14}{0b:08}{e080} クムラン {e081}{0b:09}\n私もそれが気になっていました・・・{1a}{0c:2b542351ff402b551000}『預言者』とは、\n神の意志を人{e0b4}に伝える者のこと。\nアノイア{e0b5}における\nアノイアがそれです。{1a}{0c:52ffabffb3}ですが、彼らは自分達のことを\n『神の{e0af}弁者』と言った。{0c:2b5309fe}",
    "read": "{0c:52ff9bffa3}{1c:14}{0b:08}【 クムラン 】{0b:09}\n私もそれが気になっていました・・・{1a}{0c:2b542351ff402b551000}『預言者』とは、\n神の意志を人々に伝える者のこと。\nアノイア教における\nアノイアがそれです。{1a}{0c:52ffabffb3}ですが、彼らは自分達のことを\n『神の代弁者』と言った。{0c:2b5309fe}",
    "raw": null,
-   "en": "{0c:52ff9bffa3}{1c:14}{0b:08}【 Qumran 】{0b:09}\nThat concerned me as well...{1a}{0c:2b542351ff402b551000}A 'Prophet' is one who conveys God's will\nto the people. In the Anoian faith, that\nis Anoia.{1a}{0c:52ffabffb3}Yet they called themselves 'God's\nspokesmen'.{0c:2b5309fe}",
+   "en": "{0c:52ff9bffa3}{1c:14}{0b:08}【 Qumran 】{0b:09}\nThat concerned me as well...{1a}{0c:2b542351ff402b551000}A 'Prophet' is one who conveys God's will\nto the people. In the Anoian faith, that\nis Anoia.{1a}{0c:52ffabffb3}Yet they called themselves\n'God's spokesmen'.{0c:2b5309fe}",
    "status": "done",
    "tl": "That concerned me as well... // [1]A 'Prophet' is one who conveys God's will to the people. In the Anoian faith, that is Anoia. // [2]Yet they called themselves 'God's spokesmen'."
   },

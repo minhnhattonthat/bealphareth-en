@@ -263,7 +263,7 @@
    "jp": "{1c:1f}{0b:08}{e080} オルフェウス {e081}{0b:09}\n{e082}を放つ『シェオルの{e084}』・・・{1a}これが、{0b:05}{14}さんの魂が\n{e085}じ{e088}められている{e084}なんですね。{1a}どう{e089}理します、{10}さん。{0c:020101}",
    "read": "{1c:1f}{0b:08}【 オルフェウス 】{0b:09}\n光を放つ『シェオルの柱』・・・{1a}これが、{0b:05}{14}さんの魂が\n封じ込められている柱なんですね。{1a}どう料理します、{10}さん。{0c:020101}",
    "raw": null,
-   "en": "{1c:1f}{0b:08}【 Orpheus 】{0b:09}\nA shining 'Pillar of Sheol'...{1a}So this is the pillar in which\n{0b:05}{14}-san's soul lies sealed.{1a}And how shall we serve it up,\n{10}-san?{0c:020101}",
+   "en": "{1c:1f}{0b:08}【 Orpheus 】{0b:09}\nA shining 'Pillar of Sheol'...{1a}So this is the pillar in which\n{0b:05}{14}-san's soul lies sealed.{1a}And how shall we serve it\nup, {10}-san?{0c:020101}",
    "status": "done",
    "tl": "A shining 'Pillar of Sheol'... // So this is the pillar in which [1][VAR14]-san's soul lies sealed. // And how shall we serve it up, [HERO]-san?"
   },
@@ -554,7 +554,7 @@
    "jp": "{1c:1b}{0b:08}{e080} パスカ {e081}{0b:09}\n{10}、\nそっちには行けそうにねえ!{1a}{e084}は任せる!\nそれを壊したらお前も\nそっちの穴から逃げろ!!{1a}じゃあな、生きてたらまた{e08d}おうぜ!{0c:021901}",
    "read": "{1c:1b}{0b:08}【 パスカ 】{0b:09}\n{10}、\nそっちには行けそうにねえ!{1a}柱は任せる!\nそれを壊したらお前も\nそっちの穴から逃げろ!!{1a}じゃあな、生きてたらまた会おうぜ!{0c:021901}",
    "raw": null,
-   "en": "{1c:1b}{0b:08}【 Pasca 】{0b:09}\n{10}, we ain't gonna make it over\nthere!{1a}Pillar's all yours! Once ya bust it, you get\nout through that hole too!!{1a}So long. If we're still breathin', we'll meet\nagain!{0c:021901}",
+   "en": "{1c:1b}{0b:08}【 Pasca 】{0b:09}\n{10}, we ain't gonna make it\nover there!{1a}Pillar's all yours! Once ya bust it, you get\nout through that hole too!!{1a}So long. If we're still breathin', we'll\nmeet again!{0c:021901}",
    "status": "done",
    "tl": "[HERO], we ain't gonna make it over there! // Pillar's all yours! Once ya bust it, you get out through that hole too!! // So long. If we're still breathin', we'll meet again!"
   },
@@ -692,7 +692,7 @@
    "jp": "{1c:29}{0b:08}{e080} ルカ {e081}{0b:09}\nこ、こちらは\nもう駄目みたいです!{1a}す、すみませんが\nその{e084}をよろしくお願いしますっ!{0c:020d01}",
    "read": "{1c:29}{0b:08}【 ルカ 】{0b:09}\nこ、こちらは\nもう駄目みたいです!{1a}す、すみませんが\nその柱をよろしくお願いしますっ!{0c:020d01}",
    "raw": null,
-   "en": "{1c:29}{0b:08}【 Luca 】{0b:09}\nTh-this side is, it seems, past saving!{1a}I am s-sorry, but please see to that\npillar!{0c:020d01}",
+   "en": "{1c:29}{0b:08}【 Luca 】{0b:09}\nTh-this side is, it seems, past saving!{1a}I am s-sorry, but please see to\nthat pillar!{0c:020d01}",
    "status": "done",
    "tl": "Th-this side is, it seems, past saving! // I am s-sorry, but please see to that pillar!"
   },
@@ -715,7 +715,7 @@
    "jp": "{1c:2b}{0b:08}{e080} サラ {e081}{0b:09}\n{10}さん、\nこっちはもう駄目みたい!!{1a}{10}さんも{e084}を壊したら\nそっちの穴から逃げてね!!{0c:020b01}",
    "read": "{1c:2b}{0b:08}【 サラ 】{0b:09}\n{10}さん、\nこっちはもう駄目みたい!!{1a}{10}さんも柱を壊したら\nそっちの穴から逃げてね!!{0c:020b01}",
    "raw": null,
-   "en": "{1c:2b}{0b:08}【 Sara 】{0b:09}\n{10}-san, it looks like it's no good\nover here!!{1a}{10}-san, once you break the\npillar, you get out through that hole too,\nokay!!{0c:020b01}",
+   "en": "{1c:2b}{0b:08}【 Sara 】{0b:09}\n{10}-san, it looks like it's no good\nover here!!{1a}{10}-san, once you break the\npillar, you get out through that hole\ntoo, okay!!{0c:020b01}",
    "status": "done",
    "tl": "[HERO]-san, it looks like it's no good over here!! // [HERO]-san, once you break the pillar, you get out through that hole too, okay!!"
   },
@@ -853,7 +853,7 @@
    "jp": "{1b:05}我は{e091}なる声なり・・・{1a}1人の肉体を救い、{e092}千{e092}万の希望を\n奪いたければこの{e084}を壊せ・・・\n{e092}千{e092}万の希望を救い、1人の肉体を\n奪いたければ直ちに立ち去れ・・・{1a}この{e084}は\n人の闇なる{e097}神に{e098}なる{e084}なり・・・\nこの{e084}を{e08a}壊すれば世{e08f}中に\n{e099}なる魔物が生まれよう・・・{0c:fe}",
    "read": "{1b:05}我は内なる声なり・・・{1a}1人の肉体を救い、幾千幾万の希望を\n奪いたければこの柱を壊せ・・・\n幾千幾万の希望を救い、1人の肉体を\n奪いたければ直ちに立ち去れ・・・{1a}この柱は\n人の闇なる精神に連なる柱なり・・・\nこの柱を破壊すれば世界中に\n更なる魔物が生まれよう・・・{0c:fe}",
    "raw": null,
-   "en": "{1b:05}I am the inner voice...{1a}If thou wouldst save one body and rob\nthousands upon thousands of their hope,\nbreak this pillar... If thou wouldst save\nthe hope of thousands upon thousands{1a}and rob one of a body, depart at once...{1a}This pillar is joined to the dark spirit of\nman... Destroy this pillar, and yet more\nmonsters shall be born throughout the\nworld...{0c:fe}",
+   "en": "{1b:05}I am the inner voice...{1a}If thou wouldst save one body and rob\nthousands upon thousands of their hope,\nbreak this pillar... If thou wouldst save\nthe hope of thousands upon thousands{1a}and rob one of a body, depart at once...{1a}This pillar is joined to the dark spirit of\nman... Destroy this pillar, and yet more\nmonsters shall be born throughout\nthe world...{0c:fe}",
    "status": "done",
    "tl": "I am the inner voice... // If thou wouldst save one body and rob thousands upon thousands of their hope, break this pillar... If thou wouldst save the hope of thousands upon thousands and rob one of a body, depart at once... // This pillar is joined to the dark spirit of man... Destroy this pillar, and yet more monsters shall be born throughout the world..."
   },

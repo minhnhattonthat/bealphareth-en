@@ -88,7 +88,7 @@
    "jp": "{1c:10}結{e082}、用はなかったのね。\n暇な人・・・{0c:1501}",
    "read": "{1c:10}結局、用はなかったのね。\n暇な人・・・{0c:1501}",
    "raw": null,
-   "en": "{1c:10}So you had no business after all. How\nidle...{0c:1501}",
+   "en": "{1c:10}So you had no business after all.\nHow idle...{0c:1501}",
    "status": "done",
    "tl": "So you had no business after all. How idle..."
   },
@@ -157,7 +157,7 @@
    "jp": "{1c:10}じゃあね。\n生きてたらまた{e084}いましょ。",
    "read": "{1c:10}じゃあね。\n生きてたらまた会いましょ。",
    "raw": null,
-   "en": "{1c:10}See you. If we're alive, we'll meet again, I\nsuppose.",
+   "en": "{1c:10}See you. If we're alive, we'll meet again,\nI suppose.",
    "status": "done",
    "tl": "See you. If we're alive, we'll meet again, I suppose."
   },
@@ -403,7 +403,7 @@
    "jp": "{1c:10}じゃあね。\n生きてたらまた{e084}いましょ。",
    "read": "{1c:10}じゃあね。\n生きてたらまた会いましょ。",
    "raw": null,
-   "en": "{1c:10}See you. If we're alive, we'll meet again, I\nsuppose.",
+   "en": "{1c:10}See you. If we're alive, we'll meet again,\nI suppose.",
    "status": "done",
    "tl": "See you. If we're alive, we'll meet again, I suppose."
   },
@@ -426,7 +426,7 @@
    "jp": "{0c:520102}{1c:12}{0b:08}{e080} {03}パスカ {e081}{0b:09}\n{02}また飲んでやがる・・・\nお前、{01}1日中{e087}飲{02}んでねえか{01}?{1a}大体{02}、{03}ルミニア{02}でも{03}バイレステ{02}でも\nお前の{e088}齢だとまだ{e087}飲んだら\n駄目だって聞いたぜ。{0c:290c091501}",
    "read": "{0c:520102}{1c:12}{0b:08}【 {03}パスカ 】{0b:09}\n{02}また飲んでやがる・・・\nお前、{01}1日中酒飲{02}んでねえか{01}?{1a}大体{02}、{03}ルミニア{02}でも{03}バイレステ{02}でも\nお前の年齢だとまだ酒飲んだら\n駄目だって聞いたぜ。{0c:290c091501}",
    "raw": null,
-   "en": "{0c:520102}{1c:12}{0b:08}【 Pasca 】{0b:09}\nDrinkin' again, dammit... Ain't you been at\nthe bottle all day?{1a}Besides, I heard in Luminia and Baileste\nboth, you ain't old enough to be drinkin'\nyet.{0c:290c091501}",
+   "en": "{0c:520102}{1c:12}{0b:08}【 Pasca 】{0b:09}\nDrinkin' again, dammit... Ain't you been at\nthe bottle all day?{1a}Besides, I heard in Luminia and Baileste\nboth, you ain't old enough to be\ndrinkin' yet.{0c:290c091501}",
    "status": "done",
    "tl": "Drinkin' again, dammit... Ain't you been at the bottle all day? // Besides, I heard in Luminia and Baileste both, you ain't old enough to be drinkin' yet."
   },
@@ -462,7 +462,7 @@
    "jp": "{1c:10}{0b:08}{e080} イヴ {e081}{0b:09}\n細かいことは気にしないの。\nいくら田{e08c}者でも\nそれじゃ野暮すぎるわよ。{0c:2b50091501}",
    "read": "{1c:10}{0b:08}【 イヴ 】{0b:09}\n細かいことは気にしないの。\nいくら田舎者でも\nそれじゃ野暮すぎるわよ。{0c:2b50091501}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Eve 】{0b:09}\nDon't fuss over the details. Even for a\ncountry bumpkin, that's much too\nboorish.{0c:2b50091501}",
+   "en": "{1c:10}{0b:08}【 Eve 】{0b:09}\nDon't fuss over the details. Even for a\ncountry bumpkin, that's much\ntoo boorish.{0c:2b50091501}",
    "status": "done",
    "tl": "Don't fuss over the details. Even for a country bumpkin, that's much too boorish."
   },
@@ -578,7 +578,7 @@
    "jp": "{1c:10}{0b:08}{e080} イヴ {e081}{0b:09}\nじゃあね、\n生きてたらまた{e084}いましょ。",
    "read": "{1c:10}{0b:08}【 イヴ 】{0b:09}\nじゃあね、\n生きてたらまた会いましょ。",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Eve 】{0b:09}\nSee you. If we're alive, we'll meet again, I\nsuppose.",
+   "en": "{1c:10}{0b:08}【 Eve 】{0b:09}\nSee you. If we're alive, we'll meet again,\nI suppose.",
    "status": "done",
    "tl": "See you. If we're alive, we'll meet again, I suppose."
   },
@@ -673,7 +673,7 @@
    "jp": "{1c:10}用がなかったら来ちゃダメなのか、\nなんて訊かないでね。{1a}人の{e08f}{e090}に入っていい人と、\n入って欲しくない人がいるくらい\nわかるでしょ?{0c:15}",
    "read": "{1c:10}用がなかったら来ちゃダメなのか、\nなんて訊かないでね。{1a}人の部屋に入っていい人と、\n入って欲しくない人がいるくらい\nわかるでしょ?{0c:15}",
    "raw": null,
-   "en": "{1c:10}Don't ask me if you need a reason to\ncome.{1a}You must know there are people who\nmay enter my room and people I'd rather\ndidn't.{0c:15}",
+   "en": "{1c:10}Don't ask me if you need a reason\nto come.{1a}You must know there are people who\nmay enter my room and people I'd\nrather didn't.{0c:15}",
    "status": "done",
    "tl": "Don't ask me if you need a reason to come. // You must know there are people who may enter my room and people I'd rather didn't."
   },
@@ -732,7 +732,7 @@
    "jp": "{0c:5100}{1c:10}そうね・・・\nいいわ、付き合ってあげる。",
    "read": "{0c:5100}{1c:10}そうね・・・\nいいわ、付き合ってあげる。",
    "raw": null,
-   "en": "{0c:5100}{1c:10}Let me see... All right, I'll keep you\ncompany.",
+   "en": "{0c:5100}{1c:10}Let me see... All right, I'll keep\nyou company.",
    "status": "done",
    "tl": "Let me see... All right, I'll keep you company."
   },
@@ -792,7 +792,7 @@
    "jp": "{1c:10}じゃあね、生きてたらまた{e084}いましょ。",
    "read": "{1c:10}じゃあね、生きてたらまた会いましょ。",
    "raw": null,
-   "en": "{1c:10}See you. If we're alive, we'll meet again, I\nsuppose.",
+   "en": "{1c:10}See you. If we're alive, we'll meet again,\nI suppose.",
    "status": "done",
    "tl": "See you. If we're alive, we'll meet again, I suppose."
   },
@@ -804,7 +804,7 @@
    "jp": "{0c:3160007900a51000501651063a002b01f5fe}{1c:11}{0b:08}{e080} イヴ {e081}{0b:09}\nいい気分になってたのに・・・\n醒めちゃうじゃない。{0c:1501}",
    "read": "{0c:3160007900a51000501651063a002b01f5fe}{1c:11}{0b:08}【 イヴ 】{0b:09}\nいい気分になってたのに・・・\n醒めちゃうじゃない。{0c:1501}",
    "raw": null,
-   "en": "{0c:3160007900a51000501651063a002b01f5fe}{1c:11}{0b:08}【 Eve 】{0b:09}\nI was feeling so nice... You're sobering me\nup.{0c:1501}",
+   "en": "{0c:3160007900a51000501651063a002b01f5fe}{1c:11}{0b:08}【 Eve 】{0b:09}\nI was feeling so nice... You're sobering\nme up.{0c:1501}",
    "status": "done",
    "tl": "I was feeling so nice... You're sobering me up."
   },
@@ -863,7 +863,7 @@
    "jp": "{1c:11}{0b:08}{e080} イヴ {e081}{0b:09}\nいい気分になってたのに・・・\n醒めちゃうじゃない。{0c:15}",
    "read": "{1c:11}{0b:08}【 イヴ 】{0b:09}\nいい気分になってたのに・・・\n醒めちゃうじゃない。{0c:15}",
    "raw": null,
-   "en": "{1c:11}{0b:08}【 Eve 】{0b:09}\nI was feeling so nice... You're sobering me\nup.{0c:15}",
+   "en": "{1c:11}{0b:08}【 Eve 】{0b:09}\nI was feeling so nice... You're sobering\nme up.{0c:15}",
    "status": "done",
    "tl": "I was feeling so nice... You're sobering me up."
   },
@@ -899,7 +899,7 @@
    "jp": "{0c:3160007900a51000501651063a002b01f5fe}{1c:10}{0b:08}{e080} イヴ {e081}{0b:09}\nこんな夜中に何の用?{0c:1501}",
    "read": "{0c:3160007900a51000501651063a002b01f5fe}{1c:10}{0b:08}【 イヴ 】{0b:09}\nこんな夜中に何の用?{0c:1501}",
    "raw": null,
-   "en": "{0c:3160007900a51000501651063a002b01f5fe}{1c:10}{0b:08}【 Eve 】{0b:09}\nWhat do you want at this hour of the\nnight?{0c:1501}",
+   "en": "{0c:3160007900a51000501651063a002b01f5fe}{1c:10}{0b:08}【 Eve 】{0b:09}\nWhat do you want at this hour of\nthe night?{0c:1501}",
    "status": "done",
    "tl": "What do you want at this hour of the night?"
   },
@@ -922,7 +922,7 @@
    "jp": "{0c:5100}{1c:10}そうね・・・\nいいわ、付き合ってあげる。",
    "read": "{0c:5100}{1c:10}そうね・・・\nいいわ、付き合ってあげる。",
    "raw": null,
-   "en": "{0c:5100}{1c:10}Let me see... All right, I'll keep you\ncompany.",
+   "en": "{0c:5100}{1c:10}Let me see... All right, I'll keep\nyou company.",
    "status": "done",
    "tl": "Let me see... All right, I'll keep you company."
   },
@@ -982,7 +982,7 @@
    "jp": "{1c:10}じゃあね。\n生きてたらまた{e084}いましょ。",
    "read": "{1c:10}じゃあね。\n生きてたらまた会いましょ。",
    "raw": null,
-   "en": "{1c:10}See you. If we're alive, we'll meet again, I\nsuppose.",
+   "en": "{1c:10}See you. If we're alive, we'll meet again,\nI suppose.",
    "status": "done",
    "tl": "See you. If we're alive, we'll meet again, I suppose."
   },
@@ -994,7 +994,7 @@
    "jp": "{0c:3160007900a51000501651063a002b01f5fe}{1c:11}{0b:08}{e080} イヴ {e081}{0b:09}\nいい気分になってたのに・・・\n醒めちゃうじゃない。{0c:1501}",
    "read": "{0c:3160007900a51000501651063a002b01f5fe}{1c:11}{0b:08}【 イヴ 】{0b:09}\nいい気分になってたのに・・・\n醒めちゃうじゃない。{0c:1501}",
    "raw": null,
-   "en": "{0c:3160007900a51000501651063a002b01f5fe}{1c:11}{0b:08}【 Eve 】{0b:09}\nI was feeling so nice... You're sobering me\nup.{0c:1501}",
+   "en": "{0c:3160007900a51000501651063a002b01f5fe}{1c:11}{0b:08}【 Eve 】{0b:09}\nI was feeling so nice... You're sobering\nme up.{0c:1501}",
    "status": "done",
    "tl": "I was feeling so nice... You're sobering me up."
   },
@@ -1053,7 +1053,7 @@
    "jp": "{1c:11}{0b:08}{e080} イヴ {e081}{0b:09}\nいい気分になってたのに・・・\n醒めちゃうじゃない。{0c:15}",
    "read": "{1c:11}{0b:08}【 イヴ 】{0b:09}\nいい気分になってたのに・・・\n醒めちゃうじゃない。{0c:15}",
    "raw": null,
-   "en": "{1c:11}{0b:08}【 Eve 】{0b:09}\nI was feeling so nice... You're sobering me\nup.{0c:15}",
+   "en": "{1c:11}{0b:08}【 Eve 】{0b:09}\nI was feeling so nice... You're sobering\nme up.{0c:15}",
    "status": "done",
    "tl": "I was feeling so nice... You're sobering me up."
   },
@@ -1089,7 +1089,7 @@
    "jp": "{0c:3160007900a51000501651073a002b01f5fe}{0c:5108}{1c:10}{0b:08}{e080} イヴ {e081}{0b:09}\nはやく忘れましょ。\nどうにもならないことは、\nはやく忘れた方が幸せよ。{0c:1501}",
    "read": "{0c:3160007900a51000501651073a002b01f5fe}{0c:5108}{1c:10}{0b:08}【 イヴ 】{0b:09}\nはやく忘れましょ。\nどうにもならないことは、\nはやく忘れた方が幸せよ。{0c:1501}",
    "raw": null,
-   "en": "{0c:3160007900a51000501651073a002b01f5fe}{0c:5108}{1c:10}{0b:08}【 Eve 】{0b:09}\nLet's forget it quickly. What can't be\nhelped is better forgotten quickly, you\nknow.{0c:1501}",
+   "en": "{0c:3160007900a51000501651073a002b01f5fe}{0c:5108}{1c:10}{0b:08}【 Eve 】{0b:09}\nLet's forget it quickly. What can't be\nhelped is better forgotten quickly,\nyou know.{0c:1501}",
    "status": "done",
    "tl": "Let's forget it quickly. What can't be helped is better forgotten quickly, you know."
   },
@@ -1112,7 +1112,7 @@
    "jp": "{1c:10}いいわよ。\nでも、死人のために戦う気はないわ。\nあたしはいつも{e09a}りに\nやらしてもらうから。",
    "read": "{1c:10}いいわよ。\nでも、死人のために戦う気はないわ。\nあたしはいつも通りに\nやらしてもらうから。",
    "raw": null,
-   "en": "{1c:10}All right. But I've no intention of fighting\nfor the dead. I'll be doing things my usual\nway.",
+   "en": "{1c:10}All right. But I've no intention of fighting\nfor the dead. I'll be doing things my\nusual way.",
    "status": "done",
    "tl": "All right. But I've no intention of fighting for the dead. I'll be doing things my usual way."
   },
@@ -1136,7 +1136,7 @@
    "jp": "{1c:10}じゃあね。\n生きてたらまた{e084}いましょ。",
    "read": "{1c:10}じゃあね。\n生きてたらまた会いましょ。",
    "raw": null,
-   "en": "{1c:10}See you. If we're alive, we'll meet again, I\nsuppose.",
+   "en": "{1c:10}See you. If we're alive, we'll meet again,\nI suppose.",
    "status": "done",
    "tl": "See you. If we're alive, we'll meet again, I suppose."
   },
@@ -1159,7 +1159,7 @@
    "jp": "{0c:5108}{1c:10}{0b:08}{e080} イヴ {e081}{0b:09}\nはやく忘れましょ。\nどうにもならないことは、\nはやく忘れた方が幸せよ。{0c:2b50091501}",
    "read": "{0c:5108}{1c:10}{0b:08}【 イヴ 】{0b:09}\nはやく忘れましょ。\nどうにもならないことは、\nはやく忘れた方が幸せよ。{0c:2b50091501}",
    "raw": null,
-   "en": "{0c:5108}{1c:10}{0b:08}【 Eve 】{0b:09}\nLet's forget it quickly. What can't be\nhelped is better forgotten quickly, you\nknow.{0c:2b50091501}",
+   "en": "{0c:5108}{1c:10}{0b:08}【 Eve 】{0b:09}\nLet's forget it quickly. What can't be\nhelped is better forgotten quickly,\nyou know.{0c:2b50091501}",
    "status": "done",
    "tl": "Let's forget it quickly. What can't be helped is better forgotten quickly, you know."
   },
@@ -1300,7 +1300,7 @@
    "jp": "{1c:10}{0b:08}{e080} イヴ {e081}{0b:09}\nじゃあね。\n生きてたらまた{e084}いましょ。",
    "read": "{1c:10}{0b:08}【 イヴ 】{0b:09}\nじゃあね。\n生きてたらまた会いましょ。",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Eve 】{0b:09}\nSee you. If we're alive, we'll meet again, I\nsuppose.",
+   "en": "{1c:10}{0b:08}【 Eve 】{0b:09}\nSee you. If we're alive, we'll meet again,\nI suppose.",
    "status": "done",
    "tl": "See you. If we're alive, we'll meet again, I suppose."
   },
@@ -1335,7 +1335,7 @@
    "jp": "{1c:10}{0b:08}{e080} イヴ {e081}{0b:09}\nじゃあね。\n生きてたらまた{e084}いましょ。",
    "read": "{1c:10}{0b:08}【 イヴ 】{0b:09}\nじゃあね。\n生きてたらまた会いましょ。",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Eve 】{0b:09}\nSee you. If we're alive, we'll meet again, I\nsuppose.",
+   "en": "{1c:10}{0b:08}【 Eve 】{0b:09}\nSee you. If we're alive, we'll meet again,\nI suppose.",
    "status": "done",
    "tl": "See you. If we're alive, we'll meet again, I suppose."
   },
@@ -1452,7 +1452,7 @@
    "jp": "{0c:3160007900a51000501651073a002b01f5fe}{1c:10}あなたならやると思ったわ。\n{0c:5108}で、どう? 今の気持ちは。{0c:1501}",
    "read": "{0c:3160007900a51000501651073a002b01f5fe}{1c:10}あなたならやると思ったわ。\n{0c:5108}で、どう? 今の気持ちは。{0c:1501}",
    "raw": null,
-   "en": "{0c:3160007900a51000501651073a002b01f5fe}{1c:10}I knew you'd do it. {0c:5108}So, how do you feel\nnow?{0c:1501}",
+   "en": "{0c:3160007900a51000501651073a002b01f5fe}{1c:10}I knew you'd do it. {0c:5108}So, how do you\nfeel now?{0c:1501}",
    "status": "done",
    "tl": "I knew you'd do it. [1]So, how do you feel now?"
   },
@@ -1522,7 +1522,7 @@
    "jp": "{1c:10}嫌われ者の割には人気あるじゃない。\n{0c:5108}{e0a7}気あいあいって感じには\n見えないけど。{0c:1501}",
    "read": "{1c:10}嫌われ者の割には人気あるじゃない。\n{0c:5108}和気あいあいって感じには\n見えないけど。{0c:1501}",
    "raw": null,
-   "en": "{1c:10}You're quite popular, for someone so\nhated. {0c:5108}Though it doesn't look all that\nharmonious.{0c:1501}",
+   "en": "{1c:10}You're quite popular, for someone so\nhated. {0c:5108}Though it doesn't look all\nthat harmonious.{0c:1501}",
    "status": "done",
    "tl": "You're quite popular, for someone so hated. [1]Though it doesn't look all that harmonious."
   },
@@ -1545,7 +1545,7 @@
    "jp": "あたしも弱い人間って\n嫌いじゃないわよ。\nあなたの場合は別だけど。{0c:15}",
    "read": "あたしも弱い人間って\n嫌いじゃないわよ。\nあなたの場合は別だけど。{0c:15}",
    "raw": null,
-   "en": "I don't mind weak people either, you\nknow. With you, though, it's another\nmatter.{0c:15}",
+   "en": "I don't mind weak people either, you\nknow. With you, though, it's\nanother matter.{0c:15}",
    "status": "done",
    "tl": "I don't mind weak people either, you know. With you, though, it's another matter."
   },
@@ -1593,7 +1593,7 @@
    "jp": "{0c:3160007900a51000501651073a002b01f5fe}{1c:10}あなたならやると思ったわ。\n{0c:5108}で、どう? 今の気持ちは。{0c:1501}",
    "read": "{0c:3160007900a51000501651073a002b01f5fe}{1c:10}あなたならやると思ったわ。\n{0c:5108}で、どう? 今の気持ちは。{0c:1501}",
    "raw": null,
-   "en": "{0c:3160007900a51000501651073a002b01f5fe}{1c:10}I knew you'd do it. {0c:5108}So, how do you feel\nnow?{0c:1501}",
+   "en": "{0c:3160007900a51000501651073a002b01f5fe}{1c:10}I knew you'd do it. {0c:5108}So, how do you\nfeel now?{0c:1501}",
    "status": "done",
    "tl": "I knew you'd do it. [1]So, how do you feel now?"
   },
@@ -1652,7 +1652,7 @@
    "jp": "{1c:10}嫌われ者の割には人気あるじゃない。\n{0c:5108}{e0a7}気あいあいって感じには\n見えないけど。{0c:1501}",
    "read": "{1c:10}嫌われ者の割には人気あるじゃない。\n{0c:5108}和気あいあいって感じには\n見えないけど。{0c:1501}",
    "raw": null,
-   "en": "{1c:10}You're quite popular, for someone so\nhated. {0c:5108}Though it doesn't look all that\nharmonious.{0c:1501}",
+   "en": "{1c:10}You're quite popular, for someone so\nhated. {0c:5108}Though it doesn't look all\nthat harmonious.{0c:1501}",
    "status": "done",
    "tl": "You're quite popular, for someone so hated. [1]Though it doesn't look all that harmonious."
   },
@@ -1722,7 +1722,7 @@
    "jp": "{1c:10}ここに来た理由は{e0ab}にナシ、\n{0c:521a1b}好きなモノはこれ、{1a}趣味は・{07:05}・{07:05}・{07:0a}そうね、相手の感情を\n{e0ac}撫でして喜ぶことかしら。\n自{e0ae}{e0af}{e0b0}はこれくらいでいい?{0c:1501}",
    "read": "{1c:10}ここに来た理由は特にナシ、\n{0c:521a1b}好きなモノはこれ、{1a}趣味は・{07:05}・{07:05}・{07:0a}そうね、相手の感情を\n逆撫でして喜ぶことかしら。\n自己紹介はこれくらいでいい?{0c:1501}",
    "raw": null,
-   "en": "{1c:10}No particular reason for coming here,\n{0c:521a1b}what I like is this,{1a}and my hobby is.{07:05}.{07:05}.{07:0a} let me see, enjoying\nrubbing people's feelings the wrong way, I\nsuppose. Is that enough of an\nintroduction?{0c:1501}",
+   "en": "{1c:10}No particular reason for coming here,\n{0c:521a1b}what I like is this,{1a}and my hobby is.{07:05}.{07:05}.{07:0a} let me see, enjoying\nrubbing people's feelings the wrong way, I\nsuppose. Is that enough of\nan introduction?{0c:1501}",
    "status": "done",
    "tl": "No particular reason for coming here, [1]what I like is this, // and my hobby is.[2].[3].[4] let me see, enjoying rubbing people's feelings the wrong way, I suppose. Is that enough of an introduction?"
   },
@@ -1792,7 +1792,7 @@
    "jp": "{0c:3160007900a51000501651063a002b01f5fe35}{1c:10}{0b:08}{e080} イヴ {e081}{0b:09}\nふうん・・・ \nもう行くの? マジメな人達ね。{0c:15}",
    "read": "{0c:3160007900a51000501651063a002b01f5fe35}{1c:10}{0b:08}【 イヴ 】{0b:09}\nふうん・・・ \nもう行くの? マジメな人達ね。{0c:15}",
    "raw": null,
-   "en": "{0c:3160007900a51000501651063a002b01f5fe35}{1c:10}{0b:08}【 Eve 】{0b:09}\nHmm... Going already? What diligent\npeople.{0c:15}",
+   "en": "{0c:3160007900a51000501651063a002b01f5fe35}{1c:10}{0b:08}【 Eve 】{0b:09}\nHmm... Going already? What\ndiligent people.{0c:15}",
    "status": "done",
    "tl": "Hmm... Going already? What diligent people."
   },
@@ -1827,7 +1827,7 @@
    "jp": "{1c:10}ここに来た理由は{e0ab}にナシ、\n{0c:521a1b}好きなモノはこれ、{1a}趣味は・・・{07:14}そうね、相手の感情を\n{e0ac}撫でして喜ぶことかしら。{07:05}\n自{e0ae}{e0af}{e0b0}はこれくらいでいい?{07:05}{0c:1501}",
    "read": "{1c:10}ここに来た理由は特にナシ、\n{0c:521a1b}好きなモノはこれ、{1a}趣味は・・・{07:14}そうね、相手の感情を\n逆撫でして喜ぶことかしら。{07:05}\n自己紹介はこれくらいでいい?{07:05}{0c:1501}",
    "raw": null,
-   "en": "{1c:10}No particular reason for coming here,\n{0c:521a1b}what I like is this,{1a}and my hobby is...{07:14} let me see, enjoying\nrubbing people's feelings the wrong way, I\nsuppose.{07:05} Is that enough of an\nintroduction?{07:05}{0c:1501}",
+   "en": "{1c:10}No particular reason for coming here,\n{0c:521a1b}what I like is this,{1a}and my hobby is...{07:14} let me see, enjoying\nrubbing people's feelings the wrong way, I\nsuppose.{07:05} Is that enough of\nan introduction?{07:05}{0c:1501}",
    "status": "done",
    "tl": "No particular reason for coming here, [1]what I like is this, // and my hobby is...[2] let me see, enjoying rubbing people's feelings the wrong way, I suppose.[3] Is that enough of an introduction?"
   },
@@ -1850,7 +1850,7 @@
    "jp": "{1c:10}じゃあね。\n生きてたらまた{e084}いましょ。",
    "read": "{1c:10}じゃあね。\n生きてたらまた会いましょ。",
    "raw": null,
-   "en": "{1c:10}See you. If we're alive, we'll meet again, I\nsuppose.",
+   "en": "{1c:10}See you. If we're alive, we'll meet again,\nI suppose.",
    "status": "done",
    "tl": "See you. If we're alive, we'll meet again, I suppose."
   },
@@ -1896,7 +1896,7 @@
    "jp": "{1c:10}ここに来た理由は{e0ab}にナシ、\n{0c:521a1b}好きなモノはこれ、{1a}趣味は・{07:05}・{07:05}・{07:0a}そうね、相手の感情を\n{e0ac}撫でして喜ぶことかしら。\n自{e0ae}{e0af}{e0b0}はこれくらいでいい?{0c:2b50091501}",
    "read": "{1c:10}ここに来た理由は特にナシ、\n{0c:521a1b}好きなモノはこれ、{1a}趣味は・{07:05}・{07:05}・{07:0a}そうね、相手の感情を\n逆撫でして喜ぶことかしら。\n自己紹介はこれくらいでいい?{0c:2b50091501}",
    "raw": null,
-   "en": "{1c:10}No particular reason for coming here,\n{0c:521a1b}what I like is this,{1a}and my hobby is.{07:05}.{07:05}.{07:0a} let me see, enjoying\nrubbing people's feelings the wrong way, I\nsuppose. Is that enough of an\nintroduction?{0c:2b50091501}",
+   "en": "{1c:10}No particular reason for coming here,\n{0c:521a1b}what I like is this,{1a}and my hobby is.{07:05}.{07:05}.{07:0a} let me see, enjoying\nrubbing people's feelings the wrong way, I\nsuppose. Is that enough of\nan introduction?{0c:2b50091501}",
    "status": "done",
    "tl": "No particular reason for coming here, [1]what I like is this, // and my hobby is.[2].[3].[4] let me see, enjoying rubbing people's feelings the wrong way, I suppose. Is that enough of an introduction?"
   },
@@ -1944,7 +1944,7 @@
    "jp": "{1c:10}{0b:08}{e080} イヴ {e081}{0b:09}\nつまらないこと言うのね・・・\nひょっとして\n運命とか使命だとか信じてるクチ?{0c:2b50091501}",
    "read": "{1c:10}{0b:08}【 イヴ 】{0b:09}\nつまらないこと言うのね・・・\nひょっとして\n運命とか使命だとか信じてるクチ?{0c:2b50091501}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Eve 】{0b:09}\nWhat a dull thing to say... Could it be\nyou're the type who believes in fate and\nduty?{0c:2b50091501}",
+   "en": "{1c:10}{0b:08}【 Eve 】{0b:09}\nWhat a dull thing to say... Could it be\nyou're the type who believes in fate\nand duty?{0c:2b50091501}",
    "status": "done",
    "tl": "What a dull thing to say... Could it be you're the type who believes in fate and duty?"
   },
@@ -1968,7 +1968,7 @@
    "jp": "{1c:10}{0b:08}{e080} イヴ {e081}{0b:09}\n別にいけなくはないわ。\nでも、あたしの前でそれを\n{e0b1}く語りだすのは勘弁してね。{1a}そういう話、\n聞いてて1番退屈だから。{0c:2b50091501}",
    "read": "{1c:10}{0b:08}【 イヴ 】{0b:09}\n別にいけなくはないわ。\nでも、あたしの前でそれを\n熱く語りだすのは勘弁してね。{1a}そういう話、\n聞いてて1番退屈だから。{0c:2b50091501}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Eve 】{0b:09}\nNot particularly. But spare me the\npassionate speeches about it, won't you.{1a}Those are the dullest stories to listen\nto.{0c:2b50091501}",
+   "en": "{1c:10}{0b:08}【 Eve 】{0b:09}\nNot particularly. But spare me the\npassionate speeches about it, won't you.{1a}Those are the dullest stories to\nlisten to.{0c:2b50091501}",
    "status": "done",
    "tl": "Not particularly. But spare me the passionate speeches about it, won't you. // Those are the dullest stories to listen to."
   },
@@ -2084,7 +2084,7 @@
    "jp": "{1c:10}ここに来た理由は{e0ab}にナシ、\n{0c:521a1b}好きなモノはこれ、{1a}趣味は・・・{07:14}そうね、相手の感情を\n{e0ac}撫でして喜ぶことかしら。{07:05}\n自{e0ae}{e0af}{e0b0}はこれくらいでいい?{07:05}{0c:2b50091501}",
    "read": "{1c:10}ここに来た理由は特にナシ、\n{0c:521a1b}好きなモノはこれ、{1a}趣味は・・・{07:14}そうね、相手の感情を\n逆撫でして喜ぶことかしら。{07:05}\n自己紹介はこれくらいでいい?{07:05}{0c:2b50091501}",
    "raw": null,
-   "en": "{1c:10}No particular reason for coming here,\n{0c:521a1b}what I like is this,{1a}and my hobby is...{07:14} let me see, enjoying\nrubbing people's feelings the wrong way, I\nsuppose.{07:05} Is that enough of an\nintroduction?{07:05}{0c:2b50091501}",
+   "en": "{1c:10}No particular reason for coming here,\n{0c:521a1b}what I like is this,{1a}and my hobby is...{07:14} let me see, enjoying\nrubbing people's feelings the wrong way, I\nsuppose.{07:05} Is that enough of\nan introduction?{07:05}{0c:2b50091501}",
    "status": "done",
    "tl": "No particular reason for coming here, [1]what I like is this, // and my hobby is...[2] let me see, enjoying rubbing people's feelings the wrong way, I suppose.[3] Is that enough of an introduction?"
   },
@@ -2132,7 +2132,7 @@
    "jp": "{1c:10}{0b:08}{e080} イヴ {e081}{0b:09}\nつまらないこと言うのね・・・\nひょっとして\n運命とか使命だとか信じてるクチ?{0c:2b50091501}",
    "read": "{1c:10}{0b:08}【 イヴ 】{0b:09}\nつまらないこと言うのね・・・\nひょっとして\n運命とか使命だとか信じてるクチ?{0c:2b50091501}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Eve 】{0b:09}\nWhat a dull thing to say... Could it be\nyou're the type who believes in fate and\nduty?{0c:2b50091501}",
+   "en": "{1c:10}{0b:08}【 Eve 】{0b:09}\nWhat a dull thing to say... Could it be\nyou're the type who believes in fate\nand duty?{0c:2b50091501}",
    "status": "done",
    "tl": "What a dull thing to say... Could it be you're the type who believes in fate and duty?"
   },
@@ -2156,7 +2156,7 @@
    "jp": "{1c:10}{0b:08}{e080} イヴ {e081}{0b:09}\n別にいけなくはないわ。\nでも、あたしの前でそれを\n{e0b1}く語りだすのは勘弁してね。{1a}{0c:5106}そういう話、\n聞いてて1番退屈だから。{0c:2b50091501}",
    "read": "{1c:10}{0b:08}【 イヴ 】{0b:09}\n別にいけなくはないわ。\nでも、あたしの前でそれを\n熱く語りだすのは勘弁してね。{1a}{0c:5106}そういう話、\n聞いてて1番退屈だから。{0c:2b50091501}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Eve 】{0b:09}\nNot particularly. But spare me the\npassionate speeches about it, won't you.{1a}{0c:5106}Those are the dullest stories to listen\nto.{0c:2b50091501}",
+   "en": "{1c:10}{0b:08}【 Eve 】{0b:09}\nNot particularly. But spare me the\npassionate speeches about it, won't you.{1a}{0c:5106}Those are the dullest stories to\nlisten to.{0c:2b50091501}",
    "status": "done",
    "tl": "Not particularly. But spare me the passionate speeches about it, won't you. // [1]Those are the dullest stories to listen to."
   },
@@ -2191,7 +2191,7 @@
    "jp": "{1c:10}{0b:08}{e080} イヴ {e081}{0b:09}\nじゃあね。\n生きてたらまた{e084}いましょ。",
    "read": "{1c:10}{0b:08}【 イヴ 】{0b:09}\nじゃあね。\n生きてたらまた会いましょ。",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Eve 】{0b:09}\nSee you. If we're alive, we'll meet again, I\nsuppose.",
+   "en": "{1c:10}{0b:08}【 Eve 】{0b:09}\nSee you. If we're alive, we'll meet again,\nI suppose.",
    "status": "done",
    "tl": "See you. If we're alive, we'll meet again, I suppose."
   },
@@ -2237,7 +2237,7 @@
    "jp": "{1c:10}ここに来た理由は{e0ab}にナシ、\n{0c:521a1b}好きなモノはこれ、{1a}趣味は・・・{07:14}そうね、相手の感情を\n{e0ac}撫でして喜ぶことかしら。{07:05}\n自{e0ae}{e0af}{e0b0}はこれくらいでいい?{07:05}{0c:2b50091501}",
    "read": "{1c:10}ここに来た理由は特にナシ、\n{0c:521a1b}好きなモノはこれ、{1a}趣味は・・・{07:14}そうね、相手の感情を\n逆撫でして喜ぶことかしら。{07:05}\n自己紹介はこれくらいでいい?{07:05}{0c:2b50091501}",
    "raw": null,
-   "en": "{1c:10}No particular reason for coming here,\n{0c:521a1b}what I like is this,{1a}and my hobby is...{07:14} let me see, enjoying\nrubbing people's feelings the wrong way, I\nsuppose.{07:05} Is that enough of an\nintroduction?{07:05}{0c:2b50091501}",
+   "en": "{1c:10}No particular reason for coming here,\n{0c:521a1b}what I like is this,{1a}and my hobby is...{07:14} let me see, enjoying\nrubbing people's feelings the wrong way, I\nsuppose.{07:05} Is that enough of\nan introduction?{07:05}{0c:2b50091501}",
    "status": "done",
    "tl": "No particular reason for coming here, [1]what I like is this, // and my hobby is...[2] let me see, enjoying rubbing people's feelings the wrong way, I suppose.[3] Is that enough of an introduction?"
   },
@@ -2297,7 +2297,7 @@
    "jp": "{0c:520304}{1c:17}{0b:08}{e080} ジェシカ {e081}{0b:09}\nうん、期待しないで待ってるよ。{0c:290c091501}",
    "read": "{0c:520304}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nうん、期待しないで待ってるよ。{0c:290c091501}",
    "raw": null,
-   "en": "{0c:520304}{1c:17}{0b:08}【 Jessica 】{0b:09}\nYeah, I'll wait without getting my hopes\nup.{0c:290c091501}",
+   "en": "{0c:520304}{1c:17}{0b:08}【 Jessica 】{0b:09}\nYeah, I'll wait without getting my\nhopes up.{0c:290c091501}",
    "status": "done",
    "tl": "Yeah, I'll wait without getting my hopes up."
   },
@@ -2413,7 +2413,7 @@
    "jp": "{1c:10}ここに来た理由は{e0ab}にナシ、\n{0c:521a1b}好きなモノはこれ、{1a}趣味は・・・{07:14}そうね、相手の感情を\n{e0ac}撫でして喜ぶことかしら。\n自{e0ae}{e0af}{e0b0}はこれくらいでいい?{07:05}{0c:2b50091501}",
    "read": "{1c:10}ここに来た理由は特にナシ、\n{0c:521a1b}好きなモノはこれ、{1a}趣味は・・・{07:14}そうね、相手の感情を\n逆撫でして喜ぶことかしら。\n自己紹介はこれくらいでいい?{07:05}{0c:2b50091501}",
    "raw": null,
-   "en": "{1c:10}No particular reason for coming here,\n{0c:521a1b}what I like is this,{1a}and my hobby is...{07:14} let me see, enjoying\nrubbing people's feelings the wrong way, I\nsuppose. Is that enough of an\nintroduction?{07:05}{0c:2b50091501}",
+   "en": "{1c:10}No particular reason for coming here,\n{0c:521a1b}what I like is this,{1a}and my hobby is...{07:14} let me see, enjoying\nrubbing people's feelings the wrong way, I\nsuppose. Is that enough of\nan introduction?{07:05}{0c:2b50091501}",
    "status": "done",
    "tl": "No particular reason for coming here, [1]what I like is this, // and my hobby is...[2] let me see, enjoying rubbing people's feelings the wrong way, I suppose. Is that enough of an introduction?"
   },
@@ -2473,7 +2473,7 @@
    "jp": "{0c:520304}{1c:17}{0b:08}{e080} ジェシカ {e081}{0b:09}\nうん、期待しないで待ってるよ。{0c:290c091501}",
    "read": "{0c:520304}{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nうん、期待しないで待ってるよ。{0c:290c091501}",
    "raw": null,
-   "en": "{0c:520304}{1c:17}{0b:08}【 Jessica 】{0b:09}\nYeah, I'll wait without getting my hopes\nup.{0c:290c091501}",
+   "en": "{0c:520304}{1c:17}{0b:08}【 Jessica 】{0b:09}\nYeah, I'll wait without getting my\nhopes up.{0c:290c091501}",
    "status": "done",
    "tl": "Yeah, I'll wait without getting my hopes up."
   },
@@ -2496,7 +2496,7 @@
    "jp": "{1c:10}{0b:08}{e080} イヴ {e081}{0b:09}\nじゃあね。\n生きてたらまた{e084}いましょ。",
    "read": "{1c:10}{0b:08}【 イヴ 】{0b:09}\nじゃあね。\n生きてたらまた会いましょ。",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Eve 】{0b:09}\nSee you. If we're alive, we'll meet again, I\nsuppose.",
+   "en": "{1c:10}{0b:08}【 Eve 】{0b:09}\nSee you. If we're alive, we'll meet again,\nI suppose.",
    "status": "done",
    "tl": "See you. If we're alive, we'll meet again, I suppose."
   },
@@ -2612,7 +2612,7 @@
    "jp": "{0c:3160007900a51000501651063a002b01f5fe}{1c:10}{0b:08}{e080} イヴ {e081}{0b:09}\nふうん・・・ \nもう行くの? マジメな人達ね。{0c:15}",
    "read": "{0c:3160007900a51000501651063a002b01f5fe}{1c:10}{0b:08}【 イヴ 】{0b:09}\nふうん・・・ \nもう行くの? マジメな人達ね。{0c:15}",
    "raw": null,
-   "en": "{0c:3160007900a51000501651063a002b01f5fe}{1c:10}{0b:08}【 Eve 】{0b:09}\nHmm... Going already? What diligent\npeople.{0c:15}",
+   "en": "{0c:3160007900a51000501651063a002b01f5fe}{1c:10}{0b:08}【 Eve 】{0b:09}\nHmm... Going already? What\ndiligent people.{0c:15}",
    "status": "done",
    "tl": "Hmm... Going already? What diligent people."
   },
@@ -2624,7 +2624,7 @@
    "jp": "{1c:10}じゃあね。\n生きてたらまた{e084}いましょ。",
    "read": "{1c:10}じゃあね。\n生きてたらまた会いましょ。",
    "raw": null,
-   "en": "{1c:10}See you. If we're alive, we'll meet again, I\nsuppose.",
+   "en": "{1c:10}See you. If we're alive, we'll meet again,\nI suppose.",
    "status": "done",
    "tl": "See you. If we're alive, we'll meet again, I suppose."
   },
@@ -2707,7 +2707,7 @@
    "jp": "{1c:10}じゃあね。\n生きてたらまた{e084}いましょ。",
    "read": "{1c:10}じゃあね。\n生きてたらまた会いましょ。",
    "raw": null,
-   "en": "{1c:10}See you. If we're alive, we'll meet again, I\nsuppose.",
+   "en": "{1c:10}See you. If we're alive, we'll meet again,\nI suppose.",
    "status": "done",
    "tl": "See you. If we're alive, we'll meet again, I suppose."
   },
@@ -2743,7 +2743,7 @@
    "jp": "{1c:10}ストレス発散のつもりなら\n余所でやって。",
    "read": "{1c:10}ストレス発散のつもりなら\n余所でやって。",
    "raw": null,
-   "en": "{1c:10}If you're blowing off steam, do it\nelsewhere.",
+   "en": "{1c:10}If you're blowing off steam, do\nit elsewhere.",
    "status": "done",
    "tl": "If you're blowing off steam, do it elsewhere."
   },
@@ -3136,7 +3136,7 @@
    "jp": "{1c:10}滑稽ね。\nもちろんあなたのことよ。\n満足した?",
    "read": "{1c:10}滑稽ね。\nもちろんあなたのことよ。\n満足した?",
    "raw": null,
-   "en": "{1c:10}How comical. You, I mean, of course.\nSatisfied?",
+   "en": "{1c:10}How comical. You, I mean, of\ncourse. Satisfied?",
    "status": "done",
    "tl": "How comical. You, I mean, of course. Satisfied?"
   },
@@ -3148,7 +3148,7 @@
    "jp": "{1c:10}滑稽ね。\nもちろんあなたのことよ。\nあなたの頭の中\nどうなってるか知りたいわ。",
    "read": "{1c:10}滑稽ね。\nもちろんあなたのことよ。\nあなたの頭の中\nどうなってるか知りたいわ。",
    "raw": null,
-   "en": "{1c:10}How comical. You, I mean, of course. I'd\nlove to know what goes on inside your\nhead.",
+   "en": "{1c:10}How comical. You, I mean, of course. I'd\nlove to know what goes on inside\nyour head.",
    "status": "done",
    "tl": "How comical. You, I mean, of course. I'd love to know what goes on inside your head."
   }

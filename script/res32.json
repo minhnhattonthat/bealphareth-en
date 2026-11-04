@@ -30,9 +30,9 @@
    "jp": "({e080})\n久{e082}の人間だのぉ{75}{75}{75}\nお前を{e083}べちまおうかなぁ{75}{75}\n{07:05}・{07:05}・{07:05}・{07:05}・{07:05}・{07:05}・{1a}({e080})\n何か{e083}べ物をもってきたら\nお前は{e083}べないでいてやろう{75}{75}",
    "read": "(仮)\n久々の人間だのぉ{75}{75}{75}\nお前を食べちまおうかなぁ{75}{75}\n{07:05}・{07:05}・{07:05}・{07:05}・{07:05}・{07:05}・{1a}(仮)\n何か食べ物をもってきたら\nお前は食べないでいてやろう{75}{75}",
    "raw": null,
-   "en": "...{02}{75}{02}{75}",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A human, after so long{02}{75}{02}{75}{02}{75}... Maybe I'll just\neat you{02}{75}{02}{75}...{07:05}.{07:05}.{07:05}.{07:05}.{07:05}.{07:05}.{1a}Bring me some food, and I won't eat you.{02}{75}{02}{75}",
+   "status": "done",
+   "tl": "A human, after so long[1]... Maybe I'll just eat you[2]...[3].[4].[5].[6].[7].[8]. // Bring me some food, and I won't eat you."
   },
   {
    "id": "RES#32:d3a4",
@@ -42,9 +42,9 @@
    "jp": "({e080})\n早く何か{e083}べ物をもってこい{75}{75}",
    "read": "(仮)\n早く何か食べ物をもってこい{75}{75}",
    "raw": null,
-   "en": "...{02}{75}{02}{75}",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Hurry up and bring me some food.{02}{75}{02}{75}",
+   "status": "done",
+   "tl": "Hurry up and bring me some food."
   },
   {
    "id": "RES#32:d3bf",
@@ -54,9 +54,9 @@
    "jp": "({e080})\nぜんぜん足りんぞ{75}{75}",
    "read": "(仮)\nぜんぜん足りんぞ{75}{75}",
    "raw": null,
-   "en": "...{02}{75}{02}{75}",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "That's not nearly enough.{02}{75}{02}{75}",
+   "status": "done",
+   "tl": "That's not nearly enough."
   },
   {
    "id": "RES#32:d3d2",
@@ -66,9 +66,9 @@
    "jp": "({e080})\nふ{75}{75}{75}。うっぷ。\n最後にお前を{e083}ってやろうと思ったのに{1a}({e080})\n{07:05}ぐ{75}{07:05}が{75}{07:05}ぐ{75}{07:05}が{75}\n{07:05}ぐ{75}{07:05}が{75}{07:05}ぐ{75}{07:05}が{75}{1a}",
    "read": "(仮)\nふ{75}{75}{75}。うっぷ。\n最後にお前を食ってやろうと思ったのに{1a}(仮)\n{07:05}ぐ{75}{07:05}が{75}{07:05}ぐ{75}{07:05}が{75}\n{07:05}ぐ{75}{07:05}が{75}{07:05}ぐ{75}{07:05}が{75}{1a}",
    "raw": null,
-   "en": "...{02}{75}{1a}",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Whew{02}{75}{02}{75}{02}{75}. Urp. And I meant to eat you last\nof all...{1a}{07:05}Z{02}{75}{07:05}z{02}{75}{07:05}z{02}{75}{07:05}z{02}{75} {07:05}Z{02}{75}{07:05}z{02}{75}{07:05}z{02}{75}{07:05}z{02}{75}{1a}",
+   "status": "done",
+   "tl": "Whew[1]. Urp. And I meant to eat you last of all... // [2]Z[3]z[4]z[5]z[6] [7]Z[8]z[9]z[10]z"
   },
   {
    "id": "RES#32:d425",
@@ -78,9 +78,9 @@
    "jp": "({e080})\nなかなかうまいじゃないかぁ{75}{75}",
    "read": "(仮)\nなかなかうまいじゃないかぁ{75}{75}",
    "raw": null,
-   "en": "...{02}{75}{02}{75}",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Well now, that's pretty tasty.{02}{75}{02}{75}",
+   "status": "done",
+   "tl": "Well now, that's pretty tasty."
   },
   {
    "id": "RES#32:d43c",
@@ -90,9 +90,9 @@
    "jp": "({e080})\nこんな物{e083}えるかぁ{75}{75}",
    "read": "(仮)\nこんな物食えるかぁ{75}{75}",
    "raw": null,
-   "en": "...{02}{75}{02}{75}",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Who could eat this stuff!{02}{75}{02}{75}",
+   "status": "done",
+   "tl": "Who could eat this stuff!"
   },
   {
    "id": "RES#32:d451",
@@ -822,9 +822,9 @@
    "jp": "壊せない{e08a}({e080})",
    "read": "壊せない柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that cannot be broken.",
+   "status": "done",
+   "tl": "A pillar that cannot be broken."
   },
   {
    "id": "RES#32:d742",
@@ -834,9 +834,9 @@
    "jp": "壊せない{e08a}({e080})",
    "read": "壊せない柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that cannot be broken.",
+   "status": "done",
+   "tl": "A pillar that cannot be broken."
   },
   {
    "id": "RES#32:d74f",
@@ -846,9 +846,9 @@
    "jp": "壊せない{e08a}({e080})",
    "read": "壊せない柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that cannot be broken.",
+   "status": "done",
+   "tl": "A pillar that cannot be broken."
   },
   {
    "id": "RES#32:d75c",
@@ -858,9 +858,9 @@
    "jp": "壊せない{e08a}({e080})",
    "read": "壊せない柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that cannot be broken.",
+   "status": "done",
+   "tl": "A pillar that cannot be broken."
   },
   {
    "id": "RES#32:d769",
@@ -870,9 +870,9 @@
    "jp": "壊せない{e08a}({e080})",
    "read": "壊せない柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that cannot be broken.",
+   "status": "done",
+   "tl": "A pillar that cannot be broken."
   },
   {
    "id": "RES#32:d776",
@@ -882,9 +882,9 @@
    "jp": "壊せない{e08a}({e080})",
    "read": "壊せない柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that cannot be broken.",
+   "status": "done",
+   "tl": "A pillar that cannot be broken."
   },
   {
    "id": "RES#32:d783",
@@ -894,9 +894,9 @@
    "jp": "壊せない{e08a}({e080})",
    "read": "壊せない柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that cannot be broken.",
+   "status": "done",
+   "tl": "A pillar that cannot be broken."
   },
   {
    "id": "RES#32:d790",
@@ -906,9 +906,9 @@
    "jp": "壊せない{e08a}({e080})",
    "read": "壊せない柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that cannot be broken.",
+   "status": "done",
+   "tl": "A pillar that cannot be broken."
   },
   {
    "id": "RES#32:d79d",
@@ -918,9 +918,9 @@
    "jp": "壊せない{e08a}({e080})",
    "read": "壊せない柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that cannot be broken.",
+   "status": "done",
+   "tl": "A pillar that cannot be broken."
   },
   {
    "id": "RES#32:d7aa",
@@ -930,9 +930,9 @@
    "jp": "壊せない{e08a}({e080})",
    "read": "壊せない柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that cannot be broken.",
+   "status": "done",
+   "tl": "A pillar that cannot be broken."
   },
   {
    "id": "RES#32:d7b7",
@@ -942,9 +942,9 @@
    "jp": "壊せない{e08a}({e080})",
    "read": "壊せない柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that cannot be broken.",
+   "status": "done",
+   "tl": "A pillar that cannot be broken."
   },
   {
    "id": "RES#32:d7c4",
@@ -954,9 +954,9 @@
    "jp": "壊せない{e08a}({e080})",
    "read": "壊せない柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that cannot be broken.",
+   "status": "done",
+   "tl": "A pillar that cannot be broken."
   },
   {
    "id": "RES#32:d7d1",
@@ -966,9 +966,9 @@
    "jp": "壊せない{e08a}({e080})",
    "read": "壊せない柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that cannot be broken.",
+   "status": "done",
+   "tl": "A pillar that cannot be broken."
   },
   {
    "id": "RES#32:d7de",
@@ -978,9 +978,9 @@
    "jp": "壊せない{e08a}({e080})",
    "read": "壊せない柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that cannot be broken.",
+   "status": "done",
+   "tl": "A pillar that cannot be broken."
   },
   {
    "id": "RES#32:d7eb",
@@ -990,9 +990,9 @@
    "jp": "壊せない{e08a}({e080})",
    "read": "壊せない柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that cannot be broken.",
+   "status": "done",
+   "tl": "A pillar that cannot be broken."
   },
   {
    "id": "RES#32:d7f8",
@@ -1002,9 +1002,9 @@
    "jp": "壊せない{e08a}({e080})",
    "read": "壊せない柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that cannot be broken.",
+   "status": "done",
+   "tl": "A pillar that cannot be broken."
   },
   {
    "id": "RES#32:d805",
@@ -1014,9 +1014,9 @@
    "jp": "壊せない{e08a}({e080})",
    "read": "壊せない柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that cannot be broken.",
+   "status": "done",
+   "tl": "A pillar that cannot be broken."
   },
   {
    "id": "RES#32:d812",
@@ -1026,9 +1026,9 @@
    "jp": "壊せない{e08a}({e080})",
    "read": "壊せない柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that cannot be broken.",
+   "status": "done",
+   "tl": "A pillar that cannot be broken."
   },
   {
    "id": "RES#32:d81f",
@@ -1038,9 +1038,9 @@
    "jp": "壊せない{e08a}({e080})",
    "read": "壊せない柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that cannot be broken.",
+   "status": "done",
+   "tl": "A pillar that cannot be broken."
   },
   {
    "id": "RES#32:d82c",
@@ -1050,9 +1050,9 @@
    "jp": "壊せない{e08a}({e080})",
    "read": "壊せない柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that cannot be broken.",
+   "status": "done",
+   "tl": "A pillar that cannot be broken."
   },
   {
    "id": "RES#32:d839",
@@ -3172,7 +3172,7 @@
    "jp": "{0b:08}{e090} イヴ {e091}{0b:09}\nさよなら。\nあなたのことは忘れないわ、多分ね。",
    "read": "{0b:08}【 イヴ 】{0b:09}\nさよなら。\nあなたのことは忘れないわ、多分ね。",
    "raw": null,
-   "en": "{0b:08}【 Eve 】{0b:09}\nGoodbye. I won't forget you... probably,\nanyway.",
+   "en": "{0b:08}【 Eve 】{0b:09}\nGoodbye. I won't forget you...\nprobably, anyway.",
    "status": "done",
    "tl": "Goodbye. I won't forget you... probably, anyway."
   },

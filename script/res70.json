@@ -41,7 +41,7 @@
    "jp": "{1c:12}{0b:08}{e080} ジェシカ {e081}{0b:09}\nなあんだ、\n思わせぶりに{e082}{e083}なんてしてるから\nもっと変わった所だと思ったよ。{1a}でも、今までとあんまり\n変わりないじゃん。\nちょっとジメジメしてるくらいでさ。{1a}でさ、この{e084}にあるんだよね、\nそのなんとかって植物は。{0c:021501}",
    "read": "{1c:12}{0b:08}【 ジェシカ 】{0b:09}\nなあんだ、\n思わせぶりに封印なんてしてるから\nもっと変わった所だと思ったよ。{1a}でも、今までとあんまり\n変わりないじゃん。\nちょっとジメジメしてるくらいでさ。{1a}でさ、この奥にあるんだよね、\nそのなんとかって植物は。{0c:021501}",
    "raw": null,
-   "en": "{1c:12}{0b:08}【 Jessica 】{0b:09}\nHuh, is that all? The way they went and\nsealed it up all mysterious, I figured it'd\nbe somewhere way stranger.{1a}But it's hardly any different from\nbefore. Just a little damper, is all.{1a}So anyway, it's down at the far end of\nhere, right? That whatever-it's-called\nplant.{0c:021501}",
+   "en": "{1c:12}{0b:08}【 Jessica 】{0b:09}\nHuh, is that all? The way they went and\nsealed it up all mysterious, I figured it'd\nbe somewhere way stranger.{1a}But it's hardly any different from\nbefore. Just a little damper, is all.{1a}So anyway, it's down at the far end of\nhere, right? That\nwhatever-it's-called plant.{0c:021501}",
    "status": "done",
    "tl": "Huh, is that all? The way they went and sealed it up all mysterious, I figured it'd be somewhere way stranger. // But it's hardly any different from before. Just a little damper, is all. // So anyway, it's down at the far end of here, right? That whatever-it's-called plant."
   },
@@ -64,7 +64,7 @@
    "jp": "{0b:08}{e080} サラ {e081}{0b:09}\nここが『{e086}の{e087}道』なんだ・・・\nこの{e084}にあるんだよね、\n『ラフメル』っていう植物って。{0c:021301}",
    "read": "{0b:08}【 サラ 】{0b:09}\nここが『青の羨道』なんだ・・・\nこの奥にあるんだよね、\n『ラフメル』っていう植物って。{0c:021301}",
    "raw": null,
-   "en": "{0b:08}【 Sara 】{0b:09}\nSo this is the 'Blue Passage'... It's down\nat the far end, right? That plant called\n'Rahmel'.{0c:021301}",
+   "en": "{0b:08}【 Sara 】{0b:09}\nSo this is the 'Blue Passage'... It's down\nat the far end, right? That plant\ncalled 'Rahmel'.{0c:021301}",
    "status": "done",
    "tl": "So this is the 'Blue Passage'... It's down at the far end, right? That plant called 'Rahmel'."
   },
@@ -156,7 +156,7 @@
    "jp": "{1c:15}{0b:08}{e080} ルカ {e081}{0b:09}\nこ、ここが『{e086}の{e087}道』ですか・・・\nこの{e084}にあるんですよね、\n『ラフメル』という植物は。{0c:020b01}",
    "read": "{1c:15}{0b:08}【 ルカ 】{0b:09}\nこ、ここが『青の羨道』ですか・・・\nこの奥にあるんですよね、\n『ラフメル』という植物は。{0c:020b01}",
    "raw": null,
-   "en": "{1c:15}{0b:08}【 Luca 】{0b:09}\nTh-this is the 'Blue Passage'...? It's at\nthe far end, isn't it, the plant called\n'Rahmel'.{0c:020b01}",
+   "en": "{1c:15}{0b:08}【 Luca 】{0b:09}\nTh-this is the 'Blue Passage'...? It's at\nthe far end, isn't it, the plant\ncalled 'Rahmel'.{0c:020b01}",
    "status": "done",
    "tl": "Th-this is the 'Blue Passage'...? It's at the far end, isn't it, the plant called 'Rahmel'."
   },
@@ -225,7 +225,7 @@
    "jp": "{0b:08}{e080} シャルン {e081}{0b:09}\nここが『{e086}の{e087}道』なんだ・・・\nこの{e084}にあるんだよね、\n{e088}の{e089}{e08a}の植物って。{0c:020501}",
    "read": "{0b:08}【 シャルン 】{0b:09}\nここが『青の羨道』なんだ・・・\nこの奥にあるんだよね、\n薬の材料の植物って。{0c:020501}",
    "raw": null,
-   "en": "{0b:08}【 Scharn 】{0b:09}\nSo this is the 'Blue Passage'... It's down\nat the far end, right? The plant for the\nmedicine!{0c:020501}",
+   "en": "{0b:08}【 Scharn 】{0b:09}\nSo this is the 'Blue Passage'... It's down\nat the far end, right? The plant for\nthe medicine!{0c:020501}",
    "status": "done",
    "tl": "So this is the 'Blue Passage'... It's down at the far end, right? The plant for the medicine!"
   },
@@ -294,7 +294,7 @@
    "jp": "{0b:08}{e080} パスカ {e081}{0b:09}\nこれからが本番ってわけか・・・{1a}でもさ、1ヶ月もあれば\n充分だろって思ってたけど、\nやっぱそんなに\n甘くはねえみたいだな。{1a}あのクソオヤジのことは早く忘れて、\n気持ち切り{e08d}えて行こうぜ。{0c:021301}",
    "read": "{0b:08}【 パスカ 】{0b:09}\nこれからが本番ってわけか・・・{1a}でもさ、1ヶ月もあれば\n充分だろって思ってたけど、\nやっぱそんなに\n甘くはねえみたいだな。{1a}あのクソオヤジのことは早く忘れて、\n気持ち切り替えて行こうぜ。{0c:021301}",
    "raw": null,
-   "en": "{0b:08}【 Pasca 】{0b:09}\nSo now it starts for real, huh...{1a}Figured a month'd be plenty, but looks\nlike it ain't gonna be that easy.{1a}Let's forget that bastard of a priest\nquick, get our heads straight, and get\ngoin'.{0c:021301}",
+   "en": "{0b:08}【 Pasca 】{0b:09}\nSo now it starts for real, huh...{1a}Figured a month'd be plenty, but looks\nlike it ain't gonna be that easy.{1a}Let's forget that bastard of a priest\nquick, get our heads straight, and\nget goin'.{0c:021301}",
    "status": "done",
    "tl": "So now it starts for real, huh... // Figured a month'd be plenty, but looks like it ain't gonna be that easy. // Let's forget that bastard of a priest quick, get our heads straight, and get goin'."
   },
@@ -629,7 +629,7 @@
    "jp": "{0c:4c0e1000}{1c:17}{0b:08}{e080} エレアノール {e081}{0b:09}\n人{e096}は多い方が\nいいではありませんか。{1a}実際、私達2人では\n苦戦を強いられた事が何度か・・・{0c:4c0e09fe}",
    "read": "{0c:4c0e1000}{1c:17}{0b:08}【 エレアノール 】{0b:09}\n人数は多い方が\nいいではありませんか。{1a}実際、私達2人では\n苦戦を強いられた事が何度か・・・{0c:4c0e09fe}",
    "raw": null,
-   "en": "{0c:4c0e1000}{1c:17}{0b:08}【 Eleanor 】{0b:09}\nSurely the more of us there are, the\nbetter.{1a}In truth, the two of us have been hard\npressed more than once...{0c:4c0e09fe}",
+   "en": "{0c:4c0e1000}{1c:17}{0b:08}【 Eleanor 】{0b:09}\nSurely the more of us there are,\nthe better.{1a}In truth, the two of us have been hard\npressed more than once...{0c:4c0e09fe}",
    "status": "done",
    "tl": "Surely the more of us there are, the better. // In truth, the two of us have been hard pressed more than once..."
   },

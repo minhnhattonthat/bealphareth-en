@@ -210,7 +210,7 @@
    "jp": "{19}七罪の{e08b} {e08c}{e08d}上{e083}",
    "read": "{19}七罪の宮 北部上層",
    "raw": null,
-   "en": "{19}Palace of Seven Sins, North Upper\nLevel",
+   "en": "{19}Palace of Seven Sins, North\nUpper Level",
    "status": "done",
    "tl": "[VAR19]Palace of Seven Sins, North Upper Level"
   },
@@ -222,7 +222,7 @@
    "jp": "{19}七罪の{e08b} {e088}{e08d}上{e083}",
    "read": "{19}七罪の宮 東部上層",
    "raw": null,
-   "en": "{19}Palace of Seven Sins, East Upper\nLevel",
+   "en": "{19}Palace of Seven Sins, East\nUpper Level",
    "status": "done",
    "tl": "[VAR19]Palace of Seven Sins, East Upper Level"
   },
@@ -234,7 +234,7 @@
    "jp": "{19}七罪の{e08b} {e086}{e08d}中{e083}",
    "read": "{19}七罪の宮 西部中層",
    "raw": null,
-   "en": "{19}Palace of Seven Sins, West Middle\nLevel",
+   "en": "{19}Palace of Seven Sins, West\nMiddle Level",
    "status": "done",
    "tl": "[VAR19]Palace of Seven Sins, West Middle Level"
   },
@@ -282,7 +282,7 @@
    "jp": "{19}七罪の{e08b} {e092}{e08d}下{e083}",
    "read": "{19}七罪の宮 南部下層",
    "raw": null,
-   "en": "{19}Palace of Seven Sins, South Lower\nLevel",
+   "en": "{19}Palace of Seven Sins, South\nLower Level",
    "status": "done",
    "tl": "[VAR19]Palace of Seven Sins, South Lower Level"
   },
@@ -294,7 +294,7 @@
    "jp": "{19}時の回{e093} {e094}魂{e095}",
    "read": "{19}時の回廊 裁魂門",
    "raw": null,
-   "en": "{19}Corridor of Time, Soul Judgment\nGate",
+   "en": "{19}Corridor of Time, Soul\nJudgment Gate",
    "status": "done",
    "tl": "[VAR19]Corridor of Time, Soul Judgment Gate"
   },
@@ -342,7 +342,7 @@
    "jp": "{19}{e098}{e099} {e095}{e098}{e08b}",
    "read": "{19}天界 門天宮",
    "raw": null,
-   "en": "{19}Celestial Realm, Palace of the Gate\nHeaven",
+   "en": "{19}Celestial Realm, Palace of the\nGate Heaven",
    "status": "done",
    "tl": "[VAR19]Celestial Realm, Palace of the Gate Heaven"
   },
@@ -474,7 +474,7 @@
    "jp": "{19}{e09e}神の{e09f} {e0a0}魂{e09d}{e083}",
    "read": "{19}精神の海 遊魂離層",
    "raw": null,
-   "en": "{19}Sea of Spirit, Wandering Soul Outer\nLayer",
+   "en": "{19}Sea of Spirit, Wandering Soul\nOuter Layer",
    "status": "done",
    "tl": "[VAR19]Sea of Spirit, Wandering Soul Outer Layer"
   },
@@ -486,7 +486,7 @@
    "jp": "{19}始原の地 邪面の間",
    "read": "{19}始原の地 邪面の間",
    "raw": null,
-   "en": "{19}Land of Origin, Chamber of the Evil\nFace",
+   "en": "{19}Land of Origin, Chamber of the\nEvil Face",
    "status": "done",
    "tl": "[VAR19]Land of Origin, Chamber of the Evil Face"
   },
@@ -510,7 +510,7 @@
    "jp": "{19}始原の地 永劫の間",
    "read": "{19}始原の地 永劫の間",
    "raw": null,
-   "en": "{19}Land of Origin, Chamber of\nEternity",
+   "en": "{19}Land of Origin, Chamber\nof Eternity",
    "status": "done",
    "tl": "[VAR19]Land of Origin, Chamber of Eternity"
   },
@@ -570,7 +570,7 @@
    "jp": "{0b:08}{e0a6} ルカ {e0a7}{0b:09}\nあの、{10}さん、\nここは満月の日しか\n入れないはずですが・・・",
    "read": "{0b:08}【 ルカ 】{0b:09}\nあの、{10}さん、\nここは満月の日しか\n入れないはずですが・・・",
    "raw": null,
-   "en": "{0b:08}【 Luca 】{0b:09}\nUm, {10}-san, you should only be\nable to enter here on the day of the full\nmoon...",
+   "en": "{0b:08}【 Luca 】{0b:09}\nUm, {10}-san, you should only be\nable to enter here on the day of the\nfull moon...",
    "status": "done",
    "tl": "Um, [HERO]-san, you should only be able to enter here on the day of the full moon..."
   },
@@ -786,7 +786,7 @@
    "jp": "{0b:08}{e0a6} ルカ {e0a7}{0b:09}\nそういえば今日は満月ですね。{1a}あれ・・・\n今回は『{e0ae}の{e0af}』がなくても\n中に入れるみたいです・・・",
    "read": "{0b:08}【 ルカ 】{0b:09}\nそういえば今日は満月ですね。{1a}あれ・・・\n今回は『雫の石』がなくても\n中に入れるみたいです・・・",
    "raw": null,
-   "en": "{0b:08}【 Luca 】{0b:09}\nNow that I think of it, today is the full\nmoon.{1a}Oh... It seems we can get inside this time\nwithout a 'Droplet Stone'...",
+   "en": "{0b:08}【 Luca 】{0b:09}\nNow that I think of it, today is the\nfull moon.{1a}Oh... It seems we can get inside this time\nwithout a 'Droplet Stone'...",
    "status": "done",
    "tl": "Now that I think of it, today is the full moon. // Oh... It seems we can get inside this time without a 'Droplet Stone'..."
   },
@@ -798,7 +798,7 @@
    "jp": "{0b:08}{e0a6} ノエル {e0a7}{0b:09}\n今日は満月なのね・・・{1a}でもおかしいわね・・・\n今回は『{e0ae}の{e0af}』がなくても\n中に入れるみたいだわ・・・",
    "read": "{0b:08}【 ノエル 】{0b:09}\n今日は満月なのね・・・{1a}でもおかしいわね・・・\n今回は『雫の石』がなくても\n中に入れるみたいだわ・・・",
    "raw": null,
-   "en": "{0b:08}【 Noel 】{0b:09}\nSo today's the full moon...{1a}But that's strange... It looks like we can\nget inside this time without a 'Droplet\nStone'...",
+   "en": "{0b:08}【 Noel 】{0b:09}\nSo today's the full moon...{1a}But that's strange... It looks like we can\nget inside this time without a\n'Droplet Stone'...",
    "status": "done",
    "tl": "So today's the full moon... // But that's strange... It looks like we can get inside this time without a 'Droplet Stone'..."
   },
@@ -858,7 +858,7 @@
    "jp": "{0b:08}{e0a6} ディアス {e0a7}{0b:09}\n無計画だな・・・\nここに何の用があるのだ?",
    "read": "{0b:08}【 ディアス 】{0b:09}\n無計画だな・・・\nここに何の用があるのだ?",
    "raw": null,
-   "en": "{0b:08}【 Dias 】{0b:09}\nNo plan at all... What business have you\nhere?",
+   "en": "{0b:08}【 Dias 】{0b:09}\nNo plan at all... What business have\nyou here?",
    "status": "done",
    "tl": "No plan at all... What business have you here?"
   },
@@ -918,7 +918,7 @@
    "jp": "{0b:08}{e0a6} ノエル {e0a7}{0b:09}\nここじゃないわよ。\nあなた何考えてるの?",
    "read": "{0b:08}【 ノエル 】{0b:09}\nここじゃないわよ。\nあなた何考えてるの?",
    "raw": null,
-   "en": "{0b:08}【 Noel 】{0b:09}\nHonestly, it's not here! What are you\nthinking?",
+   "en": "{0b:08}【 Noel 】{0b:09}\nHonestly, it's not here! What are\nyou thinking?",
    "status": "done",
    "tl": "Honestly, it's not here! What are you thinking?"
   },
@@ -942,7 +942,7 @@
    "jp": "{0b:08}{e0a6} アーサー {e0a7}{0b:09}\n{10}、\nどうしてこんな所へ?\n今行くべき所は『{e08e}獄』だよ。",
    "read": "{0b:08}【 アーサー 】{0b:09}\n{10}、\nどうしてこんな所へ?\n今行くべき所は『煉獄』だよ。",
    "raw": null,
-   "en": "{0b:08}【 Arthur 】{0b:09}\n{10}, why come to a place like\nthis? Where we need to go now is\n'Purgatory'.",
+   "en": "{0b:08}【 Arthur 】{0b:09}\n{10}, why come to a place like\nthis? Where we need to go now\nis 'Purgatory'.",
    "status": "done",
    "tl": "[HERO], why come to a place like this? Where we need to go now is 'Purgatory'."
   },
@@ -990,7 +990,7 @@
    "jp": "{0b:08}{e0a6} ディアス {e0a7}{0b:09}\n無計画だな・・・\nここに何の用があるのだ?",
    "read": "{0b:08}【 ディアス 】{0b:09}\n無計画だな・・・\nここに何の用があるのだ?",
    "raw": null,
-   "en": "{0b:08}【 Dias 】{0b:09}\nNo plan at all... What business have you\nhere?",
+   "en": "{0b:08}【 Dias 】{0b:09}\nNo plan at all... What business have\nyou here?",
    "status": "done",
    "tl": "No plan at all... What business have you here?"
   },
@@ -1002,7 +1002,7 @@
    "jp": "{0b:08}{e0a6} サラ {e0a7}{0b:09}\n{10}さん・・・\nあたし達『{e08e}獄』に\n行かなきゃ駄目なんだけど・・・",
    "read": "{0b:08}【 サラ 】{0b:09}\n{10}さん・・・\nあたし達『煉獄』に\n行かなきゃ駄目なんだけど・・・",
    "raw": null,
-   "en": "{0b:08}【 Sara 】{0b:09}\n{10}-san... But we have to go to\n'Purgatory'...",
+   "en": "{0b:08}【 Sara 】{0b:09}\n{10}-san... But we have to go\nto 'Purgatory'...",
    "status": "done",
    "tl": "[HERO]-san... But we have to go to 'Purgatory'..."
   },
@@ -1050,7 +1050,7 @@
    "jp": "{0b:08}{e0a6} シャルン {e0a7}{0b:09}\n結{e0b3}あの人達\n見つからなかったね。{1a}ねえ、{10}、\n一旦町に戻ろうよ。\nクムランさんにこのこと\n報告しなきゃ。{1a}もしかすると町の外と\nつながったのかもしれないもんね、\nもしそうならみんな喜ぶよ。",
    "read": "{0b:08}【 シャルン 】{0b:09}\n結局あの人達\n見つからなかったね。{1a}ねえ、{10}、\n一旦町に戻ろうよ。\nクムランさんにこのこと\n報告しなきゃ。{1a}もしかすると町の外と\nつながったのかもしれないもんね、\nもしそうならみんな喜ぶよ。",
    "raw": null,
-   "en": "{0b:08}【 Scharn 】{0b:09}\nWe never did find those people, huh.{1a}Hey, {10}, let's go back to town\nfor now! We have to report this to\nQumran-san.{1a}Maybe it really did connect to the\noutside of town, you know! If it did,\neveryone will be so happy!",
+   "en": "{0b:08}【 Scharn 】{0b:09}\nWe never did find those people, huh.{1a}Hey, {10}, let's go back to town\nfor now! We have to report this\nto Qumran-san.{1a}Maybe it really did connect to the\noutside of town, you know! If it did,\neveryone will be so happy!",
    "status": "done",
    "tl": "We never did find those people, huh. // Hey, [HERO], let's go back to town for now! We have to report this to Qumran-san. // Maybe it really did connect to the outside of town, you know! If it did, everyone will be so happy!"
   },
@@ -1074,7 +1074,7 @@
    "jp": "{0b:08}{e0a6} エレアノール {e0a7}{0b:09}\n結{e0b3}見つかりませんでしたね。{1a}1度町に戻りましょう。\nクムランさんにこのことを\n報告した方がよいと思います。",
    "read": "{0b:08}【 エレアノール 】{0b:09}\n結局見つかりませんでしたね。{1a}1度町に戻りましょう。\nクムランさんにこのことを\n報告した方がよいと思います。",
    "raw": null,
-   "en": "{0b:08}【 Eleanor 】{0b:09}\nSo we never did find them.{1a}Let us return to town for a while. I\nbelieve we should report this to\nQumran-san.",
+   "en": "{0b:08}【 Eleanor 】{0b:09}\nSo we never did find them.{1a}Let us return to town for a while. I\nbelieve we should report this\nto Qumran-san.",
    "status": "done",
    "tl": "So we never did find them. // Let us return to town for a while. I believe we should report this to Qumran-san."
   },
@@ -1086,7 +1086,7 @@
    "jp": "{0b:08}{e0a6} イヴ {e0a7}{0b:09}\n結{e0b3}見つからなかったわね。\nそろそろ町に戻りましょ、\n歩き疲れたわ。",
    "read": "{0b:08}【 イヴ 】{0b:09}\n結局見つからなかったわね。\nそろそろ町に戻りましょ、\n歩き疲れたわ。",
    "raw": null,
-   "en": "{0b:08}【 Eve 】{0b:09}\nWe never did find them, did we. Let's\nhead back to town soon, I'm tired of\nwalking.",
+   "en": "{0b:08}【 Eve 】{0b:09}\nWe never did find them, did we. Let's\nhead back to town soon, I'm tired\nof walking.",
    "status": "done",
    "tl": "We never did find them, did we. Let's head back to town soon, I'm tired of walking."
   },
@@ -1134,7 +1134,7 @@
    "jp": "{0b:08}{e0a6} ジェシカ {e0a7}{0b:09}\nあの2人どこに{e0b6}れたんだろ・・・{1a}{10}、とりあえず町に戻ろ。\n他の{e0b7}中が別の情報\n集めたかもしれないしさ。",
    "read": "{0b:08}【 ジェシカ 】{0b:09}\nあの2人どこに隠れたんだろ・・・{1a}{10}、とりあえず町に戻ろ。\n他の連中が別の情報\n集めたかもしれないしさ。",
    "raw": null,
-   "en": "{0b:08}【 Jessica 】{0b:09}\nWhere'd those two hide, anyway...{1a}{10}, let's just go back to town.\nThe others might've gotten some other\nnews.",
+   "en": "{0b:08}【 Jessica 】{0b:09}\nWhere'd those two hide, anyway...{1a}{10}, let's just go back to town.\nThe others might've gotten some\nother news.",
    "status": "done",
    "tl": "Where'd those two hide, anyway... // [HERO], let's just go back to town. The others might've gotten some other news."
   },
@@ -1146,7 +1146,7 @@
    "jp": "{0b:08}{e0a6} パスカ {e0a7}{0b:09}\nおかしいなあ・・・\nあの2人どこに{e0b6}れたんだ?{1a}ま、いいか。\nとりあえず町に戻ろうぜ。\n他の{e0b7}中が何か情報集めたかも\nしれねえしさ。",
    "read": "{0b:08}【 パスカ 】{0b:09}\nおかしいなあ・・・\nあの2人どこに隠れたんだ?{1a}ま、いいか。\nとりあえず町に戻ろうぜ。\n他の連中が何か情報集めたかも\nしれねえしさ。",
    "raw": null,
-   "en": "{0b:08}【 Pasca 】{0b:09}\nThat's weird... Where'd those two hide?{1a}Ah, whatever. Let's just head back to\ntown. The others might've dug up some\nnews.",
+   "en": "{0b:08}【 Pasca 】{0b:09}\nThat's weird... Where'd those two hide?{1a}Ah, whatever. Let's just head back to\ntown. The others might've dug up\nsome news.",
    "status": "done",
    "tl": "That's weird... Where'd those two hide? // Ah, whatever. Let's just head back to town. The others might've dug up some news."
   },
@@ -1182,7 +1182,7 @@
    "jp": "{0b:08}{e0a6} アッシュ {e0a7}{0b:09}\n結{e0b3}見つからなかったな。{1a}{10}、1度町に戻ろうよ。\nクムランさんに報告した方が\nいいと思うんだ。",
    "read": "{0b:08}【 アッシュ 】{0b:09}\n結局見つからなかったな。{1a}{10}、1度町に戻ろうよ。\nクムランさんに報告した方が\nいいと思うんだ。",
    "raw": null,
-   "en": "{0b:08}【 Ash 】{0b:09}\nWe never found them, huh.{1a}{10}, let's go back to town for a\nwhile. I think we should report to\nQumran-san.",
+   "en": "{0b:08}【 Ash 】{0b:09}\nWe never found them, huh.{1a}{10}, let's go back to town for a\nwhile. I think we should report\nto Qumran-san.",
    "status": "done",
    "tl": "We never found them, huh. // [HERO], let's go back to town for a while. I think we should report to Qumran-san."
   },
@@ -1290,7 +1290,7 @@
    "jp": "{0b:08}{e0a6} オルフェウス {e0a7}{0b:09}\nどうやら結{e099}があるみたいですね。\nやはり2人ずつでないと\nこの中には入れないってことですか。",
    "read": "{0b:08}【 オルフェウス 】{0b:09}\nどうやら結界があるみたいですね。\nやはり2人ずつでないと\nこの中には入れないってことですか。",
    "raw": null,
-   "en": "{0b:08}【 Orpheus 】{0b:09}\nIt would seem there is a barrier. So one\nmay enter here only two at a time, as I\nthought?",
+   "en": "{0b:08}【 Orpheus 】{0b:09}\nIt would seem there is a barrier. So one\nmay enter here only two at a time, as\nI thought?",
    "status": "done",
    "tl": "It would seem there is a barrier. So one may enter here only two at a time, as I thought?"
   },
@@ -1326,7 +1326,7 @@
    "jp": "{0b:08}{e0a6} レイア {e0a7}{0b:09}\n見えない結{e099}が\n張られているようだ・・・{1a}やはり2人単{e0b9}でないと\nこの中には入れないのか。",
    "read": "{0b:08}【 レイア 】{0b:09}\n見えない結界が\n張られているようだ・・・{1a}やはり2人単位でないと\nこの中には入れないのか。",
    "raw": null,
-   "en": "{0b:08}【 Leia 】{0b:09}\nAn invisible barrier appears to be in\nplace...{1a}So one cannot enter here except in\npairs.",
+   "en": "{0b:08}【 Leia 】{0b:09}\nAn invisible barrier appears to be\nin place...{1a}So one cannot enter here except\nin pairs.",
    "status": "done",
    "tl": "An invisible barrier appears to be in place... // So one cannot enter here except in pairs."
   },
@@ -1362,7 +1362,7 @@
    "jp": "{0b:08}{e0a6} ジェシカ {e0a7}{0b:09}\nここから先って\nこの{e0af}を持ってなかったら\n入れなかったんだ・・・{1a}外もああなっちゃったし\n捨てようと思ってたけど\n捨てなくてよかったよ。",
    "read": "{0b:08}【 ジェシカ 】{0b:09}\nここから先って\nこの石を持ってなかったら\n入れなかったんだ・・・{1a}外もああなっちゃったし\n捨てようと思ってたけど\n捨てなくてよかったよ。",
    "raw": null,
-   "en": "{0b:08}【 Jessica 】{0b:09}\nSo you couldn't get in past here without\nthis stone...{1a}With things outside the way they are, I\nwas gonna toss it, but good thing I\ndidn't.",
+   "en": "{0b:08}【 Jessica 】{0b:09}\nSo you couldn't get in past here without\nthis stone...{1a}With things outside the way they are, I\nwas gonna toss it, but good thing\nI didn't.",
    "status": "done",
    "tl": "So you couldn't get in past here without this stone... // With things outside the way they are, I was gonna toss it, but good thing I didn't."
   },
@@ -1374,7 +1374,7 @@
    "jp": "{0b:08}{e0a6} アーサー {e0a7}{0b:09}\n『{e0ba}{e0bb}の{e0bc}{e0bd}』が\nやっと役に立ったというわけか・・・{1a}今はそれどころじゃないんだろうけど\n苦労が報われて少し嬉しいよ。",
    "read": "{0b:08}【 アーサー 】{0b:09}\n『太陽の宝玉』が\nやっと役に立ったというわけか・・・{1a}今はそれどころじゃないんだろうけど\n苦労が報われて少し嬉しいよ。",
    "raw": null,
-   "en": "{0b:08}【 Arthur 】{0b:09}\nSo the 'Sun Jewel' has finally proved\nuseful...{1a}This is probably no time for it, but I'm a\nlittle glad our hard work paid off.",
+   "en": "{0b:08}【 Arthur 】{0b:09}\nSo the 'Sun Jewel' has finally\nproved useful...{1a}This is probably no time for it, but I'm a\nlittle glad our hard work paid off.",
    "status": "done",
    "tl": "So the 'Sun Jewel' has finally proved useful... // This is probably no time for it, but I'm a little glad our hard work paid off."
   },
@@ -1446,7 +1446,7 @@
    "jp": "{0b:08}{e0a6} オルフェウス {e0a7}{0b:09}\n『{e0ba}{e0bb}の{e0bc}{e0bd}』が\nようやく役に立ったわけですね。\nあんまり嬉しくないですけど。",
    "read": "{0b:08}【 オルフェウス 】{0b:09}\n『太陽の宝玉』が\nようやく役に立ったわけですね。\nあんまり嬉しくないですけど。",
    "raw": null,
-   "en": "{0b:08}【 Orpheus 】{0b:09}\nSo the 'Sun Jewel' has finally come in\nhandy, then. Not that I find it especially\ncheering.",
+   "en": "{0b:08}【 Orpheus 】{0b:09}\nSo the 'Sun Jewel' has finally come in\nhandy, then. Not that I find it\nespecially cheering.",
    "status": "done",
    "tl": "So the 'Sun Jewel' has finally come in handy, then. Not that I find it especially cheering."
   },
@@ -1494,7 +1494,7 @@
    "jp": "{0b:08}{e0a6} ルカ {e0a7}{0b:09}\n『{e0ba}{e0bb}の{e0bc}{e0bd}』が\nやっと役に立ったんですね・・・",
    "read": "{0b:08}【 ルカ 】{0b:09}\n『太陽の宝玉』が\nやっと役に立ったんですね・・・",
    "raw": null,
-   "en": "{0b:08}【 Luca 】{0b:09}\nSo the 'Sun Jewel' has finally proved\nuseful...",
+   "en": "{0b:08}【 Luca 】{0b:09}\nSo the 'Sun Jewel' has finally\nproved useful...",
    "status": "done",
    "tl": "So the 'Sun Jewel' has finally proved useful..."
   },

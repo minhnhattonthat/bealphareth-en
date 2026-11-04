@@ -52,7 +52,7 @@
    "jp": "{0c:2b50231000}{1c:11}{0b:08}{e080} アーサー {e081}{0b:09}\n{10}、退{e082}おめでとう!{0c:2b5809fe}",
    "read": "{0c:2b50231000}{1c:11}{0b:08}【 アーサー 】{0b:09}\n{10}、退院おめでとう!{0c:2b5809fe}",
    "raw": null,
-   "en": "{0c:2b50231000}{1c:11}{0b:08}【 Arthur 】{0b:09}\n{10}, congratulations on getting\nout!{0c:2b5809fe}",
+   "en": "{0c:2b50231000}{1c:11}{0b:08}【 Arthur 】{0b:09}\n{10}, congratulations on\ngetting out!{0c:2b5809fe}",
    "status": "done",
    "tl": "[HERO], congratulations on getting out!"
   },
@@ -87,7 +87,7 @@
    "jp": "{0c:2b50231000}{1c:11}{0b:08}{e080} アーサー {e081}{0b:09}\n{10}、退{e082}おめでとう!{1a}本当によかったな!{0c:020501}",
    "read": "{0c:2b50231000}{1c:11}{0b:08}【 アーサー 】{0b:09}\n{10}、退院おめでとう!{1a}本当によかったな!{0c:020501}",
    "raw": null,
-   "en": "{0c:2b50231000}{1c:11}{0b:08}【 Arthur 】{0b:09}\n{10}, congratulations on getting\nout!{1a}I'm truly glad!{0c:020501}",
+   "en": "{0c:2b50231000}{1c:11}{0b:08}【 Arthur 】{0b:09}\n{10}, congratulations on\ngetting out!{1a}I'm truly glad!{0c:020501}",
    "status": "done",
    "tl": "[HERO], congratulations on getting out! // I'm truly glad!"
   },
@@ -110,7 +110,7 @@
    "jp": "{0c:2b50231000}{1c:1f}{0b:08}{e080} サラ {e081}{0b:09}\n{10}さん、おめでとう!\n本当によかったね!{0c:020301}",
    "read": "{0c:2b50231000}{1c:1f}{0b:08}【 サラ 】{0b:09}\n{10}さん、おめでとう!\n本当によかったね!{0c:020301}",
    "raw": null,
-   "en": "{0c:2b50231000}{1c:1f}{0b:08}【 Sara 】{0b:09}\nCongratulations, {10}-san! I'm so\nglad!{0c:020301}",
+   "en": "{0c:2b50231000}{1c:1f}{0b:08}【 Sara 】{0b:09}\nCongratulations, {10}-san! I'm\nso glad!{0c:020301}",
    "status": "done",
    "tl": "Congratulations, [HERO]-san! I'm so glad!"
   },
@@ -156,7 +156,7 @@
    "jp": "{0c:2b50231000}{1c:1d}{0b:08}{e080} ルカ {e081}{0b:09}\nティアラさんに、\n今日の昼には{10}さんが\n{e084}{e085}を出られると聞いて、{1a}それで昨夜から準備していたんです。{0c:020501}",
    "read": "{0c:2b50231000}{1c:1d}{0b:08}【 ルカ 】{0b:09}\nティアラさんに、\n今日の昼には{10}さんが\n教会を出られると聞いて、{1a}それで昨夜から準備していたんです。{0c:020501}",
    "raw": null,
-   "en": "{0c:2b50231000}{1c:1d}{0b:08}【 Luca 】{0b:09}\nTiara-san told us you would be leaving\nthe church at noon today,\n{10}-san,{1a}so we have been preparing since last\nnight.{0c:020501}",
+   "en": "{0c:2b50231000}{1c:1d}{0b:08}【 Luca 】{0b:09}\nTiara-san told us you would be leaving\nthe church at noon\ntoday, {10}-san,{1a}so we have been preparing since\nlast night.{0c:020501}",
    "status": "done",
    "tl": "Tiara-san told us you would be leaving the church at noon today, [HERO]-san, // so we have been preparing since last night."
   },
@@ -202,7 +202,7 @@
    "jp": "{0c:2b50231000}{1c:1f}{0b:08}{e080} サラ {e081}{0b:09}\nティアラさんに、\n今日の昼には{10}さんが\n{e084}{e085}を出られるよって聞いて、\nそれで昨夜から準備してたの。{0c:fe}",
    "read": "{0c:2b50231000}{1c:1f}{0b:08}【 サラ 】{0b:09}\nティアラさんに、\n今日の昼には{10}さんが\n教会を出られるよって聞いて、\nそれで昨夜から準備してたの。{0c:fe}",
    "raw": null,
-   "en": "{0c:2b50231000}{1c:1f}{0b:08}【 Sara 】{0b:09}\nTiara-san said you'd be leaving the\nchurch at noon today, {10}-san,\nso we've been getting ready since last{1a}night.{0c:fe}",
+   "en": "{0c:2b50231000}{1c:1f}{0b:08}【 Sara 】{0b:09}\nTiara-san said you'd be leaving the\nchurch at noon today, {10}-san,\nso we've been getting ready since{1a}last night.{0c:fe}",
    "status": "done",
    "tl": "Tiara-san said you'd be leaving the church at noon today, [HERO]-san, so we've been getting ready since last night."
   },
@@ -294,7 +294,7 @@
    "jp": "{0c:521011}{0c:2b50231000}{1c:14}{0b:08}{e080} パスカ {e081}{0b:09}\nまったく、\n心配させやがってよ。{1a}{e092}{e093}の{e094}で見つけた装{e095}を\nクムランさんが壊して\nあの{e097}から生えてた{e098}手が\n外れるまで、{1a}バルデスさんは\n暴れ回る4人の凶戦士を\nずっと押さえ{e09a}んでてさ、{1a}そのあと、やっとの思いで\nあの{e097}を引っぱがしたのに、\n今度はピクリともしねえ。{1a}引っぱがした後の凶戦士の{e097}は\n砂みたいに崩れて消えちまったのに\nお前達はいつまで経っても\n目を覚まさねえし、{1a}{e09d}{e09e}の魔{e09f}もサディーヤさんの{e0a0}も\n全く効かねえしで、もう何をやっても\n駄目なんじゃねえかって\n{e0a1}めかけたときもあったんだぜ。{0c:020501}",
    "read": "{0c:521011}{0c:2b50231000}{1c:14}{0b:08}【 パスカ 】{0b:09}\nまったく、\n心配させやがってよ。{1a}遺跡の奥で見つけた装置を\nクムランさんが壊して\nあの剣から生えてた触手が\n外れるまで、{1a}バルデスさんは\n暴れ回る4人の凶戦士を\nずっと押さえ込んでてさ、{1a}そのあと、やっとの思いで\nあの剣を引っぱがしたのに、\n今度はピクリともしねえ。{1a}引っぱがした後の凶戦士の剣は\n砂みたいに崩れて消えちまったのに\nお前達はいつまで経っても\n目を覚まさねえし、{1a}治癒の魔法もサディーヤさんの薬も\n全く効かねえしで、もう何をやっても\n駄目なんじゃねえかって\n諦めかけたときもあったんだぜ。{0c:020501}",
    "raw": null,
-   "en": "{0c:521011}{0c:2b50231000}{1c:14}{0b:08}【 Pasca 】{0b:09}\nDamn, ya had us worried sick.{1a}Till Qumran-san smashed that device we\nfound deep in the ruins and those\ntentacles growin' out of the swords\ncame off,{1a}Valdes-san kept all four rampagin'\nBerserkers pinned down the whole time,{1a}and then when we finally rip the swords\noff, now ya don't so much as twitch.{1a}Once ripped off, the Berserker's Swords\ncrumbled away like sand, but you lot just\nwouldn't wake up, no matter how long we\nwaited,{1a}and healin' magic and Sadiya-san's\nmedicine did nothin' at all. There was\ntimes I was about ready to give up,\nthinkin' nothin' would ever work.{0c:020501}",
+   "en": "{0c:521011}{0c:2b50231000}{1c:14}{0b:08}【 Pasca 】{0b:09}\nDamn, ya had us worried sick.{1a}Till Qumran-san smashed that device we\nfound deep in the ruins and those\ntentacles growin' out of the swords\ncame off,{1a}Valdes-san kept all four rampagin'\nBerserkers pinned down the whole time,{1a}and then when we finally rip the swords\noff, now ya don't so much as twitch.{1a}Once ripped off, the Berserker's Swords\ncrumbled away like sand, but you lot just\nwouldn't wake up, no matter how long\nwe waited,{1a}and healin' magic and Sadiya-san's\nmedicine did nothin' at all. There was\ntimes I was about ready to give up,\nthinkin' nothin' would ever work.{0c:020501}",
    "status": "done",
    "tl": "Damn, ya had us worried sick. // Till Qumran-san smashed that device we found deep in the ruins and those tentacles growin' out of the swords came off, // Valdes-san kept all four rampagin' Berserkers pinned down the whole time, // and then when we finally rip the swords off, now ya don't so much as twitch. // Once ripped off, the Berserker's Swords crumbled away like sand, but you lot just wouldn't wake up, no matter how long we waited, // and healin' magic and Sadiya-san's medicine did nothin' at all. There was times I was about ready to give up, thinkin' nothin' would ever work."
   },
@@ -455,7 +455,7 @@
    "jp": "{0c:5108}{1c:11}{09:08}『{e0a9}獄』{09:01}と{e0aa}ばれる場所が\n地下{e0ab}{e0ac}の下にあるんだけど、{1a}そこにある{e0ad}大な{e0ae}・・・\n{09:08}『シェオルの{e0ae}』{09:01}に\n{10}達の魂は\n閉じこめられてたんだ。{1a}{0c:520905}魂を閉じこめるなんて言うと、\nまるで聖{e0b0}や神話の世{e0b1}の\n出来事みたいだけど、{1a}あの時の君達は\n本当にそう{e0b2}{e0b3}するしかないような\n{e0b4}{e0b5}になっていたんだよ。{1a}そして、\n君達の魂を救い出すために\n町中の人達が・・・{1a}いや、町の{e0b6}分くらいの人が、\n『{e0a9}獄』に{e0ae}を{e0b7}しに行ってくれて、\nその{e0ae}を見つけ、{e0b8}壊して\n{10}の魂を解き放ったんだ。{0c:020901}",
    "read": "{0c:5108}{1c:11}{09:08}『煉獄』{09:01}と呼ばれる場所が\n地下都市の下にあるんだけど、{1a}そこにある巨大な柱・・・\n{09:08}『シェオルの柱』{09:01}に\n{10}達の魂は\n閉じこめられてたんだ。{1a}{0c:520905}魂を閉じこめるなんて言うと、\nまるで聖書や神話の世界の\n出来事みたいだけど、{1a}あの時の君達は\n本当にそう表現するしかないような\n状態になっていたんだよ。{1a}そして、\n君達の魂を救い出すために\n町中の人達が・・・{1a}いや、町の半分くらいの人が、\n『煉獄』に柱を探しに行ってくれて、\nその柱を見つけ、破壊して\n{10}の魂を解き放ったんだ。{0c:020901}",
    "raw": null,
-   "en": "{0c:5108}{1c:11}{09:08}There is a place called 'Purgatory'{09:01}\nbeneath the underground city,{1a}and in a huge pillar there... {09:08}a 'Pillar of\nSheol'{09:01}... your souls were imprisoned,\n{10}.{1a}{0c:520905}Imprisoned souls sound like something out\nof the Scriptures or a myth,{1a}but the state you were all in back then\ntruly could not be described any other\nway.{1a}And so, to rescue your souls, the whole\ntown...{1a}No, about half the town went into\n'Purgatory' to look for the pillar, found\nit, destroyed it, and set your soul free,\n{10}.{0c:020901}",
+   "en": "{0c:5108}{1c:11}{09:08}There is a place called 'Purgatory'{09:01}\nbeneath the underground city,{1a}and in a huge pillar there... {09:08}a 'Pillar of\nSheol'{09:01}... your souls were\nimprisoned, {10}.{1a}{0c:520905}Imprisoned souls sound like something out\nof the Scriptures or a myth,{1a}but the state you were all in back then\ntruly could not be described any\nother way.{1a}And so, to rescue your souls, the\nwhole town...{1a}No, about half the town went into\n'Purgatory' to look for the pillar, found\nit, destroyed it, and set your soul\nfree, {10}.{0c:020901}",
    "status": "done",
    "tl": "There is a place called 'Purgatory'[1] beneath the underground city, // and in a huge pillar there... [2]a 'Pillar of Sheol'[3]... your souls were imprisoned, [HERO]. // [4]Imprisoned souls sound like something out of the Scriptures or a myth, // but the state you were all in back then truly could not be described any other way. // And so, to rescue your souls, the whole town... // No, about half the town went into 'Purgatory' to look for the pillar, found it, destroyed it, and set your soul free, [HERO]."
   },
@@ -478,7 +478,7 @@
    "jp": "{1c:12}{0b:08}{e080} エレアノール {e081}{0b:09}\nどのようにして意識が戻ったか、\nどなたかから聞いたことは\nありますか?{0c:fe}",
    "read": "{1c:12}{0b:08}【 エレアノール 】{0b:09}\nどのようにして意識が戻ったか、\nどなたかから聞いたことは\nありますか?{0c:fe}",
    "raw": null,
-   "en": "{1c:12}{0b:08}【 Eleanor 】{0b:09}\nHas anyone told you how you regained\nconsciousness?{0c:fe}",
+   "en": "{1c:12}{0b:08}【 Eleanor 】{0b:09}\nHas anyone told you how you\nregained consciousness?{0c:fe}",
    "status": "done",
    "tl": "Has anyone told you how you regained consciousness?"
   },
@@ -501,7 +501,7 @@
    "jp": "{1c:12}{09:08}『{e0a9}獄』{09:01}と{e0aa}ばれる場所が\nアスラ・ファエルの下に\n{e0b9}がっているのですが、{1a}そこにある{e0ad}大な{e0ae}・・・\n{09:08}『シェオルの{e0ae}』{09:01}に\nあなた達の魂は\n閉じこめられていたのです。{1a}魂を閉じこめるなどと言うと、\nまるで聖{e0b0}や神話の世{e0b1}の\n出来事のように聞こえますが、{1a}あの時のあなた達は\nまさにそう{e0b2}{e0b3}するしかないような\n{e0b4}{e0b5}になっていました。{1a}そして、町の約3割の方が、\n{10}達の魂を救い出すために\n{e0a9}獄に足を運んで下さいました。{1a}『シェオルの{e0ae}』を見つけ、\nそれを{e0b8}壊することで\n囚われた魂は解き放たれるからです。{0c:020501}",
    "read": "{1c:12}{09:08}『煉獄』{09:01}と呼ばれる場所が\nアスラ・ファエルの下に\n広がっているのですが、{1a}そこにある巨大な柱・・・\n{09:08}『シェオルの柱』{09:01}に\nあなた達の魂は\n閉じこめられていたのです。{1a}魂を閉じこめるなどと言うと、\nまるで聖書や神話の世界の\n出来事のように聞こえますが、{1a}あの時のあなた達は\nまさにそう表現するしかないような\n状態になっていました。{1a}そして、町の約3割の方が、\n{10}達の魂を救い出すために\n煉獄に足を運んで下さいました。{1a}『シェオルの柱』を見つけ、\nそれを破壊することで\n囚われた魂は解き放たれるからです。{0c:020501}",
    "raw": null,
-   "en": "{1c:12}{09:08}There is a place called 'Purgatory'{09:01} that\nspreads beneath Asla Fael,{1a}and in a huge pillar there... {09:08}a 'Pillar of\nSheol'{09:01}... your souls were imprisoned.{1a}To speak of imprisoning souls may sound\nlike something from the Scriptures or a\nmyth,{1a}but the state you were in at that time\ncould be described in no other way.{1a}And so some three in ten of the town's\npeople went down to Purgatory to\nrescue the souls of {10} and the\nothers.{1a}For by finding a 'Pillar of Sheol' and\ndestroying it, the captive soul is set\nfree.{0c:020501}",
+   "en": "{1c:12}{09:08}There is a place called 'Purgatory'{09:01} that\nspreads beneath Asla Fael,{1a}and in a huge pillar there... {09:08}a 'Pillar of\nSheol'{09:01}... your souls were imprisoned.{1a}To speak of imprisoning souls may sound\nlike something from the Scriptures or\na myth,{1a}but the state you were in at that time\ncould be described in no other way.{1a}And so some three in ten of the town's\npeople went down to Purgatory to\nrescue the souls of {10} and\nthe others.{1a}For by finding a 'Pillar of Sheol' and\ndestroying it, the captive soul is\nset free.{0c:020501}",
    "status": "done",
    "tl": "There is a place called 'Purgatory'[1] that spreads beneath Asla Fael, // and in a huge pillar there... [2]a 'Pillar of Sheol'[3]... your souls were imprisoned. // To speak of imprisoning souls may sound like something from the Scriptures or a myth, // but the state you were in at that time could be described in no other way. // And so some three in ten of the town's people went down to Purgatory to rescue the souls of [HERO] and the others. // For by finding a 'Pillar of Sheol' and destroying it, the captive soul is set free."
   },
@@ -547,7 +547,7 @@
    "jp": "{1c:1f}{09:08}『{e0a9}獄』{09:01}って{e0aa}ばれてる場所が\nアスラ・ファエルの下に\n{e0b9}がってるんだけど、{1a}そこにある大きな{e0ae}・・・\n{09:08}『シェオルの{e0ae}』{09:01}に\n{10}さん達の魂は\n閉じこめられていたんだって。{1a}魂を閉じこめるなんて言うと、\nまるで聖{e0b0}や神話の世{e0b1}の\n出来事みたいに聞こえるけど、{1a}{0c:523a39}あのときの{10}さんは、\nそう言い{e0b2}すしかないような\n様子になっていたんだよ。{1a}{10}さん達の魂を\n救い出すために、\nほんとうに多くの人達が\n{e0ae}を{e0b7}しに出かけてくれたんだ。{1a}『シェオルの{e0ae}』を見つけて壊すと\n閉じこめられていた魂が\n元の人の所に戻るからね。{0c:020101}",
    "read": "{1c:1f}{09:08}『煉獄』{09:01}って呼ばれてる場所が\nアスラ・ファエルの下に\n広がってるんだけど、{1a}そこにある大きな柱・・・\n{09:08}『シェオルの柱』{09:01}に\n{10}さん達の魂は\n閉じこめられていたんだって。{1a}魂を閉じこめるなんて言うと、\nまるで聖書や神話の世界の\n出来事みたいに聞こえるけど、{1a}{0c:523a39}あのときの{10}さんは、\nそう言い表すしかないような\n様子になっていたんだよ。{1a}{10}さん達の魂を\n救い出すために、\nほんとうに多くの人達が\n柱を探しに出かけてくれたんだ。{1a}『シェオルの柱』を見つけて壊すと\n閉じこめられていた魂が\n元の人の所に戻るからね。{0c:020101}",
    "raw": null,
-   "en": "{1c:1f}{09:08}There's a place called 'Purgatory'{09:01} that\nspreads out under Asla Fael,{1a}and in a big pillar there... {09:08}a 'Pillar of\nSheol'{09:01}... your souls were locked away,\n{10}-san.{1a}Locking away souls sounds like something\nout of the Scriptures or an old myth,{1a}{0c:523a39}but the way you were back then,\n{10}-san, there wasn't any other\nway to say it.{1a}To save your souls, {10}-san, so\nmany people went out looking for the\npillars.{1a}When you find a 'Pillar of Sheol' and\nbreak it, the soul locked inside goes back\nto its person.{0c:020101}",
+   "en": "{1c:1f}{09:08}There's a place called 'Purgatory'{09:01} that\nspreads out under Asla Fael,{1a}and in a big pillar there... {09:08}a 'Pillar of\nSheol'{09:01}... your souls were locked\naway, {10}-san.{1a}Locking away souls sounds like something\nout of the Scriptures or an old myth,{1a}{0c:523a39}but the way you were back then,\n{10}-san, there wasn't any other\nway to say it.{1a}To save your souls, {10}-san, so\nmany people went out looking for\nthe pillars.{1a}When you find a 'Pillar of Sheol' and\nbreak it, the soul locked inside goes back\nto its person.{0c:020101}",
    "status": "done",
    "tl": "There's a place called 'Purgatory'[1] that spreads out under Asla Fael, // and in a big pillar there... [2]a 'Pillar of Sheol'[3]... your souls were locked away, [HERO]-san. // Locking away souls sounds like something out of the Scriptures or an old myth, // [4]but the way you were back then, [HERO]-san, there wasn't any other way to say it. // To save your souls, [HERO]-san, so many people went out looking for the pillars. // When you find a 'Pillar of Sheol' and break it, the soul locked inside goes back to its person."
   },
@@ -616,7 +616,7 @@
    "jp": "{1c:18}{0b:08}{e080} シャルン {e081}{0b:09}\nそして{10}も\n目覚めたってわけね。{1a}ちなみに{10}は3番目よ。\n生き残った4人の凶戦士の中ではね。{0c:020101}",
    "read": "{1c:18}{0b:08}【 シャルン 】{0b:09}\nそして{10}も\n目覚めたってわけね。{1a}ちなみに{10}は3番目よ。\n生き残った4人の凶戦士の中ではね。{0c:020101}",
    "raw": null,
-   "en": "{1c:18}{0b:08}【 Scharn 】{0b:09}\nAnd that's how you woke up too,\n{10}!{1a}By the way, you were third, {10}!\nOut of the four Berserkers who\nsurvived, that is.{0c:020101}",
+   "en": "{1c:18}{0b:08}【 Scharn 】{0b:09}\nAnd that's how you woke up\ntoo, {10}!{1a}By the way, you were third, {10}!\nOut of the four Berserkers who\nsurvived, that is.{0c:020101}",
    "status": "done",
    "tl": "And that's how you woke up too, [HERO]! // By the way, you were third, [HERO]! Out of the four Berserkers who survived, that is."
   },
@@ -650,7 +650,7 @@
    "jp": "{0c:2b50231000}{1c:1f}{0b:08}{e080} サラ {e081}{0b:09}\nそうそう、\n{15}さんなら{e0bb}{e0bc}にいるよ。\n帰ってきたのは{e0b6}月くらい前かな。{1a}{0c:523a39}後で{e0bb}{e0bc}に{e0bd}びに行ったら\n喜ぶと思うよ。{0c:020501}",
    "read": "{0c:2b50231000}{1c:1f}{0b:08}【 サラ 】{0b:09}\nそうそう、\n{15}さんなら部屋にいるよ。\n帰ってきたのは半月くらい前かな。{1a}{0c:523a39}後で部屋に遊びに行ったら\n喜ぶと思うよ。{0c:020501}",
    "raw": null,
-   "en": "{0c:2b50231000}{1c:1f}{0b:08}【 Sara 】{0b:09}\nOh, right, {15}-san is in the\nroom. Got back about half a month ago, I\nthink.{1a}{0c:523a39}Go visit later, okay? I think they'd be so\nhappy.{0c:020501}",
+   "en": "{0c:2b50231000}{1c:1f}{0b:08}【 Sara 】{0b:09}\nOh, right, {15}-san is in the\nroom. Got back about half a month ago,\nI think.{1a}{0c:523a39}Go visit later, okay? I think they'd be\nso happy.{0c:020501}",
    "status": "done",
    "tl": "Oh, right, [VAR15]-san is in the room. Got back about half a month ago, I think. // [1]Go visit later, okay? I think they'd be so happy."
   },
@@ -673,7 +673,7 @@
    "jp": "{0c:2b50231000}{1c:18}{0b:08}{e080} シャルン {e081}{0b:09}\nそうそう、\n{15}なら{e0bb}{e0bc}にいるよ。{1a}ここに戻ったのは\n{e0b6}月くらい前かな。\n後で{e0bb}{e0bc}に行ってみたら?{0c:020301}",
    "read": "{0c:2b50231000}{1c:18}{0b:08}【 シャルン 】{0b:09}\nそうそう、\n{15}なら部屋にいるよ。{1a}ここに戻ったのは\n半月くらい前かな。\n後で部屋に行ってみたら?{0c:020301}",
    "raw": null,
-   "en": "{0c:2b50231000}{1c:18}{0b:08}【 Scharn 】{0b:09}\nOh, right, {15} is in the room!{1a}Got back here about half a month ago, I\nthink. Why don't you stop by the room\nlater?{0c:020301}",
+   "en": "{0c:2b50231000}{1c:18}{0b:08}【 Scharn 】{0b:09}\nOh, right, {15} is in the room!{1a}Got back here about half a month ago, I\nthink. Why don't you stop by the\nroom later?{0c:020301}",
    "status": "done",
    "tl": "Oh, right, [VAR15] is in the room! // Got back here about half a month ago, I think. Why don't you stop by the room later?"
   },
@@ -719,7 +719,7 @@
    "jp": "{0c:2b50231000}{1c:11}{0b:08}{e080} アーサー {e081}{0b:09}\nまだ目が覚めてないのは\n{0b:05}{14}だけか・・・{1a}でもここまで上手くいったんだ。\nきっとなんとかなるさ。{1a}{0c:520905}そうだ、\n君も『{e0a9}獄』のことをシスターに\n聞いておいた方がいいよ。{1a}『シェオルの{e0ae}』と\n君達の魂との関係を、\n初めに言い当てたのは\n彼女なんだからね。{1a}もちろん{e0b7}しに行くのは\n少し休んでからでいいと思うけど。{0c:020501}",
    "read": "{0c:2b50231000}{1c:11}{0b:08}【 アーサー 】{0b:09}\nまだ目が覚めてないのは\n{0b:05}{14}だけか・・・{1a}でもここまで上手くいったんだ。\nきっとなんとかなるさ。{1a}{0c:520905}そうだ、\n君も『煉獄』のことをシスターに\n聞いておいた方がいいよ。{1a}『シェオルの柱』と\n君達の魂との関係を、\n初めに言い当てたのは\n彼女なんだからね。{1a}もちろん探しに行くのは\n少し休んでからでいいと思うけど。{0c:020501}",
    "raw": null,
-   "en": "{0c:2b50231000}{1c:11}{0b:08}【 Arthur 】{0b:09}\nThe only one who still has not woken is\n{0b:05}{14}, then...{1a}But we have come this far all right.\nSurely it will work out.{1a}{0c:520905}Oh, that reminds me, you should ask the\nSister about 'Purgatory' too.{1a}She was the first to guess the link\nbetween the 'Pillar of Sheol' and your\nsouls.{1a}Of course, I think you can rest a while\nbefore you go looking.{0c:020501}",
+   "en": "{0c:2b50231000}{1c:11}{0b:08}【 Arthur 】{0b:09}\nThe only one who still has not woken is\n{0b:05}{14}, then...{1a}But we have come this far all right.\nSurely it will work out.{1a}{0c:520905}Oh, that reminds me, you should ask the\nSister about 'Purgatory' too.{1a}She was the first to guess the link\nbetween the 'Pillar of Sheol' and\nyour souls.{1a}Of course, I think you can rest a while\nbefore you go looking.{0c:020501}",
    "status": "done",
    "tl": "The only one who still has not woken is [1][VAR14], then... // But we have come this far all right. Surely it will work out. // [2]Oh, that reminds me, you should ask the Sister about 'Purgatory' too. // She was the first to guess the link between the 'Pillar of Sheol' and your souls. // Of course, I think you can rest a while before you go looking."
   },
@@ -742,7 +742,7 @@
    "jp": "{1c:14}{0b:08}{e080} パスカ {e081}{0b:09}\nまだ目が覚めてないのは\n{0b:05}{14}だけか・・・{1a}ま、ここまで上手くいったんだ。\nなんとかなるだろ。{1a}そうだ、\nお前も『{e0a9}獄』のこと\nティアラに聞いておけよ。{1a}『シェオルの{e0ae}』と\nお前達の魂との関係、\n初めに言い当てたのは\nあの子だからな。{1a}それに今度はお前も\n{e0b7}しに行かなきゃならねえだろ?\nもちろん、少し休んでからで\nいいけどさ。{0c:020301}",
    "read": "{1c:14}{0b:08}【 パスカ 】{0b:09}\nまだ目が覚めてないのは\n{0b:05}{14}だけか・・・{1a}ま、ここまで上手くいったんだ。\nなんとかなるだろ。{1a}そうだ、\nお前も『煉獄』のこと\nティアラに聞いておけよ。{1a}『シェオルの柱』と\nお前達の魂との関係、\n初めに言い当てたのは\nあの子だからな。{1a}それに今度はお前も\n探しに行かなきゃならねえだろ?\nもちろん、少し休んでからで\nいいけどさ。{0c:020301}",
    "raw": null,
-   "en": "{1c:14}{0b:08}【 Pasca 】{0b:09}\nThe only one still out is\n{0b:05}{14}, huh...{1a}Well, we got this far all right. It'll work\nout somehow.{1a}Say, you oughta ask Tiara about\n'Purgatory' too.{1a}She's the one who first figured out the\nlink between the 'Pillar of Sheol' and your\nsouls.{1a}Besides, this time you gotta go lookin'\ntoo, right? After a little rest, of\ncourse.{0c:020301}",
+   "en": "{1c:14}{0b:08}【 Pasca 】{0b:09}\nThe only one still out is\n{0b:05}{14}, huh...{1a}Well, we got this far all right. It'll work\nout somehow.{1a}Say, you oughta ask Tiara about\n'Purgatory' too.{1a}She's the one who first figured out the\nlink between the 'Pillar of Sheol' and\nyour souls.{1a}Besides, this time you gotta go lookin'\ntoo, right? After a little rest,\nof course.{0c:020301}",
    "status": "done",
    "tl": "The only one still out is [1][VAR14], huh... // Well, we got this far all right. It'll work out somehow. // Say, you oughta ask Tiara about 'Purgatory' too. // She's the one who first figured out the link between the 'Pillar of Sheol' and your souls. // Besides, this time you gotta go lookin' too, right? After a little rest, of course."
   },
@@ -765,7 +765,7 @@
    "jp": "{1c:19}{0b:08}{e080} ジェシカ {e081}{0b:09}\nまだ{e0a5}きてないのは\n{0b:05}{14}だけか・・・\nはやく助けてあげなきゃね。{1a}ってことで、\n{10}も『{e0a9}獄』のこと\nティアラに聞いといてね。{1a}『シェオルの{e0ae}』と\nあんた達の魂との関係、\n初めに言い当てたのは\nティアラなんだから。{1a}{0c:522923}それに今度は{10}も\n{e0b7}しに行かなきゃだめだもんね。\nもちろん、\n少し休んでからでいいけどさ。{0c:020101}",
    "read": "{1c:19}{0b:08}【 ジェシカ 】{0b:09}\nまだ起きてないのは\n{0b:05}{14}だけか・・・\nはやく助けてあげなきゃね。{1a}ってことで、\n{10}も『煉獄』のこと\nティアラに聞いといてね。{1a}『シェオルの柱』と\nあんた達の魂との関係、\n初めに言い当てたのは\nティアラなんだから。{1a}{0c:522923}それに今度は{10}も\n探しに行かなきゃだめだもんね。\nもちろん、\n少し休んでからでいいけどさ。{0c:020101}",
    "raw": null,
-   "en": "{1c:19}{0b:08}【 Jessica 】{0b:09}\nThe only one not up yet is\n{0b:05}{14}, huh... We'd better\nhurry up with the rescue.{1a}So, {10}, you go ask Tiara about\n'Purgatory' too.{1a}She's the one who first figured out the\nlink between the 'Pillar of Sheol' and your\nsouls.{1a}{0c:522923}Besides, this time you've gotta go\nlooking too, {10}. After a little\nrest, of course.{0c:020101}",
+   "en": "{1c:19}{0b:08}【 Jessica 】{0b:09}\nThe only one not up yet is\n{0b:05}{14}, huh... We'd better\nhurry up with the rescue.{1a}So, {10}, you go ask Tiara about\n'Purgatory' too.{1a}She's the one who first figured out the\nlink between the 'Pillar of Sheol' and\nyour souls.{1a}{0c:522923}Besides, this time you've gotta go\nlooking too, {10}. After a little\nrest, of course.{0c:020101}",
    "status": "done",
    "tl": "The only one not up yet is [1][VAR14], huh... We'd better hurry up with the rescue. // So, [HERO], you go ask Tiara about 'Purgatory' too. // She's the one who first figured out the link between the 'Pillar of Sheol' and your souls. // [2]Besides, this time you've gotta go looking too, [HERO]. After a little rest, of course."
   },
@@ -834,7 +834,7 @@
    "jp": "{1c:14}{0b:08}{e080} パスカ {e081}{0b:09}\nとりあえずオレ達の被{e0bf}はゼロだ。\n被{e0bf}のなかった{e0c8}{e0c9}って\nここだけなんだってよ。{1a}凶戦士ってのは狼と同じで\n弱そうな奴から襲うそうだから、\n本当はオレ達が1番やばかった\nらしいんだけどさ、{1a}バルデスのおっさんのおかげで\nなんとかみんな助かったよ。{1a}{0c:5112}なんでも、オレ達が来る1{e0c3}{e0b6}前にも\n同じような事があったらしいんだけど\nそのときは{e0c4}入り百人のうち\n{e0b6}分近くが殺されたんだってさ。{1a}それと比べりゃオレ達は幸せだよ。{0c:020101}",
    "read": "{1c:14}{0b:08}【 パスカ 】{0b:09}\nとりあえずオレ達の被害はゼロだ。\n被害のなかった宿舎って\nここだけなんだってよ。{1a}凶戦士ってのは狼と同じで\n弱そうな奴から襲うそうだから、\n本当はオレ達が1番やばかった\nらしいんだけどさ、{1a}バルデスのおっさんのおかげで\nなんとかみんな助かったよ。{1a}{0c:5112}なんでも、オレ達が来る1年半前にも\n同じような事があったらしいんだけど\nそのときは新入り百人のうち\n半分近くが殺されたんだってさ。{1a}それと比べりゃオレ達は幸せだよ。{0c:020101}",
    "raw": null,
-   "en": "{1c:14}{0b:08}【 Pasca 】{0b:09}\nAnyway, we took zero losses. They say\nours is the only quarters that got off\nclean.{1a}Berserkers are like wolves, go for the\nweak-lookin' ones first, so we were\nactually in the worst danger,{1a}but thanks to old man Valdes, everybody\npulled through.{1a}{0c:5112}Word is, a year and a half before we\ncame, same kinda thing happened, and\nthat time almost half of a hundred\nrookies got killed.{1a}Next to that, we got it good.{0c:020101}",
+   "en": "{1c:14}{0b:08}【 Pasca 】{0b:09}\nAnyway, we took zero losses. They say\nours is the only quarters that got\noff clean.{1a}Berserkers are like wolves, go for the\nweak-lookin' ones first, so we were\nactually in the worst danger,{1a}but thanks to old man Valdes, everybody\npulled through.{1a}{0c:5112}Word is, a year and a half before we\ncame, same kinda thing happened, and\nthat time almost half of a hundred\nrookies got killed.{1a}Next to that, we got it good.{0c:020101}",
    "status": "done",
    "tl": "Anyway, we took zero losses. They say ours is the only quarters that got off clean. // Berserkers are like wolves, go for the weak-lookin' ones first, so we were actually in the worst danger, // but thanks to old man Valdes, everybody pulled through. // [1]Word is, a year and a half before we came, same kinda thing happened, and that time almost half of a hundred rookies got killed. // Next to that, we got it good."
   },
@@ -857,7 +857,7 @@
    "jp": "{1c:11}{0b:08}{e080} アーサー {e081}{0b:09}\n『シェオルの{e0ae}』に\n君達の魂が閉じこめられて\nいるという事が分かったのも{1a}シスターのひらめきのおかげだし、\n『シェオルの{e0ae}』を\n見つけるのもそう簡単じゃない。{1a}そういう意味では、\n君も僕達もものすごい幸運の\n持ち{e0cb}なのかもしれないね。{0c:020501}",
    "read": "{1c:11}{0b:08}【 アーサー 】{0b:09}\n『シェオルの柱』に\n君達の魂が閉じこめられて\nいるという事が分かったのも{1a}シスターのひらめきのおかげだし、\n『シェオルの柱』を\n見つけるのもそう簡単じゃない。{1a}そういう意味では、\n君も僕達もものすごい幸運の\n持ち主なのかもしれないね。{0c:020501}",
    "raw": null,
-   "en": "{1c:11}{0b:08}【 Arthur 】{0b:09}\nWe only learned that your souls were\nimprisoned in the 'Pillar of Sheol'{1a}thanks to the Sister's flash of\ninspiration, and finding a 'Pillar of Sheol'\nis not that easy either.{1a}In that sense, you and the rest of us\nmay be people of extraordinary good\nfortune.{0c:020501}",
+   "en": "{1c:11}{0b:08}【 Arthur 】{0b:09}\nWe only learned that your souls were\nimprisoned in the 'Pillar of Sheol'{1a}thanks to the Sister's flash of\ninspiration, and finding a 'Pillar of Sheol'\nis not that easy either.{1a}In that sense, you and the rest of us\nmay be people of extraordinary\ngood fortune.{0c:020501}",
    "status": "done",
    "tl": "We only learned that your souls were imprisoned in the 'Pillar of Sheol' // thanks to the Sister's flash of inspiration, and finding a 'Pillar of Sheol' is not that easy either. // In that sense, you and the rest of us may be people of extraordinary good fortune."
   },
@@ -903,7 +903,7 @@
    "jp": "{1c:1d}{0b:08}{e080} ルカ {e081}{0b:09}\n『シェオルの{e0ae}』に\n{10}さん達の魂が閉じこめ\nられているという事が分かったのも{1a}ティアラさんの\nひらめきのおかげですし、{1a}『シェオルの{e0ae}』を見つけるのも\nそう簡単な話じゃですし・・・{1a}そういう意味では、\n{10}さんもわたし達も\nものすごい幸運の\n持ち{e0cb}なのかもしれませんね。{0c:020101}",
    "read": "{1c:1d}{0b:08}【 ルカ 】{0b:09}\n『シェオルの柱』に\n{10}さん達の魂が閉じこめ\nられているという事が分かったのも{1a}ティアラさんの\nひらめきのおかげですし、{1a}『シェオルの柱』を見つけるのも\nそう簡単な話じゃですし・・・{1a}そういう意味では、\n{10}さんもわたし達も\nものすごい幸運の\n持ち主なのかもしれませんね。{0c:020101}",
    "raw": null,
-   "en": "{1c:1d}{0b:08}【 Luca 】{0b:09}\nWe learned that your souls were\nimprisoned in the 'Pillar of Sheol',\n{10}-san,{1a}only thanks to Tiara-san's flash of\ninspiration,{1a}and finding a 'Pillar of Sheol' is not so\nsimple either...{1a}In that sense, you and all of us may be\npeople of tremendous good fortune,\n{10}-san.{0c:020101}",
+   "en": "{1c:1d}{0b:08}【 Luca 】{0b:09}\nWe learned that your souls were\nimprisoned in the 'Pillar of\nSheol', {10}-san,{1a}only thanks to Tiara-san's flash\nof inspiration,{1a}and finding a 'Pillar of Sheol' is not so\nsimple either...{1a}In that sense, you and all of us may be\npeople of tremendous good\nfortune, {10}-san.{0c:020101}",
    "status": "done",
    "tl": "We learned that your souls were imprisoned in the 'Pillar of Sheol', [HERO]-san, // only thanks to Tiara-san's flash of inspiration, // and finding a 'Pillar of Sheol' is not so simple either... // In that sense, you and all of us may be people of tremendous good fortune, [HERO]-san."
   },
@@ -1018,7 +1018,7 @@
    "jp": "{1c:10}{0b:08}{e080} アッシュ {e081}{0b:09}\n運だけじゃないと思うぞ。{1a}バルデスさんやクムランさんの\n助けがなければ\nなにもできなかっただろうし、{1a}{10}達が助かったのは\nみんなががんばったからだよ。{0c:020301}",
    "read": "{1c:10}{0b:08}【 アッシュ 】{0b:09}\n運だけじゃないと思うぞ。{1a}バルデスさんやクムランさんの\n助けがなければ\nなにもできなかっただろうし、{1a}{10}達が助かったのは\nみんなががんばったからだよ。{0c:020301}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\nI don't think it was just luck.{1a}Without help from Valdes-san and\nQumran-san, we couldn't have done\nanything,{1a}and {10} and the others got\nsaved because everybody worked hard,\ny'know.{0c:020301}",
+   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\nI don't think it was just luck.{1a}Without help from Valdes-san and\nQumran-san, we couldn't have\ndone anything,{1a}and {10} and the others got\nsaved because everybody worked\nhard, y'know.{0c:020301}",
    "status": "done",
    "tl": "I don't think it was just luck. // Without help from Valdes-san and Qumran-san, we couldn't have done anything, // and [HERO] and the others got saved because everybody worked hard, y'know."
   },
@@ -1087,7 +1087,7 @@
    "jp": "{1c:17}{0b:08}{e080} シャルン {e081}{0b:09}\nうん、そうだね。{1a}ところでバルデスさんには\nもう{e085}った?\n{10}もお礼言わなきゃ。{1a}バルデスさんの事だから照れて\n否定するかもしれないけど、\nあたし達の1番の恩人であることは\n間違いないんだから。{1a}それに、あたし達を助けるために\nバルデスさんの失ったものは、\nあたし達には償うことも\n出来ないんだし・・・{0c:020301}",
    "read": "{1c:17}{0b:08}【 シャルン 】{0b:09}\nうん、そうだね。{1a}ところでバルデスさんには\nもう会った?\n{10}もお礼言わなきゃ。{1a}バルデスさんの事だから照れて\n否定するかもしれないけど、\nあたし達の1番の恩人であることは\n間違いないんだから。{1a}それに、あたし達を助けるために\nバルデスさんの失ったものは、\nあたし達には償うことも\n出来ないんだし・・・{0c:020301}",
    "raw": null,
-   "en": "{1c:17}{0b:08}【 Scharn 】{0b:09}\nYeah, that's right!{1a}By the way, have you seen Valdes-san\nyet? You gotta thank him too,\n{10}!{1a}Knowing Valdes-san, he'll probably get\nembarrassed and deny it, but he's\ndefinitely the one we owe the most!{1a}And what Valdes-san lost to save us,\nthere's no way we can ever repay...{0c:020301}",
+   "en": "{1c:17}{0b:08}【 Scharn 】{0b:09}\nYeah, that's right!{1a}By the way, have you seen Valdes-san\nyet? You gotta thank him\ntoo, {10}!{1a}Knowing Valdes-san, he'll probably get\nembarrassed and deny it, but he's\ndefinitely the one we owe the most!{1a}And what Valdes-san lost to save us,\nthere's no way we can ever repay...{0c:020301}",
    "status": "done",
    "tl": "Yeah, that's right! // By the way, have you seen Valdes-san yet? You gotta thank him too, [HERO]! // Knowing Valdes-san, he'll probably get embarrassed and deny it, but he's definitely the one we owe the most! // And what Valdes-san lost to save us, there's no way we can ever repay..."
   },

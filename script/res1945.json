@@ -111,7 +111,7 @@
    "jp": "{1c:16}{0b:08}{e080} 不死者ファトゥム {e081}{0b:09}\n余裕だな。\nもう神になったつもりか?{0c:2b5609fe}",
    "read": "{1c:16}{0b:08}【 不死者ファトゥム 】{0b:09}\n余裕だな。\nもう神になったつもりか?{0c:2b5609fe}",
    "raw": null,
-   "en": "{1c:16}{0b:08}【 Fatum the Undying 】{0b:09}\nYou seem at ease. Think you are a god\nalready?{0c:2b5609fe}",
+   "en": "{1c:16}{0b:08}【 Fatum the Undying 】{0b:09}\nYou seem at ease. Think you are a\ngod already?{0c:2b5609fe}",
    "status": "done",
    "tl": "You seem at ease. Think you are a god already?"
   },
@@ -333,7 +333,7 @@
    "jp": "{1c:11}{0b:08}{e080} クムラン {e081}{0b:09}\nアノイア{e095}を{e096}り、\n人{e08a}に1つの{e097}遍的な価値観を\n植え付けたのも、{1a}世{e088}中の人{e08a}に\n永遠の命という夢を見せたのも、{1a}すべては『{e09f}しい世{e088}』という{e0a0}の\n幻想を人{e0a2}に持たせるため・・・{0c:2b5809fe}",
    "read": "{1c:11}{0b:08}【 クムラン 】{0b:09}\nアノイア教を創り、\n人々に1つの普遍的な価値観を\n植え付けたのも、{1a}世界中の人々に\n永遠の命という夢を見せたのも、{1a}すべては『新しい世界』という名の\n幻想を人類に持たせるため・・・{0c:2b5809fe}",
    "raw": null,
-   "en": "{1c:11}{0b:08}【 Qumran 】{0b:09}\nYou founded the Anoian faith and\nplanted a single universal set of values in\npeople,{1a}you showed the whole world the dream\nof eternal life,{1a}and all of it was to give humankind the\nillusion called the 'New World'...{0c:2b5809fe}",
+   "en": "{1c:11}{0b:08}【 Qumran 】{0b:09}\nYou founded the Anoian faith and\nplanted a single universal set of values\nin people,{1a}you showed the whole world the dream\nof eternal life,{1a}and all of it was to give humankind the\nillusion called the 'New World'...{0c:2b5809fe}",
    "status": "done",
    "tl": "You founded the Anoian faith and planted a single universal set of values in people, // you showed the whole world the dream of eternal life, // and all of it was to give humankind the illusion called the 'New World'..."
   },
@@ -612,7 +612,7 @@
    "jp": "{0c:52ffff0affff12}{1c:1f}{0b:08}{e080} アーサーの父 {e081}{0b:09}\n城{e0b2}を閉めろ!\n魔物{e0a3}の進入を許すな!!{0c:2b5109fe}",
    "read": "{0c:52ffff0affff12}{1c:1f}{0b:08}【 アーサーの父 】{0b:09}\n城門を閉めろ!\n魔物共の進入を許すな!!{0c:2b5109fe}",
    "raw": null,
-   "en": "{0c:52ffff0affff12}{1c:1f}{0b:08}【 Arthur's Father 】{0b:09}\nShut the castle gate! Let no monster\ninside!!{0c:2b5109fe}",
+   "en": "{0c:52ffff0affff12}{1c:1f}{0b:08}【 Arthur's Father 】{0b:09}\nShut the castle gate! Let no\nmonster inside!!{0c:2b5109fe}",
    "status": "done",
    "tl": "Shut the castle gate! Let no monster inside!!"
   },
@@ -636,7 +636,7 @@
    "jp": "{0c:52ffff1affff22}{1c:1f}{0b:08}{e080} アーサーの父 {e081}{0b:09}\nええい、何をしている!\n早く閉めろ!!{1a}{0c:52ffff2affff32}なに? 構わん!\n難{e0bd}など捨て{e0be}け!!\n早く城{e0b2}を閉めぬか!{0c:2b5109fe}",
    "read": "{0c:52ffff1affff22}{1c:1f}{0b:08}【 アーサーの父 】{0b:09}\nええい、何をしている!\n早く閉めろ!!{1a}{0c:52ffff2affff32}なに? 構わん!\n難民など捨て置け!!\n早く城門を閉めぬか!{0c:2b5109fe}",
    "raw": null,
-   "en": "{0c:52ffff1affff22}{1c:1f}{0b:08}【 Arthur's Father 】{0b:09}\nBah, what are you doing! Shut it,\nquickly!!{1a}{0c:52ffff2affff32}What? Never mind that! Leave the\nrefugees to their fate!! Shut the castle\ngate at once!{0c:2b5109fe}",
+   "en": "{0c:52ffff1affff22}{1c:1f}{0b:08}【 Arthur's Father 】{0b:09}\nBah, what are you doing! Shut\nit, quickly!!{1a}{0c:52ffff2affff32}What? Never mind that! Leave the\nrefugees to their fate!! Shut the castle\ngate at once!{0c:2b5109fe}",
    "status": "done",
    "tl": "Bah, what are you doing! Shut it, quickly!! // [1]What? Never mind that! Leave the refugees to their fate!! Shut the castle gate at once!"
   },
@@ -660,7 +660,7 @@
    "jp": "{0c:52ffff3affff42}{1c:1f}{0b:08}{e080} アーサーの父 {e081}{0b:09}\n{e0c1}{e0c2}、橋の上の難{e0bd}{e0a3}を{e0c4}殺せ!\n怯んだ隙に城{e0b2}を閉めろ!{0c:fe}",
    "read": "{0c:52ffff3affff42}{1c:1f}{0b:08}【 アーサーの父 】{0b:09}\n弓隊、橋の上の難民共を射殺せ!\n怯んだ隙に城門を閉めろ!{0c:fe}",
    "raw": null,
-   "en": "{0c:52ffff3affff42}{1c:1f}{0b:08}【 Arthur's Father 】{0b:09}\nArchers, shoot down the refugees on\nthe bridge! Shut the gate while they\nfalter!{0c:fe}",
+   "en": "{0c:52ffff3affff42}{1c:1f}{0b:08}【 Arthur's Father 】{0b:09}\nArchers, shoot down the refugees on\nthe bridge! Shut the gate while\nthey falter!{0c:fe}",
    "status": "done",
    "tl": "Archers, shoot down the refugees on the bridge! Shut the gate while they falter!"
   },
@@ -822,7 +822,7 @@
    "jp": "{0c:52ffff62ffff6a}{1c:1f}{0b:08}{e080} アーサーの父 {e081}{0b:09}\nま、魔物{e0a3}め、\nよくもワシの{e0d2}{e0d3}を、城を・・・{1a}生きてこの{e0b9}{e0ba}を出すな!\n1人ずつ{e0d4}をはねよ!!{0c:fe}",
    "read": "{0c:52ffff62ffff6a}{1c:1f}{0b:08}【 アーサーの父 】{0b:09}\nま、魔物共め、\nよくもワシの領土を、城を・・・{1a}生きてこの部屋を出すな!\n1人ずつ首をはねよ!!{0c:fe}",
    "raw": null,
-   "en": "{0c:52ffff62ffff6a}{1c:1f}{0b:08}【 Arthur's Father 】{0b:09}\nM-monsters, how dare you, my lands, my\ncastle...{1a}Let them not leave this room alive! Cut\noff their heads, one by one!!{0c:fe}",
+   "en": "{0c:52ffff62ffff6a}{1c:1f}{0b:08}【 Arthur's Father 】{0b:09}\nM-monsters, how dare you, my lands,\nmy castle...{1a}Let them not leave this room alive! Cut\noff their heads, one by one!!{0c:fe}",
    "status": "done",
    "tl": "M-monsters, how dare you, my lands, my castle... // Let them not leave this room alive! Cut off their heads, one by one!!"
   },
@@ -1045,7 +1045,7 @@
    "jp": "{1c:19}{0b:08}{e080} 聖者アヴァダイル {e081}{0b:09}\n何故否定する?\n君は誰よりも『{e09f}しい世{e088}』の\n到来を望んでいるのに。{0c:2b5109fe}",
    "read": "{1c:19}{0b:08}【 聖者アヴァダイル 】{0b:09}\n何故否定する?\n君は誰よりも『新しい世界』の\n到来を望んでいるのに。{0c:2b5109fe}",
    "raw": null,
-   "en": "{1c:19}{0b:08}【 Saint Avadail 】{0b:09}\nWhy do you deny it? You, more than\nanyone, long for the coming of the 'New\nWorld'.{0c:2b5109fe}",
+   "en": "{1c:19}{0b:08}【 Saint Avadail 】{0b:09}\nWhy do you deny it? You, more than\nanyone, long for the coming of the\n'New World'.{0c:2b5109fe}",
    "status": "done",
    "tl": "Why do you deny it? You, more than anyone, long for the coming of the 'New World'."
   },
@@ -1057,7 +1057,7 @@
    "jp": "{0c:52d8e02b571000}{1c:29}{0b:08}{e080} アーサー {e081}{0b:09}\nぼ・・・僕は{10}と\nこの世{e088}を守る・・・{1a}僕は{10}と\n一緒に戦うと決めたんだ!{0c:fe}",
    "read": "{0c:52d8e02b571000}{1c:29}{0b:08}【 アーサー 】{0b:09}\nぼ・・・僕は{10}と\nこの世界を守る・・・{1a}僕は{10}と\n一緒に戦うと決めたんだ!{0c:fe}",
    "raw": null,
-   "en": "{0c:52d8e02b571000}{1c:29}{0b:08}【 Arthur 】{0b:09}\nI-I will protect this world with\n{10}...{1a}I have decided to fight alongside\n{10}!{0c:fe}",
+   "en": "{0c:52d8e02b571000}{1c:29}{0b:08}【 Arthur 】{0b:09}\nI-I will protect this world\nwith {10}...{1a}I have decided to fight\nalongside {10}!{0c:fe}",
    "status": "done",
    "tl": "I-I will protect this world with [HERO]... // I have decided to fight alongside [HERO]!"
   },
@@ -1091,7 +1091,7 @@
    "jp": "{0c:51ff02}{1c:22}{0b:08}{e080} {10}の虚{e0e8} {e081}{0b:09}\n本当の僕は君が思ってるような\n人間じゃない。{0c:2b512351e02b5d1000}{0c:2b502351202b5d1000}{0c:fe}",
    "read": "{0c:51ff02}{1c:22}{0b:08}【 {10}の虚像 】{0b:09}\n本当の僕は君が思ってるような\n人間じゃない。{0c:2b512351e02b5d1000}{0c:2b502351202b5d1000}{0c:fe}",
    "raw": null,
-   "en": "{0c:51ff02}{1c:22}{0b:08}【 {10}'s Phantom 】{0b:09}\nThe real me isn't the person you think I\nam.{0c:2b512351e02b5d1000}{0c:2b502351202b5d1000}{0c:fe}",
+   "en": "{0c:51ff02}{1c:22}{0b:08}【 {10}'s Phantom 】{0b:09}\nThe real me isn't the person you think\nI am.{0c:2b512351e02b5d1000}{0c:2b502351202b5d1000}{0c:fe}",
    "status": "done",
    "tl": "The real me isn't the person you think I am."
   },
@@ -1114,7 +1114,7 @@
    "jp": "{0c:52ff12ff1a}{1c:23}{0b:08}{e080} {10}の虚{e0e8} {e081}{0b:09}\n誰がお前のような\n{0c:2b512351e02b5d1000}{0c:2b502351202b5d1000}単純な正義感を{e0e9}り回す\n単細胞男に心を{e0eb}くかよ。{0c:fe}",
    "read": "{0c:52ff12ff1a}{1c:23}{0b:08}【 {10}の虚像 】{0b:09}\n誰がお前のような\n{0c:2b512351e02b5d1000}{0c:2b502351202b5d1000}単純な正義感を振り回す\n単細胞男に心を開くかよ。{0c:fe}",
    "raw": null,
-   "en": "{0c:52ff12ff1a}{1c:23}{0b:08}【 {10}'s Phantom 】{0b:09}\nWho'd ever open up {0c:2b512351e02b5d1000}{0c:2b502351202b5d1000}to a simple-minded\nlout who brandishes his naive sense of\njustice?{0c:fe}",
+   "en": "{0c:52ff12ff1a}{1c:23}{0b:08}【 {10}'s Phantom 】{0b:09}\nWho'd ever open up {0c:2b512351e02b5d1000}{0c:2b502351202b5d1000}to a simple-minded\nlout who brandishes his naive sense\nof justice?{0c:fe}",
    "status": "done",
    "tl": "Who'd ever open up [1]to a simple-minded lout who brandishes his naive sense of justice?"
   },
@@ -1148,7 +1148,7 @@
    "jp": "{0c:51ff02}{1c:24}{0b:08}{e080} {10}の虚{e0e8} {e081}{0b:09}\n本当の私はあなたが思ってるような\n{0c:2b512351e02b5d1000}{0c:2b502351202b5d1000}人間じゃない。{0c:fe}",
    "read": "{0c:51ff02}{1c:24}{0b:08}【 {10}の虚像 】{0b:09}\n本当の私はあなたが思ってるような\n{0c:2b512351e02b5d1000}{0c:2b502351202b5d1000}人間じゃない。{0c:fe}",
    "raw": null,
-   "en": "{0c:51ff02}{1c:24}{0b:08}【 {10}'s Phantom 】{0b:09}\nThe real me is not {0c:2b512351e02b5d1000}{0c:2b502351202b5d1000}the person you think I\nam.{0c:fe}",
+   "en": "{0c:51ff02}{1c:24}{0b:08}【 {10}'s Phantom 】{0b:09}\nThe real me is not {0c:2b512351e02b5d1000}{0c:2b502351202b5d1000}the person you think\nI am.{0c:fe}",
    "status": "done",
    "tl": "The real me is not [1]the person you think I am."
   },
@@ -1171,7 +1171,7 @@
    "jp": "{0c:52ff12ff1a}{1c:25}{0b:08}{e080} {10}の虚{e0e8} {e081}{0b:09}\n冷静になって考えてみて。\n{0c:2b512351e02b5d1000}{0c:2b502351202b5d1000}誰があなたのような\n単純な正義感を{e0e9}り回す\n単細胞男に心を{e0eb}くと思う?{0c:fe}",
    "read": "{0c:52ff12ff1a}{1c:25}{0b:08}【 {10}の虚像 】{0b:09}\n冷静になって考えてみて。\n{0c:2b512351e02b5d1000}{0c:2b502351202b5d1000}誰があなたのような\n単純な正義感を振り回す\n単細胞男に心を開くと思う?{0c:fe}",
    "raw": null,
-   "en": "{0c:52ff12ff1a}{1c:25}{0b:08}【 {10}'s Phantom 】{0b:09}\nThink it over calmly. {0c:2b512351e02b5d1000}{0c:2b502351202b5d1000}Who do you suppose\nwould open up to a simple-minded man\nwho brandishes his naive sense of{1a}justice?{0c:fe}",
+   "en": "{0c:52ff12ff1a}{1c:25}{0b:08}【 {10}'s Phantom 】{0b:09}\nThink it over calmly. {0c:2b512351e02b5d1000}{0c:2b502351202b5d1000}Who do you suppose\nwould open up to a simple-minded man\nwho brandishes his naive sense{1a}of justice?{0c:fe}",
    "status": "done",
    "tl": "Think it over calmly. [1]Who do you suppose would open up to a simple-minded man who brandishes his naive sense of justice?"
   },
@@ -1252,7 +1252,7 @@
    "jp": "{1c:26}{0b:08}{e080} アーサーの虚{e0e8} {e081}{0b:09}\n僕は君だよ。\n抑圧され続けてきた\n君の本当の姿さ。{0c:fe}",
    "read": "{1c:26}{0b:08}【 アーサーの虚像 】{0b:09}\n僕は君だよ。\n抑圧され続けてきた\n君の本当の姿さ。{0c:fe}",
    "raw": null,
-   "en": "{1c:26}{0b:08}【 Arthur's Phantom 】{0b:09}\nI'm you. The real you, repressed all this\ntime.{0c:fe}",
+   "en": "{1c:26}{0b:08}【 Arthur's Phantom 】{0b:09}\nI'm you. The real you, repressed all\nthis time.{0c:fe}",
    "status": "done",
    "tl": "I'm you. The real you, repressed all this time."
   },
@@ -1356,7 +1356,7 @@
    "jp": "{1c:1c}{0b:08}{e080} 聖者ハンリアル {e081}{0b:09}\nあなたはもうわかってるはず。\n{0c:2b512351ff112b591000}{0c:2b502351202b591000}この世{e088}に本当の安らぎなんて\nあるはずのないことを。{1a}でも、『{e09f}しい世{e088}』では\nみんなが分かり合える。\n人を包む殻がなくなり、\n1つになれる・・・{0c:fe}",
    "read": "{1c:1c}{0b:08}【 聖者ハンリアル 】{0b:09}\nあなたはもうわかってるはず。\n{0c:2b512351ff112b591000}{0c:2b502351202b591000}この世界に本当の安らぎなんて\nあるはずのないことを。{1a}でも、『新しい世界』では\nみんなが分かり合える。\n人を包む殻がなくなり、\n1つになれる・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:1c}{0b:08}【 Saint Hanrial 】{0b:09}\nYou must know by now. {0c:2b512351ff112b591000}{0c:2b502351202b591000}There can be no\ntrue peace in this world.{1a}But in the 'New World', all can\nunderstand one another. The shells\naround people vanish, and all can become\none...{0c:fe}",
+   "en": "{1c:1c}{0b:08}【 Saint Hanrial 】{0b:09}\nYou must know by now. {0c:2b512351ff112b591000}{0c:2b502351202b591000}There can be no\ntrue peace in this world.{1a}But in the 'New World', all can\nunderstand one another. The shells\naround people vanish, and all can\nbecome one...{0c:fe}",
    "status": "done",
    "tl": "You must know by now. [1]There can be no true peace in this world. // But in the 'New World', all can understand one another. The shells around people vanish, and all can become one..."
   },
@@ -1379,7 +1379,7 @@
    "jp": "{1c:1d}{0b:08}{e080} 聖者ウェルカイル {e081}{0b:09}\n『{e09f}しい世{e088}』では、\n{0c:2b512351ff112b5a1000}{0c:2b502351202b5a1000}{e185}{e186}する父とまた{e0e3}える。{1a}そして、みんなと心の底から\n理解し合える。{1a}さあ、願うんだ。\n『{e09f}しい世{e088}』の到来を!{0c:2b5109fe}",
    "read": "{1c:1d}{0b:08}【 聖者ウェルカイル 】{0b:09}\n『新しい世界』では、\n{0c:2b512351ff112b5a1000}{0c:2b502351202b5a1000}尊敬する父とまた会える。{1a}そして、みんなと心の底から\n理解し合える。{1a}さあ、願うんだ。\n『新しい世界』の到来を!{0c:2b5109fe}",
    "raw": null,
-   "en": "{1c:1d}{0b:08}【 Saint Welkail 】{0b:09}\nIn the 'New World', {0c:2b512351ff112b5a1000}{0c:2b502351202b5a1000}you will meet the\nfather you revere again.{1a}And you and everyone will understand\none another from the bottom of your\nhearts.{1a}Come, make your wish. Wish for the\ncoming of the 'New World'!{0c:2b5109fe}",
+   "en": "{1c:1d}{0b:08}【 Saint Welkail 】{0b:09}\nIn the 'New World', {0c:2b512351ff112b5a1000}{0c:2b502351202b5a1000}you will meet the\nfather you revere again.{1a}And you and everyone will understand\none another from the bottom of\nyour hearts.{1a}Come, make your wish. Wish for the\ncoming of the 'New World'!{0c:2b5109fe}",
    "status": "done",
    "tl": "In the 'New World', [1]you will meet the father you revere again. // And you and everyone will understand one another from the bottom of your hearts. // Come, make your wish. Wish for the coming of the 'New World'!"
   },
@@ -1414,7 +1414,7 @@
    "jp": "{1c:20}{0b:08}{e080} アーサーの父 {e081}{0b:09}\nアーサーよ、\n{0c:2b502351202b5e1000}愛する息子よ・・・\n父を救ってくれ・・・{0c:2b5109fe}",
    "read": "{1c:20}{0b:08}【 アーサーの父 】{0b:09}\nアーサーよ、\n{0c:2b502351202b5e1000}愛する息子よ・・・\n父を救ってくれ・・・{0c:2b5109fe}",
    "raw": null,
-   "en": "{1c:20}{0b:08}【 Arthur's Father 】{0b:09}\nArthur, {0c:2b502351202b5e1000}my beloved son... Save your\nfather...{0c:2b5109fe}",
+   "en": "{1c:20}{0b:08}【 Arthur's Father 】{0b:09}\nArthur, {0c:2b502351202b5e1000}my beloved son... Save\nyour father...{0c:2b5109fe}",
    "status": "done",
    "tl": "Arthur, [1]my beloved son... Save your father..."
   },
@@ -1484,7 +1484,7 @@
    "jp": "{1c:19}{0b:08}{e080} 聖者アヴァダイル {e081}{0b:09}\n{e18a}かった・・・\n1万{e18c}も待った・・・{0c:2b5809fe}",
    "read": "{1c:19}{0b:08}【 聖者アヴァダイル 】{0b:09}\n長かった・・・\n1万年も待った・・・{0c:2b5809fe}",
    "raw": null,
-   "en": "{1c:19}{0b:08}【 Saint Avadail 】{0b:09}\nSo long... Ten thousand years I have\nwaited...{0c:2b5809fe}",
+   "en": "{1c:19}{0b:08}【 Saint Avadail 】{0b:09}\nSo long... Ten thousand years I\nhave waited...{0c:2b5809fe}",
    "status": "done",
    "tl": "So long... Ten thousand years I have waited..."
   },
@@ -1520,7 +1520,7 @@
    "jp": "{1c:1b}{0b:08}{e080} 聖者バルカイル {e081}{0b:09}\n『{e09f}しい世{e088}』の声を聞き、\n『始原の地』への扉を{e0eb}く者、\nそれが第二の預言者・・・{1a}汝はその預言者になったのだ。\n何を悲嘆する?{0c:2b5a09fe}",
    "read": "{1c:1b}{0b:08}【 聖者バルカイル 】{0b:09}\n『新しい世界』の声を聞き、\n『始原の地』への扉を開く者、\nそれが第二の預言者・・・{1a}汝はその預言者になったのだ。\n何を悲嘆する?{0c:2b5a09fe}",
    "raw": null,
-   "en": "{1c:1b}{0b:08}【 Saint Barkail 】{0b:09}\nThe one who hears the voice of the\n'New World' and opens the door to the\n'Land of Origin': that is the second{1a}Prophet...{1a}You have become that Prophet. Why do\nyou grieve?{0c:2b5a09fe}",
+   "en": "{1c:1b}{0b:08}【 Saint Barkail 】{0b:09}\nThe one who hears the voice of the\n'New World' and opens the door to the\n'Land of Origin': that is the{1a}second Prophet...{1a}You have become that Prophet. Why do\nyou grieve?{0c:2b5a09fe}",
    "status": "done",
    "tl": "The one who hears the voice of the 'New World' and opens the door to the 'Land of Origin': that is the second Prophet... // You have become that Prophet. Why do you grieve?"
   },
@@ -1741,7 +1741,7 @@
    "jp": "{0c:51c0}{1c:16}{0b:08}{e080} 不死者ファトゥム {e081}{0b:09}\n余裕だな。\nもう神になったつもりか?{0c:52c8d02b501000}{0c:2b5609fe}",
    "read": "{0c:51c0}{1c:16}{0b:08}【 不死者ファトゥム 】{0b:09}\n余裕だな。\nもう神になったつもりか?{0c:52c8d02b501000}{0c:2b5609fe}",
    "raw": null,
-   "en": "{0c:51c0}{1c:16}{0b:08}【 Fatum the Undying 】{0b:09}\nYou seem at ease. Think you are a god\nalready?{0c:52c8d02b501000}{0c:2b5609fe}",
+   "en": "{0c:51c0}{1c:16}{0b:08}【 Fatum the Undying 】{0b:09}\nYou seem at ease. Think you are a\ngod already?{0c:52c8d02b501000}{0c:2b5609fe}",
    "status": "done",
    "tl": "You seem at ease. Think you are a god already?"
   },
@@ -1972,7 +1972,7 @@
    "jp": "{1c:28}{0b:08}{e080} アーサー {e081}{0b:09}\n{10}・・・\n僕はもう誰も失いたくないんだ・・・{1a}だから・・・お願いだ・・・\n{10}!!!{0c:fe}",
    "read": "{1c:28}{0b:08}【 アーサー 】{0b:09}\n{10}・・・\n僕はもう誰も失いたくないんだ・・・{1a}だから・・・お願いだ・・・\n{10}!!!{0c:fe}",
    "raw": null,
-   "en": "{1c:28}{0b:08}【 Arthur 】{0b:09}\n{10}... I do not want to lose anyone\nelse...{1a}So... I beg you... {10}!!!{0c:fe}",
+   "en": "{1c:28}{0b:08}【 Arthur 】{0b:09}\n{10}... I do not want to lose\nanyone else...{1a}So... I beg you... {10}!!!{0c:fe}",
    "status": "done",
    "tl": "[HERO]... I do not want to lose anyone else... // So... I beg you... [HERO]!!!"
   },
@@ -2155,7 +2155,7 @@
    "jp": "{1c:10}{0b:08}{e080} クムラン {e081}{0b:09}\nようやく『アンスールの指{e199}』が\n役に立ちました。あれがなければ\n間に合わなかったかもしれません。{1a}それにしても、\nよく頑張りましたね、\n{10}さん。{0c:fe}",
    "read": "{1c:10}{0b:08}【 クムラン 】{0b:09}\nようやく『アンスールの指輪』が\n役に立ちました。あれがなければ\n間に合わなかったかもしれません。{1a}それにしても、\nよく頑張りましたね、\n{10}さん。{0c:fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Qumran 】{0b:09}\nThe 'Ansur Ring' has finally proved its\nworth. Without it, we might not have\narrived in time.{1a}In any case, you have done very well,\n{10}-san.{0c:fe}",
+   "en": "{1c:10}{0b:08}【 Qumran 】{0b:09}\nThe 'Ansur Ring' has finally proved its\nworth. Without it, we might not have\narrived in time.{1a}In any case, you have done very\nwell, {10}-san.{0c:fe}",
    "status": "done",
    "tl": "The 'Ansur Ring' has finally proved its worth. Without it, we might not have arrived in time. // In any case, you have done very well, [HERO]-san."
   },
@@ -2200,7 +2200,7 @@
    "jp": "{0c:52ff91ff99}{1c:28}{0b:08}{e080} アーサー {e081}{0b:09}\n{10}、心配かけてごめん。{1a}でもどうして生きてるんだろう・・・\nあの時は本当にもう駄目かと\n思ったんだけど・・・{0c:2b5309fe}",
    "read": "{0c:52ff91ff99}{1c:28}{0b:08}【 アーサー 】{0b:09}\n{10}、心配かけてごめん。{1a}でもどうして生きてるんだろう・・・\nあの時は本当にもう駄目かと\n思ったんだけど・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "{0c:52ff91ff99}{1c:28}{0b:08}【 Arthur 】{0b:09}\n{10}, I am sorry to have worried\nyou.{1a}But how is it that I am alive... I really\nthought it was over for me back there...{0c:2b5309fe}",
+   "en": "{0c:52ff91ff99}{1c:28}{0b:08}【 Arthur 】{0b:09}\n{10}, I am sorry to have\nworried you.{1a}But how is it that I am alive... I really\nthought it was over for me back there...{0c:2b5309fe}",
    "status": "done",
    "tl": "[HERO], I am sorry to have worried you. // But how is it that I am alive... I really thought it was over for me back there..."
   },
@@ -2248,7 +2248,7 @@
    "jp": "{0c:52ffb1ffb9}{1c:28}{0b:08}{e080} アーサー {e081}{0b:09}\nいえ、\nもしそのトリックを知っていれば\n上手くいかなかったでしょう。\n僕はすぐに顔に出てしまうから。{1a}{0c:52ffc1ffc9}{e1a6}に感謝しています。\nクムランさんがあの{e084}を\n用意してくださらなければ、\n僕は確実に死んでいたのだから。{1a}{0c:52ffd1ffd9}あれ、そういえば\nファトゥムさんは・・・?{0c:2b5509fe}",
    "read": "{0c:52ffb1ffb9}{1c:28}{0b:08}【 アーサー 】{0b:09}\nいえ、\nもしそのトリックを知っていれば\n上手くいかなかったでしょう。\n僕はすぐに顔に出てしまうから。{1a}{0c:52ffc1ffc9}逆に感謝しています。\nクムランさんがあの槍を\n用意してくださらなければ、\n僕は確実に死んでいたのだから。{1a}{0c:52ffd1ffd9}あれ、そういえば\nファトゥムさんは・・・?{0c:2b5509fe}",
    "raw": null,
-   "en": "{0c:52ffb1ffb9}{1c:28}{0b:08}【 Arthur 】{0b:09}\nNot at all. Had I known the trick, it would\nnever have worked. It all shows on my\nface at once.{1a}{0c:52ffc1ffc9}If anything, I am grateful. Had you not\nprepared that spear, Qumran-san, I\nwould surely be dead.{1a}{0c:52ffd1ffd9}Wait, speaking of which, where is\nFatum-san...?{0c:2b5509fe}",
+   "en": "{0c:52ffb1ffb9}{1c:28}{0b:08}【 Arthur 】{0b:09}\nNot at all. Had I known the trick, it would\nnever have worked. It all shows on my\nface at once.{1a}{0c:52ffc1ffc9}If anything, I am grateful. Had you not\nprepared that spear, Qumran-san, I\nwould surely be dead.{1a}{0c:52ffd1ffd9}Wait, speaking of which, where\nis Fatum-san...?{0c:2b5509fe}",
    "status": "done",
    "tl": "Not at all. Had I known the trick, it would never have worked. It all shows on my face at once. // [1]If anything, I am grateful. Had you not prepared that spear, Qumran-san, I would surely be dead. // [2]Wait, speaking of which, where is Fatum-san...?"
   },

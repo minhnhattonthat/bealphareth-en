@@ -207,7 +207,7 @@
    "jp": "{0c:1000}{1c:10}用がないなら出ていけばどうだ?",
    "read": "{0c:1000}{1c:10}用がないなら出ていけばどうだ?",
    "raw": null,
-   "en": "{0c:1000}{1c:10}If you have no business here, why not\nleave?",
+   "en": "{0c:1000}{1c:10}If you have no business here, why\nnot leave?",
    "status": "done",
    "tl": "If you have no business here, why not leave?"
   },
@@ -383,7 +383,7 @@
    "jp": "{1c:10}用がないなら出ていけばどうだ?",
    "read": "{1c:10}用がないなら出ていけばどうだ?",
    "raw": null,
-   "en": "{1c:10}If you have no business here, why not\nleave?",
+   "en": "{1c:10}If you have no business here, why\nnot leave?",
    "status": "done",
    "tl": "If you have no business here, why not leave?"
   },
@@ -418,7 +418,7 @@
    "jp": "{1c:10}用がないなら出ていけばどうだ?",
    "read": "{1c:10}用がないなら出ていけばどうだ?",
    "raw": null,
-   "en": "{1c:10}If you have no business here, why not\nleave?",
+   "en": "{1c:10}If you have no business here, why\nnot leave?",
    "status": "done",
    "tl": "If you have no business here, why not leave?"
   },
@@ -500,7 +500,7 @@
    "jp": "{1c:11}用がないなら出ていけばどうだ?",
    "read": "{1c:11}用がないなら出ていけばどうだ?",
    "raw": null,
-   "en": "{1c:11}If you have no business here, why not\nleave?",
+   "en": "{1c:11}If you have no business here, why\nnot leave?",
    "status": "done",
    "tl": "If you have no business here, why not leave?"
   },
@@ -535,7 +535,7 @@
    "jp": "{0c:3160009a00881002501651003a00}{1c:1b}{0b:08}{e080} レイア {e081}{0b:09}\n人が死んだのに何も感じない・・・\nただ心が渇くだけ・・・{1a}自分が冷たい女だということを\n再確認させられる・・・{0c:1501}",
    "read": "{0c:3160009a00881002501651003a00}{1c:1b}{0b:08}【 レイア 】{0b:09}\n人が死んだのに何も感じない・・・\nただ心が渇くだけ・・・{1a}自分が冷たい女だということを\n再確認させられる・・・{0c:1501}",
    "raw": null,
-   "en": "{0c:3160009a00881002501651003a00}{1c:1b}{0b:08}【 Leia 】{0b:09}\nPeople have died, and I feel nothing... Only\nmy heart running dry...{1a}It reminds me once more that I am a cold\nwoman...{0c:1501}",
+   "en": "{0c:3160009a00881002501651003a00}{1c:1b}{0b:08}【 Leia 】{0b:09}\nPeople have died, and I feel nothing... Only\nmy heart running dry...{1a}It reminds me once more that I am a\ncold woman...{0c:1501}",
    "status": "done",
    "tl": "People have died, and I feel nothing... Only my heart running dry... // It reminds me once more that I am a cold woman..."
   },
@@ -937,7 +937,7 @@
    "jp": "{0c:3160009a00881002501651003a00}私は{e085}に戦う者に\nモラルや友情は求めない。\n必要なのは強さだけだ。{0c:1501}",
    "read": "{0c:3160009a00881002501651003a00}私は共に戦う者に\nモラルや友情は求めない。\n必要なのは強さだけだ。{0c:1501}",
    "raw": null,
-   "en": "{0c:3160009a00881002501651003a00}I ask neither morals nor friendship of\nthose I fight beside. All I require is\nstrength.{0c:1501}",
+   "en": "{0c:3160009a00881002501651003a00}I ask neither morals nor friendship of\nthose I fight beside. All I require\nis strength.{0c:1501}",
    "status": "done",
    "tl": "I ask neither morals nor friendship of those I fight beside. All I require is strength."
   },
@@ -960,7 +960,7 @@
    "jp": "・・・わかった。\nたとえお前が悪魔であっても、\n私は行かねばならない・・・",
    "read": "・・・わかった。\nたとえお前が悪魔であっても、\n私は行かねばならない・・・",
    "raw": null,
-   "en": "...Very well. Even if you are a devil, I must\ngo...",
+   "en": "...Very well. Even if you are a devil, I\nmust go...",
    "status": "done",
    "tl": "...Very well. Even if you are a devil, I must go..."
   },
@@ -1055,7 +1055,7 @@
    "jp": "{1c:10}ならば話すことはない。\n出ていってくれ。",
    "read": "{1c:10}ならば話すことはない。\n出ていってくれ。",
    "raw": null,
-   "en": "{1c:10}Then we have nothing to discuss. Please\nleave.",
+   "en": "{1c:10}Then we have nothing to discuss.\nPlease leave.",
    "status": "done",
    "tl": "Then we have nothing to discuss. Please leave."
   },
@@ -1162,7 +1162,7 @@
    "jp": "{1c:12}{0b:08}{e080} レイア {e081}{0b:09}\n・・・・・・{1a}一体何しに来たのだ?\nお前達は・・・{0c:1501}",
    "read": "{1c:12}{0b:08}【 レイア 】{0b:09}\n・・・・・・{1a}一体何しに来たのだ?\nお前達は・・・{0c:1501}",
    "raw": null,
-   "en": "{1c:12}{0b:08}【 Leia 】{0b:09}\n......{1a}What did you come here to do, the lot of\nyou...?{0c:1501}",
+   "en": "{1c:12}{0b:08}【 Leia 】{0b:09}\n......{1a}What did you come here to do, the lot\nof you...?{0c:1501}",
    "status": "done",
    "tl": "...... // What did you come here to do, the lot of you...?"
   },
@@ -1396,7 +1396,7 @@
    "jp": "{1c:15}{0b:08}{e080} パスカ {e081}{0b:09}\nそりゃそうだけどさ、\n町にいるときくらい\n気楽にやってもいいじゃねえか。{1a}{0c:520304}これから地面の下で\nおっかねえ{e098}け物どもと\n戦わなきゃならねえっていうのによ、{1a}自分の{e099}{e09a}にいるときまで\n気を張ってちゃ、\nいざってときに力が出ねえぜ。{0c:2903091501}",
    "read": "{1c:15}{0b:08}【 パスカ 】{0b:09}\nそりゃそうだけどさ、\n町にいるときくらい\n気楽にやってもいいじゃねえか。{1a}{0c:520304}これから地面の下で\nおっかねえ化け物どもと\n戦わなきゃならねえっていうのによ、{1a}自分の部屋にいるときまで\n気を張ってちゃ、\nいざってときに力が出ねえぜ。{0c:2903091501}",
    "raw": null,
-   "en": "{1c:15}{0b:08}【 Pasca 】{0b:09}\nWell, sure, but ya can take it easy while\nyou're in town, can't ya?{1a}{0c:520304}We gotta go underground and fight\nscary damn monsters from here on out,{1a}and if you're wound up tight even in your\nown room, you'll have nothin' left when it\ncounts.{0c:2903091501}",
+   "en": "{1c:15}{0b:08}【 Pasca 】{0b:09}\nWell, sure, but ya can take it easy while\nyou're in town, can't ya?{1a}{0c:520304}We gotta go underground and fight\nscary damn monsters from here on out,{1a}and if you're wound up tight even in your\nown room, you'll have nothin' left when\nit counts.{0c:2903091501}",
    "status": "done",
    "tl": "Well, sure, but ya can take it easy while you're in town, can't ya? // [1]We gotta go underground and fight scary damn monsters from here on out, // and if you're wound up tight even in your own room, you'll have nothin' left when it counts."
   },
@@ -1468,7 +1468,7 @@
    "jp": "{0c:520607}{1c:16}{0b:08}{e080} パスカ {e081}{0b:09}\nなあんだ、オレと同じ平{e090}か。\nてっきり、どこぞの貴{e093}の\nお嬢さんかと思ったよ。{1a}{0c:5108}よろしくな、レイア。\nまあ気楽にやろうぜ。{0c:2903091501}",
    "read": "{0c:520607}{1c:16}{0b:08}【 パスカ 】{0b:09}\nなあんだ、オレと同じ平民か。\nてっきり、どこぞの貴族の\nお嬢さんかと思ったよ。{1a}{0c:5108}よろしくな、レイア。\nまあ気楽にやろうぜ。{0c:2903091501}",
    "raw": null,
-   "en": "{0c:520607}{1c:16}{0b:08}【 Pasca 】{0b:09}\nAw, so you're a commoner, same as me.\nFigured you for some noble's daughter or\nsomethin'.{1a}{0c:5108}Good to know ya, Leia. Let's just take it\neasy, huh?{0c:2903091501}",
+   "en": "{0c:520607}{1c:16}{0b:08}【 Pasca 】{0b:09}\nAw, so you're a commoner, same as me.\nFigured you for some noble's daughter\nor somethin'.{1a}{0c:5108}Good to know ya, Leia. Let's just take it\neasy, huh?{0c:2903091501}",
    "status": "done",
    "tl": "Aw, so you're a commoner, same as me. Figured you for some noble's daughter or somethin'. // [1]Good to know ya, Leia. Let's just take it easy, huh?"
   },
@@ -1585,7 +1585,7 @@
    "jp": "{1c:1c}{0b:08}{e080} レイア {e081}{0b:09}\n用がないなら出ていけばどうだ?",
    "read": "{1c:1c}{0b:08}【 レイア 】{0b:09}\n用がないなら出ていけばどうだ?",
    "raw": null,
-   "en": "{1c:1c}{0b:08}【 Leia 】{0b:09}\nIf you have no business here, why not\nleave?",
+   "en": "{1c:1c}{0b:08}【 Leia 】{0b:09}\nIf you have no business here, why\nnot leave?",
    "status": "done",
    "tl": "If you have no business here, why not leave?"
   },
@@ -1644,7 +1644,7 @@
    "jp": "{1c:15}{0b:08}{e080} パスカ {e081}{0b:09}\nそりゃそうだけどさ、\n町にいるときくらい\n気楽にやってもいいじゃねえか。{1a}{0c:520304}これから地面の下で\nおっかねえ{e098}け物どもと\n戦わなきゃならねえっていうのによ、{1a}自分の{e099}{e09a}にいるときまで\n気を張ってちゃ、\nいざってときに力が出ねえぜ。{0c:2903091501}",
    "read": "{1c:15}{0b:08}【 パスカ 】{0b:09}\nそりゃそうだけどさ、\n町にいるときくらい\n気楽にやってもいいじゃねえか。{1a}{0c:520304}これから地面の下で\nおっかねえ化け物どもと\n戦わなきゃならねえっていうのによ、{1a}自分の部屋にいるときまで\n気を張ってちゃ、\nいざってときに力が出ねえぜ。{0c:2903091501}",
    "raw": null,
-   "en": "{1c:15}{0b:08}【 Pasca 】{0b:09}\nWell, sure, but ya can take it easy while\nyou're in town, can't ya?{1a}{0c:520304}We gotta go underground and fight\nscary damn monsters from here on out,{1a}and if you're wound up tight even in your\nown room, you'll have nothin' left when it\ncounts.{0c:2903091501}",
+   "en": "{1c:15}{0b:08}【 Pasca 】{0b:09}\nWell, sure, but ya can take it easy while\nyou're in town, can't ya?{1a}{0c:520304}We gotta go underground and fight\nscary damn monsters from here on out,{1a}and if you're wound up tight even in your\nown room, you'll have nothin' left when\nit counts.{0c:2903091501}",
    "status": "done",
    "tl": "Well, sure, but ya can take it easy while you're in town, can't ya? // [1]We gotta go underground and fight scary damn monsters from here on out, // and if you're wound up tight even in your own room, you'll have nothin' left when it counts."
   },
@@ -1716,7 +1716,7 @@
    "jp": "{0c:520607}{1c:16}{0b:08}{e080} パスカ {e081}{0b:09}\nなあんだ、オレと同じ平{e090}か。\nてっきり、どこぞの貴{e093}の\nお嬢さんかと思ったよ。{1a}{0c:5108}よろしくな、レイア。\nまあ気楽にやろうぜ。{0c:2903091501}",
    "read": "{0c:520607}{1c:16}{0b:08}【 パスカ 】{0b:09}\nなあんだ、オレと同じ平民か。\nてっきり、どこぞの貴族の\nお嬢さんかと思ったよ。{1a}{0c:5108}よろしくな、レイア。\nまあ気楽にやろうぜ。{0c:2903091501}",
    "raw": null,
-   "en": "{0c:520607}{1c:16}{0b:08}【 Pasca 】{0b:09}\nAw, so you're a commoner, same as me.\nFigured you for some noble's daughter or\nsomethin'.{1a}{0c:5108}Good to know ya, Leia. Let's just take it\neasy, huh?{0c:2903091501}",
+   "en": "{0c:520607}{1c:16}{0b:08}【 Pasca 】{0b:09}\nAw, so you're a commoner, same as me.\nFigured you for some noble's daughter\nor somethin'.{1a}{0c:5108}Good to know ya, Leia. Let's just take it\neasy, huh?{0c:2903091501}",
    "status": "done",
    "tl": "Aw, so you're a commoner, same as me. Figured you for some noble's daughter or somethin'. // [1]Good to know ya, Leia. Let's just take it easy, huh?"
   },
@@ -1810,7 +1810,7 @@
    "jp": "{1c:1c}用がないなら出ていけばどうだ?",
    "read": "{1c:1c}用がないなら出ていけばどうだ?",
    "raw": null,
-   "en": "{1c:1c}If you have no business here, why not\nleave?",
+   "en": "{1c:1c}If you have no business here, why\nnot leave?",
    "status": "done",
    "tl": "If you have no business here, why not leave?"
   },
@@ -1974,7 +1974,7 @@
    "jp": "{1c:1c}{0b:08}{e080} レイア {e081}{0b:09}\n用がないなら出ていけばどうだ?",
    "read": "{1c:1c}{0b:08}【 レイア 】{0b:09}\n用がないなら出ていけばどうだ?",
    "raw": null,
-   "en": "{1c:1c}{0b:08}【 Leia 】{0b:09}\nIf you have no business here, why not\nleave?",
+   "en": "{1c:1c}{0b:08}【 Leia 】{0b:09}\nIf you have no business here, why\nnot leave?",
    "status": "done",
    "tl": "If you have no business here, why not leave?"
   },
@@ -2020,7 +2020,7 @@
    "jp": "{1c:19}{0b:08}{e080} オルフェウス {e081}{0b:09}\n残念だなあ。\nじゃあ他をあたりましょうか。{0c:1501}",
    "read": "{1c:19}{0b:08}【 オルフェウス 】{0b:09}\n残念だなあ。\nじゃあ他をあたりましょうか。{0c:1501}",
    "raw": null,
-   "en": "{1c:19}{0b:08}【 Orpheus 】{0b:09}\nWhat a pity. Well then, shall we try\nelsewhere?{0c:1501}",
+   "en": "{1c:19}{0b:08}【 Orpheus 】{0b:09}\nWhat a pity. Well then, shall we\ntry elsewhere?{0c:1501}",
    "status": "done",
    "tl": "What a pity. Well then, shall we try elsewhere?"
   },
@@ -2043,7 +2043,7 @@
    "jp": "{0c:5102}{1c:19}{0b:08}{e080} オルフェウス {e081}{0b:09}\nそうそう、一言言い忘れました。\n『{e0a1}し物』があるのなら\n味方は多い方がよくありませんか?{0c:2903091501}",
    "read": "{0c:5102}{1c:19}{0b:08}【 オルフェウス 】{0b:09}\nそうそう、一言言い忘れました。\n『探し物』があるのなら\n味方は多い方がよくありませんか?{0c:2903091501}",
    "raw": null,
-   "en": "{0c:5102}{1c:19}{0b:08}【 Orpheus 】{0b:09}\nOh, yes, I neglected to say one thing. If\nyou have 'something to find', surely you\nwould be better off with plenty of{1a}allies?{0c:2903091501}",
+   "en": "{0c:5102}{1c:19}{0b:08}【 Orpheus 】{0b:09}\nOh, yes, I neglected to say one thing. If\nyou have 'something to find', surely you\nwould be better off with plenty{1a}of allies?{0c:2903091501}",
    "status": "done",
    "tl": "Oh, yes, I neglected to say one thing. If you have 'something to find', surely you would be better off with plenty of allies?"
   },
@@ -2160,7 +2160,7 @@
    "jp": "{1c:10}用がないなら出ていけばどうだ?",
    "read": "{1c:10}用がないなら出ていけばどうだ?",
    "raw": null,
-   "en": "{1c:10}If you have no business here, why not\nleave?",
+   "en": "{1c:10}If you have no business here, why\nnot leave?",
    "status": "done",
    "tl": "If you have no business here, why not leave?"
   },
@@ -2383,7 +2383,7 @@
    "jp": "{1c:10}好きにするがいい。\n目的を遂げるのに必要なのは\nこの{e08c}だけ。他に何も要らない。{0c:153b0800}",
    "read": "{1c:10}好きにするがいい。\n目的を遂げるのに必要なのは\nこの剣だけ。他に何も要らない。{0c:153b0800}",
    "raw": null,
-   "en": "{1c:10}Do as you please. To reach my goal I\nneed only this sword. I require nothing\nelse.{0c:153b0800}",
+   "en": "{1c:10}Do as you please. To reach my goal I\nneed only this sword. I require\nnothing else.{0c:153b0800}",
    "status": "done",
    "tl": "Do as you please. To reach my goal I need only this sword. I require nothing else."
   },
@@ -2419,7 +2419,7 @@
    "jp": "{1c:10}好きにするがいい。\n目的を遂げるのに必要なのは\nこの{e08c}だけ。他に何も要らない。{0c:153b0800}",
    "read": "{1c:10}好きにするがいい。\n目的を遂げるのに必要なのは\nこの剣だけ。他に何も要らない。{0c:153b0800}",
    "raw": null,
-   "en": "{1c:10}Do as you please. To reach my goal I\nneed only this sword. I require nothing\nelse.{0c:153b0800}",
+   "en": "{1c:10}Do as you please. To reach my goal I\nneed only this sword. I require\nnothing else.{0c:153b0800}",
    "status": "done",
    "tl": "Do as you please. To reach my goal I need only this sword. I require nothing else."
   },
@@ -2467,7 +2467,7 @@
    "jp": "{1c:10}心配するな・・・ \n裏切られるのはもう慣れた・・・",
    "read": "{1c:10}心配するな・・・ \n裏切られるのはもう慣れた・・・",
    "raw": null,
-   "en": "{1c:10}Do not worry... I am used to betrayal by\nnow...",
+   "en": "{1c:10}Do not worry... I am used to betrayal\nby now...",
    "status": "done",
    "tl": "Do not worry... I am used to betrayal by now..."
   },
@@ -2513,7 +2513,7 @@
    "jp": "好きにするがいい・・・{1a}だが、考えもなしに行動することが\nどんなに危険なことか、{1a}そして、どんなに{e0a7}{e0a8}を\n不幸にするか・・・\nお前も知っておくべきだ。{0c:15}",
    "read": "好きにするがいい・・・{1a}だが、考えもなしに行動することが\nどんなに危険なことか、{1a}そして、どんなに周囲を\n不幸にするか・・・\nお前も知っておくべきだ。{0c:15}",
    "raw": null,
-   "en": "Do as you please...{1a}But how dangerous it is to act without\nthought,{1a}and how much misery it brings on those\naround you... You should know that as\nwell.{0c:15}",
+   "en": "Do as you please...{1a}But how dangerous it is to act\nwithout thought,{1a}and how much misery it brings on those\naround you... You should know that\nas well.{0c:15}",
    "status": "done",
    "tl": "Do as you please... // But how dangerous it is to act without thought, // and how much misery it brings on those around you... You should know that as well."
   },
@@ -2596,7 +2596,7 @@
    "jp": "{10}・・・\nお前は何をそんなに焦っている?{0c:15}",
    "read": "{10}・・・\nお前は何をそんなに焦っている?{0c:15}",
    "raw": null,
-   "en": "{10}... What are you so desperate\nabout?{0c:15}",
+   "en": "{10}... What are you so\ndesperate about?{0c:15}",
    "status": "done",
    "tl": "[HERO]... What are you so desperate about?"
   },

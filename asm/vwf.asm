@@ -7,6 +7,7 @@ WIDTHS   equ FONT_RES + 0x14 + 94*11 + 2   ; 95 advances, overwriting unused hal
 RESIDENT equ WIDTHS + 96           ; code, same area (cells end at FONT_RES+0xBFC)
 BLOCK    equ 48                    ; px per text block
 NARROW_MAX equ 8                   ; widest VWF advance
+WIDE_WORDS equ 10                  ; trap label field in 32-bit words: 80 px, its box shows 76
 RETURN_NEXT equ 0x8004F360         ; after the pen moved: wait, flush test, next char
 FLUSH    equ 0x8004F480            ; end the block
 KANA_PATH equ 0x8004F23C           ; original one-byte path (kana modes)
@@ -174,7 +175,7 @@ KANA_PATH equ 0x8004F23C           ; original one-byte path (kana modes)
     addiu v1, zero, 48
 
 .org 0x8003DD9C
-    addiu v1, zero, 12
+    addiu v1, zero, WIDE_WORDS * 2
 .org 0x8003DE10
     jal   vwf_paint
 .org 0x8003DE1C
@@ -183,7 +184,7 @@ KANA_PATH equ 0x8004F23C           ; original one-byte path (kana modes)
     nop
     nop
 .org 0x8003DE5C
-    addiu v1, zero, 48
+    addiu v1, zero, WIDE_WORDS * 8
 
 ; --- text speed: frames per glyph, normal 3 and slow 5 in Japanese. English has about twice the glyphs per line. --------------
 .org 0x8004ED14
@@ -343,27 +344,35 @@ label_hud:
     addu  t2, t2, t3
     la    t3, 0x800A68D0
     addu  t2, t2, t3
+    addiu a2, zero, 6
     j     vwf_label
     move  t1, s3
 label_party:
     lbu   t0, -1(s0)
     move  t2, a1
+    addiu a2, zero, 6
     j     vwf_label
     move  t1, s4
+; the top bar's trap label: one field at (0x3C0, 0xD0). Its 0x180-byte buffer holds 64 px, so it composes here instead.
 label_status:
     lbu   t0, (s0)
-    move  t2, a1
+    la    t2, label_wide
+    addiu a2, zero, WIDE_WORDS
     j     vwf_label
     move  t1, s3
 
-; a0 = rect, t0 = code, t1 = letters so far, t2 = this name's buffer (48 x 12 px, 4bpp, 24 bytes a row). Ends in LoadImage.
+; a0 = rect, t0 = code, t1 = letters so far, t2 = this name's buffer (12 rows, 4bpp), a2 = its words a row. Ends in LoadImage.
 vwf_label:
     la    t3, label_pen
+    sll   a3, a2, 2
     addiu t4, zero, 1
     bne   t1, t4, @@letter
     lw    t5, (t3)
     move  t5, zero
-    addiu t4, t2, 288
+    sll   t4, a3, 1
+    addu  t4, t4, a3
+    sll   t4, t4, 2
+    addu  t4, t4, t2
 @@clear:
     addiu t4, t4, -4
     bne   t4, t2, @@clear
@@ -376,10 +385,11 @@ vwf_label:
     addu  t6, t5, t6
     sw    t6, (t3)
     andi  t8, t5, 7
-    sltiu t4, t7, 6
+    sltu  t4, t7, a2
     beqz  t4, @@send               ; past the field: clipped
     sll   t8, t8, 2                ; nibbles
-    sltiu v1, t7, 5                ; a next word exists in this row
+    addiu v1, a2, -1
+    sltu  v1, t7, v1               ; a next word exists in this row
     sll   t7, t7, 2
     addu  t7, t2, t7
     la    t3, label_cell
@@ -402,7 +412,7 @@ vwf_label:
     addiu t4, t4, -1
     addiu t3, t3, 4
     bgtz  t4, @@row
-    addiu t7, t7, 24
+    addu  t7, t7, a3
 @@send:
     j     0x80090690
     move  a1, t2
@@ -411,5 +421,7 @@ label_pen:
     .word 0
 label_cell:
     .fill 0x30
+label_wide:
+    .fill WIDE_WORDS * 4 * 12
 .endarea
 .close

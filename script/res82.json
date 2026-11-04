@@ -200,7 +200,7 @@
    "jp": "{1c:23}{0b:08}【 ノエル 】{0b:09}\n{10}・・・{1a}どういう心境の変化?\n{0b:05}{14}を助ける気になったの?{0c:020301}",
    "read": "{1c:23}{0b:08}【 ノエル 】{0b:09}\n{10}・・・{1a}どういう心境の変化?\n{0b:05}{14}を助ける気になったの?{0c:020301}",
    "raw": null,
-   "en": "{1c:23}{0b:08}【 Noel 】{0b:09}\n{10}...{1a}What brought on this change of heart?\nSo you've decided to save\n{0b:05}{14}?{0c:020301}",
+   "en": "{1c:23}{0b:08}【 Noel 】{0b:09}\n{10}...{1a}What brought on this change of heart?\nSo you've decided to\nsave {0b:05}{14}?{0c:020301}",
    "status": "done",
    "tl": "[HERO]... // What brought on this change of heart? So you've decided to save [1][VAR14]?"
   },
@@ -315,7 +315,7 @@
    "jp": "{0c:0b010f}{0c:521008}{1c:12}{0b:08}【 アッシュ 】{0b:09}\nそうか・・・\nうれしいよ、{10}。{1a}あ、そうそう、\nすこし前、あいつの声が\n聞こえた気がしたんだ。\nおまえは聞こえたかい?{1a}1度だけだったから\n空耳かもしれないけど、\nクムランさんの言ってた\n『共鳴』かもしれないだろ?{1a}でも、さっきから探してるんだけど、\nこのあたりって複雑で\n迷ってばっかりなんだ。\n{10}、いっしょに探そうよ。{0c:021c01}",
    "read": "{0c:0b010f}{0c:521008}{1c:12}{0b:08}【 アッシュ 】{0b:09}\nそうか・・・\nうれしいよ、{10}。{1a}あ、そうそう、\nすこし前、あいつの声が\n聞こえた気がしたんだ。\nおまえは聞こえたかい?{1a}1度だけだったから\n空耳かもしれないけど、\nクムランさんの言ってた\n『共鳴』かもしれないだろ?{1a}でも、さっきから探してるんだけど、\nこのあたりって複雑で\n迷ってばっかりなんだ。\n{10}、いっしょに探そうよ。{0c:021c01}",
    "raw": null,
-   "en": "{0c:0b010f}{0c:521008}{1c:12}{0b:08}【 Ash 】{0b:09}\nI see... I'm glad, {10}.{1a}Oh, right, a little while ago I thought I\nheard our friend's voice. Did you hear it?{1a}It was only once, so maybe my ears were\nplaying tricks, but it could be that\n'resonance' Qumran-san talked about,\ny'know?{1a}But I've been looking this whole time, and\nit's so tangled around here that I keep\ngetting lost. {10}, let's look\ntogether, okay?{0c:021c01}",
+   "en": "{0c:0b010f}{0c:521008}{1c:12}{0b:08}【 Ash 】{0b:09}\nI see... I'm glad, {10}.{1a}Oh, right, a little while ago I thought I\nheard our friend's voice. Did you hear it?{1a}It was only once, so maybe my ears were\nplaying tricks, but it could be that\n'resonance' Qumran-san talked\nabout, y'know?{1a}But I've been looking this whole time, and\nit's so tangled around here that I keep\ngetting lost. {10}, let's look\ntogether, okay?{0c:021c01}",
    "status": "done",
    "tl": "I see... I'm glad, [HERO]. // Oh, right, a little while ago I thought I heard our friend's voice. Did you hear it? // It was only once, so maybe my ears were playing tricks, but it could be that 'resonance' Qumran-san talked about, y'know? // But I've been looking this whole time, and it's so tangled around here that I keep getting lost. [HERO], let's look together, okay?"
   },
@@ -339,7 +339,7 @@
    "jp": "{0c:0b050a}{0c:521008}{1c:18}{0b:08}【 パスカ 】{0b:09}\nありがとよ、{10}。{1a}そうそう、ついさっき\nこのあたりで奴の声が\n聞こえた気がしたんだけど・・・\nお前、何か聞こえたか?{1a}1度だけだったから\nただの空耳かもしれねえけど、{1a}もしかすると\nクムランさんの言ってた\n『共鳴』かもしれねえだろ?\nだとすりゃ近いってことだよな。{1a}{10}、一緒に探そうぜ。{0c:021a01}",
    "read": "{0c:0b050a}{0c:521008}{1c:18}{0b:08}【 パスカ 】{0b:09}\nありがとよ、{10}。{1a}そうそう、ついさっき\nこのあたりで奴の声が\n聞こえた気がしたんだけど・・・\nお前、何か聞こえたか?{1a}1度だけだったから\nただの空耳かもしれねえけど、{1a}もしかすると\nクムランさんの言ってた\n『共鳴』かもしれねえだろ?\nだとすりゃ近いってことだよな。{1a}{10}、一緒に探そうぜ。{0c:021a01}",
    "raw": null,
-   "en": "{0c:0b050a}{0c:521008}{1c:18}{0b:08}【 Pasca 】{0b:09}\nThanks, {10}.{1a}Oh yeah, just a minute ago I thought I\nheard our pal's voice around here... You\nhear anything?{1a}It was only once, so it could just be my\nears,{1a}but it could be that 'resonance'\nQumran-san was on about, right? Then\nthat'd mean we're close.{1a}{10}, let's look together.{0c:021a01}",
+   "en": "{0c:0b050a}{0c:521008}{1c:18}{0b:08}【 Pasca 】{0b:09}\nThanks, {10}.{1a}Oh yeah, just a minute ago I thought I\nheard our pal's voice around here... You\nhear anything?{1a}It was only once, so it could just be\nmy ears,{1a}but it could be that 'resonance'\nQumran-san was on about, right? Then\nthat'd mean we're close.{1a}{10}, let's look together.{0c:021a01}",
    "status": "done",
    "tl": "Thanks, [HERO]. // Oh yeah, just a minute ago I thought I heard our pal's voice around here... You hear anything? // It was only once, so it could just be my ears, // but it could be that 'resonance' Qumran-san was on about, right? Then that'd mean we're close. // [HERO], let's look together."
   },
@@ -351,7 +351,7 @@
    "jp": "{0c:0b080f}{0c:521008}{1c:1a}{0b:08}【 シャルン 】{0b:09}\nありがと、{0b:05}{14}も喜ぶよ。{1a}それでね、ついさっき\nこの辺りから{0b:05}{14}の声が\n聞こえた気がしたんだ。\n{10}は何か聞こえた?{1a}1度だけだったから\n空耳かもしれないけど、{1a}もしかするとこれが\nクムランさんの言ってた\n『共鳴』かもしれないよね。{1a}{10}、一緒に探そうよ。\nあたし、{0b:05}{14}は\nこの辺りにいるような気がする。{0c:021901}",
    "read": "{0c:0b080f}{0c:521008}{1c:1a}{0b:08}【 シャルン 】{0b:09}\nありがと、{0b:05}{14}も喜ぶよ。{1a}それでね、ついさっき\nこの辺りから{0b:05}{14}の声が\n聞こえた気がしたんだ。\n{10}は何か聞こえた?{1a}1度だけだったから\n空耳かもしれないけど、{1a}もしかするとこれが\nクムランさんの言ってた\n『共鳴』かもしれないよね。{1a}{10}、一緒に探そうよ。\nあたし、{0b:05}{14}は\nこの辺りにいるような気がする。{0c:021901}",
    "raw": null,
-   "en": "{0c:0b080f}{0c:521008}{1c:1a}{0b:08}【 Scharn 】{0b:09}\nThanks! {0b:05}{14} will be so\nhappy!{1a}And you know, just now I thought I heard\n{0b:05}{14}'s voice from around\nhere! Did you hear anything, {10}?{1a}It was only once, so maybe my ears were\nplaying tricks,{1a}but maybe this is that 'resonance'\nQumran-san talked about!{1a}{10}, let's look together! I have a\nfeeling {0b:05}{14} is somewhere\naround here!{0c:021901}",
+   "en": "{0c:0b080f}{0c:521008}{1c:1a}{0b:08}【 Scharn 】{0b:09}\nThanks! {0b:05}{14} will be\nso happy!{1a}And you know, just now I thought I heard\n{0b:05}{14}'s voice from around\nhere! Did you hear anything, {10}?{1a}It was only once, so maybe my ears were\nplaying tricks,{1a}but maybe this is that 'resonance'\nQumran-san talked about!{1a}{10}, let's look together! I have a\nfeeling {0b:05}{14} is somewhere\naround here!{0c:021901}",
    "status": "done",
    "tl": "Thanks! [1][VAR14] will be so happy! // And you know, just now I thought I heard [2][VAR14]'s voice from around here! Did you hear anything, [HERO]? // It was only once, so maybe my ears were playing tricks, // but maybe this is that 'resonance' Qumran-san talked about! // [HERO], let's look together! I have a feeling [3][VAR14] is somewhere around here!"
   },
@@ -363,7 +363,7 @@
    "jp": "{0c:0b0a0f}{0c:521008}{1c:1c}{0b:08}【 ジェシカ 】{0b:09}\nそうそう。\n大人の分別なんて\n{10}には似合わないよ。{1a}ところでさ、\nついさっきあいつの声が\n聞こえたんだけど、\nあんたも聞こえた?{1a}1度だけだから\n空耳かもしれないけどさ、{1a}もしかすると\nメガネの先生の話に出てきた\n『共鳴』かもしれないよね。{1a}{10}、一緒に探そうよ。\nあいつ、絶対この近くにいるよ。{0c:021801}",
    "read": "{0c:0b0a0f}{0c:521008}{1c:1c}{0b:08}【 ジェシカ 】{0b:09}\nそうそう。\n大人の分別なんて\n{10}には似合わないよ。{1a}ところでさ、\nついさっきあいつの声が\n聞こえたんだけど、\nあんたも聞こえた?{1a}1度だけだから\n空耳かもしれないけどさ、{1a}もしかすると\nメガネの先生の話に出てきた\n『共鳴』かもしれないよね。{1a}{10}、一緒に探そうよ。\nあいつ、絶対この近くにいるよ。{0c:021801}",
    "raw": null,
-   "en": "{0c:0b0a0f}{0c:521008}{1c:1c}{0b:08}【 Jessica 】{0b:09}\nThat's right, that's right. Grown-up\ngood sense doesn't suit you, {10}.{1a}Anyway, just now I heard that friend of\nours, you know? Did you hear it too?{1a}It was only once, so it could've been my\nears,{1a}but it might be that 'resonance' from\nthe sensei with the glasses, huh?{1a}{10}, let's look together. They're\ndefinitely around here.{0c:021801}",
+   "en": "{0c:0b0a0f}{0c:521008}{1c:1c}{0b:08}【 Jessica 】{0b:09}\nThat's right, that's right. Grown-up\ngood sense doesn't suit you, {10}.{1a}Anyway, just now I heard that friend of\nours, you know? Did you hear it too?{1a}It was only once, so it could've been\nmy ears,{1a}but it might be that 'resonance' from\nthe sensei with the glasses, huh?{1a}{10}, let's look together. They're\ndefinitely around here.{0c:021801}",
    "status": "done",
    "tl": "That's right, that's right. Grown-up good sense doesn't suit you, [HERO]. // Anyway, just now I heard that friend of ours, you know? Did you hear it too? // It was only once, so it could've been my ears, // but it might be that 'resonance' from the sensei with the glasses, huh? // [HERO], let's look together. They're definitely around here."
   },
@@ -375,7 +375,7 @@
    "jp": "{0c:0b0e0a}{0c:521008}{1c:21}{0b:08}【 ノエル 】{0b:09}\nそう・・・\nありがとう、心強いわ。{1a}ところであなたは聞いた?\nほんの数分前、\nこの辺りから{0b:05}{14}の声が\n聞こえた気がしたんだけど・・・{1a}1度だけだから\n耳の錯覚かもしれないけど、{1a}もしかするとこれが\nクムランさんの言っていた\n『共鳴』かもしれないと思って・・・{1a}{10}、一緒に探しましょ。{0c:021701}",
    "read": "{0c:0b0e0a}{0c:521008}{1c:21}{0b:08}【 ノエル 】{0b:09}\nそう・・・\nありがとう、心強いわ。{1a}ところであなたは聞いた?\nほんの数分前、\nこの辺りから{0b:05}{14}の声が\n聞こえた気がしたんだけど・・・{1a}1度だけだから\n耳の錯覚かもしれないけど、{1a}もしかするとこれが\nクムランさんの言っていた\n『共鳴』かもしれないと思って・・・{1a}{10}、一緒に探しましょ。{0c:021701}",
    "raw": null,
-   "en": "{0c:0b0e0a}{0c:521008}{1c:21}{0b:08}【 Noel 】{0b:09}\nI see... Thank you. That's reassuring.{1a}By the way, did you hear it? Just a few\nminutes ago I thought I heard\n{0b:05}{14}'s voice from around\nhere...{1a}It was only once, so it could be an\nauditory illusion,{1a}but I thought perhaps this is the\n'resonance' Qumran-san spoke of...{1a}{10}, let's search together.{0c:021701}",
+   "en": "{0c:0b0e0a}{0c:521008}{1c:21}{0b:08}【 Noel 】{0b:09}\nI see... Thank you. That's reassuring.{1a}By the way, did you hear it? Just a few\nminutes ago I thought I heard\n{0b:05}{14}'s voice from\naround here...{1a}It was only once, so it could be an\nauditory illusion,{1a}but I thought perhaps this is the\n'resonance' Qumran-san spoke of...{1a}{10}, let's search together.{0c:021701}",
    "status": "done",
    "tl": "I see... Thank you. That's reassuring. // By the way, did you hear it? Just a few minutes ago I thought I heard [1][VAR14]'s voice from around here... // It was only once, so it could be an auditory illusion, // but I thought perhaps this is the 'resonance' Qumran-san spoke of... // [HERO], let's search together."
   },
@@ -387,7 +387,7 @@
    "jp": "{0c:0b110a}{0c:521008}{1c:25}{0b:08}【 ルカ 】{0b:09}\nあ、ありがとうございます、\n{10}さん。\nほんとうにうれしいです。{1a}ところで{10}さんは\nお聞きになりましたか?\nつい先程、{0b:05}{14}さんの声が\n聞こえた気がしたんです。{1a}1度だけでしたから\n空耳かもしれませんが、{1a}もしかすると\nクムランさんのおっしゃった\n『共鳴』かもしれないと思って・・・{1a}{10}さん、\n一緒に探しに行きましょう。{0c:021601}",
    "read": "{0c:0b110a}{0c:521008}{1c:25}{0b:08}【 ルカ 】{0b:09}\nあ、ありがとうございます、\n{10}さん。\nほんとうにうれしいです。{1a}ところで{10}さんは\nお聞きになりましたか?\nつい先程、{0b:05}{14}さんの声が\n聞こえた気がしたんです。{1a}1度だけでしたから\n空耳かもしれませんが、{1a}もしかすると\nクムランさんのおっしゃった\n『共鳴』かもしれないと思って・・・{1a}{10}さん、\n一緒に探しに行きましょう。{0c:021601}",
    "raw": null,
-   "en": "{0c:0b110a}{0c:521008}{1c:25}{0b:08}【 Luca 】{0b:09}\nTh-thank you, {10}-san. I am truly\nglad.{1a}By the way, did you hear it,\n{10}-san? Just now I thought I\nheard {0b:05}{14}-san's voice.{1a}It was only once, so my ears may have\nplayed tricks on me,{1a}but I thought it might be the 'resonance'\nQumran-san spoke of...{1a}{10}-san, let us go and search\ntogether.{0c:021601}",
+   "en": "{0c:0b110a}{0c:521008}{1c:25}{0b:08}【 Luca 】{0b:09}\nTh-thank you, {10}-san. I am\ntruly glad.{1a}By the way, did you hear it,\n{10}-san? Just now I thought I\nheard {0b:05}{14}-san's voice.{1a}It was only once, so my ears may have\nplayed tricks on me,{1a}but I thought it might be the 'resonance'\nQumran-san spoke of...{1a}{10}-san, let us go and\nsearch together.{0c:021601}",
    "status": "done",
    "tl": "Th-thank you, [HERO]-san. I am truly glad. // By the way, did you hear it, [HERO]-san? Just now I thought I heard [1][VAR14]-san's voice. // It was only once, so my ears may have played tricks on me, // but I thought it might be the 'resonance' Qumran-san spoke of... // [HERO]-san, let us go and search together."
   },
@@ -399,7 +399,7 @@
    "jp": "{0c:0b120a}{0c:521008}{1c:28}{0b:08}【 サラ 】{0b:09}\n{0b:05}{14}さんも喜ぶよ、きっと。{1a}ところで{10}さんは聞いた?\nついさっき{0b:05}{14}さんの声が\n聞こえた気がしたんだ。{1a}1度だけだったから\n空耳かもしれないけど、\nもしかするとクムランさんの言った\n『共鳴』かもしれないよね。{1a}{10}さん、\n一緒に探しに行こうよ。{0c:021501}",
    "read": "{0c:0b120a}{0c:521008}{1c:28}{0b:08}【 サラ 】{0b:09}\n{0b:05}{14}さんも喜ぶよ、きっと。{1a}ところで{10}さんは聞いた?\nついさっき{0b:05}{14}さんの声が\n聞こえた気がしたんだ。{1a}1度だけだったから\n空耳かもしれないけど、\nもしかするとクムランさんの言った\n『共鳴』かもしれないよね。{1a}{10}さん、\n一緒に探しに行こうよ。{0c:021501}",
    "raw": null,
-   "en": "{0c:0b120a}{0c:521008}{1c:28}{0b:08}【 Sara 】{0b:09}\n{0b:05}{14}-san will be happy\ntoo, I'm sure.{1a}By the way, did you hear it,\n{10}-san? Just now I thought I\nheard {0b:05}{14}-san's voice.{1a}It was only once, so maybe it was just\nmy ears, but maybe it's that 'resonance'\nQumran-san talked about, right?{1a}{10}-san, let's go look together,\nokay?{0c:021501}",
+   "en": "{0c:0b120a}{0c:521008}{1c:28}{0b:08}【 Sara 】{0b:09}\n{0b:05}{14}-san will be happy\ntoo, I'm sure.{1a}By the way, did you hear it,\n{10}-san? Just now I thought I\nheard {0b:05}{14}-san's voice.{1a}It was only once, so maybe it was just\nmy ears, but maybe it's that 'resonance'\nQumran-san talked about, right?{1a}{10}-san, let's go look\ntogether, okay?{0c:021501}",
    "status": "done",
    "tl": "[VAR14]-san will be happy too, I'm sure. // By the way, did you hear it, [HERO]-san? Just now I thought I heard [1][VAR14]-san's voice. // It was only once, so maybe it was just my ears, but maybe it's that 'resonance' Qumran-san talked about, right? // [HERO]-san, let's go look together, okay?"
   },
@@ -422,7 +422,7 @@
    "jp": "{0c:521008}{1c:12}{0b:08}【 アッシュ 】{0b:09}\nそうか・・・\nうれしいよ、{10}。{1a}あ、そうそう、\nすこし前、{0b:05}{14}の声が\n聞こえた気がしたんだ。\nおまえも聞こえたかい?{1a}1度だけだったから\n空耳かもしれないけど、\nクムランさんの言ってた\n『共鳴』かもしれないだろ?{1a}{0c:5118}おれ、こっち探すから、\n{0c:5120}{10}達はそっちをたのむよ。\nじゃあな、がんばってさがそうな。{0c:020801}",
    "read": "{0c:521008}{1c:12}{0b:08}【 アッシュ 】{0b:09}\nそうか・・・\nうれしいよ、{10}。{1a}あ、そうそう、\nすこし前、{0b:05}{14}の声が\n聞こえた気がしたんだ。\nおまえも聞こえたかい?{1a}1度だけだったから\n空耳かもしれないけど、\nクムランさんの言ってた\n『共鳴』かもしれないだろ?{1a}{0c:5118}おれ、こっち探すから、\n{0c:5120}{10}達はそっちをたのむよ。\nじゃあな、がんばってさがそうな。{0c:020801}",
    "raw": null,
-   "en": "{0c:521008}{1c:12}{0b:08}【 Ash 】{0b:09}\nI see... I'm glad, {10}.{1a}Oh, right, a little while ago I thought I\nheard {0b:05}{14}'s voice. Did you\nhear it too?{1a}It was only once, so maybe my ears were\nplaying tricks, but it could be that\n'resonance' Qumran-san talked about,\ny'know?{1a}{0c:5118}I'll search this way, so {0c:5120}{10} and\nthe rest of you take that way, okay?\nSee you, let's do our best looking.{0c:020801}",
+   "en": "{0c:521008}{1c:12}{0b:08}【 Ash 】{0b:09}\nI see... I'm glad, {10}.{1a}Oh, right, a little while ago I thought I\nheard {0b:05}{14}'s voice. Did you\nhear it too?{1a}It was only once, so maybe my ears were\nplaying tricks, but it could be that\n'resonance' Qumran-san talked\nabout, y'know?{1a}{0c:5118}I'll search this way, so {0c:5120}{10} and\nthe rest of you take that way, okay?\nSee you, let's do our best looking.{0c:020801}",
    "status": "done",
    "tl": "I see... I'm glad, [HERO]. // Oh, right, a little while ago I thought I heard [1][VAR14]'s voice. Did you hear it too? // It was only once, so maybe my ears were playing tricks, but it could be that 'resonance' Qumran-san talked about, y'know? // [2]I'll search this way, so [3][HERO] and the rest of you take that way, okay? See you, let's do our best looking."
   },
@@ -446,7 +446,7 @@
    "jp": "{0c:521008}{1c:18}{0b:08}【 パスカ 】{0b:09}\nありがとよ、{10}。{1a}そうそう、ついさっき\nこの辺りで{0b:05}{14}の声が\n聞こえた気がしたんだけど・・・\nお前、何か聞こえたか?{1a}1度だけだったから\nただの空耳かもしれねえけど、{1a}もしかすると\nクムランさんの言ってた\n『共鳴』かもしれねえだろ?\nだとすりゃ近いってことだよな。{1a}{0c:5120}{10}、\nお前らはそっち調べてくれ。\n{0c:5118}オレはこっち調べるからさ。{1a}じゃあな、お互い頑張ろうぜ。{0c:020601}",
    "read": "{0c:521008}{1c:18}{0b:08}【 パスカ 】{0b:09}\nありがとよ、{10}。{1a}そうそう、ついさっき\nこの辺りで{0b:05}{14}の声が\n聞こえた気がしたんだけど・・・\nお前、何か聞こえたか?{1a}1度だけだったから\nただの空耳かもしれねえけど、{1a}もしかすると\nクムランさんの言ってた\n『共鳴』かもしれねえだろ?\nだとすりゃ近いってことだよな。{1a}{0c:5120}{10}、\nお前らはそっち調べてくれ。\n{0c:5118}オレはこっち調べるからさ。{1a}じゃあな、お互い頑張ろうぜ。{0c:020601}",
    "raw": null,
-   "en": "{0c:521008}{1c:18}{0b:08}【 Pasca 】{0b:09}\nThanks, {10}.{1a}Oh yeah, just a minute ago I thought I\nheard {0b:05}{14}'s voice around\nhere... You hear anything?{1a}It was only once, so it could just be my\nears,{1a}but it could be that 'resonance'\nQumran-san was on about, right? Then\nthat'd mean we're close.{1a}{0c:5120}{10}, you lot check over there. {0c:5118}I'll\ncheck this way.{1a}See ya. Let's both give it our all.{0c:020601}",
+   "en": "{0c:521008}{1c:18}{0b:08}【 Pasca 】{0b:09}\nThanks, {10}.{1a}Oh yeah, just a minute ago I thought I\nheard {0b:05}{14}'s voice around\nhere... You hear anything?{1a}It was only once, so it could just be\nmy ears,{1a}but it could be that 'resonance'\nQumran-san was on about, right? Then\nthat'd mean we're close.{1a}{0c:5120}{10}, you lot check over there. {0c:5118}I'll\ncheck this way.{1a}See ya. Let's both give it our all.{0c:020601}",
    "status": "done",
    "tl": "Thanks, [HERO]. // Oh yeah, just a minute ago I thought I heard [1][VAR14]'s voice around here... You hear anything? // It was only once, so it could just be my ears, // but it could be that 'resonance' Qumran-san was on about, right? Then that'd mean we're close. // [2][HERO], you lot check over there. [3]I'll check this way. // See ya. Let's both give it our all."
   },
@@ -458,7 +458,7 @@
    "jp": "{0c:521008}{1c:1a}{0b:08}【 シャルン 】{0b:09}\nありがと、{0b:05}{14}も喜ぶよ。{1a}それでね、ついさっき\nこの辺りから{0b:05}{14}の声が\n聞こえた気がしたんだ。\n{10}は何か聞こえた?{1a}1度だけだったから\n空耳かもしれないけど、{1a}もしかするとこれが\nクムランさんの言ってた\n『共鳴』かもしれないよね。{1a}{0c:5120}{10}、\nあなた達はそっちの方を調べて。\n{0c:5118}あたしはこっち調べるから。\n早く助けてあげようね。{0c:020501}",
    "read": "{0c:521008}{1c:1a}{0b:08}【 シャルン 】{0b:09}\nありがと、{0b:05}{14}も喜ぶよ。{1a}それでね、ついさっき\nこの辺りから{0b:05}{14}の声が\n聞こえた気がしたんだ。\n{10}は何か聞こえた?{1a}1度だけだったから\n空耳かもしれないけど、{1a}もしかするとこれが\nクムランさんの言ってた\n『共鳴』かもしれないよね。{1a}{0c:5120}{10}、\nあなた達はそっちの方を調べて。\n{0c:5118}あたしはこっち調べるから。\n早く助けてあげようね。{0c:020501}",
    "raw": null,
-   "en": "{0c:521008}{1c:1a}{0b:08}【 Scharn 】{0b:09}\nThanks! {0b:05}{14} will be so\nhappy!{1a}And you know, just now I thought I heard\n{0b:05}{14}'s voice from around\nhere! Did you hear anything, {10}?{1a}It was only once, so maybe my ears were\nplaying tricks,{1a}but maybe this is that 'resonance'\nQumran-san talked about!{1a}{0c:5120}{10}, you all check over that way!\n{0c:5118}I'll check this way. Let's hurry and save\nthem!{0c:020501}",
+   "en": "{0c:521008}{1c:1a}{0b:08}【 Scharn 】{0b:09}\nThanks! {0b:05}{14} will be\nso happy!{1a}And you know, just now I thought I heard\n{0b:05}{14}'s voice from around\nhere! Did you hear anything, {10}?{1a}It was only once, so maybe my ears were\nplaying tricks,{1a}but maybe this is that 'resonance'\nQumran-san talked about!{1a}{0c:5120}{10}, you all check over that way!\n{0c:5118}I'll check this way. Let's hurry and\nsave them!{0c:020501}",
    "status": "done",
    "tl": "Thanks! [1][VAR14] will be so happy! // And you know, just now I thought I heard [2][VAR14]'s voice from around here! Did you hear anything, [HERO]? // It was only once, so maybe my ears were playing tricks, // but maybe this is that 'resonance' Qumran-san talked about! // [3][HERO], you all check over that way! [4]I'll check this way. Let's hurry and save them!"
   },
@@ -470,7 +470,7 @@
    "jp": "{0c:521008}{1c:1c}{0b:08}【 ジェシカ 】{0b:09}\nそうそう。大人の分別なんて\n{10}には似合わないよ。{1a}ところでさ、\nついさっきあいつの声が\n聞こえたんだけど、\nあんたも聞こえた?{1a}1度だけだから\n空耳かもしれないけどさ、{1a}もしかすると\nクムランさんの話に出てきた\n『共鳴』かもしれないよね。{1a}{0c:5120}{10}、\nあんた達そっちの方を調べて。\n{0c:5118}あたしこっちを調べるからさ。{0c:020401}",
    "read": "{0c:521008}{1c:1c}{0b:08}【 ジェシカ 】{0b:09}\nそうそう。大人の分別なんて\n{10}には似合わないよ。{1a}ところでさ、\nついさっきあいつの声が\n聞こえたんだけど、\nあんたも聞こえた?{1a}1度だけだから\n空耳かもしれないけどさ、{1a}もしかすると\nクムランさんの話に出てきた\n『共鳴』かもしれないよね。{1a}{0c:5120}{10}、\nあんた達そっちの方を調べて。\n{0c:5118}あたしこっちを調べるからさ。{0c:020401}",
    "raw": null,
-   "en": "{0c:521008}{1c:1c}{0b:08}【 Jessica 】{0b:09}\nThat's right, that's right. Grown-up\ngood sense doesn't suit you, {10}.{1a}Anyway, just now I heard that friend of\nours, you know? Did you hear it too?{1a}It was only once, so it could've been my\nears,{1a}but it might be that 'resonance'\nQumran-san talked about, huh?{1a}{0c:5120}{10}, you lot check over that way.\n{0c:5118}I'll check this way, got it?{0c:020401}",
+   "en": "{0c:521008}{1c:1c}{0b:08}【 Jessica 】{0b:09}\nThat's right, that's right. Grown-up\ngood sense doesn't suit you, {10}.{1a}Anyway, just now I heard that friend of\nours, you know? Did you hear it too?{1a}It was only once, so it could've been\nmy ears,{1a}but it might be that 'resonance'\nQumran-san talked about, huh?{1a}{0c:5120}{10}, you lot check over that way.\n{0c:5118}I'll check this way, got it?{0c:020401}",
    "status": "done",
    "tl": "That's right, that's right. Grown-up good sense doesn't suit you, [HERO]. // Anyway, just now I heard that friend of ours, you know? Did you hear it too? // It was only once, so it could've been my ears, // but it might be that 'resonance' Qumran-san talked about, huh? // [1][HERO], you lot check over that way. [2]I'll check this way, got it?"
   },
@@ -482,7 +482,7 @@
    "jp": "{0c:521008}{1c:21}{0b:08}【 ノエル 】{0b:09}\nありがと、心強いわ。{1a}ところであなたは聞いた?\nほんの数分前、\nこの辺りから{0b:05}{14}の声が\n聞こえた気がしたんだけど・・・{1a}1度だけだから\n耳の錯覚かもしれないけど、{1a}もしかするとこれが\nクムランさんの言っていた\n『共鳴』かもしれないと思って・・・{1a}{0c:5120}{10}、\nあなた達はそっちの方を調べて。\n{0c:5118}あたしはこっちを調べてみるから。{0c:020301}",
    "read": "{0c:521008}{1c:21}{0b:08}【 ノエル 】{0b:09}\nありがと、心強いわ。{1a}ところであなたは聞いた?\nほんの数分前、\nこの辺りから{0b:05}{14}の声が\n聞こえた気がしたんだけど・・・{1a}1度だけだから\n耳の錯覚かもしれないけど、{1a}もしかするとこれが\nクムランさんの言っていた\n『共鳴』かもしれないと思って・・・{1a}{0c:5120}{10}、\nあなた達はそっちの方を調べて。\n{0c:5118}あたしはこっちを調べてみるから。{0c:020301}",
    "raw": null,
-   "en": "{0c:521008}{1c:21}{0b:08}【 Noel 】{0b:09}\nThanks. That's reassuring.{1a}By the way, did you hear it? Just a few\nminutes ago I thought I heard\n{0b:05}{14}'s voice from around\nhere...{1a}It was only once, so it could be an\nauditory illusion,{1a}but I thought perhaps this is the\n'resonance' Qumran-san spoke of...{1a}{0c:5120}{10}, you all check over that way.\n{0c:5118}I'll try checking this way.{0c:020301}",
+   "en": "{0c:521008}{1c:21}{0b:08}【 Noel 】{0b:09}\nThanks. That's reassuring.{1a}By the way, did you hear it? Just a few\nminutes ago I thought I heard\n{0b:05}{14}'s voice from\naround here...{1a}It was only once, so it could be an\nauditory illusion,{1a}but I thought perhaps this is the\n'resonance' Qumran-san spoke of...{1a}{0c:5120}{10}, you all check over that way.\n{0c:5118}I'll try checking this way.{0c:020301}",
    "status": "done",
    "tl": "Thanks. That's reassuring. // By the way, did you hear it? Just a few minutes ago I thought I heard [1][VAR14]'s voice from around here... // It was only once, so it could be an auditory illusion, // but I thought perhaps this is the 'resonance' Qumran-san spoke of... // [2][HERO], you all check over that way. [3]I'll try checking this way."
   },
@@ -494,7 +494,7 @@
    "jp": "{0c:521008}{1c:25}{0b:08}【 ルカ 】{0b:09}\nあ、ありがとうございます、\n{10}さん。\nほんとうにうれしいです。{1a}ところで{10}さんは\nお聞きになりましたか?\nつい先程、{0b:05}{14}さんの声が\n聞こえた気がしたんです。{1a}1度だけでしたから\n空耳かもしれませんが、{1a}もしかすると\nクムランさんのおっしゃった\n『共鳴』かもしれないと思って・・・{1a}{0c:5120}{10}さんはそちらの穴を\n調べていただけますか?\nわたしはもう1度\nこのあたりを探してみます。{0c:020201}",
    "read": "{0c:521008}{1c:25}{0b:08}【 ルカ 】{0b:09}\nあ、ありがとうございます、\n{10}さん。\nほんとうにうれしいです。{1a}ところで{10}さんは\nお聞きになりましたか?\nつい先程、{0b:05}{14}さんの声が\n聞こえた気がしたんです。{1a}1度だけでしたから\n空耳かもしれませんが、{1a}もしかすると\nクムランさんのおっしゃった\n『共鳴』かもしれないと思って・・・{1a}{0c:5120}{10}さんはそちらの穴を\n調べていただけますか?\nわたしはもう1度\nこのあたりを探してみます。{0c:020201}",
    "raw": null,
-   "en": "{0c:521008}{1c:25}{0b:08}【 Luca 】{0b:09}\nTh-thank you, {10}-san. I am truly\nglad.{1a}By the way, did you hear it,\n{10}-san? Just now I thought I\nheard {0b:05}{14}-san's voice.{1a}It was only once, so my ears may have\nplayed tricks on me,{1a}but I thought it might be the 'resonance'\nQumran-san spoke of...{1a}{0c:5120}Could I ask you to check that hole,\n{10}-san? I will try searching\naround here once more.{0c:020201}",
+   "en": "{0c:521008}{1c:25}{0b:08}【 Luca 】{0b:09}\nTh-thank you, {10}-san. I am\ntruly glad.{1a}By the way, did you hear it,\n{10}-san? Just now I thought I\nheard {0b:05}{14}-san's voice.{1a}It was only once, so my ears may have\nplayed tricks on me,{1a}but I thought it might be the 'resonance'\nQumran-san spoke of...{1a}{0c:5120}Could I ask you to check that hole,\n{10}-san? I will try searching\naround here once more.{0c:020201}",
    "status": "done",
    "tl": "Th-thank you, [HERO]-san. I am truly glad. // By the way, did you hear it, [HERO]-san? Just now I thought I heard [1][VAR14]-san's voice. // It was only once, so my ears may have played tricks on me, // but I thought it might be the 'resonance' Qumran-san spoke of... // [2]Could I ask you to check that hole, [HERO]-san? I will try searching around here once more."
   },
@@ -564,7 +564,7 @@
    "jp": "{1c:19}{0b:08}【 {03}パスカ 】{0b:09}\n{02}なんだ、違うのか・・・\nま、仕方ねえけどさ。\n{03}オレ{02}も自分の決断に自信ねえし。{1a}でもやっぱり{03}イヤ{02}なんだ。\n見殺しにするのは・・・{1a}じゃあな{01},{10}{02}。{0c:020601}",
    "read": "{1c:19}{0b:08}【 {03}パスカ 】{0b:09}\n{02}なんだ、違うのか・・・\nま、仕方ねえけどさ。\n{03}オレ{02}も自分の決断に自信ねえし。{1a}でもやっぱり{03}イヤ{02}なんだ。\n見殺しにするのは・・・{1a}じゃあな{01},{10}{02}。{0c:020601}",
    "raw": null,
-   "en": "{1c:19}{0b:08}【 Pasca 】{0b:09}\nHuh, guess not, then... Well, can't be\nhelped. Ain't like I'm sure of my own call\neither.{1a}But I still hate it. Leavin' somebody to\ndie...{1a}See ya, {10}.{0c:020601}",
+   "en": "{1c:19}{0b:08}【 Pasca 】{0b:09}\nHuh, guess not, then... Well, can't be\nhelped. Ain't like I'm sure of my own\ncall either.{1a}But I still hate it. Leavin' somebody\nto die...{1a}See ya, {10}.{0c:020601}",
    "status": "done",
    "tl": "Huh, guess not, then... Well, can't be helped. Ain't like I'm sure of my own call either. // But I still hate it. Leavin' somebody to die... // See ya, [HERO]."
   },
@@ -624,7 +624,7 @@
    "jp": "{1c:2a}{0b:08}【 サラ 】{0b:09}\nそう・・・\n残念だけどしょうがないね。{0c:020101}",
    "read": "{1c:2a}{0b:08}【 サラ 】{0b:09}\nそう・・・\n残念だけどしょうがないね。{0c:020101}",
    "raw": null,
-   "en": "{1c:2a}{0b:08}【 Sara 】{0b:09}\nOh... It's too bad, but I guess it can't be\nhelped.{0c:020101}",
+   "en": "{1c:2a}{0b:08}【 Sara 】{0b:09}\nOh... It's too bad, but I guess it can't\nbe helped.{0c:020101}",
    "status": "done",
    "tl": "Oh... It's too bad, but I guess it can't be helped."
   },
@@ -658,7 +658,7 @@
    "jp": "{1c:10}{0b:08}【 アッシュ 】{0b:09}\nえーと・・・\n2人で何話してるのか\nよくわかんないんだけど、{1a}{0c:28002351ffffffff5429011000}この近くに\n{0b:05}{14}の魂が閉じこめられてる\n『シェオルの柱』があるのかい?{1a}じゃあ早く進もうよ。\n早く見つけて壊さなきゃな。{0c:021901}",
    "read": "{1c:10}{0b:08}【 アッシュ 】{0b:09}\nえーと・・・\n2人で何話してるのか\nよくわかんないんだけど、{1a}{0c:28002351ffffffff5429011000}この近くに\n{0b:05}{14}の魂が閉じこめられてる\n『シェオルの柱』があるのかい?{1a}じゃあ早く進もうよ。\n早く見つけて壊さなきゃな。{0c:021901}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\nUm... I don't really get what you two are\ntalking about,{1a}{0c:28002351ffffffff5429011000}but is there a 'Pillar of Sheol' close by\nwith {0b:05}{14}'s soul shut up\ninside?{1a}Then let's hurry on, I guess. We've gotta\nfind it and break it, quick.{0c:021901}",
+   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\nUm... I don't really get what you two are\ntalking about,{1a}{0c:28002351ffffffff5429011000}but is there a 'Pillar of Sheol' close by\nwith {0b:05}{14}'s soul shut\nup inside?{1a}Then let's hurry on, I guess. We've gotta\nfind it and break it, quick.{0c:021901}",
    "status": "done",
    "tl": "Um... I don't really get what you two are talking about, // [1]but is there a 'Pillar of Sheol' close by with [2][VAR14]'s soul shut up inside? // Then let's hurry on, I guess. We've gotta find it and break it, quick."
   },
@@ -681,7 +681,7 @@
    "jp": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n・・・共鳴?\n2人の会話があまり\n理解出来ていないんだけど、{1a}{0c:28002351ffffffff5429021000}この近くに\n{0b:05}{14}の魂が閉じこめられてる\n『シェオルの柱』があるのか?{1a}よし、じゃあ早く進もう!\n早く見つけて壊さなきゃね。{0c:021701}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n・・・共鳴?\n2人の会話があまり\n理解出来ていないんだけど、{1a}{0c:28002351ffffffff5429021000}この近くに\n{0b:05}{14}の魂が閉じこめられてる\n『シェオルの柱』があるのか?{1a}よし、じゃあ早く進もう!\n早く見つけて壊さなきゃね。{0c:021701}",
    "raw": null,
-   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\n...Resonance? I can't really follow what\nyou two are saying,{1a}{0c:28002351ffffffff5429021000}but is there a 'Pillar of Sheol' close by\nwith {0b:05}{14}'s soul imprisoned\ninside?{1a}All right, then let's hurry on! We have to\nfind it and destroy it quickly.{0c:021701}",
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\n...Resonance? I can't really follow what\nyou two are saying,{1a}{0c:28002351ffffffff5429021000}but is there a 'Pillar of Sheol' close by\nwith {0b:05}{14}'s soul\nimprisoned inside?{1a}All right, then let's hurry on! We have to\nfind it and destroy it quickly.{0c:021701}",
    "status": "done",
    "tl": "...Resonance? I can't really follow what you two are saying, // [1]but is there a 'Pillar of Sheol' close by with [2][VAR14]'s soul imprisoned inside? // All right, then let's hurry on! We have to find it and destroy it quickly."
   },
@@ -704,7 +704,7 @@
    "jp": "{1c:14}{0b:08}【 レイア 】{0b:09}\n無駄な話をする暇が\nあるなら奥へ進め。{0c:021501}",
    "read": "{1c:14}{0b:08}【 レイア 】{0b:09}\n無駄な話をする暇が\nあるなら奥へ進め。{0c:021501}",
    "raw": null,
-   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\nIf you have time for idle talk, then press\non.{0c:021501}",
+   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\nIf you have time for idle talk, then\npress on.{0c:021501}",
    "status": "done",
    "tl": "If you have time for idle talk, then press on."
   },
@@ -727,7 +727,7 @@
    "jp": "{1c:16}{0b:08}【 エレアノール 】{0b:09}\nおふたりの話が\nよく理解出来ていないのですが、{1a}{0c:28002351ffffffff5429041000}{0b:05}{14}の魂が封じ込められた\n『シェオルの柱』が\nこの近くにあるという\n予感がするのですか?{1a}でしたら早く進みましょう、\nその予感を信じて。{0c:021301}",
    "read": "{1c:16}{0b:08}【 エレアノール 】{0b:09}\nおふたりの話が\nよく理解出来ていないのですが、{1a}{0c:28002351ffffffff5429041000}{0b:05}{14}の魂が封じ込められた\n『シェオルの柱』が\nこの近くにあるという\n予感がするのですか?{1a}でしたら早く進みましょう、\nその予感を信じて。{0c:021301}",
    "raw": null,
-   "en": "{1c:16}{0b:08}【 Eleanor 】{0b:09}\nI do not quite understand what you two\nare saying,{1a}{0c:28002351ffffffff5429041000}{0b:05}but do you have a premonition that the\n'Pillar of Sheol' confining\n{14}'s soul is close by?{1a}Then let us hurry on, trusting in that\npremonition.{0c:021301}",
+   "en": "{1c:16}{0b:08}【 Eleanor 】{0b:09}\nI do not quite understand what you two\nare saying,{1a}{0c:28002351ffffffff5429041000}{0b:05}but do you have a premonition that the\n'Pillar of Sheol' confining\n{14}'s soul is close by?{1a}Then let us hurry on, trusting in\nthat premonition.{0c:021301}",
    "status": "done",
    "tl": "I do not quite understand what you two are saying, // [1]but do you have a premonition that the 'Pillar of Sheol' confining [VAR14]'s soul is close by? // Then let us hurry on, trusting in that premonition."
   },
@@ -750,7 +750,7 @@
    "jp": "{1c:18}{0b:08}【 パスカ 】{0b:09}\nお前らの会話が\nよくつかめてねえんだけど、{1a}{0c:28002351ffffffff5429051000}この近くに\n{0b:05}{14}の魂が閉じこめられてる\n『シェオルの柱』があるって\n予感がするのか?{1a}じゃあ早く進もうぜ。\nよく言うじゃねえか、\nそういう勘って\n信じる事の方が大事だってさ。{1a}早く見つけてぶっ壊そうぜ!{0c:021101}",
    "read": "{1c:18}{0b:08}【 パスカ 】{0b:09}\nお前らの会話が\nよくつかめてねえんだけど、{1a}{0c:28002351ffffffff5429051000}この近くに\n{0b:05}{14}の魂が閉じこめられてる\n『シェオルの柱』があるって\n予感がするのか?{1a}じゃあ早く進もうぜ。\nよく言うじゃねえか、\nそういう勘って\n信じる事の方が大事だってさ。{1a}早く見つけてぶっ壊そうぜ!{0c:021101}",
    "raw": null,
-   "en": "{1c:18}{0b:08}【 Pasca 】{0b:09}\nI ain't really gettin' what you two are on\nabout,{1a}{0c:28002351ffffffff5429051000}but ya got a hunch there's a 'Pillar of\nSheol' close by with {0b:05}{14}'s\nsoul locked up in it?{1a}Then let's get a move on. Ya know what\nthey say, with a gut feelin' like that, the\nmain thing's to trust it.{1a}Let's find it quick and smash it to bits!{0c:021101}",
+   "en": "{1c:18}{0b:08}【 Pasca 】{0b:09}\nI ain't really gettin' what you two are\non about,{1a}{0c:28002351ffffffff5429051000}but ya got a hunch there's a 'Pillar of\nSheol' close by with {0b:05}{14}'s\nsoul locked up in it?{1a}Then let's get a move on. Ya know what\nthey say, with a gut feelin' like that, the\nmain thing's to trust it.{1a}Let's find it quick and smash it to bits!{0c:021101}",
    "status": "done",
    "tl": "I ain't really gettin' what you two are on about, // [1]but ya got a hunch there's a 'Pillar of Sheol' close by with [2][VAR14]'s soul locked up in it? // Then let's get a move on. Ya know what they say, with a gut feelin' like that, the main thing's to trust it. // Let's find it quick and smash it to bits!"
   },
@@ -796,7 +796,7 @@
    "jp": "{1c:1c}{0b:08}【 ジェシカ 】{0b:09}\nあんた達の会話があんまりよく\n理解できてないんだけど、{1a}{0c:28002351ffffffff54290a1000}{0b:05}{14}の魂が閉じこめられてる\n『シェオルの柱』が\nこの近くにある予感がするの?{1a}じゃあ早く進もうよ。\nそういう勘ってさ、\n絶対当たるって信じてた方が\n上手くいくもんね。{0c:020d01}",
    "read": "{1c:1c}{0b:08}【 ジェシカ 】{0b:09}\nあんた達の会話があんまりよく\n理解できてないんだけど、{1a}{0c:28002351ffffffff54290a1000}{0b:05}{14}の魂が閉じこめられてる\n『シェオルの柱』が\nこの近くにある予感がするの?{1a}じゃあ早く進もうよ。\nそういう勘ってさ、\n絶対当たるって信じてた方が\n上手くいくもんね。{0c:020d01}",
    "raw": null,
-   "en": "{1c:1c}{0b:08}【 Jessica 】{0b:09}\nI can't really follow what you two are\nsaying,{1a}{0c:28002351ffffffff54290a1000}{0b:05}but you've got a hunch there's a 'Pillar\nof Sheol' close by with\n{14}'s soul locked up in it?{1a}Then let's get moving. With a hunch like\nthat, things go better if you believe it's\na sure thing, you know?{0c:020d01}",
+   "en": "{1c:1c}{0b:08}【 Jessica 】{0b:09}\nI can't really follow what you two\nare saying,{1a}{0c:28002351ffffffff54290a1000}{0b:05}but you've got a hunch there's a 'Pillar\nof Sheol' close by with\n{14}'s soul locked up in it?{1a}Then let's get moving. With a hunch like\nthat, things go better if you believe it's\na sure thing, you know?{0c:020d01}",
    "status": "done",
    "tl": "I can't really follow what you two are saying, // [1]but you've got a hunch there's a 'Pillar of Sheol' close by with [VAR14]'s soul locked up in it? // Then let's get moving. With a hunch like that, things go better if you believe it's a sure thing, you know?"
   },
@@ -842,7 +842,7 @@
    "jp": "{0c:200001}{1c:1f}{0b:08}【 イヴ 】{0b:09}\nあなた達の会話があまりよく\n理解出来てないんだけど、{1a}{0c:28002351ffffffff54290c1000}つまり、『そんな気がする』から\n行こうって話なのよね。{1a}あたし大好きよ、\nそういういい加減な理由。{0c:020901}",
    "read": "{0c:200001}{1c:1f}{0b:08}【 イヴ 】{0b:09}\nあなた達の会話があまりよく\n理解出来てないんだけど、{1a}{0c:28002351ffffffff54290c1000}つまり、『そんな気がする』から\n行こうって話なのよね。{1a}あたし大好きよ、\nそういういい加減な理由。{0c:020901}",
    "raw": null,
-   "en": "{0c:200001}{1c:1f}{0b:08}【 Eve 】{0b:09}\nI can't quite follow what you two are\nsaying,{1a}{0c:28002351ffffffff54290c1000}but in short, we're going because you\n'have a feeling', is that it?{1a}I simply adore a careless reason like that,\ndear.{0c:020901}",
+   "en": "{0c:200001}{1c:1f}{0b:08}【 Eve 】{0b:09}\nI can't quite follow what you two\nare saying,{1a}{0c:28002351ffffffff54290c1000}but in short, we're going because you\n'have a feeling', is that it?{1a}I simply adore a careless reason like\nthat, dear.{0c:020901}",
    "status": "done",
    "tl": "I can't quite follow what you two are saying, // [1]but in short, we're going because you 'have a feeling', is that it? // I simply adore a careless reason like that, dear."
   },
@@ -865,7 +865,7 @@
    "jp": "{0c:200001}{1c:20}{0b:08}【 ディアス 】{0b:09}\n共鳴・・・?\n書かれていない事実もあるのか・・・{0c:020701}",
    "read": "{0c:200001}{1c:20}{0b:08}【 ディアス 】{0b:09}\n共鳴・・・?\n書かれていない事実もあるのか・・・{0c:020701}",
    "raw": null,
-   "en": "{0c:200001}{1c:20}{0b:08}【 Dias 】{0b:09}\nResonance...? So there are facts left\nunwritten...{0c:020701}",
+   "en": "{0c:200001}{1c:20}{0b:08}【 Dias 】{0b:09}\nResonance...? So there are facts\nleft unwritten...{0c:020701}",
    "status": "done",
    "tl": "Resonance...? So there are facts left unwritten..."
   },
@@ -888,7 +888,7 @@
    "jp": "{1c:23}{0b:08}【 ノエル 】{0b:09}\n『共鳴』・・・?\nクムランさんがあなた達に\n何か言ったの?{1a}{0c:28002351ffffffff54290e1000}まあいいわ、とにかく進みましょ。{1a}何と何がどのように\n『共鳴』しているのかは\n知らないけど、{1a}聖書の記述を頼りに行動するよりは\nはるかに確実性があるわ。\nじゃあ行きましょ。{0c:020501}",
    "read": "{1c:23}{0b:08}【 ノエル 】{0b:09}\n『共鳴』・・・?\nクムランさんがあなた達に\n何か言ったの?{1a}{0c:28002351ffffffff54290e1000}まあいいわ、とにかく進みましょ。{1a}何と何がどのように\n『共鳴』しているのかは\n知らないけど、{1a}聖書の記述を頼りに行動するよりは\nはるかに確実性があるわ。\nじゃあ行きましょ。{0c:020501}",
    "raw": null,
-   "en": "{1c:23}{0b:08}【 Noel 】{0b:09}\n'Resonance'...? Did Qumran-san tell you\nsomething?{1a}{0c:28002351ffffffff54290e1000}Well, never mind. Let's just go on.{1a}I don't know what is 'resonating' with\nwhat, or how,{1a}but it's far more certain than acting on\nwhat the Scriptures say. So let's go.{0c:020501}",
+   "en": "{1c:23}{0b:08}【 Noel 】{0b:09}\n'Resonance'...? Did Qumran-san tell\nyou something?{1a}{0c:28002351ffffffff54290e1000}Well, never mind. Let's just go on.{1a}I don't know what is 'resonating' with\nwhat, or how,{1a}but it's far more certain than acting on\nwhat the Scriptures say. So let's go.{0c:020501}",
    "status": "done",
    "tl": "'Resonance'...? Did Qumran-san tell you something? // [1]Well, never mind. Let's just go on. // I don't know what is 'resonating' with what, or how, // but it's far more certain than acting on what the Scriptures say. So let's go."
   },
@@ -911,7 +911,7 @@
    "jp": "{1c:25}{0b:08}【 ルカ 】{0b:09}\nおふたりの会話が\nよく理解出来てないのですけど、{1a}{0c:28002351ffffffff5429111000}{0b:05}{14}さんの魂が\n封じ込められてる『シェオルの柱』が\nこの近くにあるという予感が\nするのですか?{1a}ではそれを信じて進みましょうよ。\n信じる力は奇跡を生み出すとも\n言いますから。\n頑張りましょう!{0c:020301}",
    "read": "{1c:25}{0b:08}【 ルカ 】{0b:09}\nおふたりの会話が\nよく理解出来てないのですけど、{1a}{0c:28002351ffffffff5429111000}{0b:05}{14}さんの魂が\n封じ込められてる『シェオルの柱』が\nこの近くにあるという予感が\nするのですか?{1a}ではそれを信じて進みましょうよ。\n信じる力は奇跡を生み出すとも\n言いますから。\n頑張りましょう!{0c:020301}",
    "raw": null,
-   "en": "{1c:25}{0b:08}【 Luca 】{0b:09}\nI do not quite understand what you two\nare saying,{1a}{0c:28002351ffffffff5429111000}{0b:05}but do you have a premonition that the\n'Pillar of Sheol' sealing\n{14}-san's soul is close\nby?{1a}Then let us trust in that and go on.\nThey do say the power of belief can\nbring about miracles. Let us do our best!{0c:020301}",
+   "en": "{1c:25}{0b:08}【 Luca 】{0b:09}\nI do not quite understand what you two\nare saying,{1a}{0c:28002351ffffffff5429111000}{0b:05}but do you have a premonition that the\n'Pillar of Sheol' sealing\n{14}-san's soul is\nclose by?{1a}Then let us trust in that and go on.\nThey do say the power of belief can\nbring about miracles. Let us do our best!{0c:020301}",
    "status": "done",
    "tl": "I do not quite understand what you two are saying, // [1]but do you have a premonition that the 'Pillar of Sheol' sealing [VAR14]-san's soul is close by? // Then let us trust in that and go on. They do say the power of belief can bring about miracles. Let us do our best!"
   },
@@ -1075,7 +1075,7 @@
    "jp": "{0c:51ffffffff54280010002351ffffffff541000}{1c:22}{0b:08}【 ノエル 】{0b:09}\n共鳴・・・?\nクムランさんがあなた達に\n何か言ったの?{1a}{0c:51ffffffff541001}まあいいわ、とにかく進みましょ。\nこちらの穴ね。{0c:023301}",
    "read": "{0c:51ffffffff54280010002351ffffffff541000}{1c:22}{0b:08}【 ノエル 】{0b:09}\n共鳴・・・?\nクムランさんがあなた達に\n何か言ったの?{1a}{0c:51ffffffff541001}まあいいわ、とにかく進みましょ。\nこちらの穴ね。{0c:023301}",
    "raw": null,
-   "en": "{0c:51ffffffff54280010002351ffffffff541000}{1c:22}{0b:08}【 Noel 】{0b:09}\nResonance...? Did Qumran-san tell you\nsomething?{1a}{0c:51ffffffff541001}Well, never mind. Let's just go on. It's\nthis hole, is it?{0c:023301}",
+   "en": "{0c:51ffffffff54280010002351ffffffff541000}{1c:22}{0b:08}【 Noel 】{0b:09}\nResonance...? Did Qumran-san tell\nyou something?{1a}{0c:51ffffffff541001}Well, never mind. Let's just go on. It's\nthis hole, is it?{0c:023301}",
    "status": "done",
    "tl": "Resonance...? Did Qumran-san tell you something? // [1]Well, never mind. Let's just go on. It's this hole, is it?"
   },
@@ -1167,7 +1167,7 @@
    "jp": "{0c:51ffffffff54280010002351ffffffff541000}{1c:1d}{0b:08}【 ジェシカ 】{0b:09}\nあんた達の会話があんまりよく\n理解できてないんだけど、{1a}{0c:51ffffffff541001}とにかくこっちの穴を\n調べればいいんだよね、\nじゃあ早く進もうよ。{0c:022b01}",
    "read": "{0c:51ffffffff54280010002351ffffffff541000}{1c:1d}{0b:08}【 ジェシカ 】{0b:09}\nあんた達の会話があんまりよく\n理解できてないんだけど、{1a}{0c:51ffffffff541001}とにかくこっちの穴を\n調べればいいんだよね、\nじゃあ早く進もうよ。{0c:022b01}",
    "raw": null,
-   "en": "{0c:51ffffffff54280010002351ffffffff541000}{1c:1d}{0b:08}【 Jessica 】{0b:09}\nI can't really follow what you two are\nsaying,{1a}{0c:51ffffffff541001}but we just have to check this hole,\nright? So let's get moving.{0c:022b01}",
+   "en": "{0c:51ffffffff54280010002351ffffffff541000}{1c:1d}{0b:08}【 Jessica 】{0b:09}\nI can't really follow what you two\nare saying,{1a}{0c:51ffffffff541001}but we just have to check this hole,\nright? So let's get moving.{0c:022b01}",
    "status": "done",
    "tl": "I can't really follow what you two are saying, // [1]but we just have to check this hole, right? So let's get moving."
   },
@@ -1190,7 +1190,7 @@
    "jp": "{0c:51ffffffff54280010002351ffffffff541000}{1c:19}{0b:08}【 パスカ 】{0b:09}\n・・・共鳴?\nそれ、一体何の話だ?{1a}{0c:51ffffffff541001}まあいいや、\nとにかくこっちの穴、\n調べに行こうぜ。{0c:022901}",
    "read": "{0c:51ffffffff54280010002351ffffffff541000}{1c:19}{0b:08}【 パスカ 】{0b:09}\n・・・共鳴?\nそれ、一体何の話だ?{1a}{0c:51ffffffff541001}まあいいや、\nとにかくこっちの穴、\n調べに行こうぜ。{0c:022901}",
    "raw": null,
-   "en": "{0c:51ffffffff54280010002351ffffffff541000}{1c:19}{0b:08}【 Pasca 】{0b:09}\n...Resonance? The hell's that about?{1a}{0c:51ffffffff541001}Ah, whatever. Let's just go check this\nhole.{0c:022901}",
+   "en": "{0c:51ffffffff54280010002351ffffffff541000}{1c:19}{0b:08}【 Pasca 】{0b:09}\n...Resonance? The hell's that about?{1a}{0c:51ffffffff541001}Ah, whatever. Let's just go check\nthis hole.{0c:022901}",
    "status": "done",
    "tl": "...Resonance? The hell's that about? // [1]Ah, whatever. Let's just go check this hole."
   },
@@ -1305,7 +1305,7 @@
    "jp": "{0c:28002351ffffffff541000}{1c:20}{0b:08}【 ディアス 】{0b:09}\n共鳴・・・?\n書かれていない事実もあるのか・・・{0c:021f01}",
    "read": "{0c:28002351ffffffff541000}{1c:20}{0b:08}【 ディアス 】{0b:09}\n共鳴・・・?\n書かれていない事実もあるのか・・・{0c:021f01}",
    "raw": null,
-   "en": "{0c:28002351ffffffff541000}{1c:20}{0b:08}【 Dias 】{0b:09}\nResonance...? So there are facts left\nunwritten...{0c:021f01}",
+   "en": "{0c:28002351ffffffff541000}{1c:20}{0b:08}【 Dias 】{0b:09}\nResonance...? So there are facts\nleft unwritten...{0c:021f01}",
    "status": "done",
    "tl": "Resonance...? So there are facts left unwritten..."
   },
@@ -1328,7 +1328,7 @@
    "jp": "{0c:51ffffffff54280010002351ffffffff541000}{1c:1f}{0b:08}【 イヴ 】{0b:09}\nあなた達の会話があまりよく\n理解出来てないんだけど、{1a}つまり、『そんな気がする』から\n行こうって話なのよね。{1a}あたし大好きよ、\nそういういい加減な理由。{0c:021d01}",
    "read": "{0c:51ffffffff54280010002351ffffffff541000}{1c:1f}{0b:08}【 イヴ 】{0b:09}\nあなた達の会話があまりよく\n理解出来てないんだけど、{1a}つまり、『そんな気がする』から\n行こうって話なのよね。{1a}あたし大好きよ、\nそういういい加減な理由。{0c:021d01}",
    "raw": null,
-   "en": "{0c:51ffffffff54280010002351ffffffff541000}{1c:1f}{0b:08}【 Eve 】{0b:09}\nI can't quite follow what you two are\nsaying,{1a}but in short, we're going because you\n'have a feeling', is that it?{1a}I simply adore a careless reason like that,\ndear.{0c:021d01}",
+   "en": "{0c:51ffffffff54280010002351ffffffff541000}{1c:1f}{0b:08}【 Eve 】{0b:09}\nI can't quite follow what you two\nare saying,{1a}but in short, we're going because you\n'have a feeling', is that it?{1a}I simply adore a careless reason like\nthat, dear.{0c:021d01}",
    "status": "done",
    "tl": "I can't quite follow what you two are saying, // but in short, we're going because you 'have a feeling', is that it? // I simply adore a careless reason like that, dear."
   },
@@ -1374,7 +1374,7 @@
    "jp": "{0c:51ffffffff54280010002351ffffffff541000}{1c:19}{0b:08}【 パスカ 】{0b:09}\nおい・・・\n今のさ、一体何の冗談だ?{1a}くだらない冗談はやめて\n早く探しに行こうぜ。{0c:021901}",
    "read": "{0c:51ffffffff54280010002351ffffffff541000}{1c:19}{0b:08}【 パスカ 】{0b:09}\nおい・・・\n今のさ、一体何の冗談だ?{1a}くだらない冗談はやめて\n早く探しに行こうぜ。{0c:021901}",
    "raw": null,
-   "en": "{0c:51ffffffff54280010002351ffffffff541000}{1c:19}{0b:08}【 Pasca 】{0b:09}\nHey... What the hell kinda joke was that?{1a}Quit the dumb jokes and let's go look,\nquick.{0c:021901}",
+   "en": "{0c:51ffffffff54280010002351ffffffff541000}{1c:19}{0b:08}【 Pasca 】{0b:09}\nHey... What the hell kinda joke was that?{1a}Quit the dumb jokes and let's go\nlook, quick.{0c:021901}",
    "status": "done",
    "tl": "Hey... What the hell kinda joke was that? // Quit the dumb jokes and let's go look, quick."
   },
@@ -1397,7 +1397,7 @@
    "jp": "{0c:51ffffffff54280010002351ffffffff541000}{1c:13}{0b:08}【 アーサー 】{0b:09}\n{10}・・・\n今のは一体何の冗談だ?{1a}くだらない冗談はやめて\n早く探しに行こうよ。{0c:021701}",
    "read": "{0c:51ffffffff54280010002351ffffffff541000}{1c:13}{0b:08}【 アーサー 】{0b:09}\n{10}・・・\n今のは一体何の冗談だ?{1a}くだらない冗談はやめて\n早く探しに行こうよ。{0c:021701}",
    "raw": null,
-   "en": "{0c:51ffffffff54280010002351ffffffff541000}{1c:13}{0b:08}【 Arthur 】{0b:09}\n{10}... What kind of joke was\nthat?{1a}Stop these foolish jokes and let's go\nsearch, quickly.{0c:021701}",
+   "en": "{0c:51ffffffff54280010002351ffffffff541000}{1c:13}{0b:08}【 Arthur 】{0b:09}\n{10}... What kind of joke\nwas that?{1a}Stop these foolish jokes and let's go\nsearch, quickly.{0c:021701}",
    "status": "done",
    "tl": "[HERO]... What kind of joke was that? // Stop these foolish jokes and let's go search, quickly."
   },
@@ -1420,7 +1420,7 @@
    "jp": "{0c:51ffffffff54280010002351ffffffff541000}{1c:1b}{0b:08}【 シャルン 】{0b:09}\n{10}・・・\n今のは一体何の冗談なの?{1a}くだらない冗談はやめて\n早く探しに行こうよ。{0c:021501}",
    "read": "{0c:51ffffffff54280010002351ffffffff541000}{1c:1b}{0b:08}【 シャルン 】{0b:09}\n{10}・・・\n今のは一体何の冗談なの?{1a}くだらない冗談はやめて\n早く探しに行こうよ。{0c:021501}",
    "raw": null,
-   "en": "{0c:51ffffffff54280010002351ffffffff541000}{1c:1b}{0b:08}【 Scharn 】{0b:09}\n{10}... What kind of joke was\nthat!?{1a}Quit the silly jokes and let's hurry up\nand look, come on!{0c:021501}",
+   "en": "{0c:51ffffffff54280010002351ffffffff541000}{1c:1b}{0b:08}【 Scharn 】{0b:09}\n{10}... What kind of joke\nwas that!?{1a}Quit the silly jokes and let's hurry up\nand look, come on!{0c:021501}",
    "status": "done",
    "tl": "[HERO]... What kind of joke was that!? // Quit the silly jokes and let's hurry up and look, come on!"
   },
@@ -1489,7 +1489,7 @@
    "jp": "{0c:51ffffffff54280010002351ffffffff541000}{1c:24}{0b:08}【 ノエル 】{0b:09}\n今の・・・\n一体何の冗談?{1a}くだらない冗談はやめて\n早く探しに行きましょ。{0c:020f01}",
    "read": "{0c:51ffffffff54280010002351ffffffff541000}{1c:24}{0b:08}【 ノエル 】{0b:09}\n今の・・・\n一体何の冗談?{1a}くだらない冗談はやめて\n早く探しに行きましょ。{0c:020f01}",
    "raw": null,
-   "en": "{0c:51ffffffff54280010002351ffffffff541000}{1c:24}{0b:08}【 Noel 】{0b:09}\nThat just now... What kind of joke was\nthat?{1a}Stop these silly jokes and let's hurry and\nsearch.{0c:020f01}",
+   "en": "{0c:51ffffffff54280010002351ffffffff541000}{1c:24}{0b:08}【 Noel 】{0b:09}\nThat just now... What kind of joke\nwas that?{1a}Stop these silly jokes and let's hurry\nand search.{0c:020f01}",
    "status": "done",
    "tl": "That just now... What kind of joke was that? // Stop these silly jokes and let's hurry and search."
   },
@@ -1512,7 +1512,7 @@
    "jp": "{0c:51ffffffff54280010002351ffffffff541000}{1c:17}{0b:08}【 エレアノール 】{0b:09}\n{10}・・・\n今のは一体何の冗談ですか?{1a}くだらない冗談はやめて\n早く探しに行きましょう。{0c:020d01}",
    "read": "{0c:51ffffffff54280010002351ffffffff541000}{1c:17}{0b:08}【 エレアノール 】{0b:09}\n{10}・・・\n今のは一体何の冗談ですか?{1a}くだらない冗談はやめて\n早く探しに行きましょう。{0c:020d01}",
    "raw": null,
-   "en": "{0c:51ffffffff54280010002351ffffffff541000}{1c:17}{0b:08}【 Eleanor 】{0b:09}\n{10}... What kind of joke was\nthat?{1a}Please stop these foolish jokes, and let\nus hurry and search.{0c:020d01}",
+   "en": "{0c:51ffffffff54280010002351ffffffff541000}{1c:17}{0b:08}【 Eleanor 】{0b:09}\n{10}... What kind of joke\nwas that?{1a}Please stop these foolish jokes, and let\nus hurry and search.{0c:020d01}",
    "status": "done",
    "tl": "[HERO]... What kind of joke was that? // Please stop these foolish jokes, and let us hurry and search."
   },
@@ -1535,7 +1535,7 @@
    "jp": "{0c:51ffffffff54280010002351ffffffff541000}{1c:29}{0b:08}【 サラ 】{0b:09}\n{10}さん・・・\n今の、冗談だよね・・・{0c:020b01}",
    "read": "{0c:51ffffffff54280010002351ffffffff541000}{1c:29}{0b:08}【 サラ 】{0b:09}\n{10}さん・・・\n今の、冗談だよね・・・{0c:020b01}",
    "raw": null,
-   "en": "{0c:51ffffffff54280010002351ffffffff541000}{1c:29}{0b:08}【 Sara 】{0b:09}\n{10}-san... That was a joke,\nright...?{0c:020b01}",
+   "en": "{0c:51ffffffff54280010002351ffffffff541000}{1c:29}{0b:08}【 Sara 】{0b:09}\n{10}-san... That was a\njoke, right...?{0c:020b01}",
    "status": "done",
    "tl": "[HERO]-san... That was a joke, right...?"
   },
@@ -1558,7 +1558,7 @@
    "jp": "{0c:51ffffffff54280010002351ffffffff541000}{1c:27}{0b:08}【 ルカ 】{0b:09}\n{10}さん・・・\n今の、冗談ですよね・・・{0c:020901}",
    "read": "{0c:51ffffffff54280010002351ffffffff541000}{1c:27}{0b:08}【 ルカ 】{0b:09}\n{10}さん・・・\n今の、冗談ですよね・・・{0c:020901}",
    "raw": null,
-   "en": "{0c:51ffffffff54280010002351ffffffff541000}{1c:27}{0b:08}【 Luca 】{0b:09}\n{10}-san... That was a joke, was it\nnot...?{0c:020901}",
+   "en": "{0c:51ffffffff54280010002351ffffffff541000}{1c:27}{0b:08}【 Luca 】{0b:09}\n{10}-san... That was a joke, was\nit not...?{0c:020901}",
    "status": "done",
    "tl": "[HERO]-san... That was a joke, was it not...?"
   },
@@ -1581,7 +1581,7 @@
    "jp": "{0c:51ffffffff54280010002351ffffffff541000}{1c:1e}{0b:08}【 オルフェウス 】{0b:09}\n{10}さん、\n今のは一体何の冗談ですか?{1a}いまいち掴めてないんですが、\nとりあえず別の方向を\n進みましょうか。{0c:020701}",
    "read": "{0c:51ffffffff54280010002351ffffffff541000}{1c:1e}{0b:08}【 オルフェウス 】{0b:09}\n{10}さん、\n今のは一体何の冗談ですか?{1a}いまいち掴めてないんですが、\nとりあえず別の方向を\n進みましょうか。{0c:020701}",
    "raw": null,
-   "en": "{0c:51ffffffff54280010002351ffffffff541000}{1c:1e}{0b:08}【 Orpheus 】{0b:09}\n{10}-san, what sort of joke was\nthat?{1a}I have not quite grasped it, but shall we\ntry another direction for now?{0c:020701}",
+   "en": "{0c:51ffffffff54280010002351ffffffff541000}{1c:1e}{0b:08}【 Orpheus 】{0b:09}\n{10}-san, what sort of joke\nwas that?{1a}I have not quite grasped it, but shall we\ntry another direction for now?{0c:020701}",
    "status": "done",
    "tl": "[HERO]-san, what sort of joke was that? // I have not quite grasped it, but shall we try another direction for now?"
   },
@@ -1684,7 +1684,7 @@
    "jp": "{1c:13}{0b:08}【 アーサー 】{0b:09}\nここが煉獄の最下層、\n『清火の宮』か・・・{1a}煉獄という場所は\n奥に進めば進むほど暑くなるんだね。{1a}{0c:28002351ffffffff5429021000}今までも暑かったけど、\nさすがにここまで暑くなると\n命の危険を感じてしまうよ・・・{1a}{0c:51ffffffff54}でも、僕達が助けて\nあげないと死んでしまう\n{0b:05}{14}の事を考えると\n泣き言なんて言ってられないよね。{1a}{10}、頑張って探そう。{0c:021901}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\nここが煉獄の最下層、\n『清火の宮』か・・・{1a}煉獄という場所は\n奥に進めば進むほど暑くなるんだね。{1a}{0c:28002351ffffffff5429021000}今までも暑かったけど、\nさすがにここまで暑くなると\n命の危険を感じてしまうよ・・・{1a}{0c:51ffffffff54}でも、僕達が助けて\nあげないと死んでしまう\n{0b:05}{14}の事を考えると\n泣き言なんて言ってられないよね。{1a}{10}、頑張って探そう。{0c:021901}",
    "raw": null,
-   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nSo this is the lowest level of Purgatory,\nthe 'Palace of Cleansing Fire'...{1a}The deeper you go in Purgatory, the\nhotter it becomes, I see.{1a}{0c:28002351ffffffff5429021000}It was hot before, too, but heat like this\nmakes me feel my life is truly in danger...{1a}{0c:51ffffffff54}But when I think of {0b:05}{14},\nwho will die unless we save them, we\ncan't afford to complain.{1a}{10}, let's search as hard as we\ncan.{0c:021901}",
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nSo this is the lowest level of Purgatory,\nthe 'Palace of Cleansing Fire'...{1a}The deeper you go in Purgatory, the\nhotter it becomes, I see.{1a}{0c:28002351ffffffff5429021000}It was hot before, too, but heat like this\nmakes me feel my life is truly in danger...{1a}{0c:51ffffffff54}But when I think of {0b:05}{14},\nwho will die unless we save them, we\ncan't afford to complain.{1a}{10}, let's search as hard as\nwe can.{0c:021901}",
    "status": "done",
    "tl": "So this is the lowest level of Purgatory, the 'Palace of Cleansing Fire'... // The deeper you go in Purgatory, the hotter it becomes, I see. // [1]It was hot before, too, but heat like this makes me feel my life is truly in danger... // [2]But when I think of [3][VAR14], who will die unless we save them, we can't afford to complain. // [HERO], let's search as hard as we can."
   },
@@ -1707,7 +1707,7 @@
    "jp": "{1c:1a}{0b:08}【 シャルン 】{0b:09}\nここが煉獄の最下層、\n『清火の宮』か・・・{1a}煉獄って、奥に進めば進むほど\n暑くなるんだね。{1a}{0c:29082351ffffffff5428001000}{0c:28002351ffffffff5429081000}ここまで暑くなると、\nさすがに命の危険を感じるけど、\nあたし達が助けないと\n{0b:05}{14}は死んじゃうんだから、{1a}泣き言なんて言ってられないよね。\n{10}、頑張って探そうね。{0c:021701}",
    "read": "{1c:1a}{0b:08}【 シャルン 】{0b:09}\nここが煉獄の最下層、\n『清火の宮』か・・・{1a}煉獄って、奥に進めば進むほど\n暑くなるんだね。{1a}{0c:29082351ffffffff5428001000}{0c:28002351ffffffff5429081000}ここまで暑くなると、\nさすがに命の危険を感じるけど、\nあたし達が助けないと\n{0b:05}{14}は死んじゃうんだから、{1a}泣き言なんて言ってられないよね。\n{10}、頑張って探そうね。{0c:021701}",
    "raw": null,
-   "en": "{1c:1a}{0b:08}【 Scharn 】{0b:09}\nSo this is the lowest level of Purgatory,\nthe 'Palace of Cleansing Fire'!{1a}The deeper you go in Purgatory, the\nhotter it gets, huh?{1a}{0c:29082351ffffffff5428001000}{0c:28002351ffffffff5429081000}When it's this hot, I really do feel like my\nlife's in danger, but {0b:05}{14}\nwill die if we don't save them,{1a}so we can't go whining about it!\n{10}, let's do our best and look\nhard!{0c:021701}",
+   "en": "{1c:1a}{0b:08}【 Scharn 】{0b:09}\nSo this is the lowest level of Purgatory,\nthe 'Palace of Cleansing Fire'!{1a}The deeper you go in Purgatory, the\nhotter it gets, huh?{1a}{0c:29082351ffffffff5428001000}{0c:28002351ffffffff5429081000}When it's this hot, I really do feel like my\nlife's in danger, but {0b:05}{14}\nwill die if we don't save them,{1a}so we can't go whining about it!\n{10}, let's do our best and\nlook hard!{0c:021701}",
    "status": "done",
    "tl": "So this is the lowest level of Purgatory, the 'Palace of Cleansing Fire'! // The deeper you go in Purgatory, the hotter it gets, huh? // [1]When it's this hot, I really do feel like my life's in danger, but [2][VAR14] will die if we don't save them, // so we can't go whining about it! [HERO], let's do our best and look hard!"
   },
@@ -1776,7 +1776,7 @@
    "jp": "{1c:10}{0b:08}【 {03}アッシュ 】{0b:09}\n{02}ここが煉獄の{01}1番下{02}、\n『清火の宮』か・・・{1a}煉獄って、\n奥に進めば進むほど\n暑くなるんだな。{1a}{0c:29012351ffffffff5428001000}{0c:28002351ffffffff5429011000}この熱気はさすがにつらいけど、\n{0b:05}{14}の事を考えると\nそうも言ってられないよな。\nがんばって探そうな。{0c:021101}",
    "read": "{1c:10}{0b:08}【 {03}アッシュ 】{0b:09}\n{02}ここが煉獄の{01}1番下{02}、\n『清火の宮』か・・・{1a}煉獄って、\n奥に進めば進むほど\n暑くなるんだな。{1a}{0c:29012351ffffffff5428001000}{0c:28002351ffffffff5429011000}この熱気はさすがにつらいけど、\n{0b:05}{14}の事を考えると\nそうも言ってられないよな。\nがんばって探そうな。{0c:021101}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\nSo this is the very bottom of Purgatory,\nthe 'Palace of Cleansing Fire', I guess...{1a}Y'know, the deeper you go in Purgatory,\nthe hotter it gets.{1a}{0c:29012351ffffffff5428001000}{0c:28002351ffffffff5429011000}This heat's pretty rough, but when I\nthink of {0b:05}{14}, I guess I\ncan't complain. Let's work hard and look,\nokay?{0c:021101}",
+   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\nSo this is the very bottom of Purgatory,\nthe 'Palace of Cleansing Fire', I guess...{1a}Y'know, the deeper you go in Purgatory,\nthe hotter it gets.{1a}{0c:29012351ffffffff5428001000}{0c:28002351ffffffff5429011000}This heat's pretty rough, but when I\nthink of {0b:05}{14}, I guess I\ncan't complain. Let's work hard and\nlook, okay?{0c:021101}",
    "status": "done",
    "tl": "So this is the very bottom of Purgatory, the 'Palace of Cleansing Fire', I guess... // Y'know, the deeper you go in Purgatory, the hotter it gets. // [1]This heat's pretty rough, but when I think of [2][VAR14], I guess I can't complain. Let's work hard and look, okay?"
   },
@@ -1799,7 +1799,7 @@
    "jp": "{1c:25}{0b:08}【 ルカ 】{0b:09}\nここが煉獄の最下層、\n『清火の宮』なんですか・・・{1a}煉獄という場所は、\n奥に進めば進むほど\n暑くなるんですね。{1a}{0c:29112351ffffffff5428001000}{0c:28002351ffffffff5429111000}ここまで暑くなってしまうと\nさすがに命の危険を\n感じてしまいますけど、{1a}わたし達が助けないと死んでしまう\n{0b:05}{14}さんの事を考えると、\n泣き言なんて言ってられませんよね。{1a}{10}さん、\n早く探しに行きましょう。{0c:020f01}",
    "read": "{1c:25}{0b:08}【 ルカ 】{0b:09}\nここが煉獄の最下層、\n『清火の宮』なんですか・・・{1a}煉獄という場所は、\n奥に進めば進むほど\n暑くなるんですね。{1a}{0c:29112351ffffffff5428001000}{0c:28002351ffffffff5429111000}ここまで暑くなってしまうと\nさすがに命の危険を\n感じてしまいますけど、{1a}わたし達が助けないと死んでしまう\n{0b:05}{14}さんの事を考えると、\n泣き言なんて言ってられませんよね。{1a}{10}さん、\n早く探しに行きましょう。{0c:020f01}",
    "raw": null,
-   "en": "{1c:25}{0b:08}【 Luca 】{0b:09}\nSo this is the lowest level of Purgatory,\nthe 'Palace of Cleansing Fire'...{1a}The deeper one goes in Purgatory, the\nhotter it becomes, I see.{1a}{0c:29112351ffffffff5428001000}{0c:28002351ffffffff5429111000}When it grows this hot, I cannot help\nfeeling my life is in danger,{1a}but when I think of\n{0b:05}{14}-san, who will die\nunless we save them, we can hardly\ncomplain, can we?{1a}{10}-san, let us hurry and go\nsearch.{0c:020f01}",
+   "en": "{1c:25}{0b:08}【 Luca 】{0b:09}\nSo this is the lowest level of Purgatory,\nthe 'Palace of Cleansing Fire'...{1a}The deeper one goes in Purgatory, the\nhotter it becomes, I see.{1a}{0c:29112351ffffffff5428001000}{0c:28002351ffffffff5429111000}When it grows this hot, I cannot help\nfeeling my life is in danger,{1a}but when I think of\n{0b:05}{14}-san, who will die\nunless we save them, we can hardly\ncomplain, can we?{1a}{10}-san, let us hurry and\ngo search.{0c:020f01}",
    "status": "done",
    "tl": "So this is the lowest level of Purgatory, the 'Palace of Cleansing Fire'... // The deeper one goes in Purgatory, the hotter it becomes, I see. // [1]When it grows this hot, I cannot help feeling my life is in danger, // but when I think of [2][VAR14]-san, who will die unless we save them, we can hardly complain, can we? // [HERO]-san, let us hurry and go search."
   },
@@ -1822,7 +1822,7 @@
    "jp": "{1c:16}{0b:08}【 エレアノール 】{0b:09}\nここが煉獄の最下層、\n『清火の宮』・・・{1a}煉獄という場所は\n奥に進めば進むほど\n熱気が増すのですね。{1a}{0c:29042351ffffffff5428001000}{0c:28002351ffffffff5429041000}この熱気にはさすがに\n生命の危険を感じますが、\n{0b:05}{14}の事を考えると\nそうも言ってられません。{1a}{10}、\n早く探してあげましょう。{0c:020d01}",
    "read": "{1c:16}{0b:08}【 エレアノール 】{0b:09}\nここが煉獄の最下層、\n『清火の宮』・・・{1a}煉獄という場所は\n奥に進めば進むほど\n熱気が増すのですね。{1a}{0c:29042351ffffffff5428001000}{0c:28002351ffffffff5429041000}この熱気にはさすがに\n生命の危険を感じますが、\n{0b:05}{14}の事を考えると\nそうも言ってられません。{1a}{10}、\n早く探してあげましょう。{0c:020d01}",
    "raw": null,
-   "en": "{1c:16}{0b:08}【 Eleanor 】{0b:09}\nSo this is the lowest level of Purgatory,\nthe 'Palace of Cleansing Fire'...{1a}It seems the deeper one goes in\nPurgatory, the greater the heat.{1a}{0c:29042351ffffffff5428001000}{0c:28002351ffffffff5429041000}This heat makes me feel my very life is\nin danger, but when I think of\n{0b:05}{14}, I cannot dwell on\nthat.{1a}{10}, let us hurry and search for\nthem.{0c:020d01}",
+   "en": "{1c:16}{0b:08}【 Eleanor 】{0b:09}\nSo this is the lowest level of Purgatory,\nthe 'Palace of Cleansing Fire'...{1a}It seems the deeper one goes in\nPurgatory, the greater the heat.{1a}{0c:29042351ffffffff5428001000}{0c:28002351ffffffff5429041000}This heat makes me feel my very life is\nin danger, but when I think of\n{0b:05}{14}, I cannot dwell\non that.{1a}{10}, let us hurry and search\nfor them.{0c:020d01}",
    "status": "done",
    "tl": "So this is the lowest level of Purgatory, the 'Palace of Cleansing Fire'... // It seems the deeper one goes in Purgatory, the greater the heat. // [1]This heat makes me feel my very life is in danger, but when I think of [2][VAR14], I cannot dwell on that. // [HERO], let us hurry and search for them."
   },
@@ -1845,7 +1845,7 @@
    "jp": "{1c:1e}{0b:08}【 オルフェウス 】{0b:09}\nここが煉獄の最下層、\n『清火の宮』ですか・・・{1a}煉獄という場所は、\n奥に進めば進むほど\n暑くなるんですね。{1a}でも、\nさすがにここまで暑くなってしまうと\n命の危険を感じちゃいますね。{1a}{0c:290b2351ffffffff5428001000}{0c:28002351ffffffff54290b1000}{10}さん、\nさっさと探しに行きましょう。{1a}もちろん、ここで諦めて戻るのでも\nぼくとしては一向に\n構わないんですけどね。{0c:020b01}",
    "read": "{1c:1e}{0b:08}【 オルフェウス 】{0b:09}\nここが煉獄の最下層、\n『清火の宮』ですか・・・{1a}煉獄という場所は、\n奥に進めば進むほど\n暑くなるんですね。{1a}でも、\nさすがにここまで暑くなってしまうと\n命の危険を感じちゃいますね。{1a}{0c:290b2351ffffffff5428001000}{0c:28002351ffffffff54290b1000}{10}さん、\nさっさと探しに行きましょう。{1a}もちろん、ここで諦めて戻るのでも\nぼくとしては一向に\n構わないんですけどね。{0c:020b01}",
    "raw": null,
-   "en": "{1c:1e}{0b:08}【 Orpheus 】{0b:09}\nSo this is the lowest level of Purgatory,\nthe 'Palace of Cleansing Fire'...{1a}The deeper one goes in Purgatory, the\nhotter it becomes, I see.{1a}Still, heat like this does make one feel\none's life is in danger.{1a}{0c:290b2351ffffffff5428001000}{0c:28002351ffffffff54290b1000}{10}-san, let us go and search\nwith all speed.{1a}Of course, I would not mind in the\nslightest if you gave up here and turned\nback.{0c:020b01}",
+   "en": "{1c:1e}{0b:08}【 Orpheus 】{0b:09}\nSo this is the lowest level of Purgatory,\nthe 'Palace of Cleansing Fire'...{1a}The deeper one goes in Purgatory, the\nhotter it becomes, I see.{1a}Still, heat like this does make one feel\none's life is in danger.{1a}{0c:290b2351ffffffff5428001000}{0c:28002351ffffffff54290b1000}{10}-san, let us go and search\nwith all speed.{1a}Of course, I would not mind in the\nslightest if you gave up here and\nturned back.{0c:020b01}",
    "status": "done",
    "tl": "So this is the lowest level of Purgatory, the 'Palace of Cleansing Fire'... // The deeper one goes in Purgatory, the hotter it becomes, I see. // Still, heat like this does make one feel one's life is in danger. // [1][HERO]-san, let us go and search with all speed. // Of course, I would not mind in the slightest if you gave up here and turned back."
   },
@@ -1868,7 +1868,7 @@
    "jp": "{1c:28}{0b:08}【 サラ 】{0b:09}\n煉獄って、\n奥に進めば進むほど\n暑くなるんだね。{1a}{0c:29122351ffffffff5428001000}{0c:28002351ffffffff5429121000}ここまで暑くなっちゃうと\nたまに、気が遠くなっちゃって、\nそのまま倒れそうになること\nあるんだけど、{1a}{0b:05}{14}さんはそれどころじゃ\nないんだから、\nがんばらないといけないよね。{1a}{10}さん、\n絶対に見つけようね!{0c:020901}",
    "read": "{1c:28}{0b:08}【 サラ 】{0b:09}\n煉獄って、\n奥に進めば進むほど\n暑くなるんだね。{1a}{0c:29122351ffffffff5428001000}{0c:28002351ffffffff5429121000}ここまで暑くなっちゃうと\nたまに、気が遠くなっちゃって、\nそのまま倒れそうになること\nあるんだけど、{1a}{0b:05}{14}さんはそれどころじゃ\nないんだから、\nがんばらないといけないよね。{1a}{10}さん、\n絶対に見つけようね!{0c:020901}",
    "raw": null,
-   "en": "{1c:28}{0b:08}【 Sara 】{0b:09}\nThe deeper you go in Purgatory, the\nhotter it gets, huh.{1a}{0c:29122351ffffffff5428001000}{0c:28002351ffffffff5429121000}When it gets this hot, sometimes I feel\nfaint, and I almost fall right over,{1a}{0b:05}but {14}-san has it so\nmuch worse, so I have to do my best,\nright?{1a}{10}-san, let's find it no matter\nwhat, okay?{0c:020901}",
+   "en": "{1c:28}{0b:08}【 Sara 】{0b:09}\nThe deeper you go in Purgatory, the\nhotter it gets, huh.{1a}{0c:29122351ffffffff5428001000}{0c:28002351ffffffff5429121000}When it gets this hot, sometimes I feel\nfaint, and I almost fall right over,{1a}{0b:05}but {14}-san has it so\nmuch worse, so I have to do my\nbest, right?{1a}{10}-san, let's find it no matter\nwhat, okay?{0c:020901}",
    "status": "done",
    "tl": "The deeper you go in Purgatory, the hotter it gets, huh. // [1]When it gets this hot, sometimes I feel faint, and I almost fall right over, // [2]but [VAR14]-san has it so much worse, so I have to do my best, right? // [HERO]-san, let's find it no matter what, okay?"
   },
@@ -1891,7 +1891,7 @@
    "jp": "{1c:24}{0b:08}【 ノエル 】{0b:09}\nここが煉獄の最下層、\n『清火の宮』・・・{1a}煉獄という場所は\n奥に進めば進むほど\n熱気が増すのね。{1a}{0c:290e2351ffffffff5428001000}{0c:28002351ffffffff54290e1000}{10}、急ぎましょ。\nここでもたもたしてると\nあたし達の命の方が\n危なくなってくるわ。{0c:020701}",
    "read": "{1c:24}{0b:08}【 ノエル 】{0b:09}\nここが煉獄の最下層、\n『清火の宮』・・・{1a}煉獄という場所は\n奥に進めば進むほど\n熱気が増すのね。{1a}{0c:290e2351ffffffff5428001000}{0c:28002351ffffffff54290e1000}{10}、急ぎましょ。\nここでもたもたしてると\nあたし達の命の方が\n危なくなってくるわ。{0c:020701}",
    "raw": null,
-   "en": "{1c:24}{0b:08}【 Noel 】{0b:09}\nSo this is the lowest level of Purgatory,\nthe 'Palace of Cleansing Fire'...{1a}It seems the deeper you go in Purgatory,\nthe greater the heat.{1a}{0c:290e2351ffffffff5428001000}{0c:28002351ffffffff54290e1000}{10}, let's hurry. If we dawdle\nhere, it's our own lives that'll be in\ndanger.{0c:020701}",
+   "en": "{1c:24}{0b:08}【 Noel 】{0b:09}\nSo this is the lowest level of Purgatory,\nthe 'Palace of Cleansing Fire'...{1a}It seems the deeper you go in Purgatory,\nthe greater the heat.{1a}{0c:290e2351ffffffff5428001000}{0c:28002351ffffffff54290e1000}{10}, let's hurry. If we dawdle\nhere, it's our own lives that'll be\nin danger.{0c:020701}",
    "status": "done",
    "tl": "So this is the lowest level of Purgatory, the 'Palace of Cleansing Fire'... // It seems the deeper you go in Purgatory, the greater the heat. // [1][HERO], let's hurry. If we dawdle here, it's our own lives that'll be in danger."
   },
@@ -2204,7 +2204,7 @@
    "jp": "{0c:29032351ffffffff5428001000}{0b:08}【 レイア 】{0b:09}\n今、{0b:05}{14}の声が\n聞こえたのだが・・・\nお前は何も聞こえなかったのか? {1a}{0c:28002351ffffffff5429031000}これが奴の言っていた\n『共鳴』か・・・{1a}{0c:51ffffffff54}奴の命などに興味はないが、\n目的の場所は同じだ。\n下へ向かう。{0c:28002351ffffffff54}{0c:020b01}",
    "read": "{0c:29032351ffffffff5428001000}{0b:08}【 レイア 】{0b:09}\n今、{0b:05}{14}の声が\n聞こえたのだが・・・\nお前は何も聞こえなかったのか? {1a}{0c:28002351ffffffff5429031000}これが奴の言っていた\n『共鳴』か・・・{1a}{0c:51ffffffff54}奴の命などに興味はないが、\n目的の場所は同じだ。\n下へ向かう。{0c:28002351ffffffff54}{0c:020b01}",
    "raw": null,
-   "en": "{0c:29032351ffffffff5428001000}{0b:08}【 Leia 】{0b:09}\nJust now, I heard {0b:05}{14}'s\nvoice... Did you hear nothing?{1a}{0c:28002351ffffffff5429031000}So this is the 'resonance' that man\nspoke of...{1a}{0c:51ffffffff54}I care nothing for that one's life, but\nour goal lies in the same place. We head\ndown.{0c:28002351ffffffff54}{0c:020b01}",
+   "en": "{0c:29032351ffffffff5428001000}{0b:08}【 Leia 】{0b:09}\nJust now, I heard {0b:05}{14}'s\nvoice... Did you hear nothing?{1a}{0c:28002351ffffffff5429031000}So this is the 'resonance' that man\nspoke of...{1a}{0c:51ffffffff54}I care nothing for that one's life, but\nour goal lies in the same place. We\nhead down.{0c:28002351ffffffff54}{0c:020b01}",
    "status": "done",
    "tl": "Just now, I heard [1][VAR14]'s voice... Did you hear nothing? // [2]So this is the 'resonance' that man spoke of... // [3]I care nothing for that one's life, but our goal lies in the same place. We head down."
   },
@@ -2312,7 +2312,7 @@
    "jp": "{0c:29112351ffffffff5428001000}{1c:27}{0b:08}【 ルカ 】{0b:09}\n{10}さん・・・\n今、{0b:05}{14}さんの声が\n聞こえませんでしたか?{1a}{0c:28002351ffffffff5429111000}ただの空耳かもしれませんが、\nもしかすると\nクムランさんのおっしゃった\n『共鳴』かもしれませんよね。{1a}{10}さん、\n行ってみませんか?\nこちらの穴だと思います。{0c:28002351ffffffff541001}{0c:020201}",
    "read": "{0c:29112351ffffffff5428001000}{1c:27}{0b:08}【 ルカ 】{0b:09}\n{10}さん・・・\n今、{0b:05}{14}さんの声が\n聞こえませんでしたか?{1a}{0c:28002351ffffffff5429111000}ただの空耳かもしれませんが、\nもしかすると\nクムランさんのおっしゃった\n『共鳴』かもしれませんよね。{1a}{10}さん、\n行ってみませんか?\nこちらの穴だと思います。{0c:28002351ffffffff541001}{0c:020201}",
    "raw": null,
-   "en": "{0c:29112351ffffffff5428001000}{1c:27}{0b:08}【 Luca 】{0b:09}\n{10}-san... Did you not hear\n{0b:05}{14}-san's voice just\nnow?{1a}{0c:28002351ffffffff5429111000}It may only have been my ears playing\ntricks, but perhaps it is the 'resonance'\nQumran-san spoke of.{1a}{10}-san, shall we go and see? I\nthink it is this hole here.{0c:28002351ffffffff541001}{0c:020201}",
+   "en": "{0c:29112351ffffffff5428001000}{1c:27}{0b:08}【 Luca 】{0b:09}\n{10}-san... Did you not hear\n{0b:05}{14}-san's voice\njust now?{1a}{0c:28002351ffffffff5429111000}It may only have been my ears playing\ntricks, but perhaps it is the 'resonance'\nQumran-san spoke of.{1a}{10}-san, shall we go and see? I\nthink it is this hole here.{0c:28002351ffffffff541001}{0c:020201}",
    "status": "done",
    "tl": "[HERO]-san... Did you not hear [1][VAR14]-san's voice just now? // [2]It may only have been my ears playing tricks, but perhaps it is the 'resonance' Qumran-san spoke of. // [HERO]-san, shall we go and see? I think it is this hole here."
   },
@@ -2485,7 +2485,7 @@
    "jp": "{0c:51ffffffff541001}{1c:1d}{0b:08}【 ジェシカ 】{0b:09}\nあんた達の会話が\nあんまりよく\n理解できてないんだけど、{1a}{0c:51ffffffff541001}とにかくこっちの穴を\n調べればいいんだよね、\nじゃあ早く進もうよ。{0c:020d01}",
    "read": "{0c:51ffffffff541001}{1c:1d}{0b:08}【 ジェシカ 】{0b:09}\nあんた達の会話が\nあんまりよく\n理解できてないんだけど、{1a}{0c:51ffffffff541001}とにかくこっちの穴を\n調べればいいんだよね、\nじゃあ早く進もうよ。{0c:020d01}",
    "raw": null,
-   "en": "{0c:51ffffffff541001}{1c:1d}{0b:08}【 Jessica 】{0b:09}\nCan't say I really got what you two were\ntalking about,{1a}{0c:51ffffffff541001}but we just gotta check out this hole,\nright? So come on, let's get moving\nalready.{0c:020d01}",
+   "en": "{0c:51ffffffff541001}{1c:1d}{0b:08}【 Jessica 】{0b:09}\nCan't say I really got what you two were\ntalking about,{1a}{0c:51ffffffff541001}but we just gotta check out this hole,\nright? So come on, let's get\nmoving already.{0c:020d01}",
    "status": "done",
    "tl": "Can't say I really got what you two were talking about, // [1]but we just gotta check out this hole, right? So come on, let's get moving already."
   },
@@ -2531,7 +2531,7 @@
    "jp": "{0c:51ffffffff541001}{1c:1f}{0b:08}【 イヴ 】{0b:09}\nあなた達の会話があまりよく\n理解出来てないんだけど、{1a}つまり、『そんな気がする』から\n行こうって話なのよね。{1a}あたし大好きよ、\nそういういい加減な理由。{0c:020901}",
    "read": "{0c:51ffffffff541001}{1c:1f}{0b:08}【 イヴ 】{0b:09}\nあなた達の会話があまりよく\n理解出来てないんだけど、{1a}つまり、『そんな気がする』から\n行こうって話なのよね。{1a}あたし大好きよ、\nそういういい加減な理由。{0c:020901}",
    "raw": null,
-   "en": "{0c:51ffffffff541001}{1c:1f}{0b:08}【 Eve 】{0b:09}\nI can't quite follow what you two are\nsaying,{1a}but in short, we're going because you\n'have a feeling', is that it?{1a}I simply adore a careless reason like that,\ndear.{0c:020901}",
+   "en": "{0c:51ffffffff541001}{1c:1f}{0b:08}【 Eve 】{0b:09}\nI can't quite follow what you two\nare saying,{1a}but in short, we're going because you\n'have a feeling', is that it?{1a}I simply adore a careless reason like\nthat, dear.{0c:020901}",
    "status": "done",
    "tl": "I can't quite follow what you two are saying, // but in short, we're going because you 'have a feeling', is that it? // I simply adore a careless reason like that, dear."
   },
@@ -2554,7 +2554,7 @@
    "jp": "{1c:20}{0b:08}【 ディアス 】{0b:09}\n共鳴・・・?\n書かれていない事実もあるのか・・・{0c:020701}",
    "read": "{1c:20}{0b:08}【 ディアス 】{0b:09}\n共鳴・・・?\n書かれていない事実もあるのか・・・{0c:020701}",
    "raw": null,
-   "en": "{1c:20}{0b:08}【 Dias 】{0b:09}\nResonance...? So there are facts left\nunwritten...{0c:020701}",
+   "en": "{1c:20}{0b:08}【 Dias 】{0b:09}\nResonance...? So there are facts\nleft unwritten...{0c:020701}",
    "status": "done",
    "tl": "Resonance...? So there are facts left unwritten..."
   },
@@ -2577,7 +2577,7 @@
    "jp": "{0c:51ffffffff541001}{1c:22}{0b:08}【 ノエル 】{0b:09}\n共鳴・・・?\nクムランさんがあなた達に\n何か言ったの?{1a}{0c:51ffffffff541001}まあいいわ、\nとにかく進みましょ。\nこちらの穴ね。{0c:020501}",
    "read": "{0c:51ffffffff541001}{1c:22}{0b:08}【 ノエル 】{0b:09}\n共鳴・・・?\nクムランさんがあなた達に\n何か言ったの?{1a}{0c:51ffffffff541001}まあいいわ、\nとにかく進みましょ。\nこちらの穴ね。{0c:020501}",
    "raw": null,
-   "en": "{0c:51ffffffff541001}{1c:22}{0b:08}【 Noel 】{0b:09}\nResonance...? Did Qumran-san tell you\npeople something?{1a}{0c:51ffffffff541001}Well, fine. Let's just go on. It's this hole,\nthen.{0c:020501}",
+   "en": "{0c:51ffffffff541001}{1c:22}{0b:08}【 Noel 】{0b:09}\nResonance...? Did Qumran-san tell you\npeople something?{1a}{0c:51ffffffff541001}Well, fine. Let's just go on. It's this\nhole, then.{0c:020501}",
    "status": "done",
    "tl": "Resonance...? Did Qumran-san tell you people something? // [1]Well, fine. Let's just go on. It's this hole, then."
   },

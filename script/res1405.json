@@ -52,7 +52,7 @@
    "jp": "{1c:12}{0b:08}【 アッシュ 】{0b:09}\nクムランさんの話、\n難しくてよく分からなかったけど、{1a}{0b:05}{14}を助けると、\n外の騒動が今よりもっとひどく\nなるかもしれないんだよな・・・{1a}でも・・・それでもおれ、\nやっぱり{0b:05}{14}を\n助けてやりたいよ。{1a}{10}はどうする?{0c:fe}",
    "read": "{1c:12}{0b:08}【 アッシュ 】{0b:09}\nクムランさんの話、\n難しくてよく分からなかったけど、{1a}{0b:05}{14}を助けると、\n外の騒動が今よりもっとひどく\nなるかもしれないんだよな・・・{1a}でも・・・それでもおれ、\nやっぱり{0b:05}{14}を\n助けてやりたいよ。{1a}{10}はどうする?{0c:fe}",
    "raw": null,
-   "en": "{1c:12}{0b:08}【 Ash 】{0b:09}\nI couldn't really follow what Qumran-san\nsaid, it was too hard,{1a}but if we save {0b:05}{14}, the\ntrouble outside might get even worse,\nhuh...{1a}But... even so, I still wanna save\n{0b:05}{14}.{1a}What're you gonna do, {10}?{0c:fe}",
+   "en": "{1c:12}{0b:08}【 Ash 】{0b:09}\nI couldn't really follow what Qumran-san\nsaid, it was too hard,{1a}but if we save {0b:05}{14}, the\ntrouble outside might get even\nworse, huh...{1a}But... even so, I still wanna\nsave {0b:05}{14}.{1a}What're you gonna do, {10}?{0c:fe}",
    "status": "done",
    "tl": "I couldn't really follow what Qumran-san said, it was too hard, // but if we save [1][VAR14], the trouble outside might get even worse, huh... // But... even so, I still wanna save [2][VAR14]. // What're you gonna do, [HERO]?"
   },
@@ -143,7 +143,7 @@
    "jp": "{0c:5110}{1c:10}{0b:08}【 アッシュ 】{0b:09}\nそうか。\n{10}も同じ考えで\n安心したよ。{1a}じゃあいっしょに行こうか。{0c:fe}",
    "read": "{0c:5110}{1c:10}{0b:08}【 アッシュ 】{0b:09}\nそうか。\n{10}も同じ考えで\n安心したよ。{1a}じゃあいっしょに行こうか。{0c:fe}",
    "raw": null,
-   "en": "{0c:5110}{1c:10}{0b:08}【 Ash 】{0b:09}\nYeah? I'm relieved you feel the same,\n{10}.{1a}Let's go together, then.{0c:fe}",
+   "en": "{0c:5110}{1c:10}{0b:08}【 Ash 】{0b:09}\nYeah? I'm relieved you feel the\nsame, {10}.{1a}Let's go together, then.{0c:fe}",
    "status": "done",
    "tl": "Yeah? I'm relieved you feel the same, [HERO]. // Let's go together, then."
   },
@@ -223,7 +223,7 @@
    "jp": "{0c:0b01f6}{0c:f7064e}{1c:11}{0b:08}【 アッシュ 】{0b:09}\nそんな・・・\n{0b:05}{14}は友達じゃないか。{1a}{0c:5118}おまえ、どうしてそんな\nかなしいこと言うんだよ・・・{0c:fe}",
    "read": "{0c:0b01f6}{0c:f7064e}{1c:11}{0b:08}【 アッシュ 】{0b:09}\nそんな・・・\n{0b:05}{14}は友達じゃないか。{1a}{0c:5118}おまえ、どうしてそんな\nかなしいこと言うんだよ・・・{0c:fe}",
    "raw": null,
-   "en": "{0c:0b01f6}{0c:f7064e}{1c:11}{0b:08}【 Ash 】{0b:09}\nHow can you... {0b:05}{14} is your\nfriend!{1a}{0c:5118}Why would you say such a sad thing...{0c:fe}",
+   "en": "{0c:0b01f6}{0c:f7064e}{1c:11}{0b:08}【 Ash 】{0b:09}\nHow can you... {0b:05}{14} is\nyour friend!{1a}{0c:5118}Why would you say such a sad thing...{0c:fe}",
    "status": "done",
    "tl": "How can you... [1][VAR14] is your friend! // [2]Why would you say such a sad thing..."
   },
@@ -291,7 +291,7 @@
    "jp": "{1c:15}{0b:08}【 アーサー 】{0b:09}\n父上ならこういう時\nどうするのだろう・・・{1a}僕も{0b:05}{14}を助けてやりたい。\nでも、僕の故郷が、領民達が\n魔物に苦しめられている姿を\n想像すると・・・{1a}{0c:5110}クムランさんを信じてはいるけど\nもしもの事を考えたら、\n{0b:05}{14}を助けることは\n危険すぎる。{1a}くそっ、\n僕は一体どうすればいいんだ・・・{0c:fe}",
    "read": "{1c:15}{0b:08}【 アーサー 】{0b:09}\n父上ならこういう時\nどうするのだろう・・・{1a}僕も{0b:05}{14}を助けてやりたい。\nでも、僕の故郷が、領民達が\n魔物に苦しめられている姿を\n想像すると・・・{1a}{0c:5110}クムランさんを信じてはいるけど\nもしもの事を考えたら、\n{0b:05}{14}を助けることは\n危険すぎる。{1a}くそっ、\n僕は一体どうすればいいんだ・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:15}{0b:08}【 Arthur 】{0b:09}\nWhat would Father do at a time like this...{1a}I want to save {0b:05}{14} too.\nBut when I imagine my homeland, my\npeople, suffering at the hands of\nmonsters...{1a}{0c:5110}I do trust Qumran-san, but if I consider\nwhat might happen, saving\n{0b:05}{14} is too dangerous.{1a}Damn it, what on earth am I supposed to\ndo...{0c:fe}",
+   "en": "{1c:15}{0b:08}【 Arthur 】{0b:09}\nWhat would Father do at a time like this...{1a}I want to save {0b:05}{14} too.\nBut when I imagine my homeland, my\npeople, suffering at the hands\nof monsters...{1a}{0c:5110}I do trust Qumran-san, but if I consider\nwhat might happen, saving\n{0b:05}{14} is too dangerous.{1a}Damn it, what on earth am I supposed\nto do...{0c:fe}",
    "status": "done",
    "tl": "What would Father do at a time like this... // I want to save [1][VAR14] too. But when I imagine my homeland, my people, suffering at the hands of monsters... // [2]I do trust Qumran-san, but if I consider what might happen, saving [3][VAR14] is too dangerous. // Damn it, what on earth am I supposed to do..."
   },
@@ -382,7 +382,7 @@
    "jp": "{0c:5108}{1c:13}{0b:08}【 アーサー 】{0b:09}\nいや・・・{07:1e}\nやはり{0b:05}{14}を助けるのは\n諦めるべきだ。{07:05}{1a}僕だって{0b:05}{14}を助けたい。\nでも、{0b:05}{14}1人のために\n何百万という人々が\n魔物に殺されるかもしれないんだ。{1a}{0c:5110}自分達だけが助かって\nこういうことを言うのは\n卑怯だという事も分かってる。{1a}{0c:5108}でも、僕は・・・\n僕は賛成出来ない。{0c:fe}",
    "read": "{0c:5108}{1c:13}{0b:08}【 アーサー 】{0b:09}\nいや・・・{07:1e}\nやはり{0b:05}{14}を助けるのは\n諦めるべきだ。{07:05}{1a}僕だって{0b:05}{14}を助けたい。\nでも、{0b:05}{14}1人のために\n何百万という人々が\n魔物に殺されるかもしれないんだ。{1a}{0c:5110}自分達だけが助かって\nこういうことを言うのは\n卑怯だという事も分かってる。{1a}{0c:5108}でも、僕は・・・\n僕は賛成出来ない。{0c:fe}",
    "raw": null,
-   "en": "{0c:5108}{1c:13}{0b:08}【 Arthur 】{0b:09}\nNo...{07:1e} We really must give up on saving\n{0b:05}{14}.{07:05}{1a}I want to save {0b:05}{14} too.\nBut for the sake of {0b:05}{14}\nalone, millions of people could be killed by\nmonsters.{1a}{0c:5110}I know it is cowardly to say such a thing\nwhen we ourselves were the ones saved.{1a}{0c:5108}But I... I cannot agree to it.{0c:fe}",
+   "en": "{0c:5108}{1c:13}{0b:08}【 Arthur 】{0b:09}\nNo...{07:1e} We really must give up on\nsaving {0b:05}{14}.{07:05}{1a}I want to save {0b:05}{14} too.\nBut for the sake of {0b:05}{14}\nalone, millions of people could be killed\nby monsters.{1a}{0c:5110}I know it is cowardly to say such a thing\nwhen we ourselves were the ones saved.{1a}{0c:5108}But I... I cannot agree to it.{0c:fe}",
    "status": "done",
    "tl": "No...[1] We really must give up on saving [2][VAR14].[3] // I want to save [4][VAR14] too. But for the sake of [5][VAR14] alone, millions of people could be killed by monsters. // [6]I know it is cowardly to say such a thing when we ourselves were the ones saved. // [7]But I... I cannot agree to it."
   },
@@ -609,7 +609,7 @@
    "jp": "{0c:0b030f}{0b:08}【 レイア 】{0b:09}\nそれはお前の勝手だ。\n好きにしろ。{0c:fe}",
    "read": "{0c:0b030f}{0b:08}【 レイア 】{0b:09}\nそれはお前の勝手だ。\n好きにしろ。{0c:fe}",
    "raw": null,
-   "en": "{0c:0b030f}{0b:08}【 Leia 】{0b:09}\nThat is your own affair. Do as you\nplease.{0c:fe}",
+   "en": "{0c:0b030f}{0b:08}【 Leia 】{0b:09}\nThat is your own affair. Do as\nyou please.{0c:fe}",
    "status": "done",
    "tl": "That is your own affair. Do as you please."
   },
@@ -643,7 +643,7 @@
    "jp": "{1c:16}{0b:08}【 レイア 】{0b:09}\n{0b:05}{14}も哀れな奴だ・・・{0c:fe}",
    "read": "{1c:16}{0b:08}【 レイア 】{0b:09}\n{0b:05}{14}も哀れな奴だ・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:16}{0b:08}【 Leia 】{0b:09}\n{0b:05}{14} is to be pitied as\nwell...{0c:fe}",
+   "en": "{1c:16}{0b:08}【 Leia 】{0b:09}\n{0b:05}{14} is to be pitied\nas well...{0c:fe}",
    "status": "done",
    "tl": "[VAR14] is to be pitied as well..."
   },
@@ -688,7 +688,7 @@
    "jp": "{1c:17}{0b:08}【 エレアノール 】{0b:09}\n{10}、\n私は今から{0b:05}{14}を助けに\n行くつもりです。{1a}確かに、外の惨劇を考えれば、\n私のとる行動は浅はかで、\n私の行動がもたらす結果は、今以上の\n悲劇を生む事になるかもしれません。{1a}{0c:5118}でも、私はやはり{0b:05}{14}を\n見捨てることは出来ない。{1a}たとえ偽善者と軽蔑されても、\n目の前で誰かが死ぬのを\n見たくないのです・・・{0c:fe}",
    "read": "{1c:17}{0b:08}【 エレアノール 】{0b:09}\n{10}、\n私は今から{0b:05}{14}を助けに\n行くつもりです。{1a}確かに、外の惨劇を考えれば、\n私のとる行動は浅はかで、\n私の行動がもたらす結果は、今以上の\n悲劇を生む事になるかもしれません。{1a}{0c:5118}でも、私はやはり{0b:05}{14}を\n見捨てることは出来ない。{1a}たとえ偽善者と軽蔑されても、\n目の前で誰かが死ぬのを\n見たくないのです・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:17}{0b:08}【 Eleanor 】{0b:09}\n{10}, I intend to go now to save\n{0b:05}{14}.{1a}Considering the tragedy outside, what I\nam doing is indeed shallow, and what\ncomes of it may bring about a tragedy\ngreater than the one we see now.{1a}{0c:5118}But I still cannot abandon\n{0b:05}{14}.{1a}Even if I am scorned as a hypocrite, I do\nnot wish to see someone die before my\neyes...{0c:fe}",
+   "en": "{1c:17}{0b:08}【 Eleanor 】{0b:09}\n{10}, I intend to go now to\nsave {0b:05}{14}.{1a}Considering the tragedy outside, what I\nam doing is indeed shallow, and what\ncomes of it may bring about a tragedy\ngreater than the one we see now.{1a}{0c:5118}But I still cannot\nabandon {0b:05}{14}.{1a}Even if I am scorned as a hypocrite, I do\nnot wish to see someone die before\nmy eyes...{0c:fe}",
    "status": "done",
    "tl": "[HERO], I intend to go now to save [1][VAR14]. // Considering the tragedy outside, what I am doing is indeed shallow, and what comes of it may bring about a tragedy greater than the one we see now. // [2]But I still cannot abandon [3][VAR14]. // Even if I am scorned as a hypocrite, I do not wish to see someone die before my eyes..."
   },
@@ -915,7 +915,7 @@
    "jp": "{1c:1c}{0b:08}【 パスカ 】{0b:09}\nツラい話だよな・・・{1a}{0b:05}{14}1人助けるのと\n引き替えに、\n何十万人が犠牲になるかも\nしれないなんてさ・・・{1a}でもオレ、やっぱ助けに行くよ。\n考えが甘いのかもしれないけど、\n一緒に戦った仲間を\n見捨てるなんて出来るわけねえ。{1a}{10}、お前はどうする?{0c:fe}",
    "read": "{1c:1c}{0b:08}【 パスカ 】{0b:09}\nツラい話だよな・・・{1a}{0b:05}{14}1人助けるのと\n引き替えに、\n何十万人が犠牲になるかも\nしれないなんてさ・・・{1a}でもオレ、やっぱ助けに行くよ。\n考えが甘いのかもしれないけど、\n一緒に戦った仲間を\n見捨てるなんて出来るわけねえ。{1a}{10}、お前はどうする?{0c:fe}",
    "raw": null,
-   "en": "{1c:1c}{0b:08}【 Pasca 】{0b:09}\nRough, ain't it...{1a}Savin' just {0b:05}{14}, and in\nexchange, hundreds of thousands might\ndie...{1a}But I'm still goin'. Maybe that's soft of\nme, but no way I could abandon a friend I\nfought beside.{1a}{10}, what about you?{0c:fe}",
+   "en": "{1c:1c}{0b:08}【 Pasca 】{0b:09}\nRough, ain't it...{1a}Savin' just {0b:05}{14}, and in\nexchange, hundreds of thousands\nmight die...{1a}But I'm still goin'. Maybe that's soft of\nme, but no way I could abandon a friend I\nfought beside.{1a}{10}, what about you?{0c:fe}",
    "status": "done",
    "tl": "Rough, ain't it... // Savin' just [1][VAR14], and in exchange, hundreds of thousands might die... // But I'm still goin'. Maybe that's soft of me, but no way I could abandon a friend I fought beside. // [HERO], what about you?"
   },
@@ -1097,7 +1097,7 @@
    "jp": "{1c:1b}{0b:08}【 パスカ 】{0b:09}\nなんだよ、それ・・・\n断るにしても言い方があるだろ?\n冷てえ奴だな。{0c:fe}",
    "read": "{1c:1b}{0b:08}【 パスカ 】{0b:09}\nなんだよ、それ・・・\n断るにしても言い方があるだろ?\n冷てえ奴だな。{0c:fe}",
    "raw": null,
-   "en": "{1c:1b}{0b:08}【 Pasca 】{0b:09}\nThe hell's that supposed to mean... Even\nif you're turnin' me down, there's ways\nto say it, ain't there? You're a cold{1a}one.{0c:fe}",
+   "en": "{1c:1b}{0b:08}【 Pasca 】{0b:09}\nThe hell's that supposed to mean... Even\nif you're turnin' me down, there's ways\nto say it, ain't there? You're a{1a}cold one.{0c:fe}",
    "status": "done",
    "tl": "The hell's that supposed to mean... Even if you're turnin' me down, there's ways to say it, ain't there? You're a cold one."
   },
@@ -1971,7 +1971,7 @@
    "jp": "思慮の足りない奴だと\n罵ってくれても構わない。{1a}だが、俺はもう誰も\n見殺しにしたくはないのだ・・・{0c:fe}",
    "read": "思慮の足りない奴だと\n罵ってくれても構わない。{1a}だが、俺はもう誰も\n見殺しにしたくはないのだ・・・{0c:fe}",
    "raw": null,
-   "en": "You may curse me for a thoughtless\nfool. I do not mind.{1a}But I will not stand by and let anyone die\nagain...{0c:fe}",
+   "en": "You may curse me for a thoughtless\nfool. I do not mind.{1a}But I will not stand by and let anyone\ndie again...{0c:fe}",
    "status": "done",
    "tl": "You may curse me for a thoughtless fool. I do not mind. // But I will not stand by and let anyone die again..."
   },
@@ -2050,7 +2050,7 @@
    "jp": "{0c:5110}{10}・・・\n俺は{0b:05}{14}を助けに行く。\n{0c:5108}俺が5歳の時、\n1人の老人が軍に追われ\n俺の家に逃げ込んできた。{1a}その老人が何故追われていたのかは\nわからないが、父はその老人を\n屋根裏にかくまった。{1a}しかし、ものの数分もせずに、\n宗教騎士団の騎士達が数人、\n扉を蹴破り家に入ってきた。{1a}騎士達は、父に老人のことを尋ねたが\n父は知らないと答えた。{1a}騎士の1人が俺に剣を向けた。\n父を脅迫するつもりだったのだろう。\n剣先は頬を軽く切っただけだったが、\n俺は屋根裏を指さしてしまった。{1a}そして老人は屋根裏から\n引きずり降ろされた・・・{1a}連行される老人と眼が合った。\nしかし、その時の老人の眼は、\n俺を非難するものではなく、\n慈愛に満ちた優しい眼だった・・・{1a}{0c:521820}俺は今でもその眼が忘れられない。{1a}自分の弱さが原因で\n俺は人を殺してしまった・・・\n後悔の念が今でも頭から離れない。\n今でも自分の弱さが許せない。{1a}{10}・・・\n俺はもう誰も\n見殺しにしたくはない・・・{1a}{0c:5108}俺は{0b:05}{14}を助けに行く。{0c:fe}",
    "read": "{0c:5110}{10}・・・\n俺は{0b:05}{14}を助けに行く。\n{0c:5108}俺が5歳の時、\n1人の老人が軍に追われ\n俺の家に逃げ込んできた。{1a}その老人が何故追われていたのかは\nわからないが、父はその老人を\n屋根裏にかくまった。{1a}しかし、ものの数分もせずに、\n宗教騎士団の騎士達が数人、\n扉を蹴破り家に入ってきた。{1a}騎士達は、父に老人のことを尋ねたが\n父は知らないと答えた。{1a}騎士の1人が俺に剣を向けた。\n父を脅迫するつもりだったのだろう。\n剣先は頬を軽く切っただけだったが、\n俺は屋根裏を指さしてしまった。{1a}そして老人は屋根裏から\n引きずり降ろされた・・・{1a}連行される老人と眼が合った。\nしかし、その時の老人の眼は、\n俺を非難するものではなく、\n慈愛に満ちた優しい眼だった・・・{1a}{0c:521820}俺は今でもその眼が忘れられない。{1a}自分の弱さが原因で\n俺は人を殺してしまった・・・\n後悔の念が今でも頭から離れない。\n今でも自分の弱さが許せない。{1a}{10}・・・\n俺はもう誰も\n見殺しにしたくはない・・・{1a}{0c:5108}俺は{0b:05}{14}を助けに行く。{0c:fe}",
    "raw": null,
-   "en": "{0c:5110}{10}... I am going to save\n{0b:05}{14}. {0c:5108}When I was five, an\nold man fleeing the army ran into my\nhouse.{1a}Why he was being hunted I do not know,\nbut my father hid him in the attic.{1a}Yet within minutes, several knights of a\nreligious order kicked in the door and\ncame inside.{1a}The knights asked my father about the\nold man, and my father said he knew\nnothing.{1a}One of the knights turned his sword on\nme. He must have meant to threaten my\nfather. The tip only grazed my cheek,\nbut I pointed at the attic.{1a}And the old man was dragged down from\nthe attic...{1a}As he was led away, our eyes met. But\nhis eyes did not accuse me. They were\ngentle, and full of compassion...{1a}{0c:521820}To this day I cannot forget those eyes.{1a}Through my own weakness, I killed a man...\nThe regret has never left my mind. To\nthis day I cannot forgive my weakness.{1a}{10}... I will not stand by and let\nanyone die again...{1a}{0c:5108}I am going to save {0b:05}{14}.{0c:fe}",
+   "en": "{0c:5110}{10}... I am going to save\n{0b:05}{14}. {0c:5108}When I was five, an\nold man fleeing the army ran into\nmy house.{1a}Why he was being hunted I do not know,\nbut my father hid him in the attic.{1a}Yet within minutes, several knights of a\nreligious order kicked in the door and\ncame inside.{1a}The knights asked my father about the\nold man, and my father said he\nknew nothing.{1a}One of the knights turned his sword on\nme. He must have meant to threaten my\nfather. The tip only grazed my cheek,\nbut I pointed at the attic.{1a}And the old man was dragged down from\nthe attic...{1a}As he was led away, our eyes met. But\nhis eyes did not accuse me. They were\ngentle, and full of compassion...{1a}{0c:521820}To this day I cannot forget those eyes.{1a}Through my own weakness, I killed a man...\nThe regret has never left my mind. To\nthis day I cannot forgive my weakness.{1a}{10}... I will not stand by and let\nanyone die again...{1a}{0c:5108}I am going to save {0b:05}{14}.{0c:fe}",
    "status": "done",
    "tl": "[HERO]... I am going to save [1][VAR14]. [2]When I was five, an old man fleeing the army ran into my house. // Why he was being hunted I do not know, but my father hid him in the attic. // Yet within minutes, several knights of a religious order kicked in the door and came inside. // The knights asked my father about the old man, and my father said he knew nothing. // One of the knights turned his sword on me. He must have meant to threaten my father. The tip only grazed my cheek, but I pointed at the attic. // And the old man was dragged down from the attic... // As he was led away, our eyes met. But his eyes did not accuse me. They were gentle, and full of compassion... // [3]To this day I cannot forget those eyes. // Through my own weakness, I killed a man... The regret has never left my mind. To this day I cannot forgive my weakness. // [HERO]... I will not stand by and let anyone die again... // [4]I am going to save [5][VAR14]."
   },
@@ -2175,7 +2175,7 @@
    "jp": "思慮の足りない奴だと\n罵ってくれても構わない。{1a}だが、俺はもう誰も\n見殺しにしたくはないのだ・・・{0c:fe}",
    "read": "思慮の足りない奴だと\n罵ってくれても構わない。{1a}だが、俺はもう誰も\n見殺しにしたくはないのだ・・・{0c:fe}",
    "raw": null,
-   "en": "You may curse me for a thoughtless\nfool. I do not mind.{1a}But I will not stand by and let anyone die\nagain...{0c:fe}",
+   "en": "You may curse me for a thoughtless\nfool. I do not mind.{1a}But I will not stand by and let anyone\ndie again...{0c:fe}",
    "status": "done",
    "tl": "You may curse me for a thoughtless fool. I do not mind. // But I will not stand by and let anyone die again..."
   },
@@ -2254,7 +2254,7 @@
    "jp": "{1c:1e}{0b:08}【 シャルン 】{0b:09}\n{10}、\nあたし、{0b:05}{14}を助けたい。{1a}子供っぽい正義感なのかもしれない。\nそのせいでもっと大勢の人達が\n魔物に殺されるかも\nしれないんだから。{1a}でも、せっかく知り合えた仲間を\n見殺しにはしたくない。\nそんなこと出来ない。{1a}{10}、あなたはどうする?\nあなたの考えも聞かせて。{0c:fe}",
    "read": "{1c:1e}{0b:08}【 シャルン 】{0b:09}\n{10}、\nあたし、{0b:05}{14}を助けたい。{1a}子供っぽい正義感なのかもしれない。\nそのせいでもっと大勢の人達が\n魔物に殺されるかも\nしれないんだから。{1a}でも、せっかく知り合えた仲間を\n見殺しにはしたくない。\nそんなこと出来ない。{1a}{10}、あなたはどうする?\nあなたの考えも聞かせて。{0c:fe}",
    "raw": null,
-   "en": "{1c:1e}{0b:08}【 Scharn 】{0b:09}\n{10}, I want to save\n{0b:05}{14}.{1a}Maybe it's just a kid's sense of justice,\nsince even more people might get killed\nby monsters because of it.{1a}But I don't want to let a friend die, not\nwhen we finally got to know each other. I\njust can't do that.{1a}{10}, what about you? Tell me\nwhat you think too.{0c:fe}",
+   "en": "{1c:1e}{0b:08}【 Scharn 】{0b:09}\n{10}, I want to\nsave {0b:05}{14}.{1a}Maybe it's just a kid's sense of justice,\nsince even more people might get killed\nby monsters because of it.{1a}But I don't want to let a friend die, not\nwhen we finally got to know each other. I\njust can't do that.{1a}{10}, what about you? Tell me\nwhat you think too.{0c:fe}",
    "status": "done",
    "tl": "[HERO], I want to save [1][VAR14]. // Maybe it's just a kid's sense of justice, since even more people might get killed by monsters because of it. // But I don't want to let a friend die, not when we finally got to know each other. I just can't do that. // [HERO], what about you? Tell me what you think too."
   },
@@ -2379,7 +2379,7 @@
    "jp": "{1c:1e}{0b:08}【 シャルン 】{0b:09}\nあなたの方が\n正しいのは分かってる・・・{1a}でも、止めたって聞かないよ。\nあたし1人でも助けに行く。{0c:fe}",
    "read": "{1c:1e}{0b:08}【 シャルン 】{0b:09}\nあなたの方が\n正しいのは分かってる・・・{1a}でも、止めたって聞かないよ。\nあたし1人でも助けに行く。{0c:fe}",
    "raw": null,
-   "en": "{1c:1e}{0b:08}【 Scharn 】{0b:09}\nI know you're the one who's right...{1a}But trying to stop me won't work, you\nknow! I'll go save them even if it's just\nme.{0c:fe}",
+   "en": "{1c:1e}{0b:08}【 Scharn 】{0b:09}\nI know you're the one who's right...{1a}But trying to stop me won't work, you\nknow! I'll go save them even if it's\njust me.{0c:fe}",
    "status": "done",
    "tl": "I know you're the one who's right... // But trying to stop me won't work, you know! I'll go save them even if it's just me."
   },
@@ -2606,7 +2606,7 @@
    "jp": "{0b:08}【 ジェシカ 】{0b:09}\nひょっとして\n1人で助けに行きたかった?{1a}男の友情に女が口を挟むなとか\n思ってない?{1a}思ってないならいいんだけどさ、\n{10}に変な趣味があったら\n思いっきりひいちゃうし。{1a}それじゃあ柱壊しに行こっか。\n重たい話は忘れて気楽にね。\n考えごとしながら戦ってちゃ\nこっちが死んじゃうよ。。{0c:fe}",
    "read": "{0b:08}【 ジェシカ 】{0b:09}\nひょっとして\n1人で助けに行きたかった?{1a}男の友情に女が口を挟むなとか\n思ってない?{1a}思ってないならいいんだけどさ、\n{10}に変な趣味があったら\n思いっきりひいちゃうし。{1a}それじゃあ柱壊しに行こっか。\n重たい話は忘れて気楽にね。\n考えごとしながら戦ってちゃ\nこっちが死んじゃうよ。。{0c:fe}",
    "raw": null,
-   "en": "{0b:08}【 Jessica 】{0b:09}\nDon't tell me you wanted to go save\nyour friend alone?{1a}You're not thinking girls shouldn't butt\ninto a friendship between men, are you?{1a}If you're not, then fine, but if\n{10} turned out to have some\nweird streak, I'd be backing way off.{1a}Well then, let's go break that pillar.\nForget the heavy stuff and take it\neasy. If we fight with our heads full of\nworries, we're the ones who'll end up{1a}dead.{0c:fe}",
+   "en": "{0b:08}【 Jessica 】{0b:09}\nDon't tell me you wanted to go save\nyour friend alone?{1a}You're not thinking girls shouldn't butt\ninto a friendship between men, are you?{1a}If you're not, then fine, but if\n{10} turned out to have some\nweird streak, I'd be backing way off.{1a}Well then, let's go break that pillar.\nForget the heavy stuff and take it\neasy. If we fight with our heads full of\nworries, we're the ones who'll end{1a}up dead.{0c:fe}",
    "status": "done",
    "tl": "Don't tell me you wanted to go save your friend alone? // You're not thinking girls shouldn't butt into a friendship between men, are you? // If you're not, then fine, but if [HERO] turned out to have some weird streak, I'd be backing way off. // Well then, let's go break that pillar. Forget the heavy stuff and take it easy. If we fight with our heads full of worries, we're the ones who'll end up dead."
   },
@@ -2629,7 +2629,7 @@
    "jp": "{0c:521018}{0b:08}【 ジェシカ 】{0b:09}\nそうそう、男ならやっぱり\n世界を敵に回してでも\nお姫様を助けにいかないとね。{1a}それじゃあ柱壊しに行こっか。\n重たい話は忘れて気楽にね。\n考えごとしながら戦ってちゃ\nこっちが死んじゃうよ。{0c:fe}",
    "read": "{0c:521018}{0b:08}【 ジェシカ 】{0b:09}\nそうそう、男ならやっぱり\n世界を敵に回してでも\nお姫様を助けにいかないとね。{1a}それじゃあ柱壊しに行こっか。\n重たい話は忘れて気楽にね。\n考えごとしながら戦ってちゃ\nこっちが死んじゃうよ。{0c:fe}",
    "raw": null,
-   "en": "{0c:521018}{0b:08}【 Jessica 】{0b:09}\nThat's right, if you're a man, you gotta\nsave the princess, even if it means\nmaking the whole world your enemy.{1a}Well then, let's go break that pillar.\nForget the heavy stuff and take it\neasy. If we fight with our heads full of\nworries, we're the ones who'll end up{1a}dead.{0c:fe}",
+   "en": "{0c:521018}{0b:08}【 Jessica 】{0b:09}\nThat's right, if you're a man, you gotta\nsave the princess, even if it means\nmaking the whole world your enemy.{1a}Well then, let's go break that pillar.\nForget the heavy stuff and take it\neasy. If we fight with our heads full of\nworries, we're the ones who'll end{1a}up dead.{0c:fe}",
    "status": "done",
    "tl": "That's right, if you're a man, you gotta save the princess, even if it means making the whole world your enemy. // Well then, let's go break that pillar. Forget the heavy stuff and take it easy. If we fight with our heads full of worries, we're the ones who'll end up dead."
   },
@@ -2663,7 +2663,7 @@
    "jp": "{0c:521018}{0b:08}【 ジェシカ 】{0b:09}\nそうそう、女ならやっぱり\n世界を敵に回してでも\n惚れた男を助けに行かなきゃね。{1a}それじゃあ柱壊しに行こっか。\n重たい話は忘れて気楽にね。\n考えごとしながら戦ってちゃ\nこっちが死んじゃうよ。{0c:fe}",
    "read": "{0c:521018}{0b:08}【 ジェシカ 】{0b:09}\nそうそう、女ならやっぱり\n世界を敵に回してでも\n惚れた男を助けに行かなきゃね。{1a}それじゃあ柱壊しに行こっか。\n重たい話は忘れて気楽にね。\n考えごとしながら戦ってちゃ\nこっちが死んじゃうよ。{0c:fe}",
    "raw": null,
-   "en": "{0c:521018}{0b:08}【 Jessica 】{0b:09}\nThat's right, if you're a woman, you\ngotta save the man you fell for, even if\nit means making the whole world your{1a}enemy.{1a}Well then, let's go break that pillar.\nForget the heavy stuff and take it\neasy. If we fight with our heads full of\nworries, we're the ones who'll end up{1a}dead.{0c:fe}",
+   "en": "{0c:521018}{0b:08}【 Jessica 】{0b:09}\nThat's right, if you're a woman, you\ngotta save the man you fell for, even if\nit means making the whole world{1a}your enemy.{1a}Well then, let's go break that pillar.\nForget the heavy stuff and take it\neasy. If we fight with our heads full of\nworries, we're the ones who'll end{1a}up dead.{0c:fe}",
    "status": "done",
    "tl": "That's right, if you're a woman, you gotta save the man you fell for, even if it means making the whole world your enemy. // Well then, let's go break that pillar. Forget the heavy stuff and take it easy. If we fight with our heads full of worries, we're the ones who'll end up dead."
   },
@@ -2686,7 +2686,7 @@
    "jp": "{0c:521018}{0b:08}【 ジェシカ 】{0b:09}\nうん、また3人で\n一緒に行きたいもんね。{1a}それじゃあ柱壊しに行こっか。\n重たい話は忘れて気楽にね。\n考えごとしながら戦ってちゃ\nこっちが死んじゃうよ。{0c:fe}",
    "read": "{0c:521018}{0b:08}【 ジェシカ 】{0b:09}\nうん、また3人で\n一緒に行きたいもんね。{1a}それじゃあ柱壊しに行こっか。\n重たい話は忘れて気楽にね。\n考えごとしながら戦ってちゃ\nこっちが死んじゃうよ。{0c:fe}",
    "raw": null,
-   "en": "{0c:521018}{0b:08}【 Jessica 】{0b:09}\nYeah, I want the three of us going\ntogether again too.{1a}Well then, let's go break that pillar.\nForget the heavy stuff and take it\neasy. If we fight with our heads full of\nworries, we're the ones who'll end up{1a}dead.{0c:fe}",
+   "en": "{0c:521018}{0b:08}【 Jessica 】{0b:09}\nYeah, I want the three of us going\ntogether again too.{1a}Well then, let's go break that pillar.\nForget the heavy stuff and take it\neasy. If we fight with our heads full of\nworries, we're the ones who'll end{1a}up dead.{0c:fe}",
    "status": "done",
    "tl": "Yeah, I want the three of us going together again too. // Well then, let's go break that pillar. Forget the heavy stuff and take it easy. If we fight with our heads full of worries, we're the ones who'll end up dead."
   },
@@ -2777,7 +2777,7 @@
    "jp": "{0c:522830}{0b:08}【 ジェシカ 】{0b:09}\nまたまた。無理しちゃってさ。\nほんとは助けに行きたいんでしょ?{1a}あんたの言ってるコトと\nやってるコトってさ、\n強がったりいい子ぶったり\nつじつまが全然合ってないもん。{1a}それにその童顔じゃ\nいくら口でクール気取っても\nこれっぽっちも似合わないよ。{1a}行こ行こ!\n無理しちゃ体に悪いよ。{0c:fe}",
    "read": "{0c:522830}{0b:08}【 ジェシカ 】{0b:09}\nまたまた。無理しちゃってさ。\nほんとは助けに行きたいんでしょ?{1a}あんたの言ってるコトと\nやってるコトってさ、\n強がったりいい子ぶったり\nつじつまが全然合ってないもん。{1a}それにその童顔じゃ\nいくら口でクール気取っても\nこれっぽっちも似合わないよ。{1a}行こ行こ!\n無理しちゃ体に悪いよ。{0c:fe}",
    "raw": null,
-   "en": "{0c:522830}{0b:08}【 Jessica 】{0b:09}\nOh, come on. Quit forcing it. You really\nwant to go save them, don't you?{1a}The stuff you say and the stuff you\ndo? All that acting tough and playing the\ngood kid, none of it adds up.{1a}Besides, with that baby face, no matter\nhow cool you talk, it doesn't suit you one\nbit.{1a}Come on, let's go! Forcing yourself is bad\nfor your health.{0c:fe}",
+   "en": "{0c:522830}{0b:08}【 Jessica 】{0b:09}\nOh, come on. Quit forcing it. You really\nwant to go save them, don't you?{1a}The stuff you say and the stuff you\ndo? All that acting tough and playing the\ngood kid, none of it adds up.{1a}Besides, with that baby face, no matter\nhow cool you talk, it doesn't suit you\none bit.{1a}Come on, let's go! Forcing yourself is bad\nfor your health.{0c:fe}",
    "status": "done",
    "tl": "Oh, come on. Quit forcing it. You really want to go save them, don't you? // The stuff you say and the stuff you do? All that acting tough and playing the good kid, none of it adds up. // Besides, with that baby face, no matter how cool you talk, it doesn't suit you one bit. // Come on, let's go! Forcing yourself is bad for your health."
   },
@@ -2936,7 +2936,7 @@
    "jp": "{0c:5110}{1c:20}{0b:08}【 オルフェウス 】{0b:09}\nぼくはどうしようかな・・・{1a}彼女の白馬の王子になるのも\n悪くありませんが、\n面倒なことをする気分には\nなれなくて・・・{1a}{0c:5108}そうですね、\n他の方にお任せしましょうか。{0c:02fc01}",
    "read": "{0c:5110}{1c:20}{0b:08}【 オルフェウス 】{0b:09}\nぼくはどうしようかな・・・{1a}彼女の白馬の王子になるのも\n悪くありませんが、\n面倒なことをする気分には\nなれなくて・・・{1a}{0c:5108}そうですね、\n他の方にお任せしましょうか。{0c:02fc01}",
    "raw": null,
-   "en": "{0c:5110}{1c:20}{0b:08}【 Orpheus 】{0b:09}\nAs for me, what shall I do...{1a}Playing prince on a white horse for her\nwould not be so bad, but I cannot quite\nwork up the mood for anything so\nbothersome...{1a}{0c:5108}Yes, let us leave it to others, shall we?{0c:02fc01}",
+   "en": "{0c:5110}{1c:20}{0b:08}【 Orpheus 】{0b:09}\nAs for me, what shall I do...{1a}Playing prince on a white horse for her\nwould not be so bad, but I cannot quite\nwork up the mood for anything\nso bothersome...{1a}{0c:5108}Yes, let us leave it to others, shall we?{0c:02fc01}",
    "status": "done",
    "tl": "As for me, what shall I do... // Playing prince on a white horse for her would not be so bad, but I cannot quite work up the mood for anything so bothersome... // [1]Yes, let us leave it to others, shall we?"
   },
@@ -2982,7 +2982,7 @@
    "jp": "{1c:20}{0b:08}【 オルフェウス 】{0b:09}\nへえ、顔に似合わず\n意外と冷たいんですね。{1a}{0c:5110}ぼくはどうしようかな・・・{1a}彼女の白馬の王子になるのも\n悪くありませんが、\n面倒なことをする気分には\nなれなくて・・・{1a}{0c:5108}そうですね、\n他の方にお任せしましょうか。{0c:02f801}",
    "read": "{1c:20}{0b:08}【 オルフェウス 】{0b:09}\nへえ、顔に似合わず\n意外と冷たいんですね。{1a}{0c:5110}ぼくはどうしようかな・・・{1a}彼女の白馬の王子になるのも\n悪くありませんが、\n面倒なことをする気分には\nなれなくて・・・{1a}{0c:5108}そうですね、\n他の方にお任せしましょうか。{0c:02f801}",
    "raw": null,
-   "en": "{1c:20}{0b:08}【 Orpheus 】{0b:09}\nMy, how unexpectedly cold of you, for\none with such a face.{1a}{0c:5110}As for me, what shall I do...{1a}Playing prince on a white horse for her\nwould not be so bad, but I cannot quite\nwork up the mood for anything so\nbothersome...{1a}{0c:5108}Yes, let us leave it to others, shall we?{0c:02f801}",
+   "en": "{1c:20}{0b:08}【 Orpheus 】{0b:09}\nMy, how unexpectedly cold of you, for\none with such a face.{1a}{0c:5110}As for me, what shall I do...{1a}Playing prince on a white horse for her\nwould not be so bad, but I cannot quite\nwork up the mood for anything\nso bothersome...{1a}{0c:5108}Yes, let us leave it to others, shall we?{0c:02f801}",
    "status": "done",
    "tl": "My, how unexpectedly cold of you, for one with such a face. // [1]As for me, what shall I do... // Playing prince on a white horse for her would not be so bad, but I cannot quite work up the mood for anything so bothersome... // [2]Yes, let us leave it to others, shall we?"
   },
@@ -3096,7 +3096,7 @@
    "jp": "{0c:522028}{1c:21}{0b:08}【 オルフェウス 】{0b:09}\n{10}さん、\n君はなんて優しい人なんだ!{1a}ええ、もちろん僕も\nお手伝いしますよ。{0c:fe}",
    "read": "{0c:522028}{1c:21}{0b:08}【 オルフェウス 】{0b:09}\n{10}さん、\n君はなんて優しい人なんだ!{1a}ええ、もちろん僕も\nお手伝いしますよ。{0c:fe}",
    "raw": null,
-   "en": "{0c:522028}{1c:21}{0b:08}【 Orpheus 】{0b:09}\n{10}-san, what a kind soul you\nare!{1a}Yes, of course I will lend a hand.{0c:fe}",
+   "en": "{0c:522028}{1c:21}{0b:08}【 Orpheus 】{0b:09}\n{10}-san, what a kind soul\nyou are!{1a}Yes, of course I will lend a hand.{0c:fe}",
    "status": "done",
    "tl": "[HERO]-san, what a kind soul you are! // Yes, of course I will lend a hand."
   },
@@ -3130,7 +3130,7 @@
    "jp": "{1c:21}{0b:08}【 オルフェウス 】{0b:09}\n同感です。\n世界なんてどうでもいいですが、\n疲れることだけはごめんです。{1a}特に今はそんな気分には\nなれない・・・{1a}さて・・・部屋に戻りましょうか。{0c:020301}",
    "read": "{1c:21}{0b:08}【 オルフェウス 】{0b:09}\n同感です。\n世界なんてどうでもいいですが、\n疲れることだけはごめんです。{1a}特に今はそんな気分には\nなれない・・・{1a}さて・・・部屋に戻りましょうか。{0c:020301}",
    "raw": null,
-   "en": "{1c:21}{0b:08}【 Orpheus 】{0b:09}\nI quite agree. The world can go hang for\nall I care, but anything tiring I will thank\nyou to spare me.{1a}Especially now, when I am in no mood for\nit...{1a}Well then... shall we return to our rooms?{0c:020301}",
+   "en": "{1c:21}{0b:08}【 Orpheus 】{0b:09}\nI quite agree. The world can go hang for\nall I care, but anything tiring I will thank\nyou to spare me.{1a}Especially now, when I am in no mood\nfor it...{1a}Well then... shall we return to our rooms?{0c:020301}",
    "status": "done",
    "tl": "I quite agree. The world can go hang for all I care, but anything tiring I will thank you to spare me. // Especially now, when I am in no mood for it... // Well then... shall we return to our rooms?"
   },
@@ -3198,7 +3198,7 @@
    "jp": "{1c:23}{0b:08}【 イヴ 】{0b:09}\n面白い話だったわね。\nあたし達が世界崩壊の元凶だなんて\nゾクゾクしちゃう。{1a}それで、どうするの? \n{0b:05}{14}の方は。{0c:fe}",
    "read": "{1c:23}{0b:08}【 イヴ 】{0b:09}\n面白い話だったわね。\nあたし達が世界崩壊の元凶だなんて\nゾクゾクしちゃう。{1a}それで、どうするの? \n{0b:05}{14}の方は。{0c:fe}",
    "raw": null,
-   "en": "{1c:23}{0b:08}【 Eve 】{0b:09}\nNow that was an interesting story,\nwasn't it. We, the root of the world's\ncollapse... It gives me chills.{1a}So, what will you do? About\n{0b:05}{14}.{0c:fe}",
+   "en": "{1c:23}{0b:08}【 Eve 】{0b:09}\nNow that was an interesting story,\nwasn't it. We, the root of the world's\ncollapse... It gives me chills.{1a}So, what will you do?\nAbout {0b:05}{14}.{0c:fe}",
    "status": "done",
    "tl": "Now that was an interesting story, wasn't it. We, the root of the world's collapse... It gives me chills. // So, what will you do? About [1][VAR14]."
   },
@@ -3414,7 +3414,7 @@
    "jp": "{0b:08}【 ディアス 】{0b:09}\n参考までに聞いておく。{1a}仲間1人の死か、世界の破滅か・・・\n貴様はどちらを選択するつもりだ?{0c:fe}",
    "read": "{0b:08}【 ディアス 】{0b:09}\n参考までに聞いておく。{1a}仲間1人の死か、世界の破滅か・・・\n貴様はどちらを選択するつもりだ?{0c:fe}",
    "raw": null,
-   "en": "{0b:08}【 Dias 】{0b:09}\nI ask for reference only.{1a}The death of one comrade, or the ruin\nof the world... Which do you mean to\nchoose?{0c:fe}",
+   "en": "{0b:08}【 Dias 】{0b:09}\nI ask for reference only.{1a}The death of one comrade, or the ruin\nof the world... Which do you mean\nto choose?{0c:fe}",
    "status": "done",
    "tl": "I ask for reference only. // The death of one comrade, or the ruin of the world... Which do you mean to choose?"
   },
@@ -3505,7 +3505,7 @@
    "jp": "{0b:08}【 ディアス 】{0b:09}\n貴様らしい単純な選択だ。{1a}だが、こちらも柱の破壊後に\n興味がある。{1a}目的は異なるが、\n手段と課程は一致する。\n行動を共にしよう。{0c:fe}",
    "read": "{0b:08}【 ディアス 】{0b:09}\n貴様らしい単純な選択だ。{1a}だが、こちらも柱の破壊後に\n興味がある。{1a}目的は異なるが、\n手段と課程は一致する。\n行動を共にしよう。{0c:fe}",
    "raw": null,
-   "en": "{0b:08}【 Dias 】{0b:09}\nA simple choice, just like you.{1a}However, what follows the pillar's\ndestruction interests me as well.{1a}Our aims differ, but our means and our\npath are the same. We shall act\ntogether.{0c:fe}",
+   "en": "{0b:08}【 Dias 】{0b:09}\nA simple choice, just like you.{1a}However, what follows the pillar's\ndestruction interests me as well.{1a}Our aims differ, but our means and our\npath are the same. We shall\nact together.{0c:fe}",
    "status": "done",
    "tl": "A simple choice, just like you. // However, what follows the pillar's destruction interests me as well. // Our aims differ, but our means and our path are the same. We shall act together."
   },
@@ -3539,7 +3539,7 @@
    "jp": "{0b:08}【 ディアス 】{0b:09}\n意外だな。\n貴様にそのような分別があるとは。{0c:fe}",
    "read": "{0b:08}【 ディアス 】{0b:09}\n意外だな。\n貴様にそのような分別があるとは。{0c:fe}",
    "raw": null,
-   "en": "{0b:08}【 Dias 】{0b:09}\nSurprising. I did not think you had such\ndiscretion.{0c:fe}",
+   "en": "{0b:08}【 Dias 】{0b:09}\nSurprising. I did not think you had\nsuch discretion.{0c:fe}",
    "status": "done",
    "tl": "Surprising. I did not think you had such discretion."
   },
@@ -3698,7 +3698,7 @@
    "jp": "{1c:25}{0b:08}【 ノエル 】{0b:09}\nありがとう、{10}・・・\nじゃあ行きましょ。{0c:fe}",
    "read": "{1c:25}{0b:08}【 ノエル 】{0b:09}\nありがとう、{10}・・・\nじゃあ行きましょ。{0c:fe}",
    "raw": null,
-   "en": "{1c:25}{0b:08}【 Noel 】{0b:09}\nThank you, {10}... Well then, let's\ngo.{0c:fe}",
+   "en": "{1c:25}{0b:08}【 Noel 】{0b:09}\nThank you, {10}... Well then,\nlet's go.{0c:fe}",
    "status": "done",
    "tl": "Thank you, [HERO]... Well then, let's go."
   },
@@ -4015,7 +4015,7 @@
    "jp": "あたし、みんな大好きだよ。{1a}みんなと出会えて本当によかった。\nみんなにいろんな事教えてもらった。\nだから少しでも恩返しがしたいの。{1a}{10}・・・\nあたしは{0b:05}{14}を\n助けてあげたい。{1a}{0c:521008}どんなに危険な賭けでも、\nたとえ世界を滅ぼすことになっても、\n友達を見捨てるなんて絶対に嫌だよ。{0c:fe}",
    "read": "あたし、みんな大好きだよ。{1a}みんなと出会えて本当によかった。\nみんなにいろんな事教えてもらった。\nだから少しでも恩返しがしたいの。{1a}{10}・・・\nあたしは{0b:05}{14}を\n助けてあげたい。{1a}{0c:521008}どんなに危険な賭けでも、\nたとえ世界を滅ぼすことになっても、\n友達を見捨てるなんて絶対に嫌だよ。{0c:fe}",
    "raw": null,
-   "en": "I love everyone, I really do.{1a}I'm so glad I met you all. You all taught\nme so many things. That's why I want to\npay you back, even a little.{1a}{10}... I want to save\n{0b:05}{14}.{1a}{0c:521008}No matter how dangerous the gamble,\neven if it ends up destroying the world, I\nwon't ever abandon a friend. I just won't.{0c:fe}",
+   "en": "I love everyone, I really do.{1a}I'm so glad I met you all. You all taught\nme so many things. That's why I want to\npay you back, even a little.{1a}{10}... I want to\nsave {0b:05}{14}.{1a}{0c:521008}No matter how dangerous the gamble,\neven if it ends up destroying the world, I\nwon't ever abandon a friend. I just won't.{0c:fe}",
    "status": "done",
    "tl": "I love everyone, I really do. // I'm so glad I met you all. You all taught me so many things. That's why I want to pay you back, even a little. // [HERO]... I want to save [1][VAR14]. // [2]No matter how dangerous the gamble, even if it ends up destroying the world, I won't ever abandon a friend. I just won't."
   },
@@ -4106,7 +4106,7 @@
    "jp": "{0c:521808}ありがと、{10}。\n一緒にがんばろ!{0c:fe}",
    "read": "{0c:521808}ありがと、{10}。\n一緒にがんばろ!{0c:fe}",
    "raw": null,
-   "en": "{0c:521808}Thanks, {10}. Let's do our best\ntogether!{0c:fe}",
+   "en": "{0c:521808}Thanks, {10}. Let's do our\nbest together!{0c:fe}",
    "status": "done",
    "tl": "Thanks, [HERO]. Let's do our best together!"
   },
@@ -4140,7 +4140,7 @@
    "jp": "{10}の言いたいことも\nよく分かるよ。{1a}でもごめん・・・\nやっぱりあたし助けに行く。{0c:fe}",
    "read": "{10}の言いたいことも\nよく分かるよ。{1a}でもごめん・・・\nやっぱりあたし助けに行く。{0c:fe}",
    "raw": null,
-   "en": "I understand what you mean too,\n{10}.{1a}But I'm sorry... I'm still going to go save\nthem.{0c:fe}",
+   "en": "I understand what you mean\ntoo, {10}.{1a}But I'm sorry... I'm still going to go\nsave them.{0c:fe}",
    "status": "done",
    "tl": "I understand what you mean too, [HERO]. // But I'm sorry... I'm still going to go save them."
   },
@@ -4219,7 +4219,7 @@
    "jp": "{10}・・・\nあたしはマレフィクスを助けたい。{1a}マレフィクスを助けることで\n世界中が不幸になったとしても、\nそれでもあたしは\nマレフィクスを助けたい・・・{1a}勝手な言いぐさなのはわかってる。\nでも・・・それでも、\nあたしはマレフィクスを\n守ってあげたい・・・{0c:fe}",
    "read": "{10}・・・\nあたしはマレフィクスを助けたい。{1a}マレフィクスを助けることで\n世界中が不幸になったとしても、\nそれでもあたしは\nマレフィクスを助けたい・・・{1a}勝手な言いぐさなのはわかってる。\nでも・・・それでも、\nあたしはマレフィクスを\n守ってあげたい・・・{0c:fe}",
    "raw": null,
-   "en": "{10}... I want to save Maleficus.{1a}Even if saving Maleficus brings misery on\nthe whole world, I still want to save\nMaleficus...{1a}I know how selfish that sounds. But...\neven so, I want to protect Maleficus...{0c:fe}",
+   "en": "{10}... I want to save Maleficus.{1a}Even if saving Maleficus brings misery on\nthe whole world, I still want to\nsave Maleficus...{1a}I know how selfish that sounds. But...\neven so, I want to protect Maleficus...{0c:fe}",
    "status": "done",
    "tl": "[HERO]... I want to save Maleficus. // Even if saving Maleficus brings misery on the whole world, I still want to save Maleficus... // I know how selfish that sounds. But... even so, I want to protect Maleficus..."
   },
@@ -4423,7 +4423,7 @@
    "jp": "{1c:28}{0b:08}【 ルカ 】{0b:09}\n{10}さん、\nわたし達はどうすれば\nいいのでしょうか・・・{1a}{0c:521820}{0b:05}{14}さんを助ければ\n世界中が今以上の混乱に襲われ、{1a}かといってそれを防ぐには\n{0b:05}{14}さんを見殺しに\nしなければならない・・・{1a}アノイアの教えに関わる者としては\n人類全体の幸福を願わなければ\nならないのでしょうが、{1a}わたし個人としては、\n{0b:05}{14}さんを犠牲にするなんて\n目をつぶることが\n出来ないのです・・・{0c:fe}",
    "read": "{1c:28}{0b:08}【 ルカ 】{0b:09}\n{10}さん、\nわたし達はどうすれば\nいいのでしょうか・・・{1a}{0c:521820}{0b:05}{14}さんを助ければ\n世界中が今以上の混乱に襲われ、{1a}かといってそれを防ぐには\n{0b:05}{14}さんを見殺しに\nしなければならない・・・{1a}アノイアの教えに関わる者としては\n人類全体の幸福を願わなければ\nならないのでしょうが、{1a}わたし個人としては、\n{0b:05}{14}さんを犠牲にするなんて\n目をつぶることが\n出来ないのです・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:28}{0b:08}【 Luca 】{0b:09}\n{10}-san, what should we do...{1a}If we save {0c:521820}{0b:05}{14}-san, the\nwhole world will be struck by even\ngreater chaos,{1a}yet to prevent that, we must let\n{0b:05}{14}-san die...{1a}As one involved in Anoia's teachings, I\nought to wish for the happiness of all\nhumanity,{1a}but speaking for myself, I cannot shut\nmy eyes to sacrificing\n{0b:05}{14}-san...{0c:fe}",
+   "en": "{1c:28}{0b:08}【 Luca 】{0b:09}\n{10}-san, what should we do...{1a}If we save {0c:521820}{0b:05}{14}-san, the\nwhole world will be struck by even\ngreater chaos,{1a}yet to prevent that, we must let\n{0b:05}{14}-san die...{1a}As one involved in Anoia's teachings, I\nought to wish for the happiness of\nall humanity,{1a}but speaking for myself, I cannot shut\nmy eyes to\nsacrificing {0b:05}{14}-san...{0c:fe}",
    "status": "done",
    "tl": "[HERO]-san, what should we do... // If we save [1][VAR14]-san, the whole world will be struck by even greater chaos, // yet to prevent that, we must let [2][VAR14]-san die... // As one involved in Anoia's teachings, I ought to wish for the happiness of all humanity, // but speaking for myself, I cannot shut my eyes to sacrificing [3][VAR14]-san..."
   },
@@ -4514,7 +4514,7 @@
    "jp": "{0c:5128}{1c:27}{0b:08}【 ルカ 】{0b:09}\n{10}さんも\n同じ考えなのですか!?{1a}う、うれしいです。\n一緒に行きましょう。{0c:fe}",
    "read": "{0c:5128}{1c:27}{0b:08}【 ルカ 】{0b:09}\n{10}さんも\n同じ考えなのですか!?{1a}う、うれしいです。\n一緒に行きましょう。{0c:fe}",
    "raw": null,
-   "en": "{0c:5128}{1c:27}{0b:08}【 Luca 】{0b:09}\nYou feel the same way,\n{10}-san!?{1a}I-I am so glad. Let us go together.{0c:fe}",
+   "en": "{0c:5128}{1c:27}{0b:08}【 Luca 】{0b:09}\nYou feel the same\nway, {10}-san!?{1a}I-I am so glad. Let us go together.{0c:fe}",
    "status": "done",
    "tl": "You feel the same way, [HERO]-san!? // I-I am so glad. Let us go together."
   },
@@ -4627,7 +4627,7 @@
    "jp": "{1c:2b}{0b:08}【 サラ 】{0b:09}\n{10}さん・・・\n大変なこと聞いちゃったね。{1a}{0b:05}{14}さんを助けたら、\nまた世界中に魔物が\n現れるかもしれないなんて・・・{1a}でも、あたしやっぱり\n{0b:05}{14}さんを助けに行きたい。{1a}柱を壊したら魔物が現れるって話も\n絶対ってわけじゃないんだよね。{1a}それに、クムランさんも\nがんばってくれるんだから、\nうまくいくことだけを信じようよ。{1a}{0c:521008}大丈夫、きっとうまくいくよ!{0c:fe}",
    "read": "{1c:2b}{0b:08}【 サラ 】{0b:09}\n{10}さん・・・\n大変なこと聞いちゃったね。{1a}{0b:05}{14}さんを助けたら、\nまた世界中に魔物が\n現れるかもしれないなんて・・・{1a}でも、あたしやっぱり\n{0b:05}{14}さんを助けに行きたい。{1a}柱を壊したら魔物が現れるって話も\n絶対ってわけじゃないんだよね。{1a}それに、クムランさんも\nがんばってくれるんだから、\nうまくいくことだけを信じようよ。{1a}{0c:521008}大丈夫、きっとうまくいくよ!{0c:fe}",
    "raw": null,
-   "en": "{1c:2b}{0b:08}【 Sara 】{0b:09}\n{10}-san... That was an awful\nthing to hear, wasn't it.{1a}If we save {0b:05}{14}-san,\nmonsters might show up all over the\nworld again...{1a}But I still want to go save\n{0b:05}{14}-san.{1a}And that part about monsters showing\nup when you break the pillar isn't for\nsure, right?{1a}Besides, Qumran-san's working hard too,\nso let's just believe it'll all turn out okay.{1a}{0c:521008}It'll be all right. It's sure to work out!{0c:fe}",
+   "en": "{1c:2b}{0b:08}【 Sara 】{0b:09}\n{10}-san... That was an awful\nthing to hear, wasn't it.{1a}If we save {0b:05}{14}-san,\nmonsters might show up all over the\nworld again...{1a}But I still want to go\nsave {0b:05}{14}-san.{1a}And that part about monsters showing\nup when you break the pillar isn't for\nsure, right?{1a}Besides, Qumran-san's working hard too,\nso let's just believe it'll all turn out okay.{1a}{0c:521008}It'll be all right. It's sure to work out!{0c:fe}",
    "status": "done",
    "tl": "[HERO]-san... That was an awful thing to hear, wasn't it. // If we save [1][VAR14]-san, monsters might show up all over the world again... // But I still want to go save [2][VAR14]-san. // And that part about monsters showing up when you break the pillar isn't for sure, right? // Besides, Qumran-san's working hard too, so let's just believe it'll all turn out okay. // [3]It'll be all right. It's sure to work out!"
   },

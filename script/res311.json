@@ -75,7 +75,7 @@
    "jp": "{1c:10}わかった、付き合おう。\nだが、ついて行くだけだ。\n{e082}得はお前に任せる。",
    "read": "{1c:10}わかった、付き合おう。\nだが、ついて行くだけだ。\n説得はお前に任せる。",
    "raw": null,
-   "en": "{1c:10}Very well, I will accompany you. But I will\nonly go along. I leave the persuading to\nyou.",
+   "en": "{1c:10}Very well, I will accompany you. But I will\nonly go along. I leave the persuading\nto you.",
    "status": "done",
    "tl": "Very well, I will accompany you. But I will only go along. I leave the persuading to you."
   },
@@ -156,7 +156,7 @@
    "jp": "{1c:11}{0b:08}{e080} レイア {e081}{0b:09}\n{e084}んだ覚えはない。\n出ていってくれ。{0c:15}",
    "read": "{1c:11}{0b:08}【 レイア 】{0b:09}\n呼んだ覚えはない。\n出ていってくれ。{0c:15}",
    "raw": null,
-   "en": "{1c:11}{0b:08}【 Leia 】{0b:09}\nI do not recall calling you here. Please\nleave.{0c:15}",
+   "en": "{1c:11}{0b:08}【 Leia 】{0b:09}\nI do not recall calling you here.\nPlease leave.{0c:15}",
    "status": "done",
    "tl": "I do not recall calling you here. Please leave."
   },
@@ -559,7 +559,7 @@
    "jp": "{1c:13}意外だな・・・\nいや、構わないが・・・",
    "read": "{1c:13}意外だな・・・\nいや、構わないが・・・",
    "raw": null,
-   "en": "{1c:13}This is unexpected... No, I do not mind,\nbut...",
+   "en": "{1c:13}This is unexpected... No, I do not\nmind, but...",
    "status": "done",
    "tl": "This is unexpected... No, I do not mind, but..."
   },
@@ -896,7 +896,7 @@
    "jp": "{1c:10}好きにするがいい。\n目的を遂げるのに必要なのは\nこの{e088}だけ。他に何も要らない。{0c:153b0800}",
    "read": "{1c:10}好きにするがいい。\n目的を遂げるのに必要なのは\nこの剣だけ。他に何も要らない。{0c:153b0800}",
    "raw": null,
-   "en": "{1c:10}Do as you please. To reach my goal I\nneed only this sword. I require nothing\nelse.{0c:153b0800}",
+   "en": "{1c:10}Do as you please. To reach my goal I\nneed only this sword. I require\nnothing else.{0c:153b0800}",
    "status": "done",
    "tl": "Do as you please. To reach my goal I need only this sword. I require nothing else."
   },
@@ -932,7 +932,7 @@
    "jp": "{1c:10}好きにするがいい。\n目的を遂げるのに必要なのは\nこの{e088}だけ。他に何も要らない。{0c:153b0800}",
    "read": "{1c:10}好きにするがいい。\n目的を遂げるのに必要なのは\nこの剣だけ。他に何も要らない。{0c:153b0800}",
    "raw": null,
-   "en": "{1c:10}Do as you please. To reach my goal I\nneed only this sword. I require nothing\nelse.{0c:153b0800}",
+   "en": "{1c:10}Do as you please. To reach my goal I\nneed only this sword. I require\nnothing else.{0c:153b0800}",
    "status": "done",
    "tl": "Do as you please. To reach my goal I need only this sword. I require nothing else."
   },
@@ -980,7 +980,7 @@
    "jp": "{1c:10}心配するな・・・ \n裏切られるのはもう慣れた・・・",
    "read": "{1c:10}心配するな・・・ \n裏切られるのはもう慣れた・・・",
    "raw": null,
-   "en": "{1c:10}Do not worry... I am used to betrayal by\nnow...",
+   "en": "{1c:10}Do not worry... I am used to betrayal\nby now...",
    "status": "done",
    "tl": "Do not worry... I am used to betrayal by now..."
   },
@@ -1026,7 +1026,7 @@
    "jp": "好きにするがいい・・・{1a}だが、考えもなしに行動することが\nどんなに危険なことか、{1a}そして、どんなに{e089}{e08a}を\n不幸にするか・・・\nお前も知っておくべきだ。{0c:15}",
    "read": "好きにするがいい・・・{1a}だが、考えもなしに行動することが\nどんなに危険なことか、{1a}そして、どんなに周囲を\n不幸にするか・・・\nお前も知っておくべきだ。{0c:15}",
    "raw": null,
-   "en": "Do as you please...{1a}But how dangerous it is to act without\nthought,{1a}and how much misery it brings on those\naround you... You should know that as\nwell.{0c:15}",
+   "en": "Do as you please...{1a}But how dangerous it is to act\nwithout thought,{1a}and how much misery it brings on those\naround you... You should know that\nas well.{0c:15}",
    "status": "done",
    "tl": "Do as you please... // But how dangerous it is to act without thought, // and how much misery it brings on those around you... You should know that as well."
   },
@@ -1109,7 +1109,7 @@
    "jp": "{10}・・・\nお前は何をそんなに焦っている?{0c:15}",
    "read": "{10}・・・\nお前は何をそんなに焦っている?{0c:15}",
    "raw": null,
-   "en": "{10}... What are you so desperate\nabout?{0c:15}",
+   "en": "{10}... What are you so\ndesperate about?{0c:15}",
    "status": "done",
    "tl": "[HERO]... What are you so desperate about?"
   },

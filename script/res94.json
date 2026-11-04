@@ -889,7 +889,7 @@
    "jp": "{0c:522028}{1c:18}{0b:08}{e080} サラ {e081}{0b:09}\nルカさん、あたし達の話を聞いて!{0c:021301}",
    "read": "{0c:522028}{1c:18}{0b:08}【 サラ 】{0b:09}\nルカさん、あたし達の話を聞いて!{0c:021301}",
    "raw": null,
-   "en": "{0c:522028}{1c:18}{0b:08}【 Sara 】{0b:09}\nLuca-san, listen to what we have to\nsay!{0c:021301}",
+   "en": "{0c:522028}{1c:18}{0b:08}【 Sara 】{0b:09}\nLuca-san, listen to what we have\nto say!{0c:021301}",
    "status": "done",
    "tl": "Luca-san, listen to what we have to say!"
   },
@@ -1096,7 +1096,7 @@
    "jp": "{0c:522028}ルカ、少し\n話す時間をくれないか・・・{0c:fe}",
    "read": "{0c:522028}ルカ、少し\n話す時間をくれないか・・・{0c:fe}",
    "raw": null,
-   "en": "{0c:522028}Luca, give me a moment to speak with\nyou...{0c:fe}",
+   "en": "{0c:522028}Luca, give me a moment to speak\nwith you...{0c:fe}",
    "status": "done",
    "tl": "Luca, give me a moment to speak with you..."
   },
@@ -1119,7 +1119,7 @@
    "jp": "{0c:5122}{1c:21}{0b:08}{e080} ルカ {e081}{0b:09}\nすみません・・・\n心配して下さるお気持ちは\nありがたいです・・・{1a}でも、わたしは\n神に仕える{e087}道士です。\n神に敵対する者がいれば\n戦わなければなりません・・・{0c:fe}",
    "read": "{0c:5122}{1c:21}{0b:08}【 ルカ 】{0b:09}\nすみません・・・\n心配して下さるお気持ちは\nありがたいです・・・{1a}でも、わたしは\n神に仕える修道士です。\n神に敵対する者がいれば\n戦わなければなりません・・・{0c:fe}",
    "raw": null,
-   "en": "{0c:5122}{1c:21}{0b:08}【 Luca 】{0b:09}\nI am sorry... I am grateful for your\nconcern...{1a}But I am a monk in service to God. If\nthere are those who oppose God, I must\nfight them...{0c:fe}",
+   "en": "{0c:5122}{1c:21}{0b:08}【 Luca 】{0b:09}\nI am sorry... I am grateful for\nyour concern...{1a}But I am a monk in service to God. If\nthere are those who oppose God, I must\nfight them...{0c:fe}",
    "status": "done",
    "tl": "I am sorry... I am grateful for your concern... // But I am a monk in service to God. If there are those who oppose God, I must fight them..."
   },
@@ -1188,7 +1188,7 @@
    "jp": "{0c:523038}{1c:18}{0b:08}{e080} サラ {e081}{0b:09}\n本当に神様が\nそんなことを言ってるの?      {0c:524048}そんなのおかしいよ。{0c:020101}",
    "read": "{0c:523038}{1c:18}{0b:08}【 サラ 】{0b:09}\n本当に神様が\nそんなことを言ってるの?      {0c:524048}そんなのおかしいよ。{0c:020101}",
    "raw": null,
-   "en": "{0c:523038}{1c:18}{0b:08}【 Sara 】{0b:09}\nIs God really saying that?{0c:524048} That's not\nright.{0c:020101}",
+   "en": "{0c:523038}{1c:18}{0b:08}【 Sara 】{0b:09}\nIs God really saying that?{0c:524048} That's\nnot right.{0c:020101}",
    "status": "done",
    "tl": "Is God really saying that?[1] That's not right."
   },
@@ -1211,7 +1211,7 @@
    "jp": "{0c:523038}ルカ、{e083}面目すぎるよ。\nあたし、{e087}道{e088}がどんなところか\nあまり知らないけど、\n仲間よりその掟の方が大事なの?{1a}{0c:524048}答えて、ルカ!{0c:020101}",
    "read": "{0c:523038}ルカ、真面目すぎるよ。\nあたし、修道院がどんなところか\nあまり知らないけど、\n仲間よりその掟の方が大事なの?{1a}{0c:524048}答えて、ルカ!{0c:020101}",
    "raw": null,
-   "en": "{0c:523038}Luca, you're too serious. I don't really\nknow what a monastery is like, but are\nits rules more important than your\nfriends?{1a}{0c:524048}Answer me, Luca!{0c:020101}",
+   "en": "{0c:523038}Luca, you're too serious. I don't really\nknow what a monastery is like, but are\nits rules more important than\nyour friends?{1a}{0c:524048}Answer me, Luca!{0c:020101}",
    "status": "done",
    "tl": "Luca, you're too serious. I don't really know what a monastery is like, but are its rules more important than your friends? // [1]Answer me, Luca!"
   },
@@ -1234,7 +1234,7 @@
    "jp": "{0c:523038}{0b:08}{e080} オルフェウス {e081}{0b:09}\nすばらしい使命感ですね。\nその使命感のために\n仲間を殺すんですか?{1a}{0c:524048}まあそりゃ、神サマと人間なら\n神サマの方が大事でしょうけど。{0c:020101}",
    "read": "{0c:523038}{0b:08}【 オルフェウス 】{0b:09}\nすばらしい使命感ですね。\nその使命感のために\n仲間を殺すんですか?{1a}{0c:524048}まあそりゃ、神サマと人間なら\n神サマの方が大事でしょうけど。{0c:020101}",
    "raw": null,
-   "en": "{0c:523038}{0b:08}【 Orpheus 】{0b:09}\nWhat a splendid sense of mission. And\nfor that mission you would kill your\nfriends?{1a}{0c:524048}Well, of course, between God and mere\nhumans, I daresay God matters more.{0c:020101}",
+   "en": "{0c:523038}{0b:08}【 Orpheus 】{0b:09}\nWhat a splendid sense of mission. And\nfor that mission you would kill\nyour friends?{1a}{0c:524048}Well, of course, between God and mere\nhumans, I daresay God matters more.{0c:020101}",
    "status": "done",
    "tl": "What a splendid sense of mission. And for that mission you would kill your friends? // [1]Well, of course, between God and mere humans, I daresay God matters more."
   },
@@ -1280,7 +1280,7 @@
    "jp": "{0c:523038}{1c:11}{0b:08}{e080} パスカ {e081}{0b:09}\nどうしてオレ達が\n戦わなきゃいけないんだ!?     {1a}{0c:524048}何が神だよ! あの{e08e}使達だって、\n今まで戦ってきた魔物とどこが違う!?\n{e08e}使の姿してるだけじゃねえか!{1a}あれが本当に神サマの使いなのか?\n本当にそう思ってるのか?{0c:020101}",
    "read": "{0c:523038}{1c:11}{0b:08}【 パスカ 】{0b:09}\nどうしてオレ達が\n戦わなきゃいけないんだ!?     {1a}{0c:524048}何が神だよ! あの天使達だって、\n今まで戦ってきた魔物とどこが違う!?\n天使の姿してるだけじゃねえか!{1a}あれが本当に神サマの使いなのか?\n本当にそう思ってるのか?{0c:020101}",
    "raw": null,
-   "en": "{0c:523038}{1c:11}{0b:08}【 Pasca 】{0b:09}\nWhy the hell do we gotta fight each\nother!?{1a}{0c:524048}God? Like hell! Those angels, how are\nthey any different from the monsters\nwe been fightin'!? They just look like\nangels, dammit!{1a}You really think those things are God's\nmessengers? You really think so?{0c:020101}",
+   "en": "{0c:523038}{1c:11}{0b:08}【 Pasca 】{0b:09}\nWhy the hell do we gotta fight\neach other!?{1a}{0c:524048}God? Like hell! Those angels, how are\nthey any different from the monsters\nwe been fightin'!? They just look like\nangels, dammit!{1a}You really think those things are God's\nmessengers? You really think so?{0c:020101}",
    "status": "done",
    "tl": "Why the hell do we gotta fight each other!? // [1]God? Like hell! Those angels, how are they any different from the monsters we been fightin'!? They just look like angels, dammit! // You really think those things are God's messengers? You really think so?"
   },
@@ -1326,7 +1326,7 @@
    "jp": "{0c:523038}{1c:1a}{0b:08}{e080} エレアノール {e081}{0b:09}\nあの{e08e}使達を本当に神の使いだと\n思っているのですか?{1a}アスラ・ファエルは人間の心の中を\n実{e090}に変えてしまう魔{e091}の{e092}・・・{1a}人間の心に{e08e}使と悪魔がいるのなら、\nアスラ・ファエルに{e08e}使と悪魔が\n{e093}れても何ら不思{e094}ではありません。{1a}{0c:524048}ですが、その{e08e}使達が\n聖{e095}に{e096}されているような\n神の使いに思えるでしょうか?{1a}姿に惑わされないで下さい。\n目を閉じ、心で感じて下さい。{0c:020101}",
    "read": "{0c:523038}{1c:1a}{0b:08}【 エレアノール 】{0b:09}\nあの天使達を本当に神の使いだと\n思っているのですか?{1a}アスラ・ファエルは人間の心の中を\n実像に変えてしまう魔法の箱・・・{1a}人間の心に天使と悪魔がいるのなら、\nアスラ・ファエルに天使と悪魔が\n現れても何ら不思議ではありません。{1a}{0c:524048}ですが、その天使達が\n聖書に記されているような\n神の使いに思えるでしょうか?{1a}姿に惑わされないで下さい。\n目を閉じ、心で感じて下さい。{0c:020101}",
    "raw": null,
-   "en": "{0c:523038}{1c:1a}{0b:08}【 Eleanor 】{0b:09}\nDo you truly believe those angels are\nmessengers of God?{1a}Asla Fael is a magic box that turns what\nis in the human heart into reality...{1a}If there are angels and devils in the\nhuman heart, then it is no wonder that\nangels and devils appear in Asla Fael.{1a}{0c:524048}But do those angels seem to you like the\nmessengers of God recorded in the\nScriptures?{1a}Please do not be deceived by their form.\nClose your eyes and feel with your\nheart.{0c:020101}",
+   "en": "{0c:523038}{1c:1a}{0b:08}【 Eleanor 】{0b:09}\nDo you truly believe those angels are\nmessengers of God?{1a}Asla Fael is a magic box that turns what\nis in the human heart into reality...{1a}If there are angels and devils in the\nhuman heart, then it is no wonder that\nangels and devils appear in Asla Fael.{1a}{0c:524048}But do those angels seem to you like the\nmessengers of God recorded in\nthe Scriptures?{1a}Please do not be deceived by their form.\nClose your eyes and feel with\nyour heart.{0c:020101}",
    "status": "done",
    "tl": "Do you truly believe those angels are messengers of God? // Asla Fael is a magic box that turns what is in the human heart into reality... // If there are angels and devils in the human heart, then it is no wonder that angels and devils appear in Asla Fael. // [1]But do those angels seem to you like the messengers of God recorded in the Scriptures? // Please do not be deceived by their form. Close your eyes and feel with your heart."
   },
@@ -1372,7 +1372,7 @@
    "jp": "{0c:523038}{1c:1d}{0b:08}{e080} ノエル {e081}{0b:09}\nあたし達は{e087}道士としてのあなたに\n{e08d}いに来たんじゃないわ。{1a}仲間としてのあなたに、\n素顔のあなたに{e08d}いに来たのよ。{1a}それでも{e087}道士として\nあたし達に接するなら、\n{e0a1}に{e0a2}ねるわ。{1a}アノイア{e09d}の誕生後950{e0a4}目まで、\n邪{e09d}的であるとしてその存{e09a}を\n否定されていた『{e08e}使』が\n神の意志を{e0a7}弁しているというの?{1a}{0c:524048}{e0a9}に{e08e}使がこの世{e0aa}にいたとして、\nあなたは本当に\nあの{e08e}使の姿をした魔物を\n神の使いだと思ってるの?{0c:020101}",
    "read": "{0c:523038}{1c:1d}{0b:08}【 ノエル 】{0b:09}\nあたし達は修道士としてのあなたに\n会いに来たんじゃないわ。{1a}仲間としてのあなたに、\n素顔のあなたに会いに来たのよ。{1a}それでも修道士として\nあたし達に接するなら、\n逆に尋ねるわ。{1a}アノイア教の誕生後950年目まで、\n邪教的であるとしてその存在を\n否定されていた『天使』が\n神の意志を代弁しているというの?{1a}{0c:524048}仮に天使がこの世界にいたとして、\nあなたは本当に\nあの天使の姿をした魔物を\n神の使いだと思ってるの?{0c:020101}",
    "raw": null,
-   "en": "{0c:523038}{1c:1d}{0b:08}【 Noel 】{0b:09}\nWe didn't come to see you the monk.{1a}We came to see you the friend, the real\nyou.{1a}If you still insist on dealing with us as a\nmonk, then I'll ask you in return.{1a}Until 950 years after the birth of the\nAnoian faith, 'angels' were denied as\nheretical. And those are what speak for\nGod's will?{1a}{0c:524048}Even supposing angels do exist in this\nworld, do you truly think those monsters\nin angels' shape are God's messengers?{0c:020101}",
+   "en": "{0c:523038}{1c:1d}{0b:08}【 Noel 】{0b:09}\nWe didn't come to see you the monk.{1a}We came to see you the friend, the\nreal you.{1a}If you still insist on dealing with us as a\nmonk, then I'll ask you in return.{1a}Until 950 years after the birth of the\nAnoian faith, 'angels' were denied as\nheretical. And those are what speak for\nGod's will?{1a}{0c:524048}Even supposing angels do exist in this\nworld, do you truly think those monsters\nin angels' shape are God's messengers?{0c:020101}",
    "status": "done",
    "tl": "We didn't come to see you the monk. // We came to see you the friend, the real you. // If you still insist on dealing with us as a monk, then I'll ask you in return. // Until 950 years after the birth of the Anoian faith, 'angels' were denied as heretical. And those are what speak for God's will? // [1]Even supposing angels do exist in this world, do you truly think those monsters in angels' shape are God's messengers?"
   },
@@ -1418,7 +1418,7 @@
    "jp": "{0c:523038}{1c:26}{0b:08}{e080} イヴ {e081}{0b:09}\n戦わなければならない・・・?\nそれ、誰かに頼まれたの?{1a}聖{e095}に{e095}かれてるからなんて\n言わないでね。{1a}あんな大昔に{e095}かれた\n訳の分からない本のせいで\n殺されるなんてあたしは御免だわ。{1a}{0c:524048}それに、人の命って\nそれなりに重たいモノだって\nあなたなら答えると\n思ってたんだけど・・・{1a}あたしの勘違いだったわけね。{0c:fe}",
    "read": "{0c:523038}{1c:26}{0b:08}【 イヴ 】{0b:09}\n戦わなければならない・・・?\nそれ、誰かに頼まれたの?{1a}聖書に書かれてるからなんて\n言わないでね。{1a}あんな大昔に書かれた\n訳の分からない本のせいで\n殺されるなんてあたしは御免だわ。{1a}{0c:524048}それに、人の命って\nそれなりに重たいモノだって\nあなたなら答えると\n思ってたんだけど・・・{1a}あたしの勘違いだったわけね。{0c:fe}",
    "raw": null,
-   "en": "{0c:523038}{1c:26}{0b:08}【 Eve 】{0b:09}\nYou must fight...? Did someone ask you\nto, then?{1a}And don't tell me it's because it's\nwritten in the Scriptures, dear.{1a}I'd rather not be killed over some\nincomprehensible book written ages ago.{1a}{0c:524048}Besides, I thought you'd be the one to\nsay a person's life carries a certain\nweight...{1a}I was mistaken, it seems.{0c:fe}",
+   "en": "{0c:523038}{1c:26}{0b:08}【 Eve 】{0b:09}\nYou must fight...? Did someone ask you\nto, then?{1a}And don't tell me it's because it's\nwritten in the Scriptures, dear.{1a}I'd rather not be killed over some\nincomprehensible book written ages ago.{1a}{0c:524048}Besides, I thought you'd be the one to\nsay a person's life carries a\ncertain weight...{1a}I was mistaken, it seems.{0c:fe}",
    "status": "done",
    "tl": "You must fight...? Did someone ask you to, then? // And don't tell me it's because it's written in the Scriptures, dear. // I'd rather not be killed over some incomprehensible book written ages ago. // [1]Besides, I thought you'd be the one to say a person's life carries a certain weight... // I was mistaken, it seems."
   },
@@ -1809,7 +1809,7 @@
    "jp": "{0c:525058}{1c:12}{0b:08}{e080} シャルン {e081}{0b:09}\n本当にそれが\nあなた自身の望んでる世{e0aa}なの?{1a}聖{e095}なんて関係ない、\n自分の頭で考えてみて。{1a}{0c:526068}あたし達と一緒にいた時、\nつらい思いもいっぱいしたけど\n楽しい事もたくさんあったじゃない。{1a}もうこんな思い出は\nつくれなくなるかもしれないんだよ。\n本当にそれでいいの?{0c:021a01}",
    "read": "{0c:525058}{1c:12}{0b:08}【 シャルン 】{0b:09}\n本当にそれが\nあなた自身の望んでる世界なの?{1a}聖書なんて関係ない、\n自分の頭で考えてみて。{1a}{0c:526068}あたし達と一緒にいた時、\nつらい思いもいっぱいしたけど\n楽しい事もたくさんあったじゃない。{1a}もうこんな思い出は\nつくれなくなるかもしれないんだよ。\n本当にそれでいいの?{0c:021a01}",
    "raw": null,
-   "en": "{0c:525058}{1c:12}{0b:08}【 Scharn 】{0b:09}\nIs that really the world you want for\nyourself?{1a}Forget the Scriptures! Think it through\nwith your own head!{1a}{0c:526068}When you were with us, there were lots\nof hard times, but lots of fun times too,\nweren't there!{1a}You might never make memories like\nthose again, you know! Are you really\nokay with that?{0c:021a01}",
+   "en": "{0c:525058}{1c:12}{0b:08}【 Scharn 】{0b:09}\nIs that really the world you want\nfor yourself?{1a}Forget the Scriptures! Think it through\nwith your own head!{1a}{0c:526068}When you were with us, there were lots\nof hard times, but lots of fun times too,\nweren't there!{1a}You might never make memories like\nthose again, you know! Are you really\nokay with that?{0c:021a01}",
    "status": "done",
    "tl": "Is that really the world you want for yourself? // Forget the Scriptures! Think it through with your own head! // [1]When you were with us, there were lots of hard times, but lots of fun times too, weren't there! // You might never make memories like those again, you know! Are you really okay with that?"
   },
@@ -1832,7 +1832,7 @@
    "jp": "{0c:525058}{1c:11}{0b:08}{e080} パスカ {e081}{0b:09}\n本当にそれが\nお前の望んでる世{e0aa}なのか?{1a}聖{e095}なんて関係ない、\n自分の頭で考えてみろよ。{1a}{0c:526068}オレ達と一緒にいたとき、\nつらい思いもいっぱいしたけど\n楽しい事も沢{e0b7}あったじゃねえか。{1a}もうそういう思い出は\nつくれなくなるかもしれねえんだぜ。\nそれで本当にいいのか!?{0c:021801}",
    "read": "{0c:525058}{1c:11}{0b:08}【 パスカ 】{0b:09}\n本当にそれが\nお前の望んでる世界なのか?{1a}聖書なんて関係ない、\n自分の頭で考えてみろよ。{1a}{0c:526068}オレ達と一緒にいたとき、\nつらい思いもいっぱいしたけど\n楽しい事も沢山あったじゃねえか。{1a}もうそういう思い出は\nつくれなくなるかもしれねえんだぜ。\nそれで本当にいいのか!?{0c:021801}",
    "raw": null,
-   "en": "{0c:525058}{1c:11}{0b:08}【 Pasca 】{0b:09}\nThat really the world you want?{1a}Scriptures got nothin' to do with it. Use\nyour own head, dammit.{1a}{0c:526068}When you were with us, there were\nplenty of rough times, but plenty of\ngood ones too, weren't there?{1a}Ya might never make memories like that\nagain, ya know. You really okay with\nthat!?{0c:021801}",
+   "en": "{0c:525058}{1c:11}{0b:08}【 Pasca 】{0b:09}\nThat really the world you want?{1a}Scriptures got nothin' to do with it. Use\nyour own head, dammit.{1a}{0c:526068}When you were with us, there were\nplenty of rough times, but plenty of\ngood ones too, weren't there?{1a}Ya might never make memories like that\nagain, ya know. You really okay\nwith that!?{0c:021801}",
    "status": "done",
    "tl": "That really the world you want? // Scriptures got nothin' to do with it. Use your own head, dammit. // [1]When you were with us, there were plenty of rough times, but plenty of good ones too, weren't there? // Ya might never make memories like that again, ya know. You really okay with that!?"
   },
@@ -1855,7 +1855,7 @@
    "jp": "{0c:525058}{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\nルカ、本当にそれは\n君自身が望んでる世{e0aa}なのか?{1a}聖{e095}なんて関係ない、\n自分の頭で考えてみてくれ。{1a}{0c:526068}確かに{e0b8}いことも多かったけど、\n楽しいことも沢{e0b7}あったじゃないか。{1a}そういった1つ1つの思い出も\nもう{e0b9}れなくなるんだぞ。\nそんなの寂しいじゃないか!{0c:021601}",
    "read": "{0c:525058}{1c:13}{0b:08}【 アーサー 】{0b:09}\nルカ、本当にそれは\n君自身が望んでる世界なのか?{1a}聖書なんて関係ない、\n自分の頭で考えてみてくれ。{1a}{0c:526068}確かに辛いことも多かったけど、\n楽しいことも沢山あったじゃないか。{1a}そういった1つ1つの思い出も\nもう作れなくなるんだぞ。\nそんなの寂しいじゃないか!{0c:021601}",
    "raw": null,
-   "en": "{0c:525058}{1c:13}{0b:08}【 Arthur 】{0b:09}\nLuca, is that truly the world you want?{1a}Forget the Scriptures. Please, think for\nyourself.{1a}{0c:526068}There were certainly many hard times,\nbut there were many good times too!{1a}You would never be able to make\nmemories like those again. Isn't that\nlonely!?{0c:021601}",
+   "en": "{0c:525058}{1c:13}{0b:08}【 Arthur 】{0b:09}\nLuca, is that truly the world you want?{1a}Forget the Scriptures. Please, think\nfor yourself.{1a}{0c:526068}There were certainly many hard times,\nbut there were many good times too!{1a}You would never be able to make\nmemories like those again. Isn't\nthat lonely!?{0c:021601}",
    "status": "done",
    "tl": "Luca, is that truly the world you want? // Forget the Scriptures. Please, think for yourself. // [1]There were certainly many hard times, but there were many good times too! // You would never be able to make memories like those again. Isn't that lonely!?"
   },
@@ -1878,7 +1878,7 @@
    "jp": "{0c:525058}ルカ、本当にそれが\nあなたの望んでる世{e0aa}なの?\n聖{e095}なんて関係ない、\n自分の頭で考えてみてよ。{1a}つらい思いもいっぱいしたけど\n楽しい事もたくさんあったじゃない。{1a}{0c:526068}もうこんな思い出は\nつくれなくなるかもしれないんだよ。\n本当にそれでいいの?{0c:021401}",
    "read": "{0c:525058}ルカ、本当にそれが\nあなたの望んでる世界なの?\n聖書なんて関係ない、\n自分の頭で考えてみてよ。{1a}つらい思いもいっぱいしたけど\n楽しい事もたくさんあったじゃない。{1a}{0c:526068}もうこんな思い出は\nつくれなくなるかもしれないんだよ。\n本当にそれでいいの?{0c:021401}",
    "raw": null,
-   "en": "{0c:525058}Luca, is that really the world you want?\nForget the Scriptures, think it through\nfor yourself.{1a}There were lots of hard times, but lots\nof fun times too, weren't there.{1a}{0c:526068}You might never make memories like\nthose again. Are you really okay with\nthat?{0c:021401}",
+   "en": "{0c:525058}Luca, is that really the world you want?\nForget the Scriptures, think it through\nfor yourself.{1a}There were lots of hard times, but lots\nof fun times too, weren't there.{1a}{0c:526068}You might never make memories like\nthose again. Are you really okay\nwith that?{0c:021401}",
    "status": "done",
    "tl": "Luca, is that really the world you want? Forget the Scriptures, think it through for yourself. // There were lots of hard times, but lots of fun times too, weren't there. // [1]You might never make memories like those again. Are you really okay with that?"
   },
@@ -1901,7 +1901,7 @@
    "jp": "{0c:525058}ルカ、本当にそれが\nあなたの望んでる世{e0aa}なの?\n聖{e095}なんて関係ない、\n自分の頭で考えてみて。{1a}つらい思いもいっぱいしたけど\n楽しい事もたくさんあったよね。{1a}{0c:526068}もうこんな思い出は\nつくれなくなるかもしれないんだよ。\n本当にそれでいいの?{0c:021201}",
    "read": "{0c:525058}ルカ、本当にそれが\nあなたの望んでる世界なの?\n聖書なんて関係ない、\n自分の頭で考えてみて。{1a}つらい思いもいっぱいしたけど\n楽しい事もたくさんあったよね。{1a}{0c:526068}もうこんな思い出は\nつくれなくなるかもしれないんだよ。\n本当にそれでいいの?{0c:021201}",
    "raw": null,
-   "en": "{0c:525058}Luca, is that really the world you want?\nForget the Scriptures, think it through\nfor yourself.{1a}There were lots of hard times, but lots\nof fun times too, right?{1a}{0c:526068}You might never make memories like\nthose again. Are you really okay with\nthat?{0c:021201}",
+   "en": "{0c:525058}Luca, is that really the world you want?\nForget the Scriptures, think it through\nfor yourself.{1a}There were lots of hard times, but lots\nof fun times too, right?{1a}{0c:526068}You might never make memories like\nthose again. Are you really okay\nwith that?{0c:021201}",
    "status": "done",
    "tl": "Luca, is that really the world you want? Forget the Scriptures, think it through for yourself. // There were lots of hard times, but lots of fun times too, right? // [1]You might never make memories like those again. Are you really okay with that?"
   },
@@ -1924,7 +1924,7 @@
    "jp": "{0c:525058}{1c:15}{0b:08}{e080} ジェシカ {e081}{0b:09}\nねえルカ、本気でそんな世{e0aa}が\nいいなんて思ってるの?{1a}聖{e095}なんて関係ないよ、\n自分の頭で考えてみなよ。{1a}{0c:526068}あたしはやだよ、そんな世{e0aa}。\nつらいときがあるからこそ、\n楽しいときに笑えるんじゃない。{1a}ルカってさ、今まで生きてきて\nつらい思い出しかなかったの?\n楽しい思い出なかったの?{1a}あたしはみんなと出逢えて\n本当によかったって思ってるよ。\nルカは面白くなかったの?{0c:021001}",
    "read": "{0c:525058}{1c:15}{0b:08}【 ジェシカ 】{0b:09}\nねえルカ、本気でそんな世界が\nいいなんて思ってるの?{1a}聖書なんて関係ないよ、\n自分の頭で考えてみなよ。{1a}{0c:526068}あたしはやだよ、そんな世界。\nつらいときがあるからこそ、\n楽しいときに笑えるんじゃない。{1a}ルカってさ、今まで生きてきて\nつらい思い出しかなかったの?\n楽しい思い出なかったの?{1a}あたしはみんなと出逢えて\n本当によかったって思ってるよ。\nルカは面白くなかったの?{0c:021001}",
    "raw": null,
-   "en": "{0c:525058}{1c:15}{0b:08}【 Jessica 】{0b:09}\nHey, Luca, you seriously think a world like\nthat sounds good?{1a}Forget the Scriptures, think for\nyourself!{1a}{0c:526068}I sure don't want that kind of world. It's\nbecause there are hard times that you\ncan laugh in the good ones, you know?{1a}Geez, Luca, your whole life so far, you've\nonly had bad memories? No good ones at\nall?{1a}Me, I'm really glad I met everyone. Luca,\nweren't you having any fun?{0c:021001}",
+   "en": "{0c:525058}{1c:15}{0b:08}【 Jessica 】{0b:09}\nHey, Luca, you seriously think a world like\nthat sounds good?{1a}Forget the Scriptures, think\nfor yourself!{1a}{0c:526068}I sure don't want that kind of world. It's\nbecause there are hard times that you\ncan laugh in the good ones, you know?{1a}Geez, Luca, your whole life so far, you've\nonly had bad memories? No good ones\nat all?{1a}Me, I'm really glad I met everyone. Luca,\nweren't you having any fun?{0c:021001}",
    "status": "done",
    "tl": "Hey, Luca, you seriously think a world like that sounds good? // Forget the Scriptures, think for yourself! // [1]I sure don't want that kind of world. It's because there are hard times that you can laugh in the good ones, you know? // Geez, Luca, your whole life so far, you've only had bad memories? No good ones at all? // Me, I'm really glad I met everyone. Luca, weren't you having any fun?"
   },
@@ -1947,7 +1947,7 @@
    "jp": "{0c:525058}{1c:1a}{0b:08}{e080} エレアノール {e081}{0b:09}\n本当にそう思っているのですか?\n聖{e095}は関係ありません、\n自分の心に問い{e0bb}けて下さい。{1a}確かに、人が生きるということは\n苦しい事の方が多いかもしれません。{1a}ですが、だからこそ幸せな時を\nより強く心に刻めるのでは\nないのでしょうか・・・{1a}大罪を犯し、祖{e0bf}を{e0c0}われ、\n生きる気力を失っていたこの私に\n力を{e098}えてくれたのは、\nここで出逢った13人の仲間達です。{1a}{0c:526068}私は仲間達との思い出を\n一生忘れないでしょう。{1a}ですが、思念だけの世{e0aa}で\nこのような思い出を\n刻むことが出来るのでしょうか?{1a}そんなものがあなたの望む\n世{e0aa}なのですか?{0c:020e01}",
    "read": "{0c:525058}{1c:1a}{0b:08}【 エレアノール 】{0b:09}\n本当にそう思っているのですか?\n聖書は関係ありません、\n自分の心に問い掛けて下さい。{1a}確かに、人が生きるということは\n苦しい事の方が多いかもしれません。{1a}ですが、だからこそ幸せな時を\nより強く心に刻めるのでは\nないのでしょうか・・・{1a}大罪を犯し、祖国を追われ、\n生きる気力を失っていたこの私に\n力を与えてくれたのは、\nここで出逢った13人の仲間達です。{1a}{0c:526068}私は仲間達との思い出を\n一生忘れないでしょう。{1a}ですが、思念だけの世界で\nこのような思い出を\n刻むことが出来るのでしょうか?{1a}そんなものがあなたの望む\n世界なのですか?{0c:020e01}",
    "raw": null,
-   "en": "{0c:525058}{1c:1a}{0b:08}【 Eleanor 】{0b:09}\nDo you truly think so? The Scriptures\ndo not matter; please, ask your own\nheart.{1a}It may be true that to live is mostly to\nsuffer.{1a}Yet is that not exactly why moments of\nhappiness are carved all the more deeply\ninto the heart...?{1a}I committed a grave sin, was driven from\nmy homeland, and had lost the will to live.\nThe ones who gave me strength were\nthe thirteen companions I met here.{1a}{0c:526068}I shall never forget my memories of\nthose companions.{1a}But in a world of nothing but\nthought-forms, can such memories ever\nbe carved?{1a}Is that truly the world you desire?{0c:020e01}",
+   "en": "{0c:525058}{1c:1a}{0b:08}【 Eleanor 】{0b:09}\nDo you truly think so? The Scriptures\ndo not matter; please, ask your\nown heart.{1a}It may be true that to live is mostly\nto suffer.{1a}Yet is that not exactly why moments of\nhappiness are carved all the more deeply\ninto the heart...?{1a}I committed a grave sin, was driven from\nmy homeland, and had lost the will to live.\nThe ones who gave me strength were\nthe thirteen companions I met here.{1a}{0c:526068}I shall never forget my memories of\nthose companions.{1a}But in a world of nothing but\nthought-forms, can such memories ever\nbe carved?{1a}Is that truly the world you desire?{0c:020e01}",
    "status": "done",
    "tl": "Do you truly think so? The Scriptures do not matter; please, ask your own heart. // It may be true that to live is mostly to suffer. // Yet is that not exactly why moments of happiness are carved all the more deeply into the heart...? // I committed a grave sin, was driven from my homeland, and had lost the will to live. The ones who gave me strength were the thirteen companions I met here. // [1]I shall never forget my memories of those companions. // But in a world of nothing but thought-forms, can such memories ever be carved? // Is that truly the world you desire?"
   },
@@ -1970,7 +1970,7 @@
    "jp": "{0c:525058}{1c:18}{0b:08}{e080} サラ {e081}{0b:09}\n本当にそれがルカさんの\n望んでる世{e0aa}なの?{1a}聖{e095}なんて関係ないよ、\nルカさん自身はどう思ってるの?{1a}{0c:526068}つらい思いもいっぱいしたけど\n楽しい事もたくさんあったよね。{1a}もうこんな思い出は\nつくれなくなるかもしれないんだよ。\n本当にそれでいいの?{0c:020c01}",
    "read": "{0c:525058}{1c:18}{0b:08}【 サラ 】{0b:09}\n本当にそれがルカさんの\n望んでる世界なの?{1a}聖書なんて関係ないよ、\nルカさん自身はどう思ってるの?{1a}{0c:526068}つらい思いもいっぱいしたけど\n楽しい事もたくさんあったよね。{1a}もうこんな思い出は\nつくれなくなるかもしれないんだよ。\n本当にそれでいいの?{0c:020c01}",
    "raw": null,
-   "en": "{0c:525058}{1c:18}{0b:08}【 Sara 】{0b:09}\nIs that really the world you want,\nLuca-san?{1a}Forget the Scriptures. What do you\nthink, Luca-san?{1a}{0c:526068}There were lots of hard times, but lots\nof fun times too, right?{1a}You might never make memories like\nthose again. Are you really okay with\nthat?{0c:020c01}",
+   "en": "{0c:525058}{1c:18}{0b:08}【 Sara 】{0b:09}\nIs that really the world you\nwant, Luca-san?{1a}Forget the Scriptures. What do you\nthink, Luca-san?{1a}{0c:526068}There were lots of hard times, but lots\nof fun times too, right?{1a}You might never make memories like\nthose again. Are you really okay\nwith that?{0c:020c01}",
    "status": "done",
    "tl": "Is that really the world you want, Luca-san? // Forget the Scriptures. What do you think, Luca-san? // [1]There were lots of hard times, but lots of fun times too, right? // You might never make memories like those again. Are you really okay with that?"
   },
@@ -1993,7 +1993,7 @@
    "jp": "{0c:525058}{1c:1d}{0b:08}{e080} ノエル {e081}{0b:09}\n本当にそれが\nあなたの望んでいる世{e0aa}なの?{1a}聖{e095}なんて関係ないわ。\n自分の頭で考えてみて。{1a}本の知識しか知らない\n人生経験の乏しいあたしが\n言っても{e085}得力はないけど、{1a}悩みや苦しみは生きている限り\n当たり前のことじゃないの?{1a}それに、悩みや苦しみがあるからこそ\n人は他人の事を考えるのでしょうし、\n幸せとか楽しいとかいった肯定的な\n感情も生まれるのだと思うわ。{1a}{0c:526068}思念だけの世{e0aa}では、\nこんな当たり前の感情すら\n許されないのかもしれないのよ。{1a}本当にそれでいいの?\nあなたは{10}達から\n何も学ばなかったの?{0c:020a01}",
    "read": "{0c:525058}{1c:1d}{0b:08}【 ノエル 】{0b:09}\n本当にそれが\nあなたの望んでいる世界なの?{1a}聖書なんて関係ないわ。\n自分の頭で考えてみて。{1a}本の知識しか知らない\n人生経験の乏しいあたしが\n言っても説得力はないけど、{1a}悩みや苦しみは生きている限り\n当たり前のことじゃないの?{1a}それに、悩みや苦しみがあるからこそ\n人は他人の事を考えるのでしょうし、\n幸せとか楽しいとかいった肯定的な\n感情も生まれるのだと思うわ。{1a}{0c:526068}思念だけの世界では、\nこんな当たり前の感情すら\n許されないのかもしれないのよ。{1a}本当にそれでいいの?\nあなたは{10}達から\n何も学ばなかったの?{0c:020a01}",
    "raw": null,
-   "en": "{0c:525058}{1c:1d}{0b:08}【 Noel 】{0b:09}\nIs that really the world you want?{1a}The Scriptures don't matter. Think it\nthrough for yourself.{1a}Coming from me, with nothing but book\nlearning and so little experience of life,\nthis won't carry much weight, but{1a}aren't worries and suffering only natural\nfor as long as you're alive?{1a}What's more, it's because of worries and\nsuffering that people think of others,\nand that positive feelings like happiness\nand joy are born, I think.{1a}{0c:526068}In a world of nothing but thought-forms,\neven such natural feelings may not be\nallowed.{1a}Are you really okay with that? Have you\nlearned nothing from {10} and the\nothers?{0c:020a01}",
+   "en": "{0c:525058}{1c:1d}{0b:08}【 Noel 】{0b:09}\nIs that really the world you want?{1a}The Scriptures don't matter. Think it\nthrough for yourself.{1a}Coming from me, with nothing but book\nlearning and so little experience of life,\nthis won't carry much weight, but{1a}aren't worries and suffering only natural\nfor as long as you're alive?{1a}What's more, it's because of worries and\nsuffering that people think of others,\nand that positive feelings like happiness\nand joy are born, I think.{1a}{0c:526068}In a world of nothing but thought-forms,\neven such natural feelings may not\nbe allowed.{1a}Are you really okay with that? Have you\nlearned nothing from {10} and\nthe others?{0c:020a01}",
    "status": "done",
    "tl": "Is that really the world you want? // The Scriptures don't matter. Think it through for yourself. // Coming from me, with nothing but book learning and so little experience of life, this won't carry much weight, but // aren't worries and suffering only natural for as long as you're alive? // What's more, it's because of worries and suffering that people think of others, and that positive feelings like happiness and joy are born, I think. // [1]In a world of nothing but thought-forms, even such natural feelings may not be allowed. // Are you really okay with that? Have you learned nothing from [HERO] and the others?"
   },
@@ -2016,7 +2016,7 @@
    "jp": "{0c:525058}{1c:1c}{0b:08}{e080} アッシュ {e081}{0b:09}\nルカ、本当にそう思ってるのか?\n聖{e095}なんて関係ない、\n自分の頭で考えてみろよ。{1a}{0c:526068}確かにつらいことも多かったけど、\n楽しいこともいっぱい\nあったじゃないか。\nルカはそんなにいやだったのか?{0c:020801}",
    "read": "{0c:525058}{1c:1c}{0b:08}【 アッシュ 】{0b:09}\nルカ、本当にそう思ってるのか?\n聖書なんて関係ない、\n自分の頭で考えてみろよ。{1a}{0c:526068}確かにつらいことも多かったけど、\n楽しいこともいっぱい\nあったじゃないか。\nルカはそんなにいやだったのか?{0c:020801}",
    "raw": null,
-   "en": "{0c:525058}{1c:1c}{0b:08}【 Ash 】{0b:09}\nLuca, do you really think so? Forget the\nScriptures, think for yourself.{1a}{0c:526068}Sure, there were plenty of hard times,\nbut there was lots of good stuff too,\ny'know. Did you really hate it that much,\nLuca?{0c:020801}",
+   "en": "{0c:525058}{1c:1c}{0b:08}【 Ash 】{0b:09}\nLuca, do you really think so? Forget the\nScriptures, think for yourself.{1a}{0c:526068}Sure, there were plenty of hard times,\nbut there was lots of good stuff too,\ny'know. Did you really hate it that\nmuch, Luca?{0c:020801}",
    "status": "done",
    "tl": "Luca, do you really think so? Forget the Scriptures, think for yourself. // [1]Sure, there were plenty of hard times, but there was lots of good stuff too, y'know. Did you really hate it that much, Luca?"
   },
@@ -2039,7 +2039,7 @@
    "jp": "{0c:525058}ルカ・・・本当にそれでいいのか?\n聖{e095}など関係ない、\nお前自身はどう思っているのだ?{1a}{0c:526068}俺は皆と出逢えて本当によかった。\n過去に悩まされ続けていた\n自分の弱さを{e09d}えてもらった。{1a}{e0c6}に悩み、そして強くなる・・・\nそのような経験も出来ない\n神の{e0bf}ならば俺は否定する。\nお前はどうなのだ・・・?{0c:020601}",
    "read": "{0c:525058}ルカ・・・本当にそれでいいのか?\n聖書など関係ない、\nお前自身はどう思っているのだ?{1a}{0c:526068}俺は皆と出逢えて本当によかった。\n過去に悩まされ続けていた\n自分の弱さを教えてもらった。{1a}共に悩み、そして強くなる・・・\nそのような経験も出来ない\n神の国ならば俺は否定する。\nお前はどうなのだ・・・?{0c:020601}",
    "raw": null,
-   "en": "{0c:525058}Luca... Are you truly content with that?\nThe Scriptures are of no matter. What\ndo you yourself think?{1a}{0c:526068}I am truly glad to have met them all.\nThey taught me the weakness of a self\nforever tormented by its past.{1a}To agonize together, and so grow\nstrong... If the kingdom of God does not\npermit even that, I reject it. What of\nyou...?{0c:020601}",
+   "en": "{0c:525058}Luca... Are you truly content with that?\nThe Scriptures are of no matter. What\ndo you yourself think?{1a}{0c:526068}I am truly glad to have met them all.\nThey taught me the weakness of a self\nforever tormented by its past.{1a}To agonize together, and so grow\nstrong... If the kingdom of God does not\npermit even that, I reject it. What\nof you...?{0c:020601}",
    "status": "done",
    "tl": "Luca... Are you truly content with that? The Scriptures are of no matter. What do you yourself think? // [1]I am truly glad to have met them all. They taught me the weakness of a self forever tormented by its past. // To agonize together, and so grow strong... If the kingdom of God does not permit even that, I reject it. What of you...?"
   },
@@ -2119,7 +2119,7 @@
    "jp": "{0c:52aab2}{1c:21}{0b:08}{e080} {03}ルカ {e081}{0b:09}\n{02}わたしも・・・{1a}わたしも皆さんと出逢えて\nほんとうに楽しかったです・・・\nでも・・・{1a}{0c:5102}でも、{01}17{e0a4}間{02}、神のために\n生きてきました・・・\nいまさら他の生き方なんて\n出来ません・・・{0c:fe}",
    "read": "{0c:52aab2}{1c:21}{0b:08}【 {03}ルカ 】{0b:09}\n{02}わたしも・・・{1a}わたしも皆さんと出逢えて\nほんとうに楽しかったです・・・\nでも・・・{1a}{0c:5102}でも、{01}17年間{02}、神のために\n生きてきました・・・\nいまさら他の生き方なんて\n出来ません・・・{0c:fe}",
    "raw": null,
-   "en": "{0c:52aab2}{1c:21}{0b:08}【 Luca 】{0b:09}\nI...{1a}I, too, truly enjoyed meeting all of you...\nBut...{1a}{0c:5102}But for seventeen years, I have lived for\nGod... I cannot live any other way now...{0c:fe}",
+   "en": "{0c:52aab2}{1c:21}{0b:08}【 Luca 】{0b:09}\nI...{1a}I, too, truly enjoyed meeting all of\nyou... But...{1a}{0c:5102}But for seventeen years, I have lived for\nGod... I cannot live any other way now...{0c:fe}",
    "status": "done",
    "tl": "I... // I, too, truly enjoyed meeting all of you... But... // [1]But for seventeen years, I have lived for God... I cannot live any other way now..."
   },
@@ -2142,7 +2142,7 @@
    "jp": "{1c:15}{0b:08}{e080} ジェシカ {e081}{0b:09}\nなによ、爺さんじゃあるまいし。\n{0c:52b0b8}やり直せばいいじゃん。\nあたし達まだまだ若いんだからさ。{0c:021901}",
    "read": "{1c:15}{0b:08}【 ジェシカ 】{0b:09}\nなによ、爺さんじゃあるまいし。\n{0c:52b0b8}やり直せばいいじゃん。\nあたし達まだまだ若いんだからさ。{0c:021901}",
    "raw": null,
-   "en": "{1c:15}{0b:08}【 Jessica 】{0b:09}\nGeez, you sound like some old geezer. {0c:52b0b8}So\njust start over! We're still young, you\nknow!{0c:021901}",
+   "en": "{1c:15}{0b:08}【 Jessica 】{0b:09}\nGeez, you sound like some old geezer. {0c:52b0b8}So\njust start over! We're still young,\nyou know!{0c:021901}",
    "status": "done",
    "tl": "Geez, you sound like some old geezer. [1]So just start over! We're still young, you know!"
   },
@@ -2395,7 +2395,7 @@
    "jp": "{0c:52b0b8}{0b:08}{e080} オルフェウス {e081}{0b:09}\nあまり人のことは言えませんけど、\nつまらない生き方ですね・・・\nやり直せばいいじゃないですか。{0c:020301}",
    "read": "{0c:52b0b8}{0b:08}【 オルフェウス 】{0b:09}\nあまり人のことは言えませんけど、\nつまらない生き方ですね・・・\nやり直せばいいじゃないですか。{0c:020301}",
    "raw": null,
-   "en": "{0c:52b0b8}{0b:08}【 Orpheus 】{0b:09}\nI'm hardly one to talk, but what a dull\nway to live... So start over, why don't\nyou?{0c:020301}",
+   "en": "{0c:52b0b8}{0b:08}【 Orpheus 】{0b:09}\nI'm hardly one to talk, but what a dull\nway to live... So start over, why\ndon't you?{0c:020301}",
    "status": "done",
    "tl": "I'm hardly one to talk, but what a dull way to live... So start over, why don't you?"
   },
@@ -2487,7 +2487,7 @@
    "jp": "{1c:12}{0b:08}{e080} シャルン {e081}{0b:09}\n聖{e095}を見ながらじゃないと\n何も考えられないの?\n1人で考えるのが怖いの?{1a}{0c:528088}大丈夫だよ。\nルカは自分が思ってるより強いよ。{1a}{0c:52c0c8}それでもまだ{e0b8}い時があったら\nあたし達を頼ってよ。\nそのために仲間がいるんじゃない。{0c:020101}",
    "read": "{1c:12}{0b:08}【 シャルン 】{0b:09}\n聖書を見ながらじゃないと\n何も考えられないの?\n1人で考えるのが怖いの?{1a}{0c:528088}大丈夫だよ。\nルカは自分が思ってるより強いよ。{1a}{0c:52c0c8}それでもまだ辛い時があったら\nあたし達を頼ってよ。\nそのために仲間がいるんじゃない。{0c:020101}",
    "raw": null,
-   "en": "{1c:12}{0b:08}【 Scharn 】{0b:09}\nCan't you think of anything without the\nScriptures in front of you? Are you\nscared to think on your own?{1a}{0c:528088}It's okay! You're stronger than you\nthink, Luca!{1a}{0c:52c0c8}And if it's still hard sometimes, you can\nlean on us! That's what friends are for,\nright?{0c:020101}",
+   "en": "{1c:12}{0b:08}【 Scharn 】{0b:09}\nCan't you think of anything without the\nScriptures in front of you? Are you\nscared to think on your own?{1a}{0c:528088}It's okay! You're stronger than you\nthink, Luca!{1a}{0c:52c0c8}And if it's still hard sometimes, you can\nlean on us! That's what friends are\nfor, right?{0c:020101}",
    "status": "done",
    "tl": "Can't you think of anything without the Scriptures in front of you? Are you scared to think on your own? // [1]It's okay! You're stronger than you think, Luca! // [2]And if it's still hard sometimes, you can lean on us! That's what friends are for, right?"
   },
@@ -2533,7 +2533,7 @@
    "jp": "{0c:528088}{1c:1c}{0b:08}{e080} アッシュ {e081}{0b:09}\nおれ、バカだからさ、\nなんて言ったらいいのか\nわからないけど、{1a}{0c:52c0c8}ルカなら大丈夫だよ。\nルカ強いもん。{0c:020101}",
    "read": "{0c:528088}{1c:1c}{0b:08}【 アッシュ 】{0b:09}\nおれ、バカだからさ、\nなんて言ったらいいのか\nわからないけど、{1a}{0c:52c0c8}ルカなら大丈夫だよ。\nルカ強いもん。{0c:020101}",
    "raw": null,
-   "en": "{0c:528088}{1c:1c}{0b:08}【 Ash 】{0b:09}\nI'm kind of dumb, so I don't know how to\nsay this, but{1a}{0c:52c0c8}you'll be okay, Luca. You're strong,\ny'know.{0c:020101}",
+   "en": "{0c:528088}{1c:1c}{0b:08}【 Ash 】{0b:09}\nI'm kind of dumb, so I don't know how to\nsay this, but{1a}{0c:52c0c8}you'll be okay, Luca. You're\nstrong, y'know.{0c:020101}",
    "status": "done",
    "tl": "I'm kind of dumb, so I don't know how to say this, but // [1]you'll be okay, Luca. You're strong, y'know."
   },
@@ -2556,7 +2556,7 @@
    "jp": "{0c:528088}{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n僕みたいな世間知らずの人間が\nこんな事を言っても\n{e085}得力はないかもしれない。{1a}{0c:52c0c8}でも、人間は少しずつ\n変わることが出来ると思う。\n頑張って一緒に強くなろう。{0c:020101}",
    "read": "{0c:528088}{1c:13}{0b:08}【 アーサー 】{0b:09}\n僕みたいな世間知らずの人間が\nこんな事を言っても\n説得力はないかもしれない。{1a}{0c:52c0c8}でも、人間は少しずつ\n変わることが出来ると思う。\n頑張って一緒に強くなろう。{0c:020101}",
    "raw": null,
-   "en": "{0c:528088}{1c:13}{0b:08}【 Arthur 】{0b:09}\nComing from someone as naive as me,\nthis may not carry much weight.{1a}{0c:52c0c8}But I believe people can change, little by\nlittle. Let's work hard and grow strong\ntogether.{0c:020101}",
+   "en": "{0c:528088}{1c:13}{0b:08}【 Arthur 】{0b:09}\nComing from someone as naive as me,\nthis may not carry much weight.{1a}{0c:52c0c8}But I believe people can change, little by\nlittle. Let's work hard and grow\nstrong together.{0c:020101}",
    "status": "done",
    "tl": "Coming from someone as naive as me, this may not carry much weight. // [1]But I believe people can change, little by little. Let's work hard and grow strong together."
   },
@@ -2579,7 +2579,7 @@
    "jp": "{1c:1d}{0b:08}{e080} ノエル {e081}{0b:09}\nあたし、あなたに\nすこし{e0c6}感する所がある。{1a}{0c:528088}あたしは17{e0a4}間本に{e0d1}まれて\n友達を{e0b9}らずにいたから\n知識や理屈には自信があるけど、\n自分自身の言{e0b5}をあまり知らないの。{1a}{e087}道{e088}の外の世{e0aa}を\n17{e0a4}間知らずに育った\nあなたと同じね。{1a}だから、古{e0a7}文{e0d3}の解{e0d4}は出来ても、\n仲間が困っている時に\n{e0bb}ける言{e0b5}を知らない・・・{1a}{0c:52c0c8}でも、これじゃあいけないって\n最近痛感してる。\nそれも、この町に来てみんなと\n出{e08d}ったおかげだと思ってるわ。{1a}頑張りましょ、ルカ。\n今からでも遅くないわ。{0c:020101}",
    "read": "{1c:1d}{0b:08}【 ノエル 】{0b:09}\nあたし、あなたに\nすこし共感する所がある。{1a}{0c:528088}あたしは17年間本に囲まれて\n友達を作らずにいたから\n知識や理屈には自信があるけど、\n自分自身の言葉をあまり知らないの。{1a}修道院の外の世界を\n17年間知らずに育った\nあなたと同じね。{1a}だから、古代文字の解析は出来ても、\n仲間が困っている時に\n掛ける言葉を知らない・・・{1a}{0c:52c0c8}でも、これじゃあいけないって\n最近痛感してる。\nそれも、この町に来てみんなと\n出会ったおかげだと思ってるわ。{1a}頑張りましょ、ルカ。\n今からでも遅くないわ。{0c:020101}",
    "raw": null,
-   "en": "{1c:1d}{0b:08}【 Noel 】{0b:09}\nI feel a little sympathy for you.{1a}{0c:528088}For seventeen years I was surrounded\nby books and made no friends, so I have\nconfidence in my knowledge and logic, but\nI hardly know any words of my own.{1a}Just like you, raised for seventeen years\nknowing nothing of the world outside the\nmonastery.{1a}So I can decipher ancient script, but I\ndon't know what to say when a friend is\nin trouble...{1a}{0c:52c0c8}But lately I've come to feel keenly that\nthis won't do. And I think that's thanks\nto coming to this town and meeting\neveryone.{1a}Let's do our best, Luca. It's not too\nlate, even now.{0c:020101}",
+   "en": "{1c:1d}{0b:08}【 Noel 】{0b:09}\nI feel a little sympathy for you.{1a}{0c:528088}For seventeen years I was surrounded\nby books and made no friends, so I have\nconfidence in my knowledge and logic, but\nI hardly know any words of my own.{1a}Just like you, raised for seventeen years\nknowing nothing of the world outside\nthe monastery.{1a}So I can decipher ancient script, but I\ndon't know what to say when a friend is\nin trouble...{1a}{0c:52c0c8}But lately I've come to feel keenly that\nthis won't do. And I think that's thanks\nto coming to this town and\nmeeting everyone.{1a}Let's do our best, Luca. It's not too\nlate, even now.{0c:020101}",
    "status": "done",
    "tl": "I feel a little sympathy for you. // [1]For seventeen years I was surrounded by books and made no friends, so I have confidence in my knowledge and logic, but I hardly know any words of my own. // Just like you, raised for seventeen years knowing nothing of the world outside the monastery. // So I can decipher ancient script, but I don't know what to say when a friend is in trouble... // [2]But lately I've come to feel keenly that this won't do. And I think that's thanks to coming to this town and meeting everyone. // Let's do our best, Luca. It's not too late, even now."
   },
@@ -2602,7 +2602,7 @@
    "jp": "俺も、幼少の頃の悪夢に\nずっと縛られて生きてきた。\n{0c:528088}だが、皆と出逢えて\n自分の弱さを知ることが出来た。{1a}まだ悪夢を克{e0d7}出来たわけではない。\nいや、一生その悪夢に打ち勝つことは\n出来ないかもしれない・・・{1a}{0c:52c0c8}だが、すべきことはわかったつもりだ。\nルカ・・・一緒に強くなろう。{0c:020101}",
    "read": "俺も、幼少の頃の悪夢に\nずっと縛られて生きてきた。\n{0c:528088}だが、皆と出逢えて\n自分の弱さを知ることが出来た。{1a}まだ悪夢を克服出来たわけではない。\nいや、一生その悪夢に打ち勝つことは\n出来ないかもしれない・・・{1a}{0c:52c0c8}だが、すべきことはわかったつもりだ。\nルカ・・・一緒に強くなろう。{0c:020101}",
    "raw": null,
-   "en": "I too have lived bound by a nightmare\nfrom my childhood. {0c:528088}But by meeting\neveryone, I came to know my own\nweakness.{1a}I have not yet overcome that nightmare.\nNo... I may never defeat it in all my life...{1a}{0c:52c0c8}But I believe I know what must be done.\nLuca... let us grow strong together.{0c:020101}",
+   "en": "I too have lived bound by a nightmare\nfrom my childhood. {0c:528088}But by meeting\neveryone, I came to know my\nown weakness.{1a}I have not yet overcome that nightmare.\nNo... I may never defeat it in all my life...{1a}{0c:52c0c8}But I believe I know what must be done.\nLuca... let us grow strong together.{0c:020101}",
    "status": "done",
    "tl": "I too have lived bound by a nightmare from my childhood. [1]But by meeting everyone, I came to know my own weakness. // I have not yet overcome that nightmare. No... I may never defeat it in all my life... // [2]But I believe I know what must be done. Luca... let us grow strong together."
   },
@@ -2625,7 +2625,7 @@
    "jp": "{0c:528088}{1c:16}{0b:08}{e080} ジェシカ {e081}{0b:09}\nあーっっ!!\nめんどくさいなあぁ!{1a}そんなに死にたいなら\n1人で死んじゃえ!{1a}どうしてあんたのこと心配して\n言ってるのに分かってくれないの?{1a}{0c:52c0c8}いい加減にしないとあたし怒るよ!{0c:020101}",
    "read": "{0c:528088}{1c:16}{0b:08}【 ジェシカ 】{0b:09}\nあーっっ!!\nめんどくさいなあぁ!{1a}そんなに死にたいなら\n1人で死んじゃえ!{1a}どうしてあんたのこと心配して\n言ってるのに分かってくれないの?{1a}{0c:52c0c8}いい加減にしないとあたし怒るよ!{0c:020101}",
    "raw": null,
-   "en": "{0c:528088}{1c:16}{0b:08}【 Jessica 】{0b:09}\nAaargh!! What a pain in the neck!{1a}If you want to die so bad, go die by\nyourself!{1a}I'm worried about you, that's why I'm\nsaying this! Why can't you get that?{1a}{0c:52c0c8}Knock it off or I'm gonna get mad!{0c:020101}",
+   "en": "{0c:528088}{1c:16}{0b:08}【 Jessica 】{0b:09}\nAaargh!! What a pain in the neck!{1a}If you want to die so bad, go die\nby yourself!{1a}I'm worried about you, that's why I'm\nsaying this! Why can't you get that?{1a}{0c:52c0c8}Knock it off or I'm gonna get mad!{0c:020101}",
    "status": "done",
    "tl": "Aaargh!! What a pain in the neck! // If you want to die so bad, go die by yourself! // I'm worried about you, that's why I'm saying this! Why can't you get that? // [1]Knock it off or I'm gonna get mad!"
   },
@@ -2694,7 +2694,7 @@
    "jp": "{0c:528088}{0b:08}{e080} エレアノール {e081}{0b:09}\nみんな心配しています。\n一緒に戻りましょう。{0c:020101}",
    "read": "{0c:528088}{0b:08}【 エレアノール 】{0b:09}\nみんな心配しています。\n一緒に戻りましょう。{0c:020101}",
    "raw": null,
-   "en": "{0c:528088}{0b:08}【 Eleanor 】{0b:09}\nEveryone is worried. Let us go back\ntogether.{0c:020101}",
+   "en": "{0c:528088}{0b:08}【 Eleanor 】{0b:09}\nEveryone is worried. Let us go\nback together.{0c:020101}",
    "status": "done",
    "tl": "Everyone is worried. Let us go back together."
   },
@@ -2786,7 +2786,7 @@
    "jp": "{0c:527078}{1c:15}{0b:08}{e080} ジェシカ {e081}{0b:09}\nあたりまえじゃん。\nあたしがウソついたことある?{0c:020101}",
    "read": "{0c:527078}{1c:15}{0b:08}【 ジェシカ 】{0b:09}\nあたりまえじゃん。\nあたしがウソついたことある?{0c:020101}",
    "raw": null,
-   "en": "{0c:527078}{1c:15}{0b:08}【 Jessica 】{0b:09}\nOf course you can. Have I ever lied to\nyou?{0c:020101}",
+   "en": "{0c:527078}{1c:15}{0b:08}【 Jessica 】{0b:09}\nOf course you can. Have I ever lied\nto you?{0c:020101}",
    "status": "done",
    "tl": "Of course you can. Have I ever lied to you?"
   },
@@ -3039,7 +3039,7 @@
    "jp": "{0c:527078}{0b:08}{e080} ノエル {e081}{0b:09}\n大丈夫、\n少しずつ変えていきましょ。{0c:020101}",
    "read": "{0c:527078}{0b:08}【 ノエル 】{0b:09}\n大丈夫、\n少しずつ変えていきましょ。{0c:020101}",
    "raw": null,
-   "en": "{0c:527078}{0b:08}【 Noel 】{0b:09}\nIt's all right. Let's change things little by\nlittle.{0c:020101}",
+   "en": "{0c:527078}{0b:08}【 Noel 】{0b:09}\nIt's all right. Let's change things little\nby little.{0c:020101}",
    "status": "done",
    "tl": "It's all right. Let's change things little by little."
   },
@@ -3062,7 +3062,7 @@
    "jp": "{0c:527078}{0b:08}{e080} オルフェウス {e081}{0b:09}\nなんとかなりますよ、多分。{0c:fe}",
    "read": "{0c:527078}{0b:08}【 オルフェウス 】{0b:09}\nなんとかなりますよ、多分。{0c:fe}",
    "raw": null,
-   "en": "{0c:527078}{0b:08}【 Orpheus 】{0b:09}\nIt will work out somehow, I daresay.\nProbably.{0c:fe}",
+   "en": "{0c:527078}{0b:08}【 Orpheus 】{0b:09}\nIt will work out somehow, I\ndaresay. Probably.{0c:fe}",
    "status": "done",
    "tl": "It will work out somehow, I daresay. Probably."
   },
@@ -3510,7 +3510,7 @@
    "jp": "{1c:18}{0b:08}{e080} サラ {e081}{0b:09}\nこの{e08e}使様・・・\nルカさんから生まれたの・・・?{0c:020901}",
    "read": "{1c:18}{0b:08}【 サラ 】{0b:09}\nこの天使様・・・\nルカさんから生まれたの・・・?{0c:020901}",
    "raw": null,
-   "en": "{1c:18}{0b:08}【 Sara 】{0b:09}\nThis holy angel... It came from\nLuca-san...?{0c:020901}",
+   "en": "{1c:18}{0b:08}【 Sara 】{0b:09}\nThis holy angel... It came\nfrom Luca-san...?{0c:020901}",
    "status": "done",
    "tl": "This holy angel... It came from Luca-san...?"
   },
@@ -3579,7 +3579,7 @@
    "jp": "{1c:1a}{0b:08}{e080} エレアノール {e081}{0b:09}\nこの{e08e}使は・・・\nルカから生まれたのでしょうか・・・{0c:020301}",
    "read": "{1c:1a}{0b:08}【 エレアノール 】{0b:09}\nこの天使は・・・\nルカから生まれたのでしょうか・・・{0c:020301}",
    "raw": null,
-   "en": "{1c:1a}{0b:08}【 Eleanor 】{0b:09}\nThis angel... Could it have been born from\nLuca...{0c:020301}",
+   "en": "{1c:1a}{0b:08}【 Eleanor 】{0b:09}\nThis angel... Could it have been born\nfrom Luca...{0c:020301}",
    "status": "done",
    "tl": "This angel... Could it have been born from Luca..."
   },
@@ -3602,7 +3602,7 @@
    "jp": "{1c:1f}{0b:08}{e080} オルフェウス {e081}{0b:09}\nこの{e08e}使は・・・\nルカさんから\n生まれたのでしょうか・・・{0c:020101}",
    "read": "{1c:1f}{0b:08}【 オルフェウス 】{0b:09}\nこの天使は・・・\nルカさんから\n生まれたのでしょうか・・・{0c:020101}",
    "raw": null,
-   "en": "{1c:1f}{0b:08}【 Orpheus 】{0b:09}\nThis angel... Could it have been born from\nLuca-san...{0c:020101}",
+   "en": "{1c:1f}{0b:08}【 Orpheus 】{0b:09}\nThis angel... Could it have been born\nfrom Luca-san...{0c:020101}",
    "status": "done",
    "tl": "This angel... Could it have been born from Luca-san..."
   },
@@ -3670,7 +3670,7 @@
    "jp": "{0c:5122}{1c:21}{0b:08}{e080} ルカ {e081}{0b:09}\nすみません・・・\n心配して下さるお気持ちは\nありがたいです・・・{1a}でも、わたしは神に仕える{e087}道士です。\n神に敵対する者がいれば\n戦わなければなりません・・・{0c:4c0d09fe}",
    "read": "{0c:5122}{1c:21}{0b:08}【 ルカ 】{0b:09}\nすみません・・・\n心配して下さるお気持ちは\nありがたいです・・・{1a}でも、わたしは神に仕える修道士です。\n神に敵対する者がいれば\n戦わなければなりません・・・{0c:4c0d09fe}",
    "raw": null,
-   "en": "{0c:5122}{1c:21}{0b:08}【 Luca 】{0b:09}\nI am sorry... I am grateful for your\nconcern...{1a}But I am a monk in service to God. If\nthere are those who oppose God, I must\nfight them...{0c:4c0d09fe}",
+   "en": "{0c:5122}{1c:21}{0b:08}【 Luca 】{0b:09}\nI am sorry... I am grateful for\nyour concern...{1a}But I am a monk in service to God. If\nthere are those who oppose God, I must\nfight them...{0c:4c0d09fe}",
    "status": "done",
    "tl": "I am sorry... I am grateful for your concern... // But I am a monk in service to God. If there are those who oppose God, I must fight them..."
   },
@@ -3706,7 +3706,7 @@
    "jp": "{0b:08}{e080} ディアス {e081}{0b:09}\n神の下僕として\n神に敵する者と戦わなければならない、\nだが、仲間とは戦いたくない・・・{1a}心の葛藤を解決する\nもっとも簡単な手段は死・・・\nだが、聖{e095}で禁じられている自殺を\n貴様に出来るはずもない。{1a}そこで我{e0df}に\n自分を殺してもらう・・・{1a}そうすれば仲間を\n殺さなくてもすむし、\n自{e0dd}{e0e5}{e0e6}に酔いながら\n殉{e09d}者として死ぬことが出来る・・・{1a}大体こんな所か。{0c:291109fe}",
    "read": "{0b:08}【 ディアス 】{0b:09}\n神の下僕として\n神に敵する者と戦わなければならない、\nだが、仲間とは戦いたくない・・・{1a}心の葛藤を解決する\nもっとも簡単な手段は死・・・\nだが、聖書で禁じられている自殺を\n貴様に出来るはずもない。{1a}そこで我々に\n自分を殺してもらう・・・{1a}そうすれば仲間を\n殺さなくてもすむし、\n自己犠牲に酔いながら\n殉教者として死ぬことが出来る・・・{1a}大体こんな所か。{0c:291109fe}",
    "raw": null,
-   "en": "{0b:08}【 Dias 】{0b:09}\nAs God's servant, you must fight those\nwho oppose God. Yet you do not wish to\nfight your friends...{1a}The simplest way to resolve such a\nconflict is death... But you could never\ncommit suicide, which the Scriptures\nforbid.{1a}And so you have us kill you...{1a}Then you need not kill your friends, and\nyou may die a martyr, drunk on your own\nsacrifice...{1a}That is about the size of it.{0c:291109fe}",
+   "en": "{0b:08}【 Dias 】{0b:09}\nAs God's servant, you must fight those\nwho oppose God. Yet you do not wish to\nfight your friends...{1a}The simplest way to resolve such a\nconflict is death... But you could never\ncommit suicide, which the\nScriptures forbid.{1a}And so you have us kill you...{1a}Then you need not kill your friends, and\nyou may die a martyr, drunk on your\nown sacrifice...{1a}That is about the size of it.{0c:291109fe}",
    "status": "done",
    "tl": "As God's servant, you must fight those who oppose God. Yet you do not wish to fight your friends... // The simplest way to resolve such a conflict is death... But you could never commit suicide, which the Scriptures forbid. // And so you have us kill you... // Then you need not kill your friends, and you may die a martyr, drunk on your own sacrifice... // That is about the size of it."
   },
@@ -3950,7 +3950,7 @@
    "jp": "{0b:08}{e080} ディアス {e081}{0b:09}\n取り{e0c8}まれたのか・・・?\nいや・・・違う・・・{0c:291109fe}",
    "read": "{0b:08}【 ディアス 】{0b:09}\n取り込まれたのか・・・?\nいや・・・違う・・・{0c:291109fe}",
    "raw": null,
-   "en": "{0b:08}【 Dias 】{0b:09}\nHas it absorbed him...? No... that is not\nit...{0c:291109fe}",
+   "en": "{0b:08}【 Dias 】{0b:09}\nHas it absorbed him...? No... that is\nnot it...{0c:291109fe}",
    "status": "done",
    "tl": "Has it absorbed him...? No... that is not it..."
   },
@@ -4019,7 +4019,7 @@
    "jp": "{0b:08}{e080} ディアス {e081}{0b:09}\n取り{e0c8}まれたのか・・・?\nいや、奴から生まれたのか・・・{1a}仕方ない、先にあの男を殺す。\nあれは奴の心の歪みから\n生まれた魔物だ。\n奴を殺せば魔物の力は格段に落ちる。{1a}もちろん、貴様にそれが\n出来るならばの話だがな。{0c:fe}",
    "read": "{0b:08}【 ディアス 】{0b:09}\n取り込まれたのか・・・?\nいや、奴から生まれたのか・・・{1a}仕方ない、先にあの男を殺す。\nあれは奴の心の歪みから\n生まれた魔物だ。\n奴を殺せば魔物の力は格段に落ちる。{1a}もちろん、貴様にそれが\n出来るならばの話だがな。{0c:fe}",
    "raw": null,
-   "en": "{0b:08}【 Dias 】{0b:09}\nHas it absorbed him...? No, it was born\nfrom him...{1a}No choice. We kill that man first. That is\na monster born from the warping of his\nheart. Kill him, and the monster's power\nfalls sharply.{1a}That is, of course, if you are capable of\nit.{0c:fe}",
+   "en": "{0b:08}【 Dias 】{0b:09}\nHas it absorbed him...? No, it was born\nfrom him...{1a}No choice. We kill that man first. That is\na monster born from the warping of his\nheart. Kill him, and the monster's power\nfalls sharply.{1a}That is, of course, if you are capable\nof it.{0c:fe}",
    "status": "done",
    "tl": "Has it absorbed him...? No, it was born from him... // No choice. We kill that man first. That is a monster born from the warping of his heart. Kill him, and the monster's power falls sharply. // That is, of course, if you are capable of it."
   },
@@ -4064,7 +4064,7 @@
    "jp": "{0c:5122}{1c:21}{0b:08}{e080} ルカ {e081}{0b:09}\nすみません・・・\n心配して下さるお気持ちは\nありがたいです・・・{1a}でも、わたしは\n神に仕える{e087}道士です。\n神に敵対する者がいれば\n戦わなければなりません・・・{0c:fe}{0c:f20300f30204}",
    "read": "{0c:5122}{1c:21}{0b:08}【 ルカ 】{0b:09}\nすみません・・・\n心配して下さるお気持ちは\nありがたいです・・・{1a}でも、わたしは\n神に仕える修道士です。\n神に敵対する者がいれば\n戦わなければなりません・・・{0c:fe}{0c:f20300f30204}",
    "raw": null,
-   "en": "{0c:5122}{1c:21}{0b:08}【 Luca 】{0b:09}\nI am sorry... I am grateful for your\nconcern...{1a}But I am a monk in service to God. If\nthere are those who oppose God, I must\nfight them...{0c:fe}{0c:f20300f30204}",
+   "en": "{0c:5122}{1c:21}{0b:08}【 Luca 】{0b:09}\nI am sorry... I am grateful for\nyour concern...{1a}But I am a monk in service to God. If\nthere are those who oppose God, I must\nfight them...{0c:fe}{0c:f20300f30204}",
    "status": "done",
    "tl": "I am sorry... I am grateful for your concern... // But I am a monk in service to God. If there are those who oppose God, I must fight them..."
   },
@@ -4144,7 +4144,7 @@
    "jp": "{0c:52aab2}{1c:21}{0b:08}{e080} {03}ルカ {e081}{0b:09}\n{10}{02}さん・・・\n{10}さんと出逢えて\n本当に楽しかったです・・・{1a}わたしも本当は\n戦いたくはありません・・・\nでも・・・{1a}{0c:5102}でも、{01}17{e0a4}間{02}、神のために\n生きてきました・・・\nいまさら他の生き方なんて\n出来ません・・・{0c:fe}{0c:f20300f30204}",
    "read": "{0c:52aab2}{1c:21}{0b:08}【 {03}ルカ 】{0b:09}\n{10}{02}さん・・・\n{10}さんと出逢えて\n本当に楽しかったです・・・{1a}わたしも本当は\n戦いたくはありません・・・\nでも・・・{1a}{0c:5102}でも、{01}17年間{02}、神のために\n生きてきました・・・\nいまさら他の生き方なんて\n出来ません・・・{0c:fe}{0c:f20300f30204}",
    "raw": null,
-   "en": "{0c:52aab2}{1c:21}{0b:08}【 Luca 】{0b:09}\n{10}-san... I truly enjoyed meeting\nyou, {10}-san...{1a}In truth, I do not want to fight either...\nBut...{1a}{0c:5102}But for seventeen years, I have lived for\nGod... I cannot live any other way now...{0c:fe}{0c:f20300f30204}",
+   "en": "{0c:52aab2}{1c:21}{0b:08}【 Luca 】{0b:09}\n{10}-san... I truly enjoyed meeting\nyou, {10}-san...{1a}In truth, I do not want to fight\neither... But...{1a}{0c:5102}But for seventeen years, I have lived for\nGod... I cannot live any other way now...{0c:fe}{0c:f20300f30204}",
    "status": "done",
    "tl": "[HERO]-san... I truly enjoyed meeting you, [HERO]-san... // In truth, I do not want to fight either... But... // [1]But for seventeen years, I have lived for God... I cannot live any other way now..."
   },
@@ -4454,7 +4454,7 @@
    "jp": "{0c:52e0e8}{1c:1c}{0b:08}{e080} アッシュ {e081}{0b:09}\nな、なにを言い出すんだよ!{1a}{0c:51e829111000}ルカもやめろよ。\n一緒にかえろうよ!{0c:021301}",
    "read": "{0c:52e0e8}{1c:1c}{0b:08}【 アッシュ 】{0b:09}\nな、なにを言い出すんだよ!{1a}{0c:51e829111000}ルカもやめろよ。\n一緒にかえろうよ!{0c:021301}",
    "raw": null,
-   "en": "{0c:52e0e8}{1c:1c}{0b:08}【 Ash 】{0b:09}\nWh-what are you saying!?{1a}{0c:51e829111000}You stop it too, Luca. Let's go home\ntogether!{0c:021301}",
+   "en": "{0c:52e0e8}{1c:1c}{0b:08}【 Ash 】{0b:09}\nWh-what are you saying!?{1a}{0c:51e829111000}You stop it too, Luca. Let's go\nhome together!{0c:021301}",
    "status": "done",
    "tl": "Wh-what are you saying!? // [1]You stop it too, Luca. Let's go home together!"
   },
@@ -4477,7 +4477,7 @@
    "jp": "{0c:52e0e8}{1c:18}{0b:08}{e080} サラ {e081}{0b:09}\n{10}さん、\n今の冗談だよね・・・{1a}{0c:51e829111000}ルカさんもやめて!\nみんな一緒にかえろうよ!{0c:021101}",
    "read": "{0c:52e0e8}{1c:18}{0b:08}【 サラ 】{0b:09}\n{10}さん、\n今の冗談だよね・・・{1a}{0c:51e829111000}ルカさんもやめて!\nみんな一緒にかえろうよ!{0c:021101}",
    "raw": null,
-   "en": "{0c:52e0e8}{1c:18}{0b:08}【 Sara 】{0b:09}\n{10}-san, that was a joke, right...{1a}{0c:51e829111000}Stop it too, Luca-san! Let's all go home\ntogether!{0c:021101}",
+   "en": "{0c:52e0e8}{1c:18}{0b:08}【 Sara 】{0b:09}\n{10}-san, that was a joke, right...{1a}{0c:51e829111000}Stop it too, Luca-san! Let's all go\nhome together!{0c:021101}",
    "status": "done",
    "tl": "[HERO]-san, that was a joke, right... // [1]Stop it too, Luca-san! Let's all go home together!"
   },
@@ -4615,7 +4615,7 @@
    "jp": "{0c:52e0e8}{1c:1d}{0b:08}{e080} ノエル {e081}{0b:09}\n{10}、\n一体何を言い出すの!?{1a}{0c:51e829111000}ルカもやめて。\n一緒に町に戻りましょ。{0c:020501}",
    "read": "{0c:52e0e8}{1c:1d}{0b:08}【 ノエル 】{0b:09}\n{10}、\n一体何を言い出すの!?{1a}{0c:51e829111000}ルカもやめて。\n一緒に町に戻りましょ。{0c:020501}",
    "raw": null,
-   "en": "{0c:52e0e8}{1c:1d}{0b:08}【 Noel 】{0b:09}\n{10}, what on earth are you\nsaying!?{1a}{0c:51e829111000}Luca, you stop too. Let's go back to\ntown together.{0c:020501}",
+   "en": "{0c:52e0e8}{1c:1d}{0b:08}【 Noel 】{0b:09}\n{10}, what on earth are\nyou saying!?{1a}{0c:51e829111000}Luca, you stop too. Let's go back to\ntown together.{0c:020501}",
    "status": "done",
    "tl": "[HERO], what on earth are you saying!? // [1]Luca, you stop too. Let's go back to town together."
   },
@@ -4742,7 +4742,7 @@
    "jp": "{0c:5108}{1c:1d}{0b:08}{e080} ノエル {e081}{0b:09}\nルカ・・・\nあなた死ぬつもりなのね・・・{1a}あたしには、自分の信念に\n殉じるほどの覚悟なんてないから\nあなたの決意には頭が下がるわ・・・{1a}でも同時に\nあなたのことを哀れむし、軽蔑する。{1a}どんな立{e188}な{e09d}義でも\nそれが人命を{e189}重しないのであれば\n信じる価値なんて無いわ。{1a}{0c:527078}そんなもの信仰とは言わない・・・\nただの全体{e18c}義よ。{1a}それに、死という答を{e18d}き出すほどの\n決意があるなら、どうして他の答を\n見つけようとしないの?\n何故生きようとしないの?{0c:020f01}",
    "read": "{0c:5108}{1c:1d}{0b:08}【 ノエル 】{0b:09}\nルカ・・・\nあなた死ぬつもりなのね・・・{1a}あたしには、自分の信念に\n殉じるほどの覚悟なんてないから\nあなたの決意には頭が下がるわ・・・{1a}でも同時に\nあなたのことを哀れむし、軽蔑する。{1a}どんな立派な教義でも\nそれが人命を尊重しないのであれば\n信じる価値なんて無いわ。{1a}{0c:527078}そんなもの信仰とは言わない・・・\nただの全体主義よ。{1a}それに、死という答を導き出すほどの\n決意があるなら、どうして他の答を\n見つけようとしないの?\n何故生きようとしないの?{0c:020f01}",
    "raw": null,
-   "en": "{0c:5108}{1c:1d}{0b:08}【 Noel 】{0b:09}\nLuca... You mean to die, don't you...{1a}I don't have the resolve to die for my\nown beliefs, so I have to bow my head to\nyour determination...{1a}But at the same time, I pity you, and I\ndespise you.{1a}However fine a doctrine may be, if it\ndoesn't value human life, it isn't worth\nbelieving in.{1a}{0c:527078}That isn't faith... It's plain\ntotalitarianism.{1a}And if you have enough resolve to reach\ndeath as your answer, why won't you\ntry to find another answer? Why won't\nyou try to live?{0c:020f01}",
+   "en": "{0c:5108}{1c:1d}{0b:08}【 Noel 】{0b:09}\nLuca... You mean to die, don't you...{1a}I don't have the resolve to die for my\nown beliefs, so I have to bow my head to\nyour determination...{1a}But at the same time, I pity you, and I\ndespise you.{1a}However fine a doctrine may be, if it\ndoesn't value human life, it isn't worth\nbelieving in.{1a}{0c:527078}That isn't faith... It's\nplain totalitarianism.{1a}And if you have enough resolve to reach\ndeath as your answer, why won't you\ntry to find another answer? Why won't\nyou try to live?{0c:020f01}",
    "status": "done",
    "tl": "Luca... You mean to die, don't you... // I don't have the resolve to die for my own beliefs, so I have to bow my head to your determination... // But at the same time, I pity you, and I despise you. // However fine a doctrine may be, if it doesn't value human life, it isn't worth believing in. // [1]That isn't faith... It's plain totalitarianism. // And if you have enough resolve to reach death as your answer, why won't you try to find another answer? Why won't you try to live?"
   },
@@ -4788,7 +4788,7 @@
    "jp": "{0c:5108}{1c:11}{0b:08}{e080} パスカ {e081}{0b:09}\nルカ・・・\nお前まさかここで死ぬつもりなのか?{1a}そんな度胸があるなら\nどうして生きようとしねえんだ!?{1a}{0c:527078}どうして神サマなんかに頼らない\n自分の生き方を\n{e082}してみようと思わねえんだ!?{0c:020b01}",
    "read": "{0c:5108}{1c:11}{0b:08}【 パスカ 】{0b:09}\nルカ・・・\nお前まさかここで死ぬつもりなのか?{1a}そんな度胸があるなら\nどうして生きようとしねえんだ!?{1a}{0c:527078}どうして神サマなんかに頼らない\n自分の生き方を\n探してみようと思わねえんだ!?{0c:020b01}",
    "raw": null,
-   "en": "{0c:5108}{1c:11}{0b:08}【 Pasca 】{0b:09}\nLuca... Don't tell me you're plannin' to die\nhere?{1a}If ya got that kinda guts, why ain't ya\ntryin' to live!?{1a}{0c:527078}Why ain't ya ever thought of lookin' for\nyour own way to live, one that don't lean\non some god!?{0c:020b01}",
+   "en": "{0c:5108}{1c:11}{0b:08}【 Pasca 】{0b:09}\nLuca... Don't tell me you're plannin' to\ndie here?{1a}If ya got that kinda guts, why ain't ya\ntryin' to live!?{1a}{0c:527078}Why ain't ya ever thought of lookin' for\nyour own way to live, one that don't lean\non some god!?{0c:020b01}",
    "status": "done",
    "tl": "Luca... Don't tell me you're plannin' to die here? // If ya got that kinda guts, why ain't ya tryin' to live!? // [1]Why ain't ya ever thought of lookin' for your own way to live, one that don't lean on some god!?"
   },
@@ -4811,7 +4811,7 @@
    "jp": "{0c:5108}{1c:15}{0b:08}{e080} ジェシカ {e081}{0b:09}\nルカ・・・\nあんたまさかここで\n死ぬつもりなの・・・?{1a}{0c:527078}それって逃げてるだけだよ!\nそんな度胸あるなら\nどうして逃げずに\n生きようとしないの!?{0c:020901}",
    "read": "{0c:5108}{1c:15}{0b:08}【 ジェシカ 】{0b:09}\nルカ・・・\nあんたまさかここで\n死ぬつもりなの・・・?{1a}{0c:527078}それって逃げてるだけだよ!\nそんな度胸あるなら\nどうして逃げずに\n生きようとしないの!?{0c:020901}",
    "raw": null,
-   "en": "{0c:5108}{1c:15}{0b:08}【 Jessica 】{0b:09}\nLuca... Don't tell me you're planning to die\nhere...?{1a}{0c:527078}That's just running away! If you've got\nthat kind of nerve, why don't you quit\nrunning and try to live!?{0c:020901}",
+   "en": "{0c:5108}{1c:15}{0b:08}【 Jessica 】{0b:09}\nLuca... Don't tell me you're planning to\ndie here...?{1a}{0c:527078}That's just running away! If you've got\nthat kind of nerve, why don't you quit\nrunning and try to live!?{0c:020901}",
    "status": "done",
    "tl": "Luca... Don't tell me you're planning to die here...? // [1]That's just running away! If you've got that kind of nerve, why don't you quit running and try to live!?"
   },
@@ -4880,7 +4880,7 @@
    "jp": "{0c:5108}{1c:18}{0b:08}{e080} サラ {e081}{0b:09}\nルカさん・・・\nここで死ぬつもりなんじゃ\nないよね・・・{1a}{0c:527078}そんな悲しいこと考えてないよね!{1a}ルカさん・・・答えて!!{0c:020301}",
    "read": "{0c:5108}{1c:18}{0b:08}【 サラ 】{0b:09}\nルカさん・・・\nここで死ぬつもりなんじゃ\nないよね・・・{1a}{0c:527078}そんな悲しいこと考えてないよね!{1a}ルカさん・・・答えて!!{0c:020301}",
    "raw": null,
-   "en": "{0c:5108}{1c:18}{0b:08}【 Sara 】{0b:09}\nLuca-san... You're not going to die here,\nare you...{1a}{0c:527078}You're not thinking anything so sad,\nright!{1a}Luca-san... answer me!!{0c:020301}",
+   "en": "{0c:5108}{1c:18}{0b:08}【 Sara 】{0b:09}\nLuca-san... You're not going to die here,\nare you...{1a}{0c:527078}You're not thinking anything so\nsad, right!{1a}Luca-san... answer me!!{0c:020301}",
    "status": "done",
    "tl": "Luca-san... You're not going to die here, are you... // [1]You're not thinking anything so sad, right! // Luca-san... answer me!!"
   },
@@ -4926,7 +4926,7 @@
    "jp": "{0c:511a}{1c:21}{0b:08}{e080} {03}ルカ {e081}{0b:09}\n{01}17{e0a4}間{02}、神のために\n生きてきました・・・{1a}いまさら他の生き方なんて\n考えられません・・・{0c:0202014c0b2c09fe}",
    "read": "{0c:511a}{1c:21}{0b:08}【 {03}ルカ 】{0b:09}\n{01}17年間{02}、神のために\n生きてきました・・・{1a}いまさら他の生き方なんて\n考えられません・・・{0c:0202014c0b2c09fe}",
    "raw": null,
-   "en": "{0c:511a}{1c:21}{0b:08}【 Luca 】{0b:09}\nFor seventeen years, I have lived for\nGod...{1a}I cannot imagine any other way of living\nnow...{0c:0202014c0b2c09fe}",
+   "en": "{0c:511a}{1c:21}{0b:08}【 Luca 】{0b:09}\nFor seventeen years, I have lived\nfor God...{1a}I cannot imagine any other way of\nliving now...{0c:0202014c0b2c09fe}",
    "status": "done",
    "tl": "For seventeen years, I have lived for God... // I cannot imagine any other way of living now..."
   },
@@ -4938,7 +4938,7 @@
    "jp": "{0c:52b0b8}{1c:1e}{0b:08}{e080} オルフェウス {e081}{0b:09}\nそりゃ確かに難しいですよ。\nそう簡単に生き方を変えられるなら\n誰も苦労しません。{1a}でも、ルカさんはそういう\n努力をするのも嫌なんですか?\n堪え忍ぶのが『売り』の聖{e192}者にしては\n随分あきらめが早いですね。{1a}ま、ぼくも人のことは言えませんけど。{0c:021301}",
    "read": "{0c:52b0b8}{1c:1e}{0b:08}【 オルフェウス 】{0b:09}\nそりゃ確かに難しいですよ。\nそう簡単に生き方を変えられるなら\n誰も苦労しません。{1a}でも、ルカさんはそういう\n努力をするのも嫌なんですか?\n堪え忍ぶのが『売り』の聖職者にしては\n随分あきらめが早いですね。{1a}ま、ぼくも人のことは言えませんけど。{0c:021301}",
    "raw": null,
-   "en": "{0c:52b0b8}{1c:1e}{0b:08}【 Orpheus 】{0b:09}\nDifficult, certainly. If one could change\none's life so easily, no one would ever\nstruggle.{1a}But are you unwilling even to make the\neffort, Luca-san? You give up rather\nquickly for a clergyman whose great\n'selling point' is endurance.{1a}Well, I am hardly one to talk.{0c:021301}",
+   "en": "{0c:52b0b8}{1c:1e}{0b:08}【 Orpheus 】{0b:09}\nDifficult, certainly. If one could change\none's life so easily, no one would\never struggle.{1a}But are you unwilling even to make the\neffort, Luca-san? You give up rather\nquickly for a clergyman whose great\n'selling point' is endurance.{1a}Well, I am hardly one to talk.{0c:021301}",
    "status": "done",
    "tl": "Difficult, certainly. If one could change one's life so easily, no one would ever struggle. // But are you unwilling even to make the effort, Luca-san? You give up rather quickly for a clergyman whose great 'selling point' is endurance. // Well, I am hardly one to talk."
   },
@@ -5203,7 +5203,7 @@
    "jp": "{1c:12}{0b:08}{e080} シャルン {e081}{0b:09}\n聖{e095}を見ながらじゃないと\n何も考えられないの?\n1人で考えるのが怖いの?{1a}{0c:528088}大丈夫だよ。\nルカは自分が思ってるより強いよ。{1a}{0c:52c0c8}それでもまだ{e0b8}い時があったら\nあたし達を頼ってよ。\nそのために仲間がいるんじゃない。{0c:020101}",
    "read": "{1c:12}{0b:08}【 シャルン 】{0b:09}\n聖書を見ながらじゃないと\n何も考えられないの?\n1人で考えるのが怖いの?{1a}{0c:528088}大丈夫だよ。\nルカは自分が思ってるより強いよ。{1a}{0c:52c0c8}それでもまだ辛い時があったら\nあたし達を頼ってよ。\nそのために仲間がいるんじゃない。{0c:020101}",
    "raw": null,
-   "en": "{1c:12}{0b:08}【 Scharn 】{0b:09}\nCan't you think of anything without the\nScriptures in front of you? Are you\nscared to think on your own?{1a}{0c:528088}It's okay! You're stronger than you\nthink, Luca!{1a}{0c:52c0c8}And if it's still hard sometimes, you can\nlean on us! That's what friends are for,\nright?{0c:020101}",
+   "en": "{1c:12}{0b:08}【 Scharn 】{0b:09}\nCan't you think of anything without the\nScriptures in front of you? Are you\nscared to think on your own?{1a}{0c:528088}It's okay! You're stronger than you\nthink, Luca!{1a}{0c:52c0c8}And if it's still hard sometimes, you can\nlean on us! That's what friends are\nfor, right?{0c:020101}",
    "status": "done",
    "tl": "Can't you think of anything without the Scriptures in front of you? Are you scared to think on your own? // [1]It's okay! You're stronger than you think, Luca! // [2]And if it's still hard sometimes, you can lean on us! That's what friends are for, right?"
   },
@@ -5226,7 +5226,7 @@
    "jp": "{0c:528088}{1c:1c}{0b:08}{e080} アッシュ {e081}{0b:09}\nおれ、バカだからさ、\nなんて言ったらいいのか\nわからないけど、{1a}{0c:52c0c8}ルカなら大丈夫だよ。\nルカ強いもん。{0c:020101}",
    "read": "{0c:528088}{1c:1c}{0b:08}【 アッシュ 】{0b:09}\nおれ、バカだからさ、\nなんて言ったらいいのか\nわからないけど、{1a}{0c:52c0c8}ルカなら大丈夫だよ。\nルカ強いもん。{0c:020101}",
    "raw": null,
-   "en": "{0c:528088}{1c:1c}{0b:08}【 Ash 】{0b:09}\nI'm kind of dumb, so I don't know how to\nsay this, but{1a}{0c:52c0c8}you'll be okay, Luca. You're strong,\ny'know.{0c:020101}",
+   "en": "{0c:528088}{1c:1c}{0b:08}【 Ash 】{0b:09}\nI'm kind of dumb, so I don't know how to\nsay this, but{1a}{0c:52c0c8}you'll be okay, Luca. You're\nstrong, y'know.{0c:020101}",
    "status": "done",
    "tl": "I'm kind of dumb, so I don't know how to say this, but // [1]you'll be okay, Luca. You're strong, y'know."
   },
@@ -5249,7 +5249,7 @@
    "jp": "{0c:528088}{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n僕みたいな世間知らずの人間が\nこんな事を言っても\n{e085}得力はないかもしれない。{1a}{0c:52c0c8}でも、人間は少しずつ\n変わることが出来ると思う。\n頑張って一緒に強くなろう。{0c:020101}",
    "read": "{0c:528088}{1c:13}{0b:08}【 アーサー 】{0b:09}\n僕みたいな世間知らずの人間が\nこんな事を言っても\n説得力はないかもしれない。{1a}{0c:52c0c8}でも、人間は少しずつ\n変わることが出来ると思う。\n頑張って一緒に強くなろう。{0c:020101}",
    "raw": null,
-   "en": "{0c:528088}{1c:13}{0b:08}【 Arthur 】{0b:09}\nComing from someone as naive as me,\nthis may not carry much weight.{1a}{0c:52c0c8}But I believe people can change, little by\nlittle. Let's work hard and grow strong\ntogether.{0c:020101}",
+   "en": "{0c:528088}{1c:13}{0b:08}【 Arthur 】{0b:09}\nComing from someone as naive as me,\nthis may not carry much weight.{1a}{0c:52c0c8}But I believe people can change, little by\nlittle. Let's work hard and grow\nstrong together.{0c:020101}",
    "status": "done",
    "tl": "Coming from someone as naive as me, this may not carry much weight. // [1]But I believe people can change, little by little. Let's work hard and grow strong together."
   },
@@ -5272,7 +5272,7 @@
    "jp": "{1c:1d}{0b:08}{e080} ノエル {e081}{0b:09}\nあたし、あなたに\nすこし{e0c6}感する所がある。{1a}{0c:528088}あたしは17{e0a4}間本に{e0d1}まれて\n友達を{e0b9}らずにいたから\n知識や理屈には自信があるけど、\n自分自身の言{e0b5}をあまり知らないの。{1a}{e087}道{e088}の外の世{e0aa}を\n17{e0a4}間知らずに育った\nあなたと同じね。{1a}だから、古{e0a7}文{e0d3}の解{e0d4}は出来ても、\n仲間が困っている時に\n{e0bb}ける言{e0b5}を知らない・・・{1a}{0c:52c0c8}でも、これじゃあいけないって\n最近痛感してる。\nそれも、この町に来てみんなと\n出{e08d}ったおかげだと思ってるわ。{1a}頑張りましょ、ルカ。\n今からでも遅くないわ。{0c:020101}",
    "read": "{1c:1d}{0b:08}【 ノエル 】{0b:09}\nあたし、あなたに\nすこし共感する所がある。{1a}{0c:528088}あたしは17年間本に囲まれて\n友達を作らずにいたから\n知識や理屈には自信があるけど、\n自分自身の言葉をあまり知らないの。{1a}修道院の外の世界を\n17年間知らずに育った\nあなたと同じね。{1a}だから、古代文字の解析は出来ても、\n仲間が困っている時に\n掛ける言葉を知らない・・・{1a}{0c:52c0c8}でも、これじゃあいけないって\n最近痛感してる。\nそれも、この町に来てみんなと\n出会ったおかげだと思ってるわ。{1a}頑張りましょ、ルカ。\n今からでも遅くないわ。{0c:020101}",
    "raw": null,
-   "en": "{1c:1d}{0b:08}【 Noel 】{0b:09}\nI feel a little sympathy for you.{1a}{0c:528088}For seventeen years I was surrounded\nby books and made no friends, so I have\nconfidence in my knowledge and logic, but\nI hardly know any words of my own.{1a}Just like you, raised for seventeen years\nknowing nothing of the world outside the\nmonastery.{1a}So I can decipher ancient script, but I\ndon't know what to say when a friend is\nin trouble...{1a}{0c:52c0c8}But lately I've come to feel keenly that\nthis won't do. And I think that's thanks\nto coming to this town and meeting\neveryone.{1a}Let's do our best, Luca. It's not too\nlate, even now.{0c:020101}",
+   "en": "{1c:1d}{0b:08}【 Noel 】{0b:09}\nI feel a little sympathy for you.{1a}{0c:528088}For seventeen years I was surrounded\nby books and made no friends, so I have\nconfidence in my knowledge and logic, but\nI hardly know any words of my own.{1a}Just like you, raised for seventeen years\nknowing nothing of the world outside\nthe monastery.{1a}So I can decipher ancient script, but I\ndon't know what to say when a friend is\nin trouble...{1a}{0c:52c0c8}But lately I've come to feel keenly that\nthis won't do. And I think that's thanks\nto coming to this town and\nmeeting everyone.{1a}Let's do our best, Luca. It's not too\nlate, even now.{0c:020101}",
    "status": "done",
    "tl": "I feel a little sympathy for you. // [1]For seventeen years I was surrounded by books and made no friends, so I have confidence in my knowledge and logic, but I hardly know any words of my own. // Just like you, raised for seventeen years knowing nothing of the world outside the monastery. // So I can decipher ancient script, but I don't know what to say when a friend is in trouble... // [2]But lately I've come to feel keenly that this won't do. And I think that's thanks to coming to this town and meeting everyone. // Let's do our best, Luca. It's not too late, even now."
   },
@@ -5295,7 +5295,7 @@
    "jp": "{0c:528088}{1c:16}{0b:08}{e080} ジェシカ {e081}{0b:09}\nあーっっ!!\nめんどくさいなあぁ!{1a}そんなに死にたいなら\n1人で死んじゃえ!{1a}どうしてあんたのこと心配して\n言ってるのに分かってくれないの?{1a}{0c:52c0c8}いい加減にしないとあたし怒るよ!{0c:020101}",
    "read": "{0c:528088}{1c:16}{0b:08}【 ジェシカ 】{0b:09}\nあーっっ!!\nめんどくさいなあぁ!{1a}そんなに死にたいなら\n1人で死んじゃえ!{1a}どうしてあんたのこと心配して\n言ってるのに分かってくれないの?{1a}{0c:52c0c8}いい加減にしないとあたし怒るよ!{0c:020101}",
    "raw": null,
-   "en": "{0c:528088}{1c:16}{0b:08}【 Jessica 】{0b:09}\nAaargh!! What a pain in the neck!{1a}If you want to die so bad, go die by\nyourself!{1a}I'm worried about you, that's why I'm\nsaying this! Why can't you get that?{1a}{0c:52c0c8}Knock it off or I'm gonna get mad!{0c:020101}",
+   "en": "{0c:528088}{1c:16}{0b:08}【 Jessica 】{0b:09}\nAaargh!! What a pain in the neck!{1a}If you want to die so bad, go die\nby yourself!{1a}I'm worried about you, that's why I'm\nsaying this! Why can't you get that?{1a}{0c:52c0c8}Knock it off or I'm gonna get mad!{0c:020101}",
    "status": "done",
    "tl": "Aaargh!! What a pain in the neck! // If you want to die so bad, go die by yourself! // I'm worried about you, that's why I'm saying this! Why can't you get that? // [1]Knock it off or I'm gonna get mad!"
   },
@@ -5364,7 +5364,7 @@
    "jp": "{0c:528088}{1c:1a}{0b:08}{e080} エレアノール {e081}{0b:09}\nみんな心配しています。\n一緒に戻りましょう。{0c:020101}",
    "read": "{0c:528088}{1c:1a}{0b:08}【 エレアノール 】{0b:09}\nみんな心配しています。\n一緒に戻りましょう。{0c:020101}",
    "raw": null,
-   "en": "{0c:528088}{1c:1a}{0b:08}【 Eleanor 】{0b:09}\nEveryone is worried. Let us go back\ntogether.{0c:020101}",
+   "en": "{0c:528088}{1c:1a}{0b:08}【 Eleanor 】{0b:09}\nEveryone is worried. Let us go\nback together.{0c:020101}",
    "status": "done",
    "tl": "Everyone is worried. Let us go back together."
   },
@@ -5481,7 +5481,7 @@
    "jp": "{0c:511a}{1c:21}{0b:08}{e080} {03}ルカ {e081}{0b:09}\n{01}17{e0a4}間{02}、神のために\n生きてきました・・・{1a}いまさら他の生き方なんて\n考えられません・・・{0c:4c0309fe}",
    "read": "{0c:511a}{1c:21}{0b:08}【 {03}ルカ 】{0b:09}\n{01}17年間{02}、神のために\n生きてきました・・・{1a}いまさら他の生き方なんて\n考えられません・・・{0c:4c0309fe}",
    "raw": null,
-   "en": "{0c:511a}{1c:21}{0b:08}【 Luca 】{0b:09}\nFor seventeen years, I have lived for\nGod...{1a}I cannot imagine any other way of living\nnow...{0c:4c0309fe}",
+   "en": "{0c:511a}{1c:21}{0b:08}【 Luca 】{0b:09}\nFor seventeen years, I have lived\nfor God...{1a}I cannot imagine any other way of\nliving now...{0c:4c0309fe}",
    "status": "done",
    "tl": "For seventeen years, I have lived for God... // I cannot imagine any other way of living now..."
   },
@@ -5707,7 +5707,7 @@
    "jp": "{0b:08}{e080} ディアス {e081}{0b:09}\n神の下僕として\n神に敵する者と戦わなければならない、\nだが、仲間とは戦いたくない・・・{1a}心の葛藤を解決する\nもっとも簡単な手段は死・・・\nだが、聖{e095}で禁じられている自殺を\n貴様に出来るはずもない。{1a}そこで我{e0df}に自分を殺してもらう・・・{1a}そうすれば仲間を殺さなくてもすむし、\n自{e0dd}{e0e5}{e0e6}に酔いながら\n殉{e09d}者として死ぬことが出来る・・・{1a}大体こんな所か。{0c:291109fe}",
    "read": "{0b:08}【 ディアス 】{0b:09}\n神の下僕として\n神に敵する者と戦わなければならない、\nだが、仲間とは戦いたくない・・・{1a}心の葛藤を解決する\nもっとも簡単な手段は死・・・\nだが、聖書で禁じられている自殺を\n貴様に出来るはずもない。{1a}そこで我々に自分を殺してもらう・・・{1a}そうすれば仲間を殺さなくてもすむし、\n自己犠牲に酔いながら\n殉教者として死ぬことが出来る・・・{1a}大体こんな所か。{0c:291109fe}",
    "raw": null,
-   "en": "{0b:08}【 Dias 】{0b:09}\nAs God's servant, you must fight those\nwho oppose God. Yet you do not wish to\nfight your friends...{1a}The simplest way to resolve such a\nconflict is death... But you could never\ncommit suicide, which the Scriptures\nforbid.{1a}And so you have us kill you...{1a}Then you need not kill your friends, and\nyou may die a martyr, drunk on your own\nsacrifice...{1a}That is about the size of it.{0c:291109fe}",
+   "en": "{0b:08}【 Dias 】{0b:09}\nAs God's servant, you must fight those\nwho oppose God. Yet you do not wish to\nfight your friends...{1a}The simplest way to resolve such a\nconflict is death... But you could never\ncommit suicide, which the\nScriptures forbid.{1a}And so you have us kill you...{1a}Then you need not kill your friends, and\nyou may die a martyr, drunk on your\nown sacrifice...{1a}That is about the size of it.{0c:291109fe}",
    "status": "done",
    "tl": "As God's servant, you must fight those who oppose God. Yet you do not wish to fight your friends... // The simplest way to resolve such a conflict is death... But you could never commit suicide, which the Scriptures forbid. // And so you have us kill you... // Then you need not kill your friends, and you may die a martyr, drunk on your own sacrifice... // That is about the size of it."
   },
@@ -6218,7 +6218,7 @@
    "jp": "{1c:18}{0b:08}{e080} サラ {e081}{0b:09}\nこの{e08e}使様・・・\nルカさんから生まれたの・・・?{0c:020d01}",
    "read": "{1c:18}{0b:08}【 サラ 】{0b:09}\nこの天使様・・・\nルカさんから生まれたの・・・?{0c:020d01}",
    "raw": null,
-   "en": "{1c:18}{0b:08}【 Sara 】{0b:09}\nThis holy angel... It came from\nLuca-san...?{0c:020d01}",
+   "en": "{1c:18}{0b:08}【 Sara 】{0b:09}\nThis holy angel... It came\nfrom Luca-san...?{0c:020d01}",
    "status": "done",
    "tl": "This holy angel... It came from Luca-san...?"
   },
@@ -6287,7 +6287,7 @@
    "jp": "{1c:1a}{0b:08}{e080} エレアノール {e081}{0b:09}\nこの{e08e}使は・・・\nルカから生まれたのでしょうか・・・{0c:020701}",
    "read": "{1c:1a}{0b:08}【 エレアノール 】{0b:09}\nこの天使は・・・\nルカから生まれたのでしょうか・・・{0c:020701}",
    "raw": null,
-   "en": "{1c:1a}{0b:08}【 Eleanor 】{0b:09}\nThis angel... Could it have been born from\nLuca...{0c:020701}",
+   "en": "{1c:1a}{0b:08}【 Eleanor 】{0b:09}\nThis angel... Could it have been born\nfrom Luca...{0c:020701}",
    "status": "done",
    "tl": "This angel... Could it have been born from Luca..."
   },
@@ -6310,7 +6310,7 @@
    "jp": "{1c:1f}{0b:08}{e080} オルフェウス {e081}{0b:09}\nこの{e08e}使は・・・\nルカさんから\n生まれたのでしょうか・・・{0c:020501}",
    "read": "{1c:1f}{0b:08}【 オルフェウス 】{0b:09}\nこの天使は・・・\nルカさんから\n生まれたのでしょうか・・・{0c:020501}",
    "raw": null,
-   "en": "{1c:1f}{0b:08}【 Orpheus 】{0b:09}\nThis angel... Could it have been born from\nLuca-san...{0c:020501}",
+   "en": "{1c:1f}{0b:08}【 Orpheus 】{0b:09}\nThis angel... Could it have been born\nfrom Luca-san...{0c:020501}",
    "status": "done",
    "tl": "This angel... Could it have been born from Luca-san..."
   },
@@ -6333,7 +6333,7 @@
    "jp": "{0b:08}{e080} ディアス {e081}{0b:09}\n取り{e0c8}まれたのか・・・?\nいや、違う・・・{0c:020301}",
    "read": "{0b:08}【 ディアス 】{0b:09}\n取り込まれたのか・・・?\nいや、違う・・・{0c:020301}",
    "raw": null,
-   "en": "{0b:08}【 Dias 】{0b:09}\nHas it swallowed him...? No, that is not\nit...{0c:020301}",
+   "en": "{0b:08}【 Dias 】{0b:09}\nHas it swallowed him...? No, that is\nnot it...{0c:020301}",
    "status": "done",
    "tl": "Has it swallowed him...? No, that is not it..."
   },
@@ -6652,7 +6652,7 @@
    "jp": "{0c:51ffffffff5429111000}{03}ル、ルカ{01}!!{1a}{0c:51ffffffff542b501000}{10}{02}・・・\n{03}ルカ{02}を殺す必要なんて\nあったのか・・・{01}?{1a}{02}くそっ、こんな戦い、\nすぐ終わらせてやる{01}!!{0c:fe}",
    "read": "{0c:51ffffffff5429111000}{03}ル、ルカ{01}!!{1a}{0c:51ffffffff542b501000}{10}{02}・・・\n{03}ルカ{02}を殺す必要なんて\nあったのか・・・{01}?{1a}{02}くそっ、こんな戦い、\nすぐ終わらせてやる{01}!!{0c:fe}",
    "raw": null,
-   "en": "{0c:51ffffffff5429111000}L-Luca!!{1a}{0c:51ffffffff542b501000}{10}... Did we really have to kill\nLuca...?{1a}Damn it, I'm gonna end this fight quick!!{0c:fe}",
+   "en": "{0c:51ffffffff5429111000}L-Luca!!{1a}{0c:51ffffffff542b501000}{10}... Did we really have to\nkill Luca...?{1a}Damn it, I'm gonna end this fight quick!!{0c:fe}",
    "status": "done",
    "tl": "L-Luca!! // [1][HERO]... Did we really have to kill Luca...? // Damn it, I'm gonna end this fight quick!!"
   },
@@ -6767,7 +6767,7 @@
    "jp": "{0c:51ffffffff5429111000}さすが{10}さんだ。\n決断に迷いがない。{0c:fe}",
    "read": "{0c:51ffffffff5429111000}さすが{10}さんだ。\n決断に迷いがない。{0c:fe}",
    "raw": null,
-   "en": "{0c:51ffffffff5429111000}Just what one would expect of\n{10}-san. Not a moment's\nhesitation.{0c:fe}",
+   "en": "{0c:51ffffffff5429111000}Just what one would expect of\n{10}-san. Not a\nmoment's hesitation.{0c:fe}",
    "status": "done",
    "tl": "Just what one would expect of [HERO]-san. Not a moment's hesitation."
   },
@@ -6836,7 +6836,7 @@
    "jp": "{0c:51ffffffff5429111000}ル、ルカ!!!{1a}ごめん・・・\n許してなんて言えないよね・・・\nでも、絶対に勝つよ!{0c:fe}",
    "read": "{0c:51ffffffff5429111000}ル、ルカ!!!{1a}ごめん・・・\n許してなんて言えないよね・・・\nでも、絶対に勝つよ!{0c:fe}",
    "raw": null,
-   "en": "{0c:51ffffffff5429111000}L-Luca!!!{1a}I'm sorry... I guess I can't ask you to\nforgive me... But we'll win, no matter\nwhat!{0c:fe}",
+   "en": "{0c:51ffffffff5429111000}L-Luca!!!{1a}I'm sorry... I guess I can't ask you to\nforgive me... But we'll win, no\nmatter what!{0c:fe}",
    "status": "done",
    "tl": "L-Luca!!! // I'm sorry... I guess I can't ask you to forgive me... But we'll win, no matter what!"
   },
@@ -7813,7 +7813,7 @@
    "jp": "{0c:52ff21ff29}ったく、\nあれだけ心配させておいて\n何も覚えてねえだ?\nふざけやがって。{0c:021301}",
    "read": "{0c:52ff21ff29}ったく、\nあれだけ心配させておいて\n何も覚えてねえだ?\nふざけやがって。{0c:021301}",
    "raw": null,
-   "en": "{0c:52ff21ff29}Tch. Got us worried sick and ya don't\nremember nothin'? Quit messin' with us,\ndammit.{0c:021301}",
+   "en": "{0c:52ff21ff29}Tch. Got us worried sick and ya don't\nremember nothin'? Quit messin' with\nus, dammit.{0c:021301}",
    "status": "done",
    "tl": "Tch. Got us worried sick and ya don't remember nothin'? Quit messin' with us, dammit."
   },
@@ -7836,7 +7836,7 @@
    "jp": "{0c:52ff21ff29}あれだけ心配させておいて、\n何も覚えてないなんて・・・\nなんだか拍子抜けだな。{0c:021101}",
    "read": "{0c:52ff21ff29}あれだけ心配させておいて、\n何も覚えてないなんて・・・\nなんだか拍子抜けだな。{0c:021101}",
    "raw": null,
-   "en": "{0c:52ff21ff29}After worrying us that much, you don't\nremember anything... Kind of a letdown, I\nguess.{0c:021101}",
+   "en": "{0c:52ff21ff29}After worrying us that much, you don't\nremember anything... Kind of a letdown,\nI guess.{0c:021101}",
    "status": "done",
    "tl": "After worrying us that much, you don't remember anything... Kind of a letdown, I guess."
   },
@@ -7882,7 +7882,7 @@
    "jp": "{0c:52ff21ff29}ルカ、本当に何も覚えてないの?{0c:020d01}",
    "read": "{0c:52ff21ff29}ルカ、本当に何も覚えてないの?{0c:020d01}",
    "raw": null,
-   "en": "{0c:52ff21ff29}Luca, you really don't remember\nanything?{0c:020d01}",
+   "en": "{0c:52ff21ff29}Luca, you really don't\nremember anything?{0c:020d01}",
    "status": "done",
    "tl": "Luca, you really don't remember anything?"
   },
@@ -8239,7 +8239,7 @@
    "jp": "{0c:52ff31ff39}いいよいいよ。\n無事だったんだから。{0c:020701}",
    "read": "{0c:52ff31ff39}いいよいいよ。\n無事だったんだから。{0c:020701}",
    "raw": null,
-   "en": "{0c:52ff31ff39}It's okay, it's okay. You're safe, after\nall.{0c:020701}",
+   "en": "{0c:52ff31ff39}It's okay, it's okay. You're safe,\nafter all.{0c:020701}",
    "status": "done",
    "tl": "It's okay, it's okay. You're safe, after all."
   },
@@ -8262,7 +8262,7 @@
    "jp": "{0c:52ff31ff39}いえ、別にあやまらなくても\nいいのですが・・・{0c:020501}",
    "read": "{0c:52ff31ff39}いえ、別にあやまらなくても\nいいのですが・・・{0c:020501}",
    "raw": null,
-   "en": "{0c:52ff31ff39}No, there is no particular need to\napologize...{0c:020501}",
+   "en": "{0c:52ff31ff39}No, there is no particular need\nto apologize...{0c:020501}",
    "status": "done",
    "tl": "No, there is no particular need to apologize..."
   },
@@ -8331,7 +8331,7 @@
    "jp": "{0c:52a21a}すみません・・・\nなんだか迷惑かけたみたいで・・・{0c:fe}",
    "read": "{0c:52a21a}すみません・・・\nなんだか迷惑かけたみたいで・・・{0c:fe}",
    "raw": null,
-   "en": "{0c:52a21a}I am sorry... It seems I caused you some\ntrouble...{0c:fe}",
+   "en": "{0c:52a21a}I am sorry... It seems I caused you\nsome trouble...{0c:fe}",
    "status": "done",
    "tl": "I am sorry... It seems I caused you some trouble..."
   },
@@ -8354,7 +8354,7 @@
    "jp": "{0c:52a21a}すみません・・・\nなんだか迷惑かけたみたいで・・・{0c:fe}",
    "read": "{0c:52a21a}すみません・・・\nなんだか迷惑かけたみたいで・・・{0c:fe}",
    "raw": null,
-   "en": "{0c:52a21a}I am sorry... It seems I caused you some\ntrouble...{0c:fe}",
+   "en": "{0c:52a21a}I am sorry... It seems I caused you\nsome trouble...{0c:fe}",
    "status": "done",
    "tl": "I am sorry... It seems I caused you some trouble..."
   },

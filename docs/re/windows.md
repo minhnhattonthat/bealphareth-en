@@ -20,7 +20,7 @@ Pixels of VWF text (`tools/vwf_font.py`: `text_width`), not characters. Average 
 | Item menu header help | 196 px | 1 | geometry | starts x 96 after the tab name, box ends x 304; a 276 px ruler ran off it |
 | Item help bar (`片手剣/攻 1/-/`) | 276 px | 1 | measured | bottom bar, centred |
 | Item row (name + count) | 124 px | | measured | name x 93, count x 212: 112 px clear, 130 px touches a 4-digit count |
-| Equipped item in the status grid | 100 px | | geometry | value x 200, box ends x 304. Takes the smallest budget: **equipment names 100 px**, other items 124 px |
+| Equipped item in the status grid | 103 px | | geometry | value x 200, frame line x 304 (zoomed `menu_status`), advance includes the 1 px gap, so 103 px leaves 1 px clear. Takes the smallest budget: **equipment names 103 px**, other items 124 px. Moving the column was tried, not found: D15 |
 | Status grid labels, equipment column (`武器`) | 28 px | | measured | value at fixed x 198: a 46 px ruler ran into it. Phase 7: move the value column before shortening anything (D4) |
 | Status grid labels, stats (`HP`, `攻`) | 20 px | | measured | number at fixed column: 20 px just clears it |
 | Party-member list | names 72 px | | geometry | the six-letter test name already runs off this window at the right edge |

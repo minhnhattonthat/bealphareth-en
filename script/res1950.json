@@ -111,7 +111,7 @@
    "jp": "{0b:08}{e080} 不死者ファトゥム {e081}{0b:09}\n余裕だな。\nもう神になったつもりか?{0c:2b5609fe}",
    "read": "{0b:08}【 不死者ファトゥム 】{0b:09}\n余裕だな。\nもう神になったつもりか?{0c:2b5609fe}",
    "raw": null,
-   "en": "{0b:08}【 Fatum the Undying 】{0b:09}\nYou seem at ease. Think you are a god\nalready?{0c:2b5609fe}",
+   "en": "{0b:08}【 Fatum the Undying 】{0b:09}\nYou seem at ease. Think you are a\ngod already?{0c:2b5609fe}",
    "status": "done",
    "tl": "You seem at ease. Think you are a god already?"
   },
@@ -333,7 +333,7 @@
    "jp": "{0b:08}{e080} クムラン {e081}{0b:09}\nアノイア{e095}を{e096}り、\n人{e08a}に1つの{e097}遍的な価値観を\n植え付けたのも、{1a}世{e088}中の人{e08a}に\n永遠の命という夢を見せたのも、{1a}すべては『{e09f}しい世{e088}』という{e0a0}の\n幻想を人{e0a2}に持たせるため・・・{0c:2b5809fe}",
    "read": "{0b:08}【 クムラン 】{0b:09}\nアノイア教を創り、\n人々に1つの普遍的な価値観を\n植え付けたのも、{1a}世界中の人々に\n永遠の命という夢を見せたのも、{1a}すべては『新しい世界』という名の\n幻想を人類に持たせるため・・・{0c:2b5809fe}",
    "raw": null,
-   "en": "{0b:08}【 Qumran 】{0b:09}\nYou founded the Anoian faith and\nplanted a single universal set of values in\npeople,{1a}you showed the whole world the dream\nof eternal life,{1a}and all of it was to give humankind the\nillusion called the 'New World'...{0c:2b5809fe}",
+   "en": "{0b:08}【 Qumran 】{0b:09}\nYou founded the Anoian faith and\nplanted a single universal set of values\nin people,{1a}you showed the whole world the dream\nof eternal life,{1a}and all of it was to give humankind the\nillusion called the 'New World'...{0c:2b5809fe}",
    "status": "done",
    "tl": "You founded the Anoian faith and planted a single universal set of values in people, // you showed the whole world the dream of eternal life, // and all of it was to give humankind the illusion called the 'New World'..."
   },
@@ -742,7 +742,7 @@
    "jp": "君がやり直したいと思えば、\n{0c:2b512351502b571000}{0c:2b502351202b571000}好きな時から自由に\nやり直すことができる。{1a}そう、あの{e0bf}まわしい出来事を\n消し去ることもできる。{0c:2b5109fe}",
    "read": "君がやり直したいと思えば、\n{0c:2b512351502b571000}{0c:2b502351202b571000}好きな時から自由に\nやり直すことができる。{1a}そう、あの忌まわしい出来事を\n消し去ることもできる。{0c:2b5109fe}",
    "raw": null,
-   "en": "If you wish to begin again, {0c:2b512351502b571000}{0c:2b502351202b571000}you may begin\nagain freely, from any time you choose.{1a}Yes, you may even erase that accursed\nevent.{0c:2b5109fe}",
+   "en": "If you wish to begin again, {0c:2b512351502b571000}{0c:2b502351202b571000}you may begin\nagain freely, from any time you choose.{1a}Yes, you may even erase that\naccursed event.{0c:2b5109fe}",
    "status": "done",
    "tl": "If you wish to begin again, [1]you may begin again freely, from any time you choose. // Yes, you may even erase that accursed event."
   },
@@ -790,7 +790,7 @@
    "jp": "何故否定する?\n君は誰よりも『{e09f}しい世{e088}』の\n到来を望んでいるのに。{0c:2b5109fe}",
    "read": "何故否定する?\n君は誰よりも『新しい世界』の\n到来を望んでいるのに。{0c:2b5109fe}",
    "raw": null,
-   "en": "Why do you deny it? You, more than\nanyone, long for the coming of the 'New\nWorld'.{0c:2b5109fe}",
+   "en": "Why do you deny it? You, more than\nanyone, long for the coming of the\n'New World'.{0c:2b5109fe}",
    "status": "done",
    "tl": "Why do you deny it? You, more than anyone, long for the coming of the 'New World'."
   },
@@ -802,7 +802,7 @@
    "jp": "{0c:527880}聞く気はない!\n俺は{10}と{e0a3}に戦う!{0c:fe}",
    "read": "{0c:527880}聞く気はない!\n俺は{10}と共に戦う!{0c:fe}",
    "raw": null,
-   "en": "{0c:527880}I will not listen! I will fight alongside\n{10}!{0c:fe}",
+   "en": "{0c:527880}I will not listen! I will fight\nalongside {10}!{0c:fe}",
    "status": "done",
    "tl": "I will not listen! I will fight alongside [HERO]!"
   },
@@ -836,7 +836,7 @@
    "jp": "{0c:51ff02}本当の僕は君が思ってるような\n人間じゃない。{0c:2b512351882b5d1000}{0c:2b502351202b5d1000}{0c:fe}",
    "read": "{0c:51ff02}本当の僕は君が思ってるような\n人間じゃない。{0c:2b512351882b5d1000}{0c:2b502351202b5d1000}{0c:fe}",
    "raw": null,
-   "en": "{0c:51ff02}The real me isn't the person you think I\nam.{0c:2b512351882b5d1000}{0c:2b502351202b5d1000}{0c:fe}",
+   "en": "{0c:51ff02}The real me isn't the person you think\nI am.{0c:2b512351882b5d1000}{0c:2b502351202b5d1000}{0c:fe}",
    "status": "done",
    "tl": "The real me isn't the person you think I am."
   },
@@ -859,7 +859,7 @@
    "jp": "{0c:52ff12ff1a}誰がお前のような\n{0c:2b512351882b5d1000}{0c:2b502351202b5d1000}根暗な男に心を{e0c6}くかよ。{0c:fe}",
    "read": "{0c:52ff12ff1a}誰がお前のような\n{0c:2b512351882b5d1000}{0c:2b502351202b5d1000}根暗な男に心を開くかよ。{0c:fe}",
    "raw": null,
-   "en": "{0c:52ff12ff1a}Who'd ever open up {0c:2b512351882b5d1000}{0c:2b502351202b5d1000}to a gloomy man like\nyou?{0c:fe}",
+   "en": "{0c:52ff12ff1a}Who'd ever open up {0c:2b512351882b5d1000}{0c:2b502351202b5d1000}to a gloomy man\nlike you?{0c:fe}",
    "status": "done",
    "tl": "Who'd ever open up [1]to a gloomy man like you?"
   },
@@ -893,7 +893,7 @@
    "jp": "{0c:51ff02}本当の私はあなたが思ってるような\n{0c:2b512351882b5d1000}{0c:2b502351202b5d1000}人間じゃない。{0c:fe}",
    "read": "{0c:51ff02}本当の私はあなたが思ってるような\n{0c:2b512351882b5d1000}{0c:2b502351202b5d1000}人間じゃない。{0c:fe}",
    "raw": null,
-   "en": "{0c:51ff02}The real me is not {0c:2b512351882b5d1000}{0c:2b502351202b5d1000}the person you think I\nam.{0c:fe}",
+   "en": "{0c:51ff02}The real me is not {0c:2b512351882b5d1000}{0c:2b502351202b5d1000}the person you think\nI am.{0c:fe}",
    "status": "done",
    "tl": "The real me is not [1]the person you think I am."
   },
@@ -1020,7 +1020,7 @@
    "jp": "{0c:52ffff32ffff3a}俺はお前だ。\n{0c:2b502351202b5e1000}抑圧され続けてきた\nお前の本当の姿だ。{0c:2b5f09fe}",
    "read": "{0c:52ffff32ffff3a}俺はお前だ。\n{0c:2b502351202b5e1000}抑圧され続けてきた\nお前の本当の姿だ。{0c:2b5f09fe}",
    "raw": null,
-   "en": "{0c:52ffff32ffff3a}I am you. {0c:2b502351202b5e1000}The real you, repressed all this\ntime.{0c:2b5f09fe}",
+   "en": "{0c:52ffff32ffff3a}I am you. {0c:2b502351202b5e1000}The real you, repressed all\nthis time.{0c:2b5f09fe}",
    "status": "done",
    "tl": "I am you. [1]The real you, repressed all this time."
   },
@@ -1150,7 +1150,7 @@
    "jp": "あなたはもうわかってるはず。\n{0c:2b512351ff192b591000}{0c:2b502351202b591000}この世{e088}に本当の安らぎなんて\nあるはずのないことを。{1a}でも、『{e09f}しい世{e088}』では\nみんなが分かり合える。\n人を包む殻がなくなり、\n1つになれる・・・{0c:fe}",
    "read": "あなたはもうわかってるはず。\n{0c:2b512351ff192b591000}{0c:2b502351202b591000}この世界に本当の安らぎなんて\nあるはずのないことを。{1a}でも、『新しい世界』では\nみんなが分かり合える。\n人を包む殻がなくなり、\n1つになれる・・・{0c:fe}",
    "raw": null,
-   "en": "You must know by now. {0c:2b512351ff192b591000}{0c:2b502351202b591000}There can be no\ntrue peace in this world.{1a}But in the 'New World', all can\nunderstand one another. The shells\naround people vanish, and all can become\none...{0c:fe}",
+   "en": "You must know by now. {0c:2b512351ff192b591000}{0c:2b502351202b591000}There can be no\ntrue peace in this world.{1a}But in the 'New World', all can\nunderstand one another. The shells\naround people vanish, and all can\nbecome one...{0c:fe}",
    "status": "done",
    "tl": "You must know by now. [1]There can be no true peace in this world. // But in the 'New World', all can understand one another. The shells around people vanish, and all can become one..."
   },
@@ -1173,7 +1173,7 @@
    "jp": "『{e09f}しい世{e088}』では、\n{0c:2b512351ff192b5a1000}{0c:2b502351202b5a1000}悪夢にうなされることもない。{1a}そして、みんなと心の底から\n理解し合える。{1a}さあ、願うんだ。\n『{e09f}しい世{e088}』の到来を!{0c:2b5109fe}",
    "read": "『新しい世界』では、\n{0c:2b512351ff192b5a1000}{0c:2b502351202b5a1000}悪夢にうなされることもない。{1a}そして、みんなと心の底から\n理解し合える。{1a}さあ、願うんだ。\n『新しい世界』の到来を!{0c:2b5109fe}",
    "raw": null,
-   "en": "In the 'New World', {0c:2b512351ff192b5a1000}{0c:2b502351202b5a1000}no nightmare will\ntrouble you again.{1a}And you and everyone will understand\none another from the bottom of your\nhearts.{1a}Come, make your wish. Wish for the\ncoming of the 'New World'!{0c:2b5109fe}",
+   "en": "In the 'New World', {0c:2b512351ff192b5a1000}{0c:2b502351202b5a1000}no nightmare will\ntrouble you again.{1a}And you and everyone will understand\none another from the bottom of\nyour hearts.{1a}Come, make your wish. Wish for the\ncoming of the 'New World'!{0c:2b5109fe}",
    "status": "done",
    "tl": "In the 'New World', [1]no nightmare will trouble you again. // And you and everyone will understand one another from the bottom of your hearts. // Come, make your wish. Wish for the coming of the 'New World'!"
   },
@@ -1243,7 +1243,7 @@
    "jp": "苦しみを知ったからこそ\n今の自分があり、\nかけがえのない仲間と\nこうして出逢うことが出来た・・・{1a}その考えは間違いではないだろう。{0c:fe}",
    "read": "苦しみを知ったからこそ\n今の自分があり、\nかけがえのない仲間と\nこうして出逢うことが出来た・・・{1a}その考えは間違いではないだろう。{0c:fe}",
    "raw": null,
-   "en": "It is because you knew suffering that\nyou are who you are now, and that you\ncame to meet such irreplaceable\ncomrades...{1a}That thought is surely not mistaken.{0c:fe}",
+   "en": "It is because you knew suffering that\nyou are who you are now, and that you\ncame to meet such\nirreplaceable comrades...{1a}That thought is surely not mistaken.{0c:fe}",
    "status": "done",
    "tl": "It is because you knew suffering that you are who you are now, and that you came to meet such irreplaceable comrades... // That thought is surely not mistaken."
   },
@@ -1418,7 +1418,7 @@
    "jp": "{e0d9}かった・・・\n1万{e0b9}も待った・・・{0c:2b5809fe}",
    "read": "長かった・・・\n1万年も待った・・・{0c:2b5809fe}",
    "raw": null,
-   "en": "So long... Ten thousand years I have\nwaited...{0c:2b5809fe}",
+   "en": "So long... Ten thousand years I\nhave waited...{0c:2b5809fe}",
    "status": "done",
    "tl": "So long... Ten thousand years I have waited..."
   },
@@ -1675,7 +1675,7 @@
    "jp": "{0c:51c0}余裕だな。\nもう神になったつもりか?{0c:52c8d02b501000}{0c:2b5609fe}",
    "read": "{0c:51c0}余裕だな。\nもう神になったつもりか?{0c:52c8d02b501000}{0c:2b5609fe}",
    "raw": null,
-   "en": "{0c:51c0}You seem at ease. Think you are a god\nalready?{0c:52c8d02b501000}{0c:2b5609fe}",
+   "en": "{0c:51c0}You seem at ease. Think you are a\ngod already?{0c:52c8d02b501000}{0c:2b5609fe}",
    "status": "done",
    "tl": "You seem at ease. Think you are a god already?"
   },
@@ -1781,7 +1781,7 @@
    "jp": "何故立ち上がる?\n汝は預言者を殺すというのか?\n人{e08a}の希望を殺すというのか?{1a}『神の子殺しの悪魔』として\n人{e08a}から永遠に{e0bf}み嫌われる\n覚悟が出来ているのか?{1a}困難を{e0a3}に乗り越えてきた仲間を\n自らの手で殺すというのか?{0c:2b5109fe}",
    "read": "何故立ち上がる?\n汝は預言者を殺すというのか?\n人々の希望を殺すというのか?{1a}『神の子殺しの悪魔』として\n人々から永遠に忌み嫌われる\n覚悟が出来ているのか?{1a}困難を共に乗り越えてきた仲間を\n自らの手で殺すというのか?{0c:2b5109fe}",
    "raw": null,
-   "en": "Why do you rise? Would you kill the\nProphet? Would you kill the hope of all\npeople?{1a}Are you prepared to be loathed forever\nas the 'Devil who slew the Child of God'?{1a}Would you kill with your own hands the\ncomrade who has overcome hardship at\nyour side?{0c:2b5109fe}",
+   "en": "Why do you rise? Would you kill the\nProphet? Would you kill the hope of\nall people?{1a}Are you prepared to be loathed forever\nas the 'Devil who slew the Child of God'?{1a}Would you kill with your own hands the\ncomrade who has overcome hardship at\nyour side?{0c:2b5109fe}",
    "status": "done",
    "tl": "Why do you rise? Would you kill the Prophet? Would you kill the hope of all people? // Are you prepared to be loathed forever as the 'Devil who slew the Child of God'? // Would you kill with your own hands the comrade who has overcome hardship at your side?"
   },
@@ -2160,7 +2160,7 @@
    "jp": "{0c:52ff81ff89}いえ・・・{1a}{0c:52ff91ff99}それより、もう1人の恩人\nファトゥムさんの姿が\n見えないのですが・・・{0c:2b5509fe}",
    "read": "{0c:52ff81ff89}いえ・・・{1a}{0c:52ff91ff99}それより、もう1人の恩人\nファトゥムさんの姿が\n見えないのですが・・・{0c:2b5509fe}",
    "raw": null,
-   "en": "{0c:52ff81ff89}Not at all...{1a}{0c:52ff91ff99}More importantly, I do not see\nFatum-san, the other man I owe my life\nto...{0c:2b5509fe}",
+   "en": "{0c:52ff81ff89}Not at all...{1a}{0c:52ff91ff99}More importantly, I do not see\nFatum-san, the other man I owe my\nlife to...{0c:2b5509fe}",
    "status": "done",
    "tl": "Not at all... // [1]More importantly, I do not see Fatum-san, the other man I owe my life to..."
   },

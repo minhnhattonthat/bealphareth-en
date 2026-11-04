@@ -409,7 +409,7 @@
    "jp": "{1c:26}{0b:08}{e080} ディアス {e081}{0b:09}\nアスロイトの{e082}爵\nデューラー{e084}の{e085}士か・・・\nそれが何故こんな所に・・・?{1a}捕獲して{e087}問するか・・・{0c:021f01}",
    "read": "{1c:26}{0b:08}【 ディアス 】{0b:09}\nアスロイトの公爵\nデューラー家の騎士か・・・\nそれが何故こんな所に・・・?{1a}捕獲して尋問するか・・・{0c:021f01}",
    "raw": null,
-   "en": "{1c:26}{0b:08}【 Dias 】{0b:09}\nKnights of Durer, a ducal house of\nAsroit... Why would they be in such a\nplace...?{1a}Shall I capture and interrogate them...{0c:021f01}",
+   "en": "{1c:26}{0b:08}【 Dias 】{0b:09}\nKnights of Durer, a ducal house of\nAsroit... Why would they be in such\na place...?{1a}Shall I capture and interrogate them...{0c:021f01}",
    "status": "done",
    "tl": "Knights of Durer, a ducal house of Asroit... Why would they be in such a place...? // Shall I capture and interrogate them..."
   },
@@ -501,7 +501,7 @@
    "jp": "{1c:1e}{0b:08}{e080} イヴ {e081}{0b:09}\n見たことない顔だったわね・・・{1a}いかにも貴{e091}ってニオイが\nプンプンしてたけど、\n一体何者かしら?{1a}って、あなたが知るわけないわね。\nとりあえず{e088}いかけてみましょ。{0c:021701}",
    "read": "{1c:1e}{0b:08}【 イヴ 】{0b:09}\n見たことない顔だったわね・・・{1a}いかにも貴族ってニオイが\nプンプンしてたけど、\n一体何者かしら?{1a}って、あなたが知るわけないわね。\nとりあえず追いかけてみましょ。{0c:021701}",
    "raw": null,
-   "en": "{1c:1e}{0b:08}【 Eve 】{0b:09}\nNever seen those faces before, you\nknow...{1a}They positively reeked of nobility. Who\nare they, I wonder?{1a}Not that you would know, of course.\nLet's go after them for now.{0c:021701}",
+   "en": "{1c:1e}{0b:08}【 Eve 】{0b:09}\nNever seen those faces before,\nyou know...{1a}They positively reeked of nobility. Who\nare they, I wonder?{1a}Not that you would know, of course.\nLet's go after them for now.{0c:021701}",
    "status": "done",
    "tl": "Never seen those faces before, you know... // They positively reeked of nobility. Who are they, I wonder? // Not that you would know, of course. Let's go after them for now."
   },
@@ -570,7 +570,7 @@
    "jp": "{1c:19}{0b:08}{e080} サラ {e081}{0b:09}\nあの格好、町の人じゃないよね。\nそれに、どうして\n逃げちゃったんだろ・・・{1a}{10}さん、\n{e088}いかけてみようよ。{0c:021101}",
    "read": "{1c:19}{0b:08}【 サラ 】{0b:09}\nあの格好、町の人じゃないよね。\nそれに、どうして\n逃げちゃったんだろ・・・{1a}{10}さん、\n追いかけてみようよ。{0c:021101}",
    "raw": null,
-   "en": "{1c:19}{0b:08}【 Sara 】{0b:09}\nThose clothes... They aren't town people,\nare they? And why did they run away...{1a}{10}-san, let's go after them,\nokay?{0c:021101}",
+   "en": "{1c:19}{0b:08}【 Sara 】{0b:09}\nThose clothes... They aren't town people,\nare they? And why did they run away...{1a}{10}-san, let's go after\nthem, okay?{0c:021101}",
    "status": "done",
    "tl": "Those clothes... They aren't town people, are they? And why did they run away... // [HERO]-san, let's go after them, okay?"
   },
@@ -708,7 +708,7 @@
    "jp": "{1c:14}{0b:08}{e080} レイア {e081}{0b:09}\nあの甲冑は確かに\n赤獅子{e085}士団のもの・・・\n何故奴等がここに・・・?{1a}捕獲するか・・・\nよし、{e088}うぞ。{0c:020501}",
    "read": "{1c:14}{0b:08}【 レイア 】{0b:09}\nあの甲冑は確かに\n赤獅子騎士団のもの・・・\n何故奴等がここに・・・?{1a}捕獲するか・・・\nよし、追うぞ。{0c:020501}",
    "raw": null,
-   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\nThat armor is certainly that of the Red\nLion Knights... Why are they here...?{1a}We could capture them... Very well, we\npursue.{0c:020501}",
+   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\nThat armor is certainly that of the Red\nLion Knights... Why are they here...?{1a}We could capture them... Very well,\nwe pursue.{0c:020501}",
    "status": "done",
    "tl": "That armor is certainly that of the Red Lion Knights... Why are they here...? // We could capture them... Very well, we pursue."
   },
@@ -731,7 +731,7 @@
    "jp": "{1c:12}{0b:08}{e080} アーサー {e081}{0b:09}\nあの甲冑は・・・{1a}確か、アスロイト四{e082}爵の1つ\nデューラー{e082}が{e095}いる\n赤獅子{e085}士団のもの・・・{1a}どうしてアスロイトの{e085}士が\nこんな所に・・・{1a}{10}、後を{e088}おう。{0c:020301}",
    "read": "{1c:12}{0b:08}【 アーサー 】{0b:09}\nあの甲冑は・・・{1a}確か、アスロイト四公爵の1つ\nデューラー公が率いる\n赤獅子騎士団のもの・・・{1a}どうしてアスロイトの騎士が\nこんな所に・・・{1a}{10}、後を追おう。{0c:020301}",
    "raw": null,
-   "en": "{1c:12}{0b:08}【 Arthur 】{0b:09}\nThat armor...{1a}If I recall, it belongs to the Red Lion\nKnights, led by Duke Durer, one of\nAsroit's four dukes...{1a}Why would knights of Asroit be in such a\nplace...{1a}{10}, let us go after them.{0c:020301}",
+   "en": "{1c:12}{0b:08}【 Arthur 】{0b:09}\nThat armor...{1a}If I recall, it belongs to the Red Lion\nKnights, led by Duke Durer, one of\nAsroit's four dukes...{1a}Why would knights of Asroit be in such\na place...{1a}{10}, let us go after them.{0c:020301}",
    "status": "done",
    "tl": "That armor... // If I recall, it belongs to the Red Lion Knights, led by Duke Durer, one of Asroit's four dukes... // Why would knights of Asroit be in such a place... // [HERO], let us go after them."
   },
@@ -754,7 +754,7 @@
    "jp": "{1c:11}{0b:08}{e080} アッシュ {e081}{0b:09}\nあんな格好の人\n町にいたっけなぁ・・・{1a}それに、どうしておれたちを見て\n逃げたんだろ・・・\n{10}、とりあえず\n{e088}いかけてみようか。{0c:fe}",
    "read": "{1c:11}{0b:08}【 アッシュ 】{0b:09}\nあんな格好の人\n町にいたっけなぁ・・・{1a}それに、どうしておれたちを見て\n逃げたんだろ・・・\n{10}、とりあえず\n追いかけてみようか。{0c:fe}",
    "raw": null,
-   "en": "{1c:11}{0b:08}【 Ash 】{0b:09}\nWas anybody in town dressed like that, I\nwonder...{1a}And why'd they run when they saw us...\n{10}, I guess we should go after\nthem for now.{0c:fe}",
+   "en": "{1c:11}{0b:08}【 Ash 】{0b:09}\nWas anybody in town dressed like that,\nI wonder...{1a}And why'd they run when they saw us...\n{10}, I guess we should go after\nthem for now.{0c:fe}",
    "status": "done",
    "tl": "Was anybody in town dressed like that, I wonder... // And why'd they run when they saw us... [HERO], I guess we should go after them for now."
   },

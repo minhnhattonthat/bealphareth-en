@@ -30,7 +30,7 @@
    "jp": "{e080}を{e081}ける巻き上げ機のようだ\n鎖がちぎれているので使用できない",
    "read": "門を開ける巻き上げ機のようだ\n鎖がちぎれているので使用できない",
    "raw": null,
-   "en": "It seems to be a winch that opens the\ngate. The chain is torn, so it cannot be\nused.",
+   "en": "It seems to be a winch that opens the\ngate. The chain is torn, so it cannot\nbe used.",
    "status": "done",
    "tl": "It seems to be a winch that opens the gate. The chain is torn, so it cannot be used."
   },
@@ -42,7 +42,7 @@
    "jp": "{e084}{e085}の{e080}だ\n{e086}やす事ができそうだ",
    "read": "木製の門だ\n燃やす事ができそうだ",
    "raw": null,
-   "en": "A wooden gate. It looks like it could be\nburned.",
+   "en": "A wooden gate. It looks like it could\nbe burned.",
    "status": "done",
    "tl": "A wooden gate. It looks like it could be burned."
   },
@@ -170,7 +170,7 @@
    "jp": "{0b:08}{e087} オルフェウス {e088}{0b:09}\nあれ、出ちゃっていいんですか?",
    "read": "{0b:08}【 オルフェウス 】{0b:09}\nあれ、出ちゃっていいんですか?",
    "raw": null,
-   "en": "{0b:08}【 Orpheus 】{0b:09}\nOh, are you quite sure you wish to\nleave?",
+   "en": "{0b:08}【 Orpheus 】{0b:09}\nOh, are you quite sure you wish\nto leave?",
    "status": "done",
    "tl": "Oh, are you quite sure you wish to leave?"
   },
@@ -194,7 +194,7 @@
    "jp": "{0b:08}{e087} オルフェウス {e088}{0b:09}\nあれ、出ちゃっていいんですか?",
    "read": "{0b:08}【 オルフェウス 】{0b:09}\nあれ、出ちゃっていいんですか?",
    "raw": null,
-   "en": "{0b:08}【 Orpheus 】{0b:09}\nOh, are you quite sure you wish to\nleave?",
+   "en": "{0b:08}【 Orpheus 】{0b:09}\nOh, are you quite sure you wish\nto leave?",
    "status": "done",
    "tl": "Oh, are you quite sure you wish to leave?"
   },
@@ -263,7 +263,7 @@
    "jp": "{0b:08}{e087} ルカ {e088}{0b:09}\nあ、あの・・・\nあきらめずに頑張りましょう・・・",
    "read": "{0b:08}【 ルカ 】{0b:09}\nあ、あの・・・\nあきらめずに頑張りましょう・・・",
    "raw": null,
-   "en": "{0b:08}【 Luca 】{0b:09}\nU-um... Let us not give up, and do our\nbest...",
+   "en": "{0b:08}【 Luca 】{0b:09}\nU-um... Let us not give up, and do\nour best...",
    "status": "done",
    "tl": "U-um... Let us not give up, and do our best..."
   },
@@ -322,7 +322,7 @@
    "jp": "{0b:08}{e087} アーサー {e088}{0b:09}\nもう10日も経ったのか・・・\n{10}、急ごう!",
    "read": "{0b:08}【 アーサー 】{0b:09}\nもう10日も経ったのか・・・\n{10}、急ごう!",
    "raw": null,
-   "en": "{0b:08}【 Arthur 】{0b:09}\nTen days already...? {10}, let's\nhurry!",
+   "en": "{0b:08}【 Arthur 】{0b:09}\nTen days already...? {10},\nlet's hurry!",
    "status": "done",
    "tl": "Ten days already...? [HERO], let's hurry!"
   },
@@ -624,7 +624,7 @@
    "jp": "{0b:08}{e087} シャルン {e088}{0b:09}\nもう20日経ったみたいだね・・・\n最後まであきらめずに頑張ろうよ!",
    "read": "{0b:08}【 シャルン 】{0b:09}\nもう20日経ったみたいだね・・・\n最後まであきらめずに頑張ろうよ!",
    "raw": null,
-   "en": "{0b:08}【 Scharn 】{0b:09}\nLooks like twenty days have passed...\nLet's not give up and do our best to the\nend!",
+   "en": "{0b:08}【 Scharn 】{0b:09}\nLooks like twenty days have passed...\nLet's not give up and do our best to\nthe end!",
    "status": "done",
    "tl": "Looks like twenty days have passed... Let's not give up and do our best to the end!"
   },
@@ -636,7 +636,7 @@
    "jp": "{0b:08}{e087} オルフェウス {e088}{0b:09}\nもう20日経ったみたいですね・・・",
    "read": "{0b:08}【 オルフェウス 】{0b:09}\nもう20日経ったみたいですね・・・",
    "raw": null,
-   "en": "{0b:08}【 Orpheus 】{0b:09}\nIt seems twenty days have gone by\nalready...",
+   "en": "{0b:08}【 Orpheus 】{0b:09}\nIt seems twenty days have gone\nby already...",
    "status": "done",
    "tl": "It seems twenty days have gone by already..."
   },
@@ -660,7 +660,7 @@
    "jp": "{0b:08}{e087} オルフェウス {e088}{0b:09}\nもう20日経ったみたいですね・・・",
    "read": "{0b:08}【 オルフェウス 】{0b:09}\nもう20日経ったみたいですね・・・",
    "raw": null,
-   "en": "{0b:08}【 Orpheus 】{0b:09}\nIt seems twenty days have gone by\nalready...",
+   "en": "{0b:08}【 Orpheus 】{0b:09}\nIt seems twenty days have gone\nby already...",
    "status": "done",
    "tl": "It seems twenty days have gone by already..."
   },
@@ -695,7 +695,7 @@
    "jp": "{0b:08}{e087} ノエル {e088}{0b:09}\n20日が経過したわ。\n先を急ぎましょ。",
    "read": "{0b:08}【 ノエル 】{0b:09}\n20日が経過したわ。\n先を急ぎましょ。",
    "raw": null,
-   "en": "{0b:08}【 Noel 】{0b:09}\nTwenty days have passed. Let's hurry\non.",
+   "en": "{0b:08}【 Noel 】{0b:09}\nTwenty days have passed. Let's\nhurry on.",
    "status": "done",
    "tl": "Twenty days have passed. Let's hurry on."
   },
@@ -729,7 +729,7 @@
    "jp": "{0b:08}{e087} ルカ {e088}{0b:09}\nも、もう20日も経っちゃった\nみたいです・・・{1a}残り10日しかありませんが\nだ、大丈夫でしょうか・・・\n心配になってきました・・・",
    "read": "{0b:08}【 ルカ 】{0b:09}\nも、もう20日も経っちゃった\nみたいです・・・{1a}残り10日しかありませんが\nだ、大丈夫でしょうか・・・\n心配になってきました・・・",
    "raw": null,
-   "en": "{0b:08}【 Luca 】{0b:09}\nTwenty days have a-already gone by, it\nseems...{1a}There are only ten days left, but will we\nbe a-all right...? I am starting to worry...",
+   "en": "{0b:08}【 Luca 】{0b:09}\nTwenty days have a-already gone by,\nit seems...{1a}There are only ten days left, but will we\nbe a-all right...? I am starting to worry...",
    "status": "done",
    "tl": "Twenty days have a-already gone by, it seems... // There are only ten days left, but will we be a-all right...? I am starting to worry..."
   },
@@ -788,7 +788,7 @@
    "jp": "{0b:08}{e087} アーサー {e088}{0b:09}\n1ヶ月過ぎてしまったのか・・・{1a}あともう少しで\nたどり着けたんじゃないかと思うと\n素直に{e089}めきれないけど、\nここは戻るしかないんだな・・・{1a}{10}、帰ろう・・・",
    "read": "{0b:08}【 アーサー 】{0b:09}\n1ヶ月過ぎてしまったのか・・・{1a}あともう少しで\nたどり着けたんじゃないかと思うと\n素直に諦めきれないけど、\nここは戻るしかないんだな・・・{1a}{10}、帰ろう・・・",
    "raw": null,
-   "en": "{0b:08}【 Arthur 】{0b:09}\nSo a month has gone by...{1a}When I think we might have reached it\nwith just a little more, I can't simply give\nup, but we have no choice but to go\nback...{1a}{10}, let's go home...",
+   "en": "{0b:08}【 Arthur 】{0b:09}\nSo a month has gone by...{1a}When I think we might have reached it\nwith just a little more, I can't simply give\nup, but we have no choice but to\ngo back...{1a}{10}, let's go home...",
    "status": "done",
    "tl": "So a month has gone by... // When I think we might have reached it with just a little more, I can't simply give up, but we have no choice but to go back... // [HERO], let's go home..."
   },
@@ -811,7 +811,7 @@
    "jp": "{0b:08}{e087} エレアノール {e088}{0b:09}\n1ヶ月過ぎてしまいましたか・・・\nすみません、{10}、\n私の予想が甘かったようです・・・{1a}悔やんでも悔やみきれませんが、\nここはサディーヤさんの指示{e090}り\n地上に戻りましょう。",
    "read": "{0b:08}【 エレアノール 】{0b:09}\n1ヶ月過ぎてしまいましたか・・・\nすみません、{10}、\n私の予想が甘かったようです・・・{1a}悔やんでも悔やみきれませんが、\nここはサディーヤさんの指示通り\n地上に戻りましょう。",
    "raw": null,
-   "en": "{0b:08}【 Eleanor 】{0b:09}\nA month has gone by, then... I am sorry,\n{10}. My estimate was too\noptimistic...{1a}No regret can undo this, but let us\nreturn to the surface as Sadiya-san\ninstructed.",
+   "en": "{0b:08}【 Eleanor 】{0b:09}\nA month has gone by, then... I am sorry,\n{10}. My estimate was\ntoo optimistic...{1a}No regret can undo this, but let us\nreturn to the surface as\nSadiya-san instructed.",
    "status": "done",
    "tl": "A month has gone by, then... I am sorry, [HERO]. My estimate was too optimistic... // No regret can undo this, but let us return to the surface as Sadiya-san instructed."
   },
@@ -823,7 +823,7 @@
    "jp": "{0b:08}{e087} パスカ {e088}{0b:09}\nちっ、\nとうとう1ヶ月経っちまったか・・・{1a}あともう少しで\n例のなんとかって植物のあるところに\n行けてたんじゃねえかって思うと\n悔やんでも悔やみきれねえけど、{1a}ここは{e089}めるしかねえんだよな。\n戻ろうぜ、{10}。",
    "read": "{0b:08}【 パスカ 】{0b:09}\nちっ、\nとうとう1ヶ月経っちまったか・・・{1a}あともう少しで\n例のなんとかって植物のあるところに\n行けてたんじゃねえかって思うと\n悔やんでも悔やみきれねえけど、{1a}ここは諦めるしかねえんだよな。\n戻ろうぜ、{10}。",
    "raw": null,
-   "en": "{0b:08}【 Pasca 】{0b:09}\nTch, so the month's finally up...{1a}When I think we might've made it to\nwhere that whatchamacallit plant grows,\nwith just a little more, I could kick\nmyself,{1a}but we gotta give up here, I guess. Let's\nhead back, {10}.",
+   "en": "{0b:08}【 Pasca 】{0b:09}\nTch, so the month's finally up...{1a}When I think we might've made it to\nwhere that whatchamacallit plant grows,\nwith just a little more, I could\nkick myself,{1a}but we gotta give up here, I guess. Let's\nhead back, {10}.",
    "status": "done",
    "tl": "Tch, so the month's finally up... // When I think we might've made it to where that whatchamacallit plant grows, with just a little more, I could kick myself, // but we gotta give up here, I guess. Let's head back, [HERO]."
   },
@@ -986,7 +986,7 @@
    "jp": "{1c:63}{e084}{e085}の{e080}だ。\n{e086}やすことが出来そうだ。",
    "read": "{1c:63}木製の門だ。\n燃やすことが出来そうだ。",
    "raw": null,
-   "en": "{1c:63}A wooden gate. It looks like it could be\nburned.",
+   "en": "{1c:63}A wooden gate. It looks like it could\nbe burned.",
    "status": "done",
    "tl": "A wooden gate. It looks like it could be burned."
   },
@@ -998,7 +998,7 @@
    "jp": "{1c:63}{e084}{e085}の{e080}だ。\n{e086}やすことが出来そうだ。",
    "read": "{1c:63}木製の門だ。\n燃やすことが出来そうだ。",
    "raw": null,
-   "en": "{1c:63}A wooden gate. It looks like it could be\nburned.",
+   "en": "{1c:63}A wooden gate. It looks like it could\nbe burned.",
    "status": "done",
    "tl": "A wooden gate. It looks like it could be burned."
   },
@@ -1010,7 +1010,7 @@
    "jp": "{1c:63}{e084}{e085}の{e080}だ。\n{e086}やすことが出来そうだ。",
    "read": "{1c:63}木製の門だ。\n燃やすことが出来そうだ。",
    "raw": null,
-   "en": "{1c:63}A wooden gate. It looks like it could be\nburned.",
+   "en": "{1c:63}A wooden gate. It looks like it could\nbe burned.",
    "status": "done",
    "tl": "A wooden gate. It looks like it could be burned."
   },
@@ -1022,7 +1022,7 @@
    "jp": "{1c:63}{e084}{e085}の{e080}だ。\n{e086}やすことが出来そうだ。",
    "read": "{1c:63}木製の門だ。\n燃やすことが出来そうだ。",
    "raw": null,
-   "en": "{1c:63}A wooden gate. It looks like it could be\nburned.",
+   "en": "{1c:63}A wooden gate. It looks like it could\nbe burned.",
    "status": "done",
    "tl": "A wooden gate. It looks like it could be burned."
   },
@@ -1034,7 +1034,7 @@
    "jp": "{1c:63}{e084}{e085}の{e080}だ。\n{e086}やすことが出来そうだ。",
    "read": "{1c:63}木製の門だ。\n燃やすことが出来そうだ。",
    "raw": null,
-   "en": "{1c:63}A wooden gate. It looks like it could be\nburned.",
+   "en": "{1c:63}A wooden gate. It looks like it could\nbe burned.",
    "status": "done",
    "tl": "A wooden gate. It looks like it could be burned."
   },
@@ -1046,7 +1046,7 @@
    "jp": "{1c:63}{e084}{e085}の{e080}だ。\n{e086}やすことが出来そうだ。",
    "read": "{1c:63}木製の門だ。\n燃やすことが出来そうだ。",
    "raw": null,
-   "en": "{1c:63}A wooden gate. It looks like it could be\nburned.",
+   "en": "{1c:63}A wooden gate. It looks like it could\nbe burned.",
    "status": "done",
    "tl": "A wooden gate. It looks like it could be burned."
   },
@@ -1058,7 +1058,7 @@
    "jp": "{1c:63}{e084}{e085}の{e080}だ。\n{e086}やすことが出来そうだ。",
    "read": "{1c:63}木製の門だ。\n燃やすことが出来そうだ。",
    "raw": null,
-   "en": "{1c:63}A wooden gate. It looks like it could be\nburned.",
+   "en": "{1c:63}A wooden gate. It looks like it could\nbe burned.",
    "status": "done",
    "tl": "A wooden gate. It looks like it could be burned."
   },
@@ -1092,7 +1092,7 @@
    "jp": "{1c:63}{e084}{e085}の{e080}だ。\n{e086}やすことが出来そうだ。",
    "read": "{1c:63}木製の門だ。\n燃やすことが出来そうだ。",
    "raw": null,
-   "en": "{1c:63}A wooden gate. It looks like it could be\nburned.",
+   "en": "{1c:63}A wooden gate. It looks like it could\nbe burned.",
    "status": "done",
    "tl": "A wooden gate. It looks like it could be burned."
   },
@@ -1104,7 +1104,7 @@
    "jp": "{1c:63}{e084}{e085}の{e080}だ。\n{e086}やすことが出来そうだ。",
    "read": "{1c:63}木製の門だ。\n燃やすことが出来そうだ。",
    "raw": null,
-   "en": "{1c:63}A wooden gate. It looks like it could be\nburned.",
+   "en": "{1c:63}A wooden gate. It looks like it could\nbe burned.",
    "status": "done",
    "tl": "A wooden gate. It looks like it could be burned."
   },
@@ -1116,7 +1116,7 @@
    "jp": "{1c:63}{e084}{e085}の{e080}だ。\n{e086}やすことが出来そうだ。",
    "read": "{1c:63}木製の門だ。\n燃やすことが出来そうだ。",
    "raw": null,
-   "en": "{1c:63}A wooden gate. It looks like it could be\nburned.",
+   "en": "{1c:63}A wooden gate. It looks like it could\nbe burned.",
    "status": "done",
    "tl": "A wooden gate. It looks like it could be burned."
   },
@@ -1128,7 +1128,7 @@
    "jp": "{1c:63}{e084}{e085}の{e080}だ。\n{e086}やすことが出来そうだ。",
    "read": "{1c:63}木製の門だ。\n燃やすことが出来そうだ。",
    "raw": null,
-   "en": "{1c:63}A wooden gate. It looks like it could be\nburned.",
+   "en": "{1c:63}A wooden gate. It looks like it could\nbe burned.",
    "status": "done",
    "tl": "A wooden gate. It looks like it could be burned."
   },
@@ -1140,7 +1140,7 @@
    "jp": "{1c:63}{e084}{e085}の{e080}だ。\n{e086}やすことが出来そうだ。",
    "read": "{1c:63}木製の門だ。\n燃やすことが出来そうだ。",
    "raw": null,
-   "en": "{1c:63}A wooden gate. It looks like it could be\nburned.",
+   "en": "{1c:63}A wooden gate. It looks like it could\nbe burned.",
    "status": "done",
    "tl": "A wooden gate. It looks like it could be burned."
   },
@@ -1152,7 +1152,7 @@
    "jp": "{1c:63}{e084}{e085}の{e080}だ。\n{e086}やすことが出来そうだ。",
    "read": "{1c:63}木製の門だ。\n燃やすことが出来そうだ。",
    "raw": null,
-   "en": "{1c:63}A wooden gate. It looks like it could be\nburned.",
+   "en": "{1c:63}A wooden gate. It looks like it could\nbe burned.",
    "status": "done",
    "tl": "A wooden gate. It looks like it could be burned."
   },
@@ -1164,7 +1164,7 @@
    "jp": "{1c:63}{e084}{e085}の{e080}だ。\n{e086}やすことが出来そうだ。",
    "read": "{1c:63}木製の門だ。\n燃やすことが出来そうだ。",
    "raw": null,
-   "en": "{1c:63}A wooden gate. It looks like it could be\nburned.",
+   "en": "{1c:63}A wooden gate. It looks like it could\nbe burned.",
    "status": "done",
    "tl": "A wooden gate. It looks like it could be burned."
   },
@@ -1198,7 +1198,7 @@
    "jp": "{1c:63}{e084}{e085}の{e080}だ。\n{e086}やすことが出来そうだ。",
    "read": "{1c:63}木製の門だ。\n燃やすことが出来そうだ。",
    "raw": null,
-   "en": "{1c:63}A wooden gate. It looks like it could be\nburned.",
+   "en": "{1c:63}A wooden gate. It looks like it could\nbe burned.",
    "status": "done",
    "tl": "A wooden gate. It looks like it could be burned."
   },
@@ -1210,7 +1210,7 @@
    "jp": "{1c:63}{e084}{e085}の{e080}だ。\n{e086}やすことが出来そうだ。",
    "read": "{1c:63}木製の門だ。\n燃やすことが出来そうだ。",
    "raw": null,
-   "en": "{1c:63}A wooden gate. It looks like it could be\nburned.",
+   "en": "{1c:63}A wooden gate. It looks like it could\nbe burned.",
    "status": "done",
    "tl": "A wooden gate. It looks like it could be burned."
   },
@@ -1222,7 +1222,7 @@
    "jp": "{1c:63}{e080}を{e081}ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "read": "{1c:63}門を開ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "raw": null,
-   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot be\nused.",
+   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot\nbe used.",
    "status": "done",
    "tl": "It seems to be a winch that opens the gate. The chain is torn, so it cannot be used."
   },
@@ -1234,7 +1234,7 @@
    "jp": "{1c:63}{e080}を{e081}ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "read": "{1c:63}門を開ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "raw": null,
-   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot be\nused.",
+   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot\nbe used.",
    "status": "done",
    "tl": "It seems to be a winch that opens the gate. The chain is torn, so it cannot be used."
   },
@@ -1246,7 +1246,7 @@
    "jp": "{1c:63}{e080}を{e081}ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "read": "{1c:63}門を開ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "raw": null,
-   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot be\nused.",
+   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot\nbe used.",
    "status": "done",
    "tl": "It seems to be a winch that opens the gate. The chain is torn, so it cannot be used."
   },
@@ -1258,7 +1258,7 @@
    "jp": "{1c:63}{e080}を{e081}ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "read": "{1c:63}門を開ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "raw": null,
-   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot be\nused.",
+   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot\nbe used.",
    "status": "done",
    "tl": "It seems to be a winch that opens the gate. The chain is torn, so it cannot be used."
   },
@@ -1270,7 +1270,7 @@
    "jp": "{1c:63}{e080}を{e081}ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "read": "{1c:63}門を開ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "raw": null,
-   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot be\nused.",
+   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot\nbe used.",
    "status": "done",
    "tl": "It seems to be a winch that opens the gate. The chain is torn, so it cannot be used."
   },
@@ -1282,7 +1282,7 @@
    "jp": "{1c:63}{e080}を{e081}ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "read": "{1c:63}門を開ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "raw": null,
-   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot be\nused.",
+   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot\nbe used.",
    "status": "done",
    "tl": "It seems to be a winch that opens the gate. The chain is torn, so it cannot be used."
   },
@@ -1294,7 +1294,7 @@
    "jp": "{1c:63}{e080}を{e081}ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "read": "{1c:63}門を開ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "raw": null,
-   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot be\nused.",
+   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot\nbe used.",
    "status": "done",
    "tl": "It seems to be a winch that opens the gate. The chain is torn, so it cannot be used."
   },
@@ -1328,7 +1328,7 @@
    "jp": "{1c:63}{e080}を{e081}ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "read": "{1c:63}門を開ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "raw": null,
-   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot be\nused.",
+   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot\nbe used.",
    "status": "done",
    "tl": "It seems to be a winch that opens the gate. The chain is torn, so it cannot be used."
   },
@@ -1340,7 +1340,7 @@
    "jp": "{1c:63}{e080}を{e081}ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "read": "{1c:63}門を開ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "raw": null,
-   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot be\nused.",
+   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot\nbe used.",
    "status": "done",
    "tl": "It seems to be a winch that opens the gate. The chain is torn, so it cannot be used."
   },
@@ -1352,7 +1352,7 @@
    "jp": "{1c:63}{e080}を{e081}ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "read": "{1c:63}門を開ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "raw": null,
-   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot be\nused.",
+   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot\nbe used.",
    "status": "done",
    "tl": "It seems to be a winch that opens the gate. The chain is torn, so it cannot be used."
   },
@@ -1364,7 +1364,7 @@
    "jp": "{1c:63}{e080}を{e081}ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "read": "{1c:63}門を開ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "raw": null,
-   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot be\nused.",
+   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot\nbe used.",
    "status": "done",
    "tl": "It seems to be a winch that opens the gate. The chain is torn, so it cannot be used."
   },
@@ -1376,7 +1376,7 @@
    "jp": "{1c:63}{e080}を{e081}ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "read": "{1c:63}門を開ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "raw": null,
-   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot be\nused.",
+   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot\nbe used.",
    "status": "done",
    "tl": "It seems to be a winch that opens the gate. The chain is torn, so it cannot be used."
   },
@@ -1388,7 +1388,7 @@
    "jp": "{1c:63}{e080}を{e081}ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "read": "{1c:63}門を開ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "raw": null,
-   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot be\nused.",
+   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot\nbe used.",
    "status": "done",
    "tl": "It seems to be a winch that opens the gate. The chain is torn, so it cannot be used."
   },
@@ -1400,7 +1400,7 @@
    "jp": "{1c:63}{e080}を{e081}ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "read": "{1c:63}門を開ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "raw": null,
-   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot be\nused.",
+   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot\nbe used.",
    "status": "done",
    "tl": "It seems to be a winch that opens the gate. The chain is torn, so it cannot be used."
   },
@@ -1434,7 +1434,7 @@
    "jp": "{1c:63}{e080}を{e081}ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "read": "{1c:63}門を開ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "raw": null,
-   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot be\nused.",
+   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot\nbe used.",
    "status": "done",
    "tl": "It seems to be a winch that opens the gate. The chain is torn, so it cannot be used."
   },
@@ -1446,7 +1446,7 @@
    "jp": "{1c:63}{e080}を{e081}ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "read": "{1c:63}門を開ける巻き上げ機のようだ。\n鎖がちぎれているので使用できない",
    "raw": null,
-   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot be\nused.",
+   "en": "{1c:63}It seems to be a winch that opens the\ngate. The chain is torn, so it cannot\nbe used.",
    "status": "done",
    "tl": "It seems to be a winch that opens the gate. The chain is torn, so it cannot be used."
   },

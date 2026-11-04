@@ -24,6 +24,7 @@ sys.path.insert(0, str(ROOT / "tools"))
 import check_rom  # noqa: E402
 import extract  # noqa: E402
 import insert  # noqa: E402
+import loose_scan  # noqa: E402
 import overlays  # noqa: E402
 import res  # noqa: E402
 import sprites  # noqa: E402
@@ -140,6 +141,9 @@ def build(marker=False, qa=None, out=OUT, only=None):
                 new = insert._fit_loose(doc, new)
             main_exe = insert.patch_loose(main_exe, doc, new, extract.main_pointers(blob), extract.MAIN_TEXT[0])
         elif src == "PSX.EXE":
+            if not marker:
+                rows = loose_scan.scan((tree / "MAIN.RES").read_bytes(), table)
+                pool = overlays.patch_loose_names(main_res, table, rows, pool, insert.SYSTEM_RAM + insert.SYSTEM_SIZE)
             blob = (tree / "PSX.EXE").read_bytes()
             codec = codec_for(doc, blob, glyphs, base)
             new = {}

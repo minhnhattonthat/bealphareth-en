@@ -30,9 +30,9 @@
    "jp": "({e080})\nすまないが助けてくれないか。",
    "read": "(仮)\nすまないが助けてくれないか。",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Sorry, but could you help me out?",
+   "status": "done",
+   "tl": "Sorry, but could you help me out?"
   },
   {
    "id": "RES#5:b2bb",
@@ -54,9 +54,9 @@
    "jp": "({e080})\nそうか助けてくれるか。\n怪物どもに閉じ{e082}められてしまって\nどうしたものかと思っとったんじゃ。{1a}すまんが出口まで案{e084}してくれないか。\nその前に少し休むとするか。",
    "read": "(仮)\nそうか助けてくれるか。\n怪物どもに閉じ込められてしまって\nどうしたものかと思っとったんじゃ。{1a}すまんが出口まで案内してくれないか。\nその前に少し休むとするか。",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Ah, you'll help me, then. The monsters\nhad me shut in here, and I was at my\nwits' end.{1a}Sorry to ask, but could you guide me to\nthe exit? Let me rest a little first.",
+   "status": "done",
+   "tl": "Ah, you'll help me, then. The monsters had me shut in here, and I was at my wits' end. // Sorry to ask, but could you guide me to the exit? Let me rest a little first."
   },
   {
    "id": "RES#5:b328",
@@ -66,9 +66,9 @@
    "jp": "({e080})\nそうか自分で何とかするか。",
    "read": "(仮)\nそうか自分で何とかするか。",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "I see, you'll manage on your own, then.",
+   "status": "done",
+   "tl": "I see, you'll manage on your own, then."
   },
   {
    "id": "RES#5:b340",
@@ -78,9 +78,9 @@
    "jp": "({e080})\nそんなに急がないでくれ。\n一応これでも怪我人なんだから。",
    "read": "(仮)\nそんなに急がないでくれ。\n一応これでも怪我人なんだから。",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Don't go so fast, please. I'm injured,\nyou know.",
+   "status": "done",
+   "tl": "Don't go so fast, please. I'm injured, you know."
   },
   {
    "id": "RES#5:b36a",
@@ -90,9 +90,9 @@
    "jp": "({e080})\nここまでくれば大丈夫だ。\n本当にありがとう。\nこの先も気を付けて行けよ。",
    "read": "(仮)\nここまでくれば大丈夫だ。\n本当にありがとう。\nこの先も気を付けて行けよ。",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "I'll be all right from here. Thank you so\nmuch. Take care going on from here.",
+   "status": "done",
+   "tl": "I'll be all right from here. Thank you so much. Take care going on from here."
   },
   {
    "id": "RES#5:b39f",
@@ -102,9 +102,9 @@
    "jp": "({e080})\n本当にありがとう。\nこの先も気を付けて行けよ。",
    "read": "(仮)\n本当にありがとう。\nこの先も気を付けて行けよ。",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Thank you so much. Take care going on\nfrom here.",
+   "status": "done",
+   "tl": "Thank you so much. Take care going on from here."
   },
   {
    "id": "RES#5:b3c4",
@@ -630,7 +630,7 @@
    "jp": "変わった{e08b}のスイッチだな。\n押してみるよ。",
    "read": "変わった形のスイッチだな。\n押してみるよ。",
    "raw": null,
-   "en": "A strange-looking switch. I'll try pressing\nit.",
+   "en": "A strange-looking switch. I'll try\npressing it.",
    "status": "done",
    "tl": "A strange-looking switch. I'll try pressing it."
   },
@@ -738,7 +738,7 @@
    "jp": "どうしてこのぼくが\nこんな下っ端の仕事を・・・",
    "read": "どうしてこのぼくが\nこんな下っ端の仕事を・・・",
    "raw": null,
-   "en": "Why must one such as I do such menial\nwork...",
+   "en": "Why must one such as I do such\nmenial work...",
    "status": "done",
    "tl": "Why must one such as I do such menial work..."
   },
@@ -894,7 +894,7 @@
    "jp": "もう動かせそうにはありません。",
    "read": "もう動かせそうにはありません。",
    "raw": null,
-   "en": "It does not appear it can be moved any\nlonger.",
+   "en": "It does not appear it can be moved\nany longer.",
    "status": "done",
    "tl": "It does not appear it can be moved any longer."
   },
@@ -1050,7 +1050,7 @@
    "jp": "もう動きそうにありません。",
    "read": "もう動きそうにありません。",
    "raw": null,
-   "en": "It does not look like it will move any\nlonger.",
+   "en": "It does not look like it will move\nany longer.",
    "status": "done",
    "tl": "It does not look like it will move any longer."
   },
@@ -1218,7 +1218,7 @@
    "jp": "どうしてこのぼくが\nこんな下っ端の仕事を・・・",
    "read": "どうしてこのぼくが\nこんな下っ端の仕事を・・・",
    "raw": null,
-   "en": "Why must one such as I do such menial\nwork...",
+   "en": "Why must one such as I do such\nmenial work...",
    "status": "done",
    "tl": "Why must one such as I do such menial work..."
   },
@@ -1374,7 +1374,7 @@
    "jp": "踏んだときのみ{e090}動する装{e096}です。\n何かおもりになる物はありませんか?\n軽い物では駄目なようです。",
    "read": "踏んだときのみ作動する装置です。\n何かおもりになる物はありませんか?\n軽い物では駄目なようです。",
    "raw": null,
-   "en": "This device works only when stepped on.\nIs there anything that could serve as a\nweight? Something light will not do, it\nseems.",
+   "en": "This device works only when stepped on.\nIs there anything that could serve as a\nweight? Something light will not do,\nit seems.",
    "status": "done",
    "tl": "This device works only when stepped on. Is there anything that could serve as a weight? Something light will not do, it seems."
   },
@@ -1386,7 +1386,7 @@
    "jp": "おもりになる物持ってこなくちゃな。",
    "read": "おもりになる物持ってこなくちゃな。",
    "raw": null,
-   "en": "Gotta bring somethin' heavy to weigh it\ndown.",
+   "en": "Gotta bring somethin' heavy to weigh\nit down.",
    "status": "done",
    "tl": "Gotta bring somethin' heavy to weigh it down."
   },
@@ -1482,7 +1482,7 @@
    "jp": "一定以上の加重で{e090}動する装{e096}だ。",
    "read": "一定以上の加重で作動する装置だ。",
    "raw": null,
-   "en": "A device that activates under a set\nload.",
+   "en": "A device that activates under a\nset load.",
    "status": "done",
    "tl": "A device that activates under a set load."
   },
@@ -1578,7 +1578,7 @@
    "jp": "板みたいなのが出てくる穴だな。",
    "read": "板みたいなのが出てくる穴だな。",
    "raw": null,
-   "en": "It's a hole some kinda board comes out\nof.",
+   "en": "It's a hole some kinda board comes\nout of.",
    "status": "done",
    "tl": "It's a hole some kinda board comes out of."
   },
@@ -1614,7 +1614,7 @@
    "jp": "薄い{e09a}が出てくる穴ですね。",
    "read": "薄い壁が出てくる穴ですね。",
    "raw": null,
-   "en": "This is the hole the thin wall comes out\nof.",
+   "en": "This is the hole the thin wall comes\nout of.",
    "status": "done",
    "tl": "This is the hole the thin wall comes out of."
   },
@@ -1626,7 +1626,7 @@
    "jp": "こんなのに用はねえだろ。",
    "read": "こんなのに用はねえだろ。",
    "raw": null,
-   "en": "Ain't got no business with a thing like\nthis.",
+   "en": "Ain't got no business with a thing\nlike this.",
    "status": "done",
    "tl": "Ain't got no business with a thing like this."
   },
@@ -1662,7 +1662,7 @@
    "jp": "薄い{e09a}が出てくる穴だよ。",
    "read": "薄い壁が出てくる穴だよ。",
    "raw": null,
-   "en": "It's a hole a thin wall comes out of, you\nknow!",
+   "en": "It's a hole a thin wall comes out of,\nyou know!",
    "status": "done",
    "tl": "It's a hole a thin wall comes out of, you know!"
   },
@@ -1686,7 +1686,7 @@
    "jp": "薄い{e09a}が出てくる穴でしょ?",
    "read": "薄い壁が出てくる穴でしょ?",
    "raw": null,
-   "en": "It's the hole the thin wall comes out of,\nright?",
+   "en": "It's the hole the thin wall comes out\nof, right?",
    "status": "done",
    "tl": "It's the hole the thin wall comes out of, right?"
   },
@@ -1782,7 +1782,7 @@
    "jp": "薄い{e09a}が出てくる穴だよね。",
    "read": "薄い壁が出てくる穴だよね。",
    "raw": null,
-   "en": "It's the hole a thin wall comes out of,\nright?",
+   "en": "It's the hole a thin wall comes out\nof, right?",
    "status": "done",
    "tl": "It's the hole a thin wall comes out of, right?"
   },
@@ -1866,7 +1866,7 @@
    "jp": "固えな。\nとてもじゃねえが壊れそうにねえぜ。",
    "read": "固えな。\nとてもじゃねえが壊れそうにねえぜ。",
    "raw": null,
-   "en": "Hard as hell. Ain't no way this is gonna\nbreak.",
+   "en": "Hard as hell. Ain't no way this is\ngonna break.",
    "status": "done",
    "tl": "Hard as hell. Ain't no way this is gonna break."
   },
@@ -1938,7 +1938,7 @@
    "jp": "ただの{e09a}ですよ。\n見たらわかりませんか?",
    "read": "ただの壁ですよ。\n見たらわかりませんか?",
    "raw": null,
-   "en": "It is merely a wall. Can you not tell by\nlooking?",
+   "en": "It is merely a wall. Can you not tell\nby looking?",
    "status": "done",
    "tl": "It is merely a wall. Can you not tell by looking?"
   },
@@ -1974,7 +1974,7 @@
    "jp": "一体なにで出来てるの?\n{e0a1}{e0a2}だけでなく、\n生物の{e0aa}徴も備えてるなんて・・・",
    "read": "一体なにで出来てるの?\n金属だけでなく、\n生物の特徴も備えてるなんて・・・",
    "raw": null,
-   "en": "What on earth is it made of? To have\nthe traits of a living thing, not just\nmetal...",
+   "en": "What on earth is it made of? To have\nthe traits of a living thing, not\njust metal...",
    "status": "done",
    "tl": "What on earth is it made of? To have the traits of a living thing, not just metal..."
   },
@@ -2010,7 +2010,7 @@
    "jp": "びくともしないです。\nスイッチを{e09f}しませんか?",
    "read": "びくともしないです。\nスイッチを探しませんか?",
    "raw": null,
-   "en": "It will not budge at all. Shall we look for a\nswitch?",
+   "en": "It will not budge at all. Shall we look for\na switch?",
    "status": "done",
    "tl": "It will not budge at all. Shall we look for a switch?"
   },
@@ -2070,7 +2070,7 @@
    "jp": "邪{e0ad}の女神の{e0ac}なのか?",
    "read": "邪教の女神の像なのか?",
    "raw": null,
-   "en": "Is this a goddess of some heathen\nfaith?",
+   "en": "Is this a goddess of some\nheathen faith?",
    "status": "done",
    "tl": "Is this a goddess of some heathen faith?"
   },
@@ -2154,7 +2154,7 @@
    "jp": "ぼくにとっての女神は\n{10}さんだけですよ。",
    "read": "ぼくにとっての女神は\n{10}さんだけですよ。",
    "raw": null,
-   "en": "To me, the only goddess is you,\n{10}-san.",
+   "en": "To me, the only goddess is\nyou, {10}-san.",
    "status": "done",
    "tl": "To me, the only goddess is you, [HERO]-san."
   },
@@ -2238,7 +2238,7 @@
    "jp": "{e0ae}{e0b3}{e0b4}{e0b5}の守り神なのかな・・・",
    "read": "太陽帝国の守り神なのかな・・・",
    "raw": null,
-   "en": "I wonder if it's a guardian god of the Sun\nEmpire...",
+   "en": "I wonder if it's a guardian god of the\nSun Empire...",
    "status": "done",
    "tl": "I wonder if it's a guardian god of the Sun Empire..."
   },
@@ -2262,7 +2262,7 @@
    "jp": "大昔の女神様なんだよね、これって。",
    "read": "大昔の女神様なんだよね、これって。",
    "raw": null,
-   "en": "This is a goddess from long, long ago,\nright?",
+   "en": "This is a goddess from long, long\nago, right?",
    "status": "done",
    "tl": "This is a goddess from long, long ago, right?"
   },
@@ -2298,7 +2298,7 @@
    "jp": "さっきまで{e0ac}があった場所だぞ。",
    "read": "さっきまで像があった場所だぞ。",
    "raw": null,
-   "en": "That's where the statue was just now,\ny'know.",
+   "en": "That's where the statue was just\nnow, y'know.",
    "status": "done",
    "tl": "That's where the statue was just now, y'know."
   },
@@ -2490,7 +2490,7 @@
    "jp": "神{e0ac}があった場所ですよね。",
    "read": "神像があった場所ですよね。",
    "raw": null,
-   "en": "This is where the god's statue was, is it\nnot?",
+   "en": "This is where the god's statue was, is\nit not?",
    "status": "done",
    "tl": "This is where the god's statue was, is it not?"
   },
@@ -2670,7 +2670,7 @@
    "jp": "ま、なるようになるでしょ。",
    "read": "ま、なるようになるでしょ。",
    "raw": null,
-   "en": "Well, whatever happens, happens, I\nsuppose.",
+   "en": "Well, whatever happens, happens,\nI suppose.",
    "status": "done",
    "tl": "Well, whatever happens, happens, I suppose."
   },
@@ -2682,7 +2682,7 @@
    "jp": "{e08a}気が揺れている・・・\nこれで重力を{e0c0}御して\nいるのか・・・?",
    "read": "空気が揺れている・・・\nこれで重力を制御して\nいるのか・・・?",
    "raw": null,
-   "en": "The air trembles... Does this control\ngravity...?",
+   "en": "The air trembles... Does this\ncontrol gravity...?",
    "status": "done",
    "tl": "The air trembles... Does this control gravity...?"
   },
@@ -2994,9 +2994,9 @@
    "jp": "({e080}){e0ae}{e0b3}が輝くとき道は{e087}かれる",
    "read": "(仮)太陽が輝くとき道は開かれる",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "When the sun shines, the way shall open.",
+   "status": "done",
+   "tl": "When the sun shines, the way shall open."
   },
   {
    "id": "RES#5:c328",
@@ -3006,9 +3006,9 @@
    "jp": "({e080}){e0ae}{e0b3}が輝くとき道は{e087}かれる",
    "read": "(仮)太陽が輝くとき道は開かれる",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "When the sun shines, the way shall open.",
+   "status": "done",
+   "tl": "When the sun shines, the way shall open."
   },
   {
    "id": "RES#5:c341",
@@ -3018,9 +3018,9 @@
    "jp": "({e080}){e0ae}{e0b3}が輝くとき道は{e087}かれる",
    "read": "(仮)太陽が輝くとき道は開かれる",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "When the sun shines, the way shall open.",
+   "status": "done",
+   "tl": "When the sun shines, the way shall open."
   },
   {
    "id": "RES#5:c35a",
@@ -3030,9 +3030,9 @@
    "jp": "({e080}){e0ae}{e0b3}が輝くとき道は{e087}かれる",
    "read": "(仮)太陽が輝くとき道は開かれる",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "When the sun shines, the way shall open.",
+   "status": "done",
+   "tl": "When the sun shines, the way shall open."
   },
   {
    "id": "RES#5:c373",
@@ -3042,9 +3042,9 @@
    "jp": "({e080}){e0ae}{e0b3}が輝くとき道は{e087}かれる",
    "read": "(仮)太陽が輝くとき道は開かれる",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "When the sun shines, the way shall open.",
+   "status": "done",
+   "tl": "When the sun shines, the way shall open."
   },
   {
    "id": "RES#5:c38c",
@@ -3054,9 +3054,9 @@
    "jp": "({e080}){e0ae}{e0b3}が輝くとき道は{e087}かれる",
    "read": "(仮)太陽が輝くとき道は開かれる",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "When the sun shines, the way shall open.",
+   "status": "done",
+   "tl": "When the sun shines, the way shall open."
   },
   {
    "id": "RES#5:c3a5",
@@ -3066,9 +3066,9 @@
    "jp": "({e080}){e0ae}{e0b3}が輝くとき道は{e087}かれる",
    "read": "(仮)太陽が輝くとき道は開かれる",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "When the sun shines, the way shall open.",
+   "status": "done",
+   "tl": "When the sun shines, the way shall open."
   },
   {
    "id": "RES#5:c3be",
@@ -3078,9 +3078,9 @@
    "jp": "({e080}){e0ae}{e0b3}が輝くとき道は{e087}かれる",
    "read": "(仮)太陽が輝くとき道は開かれる",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "When the sun shines, the way shall open.",
+   "status": "done",
+   "tl": "When the sun shines, the way shall open."
   },
   {
    "id": "RES#5:c3d7",
@@ -3090,9 +3090,9 @@
    "jp": "({e080}){e0ae}{e0b3}が輝くとき道は{e087}かれる",
    "read": "(仮)太陽が輝くとき道は開かれる",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "When the sun shines, the way shall open.",
+   "status": "done",
+   "tl": "When the sun shines, the way shall open."
   },
   {
    "id": "RES#5:c3f0",
@@ -3102,9 +3102,9 @@
    "jp": "({e080}){e0ae}{e0b3}が輝くとき道は{e087}かれる",
    "read": "(仮)太陽が輝くとき道は開かれる",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "When the sun shines, the way shall open.",
+   "status": "done",
+   "tl": "When the sun shines, the way shall open."
   },
   {
    "id": "RES#5:c409",
@@ -3114,9 +3114,9 @@
    "jp": "({e080}){e0ae}{e0b3}が輝くとき道は{e087}かれる",
    "read": "(仮)太陽が輝くとき道は開かれる",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "When the sun shines, the way shall open.",
+   "status": "done",
+   "tl": "When the sun shines, the way shall open."
   },
   {
    "id": "RES#5:c422",
@@ -3126,9 +3126,9 @@
    "jp": "({e080}){e0ae}{e0b3}が輝くとき道は{e087}かれる",
    "read": "(仮)太陽が輝くとき道は開かれる",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "When the sun shines, the way shall open.",
+   "status": "done",
+   "tl": "When the sun shines, the way shall open."
   },
   {
    "id": "RES#5:c43b",
@@ -3138,9 +3138,9 @@
    "jp": "({e080}){e0ae}{e0b3}が輝くとき道は{e087}かれる",
    "read": "(仮)太陽が輝くとき道は開かれる",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "When the sun shines, the way shall open.",
+   "status": "done",
+   "tl": "When the sun shines, the way shall open."
   },
   {
    "id": "RES#5:c454",
@@ -3150,9 +3150,9 @@
    "jp": "({e080}){e0ae}{e0b3}が輝くとき道は{e087}かれる",
    "read": "(仮)太陽が輝くとき道は開かれる",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "When the sun shines, the way shall open.",
+   "status": "done",
+   "tl": "When the sun shines, the way shall open."
   },
   {
    "id": "RES#5:c46d",
@@ -3162,9 +3162,9 @@
    "jp": "({e080}){e0ae}{e0b3}が輝くとき道は{e087}かれる",
    "read": "(仮)太陽が輝くとき道は開かれる",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "When the sun shines, the way shall open.",
+   "status": "done",
+   "tl": "When the sun shines, the way shall open."
   },
   {
    "id": "RES#5:c486",
@@ -3174,9 +3174,9 @@
    "jp": "({e080}){e0ae}{e0b3}が輝くとき道は{e087}かれる",
    "read": "(仮)太陽が輝くとき道は開かれる",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "When the sun shines, the way shall open.",
+   "status": "done",
+   "tl": "When the sun shines, the way shall open."
   },
   {
    "id": "RES#5:c49f",
@@ -3186,9 +3186,9 @@
    "jp": "({e080}){e0ae}{e0b3}が輝くとき道は{e087}かれる",
    "read": "(仮)太陽が輝くとき道は開かれる",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "When the sun shines, the way shall open.",
+   "status": "done",
+   "tl": "When the sun shines, the way shall open."
   },
   {
    "id": "RES#5:c4b8",
@@ -3198,9 +3198,9 @@
    "jp": "({e080}){e0ae}{e0b3}が輝くとき道は{e087}かれる",
    "read": "(仮)太陽が輝くとき道は開かれる",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "When the sun shines, the way shall open.",
+   "status": "done",
+   "tl": "When the sun shines, the way shall open."
   },
   {
    "id": "RES#5:c4d1",
@@ -3210,9 +3210,9 @@
    "jp": "({e080}){e0ae}{e0b3}が輝くとき道は{e087}かれる",
    "read": "(仮)太陽が輝くとき道は開かれる",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "When the sun shines, the way shall open.",
+   "status": "done",
+   "tl": "When the sun shines, the way shall open."
   },
   {
    "id": "RES#5:c4ea",
@@ -3222,9 +3222,9 @@
    "jp": "({e080}){e0ae}{e0b3}が輝くとき道は{e087}かれる",
    "read": "(仮)太陽が輝くとき道は開かれる",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "When the sun shines, the way shall open.",
+   "status": "done",
+   "tl": "When the sun shines, the way shall open."
   },
   {
    "id": "RES#5:c503",
@@ -3234,9 +3234,9 @@
    "jp": "({e080}){e0c4}をたたえよ",
    "read": "(仮)水をたたえよ",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Fill it with water.",
+   "status": "done",
+   "tl": "Fill it with water."
   },
   {
    "id": "RES#5:c511",
@@ -3246,9 +3246,9 @@
    "jp": "({e080}){e0c4}をたたえよ",
    "read": "(仮)水をたたえよ",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Fill it with water.",
+   "status": "done",
+   "tl": "Fill it with water."
   },
   {
    "id": "RES#5:c51f",
@@ -3258,9 +3258,9 @@
    "jp": "({e080}){e0c4}をたたえよ",
    "read": "(仮)水をたたえよ",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Fill it with water.",
+   "status": "done",
+   "tl": "Fill it with water."
   },
   {
    "id": "RES#5:c52d",
@@ -3270,9 +3270,9 @@
    "jp": "({e080}){e0c4}をたたえよ",
    "read": "(仮)水をたたえよ",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Fill it with water.",
+   "status": "done",
+   "tl": "Fill it with water."
   },
   {
    "id": "RES#5:c53b",
@@ -3282,9 +3282,9 @@
    "jp": "({e080}){e0c4}をたたえよ",
    "read": "(仮)水をたたえよ",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Fill it with water.",
+   "status": "done",
+   "tl": "Fill it with water."
   },
   {
    "id": "RES#5:c549",
@@ -3294,9 +3294,9 @@
    "jp": "({e080}){e0c4}をたたえよ",
    "read": "(仮)水をたたえよ",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Fill it with water.",
+   "status": "done",
+   "tl": "Fill it with water."
   },
   {
    "id": "RES#5:c557",
@@ -3306,9 +3306,9 @@
    "jp": "({e080}){e0c4}をたたえよ",
    "read": "(仮)水をたたえよ",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Fill it with water.",
+   "status": "done",
+   "tl": "Fill it with water."
   },
   {
    "id": "RES#5:c565",
@@ -3318,9 +3318,9 @@
    "jp": "({e080}){e0c4}をたたえよ",
    "read": "(仮)水をたたえよ",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Fill it with water.",
+   "status": "done",
+   "tl": "Fill it with water."
   },
   {
    "id": "RES#5:c573",
@@ -3330,9 +3330,9 @@
    "jp": "({e080}){e0c4}をたたえよ",
    "read": "(仮)水をたたえよ",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Fill it with water.",
+   "status": "done",
+   "tl": "Fill it with water."
   },
   {
    "id": "RES#5:c581",
@@ -3342,9 +3342,9 @@
    "jp": "({e080}){e0c4}をたたえよ",
    "read": "(仮)水をたたえよ",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Fill it with water.",
+   "status": "done",
+   "tl": "Fill it with water."
   },
   {
    "id": "RES#5:c58f",
@@ -3354,9 +3354,9 @@
    "jp": "({e080}){e0c4}をたたえよ",
    "read": "(仮)水をたたえよ",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Fill it with water.",
+   "status": "done",
+   "tl": "Fill it with water."
   },
   {
    "id": "RES#5:c59d",
@@ -3366,9 +3366,9 @@
    "jp": "({e080}){e0c4}をたたえよ",
    "read": "(仮)水をたたえよ",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Fill it with water.",
+   "status": "done",
+   "tl": "Fill it with water."
   },
   {
    "id": "RES#5:c5ab",
@@ -3378,9 +3378,9 @@
    "jp": "({e080}){e0c4}をたたえよ",
    "read": "(仮)水をたたえよ",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Fill it with water.",
+   "status": "done",
+   "tl": "Fill it with water."
   },
   {
    "id": "RES#5:c5b9",
@@ -3390,9 +3390,9 @@
    "jp": "({e080}){e0c4}をたたえよ",
    "read": "(仮)水をたたえよ",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Fill it with water.",
+   "status": "done",
+   "tl": "Fill it with water."
   },
   {
    "id": "RES#5:c5c7",
@@ -3402,9 +3402,9 @@
    "jp": "({e080}){e0c4}をたたえよ",
    "read": "(仮)水をたたえよ",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Fill it with water.",
+   "status": "done",
+   "tl": "Fill it with water."
   },
   {
    "id": "RES#5:c5d5",
@@ -3414,9 +3414,9 @@
    "jp": "({e080}){e0c4}をたたえよ",
    "read": "(仮)水をたたえよ",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Fill it with water.",
+   "status": "done",
+   "tl": "Fill it with water."
   },
   {
    "id": "RES#5:c5e3",
@@ -3426,9 +3426,9 @@
    "jp": "({e080}){e0c4}をたたえよ",
    "read": "(仮)水をたたえよ",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Fill it with water.",
+   "status": "done",
+   "tl": "Fill it with water."
   },
   {
    "id": "RES#5:c5f1",
@@ -3438,9 +3438,9 @@
    "jp": "({e080}){e0c4}をたたえよ",
    "read": "(仮)水をたたえよ",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Fill it with water.",
+   "status": "done",
+   "tl": "Fill it with water."
   },
   {
    "id": "RES#5:c5ff",
@@ -3450,9 +3450,9 @@
    "jp": "({e080}){e0c4}をたたえよ",
    "read": "(仮)水をたたえよ",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Fill it with water.",
+   "status": "done",
+   "tl": "Fill it with water."
   },
   {
    "id": "RES#5:c60d",
@@ -3462,9 +3462,9 @@
    "jp": "({e080}){e0c4}をたたえよ",
    "read": "(仮)水をたたえよ",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Fill it with water.",
+   "status": "done",
+   "tl": "Fill it with water."
   },
   {
    "id": "RES#5:c61b",
@@ -3474,9 +3474,9 @@
    "jp": "壊せる{e0a3}({e080})",
    "read": "壊せる柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that can be broken.",
+   "status": "done",
+   "tl": "A pillar that can be broken."
   },
   {
    "id": "RES#5:c627",
@@ -3486,9 +3486,9 @@
    "jp": "壊せる{e0a3}({e080})",
    "read": "壊せる柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that can be broken.",
+   "status": "done",
+   "tl": "A pillar that can be broken."
   },
   {
    "id": "RES#5:c633",
@@ -3498,9 +3498,9 @@
    "jp": "壊せる{e0a3}({e080})",
    "read": "壊せる柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that can be broken.",
+   "status": "done",
+   "tl": "A pillar that can be broken."
   },
   {
    "id": "RES#5:c63f",
@@ -3510,9 +3510,9 @@
    "jp": "壊せる{e0a3}({e080})",
    "read": "壊せる柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that can be broken.",
+   "status": "done",
+   "tl": "A pillar that can be broken."
   },
   {
    "id": "RES#5:c64b",
@@ -3522,9 +3522,9 @@
    "jp": "壊せる{e0a3}({e080})",
    "read": "壊せる柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that can be broken.",
+   "status": "done",
+   "tl": "A pillar that can be broken."
   },
   {
    "id": "RES#5:c657",
@@ -3534,9 +3534,9 @@
    "jp": "壊せる{e0a3}({e080})",
    "read": "壊せる柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that can be broken.",
+   "status": "done",
+   "tl": "A pillar that can be broken."
   },
   {
    "id": "RES#5:c663",
@@ -3546,9 +3546,9 @@
    "jp": "壊せる{e0a3}({e080})",
    "read": "壊せる柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that can be broken.",
+   "status": "done",
+   "tl": "A pillar that can be broken."
   },
   {
    "id": "RES#5:c66f",
@@ -3558,9 +3558,9 @@
    "jp": "壊せる{e0a3}({e080})",
    "read": "壊せる柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that can be broken.",
+   "status": "done",
+   "tl": "A pillar that can be broken."
   },
   {
    "id": "RES#5:c67b",
@@ -3570,9 +3570,9 @@
    "jp": "壊せる{e0a3}({e080})",
    "read": "壊せる柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that can be broken.",
+   "status": "done",
+   "tl": "A pillar that can be broken."
   },
   {
    "id": "RES#5:c687",
@@ -3582,9 +3582,9 @@
    "jp": "壊せる{e0a3}({e080})",
    "read": "壊せる柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that can be broken.",
+   "status": "done",
+   "tl": "A pillar that can be broken."
   },
   {
    "id": "RES#5:c693",
@@ -3594,9 +3594,9 @@
    "jp": "壊せる{e0a3}({e080})",
    "read": "壊せる柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that can be broken.",
+   "status": "done",
+   "tl": "A pillar that can be broken."
   },
   {
    "id": "RES#5:c69f",
@@ -3606,9 +3606,9 @@
    "jp": "壊せる{e0a3}({e080})",
    "read": "壊せる柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that can be broken.",
+   "status": "done",
+   "tl": "A pillar that can be broken."
   },
   {
    "id": "RES#5:c6ab",
@@ -3618,9 +3618,9 @@
    "jp": "壊せる{e0a3}({e080})",
    "read": "壊せる柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that can be broken.",
+   "status": "done",
+   "tl": "A pillar that can be broken."
   },
   {
    "id": "RES#5:c6b7",
@@ -3630,9 +3630,9 @@
    "jp": "壊せる{e0a3}({e080})",
    "read": "壊せる柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that can be broken.",
+   "status": "done",
+   "tl": "A pillar that can be broken."
   },
   {
    "id": "RES#5:c6c3",
@@ -3642,9 +3642,9 @@
    "jp": "壊せる{e0a3}({e080})",
    "read": "壊せる柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that can be broken.",
+   "status": "done",
+   "tl": "A pillar that can be broken."
   },
   {
    "id": "RES#5:c6cf",
@@ -3654,9 +3654,9 @@
    "jp": "壊せる{e0a3}({e080})",
    "read": "壊せる柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that can be broken.",
+   "status": "done",
+   "tl": "A pillar that can be broken."
   },
   {
    "id": "RES#5:c6db",
@@ -3666,9 +3666,9 @@
    "jp": "壊せる{e0a3}({e080})",
    "read": "壊せる柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that can be broken.",
+   "status": "done",
+   "tl": "A pillar that can be broken."
   },
   {
    "id": "RES#5:c6e7",
@@ -3678,9 +3678,9 @@
    "jp": "壊せる{e0a3}({e080})",
    "read": "壊せる柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that can be broken.",
+   "status": "done",
+   "tl": "A pillar that can be broken."
   },
   {
    "id": "RES#5:c6f3",
@@ -3690,9 +3690,9 @@
    "jp": "壊せる{e0a3}({e080})",
    "read": "壊せる柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that can be broken.",
+   "status": "done",
+   "tl": "A pillar that can be broken."
   },
   {
    "id": "RES#5:c6ff",
@@ -3702,9 +3702,9 @@
    "jp": "壊せる{e0a3}({e080})",
    "read": "壊せる柱(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A pillar that can be broken.",
+   "status": "done",
+   "tl": "A pillar that can be broken."
   },
   {
    "id": "RES#5:c70b",
@@ -3714,9 +3714,9 @@
    "jp": "壊せる{e0a3}倒壊後({e080})",
    "read": "壊せる柱倒壊後(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "The pillar, fallen.",
+   "status": "done",
+   "tl": "The pillar, fallen."
   },
   {
    "id": "RES#5:c71d",
@@ -3726,9 +3726,9 @@
    "jp": "壊せる{e0a3}倒壊後({e080})",
    "read": "壊せる柱倒壊後(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "The pillar, fallen.",
+   "status": "done",
+   "tl": "The pillar, fallen."
   },
   {
    "id": "RES#5:c72f",
@@ -3738,9 +3738,9 @@
    "jp": "壊せる{e0a3}倒壊後({e080})",
    "read": "壊せる柱倒壊後(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "The pillar, fallen.",
+   "status": "done",
+   "tl": "The pillar, fallen."
   },
   {
    "id": "RES#5:c741",
@@ -3750,9 +3750,9 @@
    "jp": "壊せる{e0a3}倒壊後({e080})",
    "read": "壊せる柱倒壊後(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "The pillar, fallen.",
+   "status": "done",
+   "tl": "The pillar, fallen."
   },
   {
    "id": "RES#5:c753",
@@ -3762,9 +3762,9 @@
    "jp": "壊せる{e0a3}倒壊後({e080})",
    "read": "壊せる柱倒壊後(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "The pillar, fallen.",
+   "status": "done",
+   "tl": "The pillar, fallen."
   },
   {
    "id": "RES#5:c765",
@@ -3774,9 +3774,9 @@
    "jp": "壊せる{e0a3}倒壊後({e080})",
    "read": "壊せる柱倒壊後(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "The pillar, fallen.",
+   "status": "done",
+   "tl": "The pillar, fallen."
   },
   {
    "id": "RES#5:c777",
@@ -3786,9 +3786,9 @@
    "jp": "壊せる{e0a3}倒壊後({e080})",
    "read": "壊せる柱倒壊後(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "The pillar, fallen.",
+   "status": "done",
+   "tl": "The pillar, fallen."
   },
   {
    "id": "RES#5:c789",
@@ -3798,9 +3798,9 @@
    "jp": "壊せる{e0a3}倒壊後({e080})",
    "read": "壊せる柱倒壊後(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "The pillar, fallen.",
+   "status": "done",
+   "tl": "The pillar, fallen."
   },
   {
    "id": "RES#5:c79b",
@@ -3810,9 +3810,9 @@
    "jp": "壊せる{e0a3}倒壊後({e080})",
    "read": "壊せる柱倒壊後(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "The pillar, fallen.",
+   "status": "done",
+   "tl": "The pillar, fallen."
   },
   {
    "id": "RES#5:c7ad",
@@ -3822,9 +3822,9 @@
    "jp": "壊せる{e0a3}倒壊後({e080})",
    "read": "壊せる柱倒壊後(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "The pillar, fallen.",
+   "status": "done",
+   "tl": "The pillar, fallen."
   },
   {
    "id": "RES#5:c7bf",
@@ -3834,9 +3834,9 @@
    "jp": "壊せる{e0a3}倒壊後({e080})",
    "read": "壊せる柱倒壊後(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "The pillar, fallen.",
+   "status": "done",
+   "tl": "The pillar, fallen."
   },
   {
    "id": "RES#5:c7d1",
@@ -3846,9 +3846,9 @@
    "jp": "壊せる{e0a3}倒壊後({e080})",
    "read": "壊せる柱倒壊後(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "The pillar, fallen.",
+   "status": "done",
+   "tl": "The pillar, fallen."
   },
   {
    "id": "RES#5:c7e3",
@@ -3858,9 +3858,9 @@
    "jp": "壊せる{e0a3}倒壊後({e080})",
    "read": "壊せる柱倒壊後(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "The pillar, fallen.",
+   "status": "done",
+   "tl": "The pillar, fallen."
   },
   {
    "id": "RES#5:c7f5",
@@ -3870,9 +3870,9 @@
    "jp": "壊せる{e0a3}倒壊後({e080})",
    "read": "壊せる柱倒壊後(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "The pillar, fallen.",
+   "status": "done",
+   "tl": "The pillar, fallen."
   },
   {
    "id": "RES#5:c807",
@@ -3882,9 +3882,9 @@
    "jp": "壊せる{e0a3}倒壊後({e080})",
    "read": "壊せる柱倒壊後(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "The pillar, fallen.",
+   "status": "done",
+   "tl": "The pillar, fallen."
   },
   {
    "id": "RES#5:c819",
@@ -3894,9 +3894,9 @@
    "jp": "壊せる{e0a3}倒壊後({e080})",
    "read": "壊せる柱倒壊後(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "The pillar, fallen.",
+   "status": "done",
+   "tl": "The pillar, fallen."
   },
   {
    "id": "RES#5:c82b",
@@ -3906,9 +3906,9 @@
    "jp": "壊せる{e0a3}倒壊後({e080})",
    "read": "壊せる柱倒壊後(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "The pillar, fallen.",
+   "status": "done",
+   "tl": "The pillar, fallen."
   },
   {
    "id": "RES#5:c83d",
@@ -3918,9 +3918,9 @@
    "jp": "壊せる{e0a3}倒壊後({e080})",
    "read": "壊せる柱倒壊後(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "The pillar, fallen.",
+   "status": "done",
+   "tl": "The pillar, fallen."
   },
   {
    "id": "RES#5:c84f",
@@ -3930,9 +3930,9 @@
    "jp": "壊せる{e0a3}倒壊後({e080})",
    "read": "壊せる柱倒壊後(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "The pillar, fallen.",
+   "status": "done",
+   "tl": "The pillar, fallen."
   },
   {
    "id": "RES#5:c861",
@@ -3942,9 +3942,9 @@
    "jp": "壊せる{e0a3}倒壊後({e080})",
    "read": "壊せる柱倒壊後(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "The pillar, fallen.",
+   "status": "done",
+   "tl": "The pillar, fallen."
   },
   {
    "id": "RES#5:c873",
@@ -3954,9 +3954,9 @@
    "jp": "{e0c2}のスイッチがある({e080})",
    "read": "石のスイッチがある(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "There is a stone switch.",
+   "status": "done",
+   "tl": "There is a stone switch."
   },
   {
    "id": "RES#5:c885",
@@ -3966,9 +3966,9 @@
    "jp": "{e0c2}のスイッチがある({e080})",
    "read": "石のスイッチがある(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "There is a stone switch.",
+   "status": "done",
+   "tl": "There is a stone switch."
   },
   {
    "id": "RES#5:c897",
@@ -3978,9 +3978,9 @@
    "jp": "この出っぱり押してみるよ。({e080})",
    "read": "この出っぱり押してみるよ。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Guess I'll push this bump here.",
+   "status": "done",
+   "tl": "Guess I'll push this bump here."
   },
   {
    "id": "RES#5:c8ac",
@@ -3990,9 +3990,9 @@
    "jp": "この{e0c2}がスイッチのようだ。\n押してみる。({e080})",
    "read": "この石がスイッチのようだ。\n押してみる。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "This stone looks like a switch. I'll push it.",
+   "status": "done",
+   "tl": "This stone looks like a switch. I'll push it."
   },
   {
    "id": "RES#5:c8ca",
@@ -4002,9 +4002,9 @@
    "jp": "押せばいいのか・・・?({e080})",
    "read": "押せばいいのか・・・?(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "So I am to push it...?",
+   "status": "done",
+   "tl": "So I am to push it...?"
   },
   {
    "id": "RES#5:c8dc",
@@ -4014,9 +4014,9 @@
    "jp": "時限{e08d}のスイッチのようです。\n押してみます。({e080})",
    "read": "時限式のスイッチのようです。\n押してみます。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "It appears to be a timed switch. I will try\npushing it.",
+   "status": "done",
+   "tl": "It appears to be a timed switch. I will try pushing it."
   },
   {
    "id": "RES#5:c8fe",
@@ -4026,9 +4026,9 @@
    "jp": "押してみるぜ。({e080})",
    "read": "押してみるぜ。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "I'm pushin' it.",
+   "status": "done",
+   "tl": "I'm pushin' it."
   },
   {
    "id": "RES#5:c90c",
@@ -4038,9 +4038,9 @@
    "jp": "押してみるね。({e080})",
    "read": "押してみるね。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "I'll give it a push.",
+   "status": "done",
+   "tl": "I'll give it a push."
   },
   {
    "id": "RES#5:c91a",
@@ -4050,9 +4050,9 @@
    "jp": "押してみる・・・({e080})",
    "read": "押してみる・・・(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "I'll push it...",
+   "status": "done",
+   "tl": "I'll push it..."
   },
   {
    "id": "RES#5:c929",
@@ -4062,9 +4062,9 @@
    "jp": "押してみるね。({e080})",
    "read": "押してみるね。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "I'll give it a push.",
+   "status": "done",
+   "tl": "I'll give it a push."
   },
   {
    "id": "RES#5:c937",
@@ -4074,9 +4074,9 @@
    "jp": "押してみますよ。({e080})",
    "read": "押してみますよ。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "I'll try pushing it.",
+   "status": "done",
+   "tl": "I'll try pushing it."
   },
   {
    "id": "RES#5:c946",
@@ -4086,9 +4086,9 @@
    "jp": "じゃあ押すよ。({e080})",
    "read": "じゃあ押すよ。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Okay, pushing it.",
+   "status": "done",
+   "tl": "Okay, pushing it."
   },
   {
    "id": "RES#5:c954",
@@ -4098,9 +4098,9 @@
    "jp": "どうしてこのぼくが\nこんな下っ端の仕事を・・・({e080})",
    "read": "どうしてこのぼくが\nこんな下っ端の仕事を・・・(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Why must I, of all people, do a\nlackey's work...",
+   "status": "done",
+   "tl": "Why must I, of all people, do a lackey's work..."
   },
   {
    "id": "RES#5:c975",
@@ -4110,9 +4110,9 @@
    "jp": "押すわよ。({e080})",
    "read": "押すわよ。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "I'm pushing it.",
+   "status": "done",
+   "tl": "I'm pushing it."
   },
   {
    "id": "RES#5:c981",
@@ -4122,9 +4122,9 @@
    "jp": "時限{e08d}のスイッチのようだな。({e080})",
    "read": "時限式のスイッチのようだな。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "It appears to be a timed switch.",
+   "status": "done",
+   "tl": "It appears to be a timed switch."
   },
   {
    "id": "RES#5:c99a",
@@ -4134,9 +4134,9 @@
    "jp": "おもりを利用した装{e096}ね。\n原理は単純だけど、{e090}りは{e091}密ね。\n押してみるわ。({e080})",
    "read": "おもりを利用した装置ね。\n原理は単純だけど、作りは精密ね。\n押してみるわ。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A device that works by a weight. Simple\nin principle, but finely made. I'll push it.",
+   "status": "done",
+   "tl": "A device that works by a weight. Simple in principle, but finely made. I'll push it."
   },
   {
    "id": "RES#5:c9d1",
@@ -4146,9 +4146,9 @@
    "jp": "・・・・・・({e080})",
    "read": "・・・・・・(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "......",
+   "status": "done",
+   "tl": "......"
   },
   {
    "id": "RES#5:c9dd",
@@ -4158,9 +4158,9 @@
    "jp": "押してみるね。({e080})",
    "read": "押してみるね。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "I'll give it a push.",
+   "status": "done",
+   "tl": "I'll give it a push."
   },
   {
    "id": "RES#5:c9eb",
@@ -4170,9 +4170,9 @@
    "jp": "押してみます。({e080})",
    "read": "押してみます。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "I'll try pushing it.",
+   "status": "done",
+   "tl": "I'll try pushing it."
   },
   {
    "id": "RES#5:c9f9",
@@ -4182,9 +4182,9 @@
    "jp": "押してみるね。({e080})",
    "read": "押してみるね。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "I'll give it a push.",
+   "status": "done",
+   "tl": "I'll give it a push."
   },
   {
    "id": "RES#5:ca07",
@@ -4194,9 +4194,9 @@
    "jp": "{e0c2}のスイッチがある({e080})",
    "read": "石のスイッチがある(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "There is a stone switch.",
+   "status": "done",
+   "tl": "There is a stone switch."
   },
   {
    "id": "RES#5:ca19",
@@ -4206,9 +4206,9 @@
    "jp": "{e0c2}のスイッチがある({e080})",
    "read": "石のスイッチがある(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "There is a stone switch.",
+   "status": "done",
+   "tl": "There is a stone switch."
   },
   {
    "id": "RES#5:ca2b",
@@ -4218,9 +4218,9 @@
    "jp": "動かないな。\n待ってたらそのうち\n下がるんじゃないのかな。({e080})",
    "read": "動かないな。\n待ってたらそのうち\n下がるんじゃないのかな。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "It won't move. If we wait, I bet it'll come\ndown sooner or later.",
+   "status": "done",
+   "tl": "It won't move. If we wait, I bet it'll come down sooner or later."
   },
   {
    "id": "RES#5:ca51",
@@ -4230,9 +4230,9 @@
    "jp": "動かない。\n装{e096}の上の{e0c5}分が自然に落ちるのを\n待てばいいんじゃないのか?({e080})",
    "read": "動かない。\n装置の上の部分が自然に落ちるのを\n待てばいいんじゃないのか?(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "It won't move. Shouldn't we just wait for\nthe top of the device to drop on\nits own?",
+   "status": "done",
+   "tl": "It won't move. Shouldn't we just wait for the top of the device to drop on its own?"
   },
   {
    "id": "RES#5:ca85",
@@ -4242,9 +4242,9 @@
    "jp": "動かない・・・({e080})",
    "read": "動かない・・・(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "It does not move...",
+   "status": "done",
+   "tl": "It does not move..."
   },
   {
    "id": "RES#5:ca93",
@@ -4254,9 +4254,9 @@
    "jp": "今は動きそうにありません。\nですが、おもりが下がるのを待てば\n自動的に解除されると思います。({e080})",
    "read": "今は動きそうにありません。\nですが、おもりが下がるのを待てば\n自動的に解除されると思います。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "It does not seem willing to move now. But\nif we wait for the weight to come down,\nI believe it will release by itself.",
+   "status": "done",
+   "tl": "It does not seem willing to move now. But if we wait for the weight to come down, I believe it will release by itself."
   },
   {
    "id": "RES#5:cad1",
@@ -4266,9 +4266,9 @@
    "jp": "動かねえよ。下がるの待ってようぜ。({e080})",
    "read": "動かねえよ。下がるの待ってようぜ。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "It ain't movin'. Let's wait for it to\ncome down.",
+   "status": "done",
+   "tl": "It ain't movin'. Let's wait for it to come down."
   },
   {
    "id": "RES#5:caeb",
@@ -4278,9 +4278,9 @@
    "jp": "動きそうにないよ。\nここで待ってる?({e080})",
    "read": "動きそうにないよ。\nここで待ってる?(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "It doesn't look like it'll move. Want to\nwait here?",
+   "status": "done",
+   "tl": "It doesn't look like it'll move. Want to wait here?"
   },
   {
    "id": "RES#5:cb05",
@@ -4290,9 +4290,9 @@
    "jp": "動かない・・・({e080})",
    "read": "動かない・・・(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "It does not move...",
+   "status": "done",
+   "tl": "It does not move..."
   },
   {
    "id": "RES#5:cb13",
@@ -4302,9 +4302,9 @@
    "jp": "スイッチが引っ{e082}んでて\n動かせないよ。\n待ってたらいいんじゃないのかな。({e080})",
    "read": "スイッチが引っ込んでて\n動かせないよ。\n待ってたらいいんじゃないのかな。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "The switch has sunk in, so I can't move\nit. Maybe we should just wait?",
+   "status": "done",
+   "tl": "The switch has sunk in, so I can't move it. Maybe we should just wait?"
   },
   {
    "id": "RES#5:cb43",
@@ -4314,9 +4314,9 @@
    "jp": "黙って待ちましょう。({e080})",
    "read": "黙って待ちましょう。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Let us wait quietly.",
+   "status": "done",
+   "tl": "Let us wait quietly."
   },
   {
    "id": "RES#5:cb55",
@@ -4326,9 +4326,9 @@
    "jp": "何やっても動かないよ。\n待つのも面倒くさいし、\nあきらめたら?({e080})",
    "read": "何やっても動かないよ。\n待つのも面倒くさいし、\nあきらめたら?(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Nothing I do moves it. Waiting's a pain\ntoo, so why not give up?",
+   "status": "done",
+   "tl": "Nothing I do moves it. Waiting's a pain too, so why not give up?"
   },
   {
    "id": "RES#5:cb7f",
@@ -4338,9 +4338,9 @@
    "jp": "黙って待ちましょう。({e080})",
    "read": "黙って待ちましょう。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "Let us wait quietly.",
+   "status": "done",
+   "tl": "Let us wait quietly."
   },
   {
    "id": "RES#5:cb91",
@@ -4350,9 +4350,9 @@
    "jp": "焦らなくてもいいんじゃない?\nもうじき落ちそうよ。({e080})",
    "read": "焦らなくてもいいんじゃない?\nもうじき落ちそうよ。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "No need to rush, is there? It should\ndrop soon.",
+   "status": "done",
+   "tl": "No need to rush, is there? It should drop soon."
   },
   {
    "id": "RES#5:cbb4",
@@ -4362,9 +4362,9 @@
    "jp": "時限{e08d}の装{e096}だ。\n待てば自動的に解除される。({e080})",
    "read": "時限式の装置だ。\n待てば自動的に解除される。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A timed device. It will release by itself if\nwe wait.",
+   "status": "done",
+   "tl": "A timed device. It will release by itself if we wait."
   },
   {
    "id": "RES#5:cbdb",
@@ -4374,9 +4374,9 @@
    "jp": "おもりを利用した装{e096}ね。\n待てば自動的に解除されるわ。({e080})",
    "read": "おもりを利用した装置ね。\n待てば自動的に解除されるわ。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "A device that works by a weight. It'll\nrelease by itself if we wait.",
+   "status": "done",
+   "tl": "A device that works by a weight. It'll release by itself if we wait."
   },
   {
    "id": "RES#5:cc06",
@@ -4386,9 +4386,9 @@
    "jp": "・・・・・・({e080})",
    "read": "・・・・・・(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "......",
+   "status": "done",
+   "tl": "......"
   },
   {
    "id": "RES#5:cc12",
@@ -4398,9 +4398,9 @@
    "jp": "重たい滑車の回る{e0c8}が聞こえる・・・\n待ってたらいいんじゃないのかな。({e080})",
    "read": "重たい滑車の回る音が聞こえる・・・\n待ってたらいいんじゃないのかな。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "I can hear a heavy pulley turning... Maybe\nwe should just wait?",
+   "status": "done",
+   "tl": "I can hear a heavy pulley turning... Maybe we should just wait?"
   },
   {
    "id": "RES#5:cc41",
@@ -4410,9 +4410,9 @@
    "jp": "もう少し待てば\n解除されると思いますよ。({e080})",
    "read": "もう少し待てば\n解除されると思いますよ。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "If we wait a little longer, I think it\nwill release.",
+   "status": "done",
+   "tl": "If we wait a little longer, I think it will release."
   },
   {
    "id": "RES#5:cc60",
@@ -4422,9 +4422,9 @@
    "jp": "落ちてこないね。\nのんびり待とうよ。({e080})",
    "read": "落ちてこないね。\nのんびり待とうよ。(仮)",
    "raw": null,
-   "en": "...",
-   "status": "placeholder",
-   "tl": "..."
+   "en": "It's not coming down. Let's just take it\neasy and wait.",
+   "status": "done",
+   "tl": "It's not coming down. Let's just take it easy and wait."
   },
   {
    "id": "RES#5:cc7a",
@@ -4493,7 +4493,7 @@
    "jp": "{0b:08}{e0c9} レイア {e0ca}{0b:09}\nこんな事に時間を\n割かねばならぬなど・・・",
    "read": "{0b:08}【 レイア 】{0b:09}\nこんな事に時間を\n割かねばならぬなど・・・",
    "raw": null,
-   "en": "{0b:08}【 Leia 】{0b:09}\nThat I must spend my time on such a\nthing...",
+   "en": "{0b:08}【 Leia 】{0b:09}\nThat I must spend my time on such\na thing...",
    "status": "done",
    "tl": "That I must spend my time on such a thing..."
   },
@@ -4577,7 +4577,7 @@
    "jp": "{0b:08}{e0c9} ディアス {e0ca}{0b:09}\nこんな行為が{e0cd}{e0a1}{e0c2}だと?\n下らんな・・・",
    "read": "{0b:08}【 ディアス 】{0b:09}\nこんな行為が試金石だと?\n下らんな・・・",
    "raw": null,
-   "en": "{0b:08}【 Dias 】{0b:09}\nThis act is a touchstone? How\npointless...",
+   "en": "{0b:08}【 Dias 】{0b:09}\nThis act is a touchstone?\nHow pointless...",
    "status": "done",
    "tl": "This act is a touchstone? How pointless..."
   },
@@ -4589,7 +4589,7 @@
    "jp": "{0b:08}{e0c9} ノエル {e0ca}{0b:09}\n早く{e0ce}場に持って帰りましょ。",
    "read": "{0b:08}【 ノエル 】{0b:09}\n早く酒場に持って帰りましょ。",
    "raw": null,
-   "en": "{0b:08}【 Noel 】{0b:09}\nLet's hurry and take it back to the\ntavern.",
+   "en": "{0b:08}【 Noel 】{0b:09}\nLet's hurry and take it back to\nthe tavern.",
    "status": "done",
    "tl": "Let's hurry and take it back to the tavern."
   },
@@ -4684,7 +4684,7 @@
    "jp": "{0b:08}{e0c9} レイア {e0ca}{0b:09}\nこんな事に時間を\n割かねばならぬなど・・・{1a}下らなさすぎる・・・",
    "read": "{0b:08}【 レイア 】{0b:09}\nこんな事に時間を\n割かねばならぬなど・・・{1a}下らなさすぎる・・・",
    "raw": null,
-   "en": "{0b:08}【 Leia 】{0b:09}\nThat I must spend my time on such a\nthing...{1a}It is beyond foolish...",
+   "en": "{0b:08}【 Leia 】{0b:09}\nThat I must spend my time on such\na thing...{1a}It is beyond foolish...",
    "status": "done",
    "tl": "That I must spend my time on such a thing... // It is beyond foolish..."
   },
@@ -4768,7 +4768,7 @@
    "jp": "{0b:08}{e0c9} ディアス {e0ca}{0b:09}\nこんな行為が{e0cd}{e0a1}{e0c2}だと?\n下らんな・・・",
    "read": "{0b:08}【 ディアス 】{0b:09}\nこんな行為が試金石だと?\n下らんな・・・",
    "raw": null,
-   "en": "{0b:08}【 Dias 】{0b:09}\nThis act is a touchstone? How\npointless...",
+   "en": "{0b:08}【 Dias 】{0b:09}\nThis act is a touchstone?\nHow pointless...",
    "status": "done",
    "tl": "This act is a touchstone? How pointless..."
   },
@@ -4780,7 +4780,7 @@
    "jp": "{0b:08}{e0c9} ノエル {e0ca}{0b:09}\n早く{e0ce}場に持って帰りましょ。",
    "read": "{0b:08}【 ノエル 】{0b:09}\n早く酒場に持って帰りましょ。",
    "raw": null,
-   "en": "{0b:08}【 Noel 】{0b:09}\nLet's hurry and take it back to the\ntavern.",
+   "en": "{0b:08}【 Noel 】{0b:09}\nLet's hurry and take it back to\nthe tavern.",
    "status": "done",
    "tl": "Let's hurry and take it back to the tavern."
   },

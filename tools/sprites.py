@@ -234,7 +234,8 @@ def draw_block(px, block, pal, used):
     top, bottom = fnt.getbbox("H")[1], fnt.getbbox("g")[3] + step * (len(lines) - 1)  # ink, not the line box: a tail stays in
     y = y0 + (y1 - y0 - (bottom - top)) // 2 - top
     for s in lines:
-        x = x0 + (x1 - x0 - fnt.getlength(s)) / 2 if block.get("align") == "center" else x0
+        room = x1 - x0 - fnt.getlength(s)
+        x = x0 + {"center": room / 2, "right": room}.get(block.get("align"), 0)
         dc.text((x, y), s, font=fnt, fill=255)
         de.text((x, y), s, font=fnt, fill=255, stroke_width=1, stroke_fill=255)
         y += step

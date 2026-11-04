@@ -273,7 +273,7 @@
    "jp": "{1c:10}でも1人はあぶないぞ。\nそうだ、おれもいっしょに行くよ。{1a}外のことも心配だけど、\nいま、おれ達にできることって{1a}『シェオルの{e082}』を壊して\n{0b:05}{14}を助けてやること\nだけだもんな。{1a}がんばろうな、{10}。{0c:fe}",
    "read": "{1c:10}でも1人はあぶないぞ。\nそうだ、おれもいっしょに行くよ。{1a}外のことも心配だけど、\nいま、おれ達にできることって{1a}『シェオルの柱』を壊して\n{0b:05}{14}を助けてやること\nだけだもんな。{1a}がんばろうな、{10}。{0c:fe}",
    "raw": null,
-   "en": "{1c:10}But it's dangerous on your own. I know,\nI'll come with you.{1a}I'm worried about outside too, but right\nnow, all we can do{1a}is break the 'Pillar of Sheol' and save\n{0b:05}{14}.{1a}Let's do our best, {10}.{0c:fe}",
+   "en": "{1c:10}But it's dangerous on your own. I know,\nI'll come with you.{1a}I'm worried about outside too, but right\nnow, all we can do{1a}is break the 'Pillar of Sheol' and\nsave {0b:05}{14}.{1a}Let's do our best, {10}.{0c:fe}",
    "status": "done",
    "tl": "But it's dangerous on your own. I know, I'll come with you. // I'm worried about outside too, but right now, all we can do // is break the 'Pillar of Sheol' and save [1][VAR14]. // Let's do our best, [HERO]."
   },
@@ -330,7 +330,7 @@
    "jp": "{1c:11}でも1人では危険じゃないか?\nそうだ、僕も一緒に行くよ。{1a}外の事も心配だけど、\n今僕達のすべきことは\n{0b:05}{14}を助ける事なんだ。{1a}{10}、力を合わせて\n『シェオルの{e082}』を壊し、\n{0b:05}{14}の魂を救い出そう!{0c:fe}",
    "read": "{1c:11}でも1人では危険じゃないか?\nそうだ、僕も一緒に行くよ。{1a}外の事も心配だけど、\n今僕達のすべきことは\n{0b:05}{14}を助ける事なんだ。{1a}{10}、力を合わせて\n『シェオルの柱』を壊し、\n{0b:05}{14}の魂を救い出そう!{0c:fe}",
    "raw": null,
-   "en": "{1c:11}But isn't that dangerous alone? I know, I\nwill go with you.{1a}I'm worried about outside as well, but\nwhat we must do now is save\n{0b:05}{14}.{1a}{10}, let's join forces, destroy\nthe 'Pillar of Sheol' and rescue\n{0b:05}{14}'s soul!{0c:fe}",
+   "en": "{1c:11}But isn't that dangerous alone? I know, I\nwill go with you.{1a}I'm worried about outside as well, but\nwhat we must do now is\nsave {0b:05}{14}.{1a}{10}, let's join forces, destroy\nthe 'Pillar of Sheol' and rescue\n{0b:05}{14}'s soul!{0c:fe}",
    "status": "done",
    "tl": "But isn't that dangerous alone? I know, I will go with you. // I'm worried about outside as well, but what we must do now is save [1][VAR14]. // [HERO], let's join forces, destroy the 'Pillar of Sheol' and rescue [2][VAR14]'s soul!"
   },
@@ -535,7 +535,7 @@
    "jp": "{1c:15}{0c:23fa03}{0b:08}{e080} ジェシカ {e081}{0b:09}\nあれ、{10}じゃん。\n今から行くの?{0c:fe}",
    "read": "{1c:15}{0c:23fa03}{0b:08}【 ジェシカ 】{0b:09}\nあれ、{10}じゃん。\n今から行くの?{0c:fe}",
    "raw": null,
-   "en": "{1c:15}{0c:23fa03}{0b:08}【 Jessica 】{0b:09}\nHuh, if it isn't {10}. You going\nnow?{0c:fe}",
+   "en": "{1c:15}{0c:23fa03}{0b:08}【 Jessica 】{0b:09}\nHuh, if it isn't {10}. You\ngoing now?{0c:fe}",
    "status": "done",
    "tl": "Huh, if it isn't [HERO]. You going now?"
   },
@@ -558,7 +558,7 @@
    "jp": "{1c:15}でもさ、\nあんた1人で大丈夫?{1a}{0c:521018}そうだ、あたしが\nついて行ってやるよ。\nあんたまで死なれちゃ\nティアラが{e089}哀想だもんね。{1a}じゃあ『シェオルの{e082}』\n{e08b}しに行こっか。{1a}さっさとぶっ壊して\n{0b:05}{14}を助けてやらなきゃね。\nがんばろうね、{10}!{0c:fe}",
    "read": "{1c:15}でもさ、\nあんた1人で大丈夫?{1a}{0c:521018}そうだ、あたしが\nついて行ってやるよ。\nあんたまで死なれちゃ\nティアラが可哀想だもんね。{1a}じゃあ『シェオルの柱』\n探しに行こっか。{1a}さっさとぶっ壊して\n{0b:05}{14}を助けてやらなきゃね。\nがんばろうね、{10}!{0c:fe}",
    "raw": null,
-   "en": "{1c:15}But hey, you gonna be okay all by\nyourself?{1a}{0c:521018}I know, I'll tag along with you. If you went\nand died too, it'd be awful for Tiara, you\nknow.{1a}So, let's go look for that 'Pillar of Sheol'.{1a}We gotta smash it quick and save\n{0b:05}{14}. Let's do our best,\n{10}!{0c:fe}",
+   "en": "{1c:15}But hey, you gonna be okay all\nby yourself?{1a}{0c:521018}I know, I'll tag along with you. If you went\nand died too, it'd be awful for Tiara,\nyou know.{1a}So, let's go look for that 'Pillar of Sheol'.{1a}We gotta smash it quick and save\n{0b:05}{14}. Let's do our\nbest, {10}!{0c:fe}",
    "status": "done",
    "tl": "But hey, you gonna be okay all by yourself? // [1]I know, I'll tag along with you. If you went and died too, it'd be awful for Tiara, you know. // So, let's go look for that 'Pillar of Sheol'. // We gotta smash it quick and save [2][VAR14]. Let's do our best, [HERO]!"
   },

@@ -249,7 +249,7 @@
    "jp": "{0b:08}【 アルディ侯爵 】{0b:09}\nいえ・・・{1a}身分こそ侯爵とはいえ、\n東西35リーダの、猫の額ほどの\n領土しか持たぬ田舎豪族、{1a}何を体面など気にする必要が\nありましょうか。{1a}そんなことより、\n{10}殿、エレアノール殿、\n我々の願いを聞いて下さいませ。{0c:2b5409fe}",
    "read": "{0b:08}【 アルディ侯爵 】{0b:09}\nいえ・・・{1a}身分こそ侯爵とはいえ、\n東西35リーダの、猫の額ほどの\n領土しか持たぬ田舎豪族、{1a}何を体面など気にする必要が\nありましょうか。{1a}そんなことより、\n{10}殿、エレアノール殿、\n我々の願いを聞いて下さいませ。{0c:2b5409fe}",
    "raw": null,
-   "en": "{0b:08}【 Marquis Ardi 】{0b:09}\nNo...{1a}Marquis I may be in rank, but I am a\ncountry squire with a mere scrap of\nland, thirty-five rida from east to west.{1a}What need have I to care for\nappearances?{1a}Never mind that. {10}-dono,\nEleanor-dono, please hear our plea.{0c:2b5409fe}",
+   "en": "{0b:08}【 Marquis Ardi 】{0b:09}\nNo...{1a}Marquis I may be in rank, but I am a\ncountry squire with a mere scrap of\nland, thirty-five rida from east to west.{1a}What need have I to care\nfor appearances?{1a}Never mind that. {10}-dono,\nEleanor-dono, please hear our plea.{0c:2b5409fe}",
    "status": "done",
    "tl": "No... // Marquis I may be in rank, but I am a country squire with a mere scrap of land, thirty-five rida from east to west. // What need have I to care for appearances? // Never mind that. [HERO]-dono, Eleanor-dono, please hear our plea."
   },
@@ -273,7 +273,7 @@
    "jp": "{1c:12}{0b:08}【 エレアノール 】{0b:09}\nこのままではお話も出来ません。\nどうかお立ちください。{0c:2b5309fe}",
    "read": "{1c:12}{0b:08}【 エレアノール 】{0b:09}\nこのままではお話も出来ません。\nどうかお立ちください。{0c:2b5309fe}",
    "raw": null,
-   "en": "{1c:12}{0b:08}【 Eleanor 】{0b:09}\nWe cannot even speak like this. Please\nrise.{0c:2b5309fe}",
+   "en": "{1c:12}{0b:08}【 Eleanor 】{0b:09}\nWe cannot even speak like this.\nPlease rise.{0c:2b5309fe}",
    "status": "done",
    "tl": "We cannot even speak like this. Please rise."
   },
@@ -308,7 +308,7 @@
    "jp": "{10}殿、エレアノール殿も\nご存じの通り、{1a}ミバルやタルナス、ジャナンに向かう\n戦略上重要な街道が\n我が領内で交差するためか、{1a}ラコース王国崩壊後、我がアキーヌは\n隣国の侵攻にさらされ続け、\n大地も荒廃するばかり・・・{1a}今までは各国とも\nお互いの力を警戒してか、\n大軍を動かすことは\nありませんでしたが、{1a}モルサンスがタルナスに降伏、\nリエミクスがガステーに降伏し、\n事情が変わってまいりました。{0c:2b5409fe}",
    "read": "{10}殿、エレアノール殿も\nご存じの通り、{1a}ミバルやタルナス、ジャナンに向かう\n戦略上重要な街道が\n我が領内で交差するためか、{1a}ラコース王国崩壊後、我がアキーヌは\n隣国の侵攻にさらされ続け、\n大地も荒廃するばかり・・・{1a}今までは各国とも\nお互いの力を警戒してか、\n大軍を動かすことは\nありませんでしたが、{1a}モルサンスがタルナスに降伏、\nリエミクスがガステーに降伏し、\n事情が変わってまいりました。{0c:2b5409fe}",
    "raw": null,
-   "en": "As you know, {10}-dono,\nEleanor-dono,{1a}perhaps because strategically vital roads\nto Mibal, Talnas and Janan cross within\nmy lands,{1a}ever since the fall of the Kingdom of\nRacoss our Aquine has been exposed to\ninvasion by its neighbors, and the land\nonly grows more desolate...{1a}Until now each nation, wary of the\nothers' strength, never moved a great\narmy,{1a}but with Morsans surrendering to Talnas\nand Liemix surrendering to Gaste,\nmatters have changed.{0c:2b5409fe}",
+   "en": "As you know,\n{10}-dono, Eleanor-dono,{1a}perhaps because strategically vital roads\nto Mibal, Talnas and Janan cross within\nmy lands,{1a}ever since the fall of the Kingdom of\nRacoss our Aquine has been exposed to\ninvasion by its neighbors, and the land\nonly grows more desolate...{1a}Until now each nation, wary of the\nothers' strength, never moved a\ngreat army,{1a}but with Morsans surrendering to Talnas\nand Liemix surrendering to Gaste,\nmatters have changed.{0c:2b5409fe}",
    "status": "done",
    "tl": "As you know, [HERO]-dono, Eleanor-dono, // perhaps because strategically vital roads to Mibal, Talnas and Janan cross within my lands, // ever since the fall of the Kingdom of Racoss our Aquine has been exposed to invasion by its neighbors, and the land only grows more desolate... // Until now each nation, wary of the others' strength, never moved a great army, // but with Morsans surrendering to Talnas and Liemix surrendering to Gaste, matters have changed."
   },
@@ -320,7 +320,7 @@
    "jp": "{0b:08}【 ギュエンヌ将軍 】{0b:09}\nそれまで領内に攻めてくる\n敵の数はせいぜい2千だったのに、{1a}4ヶ月前のタルナスによる侵攻では\n総勢1万8千の兵が・・・{0c:2b5309fe}",
    "read": "{0b:08}【 ギュエンヌ将軍 】{0b:09}\nそれまで領内に攻めてくる\n敵の数はせいぜい2千だったのに、{1a}4ヶ月前のタルナスによる侵攻では\n総勢1万8千の兵が・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "{0b:08}【 General Guyenne 】{0b:09}\nUntil then, the enemies who attacked\nour lands numbered two thousand at\nmost,{1a}but in the invasion by Talnas four\nmonths ago, a force of eighteen\nthousand in all...{0c:2b5309fe}",
+   "en": "{0b:08}【 General Guyenne 】{0b:09}\nUntil then, the enemies who attacked\nour lands numbered two thousand\nat most,{1a}but in the invasion by Talnas four\nmonths ago, a force of eighteen\nthousand in all...{0c:2b5309fe}",
    "status": "done",
    "tl": "Until then, the enemies who attacked our lands numbered two thousand at most, // but in the invasion by Talnas four months ago, a force of eighteen thousand in all..."
   },
@@ -367,7 +367,7 @@
    "jp": "{1c:12}{0b:08}【 エレアノール 】{0b:09}\nどうかお帰り下さい。\n私達にその意志はありません。{0c:2b5409fe}",
    "read": "{1c:12}{0b:08}【 エレアノール 】{0b:09}\nどうかお帰り下さい。\n私達にその意志はありません。{0c:2b5409fe}",
    "raw": null,
-   "en": "{1c:12}{0b:08}【 Eleanor 】{0b:09}\nPlease go home. We have no such\nintention.{0c:2b5409fe}",
+   "en": "{1c:12}{0b:08}【 Eleanor 】{0b:09}\nPlease go home. We have no\nsuch intention.{0c:2b5409fe}",
    "status": "done",
    "tl": "Please go home. We have no such intention."
   },
@@ -379,7 +379,7 @@
    "jp": "{0b:08}【 ギュエンヌ将軍 】{0b:09}\n{10}様には正将軍の位を、\nエレアノール様には内務大臣の位を\n用意しております。{1a}また、我がアキーヌの\n全領土の4割に相当する、\nシマーニュとレースの郷を封土として\n差し上げたいと考えております。{0c:2b5309fe}",
    "read": "{0b:08}【 ギュエンヌ将軍 】{0b:09}\n{10}様には正将軍の位を、\nエレアノール様には内務大臣の位を\n用意しております。{1a}また、我がアキーヌの\n全領土の4割に相当する、\nシマーニュとレースの郷を封土として\n差し上げたいと考えております。{0c:2b5309fe}",
    "raw": null,
-   "en": "{0b:08}【 General Guyenne 】{0b:09}\nWe have prepared the rank of Lord\nGeneral for {10}-sama and that\nof Minister of the Interior for{1a}Eleanor-sama.{1a}We also wish to grant you in fief the\ndistricts of Simagne and Reece, four\ntenths of all Aquine's lands.{0c:2b5309fe}",
+   "en": "{0b:08}【 General Guyenne 】{0b:09}\nWe have prepared the rank of Lord\nGeneral for {10}-sama and that\nof Minister of the Interior{1a}for Eleanor-sama.{1a}We also wish to grant you in fief the\ndistricts of Simagne and Reece, four\ntenths of all Aquine's lands.{0c:2b5309fe}",
    "status": "done",
    "tl": "We have prepared the rank of Lord General for [HERO]-sama and that of Minister of the Interior for Eleanor-sama. // We also wish to grant you in fief the districts of Simagne and Reece, four tenths of all Aquine's lands."
   },
@@ -403,7 +403,7 @@
    "jp": "{1c:12}{0b:08}【 エレアノール 】{0b:09}\nいえ、私達は封土や官位が\n欲しいのではありません。{0c:2b5409fe}",
    "read": "{1c:12}{0b:08}【 エレアノール 】{0b:09}\nいえ、私達は封土や官位が\n欲しいのではありません。{0c:2b5409fe}",
    "raw": null,
-   "en": "{1c:12}{0b:08}【 Eleanor 】{0b:09}\nNo, it is not fiefs or rank that we\ndesire.{0c:2b5409fe}",
+   "en": "{1c:12}{0b:08}【 Eleanor 】{0b:09}\nNo, it is not fiefs or rank that\nwe desire.{0c:2b5409fe}",
    "status": "done",
    "tl": "No, it is not fiefs or rank that we desire."
   },
@@ -558,7 +558,7 @@
    "jp": "{0c:5148}{1c:12}{0b:08}【 エレアノール 】{0b:09}\n分かりました・・・{1a}ですが官位はいりません。\nその時のみ、一介の領民として\nお力をお貸しいたします。{0c:fe}",
    "read": "{0c:5148}{1c:12}{0b:08}【 エレアノール 】{0b:09}\n分かりました・・・{1a}ですが官位はいりません。\nその時のみ、一介の領民として\nお力をお貸しいたします。{0c:fe}",
    "raw": null,
-   "en": "{0c:5148}{1c:12}{0b:08}【 Eleanor 】{0b:09}\nVery well...{1a}But I want no rank. At such times alone,\nas a common subject, I will lend you my\nstrength.{0c:fe}",
+   "en": "{0c:5148}{1c:12}{0b:08}【 Eleanor 】{0b:09}\nVery well...{1a}But I want no rank. At such times alone,\nas a common subject, I will lend you\nmy strength.{0c:fe}",
    "status": "done",
    "tl": "Very well... // But I want no rank. At such times alone, as a common subject, I will lend you my strength."
   },
@@ -581,7 +581,7 @@
    "jp": "{0b:08}【 アルディ侯爵 】{0b:09}\n御配慮の程、\n感謝にたえません。{1a}{0c:2b542351b8}では、失礼を・・・{0c:2b5109fe}",
    "read": "{0b:08}【 アルディ侯爵 】{0b:09}\n御配慮の程、\n感謝にたえません。{1a}{0c:2b542351b8}では、失礼を・・・{0c:2b5109fe}",
    "raw": null,
-   "en": "{0b:08}【 Marquis Ardi 】{0b:09}\nYour consideration leaves me beyond\ngratitude.{1a}{0c:2b542351b8}Then, we take our leave...{0c:2b5109fe}",
+   "en": "{0b:08}【 Marquis Ardi 】{0b:09}\nYour consideration leaves me\nbeyond gratitude.{1a}{0c:2b542351b8}Then, we take our leave...{0c:2b5109fe}",
    "status": "done",
    "tl": "Your consideration leaves me beyond gratitude. // [1]Then, we take our leave..."
   },
@@ -604,7 +604,7 @@
    "jp": "{1c:11}{0b:08}【 エレアノール 】{0b:09}\nいえ、あなたの判断に従います。{1a}{0c:5148}私は、この幸せをくれたあなたに\n殉じて生きる存在ですから。{0c:fe}",
    "read": "{1c:11}{0b:08}【 エレアノール 】{0b:09}\nいえ、あなたの判断に従います。{1a}{0c:5148}私は、この幸せをくれたあなたに\n殉じて生きる存在ですから。{0c:fe}",
    "raw": null,
-   "en": "{1c:11}{0b:08}【 Eleanor 】{0b:09}\nNo, I will follow your judgment.{1a}{0c:5148}I live devoted to you, who gave me this\nhappiness.{0c:fe}",
+   "en": "{1c:11}{0b:08}【 Eleanor 】{0b:09}\nNo, I will follow your judgment.{1a}{0c:5148}I live devoted to you, who gave me\nthis happiness.{0c:fe}",
    "status": "done",
    "tl": "No, I will follow your judgment. // [1]I live devoted to you, who gave me this happiness."
   },
@@ -684,7 +684,7 @@
    "jp": "{1c:14}敵は、明日の昼には総攻撃を\n仕掛けてくるでしょう。{1a}敵方の戦力は{01}2万{02}、当方は{01}2千{02}。\nしかも、守るべき{03}コーシュ{02}の町は\n城壁など無いに等しく\n籠城することも出来ない上に、{1a}兵力が少なすぎるため\n遊撃隊を組んで敵を牽制することも\n出来ない・・・{1a}これでは何をするにも\n後手にまわらざるを得ません。{0c:fe}",
    "read": "{1c:14}敵は、明日の昼には総攻撃を\n仕掛けてくるでしょう。{1a}敵方の戦力は{01}2万{02}、当方は{01}2千{02}。\nしかも、守るべき{03}コーシュ{02}の町は\n城壁など無いに等しく\n籠城することも出来ない上に、{1a}兵力が少なすぎるため\n遊撃隊を組んで敵を牽制することも\n出来ない・・・{1a}これでは何をするにも\n後手にまわらざるを得ません。{0c:fe}",
    "raw": null,
-   "en": "{1c:14}The enemy will launch a full assault by\nnoon tomorrow.{1a}Their strength is twenty thousand, ours\ntwo thousand. What is more, the town of\nCauche we must defend has next to no\nwalls, so we cannot hold out under{1a}siege,{1a}and with so few troops, we cannot form\nraiding squads to harass the enemy\neither...{1a}At this rate, whatever we do, we will be\na step behind.{0c:fe}",
+   "en": "{1c:14}The enemy will launch a full assault by\nnoon tomorrow.{1a}Their strength is twenty thousand, ours\ntwo thousand. What is more, the town of\nCauche we must defend has next to no\nwalls, so we cannot hold out{1a}under siege,{1a}and with so few troops, we cannot form\nraiding squads to harass the\nenemy either...{1a}At this rate, whatever we do, we will be\na step behind.{0c:fe}",
    "status": "done",
    "tl": "The enemy will launch a full assault by noon tomorrow. // Their strength is twenty thousand, ours two thousand. What is more, the town of Cauche we must defend has next to no walls, so we cannot hold out under siege, // and with so few troops, we cannot form raiding squads to harass the enemy either... // At this rate, whatever we do, we will be a step behind."
   },
@@ -1009,7 +1009,7 @@
    "jp": "{0c:5130}{0b:08}【 傭兵 】{0b:09}\n・・・?{1a}俺には分からん感覚だな・・・\nまあいい、早速用件に入ろうか。\nつっても大した内容じゃねえがな。{1a}さっきの軍議で、俺の率いる隊は\n西方の賢女エレアノール殿の、{1a}この無口な男、ロドリゴ率いる隊は\n西方の戦神{10}殿の\n下につくことになったが、{1a}あんた達にちょっと\n質問したいことがあってな。{0c:2b5109fe}",
    "read": "{0c:5130}{0b:08}【 傭兵 】{0b:09}\n・・・?{1a}俺には分からん感覚だな・・・\nまあいい、早速用件に入ろうか。\nつっても大した内容じゃねえがな。{1a}さっきの軍議で、俺の率いる隊は\n西方の賢女エレアノール殿の、{1a}この無口な男、ロドリゴ率いる隊は\n西方の戦神{10}殿の\n下につくことになったが、{1a}あんた達にちょっと\n質問したいことがあってな。{0c:2b5109fe}",
    "raw": null,
-   "en": "{0c:5130}{0b:08}【 Mercenary 】{0b:09}\n...?{1a}Can't say I get that... Anyway, let's get\nright to it. Ain't much to it, mind you.{1a}At the war council just now, my unit got\nput under Eleanor-dono, the Wise Woman\nof the West,{1a}and this quiet fella Rodrigo's unit under\n{10}-dono, the War God of the\nWest,{1a}but there's something I wanna ask you\ntwo.{0c:2b5109fe}",
+   "en": "{0c:5130}{0b:08}【 Mercenary 】{0b:09}\n...?{1a}Can't say I get that... Anyway, let's get\nright to it. Ain't much to it, mind you.{1a}At the war council just now, my unit got\nput under Eleanor-dono, the Wise Woman\nof the West,{1a}and this quiet fella Rodrigo's unit under\n{10}-dono, the War God of\nthe West,{1a}but there's something I wanna ask\nyou two.{0c:2b5109fe}",
    "status": "done",
    "tl": "...? // Can't say I get that... Anyway, let's get right to it. Ain't much to it, mind you. // At the war council just now, my unit got put under Eleanor-dono, the Wise Woman of the West, // and this quiet fella Rodrigo's unit under [HERO]-dono, the War God of the West, // but there's something I wanna ask you two."
   },
@@ -1033,7 +1033,7 @@
    "jp": "{0b:08}【 傭兵 】{0b:09}\nあんた達は優秀すぎて\nあまり下々の事は知らないだろうが、{1a}俺達下っ端傭兵が死ぬ確率ってのは、\n上に誰が立つかで大きく変わってくる。{1a}有能か無能か、\n臆病者か向こう見ずか、\n信頼出来るか出来ないか・・・{1a}死ぬ確率も変われば、\n貰える報酬も変わってくる。{1a}で、下の人間は上についた人間が\nどんな奴かを観察するってわけだ。{0c:2b5109fe}",
    "read": "{0b:08}【 傭兵 】{0b:09}\nあんた達は優秀すぎて\nあまり下々の事は知らないだろうが、{1a}俺達下っ端傭兵が死ぬ確率ってのは、\n上に誰が立つかで大きく変わってくる。{1a}有能か無能か、\n臆病者か向こう見ずか、\n信頼出来るか出来ないか・・・{1a}死ぬ確率も変われば、\n貰える報酬も変わってくる。{1a}で、下の人間は上についた人間が\nどんな奴かを観察するってわけだ。{0c:2b5109fe}",
    "raw": null,
-   "en": "{0b:08}【 Mercenary 】{0b:09}\nYou two are too good to know much\nabout the folks at the bottom,{1a}but the odds of grunts like us dying\nchange a lot depending on who's above\nus.{1a}Able or useless, coward or hothead,\ntrustworthy or not...{1a}Your odds of dying change, and so does\nyour pay.{1a}So those below keep an eye on what\nsort the ones above 'em are.{0c:2b5109fe}",
+   "en": "{0b:08}【 Mercenary 】{0b:09}\nYou two are too good to know much\nabout the folks at the bottom,{1a}but the odds of grunts like us dying\nchange a lot depending on who's\nabove us.{1a}Able or useless, coward or hothead,\ntrustworthy or not...{1a}Your odds of dying change, and so does\nyour pay.{1a}So those below keep an eye on what\nsort the ones above 'em are.{0c:2b5109fe}",
    "status": "done",
    "tl": "You two are too good to know much about the folks at the bottom, // but the odds of grunts like us dying change a lot depending on who's above us. // Able or useless, coward or hothead, trustworthy or not... // Your odds of dying change, and so does your pay. // So those below keep an eye on what sort the ones above 'em are."
   },
@@ -1057,7 +1057,7 @@
    "jp": "{0c:5138}{0b:08}【 傭兵 】{0b:09}\nあ、先に言っておくが、{1a}別に女だからとか、\n歳が若いからってあんた達の腕を\n信用しないわけじゃない。{1a}あんた達2人の武名を知らなきゃ\nこの業界では『もぐり』だ。{1a}適度に果断で適度に慎重・・・\nおそらく、あんた達は最も理想的な\n命をかけるに値する指揮者だろう。{1a}だが、あんた達の噂を集めてると、\nどうも腑に落ちない点があった・・・{1a}戦乱の世が訪れて\nたったの5年ではあるが\nこの稼業にもそれなりの\n暗黙のルールってのが出来つつある。{1a}過去は詮索しない・・・\nこれもその1つだが、\n俺達はそのタブーを\n破ってまで知りたく思った。{1a}その腑に落ちない点ってのをな。{0c:2b5109fe}",
    "read": "{0c:5138}{0b:08}【 傭兵 】{0b:09}\nあ、先に言っておくが、{1a}別に女だからとか、\n歳が若いからってあんた達の腕を\n信用しないわけじゃない。{1a}あんた達2人の武名を知らなきゃ\nこの業界では『もぐり』だ。{1a}適度に果断で適度に慎重・・・\nおそらく、あんた達は最も理想的な\n命をかけるに値する指揮者だろう。{1a}だが、あんた達の噂を集めてると、\nどうも腑に落ちない点があった・・・{1a}戦乱の世が訪れて\nたったの5年ではあるが\nこの稼業にもそれなりの\n暗黙のルールってのが出来つつある。{1a}過去は詮索しない・・・\nこれもその1つだが、\n俺達はそのタブーを\n破ってまで知りたく思った。{1a}その腑に落ちない点ってのをな。{0c:2b5109fe}",
    "raw": null,
-   "en": "{0c:5138}{0b:08}【 Mercenary 】{0b:09}\nOh, lemme say this first:{1a}It ain't that I don't trust your skill\n'cause you're women, or young.{1a}Anybody in this trade who ain't heard of\nyou two is a 'fraud'.{1a}Bold enough, careful enough... you two\nare likely the most ideal commanders a\nman could stake his life on.{1a}But as I gathered up talk about you,\nthere was something that didn't sit\nright...{1a}It's only been five years since the age of\nwar came, but this trade's been growing\nits own unwritten rules.{1a}Don't pry into the past... that's one of\n'em, but we wanted to know bad enough\nto break that taboo.{1a}To know what it is that don't sit right.{0c:2b5109fe}",
+   "en": "{0c:5138}{0b:08}【 Mercenary 】{0b:09}\nOh, lemme say this first:{1a}It ain't that I don't trust your skill\n'cause you're women, or young.{1a}Anybody in this trade who ain't heard of\nyou two is a 'fraud'.{1a}Bold enough, careful enough... you two\nare likely the most ideal commanders a\nman could stake his life on.{1a}But as I gathered up talk about you,\nthere was something that didn't\nsit right...{1a}It's only been five years since the age of\nwar came, but this trade's been growing\nits own unwritten rules.{1a}Don't pry into the past... that's one of\n'em, but we wanted to know bad enough\nto break that taboo.{1a}To know what it is that don't sit right.{0c:2b5109fe}",
    "status": "done",
    "tl": "Oh, lemme say this first: // It ain't that I don't trust your skill 'cause you're women, or young. // Anybody in this trade who ain't heard of you two is a 'fraud'. // Bold enough, careful enough... you two are likely the most ideal commanders a man could stake his life on. // But as I gathered up talk about you, there was something that didn't sit right... // It's only been five years since the age of war came, but this trade's been growing its own unwritten rules. // Don't pry into the past... that's one of 'em, but we wanted to know bad enough to break that taboo. // To know what it is that don't sit right."
   },
@@ -1081,7 +1081,7 @@
    "jp": "{0b:08}【 傭兵 】{0b:09}\nそれは、あんた達が何故\nもっと上を目指さないか、だ。{1a}あんた達はファコルツの王様から\n直々にスカウトされたことが\nあるって聞いた。{1a}王様からは、\n将軍と大臣の位を用意して待ってる、\n1人につき1つずつ城を用意して\n待ってるって言われたんだろ?{1a}ホワイトセイルの自由都市連合にも\n招かれてるって聞いてた。\nおそらくもっと色んな所から\n招かれてるんだろう。{1a}まあ当然だ。\n片方はタレビザンの戦いで、\nたった1人で千の敵を追い払って\n戦神とまで呼ばれた伝説の女勇者、{1a}もう片方は、一介の傭兵でありながら\n用兵の才にも政治の才にも優れた才媛。{1a}諸侯共があんた達に\n目を付けるのはもっともだ。\n俺が王様でもそうするだろう。{1a}だが、その誘いを何故蹴ったのか・・・\nこれが、俺の部下の間でも、\nロドリゴの部下の間でも\n疑問になっている。{1a}{0c:5140}大変言いにくいんだが、\nどこぞから裏金を\nもらってるんじゃないかってな。{0c:2b5109fe}",
    "read": "{0b:08}【 傭兵 】{0b:09}\nそれは、あんた達が何故\nもっと上を目指さないか、だ。{1a}あんた達はファコルツの王様から\n直々にスカウトされたことが\nあるって聞いた。{1a}王様からは、\n将軍と大臣の位を用意して待ってる、\n1人につき1つずつ城を用意して\n待ってるって言われたんだろ?{1a}ホワイトセイルの自由都市連合にも\n招かれてるって聞いてた。\nおそらくもっと色んな所から\n招かれてるんだろう。{1a}まあ当然だ。\n片方はタレビザンの戦いで、\nたった1人で千の敵を追い払って\n戦神とまで呼ばれた伝説の女勇者、{1a}もう片方は、一介の傭兵でありながら\n用兵の才にも政治の才にも優れた才媛。{1a}諸侯共があんた達に\n目を付けるのはもっともだ。\n俺が王様でもそうするだろう。{1a}だが、その誘いを何故蹴ったのか・・・\nこれが、俺の部下の間でも、\nロドリゴの部下の間でも\n疑問になっている。{1a}{0c:5140}大変言いにくいんだが、\nどこぞから裏金を\nもらってるんじゃないかってな。{0c:2b5109fe}",
    "raw": null,
-   "en": "{0b:08}【 Mercenary 】{0b:09}\nIt's why you two don't aim higher.{1a}I heard the King of Fakolz scouted you in\nperson.{1a}The King said he'd have a general's rank\nand a minister's rank waiting, and one\ncastle each, right?{1a}I also heard the free city league of\nWhitesail invited you. Probably plenty of\nother places too.{1a}Well, it's only natural. One's the\nlegendary woman hero, who drove off a\nthousand enemies single-handed at the\nbattle of Talebizan and got called a War{1a}God,{1a}the other's a brilliant woman, a common\nmercenary, yet gifted at both command\nand politics.{1a}No wonder the lords got their eye on\nyou. I'd do the same if I was a king.{1a}But why'd you turn 'em down... that's\nwhat's puzzling my men, and Rodrigo's\ntoo.{1a}{0c:5140}Hard to say this, but they figure you're\ngetting paid off under the table by\nsomebody.{0c:2b5109fe}",
+   "en": "{0b:08}【 Mercenary 】{0b:09}\nIt's why you two don't aim higher.{1a}I heard the King of Fakolz scouted you\nin person.{1a}The King said he'd have a general's rank\nand a minister's rank waiting, and one\ncastle each, right?{1a}I also heard the free city league of\nWhitesail invited you. Probably plenty of\nother places too.{1a}Well, it's only natural. One's the\nlegendary woman hero, who drove off a\nthousand enemies single-handed at the\nbattle of Talebizan and got called a{1a}War God,{1a}the other's a brilliant woman, a common\nmercenary, yet gifted at both command\nand politics.{1a}No wonder the lords got their eye on\nyou. I'd do the same if I was a king.{1a}But why'd you turn 'em down... that's\nwhat's puzzling my men, and\nRodrigo's too.{1a}{0c:5140}Hard to say this, but they figure you're\ngetting paid off under the table\nby somebody.{0c:2b5109fe}",
    "status": "done",
    "tl": "It's why you two don't aim higher. // I heard the King of Fakolz scouted you in person. // The King said he'd have a general's rank and a minister's rank waiting, and one castle each, right? // I also heard the free city league of Whitesail invited you. Probably plenty of other places too. // Well, it's only natural. One's the legendary woman hero, who drove off a thousand enemies single-handed at the battle of Talebizan and got called a War God, // the other's a brilliant woman, a common mercenary, yet gifted at both command and politics. // No wonder the lords got their eye on you. I'd do the same if I was a king. // But why'd you turn 'em down... that's what's puzzling my men, and Rodrigo's too. // [1]Hard to say this, but they figure you're getting paid off under the table by somebody."
   },
@@ -1105,7 +1105,7 @@
    "jp": "{0c:5148}{0b:08}【 傭兵 】{0b:09}\n不信感とまではいかねえよ。{1a}2人で3千を越える敵を\n追い払ったとかいった\n派手な噂に隠れちまってるが、{1a}雇い主の国王に進言して\n戦時特別税を徴収するのを\n諫めたって噂も聞いてる。{1a}農村出身の人間が多い俺達の部隊では、\nあんた達の評判は決して悪くない。\nいや、むしろ今までで最高の部類だ。{1a}不信感って言うよりは\nただの『素朴な疑問』だよ。{0c:2b5109fe}",
    "read": "{0c:5148}{0b:08}【 傭兵 】{0b:09}\n不信感とまではいかねえよ。{1a}2人で3千を越える敵を\n追い払ったとかいった\n派手な噂に隠れちまってるが、{1a}雇い主の国王に進言して\n戦時特別税を徴収するのを\n諫めたって噂も聞いてる。{1a}農村出身の人間が多い俺達の部隊では、\nあんた達の評判は決して悪くない。\nいや、むしろ今までで最高の部類だ。{1a}不信感って言うよりは\nただの『素朴な疑問』だよ。{0c:2b5109fe}",
    "raw": null,
-   "en": "{0c:5148}{0b:08}【 Mercenary 】{0b:09}\nWouldn't go so far as distrust.{1a}It's buried under flashy rumors, how you\ntwo drove off three thousand-plus\nenemies on your own,{1a}but I also heard you talked the king who\nhired you out of collecting a war tax.{1a}In our unit, where plenty of us come\nfrom farm villages, your reputation ain't\nbad at all. No, it's about the best we've\nseen.{1a}So it ain't distrust, just a 'simple\nquestion'.{0c:2b5109fe}",
+   "en": "{0c:5148}{0b:08}【 Mercenary 】{0b:09}\nWouldn't go so far as distrust.{1a}It's buried under flashy rumors, how you\ntwo drove off three thousand-plus\nenemies on your own,{1a}but I also heard you talked the king who\nhired you out of collecting a war tax.{1a}In our unit, where plenty of us come\nfrom farm villages, your reputation ain't\nbad at all. No, it's about the best\nwe've seen.{1a}So it ain't distrust, just a\n'simple question'.{0c:2b5109fe}",
    "status": "done",
    "tl": "Wouldn't go so far as distrust. // It's buried under flashy rumors, how you two drove off three thousand-plus enemies on your own, // but I also heard you talked the king who hired you out of collecting a war tax. // In our unit, where plenty of us come from farm villages, your reputation ain't bad at all. No, it's about the best we've seen. // So it ain't distrust, just a 'simple question'."
   },
@@ -1176,7 +1176,7 @@
    "jp": "{1c:17}{0b:08}【 エレアノール 】{0b:09}\n傭兵の身分ならば、\n契約金さえ払い戻せば\nどんな命令でも断ることが出来ます。{1a}これも傭兵の世界では\n暗黙のルールなのでは?{0c:2b5309fe}",
    "read": "{1c:17}{0b:08}【 エレアノール 】{0b:09}\n傭兵の身分ならば、\n契約金さえ払い戻せば\nどんな命令でも断ることが出来ます。{1a}これも傭兵の世界では\n暗黙のルールなのでは?{0c:2b5309fe}",
    "raw": null,
-   "en": "{1c:17}{0b:08}【 Eleanor 】{0b:09}\nAs mercenaries, we may refuse any\norder, so long as we return the contract\nmoney.{1a}That too is an unwritten rule in the\nmercenary world, is it not?{0c:2b5309fe}",
+   "en": "{1c:17}{0b:08}【 Eleanor 】{0b:09}\nAs mercenaries, we may refuse any\norder, so long as we return the\ncontract money.{1a}That too is an unwritten rule in the\nmercenary world, is it not?{0c:2b5309fe}",
    "status": "done",
    "tl": "As mercenaries, we may refuse any order, so long as we return the contract money. // That too is an unwritten rule in the mercenary world, is it not?"
   },
@@ -1188,7 +1188,7 @@
    "jp": "{0b:08}【 傭兵 】{0b:09}\nたとえば、攻城戦では、\n敵の城の食糧を早く減らす為に{1a}城内の女子供が投降するのを\n追い返す時もあるよな。{1a}{0c:5158}もしもだ、そういう命令を\n受けたらどうするんだ?{0c:2b5109fe}",
    "read": "{0b:08}【 傭兵 】{0b:09}\nたとえば、攻城戦では、\n敵の城の食糧を早く減らす為に{1a}城内の女子供が投降するのを\n追い返す時もあるよな。{1a}{0c:5158}もしもだ、そういう命令を\n受けたらどうするんだ?{0c:2b5109fe}",
    "raw": null,
-   "en": "{0b:08}【 Mercenary 】{0b:09}\nFor example, in a siege, to drain the\nenemy castle's food faster,{1a}sometimes ya turn back the women and\nchildren trying to surrender.{1a}{0c:5158}Say you got an order like that. What\nthen?{0c:2b5109fe}",
+   "en": "{0b:08}【 Mercenary 】{0b:09}\nFor example, in a siege, to drain the\nenemy castle's food faster,{1a}sometimes ya turn back the women and\nchildren trying to surrender.{1a}{0c:5158}Say you got an order like that.\nWhat then?{0c:2b5109fe}",
    "status": "done",
    "tl": "For example, in a siege, to drain the enemy castle's food faster, // sometimes ya turn back the women and children trying to surrender. // [1]Say you got an order like that. What then?"
   },
@@ -1212,7 +1212,7 @@
    "jp": "{0c:5130}{0b:08}【 傭兵 】{0b:09}\nそんなワガママを言っても\nまだ引く手あまたとは・・・{1a}まったく恐れ入るぜ。{0c:2b5109fe}",
    "read": "{0c:5130}{0b:08}【 傭兵 】{0b:09}\nそんなワガママを言っても\nまだ引く手あまたとは・・・{1a}まったく恐れ入るぜ。{0c:2b5109fe}",
    "raw": null,
-   "en": "{0c:5130}{0b:08}【 Mercenary 】{0b:09}\nBeing that picky and still in such\ndemand...{1a}Damn, I gotta hand it to ya.{0c:2b5109fe}",
+   "en": "{0c:5130}{0b:08}【 Mercenary 】{0b:09}\nBeing that picky and still in\nsuch demand...{1a}Damn, I gotta hand it to ya.{0c:2b5109fe}",
    "status": "done",
    "tl": "Being that picky and still in such demand... // Damn, I gotta hand it to ya."
   },
@@ -1236,7 +1236,7 @@
    "jp": "{0b:08}【 傭兵 】{0b:09}\nああ、はっきり言えばな。\n俺の部下がそんなこと言ったら\nはり倒すところだ。{1a}そんな甘い考えじゃ\n生きていけないってな。{1a}だが、あいにくあんたは\n今度の作戦の上役だし、\nはり倒そうと思っても\nヒラリとかわされ逆にはり倒される。{1a}{0c:5158}だが、恐ろしいほど評判通りだな、\nあんた達は。{0c:2b5109fe}",
    "read": "{0b:08}【 傭兵 】{0b:09}\nああ、はっきり言えばな。\n俺の部下がそんなこと言ったら\nはり倒すところだ。{1a}そんな甘い考えじゃ\n生きていけないってな。{1a}だが、あいにくあんたは\n今度の作戦の上役だし、\nはり倒そうと思っても\nヒラリとかわされ逆にはり倒される。{1a}{0c:5158}だが、恐ろしいほど評判通りだな、\nあんた達は。{0c:2b5109fe}",
    "raw": null,
-   "en": "{0b:08}【 Mercenary 】{0b:09}\nYeah, if I'm being blunt. If one of my men\nsaid that, I'd knock him flat.{1a}Tell him ya can't survive thinking that\nsoft.{1a}But you happen to be my superior on\nthis job, and if I tried to knock you flat,\nyou'd slip aside and knock me flat\ninstead.{1a}{0c:5158}Still, you two live up to your reputation.\nIt's downright scary.{0c:2b5109fe}",
+   "en": "{0b:08}【 Mercenary 】{0b:09}\nYeah, if I'm being blunt. If one of my men\nsaid that, I'd knock him flat.{1a}Tell him ya can't survive thinking\nthat soft.{1a}But you happen to be my superior on\nthis job, and if I tried to knock you flat,\nyou'd slip aside and knock me\nflat instead.{1a}{0c:5158}Still, you two live up to your reputation.\nIt's downright scary.{0c:2b5109fe}",
    "status": "done",
    "tl": "Yeah, if I'm being blunt. If one of my men said that, I'd knock him flat. // Tell him ya can't survive thinking that soft. // But you happen to be my superior on this job, and if I tried to knock you flat, you'd slip aside and knock me flat instead. // [1]Still, you two live up to your reputation. It's downright scary."
   },

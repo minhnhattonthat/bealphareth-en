@@ -41,7 +41,7 @@
    "jp": "{0b:08}{e080} 戦士フォルクマイヤー {e081}{0b:09}\nティアラちゃん、\nどこかに出かけたってよ。{1a}仕方ねえ、ここで待ってるか。{0c:fe}",
    "read": "{0b:08}【 戦士フォルクマイヤー 】{0b:09}\nティアラちゃん、\nどこかに出かけたってよ。{1a}仕方ねえ、ここで待ってるか。{0c:fe}",
    "raw": null,
-   "en": "{0b:08}【 Volkmeyer the Warrior 】{0b:09}\nTiara-chan's gone out somewhere, they\nsay.{1a}Can't be helped, we'll wait here.{0c:fe}",
+   "en": "{0b:08}【 Volkmeyer the Warrior 】{0b:09}\nTiara-chan's gone out somewhere,\nthey say.{1a}Can't be helped, we'll wait here.{0c:fe}",
    "status": "done",
    "tl": "Tiara-chan's gone out somewhere, they say. // Can't be helped, we'll wait here."
   },
@@ -121,7 +121,7 @@
    "jp": "バルデスの旦那が\n命を懸けて守った男ってのが\nどんな奴か知りたくてな。{1a}実は、あの事{e086}の前にも\n旦那がお前のこと\n何度か話してたんだよ。{1a}悪口じゃねえぜ。\n故{e087}にいる弟さんに\n雰{e08a}気が似てるとかなんだとか・・・{1a}その時はそういうたわいもない\n話題だったんだが、\nそれを急に思い出してよ・・・{0c:020501}",
    "read": "バルデスの旦那が\n命を懸けて守った男ってのが\nどんな奴か知りたくてな。{1a}実は、あの事件の前にも\n旦那がお前のこと\n何度か話してたんだよ。{1a}悪口じゃねえぜ。\n故郷にいる弟さんに\n雰囲気が似てるとかなんだとか・・・{1a}その時はそういうたわいもない\n話題だったんだが、\nそれを急に思い出してよ・・・{0c:020501}",
    "raw": null,
-   "en": "I wanted to know what kinda man Mister\nValdes risked his life to protect.{1a}Truth is, even before that business,\nMister Valdes talked about you a few\ntimes.{1a}Nothin' bad, mind. Said you had the same\nair about you as his little brother back\nhome, somethin' like that...{1a}Just idle talk at the time, but it came\nback to me all of a sudden...{0c:020501}",
+   "en": "I wanted to know what kinda man Mister\nValdes risked his life to protect.{1a}Truth is, even before that business,\nMister Valdes talked about you a\nfew times.{1a}Nothin' bad, mind. Said you had the same\nair about you as his little brother back\nhome, somethin' like that...{1a}Just idle talk at the time, but it came\nback to me all of a sudden...{0c:020501}",
    "status": "done",
    "tl": "I wanted to know what kinda man Mister Valdes risked his life to protect. // Truth is, even before that business, Mister Valdes talked about you a few times. // Nothin' bad, mind. Said you had the same air about you as his little brother back home, somethin' like that... // Just idle talk at the time, but it came back to me all of a sudden..."
   },
@@ -167,7 +167,7 @@
    "jp": "バルデスの旦那が\n命を懸けて守った女ってのが\nどんな奴か知りたくてな。{1a}実は、あの事{e086}の前にも\nバルデスの旦那がお前のこと\n何度か話してたんだよ。{1a}悪口じゃねえぜ。\n故{e087}にいる{e08e}さんに\n雰{e08a}気が似てるとかなんだとか・・・{1a}その時はそういうたわいもない\n話題だったんだが、\nそれを急に思い出してよ・・・{0c:fe}",
    "read": "バルデスの旦那が\n命を懸けて守った女ってのが\nどんな奴か知りたくてな。{1a}実は、あの事件の前にも\nバルデスの旦那がお前のこと\n何度か話してたんだよ。{1a}悪口じゃねえぜ。\n故郷にいる妹さんに\n雰囲気が似てるとかなんだとか・・・{1a}その時はそういうたわいもない\n話題だったんだが、\nそれを急に思い出してよ・・・{0c:fe}",
    "raw": null,
-   "en": "I wanted to know what kinda woman\nMister Valdes risked his life to protect.{1a}Truth is, even before that business,\nMister Valdes talked about you a few\ntimes.{1a}Nothin' bad, mind. Said you had the same\nair about you as his little sister back\nhome, somethin' like that...{1a}Just idle talk at the time, but it came\nback to me all of a sudden...{0c:fe}",
+   "en": "I wanted to know what kinda woman\nMister Valdes risked his life to protect.{1a}Truth is, even before that business,\nMister Valdes talked about you a\nfew times.{1a}Nothin' bad, mind. Said you had the same\nair about you as his little sister back\nhome, somethin' like that...{1a}Just idle talk at the time, but it came\nback to me all of a sudden...{0c:fe}",
    "status": "done",
    "tl": "I wanted to know what kinda woman Mister Valdes risked his life to protect. // Truth is, even before that business, Mister Valdes talked about you a few times. // Nothin' bad, mind. Said you had the same air about you as his little sister back home, somethin' like that... // Just idle talk at the time, but it came back to me all of a sudden..."
   },
@@ -190,7 +190,7 @@
    "jp": "お前も知っての{e08f}り、\nバルデスの旦那はもうじき死ぬ・・・{1a}それまでに、\nあの旦那の考え方や生き様を\n少しでも理解しておきたくてな。{1a}まァ、他人の気持ちを\n{e090}全に理解する事なんて\n誰にも不{e091}{e092}だってことは\n百も承知してるが、{1a}今は少しでも近づきたいんだ・・・\nあのバルデスって男によ。{0c:fe}",
    "read": "お前も知っての通り、\nバルデスの旦那はもうじき死ぬ・・・{1a}それまでに、\nあの旦那の考え方や生き様を\n少しでも理解しておきたくてな。{1a}まァ、他人の気持ちを\n完全に理解する事なんて\n誰にも不可能だってことは\n百も承知してるが、{1a}今は少しでも近づきたいんだ・・・\nあのバルデスって男によ。{0c:fe}",
    "raw": null,
-   "en": "As you know, Mister Valdes is gonna die\nsoon...{1a}Before that, I want to understand, even\na little, how he thinks and how he lives.{1a}Sure, I know damn well no one can ever\ncompletely understand another person's\nheart,{1a}but right now I wanna get even a little\ncloser... to that man Valdes.{0c:fe}",
+   "en": "As you know, Mister Valdes is gonna\ndie soon...{1a}Before that, I want to understand, even\na little, how he thinks and how he lives.{1a}Sure, I know damn well no one can ever\ncompletely understand another\nperson's heart,{1a}but right now I wanna get even a little\ncloser... to that man Valdes.{0c:fe}",
    "status": "done",
    "tl": "As you know, Mister Valdes is gonna die soon... // Before that, I want to understand, even a little, how he thinks and how he lives. // Sure, I know damn well no one can ever completely understand another person's heart, // but right now I wanna get even a little closer... to that man Valdes."
   },
@@ -213,7 +213,7 @@
    "jp": "バルデスの旦那は\n俺の命の恩人なんだ。{1a}いや、そんなありふれた言{e095}で\n言い{e096}せるもんじゃねえ・・・\nとにかく、あの旦那がいなければ\n今の俺はなかっただろう。{1a}カルスの棺{e098}の{e099}人の多くが、\nあの旦那に命を助けてもらったが、\n俺もご多分に漏れず、少なくとも\n10回以上命を助けられている。{1a}自分のミスが原因で\n仲間を2人も死なせちまって、\n生きる気力を失ってた俺を\n立ち直らせてくれたのもあの旦那だ。{1a}{0c:5218202b501000}人生なんてその気さえあれば\n何度でもやり直し出来るってのを\n俺はあの男に{e09d}わった。{0c:fe}",
    "read": "バルデスの旦那は\n俺の命の恩人なんだ。{1a}いや、そんなありふれた言葉で\n言い表せるもんじゃねえ・・・\nとにかく、あの旦那がいなければ\n今の俺はなかっただろう。{1a}カルスの棺桶の住人の多くが、\nあの旦那に命を助けてもらったが、\n俺もご多分に漏れず、少なくとも\n10回以上命を助けられている。{1a}自分のミスが原因で\n仲間を2人も死なせちまって、\n生きる気力を失ってた俺を\n立ち直らせてくれたのもあの旦那だ。{1a}{0c:5218202b501000}人生なんてその気さえあれば\n何度でもやり直し出来るってのを\n俺はあの男に教わった。{0c:fe}",
    "raw": null,
-   "en": "Mister Valdes saved my life.{1a}No, words that ordinary don't cover it...\nAnyway, if not for him, I wouldn't be who\nI am now.{1a}Plenty of folks in the Coffin of Kars\nowe him their lives, and I'm no exception.\nHe saved mine ten times at least.{1a}When a mistake of mine got two\ncomrades killed and I'd lost the will to\nlive, he's the one who got me back on my\nfeet.{1a}{0c:5218202b501000}From that man I learned that if you've\ngot the will, you can start your life over\nas many times as you want.{0c:fe}",
+   "en": "Mister Valdes saved my life.{1a}No, words that ordinary don't cover it...\nAnyway, if not for him, I wouldn't be who\nI am now.{1a}Plenty of folks in the Coffin of Kars\nowe him their lives, and I'm no exception.\nHe saved mine ten times at least.{1a}When a mistake of mine got two\ncomrades killed and I'd lost the will to\nlive, he's the one who got me back on\nmy feet.{1a}{0c:5218202b501000}From that man I learned that if you've\ngot the will, you can start your life over\nas many times as you want.{0c:fe}",
    "status": "done",
    "tl": "Mister Valdes saved my life. // No, words that ordinary don't cover it... Anyway, if not for him, I wouldn't be who I am now. // Plenty of folks in the Coffin of Kars owe him their lives, and I'm no exception. He saved mine ten times at least. // When a mistake of mine got two comrades killed and I'd lost the will to live, he's the one who got me back on my feet. // [1]From that man I learned that if you've got the will, you can start your life over as many times as you want."
   },
@@ -374,7 +374,7 @@
    "jp": "狭い町だ、お前の噂は\nわざわざ聞いて歩かなくても\n勝手に耳に入ってきたよ。{1a}仲間にはやらねえよって\n言っておきながら、\n誰よりも確実に仕事をこなす\n少しキザな奴・・・{1a}だいたいこんな所か。{1a}で、実際に{e0b1}ってみた感想だが・・・{0c:fe}",
    "read": "狭い町だ、お前の噂は\nわざわざ聞いて歩かなくても\n勝手に耳に入ってきたよ。{1a}仲間にはやらねえよって\n言っておきながら、\n誰よりも確実に仕事をこなす\n少しキザな奴・・・{1a}だいたいこんな所か。{1a}で、実際に会ってみた感想だが・・・{0c:fe}",
    "raw": null,
-   "en": "It's a small town. Word about you\nreached my ears all on its own, without\nmy askin' around.{1a}Somebody who says they won't do a\nthing for comrades, then gets the job\ndone surer than anyone, a bit of a\nposeur...{1a}That's about the size of it.{1a}So, here's how you strike me now that\nwe've met...{0c:fe}",
+   "en": "It's a small town. Word about you\nreached my ears all on its own, without\nmy askin' around.{1a}Somebody who says they won't do a\nthing for comrades, then gets the job\ndone surer than anyone, a bit of\na poseur...{1a}That's about the size of it.{1a}So, here's how you strike me now that\nwe've met...{0c:fe}",
    "status": "done",
    "tl": "It's a small town. Word about you reached my ears all on its own, without my askin' around. // Somebody who says they won't do a thing for comrades, then gets the job done surer than anyone, a bit of a poseur... // That's about the size of it. // So, here's how you strike me now that we've met..."
   },

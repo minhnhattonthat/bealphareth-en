@@ -101,7 +101,7 @@
    "jp": "{1c:10}{0b:08}{e080} アーサー {e081}{0b:09}\n今から{e082}{e083}に行くのか?\n気をつけていけよ!{0c:15}",
    "read": "{1c:10}{0b:08}【 アーサー 】{0b:09}\n今から遺跡に行くのか?\n気をつけていけよ!{0c:15}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Arthur 】{0b:09}\nHeading to the ruins now? Take care out\nthere!{0c:15}",
+   "en": "{1c:10}{0b:08}【 Arthur 】{0b:09}\nHeading to the ruins now? Take care\nout there!{0c:15}",
    "status": "done",
    "tl": "Heading to the ruins now? Take care out there!"
   },
@@ -231,7 +231,7 @@
    "jp": "{1c:13}あんなことをするなんて・・・!\n一時でも君を信じていた僕が\n馬鹿だったのか?{1a}{0c:15}",
    "read": "{1c:13}あんなことをするなんて・・・!\n一時でも君を信じていた僕が\n馬鹿だったのか?{1a}{0c:15}",
    "raw": null,
-   "en": "{1c:13}To think you would do such a thing...! Was\nI a fool to have trusted you, even for a\nmoment?{1a}{0c:15}",
+   "en": "{1c:13}To think you would do such a thing...! Was\nI a fool to have trusted you, even for\na moment?{1a}{0c:15}",
    "status": "done",
    "tl": "To think you would do such a thing...! Was I a fool to have trusted you, even for a moment?"
   },
@@ -432,7 +432,7 @@
    "jp": "{1c:14}{0b:08}{e080} アーサー {e081}{0b:09}\n{e087}はやっぱりすがすがしいな!{0c:2b50091501}",
    "read": "{1c:14}{0b:08}【 アーサー 】{0b:09}\n朝はやっぱりすがすがしいな!{0c:2b50091501}",
    "raw": null,
-   "en": "{1c:14}{0b:08}【 Arthur 】{0b:09}\nThere is nothing so refreshing as\nmorning!{0c:2b50091501}",
+   "en": "{1c:14}{0b:08}【 Arthur 】{0b:09}\nThere is nothing so refreshing\nas morning!{0c:2b50091501}",
    "status": "done",
    "tl": "There is nothing so refreshing as morning!"
   },
@@ -480,7 +480,7 @@
    "jp": "{0c:515c}{1c:15}{0b:08}{e080} アーサー {e081}{0b:09}\n・・・・・・\n僕の何が{e08a}{e08b}なんだろう・・・{0c:1501}",
    "read": "{0c:515c}{1c:15}{0b:08}【 アーサー 】{0b:09}\n・・・・・・\n僕の何が異常なんだろう・・・{0c:1501}",
    "raw": null,
-   "en": "{0c:515c}{1c:15}{0b:08}【 Arthur 】{0b:09}\n...... What is so abnormal about me, I\nwonder...{0c:1501}",
+   "en": "{0c:515c}{1c:15}{0b:08}【 Arthur 】{0b:09}\n...... What is so abnormal about me,\nI wonder...{0c:1501}",
    "status": "done",
    "tl": "...... What is so abnormal about me, I wonder..."
   },
@@ -585,7 +585,7 @@
    "jp": "{1c:14}{0b:08}{e080} アーサー {e081}{0b:09}\n{e087}はやっぱりすがすがしいな!{0c:15}",
    "read": "{1c:14}{0b:08}【 アーサー 】{0b:09}\n朝はやっぱりすがすがしいな!{0c:15}",
    "raw": null,
-   "en": "{1c:14}{0b:08}【 Arthur 】{0b:09}\nThere is nothing so refreshing as\nmorning!{0c:15}",
+   "en": "{1c:14}{0b:08}【 Arthur 】{0b:09}\nThere is nothing so refreshing\nas morning!{0c:15}",
    "status": "done",
    "tl": "There is nothing so refreshing as morning!"
   },
@@ -774,7 +774,7 @@
    "jp": "{1c:14}{0b:08}{e080} アーサー {e081}{0b:09}\nやあ。\n君は・・・えーと、\n確か{10}っていったよね。{1a}僕はビアストクから来た\nアーサー=ルイトガルド。\nよろしく!{0c:15}",
    "read": "{1c:14}{0b:08}【 アーサー 】{0b:09}\nやあ。\n君は・・・えーと、\n確か{10}っていったよね。{1a}僕はビアストクから来た\nアーサー=ルイトガルド。\nよろしく!{0c:15}",
    "raw": null,
-   "en": "{1c:14}{0b:08}【 Arthur 】{0b:09}\nHello. You are... um, {10}, wasn't\nit?{1a}I'm Arthur Luitgard, from Biastok.\nPleased to meet you!{0c:15}",
+   "en": "{1c:14}{0b:08}【 Arthur 】{0b:09}\nHello. You are... um, {10},\nwasn't it?{1a}I'm Arthur Luitgard, from Biastok.\nPleased to meet you!{0c:15}",
    "status": "done",
    "tl": "Hello. You are... um, [HERO], wasn't it? // I'm Arthur Luitgard, from Biastok. Pleased to meet you!"
   },
@@ -844,7 +844,7 @@
    "jp": "{1c:14}{0b:08}{e080} アーサー {e081}{0b:09}\nやあ。\n君は・・・えーと、\n確か{10}っていったよね。{1a}僕はビアストクから来た\nアーサー=ルイトガルド。\nよろしく!{0c:15}",
    "read": "{1c:14}{0b:08}【 アーサー 】{0b:09}\nやあ。\n君は・・・えーと、\n確か{10}っていったよね。{1a}僕はビアストクから来た\nアーサー=ルイトガルド。\nよろしく!{0c:15}",
    "raw": null,
-   "en": "{1c:14}{0b:08}【 Arthur 】{0b:09}\nHello. You are... um, {10}, wasn't\nit?{1a}I'm Arthur Luitgard, from Biastok.\nPleased to meet you!{0c:15}",
+   "en": "{1c:14}{0b:08}【 Arthur 】{0b:09}\nHello. You are... um, {10},\nwasn't it?{1a}I'm Arthur Luitgard, from Biastok.\nPleased to meet you!{0c:15}",
    "status": "done",
    "tl": "Hello. You are... um, [HERO], wasn't it? // I'm Arthur Luitgard, from Biastok. Pleased to meet you!"
   },
@@ -856,7 +856,7 @@
    "jp": "{0c:521921}{1c:10}{0b:08}{e080} アーサー {e081}{0b:09}\nこの町に来るのが\n小さい頃からの夢だったんだ。{1a}『アザレの{e08e}』を見つけて\n{e08f}に苦しむ{e090}を助け、\n彼らを苦しめ続けた魔物達を\n僕が退{e091}してやるって。{1a}{0c:526971}不安もあるけど、\nこれが僕の使命だと思っているよ。{0c:15}",
    "read": "{0c:521921}{1c:10}{0b:08}【 アーサー 】{0b:09}\nこの町に来るのが\n小さい頃からの夢だったんだ。{1a}『アザレの石』を見つけて\n病に苦しむ民を助け、\n彼らを苦しめ続けた魔物達を\n僕が退治してやるって。{1a}{0c:526971}不安もあるけど、\nこれが僕の使命だと思っているよ。{0c:15}",
    "raw": null,
-   "en": "{0c:521921}{1c:10}{0b:08}【 Arthur 】{0b:09}\nComing to this town has been my dream\nsince I was small.{1a}To find the 'Azare Stone', help the\npeople suffering from disease, and slay\nwith my own hand the monsters that\nhave long tormented them.{1a}{0c:526971}I have my fears, but I believe this is my\nmission.{0c:15}",
+   "en": "{0c:521921}{1c:10}{0b:08}【 Arthur 】{0b:09}\nComing to this town has been my dream\nsince I was small.{1a}To find the 'Azare Stone', help the\npeople suffering from disease, and slay\nwith my own hand the monsters that\nhave long tormented them.{1a}{0c:526971}I have my fears, but I believe this is\nmy mission.{0c:15}",
    "status": "done",
    "tl": "Coming to this town has been my dream since I was small. // To find the 'Azare Stone', help the people suffering from disease, and slay with my own hand the monsters that have long tormented them. // [1]I have my fears, but I believe this is my mission."
   },
@@ -1360,7 +1360,7 @@
    "jp": "{1c:10}不安もあるけど、\nこれが僕の使命だと思っているよ。{0c:2b50091501}",
    "read": "{1c:10}不安もあるけど、\nこれが僕の使命だと思っているよ。{0c:2b50091501}",
    "raw": null,
-   "en": "{1c:10}I have my fears, but I believe this is my\nmission.{0c:2b50091501}",
+   "en": "{1c:10}I have my fears, but I believe this is\nmy mission.{0c:2b50091501}",
    "status": "done",
    "tl": "I have my fears, but I believe this is my mission."
   },
@@ -1456,7 +1456,7 @@
    "jp": "{0c:525859}{1c:11}{0b:08}{e080} アーサー {e081}{0b:09}\nごめん・・・\n僕はなんて君達に失礼なことを・・・{0c:2b50091501}",
    "read": "{0c:525859}{1c:11}{0b:08}【 アーサー 】{0b:09}\nごめん・・・\n僕はなんて君達に失礼なことを・・・{0c:2b50091501}",
    "raw": null,
-   "en": "{0c:525859}{1c:11}{0b:08}【 Arthur 】{0b:09}\nI'm sorry... How rude I have been to all of\nyou...{0c:2b50091501}",
+   "en": "{0c:525859}{1c:11}{0b:08}【 Arthur 】{0b:09}\nI'm sorry... How rude I have been to all\nof you...{0c:2b50091501}",
    "status": "done",
    "tl": "I'm sorry... How rude I have been to all of you..."
   },
@@ -1468,7 +1468,7 @@
    "jp": "{0c:520809}{1c:19}{0b:08}{e080} パスカ {e081}{0b:09}\nそんなに落ち{e0aa}むなよ。\nその反応見る限りじゃ\nただの勘違いなんだろ?{1a}ただ人前じゃ、{e0ac}にこの町じゃ、\nもうちょっと気をつけろって\n言ってるんだよ。{1a}{0c:520a09}この町じゃ、身分なんて\n何の役にも立たないみたいだしな。{0c:2902091501}",
    "read": "{0c:520809}{1c:19}{0b:08}【 パスカ 】{0b:09}\nそんなに落ち込むなよ。\nその反応見る限りじゃ\nただの勘違いなんだろ?{1a}ただ人前じゃ、特にこの町じゃ、\nもうちょっと気をつけろって\n言ってるんだよ。{1a}{0c:520a09}この町じゃ、身分なんて\n何の役にも立たないみたいだしな。{0c:2902091501}",
    "raw": null,
-   "en": "{0c:520809}{1c:19}{0b:08}【 Pasca 】{0b:09}\nDon't get so down about it. Seein' how\nyou took that, it was just an honest\nmistake, right?{1a}I'm just sayin' be a little more careful\naround people, especially in this town.{1a}{0c:520a09}Seems rank ain't worth a damn here\nanyhow.{0c:2902091501}",
+   "en": "{0c:520809}{1c:19}{0b:08}【 Pasca 】{0b:09}\nDon't get so down about it. Seein' how\nyou took that, it was just an honest\nmistake, right?{1a}I'm just sayin' be a little more careful\naround people, especially in this town.{1a}{0c:520a09}Seems rank ain't worth a damn\nhere anyhow.{0c:2902091501}",
    "status": "done",
    "tl": "Don't get so down about it. Seein' how you took that, it was just an honest mistake, right? // I'm just sayin' be a little more careful around people, especially in this town. // [1]Seems rank ain't worth a damn here anyhow."
   },
@@ -1641,7 +1641,7 @@
    "jp": "{1c:10}不安もあるけど、\nこれが僕の使命だと思っているよ。{0c:2b50091501}",
    "read": "{1c:10}不安もあるけど、\nこれが僕の使命だと思っているよ。{0c:2b50091501}",
    "raw": null,
-   "en": "{1c:10}I have my fears, but I believe this is my\nmission.{0c:2b50091501}",
+   "en": "{1c:10}I have my fears, but I believe this is\nmy mission.{0c:2b50091501}",
    "status": "done",
    "tl": "I have my fears, but I believe this is my mission."
   },
@@ -1737,7 +1737,7 @@
    "jp": "{0c:525859}{1c:11}{0b:08}{e080} アーサー {e081}{0b:09}\nごめん・・・\n僕はなんて君達に失礼なことを・・・{0c:2b50091501}",
    "read": "{0c:525859}{1c:11}{0b:08}【 アーサー 】{0b:09}\nごめん・・・\n僕はなんて君達に失礼なことを・・・{0c:2b50091501}",
    "raw": null,
-   "en": "{0c:525859}{1c:11}{0b:08}【 Arthur 】{0b:09}\nI'm sorry... How rude I have been to all of\nyou...{0c:2b50091501}",
+   "en": "{0c:525859}{1c:11}{0b:08}【 Arthur 】{0b:09}\nI'm sorry... How rude I have been to all\nof you...{0c:2b50091501}",
    "status": "done",
    "tl": "I'm sorry... How rude I have been to all of you..."
   },
@@ -1749,7 +1749,7 @@
    "jp": "{0c:520809}{1c:19}{0b:08}{e080} パスカ {e081}{0b:09}\nそんなに落ち{e0aa}むなよ。\nその反応見る限りじゃ\nただの勘違いなんだろ?{1a}ただ人前じゃ、{e0ac}にこの町じゃ、\nもうちょっと気をつけろって\n言ってるんだよ。{1a}{0c:520a09}この町じゃ、身分なんて\n何の役にも立たないみたいだしな。{0c:2902091501}",
    "read": "{0c:520809}{1c:19}{0b:08}【 パスカ 】{0b:09}\nそんなに落ち込むなよ。\nその反応見る限りじゃ\nただの勘違いなんだろ?{1a}ただ人前じゃ、特にこの町じゃ、\nもうちょっと気をつけろって\n言ってるんだよ。{1a}{0c:520a09}この町じゃ、身分なんて\n何の役にも立たないみたいだしな。{0c:2902091501}",
    "raw": null,
-   "en": "{0c:520809}{1c:19}{0b:08}【 Pasca 】{0b:09}\nDon't get so down about it. Seein' how\nyou took that, it was just an honest\nmistake, right?{1a}I'm just sayin' be a little more careful\naround people, especially in this town.{1a}{0c:520a09}Seems rank ain't worth a damn here\nanyhow.{0c:2902091501}",
+   "en": "{0c:520809}{1c:19}{0b:08}【 Pasca 】{0b:09}\nDon't get so down about it. Seein' how\nyou took that, it was just an honest\nmistake, right?{1a}I'm just sayin' be a little more careful\naround people, especially in this town.{1a}{0c:520a09}Seems rank ain't worth a damn\nhere anyhow.{0c:2902091501}",
    "status": "done",
    "tl": "Don't get so down about it. Seein' how you took that, it was just an honest mistake, right? // I'm just sayin' be a little more careful around people, especially in this town. // [1]Seems rank ain't worth a damn here anyhow."
   },
@@ -1876,7 +1876,7 @@
    "jp": "{1c:10}不安もあるけど、\nこれが僕の使命だと思っているよ。{0c:2b50091501}",
    "read": "{1c:10}不安もあるけど、\nこれが僕の使命だと思っているよ。{0c:2b50091501}",
    "raw": null,
-   "en": "{1c:10}I have my fears, but I believe this is my\nmission.{0c:2b50091501}",
+   "en": "{1c:10}I have my fears, but I believe this is\nmy mission.{0c:2b50091501}",
    "status": "done",
    "tl": "I have my fears, but I believe this is my mission."
   },
@@ -2052,7 +2052,7 @@
    "jp": "{1c:1a}{0b:08}{e080} ディアス {e081}{0b:09}\nすぐに白{e0be}をつけたがるのも、\n{e0bf}室で育った若い貴{e095}{e0c2}の悪い癖だ。\nどうしてそこまで単純になれるのだ?{0c:2902091501}",
    "read": "{1c:1a}{0b:08}【 ディアス 】{0b:09}\nすぐに白黒をつけたがるのも、\n温室で育った若い貴族共の悪い癖だ。\nどうしてそこまで単純になれるのだ?{0c:2902091501}",
    "raw": null,
-   "en": "{1c:1a}{0b:08}【 Dias 】{0b:09}\nSo quick to demand black or white.\nAnother bad habit of young nobles raised\nin a hothouse. How can you be so{1a}simple?{0c:2902091501}",
+   "en": "{1c:1a}{0b:08}【 Dias 】{0b:09}\nSo quick to demand black or white.\nAnother bad habit of young nobles raised\nin a hothouse. How can you be{1a}so simple?{0c:2902091501}",
    "status": "done",
    "tl": "So quick to demand black or white. Another bad habit of young nobles raised in a hothouse. How can you be so simple?"
   },
@@ -2144,7 +2144,7 @@
    "jp": "{1c:10}不安もあるけど、\nこれが僕の使命だと思っているよ。{0c:2b50091501}",
    "read": "{1c:10}不安もあるけど、\nこれが僕の使命だと思っているよ。{0c:2b50091501}",
    "raw": null,
-   "en": "{1c:10}I have my fears, but I believe this is my\nmission.{0c:2b50091501}",
+   "en": "{1c:10}I have my fears, but I believe this is\nmy mission.{0c:2b50091501}",
    "status": "done",
    "tl": "I have my fears, but I believe this is my mission."
   },
@@ -2274,7 +2274,7 @@
    "jp": "{1c:1a}{0b:08}{e080} ディアス {e081}{0b:09}\nすぐに白{e0be}をつけたがるのも、\n{e0bf}室で育った若い貴{e095}{e0c2}の悪い癖だ。\nどうしてそこまで単純になれるのだ?{0c:2902091501}",
    "read": "{1c:1a}{0b:08}【 ディアス 】{0b:09}\nすぐに白黒をつけたがるのも、\n温室で育った若い貴族共の悪い癖だ。\nどうしてそこまで単純になれるのだ?{0c:2902091501}",
    "raw": null,
-   "en": "{1c:1a}{0b:08}【 Dias 】{0b:09}\nSo quick to demand black or white.\nAnother bad habit of young nobles raised\nin a hothouse. How can you be so{1a}simple?{0c:2902091501}",
+   "en": "{1c:1a}{0b:08}【 Dias 】{0b:09}\nSo quick to demand black or white.\nAnother bad habit of young nobles raised\nin a hothouse. How can you be{1a}so simple?{0c:2902091501}",
    "status": "done",
    "tl": "So quick to demand black or white. Another bad habit of young nobles raised in a hothouse. How can you be so simple?"
   },
@@ -2449,7 +2449,7 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n君にどんな理由が\nあるのかは知らない・・・\nでも、人の命がかかってるんだぞ!{1a}君達はそんなに自分のことが\n大事なのか!?{0c:15}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n君にどんな理由が\nあるのかは知らない・・・\nでも、人の命がかかってるんだぞ!{1a}君達はそんなに自分のことが\n大事なのか!?{0c:15}",
    "raw": null,
-   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nI don't know what reason you may have...\nBut people's lives are at stake!{1a}Do you all care so much about\nyourselves!?{0c:15}",
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nI don't know what reason you may have...\nBut people's lives are at stake!{1a}Do you all care so much\nabout yourselves!?{0c:15}",
    "status": "done",
    "tl": "I don't know what reason you may have... But people's lives are at stake! // Do you all care so much about yourselves!?"
   },
@@ -2484,7 +2484,7 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n君達にどんな理由が\nあるのかは知らない・・・{1a}でも、人の命がかかってるんだぞ!\n君達はそんなに自分のことが\n大事なのか!?{0c:2b50091501}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n君達にどんな理由が\nあるのかは知らない・・・{1a}でも、人の命がかかってるんだぞ!\n君達はそんなに自分のことが\n大事なのか!?{0c:2b50091501}",
    "raw": null,
-   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nI don't know what reasons you all may\nhave...{1a}But people's lives are at stake! Do you\nall care so much about yourselves!?{0c:2b50091501}",
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nI don't know what reasons you all\nmay have...{1a}But people's lives are at stake! Do you\nall care so much about yourselves!?{0c:2b50091501}",
    "status": "done",
    "tl": "I don't know what reasons you all may have... // But people's lives are at stake! Do you all care so much about yourselves!?"
   },
@@ -2793,7 +2793,7 @@
    "jp": "{1c:10}もう許せない! 君を討つ!!{0c:1501}",
    "read": "{1c:10}もう許せない! 君を討つ!!{0c:1501}",
    "raw": null,
-   "en": "{1c:10}I can't forgive this! I will strike you\ndown!!{0c:1501}",
+   "en": "{1c:10}I can't forgive this! I will strike\nyou down!!{0c:1501}",
    "status": "done",
    "tl": "I can't forgive this! I will strike you down!!"
   },
@@ -2863,7 +2863,7 @@
    "jp": "{1c:10}口だけではわからないのかっ!{0c:1501}",
    "read": "{1c:10}口だけではわからないのかっ!{0c:1501}",
    "raw": null,
-   "en": "{1c:10}So words alone won't get through to\nyou!{0c:1501}",
+   "en": "{1c:10}So words alone won't get through\nto you!{0c:1501}",
    "status": "done",
    "tl": "So words alone won't get through to you!"
   },
@@ -2910,7 +2910,7 @@
    "jp": "{1c:10}口だけではわからないのかっ!{0c:1501}",
    "read": "{1c:10}口だけではわからないのかっ!{0c:1501}",
    "raw": null,
-   "en": "{1c:10}So words alone won't get through to\nyou!{0c:1501}",
+   "en": "{1c:10}So words alone won't get through\nto you!{0c:1501}",
    "status": "done",
    "tl": "So words alone won't get through to you!"
   },
@@ -2957,7 +2957,7 @@
    "jp": "{1c:10}口だけではわからないのかっ!{0c:1501}",
    "read": "{1c:10}口だけではわからないのかっ!{0c:1501}",
    "raw": null,
-   "en": "{1c:10}So words alone won't get through to\nyou!{0c:1501}",
+   "en": "{1c:10}So words alone won't get through\nto you!{0c:1501}",
    "status": "done",
    "tl": "So words alone won't get through to you!"
   },
@@ -2992,7 +2992,7 @@
    "jp": "{1c:10}わざと僕を怒らせようと\nしているのか?",
    "read": "{1c:10}わざと僕を怒らせようと\nしているのか?",
    "raw": null,
-   "en": "{1c:10}Are you trying to make me angry on\npurpose?",
+   "en": "{1c:10}Are you trying to make me angry\non purpose?",
    "status": "done",
    "tl": "Are you trying to make me angry on purpose?"
   },
@@ -3028,7 +3028,7 @@
    "jp": "{1c:10}{10}、\nそれをどうするつもりだ!{0c:163b0800}",
    "read": "{1c:10}{10}、\nそれをどうするつもりだ!{0c:163b0800}",
    "raw": null,
-   "en": "{1c:10}{10}, what do you mean to do with\nthat!{0c:163b0800}",
+   "en": "{1c:10}{10}, what do you mean to do\nwith that!{0c:163b0800}",
    "status": "done",
    "tl": "[HERO], what do you mean to do with that!"
   },
@@ -3040,7 +3040,7 @@
    "jp": "{1c:10}わざと僕を怒らせようと\nしているのか?",
    "read": "{1c:10}わざと僕を怒らせようと\nしているのか?",
    "raw": null,
-   "en": "{1c:10}Are you trying to make me angry on\npurpose?",
+   "en": "{1c:10}Are you trying to make me angry\non purpose?",
    "status": "done",
    "tl": "Are you trying to make me angry on purpose?"
   },
@@ -3052,7 +3052,7 @@
    "jp": "{1c:10}そんなことをして、\n君には罪の意識がないのか!?",
    "read": "{1c:10}そんなことをして、\n君には罪の意識がないのか!?",
    "raw": null,
-   "en": "{1c:10}Have you no sense of guilt, doing such a\nthing!?",
+   "en": "{1c:10}Have you no sense of guilt, doing such\na thing!?",
    "status": "done",
    "tl": "Have you no sense of guilt, doing such a thing!?"
   },
@@ -3232,7 +3232,7 @@
    "jp": "もう許せない! 君を討つ!!{0c:1b}",
    "read": "もう許せない! 君を討つ!!{0c:1b}",
    "raw": null,
-   "en": "I can't forgive this! I will strike you\ndown!!{0c:1b}",
+   "en": "I can't forgive this! I will strike\nyou down!!{0c:1b}",
    "status": "done",
    "tl": "I can't forgive this! I will strike you down!!"
   },

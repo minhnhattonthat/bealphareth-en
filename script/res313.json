@@ -148,7 +148,7 @@
    "jp": "{0c:5102}{1c:11}申し訳ありません。\nあなたとは行動出来ません。",
    "read": "{0c:5102}{1c:11}申し訳ありません。\nあなたとは行動出来ません。",
    "raw": null,
-   "en": "{0c:5102}{1c:11}I am terribly sorry. I cannot travel with\nyou.",
+   "en": "{0c:5102}{1c:11}I am terribly sorry. I cannot travel\nwith you.",
    "status": "done",
    "tl": "I am terribly sorry. I cannot travel with you."
   },
@@ -208,7 +208,7 @@
    "jp": "{0c:522223}{1c:11}私も神の{e084}えに背いた身、\n私にはあなたを{e085}く資格はない・・・{1a}でも、誰かがあなたを\n止めなければならない!{0c:1501}",
    "read": "{0c:522223}{1c:11}私も神の教えに背いた身、\n私にはあなたを裁く資格はない・・・{1a}でも、誰かがあなたを\n止めなければならない!{0c:1501}",
    "raw": null,
-   "en": "{0c:522223}{1c:11}I too have turned against God's\nteachings, and I have no right to judge\nyou...{1a}But someone must stop you!{0c:1501}",
+   "en": "{0c:522223}{1c:11}I too have turned against God's\nteachings, and I have no right to\njudge you...{1a}But someone must stop you!{0c:1501}",
    "status": "done",
    "tl": "I too have turned against God's teachings, and I have no right to judge you... // But someone must stop you!"
   },
@@ -370,7 +370,7 @@
    "jp": "{1c:11}申し訳ありません。\nあなたとは行動出来ません。",
    "read": "{1c:11}申し訳ありません。\nあなたとは行動出来ません。",
    "raw": null,
-   "en": "{1c:11}I am terribly sorry. I cannot travel with\nyou.",
+   "en": "{1c:11}I am terribly sorry. I cannot travel\nwith you.",
    "status": "done",
    "tl": "I am terribly sorry. I cannot travel with you."
   },
@@ -524,7 +524,7 @@
    "jp": "{1c:11}{0b:08}{e080} エレアノール {e081}{0b:09}\nこんな時間に・・・{07:14}\n一体どうしたのです?{07:05}{0c:15}",
    "read": "{1c:11}{0b:08}【 エレアノール 】{0b:09}\nこんな時間に・・・{07:14}\n一体どうしたのです?{07:05}{0c:15}",
    "raw": null,
-   "en": "{1c:11}{0b:08}【 Eleanor 】{0b:09}\nAt such an hour...{07:14} Whatever is the\nmatter?{07:05}{0c:15}",
+   "en": "{1c:11}{0b:08}【 Eleanor 】{0b:09}\nAt such an hour...{07:14} Whatever is\nthe matter?{07:05}{0c:15}",
    "status": "done",
    "tl": "At such an hour...[1] Whatever is the matter?"
   },
@@ -607,7 +607,7 @@
    "jp": "{1c:11}こんな時間に・・・\n非{e089}識ではありませんか?{0c:15}",
    "read": "{1c:11}こんな時間に・・・\n非常識ではありませんか?{0c:15}",
    "raw": null,
-   "en": "{1c:11}At such an hour... Is this not rather\nthoughtless?{0c:15}",
+   "en": "{1c:11}At such an hour... Is this not\nrather thoughtless?{0c:15}",
    "status": "done",
    "tl": "At such an hour... Is this not rather thoughtless?"
   },
@@ -643,7 +643,7 @@
    "jp": "{1c:11}こんな時間に・・・\n非{e089}識ではありませんか?",
    "read": "{1c:11}こんな時間に・・・\n非常識ではありませんか?",
    "raw": null,
-   "en": "{1c:11}At such an hour... Is this not rather\nthoughtless?",
+   "en": "{1c:11}At such an hour... Is this not\nrather thoughtless?",
    "status": "done",
    "tl": "At such an hour... Is this not rather thoughtless?"
   },
@@ -819,7 +819,7 @@
    "jp": "{1c:13}{0b:08}{e080} エレアノール {e081}{0b:09}\nありがとう、心配して下さって。\nでも大丈夫ですよ。{0c:1501}",
    "read": "{1c:13}{0b:08}【 エレアノール 】{0b:09}\nありがとう、心配して下さって。\nでも大丈夫ですよ。{0c:1501}",
    "raw": null,
-   "en": "{1c:13}{0b:08}【 Eleanor 】{0b:09}\nThank you for your concern. But I am all\nright.{0c:1501}",
+   "en": "{1c:13}{0b:08}【 Eleanor 】{0b:09}\nThank you for your concern. But I am\nall right.{0c:1501}",
    "status": "done",
    "tl": "Thank you for your concern. But I am all right."
   },
@@ -983,7 +983,7 @@
    "jp": "{1c:11}こんな時間に・・・\n非{e089}識ではありませんか?{0c:15}",
    "read": "{1c:11}こんな時間に・・・\n非常識ではありませんか?{0c:15}",
    "raw": null,
-   "en": "{1c:11}At such an hour... Is this not rather\nthoughtless?{0c:15}",
+   "en": "{1c:11}At such an hour... Is this not\nrather thoughtless?{0c:15}",
    "status": "done",
    "tl": "At such an hour... Is this not rather thoughtless?"
   },
@@ -1019,7 +1019,7 @@
    "jp": "{0c:5105}{1c:11}{0b:08}{e080} エレアノール {e081}{0b:09}\nこんな時間に・・・\n非{e089}識ではありませんか?",
    "read": "{0c:5105}{1c:11}{0b:08}【 エレアノール 】{0b:09}\nこんな時間に・・・\n非常識ではありませんか?",
    "raw": null,
-   "en": "{0c:5105}{1c:11}{0b:08}【 Eleanor 】{0b:09}\nAt such an hour... Is this not rather\nthoughtless?",
+   "en": "{0c:5105}{1c:11}{0b:08}【 Eleanor 】{0b:09}\nAt such an hour... Is this not\nrather thoughtless?",
    "status": "done",
    "tl": "At such an hour... Is this not rather thoughtless?"
   },
@@ -1031,7 +1031,7 @@
    "jp": "{0c:316000ec00921002501751003a00}{1c:11}{0b:08}{e080} エレアノール {e081}{0b:09}\n{10}・・・{07:14}\n私はこの悲しみを\n決して忘れない・・・{07:05}{0c:1501}",
    "read": "{0c:316000ec00921002501751003a00}{1c:11}{0b:08}【 エレアノール 】{0b:09}\n{10}・・・{07:14}\n私はこの悲しみを\n決して忘れない・・・{07:05}{0c:1501}",
    "raw": null,
-   "en": "{0c:316000ec00921002501751003a00}{1c:11}{0b:08}【 Eleanor 】{0b:09}\n{10}...{07:14} I will never forget this\nsorrow...{07:05}{0c:1501}",
+   "en": "{0c:316000ec00921002501751003a00}{1c:11}{0b:08}【 Eleanor 】{0b:09}\n{10}...{07:14} I will never forget\nthis sorrow...{07:05}{0c:1501}",
    "status": "done",
    "tl": "[HERO]...[1] I will never forget this sorrow..."
   },
@@ -1078,7 +1078,7 @@
    "jp": "{0c:521911}{1c:11}{0b:08}{e080} エレアノール {e081}{0b:09}\n{10}・・・{07:14}\n私はこの悲しみを\n決して忘れない・・・{07:05}{0c:15}",
    "read": "{0c:521911}{1c:11}{0b:08}【 エレアノール 】{0b:09}\n{10}・・・{07:14}\n私はこの悲しみを\n決して忘れない・・・{07:05}{0c:15}",
    "raw": null,
-   "en": "{0c:521911}{1c:11}{0b:08}【 Eleanor 】{0b:09}\n{10}...{07:14} I will never forget this\nsorrow...{07:05}{0c:15}",
+   "en": "{0c:521911}{1c:11}{0b:08}【 Eleanor 】{0b:09}\n{10}...{07:14} I will never forget\nthis sorrow...{07:05}{0c:15}",
    "status": "done",
    "tl": "[HERO]...[1] I will never forget this sorrow..."
   },
@@ -1351,7 +1351,7 @@
    "jp": "{0c:316000ec00921002501751003a00}{1c:11}{0b:08}{e080} エレアノール {e081}{0b:09}\n{e090}{e091}、{e092}声、永遠の命・・・\nこの地には人{e094}の\n夢と希望と欲望が眠っていて、{1a}人{e094}は危険を承知で、\n自らすすんで魔物の棲む地下{e098}{e099}へと\n足を踏み入れる・・・{1a}使命感のため、\n命を懸けるに価する\n自分だけの夢のため、{1a}自分を信じて待つ\n愛する人のため・・・{1a}{0c:5121}今の私にここの人達は\n眩しすぎる・・・{0c:1501}",
    "read": "{0c:316000ec00921002501751003a00}{1c:11}{0b:08}【 エレアノール 】{0b:09}\n財宝、名声、永遠の命・・・\nこの地には人々の\n夢と希望と欲望が眠っていて、{1a}人々は危険を承知で、\n自らすすんで魔物の棲む地下遺跡へと\n足を踏み入れる・・・{1a}使命感のため、\n命を懸けるに価する\n自分だけの夢のため、{1a}自分を信じて待つ\n愛する人のため・・・{1a}{0c:5121}今の私にここの人達は\n眩しすぎる・・・{0c:1501}",
    "raw": null,
-   "en": "{0c:316000ec00921002501751003a00}{1c:11}{0b:08}【 Eleanor 】{0b:09}\nTreasure, fame, eternal life... The\ndreams, hopes and desires of people lie\nsleeping in this land,{1a}and knowing the danger, they willingly set\nfoot in underground ruins where\nmonsters dwell...{1a}For a sense of duty, for a dream of\ntheir own worth staking their lives on,{1a}for a loved one who waits, believing in\nthem...{1a}{0c:5121}The people here are too dazzling for me\nnow...{0c:1501}",
+   "en": "{0c:316000ec00921002501751003a00}{1c:11}{0b:08}【 Eleanor 】{0b:09}\nTreasure, fame, eternal life... The\ndreams, hopes and desires of people lie\nsleeping in this land,{1a}and knowing the danger, they willingly set\nfoot in underground ruins where\nmonsters dwell...{1a}For a sense of duty, for a dream of\ntheir own worth staking their lives on,{1a}for a loved one who waits, believing\nin them...{1a}{0c:5121}The people here are too dazzling for\nme now...{0c:1501}",
    "status": "done",
    "tl": "Treasure, fame, eternal life... The dreams, hopes and desires of people lie sleeping in this land, // and knowing the danger, they willingly set foot in underground ruins where monsters dwell... // For a sense of duty, for a dream of their own worth staking their lives on, // for a loved one who waits, believing in them... // [1]The people here are too dazzling for me now..."
   },
@@ -1374,7 +1374,7 @@
    "jp": "{1c:11}でも、これだけは忘れないで下さい。\n命を{e09d}{e09e}にしてまで得るべきものなど、\nこの世に何もないということを・・・{1a}どんな{e09f}価な{e090}{e091}よりも、\nどんな崇{e09f}な使命よりも、\n人ひとりの命の方が\nはるかに重たい・・・{1a}あなたが何の為にこの町に\n来たのかは知りません。ですが、\n命を粗末に扱うのはやめて下さい。\n自分の命も、他者の命も・・・{1a}でないと、私のように\n後悔し続けることになる・・・{0c:1501}",
    "read": "{1c:11}でも、これだけは忘れないで下さい。\n命を犠牲にしてまで得るべきものなど、\nこの世に何もないということを・・・{1a}どんな高価な財宝よりも、\nどんな崇高な使命よりも、\n人ひとりの命の方が\nはるかに重たい・・・{1a}あなたが何の為にこの町に\n来たのかは知りません。ですが、\n命を粗末に扱うのはやめて下さい。\n自分の命も、他者の命も・・・{1a}でないと、私のように\n後悔し続けることになる・・・{0c:1501}",
    "raw": null,
-   "en": "{1c:11}But please, do not forget this: there is\nnothing in this world worth gaining at the\ncost of one's life...{1a}More than any costly treasure, more\nthan any noble mission, a single human\nlife weighs far heavier...{1a}I do not know why you came to this\ntown. But please stop treating life so\nlightly. Your own life, and the lives of\nothers...{1a}Otherwise you will go on regretting it, as\nI do...{0c:1501}",
+   "en": "{1c:11}But please, do not forget this: there is\nnothing in this world worth gaining at the\ncost of one's life...{1a}More than any costly treasure, more\nthan any noble mission, a single human\nlife weighs far heavier...{1a}I do not know why you came to this\ntown. But please stop treating life so\nlightly. Your own life, and the lives\nof others...{1a}Otherwise you will go on regretting it, as\nI do...{0c:1501}",
    "status": "done",
    "tl": "But please, do not forget this: there is nothing in this world worth gaining at the cost of one's life... // More than any costly treasure, more than any noble mission, a single human life weighs far heavier... // I do not know why you came to this town. But please stop treating life so lightly. Your own life, and the lives of others... // Otherwise you will go on regretting it, as I do..."
   },
@@ -1409,7 +1409,7 @@
    "jp": "{1c:13}私に出来ることがあれば\nお手伝いします。\nいつでも声をかけて下さい。",
    "read": "{1c:13}私に出来ることがあれば\nお手伝いします。\nいつでも声をかけて下さい。",
    "raw": null,
-   "en": "{1c:13}If there is anything I can do, I would be\nglad to help. Please call on me at any\ntime.",
+   "en": "{1c:13}If there is anything I can do, I would be\nglad to help. Please call on me at\nany time.",
    "status": "done",
    "tl": "If there is anything I can do, I would be glad to help. Please call on me at any time."
   },
@@ -1421,7 +1421,7 @@
    "jp": "{1c:11}{0b:08}{e080} エレアノール {e081}{0b:09}\n{e090}{e091}、{e092}声、永遠の命・・・\nこの地には人{e094}の\n夢と希望と欲望が眠っていて、{1a}人{e094}は危険を承知で、\n自らすすんで魔物の棲む地下{e098}{e099}へと\n足を踏み入れる・・・{1a}使命感のため、\n命を懸けるに価する\n自分だけの夢のため、{1a}自分を信じて待つ\n愛する人のため・・・{1a}{0c:5121}今の私にここの人達は\n眩しすぎる・・・{0c:1501}",
    "read": "{1c:11}{0b:08}【 エレアノール 】{0b:09}\n財宝、名声、永遠の命・・・\nこの地には人々の\n夢と希望と欲望が眠っていて、{1a}人々は危険を承知で、\n自らすすんで魔物の棲む地下遺跡へと\n足を踏み入れる・・・{1a}使命感のため、\n命を懸けるに価する\n自分だけの夢のため、{1a}自分を信じて待つ\n愛する人のため・・・{1a}{0c:5121}今の私にここの人達は\n眩しすぎる・・・{0c:1501}",
    "raw": null,
-   "en": "{1c:11}{0b:08}【 Eleanor 】{0b:09}\nTreasure, fame, eternal life... The\ndreams, hopes and desires of people lie\nsleeping in this land,{1a}and knowing the danger, they willingly set\nfoot in underground ruins where\nmonsters dwell...{1a}For a sense of duty, for a dream of\ntheir own worth staking their lives on,{1a}for a loved one who waits, believing in\nthem...{1a}{0c:5121}The people here are too dazzling for me\nnow...{0c:1501}",
+   "en": "{1c:11}{0b:08}【 Eleanor 】{0b:09}\nTreasure, fame, eternal life... The\ndreams, hopes and desires of people lie\nsleeping in this land,{1a}and knowing the danger, they willingly set\nfoot in underground ruins where\nmonsters dwell...{1a}For a sense of duty, for a dream of\ntheir own worth staking their lives on,{1a}for a loved one who waits, believing\nin them...{1a}{0c:5121}The people here are too dazzling for\nme now...{0c:1501}",
    "status": "done",
    "tl": "Treasure, fame, eternal life... The dreams, hopes and desires of people lie sleeping in this land, // and knowing the danger, they willingly set foot in underground ruins where monsters dwell... // For a sense of duty, for a dream of their own worth staking their lives on, // for a loved one who waits, believing in them... // [1]The people here are too dazzling for me now..."
   },
@@ -1444,7 +1444,7 @@
    "jp": "{1c:11}でも、これだけは忘れないで下さい。\n命を{e09d}{e09e}にしてまで得るべきものなど、\nこの世に何もないということを・・・{1a}どんな{e09f}価な{e090}{e091}よりも、\nどんな崇{e09f}な使命よりも、\n人ひとりの命の方が\nはるかに重たい・・・{1a}あなたが何の為にこの町に\n来たのかは知りません。ですが、\n命を粗末に扱うのはやめて下さい。\n自分の命も、他者の命も・・・{1a}でないと、私のように\n後悔し続けることになる・・・{0c:15}",
    "read": "{1c:11}でも、これだけは忘れないで下さい。\n命を犠牲にしてまで得るべきものなど、\nこの世に何もないということを・・・{1a}どんな高価な財宝よりも、\nどんな崇高な使命よりも、\n人ひとりの命の方が\nはるかに重たい・・・{1a}あなたが何の為にこの町に\n来たのかは知りません。ですが、\n命を粗末に扱うのはやめて下さい。\n自分の命も、他者の命も・・・{1a}でないと、私のように\n後悔し続けることになる・・・{0c:15}",
    "raw": null,
-   "en": "{1c:11}But please, do not forget this: there is\nnothing in this world worth gaining at the\ncost of one's life...{1a}More than any costly treasure, more\nthan any noble mission, a single human\nlife weighs far heavier...{1a}I do not know why you came to this\ntown. But please stop treating life so\nlightly. Your own life, and the lives of\nothers...{1a}Otherwise you will go on regretting it, as\nI do...{0c:15}",
+   "en": "{1c:11}But please, do not forget this: there is\nnothing in this world worth gaining at the\ncost of one's life...{1a}More than any costly treasure, more\nthan any noble mission, a single human\nlife weighs far heavier...{1a}I do not know why you came to this\ntown. But please stop treating life so\nlightly. Your own life, and the lives\nof others...{1a}Otherwise you will go on regretting it, as\nI do...{0c:15}",
    "status": "done",
    "tl": "But please, do not forget this: there is nothing in this world worth gaining at the cost of one's life... // More than any costly treasure, more than any noble mission, a single human life weighs far heavier... // I do not know why you came to this town. But please stop treating life so lightly. Your own life, and the lives of others... // Otherwise you will go on regretting it, as I do..."
   },
@@ -1889,7 +1889,7 @@
    "jp": "{1c:10}あなたの不器用さには\n{e0a3}感すら覚えます・・・{1a}でも、下らないことで\n自分を卑しめないで下さい。",
    "read": "{1c:10}あなたの不器用さには\n共感すら覚えます・・・{1a}でも、下らないことで\n自分を卑しめないで下さい。",
    "raw": null,
-   "en": "{1c:10}I find I can even sympathise with your\nclumsiness...{1a}But please do not degrade yourself over\nsuch petty things.",
+   "en": "{1c:10}I find I can even sympathise with\nyour clumsiness...{1a}But please do not degrade yourself over\nsuch petty things.",
    "status": "done",
    "tl": "I find I can even sympathise with your clumsiness... // But please do not degrade yourself over such petty things."
   },
@@ -1936,7 +1936,7 @@
    "jp": "{1c:10}別に構いません。\nそれであなたの欲求が\n満たされるのなら・・・{0c:153b0800}",
    "read": "{1c:10}別に構いません。\nそれであなたの欲求が\n満たされるのなら・・・{0c:153b0800}",
    "raw": null,
-   "en": "{1c:10}I do not mind. If such a thing can content\nyou...{0c:153b0800}",
+   "en": "{1c:10}I do not mind. If such a thing can\ncontent you...{0c:153b0800}",
    "status": "done",
    "tl": "I do not mind. If such a thing can content you..."
   },
@@ -2008,7 +2008,7 @@
    "jp": "{1c:10}別に構いません。\nそれであなたの欲求が\n満たされるのなら・・・{0c:153b0800}",
    "read": "{1c:10}別に構いません。\nそれであなたの欲求が\n満たされるのなら・・・{0c:153b0800}",
    "raw": null,
-   "en": "{1c:10}I do not mind. If such a thing can content\nyou...{0c:153b0800}",
+   "en": "{1c:10}I do not mind. If such a thing can\ncontent you...{0c:153b0800}",
    "status": "done",
    "tl": "I do not mind. If such a thing can content you..."
   },
@@ -2056,7 +2056,7 @@
    "jp": "{1c:10}{10}・・・\nもっと自分を大切にして下さい・・・",
    "read": "{1c:10}{10}・・・\nもっと自分を大切にして下さい・・・",
    "raw": null,
-   "en": "{1c:10}{10}... Please take better care of\nyourself...",
+   "en": "{1c:10}{10}... Please take better care\nof yourself...",
    "status": "done",
    "tl": "[HERO]... Please take better care of yourself..."
   },
@@ -2152,7 +2152,7 @@
    "jp": "私も神の{e084}えに背いた身、\n私にはあなたを{e085}く資格はない・・・{1a}でも、誰かがあなたを\n止めなければならない!!{0c:1b}",
    "read": "私も神の教えに背いた身、\n私にはあなたを裁く資格はない・・・{1a}でも、誰かがあなたを\n止めなければならない!!{0c:1b}",
    "raw": null,
-   "en": "I too have turned against God's\nteachings, and I have no right to judge\nyou...{1a}But someone must stop you!!{0c:1b}",
+   "en": "I too have turned against God's\nteachings, and I have no right to\njudge you...{1a}But someone must stop you!!{0c:1b}",
    "status": "done",
    "tl": "I too have turned against God's teachings, and I have no right to judge you... // But someone must stop you!!"
   },

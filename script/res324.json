@@ -137,7 +137,7 @@
    "jp": "{1c:11}もうやめてね・・・\nおやすみ、{10}。",
    "read": "{1c:11}もうやめてね・・・\nおやすみ、{10}。",
    "raw": null,
-   "en": "{1c:11}Please don't do it again... Good night,\n{10}.",
+   "en": "{1c:11}Please don't do it again... Good\nnight, {10}.",
    "status": "done",
    "tl": "Please don't do it again... Good night, [HERO]."
   },
@@ -551,7 +551,7 @@
    "jp": "{0c:3a00}{1c:18}{0b:08}【 ジェシカ 】{0b:09}\n{10}、シャルンが\nガラにもなく寂しがってるよ。\n誘ってあげなよ。{0c:290809fe}",
    "read": "{0c:3a00}{1c:18}{0b:08}【 ジェシカ 】{0b:09}\n{10}、シャルンが\nガラにもなく寂しがってるよ。\n誘ってあげなよ。{0c:290809fe}",
    "raw": null,
-   "en": "{0c:3a00}{1c:18}{0b:08}【 Jessica 】{0b:09}\n{10}, Scharn's moping around,\nwhich sure isn't like her. Go on, invite\nher.{0c:290809fe}",
+   "en": "{0c:3a00}{1c:18}{0b:08}【 Jessica 】{0b:09}\n{10}, Scharn's moping around,\nwhich sure isn't like her. Go on,\ninvite her.{0c:290809fe}",
    "status": "done",
    "tl": "[HERO], Scharn's moping around, which sure isn't like her. Go on, invite her."
   },
@@ -610,7 +610,7 @@
    "jp": "{1c:10}{0b:08}【 シャルン 】{0b:09}\n{10}、\n今日はみんなと行くんだ・・・{1a}今度は誘ってね。約束だよ。{0c:15}",
    "read": "{1c:10}{0b:08}【 シャルン 】{0b:09}\n{10}、\n今日はみんなと行くんだ・・・{1a}今度は誘ってね。約束だよ。{0c:15}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Scharn 】{0b:09}\n{10}, you're going with everyone\ntoday...{1a}Ask me next time, okay? It's a promise.{0c:15}",
+   "en": "{1c:10}{0b:08}【 Scharn 】{0b:09}\n{10}, you're going with\neveryone today...{1a}Ask me next time, okay? It's a promise.{0c:15}",
    "status": "done",
    "tl": "[HERO], you're going with everyone today... // Ask me next time, okay? It's a promise."
   },
@@ -657,7 +657,7 @@
    "jp": "{1c:10}{0b:08}【 シャルン 】{0b:09}\n父さんに手紙を\n書いてたところなの。{1a}世界がこんなになっちゃって\n無事に手紙が着く保証なんて\n全くないけど・・・{1a}でも、信じてるんだ。\n父さんは無事だって。{0c:fe}",
    "read": "{1c:10}{0b:08}【 シャルン 】{0b:09}\n父さんに手紙を\n書いてたところなの。{1a}世界がこんなになっちゃって\n無事に手紙が着く保証なんて\n全くないけど・・・{1a}でも、信じてるんだ。\n父さんは無事だって。{0c:fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Scharn 】{0b:09}\nI was writing a letter to my dad.{1a}With the world the way it is now, there's\nno guarantee it'll ever get there...{1a}But I believe, you know. I believe my dad's\nsafe.{0c:fe}",
+   "en": "{1c:10}{0b:08}【 Scharn 】{0b:09}\nI was writing a letter to my dad.{1a}With the world the way it is now, there's\nno guarantee it'll ever get there...{1a}But I believe, you know. I believe my\ndad's safe.{0c:fe}",
    "status": "done",
    "tl": "I was writing a letter to my dad. // With the world the way it is now, there's no guarantee it'll ever get there... // But I believe, you know. I believe my dad's safe."
   },
@@ -680,7 +680,7 @@
    "jp": "{0c:52142d}{1c:10}うん!\n一緒に頑張ろうね、{10}!",
    "read": "{0c:52142d}{1c:10}うん!\n一緒に頑張ろうね、{10}!",
    "raw": null,
-   "en": "{0c:52142d}{1c:10}Yeah! Let's do our best together,\n{10}!",
+   "en": "{0c:52142d}{1c:10}Yeah! Let's do our best\ntogether, {10}!",
    "status": "done",
    "tl": "Yeah! Let's do our best together, [HERO]!"
   },
@@ -786,7 +786,7 @@
    "jp": "{1c:11}{0b:08}【 シャルン 】{0b:09}\n失礼ね! 何しに来たのよっ!{0c:fe}",
    "read": "{1c:11}{0b:08}【 シャルン 】{0b:09}\n失礼ね! 何しに来たのよっ!{0c:fe}",
    "raw": null,
-   "en": "{1c:11}{0b:08}【 Scharn 】{0b:09}\nHow rude! What did you come here for,\nanyway!{0c:fe}",
+   "en": "{1c:11}{0b:08}【 Scharn 】{0b:09}\nHow rude! What did you come here\nfor, anyway!{0c:fe}",
    "status": "done",
    "tl": "How rude! What did you come here for, anyway!"
   },
@@ -844,7 +844,7 @@
    "jp": "{0c:3a00}{1c:10}{0b:08}【 シャルン 】{0b:09}\n{10}、\nジェシカと一緒で大丈夫?{0c:4c0a09fe}",
    "read": "{0c:3a00}{1c:10}{0b:08}【 シャルン 】{0b:09}\n{10}、\nジェシカと一緒で大丈夫?{0c:4c0a09fe}",
    "raw": null,
-   "en": "{0c:3a00}{1c:10}{0b:08}【 Scharn 】{0b:09}\n{10}, will you be okay with\nJessica?{0c:4c0a09fe}",
+   "en": "{0c:3a00}{1c:10}{0b:08}【 Scharn 】{0b:09}\n{10}, will you be okay\nwith Jessica?{0c:4c0a09fe}",
    "status": "done",
    "tl": "[HERO], will you be okay with Jessica?"
   },
@@ -856,7 +856,7 @@
    "jp": "{1c:17}{0b:08}【 ジェシカ 】{0b:09}\n大船に乗った気分だよね、\n{10}。{0c:fe}",
    "read": "{1c:17}{0b:08}【 ジェシカ 】{0b:09}\n大船に乗った気分だよね、\n{10}。{0c:fe}",
    "raw": null,
-   "en": "{1c:17}{0b:08}【 Jessica 】{0b:09}\nSafe as can be with me, right,\n{10}?{0c:fe}",
+   "en": "{1c:17}{0b:08}【 Jessica 】{0b:09}\nSafe as can be with me,\nright, {10}?{0c:fe}",
    "status": "done",
    "tl": "Safe as can be with me, right, [HERO]?"
   },
@@ -950,7 +950,7 @@
    "jp": "{0c:520e27}{1c:14}{0b:08}【 シャルン 】{0b:09}\nあっ、変なところ\n見られちゃったかな・・・{1a}でも、泣いてないよ。\n泣かないって決めたから・・・{0c:15}",
    "read": "{0c:520e27}{1c:14}{0b:08}【 シャルン 】{0b:09}\nあっ、変なところ\n見られちゃったかな・・・{1a}でも、泣いてないよ。\n泣かないって決めたから・・・{0c:15}",
    "raw": null,
-   "en": "{0c:520e27}{1c:14}{0b:08}【 Scharn 】{0b:09}\nOh, you caught me at an awkward\nmoment, huh...{1a}But I'm not crying. I decided I wouldn't\ncry...{0c:15}",
+   "en": "{0c:520e27}{1c:14}{0b:08}【 Scharn 】{0b:09}\nOh, you caught me at an awkward\nmoment, huh...{1a}But I'm not crying. I decided I\nwouldn't cry...{0c:15}",
    "status": "done",
    "tl": "Oh, you caught me at an awkward moment, huh... // But I'm not crying. I decided I wouldn't cry..."
   },
@@ -1345,7 +1345,7 @@
    "jp": "{1c:10}でも、{10}はまだ\n無理しちゃだめだよ。{0c:fe}",
    "read": "{1c:10}でも、{10}はまだ\n無理しちゃだめだよ。{0c:fe}",
    "raw": null,
-   "en": "{1c:10}But you mustn't push yourself yet,\n{10}.{0c:fe}",
+   "en": "{1c:10}But you mustn't push yourself\nyet, {10}.{0c:fe}",
    "status": "done",
    "tl": "But you mustn't push yourself yet, [HERO]."
   },
@@ -1448,7 +1448,7 @@
    "jp": "{0c:513c}{1c:10}でも、{10}はまだ\n無理しちゃだめだよ。{0c:fe}",
    "read": "{0c:513c}{1c:10}でも、{10}はまだ\n無理しちゃだめだよ。{0c:fe}",
    "raw": null,
-   "en": "{0c:513c}{1c:10}But you mustn't push yourself yet,\n{10}.{0c:fe}",
+   "en": "{0c:513c}{1c:10}But you mustn't push yourself\nyet, {10}.{0c:fe}",
    "status": "done",
    "tl": "But you mustn't push yourself yet, [HERO]."
   },
@@ -1527,7 +1527,7 @@
    "jp": "{1c:14}それでも行かなきゃ駄目だよね・・・\n{0b:05}{14}はまだ\n助かってないんだから・・・",
    "read": "{1c:14}それでも行かなきゃ駄目だよね・・・\n{0b:05}{14}はまだ\n助かってないんだから・・・",
    "raw": null,
-   "en": "{1c:14}We still have to go, though, don't we...\n{0b:05}{14} still hasn't been\nsaved...",
+   "en": "{1c:14}We still have to go, though, don't we...\n{0b:05}{14} still hasn't\nbeen saved...",
    "status": "done",
    "tl": "We still have to go, though, don't we... [1][VAR14] still hasn't been saved..."
   },
@@ -1632,7 +1632,7 @@
    "jp": "{1c:14}{0b:08}【 シャルン 】{0b:09}\nお父さん達、大丈夫かな・・・{0c:fe}",
    "read": "{1c:14}{0b:08}【 シャルン 】{0b:09}\nお父さん達、大丈夫かな・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:14}{0b:08}【 Scharn 】{0b:09}\nI wonder if Dad and the others are all\nright...{0c:fe}",
+   "en": "{1c:14}{0b:08}【 Scharn 】{0b:09}\nI wonder if Dad and the others are\nall right...{0c:fe}",
    "status": "done",
    "tl": "I wonder if Dad and the others are all right..."
   },
@@ -1644,7 +1644,7 @@
    "jp": "{0c:520e35}{1c:10}でも、こういう時こそ\n明るくしていなきゃ。{1a}みんな心配なんだもん。\nあたしだけじゃないんだもんね。{0c:fe}",
    "read": "{0c:520e35}{1c:10}でも、こういう時こそ\n明るくしていなきゃ。{1a}みんな心配なんだもん。\nあたしだけじゃないんだもんね。{0c:fe}",
    "raw": null,
-   "en": "{0c:520e35}{1c:10}But it's times like this we have to stay\ncheerful.{1a}Everyone's worried. I'm not the only one.{0c:fe}",
+   "en": "{0c:520e35}{1c:10}But it's times like this we have to\nstay cheerful.{1a}Everyone's worried. I'm not the only one.{0c:fe}",
    "status": "done",
    "tl": "But it's times like this we have to stay cheerful. // Everyone's worried. I'm not the only one."
   },
@@ -1726,7 +1726,7 @@
    "jp": "{1c:14}{0b:08}【 シャルン 】{0b:09}\nお父さん達、大丈夫かな・・・{0c:fe}",
    "read": "{1c:14}{0b:08}【 シャルン 】{0b:09}\nお父さん達、大丈夫かな・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:14}{0b:08}【 Scharn 】{0b:09}\nI wonder if Dad and the others are all\nright...{0c:fe}",
+   "en": "{1c:14}{0b:08}【 Scharn 】{0b:09}\nI wonder if Dad and the others are\nall right...{0c:fe}",
    "status": "done",
    "tl": "I wonder if Dad and the others are all right..."
   },
@@ -1738,7 +1738,7 @@
    "jp": "{0c:520e35}{1c:10}でも、こういう時こそ\n明るくしていなきゃ。{1a}みんな心配なんだもん。\nあたしだけじゃないんだもんね。{0c:15}",
    "read": "{0c:520e35}{1c:10}でも、こういう時こそ\n明るくしていなきゃ。{1a}みんな心配なんだもん。\nあたしだけじゃないんだもんね。{0c:15}",
    "raw": null,
-   "en": "{0c:520e35}{1c:10}But it's times like this we have to stay\ncheerful.{1a}Everyone's worried. I'm not the only one.{0c:15}",
+   "en": "{0c:520e35}{1c:10}But it's times like this we have to\nstay cheerful.{1a}Everyone's worried. I'm not the only one.{0c:15}",
    "status": "done",
    "tl": "But it's times like this we have to stay cheerful. // Everyone's worried. I'm not the only one."
   },
@@ -1773,7 +1773,7 @@
    "jp": "{1c:14}{0b:08}【 シャルン 】{0b:09}\n世界を救うなんて\nそんな大きな話、\n急に言われても分からないよ・・・{1a}あたしには分からない・・・{07:14}\nどうしたらバルデスさんみたいに\n強くなれるんだろう・・・{07:05}{0c:fe}",
    "read": "{1c:14}{0b:08}【 シャルン 】{0b:09}\n世界を救うなんて\nそんな大きな話、\n急に言われても分からないよ・・・{1a}あたしには分からない・・・{07:14}\nどうしたらバルデスさんみたいに\n強くなれるんだろう・・・{07:05}{0c:fe}",
    "raw": null,
-   "en": "{1c:14}{0b:08}【 Scharn 】{0b:09}\nSaving the world... Something that big, all\nof a sudden, I just can't make sense of\nit...{1a}I don't understand...{07:14} How could I ever get\nas strong as Valdes-san...{07:05}{0c:fe}",
+   "en": "{1c:14}{0b:08}【 Scharn 】{0b:09}\nSaving the world... Something that big, all\nof a sudden, I just can't make sense\nof it...{1a}I don't understand...{07:14} How could I ever get\nas strong as Valdes-san...{07:05}{0c:fe}",
    "status": "done",
    "tl": "Saving the world... Something that big, all of a sudden, I just can't make sense of it... // I don't understand...[1] How could I ever get as strong as Valdes-san..."
   },
@@ -1855,7 +1855,7 @@
    "jp": "{1c:13}{0b:08}【 シャルン 】{0b:09}\n世界を救うなんて\nそんな大きな話、\n急に言われても分からないよ・・・{1a}あたしには分からない・・・{07:14}\nどうしたらバルデスさんみたいに\n強くなれるんだろう・・・{07:05}{0c:fe}",
    "read": "{1c:13}{0b:08}【 シャルン 】{0b:09}\n世界を救うなんて\nそんな大きな話、\n急に言われても分からないよ・・・{1a}あたしには分からない・・・{07:14}\nどうしたらバルデスさんみたいに\n強くなれるんだろう・・・{07:05}{0c:fe}",
    "raw": null,
-   "en": "{1c:13}{0b:08}【 Scharn 】{0b:09}\nSaving the world... Something that big, all\nof a sudden, I just can't make sense of\nit...{1a}I don't understand...{07:14} How could I ever get\nas strong as Valdes-san...{07:05}{0c:fe}",
+   "en": "{1c:13}{0b:08}【 Scharn 】{0b:09}\nSaving the world... Something that big, all\nof a sudden, I just can't make sense\nof it...{1a}I don't understand...{07:14} How could I ever get\nas strong as Valdes-san...{07:05}{0c:fe}",
    "status": "done",
    "tl": "Saving the world... Something that big, all of a sudden, I just can't make sense of it... // I don't understand...[1] How could I ever get as strong as Valdes-san..."
   },
@@ -2018,7 +2018,7 @@
    "jp": "{1c:10}{0b:08}【 シャルン 】{0b:09}\nあたしも説得に行くよ。\nここで悩んでても何も解決しないもん。{1a}考えが浅いのかもしれないけど、\n動ける時に何もしないで\n後で後悔するのだけは嫌だから。{0c:fe}",
    "read": "{1c:10}{0b:08}【 シャルン 】{0b:09}\nあたしも説得に行くよ。\nここで悩んでても何も解決しないもん。{1a}考えが浅いのかもしれないけど、\n動ける時に何もしないで\n後で後悔するのだけは嫌だから。{0c:fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Scharn 】{0b:09}\nI'm going to go reason with Luca too.\nWorrying here won't solve anything, you\nknow.{1a}Maybe I'm not thinking it through, but\nthe one thing I won't do is sit still when I\ncan act, and regret it later.{0c:fe}",
+   "en": "{1c:10}{0b:08}【 Scharn 】{0b:09}\nI'm going to go reason with Luca too.\nWorrying here won't solve anything,\nyou know.{1a}Maybe I'm not thinking it through, but\nthe one thing I won't do is sit still when I\ncan act, and regret it later.{0c:fe}",
    "status": "done",
    "tl": "I'm going to go reason with Luca too. Worrying here won't solve anything, you know. // Maybe I'm not thinking it through, but the one thing I won't do is sit still when I can act, and regret it later."
   },
@@ -2100,7 +2100,7 @@
    "jp": "{1c:10}{0b:08}【 シャルン 】{0b:09}\nあたしも説得に行くよ。\nここで悩んでても何も解決しないもん。{1a}考えが浅いのかもしれないけど、\n動ける時に何もしないで\n後で後悔するのだけは嫌だから。{0c:15}",
    "read": "{1c:10}{0b:08}【 シャルン 】{0b:09}\nあたしも説得に行くよ。\nここで悩んでても何も解決しないもん。{1a}考えが浅いのかもしれないけど、\n動ける時に何もしないで\n後で後悔するのだけは嫌だから。{0c:15}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Scharn 】{0b:09}\nI'm going to go reason with Luca too.\nWorrying here won't solve anything, you\nknow.{1a}Maybe I'm not thinking it through, but\nthe one thing I won't do is sit still when I\ncan act, and regret it later.{0c:15}",
+   "en": "{1c:10}{0b:08}【 Scharn 】{0b:09}\nI'm going to go reason with Luca too.\nWorrying here won't solve anything,\nyou know.{1a}Maybe I'm not thinking it through, but\nthe one thing I won't do is sit still when I\ncan act, and regret it later.{0c:15}",
    "status": "done",
    "tl": "I'm going to go reason with Luca too. Worrying here won't solve anything, you know. // Maybe I'm not thinking it through, but the one thing I won't do is sit still when I can act, and regret it later."
   },
@@ -2408,7 +2408,7 @@
    "jp": "{1c:10}いよいよだね。\n{10}は誰と行くの?{0c:fe}",
    "read": "{1c:10}いよいよだね。\n{10}は誰と行くの?{0c:fe}",
    "raw": null,
-   "en": "{1c:10}This is it, huh. Who are you going with,\n{10}?{0c:fe}",
+   "en": "{1c:10}This is it, huh. Who are you going\nwith, {10}?{0c:fe}",
    "status": "done",
    "tl": "This is it, huh. Who are you going with, [HERO]?"
   },
@@ -2710,7 +2710,7 @@
    "jp": "{1c:10}{0b:08}【 シャルン 】{0b:09}\n{10}は{11}と\n行くんだ・・・{1a}2人とも頑張ってね。{0c:15}",
    "read": "{1c:10}{0b:08}【 シャルン 】{0b:09}\n{10}は{11}と\n行くんだ・・・{1a}2人とも頑張ってね。{0c:15}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Scharn 】{0b:09}\n{10}, you're going with\n{11}...{1a}Do your best, you two.{0c:15}",
+   "en": "{1c:10}{0b:08}【 Scharn 】{0b:09}\n{10}, you're going\nwith {11}...{1a}Do your best, you two.{0c:15}",
    "status": "done",
    "tl": "[HERO], you're going with [VAR11]... // Do your best, you two."
   },
@@ -2722,7 +2722,7 @@
    "jp": "{1c:10}絶対に戻ってきてね、\n{10}、{11}。",
    "read": "{1c:10}絶対に戻ってきてね、\n{10}、{11}。",
    "raw": null,
-   "en": "{1c:10}Come back no matter what, {10},\n{11}.",
+   "en": "{1c:10}Come back no matter what,\n{10}, {11}.",
    "status": "done",
    "tl": "Come back no matter what, [HERO], [VAR11]."
   },
@@ -2746,7 +2746,7 @@
    "jp": "{1c:10}いきなり何するのよ!{0c:51ffffffff54151e}",
    "read": "{1c:10}いきなり何するのよ!{0c:51ffffffff54151e}",
    "raw": null,
-   "en": "{1c:10}What do you think you're doing all of a\nsudden!{0c:51ffffffff54151e}",
+   "en": "{1c:10}What do you think you're doing all of\na sudden!{0c:51ffffffff54151e}",
    "status": "done",
    "tl": "What do you think you're doing all of a sudden!"
   },
@@ -2805,7 +2805,7 @@
    "jp": "{1c:10}一体どうしちゃったの、\n{10}・・・",
    "read": "{1c:10}一体どうしちゃったの、\n{10}・・・",
    "raw": null,
-   "en": "{1c:10}What on earth happened to you,\n{10}...",
+   "en": "{1c:10}What on earth happened to\nyou, {10}...",
    "status": "done",
    "tl": "What on earth happened to you, [HERO]..."
   },
@@ -2922,7 +2922,7 @@
    "jp": "{1c:10}あなたとは口も聞きたくもないわ!\n出てって!",
    "read": "{1c:10}あなたとは口も聞きたくもないわ!\n出てって!",
    "raw": null,
-   "en": "{1c:10}I don't even want to talk to you! Get\nout!",
+   "en": "{1c:10}I don't even want to talk to you!\nGet out!",
    "status": "done",
    "tl": "I don't even want to talk to you! Get out!"
   },
@@ -3049,7 +3049,7 @@
    "jp": "{1c:10}悲しい人だよね、\n他人の嫌がることを\n平気でするなんてさ。",
    "read": "{1c:10}悲しい人だよね、\n他人の嫌がることを\n平気でするなんてさ。",
    "raw": null,
-   "en": "{1c:10}You're a sad person, you know, doing\nwhat people hate without a second\nthought.",
+   "en": "{1c:10}You're a sad person, you know, doing\nwhat people hate without a\nsecond thought.",
    "status": "done",
    "tl": "You're a sad person, you know, doing what people hate without a second thought."
   },
@@ -3155,7 +3155,7 @@
    "jp": "{10}、わざとやってるの?",
    "read": "{10}、わざとやってるの?",
    "raw": null,
-   "en": "{10}, are you doing this on\npurpose?",
+   "en": "{10}, are you doing this\non purpose?",
    "status": "done",
    "tl": "[HERO], are you doing this on purpose?"
   },
@@ -3191,7 +3191,7 @@
    "jp": "それ盗むつもり? \nあなたって最低!!{0c:163b0800}",
    "read": "それ盗むつもり? \nあなたって最低!!{0c:163b0800}",
    "raw": null,
-   "en": "Are you going to steal that? You're\ndespicable!!{0c:163b0800}",
+   "en": "Are you going to steal that?\nYou're despicable!!{0c:163b0800}",
    "status": "done",
    "tl": "Are you going to steal that? You're despicable!!"
   },

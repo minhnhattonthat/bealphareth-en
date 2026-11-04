@@ -64,7 +64,7 @@
    "jp": "{0c:520a0c}{0c:2b50235104}{1c:17}えーと、確かここのすぐ{e084}の{e082}{e083}しか\n余ってなかったっけ・・・{1a}文句は言うなよ。\n遅れてきたお前が悪いんだからな。{0c:fe}",
    "read": "{0c:520a0c}{0c:2b50235104}{1c:17}えーと、確かここのすぐ左の部屋しか\n余ってなかったっけ・・・{1a}文句は言うなよ。\n遅れてきたお前が悪いんだからな。{0c:fe}",
    "raw": null,
-   "en": "{0c:520a0c}{0c:2b50235104}{1c:17}Uh, lemme think, pretty sure the only\nroom left's the one just to the left\nhere...{1a}Don't complain. You showed up late, so\nit's your own fault.{0c:fe}",
+   "en": "{0c:520a0c}{0c:2b50235104}{1c:17}Uh, lemme think, pretty sure the only\nroom left's the one just to the\nleft here...{1a}Don't complain. You showed up late, so\nit's your own fault.{0c:fe}",
    "status": "done",
    "tl": "Uh, lemme think, pretty sure the only room left's the one just to the left here... // Don't complain. You showed up late, so it's your own fault."
   },
@@ -87,7 +87,7 @@
    "jp": "{1c:15}よっと。\n{0c:2348510f542b5023510623521012}{0c:2b50235107}{07:3c}まあ、とにかくお互い頑張ろうぜ。{0c:28002360030001430afe}",
    "read": "{1c:15}よっと。\n{0c:2348510f542b5023510623521012}{0c:2b50235107}{07:3c}まあ、とにかくお互い頑張ろうぜ。{0c:28002360030001430afe}",
    "raw": null,
-   "en": "{1c:15}Hup. {0c:2348510f542b5023510623521012}{0c:2b50235107}{07:3c}Well, anyway, let's both give it our\nbest.{0c:28002360030001430afe}",
+   "en": "{1c:15}Hup. {0c:2348510f542b5023510623521012}{0c:2b50235107}{07:3c}Well, anyway, let's both give it\nour best.{0c:28002360030001430afe}",
    "status": "done",
    "tl": "Hup. [1]Well, anyway, let's both give it our best."
   },
@@ -179,7 +179,7 @@
    "jp": "{0c:28001000}{0b:08}{e080} 紺{e087}の{e088}を着た中{e089}戦士 {e081}{0b:09}\n何の話って言われても\n俺も知らねえよ。{1a}自分の{e08d}{e08e}に戻るついでに\nオイゲンのおやじに頼まれたこと\n伝えに来ただけだからな。{1a}えーと、それから・・・\nあれ? まだほかに伝えることが\nあったんだが・・・{1a}まァとにかく、{e08c}場に行って\n自分で確かめてくれよ。じゃあな。{0c:fe}",
    "read": "{0c:28001000}{0b:08}【 紺色の服を着た中年戦士 】{0b:09}\n何の話って言われても\n俺も知らねえよ。{1a}自分の宿舎に戻るついでに\nオイゲンのおやじに頼まれたこと\n伝えに来ただけだからな。{1a}えーと、それから・・・\nあれ? まだほかに伝えることが\nあったんだが・・・{1a}まァとにかく、酒場に行って\n自分で確かめてくれよ。じゃあな。{0c:fe}",
    "raw": null,
-   "en": "{0c:28001000}{0b:08}【 Warrior in Navy Blue 】{0b:09}\nWhat's goin' on? Don't ask me, I dunno.{1a}I just came by to pass on what old man\nEugen asked, on my way back to my\nquarters.{1a}Uh, and then... Huh? There was somethin'\nelse I was supposed to tell ya...{1a}Well, anyway, go to the tavern and find\nout yourself. See ya.{0c:fe}",
+   "en": "{0c:28001000}{0b:08}【 Warrior in Navy Blue 】{0b:09}\nWhat's goin' on? Don't ask me, I dunno.{1a}I just came by to pass on what old man\nEugen asked, on my way back to\nmy quarters.{1a}Uh, and then... Huh? There was somethin'\nelse I was supposed to tell ya...{1a}Well, anyway, go to the tavern and find\nout yourself. See ya.{0c:fe}",
    "status": "done",
    "tl": "What's goin' on? Don't ask me, I dunno. // I just came by to pass on what old man Eugen asked, on my way back to my quarters. // Uh, and then... Huh? There was somethin' else I was supposed to tell ya... // Well, anyway, go to the tavern and find out yourself. See ya."
   },
@@ -996,7 +996,7 @@
    "jp": "{0b:08}{e080} 紺{e087}の{e088}を着た中{e089}戦士 {e081}{0b:09}\nさあな、俺も知らねえよ。\n自分の{e08d}{e08e}に戻るついでに\n伝えに来ただけだからな。{1a}えーと、それから・・・\nあれ? まだほかに伝えることが\nあったんだが・・・{1a}まァとにかく、{e08c}場に行って\n自分で確かめてくれ。じゃあな。{0c:fe}",
    "read": "{0b:08}【 紺色の服を着た中年戦士 】{0b:09}\nさあな、俺も知らねえよ。\n自分の宿舎に戻るついでに\n伝えに来ただけだからな。{1a}えーと、それから・・・\nあれ? まだほかに伝えることが\nあったんだが・・・{1a}まァとにかく、酒場に行って\n自分で確かめてくれ。じゃあな。{0c:fe}",
    "raw": null,
-   "en": "{0b:08}【 Warrior in Navy Blue 】{0b:09}\nWho knows, I dunno either. I just came by\nto tell ya on my way back to my\nquarters.{1a}Uh, and then... Huh? There was somethin'\nelse I was supposed to tell ya...{1a}Well, anyway, go to the tavern and find\nout yourself. See ya.{0c:fe}",
+   "en": "{0b:08}【 Warrior in Navy Blue 】{0b:09}\nWho knows, I dunno either. I just came by\nto tell ya on my way back to\nmy quarters.{1a}Uh, and then... Huh? There was somethin'\nelse I was supposed to tell ya...{1a}Well, anyway, go to the tavern and find\nout yourself. See ya.{0c:fe}",
    "status": "done",
    "tl": "Who knows, I dunno either. I just came by to tell ya on my way back to my quarters. // Uh, and then... Huh? There was somethin' else I was supposed to tell ya... // Well, anyway, go to the tavern and find out yourself. See ya."
   },
@@ -1019,7 +1019,7 @@
    "jp": "{0c:2800233aff1000}{0c:28001000}{1c:15}{0b:08}{e080} パスカ {e081}{0b:09}\nだとよ。\nじゃあ一緒に行ってみるか。{0c:fe}",
    "read": "{0c:2800233aff1000}{0c:28001000}{1c:15}{0b:08}【 パスカ 】{0b:09}\nだとよ。\nじゃあ一緒に行ってみるか。{0c:fe}",
    "raw": null,
-   "en": "{0c:2800233aff1000}{0c:28001000}{1c:15}{0b:08}【 Pasca 】{0b:09}\nSo he says. Well, let's go together and\nsee.{0c:fe}",
+   "en": "{0c:2800233aff1000}{0c:28001000}{1c:15}{0b:08}【 Pasca 】{0b:09}\nSo he says. Well, let's go together\nand see.{0c:fe}",
    "status": "done",
    "tl": "So he says. Well, let's go together and see."
   },

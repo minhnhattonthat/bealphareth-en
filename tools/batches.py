@@ -37,7 +37,7 @@ MENU_W = 276
 PLATE_W = 180
 BOOK_W = 252  # original rows run 21-22 kanji (252-264 px); not measured at the limit yet (phase 8)
 PARTY_NAME_W = 72
-ITEM_NAME_W = 100
+ITEM_NAME_W = 103  # status grid: value x 200, frame x 304, 1 px clear (docs/re/windows.md)
 SPELL_NAME_W = 124
 
 # Width to reserve for a printed variable: longest hero name, item name, number.
@@ -194,9 +194,14 @@ def is_translatable(m, sid):
         it[1] for it in m.items if it[0] == "code")
 
 
+SLOT_ROW = re.compile(r"(主人公[男女]|[ァ-ヺー]+(\[1\](男|女性))?) / ")
+SENTENCE = re.compile(r"[ぁ-ゖ]{2,}|[。?!・]|だ\(仮\)")
+
+
 def is_placeholder(m, doc):
-    """Unfinished examine lines in scene tables ("Pasca / ghost generator OFF (tentative)"): no translator, `...` in-game."""
-    return doc["kind"] == "scene" and "(仮)" in m.text
+    """Dev labels in scene tables ("Pasca / ghost generator OFF (tentative)", a bare "chest (tentative)"): `...` in-game.
+    A (仮) line that reads as a sentence may be a draft a player meets, so it is translated (D10)."""
+    return doc["kind"] == "scene" and "(仮)" in m.text and bool(SLOT_ROW.match(m.text) or not SENTENCE.search(m.text))
 
 
 def needs_recode(sid, read):
@@ -366,7 +371,28 @@ def wrap_pages(tl, plate_first=False, widths=None, box=BOX_W, last=LAST_W, max_r
         rows.append(row)
     if rows:
         pages.append(rows)
+    if r"\n" not in tl:
+        pull_widow(pages, limit_rows, box, last, w)
     return pages
+
+
+def pull_widow(pages, limit_rows, box, last, w):
+    """A lone word ending the text takes the previous row's last word with it, on its row or from the page before."""
+    rows = pages[-1]
+    if " " in rows[-1]:
+        return
+    src = rows[-2:-1] or (pages[-2][-1:] if len(pages) > 1 else [])
+    if not src or " " not in src[0]:
+        return
+    head, _, word = src[0].rpartition(" ")
+    joined = word + " " + rows[-1]
+    if page_px(joined, w) > (last if len(rows) == limit_rows else box):
+        return
+    if len(rows) > 1:
+        rows[-2] = head
+    else:
+        pages[-2][-1] = head
+    rows[-1] = joined
 
 
 def page_px(row, widths=None):
@@ -520,7 +546,7 @@ def collect():
     done = {}
     for path, doc in load_docs():
         for s in doc["strings"]:
-            if s.get("tl"):
+            if s.get("tl") and s.get("status") != "placeholder":
                 read = read_of(s)
                 done[Masked(read, form_of(doc, read)).text] = s["tl"]
     entries = []
@@ -858,7 +884,7 @@ def cmd_status(_args):
             if not read:
                 continue
             m = Masked(read, form_of(doc, read))
-            if not is_translatable(m, s["id"]):
+            if not is_translatable(m, s["id"]) or s.get("status") == "placeholder":
                 continue
             n = len(visible_jp(m.text))
             if s.get("tl"):

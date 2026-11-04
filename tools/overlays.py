@@ -1,6 +1,9 @@
 """overlays.py: data patches in scene overlays that are not message banks. Offsets are in the part before the first bank,
 which never shifts. RES#1023 holds the name entry screen (docs/re/vwf.md): every page becomes the ASCII grid."""
 import struct
+from pathlib import Path
+
+NAMES = Path(__file__).resolve().parents[1] / "tbl/loose_names.tsv"
 
 # Names the aging man refuses, in 20-byte slots, each glyph a (mode, code) pair like a typed name.
 RESERVED = {
@@ -39,6 +42,31 @@ def patch_name_entry(blob):
     for off, name in DEFAULTS.items():
         _name(out, off, name, 16)
     return bytes(out)
+
+
+def patch_loose_name(out, base, off, words, en, pool, pool_end):
+    """An object name outside the message banks (tools/loose_scan.py): over the old bytes if it fits, else in the far pool
+    with its table words repointed. base: the overlay's offset in out. Returns the pool."""
+    b = b"\x01" + en.encode("ascii") + b"\0"
+    old_end = out.index(b"\0", base + off)
+    if len(b) <= old_end + 1 - (base + off):
+        out[base + off:old_end + 1] = b + bytes(old_end + 1 - (base + off) - len(b))
+        return pool
+    at = pool.find(b)
+    if at < 0 or (at and pool[at - 1] != 0):
+        pool = b + pool
+        at = 0
+    for w in words:
+        struct.pack_into("<I", out, base + w, pool_end - len(pool) + at)
+    return pool
+
+
+def patch_loose_names(main_res, table, rows, pool, pool_end):
+    """rows: loose_scan.scan on the original disc. A new name not in tbl/loose_names.tsv raises."""
+    names = dict(line.split("\t") for line in NAMES.read_text(encoding="utf8").splitlines())
+    for entry, off, words, text in rows:
+        pool = patch_loose_name(main_res, table[entry][0], off, words, names[text], pool, pool_end)
+    return pool
 
 
 PATCHES = {1023: patch_name_entry}

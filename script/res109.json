@@ -409,7 +409,7 @@
    "jp": "{0b:08}【 オルフェウス 】{0b:09}\nで、一体何でしょうか、\nこの装置は・・・{0c:fe}",
    "read": "{0b:08}【 オルフェウス 】{0b:09}\nで、一体何でしょうか、\nこの装置は・・・{0c:fe}",
    "raw": null,
-   "en": "{0b:08}【 Orpheus 】{0b:09}\nAnd what, I wonder, might this device\nbe...{0c:fe}",
+   "en": "{0b:08}【 Orpheus 】{0b:09}\nAnd what, I wonder, might this\ndevice be...{0c:fe}",
    "status": "done",
    "tl": "And what, I wonder, might this device be..."
   },
@@ -616,7 +616,7 @@
    "jp": "{1c:27}{0b:08}【 オルフェウス 】{0b:09}\n{10}さん、\nとうとうお出ましですよ。\n最後の十三聖者が。{0c:021101}",
    "read": "{1c:27}{0b:08}【 オルフェウス 】{0b:09}\n{10}さん、\nとうとうお出ましですよ。\n最後の十三聖者が。{0c:021101}",
    "raw": null,
-   "en": "{1c:27}{0b:08}【 Orpheus 】{0b:09}\n{10}-san, our guest of honor has\nfinally arrived. The last of the Thirteen\nSaints.{0c:021101}",
+   "en": "{1c:27}{0b:08}【 Orpheus 】{0b:09}\n{10}-san, our guest of honor has\nfinally arrived. The last of the\nThirteen Saints.{0c:021101}",
    "status": "done",
    "tl": "[HERO]-san, our guest of honor has finally arrived. The last of the Thirteen Saints."
   },
@@ -881,7 +881,7 @@
    "jp": "{1c:15}{0b:08}【 ジェシカ 】{0b:09}\nえっ・・・\nそ、そうだけど・・・{1a}でも、悪いとは思ってないよ。{0c:021d01}",
    "read": "{1c:15}{0b:08}【 ジェシカ 】{0b:09}\nえっ・・・\nそ、そうだけど・・・{1a}でも、悪いとは思ってないよ。{0c:021d01}",
    "raw": null,
-   "en": "{1c:15}{0b:08}【 Jessica 】{0b:09}\nHuh... Y-yeah, that's right, but...{1a}I don't think we did anything wrong, you\nknow.{0c:021d01}",
+   "en": "{1c:15}{0b:08}【 Jessica 】{0b:09}\nHuh... Y-yeah, that's right, but...{1a}I don't think we did anything wrong,\nyou know.{0c:021d01}",
    "status": "done",
    "tl": "Huh... Y-yeah, that's right, but... // I don't think we did anything wrong, you know."
   },
@@ -1353,7 +1353,7 @@
    "jp": "{0c:524048}{0b:08}【 エレアノール 】{0b:09}\n私もこの町に来るまでは\nそう思っていました。{1a}でも、この町に来て、\n皆と出逢って気付きました。{1a}{0c:51ff11}この世界はまだまだ\n希望に満ち溢れている・・・\n今なら心からそう思えます。{0c:fe}",
    "read": "{0c:524048}{0b:08}【 エレアノール 】{0b:09}\n私もこの町に来るまでは\nそう思っていました。{1a}でも、この町に来て、\n皆と出逢って気付きました。{1a}{0c:51ff11}この世界はまだまだ\n希望に満ち溢れている・・・\n今なら心からそう思えます。{0c:fe}",
    "raw": null,
-   "en": "{0c:524048}{0b:08}【 Eleanor 】{0b:09}\nI, too, thought so until I came to this\ntown.{1a}But here, in meeting everyone, I came to\nrealize.{1a}{0c:51ff11}This world is still overflowing with hope...\nNow I can believe so from the bottom of\nmy heart.{0c:fe}",
+   "en": "{0c:524048}{0b:08}【 Eleanor 】{0b:09}\nI, too, thought so until I came to\nthis town.{1a}But here, in meeting everyone, I came\nto realize.{1a}{0c:51ff11}This world is still overflowing with hope...\nNow I can believe so from the bottom of\nmy heart.{0c:fe}",
    "status": "done",
    "tl": "I, too, thought so until I came to this town. // But here, in meeting everyone, I came to realize. // [1]This world is still overflowing with hope... Now I can believe so from the bottom of my heart."
   },
@@ -1376,7 +1376,7 @@
    "jp": "{0b:08}【 パスカ 】{0b:09}\nそうか?\nオレは逆だけどな。{1a}{0c:524048}案外捨てたもんじゃねえぜ、\nこの世界って。{0c:fe}",
    "read": "{0b:08}【 パスカ 】{0b:09}\nそうか?\nオレは逆だけどな。{1a}{0c:524048}案外捨てたもんじゃねえぜ、\nこの世界って。{0c:fe}",
    "raw": null,
-   "en": "{0b:08}【 Pasca 】{0b:09}\nThat so? It's the other way around for\nme.{1a}{0c:524048}This world ain't half bad, I tell ya.{0c:fe}",
+   "en": "{0b:08}【 Pasca 】{0b:09}\nThat so? It's the other way around\nfor me.{1a}{0c:524048}This world ain't half bad, I tell ya.{0c:fe}",
    "status": "done",
    "tl": "That so? It's the other way around for me. // [1]This world ain't half bad, I tell ya."
   },
@@ -1549,7 +1549,7 @@
    "jp": "{0c:52ff1108}もちろん、\n『世界のために』なんて考えながら\n戦ってるわけじゃないけどね。{1a}あたしは自分のために戦ってるの。\nまだまだこの世界で遊びたいもん。{0c:021501}",
    "read": "{0c:52ff1108}もちろん、\n『世界のために』なんて考えながら\n戦ってるわけじゃないけどね。{1a}あたしは自分のために戦ってるの。\nまだまだこの世界で遊びたいもん。{0c:021501}",
    "raw": null,
-   "en": "{0c:52ff1108}Of course, it's not like I'm fighting\nthinking 'for the sake of the world' or\nanything.{1a}I'm fighting for me. I still want to have\nplenty more fun in this world, you know.{0c:021501}",
+   "en": "{0c:52ff1108}Of course, it's not like I'm fighting\nthinking 'for the sake of the world'\nor anything.{1a}I'm fighting for me. I still want to have\nplenty more fun in this world, you know.{0c:021501}",
    "status": "done",
    "tl": "Of course, it's not like I'm fighting thinking 'for the sake of the world' or anything. // I'm fighting for me. I still want to have plenty more fun in this world, you know."
   },
@@ -1584,7 +1584,7 @@
    "jp": "もちろん、\n『世界のために』なんて考えながら\n戦ってるわけじゃないけどね。{1a}{0c:51ff11}あたしは自分と、それから\n{10}のために戦ってるの。\nだってまだまだ遊び足りないもん。\n世界はそのためのステージってわけ。{0c:fe}",
    "read": "もちろん、\n『世界のために』なんて考えながら\n戦ってるわけじゃないけどね。{1a}{0c:51ff11}あたしは自分と、それから\n{10}のために戦ってるの。\nだってまだまだ遊び足りないもん。\n世界はそのためのステージってわけ。{0c:fe}",
    "raw": null,
-   "en": "Of course, it's not like I'm fighting\nthinking 'for the sake of the world' or\nanything.{1a}{0c:51ff11}I'm fighting for me, and then for\n{10}. I haven't had nearly enough\nfun yet, you know. The world's just the\nstage for it.{0c:fe}",
+   "en": "Of course, it's not like I'm fighting\nthinking 'for the sake of the world'\nor anything.{1a}{0c:51ff11}I'm fighting for me, and then for\n{10}. I haven't had nearly enough\nfun yet, you know. The world's just the\nstage for it.{0c:fe}",
    "status": "done",
    "tl": "Of course, it's not like I'm fighting thinking 'for the sake of the world' or anything. // [1]I'm fighting for me, and then for [HERO]. I haven't had nearly enough fun yet, you know. The world's just the stage for it."
   },
@@ -1642,7 +1642,7 @@
    "jp": "{0c:5108}{0b:08}【 イヴ 】{0b:09}\nお生憎様、\nあたしは物分かりの悪い性格なの。{1a}それに、あなたに対抗して\n言う訳じゃないけど、\nそう捨てたものでもないわよ、\nこの世界って。{0c:fe}",
    "read": "{0c:5108}{0b:08}【 イヴ 】{0b:09}\nお生憎様、\nあたしは物分かりの悪い性格なの。{1a}それに、あなたに対抗して\n言う訳じゃないけど、\nそう捨てたものでもないわよ、\nこの世界って。{0c:fe}",
    "raw": null,
-   "en": "{0c:5108}{0b:08}【 Eve 】{0b:09}\nHow unfortunate for you, dear. I happen\nto be rather slow to take a hint.{1a}Besides, I'm not saying this just to spite\nyou, but this world's not so worthless as\nthat.{0c:fe}",
+   "en": "{0c:5108}{0b:08}【 Eve 】{0b:09}\nHow unfortunate for you, dear. I happen\nto be rather slow to take a hint.{1a}Besides, I'm not saying this just to spite\nyou, but this world's not so worthless\nas that.{0c:fe}",
    "status": "done",
    "tl": "How unfortunate for you, dear. I happen to be rather slow to take a hint. // Besides, I'm not saying this just to spite you, but this world's not so worthless as that."
   },
@@ -1689,7 +1689,7 @@
    "jp": "{0b:08}【 ノエル 】{0b:09}\nあたしも昔はそう思ってたわ。\n史書や宗教書を紐解く度に、\n人間の進歩のなさに失望させられた。{1a}{0c:524048}でも、この町に来て気付いたの。\n本に書かれていたのは\n知識という名の大河の流れであって{1a}水の冷たさやそこに棲む魚を\n表すものではないと・・・{1a}{0c:51ff11}世界がたとえどんなに\n悪い方向に進んでいても、{1a}1人1人の人間に生きる意志があれば\n乗り越えられる・・・\n今ならそう思えるわ。{0c:fe}",
    "read": "{0b:08}【 ノエル 】{0b:09}\nあたしも昔はそう思ってたわ。\n史書や宗教書を紐解く度に、\n人間の進歩のなさに失望させられた。{1a}{0c:524048}でも、この町に来て気付いたの。\n本に書かれていたのは\n知識という名の大河の流れであって{1a}水の冷たさやそこに棲む魚を\n表すものではないと・・・{1a}{0c:51ff11}世界がたとえどんなに\n悪い方向に進んでいても、{1a}1人1人の人間に生きる意志があれば\n乗り越えられる・・・\n今ならそう思えるわ。{0c:fe}",
    "raw": null,
-   "en": "{0b:08}【 Noel 】{0b:09}\nI used to think so too. Every time I\nopened a history or a holy book, I was let\ndown by how little humanity had{1a}progressed.{1a}{0c:524048}But when I came to this town, I realized.\nWhat the books held was the flow of a\ngreat river called knowledge,{1a}and it could not show the coldness of\nthe water, or the fish that live in it...{1a}{0c:51ff11}However badly the world may be going,{1a}if each and every person has the will to\nlive, it can be overcome... I can believe\nthat now.{0c:fe}",
+   "en": "{0b:08}【 Noel 】{0b:09}\nI used to think so too. Every time I\nopened a history or a holy book, I was let\ndown by how little humanity{1a}had progressed.{1a}{0c:524048}But when I came to this town, I realized.\nWhat the books held was the flow of a\ngreat river called knowledge,{1a}and it could not show the coldness of\nthe water, or the fish that live in it...{1a}{0c:51ff11}However badly the world may be going,{1a}if each and every person has the will to\nlive, it can be overcome... I can believe\nthat now.{0c:fe}",
    "status": "done",
    "tl": "I used to think so too. Every time I opened a history or a holy book, I was let down by how little humanity had progressed. // [1]But when I came to this town, I realized. What the books held was the flow of a great river called knowledge, // and it could not show the coldness of the water, or the fish that live in it... // [2]However badly the world may be going, // if each and every person has the will to live, it can be overcome... I can believe that now."
   },
@@ -1758,7 +1758,7 @@
    "jp": "{0c:52ff1108}{1c:20}{0b:08}【 ルカ 】{0b:09}\nそうでしょうか・・・{1a}わたしには、この世界が\nそんなにどうしようもない世界には\n思えません。{1a}わたしはすばらしい仲間を\n知っています。\n嬉しかったこと、楽しかったこと、\n色々な思い出があります。{1a}確かに生きていれば\nつらいことだってあります・・・\nでもわたしは、ここで過ごした毎日を\n否定したくはありません。{0c:fe}",
    "read": "{0c:52ff1108}{1c:20}{0b:08}【 ルカ 】{0b:09}\nそうでしょうか・・・{1a}わたしには、この世界が\nそんなにどうしようもない世界には\n思えません。{1a}わたしはすばらしい仲間を\n知っています。\n嬉しかったこと、楽しかったこと、\n色々な思い出があります。{1a}確かに生きていれば\nつらいことだってあります・・・\nでもわたしは、ここで過ごした毎日を\n否定したくはありません。{0c:fe}",
    "raw": null,
-   "en": "{0c:52ff1108}{1c:20}{0b:08}【 Luca 】{0b:09}\nDo you think so...{1a}To me, this world does not seem as\nhopeless as all that.{1a}I know wonderful friends. I have all sorts\nof memories, of happy times and joyful\ntimes.{1a}True, in living there are painful things\ntoo... But I do not want to deny the days\nI have spent here.{0c:fe}",
+   "en": "{0c:52ff1108}{1c:20}{0b:08}【 Luca 】{0b:09}\nDo you think so...{1a}To me, this world does not seem as\nhopeless as all that.{1a}I know wonderful friends. I have all sorts\nof memories, of happy times and\njoyful times.{1a}True, in living there are painful things\ntoo... But I do not want to deny the days\nI have spent here.{0c:fe}",
    "status": "done",
    "tl": "Do you think so... // To me, this world does not seem as hopeless as all that. // I know wonderful friends. I have all sorts of memories, of happy times and joyful times. // True, in living there are painful things too... But I do not want to deny the days I have spent here."
   },
@@ -1804,7 +1804,7 @@
    "jp": "{1c:12}{0b:08}【 パスカ 】{0b:09}\nでさ、\n何か確かめたい事があるんだろ?{1a}ひょっとしてこれが\n聞きたかっただけなのか?{0c:022101}",
    "read": "{1c:12}{0b:08}【 パスカ 】{0b:09}\nでさ、\n何か確かめたい事があるんだろ?{1a}ひょっとしてこれが\n聞きたかっただけなのか?{0c:022101}",
    "raw": null,
-   "en": "{1c:12}{0b:08}【 Pasca 】{0b:09}\nSo anyhow, there's somethin' ya wanted\nto make sure of, right?{1a}Don't tell me this is all ya wanted to\nhear?{0c:022101}",
+   "en": "{1c:12}{0b:08}【 Pasca 】{0b:09}\nSo anyhow, there's somethin' ya wanted\nto make sure of, right?{1a}Don't tell me this is all ya wanted\nto hear?{0c:022101}",
    "status": "done",
    "tl": "So anyhow, there's somethin' ya wanted to make sure of, right? // Don't tell me this is all ya wanted to hear?"
   },
@@ -1850,7 +1850,7 @@
    "jp": "{1c:1e}{0b:08}【 ノエル 】{0b:09}\n聖者アヴァダイル・・・{1a}あなたは何かを確かめたくて\n{10}をここに\n招き入れたって聞いたわ。{1a}もしかして、これがあなたの\n確かめたかったことなの?{0c:021d01}",
    "read": "{1c:1e}{0b:08}【 ノエル 】{0b:09}\n聖者アヴァダイル・・・{1a}あなたは何かを確かめたくて\n{10}をここに\n招き入れたって聞いたわ。{1a}もしかして、これがあなたの\n確かめたかったことなの?{0c:021d01}",
    "raw": null,
-   "en": "{1c:1e}{0b:08}【 Noel 】{0b:09}\nSaint Avadail...{1a}I heard you brought {10} here\nbecause you wanted to confirm\nsomething.{1a}Could this be what you wanted to\nconfirm?{0c:021d01}",
+   "en": "{1c:1e}{0b:08}【 Noel 】{0b:09}\nSaint Avadail...{1a}I heard you brought {10} here\nbecause you wanted to\nconfirm something.{1a}Could this be what you wanted\nto confirm?{0c:021d01}",
    "status": "done",
    "tl": "Saint Avadail... // I heard you brought [HERO] here because you wanted to confirm something. // Could this be what you wanted to confirm?"
   },
@@ -1919,7 +1919,7 @@
    "jp": "{1c:15}{0b:08}【 ジェシカ 】{0b:09}\nねえ・・・{1a}あんたは何かを確かめたくて\n{10}をここに\n招き入れたって聞いたよ。{1a}もしかしてさ、\nこんなことが聞きたかったの?{0c:021701}",
    "read": "{1c:15}{0b:08}【 ジェシカ 】{0b:09}\nねえ・・・{1a}あんたは何かを確かめたくて\n{10}をここに\n招き入れたって聞いたよ。{1a}もしかしてさ、\nこんなことが聞きたかったの?{0c:021701}",
    "raw": null,
-   "en": "{1c:15}{0b:08}【 Jessica 】{0b:09}\nHey...{1a}I heard you brought {10} here\nbecause you wanted to confirm\nsomething.{1a}So, what, you wanted to hear this kind\nof stuff?{0c:021701}",
+   "en": "{1c:15}{0b:08}【 Jessica 】{0b:09}\nHey...{1a}I heard you brought {10} here\nbecause you wanted to\nconfirm something.{1a}So, what, you wanted to hear this kind\nof stuff?{0c:021701}",
    "status": "done",
    "tl": "Hey... // I heard you brought [HERO] here because you wanted to confirm something. // So, what, you wanted to hear this kind of stuff?"
   },
@@ -1942,7 +1942,7 @@
    "jp": "何か確かめたいことがあるんだよね、\nひょっとしてそれが聞きたかったの?{0c:021501}",
    "read": "何か確かめたいことがあるんだよね、\nひょっとしてそれが聞きたかったの?{0c:021501}",
    "raw": null,
-   "en": "There's something you want to confirm,\nright? Don't tell me you wanted to hear\nthat?{0c:021501}",
+   "en": "There's something you want to confirm,\nright? Don't tell me you wanted to\nhear that?{0c:021501}",
    "status": "done",
    "tl": "There's something you want to confirm, right? Don't tell me you wanted to hear that?"
   },
@@ -1988,7 +1988,7 @@
    "jp": "{0b:08}【 オルフェウス 】{0b:09}\nそれで・・・{1a}聖者アヴァダイルさん、\nあなたは何かを確かめたくて\n{10}さんをここに\n招き入れたんですよね。{1a}もしかして、これが\n確かめたかっただけなんですか?{0c:021101}",
    "read": "{0b:08}【 オルフェウス 】{0b:09}\nそれで・・・{1a}聖者アヴァダイルさん、\nあなたは何かを確かめたくて\n{10}さんをここに\n招き入れたんですよね。{1a}もしかして、これが\n確かめたかっただけなんですか?{0c:021101}",
    "raw": null,
-   "en": "{0b:08}【 Orpheus 】{0b:09}\nAnd so...{1a}Saint Avadail-san, you brought\n{10}-san here because you wished\nto confirm something, did you not?{1a}Could it be that this is all you wished to\nconfirm?{0c:021101}",
+   "en": "{0b:08}【 Orpheus 】{0b:09}\nAnd so...{1a}Saint Avadail-san, you brought\n{10}-san here because you wished\nto confirm something, did you not?{1a}Could it be that this is all you wished\nto confirm?{0c:021101}",
    "status": "done",
    "tl": "And so... // Saint Avadail-san, you brought [HERO]-san here because you wished to confirm something, did you not? // Could it be that this is all you wished to confirm?"
   },
@@ -2057,7 +2057,7 @@
    "jp": "{1c:17}{0b:08}【 アッシュ 】{0b:09}\nそれで・・・\nなにか確かめたいことがあって\n{10}を呼んだんだよな。{1a}ひょっとして、\n確かめたかったことってこれなのか?{0c:020b01}",
    "read": "{1c:17}{0b:08}【 アッシュ 】{0b:09}\nそれで・・・\nなにか確かめたいことがあって\n{10}を呼んだんだよな。{1a}ひょっとして、\n確かめたかったことってこれなのか?{0c:020b01}",
    "raw": null,
-   "en": "{1c:17}{0b:08}【 Ash 】{0b:09}\nSo... you called {10} because you\nwanted to make sure of something,\nright?{1a}Is this what you wanted to make sure\nof, maybe?{0c:020b01}",
+   "en": "{1c:17}{0b:08}【 Ash 】{0b:09}\nSo... you called {10} because you\nwanted to make sure of\nsomething, right?{1a}Is this what you wanted to make sure\nof, maybe?{0c:020b01}",
    "status": "done",
    "tl": "So... you called [HERO] because you wanted to make sure of something, right? // Is this what you wanted to make sure of, maybe?"
   },
@@ -2080,7 +2080,7 @@
    "jp": "{0b:08}【 イヴ 】{0b:09}\nで、これがあなたの\n確かめたかったことなの?{0c:020901}",
    "read": "{0b:08}【 イヴ 】{0b:09}\nで、これがあなたの\n確かめたかったことなの?{0c:020901}",
    "raw": null,
-   "en": "{0b:08}【 Eve 】{0b:09}\nSo, is this what you wished to confirm,\ndear?{0c:020901}",
+   "en": "{0b:08}【 Eve 】{0b:09}\nSo, is this what you wished to\nconfirm, dear?{0c:020901}",
    "status": "done",
    "tl": "So, is this what you wished to confirm, dear?"
   },
@@ -2103,7 +2103,7 @@
    "jp": "{1c:22}{0b:08}【 サラ 】{0b:09}\n聖者様、\n確かめたいことがあって\n{10}さんを呼んだんだよね。{1a}ひょっとして、\nこれが聞きたかったことなの・・・?{0c:020701}",
    "read": "{1c:22}{0b:08}【 サラ 】{0b:09}\n聖者様、\n確かめたいことがあって\n{10}さんを呼んだんだよね。{1a}ひょっとして、\nこれが聞きたかったことなの・・・?{0c:020701}",
    "raw": null,
-   "en": "{1c:22}{0b:08}【 Sara 】{0b:09}\nSaint-sama, you called {10}-san\nbecause you wanted to make sure of\nsomething, right?{1a}Don't tell me this is what you wanted to\nhear...?{0c:020701}",
+   "en": "{1c:22}{0b:08}【 Sara 】{0b:09}\nSaint-sama, you called {10}-san\nbecause you wanted to make sure of\nsomething, right?{1a}Don't tell me this is what you wanted\nto hear...?{0c:020701}",
    "status": "done",
    "tl": "Saint-sama, you called [HERO]-san because you wanted to make sure of something, right? // Don't tell me this is what you wanted to hear...?"
   },
@@ -2149,7 +2149,7 @@
    "jp": "{0b:08}【 ディアス 】{0b:09}\n何か確かめたいことがあって\n{10}をここに\n招き入れたと聞いた・・・{1a}貴様が確かめたかった事とは\nこのことなのか?{0c:020301}",
    "read": "{0b:08}【 ディアス 】{0b:09}\n何か確かめたいことがあって\n{10}をここに\n招き入れたと聞いた・・・{1a}貴様が確かめたかった事とは\nこのことなのか?{0c:020301}",
    "raw": null,
-   "en": "{0b:08}【 Dias 】{0b:09}\nI am told you brought {10} here\nbecause you wished to confirm\nsomething...{1a}Is this what you sought to confirm?{0c:020301}",
+   "en": "{0b:08}【 Dias 】{0b:09}\nI am told you brought {10} here\nbecause you wished to\nconfirm something...{1a}Is this what you sought to confirm?{0c:020301}",
    "status": "done",
    "tl": "I am told you brought [HERO] here because you wished to confirm something... // Is this what you sought to confirm?"
   },
@@ -2207,7 +2207,7 @@
    "jp": "{1c:29}君達が太陽帝国と呼ぶ国、\nその国の真の名を\nベアルファレスという・・・{1a}ベアルファレスの民も、\n初めは神の存在を信じ、\n神を奉っていた。{1a}現代よりも遙かに高度な\n物質文明をもちながら、{1a}それでもおごることなく\n人の善なる面と悪なる面とを\n正確に見つめ、{1a}現実から目を背けることなく、\n真実、つまり人の絶対の真理を\nひたむきに追い求めていた・・・{0c:2b5309fe}",
    "read": "{1c:29}君達が太陽帝国と呼ぶ国、\nその国の真の名を\nベアルファレスという・・・{1a}ベアルファレスの民も、\n初めは神の存在を信じ、\n神を奉っていた。{1a}現代よりも遙かに高度な\n物質文明をもちながら、{1a}それでもおごることなく\n人の善なる面と悪なる面とを\n正確に見つめ、{1a}現実から目を背けることなく、\n真実、つまり人の絶対の真理を\nひたむきに追い求めていた・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "{1c:29}The land you call the Sun Empire. Its true\nname is Bealphareth...{1a}The people of Bealphareth, too, at first\nbelieved in the existence of God, and\nworshipped God.{1a}They possessed a material civilization far\nmore advanced than that of the present\nday,{1a}yet they did not grow proud. They looked\nsquarely upon the good and the evil in\nhumankind,{1a}and without turning their eyes from\nreality, they earnestly pursued truth,\nthat is, the absolute truth of\nhumankind...{0c:2b5309fe}",
+   "en": "{1c:29}The land you call the Sun Empire. Its true\nname is Bealphareth...{1a}The people of Bealphareth, too, at first\nbelieved in the existence of God, and\nworshipped God.{1a}They possessed a material civilization far\nmore advanced than that of the\npresent day,{1a}yet they did not grow proud. They looked\nsquarely upon the good and the evil\nin humankind,{1a}and without turning their eyes from\nreality, they earnestly pursued truth,\nthat is, the absolute truth\nof humankind...{0c:2b5309fe}",
    "status": "done",
    "tl": "The land you call the Sun Empire. Its true name is Bealphareth... // The people of Bealphareth, too, at first believed in the existence of God, and worshipped God. // They possessed a material civilization far more advanced than that of the present day, // yet they did not grow proud. They looked squarely upon the good and the evil in humankind, // and without turning their eyes from reality, they earnestly pursued truth, that is, the absolute truth of humankind..."
   },
@@ -2231,7 +2231,7 @@
    "jp": "{1c:2a}物欲、性欲、食欲、独占欲・・・\n肉体があるがゆえ数多の欲が生まれ、\n欲望がある限り争いはなくならない。{1a}不安、孤独、嫉妬・・・\n人の魂が肉体という鎧の裏に\n隠れている限り、{1a}人の心を蝕む負の感情も\nなくなることはない。{1a}このままでは人間に\n未来などない・・・{0c:2b5309fe}",
    "read": "{1c:2a}物欲、性欲、食欲、独占欲・・・\n肉体があるがゆえ数多の欲が生まれ、\n欲望がある限り争いはなくならない。{1a}不安、孤独、嫉妬・・・\n人の魂が肉体という鎧の裏に\n隠れている限り、{1a}人の心を蝕む負の感情も\nなくなることはない。{1a}このままでは人間に\n未来などない・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "{1c:2a}Greed for things, lust, hunger,\npossessiveness... The flesh gives rise to\ncountless desires, and so long as desire\nexists, strife will never end.{1a}Anxiety, loneliness, envy... So long as the\nhuman soul hides behind the armor of the\nflesh,{1a}the dark feelings that eat at the human\nheart will never vanish either.{1a}As things stood, humankind had no\nfuture...{0c:2b5309fe}",
+   "en": "{1c:2a}Greed for things, lust, hunger,\npossessiveness... The flesh gives rise to\ncountless desires, and so long as desire\nexists, strife will never end.{1a}Anxiety, loneliness, envy... So long as the\nhuman soul hides behind the armor of\nthe flesh,{1a}the dark feelings that eat at the human\nheart will never vanish either.{1a}As things stood, humankind had\nno future...{0c:2b5309fe}",
    "status": "done",
    "tl": "Greed for things, lust, hunger, possessiveness... The flesh gives rise to countless desires, and so long as desire exists, strife will never end. // Anxiety, loneliness, envy... So long as the human soul hides behind the armor of the flesh, // the dark feelings that eat at the human heart will never vanish either. // As things stood, humankind had no future..."
   },
@@ -2370,7 +2370,7 @@
    "jp": "{0c:52ff21ff29}肉体と別れる・・・?\nまさか・・・ここは・・・{0c:021701}",
    "read": "{0c:52ff21ff29}肉体と別れる・・・?\nまさか・・・ここは・・・{0c:021701}",
    "raw": null,
-   "en": "{0c:52ff21ff29}Part with the flesh...? It can't be... This\nplace...{0c:021701}",
+   "en": "{0c:52ff21ff29}Part with the flesh...? It can't be...\nThis place...{0c:021701}",
    "status": "done",
    "tl": "Part with the flesh...? It can't be... This place..."
   },
@@ -2716,7 +2716,7 @@
    "jp": "{0c:52ff31ff39}{1c:12}{0b:08}【 パスカ 】{0b:09}\n神って言ってもよ、\nこの建物の力を借りないと\n何も出来ないんだろ?{1a}そんな神サマいるかよ。{0c:022101}",
    "read": "{0c:52ff31ff39}{1c:12}{0b:08}【 パスカ 】{0b:09}\n神って言ってもよ、\nこの建物の力を借りないと\n何も出来ないんだろ?{1a}そんな神サマいるかよ。{0c:022101}",
    "raw": null,
-   "en": "{0c:52ff31ff39}{1c:12}{0b:08}【 Pasca 】{0b:09}\nCall it a god if ya want, but it can't do a\ndamn thing without this buildin's power,\nright?{1a}What kinda god is that?{0c:022101}",
+   "en": "{0c:52ff31ff39}{1c:12}{0b:08}【 Pasca 】{0b:09}\nCall it a god if ya want, but it can't do a\ndamn thing without this buildin's\npower, right?{1a}What kinda god is that?{0c:022101}",
    "status": "done",
    "tl": "Call it a god if ya want, but it can't do a damn thing without this buildin's power, right? // What kinda god is that?"
   },
@@ -2739,7 +2739,7 @@
    "jp": "{0c:52ff31ff39}{1c:15}{0b:08}【 ジェシカ 】{0b:09}\n神サマっていってもさ、\nこの装置の力を借りないと\nなんにも出来ないんでしょ?{1a}なんか格好わるい神サマだね。{0c:021f01}",
    "read": "{0c:52ff31ff39}{1c:15}{0b:08}【 ジェシカ 】{0b:09}\n神サマっていってもさ、\nこの装置の力を借りないと\nなんにも出来ないんでしょ?{1a}なんか格好わるい神サマだね。{0c:021f01}",
    "raw": null,
-   "en": "{0c:52ff31ff39}{1c:15}{0b:08}【 Jessica 】{0b:09}\nI mean, sure, a god, but it can't do\nanything without this machine's help,\nright?{1a}Geez, what a lame kind of god.{0c:021f01}",
+   "en": "{0c:52ff31ff39}{1c:15}{0b:08}【 Jessica 】{0b:09}\nI mean, sure, a god, but it can't do\nanything without this machine's\nhelp, right?{1a}Geez, what a lame kind of god.{0c:021f01}",
    "status": "done",
    "tl": "I mean, sure, a god, but it can't do anything without this machine's help, right? // Geez, what a lame kind of god."
   },
@@ -2992,7 +2992,7 @@
    "jp": "{0c:52ff31ff39}でも、この建物の中でないと\n何も出来ないんですよね。\nそれを神サマと呼ぶなんて\nちょっと厚かましくありませんか?{0c:020901}",
    "read": "{0c:52ff31ff39}でも、この建物の中でないと\n何も出来ないんですよね。\nそれを神サマと呼ぶなんて\nちょっと厚かましくありませんか?{0c:020901}",
    "raw": null,
-   "en": "{0c:52ff31ff39}But it can do nothing outside this\nbuilding, isn't that so? To call that a god\nis a touch presumptuous, wouldn't you\nsay?{0c:020901}",
+   "en": "{0c:52ff31ff39}But it can do nothing outside this\nbuilding, isn't that so? To call that a god\nis a touch presumptuous, wouldn't\nyou say?{0c:020901}",
    "status": "done",
    "tl": "But it can do nothing outside this building, isn't that so? To call that a god is a touch presumptuous, wouldn't you say?"
   },
@@ -3038,7 +3038,7 @@
    "jp": "{0c:52ff31ff39}{1c:1a}{0b:08}【 エレアノール 】{0b:09}\nこの機械の中でしか\n生きられない精神・・・{1a}そんなものが神・・・?{0c:020501}",
    "read": "{0c:52ff31ff39}{1c:1a}{0b:08}【 エレアノール 】{0b:09}\nこの機械の中でしか\n生きられない精神・・・{1a}そんなものが神・・・?{0c:020501}",
    "raw": null,
-   "en": "{0c:52ff31ff39}{1c:1a}{0b:08}【 Eleanor 】{0b:09}\nA mind that can live only inside this\nmachine...{1a}Such a thing is a god...?{0c:020501}",
+   "en": "{0c:52ff31ff39}{1c:1a}{0b:08}【 Eleanor 】{0b:09}\nA mind that can live only inside\nthis machine...{1a}Such a thing is a god...?{0c:020501}",
    "status": "done",
    "tl": "A mind that can live only inside this machine... // Such a thing is a god...?"
   },
@@ -4124,7 +4124,7 @@
    "jp": "{1c:29}ベアルファレスの民の\n計画は慎重だった。{1a}彼らはまず、自らの意志を\n執行する者として私達を生み出し、\nそして地上に送り込んだ。{0c:2b5309fe}",
    "read": "{1c:29}ベアルファレスの民の\n計画は慎重だった。{1a}彼らはまず、自らの意志を\n執行する者として私達を生み出し、\nそして地上に送り込んだ。{0c:2b5309fe}",
    "raw": null,
-   "en": "{1c:29}The people of Bealphareth planned with\ncare.{1a}First they brought us forth as the\nexecutors of their will, and sent us down\nto the earth.{0c:2b5309fe}",
+   "en": "{1c:29}The people of Bealphareth planned\nwith care.{1a}First they brought us forth as the\nexecutors of their will, and sent us down\nto the earth.{0c:2b5309fe}",
    "status": "done",
    "tl": "The people of Bealphareth planned with care. // First they brought us forth as the executors of their will, and sent us down to the earth."
   },
@@ -4136,7 +4136,7 @@
    "jp": "{1c:29}私達は、諸民族の雑多な\n価値観を統一するため、\nアノイアという偶像を造った。{1a}私達が生み出した\n架空の人物『アノイア』による\n人間の精神世界の改造は順調に進んだ。{1a}過去の神々は消え去り、\n代わりにゼメンとゼウェアクという\n表情のない絶対神が\n人々の倫理観を支配する。{1a}そして、『完全な神』が全てを占める\n『新しい世界』こそが\n人類の希望であると\n人々の心の奥深い層に植え付け、{1a}人間を従順な神のしもべに\n変えていった。{0c:2b5309fe}",
    "read": "{1c:29}私達は、諸民族の雑多な\n価値観を統一するため、\nアノイアという偶像を造った。{1a}私達が生み出した\n架空の人物『アノイア』による\n人間の精神世界の改造は順調に進んだ。{1a}過去の神々は消え去り、\n代わりにゼメンとゼウェアクという\n表情のない絶対神が\n人々の倫理観を支配する。{1a}そして、『完全な神』が全てを占める\n『新しい世界』こそが\n人類の希望であると\n人々の心の奥深い層に植え付け、{1a}人間を従順な神のしもべに\n変えていった。{0c:2b5309fe}",
    "raw": null,
-   "en": "{1c:29}To unify the motley values of the many\npeoples, we created an idol called Anoia.{1a}Through 'Anoia', a fictional person of our\nmaking, the remaking of humanity's spirit\nworld went smoothly.{1a}The gods of the past vanished, and in\ntheir place Zemen and Zeweak, faceless\nabsolute gods, came to govern people's\nmorals.{1a}Then we planted deep in people's hearts\nthe belief that the 'New World', where\nthe 'Perfect God' fills all things, is the\nhope of humankind,{1a}and turned mankind into obedient\nservants of God.{0c:2b5309fe}",
+   "en": "{1c:29}To unify the motley values of the many\npeoples, we created an idol called Anoia.{1a}Through 'Anoia', a fictional person of our\nmaking, the remaking of humanity's spirit\nworld went smoothly.{1a}The gods of the past vanished, and in\ntheir place Zemen and Zeweak, faceless\nabsolute gods, came to govern\npeople's morals.{1a}Then we planted deep in people's hearts\nthe belief that the 'New World', where\nthe 'Perfect God' fills all things, is the\nhope of humankind,{1a}and turned mankind into obedient\nservants of God.{0c:2b5309fe}",
    "status": "done",
    "tl": "To unify the motley values of the many peoples, we created an idol called Anoia. // Through 'Anoia', a fictional person of our making, the remaking of humanity's spirit world went smoothly. // The gods of the past vanished, and in their place Zemen and Zeweak, faceless absolute gods, came to govern people's morals. // Then we planted deep in people's hearts the belief that the 'New World', where the 'Perfect God' fills all things, is the hope of humankind, // and turned mankind into obedient servants of God."
   },
@@ -4148,7 +4148,7 @@
    "jp": "{1c:28}『人々の神を求める声』\n『復讐と怒りを司る魔物』\n『第二の預言者の誕生』・・・{1a}そう・・・\nアノイアの聖書に記されている\n『新しい世界』へのあらすじもまた、\n1万年前から定められていたのだ。{1a}私達はそれをなぞって\n歴史を陰から操作してきた・・・{0c:2b5309fe}",
    "read": "{1c:28}『人々の神を求める声』\n『復讐と怒りを司る魔物』\n『第二の預言者の誕生』・・・{1a}そう・・・\nアノイアの聖書に記されている\n『新しい世界』へのあらすじもまた、\n1万年前から定められていたのだ。{1a}私達はそれをなぞって\n歴史を陰から操作してきた・・・{0c:2b5309fe}",
    "raw": null,
-   "en": "{1c:28}'The people's voice crying out for God.'\n'The monster who rules over vengeance\nand wrath.' 'The birth of the second\nProphet.'...{1a}Yes... The outline of the road to the\n'New World' written in the Scriptures of\nAnoia was also fixed ten thousand years\nago.{1a}We have traced it, steering history from\nthe shadows...{0c:2b5309fe}",
+   "en": "{1c:28}'The people's voice crying out for God.'\n'The monster who rules over vengeance\nand wrath.' 'The birth of the\nsecond Prophet.'...{1a}Yes... The outline of the road to the\n'New World' written in the Scriptures of\nAnoia was also fixed ten thousand\nyears ago.{1a}We have traced it, steering history from\nthe shadows...{0c:2b5309fe}",
    "status": "done",
    "tl": "'The people's voice crying out for God.' 'The monster who rules over vengeance and wrath.' 'The birth of the second Prophet.'... // Yes... The outline of the road to the 'New World' written in the Scriptures of Anoia was also fixed ten thousand years ago. // We have traced it, steering history from the shadows..."
   },
@@ -4229,7 +4229,7 @@
    "jp": "{1c:18}{0b:08}【 アーサー 】{0b:09}\n僕の思い違いだろうか・・・\n僕にはあなた達が死に場所を\n探しているようにしか見えない・・・{1a}{0c:52ff61ff69}聖者アヴァダイル、\n今度こそ本当のことを教えて下さい。{1a}{0c:52ff71ff79}どうして{10}を\nこの地に呼んだのですか?\nあなた達は一体何者なんですか?{0c:021101}",
    "read": "{1c:18}{0b:08}【 アーサー 】{0b:09}\n僕の思い違いだろうか・・・\n僕にはあなた達が死に場所を\n探しているようにしか見えない・・・{1a}{0c:52ff61ff69}聖者アヴァダイル、\n今度こそ本当のことを教えて下さい。{1a}{0c:52ff71ff79}どうして{10}を\nこの地に呼んだのですか?\nあなた達は一体何者なんですか?{0c:021101}",
    "raw": null,
-   "en": "{1c:18}{0b:08}【 Arthur 】{0b:09}\nAm I mistaken...? To me, this looks like\nnothing but your search for a place to\ndie...{1a}{0c:52ff61ff69}Saint Avadail, this time, please tell us\nthe truth.{1a}{0c:52ff71ff79}Why did you call {10} to this land?\nWhat in the world are you?{0c:021101}",
+   "en": "{1c:18}{0b:08}【 Arthur 】{0b:09}\nAm I mistaken...? To me, this looks like\nnothing but your search for a place\nto die...{1a}{0c:52ff61ff69}Saint Avadail, this time, please tell us\nthe truth.{1a}{0c:52ff71ff79}Why did you call {10} to this land?\nWhat in the world are you?{0c:021101}",
    "status": "done",
    "tl": "Am I mistaken...? To me, this looks like nothing but your search for a place to die... // [1]Saint Avadail, this time, please tell us the truth. // [2]Why did you call [HERO] to this land? What in the world are you?"
   },
@@ -4241,7 +4241,7 @@
    "jp": "{0b:08}【 レイア 】{0b:09}\nこれは私の思い違いか・・・?\n私にはお前達が死に場所を\n探しているようにしか見えない・・・{1a}{0c:52ff61ff69}最後の十三聖者よ、\n今度こそ本当の事を教えてくれ。{1a}{0c:52ff71ff79}どうして{10}を\nこの始原の地に呼んだのだ?\nお前達は一体何者なんだ?{0c:021001}",
    "read": "{0b:08}【 レイア 】{0b:09}\nこれは私の思い違いか・・・?\n私にはお前達が死に場所を\n探しているようにしか見えない・・・{1a}{0c:52ff61ff69}最後の十三聖者よ、\n今度こそ本当の事を教えてくれ。{1a}{0c:52ff71ff79}どうして{10}を\nこの始原の地に呼んだのだ?\nお前達は一体何者なんだ?{0c:021001}",
    "raw": null,
-   "en": "{0b:08}【 Leia 】{0b:09}\nAm I mistaken...? To me, this looks like\nnothing but your search for a place to\ndie...{1a}{0c:52ff61ff69}Last of the Thirteen Saints, tell me the\ntruth this time.{1a}{0c:52ff71ff79}Why did you call {10} to this Land\nof Origin? What are you?{0c:021001}",
+   "en": "{0b:08}【 Leia 】{0b:09}\nAm I mistaken...? To me, this looks like\nnothing but your search for a place\nto die...{1a}{0c:52ff61ff69}Last of the Thirteen Saints, tell me the\ntruth this time.{1a}{0c:52ff71ff79}Why did you call {10} to this Land\nof Origin? What are you?{0c:021001}",
    "status": "done",
    "tl": "Am I mistaken...? To me, this looks like nothing but your search for a place to die... // [1]Last of the Thirteen Saints, tell me the truth this time. // [2]Why did you call [HERO] to this Land of Origin? What are you?"
   },
@@ -4265,7 +4265,7 @@
    "jp": "{1c:11}{0b:08}【 パスカ 】{0b:09}\nこれはオレの思い違いか・・・?\nオレにはあんた達が死に場所を\n探していたようにしか見えない・・・{1a}{0c:52ff61ff69}今度こそ本当の事を教えてくれ。\n{0c:52ff71ff79}あんたはどうして\n{10}を呼んだんだ?\nあんた達は一体何者なんだ?{0c:020e01}",
    "read": "{1c:11}{0b:08}【 パスカ 】{0b:09}\nこれはオレの思い違いか・・・?\nオレにはあんた達が死に場所を\n探していたようにしか見えない・・・{1a}{0c:52ff61ff69}今度こそ本当の事を教えてくれ。\n{0c:52ff71ff79}あんたはどうして\n{10}を呼んだんだ?\nあんた達は一体何者なんだ?{0c:020e01}",
    "raw": null,
-   "en": "{1c:11}{0b:08}【 Pasca 】{0b:09}\nAm I gettin' this wrong...? Looks to me\nlike you people were just lookin' for a\nplace to die...{1a}{0c:52ff61ff69}Tell us the truth this time. {0c:52ff71ff79}Why'd ya call\n{10} here? What the hell are you\npeople?{0c:020e01}",
+   "en": "{1c:11}{0b:08}【 Pasca 】{0b:09}\nAm I gettin' this wrong...? Looks to me\nlike you people were just lookin' for a\nplace to die...{1a}{0c:52ff61ff69}Tell us the truth this time. {0c:52ff71ff79}Why'd ya call\n{10} here? What the hell are\nyou people?{0c:020e01}",
    "status": "done",
    "tl": "Am I gettin' this wrong...? Looks to me like you people were just lookin' for a place to die... // [1]Tell us the truth this time. [2]Why'd ya call [HERO] here? What the hell are you people?"
   },
@@ -4336,7 +4336,7 @@
    "jp": "{1c:27}{0b:08}【 オルフェウス 】{0b:09}\nやはりあなた方は死に場所を\n探していたのですね。{1a}{0c:52ff71ff79}最後の聖者さん、\n今度こそ教えて下さい。{1a}{0c:52ff61ff69}どうして{10}さんを\n始原の地に呼んだのですか?\nあなた達は一体何者なんですか?{0c:020801}",
    "read": "{1c:27}{0b:08}【 オルフェウス 】{0b:09}\nやはりあなた方は死に場所を\n探していたのですね。{1a}{0c:52ff71ff79}最後の聖者さん、\n今度こそ教えて下さい。{1a}{0c:52ff61ff69}どうして{10}さんを\n始原の地に呼んだのですか?\nあなた達は一体何者なんですか?{0c:020801}",
    "raw": null,
-   "en": "{1c:27}{0b:08}【 Orpheus 】{0b:09}\nSo you were seeking a place to die after\nall.{1a}{0c:52ff71ff79}Dear last Saint, do tell us this time.{1a}{0c:52ff61ff69}Why did you call {10}-san to the\nLand of Origin? What in the world are\nyou?{0c:020801}",
+   "en": "{1c:27}{0b:08}【 Orpheus 】{0b:09}\nSo you were seeking a place to die\nafter all.{1a}{0c:52ff71ff79}Dear last Saint, do tell us this time.{1a}{0c:52ff61ff69}Why did you call {10}-san to the\nLand of Origin? What in the world\nare you?{0c:020801}",
    "status": "done",
    "tl": "So you were seeking a place to die after all. // [1]Dear last Saint, do tell us this time. // [2]Why did you call [HERO]-san to the Land of Origin? What in the world are you?"
   },
@@ -4360,7 +4360,7 @@
    "jp": "{0c:52ff71ff79}{0b:08}【 ディアス 】{0b:09}\n聖者アヴァダイル・・・\n今度こそ本当の事を聞かせろ。{1a}何の為に{10}を\nこの始原の地に呼んだ?\n貴様等は一体何者だ?{0c:020601}",
    "read": "{0c:52ff71ff79}{0b:08}【 ディアス 】{0b:09}\n聖者アヴァダイル・・・\n今度こそ本当の事を聞かせろ。{1a}何の為に{10}を\nこの始原の地に呼んだ?\n貴様等は一体何者だ?{0c:020601}",
    "raw": null,
-   "en": "{0c:52ff71ff79}{0b:08}【 Dias 】{0b:09}\nSaint Avadail... This time, let me hear the\ntruth.{1a}For what purpose did you call {10}\nto this Land of Origin? What are you?{0c:020601}",
+   "en": "{0c:52ff71ff79}{0b:08}【 Dias 】{0b:09}\nSaint Avadail... This time, let me hear\nthe truth.{1a}For what purpose did you call {10}\nto this Land of Origin? What are you?{0c:020601}",
    "status": "done",
    "tl": "Saint Avadail... This time, let me hear the truth. // For what purpose did you call [HERO] to this Land of Origin? What are you?"
   },
@@ -4372,7 +4372,7 @@
    "jp": "{0c:52ff61ff69}{1c:1e}{0b:08}【 ノエル 】{0b:09}\n聖者アヴァダイル・・・\n今度こそ本当のことを教えて。{1a}{0c:52ff71ff79}どうして{10}を\nこの始原の地に呼んだの?\nあなた達は一体何者なの?{0c:020501}",
    "read": "{0c:52ff61ff69}{1c:1e}{0b:08}【 ノエル 】{0b:09}\n聖者アヴァダイル・・・\n今度こそ本当のことを教えて。{1a}{0c:52ff71ff79}どうして{10}を\nこの始原の地に呼んだの?\nあなた達は一体何者なの?{0c:020501}",
    "raw": null,
-   "en": "{0c:52ff61ff69}{1c:1e}{0b:08}【 Noel 】{0b:09}\nSaint Avadail... Tell us the truth this\ntime.{1a}{0c:52ff71ff79}Why did you call {10} to this Land\nof Origin? What are you people, really?{0c:020501}",
+   "en": "{0c:52ff61ff69}{1c:1e}{0b:08}【 Noel 】{0b:09}\nSaint Avadail... Tell us the truth\nthis time.{1a}{0c:52ff71ff79}Why did you call {10} to this Land\nof Origin? What are you people, really?{0c:020501}",
    "status": "done",
    "tl": "Saint Avadail... Tell us the truth this time. // [1]Why did you call [HERO] to this Land of Origin? What are you people, really?"
   },
@@ -4408,7 +4408,7 @@
    "jp": "{0c:52ff61ff69}{1c:20}{0b:08}【 ルカ 】{0b:09}\n聖者アヴァダイル、\n今度こそ本当の事を教えて下さい。{1a}{0c:52ff71ff79}どうして{10}さんを\nこの始原の地に呼んだのですか?\nあなた達は一体何者なんですか?{0c:020201}",
    "read": "{0c:52ff61ff69}{1c:20}{0b:08}【 ルカ 】{0b:09}\n聖者アヴァダイル、\n今度こそ本当の事を教えて下さい。{1a}{0c:52ff71ff79}どうして{10}さんを\nこの始原の地に呼んだのですか?\nあなた達は一体何者なんですか?{0c:020201}",
    "raw": null,
-   "en": "{0c:52ff61ff69}{1c:20}{0b:08}【 Luca 】{0b:09}\nSaint Avadail, please tell us the truth\nthis time.{1a}{0c:52ff71ff79}Why did you call {10}-san to this\nLand of Origin? What in the world are\nyou?{0c:020201}",
+   "en": "{0c:52ff61ff69}{1c:20}{0b:08}【 Luca 】{0b:09}\nSaint Avadail, please tell us the truth\nthis time.{1a}{0c:52ff71ff79}Why did you call {10}-san to this\nLand of Origin? What in the world\nare you?{0c:020201}",
    "status": "done",
    "tl": "Saint Avadail, please tell us the truth this time. // [1]Why did you call [HERO]-san to this Land of Origin? What in the world are you?"
   },
@@ -4573,7 +4573,7 @@
    "jp": "{0c:52ff8108}{1c:15}{0b:08}【 ジェシカ 】{0b:09}\nじゃあさ、人の希望から\nあんた達が生まれたって話は\nウソだったの?{0c:020901}",
    "read": "{0c:52ff8108}{1c:15}{0b:08}【 ジェシカ 】{0b:09}\nじゃあさ、人の希望から\nあんた達が生まれたって話は\nウソだったの?{0c:020901}",
    "raw": null,
-   "en": "{0c:52ff8108}{1c:15}{0b:08}【 Jessica 】{0b:09}\nSo hey, that story about you people\nbeing born from human hope, that was a\nlie?{0c:020901}",
+   "en": "{0c:52ff8108}{1c:15}{0b:08}【 Jessica 】{0b:09}\nSo hey, that story about you people\nbeing born from human hope, that was\na lie?{0c:020901}",
    "status": "done",
    "tl": "So hey, that story about you people being born from human hope, that was a lie?"
   },
@@ -4692,7 +4692,7 @@
    "jp": "{1c:2b}{0b:08}【 聖者アヴァダイル 】{0b:09}\nそれは嘘ではない・・・{1a}私達の創造主、\nベアルファレスの民の意志は\n人々の希望の実現にあった。{0c:fe}",
    "read": "{1c:2b}{0b:08}【 聖者アヴァダイル 】{0b:09}\nそれは嘘ではない・・・{1a}私達の創造主、\nベアルファレスの民の意志は\n人々の希望の実現にあった。{0c:fe}",
    "raw": null,
-   "en": "{1c:2b}{0b:08}【 Saint Avadail 】{0b:09}\nThat was no lie...{1a}The will of our creators, the people of\nBealphareth, lay in making people's hopes\nreal.{0c:fe}",
+   "en": "{1c:2b}{0b:08}【 Saint Avadail 】{0b:09}\nThat was no lie...{1a}The will of our creators, the people of\nBealphareth, lay in making people's\nhopes real.{0c:fe}",
    "status": "done",
    "tl": "That was no lie... // The will of our creators, the people of Bealphareth, lay in making people's hopes real."
   },
@@ -4941,7 +4941,7 @@
    "jp": "{1c:2b}{0b:08}【 聖者アヴァダイル 】{0b:09}\nいや・・・{1a}君達がどう否定しようと、\n人々の希望は、\n肉体と霊魂の境界のない\n老いも死もない永遠の世界にある。{1a}人々は他者と違うものを排除し、\n他人に理解されない事に不安を感じ、\n死や病の影に怯え生きている。{1a}1万年前も、そして今も、\n人間の本質は\n何ら変わっていない・・・{1a}そう・・・\n変わってしまったのは私達だ・・・{0c:fe}",
    "read": "{1c:2b}{0b:08}【 聖者アヴァダイル 】{0b:09}\nいや・・・{1a}君達がどう否定しようと、\n人々の希望は、\n肉体と霊魂の境界のない\n老いも死もない永遠の世界にある。{1a}人々は他者と違うものを排除し、\n他人に理解されない事に不安を感じ、\n死や病の影に怯え生きている。{1a}1万年前も、そして今も、\n人間の本質は\n何ら変わっていない・・・{1a}そう・・・\n変わってしまったのは私達だ・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:2b}{0b:08}【 Saint Avadail 】{0b:09}\nNo...{1a}However you may deny it, people's hope\nlies in an Eternal World, with no border\nbetween flesh and soul, with neither age\nnor death.{1a}People cast out whoever differs from\nthem, fear not being understood, and live\ncowering in the shadow of death and\nsickness.{1a}Ten thousand years ago and now alike,\nhuman nature has not changed at all...{1a}Yes... It is we who have changed...{0c:fe}",
+   "en": "{1c:2b}{0b:08}【 Saint Avadail 】{0b:09}\nNo...{1a}However you may deny it, people's hope\nlies in an Eternal World, with no border\nbetween flesh and soul, with neither age\nnor death.{1a}People cast out whoever differs from\nthem, fear not being understood, and live\ncowering in the shadow of death\nand sickness.{1a}Ten thousand years ago and now alike,\nhuman nature has not changed at all...{1a}Yes... It is we who have changed...{0c:fe}",
    "status": "done",
    "tl": "No... // However you may deny it, people's hope lies in an Eternal World, with no border between flesh and soul, with neither age nor death. // People cast out whoever differs from them, fear not being understood, and live cowering in the shadow of death and sickness. // Ten thousand years ago and now alike, human nature has not changed at all... // Yes... It is we who have changed..."
   },
@@ -5451,7 +5451,7 @@
    "jp": "{1c:2c}{0b:08}【 聖者アヴァダイル 】{0b:09}\n永遠のように繰り返す死と再生・・・{1a}神に定められた役目を終える時まで、\n人々の希望が全て満たされるまで、\n私達がこの世界から\n消えることは許されない・・・{07:14}{1a}私達は、\n自分達の使命に誇りを持ちつつ、\n同時に自分達の使命を呪った。{07:05}{1a}そう・・・{07:14}\n私達は、神の楽園を守りながら、\nその一方で悪魔の到来を望んでいた。{07:05}{0c:fe}",
    "read": "{1c:2c}{0b:08}【 聖者アヴァダイル 】{0b:09}\n永遠のように繰り返す死と再生・・・{1a}神に定められた役目を終える時まで、\n人々の希望が全て満たされるまで、\n私達がこの世界から\n消えることは許されない・・・{07:14}{1a}私達は、\n自分達の使命に誇りを持ちつつ、\n同時に自分達の使命を呪った。{07:05}{1a}そう・・・{07:14}\n私達は、神の楽園を守りながら、\nその一方で悪魔の到来を望んでいた。{07:05}{0c:fe}",
    "raw": null,
-   "en": "{1c:2c}{0b:08}【 Saint Avadail 】{0b:09}\nDeath and rebirth, repeating as if\nforever...{1a}Until the day we complete the role God\ndecreed, until every hope of humankind is\nfulfilled, we are not permitted to vanish\nfrom this world...{07:14}{1a}We took pride in our mission, and in the\nsame breath cursed it.{07:05}{1a}Yes...{07:14} Even as we guarded God's\nparadise, we longed for the coming of\nthe Devil.{07:05}{0c:fe}",
+   "en": "{1c:2c}{0b:08}【 Saint Avadail 】{0b:09}\nDeath and rebirth, repeating as\nif forever...{1a}Until the day we complete the role God\ndecreed, until every hope of humankind is\nfulfilled, we are not permitted to vanish\nfrom this world...{07:14}{1a}We took pride in our mission, and in the\nsame breath cursed it.{07:05}{1a}Yes...{07:14} Even as we guarded God's\nparadise, we longed for the coming of\nthe Devil.{07:05}{0c:fe}",
    "status": "done",
    "tl": "Death and rebirth, repeating as if forever... // Until the day we complete the role God decreed, until every hope of humankind is fulfilled, we are not permitted to vanish from this world...[1] // We took pride in our mission, and in the same breath cursed it.[2] // Yes...[3] Even as we guarded God's paradise, we longed for the coming of the Devil."
   },
@@ -5593,7 +5593,7 @@
    "jp": "{1c:27}{0b:08}【 オルフェウス 】{0b:09}\nそれが{10}さんだと?{0c:020801}",
    "read": "{1c:27}{0b:08}【 オルフェウス 】{0b:09}\nそれが{10}さんだと?{0c:020801}",
    "raw": null,
-   "en": "{1c:27}{0b:08}【 Orpheus 】{0b:09}\nAnd that would be {10}-san, you\nsay?{0c:020801}",
+   "en": "{1c:27}{0b:08}【 Orpheus 】{0b:09}\nAnd that would be {10}-san,\nyou say?{0c:020801}",
    "status": "done",
    "tl": "And that would be [HERO]-san, you say?"
   },
@@ -5700,7 +5700,7 @@
    "jp": "{1c:2b}{0b:08}【 聖者アヴァダイル 】{0b:09}\nそしていつしか私達は、\n『永遠の世界』を望まない\n自分自身がいることに気付く・・・{1a}使命を呪ったからだけではない。\n人を、そして世界を知るうちに、\nいつしか、この世界にも価値があると\n思い始めていたのだ。{1a}それはアノイア教にも\n反映されている・・・{1a}アノイアの二大神\nゼメンとゼウェアクは\n私達の葛藤する2つの感情が\n生んだ神でもあった・・・{1a}使命のために殉じる心と\n永遠に繰り返す輪廻に絶望する\n2つの心の葛藤・・・{1a}『永遠の世界』を信じる心と、\n『現在の世界』を肯定する\n2つの心の葛藤・・・{1a}結局、その答は見つからなかった。{1a}だが君達は、私達が1万年かけても\n導き出せなかった答に\n自分達の力だけで辿り着いた・・・\n{0c:2b5309fe}",
    "read": "{1c:2b}{0b:08}【 聖者アヴァダイル 】{0b:09}\nそしていつしか私達は、\n『永遠の世界』を望まない\n自分自身がいることに気付く・・・{1a}使命を呪ったからだけではない。\n人を、そして世界を知るうちに、\nいつしか、この世界にも価値があると\n思い始めていたのだ。{1a}それはアノイア教にも\n反映されている・・・{1a}アノイアの二大神\nゼメンとゼウェアクは\n私達の葛藤する2つの感情が\n生んだ神でもあった・・・{1a}使命のために殉じる心と\n永遠に繰り返す輪廻に絶望する\n2つの心の葛藤・・・{1a}『永遠の世界』を信じる心と、\n『現在の世界』を肯定する\n2つの心の葛藤・・・{1a}結局、その答は見つからなかった。{1a}だが君達は、私達が1万年かけても\n導き出せなかった答に\n自分達の力だけで辿り着いた・・・\n{0c:2b5309fe}",
    "raw": null,
-   "en": "{1c:2b}{0b:08}【 Saint Avadail 】{0b:09}\nAnd at some point we realized that we\nourselves did not wish for the 'Eternal\nWorld'...{1a}It was not only because we cursed our\nmission. As we came to know people, and\nthe world, we had at some point begun\nto think that this world too had worth.{1a}That is reflected in the Anoian faith as\nwell...{1a}Anoia's Two Supreme Gods, Zemen and\nZeweak, were also gods born of our two\nwarring feelings...{1a}The strife of two hearts: one that\nwould die for the mission, one that\ndespaired of the cycle of reincarnation\nrepeating forever...{1a}The strife of two hearts: one that\nbelieved in the 'Eternal World', one that\naffirmed the 'Present World'...{1a}In the end, we never found the answer.{1a}But you have reached, by your own\nstrength alone, the answer we could not\ndraw out in ten thousand years...\n{0c:2b5309fe}",
+   "en": "{1c:2b}{0b:08}【 Saint Avadail 】{0b:09}\nAnd at some point we realized that we\nourselves did not wish for the\n'Eternal World'...{1a}It was not only because we cursed our\nmission. As we came to know people, and\nthe world, we had at some point begun\nto think that this world too had worth.{1a}That is reflected in the Anoian faith\nas well...{1a}Anoia's Two Supreme Gods, Zemen and\nZeweak, were also gods born of our two\nwarring feelings...{1a}The strife of two hearts: one that\nwould die for the mission, one that\ndespaired of the cycle of reincarnation\nrepeating forever...{1a}The strife of two hearts: one that\nbelieved in the 'Eternal World', one that\naffirmed the 'Present World'...{1a}In the end, we never found the answer.{1a}But you have reached, by your own\nstrength alone, the answer we could not\ndraw out in ten thousand years...\n{0c:2b5309fe}",
    "status": "done",
    "tl": "And at some point we realized that we ourselves did not wish for the 'Eternal World'... // It was not only because we cursed our mission. As we came to know people, and the world, we had at some point begun to think that this world too had worth. // That is reflected in the Anoian faith as well... // Anoia's Two Supreme Gods, Zemen and Zeweak, were also gods born of our two warring feelings... // The strife of two hearts: one that would die for the mission, one that despaired of the cycle of reincarnation repeating forever... // The strife of two hearts: one that believed in the 'Eternal World', one that affirmed the 'Present World'... // In the end, we never found the answer. // But you have reached, by your own strength alone, the answer we could not draw out in ten thousand years..."
   },
@@ -5771,7 +5771,7 @@
    "jp": "{0b:08}【 エレアノール 】{0b:09}\nいえ・・・\n自分の力だけで乗り越えてきた\nわけではありません・・・{1a}ここまで来ることが出来たのは、\n{10}が、仲間達が\n私を支えてくれたから・・・{0c:020f01}",
    "read": "{0b:08}【 エレアノール 】{0b:09}\nいえ・・・\n自分の力だけで乗り越えてきた\nわけではありません・・・{1a}ここまで来ることが出来たのは、\n{10}が、仲間達が\n私を支えてくれたから・・・{0c:020f01}",
    "raw": null,
-   "en": "{0b:08}【 Eleanor 】{0b:09}\nNo... I did not overcome all this by my own\nstrength alone...{1a}That I could come this far is because\n{10} and my companions supported\nme...{0c:020f01}",
+   "en": "{0b:08}【 Eleanor 】{0b:09}\nNo... I did not overcome all this by my own\nstrength alone...{1a}That I could come this far is because\n{10} and my companions\nsupported me...{0c:020f01}",
    "status": "done",
    "tl": "No... I did not overcome all this by my own strength alone... // That I could come this far is because [HERO] and my companions supported me..."
   },
@@ -5819,7 +5819,7 @@
    "jp": "{0b:08}【 シャルン 】{0b:09}\nううん、あたし1人じゃ\n何も乗り越えられなかった。\n{10}がいてくれたからだよ。{0c:020b01}",
    "read": "{0b:08}【 シャルン 】{0b:09}\nううん、あたし1人じゃ\n何も乗り越えられなかった。\n{10}がいてくれたからだよ。{0c:020b01}",
    "raw": null,
-   "en": "{0b:08}【 Scharn 】{0b:09}\nNo, no, I couldn't have overcome anything\non my own! It's because {10} was\nthere!{0c:020b01}",
+   "en": "{0b:08}【 Scharn 】{0b:09}\nNo, no, I couldn't have overcome anything\non my own! It's because {10}\nwas there!{0c:020b01}",
    "status": "done",
    "tl": "No, no, I couldn't have overcome anything on my own! It's because [HERO] was there!"
   },
@@ -5842,7 +5842,7 @@
    "jp": "{0b:08}【 ジェシカ 】{0b:09}\n話がいまいちわかんないんだけど、\n一応ほめてくれてるんだよね。{1a}でも、そんなに\nたいしたコトはしてないよ。{0c:020901}",
    "read": "{0b:08}【 ジェシカ 】{0b:09}\n話がいまいちわかんないんだけど、\n一応ほめてくれてるんだよね。{1a}でも、そんなに\nたいしたコトはしてないよ。{0c:020901}",
    "raw": null,
-   "en": "{0b:08}【 Jessica 】{0b:09}\nI don't totally get what you're on about,\nbut I guess you're praising us, huh?{1a}Still, I didn't do anything that big, you\nknow.{0c:020901}",
+   "en": "{0b:08}【 Jessica 】{0b:09}\nI don't totally get what you're on about,\nbut I guess you're praising us, huh?{1a}Still, I didn't do anything that big,\nyou know.{0c:020901}",
    "status": "done",
    "tl": "I don't totally get what you're on about, but I guess you're praising us, huh? // Still, I didn't do anything that big, you know."
   },
@@ -5961,7 +5961,7 @@
    "jp": "{1c:2c}{0b:08}【 聖者アヴァダイル 】{0b:09}\nあと数刻後に\n精神世界と物質世界の融合の\n最後の段階が始まる・・・{1a}その前に、私の最後の力で\n君達を神の世界に送り込む。{0c:2b50235128}{0c:2b512c2351ff91}{0c:2b522c2351ff91}{0c:fe}",
    "read": "{1c:2c}{0b:08}【 聖者アヴァダイル 】{0b:09}\nあと数刻後に\n精神世界と物質世界の融合の\n最後の段階が始まる・・・{1a}その前に、私の最後の力で\n君達を神の世界に送り込む。{0c:2b50235128}{0c:2b512c2351ff91}{0c:2b522c2351ff91}{0c:fe}",
    "raw": null,
-   "en": "{1c:2c}{0b:08}【 Saint Avadail 】{0b:09}\nA short while from now, the final stage\nof the fusion of the spirit world and the\nmaterial world will begin...{1a}Before it does, I will use the last of my\nstrength to send you into the world of\nGod.{0c:2b50235128}{0c:2b512c2351ff91}{0c:2b522c2351ff91}{0c:fe}",
+   "en": "{1c:2c}{0b:08}【 Saint Avadail 】{0b:09}\nA short while from now, the final stage\nof the fusion of the spirit world and the\nmaterial world will begin...{1a}Before it does, I will use the last of my\nstrength to send you into the world\nof God.{0c:2b50235128}{0c:2b512c2351ff91}{0c:2b522c2351ff91}{0c:fe}",
    "status": "done",
    "tl": "A short while from now, the final stage of the fusion of the spirit world and the material world will begin... // Before it does, I will use the last of my strength to send you into the world of God."
   },
@@ -6067,7 +6067,7 @@
    "jp": "これが1万年前の神様・・・?",
    "read": "これが1万年前の神様・・・?",
    "raw": null,
-   "en": "This is the god from ten thousand years\nago...?",
+   "en": "This is the god from ten thousand\nyears ago...?",
    "status": "done",
    "tl": "This is the god from ten thousand years ago...?"
   },

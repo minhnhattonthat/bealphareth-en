@@ -166,7 +166,7 @@
    "jp": "{1c:12}{0b:08}{e080} アッシュ {e081}{0b:09}\nここが『{e082}の{e083}{e084}』か・・・{1a}となりの建物とくらべると\nちょっと地味だよな。{1a}ところで『{e083}{e084}』って\nどういう意味なんだろう・・・{0c:020d01}",
    "read": "{1c:12}{0b:08}【 アッシュ 】{0b:09}\nここが『西の斎殿』か・・・{1a}となりの建物とくらべると\nちょっと地味だよな。{1a}ところで『斎殿』って\nどういう意味なんだろう・・・{0c:020d01}",
    "raw": null,
-   "en": "{1c:12}{0b:08}【 Ash 】{0b:09}\nSo this is the 'West Sanctum'...{1a}It's kinda plain compared to the building\nnext door, I guess.{1a}By the way, what's 'sanctum' mean,\nanyway...{0c:020d01}",
+   "en": "{1c:12}{0b:08}【 Ash 】{0b:09}\nSo this is the 'West Sanctum'...{1a}It's kinda plain compared to the building\nnext door, I guess.{1a}By the way, what's 'sanctum'\nmean, anyway...{0c:020d01}",
    "status": "done",
    "tl": "So this is the 'West Sanctum'... // It's kinda plain compared to the building next door, I guess. // By the way, what's 'sanctum' mean, anyway..."
   },
@@ -212,7 +212,7 @@
    "jp": "{1c:19}{0b:08}{e080} エレアノール {e081}{0b:09}\nここが『{e082}の{e083}{e084}』ですか・・・\n初めに見た『第一神{e084}』と比べると\nやや静かな{e093}気が流れていますね。{1a}『{e083}{e084}』とは神事を前にした神{e094}が\n心身を清める場所・・・\nこの静かな雰{e097}気から付けられた\n{e098}前なのでしょうか。{0c:020901}",
    "read": "{1c:19}{0b:08}【 エレアノール 】{0b:09}\nここが『西の斎殿』ですか・・・\n初めに見た『第一神殿』と比べると\nやや静かな空気が流れていますね。{1a}『斎殿』とは神事を前にした神官が\n心身を清める場所・・・\nこの静かな雰囲気から付けられた\n名前なのでしょうか。{0c:020901}",
    "raw": null,
-   "en": "{1c:19}{0b:08}【 Eleanor 】{0b:09}\nSo this is the 'West Sanctum'...\nCompared with the 'First Temple' we\nsaw first, the air here is rather still.{1a}A sanctum is where priests purify body\nand mind before a sacred rite... Might\nthis name have come from its quiet\natmosphere?{0c:020901}",
+   "en": "{1c:19}{0b:08}【 Eleanor 】{0b:09}\nSo this is the 'West Sanctum'...\nCompared with the 'First Temple' we\nsaw first, the air here is rather still.{1a}A sanctum is where priests purify body\nand mind before a sacred rite... Might\nthis name have come from its\nquiet atmosphere?{0c:020901}",
    "status": "done",
    "tl": "So this is the 'West Sanctum'... Compared with the 'First Temple' we saw first, the air here is rather still. // A sanctum is where priests purify body and mind before a sacred rite... Might this name have come from its quiet atmosphere?"
   },
@@ -742,7 +742,7 @@
    "jp": "{1c:17}{0b:08}{e080} レイア {e081}{0b:09}\nそれぞれの{e083}{e084}には、{1a}一定{e08a}{e08b}に人間が近づくと\nその人間に対し{e08c}{e08d}してくる\nトゲの付いた{e08e}があるらしい。{1a}その{e08e}は{e08f}撃を{e090}えると\n動きを止めることができ、\nそして、その{e08e}を利用しなければ\n{e091}に進めない{e083}{e084}もあるとの事だ。{0c:fe}",
    "read": "{1c:17}{0b:08}【 レイア 】{0b:09}\nそれぞれの斎殿には、{1a}一定距離に人間が近づくと\nその人間に対し追尾してくる\nトゲの付いた柱があるらしい。{1a}その柱は電撃を与えると\n動きを止めることができ、\nそして、その柱を利用しなければ\n奥に進めない斎殿もあるとの事だ。{0c:fe}",
    "raw": null,
-   "en": "{1c:17}{0b:08}【 Leia 】{0b:09}\nIt appears that each sanctum{1a}has spiked pillars that give chase to any\nperson who comes within a certain\ndistance.{1a}A shock of lightning will stop such a\npillar, and some sanctums cannot be\ntraversed without making use of them.{0c:fe}",
+   "en": "{1c:17}{0b:08}【 Leia 】{0b:09}\nIt appears that each sanctum{1a}has spiked pillars that give chase to any\nperson who comes within a\ncertain distance.{1a}A shock of lightning will stop such a\npillar, and some sanctums cannot be\ntraversed without making use of them.{0c:fe}",
    "status": "done",
    "tl": "It appears that each sanctum // has spiked pillars that give chase to any person who comes within a certain distance. // A shock of lightning will stop such a pillar, and some sanctums cannot be traversed without making use of them."
   },
@@ -880,7 +880,7 @@
    "jp": "{0c:2b541000}{1c:29}{0b:08}{e080} ルカ {e081}{0b:09}\nトゲの付いた{e08e}ですか・・・\nあれは違うんですよね。{0c:020301}",
    "read": "{0c:2b541000}{1c:29}{0b:08}【 ルカ 】{0b:09}\nトゲの付いた柱ですか・・・\nあれは違うんですよね。{0c:020301}",
    "raw": null,
-   "en": "{0c:2b541000}{1c:29}{0b:08}【 Luca 】{0b:09}\nSpiked pillars... That isn't one of them, is\nit?{0c:020301}",
+   "en": "{0c:2b541000}{1c:29}{0b:08}【 Luca 】{0b:09}\nSpiked pillars... That isn't one of them,\nis it?{0c:020301}",
    "status": "done",
    "tl": "Spiked pillars... That isn't one of them, is it?"
   },
@@ -983,7 +983,7 @@
    "jp": "{1c:17}あの男が・・・パスカが、\nお前なら必ず来ると言っていた。{0c:fe}",
    "read": "{1c:17}あの男が・・・パスカが、\nお前なら必ず来ると言っていた。{0c:fe}",
    "raw": null,
-   "en": "{1c:17}That man... Pasca said you would surely\ncome.{0c:fe}",
+   "en": "{1c:17}That man... Pasca said you would\nsurely come.{0c:fe}",
    "status": "done",
    "tl": "That man... Pasca said you would surely come."
   },
@@ -1188,7 +1188,7 @@
    "jp": "{1c:1e}それにしては準備{e0a2}到ね・・・{1a}ほんと、素直じゃないわね。{0c:020701}",
    "read": "{1c:1e}それにしては準備周到ね・・・{1a}ほんと、素直じゃないわね。{0c:020701}",
    "raw": null,
-   "en": "{1c:1e}You came awfully well prepared for that,\nthough...{1a}Really, you never do admit things, do you,\ndear.{0c:020701}",
+   "en": "{1c:1e}You came awfully well prepared for\nthat, though...{1a}Really, you never do admit things, do\nyou, dear.{0c:020701}",
    "status": "done",
    "tl": "You came awfully well prepared for that, though... // Really, you never do admit things, do you, dear."
   },
@@ -1211,7 +1211,7 @@
    "jp": "{1c:1f}へえ、\n面白いコト言うじゃない。{1a}確かにあなたの言う{e0a4}り、\n誰にも期待されてなければ{1a}他人の期待に応えられなくて\n自分に失望することも、\n他人の期待に応えられなくて\n誰かに失望されることもないものね。 {1a}わからなくもないわ、\nあなたの考え方。\nあたしも他人に期待されるのは\n大嫌いだから。{1a}自分の事で{e0a5}一杯なのに、\n他人の目に映る自分のことまで\n気にして生きるなんて、\n考えただけでもゾッとするわ。{0c:fe}",
    "read": "{1c:1f}へえ、\n面白いコト言うじゃない。{1a}確かにあなたの言う通り、\n誰にも期待されてなければ{1a}他人の期待に応えられなくて\n自分に失望することも、\n他人の期待に応えられなくて\n誰かに失望されることもないものね。 {1a}わからなくもないわ、\nあなたの考え方。\nあたしも他人に期待されるのは\n大嫌いだから。{1a}自分の事で精一杯なのに、\n他人の目に映る自分のことまで\n気にして生きるなんて、\n考えただけでもゾッとするわ。{0c:fe}",
    "raw": null,
-   "en": "{1c:1f}Well now, that's an interesting thing to\nsay.{1a}You're quite right. If no one expects\nanything of you,{1a}you can't be disappointed in yourself for\nfailing someone's hopes, and no one can\nbe disappointed in you for failing theirs.{1a}I can see it, dear, your way of thinking. I\ncan't stand having people expect things\nof me either.{1a}I've got my hands full with myself. To live\nfretting over how I look in other people's\neyes as well... the very thought makes\nme shudder.{0c:fe}",
+   "en": "{1c:1f}Well now, that's an interesting thing\nto say.{1a}You're quite right. If no one expects\nanything of you,{1a}you can't be disappointed in yourself for\nfailing someone's hopes, and no one can\nbe disappointed in you for failing theirs.{1a}I can see it, dear, your way of thinking. I\ncan't stand having people expect things\nof me either.{1a}I've got my hands full with myself. To live\nfretting over how I look in other people's\neyes as well... the very thought makes\nme shudder.{0c:fe}",
    "status": "done",
    "tl": "Well now, that's an interesting thing to say. // You're quite right. If no one expects anything of you, // you can't be disappointed in yourself for failing someone's hopes, and no one can be disappointed in you for failing theirs. // I can see it, dear, your way of thinking. I can't stand having people expect things of me either. // I've got my hands full with myself. To live fretting over how I look in other people's eyes as well... the very thought makes me shudder."
   },
@@ -1257,7 +1257,7 @@
    "jp": "{1c:1e}いい歳して\n{e0a9}愛い言{e0aa}吐くじゃない。{1a}ただの寂しがり{e0ac}さんってわけ?\n鏡見てから答えたら?{1a}ま、素直に答える所は\n嫌いじゃないけど。{0c:fe}",
    "read": "{1c:1e}いい歳して\n可愛い言葉吐くじゃない。{1a}ただの寂しがり屋さんってわけ?\n鏡見てから答えたら?{1a}ま、素直に答える所は\n嫌いじゃないけど。{0c:fe}",
    "raw": null,
-   "en": "{1c:1e}Such a sweet thing to say, at your age.{1a}So you're just a lonely little thing?\nPerhaps look in a mirror before you\nanswer.{1a}Well, I can't say I dislike how honestly you\ncame out with it.{0c:fe}",
+   "en": "{1c:1e}Such a sweet thing to say, at your age.{1a}So you're just a lonely little thing?\nPerhaps look in a mirror before\nyou answer.{1a}Well, I can't say I dislike how honestly you\ncame out with it.{0c:fe}",
    "status": "done",
    "tl": "Such a sweet thing to say, at your age. // So you're just a lonely little thing? Perhaps look in a mirror before you answer. // Well, I can't say I dislike how honestly you came out with it."
   },
@@ -1292,7 +1292,7 @@
    "jp": "{0c:2b502351152b551000}{0c:2b551000}{1c:20}{0b:08}{e080} イヴ {e081}{0b:09}\nえっ、あなたまで・・・?{1a}随分珍しい所で{e086}うわね。\nどういう{e0af}の吹き回し?\n人助けなんてあなたの\n1番嫌いなものじゃないの?{0c:2b5509fe}",
    "read": "{0c:2b502351152b551000}{0c:2b551000}{1c:20}{0b:08}【 イヴ 】{0b:09}\nえっ、あなたまで・・・?{1a}随分珍しい所で会うわね。\nどういう風の吹き回し?\n人助けなんてあなたの\n1番嫌いなものじゃないの?{0c:2b5509fe}",
    "raw": null,
-   "en": "{0c:2b502351152b551000}{0c:2b551000}{1c:20}{0b:08}【 Eve 】{0b:09}\nOh, you too...?{1a}What an unusual place to run into you.\nWhat's changed your tune? I thought\nhelping people was the thing you hated\nmost.{0c:2b5509fe}",
+   "en": "{0c:2b502351152b551000}{0c:2b551000}{1c:20}{0b:08}【 Eve 】{0b:09}\nOh, you too...?{1a}What an unusual place to run into you.\nWhat's changed your tune? I thought\nhelping people was the thing you\nhated most.{0c:2b5509fe}",
    "status": "done",
    "tl": "Oh, you too...? // What an unusual place to run into you. What's changed your tune? I thought helping people was the thing you hated most."
   },
@@ -1304,7 +1304,7 @@
    "jp": "{0c:4c0c1000}{1c:16}{0b:08}{e080} レイア {e081}{0b:09}\n借りがある。\n理由はそれだけだ。{1a}それに2度と\n他人のために動くつもりもない。{0c:4c0c09fe}",
    "read": "{0c:4c0c1000}{1c:16}{0b:08}【 レイア 】{0b:09}\n借りがある。\n理由はそれだけだ。{1a}それに2度と\n他人のために動くつもりもない。{0c:4c0c09fe}",
    "raw": null,
-   "en": "{0c:4c0c1000}{1c:16}{0b:08}【 Leia 】{0b:09}\nI have a debt to repay. That is my only\nreason.{1a}And I have no intention of acting for\nanother's sake ever again.{0c:4c0c09fe}",
+   "en": "{0c:4c0c1000}{1c:16}{0b:08}【 Leia 】{0b:09}\nI have a debt to repay. That is my\nonly reason.{1a}And I have no intention of acting for\nanother's sake ever again.{0c:4c0c09fe}",
    "status": "done",
    "tl": "I have a debt to repay. That is my only reason. // And I have no intention of acting for another's sake ever again."
   },
@@ -1351,7 +1351,7 @@
    "jp": "{1c:1f}{0b:08}{e080} イヴ {e081}{0b:09}\nへえ・・・\n下調べすることの重要さを、\nあなたもやっと学習したのね。{0c:2b5509fe}",
    "read": "{1c:1f}{0b:08}【 イヴ 】{0b:09}\nへえ・・・\n下調べすることの重要さを、\nあなたもやっと学習したのね。{0c:2b5509fe}",
    "raw": null,
-   "en": "{1c:1f}{0b:08}【 Eve 】{0b:09}\nWell, well... So you've finally learned how\nimportant it is to do your homework,\ndear.{0c:2b5509fe}",
+   "en": "{1c:1f}{0b:08}【 Eve 】{0b:09}\nWell, well... So you've finally learned how\nimportant it is to do your\nhomework, dear.{0c:2b5509fe}",
    "status": "done",
    "tl": "Well, well... So you've finally learned how important it is to do your homework, dear."
   },
@@ -1398,7 +1398,7 @@
    "jp": "{1c:17}{0b:08}{e080} レイア {e081}{0b:09}\nそれぞれの{e083}{e084}には、{1a}一定{e08a}{e08b}に人間が近づくと\nその人間に対し{e08c}{e08d}してくる\nトゲの付いた{e08e}があるらしい。{1a}その{e08e}は{e08f}撃を{e090}えると\n動きを止めることができ、\nそして、その{e08e}を利用しなければ\n{e091}に進めない{e083}{e084}もあるとの事だ。{0c:4c0c09fe}",
    "read": "{1c:17}{0b:08}【 レイア 】{0b:09}\nそれぞれの斎殿には、{1a}一定距離に人間が近づくと\nその人間に対し追尾してくる\nトゲの付いた柱があるらしい。{1a}その柱は電撃を与えると\n動きを止めることができ、\nそして、その柱を利用しなければ\n奥に進めない斎殿もあるとの事だ。{0c:4c0c09fe}",
    "raw": null,
-   "en": "{1c:17}{0b:08}【 Leia 】{0b:09}\nIt appears that each sanctum{1a}has spiked pillars that give chase to any\nperson who comes within a certain\ndistance.{1a}A shock of lightning will stop such a\npillar, and some sanctums cannot be\ntraversed without making use of them.{0c:4c0c09fe}",
+   "en": "{1c:17}{0b:08}【 Leia 】{0b:09}\nIt appears that each sanctum{1a}has spiked pillars that give chase to any\nperson who comes within a\ncertain distance.{1a}A shock of lightning will stop such a\npillar, and some sanctums cannot be\ntraversed without making use of them.{0c:4c0c09fe}",
    "status": "done",
    "tl": "It appears that each sanctum // has spiked pillars that give chase to any person who comes within a certain distance. // A shock of lightning will stop such a pillar, and some sanctums cannot be traversed without making use of them."
   },
@@ -1903,7 +1903,7 @@
    "jp": "{1c:00}男の手には血まみれの手紙が\n握りしめられていた。{1a}そして、その手紙の{e0be}には\nこう{e089}かれてあった・・・{1a}「シスター・ティアラに届けてくれ\nこの{e0c0}をこの手紙と{e0c1}に」と。{0c:fe}",
    "read": "{1c:00}男の手には血まみれの手紙が\n握りしめられていた。{1a}そして、その手紙の表には\nこう書かれてあった・・・{1a}「シスター・ティアラに届けてくれ\nこの剣をこの手紙と共に」と。{0c:fe}",
    "raw": null,
-   "en": "{1c:00}Clutched in the man's hand was a\nblood-soaked letter.{1a}And on the face of that letter was\nwritten...{1a}\"Deliver to Sister Tiara, this sword\ntogether with this letter.\"{0c:fe}",
+   "en": "{1c:00}Clutched in the man's hand was a\nblood-soaked letter.{1a}And on the face of that letter\nwas written...{1a}\"Deliver to Sister Tiara, this sword\ntogether with this letter.\"{0c:fe}",
    "status": "done",
    "tl": "Clutched in the man's hand was a blood-soaked letter. // And on the face of that letter was written... // \"Deliver to Sister Tiara, this sword together with this letter.\""
   },

@@ -52,7 +52,7 @@
    "jp": "{1c:16}{0b:08}{e080} エレアノール {e081}{0b:09}\n{10}、ご無事でしたか、\n本当によかった。{1a}それで、あの{e082}は・・・{0c:fe}",
    "read": "{1c:16}{0b:08}【 エレアノール 】{0b:09}\n{10}、ご無事でしたか、\n本当によかった。{1a}それで、あの柱は・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:16}{0b:08}【 Eleanor 】{0b:09}\n{10}, you are unharmed. I am truly\nglad.{1a}And so, that pillar...{0c:fe}",
+   "en": "{1c:16}{0b:08}【 Eleanor 】{0b:09}\n{10}, you are unharmed. I am\ntruly glad.{1a}And so, that pillar...{0c:fe}",
    "status": "done",
    "tl": "[HERO], you are unharmed. I am truly glad. // And so, that pillar..."
   },
@@ -246,7 +246,7 @@
    "jp": "{1c:13}くっ・・・揺れがまた・・・\n話は後だ、早くこの場を逃げよう!{0c:023101}",
    "read": "{1c:13}くっ・・・揺れがまた・・・\n話は後だ、早くこの場を逃げよう!{0c:023101}",
    "raw": null,
-   "en": "{1c:13}Ngh... The shaking again... We can talk\nlater. We have to get out of here,\nquickly!{0c:023101}",
+   "en": "{1c:13}Ngh... The shaking again... We can talk\nlater. We have to get out of\nhere, quickly!{0c:023101}",
    "status": "done",
    "tl": "Ngh... The shaking again... We can talk later. We have to get out of here, quickly!"
   },
@@ -337,7 +337,7 @@
    "jp": "{1c:25}{0b:08}{e080} ノエル {e081}{0b:09}\n{10}、生きてたのね。\nよかった・・・{1a}それで、{e082}の方は?{0c:fe}",
    "read": "{1c:25}{0b:08}【 ノエル 】{0b:09}\n{10}、生きてたのね。\nよかった・・・{1a}それで、柱の方は?{0c:fe}",
    "raw": null,
-   "en": "{1c:25}{0b:08}【 Noel 】{0b:09}\n{10}, you're alive. Thank\ngoodness...{1a}Well, what about the pillar?{0c:fe}",
+   "en": "{1c:25}{0b:08}【 Noel 】{0b:09}\n{10}, you're alive.\nThank goodness...{1a}Well, what about the pillar?{0c:fe}",
    "status": "done",
    "tl": "[HERO], you're alive. Thank goodness... // Well, what about the pillar?"
   },
@@ -360,7 +360,7 @@
    "jp": "{1c:26}話は後で!\n早くこの場を逃げましょ!{0c:022701}",
    "read": "{1c:26}話は後で!\n早くこの場を逃げましょ!{0c:022701}",
    "raw": null,
-   "en": "{1c:26}We'll talk later! Let's get out of here,\nquickly!{0c:022701}",
+   "en": "{1c:26}We'll talk later! Let's get out of\nhere, quickly!{0c:022701}",
    "status": "done",
    "tl": "We'll talk later! Let's get out of here, quickly!"
   },
@@ -417,7 +417,7 @@
    "jp": "{1c:28}ま、また揺れが・・・\nは、早く逃げましょう!!{0c:022201}",
    "read": "{1c:28}ま、また揺れが・・・\nは、早く逃げましょう!!{0c:022201}",
    "raw": null,
-   "en": "{1c:28}A-again it is shaking... Q-quickly, let us\nflee!!{0c:022201}",
+   "en": "{1c:28}A-again it is shaking... Q-quickly, let\nus flee!!{0c:022201}",
    "status": "done",
    "tl": "A-again it is shaking... Q-quickly, let us flee!!"
   },
@@ -565,7 +565,7 @@
    "jp": "{1c:1e}{0b:08}{e080} オルフェウス {e081}{0b:09}\n{10}さん、\n生きてたのですか?\n残念だなあ・・・{1a}いえいえ、こちらの独り言です。\nそれで、{e082}はちゃんと\n壊せたんですか?{0c:fe}",
    "read": "{1c:1e}{0b:08}【 オルフェウス 】{0b:09}\n{10}さん、\n生きてたのですか?\n残念だなあ・・・{1a}いえいえ、こちらの独り言です。\nそれで、柱はちゃんと\n壊せたんですか?{0c:fe}",
    "raw": null,
-   "en": "{1c:1e}{0b:08}【 Orpheus 】{0b:09}\n{10}-san, you are alive? How very\ndisappointing...{1a}No, no, merely talking to myself. And so,\ndid you manage to destroy the pillar as\nyou should?{0c:fe}",
+   "en": "{1c:1e}{0b:08}【 Orpheus 】{0b:09}\n{10}-san, you are alive? How\nvery disappointing...{1a}No, no, merely talking to myself. And so,\ndid you manage to destroy the pillar as\nyou should?{0c:fe}",
    "status": "done",
    "tl": "[HERO]-san, you are alive? How very disappointing... // No, no, merely talking to myself. And so, did you manage to destroy the pillar as you should?"
   },
@@ -657,7 +657,7 @@
    "jp": "{1c:21}{0b:08}{e080} イヴ {e081}{0b:09}\nあら、{10}じゃない。\nお久しぶりね。\nそれで、{e082}の方はちゃんと壊せた?{0c:fe}",
    "read": "{1c:21}{0b:08}【 イヴ 】{0b:09}\nあら、{10}じゃない。\nお久しぶりね。\nそれで、柱の方はちゃんと壊せた?{0c:fe}",
    "raw": null,
-   "en": "{1c:21}{0b:08}【 Eve 】{0b:09}\nWell, if it isn't {10}. Long time no\nsee. So, did you manage to break that\npillar?{0c:fe}",
+   "en": "{1c:21}{0b:08}【 Eve 】{0b:09}\nWell, if it isn't {10}. Long time no\nsee. So, did you manage to break\nthat pillar?{0c:fe}",
    "status": "done",
    "tl": "Well, if it isn't [HERO]. Long time no see. So, did you manage to break that pillar?"
   },

@@ -53,7 +53,7 @@
    "jp": "{1c:10}{0b:08}【 オイゲン 】{0b:09}\n効いてない訳じゃねえ、\nダメージは与えてる!\nあの時だって勝てたんだ!{0c:2b5409fe}",
    "read": "{1c:10}{0b:08}【 オイゲン 】{0b:09}\n効いてない訳じゃねえ、\nダメージは与えてる!\nあの時だって勝てたんだ!{0c:2b5409fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Eugen 】{0b:09}\nIt ain't that it ain't workin'. We're doin'\ndamage! We beat 'em that time, didn't\nwe!{0c:2b5409fe}",
+   "en": "{1c:10}{0b:08}【 Eugen 】{0b:09}\nIt ain't that it ain't workin'. We're doin'\ndamage! We beat 'em that time,\ndidn't we!{0c:2b5409fe}",
    "status": "done",
    "tl": "It ain't that it ain't workin'. We're doin' damage! We beat 'em that time, didn't we!"
   },
@@ -65,7 +65,7 @@
    "jp": "{0b:08}【 盗賊風の男 】{0b:09}\n勝てたって言ってもよ、\nたった4人の凶戦士に\n2百人も殺されたんだぜ・・・{1a}それにあの時互角に戦えたのは\nバルデスの旦那と先生だけだ。{1a}オイゲンの旦那ぁ、あんたにゃ悪いが\nやっぱりオレ達だけじゃ\nとてもじゃねえが敵わねえよ。{0c:fe}",
    "read": "{0b:08}【 盗賊風の男 】{0b:09}\n勝てたって言ってもよ、\nたった4人の凶戦士に\n2百人も殺されたんだぜ・・・{1a}それにあの時互角に戦えたのは\nバルデスの旦那と先生だけだ。{1a}オイゲンの旦那ぁ、あんたにゃ悪いが\nやっぱりオレ達だけじゃ\nとてもじゃねえが敵わねえよ。{0c:fe}",
    "raw": null,
-   "en": "{0b:08}【 Thief-Looking Man 】{0b:09}\nBeat 'em, ya say, but just four\nBerserkers killed two hundred of us...{1a}And the only ones who could fight 'em\neven that time were Mister Valdes and\nthe sensei.{1a}Mister Eugen, no offense to ya, but\nthere's no way we can take 'em by\nourselves.{0c:fe}",
+   "en": "{0b:08}【 Thief-Looking Man 】{0b:09}\nBeat 'em, ya say, but just four\nBerserkers killed two hundred of us...{1a}And the only ones who could fight 'em\neven that time were Mister Valdes and\nthe sensei.{1a}Mister Eugen, no offense to ya, but\nthere's no way we can take 'em\nby ourselves.{0c:fe}",
    "status": "done",
    "tl": "Beat 'em, ya say, but just four Berserkers killed two hundred of us... // And the only ones who could fight 'em even that time were Mister Valdes and the sensei. // Mister Eugen, no offense to ya, but there's no way we can take 'em by ourselves."
   },
@@ -298,7 +298,7 @@
    "jp": "{1c:13}{0b:08}【 オイゲン 】{0b:09}\nそうだ!\n何故とどめを刺さない!?{1a}奴等には可哀想だが、\nああなってしまえば\n殺してやるしか他に道はない!{1a}それに凶戦士はまだ4人も\n残ってるんだぞ!{0c:fe}",
    "read": "{1c:13}{0b:08}【 オイゲン 】{0b:09}\nそうだ!\n何故とどめを刺さない!?{1a}奴等には可哀想だが、\nああなってしまえば\n殺してやるしか他に道はない!{1a}それに凶戦士はまだ4人も\n残ってるんだぞ!{0c:fe}",
    "raw": null,
-   "en": "{1c:13}{0b:08}【 Eugen 】{0b:09}\nThat's right! Why don't ya finish it!?{1a}I pity 'em, but once they've gone like\nthat, killin' 'em's the only way left!{1a}Besides, there's still four Berserkers\nleft!{0c:fe}",
+   "en": "{1c:13}{0b:08}【 Eugen 】{0b:09}\nThat's right! Why don't ya finish it!?{1a}I pity 'em, but once they've gone like\nthat, killin' 'em's the only way left!{1a}Besides, there's still four\nBerserkers left!{0c:fe}",
    "status": "done",
    "tl": "That's right! Why don't ya finish it!? // I pity 'em, but once they've gone like that, killin' 'em's the only way left! // Besides, there's still four Berserkers left!"
   },
@@ -345,7 +345,7 @@
    "jp": "{1c:17}{0b:08}【 不死者ファトゥム 】{0b:09}\n待つだと?\nその間にも確実に\n死体は増えていくだろう。{1a}それに貴様も分かっている筈だ。\n凶戦士を生け捕りにするなど、\n殺すより遙かに困難だということを。{0c:2b5209fe}",
    "read": "{1c:17}{0b:08}【 不死者ファトゥム 】{0b:09}\n待つだと?\nその間にも確実に\n死体は増えていくだろう。{1a}それに貴様も分かっている筈だ。\n凶戦士を生け捕りにするなど、\n殺すより遙かに困難だということを。{0c:2b5209fe}",
    "raw": null,
-   "en": "{1c:17}{0b:08}【 Fatum the Undying 】{0b:09}\nWait? Meanwhile the bodies are sure to\npile up.{1a}And you know it as well as I do. Taking a\nBerserker alive is far harder than killing\none.{0c:2b5209fe}",
+   "en": "{1c:17}{0b:08}【 Fatum the Undying 】{0b:09}\nWait? Meanwhile the bodies are sure to\npile up.{1a}And you know it as well as I do. Taking a\nBerserker alive is far harder than\nkilling one.{0c:2b5209fe}",
    "status": "done",
    "tl": "Wait? Meanwhile the bodies are sure to pile up. // And you know it as well as I do. Taking a Berserker alive is far harder than killing one."
   },

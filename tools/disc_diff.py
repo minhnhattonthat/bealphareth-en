@@ -15,6 +15,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 import extract  # noqa: E402
 import insert  # noqa: E402
+import loose_scan  # noqa: E402
 import res  # noqa: E402
 import sprites  # noqa: E402
 import stills  # noqa: E402
@@ -46,7 +47,7 @@ def runs(a, b):
 
 def check_res(a, b, bad):
     table = res.table(a)
-    ok = {titlelogo.ENTRY, titlelogo.END_ENTRY, insert.SYSTEM_RES}
+    ok = {titlelogo.ENTRY, titlelogo.END_ENTRY, insert.SYSTEM_RES} | {r[0] for r in loose_scan.scan(bytes(a), table)}
     for path in (ROOT / "script").glob("res*.json"):
         ok.add(json.loads(path.read_text(encoding="utf8"))["entry"])
     ok |= {p["entry"] for p in stills.pages()}

@@ -133,7 +133,7 @@
    "jp": "{1c:12}えっ?\n{10}にはこの森が\n見えないのか?{1a}気味の悪い紫{e087}の{e088}?{07:14}\n{0c:51ffffffff541001}一体どういうことだろう・・・{07:07}{0c:fe}",
    "read": "{1c:12}えっ?\n{10}にはこの森が\n見えないのか?{1a}気味の悪い紫色の壁?{07:14}\n{0c:51ffffffff541001}一体どういうことだろう・・・{07:07}{0c:fe}",
    "raw": null,
-   "en": "{1c:12}What? You can't see this forest,\n{10}?{1a}A creepy purple wall?{07:14} {0c:51ffffffff541001}What could that\nmean...{07:07}{0c:fe}",
+   "en": "{1c:12}What? You can't see this\nforest, {10}?{1a}A creepy purple wall?{07:14} {0c:51ffffffff541001}What could\nthat mean...{07:07}{0c:fe}",
    "status": "done",
    "tl": "What? You can't see this forest, [HERO]? // A creepy purple wall?[1] [2]What could that mean..."
   },
@@ -179,7 +179,7 @@
    "jp": "{1c:15}{0b:08}{e080} レイア {e081}{0b:09}\nそんな馬鹿な・・・{1a}何故こんな所に\nブランユの城が・・・{0c:fe}",
    "read": "{1c:15}{0b:08}【 レイア 】{0b:09}\nそんな馬鹿な・・・{1a}何故こんな所に\nブランユの城が・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:15}{0b:08}【 Leia 】{0b:09}\nThat is absurd...{1a}Why would Castle Blanyu be in a place like\nthis...{0c:fe}",
+   "en": "{1c:15}{0b:08}【 Leia 】{0b:09}\nThat is absurd...{1a}Why would Castle Blanyu be in a place\nlike this...{0c:fe}",
    "status": "done",
    "tl": "That is absurd... // Why would Castle Blanyu be in a place like this..."
   },
@@ -271,7 +271,7 @@
    "jp": "{1c:18}紫{e087}の{e088}・・・?{1a}{10}には森が\n見えないのですか?{0c:fe}",
    "read": "{1c:18}紫色の壁・・・?{1a}{10}には森が\n見えないのですか?{0c:fe}",
    "raw": null,
-   "en": "{1c:18}A purple wall...?{1a}Can you not see the forest,\n{10}?{0c:fe}",
+   "en": "{1c:18}A purple wall...?{1a}Can you not see the\nforest, {10}?{0c:fe}",
    "status": "done",
    "tl": "A purple wall...? // Can you not see the forest, [HERO]?"
   },
@@ -742,7 +742,7 @@
    "jp": "{1c:1f}で、君は不気味な紫{e087}の{e088}?\nたかが幻といえども\n君の性格の悪さがにじみ出てますね。{1a}ま、とにかく進みましょうか。\n見えてるものが違うくらいで\nいちいち騒いでては\n神サマの相手などとても出来ません。{1a}{0c:51ffffffff541003}ってなわけで、早速行きましょう。{0c:022c01}",
    "read": "{1c:1f}で、君は不気味な紫色の壁?\nたかが幻といえども\n君の性格の悪さがにじみ出てますね。{1a}ま、とにかく進みましょうか。\n見えてるものが違うくらいで\nいちいち騒いでては\n神サマの相手などとても出来ません。{1a}{0c:51ffffffff541003}ってなわけで、早速行きましょう。{0c:022c01}",
    "raw": null,
-   "en": "{1c:1f}And you see a creepy purple wall, do\nyou? Mere illusion though it may be, your\nfoul disposition does seep through, I\ndaresay.{1a}Well, shall we go on? If we make a fuss\nevery time we see something different,\nwe could hardly take on God.{1a}{0c:51ffffffff541003}And so, let us be off.{0c:022c01}",
+   "en": "{1c:1f}And you see a creepy purple wall, do\nyou? Mere illusion though it may be, your\nfoul disposition does seep through,\nI daresay.{1a}Well, shall we go on? If we make a fuss\nevery time we see something different,\nwe could hardly take on God.{1a}{0c:51ffffffff541003}And so, let us be off.{0c:022c01}",
    "status": "done",
    "tl": "And you see a creepy purple wall, do you? Mere illusion though it may be, your foul disposition does seep through, I daresay. // Well, shall we go on? If we make a fuss every time we see something different, we could hardly take on God. // [1]And so, let us be off."
   },
@@ -938,7 +938,7 @@
    "jp": "紫{e087}の{e088}?\n貴様にはそう見えるのか・・・?{0c:fe}",
    "read": "紫色の壁?\n貴様にはそう見えるのか・・・?{0c:fe}",
    "raw": null,
-   "en": "A purple wall? So that is how you see\nit...?{0c:fe}",
+   "en": "A purple wall? So that is how you\nsee it...?{0c:fe}",
    "status": "done",
    "tl": "A purple wall? So that is how you see it...?"
   },
@@ -1030,7 +1030,7 @@
    "jp": "{1c:24}あたしにはガスニッツの\n町並みに見える。\nあたしの{e0ae}があった\n{e0af}地区の町並みに・・・{07:14}{1a}{0c:51ffffffff541003}つまり、今見てるこの{e09d}景は\nあたし達の心が生み出した\n虚{e097}という訳ね。{1a}じゃあ、あなたの見ている\n紫{e087}の迷{e098}とは\n一体何なのかしら・・・{1a}でも今は思{e0b1}にふける\n余裕はないわね。\n先に進みましょ。{0c:021301}",
    "read": "{1c:24}あたしにはガスニッツの\n町並みに見える。\nあたしの家があった\n東地区の町並みに・・・{07:14}{1a}{0c:51ffffffff541003}つまり、今見てるこの風景は\nあたし達の心が生み出した\n虚像という訳ね。{1a}じゃあ、あなたの見ている\n紫色の迷宮とは\n一体何なのかしら・・・{1a}でも今は思索にふける\n余裕はないわね。\n先に進みましょ。{0c:021301}",
    "raw": null,
-   "en": "{1c:24}To me it looks like the streets of\nGasnitz. The streets of the east\ndistrict, where my house stood...{07:14}{1a}{0c:51ffffffff541003}In other words, this scene we're seeing\nis a Phantom born of our own hearts.{1a}Then what on earth is this purple\nlabyrinth you see, I wonder...{1a}But this is no time for musing. Let's go\non.{0c:021301}",
+   "en": "{1c:24}To me it looks like the streets of\nGasnitz. The streets of the east\ndistrict, where my house stood...{07:14}{1a}{0c:51ffffffff541003}In other words, this scene we're seeing\nis a Phantom born of our own hearts.{1a}Then what on earth is this purple\nlabyrinth you see, I wonder...{1a}But this is no time for musing. Let's\ngo on.{0c:021301}",
    "status": "done",
    "tl": "To me it looks like the streets of Gasnitz. The streets of the east district, where my house stood...[1] // [2]In other words, this scene we're seeing is a Phantom born of our own hearts. // Then what on earth is this purple labyrinth you see, I wonder... // But this is no time for musing. Let's go on."
   },
@@ -1145,7 +1145,7 @@
    "jp": "{1c:28}えっ、紫{e087}の{e088}?{1a}{10}さんにはそんなものが\n見えるのですか?{0c:fe}",
    "read": "{1c:28}えっ、紫色の壁?{1a}{10}さんにはそんなものが\n見えるのですか?{0c:fe}",
    "raw": null,
-   "en": "{1c:28}Eh, a purple wall?{1a}You can see such a thing,\n{10}-san?{0c:fe}",
+   "en": "{1c:28}Eh, a purple wall?{1a}You can see such a\nthing, {10}-san?{0c:fe}",
    "status": "done",
    "tl": "Eh, a purple wall? // You can see such a thing, [HERO]-san?"
   },

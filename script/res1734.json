@@ -52,7 +52,7 @@
    "jp": "{0c:520810}{0b:08}{e080} 偉そうな{e081}士 {e082}{0b:09}\nおい貴様! 早く縄をほどけ!!{0c:2b5509fe}",
    "read": "{0c:520810}{0b:08}【 偉そうな騎士 】{0b:09}\nおい貴様! 早く縄をほどけ!!{0c:2b5509fe}",
    "raw": null,
-   "en": "{0c:520810}{0b:08}【 Haughty Knight 】{0b:09}\nYou there, wretch! Undo these ropes at\nonce!!{0c:2b5509fe}",
+   "en": "{0c:520810}{0b:08}【 Haughty Knight 】{0b:09}\nYou there, wretch! Undo these ropes\nat once!!{0c:2b5509fe}",
    "status": "done",
    "tl": "You there, wretch! Undo these ropes at once!!"
   },
@@ -100,7 +100,7 @@
    "jp": "{0c:2b501000}{0c:51b0}{0b:08}{e080} ローブを着た男 {e082}{0b:09}\nクムラン先生が{e089}{e08a}の中で\nあの{e081}士野郎を捕まえてきたんだ。{1a}{0c:52b8c0}でも不思{e08c}な話だよな。\n一体全体どうして外の人間が\nあの中にいたのか・・・{0c:fe}",
    "read": "{0c:2b501000}{0c:51b0}{0b:08}【 ローブを着た男 】{0b:09}\nクムラン先生が遺跡の中で\nあの騎士野郎を捕まえてきたんだ。{1a}{0c:52b8c0}でも不思議な話だよな。\n一体全体どうして外の人間が\nあの中にいたのか・・・{0c:fe}",
    "raw": null,
-   "en": "{0c:2b501000}{0c:51b0}{0b:08}【 Man in a Robe 】{0b:09}\nQumran-sensei caught that knight\nbastard inside the ruins and brought him\nback.{1a}{0c:52b8c0}Strange thing, though. How in the world\ndid somebody from outside end up in\nthere...{0c:fe}",
+   "en": "{0c:2b501000}{0c:51b0}{0b:08}【 Man in a Robe 】{0b:09}\nQumran-sensei caught that knight\nbastard inside the ruins and brought\nhim back.{1a}{0c:52b8c0}Strange thing, though. How in the world\ndid somebody from outside end up\nin there...{0c:fe}",
    "status": "done",
    "tl": "Qumran-sensei caught that knight bastard inside the ruins and brought him back. // [1]Strange thing, though. How in the world did somebody from outside end up in there..."
   },
@@ -323,7 +323,7 @@
    "jp": "{0c:528890}{0b:08}{e080} 偉そうな{e081}士 {e082}{0b:09}\nそう、進軍中の我らの前に\n美しい{e0b4}使が舞い{e0ba}りたのだ。{1a}そして{e0b4}使は我{e099}の心に\n直接語りかけた・・・{1a}『聖なる戦士達よ、\n神に背く者どもを殺せ』\n『始原の地への{e0be}を守れ』とな。{1a}気付いた時にはあの場所にいた。{0c:2b5509fe}",
    "read": "{0c:528890}{0b:08}【 偉そうな騎士 】{0b:09}\nそう、進軍中の我らの前に\n美しい天使が舞い降りたのだ。{1a}そして天使は我々の心に\n直接語りかけた・・・{1a}『聖なる戦士達よ、\n神に背く者どもを殺せ』\n『始原の地への門を守れ』とな。{1a}気付いた時にはあの場所にいた。{0c:2b5509fe}",
    "raw": null,
-   "en": "{0c:528890}{0b:08}【 Haughty Knight 】{0b:09}\nYes. As we marched, a beautiful angel\ndescended before us.{1a}And the angel spoke directly into our\nhearts...{1a}'Holy warriors, slay those who defy God.'\n'Guard the gate to the Land of Origin.'{1a}When we came to, we were in that place.{0c:2b5509fe}",
+   "en": "{0c:528890}{0b:08}【 Haughty Knight 】{0b:09}\nYes. As we marched, a beautiful angel\ndescended before us.{1a}And the angel spoke directly into\nour hearts...{1a}'Holy warriors, slay those who defy God.'\n'Guard the gate to the Land of Origin.'{1a}When we came to, we were in that place.{0c:2b5509fe}",
    "status": "done",
    "tl": "Yes. As we marched, a beautiful angel descended before us. // And the angel spoke directly into our hearts... // 'Holy warriors, slay those who defy God.' 'Guard the gate to the Land of Origin.' // When we came to, we were in that place."
   },
@@ -335,7 +335,7 @@
    "jp": "{0c:523840}{1c:11}{0b:08}{e080} オイゲン {e082}{0b:09}\n聖なる戦士だぁ?\n笑わせるな!!{0c:2b5309fe}",
    "read": "{0c:523840}{1c:11}{0b:08}【 オイゲン 】{0b:09}\n聖なる戦士だぁ?\n笑わせるな!!{0c:2b5309fe}",
    "raw": null,
-   "en": "{0c:523840}{1c:11}{0b:08}【 Eugen 】{0b:09}\nHoly warriors, huh? Don't make me\nlaugh!!{0c:2b5309fe}",
+   "en": "{0c:523840}{1c:11}{0b:08}【 Eugen 】{0b:09}\nHoly warriors, huh? Don't make\nme laugh!!{0c:2b5309fe}",
    "status": "done",
    "tl": "Holy warriors, huh? Don't make me laugh!!"
   },
@@ -463,7 +463,7 @@
    "jp": "{0c:5238402b571000}{0b:08}{e080} いかつい顔の男 {e082}{0b:09}\nおいおい、いい加減\nその{e0c3}{e0a9}根性捨てろよ。{1a}{e081}士団だかなんだかしらねえが、\n今の俺達なら、たとえ相手が\n百人いても楽勝だぜ。{0c:2b5709fe}",
    "read": "{0c:5238402b571000}{0b:08}【 いかつい顔の男 】{0b:09}\nおいおい、いい加減\nその農民根性捨てろよ。{1a}騎士団だかなんだかしらねえが、\n今の俺達なら、たとえ相手が\n百人いても楽勝だぜ。{0c:2b5709fe}",
    "raw": null,
-   "en": "{0c:5238402b571000}{0b:08}【 Grim-Faced Man 】{0b:09}\nHey, hey, drop that peasant mindset\nalready.{1a}Knights or whatever, the way we are\nnow, even a hundred of 'em'd be easy\npickin's.{0c:2b5709fe}",
+   "en": "{0c:5238402b571000}{0b:08}【 Grim-Faced Man 】{0b:09}\nHey, hey, drop that peasant\nmindset already.{1a}Knights or whatever, the way we are\nnow, even a hundred of 'em'd be\neasy pickin's.{0c:2b5709fe}",
    "status": "done",
    "tl": "Hey, hey, drop that peasant mindset already. // Knights or whatever, the way we are now, even a hundred of 'em'd be easy pickin's."
   },
@@ -570,7 +570,7 @@
    "jp": "{0c:52e8f0}{0b:08}{e080} 偉そうな{e081}士 {e082}{0b:09}\nほう、\n平{e0a9}ふぜいが{e0df}しいではないか。{1a}{e0ba}伏するのであれば\nアレクシス様に取りなしてもよいが?{0c:2b5509fe}",
    "read": "{0c:52e8f0}{0b:08}【 偉そうな騎士 】{0b:09}\nほう、\n平民ふぜいが詳しいではないか。{1a}降伏するのであれば\nアレクシス様に取りなしてもよいが?{0c:2b5509fe}",
    "raw": null,
-   "en": "{0c:52e8f0}{0b:08}【 Haughty Knight 】{0b:09}\nOh? You are well informed, for a\ncommoner.{1a}If you surrender, I might intercede with\nAlexis-sama on your behalf.{0c:2b5509fe}",
+   "en": "{0c:52e8f0}{0b:08}【 Haughty Knight 】{0b:09}\nOh? You are well informed, for\na commoner.{1a}If you surrender, I might intercede with\nAlexis-sama on your behalf.{0c:2b5509fe}",
    "status": "done",
    "tl": "Oh? You are well informed, for a commoner. // If you surrender, I might intercede with Alexis-sama on your behalf."
   },
@@ -720,7 +720,7 @@
    "jp": "{0c:52d8e0}{0b:08}{e080} ローブを着た男 {e082}{0b:09}\nそうだよな。{1a}『始原の地』に行く途中に\n奴らは待ちかまえてる訳だから、\n衝突は避けられねえ。{1a}あんな奴らが俺達の{e0e8}得なんて\n聞くわけもねえしよ。{0c:fe}",
    "read": "{0c:52d8e0}{0b:08}【 ローブを着た男 】{0b:09}\nそうだよな。{1a}『始原の地』に行く途中に\n奴らは待ちかまえてる訳だから、\n衝突は避けられねえ。{1a}あんな奴らが俺達の説得なんて\n聞くわけもねえしよ。{0c:fe}",
    "raw": null,
-   "en": "{0c:52d8e0}{0b:08}【 Man in a Robe 】{0b:09}\nYeah, that's right.{1a}They're lyin' in wait on the way to the\n'Land of Origin', so a clash can't be\navoided.{1a}And that kind ain't ever gonna listen to\nus talkin' 'em down.{0c:fe}",
+   "en": "{0c:52d8e0}{0b:08}【 Man in a Robe 】{0b:09}\nYeah, that's right.{1a}They're lyin' in wait on the way to the\n'Land of Origin', so a clash can't\nbe avoided.{1a}And that kind ain't ever gonna listen to\nus talkin' 'em down.{0c:fe}",
    "status": "done",
    "tl": "Yeah, that's right. // They're lyin' in wait on the way to the 'Land of Origin', so a clash can't be avoided. // And that kind ain't ever gonna listen to us talkin' 'em down."
   },
@@ -767,7 +767,7 @@
    "jp": "{0c:52ff81ff89}{1c:1c}{0b:08}{e080} クムラン {e082}{0b:09}\n・・・ですが、\nやはり彼らと戦うのは\n避けた方がいいでしょう。{1a}私が気になるのは、\n何故彼らが召還されたのか・・・{1a}彼らは{e0ea}別信心深いわけでも\nありませんし、戦闘力も\n私達の進入をくい止めるには\n不十分すぎます。{1a}ならばどういう理由が\n考えられるか・・・{1a}平{e0a9}出の多いこの町で、\n赤獅子{e081}士団といえば\n最も嫌われている貴{e085}達・・・{1a}{0c:52ff91ff99}まるで私達の前に\n{e0eb}げられた生け贄・・・\nそんな{e0ed}覚すら覚えます。{0c:52ffa1ffa9}{0c:fe}",
    "read": "{0c:52ff81ff89}{1c:1c}{0b:08}【 クムラン 】{0b:09}\n・・・ですが、\nやはり彼らと戦うのは\n避けた方がいいでしょう。{1a}私が気になるのは、\n何故彼らが召還されたのか・・・{1a}彼らは特別信心深いわけでも\nありませんし、戦闘力も\n私達の進入をくい止めるには\n不十分すぎます。{1a}ならばどういう理由が\n考えられるか・・・{1a}平民出の多いこの町で、\n赤獅子騎士団といえば\n最も嫌われている貴族達・・・{1a}{0c:52ff91ff99}まるで私達の前に\n捧げられた生け贄・・・\nそんな錯覚すら覚えます。{0c:52ffa1ffa9}{0c:fe}",
    "raw": null,
-   "en": "{0c:52ff81ff89}{1c:1c}{0b:08}【 Qumran 】{0b:09}\n...Even so, it would be better to avoid\nfighting them.{1a}What concerns me is why they were\nsummoned...{1a}They are not especially devout, and their\nfighting strength is far too little to\nstop our advance.{1a}Then what reason could there be...{1a}In this town, where so many are of\ncommon birth, the Red Lion Knights are\nthe most hated nobles of all...{1a}{0c:52ff91ff99}It is almost as if they were a sacrifice\nlaid before us... I cannot shake that\nimpression.{0c:52ffa1ffa9}{0c:fe}",
+   "en": "{0c:52ff81ff89}{1c:1c}{0b:08}【 Qumran 】{0b:09}\n...Even so, it would be better to avoid\nfighting them.{1a}What concerns me is why they\nwere summoned...{1a}They are not especially devout, and their\nfighting strength is far too little to\nstop our advance.{1a}Then what reason could there be...{1a}In this town, where so many are of\ncommon birth, the Red Lion Knights are\nthe most hated nobles of all...{1a}{0c:52ff91ff99}It is almost as if they were a sacrifice\nlaid before us... I cannot shake\nthat impression.{0c:52ffa1ffa9}{0c:fe}",
    "status": "done",
    "tl": "...Even so, it would be better to avoid fighting them. // What concerns me is why they were summoned... // They are not especially devout, and their fighting strength is far too little to stop our advance. // Then what reason could there be... // In this town, where so many are of common birth, the Red Lion Knights are the most hated nobles of all... // [1]It is almost as if they were a sacrifice laid before us... I cannot shake that impression."
   },
@@ -790,7 +790,7 @@
    "jp": "{0c:527078}{1c:18}{0b:08}{e080} パスカ {e082}{0b:09}\nオレ達に殺させるためだけに、\n誰かが奴らを召還したのか?{0c:020301}",
    "read": "{0c:527078}{1c:18}{0b:08}【 パスカ 】{0b:09}\nオレ達に殺させるためだけに、\n誰かが奴らを召還したのか?{0c:020301}",
    "raw": null,
-   "en": "{0c:527078}{1c:18}{0b:08}【 Pasca 】{0b:09}\nSomebody summoned 'em just so we'd kill\n'em?{0c:020301}",
+   "en": "{0c:527078}{1c:18}{0b:08}【 Pasca 】{0b:09}\nSomebody summoned 'em just so we'd\nkill 'em?{0c:020301}",
    "status": "done",
    "tl": "Somebody summoned 'em just so we'd kill 'em?"
   },
@@ -813,7 +813,7 @@
    "jp": "{0c:52f8ff01}{0b:08}{e080} ローブを着た男 {e082}{0b:09}\n俺達に殺させるためだけに、\n誰かが奴らを召還したのか?{0c:fe}",
    "read": "{0c:52f8ff01}{0b:08}【 ローブを着た男 】{0b:09}\n俺達に殺させるためだけに、\n誰かが奴らを召還したのか?{0c:fe}",
    "raw": null,
-   "en": "{0c:52f8ff01}{0b:08}【 Man in a Robe 】{0b:09}\nSomebody summoned 'em just so we'd kill\n'em?{0c:fe}",
+   "en": "{0c:52f8ff01}{0b:08}【 Man in a Robe 】{0b:09}\nSomebody summoned 'em just so we'd\nkill 'em?{0c:fe}",
    "status": "done",
    "tl": "Somebody summoned 'em just so we'd kill 'em?"
   },
@@ -998,7 +998,7 @@
    "jp": "{0c:52ffff02ffff0a}{1c:1c}{0b:08}{e080} クムラン {e082}{0b:09}\nあの貴{e085}と\nファトゥムさんとの因縁・・・{07:1e}{1a}まさかファトゥムさんに\n『復讐と怒りを{e18b}る\n{e18c}まわしき魔物』の役を・・・{07:1e}{1a}いけない!\n{0c:2b50100051ffff12}彼を止めて下さい!!{07:05}{0c:fe}",
    "read": "{0c:52ffff02ffff0a}{1c:1c}{0b:08}【 クムラン 】{0b:09}\nあの貴族と\nファトゥムさんとの因縁・・・{07:1e}{1a}まさかファトゥムさんに\n『復讐と怒りを司る\n忌まわしき魔物』の役を・・・{07:1e}{1a}いけない!\n{0c:2b50100051ffff12}彼を止めて下さい!!{07:05}{0c:fe}",
    "raw": null,
-   "en": "{0c:52ffff02ffff0a}{1c:1c}{0b:08}【 Qumran 】{0b:09}\nThat noble, and the bad blood with\nFatum-san...{07:1e}{1a}Could it be... Fatum-san, in the role of 'a\nhateful monster ruling vengeance and\nwrath'...{07:1e}{1a}No! {0c:2b50100051ffff12}Please, stop him!!{07:05}{0c:fe}",
+   "en": "{0c:52ffff02ffff0a}{1c:1c}{0b:08}【 Qumran 】{0b:09}\nThat noble, and the bad blood\nwith Fatum-san...{07:1e}{1a}Could it be... Fatum-san, in the role of 'a\nhateful monster ruling vengeance\nand wrath'...{07:1e}{1a}No! {0c:2b50100051ffff12}Please, stop him!!{07:05}{0c:fe}",
    "status": "done",
    "tl": "That noble, and the bad blood with Fatum-san...[1] // Could it be... Fatum-san, in the role of 'a hateful monster ruling vengeance and wrath'...[2] // No! [3]Please, stop him!!"
   },

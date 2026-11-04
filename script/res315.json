@@ -274,7 +274,7 @@
    "jp": "{0c:31501751ffdb6000e00088}{1c:14}{0b:08}{e080} エレアノール {e081}{0b:09}\n{e085}肉な運命ですね・・・{1a}自分の意志ではないとはいえ、\nまたこの手を朱に{e088}めて\nしまうなんて・・・{0c:fe}",
    "read": "{0c:31501751ffdb6000e00088}{1c:14}{0b:08}【 エレアノール 】{0b:09}\n皮肉な運命ですね・・・{1a}自分の意志ではないとはいえ、\nまたこの手を朱に染めて\nしまうなんて・・・{0c:fe}",
    "raw": null,
-   "en": "{0c:31501751ffdb6000e00088}{1c:14}{0b:08}【 Eleanor 】{0b:09}\nA cruel irony of fate, is it not...{1a}Though it was not by my own will, to\nhave stained these hands crimson once\nmore...{0c:fe}",
+   "en": "{0c:31501751ffdb6000e00088}{1c:14}{0b:08}【 Eleanor 】{0b:09}\nA cruel irony of fate, is it not...{1a}Though it was not by my own will, to\nhave stained these hands crimson\nonce more...{0c:fe}",
    "status": "done",
    "tl": "A cruel irony of fate, is it not... // Though it was not by my own will, to have stained these hands crimson once more..."
   },
@@ -412,7 +412,7 @@
    "jp": "{1c:14}{0b:08}{e080} エレアノール {e081}{0b:09}\n{e085}肉な運命ですね・・・{1a}自分の意志ではないとはいえ、\nまたこの手を朱に{e088}めて\nしまうなんて・・・{0c:fe}",
    "read": "{1c:14}{0b:08}【 エレアノール 】{0b:09}\n皮肉な運命ですね・・・{1a}自分の意志ではないとはいえ、\nまたこの手を朱に染めて\nしまうなんて・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:14}{0b:08}【 Eleanor 】{0b:09}\nA cruel irony of fate, is it not...{1a}Though it was not by my own will, to\nhave stained these hands crimson once\nmore...{0c:fe}",
+   "en": "{1c:14}{0b:08}【 Eleanor 】{0b:09}\nA cruel irony of fate, is it not...{1a}Though it was not by my own will, to\nhave stained these hands crimson\nonce more...{0c:fe}",
    "status": "done",
    "tl": "A cruel irony of fate, is it not... // Though it was not by my own will, to have stained these hands crimson once more..."
   },
@@ -549,7 +549,7 @@
    "jp": "{1c:11}ええ・・・{07:14}\nいまは{0b:05}{14}を助ける事のみを\n考えましょう・・・{07:05}",
    "read": "{1c:11}ええ・・・{07:14}\nいまは{0b:05}{14}を助ける事のみを\n考えましょう・・・{07:05}",
    "raw": null,
-   "en": "{1c:11}Yes...{07:14} For now, let us think only of saving\n{0b:05}{14}...{07:05}",
+   "en": "{1c:11}Yes...{07:14} For now, let us think only of\nsaving {0b:05}{14}...{07:05}",
    "status": "done",
    "tl": "Yes...[1] For now, let us think only of saving [2][VAR14]..."
   },
@@ -779,7 +779,7 @@
    "jp": "{1c:14}そうですか・・・\n情報がないのもつらいですね。{1a}{0c:51ffdb}私も、{e089}を捨てたはずなのに、\n{e08b}に包まれる故{e08a}を想{e08e}するだけで\n胸が苦しくなります・・・{0c:020201}",
    "read": "{1c:14}そうですか・・・\n情報がないのもつらいですね。{1a}{0c:51ffdb}私も、国を捨てたはずなのに、\n炎に包まれる故郷を想像するだけで\n胸が苦しくなります・・・{0c:020201}",
    "raw": null,
-   "en": "{1c:14}I see... Having no news must be hard as\nwell.{1a}{0c:51ffdb}I abandoned my country, and yet merely\npicturing my homeland in flames makes\nmy heart ache...{0c:020201}",
+   "en": "{1c:14}I see... Having no news must be hard\nas well.{1a}{0c:51ffdb}I abandoned my country, and yet merely\npicturing my homeland in flames makes\nmy heart ache...{0c:020201}",
    "status": "done",
    "tl": "I see... Having no news must be hard as well. // [1]I abandoned my country, and yet merely picturing my homeland in flames makes my heart ache..."
   },
@@ -871,7 +871,7 @@
    "jp": "{1c:15}ええ・・・{07:14}\n今は{0b:05}{14}を助ける事のみを\n考えましょう・・・{07:05}",
    "read": "{1c:15}ええ・・・{07:14}\n今は{0b:05}{14}を助ける事のみを\n考えましょう・・・{07:05}",
    "raw": null,
-   "en": "{1c:15}Yes...{07:14} For now, let us think only of saving\n{0b:05}{14}...{07:05}",
+   "en": "{1c:15}Yes...{07:14} For now, let us think only of\nsaving {0b:05}{14}...{07:05}",
    "status": "done",
    "tl": "Yes...[1] For now, let us think only of saving [2][VAR14]..."
   },
@@ -1043,7 +1043,7 @@
    "jp": "{1c:14}そうですか・・・\n情報がないのもつらいですね。{1a}{0c:51ffdb}私も、{e089}を捨てたはずなのに、\n{e08b}に包まれる故{e08a}を想{e08e}するだけで\n胸が苦しくなります・・・{0c:020201}",
    "read": "{1c:14}そうですか・・・\n情報がないのもつらいですね。{1a}{0c:51ffdb}私も、国を捨てたはずなのに、\n炎に包まれる故郷を想像するだけで\n胸が苦しくなります・・・{0c:020201}",
    "raw": null,
-   "en": "{1c:14}I see... Having no news must be hard as\nwell.{1a}{0c:51ffdb}I abandoned my country, and yet merely\npicturing my homeland in flames makes\nmy heart ache...{0c:020201}",
+   "en": "{1c:14}I see... Having no news must be hard\nas well.{1a}{0c:51ffdb}I abandoned my country, and yet merely\npicturing my homeland in flames makes\nmy heart ache...{0c:020201}",
    "status": "done",
    "tl": "I see... Having no news must be hard as well. // [1]I abandoned my country, and yet merely picturing my homeland in flames makes my heart ache..."
   },
@@ -1146,7 +1146,7 @@
    "jp": "{1c:14}ええ・・・{07:14}\nバルデスさんに別れを\n言いに行きましょう・・・{07:05}",
    "read": "{1c:14}ええ・・・{07:14}\nバルデスさんに別れを\n言いに行きましょう・・・{07:05}",
    "raw": null,
-   "en": "{1c:14}Yes...{07:14} Let us go and say farewell to\nValdes-san...{07:05}",
+   "en": "{1c:14}Yes...{07:14} Let us go and say farewell\nto Valdes-san...{07:05}",
    "status": "done",
    "tl": "Yes...[1] Let us go and say farewell to Valdes-san..."
   },
@@ -1273,7 +1273,7 @@
    "jp": "{1c:14}{0b:08}{e080} エレアノール {e081}{0b:09}\nあの方は私達に本当の力を\n{e09a}えてくれた・・・{07:14}\nでも・・・{07:05}{1a}{10}・・・{07:14}\n私はこの悲しみを\n決して忘れない・・・{07:05}{0c:fe}",
    "read": "{1c:14}{0b:08}【 エレアノール 】{0b:09}\nあの方は私達に本当の力を\n教えてくれた・・・{07:14}\nでも・・・{07:05}{1a}{10}・・・{07:14}\n私はこの悲しみを\n決して忘れない・・・{07:05}{0c:fe}",
    "raw": null,
-   "en": "{1c:14}{0b:08}【 Eleanor 】{0b:09}\nThat gentleman taught us what true\nstrength is...{07:14} But...{07:05}{1a}{10}...{07:14} I will never forget this\nsorrow...{07:05}{0c:fe}",
+   "en": "{1c:14}{0b:08}【 Eleanor 】{0b:09}\nThat gentleman taught us what true\nstrength is...{07:14} But...{07:05}{1a}{10}...{07:14} I will never forget\nthis sorrow...{07:05}{0c:fe}",
    "status": "done",
    "tl": "That gentleman taught us what true strength is...[1] But...[2] // [HERO]...[3] I will never forget this sorrow..."
   },
@@ -1377,7 +1377,7 @@
    "jp": "{1c:14}{0b:08}{e080} エレアノール {e081}{0b:09}\nあの方は私達に本当の力を\n{e09a}えてくれた・・・{07:14}\nでも・・・{07:05}{1a}{10}・・・{07:14}\n私はこの悲しみを\n決して忘れない・・・{07:05}{0c:fe}",
    "read": "{1c:14}{0b:08}【 エレアノール 】{0b:09}\nあの方は私達に本当の力を\n教えてくれた・・・{07:14}\nでも・・・{07:05}{1a}{10}・・・{07:14}\n私はこの悲しみを\n決して忘れない・・・{07:05}{0c:fe}",
    "raw": null,
-   "en": "{1c:14}{0b:08}【 Eleanor 】{0b:09}\nThat gentleman taught us what true\nstrength is...{07:14} But...{07:05}{1a}{10}...{07:14} I will never forget this\nsorrow...{07:05}{0c:fe}",
+   "en": "{1c:14}{0b:08}【 Eleanor 】{0b:09}\nThat gentleman taught us what true\nstrength is...{07:14} But...{07:05}{1a}{10}...{07:14} I will never forget\nthis sorrow...{07:05}{0c:fe}",
    "status": "done",
    "tl": "That gentleman taught us what true strength is...[1] But...[2] // [HERO]...[3] I will never forget this sorrow..."
   },
@@ -1423,7 +1423,7 @@
    "jp": "{1c:11}{0b:08}{e080} エレアノール {e081}{0b:09}\n人の価値観はそう簡単には\n変わらないかもしれません。{1a}でも、誠意を{e0a8}めて話せば\n私達の気持ちも{e0a9}じるはず・・・\n私はそう信じます。{0c:fe}",
    "read": "{1c:11}{0b:08}【 エレアノール 】{0b:09}\n人の価値観はそう簡単には\n変わらないかもしれません。{1a}でも、誠意を込めて話せば\n私達の気持ちも通じるはず・・・\n私はそう信じます。{0c:fe}",
    "raw": null,
-   "en": "{1c:11}{0b:08}【 Eleanor 】{0b:09}\nPeople's values may not change so easily.{1a}But if we speak sincerely, our feelings\nshould reach them... That is what I\nbelieve.{0c:fe}",
+   "en": "{1c:11}{0b:08}【 Eleanor 】{0b:09}\nPeople's values may not change so easily.{1a}But if we speak sincerely, our feelings\nshould reach them... That is what\nI believe.{0c:fe}",
    "status": "done",
    "tl": "People's values may not change so easily. // But if we speak sincerely, our feelings should reach them... That is what I believe."
   },
@@ -1505,7 +1505,7 @@
    "jp": "{1c:11}{0b:08}{e080} エレアノール {e081}{0b:09}\n人の価値観はそう簡単には\n変わらないかもしれません。{1a}でも、誠意を{e0a8}めて話せば\n私達の気持ちも{e0a9}じるはず・・・\n私はそう信じます。{1a}みんな頑張って下さい。\n私も後から行きます。{0c:15}",
    "read": "{1c:11}{0b:08}【 エレアノール 】{0b:09}\n人の価値観はそう簡単には\n変わらないかもしれません。{1a}でも、誠意を込めて話せば\n私達の気持ちも通じるはず・・・\n私はそう信じます。{1a}みんな頑張って下さい。\n私も後から行きます。{0c:15}",
    "raw": null,
-   "en": "{1c:11}{0b:08}【 Eleanor 】{0b:09}\nPeople's values may not change so easily.{1a}But if we speak sincerely, our feelings\nshould reach them... That is what I\nbelieve.{1a}Everyone, please do your best. I will\nfollow later.{0c:15}",
+   "en": "{1c:11}{0b:08}【 Eleanor 】{0b:09}\nPeople's values may not change so easily.{1a}But if we speak sincerely, our feelings\nshould reach them... That is what\nI believe.{1a}Everyone, please do your best. I will\nfollow later.{0c:15}",
    "status": "done",
    "tl": "People's values may not change so easily. // But if we speak sincerely, our feelings should reach them... That is what I believe. // Everyone, please do your best. I will follow later."
   },
@@ -1667,7 +1667,7 @@
    "jp": "{1c:15}気を付けて。\n{10}、{11}。{0c:02ff}",
    "read": "{1c:15}気を付けて。\n{10}、{11}。{0c:02ff}",
    "raw": null,
-   "en": "{1c:15}Please take care. {10},\n{11}.{0c:02ff}",
+   "en": "{1c:15}Please take care.\n{10}, {11}.{0c:02ff}",
    "status": "done",
    "tl": "Please take care. [HERO], [VAR11]."
   },
@@ -1737,7 +1737,7 @@
    "jp": "{1c:15}私よりふさわしい相手が\nいるのでは?{0c:16}",
    "read": "{1c:15}私よりふさわしい相手が\nいるのでは?{0c:16}",
    "raw": null,
-   "en": "{1c:15}Is there not someone better suited than\nI?{0c:16}",
+   "en": "{1c:15}Is there not someone better suited\nthan I?{0c:16}",
    "status": "done",
    "tl": "Is there not someone better suited than I?"
   },
@@ -2217,7 +2217,7 @@
    "jp": "{1c:10}あなたの不器用さには\n{e093}感すら覚えます・・・{1a}でも、下らないことで\n自分を卑しめないで下さい。",
    "read": "{1c:10}あなたの不器用さには\n共感すら覚えます・・・{1a}でも、下らないことで\n自分を卑しめないで下さい。",
    "raw": null,
-   "en": "{1c:10}I find I can even sympathise with your\nclumsiness...{1a}But please do not degrade yourself over\nsuch petty things.",
+   "en": "{1c:10}I find I can even sympathise with\nyour clumsiness...{1a}But please do not degrade yourself over\nsuch petty things.",
    "status": "done",
    "tl": "I find I can even sympathise with your clumsiness... // But please do not degrade yourself over such petty things."
   },
@@ -2264,7 +2264,7 @@
    "jp": "{1c:10}別に構いません。\nそれであなたの欲求が\n満たされるのなら・・・{0c:153b0800}",
    "read": "{1c:10}別に構いません。\nそれであなたの欲求が\n満たされるのなら・・・{0c:153b0800}",
    "raw": null,
-   "en": "{1c:10}I do not mind. If such a thing can content\nyou...{0c:153b0800}",
+   "en": "{1c:10}I do not mind. If such a thing can\ncontent you...{0c:153b0800}",
    "status": "done",
    "tl": "I do not mind. If such a thing can content you..."
   },
@@ -2336,7 +2336,7 @@
    "jp": "{1c:10}別に構いません。\nそれであなたの欲求が\n満たされるのなら・・・{0c:153b0800}",
    "read": "{1c:10}別に構いません。\nそれであなたの欲求が\n満たされるのなら・・・{0c:153b0800}",
    "raw": null,
-   "en": "{1c:10}I do not mind. If such a thing can content\nyou...{0c:153b0800}",
+   "en": "{1c:10}I do not mind. If such a thing can\ncontent you...{0c:153b0800}",
    "status": "done",
    "tl": "I do not mind. If such a thing can content you..."
   },
@@ -2384,7 +2384,7 @@
    "jp": "{1c:10}{10}・・・\nもっと自分を大切にして下さい・・・",
    "read": "{1c:10}{10}・・・\nもっと自分を大切にして下さい・・・",
    "raw": null,
-   "en": "{1c:10}{10}... Please take better care of\nyourself...",
+   "en": "{1c:10}{10}... Please take better care\nof yourself...",
    "status": "done",
    "tl": "[HERO]... Please take better care of yourself..."
   },
@@ -2480,7 +2480,7 @@
    "jp": "私も神の{e09a}えに背いた身、\n私にはあなたを{e0b3}く資格はない・・・{1a}でも、誰かがあなたを\n止めなければならない!!{0c:1b}",
    "read": "私も神の教えに背いた身、\n私にはあなたを裁く資格はない・・・{1a}でも、誰かがあなたを\n止めなければならない!!{0c:1b}",
    "raw": null,
-   "en": "I too have turned against God's\nteachings, and I have no right to judge\nyou...{1a}But someone must stop you!!{0c:1b}",
+   "en": "I too have turned against God's\nteachings, and I have no right to\njudge you...{1a}But someone must stop you!!{0c:1b}",
    "status": "done",
    "tl": "I too have turned against God's teachings, and I have no right to judge you... // But someone must stop you!!"
   },

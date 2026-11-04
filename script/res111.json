@@ -86,7 +86,7 @@
    "jp": "{0c:2b51231000}{0c:2b52231000}{0c:2b501000231000}{1c:1a}{0b:08}{e080} パスカ {e081}{0b:09}\nまだ何も見えねえな・・・{1a}オレ達一体何時間歩いたんだ?\nさすがにちょっと疲れたぜ・・・{0c:021f01}",
    "read": "{0c:2b51231000}{0c:2b52231000}{0c:2b501000231000}{1c:1a}{0b:08}【 パスカ 】{0b:09}\nまだ何も見えねえな・・・{1a}オレ達一体何時間歩いたんだ?\nさすがにちょっと疲れたぜ・・・{0c:021f01}",
    "raw": null,
-   "en": "{0c:2b51231000}{0c:2b52231000}{0c:2b501000231000}{1c:1a}{0b:08}【 Pasca 】{0b:09}\nStill can't see a damn thing...{1a}How many hours we been walkin',\nanyway? Even I'm gettin' a little worn\nout...{0c:021f01}",
+   "en": "{0c:2b51231000}{0c:2b52231000}{0c:2b501000231000}{1c:1a}{0b:08}【 Pasca 】{0b:09}\nStill can't see a damn thing...{1a}How many hours we been walkin',\nanyway? Even I'm gettin' a little\nworn out...{0c:021f01}",
    "status": "done",
    "tl": "Still can't see a damn thing... // How many hours we been walkin', anyway? Even I'm gettin' a little worn out..."
   },
@@ -426,7 +426,7 @@
    "jp": "{0c:2b51231000}{0c:2b52231000}{0c:2b501000231000}{1c:28}{0b:08}{e080} ノエル {e081}{0b:09}\nさすがに疲れたわね・・・{1a}何時間歩かせれば\n気が済むのかしら・・・{0c:fe}",
    "read": "{0c:2b51231000}{0c:2b52231000}{0c:2b501000231000}{1c:28}{0b:08}【 ノエル 】{0b:09}\nさすがに疲れたわね・・・{1a}何時間歩かせれば\n気が済むのかしら・・・{0c:fe}",
    "raw": null,
-   "en": "{0c:2b51231000}{0c:2b52231000}{0c:2b501000231000}{1c:28}{0b:08}【 Noel 】{0b:09}\nHonestly, I'm tired...{1a}How many hours is this place going to\nmake us walk before it's satisfied, I\nwonder...{0c:fe}",
+   "en": "{0c:2b51231000}{0c:2b52231000}{0c:2b501000231000}{1c:28}{0b:08}【 Noel 】{0b:09}\nHonestly, I'm tired...{1a}How many hours is this place going to\nmake us walk before it's satisfied,\nI wonder...{0c:fe}",
    "status": "done",
    "tl": "Honestly, I'm tired... // How many hours is this place going to make us walk before it's satisfied, I wonder..."
   },
@@ -601,7 +601,7 @@
    "jp": "{0c:080100231000}{0c:2b50231000}{1c:28}{0b:08}{e080} ノエル {e081}{0b:09}\n時の行{e083}図によると\n入ってまだ1分も経ってないわ。{0c:020501}",
    "read": "{0c:080100231000}{0c:2b50231000}{1c:28}{0b:08}【 ノエル 】{0b:09}\n時の行路図によると\n入ってまだ1分も経ってないわ。{0c:020501}",
    "raw": null,
-   "en": "{0c:080100231000}{0c:2b50231000}{1c:28}{0b:08}【 Noel 】{0b:09}\nAccording to the Chart of Time, it\nhasn't even been a minute since we came\nin.{0c:020501}",
+   "en": "{0c:080100231000}{0c:2b50231000}{1c:28}{0b:08}【 Noel 】{0b:09}\nAccording to the Chart of Time, it\nhasn't even been a minute since we\ncame in.{0c:020501}",
    "status": "done",
    "tl": "According to the Chart of Time, it hasn't even been a minute since we came in."
   },
@@ -1007,7 +1007,7 @@
    "jp": "{1c:22}{0b:08}{e080} オルフェウス {e081}{0b:09}\nま、何が{e08d}実かなんて\nこんな環境では\n気にするだけ無駄ですしね。{0c:020801}",
    "read": "{1c:22}{0b:08}【 オルフェウス 】{0b:09}\nま、何が真実かなんて\nこんな環境では\n気にするだけ無駄ですしね。{0c:020801}",
    "raw": null,
-   "en": "{1c:22}{0b:08}【 Orpheus 】{0b:09}\nWell, in such surroundings, it is a waste\nof effort to fret over what is true, I\ndaresay.{0c:020801}",
+   "en": "{1c:22}{0b:08}【 Orpheus 】{0b:09}\nWell, in such surroundings, it is a waste\nof effort to fret over what is true,\nI daresay.{0c:020801}",
    "status": "done",
    "tl": "Well, in such surroundings, it is a waste of effort to fret over what is true, I daresay."
   },
@@ -1136,7 +1136,7 @@
    "jp": "{1c:14}{0b:08}{e080} レイア {e081}{0b:09}\nいずれにせよ\n先に進むしかないか・・・{0c:021001}",
    "read": "{1c:14}{0b:08}【 レイア 】{0b:09}\nいずれにせよ\n先に進むしかないか・・・{0c:021001}",
    "raw": null,
-   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\nEither way, there is nothing to do but go\non...{0c:021001}",
+   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\nEither way, there is nothing to do but\ngo on...{0c:021001}",
    "status": "done",
    "tl": "Either way, there is nothing to do but go on..."
   },
@@ -1194,7 +1194,7 @@
    "jp": "{1c:1d}{0b:08}{e080} シャルン {e081}{0b:09}\n地下{e091}{e092}なんて\n全く見えてこないけど、\nこの道で本当に正しいのかな・・・{1a}ここまで来たんだから\n進むしかないとは思うけど、\nちょっと不安になってきちゃうね。{0c:020b01}",
    "read": "{1c:1d}{0b:08}【 シャルン 】{0b:09}\n地下都市なんて\n全く見えてこないけど、\nこの道で本当に正しいのかな・・・{1a}ここまで来たんだから\n進むしかないとは思うけど、\nちょっと不安になってきちゃうね。{0c:020b01}",
    "raw": null,
-   "en": "{1c:1d}{0b:08}【 Scharn 】{0b:09}\nThere's no underground city anywhere! Is\nthis really the right way...?{1a}We've come this far, so I guess we have\nto keep going, but I'm getting kind of\nworried!{0c:020b01}",
+   "en": "{1c:1d}{0b:08}【 Scharn 】{0b:09}\nThere's no underground city anywhere! Is\nthis really the right way...?{1a}We've come this far, so I guess we have\nto keep going, but I'm getting kind\nof worried!{0c:020b01}",
    "status": "done",
    "tl": "There's no underground city anywhere! Is this really the right way...? // We've come this far, so I guess we have to keep going, but I'm getting kind of worried!"
   },
@@ -1299,7 +1299,7 @@
    "jp": "{1c:2a}{0b:08}{e080} ルカ {e081}{0b:09}\nこの道で本当に\n正しいのでしょうか・・・\nふ、不安になってきます・・・ {1a}とはいえ、ここまで進んだのですから\n後戻りすることも出来ませんし・・・\n結{e096}進むしかないんですよね・・・{0c:020201}",
    "read": "{1c:2a}{0b:08}【 ルカ 】{0b:09}\nこの道で本当に\n正しいのでしょうか・・・\nふ、不安になってきます・・・ {1a}とはいえ、ここまで進んだのですから\n後戻りすることも出来ませんし・・・\n結局進むしかないんですよね・・・{0c:020201}",
    "raw": null,
-   "en": "{1c:2a}{0b:08}【 Luca 】{0b:09}\nIs this truly the right road... I-I'm getting\nuneasy...{1a}That said, having come this far, we\ncannot go back... In the end, all we can do\nis go on, I suppose...{0c:020201}",
+   "en": "{1c:2a}{0b:08}【 Luca 】{0b:09}\nIs this truly the right road... I-I'm\ngetting uneasy...{1a}That said, having come this far, we\ncannot go back... In the end, all we can do\nis go on, I suppose...{0c:020201}",
    "status": "done",
    "tl": "Is this truly the right road... I-I'm getting uneasy... // That said, having come this far, we cannot go back... In the end, all we can do is go on, I suppose..."
   },
@@ -1311,7 +1311,7 @@
    "jp": "{1c:2b}{0b:08}{e080} サラ {e081}{0b:09}\n地下{e091}{e092}なんて\n全然見えてこないけど、\nこの道で本当に正しいのかな・・・{1a}でも、バルデスさんが\n{e093}言うはずないし、\nがんばって進もうよ。\nきっともうすぐだよ。{0c:fe}",
    "read": "{1c:2b}{0b:08}【 サラ 】{0b:09}\n地下都市なんて\n全然見えてこないけど、\nこの道で本当に正しいのかな・・・{1a}でも、バルデスさんが\n嘘言うはずないし、\nがんばって進もうよ。\nきっともうすぐだよ。{0c:fe}",
    "raw": null,
-   "en": "{1c:2b}{0b:08}【 Sara 】{0b:09}\nI don't see the underground city\nanywhere. Is this really the right way, I\nwonder...{1a}But Valdes-san wouldn't tell a lie, so\nlet's do our best and keep going, okay?\nI'm sure it's not far now.{0c:fe}",
+   "en": "{1c:2b}{0b:08}【 Sara 】{0b:09}\nI don't see the underground city\nanywhere. Is this really the right way,\nI wonder...{1a}But Valdes-san wouldn't tell a lie, so\nlet's do our best and keep going, okay?\nI'm sure it's not far now.{0c:fe}",
    "status": "done",
    "tl": "I don't see the underground city anywhere. Is this really the right way, I wonder... // But Valdes-san wouldn't tell a lie, so let's do our best and keep going, okay? I'm sure it's not far now."
   },
@@ -1450,7 +1450,7 @@
    "jp": "{1c:12}{0b:08}{e080} アーサー {e081}{0b:09}\nう、うん・・・\nでもみんな君のことが心配なんだよ。{0c:4c0309fe}",
    "read": "{1c:12}{0b:08}【 アーサー 】{0b:09}\nう、うん・・・\nでもみんな君のことが心配なんだよ。{0c:4c0309fe}",
    "raw": null,
-   "en": "{1c:12}{0b:08}【 Arthur 】{0b:09}\nO-okay... But everyone is worried about\nyou.{0c:4c0309fe}",
+   "en": "{1c:12}{0b:08}【 Arthur 】{0b:09}\nO-okay... But everyone is worried\nabout you.{0c:4c0309fe}",
    "status": "done",
    "tl": "O-okay... But everyone is worried about you."
   },
@@ -1520,7 +1520,7 @@
    "jp": "{1c:16}{0b:08}{e080} エレアノール {e081}{0b:09}\nそれは約束出来ません。{1a}他人を心配する気持ちは\n人間の本{e090}のようなものだと\n私も最近気づきました。{1a}そして、{10}やパスカ達の\nそういった優しさがなければ、\nあなたは死んでいたかも\nしれないのです。{1a}レイア、\n彼らに心を{e097}いて下さい。{0c:4c0309fe}",
    "read": "{1c:16}{0b:08}【 エレアノール 】{0b:09}\nそれは約束出来ません。{1a}他人を心配する気持ちは\n人間の本能のようなものだと\n私も最近気づきました。{1a}そして、{10}やパスカ達の\nそういった優しさがなければ、\nあなたは死んでいたかも\nしれないのです。{1a}レイア、\n彼らに心を開いて下さい。{0c:4c0309fe}",
    "raw": null,
-   "en": "{1c:16}{0b:08}【 Eleanor 】{0b:09}\nThat I cannot promise.{1a}Concern for others is something like a\nhuman instinct; I too realized that only\nrecently.{1a}And without such kindness from\n{10}, Pasca and the others, you\nmight well have died.{1a}Leia, please open your heart to them.{0c:4c0309fe}",
+   "en": "{1c:16}{0b:08}【 Eleanor 】{0b:09}\nThat I cannot promise.{1a}Concern for others is something like a\nhuman instinct; I too realized that\nonly recently.{1a}And without such kindness from\n{10}, Pasca and the others, you\nmight well have died.{1a}Leia, please open your heart to them.{0c:4c0309fe}",
    "status": "done",
    "tl": "That I cannot promise. // Concern for others is something like a human instinct; I too realized that only recently. // And without such kindness from [HERO], Pasca and the others, you might well have died. // Leia, please open your heart to them."
   },
@@ -1870,7 +1870,7 @@
    "jp": "{1c:23}{0b:08}{e080} イヴ {e081}{0b:09}\n構うつもりはないわ。\n今の言{e09f}だって\n心配してる{e09a}りをしてるだけだし。{1a}ほら、あなたみたいな人って\n{e0a0}りが心配すればするほど\n突っ走っちゃうでしょ?{1a}どれだけ暴走するかを見るのも\nたまには面白いかなってね。{0c:4c0309fe}",
    "read": "{1c:23}{0b:08}【 イヴ 】{0b:09}\n構うつもりはないわ。\n今の言葉だって\n心配してる振りをしてるだけだし。{1a}ほら、あなたみたいな人って\n周りが心配すればするほど\n突っ走っちゃうでしょ?{1a}どれだけ暴走するかを見るのも\nたまには面白いかなってね。{0c:4c0309fe}",
    "raw": null,
-   "en": "{1c:23}{0b:08}【 Eve 】{0b:09}\nI don't intend to concern myself, dear.\nEven what I just said was only\npretending to worry.{1a}You see, people like you charge ahead all\nthe harder the more others worry, don't\nthey?{1a}I thought it might be amusing, for once,\nto watch how far you'd run off the rails.{0c:4c0309fe}",
+   "en": "{1c:23}{0b:08}【 Eve 】{0b:09}\nI don't intend to concern myself, dear.\nEven what I just said was only\npretending to worry.{1a}You see, people like you charge ahead all\nthe harder the more others worry,\ndon't they?{1a}I thought it might be amusing, for once,\nto watch how far you'd run off the rails.{0c:4c0309fe}",
    "status": "done",
    "tl": "I don't intend to concern myself, dear. Even what I just said was only pretending to worry. // You see, people like you charge ahead all the harder the more others worry, don't they? // I thought it might be amusing, for once, to watch how far you'd run off the rails."
   },
@@ -2281,7 +2281,7 @@
    "jp": "{1c:10}{0b:08}{e080} アッシュ {e081}{0b:09}\n地下{e091}{e092}に行けたんだ・・・{0c:4c0409fe}",
    "read": "{1c:10}{0b:08}【 アッシュ 】{0b:09}\n地下都市に行けたんだ・・・{0c:4c0409fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\nWe could've gone to the underground\ncity...{0c:4c0409fe}",
+   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\nWe could've gone to the\nunderground city...{0c:4c0409fe}",
    "status": "done",
    "tl": "We could've gone to the underground city..."
   },
@@ -2317,7 +2317,7 @@
    "jp": "{1c:16}{0b:08}{e080} エレアノール {e081}{0b:09}\nいえ、私も\n失念していましたので・・・{1a}ですが、ここまで来たのです、\n自分の足で進みませんか?{0c:4c0109fe}",
    "read": "{1c:16}{0b:08}【 エレアノール 】{0b:09}\nいえ、私も\n失念していましたので・・・{1a}ですが、ここまで来たのです、\n自分の足で進みませんか?{0c:4c0109fe}",
    "raw": null,
-   "en": "{1c:16}{0b:08}【 Eleanor 】{0b:09}\nNo, it had slipped my mind as well...{1a}But now that we have come this far,\nshall we not continue on our own two\nfeet?{0c:4c0109fe}",
+   "en": "{1c:16}{0b:08}【 Eleanor 】{0b:09}\nNo, it had slipped my mind as well...{1a}But now that we have come this far,\nshall we not continue on our own\ntwo feet?{0c:4c0109fe}",
    "status": "done",
    "tl": "No, it had slipped my mind as well... // But now that we have come this far, shall we not continue on our own two feet?"
   },
@@ -2541,7 +2541,7 @@
    "jp": "{1c:1b}{0b:08}{e080} シャルン {e081}{0b:09}\n地下{e091}{e092}に行けたんだ・・・{0c:4c0109fe}",
    "read": "{1c:1b}{0b:08}【 シャルン 】{0b:09}\n地下都市に行けたんだ・・・{0c:4c0109fe}",
    "raw": null,
-   "en": "{1c:1b}{0b:08}【 Scharn 】{0b:09}\nWe could've gone to the underground\ncity...{0c:4c0109fe}",
+   "en": "{1c:1b}{0b:08}【 Scharn 】{0b:09}\nWe could've gone to the\nunderground city...{0c:4c0109fe}",
    "status": "done",
    "tl": "We could've gone to the underground city..."
   },
@@ -2801,7 +2801,7 @@
    "jp": "{1c:10}{0b:08}{e080} アッシュ {e081}{0b:09}\n地下{e091}{e092}に行けたんだ・・・{0c:4c0b09fe}",
    "read": "{1c:10}{0b:08}【 アッシュ 】{0b:09}\n地下都市に行けたんだ・・・{0c:4c0b09fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\nWe could've gone to the underground\ncity...{0c:4c0b09fe}",
+   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\nWe could've gone to the\nunderground city...{0c:4c0b09fe}",
    "status": "done",
    "tl": "We could've gone to the underground city..."
   },
@@ -2967,7 +2967,7 @@
    "jp": "{1c:10}{0b:08}{e080} アッシュ {e081}{0b:09}\n地下{e091}{e092}に行けたんだ・・・{0c:4c0c09fe}",
    "read": "{1c:10}{0b:08}【 アッシュ 】{0b:09}\n地下都市に行けたんだ・・・{0c:4c0c09fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\nWe could've gone to the underground\ncity...{0c:4c0c09fe}",
+   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\nWe could've gone to the\nunderground city...{0c:4c0c09fe}",
    "status": "done",
    "tl": "We could've gone to the underground city..."
   },
@@ -3280,7 +3280,7 @@
    "jp": "{1c:29}{0b:08}{e080} ルカ {e081}{0b:09}\n・・・あれ?{1a}{10}さん、\nあ、あそこで何かがぼんやりと\n{e088}ってるように見えませんか?{1a}も、もしかしてあそこで\n終わりなのでしょうか・・・\n{10}さん、\n行ってみましょうか。{0c:020301}",
    "read": "{1c:29}{0b:08}【 ルカ 】{0b:09}\n・・・あれ?{1a}{10}さん、\nあ、あそこで何かがぼんやりと\n光ってるように見えませんか?{1a}も、もしかしてあそこで\n終わりなのでしょうか・・・\n{10}さん、\n行ってみましょうか。{0c:020301}",
    "raw": null,
-   "en": "{1c:29}{0b:08}【 Luca 】{0b:09}\n...Huh?{1a}{10}-san, o-over there, does\nsomething not seem to be glowing\nfaintly?{1a}P-perhaps that is the end...\n{10}-san, shall we go and see?{0c:020301}",
+   "en": "{1c:29}{0b:08}【 Luca 】{0b:09}\n...Huh?{1a}{10}-san, o-over there, does\nsomething not seem to be\nglowing faintly?{1a}P-perhaps that is the end...\n{10}-san, shall we go and see?{0c:020301}",
    "status": "done",
    "tl": "...Huh? // [HERO]-san, o-over there, does something not seem to be glowing faintly? // P-perhaps that is the end... [HERO]-san, shall we go and see?"
   },

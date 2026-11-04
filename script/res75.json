@@ -121,7 +121,7 @@
    "jp": "{1c:11}え・・・でも・・・\n声が聞こえたんだけど・・・{1a}聞き違いなのかな。{07:14}\nあれ、まただ・・・{07:05}{0c:fe}",
    "read": "{1c:11}え・・・でも・・・\n声が聞こえたんだけど・・・{1a}聞き違いなのかな。{07:14}\nあれ、まただ・・・{07:05}{0c:fe}",
    "raw": null,
-   "en": "{1c:11}Huh... But... I heard a voice...{1a}Maybe I heard wrong.{07:14} Huh, there it is\nagain...{07:05}{0c:fe}",
+   "en": "{1c:11}Huh... But... I heard a voice...{1a}Maybe I heard wrong.{07:14} Huh, there it\nis again...{07:05}{0c:fe}",
    "status": "done",
    "tl": "Huh... But... I heard a voice... // Maybe I heard wrong.[1] Huh, there it is again..."
   },
@@ -201,7 +201,7 @@
    "jp": "{1c:16}{0b:08}{e080} アーサー {e081}{0b:09}\nこれが{e082}{e083}{e084}{e085}の{e086}{e087}\nアスラ・ファエルか・・・{1a}雲の{e088}さにまでそびえる四{e08a}、\n{e08b}{e08c}に{e08d}り輝く神の{e087}{e08f}・・・{1a}{0c:521b1c}まさに神話の{e090}り、\nいや、想{e092}していた以上だ。\n地下にこんな世{e093}があったなんて!{0c:fe}",
    "read": "{1c:16}{0b:08}【 アーサー 】{0b:09}\nこれが太陽帝国の首都\nアスラ・ファエルか・・・{1a}雲の高さにまでそびえる四壁、\n金色に光り輝く神の都市・・・{1a}{0c:521b1c}まさに神話の通り、\nいや、想像していた以上だ。\n地下にこんな世界があったなんて!{0c:fe}",
    "raw": null,
-   "en": "{1c:16}{0b:08}【 Arthur 】{0b:09}\nSo this is Asla Fael, capital of the Sun\nEmpire...{1a}Four walls towering to the height of the\nclouds, a city of the gods shining in gold...{1a}{0c:521b1c}It's just as the myths say, no, beyond\nanything I imagined. To think such a world\nlay underground!{0c:fe}",
+   "en": "{1c:16}{0b:08}【 Arthur 】{0b:09}\nSo this is Asla Fael, capital of the\nSun Empire...{1a}Four walls towering to the height of the\nclouds, a city of the gods shining in gold...{1a}{0c:521b1c}It's just as the myths say, no, beyond\nanything I imagined. To think such a world\nlay underground!{0c:fe}",
    "status": "done",
    "tl": "So this is Asla Fael, capital of the Sun Empire... // Four walls towering to the height of the clouds, a city of the gods shining in gold... // [1]It's just as the myths say, no, beyond anything I imagined. To think such a world lay underground!"
   },
@@ -534,7 +534,7 @@
    "jp": "{1c:1d}地底に{e09c}や{e082}{e083}があるということも\n勿論ですが、それとは別の・・・\n得体の知れない禍{e0a0}しさを感じます。{1a}そう、まるで悪意に満ちた\n視{e0a2}の前に立つような・・・{07:0a}\n杞憂であればよいのですが・・・{07:05}{0c:fe}",
    "read": "{1c:1d}地底に空や太陽があるということも\n勿論ですが、それとは別の・・・\n得体の知れない禍々しさを感じます。{1a}そう、まるで悪意に満ちた\n視線の前に立つような・・・{07:0a}\n杞憂であればよいのですが・・・{07:05}{0c:fe}",
    "raw": null,
-   "en": "{1c:1d}There is the sky and the sun\nunderground, of course, but apart from\nthat... I sense something nameless and\nominous.{1a}Yes, as though I were standing before a\ngaze full of malice...{07:0a} I do hope I am\nworrying over nothing...{07:05}{0c:fe}",
+   "en": "{1c:1d}There is the sky and the sun\nunderground, of course, but apart from\nthat... I sense something nameless\nand ominous.{1a}Yes, as though I were standing before a\ngaze full of malice...{07:0a} I do hope I am\nworrying over nothing...{07:05}{0c:fe}",
    "status": "done",
    "tl": "There is the sky and the sun underground, of course, but apart from that... I sense something nameless and ominous. // Yes, as though I were standing before a gaze full of malice...[1] I do hope I am worrying over nothing..."
   },
@@ -580,7 +580,7 @@
    "jp": "{1c:1b}人の声が聞こえたのですが、\n聞き違いでしょうか・・・{07:1e}{0c:fe}",
    "read": "{1c:1b}人の声が聞こえたのですが、\n聞き違いでしょうか・・・{07:1e}{0c:fe}",
    "raw": null,
-   "en": "{1c:1b}I heard someone's voice, but perhaps I\nmisheard...{07:1e}{0c:fe}",
+   "en": "{1c:1b}I heard someone's voice, but perhaps\nI misheard...{07:1e}{0c:fe}",
    "status": "done",
    "tl": "I heard someone's voice, but perhaps I misheard..."
   },
@@ -615,7 +615,7 @@
    "jp": "{0c:5120}{1c:1c}聞こえないのですか?\n悲鳴のような声が・・・{0c:fe}",
    "read": "{0c:5120}{1c:1c}聞こえないのですか?\n悲鳴のような声が・・・{0c:fe}",
    "raw": null,
-   "en": "{0c:5120}{1c:1c}Can you not hear it? A voice like a\nscream...{0c:fe}",
+   "en": "{0c:5120}{1c:1c}Can you not hear it? A voice like\na scream...{0c:fe}",
    "status": "done",
    "tl": "Can you not hear it? A voice like a scream..."
   },
@@ -936,7 +936,7 @@
    "jp": "優しい声にも悲しい声にも\n笑ってる声にも\n怒ってる声にも聞こえる・・・\n{0c:511c}聞こえないの?{0c:fe}",
    "read": "優しい声にも悲しい声にも\n笑ってる声にも\n怒ってる声にも聞こえる・・・\n{0c:511c}聞こえないの?{0c:fe}",
    "raw": null,
-   "en": "It sounds gentle, and sad, and laughing,\nand angry, all at once... {0c:511c}Can't you hear\nit?{0c:fe}",
+   "en": "It sounds gentle, and sad, and laughing,\nand angry, all at once... {0c:511c}Can't you\nhear it?{0c:fe}",
    "status": "done",
    "tl": "It sounds gentle, and sad, and laughing, and angry, all at once... [1]Can't you hear it?"
   },
@@ -959,7 +959,7 @@
    "jp": "そう・・・\n気のせいなのかな・・・\nご、ごめん、いこっ・・・{0c:2b0009fe}",
    "read": "そう・・・\n気のせいなのかな・・・\nご、ごめん、いこっ・・・{0c:2b0009fe}",
    "raw": null,
-   "en": "Oh... I guess it's just me... S-sorry, let's\ngo...{0c:2b0009fe}",
+   "en": "Oh... I guess it's just me... S-sorry,\nlet's go...{0c:2b0009fe}",
    "status": "done",
    "tl": "Oh... I guess it's just me... S-sorry, let's go..."
   },
@@ -1039,7 +1039,7 @@
    "jp": "いや、人の声がしたのだが・・・\n聞き違いか・・・{0c:fe}",
    "read": "いや、人の声がしたのだが・・・\n聞き違いか・・・{0c:fe}",
    "raw": null,
-   "en": "No, I heard someone's voice... Perhaps I\nmisheard...{0c:fe}",
+   "en": "No, I heard someone's voice... Perhaps\nI misheard...{0c:fe}",
    "status": "done",
    "tl": "No, I heard someone's voice... Perhaps I misheard..."
   },
@@ -1188,7 +1188,7 @@
    "jp": "兄さんはここで\n亡くなったんだって・・・{1a}いつもはもっと{e0ac}の方にまで\n足を延ばしてたんだけど、\n友達の手伝いをしてる時に・・・{0c:fe}",
    "read": "兄さんはここで\n亡くなったんだって・・・{1a}いつもはもっと奥の方にまで\n足を延ばしてたんだけど、\n友達の手伝いをしてる時に・・・{0c:fe}",
    "raw": null,
-   "en": "They say my brother died here...{1a}He usually went much deeper in, you\nknow, but he was helping out a friend\nwhen...{0c:fe}",
+   "en": "They say my brother died here...{1a}He usually went much deeper in, you\nknow, but he was helping out a\nfriend when...{0c:fe}",
    "status": "done",
    "tl": "They say my brother died here... // He usually went much deeper in, you know, but he was helping out a friend when..."
   },
@@ -1200,7 +1200,7 @@
    "jp": "{0c:521b20}{1c:24}嫌になっちゃうな・・・\n泣かないって決めたのに、\n兄さんの顔思い出しただけで・・・{0c:fe}",
    "read": "{0c:521b20}{1c:24}嫌になっちゃうな・・・\n泣かないって決めたのに、\n兄さんの顔思い出しただけで・・・{0c:fe}",
    "raw": null,
-   "en": "{0c:521b20}{1c:24}This is so silly... I promised I wouldn't cry,\nbut just remembering my brother's\nface...{0c:fe}",
+   "en": "{0c:521b20}{1c:24}This is so silly... I promised I wouldn't cry,\nbut just remembering my\nbrother's face...{0c:fe}",
    "status": "done",
    "tl": "This is so silly... I promised I wouldn't cry, but just remembering my brother's face..."
   },
@@ -1579,7 +1579,7 @@
    "jp": "{0c:511d}ほら、{e082}{e083}の{e08d}あびた{e08b}{e08c}って\nゴージャスって感じでいいじゃん。\nよだれが出ちゃうよ。{1a}{0c:521e1f}あれ、そういえば何で地面の下なのに\n{e082}{e083}があるんだろ・・・\nあたし達って{e0b1}段を\n下に{e0a6}りて来たはずだよね。{1a}{0c:522021}まっいいか。\nお{e0b3}さえあればどうでもいいや。{0c:522221}{0c:fe}",
    "read": "{0c:511d}ほら、太陽の光あびた金色って\nゴージャスって感じでいいじゃん。\nよだれが出ちゃうよ。{1a}{0c:521e1f}あれ、そういえば何で地面の下なのに\n太陽があるんだろ・・・\nあたし達って階段を\n下に降りて来たはずだよね。{1a}{0c:522021}まっいいか。\nお宝さえあればどうでもいいや。{0c:522221}{0c:fe}",
    "raw": null,
-   "en": "{0c:511d}Come on, gold in the sunlight, it's\ngorgeous, right? Makes me drool.{1a}{0c:521e1f}Huh, come to think of it, why's there a\nsun when we're underground? We came\ndown the stairs, didn't we?{1a}{0c:522021}Oh well. As long as there's treasure, who\ncares.{0c:522221}{0c:fe}",
+   "en": "{0c:511d}Come on, gold in the sunlight, it's\ngorgeous, right? Makes me drool.{1a}{0c:521e1f}Huh, come to think of it, why's there a\nsun when we're underground? We came\ndown the stairs, didn't we?{1a}{0c:522021}Oh well. As long as there's treasure,\nwho cares.{0c:522221}{0c:fe}",
    "status": "done",
    "tl": "Come on, gold in the sunlight, it's gorgeous, right? Makes me drool. // [1]Huh, come to think of it, why's there a sun when we're underground? We came down the stairs, didn't we? // [2]Oh well. As long as there's treasure, who cares."
   },
@@ -1625,7 +1625,7 @@
    "jp": "{0c:5123}{1c:29}あれ、おかしいな・・・\n声が聞こえたんだけどさ。{1a}あっ、また・・・{0c:fe}",
    "read": "{0c:5123}{1c:29}あれ、おかしいな・・・\n声が聞こえたんだけどさ。{1a}あっ、また・・・{0c:fe}",
    "raw": null,
-   "en": "{0c:5123}{1c:29}Huh, that's weird... I heard a voice, you\nknow.{1a}Oh, there it is again...{0c:fe}",
+   "en": "{0c:5123}{1c:29}Huh, that's weird... I heard a voice,\nyou know.{1a}Oh, there it is again...{0c:fe}",
    "status": "done",
    "tl": "Huh, that's weird... I heard a voice, you know. // Oh, there it is again..."
   },
@@ -1648,7 +1648,7 @@
    "jp": "{1c:29}子供の泣き声かな・・・\n聞こえないの?{0c:fe}",
    "read": "{1c:29}子供の泣き声かな・・・\n聞こえないの?{0c:fe}",
    "raw": null,
-   "en": "{1c:29}Sounds like a kid crying... You can't hear\nit?{0c:fe}",
+   "en": "{1c:29}Sounds like a kid crying... You can't\nhear it?{0c:fe}",
    "status": "done",
    "tl": "Sounds like a kid crying... You can't hear it?"
   },
@@ -1660,7 +1660,7 @@
    "jp": "{0c:511c}{0c:0c5a}{1c:27}{10}、\n耳おかしいんじゃないの?{1a}あっ、その顔信じてないね。\n{0c:511d}本当に聞こえるんだってば!{0c:020401f20300f40201}",
    "read": "{0c:511c}{0c:0c5a}{1c:27}{10}、\n耳おかしいんじゃないの?{1a}あっ、その顔信じてないね。\n{0c:511d}本当に聞こえるんだってば!{0c:020401f20300f40201}",
    "raw": null,
-   "en": "{0c:511c}{0c:0c5a}{1c:27}{10}, are your ears busted or\nwhat?{1a}Oh, I can see by your face you don't\nbelieve me. {0c:511d}I'm telling you, I really hear it!{0c:020401f20300f40201}",
+   "en": "{0c:511c}{0c:0c5a}{1c:27}{10}, are your ears busted\nor what?{1a}Oh, I can see by your face you don't\nbelieve me. {0c:511d}I'm telling you, I really hear it!{0c:020401f20300f40201}",
    "status": "done",
    "tl": "[HERO], are your ears busted or what? // Oh, I can see by your face you don't believe me. [1]I'm telling you, I really hear it!"
   },
@@ -1774,7 +1774,7 @@
    "jp": "{0c:f70620511c}{1c:27}あんたって意外とガンコだね・・・{1a}あっそうだ、心のきれいな人にしか\n聞こえないんだよ、きっと。\n{0c:52251c}それなら{e0b4}得だね。{0c:02fe01}",
    "read": "{0c:f70620511c}{1c:27}あんたって意外とガンコだね・・・{1a}あっそうだ、心のきれいな人にしか\n聞こえないんだよ、きっと。\n{0c:52251c}それなら納得だね。{0c:02fe01}",
    "raw": null,
-   "en": "{0c:f70620511c}{1c:27}You're pretty stubborn, you know that...{1a}Oh, I get it, only people with pure hearts\ncan hear it, I bet. {0c:52251c}Yeah, that makes\nsense.{0c:02fe01}",
+   "en": "{0c:f70620511c}{1c:27}You're pretty stubborn, you know that...{1a}Oh, I get it, only people with pure hearts\ncan hear it, I bet. {0c:52251c}Yeah, that\nmakes sense.{0c:02fe01}",
    "status": "done",
    "tl": "You're pretty stubborn, you know that... // Oh, I get it, only people with pure hearts can hear it, I bet. [1]Yeah, that makes sense."
   },
@@ -1866,7 +1866,7 @@
    "jp": "{1c:13}ま、君に聞いても\n解るわけありませんね。{0c:fe}",
    "read": "{1c:13}ま、君に聞いても\n解るわけありませんね。{0c:fe}",
    "raw": null,
-   "en": "{1c:13}Well, asking you would get me nowhere, I\ndaresay.{0c:fe}",
+   "en": "{1c:13}Well, asking you would get me nowhere,\nI daresay.{0c:fe}",
    "status": "done",
    "tl": "Well, asking you would get me nowhere, I daresay."
   },
@@ -1935,7 +1935,7 @@
    "jp": "{1c:11}僕の噂話なら結構ですよ。\n男に誉められても嬉しくない。{1a}・・・・?{0c:fe}",
    "read": "{1c:11}僕の噂話なら結構ですよ。\n男に誉められても嬉しくない。{1a}・・・・?{0c:fe}",
    "raw": null,
-   "en": "{1c:11}If you are gossiping about me, no thank\nyou. Praise from a man does nothing for\nme.{1a}...?{0c:fe}",
+   "en": "{1c:11}If you are gossiping about me, no thank\nyou. Praise from a man does nothing\nfor me.{1a}...?{0c:fe}",
    "status": "done",
    "tl": "If you are gossiping about me, no thank you. Praise from a man does nothing for me. // ...?"
   },
@@ -2279,7 +2279,7 @@
    "jp": "{1c:16}ふーん・・・\n聞こえたのはあたしだけって訳ね。{0c:fe}",
    "read": "{1c:16}ふーん・・・\n聞こえたのはあたしだけって訳ね。{0c:fe}",
    "raw": null,
-   "en": "{1c:16}Hmm... So I'm the only one who heard it, I\nsuppose.{0c:fe}",
+   "en": "{1c:16}Hmm... So I'm the only one who heard it,\nI suppose.{0c:fe}",
    "status": "done",
    "tl": "Hmm... So I'm the only one who heard it, I suppose."
   },
@@ -2336,7 +2336,7 @@
    "jp": "{1c:18}{0b:08}{e080} ディアス {e081}{0b:09}\n今の所は全てあの文{e0c9}の{e090}りか・・・{0c:fe}",
    "read": "{1c:18}{0b:08}【 ディアス 】{0b:09}\n今の所は全てあの文書の通りか・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:18}{0b:08}【 Dias 】{0b:09}\nSo far, everything is as that document\nsaid...{0c:fe}",
+   "en": "{1c:18}{0b:08}【 Dias 】{0b:09}\nSo far, everything is as that\ndocument said...{0c:fe}",
    "status": "done",
    "tl": "So far, everything is as that document said..."
   },
@@ -2485,7 +2485,7 @@
    "jp": "{1c:1b}{0b:08}{e080} ノエル {e081}{0b:09}\nこれがアスラ・ファエル・・・{1a}やっぱりおかしいわ。\n1万{e0b7}前にこんな{e087}{e08f}が\n存{e0cc}した筈がない。{1a}{e0ce}の{e0cf}{e0d0}方{e0d1}も、細{e0d2}の建築様{e0d5}も\n全てがレノス時{e0d6}以{e0a6}のもの。\nそれも、各時{e0d6}各地方の建築の{e0d8}徴を\n{e0da}ぜ合わせたような統一の無さ・・・{1a}これじゃ、\n寓話{e0dd}本の挿し{e0dd}じゃないの・・・{0c:fe}",
    "read": "{1c:1b}{0b:08}【 ノエル 】{0b:09}\nこれがアスラ・ファエル・・・{1a}やっぱりおかしいわ。\n1万年前にこんな都市が\n存在した筈がない。{1a}石の研磨方法も、細部の建築様式も\n全てがレノス時代以降のもの。\nそれも、各時代各地方の建築の特徴を\n混ぜ合わせたような統一の無さ・・・{1a}これじゃ、\n寓話絵本の挿し絵じゃないの・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:1b}{0b:08}【 Noel 】{0b:09}\nSo this is Asla Fael...{1a}Just as I thought, this is all wrong. A\ncity like this can't have existed ten\nthousand years ago.{1a}The stone polishing, the architectural\ndetails, all of it dates from the Lenos\nera or later. And with no unity at all, as\nif every era's and every region's{1a}features were just mixed together...{1a}Honestly, this is nothing but an\nillustration out of a picture book of\nfables...{0c:fe}",
+   "en": "{1c:1b}{0b:08}【 Noel 】{0b:09}\nSo this is Asla Fael...{1a}Just as I thought, this is all wrong. A\ncity like this can't have existed ten\nthousand years ago.{1a}The stone polishing, the architectural\ndetails, all of it dates from the Lenos\nera or later. And with no unity at all, as\nif every era's and every region's{1a}features were just mixed together...{1a}Honestly, this is nothing but an\nillustration out of a picture book\nof fables...{0c:fe}",
    "status": "done",
    "tl": "So this is Asla Fael... // Just as I thought, this is all wrong. A city like this can't have existed ten thousand years ago. // The stone polishing, the architectural details, all of it dates from the Lenos era or later. And with no unity at all, as if every era's and every region's features were just mixed together... // Honestly, this is nothing but an illustration out of a picture book of fables..."
   },
@@ -2646,7 +2646,7 @@
    "jp": "{1c:1d}あたしだけなの?\n一体どういうこと・・・?{0c:fe}",
    "read": "{1c:1d}あたしだけなの?\n一体どういうこと・・・?{0c:fe}",
    "raw": null,
-   "en": "{1c:1d}Is it only me? What on earth is going\non...?{0c:fe}",
+   "en": "{1c:1d}Is it only me? What on earth is\ngoing on...?{0c:fe}",
    "status": "done",
    "tl": "Is it only me? What on earth is going on...?"
   },
@@ -2760,7 +2760,7 @@
    "jp": "これがアスラ・ファエル・・・\n不思{e0ae}な場所だね。\n地下なのに{e082}{e083}も{e09c}も{e0bb}もある・・・{1a}でも、おかしな{e082}{e083}だね。\n{e08d}は強いのに全然暖かくない・・・{0c:fe}",
    "read": "これがアスラ・ファエル・・・\n不思議な場所だね。\n地下なのに太陽も空も風もある・・・{1a}でも、おかしな太陽だね。\n光は強いのに全然暖かくない・・・{0c:fe}",
    "raw": null,
-   "en": "So this is Asla Fael... What a strange\nplace! We're underground, but there's a\nsun and a sky and wind...{1a}It's a funny sort of sun, though. The\nlight's so strong, but it isn't warm at\nall...{0c:fe}",
+   "en": "So this is Asla Fael... What a strange\nplace! We're underground, but there's a\nsun and a sky and wind...{1a}It's a funny sort of sun, though. The\nlight's so strong, but it isn't warm\nat all...{0c:fe}",
    "status": "done",
    "tl": "So this is Asla Fael... What a strange place! We're underground, but there's a sun and a sky and wind... // It's a funny sort of sun, though. The light's so strong, but it isn't warm at all..."
   },
@@ -2852,7 +2852,7 @@
    "jp": "{0c:52201d}誰の声だったんだろう・・・\n聞いたことのある声・・・{1a}{e0e1}容はわからなかったけど\n哀しそうな声だった・・・{1a}でも、どうしてあたしにだけ\n聞こえたのかな・・・\n不思{e0ae}なコトばかりだね。{0c:2b0009fe}",
    "read": "{0c:52201d}誰の声だったんだろう・・・\n聞いたことのある声・・・{1a}内容はわからなかったけど\n哀しそうな声だった・・・{1a}でも、どうしてあたしにだけ\n聞こえたのかな・・・\n不思議なコトばかりだね。{0c:2b0009fe}",
    "raw": null,
-   "en": "{0c:52201d}Whose voice was that...? I know I've\nheard it before...{1a}I couldn't make out the words, but it\nsounded so sad...{1a}But why could only I hear it...? There's\nnothing but strange stuff here, you\nknow!{0c:2b0009fe}",
+   "en": "{0c:52201d}Whose voice was that...? I know I've\nheard it before...{1a}I couldn't make out the words, but it\nsounded so sad...{1a}But why could only I hear it...? There's\nnothing but strange stuff here,\nyou know!{0c:2b0009fe}",
    "status": "done",
    "tl": "Whose voice was that...? I know I've heard it before... // I couldn't make out the words, but it sounded so sad... // But why could only I hear it...? There's nothing but strange stuff here, you know!"
   },
@@ -3001,7 +3001,7 @@
    "jp": "{1c:20}ほ、本当に聞こえたんです・・・\n子供の泣き声みたいな・・・\n{0c:521f20}お、おかしいですよね、\nなんだか気味が悪いです・・・{0c:fe}",
    "read": "{1c:20}ほ、本当に聞こえたんです・・・\n子供の泣き声みたいな・・・\n{0c:521f20}お、おかしいですよね、\nなんだか気味が悪いです・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:20}I-I truly did hear it... Like a child crying...\n{0c:521f20}Th-that is strange, isn't it? It is rather\nunnerving...{0c:fe}",
+   "en": "{1c:20}I-I truly did hear it... Like a child crying...\n{0c:521f20}Th-that is strange, isn't it? It is\nrather unnerving...{0c:fe}",
    "status": "done",
    "tl": "I-I truly did hear it... Like a child crying... [1]Th-that is strange, isn't it? It is rather unnerving..."
   },
@@ -3058,7 +3058,7 @@
    "jp": "{1c:22}{0b:08}{e080} サラ {e081}{0b:09}\nこれがアスラ・ファエル・・・\n{e0dd}本に出てくる神様の{e085}って\nこんなところなのかな・・・{1a}でも、まぶしいくらい綺麗だけど、\nなんとなくどこかさみしいね。\n人が暮らしてるって\n雰{e0e4}気が感じられないからかな・・・{1a}あたしは、こんなに綺麗じゃなくても\nみんなが笑って暮らせるような\n町の方がいいな。{0c:fe}",
    "read": "{1c:22}{0b:08}【 サラ 】{0b:09}\nこれがアスラ・ファエル・・・\n絵本に出てくる神様の国って\nこんなところなのかな・・・{1a}でも、まぶしいくらい綺麗だけど、\nなんとなくどこかさみしいね。\n人が暮らしてるって\n雰囲気が感じられないからかな・・・{1a}あたしは、こんなに綺麗じゃなくても\nみんなが笑って暮らせるような\n町の方がいいな。{0c:fe}",
    "raw": null,
-   "en": "{1c:22}{0b:08}【 Sara 】{0b:09}\nSo this is Asla Fael... I wonder if God's\nland in the picture books looks like this...{1a}It's so pretty it's almost dazzling, but\nit's kind of lonely somehow. Maybe\nbecause it doesn't feel like people live\nhere...{1a}Me, I'd rather have a town where\neverybody can laugh and live happily, even\nif it isn't this pretty.{0c:fe}",
+   "en": "{1c:22}{0b:08}【 Sara 】{0b:09}\nSo this is Asla Fael... I wonder if God's\nland in the picture books looks like this...{1a}It's so pretty it's almost dazzling, but\nit's kind of lonely somehow. Maybe\nbecause it doesn't feel like people\nlive here...{1a}Me, I'd rather have a town where\neverybody can laugh and live happily, even\nif it isn't this pretty.{0c:fe}",
    "status": "done",
    "tl": "So this is Asla Fael... I wonder if God's land in the picture books looks like this... // It's so pretty it's almost dazzling, but it's kind of lonely somehow. Maybe because it doesn't feel like people live here... // Me, I'd rather have a town where everybody can laugh and live happily, even if it isn't this pretty."
   },

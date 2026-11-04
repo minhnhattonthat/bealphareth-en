@@ -99,7 +99,7 @@
    "jp": "{1c:11}{0b:08}{e080} レイア {e081}{0b:09}\n・・・私の父は\nアスロイトの四{e08e}爵の1人\nデューラー{e08e}に仕える{e090}士だった。{0c:4c05235119}{0c:fe}",
    "read": "{1c:11}{0b:08}【 レイア 】{0b:09}\n・・・私の父は\nアスロイトの四公爵の1人\nデューラー公に仕える騎士だった。{0c:4c05235119}{0c:fe}",
    "raw": null,
-   "en": "{1c:11}{0b:08}【 Leia 】{0b:09}\n...My father was a knight in the service\nof Duke Durer, one of the four dukes of\nAsroit.{0c:4c05235119}{0c:fe}",
+   "en": "{1c:11}{0b:08}【 Leia 】{0b:09}\n...My father was a knight in the service\nof Duke Durer, one of the four dukes\nof Asroit.{0c:4c05235119}{0c:fe}",
    "status": "done",
    "tl": "...My father was a knight in the service of Duke Durer, one of the four dukes of Asroit."
   },
@@ -122,7 +122,7 @@
    "jp": "{1c:63}私が10歳の時、\n父は、{e092}君に対する反{e093}の罪で\n{e090}士の{e094}を剥奪され処刑された。{1a}実際は、日照りに苦しむ{e09a}{e09b}どもに\n{e08e}爵の{e09c}り場の{e09d}{e09e}をせき止め\n{e09d}を分け{e09f}えたという、\n実に下らない理由だったのだがな。{0c:fe}",
    "read": "{1c:63}私が10歳の時、\n父は、主君に対する反逆の罪で\n騎士の位を剥奪され処刑された。{1a}実際は、日照りに苦しむ農民どもに\n公爵の狩り場の水路をせき止め\n水を分け与えたという、\n実に下らない理由だったのだがな。{0c:fe}",
    "raw": null,
-   "en": "{1c:63}When I was ten, my father was stripped\nof his knighthood and executed for\ntreason against his lord.{1a}In truth, the reason was a trifling one:\nhe dammed the channel of the duke's\nhunting grounds and shared the water\nout among peasants suffering from{1a}drought.{0c:fe}",
+   "en": "{1c:63}When I was ten, my father was stripped\nof his knighthood and executed for\ntreason against his lord.{1a}In truth, the reason was a trifling one:\nhe dammed the channel of the duke's\nhunting grounds and shared the water\nout among peasants suffering{1a}from drought.{0c:fe}",
    "status": "done",
    "tl": "When I was ten, my father was stripped of his knighthood and executed for treason against his lord. // In truth, the reason was a trifling one: he dammed the channel of the duke's hunting grounds and shared the water out among peasants suffering from drought."
   },
@@ -168,7 +168,7 @@
    "jp": "{1c:63}しかし、あの男の側室になることを\n拒み続けた{e0a7}と私達は\n{01}1{e085}後{02}、{01}1{e0ac}{02}の{03}コイン{02}を持つことも\n許されずに城を{e0ad}われた・・・{0c:fe}",
    "read": "{1c:63}しかし、あの男の側室になることを\n拒み続けた母と私達は\n{01}1年後{02}、{01}1枚{02}の{03}コイン{02}を持つことも\n許されずに城を追われた・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:63}However, my mother went on refusing to\nbecome that man's concubine, and one\nyear later we were driven from the\ncastle without so much as a single{1a}coin...{0c:fe}",
+   "en": "{1c:63}However, my mother went on refusing to\nbecome that man's concubine, and one\nyear later we were driven from the\ncastle without so much as a{1a}single coin...{0c:fe}",
    "status": "done",
    "tl": "However, my mother went on refusing to become that man's concubine, and one year later we were driven from the castle without so much as a single coin..."
   },
@@ -226,7 +226,7 @@
    "jp": "{0c:4c05235119}{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\nああ、{e08e}爵の目を恐れての\nことかもしれない・・・{1a}それは別に構わない。\n恨みにも思っていない。{1a}ともかく、行く場のない私達は、\n親戚中をたらい回しにされた。\nどこにも私達の居場所はなかった。{1a}父の{e088}かな行動のために\n私の{e0a1}{e0a2}は・・・\nあの{e088}かな男のせいで!{0c:fe}",
    "read": "{0c:4c05235119}{1c:10}{0b:08}【 レイア 】{0b:09}\nああ、公爵の目を恐れての\nことかもしれない・・・{1a}それは別に構わない。\n恨みにも思っていない。{1a}ともかく、行く場のない私達は、\n親戚中をたらい回しにされた。\nどこにも私達の居場所はなかった。{1a}父の愚かな行動のために\n私の家族は・・・\nあの愚かな男のせいで!{0c:fe}",
    "raw": null,
-   "en": "{0c:4c05235119}{1c:10}{0b:08}【 Leia 】{0b:09}\nYes, perhaps they did fear the duke's\neyes...{1a}That does not matter to me. I bear them\nno grudge.{1a}In any case, with nowhere to go, we were\npassed from relative to relative. There\nwas no place for us anywhere.{1a}Because of my father's foolish act, my\nfamily... Because of that foolish man!{0c:fe}",
+   "en": "{0c:4c05235119}{1c:10}{0b:08}【 Leia 】{0b:09}\nYes, perhaps they did fear the\nduke's eyes...{1a}That does not matter to me. I bear them\nno grudge.{1a}In any case, with nowhere to go, we were\npassed from relative to relative. There\nwas no place for us anywhere.{1a}Because of my father's foolish act, my\nfamily... Because of that foolish man!{0c:fe}",
    "status": "done",
    "tl": "Yes, perhaps they did fear the duke's eyes... // That does not matter to me. I bear them no grudge. // In any case, with nowhere to go, we were passed from relative to relative. There was no place for us anywhere. // Because of my father's foolish act, my family... Because of that foolish man!"
   },
@@ -261,7 +261,7 @@
    "jp": "{1c:12}{0b:08}{e080} レイア {e081}{0b:09}\n他人からすれば美談かもしれん。\nだが、私の{e0a1}{e0a2}にしてみれば\n笑えない冗談にすぎない。{1a}私の{e0a1}も小さいとはいえ、\n何十人もの使用人や従者がいる。\nそして彼等にも{e0a1}{e0a2}がいる。{1a}父の思慮に欠けた行動のために、\n{e0a1}臣達やその{e0a1}{e0a2}までもが\n{e09e}頭に迷うこととなった。{1a}気{e0ba}く美しかった{e0a7}も、\n物乞いのような生活が続き、\n心を{e0bd}んで今では見る影もない・・・{0c:fe}",
    "read": "{1c:12}{0b:08}【 レイア 】{0b:09}\n他人からすれば美談かもしれん。\nだが、私の家族にしてみれば\n笑えない冗談にすぎない。{1a}私の家も小さいとはいえ、\n何十人もの使用人や従者がいる。\nそして彼等にも家族がいる。{1a}父の思慮に欠けた行動のために、\n家臣達やその家族までもが\n路頭に迷うこととなった。{1a}気高く美しかった母も、\n物乞いのような生活が続き、\n心を病んで今では見る影もない・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:12}{0b:08}【 Leia 】{0b:09}\nTo others it may be a fine tale. But to\nmy family, it is a joke no one can laugh\nat.{1a}Small though my house may be, it has\ndozens of servants and retainers. And\nthey have families as well.{1a}Because of my father's thoughtless\nact, even the retainers and their families\nwere turned out on the road.{1a}My mother, once so noble and beautiful,\nlived like a beggar for so long that her\nmind sickened, and now she is a shadow\nof what she was...{0c:fe}",
+   "en": "{1c:12}{0b:08}【 Leia 】{0b:09}\nTo others it may be a fine tale. But to\nmy family, it is a joke no one can\nlaugh at.{1a}Small though my house may be, it has\ndozens of servants and retainers. And\nthey have families as well.{1a}Because of my father's thoughtless\nact, even the retainers and their families\nwere turned out on the road.{1a}My mother, once so noble and beautiful,\nlived like a beggar for so long that her\nmind sickened, and now she is a shadow\nof what she was...{0c:fe}",
    "status": "done",
    "tl": "To others it may be a fine tale. But to my family, it is a joke no one can laugh at. // Small though my house may be, it has dozens of servants and retainers. And they have families as well. // Because of my father's thoughtless act, even the retainers and their families were turned out on the road. // My mother, once so noble and beautiful, lived like a beggar for so long that her mind sickened, and now she is a shadow of what she was..."
   },
@@ -296,7 +296,7 @@
    "jp": "{1c:14}{0b:08}{e080} レイア {e081}{0b:09}\n{e0bf}{e0c0}の生活をしたくても、\nどの{e0c1}地も私達を拒み続ける。{1a}ここで見つけた{e0c2}{e0c3}を\n{e0a7}のもとに送っても、\n{e08e}爵の手の者に全て{e0c5}{e0c6}される。{1a}私の{e0a1}{e0a2}と{e0a1}臣達を救うには、\n不老不死の{e0c8}{e0c3}\n『アザレの{e0b0}』を見つけ、{1a}王{e0c9}{e0ca}でただ1人\nデューラー{e08e}以上の権力をもつ\nアスロイト{e0c9}王に直接\n認めてもらうしかなかった・・・{0c:4c0509fe}",
    "read": "{1c:14}{0b:08}【 レイア 】{0b:09}\n普通の生活をしたくても、\nどの土地も私達を拒み続ける。{1a}ここで見つけた財宝を\n母のもとに送っても、\n公爵の手の者に全て没収される。{1a}私の家族と家臣達を救うには、\n不老不死の秘宝\n『アザレの石』を見つけ、{1a}王国内でただ1人\nデューラー公以上の権力をもつ\nアスロイト国王に直接\n認めてもらうしかなかった・・・{0c:4c0509fe}",
    "raw": null,
-   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\nWe wish only to live ordinary lives, yet\nevery land goes on rejecting us.{1a}Even when I send my mother treasure\nfound here, the duke's men confiscate it\nall.{1a}To save my family and retainers, I had no\nchoice but to find the treasure of\neternal life, the 'Azare Stone',{1a}and win direct recognition from the King\nof Asroit, the one man in the kingdom\nwith more power than Duke Durer...{0c:4c0509fe}",
+   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\nWe wish only to live ordinary lives, yet\nevery land goes on rejecting us.{1a}Even when I send my mother treasure\nfound here, the duke's men confiscate\nit all.{1a}To save my family and retainers, I had no\nchoice but to find the treasure of\neternal life, the 'Azare Stone',{1a}and win direct recognition from the King\nof Asroit, the one man in the kingdom\nwith more power than Duke Durer...{0c:4c0509fe}",
    "status": "done",
    "tl": "We wish only to live ordinary lives, yet every land goes on rejecting us. // Even when I send my mother treasure found here, the duke's men confiscate it all. // To save my family and retainers, I had no choice but to find the treasure of eternal life, the 'Azare Stone', // and win direct recognition from the King of Asroit, the one man in the kingdom with more power than Duke Durer..."
   },
@@ -678,7 +678,7 @@
    "jp": "{1c:14}{0b:08}{e080} レイア {e081}{0b:09}\n・・・私の父は\nアスロイトの四{e08e}爵の1人\nデューラー{e08e}に仕える{e090}士だった。{0c:fe}",
    "read": "{1c:14}{0b:08}【 レイア 】{0b:09}\n・・・私の父は\nアスロイトの四公爵の1人\nデューラー公に仕える騎士だった。{0c:fe}",
    "raw": null,
-   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\n...My father was a knight in the service\nof Duke Durer, one of the four dukes of\nAsroit.{0c:fe}",
+   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\n...My father was a knight in the service\nof Duke Durer, one of the four dukes\nof Asroit.{0c:fe}",
    "status": "done",
    "tl": "...My father was a knight in the service of Duke Durer, one of the four dukes of Asroit."
   },
@@ -701,7 +701,7 @@
    "jp": "{1c:63}私が10歳の時、\n父は、{e092}君に対する反{e093}の罪で\n{e090}士の{e094}を剥奪され処刑された。{1a}実際は、日照りに苦しむ{e09a}{e09b}どもに\n{e08e}爵の{e09c}り場の{e09d}{e09e}をせき止め\n{e09d}を分け{e09f}えたという、\n実に下らない理由だったのだがな。{0c:fe}",
    "read": "{1c:63}私が10歳の時、\n父は、主君に対する反逆の罪で\n騎士の位を剥奪され処刑された。{1a}実際は、日照りに苦しむ農民どもに\n公爵の狩り場の水路をせき止め\n水を分け与えたという、\n実に下らない理由だったのだがな。{0c:fe}",
    "raw": null,
-   "en": "{1c:63}When I was ten, my father was stripped\nof his knighthood and executed for\ntreason against his lord.{1a}In truth, the reason was a trifling one:\nhe dammed the channel of the duke's\nhunting grounds and shared the water\nout among peasants suffering from{1a}drought.{0c:fe}",
+   "en": "{1c:63}When I was ten, my father was stripped\nof his knighthood and executed for\ntreason against his lord.{1a}In truth, the reason was a trifling one:\nhe dammed the channel of the duke's\nhunting grounds and shared the water\nout among peasants suffering{1a}from drought.{0c:fe}",
    "status": "done",
    "tl": "When I was ten, my father was stripped of his knighthood and executed for treason against his lord. // In truth, the reason was a trifling one: he dammed the channel of the duke's hunting grounds and shared the water out among peasants suffering from drought."
   },
@@ -747,7 +747,7 @@
    "jp": "{1c:63}しかし、あの男の側室になることを\n拒み続けた{e0a7}と私達は\n{01}1{e085}後{02}、{01}1{e0ac}{02}の{03}コイン{02}を持つことも\n許されずに城を{e0ad}われた・・・{0c:fe}",
    "read": "{1c:63}しかし、あの男の側室になることを\n拒み続けた母と私達は\n{01}1年後{02}、{01}1枚{02}の{03}コイン{02}を持つことも\n許されずに城を追われた・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:63}However, my mother went on refusing to\nbecome that man's concubine, and one\nyear later we were driven from the\ncastle without so much as a single{1a}coin...{0c:fe}",
+   "en": "{1c:63}However, my mother went on refusing to\nbecome that man's concubine, and one\nyear later we were driven from the\ncastle without so much as a{1a}single coin...{0c:fe}",
    "status": "done",
    "tl": "However, my mother went on refusing to become that man's concubine, and one year later we were driven from the castle without so much as a single coin..."
   },
@@ -805,7 +805,7 @@
    "jp": "{1c:10}{0b:08}{e080} レイア {e081}{0b:09}\nああ、{e08e}爵の目を恐れての\nことかもしれない・・・{1a}それは別に構わない。\n恨みにも思っていない。\nともかく、行く場のない私達は、\n親戚中をたらい回しにされた。\nどこにも私達の居場所はなかった。{1a}父の{e088}かな行動のために\n私の{e0a1}{e0a2}は・・・\nあの{e088}かな男のせいで!{0c:fe}",
    "read": "{1c:10}{0b:08}【 レイア 】{0b:09}\nああ、公爵の目を恐れての\nことかもしれない・・・{1a}それは別に構わない。\n恨みにも思っていない。\nともかく、行く場のない私達は、\n親戚中をたらい回しにされた。\nどこにも私達の居場所はなかった。{1a}父の愚かな行動のために\n私の家族は・・・\nあの愚かな男のせいで!{0c:fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Leia 】{0b:09}\nYes, perhaps they did fear the duke's\neyes...{1a}That does not matter to me. I bear them\nno grudge. In any case, with nowhere to\ngo, we were passed from relative to\nrelative. There was no place for us{1a}anywhere.{1a}Because of my father's foolish act, my\nfamily... Because of that foolish man!{0c:fe}",
+   "en": "{1c:10}{0b:08}【 Leia 】{0b:09}\nYes, perhaps they did fear the\nduke's eyes...{1a}That does not matter to me. I bear them\nno grudge. In any case, with nowhere to\ngo, we were passed from relative to\nrelative. There was no place for{1a}us anywhere.{1a}Because of my father's foolish act, my\nfamily... Because of that foolish man!{0c:fe}",
    "status": "done",
    "tl": "Yes, perhaps they did fear the duke's eyes... // That does not matter to me. I bear them no grudge. In any case, with nowhere to go, we were passed from relative to relative. There was no place for us anywhere. // Because of my father's foolish act, my family... Because of that foolish man!"
   },
@@ -828,7 +828,7 @@
    "jp": "{0c:5118}{1c:1a}{0b:08}{e080} シャルン {e081}{0b:09}\nでも、あなたの父さんは\n大勢の人を助けたんでしょ?{1a}すごく勇気のある人だと思う。\nそんなに父さんを\n悪く言うべきじゃ・・・{0c:290309fe}",
    "read": "{0c:5118}{1c:1a}{0b:08}【 シャルン 】{0b:09}\nでも、あなたの父さんは\n大勢の人を助けたんでしょ?{1a}すごく勇気のある人だと思う。\nそんなに父さんを\n悪く言うべきじゃ・・・{0c:290309fe}",
    "raw": null,
-   "en": "{0c:5118}{1c:1a}{0b:08}【 Scharn 】{0b:09}\nBut your father saved lots of people,\nright?{1a}I think he was really brave! You shouldn't\ntalk so badly about your father...{0c:290309fe}",
+   "en": "{0c:5118}{1c:1a}{0b:08}【 Scharn 】{0b:09}\nBut your father saved lots of\npeople, right?{1a}I think he was really brave! You shouldn't\ntalk so badly about your father...{0c:290309fe}",
    "status": "done",
    "tl": "But your father saved lots of people, right? // I think he was really brave! You shouldn't talk so badly about your father..."
   },
@@ -840,7 +840,7 @@
    "jp": "{1c:14}{0b:08}{e080} レイア {e081}{0b:09}\n他人からすれば美談かもしれん。\nだが、私の{e0a1}{e0a2}にしてみれば\n笑えない冗談にすぎない。{1a}それに、私の{e0a1}も小さいとはいえ、\n何十人もの使用人や従者がいる。\nそして彼等にも{e0a1}{e0a2}がいる。{1a}父の思慮に欠けた行動のために、\n{e0a1}臣達やその{e0a1}{e0a2}までもが\n{e09e}頭に迷うこととなった。{1a}気{e0ba}く美しかった{e0a7}も、\n物乞いのような生活が続き、\n心を{e0bd}んで今では見る影もない・・・{0c:4c0809fe}",
    "read": "{1c:14}{0b:08}【 レイア 】{0b:09}\n他人からすれば美談かもしれん。\nだが、私の家族にしてみれば\n笑えない冗談にすぎない。{1a}それに、私の家も小さいとはいえ、\n何十人もの使用人や従者がいる。\nそして彼等にも家族がいる。{1a}父の思慮に欠けた行動のために、\n家臣達やその家族までもが\n路頭に迷うこととなった。{1a}気高く美しかった母も、\n物乞いのような生活が続き、\n心を病んで今では見る影もない・・・{0c:4c0809fe}",
    "raw": null,
-   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\nTo others it may be a fine tale. But to\nmy family, it is a joke no one can laugh\nat.{1a}Besides, small though my house may be,\nit has dozens of servants and retainers.\nAnd they have families as well.{1a}Because of my father's thoughtless\nact, even the retainers and their families\nwere turned out on the road.{1a}My mother, once so noble and beautiful,\nlived like a beggar for so long that her\nmind sickened, and now she is a shadow\nof what she was...{0c:4c0809fe}",
+   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\nTo others it may be a fine tale. But to\nmy family, it is a joke no one can\nlaugh at.{1a}Besides, small though my house may be,\nit has dozens of servants and retainers.\nAnd they have families as well.{1a}Because of my father's thoughtless\nact, even the retainers and their families\nwere turned out on the road.{1a}My mother, once so noble and beautiful,\nlived like a beggar for so long that her\nmind sickened, and now she is a shadow\nof what she was...{0c:4c0809fe}",
    "status": "done",
    "tl": "To others it may be a fine tale. But to my family, it is a joke no one can laugh at. // Besides, small though my house may be, it has dozens of servants and retainers. And they have families as well. // Because of my father's thoughtless act, even the retainers and their families were turned out on the road. // My mother, once so noble and beautiful, lived like a beggar for so long that her mind sickened, and now she is a shadow of what she was..."
   },
@@ -864,7 +864,7 @@
    "jp": "{1c:14}{0b:08}{e080} レイア {e081}{0b:09}\n{e0bf}{e0c0}の生活をしたくても、\nどの{e0c1}地も私達を拒み続ける。{1a}ここで見つけた{e0c2}{e0c3}を\n{e0a7}のもとに送っても、\n{e08e}爵の手の者に全て{e0c5}{e0c6}される。{1a}私の{e0a1}{e0a2}と{e0a1}臣達を救うには、\n不老不死の{e0c8}{e0c3}\n『アザレの{e0b0}』を見つけ、{1a}王{e0c9}{e0ca}でただ1人\nデューラー{e08e}以上の権力をもつ\nアスロイト{e0c9}王に直接\n認めてもらうしかなかった・・・{0c:4c0809fe}",
    "read": "{1c:14}{0b:08}【 レイア 】{0b:09}\n普通の生活をしたくても、\nどの土地も私達を拒み続ける。{1a}ここで見つけた財宝を\n母のもとに送っても、\n公爵の手の者に全て没収される。{1a}私の家族と家臣達を救うには、\n不老不死の秘宝\n『アザレの石』を見つけ、{1a}王国内でただ1人\nデューラー公以上の権力をもつ\nアスロイト国王に直接\n認めてもらうしかなかった・・・{0c:4c0809fe}",
    "raw": null,
-   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\nWe wish only to live ordinary lives, yet\nevery land goes on rejecting us.{1a}Even when I send my mother treasure\nfound here, the duke's men confiscate it\nall.{1a}To save my family and retainers, I had no\nchoice but to find the treasure of\neternal life, the 'Azare Stone',{1a}and win direct recognition from the King\nof Asroit, the one man in the kingdom\nwith more power than Duke Durer...{0c:4c0809fe}",
+   "en": "{1c:14}{0b:08}【 Leia 】{0b:09}\nWe wish only to live ordinary lives, yet\nevery land goes on rejecting us.{1a}Even when I send my mother treasure\nfound here, the duke's men confiscate\nit all.{1a}To save my family and retainers, I had no\nchoice but to find the treasure of\neternal life, the 'Azare Stone',{1a}and win direct recognition from the King\nof Asroit, the one man in the kingdom\nwith more power than Duke Durer...{0c:4c0809fe}",
    "status": "done",
    "tl": "We wish only to live ordinary lives, yet every land goes on rejecting us. // Even when I send my mother treasure found here, the duke's men confiscate it all. // To save my family and retainers, I had no choice but to find the treasure of eternal life, the 'Azare Stone', // and win direct recognition from the King of Asroit, the one man in the kingdom with more power than Duke Durer..."
   },
@@ -1343,7 +1343,7 @@
    "jp": "{1c:10}好きにするがいい。\n目的を遂げるのに必要なのは\nこの{e0de}だけ。他に何も要らない。{0c:153b0800}",
    "read": "{1c:10}好きにするがいい。\n目的を遂げるのに必要なのは\nこの剣だけ。他に何も要らない。{0c:153b0800}",
    "raw": null,
-   "en": "{1c:10}Do as you please. To reach my goal I\nneed only this sword. I require nothing\nelse.{0c:153b0800}",
+   "en": "{1c:10}Do as you please. To reach my goal I\nneed only this sword. I require\nnothing else.{0c:153b0800}",
    "status": "done",
    "tl": "Do as you please. To reach my goal I need only this sword. I require nothing else."
   },
@@ -1379,7 +1379,7 @@
    "jp": "{1c:10}好きにするがいい。\n目的を遂げるのに必要なのは\nこの{e0de}だけ。他に何も要らない。{0c:153b0800}",
    "read": "{1c:10}好きにするがいい。\n目的を遂げるのに必要なのは\nこの剣だけ。他に何も要らない。{0c:153b0800}",
    "raw": null,
-   "en": "{1c:10}Do as you please. To reach my goal I\nneed only this sword. I require nothing\nelse.{0c:153b0800}",
+   "en": "{1c:10}Do as you please. To reach my goal I\nneed only this sword. I require\nnothing else.{0c:153b0800}",
    "status": "done",
    "tl": "Do as you please. To reach my goal I need only this sword. I require nothing else."
   },
@@ -1427,7 +1427,7 @@
    "jp": "{1c:10}心配するな・・・ \n裏切られるのはもう慣れた・・・",
    "read": "{1c:10}心配するな・・・ \n裏切られるのはもう慣れた・・・",
    "raw": null,
-   "en": "{1c:10}Do not worry... I am used to betrayal by\nnow...",
+   "en": "{1c:10}Do not worry... I am used to betrayal\nby now...",
    "status": "done",
    "tl": "Do not worry... I am used to betrayal by now..."
   },
@@ -1473,7 +1473,7 @@
    "jp": "好きにするがいい・・・{1a}だが、考えもなしに行動することが\nどんなに危険なことか、{1a}そして、どんなに{e0df}{e0e0}を\n不幸にするか・・・\nお前も知っておくべきだ。{0c:15}",
    "read": "好きにするがいい・・・{1a}だが、考えもなしに行動することが\nどんなに危険なことか、{1a}そして、どんなに周囲を\n不幸にするか・・・\nお前も知っておくべきだ。{0c:15}",
    "raw": null,
-   "en": "Do as you please...{1a}But how dangerous it is to act without\nthought,{1a}and how much misery it brings on those\naround you... You should know that as\nwell.{0c:15}",
+   "en": "Do as you please...{1a}But how dangerous it is to act\nwithout thought,{1a}and how much misery it brings on those\naround you... You should know that\nas well.{0c:15}",
    "status": "done",
    "tl": "Do as you please... // But how dangerous it is to act without thought, // and how much misery it brings on those around you... You should know that as well."
   },
@@ -1556,7 +1556,7 @@
    "jp": "{10}・・・\nお前は何をそんなに焦っている?{0c:15}",
    "read": "{10}・・・\nお前は何をそんなに焦っている?{0c:15}",
    "raw": null,
-   "en": "{10}... What are you so desperate\nabout?{0c:15}",
+   "en": "{10}... What are you so\ndesperate about?{0c:15}",
    "status": "done",
    "tl": "[HERO]... What are you so desperate about?"
   },

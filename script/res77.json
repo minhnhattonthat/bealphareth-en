@@ -179,7 +179,7 @@
    "jp": "{1c:1d}{0b:08}{e080} オルフェウス {e081}{0b:09}\nどうやらレイアさんは\n閉じこめられているようですね。{0c:020701}",
    "read": "{1c:1d}{0b:08}【 オルフェウス 】{0b:09}\nどうやらレイアさんは\n閉じこめられているようですね。{0c:020701}",
    "raw": null,
-   "en": "{1c:1d}{0b:08}【 Orpheus 】{0b:09}\nIt would appear Leia-san has been locked\nin.{0c:020701}",
+   "en": "{1c:1d}{0b:08}【 Orpheus 】{0b:09}\nIt would appear Leia-san has been\nlocked in.{0c:020701}",
    "status": "done",
    "tl": "It would appear Leia-san has been locked in."
   },
@@ -959,7 +959,7 @@
    "jp": "{1c:11}{0b:08}{e080} パスカ {e081}{0b:09}\n{10}、お前こいつらの倒し方\nバルデスさんに聞いてねえんだよな。\n今から言うから覚えろよ。{1a}{09:08}{e08c}い方は赤い方を先に{e08e}らせないと、\n赤い方は{e08c}い方を先に{e08f}やさないと、\nどんなに攻撃しても傷1つ\nつけられない{09:01}らしいんだ。{1a}面倒だなんて言うなよ、\nやらなきゃ殺されるのはこっちだ。\nわかったな!{0c:fe}",
    "read": "{1c:11}{0b:08}【 パスカ 】{0b:09}\n{10}、お前こいつらの倒し方\nバルデスさんに聞いてねえんだよな。\n今から言うから覚えろよ。{1a}{09:08}青い方は赤い方を先に凍らせないと、\n赤い方は青い方を先に燃やさないと、\nどんなに攻撃しても傷1つ\nつけられない{09:01}らしいんだ。{1a}面倒だなんて言うなよ、\nやらなきゃ殺されるのはこっちだ。\nわかったな!{0c:fe}",
    "raw": null,
-   "en": "{1c:11}{0b:08}【 Pasca 】{0b:09}\n{10}, you never asked Valdes-san\nhow to kill these things, right? I'll tell ya\nnow, so remember it.{1a}{09:08}The blue one can't be hurt till you freeze\nthe red one first, and the red one can't\nbe hurt till you burn the blue one first,\nno matter how much you hit 'em, {09:01}they{1a}say.{1a}Don't go tellin' me it's a pain. If we don't\ndo it, we're the ones gettin' killed. Got\nit!{0c:fe}",
+   "en": "{1c:11}{0b:08}【 Pasca 】{0b:09}\n{10}, you never asked Valdes-san\nhow to kill these things, right? I'll tell ya\nnow, so remember it.{1a}{09:08}The blue one can't be hurt till you freeze\nthe red one first, and the red one can't\nbe hurt till you burn the blue one first,\nno matter how much you hit 'em,{1a}{09:01}they say.{1a}Don't go tellin' me it's a pain. If we don't\ndo it, we're the ones gettin' killed.\nGot it!{0c:fe}",
    "status": "done",
    "tl": "[HERO], you never asked Valdes-san how to kill these things, right? I'll tell ya now, so remember it. // [1]The blue one can't be hurt till you freeze the red one first, and the red one can't be hurt till you burn the blue one first, no matter how much you hit 'em, [2]they say. // Don't go tellin' me it's a pain. If we don't do it, we're the ones gettin' killed. Got it!"
   },
@@ -1062,7 +1062,7 @@
    "jp": "{1c:11}そういや{10}、\nお前、こいつらの倒し方\nバルデスさんに聞いてねえんだよな。\n今から言うから覚えろよ!{1a}{09:08}{e08c}い方は赤い方を先に{e08e}らせないと、\n赤い方は{e08c}い方を先に{e08f}やさないと、\nどんなに攻撃しても傷1つ\nつけられない{09:01}らしいんだ。{1a}面倒だなんて言うなよ、\nやらなきゃ殺されるのはこっちだ。\nわかったな!{0c:fe}",
    "read": "{1c:11}そういや{10}、\nお前、こいつらの倒し方\nバルデスさんに聞いてねえんだよな。\n今から言うから覚えろよ!{1a}{09:08}青い方は赤い方を先に凍らせないと、\n赤い方は青い方を先に燃やさないと、\nどんなに攻撃しても傷1つ\nつけられない{09:01}らしいんだ。{1a}面倒だなんて言うなよ、\nやらなきゃ殺されるのはこっちだ。\nわかったな!{0c:fe}",
    "raw": null,
-   "en": "{1c:11}Come to think of it, {10}, you\nnever asked Valdes-san how to kill these\nthings, right? I'll tell ya now, so\nremember it!{1a}{09:08}The blue one can't be hurt till you freeze\nthe red one first, and the red one can't\nbe hurt till you burn the blue one first,\nno matter how much you hit 'em, {09:01}they{1a}say.{1a}Don't go tellin' me it's a pain. If we don't\ndo it, we're the ones gettin' killed. Got\nit!{0c:fe}",
+   "en": "{1c:11}Come to think of it, {10}, you\nnever asked Valdes-san how to kill these\nthings, right? I'll tell ya now, so\nremember it!{1a}{09:08}The blue one can't be hurt till you freeze\nthe red one first, and the red one can't\nbe hurt till you burn the blue one first,\nno matter how much you hit 'em,{1a}{09:01}they say.{1a}Don't go tellin' me it's a pain. If we don't\ndo it, we're the ones gettin' killed.\nGot it!{0c:fe}",
    "status": "done",
    "tl": "Come to think of it, [HERO], you never asked Valdes-san how to kill these things, right? I'll tell ya now, so remember it! // [1]The blue one can't be hurt till you freeze the red one first, and the red one can't be hurt till you burn the blue one first, no matter how much you hit 'em, [2]they say. // Don't go tellin' me it's a pain. If we don't do it, we're the ones gettin' killed. Got it!"
   },
@@ -1374,7 +1374,7 @@
    "jp": "{1c:11}{0b:08}{e080} パスカ {e081}{0b:09}\n{10}、お前こいつらの倒し方\nバルデスさんに聞いてねえんだよな。\n今から言うから覚えろよ。{1a}{09:08}{e08c}い方は赤い方を先に{e08e}らせないと、\n赤い方は{e08c}い方を先に{e08f}やさないと、\nどんなに攻撃しても傷1つ\nつけられない{09:01}らしいんだ。{1a}面倒だなんて言うなよ、\nやらなきゃ殺されるのはこっちだ。\nわかったな!{0c:fe}",
    "read": "{1c:11}{0b:08}【 パスカ 】{0b:09}\n{10}、お前こいつらの倒し方\nバルデスさんに聞いてねえんだよな。\n今から言うから覚えろよ。{1a}{09:08}青い方は赤い方を先に凍らせないと、\n赤い方は青い方を先に燃やさないと、\nどんなに攻撃しても傷1つ\nつけられない{09:01}らしいんだ。{1a}面倒だなんて言うなよ、\nやらなきゃ殺されるのはこっちだ。\nわかったな!{0c:fe}",
    "raw": null,
-   "en": "{1c:11}{0b:08}【 Pasca 】{0b:09}\n{10}, you never asked Valdes-san\nhow to kill these things, right? I'll tell ya\nnow, so remember it.{1a}{09:08}The blue one can't be hurt till you freeze\nthe red one first, and the red one can't\nbe hurt till you burn the blue one first,\nno matter how much you hit 'em, {09:01}they{1a}say.{1a}Don't go tellin' me it's a pain. If we don't\ndo it, we're the ones gettin' killed. Got\nit!{0c:fe}",
+   "en": "{1c:11}{0b:08}【 Pasca 】{0b:09}\n{10}, you never asked Valdes-san\nhow to kill these things, right? I'll tell ya\nnow, so remember it.{1a}{09:08}The blue one can't be hurt till you freeze\nthe red one first, and the red one can't\nbe hurt till you burn the blue one first,\nno matter how much you hit 'em,{1a}{09:01}they say.{1a}Don't go tellin' me it's a pain. If we don't\ndo it, we're the ones gettin' killed.\nGot it!{0c:fe}",
    "status": "done",
    "tl": "[HERO], you never asked Valdes-san how to kill these things, right? I'll tell ya now, so remember it. // [1]The blue one can't be hurt till you freeze the red one first, and the red one can't be hurt till you burn the blue one first, no matter how much you hit 'em, [2]they say. // Don't go tellin' me it's a pain. If we don't do it, we're the ones gettin' killed. Got it!"
   },
@@ -1477,7 +1477,7 @@
    "jp": "{1c:11}よし・・・{1a}そういや{10}、\nお前、こいつらの倒し方\nバルデスさんに聞いてねえんだよな。\n今から言うから覚えろよ!{1a}{09:08}{e08c}い方は赤い方を先に{e08e}らせないと、\n赤い方は{e08c}い方を先に{e08f}やさないと、\nどんなに攻撃しても傷1つ\nつけられない{09:01}らしいんだ。{1a}面倒だなんて言うなよ、\nやらなきゃ殺されるのはこっちだ。\nわかったな!{0c:fe}",
    "read": "{1c:11}よし・・・{1a}そういや{10}、\nお前、こいつらの倒し方\nバルデスさんに聞いてねえんだよな。\n今から言うから覚えろよ!{1a}{09:08}青い方は赤い方を先に凍らせないと、\n赤い方は青い方を先に燃やさないと、\nどんなに攻撃しても傷1つ\nつけられない{09:01}らしいんだ。{1a}面倒だなんて言うなよ、\nやらなきゃ殺されるのはこっちだ。\nわかったな!{0c:fe}",
    "raw": null,
-   "en": "{1c:11}All right...{1a}Come to think of it, {10}, you\nnever asked Valdes-san how to kill these\nthings, right? I'll tell ya now, so\nremember it!{1a}{09:08}The blue one can't be hurt till you freeze\nthe red one first, and the red one can't\nbe hurt till you burn the blue one first,\nno matter how much you hit 'em, {09:01}they{1a}say.{1a}Don't go tellin' me it's a pain. If we don't\ndo it, we're the ones gettin' killed. Got\nit!{0c:fe}",
+   "en": "{1c:11}All right...{1a}Come to think of it, {10}, you\nnever asked Valdes-san how to kill these\nthings, right? I'll tell ya now, so\nremember it!{1a}{09:08}The blue one can't be hurt till you freeze\nthe red one first, and the red one can't\nbe hurt till you burn the blue one first,\nno matter how much you hit 'em,{1a}{09:01}they say.{1a}Don't go tellin' me it's a pain. If we don't\ndo it, we're the ones gettin' killed.\nGot it!{0c:fe}",
    "status": "done",
    "tl": "All right... // Come to think of it, [HERO], you never asked Valdes-san how to kill these things, right? I'll tell ya now, so remember it! // [1]The blue one can't be hurt till you freeze the red one first, and the red one can't be hurt till you burn the blue one first, no matter how much you hit 'em, [2]they say. // Don't go tellin' me it's a pain. If we don't do it, we're the ones gettin' killed. Got it!"
   },

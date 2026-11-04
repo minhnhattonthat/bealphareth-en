@@ -296,7 +296,7 @@
    "jp": "{0b:08}{e080} シャルン {e081}{0b:09}\nおやすみ、{10}。\nゆっくり休んでね。{0c:022101}",
    "read": "{0b:08}【 シャルン 】{0b:09}\nおやすみ、{10}。\nゆっくり休んでね。{0c:022101}",
    "raw": null,
-   "en": "{0b:08}【 Scharn 】{0b:09}\nGood night, {10}! Get plenty of\nrest!{0c:022101}",
+   "en": "{0b:08}【 Scharn 】{0b:09}\nGood night, {10}! Get plenty\nof rest!{0c:022101}",
    "status": "done",
    "tl": "Good night, [HERO]! Get plenty of rest!"
   },
@@ -758,7 +758,7 @@
    "jp": "{0b:08}{e080} アーサー {e081}{0b:09}\nおはよう、{10}。\nよく眠れたかい?{0c:023301}",
    "read": "{0b:08}【 アーサー 】{0b:09}\nおはよう、{10}。\nよく眠れたかい?{0c:023301}",
    "raw": null,
-   "en": "{0b:08}【 Arthur 】{0b:09}\nGood morning, {10}. Did you sleep\nwell?{0c:023301}",
+   "en": "{0b:08}【 Arthur 】{0b:09}\nGood morning, {10}. Did you\nsleep well?{0c:023301}",
    "status": "done",
    "tl": "Good morning, [HERO]. Did you sleep well?"
   },
@@ -1621,7 +1621,7 @@
    "jp": "{0b:08}{e080} シャルン {e081}{0b:09}\nおやすみ、{10}。\nゆっくり休んでね。{0c:022101}",
    "read": "{0b:08}【 シャルン 】{0b:09}\nおやすみ、{10}。\nゆっくり休んでね。{0c:022101}",
    "raw": null,
-   "en": "{0b:08}【 Scharn 】{0b:09}\nGood night, {10}! Get plenty of\nrest!{0c:022101}",
+   "en": "{0b:08}【 Scharn 】{0b:09}\nGood night, {10}! Get plenty\nof rest!{0c:022101}",
    "status": "done",
    "tl": "Good night, [HERO]! Get plenty of rest!"
   },
@@ -2061,7 +2061,7 @@
    "jp": "{0b:08}{e080} アーサー {e081}{0b:09}\nおはよう、{10}。\nよく眠れたかい?{0c:023301}",
    "read": "{0b:08}【 アーサー 】{0b:09}\nおはよう、{10}。\nよく眠れたかい?{0c:023301}",
    "raw": null,
-   "en": "{0b:08}【 Arthur 】{0b:09}\nGood morning, {10}. Did you sleep\nwell?{0c:023301}",
+   "en": "{0b:08}【 Arthur 】{0b:09}\nGood morning, {10}. Did you\nsleep well?{0c:023301}",
    "status": "done",
    "tl": "Good morning, [HERO]. Did you sleep well?"
   },
@@ -2680,7 +2680,7 @@
    "jp": "{0b:08}{e080} アッシュ {e081}{0b:09}\n{10}、\n誘いにきたんだけど・・・{0c:fe}",
    "read": "{0b:08}【 アッシュ 】{0b:09}\n{10}、\n誘いにきたんだけど・・・{0c:fe}",
    "raw": null,
-   "en": "{0b:08}【 Ash 】{0b:09}\n{10}, I came to ask if you'd come\nalong...{0c:fe}",
+   "en": "{0b:08}【 Ash 】{0b:09}\n{10}, I came to ask if you'd\ncome along...{0c:fe}",
    "status": "done",
    "tl": "[HERO], I came to ask if you'd come along..."
   },
@@ -2889,7 +2889,7 @@
    "jp": "{1c:1a}目覚めで気分悪かったかな。\nごめんね、{10}。{0c:027601}",
    "read": "{1c:1a}目覚めで気分悪かったかな。\nごめんね、{10}。{0c:027601}",
    "raw": null,
-   "en": "{1c:1a}Did you wake up feeling bad? Sorry,\n{10}.{0c:027601}",
+   "en": "{1c:1a}Did you wake up feeling bad?\nSorry, {10}.{0c:027601}",
    "status": "done",
    "tl": "Did you wake up feeling bad? Sorry, [HERO]."
   },
@@ -2912,7 +2912,7 @@
    "jp": "{0b:08}{e080} ジェシカ {e081}{0b:09}\nよっ、{10}。\nまた一緒に行かない?{0c:fe}",
    "read": "{0b:08}【 ジェシカ 】{0b:09}\nよっ、{10}。\nまた一緒に行かない?{0c:fe}",
    "raw": null,
-   "en": "{0b:08}【 Jessica 】{0b:09}\nYo, {10}. Wanna go together\nagain?{0c:fe}",
+   "en": "{0b:08}【 Jessica 】{0b:09}\nYo, {10}. Wanna go\ntogether again?{0c:fe}",
    "status": "done",
    "tl": "Yo, [HERO]. Wanna go together again?"
   },
@@ -2935,7 +2935,7 @@
    "jp": "よし、今日もがんばって{e08f}ごっ!{0c:027301}",
    "read": "よし、今日もがんばって稼ごっ!{0c:027301}",
    "raw": null,
-   "en": "All right, let's go make some money again\ntoday!{0c:027301}",
+   "en": "All right, let's go make some money\nagain today!{0c:027301}",
    "status": "done",
    "tl": "All right, let's go make some money again today!"
   },
@@ -2947,7 +2947,7 @@
    "jp": "{1c:1c}そっか。\nじゃあ別のヤツ誘おうかな・・・{1a}じゃあね、{10}。{0c:027101}",
    "read": "{1c:1c}そっか。\nじゃあ別のヤツ誘おうかな・・・{1a}じゃあね、{10}。{0c:027101}",
    "raw": null,
-   "en": "{1c:1c}Oh. Guess I'll go ask somebody else,\nthen...{1a}See ya, {10}.{0c:027101}",
+   "en": "{1c:1c}Oh. Guess I'll go ask somebody\nelse, then...{1a}See ya, {10}.{0c:027101}",
    "status": "done",
    "tl": "Oh. Guess I'll go ask somebody else, then... // See ya, [HERO]."
   },
@@ -3028,7 +3028,7 @@
    "jp": "{1c:11}{0b:08}{e080} アッシュ {e081}{0b:09}\nおはよう、{10}。\n誘いにきたぞ。{0c:fe}",
    "read": "{1c:11}{0b:08}【 アッシュ 】{0b:09}\nおはよう、{10}。\n誘いにきたぞ。{0c:fe}",
    "raw": null,
-   "en": "{1c:11}{0b:08}【 Ash 】{0b:09}\nMorning, {10}. I came to ask you\nalong.{0c:fe}",
+   "en": "{1c:11}{0b:08}【 Ash 】{0b:09}\nMorning, {10}. I came to ask\nyou along.{0c:fe}",
    "status": "done",
    "tl": "Morning, [HERO]. I came to ask you along."
   },
@@ -3179,7 +3179,7 @@
    "jp": "{1c:14}いや、構わない・・・\n邪魔をした・・・{0c:025d01}",
    "read": "{1c:14}いや、構わない・・・\n邪魔をした・・・{0c:025d01}",
    "raw": null,
-   "en": "{1c:14}No, it is all right... I am sorry to have\nintruded...{0c:025d01}",
+   "en": "{1c:14}No, it is all right... I am sorry to\nhave intruded...{0c:025d01}",
    "status": "done",
    "tl": "No, it is all right... I am sorry to have intruded..."
   },
@@ -3353,7 +3353,7 @@
    "jp": "{1c:1a}そう・・・\nまた今度一緒に行こうね。{0c:024e01}",
    "read": "{1c:1a}そう・・・\nまた今度一緒に行こうね。{0c:024e01}",
    "raw": null,
-   "en": "{1c:1a}I see... Let's go together next time,\nokay?{0c:024e01}",
+   "en": "{1c:1a}I see... Let's go together next\ntime, okay?{0c:024e01}",
    "status": "done",
    "tl": "I see... Let's go together next time, okay?"
   },
@@ -3411,7 +3411,7 @@
    "jp": "{1c:1c}なぁんだ、つまんない・・・{1a}でも、今度は誘ってよね。\n約束だよ。{0c:024901}",
    "read": "{1c:1c}なぁんだ、つまんない・・・{1a}でも、今度は誘ってよね。\n約束だよ。{0c:024901}",
    "raw": null,
-   "en": "{1c:1c}Aw, how boring...{1a}But ask me next time, okay? It's a\npromise.{0c:024901}",
+   "en": "{1c:1c}Aw, how boring...{1a}But ask me next time, okay? It's\na promise.{0c:024901}",
    "status": "done",
    "tl": "Aw, how boring... // But ask me next time, okay? It's a promise."
   },
@@ -3480,7 +3480,7 @@
    "jp": "{1c:1d}いえ、別に構いませんよ。\n今さら世{e095}がどうなろうと\nぼくもあまり興味ありませんから。{0c:024301}",
    "read": "{1c:1d}いえ、別に構いませんよ。\n今さら世界がどうなろうと\nぼくもあまり興味ありませんから。{0c:024301}",
    "raw": null,
-   "en": "{1c:1d}No, not at all. At this point, I have little\ninterest in what becomes of the world\nmyself.{0c:024301}",
+   "en": "{1c:1d}No, not at all. At this point, I have little\ninterest in what becomes of the\nworld myself.{0c:024301}",
    "status": "done",
    "tl": "No, not at all. At this point, I have little interest in what becomes of the world myself."
   },
@@ -3492,7 +3492,7 @@
    "jp": "{1c:1e}{0b:08}{e080} オルフェウス {e081}{0b:09}\nおはようございます。\nで、今日はどうします?{0c:fe}",
    "read": "{1c:1e}{0b:08}【 オルフェウス 】{0b:09}\nおはようございます。\nで、今日はどうします?{0c:fe}",
    "raw": null,
-   "en": "{1c:1e}{0b:08}【 Orpheus 】{0b:09}\nGood morning. So, what shall we do\ntoday?{0c:fe}",
+   "en": "{1c:1e}{0b:08}【 Orpheus 】{0b:09}\nGood morning. So, what shall we\ndo today?{0c:fe}",
    "status": "done",
    "tl": "Good morning. So, what shall we do today?"
   },
@@ -3527,7 +3527,7 @@
    "jp": "{1c:1e}いえ、別に構いませんよ。\n今さら世{e095}がどうなろうと\nぼくもあまり興味ありませんから。{0c:023f01}",
    "read": "{1c:1e}いえ、別に構いませんよ。\n今さら世界がどうなろうと\nぼくもあまり興味ありませんから。{0c:023f01}",
    "raw": null,
-   "en": "{1c:1e}No, not at all. At this point, I have little\ninterest in what becomes of the world\nmyself.{0c:023f01}",
+   "en": "{1c:1e}No, not at all. At this point, I have little\ninterest in what becomes of the\nworld myself.{0c:023f01}",
    "status": "done",
    "tl": "No, not at all. At this point, I have little interest in what becomes of the world myself."
   },
@@ -3747,7 +3747,7 @@
    "jp": "{1c:25}あ、ありがとうございます。\nがんばります。{0c:022d01}",
    "read": "{1c:25}あ、ありがとうございます。\nがんばります。{0c:022d01}",
    "raw": null,
-   "en": "{1c:25}Th-thank you very much. I will do my\nbest.{0c:022d01}",
+   "en": "{1c:25}Th-thank you very much. I will do\nmy best.{0c:022d01}",
    "status": "done",
    "tl": "Th-thank you very much. I will do my best."
   },
@@ -4115,7 +4115,7 @@
    "jp": "{1c:26}い、いきなりお邪魔して\nすみませんでした。\n{10}さんに神のご加護を。{0c:fe}",
    "read": "{1c:26}い、いきなりお邪魔して\nすみませんでした。\n{10}さんに神のご加護を。{0c:fe}",
    "raw": null,
-   "en": "{1c:26}I am sorry to have intruded so\ns-suddenly. May God protect you,\n{10}-san.{0c:fe}",
+   "en": "{1c:26}I am sorry to have intruded so\ns-suddenly. May God protect\nyou, {10}-san.{0c:fe}",
    "status": "done",
    "tl": "I am sorry to have intruded so s-suddenly. May God protect you, [HERO]-san."
   },
@@ -4138,7 +4138,7 @@
    "jp": "{0c:f703ea}{0c:5019521011}{1c:11}{0b:08}{e080} アッシュ {e081}{0b:09}\nあの、おれ、\nアッシュっていうんだけど・・・{1a}もしよかったら\nいっしょにいかないか?{0c:fe}",
    "read": "{0c:f703ea}{0c:5019521011}{1c:11}{0b:08}【 アッシュ 】{0b:09}\nあの、おれ、\nアッシュっていうんだけど・・・{1a}もしよかったら\nいっしょにいかないか?{0c:fe}",
    "raw": null,
-   "en": "{0c:f703ea}{0c:5019521011}{1c:11}{0b:08}【 Ash 】{0b:09}\nUm, I'm Ash...{1a}If it's okay with you, want to go\ntogether?{0c:fe}",
+   "en": "{0c:f703ea}{0c:5019521011}{1c:11}{0b:08}【 Ash 】{0b:09}\nUm, I'm Ash...{1a}If it's okay with you, want to\ngo together?{0c:fe}",
    "status": "done",
    "tl": "Um, I'm Ash... // If it's okay with you, want to go together?"
   },
@@ -4161,7 +4161,7 @@
    "jp": "{0c:521211}{1c:11}ありがとう。\n1人じゃちょっと\n不安だったから・・・{1a}いっしょにがんばろうな。{0c:020901}",
    "read": "{0c:521211}{1c:11}ありがとう。\n1人じゃちょっと\n不安だったから・・・{1a}いっしょにがんばろうな。{0c:020901}",
    "raw": null,
-   "en": "{0c:521211}{1c:11}Thanks. I was a little nervous going\nalone...{1a}Let's do our best together, okay?{0c:020901}",
+   "en": "{0c:521211}{1c:11}Thanks. I was a little nervous\ngoing alone...{1a}Let's do our best together, okay?{0c:020901}",
    "status": "done",
    "tl": "Thanks. I was a little nervous going alone... // Let's do our best together, okay?"
   },
@@ -4231,7 +4231,7 @@
    "jp": "{1c:27}ううん、いいの。\nがんばってね、{10}さん。{0c:fe}",
    "read": "{1c:27}ううん、いいの。\nがんばってね、{10}さん。{0c:fe}",
    "raw": null,
-   "en": "{1c:27}No, it's fine. Do your best,\n{10}-san.{0c:fe}",
+   "en": "{1c:27}No, it's fine. Do your\nbest, {10}-san.{0c:fe}",
    "status": "done",
    "tl": "No, it's fine. Do your best, [HERO]-san."
   },
@@ -4333,7 +4333,7 @@
    "jp": "{1c:1c}{0b:08}{e080} ジェシカ {e081}{0b:09}\nあんたさ、\nあんまり時間がないコト知ってる?{0c:021101}",
    "read": "{1c:1c}{0b:08}【 ジェシカ 】{0b:09}\nあんたさ、\nあんまり時間がないコト知ってる?{0c:021101}",
    "raw": null,
-   "en": "{1c:1c}{0b:08}【 Jessica 】{0b:09}\nHey, you know we're short on time,\nright?{0c:021101}",
+   "en": "{1c:1c}{0b:08}【 Jessica 】{0b:09}\nHey, you know we're short on\ntime, right?{0c:021101}",
    "status": "done",
    "tl": "Hey, you know we're short on time, right?"
   },
@@ -4356,7 +4356,7 @@
    "jp": "{1c:18}{0b:08}{e080} パスカ {e081}{0b:09}\nそんな余裕ねえだろ?\nほら、行くぜ。{0c:020f01}",
    "read": "{1c:18}{0b:08}【 パスカ 】{0b:09}\nそんな余裕ねえだろ?\nほら、行くぜ。{0c:020f01}",
    "raw": null,
-   "en": "{1c:18}{0b:08}【 Pasca 】{0b:09}\nWe ain't got time for that. C'mon, let's\ngo.{0c:020f01}",
+   "en": "{1c:18}{0b:08}【 Pasca 】{0b:09}\nWe ain't got time for that. C'mon,\nlet's go.{0c:020f01}",
    "status": "done",
    "tl": "We ain't got time for that. C'mon, let's go."
   },
@@ -4379,7 +4379,7 @@
    "jp": "{0b:08}{e080} アーサー {e081}{0b:09}\n{10}、\n満月までそんなに時間はないんだ。\n終わってからでもいいだろ?{0c:020d01}",
    "read": "{0b:08}【 アーサー 】{0b:09}\n{10}、\n満月までそんなに時間はないんだ。\n終わってからでもいいだろ?{0c:020d01}",
    "raw": null,
-   "en": "{0b:08}【 Arthur 】{0b:09}\n{10}, there isn't much time until\nthe full moon. Can't it wait until we're\ndone?{0c:020d01}",
+   "en": "{0b:08}【 Arthur 】{0b:09}\n{10}, there isn't much time until\nthe full moon. Can't it wait until\nwe're done?{0c:020d01}",
    "status": "done",
    "tl": "[HERO], there isn't much time until the full moon. Can't it wait until we're done?"
   },
@@ -4425,7 +4425,7 @@
    "jp": "{1c:17}{0b:08}{e080} エレアノール {e081}{0b:09}\n先のことを考えると、地上で時間を\n浪{e0ae}するのは得策ではありません。\n我慢して下さい。{0c:020901}",
    "read": "{1c:17}{0b:08}【 エレアノール 】{0b:09}\n先のことを考えると、地上で時間を\n浪費するのは得策ではありません。\n我慢して下さい。{0c:020901}",
    "raw": null,
-   "en": "{1c:17}{0b:08}【 Eleanor 】{0b:09}\nConsidering what lies ahead, it is unwise\nto waste time on the surface. Please be\npatient.{0c:020901}",
+   "en": "{1c:17}{0b:08}【 Eleanor 】{0b:09}\nConsidering what lies ahead, it is unwise\nto waste time on the surface. Please\nbe patient.{0c:020901}",
    "status": "done",
    "tl": "Considering what lies ahead, it is unwise to waste time on the surface. Please be patient."
   },
@@ -4574,7 +4574,7 @@
    "jp": "{1c:18}{0b:08}{e080} パスカ {e081}{0b:09}\nおいおい、時間がねえんだぞ。\nったく、しょうがねえ奴だな・・・{0c:fe}",
    "read": "{1c:18}{0b:08}【 パスカ 】{0b:09}\nおいおい、時間がねえんだぞ。\nったく、しょうがねえ奴だな・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:18}{0b:08}【 Pasca 】{0b:09}\nHey, hey, we ain't got time. Damn, you're\nhopeless...{0c:fe}",
+   "en": "{1c:18}{0b:08}【 Pasca 】{0b:09}\nHey, hey, we ain't got time. Damn,\nyou're hopeless...{0c:fe}",
    "status": "done",
    "tl": "Hey, hey, we ain't got time. Damn, you're hopeless..."
   },
@@ -4872,7 +4872,7 @@
    "jp": "{1c:10}{0b:08}{e080} {e0b5}{e0b6}ティアラ {e081}{0b:09}\nあの、すみません・・・\nまだ少し時間はありますが、\n{e0b7}{e091}に来ていただけないでしょうか。{0c:fe}",
    "read": "{1c:10}{0b:08}【 司祭ティアラ 】{0b:09}\nあの、すみません・・・\nまだ少し時間はありますが、\n教会に来ていただけないでしょうか。{0c:fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nUm, excuse me... There is still a little\ntime, but would you please come to the\nChurch?{0c:fe}",
+   "en": "{1c:10}{0b:08}【 Priest Tiara 】{0b:09}\nUm, excuse me... There is still a little\ntime, but would you please come to\nthe Church?{0c:fe}",
    "status": "done",
    "tl": "Um, excuse me... There is still a little time, but would you please come to the Church?"
   },
@@ -4929,7 +4929,7 @@
    "jp": "{1c:12}{0b:08}{e080} アッシュ {e081}{0b:09}\n{10}、\n{e0b8}場に行くんじゃないのか?{0c:020d01}",
    "read": "{1c:12}{0b:08}【 アッシュ 】{0b:09}\n{10}、\n酒場に行くんじゃないのか?{0c:020d01}",
    "raw": null,
-   "en": "{1c:12}{0b:08}【 Ash 】{0b:09}\n{10}, aren't you going to the\ntavern?{0c:020d01}",
+   "en": "{1c:12}{0b:08}【 Ash 】{0b:09}\n{10}, aren't you going to\nthe tavern?{0c:020d01}",
    "status": "done",
    "tl": "[HERO], aren't you going to the tavern?"
   },
@@ -5044,7 +5044,7 @@
    "jp": "{1c:28}{0b:08}{e080} サラ {e081}{0b:09}\n{10}さん、\nバルデスさんにお別れしに行こうよ。{0c:020301}",
    "read": "{1c:28}{0b:08}【 サラ 】{0b:09}\n{10}さん、\nバルデスさんにお別れしに行こうよ。{0c:020301}",
    "raw": null,
-   "en": "{1c:28}{0b:08}【 Sara 】{0b:09}\n{10}-san, let's go say goodbye to\nValdes-san.{0c:020301}",
+   "en": "{1c:28}{0b:08}【 Sara 】{0b:09}\n{10}-san, let's go say goodbye\nto Valdes-san.{0c:020301}",
    "status": "done",
    "tl": "[HERO]-san, let's go say goodbye to Valdes-san."
   },
@@ -5067,7 +5067,7 @@
    "jp": "{1c:26}{0b:08}{e080} ルカ {e081}{0b:09}\n{10}さん、\nバルデスさんに{e091}いに行きましょう。{0c:fe}",
    "read": "{1c:26}{0b:08}【 ルカ 】{0b:09}\n{10}さん、\nバルデスさんに会いに行きましょう。{0c:fe}",
    "raw": null,
-   "en": "{1c:26}{0b:08}【 Luca 】{0b:09}\n{10}-san, let us go and see\nValdes-san.{0c:fe}",
+   "en": "{1c:26}{0b:08}【 Luca 】{0b:09}\n{10}-san, let us go and\nsee Valdes-san.{0c:fe}",
    "status": "done",
    "tl": "[HERO]-san, let us go and see Valdes-san."
   },
@@ -5113,7 +5113,7 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n{10}、\nこんな時間にすまない・・・{1a}今日の{e0b9}にバルデスさんは\n行ってしまうんだ・・・\n多分{e0b8}場の2{e08a}にいると思う。\n今から挨拶に行かないか?{0c:020701}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n{10}、\nこんな時間にすまない・・・{1a}今日の朝にバルデスさんは\n行ってしまうんだ・・・\n多分酒場の2階にいると思う。\n今から挨拶に行かないか?{0c:020701}",
    "raw": null,
-   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\n{10}, I'm sorry, at this hour...{1a}Valdes-san leaves this morning... I think\nhe's probably upstairs at the tavern.\nWon't you come and say goodbye with me\nnow?{0c:020701}",
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\n{10}, I'm sorry, at this hour...{1a}Valdes-san leaves this morning... I think\nhe's probably upstairs at the tavern.\nWon't you come and say goodbye with\nme now?{0c:020701}",
    "status": "done",
    "tl": "[HERO], I'm sorry, at this hour... // Valdes-san leaves this morning... I think he's probably upstairs at the tavern. Won't you come and say goodbye with me now?"
   },
@@ -5173,7 +5173,7 @@
    "jp": "{1c:26}{0b:08}{e080} ルカ {e081}{0b:09}\n{10}さん・・・\nこんな時間にすみません・・・{1a}バルデスさん、\nもうすぐ出かけるそうです・・・\nその前に挨拶に行きませんか?{0c:020201}",
    "read": "{1c:26}{0b:08}【 ルカ 】{0b:09}\n{10}さん・・・\nこんな時間にすみません・・・{1a}バルデスさん、\nもうすぐ出かけるそうです・・・\nその前に挨拶に行きませんか?{0c:020201}",
    "raw": null,
-   "en": "{1c:26}{0b:08}【 Luca 】{0b:09}\n{10}-san... I am sorry, at this\nhour...{1a}Valdes-san is leaving soon, I am told...\nWould you come and say goodbye before\nthen?{0c:020201}",
+   "en": "{1c:26}{0b:08}【 Luca 】{0b:09}\n{10}-san... I am sorry, at\nthis hour...{1a}Valdes-san is leaving soon, I am told...\nWould you come and say goodbye\nbefore then?{0c:020201}",
    "status": "done",
    "tl": "[HERO]-san... I am sorry, at this hour... // Valdes-san is leaving soon, I am told... Would you come and say goodbye before then?"
   },

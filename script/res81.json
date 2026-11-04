@@ -41,7 +41,7 @@
    "jp": "{1c:26}{0b:08}{e080} ノエル {e081}{0b:09}\nここが『贖罪の関』・・・{1a}{0c:2b502351201000}{0c:51082b501000}ここは{e083}に何もしなくても\n先に進めるのよね。\nじゃあ早く進みましょ。\n無駄な時間なんてないんだから。{0c:021901}",
    "read": "{1c:26}{0b:08}【 ノエル 】{0b:09}\nここが『贖罪の関』・・・{1a}{0c:2b502351201000}{0c:51082b501000}ここは特に何もしなくても\n先に進めるのよね。\nじゃあ早く進みましょ。\n無駄な時間なんてないんだから。{0c:021901}",
    "raw": null,
-   "en": "{1c:26}{0b:08}【 Noel 】{0b:09}\nSo this is the 'Gate of Atonement'...{1a}{0c:2b502351201000}{0c:51082b501000}We can get through here without doing\nanything in particular, right? Then let's\nhurry on. Honestly, we have no time to\nwaste.{0c:021901}",
+   "en": "{1c:26}{0b:08}【 Noel 】{0b:09}\nSo this is the 'Gate of Atonement'...{1a}{0c:2b502351201000}{0c:51082b501000}We can get through here without doing\nanything in particular, right? Then let's\nhurry on. Honestly, we have no time\nto waste.{0c:021901}",
    "status": "done",
    "tl": "So this is the 'Gate of Atonement'... // [1]We can get through here without doing anything in particular, right? Then let's hurry on. Honestly, we have no time to waste."
   },
@@ -156,7 +156,7 @@
    "jp": "{0b:08}{e080} アッシュ {e081}{0b:09}\nここが『贖罪の関』か・・・{1a}{0c:2b502351201000}{0c:51082b501000}ここ、とくに何もしなくても\nさきに進めるんだよな。\nじゃあはやく進もうよ。{0c:020f01}",
    "read": "{0b:08}【 アッシュ 】{0b:09}\nここが『贖罪の関』か・・・{1a}{0c:2b502351201000}{0c:51082b501000}ここ、とくに何もしなくても\nさきに進めるんだよな。\nじゃあはやく進もうよ。{0c:020f01}",
    "raw": null,
-   "en": "{0b:08}【 Ash 】{0b:09}\nSo this is the 'Gate of Atonement', I\nguess...{1a}{0c:2b502351201000}{0c:51082b501000}We don't have to do anything special to\nget through here, right? So let's hurry\non.{0c:020f01}",
+   "en": "{0b:08}【 Ash 】{0b:09}\nSo this is the 'Gate of Atonement',\nI guess...{1a}{0c:2b502351201000}{0c:51082b501000}We don't have to do anything special to\nget through here, right? So let's\nhurry on.{0c:020f01}",
    "status": "done",
    "tl": "So this is the 'Gate of Atonement', I guess... // [1]We don't have to do anything special to get through here, right? So let's hurry on."
   },
@@ -202,7 +202,7 @@
    "jp": "{1c:2a}{0b:08}{e080} サラ {e081}{0b:09}\nここが『贖罪の関』・・・?{1a}{0c:2b502351201000}{0c:51082b501000}この場所って、{e083}に何もしなくても\n先に進めるんだよね。\nじゃあ早く進もうよ。{0c:020b01}",
    "read": "{1c:2a}{0b:08}【 サラ 】{0b:09}\nここが『贖罪の関』・・・?{1a}{0c:2b502351201000}{0c:51082b501000}この場所って、特に何もしなくても\n先に進めるんだよね。\nじゃあ早く進もうよ。{0c:020b01}",
    "raw": null,
-   "en": "{1c:2a}{0b:08}【 Sara 】{0b:09}\nSo this is the 'Gate of Atonement'...?{1a}{0c:2b502351201000}{0c:51082b501000}We can get through here without doing\nanything special, right? So let's hurry,\nokay?{0c:020b01}",
+   "en": "{1c:2a}{0b:08}【 Sara 】{0b:09}\nSo this is the 'Gate of Atonement'...?{1a}{0c:2b502351201000}{0c:51082b501000}We can get through here without doing\nanything special, right? So let's\nhurry, okay?{0c:020b01}",
    "status": "done",
    "tl": "So this is the 'Gate of Atonement'...? // [1]We can get through here without doing anything special, right? So let's hurry, okay?"
   },
@@ -340,7 +340,7 @@
    "jp": "{1c:23}{0b:08}{e080} イヴ {e081}{0b:09}\nねえ、\n誰かあそこで死んでるわよ。{0c:021901}",
    "read": "{1c:23}{0b:08}【 イヴ 】{0b:09}\nねえ、\n誰かあそこで死んでるわよ。{0c:021901}",
    "raw": null,
-   "en": "{1c:23}{0b:08}【 Eve 】{0b:09}\nSay, somebody's dead over there, you\nknow.{0c:021901}",
+   "en": "{1c:23}{0b:08}【 Eve 】{0b:09}\nSay, somebody's dead over there,\nyou know.{0c:021901}",
    "status": "done",
    "tl": "Say, somebody's dead over there, you know."
   },
@@ -662,7 +662,7 @@
    "jp": "{0c:5210082b501000}{1c:27}{0b:08}{e080} ノエル {e081}{0b:09}\n生きてるのね。\n{10}、町に戻りましょ!{0c:021501}",
    "read": "{0c:5210082b501000}{1c:27}{0b:08}【 ノエル 】{0b:09}\n生きてるのね。\n{10}、町に戻りましょ!{0c:021501}",
    "raw": null,
-   "en": "{0c:5210082b501000}{1c:27}{0b:08}【 Noel 】{0b:09}\nHe's alive. {10}, let's go back to\ntown!{0c:021501}",
+   "en": "{0c:5210082b501000}{1c:27}{0b:08}【 Noel 】{0b:09}\nHe's alive. {10}, let's go back\nto town!{0c:021501}",
    "status": "done",
    "tl": "He's alive. [HERO], let's go back to town!"
   },
@@ -777,7 +777,7 @@
    "jp": "{0c:5210082b501000}{1c:10}{0b:08}{e080} アッシュ {e081}{0b:09}\n生きてるんだな。\n{10}、町に戻ろう!{0c:020b01}",
    "read": "{0c:5210082b501000}{1c:10}{0b:08}【 アッシュ 】{0b:09}\n生きてるんだな。\n{10}、町に戻ろう!{0c:020b01}",
    "raw": null,
-   "en": "{0c:5210082b501000}{1c:10}{0b:08}【 Ash 】{0b:09}\nHe's alive. {10}, let's go back to\ntown!{0c:020b01}",
+   "en": "{0c:5210082b501000}{1c:10}{0b:08}【 Ash 】{0b:09}\nHe's alive. {10}, let's go back\nto town!{0c:020b01}",
    "status": "done",
    "tl": "He's alive. [HERO], let's go back to town!"
   },
@@ -823,7 +823,7 @@
    "jp": "{1c:28}{0b:08}{e080} ルカ {e081}{0b:09}\nい、生きてるんですね。{1a}{0c:5210082b501000}{10}さん、町に戻りましょう!\n私の魔{e086}では\n痛みを抑える程度しか出来ません!{0c:020701}",
    "read": "{1c:28}{0b:08}【 ルカ 】{0b:09}\nい、生きてるんですね。{1a}{0c:5210082b501000}{10}さん、町に戻りましょう!\n私の魔法では\n痛みを抑える程度しか出来ません!{0c:020701}",
    "raw": null,
-   "en": "{1c:28}{0b:08}【 Luca 】{0b:09}\nHe is a-alive.{1a}{0c:5210082b501000}{10}-san, let us return to town!\nMy magic can do no more than dull the\npain!{0c:020701}",
+   "en": "{1c:28}{0b:08}【 Luca 】{0b:09}\nHe is a-alive.{1a}{0c:5210082b501000}{10}-san, let us return to town!\nMy magic can do no more than dull\nthe pain!{0c:020701}",
    "status": "done",
    "tl": "He is a-alive. // [1][HERO]-san, let us return to town! My magic can do no more than dull the pain!"
   },
@@ -1479,7 +1479,7 @@
    "jp": "{0c:521820}{0c:0c14}{1c:27}{0b:08}{e080} ノエル {e081}{0b:09}\nこれ以上喋らないで!\n肺の血が・・・{0c:021501}",
    "read": "{0c:521820}{0c:0c14}{1c:27}{0b:08}【 ノエル 】{0b:09}\nこれ以上喋らないで!\n肺の血が・・・{0c:021501}",
    "raw": null,
-   "en": "{0c:521820}{0c:0c14}{1c:27}{0b:08}【 Noel 】{0b:09}\nDon't talk anymore! The blood in your\nlungs...{0c:021501}",
+   "en": "{0c:521820}{0c:0c14}{1c:27}{0b:08}【 Noel 】{0b:09}\nDon't talk anymore! The blood in\nyour lungs...{0c:021501}",
    "status": "done",
    "tl": "Don't talk anymore! The blood in your lungs..."
   },
@@ -1893,7 +1893,7 @@
    "jp": "{1c:1e}{0b:08}{e080} ジェシカ {e081}{0b:09}\n{10}・・・{07:14}\nもちろん行くよね。{07:05}{0c:020d01}",
    "read": "{1c:1e}{0b:08}【 ジェシカ 】{0b:09}\n{10}・・・{07:14}\nもちろん行くよね。{07:05}{0c:020d01}",
    "raw": null,
-   "en": "{1c:1e}{0b:08}【 Jessica 】{0b:09}\n{10}...{07:14} Of course you're going,\nright?{07:05}{0c:020d01}",
+   "en": "{1c:1e}{0b:08}【 Jessica 】{0b:09}\n{10}...{07:14} Of course you're\ngoing, right?{07:05}{0c:020d01}",
    "status": "done",
    "tl": "[HERO]...[1] Of course you're going, right?"
   },
@@ -1985,7 +1985,7 @@
    "jp": "{1c:2b}{0b:08}{e080} サラ {e081}{0b:09}\n{10}さん・・・{07:14}\n助けに行くよね。{07:05}{0c:020501}",
    "read": "{1c:2b}{0b:08}【 サラ 】{0b:09}\n{10}さん・・・{07:14}\n助けに行くよね。{07:05}{0c:020501}",
    "raw": null,
-   "en": "{1c:2b}{0b:08}【 Sara 】{0b:09}\n{10}-san...{07:14} You're going to help,\nright?{07:05}{0c:020501}",
+   "en": "{1c:2b}{0b:08}【 Sara 】{0b:09}\n{10}-san...{07:14} You're going to\nhelp, right?{07:05}{0c:020501}",
    "status": "done",
    "tl": "[HERO]-san...[1] You're going to help, right?"
   },

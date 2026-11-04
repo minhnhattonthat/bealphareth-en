@@ -64,7 +64,7 @@
    "jp": "{1c:13}今度のことは\nほんとうにありがとな。{1a}{0c:520a08}{10}達にはいくら\nお礼言っても言い足りないよ。{0c:fe}",
    "read": "{1c:13}今度のことは\nほんとうにありがとな。{1a}{0c:520a08}{10}達にはいくら\nお礼言っても言い足りないよ。{0c:fe}",
    "raw": null,
-   "en": "{1c:13}Thanks for everything this time, really.{1a}{0c:520a08}{10}, no matter how much I thank\nyou and the others, it's never enough,\ny'know.{0c:fe}",
+   "en": "{1c:13}Thanks for everything this time, really.{1a}{0c:520a08}{10}, no matter how much I thank\nyou and the others, it's never\nenough, y'know.{0c:fe}",
    "status": "done",
    "tl": "Thanks for everything this time, really. // [1][HERO], no matter how much I thank you and the others, it's never enough, y'know."
   },
@@ -87,7 +87,7 @@
    "jp": "{1c:10}たいした物じゃないんだけど、\nこれもらってくれよ。{0c:1501}",
    "read": "{1c:10}たいした物じゃないんだけど、\nこれもらってくれよ。{0c:1501}",
    "raw": null,
-   "en": "{1c:10}It's nothing much, but I want you to have\nthis.{0c:1501}",
+   "en": "{1c:10}It's nothing much, but I want you to\nhave this.{0c:1501}",
    "status": "done",
    "tl": "It's nothing much, but I want you to have this."
   },
@@ -235,7 +235,7 @@
    "jp": "{1c:11}{10}が見つかったとき、\n{10}の手に\nラフメルの{e087}っぱがぎゅっと\n握りしめられてたんだ。{1a}{10}は気を失ってたのに・・・\n本当に{10}のおかげだよ。\n{0c:520a08}ありがとな。{0c:1501}",
    "read": "{1c:11}{10}が見つかったとき、\n{10}の手に\nラフメルの葉っぱがぎゅっと\n握りしめられてたんだ。{1a}{10}は気を失ってたのに・・・\n本当に{10}のおかげだよ。\n{0c:520a08}ありがとな。{0c:1501}",
    "raw": null,
-   "en": "{1c:11}When {10} was found, {10}'s\nhand was clenched tight around a Rahmel\nleaf.{1a}{10} was out cold, and still... It\nreally is all thanks to {10}, y'know.\n{0c:520a08}Thanks.{0c:1501}",
+   "en": "{1c:11}When {10} was found, {10}'s\nhand was clenched tight around a\nRahmel leaf.{1a}{10} was out cold, and still... It\nreally is all thanks to {10},\ny'know. {0c:520a08}Thanks.{0c:1501}",
    "status": "done",
    "tl": "When [HERO] was found, [HERO]'s hand was clenched tight around a Rahmel leaf. // [HERO] was out cold, and still... It really is all thanks to [HERO], y'know. [1]Thanks."
   },
@@ -293,7 +293,7 @@
    "jp": "{0c:520b0c}{1c:14}でも、{10}も\nがんばってくれたんだ・・・{0c:2b52091501}",
    "read": "{0c:520b0c}{1c:14}でも、{10}も\nがんばってくれたんだ・・・{0c:2b52091501}",
    "raw": null,
-   "en": "{0c:520b0c}{1c:14}But {10} tried so hard too,\ny'know...{0c:2b52091501}",
+   "en": "{0c:520b0c}{1c:14}But {10} tried so hard\ntoo, y'know...{0c:2b52091501}",
    "status": "done",
    "tl": "But [HERO] tried so hard too, y'know..."
   },
@@ -443,7 +443,7 @@
    "jp": "{1c:11}{10}が見つかったとき、\n{10}の手に\nラフメルの{e087}っぱが\nぎゅっと握りしめられてたんだ。{1a}{10}は気を失ってたのに・・・\n本当に{10}のおかげだよ。\n{0c:520a08}ありがとな。{0c:1501}",
    "read": "{1c:11}{10}が見つかったとき、\n{10}の手に\nラフメルの葉っぱが\nぎゅっと握りしめられてたんだ。{1a}{10}は気を失ってたのに・・・\n本当に{10}のおかげだよ。\n{0c:520a08}ありがとな。{0c:1501}",
    "raw": null,
-   "en": "{1c:11}When {10} was found, {10}'s\nhand was clenched tight around a Rahmel\nleaf.{1a}{10} was out cold, and still... It\nreally is all thanks to {10}, y'know.\n{0c:520a08}Thanks.{0c:1501}",
+   "en": "{1c:11}When {10} was found, {10}'s\nhand was clenched tight around a\nRahmel leaf.{1a}{10} was out cold, and still... It\nreally is all thanks to {10},\ny'know. {0c:520a08}Thanks.{0c:1501}",
    "status": "done",
    "tl": "When [HERO] was found, [HERO]'s hand was clenched tight around a Rahmel leaf. // [HERO] was out cold, and still... It really is all thanks to [HERO], y'know. [1]Thanks."
   },
@@ -500,7 +500,7 @@
    "jp": "{1c:11}{10}、ありがとな。\nおかげで昨日の夜\n{e092}に{e085}を送ることができたよ。{1a}ほんとうにありがとな。{0c:1501}",
    "read": "{1c:11}{10}、ありがとな。\nおかげで昨日の夜\n妹に薬を送ることができたよ。{1a}ほんとうにありがとな。{0c:1501}",
    "raw": null,
-   "en": "{1c:11}{10}, thanks. Because of you I got\nthe medicine sent to my sister last\nnight.{1a}Thanks, really.{0c:1501}",
+   "en": "{1c:11}{10}, thanks. Because of you I got\nthe medicine sent to my sister\nlast night.{1a}Thanks, really.{0c:1501}",
    "status": "done",
    "tl": "[HERO], thanks. Because of you I got the medicine sent to my sister last night. // Thanks, really."
   },
@@ -605,7 +605,7 @@
    "jp": "{0c:5108}{1c:11}{0b:08}{e080} アッシュ {e081}{0b:09}\nでも、うれしかったんだ。\nみんなが手伝ってくれて。\nありがとな、{10}。{0c:1501}",
    "read": "{0c:5108}{1c:11}{0b:08}【 アッシュ 】{0b:09}\nでも、うれしかったんだ。\nみんなが手伝ってくれて。\nありがとな、{10}。{0c:1501}",
    "raw": null,
-   "en": "{0c:5108}{1c:11}{0b:08}【 Ash 】{0b:09}\nBut I was glad everybody helped. Thanks,\n{10}.{0c:1501}",
+   "en": "{0c:5108}{1c:11}{0b:08}【 Ash 】{0b:09}\nBut I was glad everybody helped.\nThanks, {10}.{0c:1501}",
    "status": "done",
    "tl": "But I was glad everybody helped. Thanks, [HERO]."
   },
@@ -662,7 +662,7 @@
    "jp": "{1c:11}{10}、ありがとな。\nおかげで昨日の夜\n{e092}に{e085}を送ることができたよ。{1a}うれしかったんだ、\nみんなが手伝ってくれて。\nありがとな、{10}。{0c:1501}",
    "read": "{1c:11}{10}、ありがとな。\nおかげで昨日の夜\n妹に薬を送ることができたよ。{1a}うれしかったんだ、\nみんなが手伝ってくれて。\nありがとな、{10}。{0c:1501}",
    "raw": null,
-   "en": "{1c:11}{10}, thanks. Because of you I got\nthe medicine sent to my sister last\nnight.{1a}I was glad everybody helped. Thanks,\n{10}.{0c:1501}",
+   "en": "{1c:11}{10}, thanks. Because of you I got\nthe medicine sent to my sister\nlast night.{1a}I was glad everybody helped.\nThanks, {10}.{0c:1501}",
    "status": "done",
    "tl": "[HERO], thanks. Because of you I got the medicine sent to my sister last night. // I was glad everybody helped. Thanks, [HERO]."
   },

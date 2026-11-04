@@ -111,7 +111,7 @@
    "jp": "{1c:16}{0b:08}{e080} 不死者ファトゥム {e081}{0b:09}\n余裕だな。\nもう神になったつもりか?{0c:2b5609fe}",
    "read": "{1c:16}{0b:08}【 不死者ファトゥム 】{0b:09}\n余裕だな。\nもう神になったつもりか?{0c:2b5609fe}",
    "raw": null,
-   "en": "{1c:16}{0b:08}【 Fatum the Undying 】{0b:09}\nYou seem at ease. Think you are a god\nalready?{0c:2b5609fe}",
+   "en": "{1c:16}{0b:08}【 Fatum the Undying 】{0b:09}\nYou seem at ease. Think you are a\ngod already?{0c:2b5609fe}",
    "status": "done",
    "tl": "You seem at ease. Think you are a god already?"
   },
@@ -333,7 +333,7 @@
    "jp": "{1c:11}{0b:08}{e080} クムラン {e081}{0b:09}\nアノイア{e095}を{e096}り、\n人{e08a}に1つの{e097}遍的な価値観を\n植え付けたのも、{1a}世{e088}中の人{e08a}に\n永遠の命という夢を見せたのも、{1a}すべては『{e09f}しい世{e088}』という{e0a0}の\n幻想を人{e0a2}に持たせるため・・・{0c:2b5809fe}",
    "read": "{1c:11}{0b:08}【 クムラン 】{0b:09}\nアノイア教を創り、\n人々に1つの普遍的な価値観を\n植え付けたのも、{1a}世界中の人々に\n永遠の命という夢を見せたのも、{1a}すべては『新しい世界』という名の\n幻想を人類に持たせるため・・・{0c:2b5809fe}",
    "raw": null,
-   "en": "{1c:11}{0b:08}【 Qumran 】{0b:09}\nYou founded the Anoian faith and\nplanted a single universal set of values in\npeople,{1a}you showed the whole world the dream\nof eternal life,{1a}and all of it was to give humankind the\nillusion called the 'New World'...{0c:2b5809fe}",
+   "en": "{1c:11}{0b:08}【 Qumran 】{0b:09}\nYou founded the Anoian faith and\nplanted a single universal set of values\nin people,{1a}you showed the whole world the dream\nof eternal life,{1a}and all of it was to give humankind the\nillusion called the 'New World'...{0c:2b5809fe}",
    "status": "done",
    "tl": "You founded the Anoian faith and planted a single universal set of values in people, // you showed the whole world the dream of eternal life, // and all of it was to give humankind the illusion called the 'New World'..."
   },
@@ -566,7 +566,7 @@
    "jp": "{1c:23}{0b:08}{e080} サラ {e081}{0b:09}\n{e094}っ暗になっちゃったね・・・\n何があるんだろう・・・{0c:fe}",
    "read": "{1c:23}{0b:08}【 サラ 】{0b:09}\n真っ暗になっちゃったね・・・\n何があるんだろう・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:23}{0b:08}【 Sara 】{0b:09}\nIt's gone pitch dark... I wonder what's\nhere...{0c:fe}",
+   "en": "{1c:23}{0b:08}【 Sara 】{0b:09}\nIt's gone pitch dark... I wonder\nwhat's here...{0c:fe}",
    "status": "done",
    "tl": "It's gone pitch dark... I wonder what's here..."
   },
@@ -728,7 +728,7 @@
    "jp": "{1c:20}{0b:08}{e080} ミコル {e081}{0b:09}\nワンゼンの{e0bb}の人が\n{e0bc}と{e0bd}べ物をよこせって\n押し{e0be}けてきたんだ・・・{1a}{0c:52ffff1affff22}{e0bf}{e0c0}{e0c1}をやるくらいだから\n{e0bc}はあまってるはずだって・・・{0c:2b6609fe}",
    "read": "{1c:20}{0b:08}【 ミコル 】{0b:09}\nワンゼンの村の人が\n金と食べ物をよこせって\n押し掛けてきたんだ・・・{1a}{0c:52ffff1affff22}孤児院をやるくらいだから\n金はあまってるはずだって・・・{0c:2b6609fe}",
    "raw": null,
-   "en": "{1c:20}{0b:08}【 Michol 】{0b:09}\nPeople from Wanzen village came pushing\nin, saying hand over your money and\nfood...{1a}{0c:52ffff1affff22}They said if you can run an orphanage,\nyou must have money to spare...{0c:2b6609fe}",
+   "en": "{1c:20}{0b:08}【 Michol 】{0b:09}\nPeople from Wanzen village came pushing\nin, saying hand over your money\nand food...{1a}{0c:52ffff1affff22}They said if you can run an orphanage,\nyou must have money to spare...{0c:2b6609fe}",
    "status": "done",
    "tl": "People from Wanzen village came pushing in, saying hand over your money and food... // [1]They said if you can run an orphanage, you must have money to spare..."
   },
@@ -752,7 +752,7 @@
    "jp": "{0c:52ffff3affff42}{1c:20}{0b:08}{e080} ミコル {e081}{0b:09}\nなのに、あの人達、\nこれっぽっちなわけない、\nまだ{e0c4}してるはずだって・・・{1a}{0c:52ffff4affff52}ぼく達は裏{e0c5}に走って\n逃げたんだけど、\nお{e0ba}さんは・・・{0c:2b5109fe}",
    "read": "{0c:52ffff3affff42}{1c:20}{0b:08}【 ミコル 】{0b:09}\nなのに、あの人達、\nこれっぽっちなわけない、\nまだ隠してるはずだって・・・{1a}{0c:52ffff4affff52}ぼく達は裏山に走って\n逃げたんだけど、\nお母さんは・・・{0c:2b5109fe}",
    "raw": null,
-   "en": "{0c:52ffff3affff42}{1c:20}{0b:08}【 Michol 】{0b:09}\nBut those people said, this can't be all\nof it, you must be hiding more...{1a}{0c:52ffff4affff52}We ran away up the hill out back, but\nMom...{0c:2b5109fe}",
+   "en": "{0c:52ffff3affff42}{1c:20}{0b:08}【 Michol 】{0b:09}\nBut those people said, this can't be all\nof it, you must be hiding more...{1a}{0c:52ffff4affff52}We ran away up the hill out back,\nbut Mom...{0c:2b5109fe}",
    "status": "done",
    "tl": "But those people said, this can't be all of it, you must be hiding more... // [1]We ran away up the hill out back, but Mom..."
   },
@@ -882,7 +882,7 @@
    "jp": "{0c:528890}{1c:26}うそだよ、こんなの・・・{1a}あたし信じない・・・\n信じたくない・・・{0c:fe}",
    "read": "{0c:528890}{1c:26}うそだよ、こんなの・・・{1a}あたし信じない・・・\n信じたくない・・・{0c:fe}",
    "raw": null,
-   "en": "{0c:528890}{1c:26}It's not true, this can't be...{1a}I don't believe it... I don't want to believe\nit...{0c:fe}",
+   "en": "{0c:528890}{1c:26}It's not true, this can't be...{1a}I don't believe it... I don't want to\nbelieve it...{0c:fe}",
    "status": "done",
    "tl": "It's not true, this can't be... // I don't believe it... I don't want to believe it..."
   },
@@ -1000,7 +1000,7 @@
    "jp": "{1c:19}{0b:08}{e080} 聖者アヴァダイル {e081}{0b:09}\n何故否定する?\n君は誰よりも『{e09f}しい世{e088}』の\n到来を望んでいるのに。{0c:fe}",
    "read": "{1c:19}{0b:08}【 聖者アヴァダイル 】{0b:09}\n何故否定する?\n君は誰よりも『新しい世界』の\n到来を望んでいるのに。{0c:fe}",
    "raw": null,
-   "en": "{1c:19}{0b:08}【 Saint Avadail 】{0b:09}\nWhy do you deny it? You, more than\nanyone, long for the coming of the 'New\nWorld'.{0c:fe}",
+   "en": "{1c:19}{0b:08}【 Saint Avadail 】{0b:09}\nWhy do you deny it? You, more than\nanyone, long for the coming of the\n'New World'.{0c:fe}",
    "status": "done",
    "tl": "Why do you deny it? You, more than anyone, long for the coming of the 'New World'."
   },
@@ -1023,7 +1023,7 @@
    "jp": "{1c:1c}{0b:08}{e080} 聖者ハンリアル {e081}{0b:09}\nあなたはもうわかったはず。\n{0c:2b502351202b591000}この世{e088}に本当の安らぎなんて\nあるはずのないことを。{1a}でも、『{e09f}しい世{e088}』では\nみんなが分かり合える。\n人を包む殻がなくなり、\n1つになれる・・・{0c:fe}",
    "read": "{1c:1c}{0b:08}【 聖者ハンリアル 】{0b:09}\nあなたはもうわかったはず。\n{0c:2b502351202b591000}この世界に本当の安らぎなんて\nあるはずのないことを。{1a}でも、『新しい世界』では\nみんなが分かり合える。\n人を包む殻がなくなり、\n1つになれる・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:1c}{0b:08}【 Saint Hanrial 】{0b:09}\nYou must know by now. {0c:2b502351202b591000}There can be no\ntrue peace in this world.{1a}But in the 'New World', all can\nunderstand one another. The shells\naround people vanish, and all can become\none...{0c:fe}",
+   "en": "{1c:1c}{0b:08}【 Saint Hanrial 】{0b:09}\nYou must know by now. {0c:2b502351202b591000}There can be no\ntrue peace in this world.{1a}But in the 'New World', all can\nunderstand one another. The shells\naround people vanish, and all can\nbecome one...{0c:fe}",
    "status": "done",
    "tl": "You must know by now. [1]There can be no true peace in this world. // But in the 'New World', all can understand one another. The shells around people vanish, and all can become one..."
   },
@@ -1046,7 +1046,7 @@
    "jp": "{1c:1d}{0b:08}{e080} 聖者ウェルカイル {e081}{0b:09}\n『{e09f}しい世{e088}』では、\n{0c:2b502351202b5a1000}24人の弟{e0ca}達と\nまた{e0ce}うことが出来る。{1a}誰一人欠けることなく\nやり直すことが出来る。{1a}さあ、願うんだ。\n『{e09f}しい世{e088}』の到来を!{0c:fe}",
    "read": "{1c:1d}{0b:08}【 聖者ウェルカイル 】{0b:09}\n『新しい世界』では、\n{0c:2b502351202b5a1000}24人の弟妹達と\nまた会うことが出来る。{1a}誰一人欠けることなく\nやり直すことが出来る。{1a}さあ、願うんだ。\n『新しい世界』の到来を!{0c:fe}",
    "raw": null,
-   "en": "{1c:1d}{0b:08}【 Saint Welkail 】{0b:09}\nIn the 'New World', {0c:2b502351202b5a1000}you can meet your\ntwenty-four little brothers and sisters\nagain.{1a}You can begin again with not one of\nthem missing.{1a}Come, make your wish. Wish for the\ncoming of the 'New World'!{0c:fe}",
+   "en": "{1c:1d}{0b:08}【 Saint Welkail 】{0b:09}\nIn the 'New World', {0c:2b502351202b5a1000}you can meet your\ntwenty-four little brothers and\nsisters again.{1a}You can begin again with not one of\nthem missing.{1a}Come, make your wish. Wish for the\ncoming of the 'New World'!{0c:fe}",
    "status": "done",
    "tl": "In the 'New World', [1]you can meet your twenty-four little brothers and sisters again. // You can begin again with not one of them missing. // Come, make your wish. Wish for the coming of the 'New World'!"
   },
@@ -1139,7 +1139,7 @@
    "jp": "{1c:19}{0b:08}{e080} 聖者アヴァダイル {e081}{0b:09}\n{e0d6}かった・・・\n1万{e0d8}も待った・・・{0c:2b5809fe}",
    "read": "{1c:19}{0b:08}【 聖者アヴァダイル 】{0b:09}\n長かった・・・\n1万年も待った・・・{0c:2b5809fe}",
    "raw": null,
-   "en": "{1c:19}{0b:08}【 Saint Avadail 】{0b:09}\nSo long... Ten thousand years I have\nwaited...{0c:2b5809fe}",
+   "en": "{1c:19}{0b:08}【 Saint Avadail 】{0b:09}\nSo long... Ten thousand years I\nhave waited...{0c:2b5809fe}",
    "status": "done",
    "tl": "So long... Ten thousand years I have waited..."
   },
@@ -1175,7 +1175,7 @@
    "jp": "{1c:1b}{0b:08}{e080} 聖者バルカイル {e081}{0b:09}\n『{e09f}しい世{e088}』の声を聞き、\n『始原の地』への扉を{e0d5}く者、\nそれが第二の預言者・・・{1a}汝はその預言者になったのだ。\n何を悲嘆する?{0c:2b5a09fe}",
    "read": "{1c:1b}{0b:08}【 聖者バルカイル 】{0b:09}\n『新しい世界』の声を聞き、\n『始原の地』への扉を開く者、\nそれが第二の預言者・・・{1a}汝はその預言者になったのだ。\n何を悲嘆する?{0c:2b5a09fe}",
    "raw": null,
-   "en": "{1c:1b}{0b:08}【 Saint Barkail 】{0b:09}\nThe one who hears the voice of the\n'New World' and opens the door to the\n'Land of Origin': that is the second{1a}Prophet...{1a}You have become that Prophet. Why do\nyou grieve?{0c:2b5a09fe}",
+   "en": "{1c:1b}{0b:08}【 Saint Barkail 】{0b:09}\nThe one who hears the voice of the\n'New World' and opens the door to the\n'Land of Origin': that is the{1a}second Prophet...{1a}You have become that Prophet. Why do\nyou grieve?{0c:2b5a09fe}",
    "status": "done",
    "tl": "The one who hears the voice of the 'New World' and opens the door to the 'Land of Origin': that is the second Prophet... // You have become that Prophet. Why do you grieve?"
   },
@@ -1386,7 +1386,7 @@
    "jp": "{0c:51c0}{1c:16}{0b:08}{e080} 不死者ファトゥム {e081}{0b:09}\n余裕だな。\nもう神になったつもりか?{0c:52c8d02b501000}{0c:2b5609fe}",
    "read": "{0c:51c0}{1c:16}{0b:08}【 不死者ファトゥム 】{0b:09}\n余裕だな。\nもう神になったつもりか?{0c:52c8d02b501000}{0c:2b5609fe}",
    "raw": null,
-   "en": "{0c:51c0}{1c:16}{0b:08}【 Fatum the Undying 】{0b:09}\nYou seem at ease. Think you are a god\nalready?{0c:52c8d02b501000}{0c:2b5609fe}",
+   "en": "{0c:51c0}{1c:16}{0b:08}【 Fatum the Undying 】{0b:09}\nYou seem at ease. Think you are a\ngod already?{0c:52c8d02b501000}{0c:2b5609fe}",
    "status": "done",
    "tl": "You seem at ease. Think you are a god already?"
   },
@@ -1617,7 +1617,7 @@
    "jp": "{1c:27}{0b:08}{e080} サラ {e081}{0b:09}\n{10}さんと出逢えて\n本当によかった・・・{1a}死ぬのは怖いよ・・・\nでもあたしは、みんなが、\nみんなと出逢えたこの世{e088}が\n好きだから・・・{1a}だからお願い・・・{0c:fe}",
    "read": "{1c:27}{0b:08}【 サラ 】{0b:09}\n{10}さんと出逢えて\n本当によかった・・・{1a}死ぬのは怖いよ・・・\nでもあたしは、みんなが、\nみんなと出逢えたこの世界が\n好きだから・・・{1a}だからお願い・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:27}{0b:08}【 Sara 】{0b:09}\nI'm so glad I got to meet you,\n{10}-san...{1a}I'm scared to die... But I love everyone,\nand this world where I met everyone...{1a}So please...{0c:fe}",
+   "en": "{1c:27}{0b:08}【 Sara 】{0b:09}\nI'm so glad I got to meet\nyou, {10}-san...{1a}I'm scared to die... But I love everyone,\nand this world where I met everyone...{1a}So please...{0c:fe}",
    "status": "done",
    "tl": "I'm so glad I got to meet you, [HERO]-san... // I'm scared to die... But I love everyone, and this world where I met everyone... // So please..."
   },
@@ -1663,7 +1663,7 @@
    "jp": "{1c:27}{0b:08}{e080} サラ {e081}{0b:09}\n{10}さんと出逢えて\n本当によかった・・・{1a}死ぬのは怖いよ・・・\nでもあたしは、\nみんなと出逢えたこの世{e088}が、{1a}{10}さんと出逢えた\nこの世{e088}が好きだから・・・{1a}だからお願い・・・{0c:fe}",
    "read": "{1c:27}{0b:08}【 サラ 】{0b:09}\n{10}さんと出逢えて\n本当によかった・・・{1a}死ぬのは怖いよ・・・\nでもあたしは、\nみんなと出逢えたこの世界が、{1a}{10}さんと出逢えた\nこの世界が好きだから・・・{1a}だからお願い・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:27}{0b:08}【 Sara 】{0b:09}\nI'm so glad I got to meet you,\n{10}-san...{1a}I'm scared to die... But I love this world\nwhere I met everyone,{1a}this world where I met you,\n{10}-san...{1a}So please...{0c:fe}",
+   "en": "{1c:27}{0b:08}【 Sara 】{0b:09}\nI'm so glad I got to meet\nyou, {10}-san...{1a}I'm scared to die... But I love this world\nwhere I met everyone,{1a}this world where I met\nyou, {10}-san...{1a}So please...{0c:fe}",
    "status": "done",
    "tl": "I'm so glad I got to meet you, [HERO]-san... // I'm scared to die... But I love this world where I met everyone, // this world where I met you, [HERO]-san... // So please..."
   },
@@ -1800,7 +1800,7 @@
    "jp": "{1c:10}{0b:08}{e080} クムラン {e081}{0b:09}\nようやく『アンスールの指{e0e5}』が\n役に立ちました。あれがなければ\n間に合わなかったかもしれません。{1a}それにしても、\nよく頑張りましたね、\n{10}さん。{0c:fe}",
    "read": "{1c:10}{0b:08}【 クムラン 】{0b:09}\nようやく『アンスールの指輪』が\n役に立ちました。あれがなければ\n間に合わなかったかもしれません。{1a}それにしても、\nよく頑張りましたね、\n{10}さん。{0c:fe}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Qumran 】{0b:09}\nThe 'Ansur Ring' has finally proved its\nworth. Without it, we might not have\narrived in time.{1a}In any case, you have done very well,\n{10}-san.{0c:fe}",
+   "en": "{1c:10}{0b:08}【 Qumran 】{0b:09}\nThe 'Ansur Ring' has finally proved its\nworth. Without it, we might not have\narrived in time.{1a}In any case, you have done very\nwell, {10}-san.{0c:fe}",
    "status": "done",
    "tl": "The 'Ansur Ring' has finally proved its worth. Without it, we might not have arrived in time. // In any case, you have done very well, [HERO]-san."
   },
@@ -1918,7 +1918,7 @@
    "jp": "{0c:52ff31ff39}{1c:23}{0b:08}{e080} サラ {e081}{0b:09}\nそんなことより、\nファトゥムさんは・・・?{0c:2b5509fe}",
    "read": "{0c:52ff31ff39}{1c:23}{0b:08}【 サラ 】{0b:09}\nそんなことより、\nファトゥムさんは・・・?{0c:2b5509fe}",
    "raw": null,
-   "en": "{0c:52ff31ff39}{1c:23}{0b:08}【 Sara 】{0b:09}\nNever mind that, what about\nFatum-san...?{0c:2b5509fe}",
+   "en": "{0c:52ff31ff39}{1c:23}{0b:08}【 Sara 】{0b:09}\nNever mind that, what\nabout Fatum-san...?{0c:2b5509fe}",
    "status": "done",
    "tl": "Never mind that, what about Fatum-san...?"
   },

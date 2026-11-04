@@ -283,7 +283,7 @@
    "jp": "{1c:10}よし、力を合わせて\n{0b:05}{14}を助けよう!",
    "read": "{1c:10}よし、力を合わせて\n{0b:05}{14}を助けよう!",
    "raw": null,
-   "en": "{1c:10}All right, let's join forces and save\n{0b:05}{14}!",
+   "en": "{1c:10}All right, let's join forces and\nsave {0b:05}{14}!",
    "status": "done",
    "tl": "All right, let's join forces and save [1][VAR14]!"
   },
@@ -445,7 +445,7 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n責任を感じるよ。\n自分の意志ではないにせよ、\nこの手で人を殺めたなんて・・・{1a}僕は、亡くなった方やバルデスさんに\nどう償えばいいのかわからない・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n責任を感じるよ。\n自分の意志ではないにせよ、\nこの手で人を殺めたなんて・・・{1a}僕は、亡くなった方やバルデスさんに\nどう償えばいいのかわからない・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nI feel responsible. Though it was not my\nown will, to have taken lives with these\nhands...{1a}I don't know how I can atone to those\nwho died, or to Valdes-san...{0c:fe}",
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nI feel responsible. Though it was not my\nown will, to have taken lives with\nthese hands...{1a}I don't know how I can atone to those\nwho died, or to Valdes-san...{0c:fe}",
    "status": "done",
    "tl": "I feel responsible. Though it was not my own will, to have taken lives with these hands... // I don't know how I can atone to those who died, or to Valdes-san..."
   },
@@ -561,7 +561,7 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n責任を感じるよ。\n自分の意志ではないにせよ、\nこの手で人を殺めたなんて・・・{1a}僕は、亡くなった方やバルデスさんに\nどう償えばいいのかわからない・・・{0c:15}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n責任を感じるよ。\n自分の意志ではないにせよ、\nこの手で人を殺めたなんて・・・{1a}僕は、亡くなった方やバルデスさんに\nどう償えばいいのかわからない・・・{0c:15}",
    "raw": null,
-   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nI feel responsible. Though it was not my\nown will, to have taken lives with these\nhands...{1a}I don't know how I can atone to those\nwho died, or to Valdes-san...{0c:15}",
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nI feel responsible. Though it was not my\nown will, to have taken lives with\nthese hands...{1a}I don't know how I can atone to those\nwho died, or to Valdes-san...{0c:15}",
    "status": "done",
    "tl": "I feel responsible. Though it was not my own will, to have taken lives with these hands... // I don't know how I can atone to those who died, or to Valdes-san..."
   },
@@ -1105,7 +1105,7 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n{10}・・・{1a}バルデスさんはどうしてあそこまで\n潔く命を{e088}げ出せるのだろう・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n{10}・・・{1a}バルデスさんはどうしてあそこまで\n潔く命を投げ出せるのだろう・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\n{10}...{1a}How can Valdes-san give up his life so\ngracefully...{0c:fe}",
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\n{10}...{1a}How can Valdes-san give up his life\nso gracefully...{0c:fe}",
    "status": "done",
    "tl": "[HERO]... // How can Valdes-san give up his life so gracefully..."
   },
@@ -1128,7 +1128,7 @@
    "jp": "{1c:13}ああ・・・{1a}バルデスさんに{e089}いに行こう。\nオイゲンさんの所にいるはずだ。",
    "read": "{1c:13}ああ・・・{1a}バルデスさんに会いに行こう。\nオイゲンさんの所にいるはずだ。",
    "raw": null,
-   "en": "{1c:13}Yes...{1a}Let's go see Valdes-san. He should be at\nEugen-san's.",
+   "en": "{1c:13}Yes...{1a}Let's go see Valdes-san. He should be\nat Eugen-san's.",
    "status": "done",
    "tl": "Yes... // Let's go see Valdes-san. He should be at Eugen-san's."
   },
@@ -1209,7 +1209,7 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n{10}・・・{1a}バルデスさんはどうしてあそこまで\n潔く命を{e088}げ出せるのだろう・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n{10}・・・{1a}バルデスさんはどうしてあそこまで\n潔く命を投げ出せるのだろう・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\n{10}...{1a}How can Valdes-san give up his life so\ngracefully...{0c:fe}",
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\n{10}...{1a}How can Valdes-san give up his life\nso gracefully...{0c:fe}",
    "status": "done",
    "tl": "[HERO]... // How can Valdes-san give up his life so gracefully..."
   },
@@ -1255,7 +1255,7 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n{10}・・・{1a}バルデスさんはどうしてあそこまで\n潔く命を{e088}げ出せるのだろう・・・{1a}{e08a}士道{e08b}神を気安く口にする\n僕達貴{e08c}より、どれだけあの人の方が\n{e08a}士の{e08d}にふさわしいか・・・{1a}{0c:51ff4f}{10}・・・\n僕は、身分などにこだわっていた\n自分が情けないよ・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n{10}・・・{1a}バルデスさんはどうしてあそこまで\n潔く命を投げ出せるのだろう・・・{1a}騎士道精神を気安く口にする\n僕達貴族より、どれだけあの人の方が\n騎士の名にふさわしいか・・・{1a}{0c:51ff4f}{10}・・・\n僕は、身分などにこだわっていた\n自分が情けないよ・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\n{10}...{1a}How can Valdes-san give up his life so\ngracefully...{1a}How much more worthy of the name of\nknight that man is than we nobles who\nspeak so glibly of chivalry...{1a}{0c:51ff4f}{10}... I'm ashamed of myself,\nclinging to things like rank...{0c:fe}",
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\n{10}...{1a}How can Valdes-san give up his life\nso gracefully...{1a}How much more worthy of the name of\nknight that man is than we nobles who\nspeak so glibly of chivalry...{1a}{0c:51ff4f}{10}... I'm ashamed of myself,\nclinging to things like rank...{0c:fe}",
    "status": "done",
    "tl": "[HERO]... // How can Valdes-san give up his life so gracefully... // How much more worthy of the name of knight that man is than we nobles who speak so glibly of chivalry... // [1][HERO]... I'm ashamed of myself, clinging to things like rank..."
   },
@@ -1359,7 +1359,7 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n{10}・・・{1a}バルデスさんはどうしてあそこまで\n潔く命を{e088}げ出せるのだろう・・・{1a}{e08a}士道{e08b}神を気安く口にする\n僕達貴{e08c}より、どれだけあの人の方が\n{e08a}士の{e08d}にふさわしいか・・・{1a}{0c:51ff4f}{10}・・・\n僕は、身分などにこだわっていた\n自分が情けないよ・・・{0c:15}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n{10}・・・{1a}バルデスさんはどうしてあそこまで\n潔く命を投げ出せるのだろう・・・{1a}騎士道精神を気安く口にする\n僕達貴族より、どれだけあの人の方が\n騎士の名にふさわしいか・・・{1a}{0c:51ff4f}{10}・・・\n僕は、身分などにこだわっていた\n自分が情けないよ・・・{0c:15}",
    "raw": null,
-   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\n{10}...{1a}How can Valdes-san give up his life so\ngracefully...{1a}How much more worthy of the name of\nknight that man is than we nobles who\nspeak so glibly of chivalry...{1a}{0c:51ff4f}{10}... I'm ashamed of myself,\nclinging to things like rank...{0c:15}",
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\n{10}...{1a}How can Valdes-san give up his life\nso gracefully...{1a}How much more worthy of the name of\nknight that man is than we nobles who\nspeak so glibly of chivalry...{1a}{0c:51ff4f}{10}... I'm ashamed of myself,\nclinging to things like rank...{0c:15}",
    "status": "done",
    "tl": "[HERO]... // How can Valdes-san give up his life so gracefully... // How much more worthy of the name of knight that man is than we nobles who speak so glibly of chivalry... // [1][HERO]... I'm ashamed of myself, clinging to things like rank..."
   },
@@ -1696,7 +1696,7 @@
    "jp": "{1c:12}{0b:08}{e080} アーサー {e081}{0b:09}\n僕は今まで{e08f}多くの\n英雄叙事詩を{e094}んできた。{1a}本の中の英雄に憧れ、\n自分もそうなりたいと\n夢に思ってきた・・・{1a}でも、これはお話じゃない。\n安っぽい英雄願望は\nもう邪魔なのかもしれない・・・{0c:fe}",
    "read": "{1c:12}{0b:08}【 アーサー 】{0b:09}\n僕は今まで数多くの\n英雄叙事詩を読んできた。{1a}本の中の英雄に憧れ、\n自分もそうなりたいと\n夢に思ってきた・・・{1a}でも、これはお話じゃない。\n安っぽい英雄願望は\nもう邪魔なのかもしれない・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:12}{0b:08}【 Arthur 】{0b:09}\nI have read many a heroic epic.{1a}I admired the heroes in those books and\ndreamed of becoming like them...{1a}But this is no story. Perhaps my cheap\nlonging to be a hero is only in the way\nnow...{0c:fe}",
+   "en": "{1c:12}{0b:08}【 Arthur 】{0b:09}\nI have read many a heroic epic.{1a}I admired the heroes in those books and\ndreamed of becoming like them...{1a}But this is no story. Perhaps my cheap\nlonging to be a hero is only in the\nway now...{0c:fe}",
    "status": "done",
    "tl": "I have read many a heroic epic. // I admired the heroes in those books and dreamed of becoming like them... // But this is no story. Perhaps my cheap longing to be a hero is only in the way now..."
   },
@@ -1881,7 +1881,7 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n僕は今まで{e08f}多くの\n英雄叙事詩を{e094}んできた。{1a}本の中の英雄に憧れ、\n自分もそうなりたいと\n夢に思ってきた・・・{1a}でも、これはお話じゃない。\n安っぽい英雄願望は\nもう邪魔なのかもしれない・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n僕は今まで数多くの\n英雄叙事詩を読んできた。{1a}本の中の英雄に憧れ、\n自分もそうなりたいと\n夢に思ってきた・・・{1a}でも、これはお話じゃない。\n安っぽい英雄願望は\nもう邪魔なのかもしれない・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nI have read many a heroic epic.{1a}I admired the heroes in those books and\ndreamed of becoming like them...{1a}But this is no story. Perhaps my cheap\nlonging to be a hero is only in the way\nnow...{0c:fe}",
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nI have read many a heroic epic.{1a}I admired the heroes in those books and\ndreamed of becoming like them...{1a}But this is no story. Perhaps my cheap\nlonging to be a hero is only in the\nway now...{0c:fe}",
    "status": "done",
    "tl": "I have read many a heroic epic. // I admired the heroes in those books and dreamed of becoming like them... // But this is no story. Perhaps my cheap longing to be a hero is only in the way now..."
   },
@@ -2043,7 +2043,7 @@
    "jp": "{1c:13}{0b:08}{e080} アーサー {e081}{0b:09}\n僕は今まで{e08f}多くの\n英雄叙事詩を{e094}んできた。{1a}本の中の英雄に憧れ、\n自分もそうなりたいと\n夢に思ってきた・・・{1a}でも、これはお話じゃない。\n安っぽい英雄願望は\nもう邪魔なのかもしれない・・・{0c:fe}",
    "read": "{1c:13}{0b:08}【 アーサー 】{0b:09}\n僕は今まで数多くの\n英雄叙事詩を読んできた。{1a}本の中の英雄に憧れ、\n自分もそうなりたいと\n夢に思ってきた・・・{1a}でも、これはお話じゃない。\n安っぽい英雄願望は\nもう邪魔なのかもしれない・・・{0c:fe}",
    "raw": null,
-   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nI have read many a heroic epic.{1a}I admired the heroes in those books and\ndreamed of becoming like them...{1a}But this is no story. Perhaps my cheap\nlonging to be a hero is only in the way\nnow...{0c:fe}",
+   "en": "{1c:13}{0b:08}【 Arthur 】{0b:09}\nI have read many a heroic epic.{1a}I admired the heroes in those books and\ndreamed of becoming like them...{1a}But this is no story. Perhaps my cheap\nlonging to be a hero is only in the\nway now...{0c:fe}",
    "status": "done",
    "tl": "I have read many a heroic epic. // I admired the heroes in those books and dreamed of becoming like them... // But this is no story. Perhaps my cheap longing to be a hero is only in the way now..."
   },
@@ -2089,7 +2089,7 @@
    "jp": "{1c:12}『神』を相手に戦うんだ。\n本に出てくる英雄のように\n{e098}{e099}なことを考えながら戦ったら、\n飲み{e09b}まれるに決まっている。{1a}何が正しいか、\n人{e099}が何を望んでいるかなんて\nもう考えない。{1a}僕は{e09c}{e08c}を、そして\n大事な人を失いたくない・・・\nそれだけが僕の正義だ。{0c:fe}",
    "read": "{1c:12}『神』を相手に戦うんだ。\n本に出てくる英雄のように\n色々なことを考えながら戦ったら、\n飲み込まれるに決まっている。{1a}何が正しいか、\n人々が何を望んでいるかなんて\nもう考えない。{1a}僕は家族を、そして\n大事な人を失いたくない・・・\nそれだけが僕の正義だ。{0c:fe}",
    "raw": null,
-   "en": "{1c:12}We are fighting a 'god'. If I fight weighing\neverything the way heroes in books do, I\nwill surely be swallowed up.{1a}I will no longer think about what is right\nor what people want.{1a}I don't want to lose my family, or the\none dear to me... That alone is my\njustice.{0c:fe}",
+   "en": "{1c:12}We are fighting a 'god'. If I fight weighing\neverything the way heroes in books do, I\nwill surely be swallowed up.{1a}I will no longer think about what is right\nor what people want.{1a}I don't want to lose my family, or the\none dear to me... That alone is\nmy justice.{0c:fe}",
    "status": "done",
    "tl": "We are fighting a 'god'. If I fight weighing everything the way heroes in books do, I will surely be swallowed up. // I will no longer think about what is right or what people want. // I don't want to lose my family, or the one dear to me... That alone is my justice."
   },
@@ -2147,7 +2147,7 @@
    "jp": "{1c:10}そうか・・・{1a}いや、いいんだ。\n頑張れよ、{10}!{0c:15}",
    "read": "{1c:10}そうか・・・{1a}いや、いいんだ。\n頑張れよ、{10}!{0c:15}",
    "raw": null,
-   "en": "{1c:10}I see...{1a}No, it's all right. Do your best,\n{10}!{0c:15}",
+   "en": "{1c:10}I see...{1a}No, it's all right. Do your\nbest, {10}!{0c:15}",
    "status": "done",
    "tl": "I see... // No, it's all right. Do your best, [HERO]!"
   },
@@ -2370,7 +2370,7 @@
    "jp": "{1c:10}もう許せない! 君を討つ!!{0c:1501}",
    "read": "{1c:10}もう許せない! 君を討つ!!{0c:1501}",
    "raw": null,
-   "en": "{1c:10}I can't forgive this! I will strike you\ndown!!{0c:1501}",
+   "en": "{1c:10}I can't forgive this! I will strike\nyou down!!{0c:1501}",
    "status": "done",
    "tl": "I can't forgive this! I will strike you down!!"
   },
@@ -2440,7 +2440,7 @@
    "jp": "{1c:10}口だけではわからないのかっ!{0c:1501}",
    "read": "{1c:10}口だけではわからないのかっ!{0c:1501}",
    "raw": null,
-   "en": "{1c:10}So words alone won't get through to\nyou!{0c:1501}",
+   "en": "{1c:10}So words alone won't get through\nto you!{0c:1501}",
    "status": "done",
    "tl": "So words alone won't get through to you!"
   },
@@ -2487,7 +2487,7 @@
    "jp": "{1c:10}口だけではわからないのかっ!{0c:1501}",
    "read": "{1c:10}口だけではわからないのかっ!{0c:1501}",
    "raw": null,
-   "en": "{1c:10}So words alone won't get through to\nyou!{0c:1501}",
+   "en": "{1c:10}So words alone won't get through\nto you!{0c:1501}",
    "status": "done",
    "tl": "So words alone won't get through to you!"
   },
@@ -2534,7 +2534,7 @@
    "jp": "{1c:10}口だけではわからないのかっ!{0c:1501}",
    "read": "{1c:10}口だけではわからないのかっ!{0c:1501}",
    "raw": null,
-   "en": "{1c:10}So words alone won't get through to\nyou!{0c:1501}",
+   "en": "{1c:10}So words alone won't get through\nto you!{0c:1501}",
    "status": "done",
    "tl": "So words alone won't get through to you!"
   },
@@ -2569,7 +2569,7 @@
    "jp": "{1c:10}わざと僕を怒らせようと\nしているのか?",
    "read": "{1c:10}わざと僕を怒らせようと\nしているのか?",
    "raw": null,
-   "en": "{1c:10}Are you trying to make me angry on\npurpose?",
+   "en": "{1c:10}Are you trying to make me angry\non purpose?",
    "status": "done",
    "tl": "Are you trying to make me angry on purpose?"
   },
@@ -2605,7 +2605,7 @@
    "jp": "{1c:10}{10}、\nそれをどうするつもりだ!{0c:163b0800}",
    "read": "{1c:10}{10}、\nそれをどうするつもりだ!{0c:163b0800}",
    "raw": null,
-   "en": "{1c:10}{10}, what do you mean to do with\nthat!{0c:163b0800}",
+   "en": "{1c:10}{10}, what do you mean to do\nwith that!{0c:163b0800}",
    "status": "done",
    "tl": "[HERO], what do you mean to do with that!"
   },
@@ -2617,7 +2617,7 @@
    "jp": "{1c:10}わざと僕を怒らせようと\nしているのか?",
    "read": "{1c:10}わざと僕を怒らせようと\nしているのか?",
    "raw": null,
-   "en": "{1c:10}Are you trying to make me angry on\npurpose?",
+   "en": "{1c:10}Are you trying to make me angry\non purpose?",
    "status": "done",
    "tl": "Are you trying to make me angry on purpose?"
   },
@@ -2629,7 +2629,7 @@
    "jp": "{1c:10}そんなことをして、\n君には罪の意識がないのか!?",
    "read": "{1c:10}そんなことをして、\n君には罪の意識がないのか!?",
    "raw": null,
-   "en": "{1c:10}Have you no sense of guilt, doing such a\nthing!?",
+   "en": "{1c:10}Have you no sense of guilt, doing such\na thing!?",
    "status": "done",
    "tl": "Have you no sense of guilt, doing such a thing!?"
   },
@@ -2809,7 +2809,7 @@
    "jp": "もう許せない! 君を討つ!!{0c:1b}",
    "read": "もう許せない! 君を討つ!!{0c:1b}",
    "raw": null,
-   "en": "I can't forgive this! I will strike you\ndown!!{0c:1b}",
+   "en": "I can't forgive this! I will strike\nyou down!!{0c:1b}",
    "status": "done",
    "tl": "I can't forgive this! I will strike you down!!"
   },
