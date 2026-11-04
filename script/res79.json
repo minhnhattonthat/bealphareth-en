@@ -551,9 +551,9 @@
    "jp": "{1c:1b}{0b:08}{e080} オルフェウス {e081}{0b:09}\n君の魂もこの中に\n{e083}じ{e086}められていたんですよ。{1a}いやあ、なんと君にふさわしい\n{e087}処なんでしょう。{0c:023201}",
    "read": "{1c:1b}{0b:08}【 オルフェウス 】{0b:09}\n君の魂もこの中に\n封じ込められていたんですよ。{1a}いやあ、なんと君にふさわしい\n住処なんでしょう。{0c:023201}",
    "raw": null,
-   "en": "{1c:1b}{0b:08}【 Orpheus 】{0b:09}\nYour soul was sealed away in here too,\nyou know.{1a}Why, what a fitting abode for you, I\ndaresay.{0c:023201}",
+   "en": "{1c:1b}{0b:08}【 Orpheus 】{0b:09}\nYour soul was sealed away in here too.{1a}Why, what a fitting abode for you, I\ndaresay.{0c:023201}",
    "status": "done",
-   "tl": "Your soul was sealed away in here too, you know. // Why, what a fitting abode for you, I daresay."
+   "tl": "Your soul was sealed away in here too. // Why, what a fitting abode for you, I daresay."
   },
   {
    "id": "RES#79:3b7ac",
@@ -563,9 +563,9 @@
    "jp": "{1c:19}{0b:08}{e080} オルフェウス {e081}{0b:09}\n{10}さんの魂もこの中に\n{e083}じ{e086}められていたんですよ。{0c:023101}",
    "read": "{1c:19}{0b:08}【 オルフェウス 】{0b:09}\n{10}さんの魂もこの中に\n封じ込められていたんですよ。{0c:023101}",
    "raw": null,
-   "en": "{1c:19}{0b:08}【 Orpheus 】{0b:09}\nYour soul was sealed away in here too,\nyou know, {10}-san.{0c:023101}",
+   "en": "{1c:19}{0b:08}【 Orpheus 】{0b:09}\nYour soul was sealed away in here too,\n{10}-san.{0c:023101}",
    "status": "done",
-   "tl": "Your soul was sealed away in here too, you know, [HERO]-san."
+   "tl": "Your soul was sealed away in here too, [HERO]-san."
   },
   {
    "id": "RES#79:3b7e4",
@@ -631,9 +631,9 @@
    "jp": "{1c:17}{0b:08}{e080} ジェシカ {e081}{0b:09}\nあんたの魂はこんな変な{e082}に\n閉じこめられてたんだってさ。{0c:022b01}",
    "read": "{1c:17}{0b:08}【 ジェシカ 】{0b:09}\nあんたの魂はこんな変な柱に\n閉じこめられてたんだってさ。{0c:022b01}",
    "raw": null,
-   "en": "{1c:17}{0b:08}【 Jessica 】{0b:09}\nYour soul got locked up in a weird pillar\nlike this, you know that?{0c:022b01}",
+   "en": "{1c:17}{0b:08}【 Jessica 】{0b:09}\nWord is your soul got locked up in a weird\npillar like this, you know that?{0c:022b01}",
    "status": "done",
-   "tl": "Your soul got locked up in a weird pillar like this, you know that?"
+   "tl": "Word is your soul got locked up in a weird pillar like this, you know that?"
   },
   {
    "id": "RES#79:3b887",
@@ -665,9 +665,9 @@
    "jp": "{1c:10}{0b:08}{e080} アッシュ {e081}{0b:09}\nこんなへんてこな{e082}に\n{10}の魂は何ヶ月も\n閉じこめられていたんだよ。{0c:022801}",
    "read": "{1c:10}{0b:08}【 アッシュ 】{0b:09}\nこんなへんてこな柱に\n{10}の魂は何ヶ月も\n閉じこめられていたんだよ。{0c:022801}",
    "raw": null,
-   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\n{10}'s soul was shut up for\nmonths in a funny-looking pillar like this,\ny'know.{0c:022801}",
+   "en": "{1c:10}{0b:08}【 Ash 】{0b:09}\nYour soul was shut up for months in a\nfunny-looking pillar like this, {10},\ny'know.{0c:022801}",
    "status": "done",
-   "tl": "[HERO]'s soul was shut up for months in a funny-looking pillar like this, y'know."
+   "tl": "Your soul was shut up for months in a funny-looking pillar like this, [HERO], y'know."
   },
   {
    "id": "RES#79:3b8e1",
@@ -699,9 +699,9 @@
    "jp": "{1c:15}{0b:08}{e080} パスカ {e081}{0b:09}\nお前の魂、こんなのに\n閉じこめられてたんだぜ。{0c:022501}",
    "read": "{1c:15}{0b:08}【 パスカ 】{0b:09}\nお前の魂、こんなのに\n閉じこめられてたんだぜ。{0c:022501}",
    "raw": null,
-   "en": "{1c:15}{0b:08}【 Pasca 】{0b:09}\nYour soul got locked up in a thing like\nthis, y'know.{0c:022501}",
+   "en": "{1c:15}{0b:08}【 Pasca 】{0b:09}\nYour soul got locked up in a thing like\nthis, I'm tellin' ya.{0c:022501}",
    "status": "done",
-   "tl": "Your soul got locked up in a thing like this, y'know."
+   "tl": "Your soul got locked up in a thing like this, I'm tellin' ya."
   },
   {
    "id": "RES#79:3b92d",
@@ -733,9 +733,9 @@
    "jp": "{0b:08}{e080} シャルン {e081}{0b:09}\nこんな{e082}に{10}の魂は\n閉じこめられてたんだよ。{0c:022201}",
    "read": "{0b:08}【 シャルン 】{0b:09}\nこんな柱に{10}の魂は\n閉じこめられてたんだよ。{0c:022201}",
    "raw": null,
-   "en": "{0b:08}【 Scharn 】{0b:09}\n{10}'s soul was locked up in a pillar\nlike this, you know!{0c:022201}",
+   "en": "{0b:08}【 Scharn 】{0b:09}\nYour soul was locked up in a pillar like\nthis, {10}, you know!{0c:022201}",
    "status": "done",
-   "tl": "[HERO]'s soul was locked up in a pillar like this, you know!"
+   "tl": "Your soul was locked up in a pillar like this, [HERO], you know!"
   },
   {
    "id": "RES#79:3b977",
@@ -767,9 +767,9 @@
    "jp": "{1c:21}{0b:08}{e080} サラ {e081}{0b:09}\nこの{e082}に{10}さんの魂は\n閉じこめられていたんだよ。{0c:021f01}",
    "read": "{1c:21}{0b:08}【 サラ 】{0b:09}\nこの柱に{10}さんの魂は\n閉じこめられていたんだよ。{0c:021f01}",
    "raw": null,
-   "en": "{1c:21}{0b:08}【 Sara 】{0b:09}\nYour soul was locked up in this pillar,\n{10}-san, okay?{0c:021f01}",
+   "en": "{1c:21}{0b:08}【 Sara 】{0b:09}\nYour soul was locked up in this pillar,\n{10}-san.{0c:021f01}",
    "status": "done",
-   "tl": "Your soul was locked up in this pillar, [HERO]-san, okay?"
+   "tl": "Your soul was locked up in this pillar, [HERO]-san."
   },
   {
    "id": "RES#79:3b9c3",
@@ -801,9 +801,9 @@
    "jp": "{0b:08}{e080} アーサー {e081}{0b:09}\nこんな{e082}の中に\n{10}の魂は何ヶ月も\n閉じこめられていたんだ。{0c:021c01}",
    "read": "{0b:08}【 アーサー 】{0b:09}\nこんな柱の中に\n{10}の魂は何ヶ月も\n閉じこめられていたんだ。{0c:021c01}",
    "raw": null,
-   "en": "{0b:08}【 Arthur 】{0b:09}\n{10}'s soul was imprisoned for\nmonths inside a pillar like this one.{0c:021c01}",
+   "en": "{0b:08}【 Arthur 】{0b:09}\nYour soul was imprisoned for months\ninside a pillar like this one, {10}.{0c:021c01}",
    "status": "done",
-   "tl": "[HERO]'s soul was imprisoned for months inside a pillar like this one."
+   "tl": "Your soul was imprisoned for months inside a pillar like this one, [HERO]."
   },
   {
    "id": "RES#79:3ba18",
@@ -835,9 +835,9 @@
    "jp": "{1c:20}{0b:08}{e080} ルカ {e081}{0b:09}\nこの{e082}に{10}さんの魂は\n閉じこめられていたのですね。{0c:021901}",
    "read": "{1c:20}{0b:08}【 ルカ 】{0b:09}\nこの柱に{10}さんの魂は\n閉じこめられていたのですね。{0c:021901}",
    "raw": null,
-   "en": "{1c:20}{0b:08}【 Luca 】{0b:09}\nS-so your soul was imprisoned in this\npillar, {10}-san.{0c:021901}",
+   "en": "{1c:20}{0b:08}【 Luca 】{0b:09}\nSo your soul was imprisoned in this pillar,\n{10}-san.{0c:021901}",
    "status": "done",
-   "tl": "S-so your soul was imprisoned in this pillar, [HERO]-san."
+   "tl": "So your soul was imprisoned in this pillar, [HERO]-san."
   },
   {
    "id": "RES#79:3ba65",
@@ -869,9 +869,9 @@
    "jp": "{0b:08}{e080} ノエル {e081}{0b:09}\nこの{e082}にあなたの魂は\n閉じこめられていたのよ。{0c:021601}",
    "read": "{0b:08}【 ノエル 】{0b:09}\nこの柱にあなたの魂は\n閉じこめられていたのよ。{0c:021601}",
    "raw": null,
-   "en": "{0b:08}【 Noel 】{0b:09}\nYour soul was locked up in this pillar, you\nknow.{0c:021601}",
+   "en": "{0b:08}【 Noel 】{0b:09}\nYour soul was locked up in this pillar.{0c:021601}",
    "status": "done",
-   "tl": "Your soul was locked up in this pillar, you know."
+   "tl": "Your soul was locked up in this pillar."
   },
   {
    "id": "RES#79:3baaf",
@@ -984,9 +984,9 @@
    "jp": "{1c:1a}{0b:08}{e080} オルフェウス {e081}{0b:09}\nぼく達の魂もこの中に\n{e083}じ{e086}められていたんですよ。{1a}こんな{e08b}のない物体の中に\nこのぼくのピュアなハートが\n{e083}じ{e086}められてたなんて・・・\nあぁ、なんて{e08c}哀想なぼく・・・{1a}それに、どうせ{e083}じ{e086}めるなら\n{10}さんと一緒の\n{e082}にしてくれたらよかったのに。\n神様もイジワルですね。{0c:020c01}",
    "read": "{1c:1a}{0b:08}【 オルフェウス 】{0b:09}\nぼく達の魂もこの中に\n封じ込められていたんですよ。{1a}こんな品のない物体の中に\nこのぼくのピュアなハートが\n封じ込められてたなんて・・・\nあぁ、なんて可哀想なぼく・・・{1a}それに、どうせ封じ込めるなら\n{10}さんと一緒の\n柱にしてくれたらよかったのに。\n神様もイジワルですね。{0c:020c01}",
    "raw": null,
-   "en": "{1c:1a}{0b:08}【 Orpheus 】{0b:09}\nOur souls were sealed away in here too,\nyou know.{1a}To think my pure heart was sealed in so\nvulgar an object... Ah, poor, poor me...{1a}And besides, if I had to be sealed away,\nthey might at least have put me in the\nsame pillar as you, {10}-san. How\nunkind of God.{0c:020c01}",
+   "en": "{1c:1a}{0b:08}【 Orpheus 】{0b:09}\nOur souls were sealed away in here too.{1a}To think my pure heart was sealed in so\nvulgar an object... Ah, poor, poor me...{1a}And besides, if I had to be sealed away,\nthey might at least have put me in the\nsame pillar as you, {10}-san. How\nunkind of God.{0c:020c01}",
    "status": "done",
-   "tl": "Our souls were sealed away in here too, you know. // To think my pure heart was sealed in so vulgar an object... Ah, poor, poor me... // And besides, if I had to be sealed away, they might at least have put me in the same pillar as you, [HERO]-san. How unkind of God."
+   "tl": "Our souls were sealed away in here too. // To think my pure heart was sealed in so vulgar an object... Ah, poor, poor me... // And besides, if I had to be sealed away, they might at least have put me in the same pillar as you, [HERO]-san. How unkind of God."
   },
   {
    "id": "RES#79:3bd1c",
@@ -996,9 +996,9 @@
    "jp": "{1c:1c}{0b:08}{e080} イヴ {e081}{0b:09}\nあたし達の魂もこんな{e082}の中に\n{e083}じ{e086}められてたんだって。{0c:020b01}",
    "read": "{1c:1c}{0b:08}【 イヴ 】{0b:09}\nあたし達の魂もこんな柱の中に\n封じ込められてたんだって。{0c:020b01}",
    "raw": null,
-   "en": "{1c:1c}{0b:08}【 Eve 】{0b:09}\nOur souls were sealed up in pillars like\nthis too, or so they say, dear.{0c:020b01}",
+   "en": "{1c:1c}{0b:08}【 Eve 】{0b:09}\nOur souls were sealed up in pillars like\nthis too, or so they say.{0c:020b01}",
    "status": "done",
-   "tl": "Our souls were sealed up in pillars like this too, or so they say, dear."
+   "tl": "Our souls were sealed up in pillars like this too, or so they say."
   },
   {
    "id": "RES#79:3bd55",
@@ -1008,9 +1008,9 @@
    "jp": "{1c:18}{0b:08}{e080} ジェシカ {e081}{0b:09}\nこんな変な{e082}にあたし達は\n閉じこめられてたんだってさ。{0c:020a01}",
    "read": "{1c:18}{0b:08}【 ジェシカ 】{0b:09}\nこんな変な柱にあたし達は\n閉じこめられてたんだってさ。{0c:020a01}",
    "raw": null,
-   "en": "{1c:18}{0b:08}【 Jessica 】{0b:09}\nWe got locked up in a weird pillar like this,\nyou know that?{0c:020a01}",
+   "en": "{1c:18}{0b:08}【 Jessica 】{0b:09}\nWord is we got locked up in a weird pillar\nlike this, you know that?{0c:020a01}",
    "status": "done",
-   "tl": "We got locked up in a weird pillar like this, you know that?"
+   "tl": "Word is we got locked up in a weird pillar like this, you know that?"
   },
   {
    "id": "RES#79:3bd8d",
@@ -1032,9 +1032,9 @@
    "jp": "{1c:15}{0b:08}{e080} パスカ {e081}{0b:09}\nオレ達はこんな{e082}の中に\n何ヶ月も閉じこめられてたんだぜ。{0c:020801}",
    "read": "{1c:15}{0b:08}【 パスカ 】{0b:09}\nオレ達はこんな柱の中に\n何ヶ月も閉じこめられてたんだぜ。{0c:020801}",
    "raw": null,
-   "en": "{1c:15}{0b:08}【 Pasca 】{0b:09}\nWe got locked up for months in a pillar\nlike this, y'know.{0c:020801}",
+   "en": "{1c:15}{0b:08}【 Pasca 】{0b:09}\nWe got locked up for months in a pillar\nlike this, I'm tellin' ya.{0c:020801}",
    "status": "done",
-   "tl": "We got locked up for months in a pillar like this, y'know."
+   "tl": "We got locked up for months in a pillar like this, I'm tellin' ya."
   },
   {
    "id": "RES#79:3be08",
@@ -1056,9 +1056,9 @@
    "jp": "{1c:22}{0b:08}{e080} サラ {e081}{0b:09}\nこの{e082}にあたし達は\n閉じこめられていたんだよ。{0c:020601}",
    "read": "{1c:22}{0b:08}【 サラ 】{0b:09}\nこの柱にあたし達は\n閉じこめられていたんだよ。{0c:020601}",
    "raw": null,
-   "en": "{1c:22}{0b:08}【 Sara 】{0b:09}\nWe were locked up in this pillar, okay?{0c:020601}",
+   "en": "{1c:22}{0b:08}【 Sara 】{0b:09}\nWe were locked up in this pillar.{0c:020601}",
    "status": "done",
-   "tl": "We were locked up in this pillar, okay?"
+   "tl": "We were locked up in this pillar."
   },
   {
    "id": "RES#79:3be73",
@@ -1080,9 +1080,9 @@
    "jp": "{1c:20}{0b:08}{e080} ルカ {e081}{0b:09}\nこんな{e082}にわたし達の魂は\n閉じこめられていたのですね。{0c:020401}",
    "read": "{1c:20}{0b:08}【 ルカ 】{0b:09}\nこんな柱にわたし達の魂は\n閉じこめられていたのですね。{0c:020401}",
    "raw": null,
-   "en": "{1c:20}{0b:08}【 Luca 】{0b:09}\nS-so our souls were imprisoned in a pillar\nlike this.{0c:020401}",
+   "en": "{1c:20}{0b:08}【 Luca 】{0b:09}\nSo our souls were imprisoned in a pillar\nlike this.{0c:020401}",
    "status": "done",
-   "tl": "S-so our souls were imprisoned in a pillar like this."
+   "tl": "So our souls were imprisoned in a pillar like this."
   },
   {
    "id": "RES#79:3bee5",
@@ -1092,9 +1092,9 @@
    "jp": "{1c:1f}{0b:08}{e080} ノエル {e081}{0b:09}\nこの{e082}にあたし達の魂は\n閉じこめられていたのよ。{0c:020301}",
    "read": "{1c:1f}{0b:08}【 ノエル 】{0b:09}\nこの柱にあたし達の魂は\n閉じこめられていたのよ。{0c:020301}",
    "raw": null,
-   "en": "{1c:1f}{0b:08}【 Noel 】{0b:09}\nOur souls were locked up in this pillar,\nyou know.{0c:020301}",
+   "en": "{1c:1f}{0b:08}【 Noel 】{0b:09}\nOur souls were locked up in this pillar.{0c:020301}",
    "status": "done",
-   "tl": "Our souls were locked up in this pillar, you know."
+   "tl": "Our souls were locked up in this pillar."
   },
   {
    "id": "RES#79:3bf19",
@@ -1252,9 +1252,9 @@
    "jp": "{1c:20}{0b:08}{e080} ルカ {e081}{0b:09}\nと言っても、\n本当に魂が{e083}じ{e086}められてる{e082}は\n{e091}ってるそうですから、{1a}この{e082}はわたし達が{e090}してるものとは\n違うものなんですけど。{0c:021d01}",
    "read": "{1c:20}{0b:08}【 ルカ 】{0b:09}\nと言っても、\n本当に魂が封じ込められてる柱は\n光ってるそうですから、{1a}この柱はわたし達が探してるものとは\n違うものなんですけど。{0c:021d01}",
    "raw": null,
-   "en": "{1c:20}{0b:08}【 Luca 】{0b:09}\nTh-that said, the pillars that really hold\nsouls are said to glow,{1a}s-so this one is not the kind we are\nlooking for.{0c:021d01}",
+   "en": "{1c:20}{0b:08}【 Luca 】{0b:09}\nThat said, the pillars that really hold\nsouls are said to glow,{1a}so this one is not the kind we are looking\nfor.{0c:021d01}",
    "status": "done",
-   "tl": "Th-that said, the pillars that really hold souls are said to glow, // s-so this one is not the kind we are looking for."
+   "tl": "That said, the pillars that really hold souls are said to glow, // so this one is not the kind we are looking for."
   },
   {
    "id": "RES#79:3c142",
@@ -1320,9 +1320,9 @@
    "jp": "{1c:21}{0b:08}{e080} サラ {e081}{0b:09}\nって言っても、\n本当に魂が{e083}じ{e086}められてる{e082}は\n{e091}ってるそうだから、{1a}この{e082}はあたし達が{e090}してるのとは\n違うんだけどね。{0c:021701}",
    "read": "{1c:21}{0b:08}【 サラ 】{0b:09}\nって言っても、\n本当に魂が封じ込められてる柱は\n光ってるそうだから、{1a}この柱はあたし達が探してるのとは\n違うんだけどね。{0c:021701}",
    "raw": null,
-   "en": "{1c:21}{0b:08}【 Sara 】{0b:09}\nBut, um, they say the pillars that really\nhave souls inside are glowing,{1a}so this isn't the one we're looking for,\nokay?{0c:021701}",
+   "en": "{1c:21}{0b:08}【 Sara 】{0b:09}\nBut, um, they say the pillars that really\nhave souls inside are glowing,{1a}so this isn't the one we're looking for.{0c:021701}",
    "status": "done",
-   "tl": "But, um, they say the pillars that really have souls inside are glowing, // so this isn't the one we're looking for, okay?"
+   "tl": "But, um, they say the pillars that really have souls inside are glowing, // so this isn't the one we're looking for."
   },
   {
    "id": "RES#79:3c219",
@@ -1490,9 +1490,9 @@
    "jp": "{1c:1c}{0b:08}{e080} イヴ {e081}{0b:09}\nちなみに、\n本当に魂が{e083}じ{e086}められてる{e082}は\n{e091}ってるはずだから、{1a}この{e082}はハズレってことに\nなるけどね。{0c:020801}",
    "read": "{1c:1c}{0b:08}【 イヴ 】{0b:09}\nちなみに、\n本当に魂が封じ込められてる柱は\n光ってるはずだから、{1a}この柱はハズレってことに\nなるけどね。{0c:020801}",
    "raw": null,
-   "en": "{1c:1c}{0b:08}【 Eve 】{0b:09}\nBy the way, a pillar that really has a soul\ninside should be glowing,{1a}so I suppose this one's a dud, dear.{0c:020801}",
+   "en": "{1c:1c}{0b:08}【 Eve 】{0b:09}\nBy the way, a pillar that really has a soul\ninside should be glowing,{1a}so I suppose this one's a dud.{0c:020801}",
    "status": "done",
-   "tl": "By the way, a pillar that really has a soul inside should be glowing, // so I suppose this one's a dud, dear."
+   "tl": "By the way, a pillar that really has a soul inside should be glowing, // so I suppose this one's a dud."
   },
   {
    "id": "RES#79:3c40a",
@@ -1865,9 +1865,9 @@
    "jp": "{1c:21}{0b:08}{e080} サラ {e081}{0b:09}\nでも、違ってたからって\n気を落としちゃ駄目だよ。{1a}百本以上の{e082}を見つけたのに\n全{e0aa}駄目だった人の方が\n多いんだからね。{1a}じゃあそろそろ先に進もうよ。\nでもその前に1度町に\n戻らなきゃいけないんだけどね。{1a}この先の道、\nあたしが前に調べたところに\nつながってるみたいだから、{1a}町に戻ってティアラさんに\n{e098}しい場所を指示してもらわなきゃ。\nじゃあ町に戻ろうよ!{0c:021001}",
    "read": "{1c:21}{0b:08}【 サラ 】{0b:09}\nでも、違ってたからって\n気を落としちゃ駄目だよ。{1a}百本以上の柱を見つけたのに\n全部駄目だった人の方が\n多いんだからね。{1a}じゃあそろそろ先に進もうよ。\nでもその前に1度町に\n戻らなきゃいけないんだけどね。{1a}この先の道、\nあたしが前に調べたところに\nつながってるみたいだから、{1a}町に戻ってティアラさんに\n新しい場所を指示してもらわなきゃ。\nじゃあ町に戻ろうよ!{0c:021001}",
    "raw": null,
-   "en": "{1c:21}{0b:08}【 Sara 】{0b:09}\nBut you mustn't feel down just because\nit was wrong.{1a}Most people have found over a hundred\npillars, and every one was no good, you\nknow.{1a}So let's move on, okay? But first we\nhave to go back to town once.{1a}It looks like the road ahead joins a place I\nlooked at before,{1a}so we have to go to town and have\nTiara-san give us a new place. Okay,\nlet's go back to town!{0c:021001}",
+   "en": "{1c:21}{0b:08}【 Sara 】{0b:09}\nBut you mustn't feel down just because\nit was wrong.{1a}Most people have found over a hundred\npillars, and every one was no good.{1a}So let's move on, okay? But first we\nhave to go back to town once.{1a}It looks like the road ahead joins a place I\nlooked at before,{1a}so we have to go to town and have\nTiara-san give us a new place. Okay,\nlet's go back to town!{0c:021001}",
    "status": "done",
-   "tl": "But you mustn't feel down just because it was wrong. // Most people have found over a hundred pillars, and every one was no good, you know. // So let's move on, okay? But first we have to go back to town once. // It looks like the road ahead joins a place I looked at before, // so we have to go to town and have Tiara-san give us a new place. Okay, let's go back to town!"
+   "tl": "But you mustn't feel down just because it was wrong. // Most people have found over a hundred pillars, and every one was no good. // So let's move on, okay? But first we have to go back to town once. // It looks like the road ahead joins a place I looked at before, // so we have to go to town and have Tiara-san give us a new place. Okay, let's go back to town!"
   },
   {
    "id": "RES#79:3ce1e",
@@ -1933,9 +1933,9 @@
    "jp": "{1c:20}{0b:08}{e080} {03}ルカ {e081}{0b:09}\n{02}ですが、違ってたからといって\n気を落としちゃ駄目なんですよね。{1a}{e091}っている{e082}は何万分の{01}1{02}・・・\nそれを考えると落ち{e086}む時間も\nないはずですから・・・{1a}では地上に戻りましょう。\nどうやらこの先は以前に調べた所に\n続いているようです。{1a}一旦地上に戻り、\n{03}ティアラ{02}さんの指示を\n仰ぎましょう。{0c:020a01}",
    "read": "{1c:20}{0b:08}【 {03}ルカ 】{0b:09}\n{02}ですが、違ってたからといって\n気を落としちゃ駄目なんですよね。{1a}光っている柱は何万分の{01}1{02}・・・\nそれを考えると落ち込む時間も\nないはずですから・・・{1a}では地上に戻りましょう。\nどうやらこの先は以前に調べた所に\n続いているようです。{1a}一旦地上に戻り、\n{03}ティアラ{02}さんの指示を\n仰ぎましょう。{0c:020a01}",
    "raw": null,
-   "en": "{1c:20}{0b:08}【 Luca 】{0b:09}\nB-but I suppose one must not lose heart\njust because it was wrong.{1a}Only one pillar in tens of thousands\nglows... With that in mind, there should be\nno time to be downcast, either...{1a}Th-then let us return to the surface.\nThe way ahead seems to lead to a place\nalready searched.{1a}Let us go back up for now and ask\nTiara-san for instructions.{0c:020a01}",
+   "en": "{1c:20}{0b:08}【 Luca 】{0b:09}\nBut I suppose one must not lose heart\njust because it was wrong.{1a}Only one pillar in tens of thousands\nglows... With that in mind, there should be\nno time to be downcast, either...{1a}Then let us return to the surface. The\nway ahead seems to lead to a place\nalready searched.{1a}Let us go back up for now and ask\nTiara-san for instructions.{0c:020a01}",
    "status": "done",
-   "tl": "B-but I suppose one must not lose heart just because it was wrong. // Only one pillar in tens of thousands glows... With that in mind, there should be no time to be downcast, either... // Th-then let us return to the surface. The way ahead seems to lead to a place already searched. // Let us go back up for now and ask Tiara-san for instructions."
+   "tl": "But I suppose one must not lose heart just because it was wrong. // Only one pillar in tens of thousands glows... With that in mind, there should be no time to be downcast, either... // Then let us return to the surface. The way ahead seems to lead to a place already searched. // Let us go back up for now and ask Tiara-san for instructions."
   },
   {
    "id": "RES#79:3cfc4",
@@ -2160,9 +2160,9 @@
    "jp": "{1c:1c}{0b:08}{e080} {03}イヴ {e081}{0b:09}\n{02}ま、{03}ハズ{02}れたからといって\n別に気にすることはないわ。{1a}{e091}っている{e082}は何万分の{01}1{02}・・・\nそれ考えると、\n見つかる方が{e0a2}{e09f}なんだから。{1a}それに、\n助ける助けないって言ったって、\n所詮他人のことなんだし。{1a}ゆっくり進みましょ。\nもう飽きたっていうのなら、\n町に戻っても構わないけど。{0c:021c01}",
    "read": "{1c:1c}{0b:08}【 {03}イヴ 】{0b:09}\n{02}ま、{03}ハズ{02}れたからといって\n別に気にすることはないわ。{1a}光っている柱は何万分の{01}1{02}・・・\nそれ考えると、\n見つかる方が異常なんだから。{1a}それに、\n助ける助けないって言ったって、\n所詮他人のことなんだし。{1a}ゆっくり進みましょ。\nもう飽きたっていうのなら、\n町に戻っても構わないけど。{0c:021c01}",
    "raw": null,
-   "en": "{1c:1c}{0b:08}【 Eve 】{0b:09}\nWell, no need to fret just because it was\na dud.{1a}Only one pillar in tens of thousands\nglows... Considering that, finding one\nwould be the strange thing, you know.{1a}And for all this talk of saving them or\nnot, it's only other people, after all.{1a}Let's take our time going on. If you're\nbored of it already, I don't mind going\nback to town, dear.{0c:021c01}",
+   "en": "{1c:1c}{0b:08}【 Eve 】{0b:09}\nWell, no need to fret just because it was\na dud.{1a}Only one pillar in tens of thousands\nglows... Considering that, finding one\nwould be the strange thing, you know.{1a}And for all this talk of saving them or\nnot, it's only other people, after all.{1a}Let's take our time going on. If you're\nbored of it already, I don't mind going\nback to town.{0c:021c01}",
    "status": "done",
-   "tl": "Well, no need to fret just because it was a dud. // Only one pillar in tens of thousands glows... Considering that, finding one would be the strange thing, you know. // And for all this talk of saving them or not, it's only other people, after all. // Let's take our time going on. If you're bored of it already, I don't mind going back to town, dear."
+   "tl": "Well, no need to fret just because it was a dud. // Only one pillar in tens of thousands glows... Considering that, finding one would be the strange thing, you know. // And for all this talk of saving them or not, it's only other people, after all. // Let's take our time going on. If you're bored of it already, I don't mind going back to town."
   },
   {
    "id": "RES#79:3d449",
@@ -2194,9 +2194,9 @@
    "jp": "{0b:08}{e080} アッシュ {e081}{0b:09}\nでも、ダメだったからって\nこのくらいで\n気を落としちゃだめだぞ。{1a}百本以上{e090}して全{e0aa}ダメだった人も、\nそれでもあきらめずに\nがんばってるんだからな。{1a}{10}はまだまだ\nこれからだよ。\nそれじゃあ先に進もうか。{0c:021901}",
    "read": "{0b:08}【 アッシュ 】{0b:09}\nでも、ダメだったからって\nこのくらいで\n気を落としちゃだめだぞ。{1a}百本以上探して全部ダメだった人も、\nそれでもあきらめずに\nがんばってるんだからな。{1a}{10}はまだまだ\nこれからだよ。\nそれじゃあ先に進もうか。{0c:021901}",
    "raw": null,
-   "en": "{0b:08}【 Ash 】{0b:09}\nBut hey, don't feel down over a little\nthing like this being no good.{1a}There are people who searched over a\nhundred and came up empty, and they're\nstill working hard and not giving up,\ny'know.{1a}You've still got a long way to go,\n{10}. So let's move on, I guess.{0c:021901}",
+   "en": "{0b:08}【 Ash 】{0b:09}\nBut hey, don't feel down over a little\nthing like this being no good.{1a}There are people who searched over a\nhundred and came up empty, and they're\nstill working hard and not giving up,\ny'know.{1a}You're only just getting started,\n{10}. So let's move on, I guess.{0c:021901}",
    "status": "done",
-   "tl": "But hey, don't feel down over a little thing like this being no good. // There are people who searched over a hundred and came up empty, and they're still working hard and not giving up, y'know. // You've still got a long way to go, [HERO]. So let's move on, I guess."
+   "tl": "But hey, don't feel down over a little thing like this being no good. // There are people who searched over a hundred and came up empty, and they're still working hard and not giving up, y'know. // You're only just getting started, [HERO]. So let's move on, I guess."
   },
   {
    "id": "RES#79:3d4e9",
@@ -2296,9 +2296,9 @@
    "jp": "{1c:21}{0b:08}{e080} サラ {e081}{0b:09}\nでも、違ってたからって\n気を落としちゃ駄目だよ。{1a}百本以上{e082}を見つけたのに\n全{e0aa}駄目だった人の方が\n多いんだからね。{1a}じゃあそろそろ先に進もうよ。\nがんばろうね、{10}さん!{0c:021001}",
    "read": "{1c:21}{0b:08}【 サラ 】{0b:09}\nでも、違ってたからって\n気を落としちゃ駄目だよ。{1a}百本以上柱を見つけたのに\n全部駄目だった人の方が\n多いんだからね。{1a}じゃあそろそろ先に進もうよ。\nがんばろうね、{10}さん!{0c:021001}",
    "raw": null,
-   "en": "{1c:21}{0b:08}【 Sara 】{0b:09}\nBut you mustn't feel down just because\nit was wrong.{1a}Most people have found over a hundred\npillars, and every one was no good, you\nknow.{1a}So let's move on, okay? Let's do our\nbest, {10}-san!{0c:021001}",
+   "en": "{1c:21}{0b:08}【 Sara 】{0b:09}\nBut you mustn't feel down just because\nit was wrong.{1a}Most people have found over a hundred\npillars, and every one was no good.{1a}So let's move on, okay? Let's do our\nbest, {10}-san!{0c:021001}",
    "status": "done",
-   "tl": "But you mustn't feel down just because it was wrong. // Most people have found over a hundred pillars, and every one was no good, you know. // So let's move on, okay? Let's do our best, [HERO]-san!"
+   "tl": "But you mustn't feel down just because it was wrong. // Most people have found over a hundred pillars, and every one was no good. // So let's move on, okay? Let's do our best, [HERO]-san!"
   },
   {
    "id": "RES#79:3d698",
@@ -2364,9 +2364,9 @@
    "jp": "{1c:20}{0b:08}{e080} {03}ルカ {e081}{0b:09}\n{02}ですが、違ってたからといって\n気を落としちゃ駄目なんですよね。{1a}{e091}っている{e082}は何万分の{01}1{02}・・・\nそれを考えると落ち{e086}む時間も\nないはずですから・・・{1a}では、先に進みましょうか。{0c:020a01}",
    "read": "{1c:20}{0b:08}【 {03}ルカ 】{0b:09}\n{02}ですが、違ってたからといって\n気を落としちゃ駄目なんですよね。{1a}光っている柱は何万分の{01}1{02}・・・\nそれを考えると落ち込む時間も\nないはずですから・・・{1a}では、先に進みましょうか。{0c:020a01}",
    "raw": null,
-   "en": "{1c:20}{0b:08}【 Luca 】{0b:09}\nB-but I suppose one must not lose heart\njust because it was wrong.{1a}Only one pillar in tens of thousands\nglows... With that in mind, there should be\nno time to be downcast, either...{1a}Th-then, shall we move on?{0c:020a01}",
+   "en": "{1c:20}{0b:08}【 Luca 】{0b:09}\nBut I suppose one must not lose heart\njust because it was wrong.{1a}Only one pillar in tens of thousands\nglows... With that in mind, there should be\nno time to be downcast, either...{1a}Then, shall we move on?{0c:020a01}",
    "status": "done",
-   "tl": "B-but I suppose one must not lose heart just because it was wrong. // Only one pillar in tens of thousands glows... With that in mind, there should be no time to be downcast, either... // Th-then, shall we move on?"
+   "tl": "But I suppose one must not lose heart just because it was wrong. // Only one pillar in tens of thousands glows... With that in mind, there should be no time to be downcast, either... // Then, shall we move on?"
   },
   {
    "id": "RES#79:3d796",

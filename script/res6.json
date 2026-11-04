@@ -531,9 +531,9 @@
    "jp": "{0b:08}{e080} アーサー {e081}{0b:09}\nもうこんな時間なのか!\nくっ、僕がいながら\n間に合わないなんて・・・{1a}{10}、今からでも\nあの{e082}{e083}のところに行ってみないか?\nこうなったらあの人を\n{e094}得するしかない。急ごう!",
    "read": "{0b:08}【 アーサー 】{0b:09}\nもうこんな時間なのか!\nくっ、僕がいながら\n間に合わないなんて・・・{1a}{10}、今からでも\nあの司祭のところに行ってみないか?\nこうなったらあの人を\n説得するしかない。急ごう!",
    "raw": null,
-   "en": "{0b:08}【 Arthur 】{0b:09}\nIs it this late already!? Damn, that we\ncouldn't make it in time, with me here...{1a}{10}, why don't we go to that\npriest, even now? We have no choice but\nto persuade him. Hurry!",
+   "en": "{0b:08}【 Arthur 】{0b:09}\nIs it this late already!? Agh, that we\ncouldn't make it in time, with me here...{1a}{10}, why don't we go to that\npriest, even now? We have no choice but\nto persuade him. Hurry!",
    "status": "done",
-   "tl": "Is it this late already!? Damn, that we couldn't make it in time, with me here... // [HERO], why don't we go to that priest, even now? We have no choice but to persuade him. Hurry!"
+   "tl": "Is it this late already!? Agh, that we couldn't make it in time, with me here... // [HERO], why don't we go to that priest, even now? We have no choice but to persuade him. Hurry!"
   },
   {
    "id": "RES#6:1426b",
@@ -566,9 +566,9 @@
    "jp": "{0b:08}{e080} {03}パスカ {e081}{0b:09}\n{02}くそっ、もうすぐ{e096}時じゃねえか{01}!{1a}{10}{02}、\nあの{03}ヘボ{e082}{e083}{02}の所に行こうぜ。\n{e093}は貯まらなかったけど\n{e094}得するだけしてみるさ。",
    "read": "{0b:08}【 {03}パスカ 】{0b:09}\n{02}くそっ、もうすぐ零時じゃねえか{01}!{1a}{10}{02}、\nあの{03}ヘボ司祭{02}の所に行こうぜ。\n金は貯まらなかったけど\n説得するだけしてみるさ。",
    "raw": null,
-   "en": "{0b:08}【 Pasca 】{0b:09}\nDamn it, it's almost midnight!{1a}{10}, let's go see that lousy\npriest. We didn't get the money saved\nup, but we'll try talkin' him around, at\nleast.",
+   "en": "{0b:08}【 Pasca 】{0b:09}\nDamn it, it's almost midnight!{1a}{10}, let's go see that two-bit\npriest. We didn't get the money saved\nup, but we'll try talkin' him around, at\nleast.",
    "status": "done",
-   "tl": "Damn it, it's almost midnight! // [HERO], let's go see that lousy priest. We didn't get the money saved up, but we'll try talkin' him around, at least."
+   "tl": "Damn it, it's almost midnight! // [HERO], let's go see that two-bit priest. We didn't get the money saved up, but we'll try talkin' him around, at least."
   },
   {
    "id": "RES#6:143af",
@@ -648,9 +648,9 @@
    "jp": "{0b:08}{e080} イヴ {e081}{0b:09}\nもうじき満月ね・・・\nじゃあそろそろ行ってみる? {1a}どこへって?\nあの{e082}{e083}の所にきまってるじゃない。{1a}大丈夫、{e093}は集められなかったけど\n案外簡単にOK出すわよ。\nあの{e082}{e083}も何が得かくらいは\n分かってるから。",
    "read": "{0b:08}【 イヴ 】{0b:09}\nもうじき満月ね・・・\nじゃあそろそろ行ってみる? {1a}どこへって?\nあの司祭の所にきまってるじゃない。{1a}大丈夫、金は集められなかったけど\n案外簡単にOK出すわよ。\nあの司祭も何が得かくらいは\n分かってるから。",
    "raw": null,
-   "en": "{0b:08}【 Eve 】{0b:09}\nThe full moon is nearly here... Well then,\nshall we go, dear?{1a}Where, you ask? To that priest, where\nelse?{1a}Don't worry. We didn't get the money\ntogether, but I suppose he'll say okay\neasily enough. Even that priest knows\nwhat's to his profit, you know.",
+   "en": "{0b:08}【 Eve 】{0b:09}\nThe full moon is nearly here... Well then,\nshall we go?{1a}Where, you ask? To that priest, where\nelse?{1a}Don't worry. We didn't get the money\ntogether, but he'll say okay easily\nenough, you know. Even that priest\nknows what's to his profit.",
    "status": "done",
-   "tl": "The full moon is nearly here... Well then, shall we go, dear? // Where, you ask? To that priest, where else? // Don't worry. We didn't get the money together, but I suppose he'll say okay easily enough. Even that priest knows what's to his profit, you know."
+   "tl": "The full moon is nearly here... Well then, shall we go? // Where, you ask? To that priest, where else? // Don't worry. We didn't get the money together, but he'll say okay easily enough, you know. Even that priest knows what's to his profit."
   },
   {
    "id": "RES#6:146f9",
@@ -2133,9 +2133,9 @@
    "jp": "{1c:63}魔{e0af}陣で道が{e0b1}{e0b2}されている。\n{e0b3}れると『我は{e0b4}の{e0b1}{e0b2}なり。\n道を求めし者よ、{e0b4}の力を示せ』\nという思念が頭に直接響いてくる。",
    "read": "{1c:63}魔法陣で道が封印されている。\n触れると『我は氷の封印なり。\n道を求めし者よ、氷の力を示せ』\nという思念が頭に直接響いてくる。",
    "raw": null,
-   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought echoes directly in your\nhead: 'I am the seal of ice. Seeker of the\nway, show thy power of ice.'",
+   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought-form echoes directly in\nyour head: 'I am the seal of ice. Seeker\nof the way, show thy power of ice.'",
    "status": "done",
-   "tl": "A magic circle seals the way. On touching it, a thought echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
+   "tl": "A magic circle seals the way. On touching it, a thought-form echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
   },
   {
    "id": "RES#6:15909",
@@ -2145,9 +2145,9 @@
    "jp": "{1c:63}魔{e0af}陣で道が{e0b1}{e0b2}されている。\n{e0b3}れると『我は{e0b4}の{e0b1}{e0b2}なり。\n道を求めし者よ、{e0b4}の力を示せ』\nという思念が頭に直接響いてくる。",
    "read": "{1c:63}魔法陣で道が封印されている。\n触れると『我は氷の封印なり。\n道を求めし者よ、氷の力を示せ』\nという思念が頭に直接響いてくる。",
    "raw": null,
-   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought echoes directly in your\nhead: 'I am the seal of ice. Seeker of the\nway, show thy power of ice.'",
+   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought-form echoes directly in\nyour head: 'I am the seal of ice. Seeker\nof the way, show thy power of ice.'",
    "status": "done",
-   "tl": "A magic circle seals the way. On touching it, a thought echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
+   "tl": "A magic circle seals the way. On touching it, a thought-form echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
   },
   {
    "id": "RES#6:15963",
@@ -2157,9 +2157,9 @@
    "jp": "{1c:63}魔{e0af}陣で道が{e0b1}{e0b2}されている。\n{e0b3}れると『我は{e0b4}の{e0b1}{e0b2}なり。\n道を求めし者よ、{e0b4}の力を示せ』\nという思念が頭に直接響いてくる。",
    "read": "{1c:63}魔法陣で道が封印されている。\n触れると『我は氷の封印なり。\n道を求めし者よ、氷の力を示せ』\nという思念が頭に直接響いてくる。",
    "raw": null,
-   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought echoes directly in your\nhead: 'I am the seal of ice. Seeker of the\nway, show thy power of ice.'",
+   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought-form echoes directly in\nyour head: 'I am the seal of ice. Seeker\nof the way, show thy power of ice.'",
    "status": "done",
-   "tl": "A magic circle seals the way. On touching it, a thought echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
+   "tl": "A magic circle seals the way. On touching it, a thought-form echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
   },
   {
    "id": "RES#6:159bd",
@@ -2169,9 +2169,9 @@
    "jp": "{1c:63}魔{e0af}陣で道が{e0b1}{e0b2}されている。\n{e0b3}れると『我は{e0b4}の{e0b1}{e0b2}なり。\n道を求めし者よ、{e0b4}の力を示せ』\nという思念が頭に直接響いてくる。",
    "read": "{1c:63}魔法陣で道が封印されている。\n触れると『我は氷の封印なり。\n道を求めし者よ、氷の力を示せ』\nという思念が頭に直接響いてくる。",
    "raw": null,
-   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought echoes directly in your\nhead: 'I am the seal of ice. Seeker of the\nway, show thy power of ice.'",
+   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought-form echoes directly in\nyour head: 'I am the seal of ice. Seeker\nof the way, show thy power of ice.'",
    "status": "done",
-   "tl": "A magic circle seals the way. On touching it, a thought echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
+   "tl": "A magic circle seals the way. On touching it, a thought-form echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
   },
   {
    "id": "RES#6:15a17",
@@ -2181,9 +2181,9 @@
    "jp": "{1c:63}魔{e0af}陣で道が{e0b1}{e0b2}されている。\n{e0b3}れると『我は{e0b4}の{e0b1}{e0b2}なり。\n道を求めし者よ、{e0b4}の力を示せ』\nという思念が頭に直接響いてくる。",
    "read": "{1c:63}魔法陣で道が封印されている。\n触れると『我は氷の封印なり。\n道を求めし者よ、氷の力を示せ』\nという思念が頭に直接響いてくる。",
    "raw": null,
-   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought echoes directly in your\nhead: 'I am the seal of ice. Seeker of the\nway, show thy power of ice.'",
+   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought-form echoes directly in\nyour head: 'I am the seal of ice. Seeker\nof the way, show thy power of ice.'",
    "status": "done",
-   "tl": "A magic circle seals the way. On touching it, a thought echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
+   "tl": "A magic circle seals the way. On touching it, a thought-form echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
   },
   {
    "id": "RES#6:15a71",
@@ -2193,9 +2193,9 @@
    "jp": "{1c:63}魔{e0af}陣で道が{e0b1}{e0b2}されている。\n{e0b3}れると『我は{e0b4}の{e0b1}{e0b2}なり。\n道を求めし者よ、{e0b4}の力を示せ』\nという思念が頭に直接響いてくる。",
    "read": "{1c:63}魔法陣で道が封印されている。\n触れると『我は氷の封印なり。\n道を求めし者よ、氷の力を示せ』\nという思念が頭に直接響いてくる。",
    "raw": null,
-   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought echoes directly in your\nhead: 'I am the seal of ice. Seeker of the\nway, show thy power of ice.'",
+   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought-form echoes directly in\nyour head: 'I am the seal of ice. Seeker\nof the way, show thy power of ice.'",
    "status": "done",
-   "tl": "A magic circle seals the way. On touching it, a thought echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
+   "tl": "A magic circle seals the way. On touching it, a thought-form echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
   },
   {
    "id": "RES#6:15acb",
@@ -2205,9 +2205,9 @@
    "jp": "{1c:63}魔{e0af}陣で道が{e0b1}{e0b2}されている。\n{e0b3}れると『我は{e0b4}の{e0b1}{e0b2}なり。\n道を求めし者よ、{e0b4}の力を示せ』\nという思念が頭に直接響いてくる。",
    "read": "{1c:63}魔法陣で道が封印されている。\n触れると『我は氷の封印なり。\n道を求めし者よ、氷の力を示せ』\nという思念が頭に直接響いてくる。",
    "raw": null,
-   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought echoes directly in your\nhead: 'I am the seal of ice. Seeker of the\nway, show thy power of ice.'",
+   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought-form echoes directly in\nyour head: 'I am the seal of ice. Seeker\nof the way, show thy power of ice.'",
    "status": "done",
-   "tl": "A magic circle seals the way. On touching it, a thought echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
+   "tl": "A magic circle seals the way. On touching it, a thought-form echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
   },
   {
    "id": "RES#6:15b25",
@@ -2239,9 +2239,9 @@
    "jp": "{1c:63}魔{e0af}陣で道が{e0b1}{e0b2}されている。\n{e0b3}れると『我は{e0b4}の{e0b1}{e0b2}なり。\n道を求めし者よ、{e0b4}の力を示せ』\nという思念が頭に直接響いてくる。",
    "read": "{1c:63}魔法陣で道が封印されている。\n触れると『我は氷の封印なり。\n道を求めし者よ、氷の力を示せ』\nという思念が頭に直接響いてくる。",
    "raw": null,
-   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought echoes directly in your\nhead: 'I am the seal of ice. Seeker of the\nway, show thy power of ice.'",
+   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought-form echoes directly in\nyour head: 'I am the seal of ice. Seeker\nof the way, show thy power of ice.'",
    "status": "done",
-   "tl": "A magic circle seals the way. On touching it, a thought echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
+   "tl": "A magic circle seals the way. On touching it, a thought-form echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
   },
   {
    "id": "RES#6:15b81",
@@ -2251,9 +2251,9 @@
    "jp": "{1c:63}魔{e0af}陣で道が{e0b1}{e0b2}されている。\n{e0b3}れると『我は{e0b4}の{e0b1}{e0b2}なり。\n道を求めし者よ、{e0b4}の力を示せ』\nという思念が頭に直接響いてくる。",
    "read": "{1c:63}魔法陣で道が封印されている。\n触れると『我は氷の封印なり。\n道を求めし者よ、氷の力を示せ』\nという思念が頭に直接響いてくる。",
    "raw": null,
-   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought echoes directly in your\nhead: 'I am the seal of ice. Seeker of the\nway, show thy power of ice.'",
+   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought-form echoes directly in\nyour head: 'I am the seal of ice. Seeker\nof the way, show thy power of ice.'",
    "status": "done",
-   "tl": "A magic circle seals the way. On touching it, a thought echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
+   "tl": "A magic circle seals the way. On touching it, a thought-form echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
   },
   {
    "id": "RES#6:15bdb",
@@ -2263,9 +2263,9 @@
    "jp": "{1c:63}魔{e0af}陣で道が{e0b1}{e0b2}されている。\n{e0b3}れると『我は{e0b4}の{e0b1}{e0b2}なり。\n道を求めし者よ、{e0b4}の力を示せ』\nという思念が頭に直接響いてくる。",
    "read": "{1c:63}魔法陣で道が封印されている。\n触れると『我は氷の封印なり。\n道を求めし者よ、氷の力を示せ』\nという思念が頭に直接響いてくる。",
    "raw": null,
-   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought echoes directly in your\nhead: 'I am the seal of ice. Seeker of the\nway, show thy power of ice.'",
+   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought-form echoes directly in\nyour head: 'I am the seal of ice. Seeker\nof the way, show thy power of ice.'",
    "status": "done",
-   "tl": "A magic circle seals the way. On touching it, a thought echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
+   "tl": "A magic circle seals the way. On touching it, a thought-form echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
   },
   {
    "id": "RES#6:15c35",
@@ -2275,9 +2275,9 @@
    "jp": "{1c:63}魔{e0af}陣で道が{e0b1}{e0b2}されている。\n{e0b3}れると『我は{e0b4}の{e0b1}{e0b2}なり。\n道を求めし者よ、{e0b4}の力を示せ』\nという思念が頭に直接響いてくる。",
    "read": "{1c:63}魔法陣で道が封印されている。\n触れると『我は氷の封印なり。\n道を求めし者よ、氷の力を示せ』\nという思念が頭に直接響いてくる。",
    "raw": null,
-   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought echoes directly in your\nhead: 'I am the seal of ice. Seeker of the\nway, show thy power of ice.'",
+   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought-form echoes directly in\nyour head: 'I am the seal of ice. Seeker\nof the way, show thy power of ice.'",
    "status": "done",
-   "tl": "A magic circle seals the way. On touching it, a thought echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
+   "tl": "A magic circle seals the way. On touching it, a thought-form echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
   },
   {
    "id": "RES#6:15c8f",
@@ -2287,9 +2287,9 @@
    "jp": "{1c:63}魔{e0af}陣で道が{e0b1}{e0b2}されている。\n{e0b3}れると『我は{e0b4}の{e0b1}{e0b2}なり。\n道を求めし者よ、{e0b4}の力を示せ』\nという思念が頭に直接響いてくる。",
    "read": "{1c:63}魔法陣で道が封印されている。\n触れると『我は氷の封印なり。\n道を求めし者よ、氷の力を示せ』\nという思念が頭に直接響いてくる。",
    "raw": null,
-   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought echoes directly in your\nhead: 'I am the seal of ice. Seeker of the\nway, show thy power of ice.'",
+   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought-form echoes directly in\nyour head: 'I am the seal of ice. Seeker\nof the way, show thy power of ice.'",
    "status": "done",
-   "tl": "A magic circle seals the way. On touching it, a thought echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
+   "tl": "A magic circle seals the way. On touching it, a thought-form echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
   },
   {
    "id": "RES#6:15ce9",
@@ -2299,9 +2299,9 @@
    "jp": "{1c:63}魔{e0af}陣で道が{e0b1}{e0b2}されている。\n{e0b3}れると『我は{e0b4}の{e0b1}{e0b2}なり。\n道を求めし者よ、{e0b4}の力を示せ』\nという思念が頭に直接響いてくる。",
    "read": "{1c:63}魔法陣で道が封印されている。\n触れると『我は氷の封印なり。\n道を求めし者よ、氷の力を示せ』\nという思念が頭に直接響いてくる。",
    "raw": null,
-   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought echoes directly in your\nhead: 'I am the seal of ice. Seeker of the\nway, show thy power of ice.'",
+   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought-form echoes directly in\nyour head: 'I am the seal of ice. Seeker\nof the way, show thy power of ice.'",
    "status": "done",
-   "tl": "A magic circle seals the way. On touching it, a thought echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
+   "tl": "A magic circle seals the way. On touching it, a thought-form echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
   },
   {
    "id": "RES#6:15d43",
@@ -2311,9 +2311,9 @@
    "jp": "{1c:63}魔{e0af}陣で道が{e0b1}{e0b2}されている。\n{e0b3}れると『我は{e0b4}の{e0b1}{e0b2}なり。\n道を求めし者よ、{e0b4}の力を示せ』\nという思念が頭に直接響いてくる。",
    "read": "{1c:63}魔法陣で道が封印されている。\n触れると『我は氷の封印なり。\n道を求めし者よ、氷の力を示せ』\nという思念が頭に直接響いてくる。",
    "raw": null,
-   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought echoes directly in your\nhead: 'I am the seal of ice. Seeker of the\nway, show thy power of ice.'",
+   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought-form echoes directly in\nyour head: 'I am the seal of ice. Seeker\nof the way, show thy power of ice.'",
    "status": "done",
-   "tl": "A magic circle seals the way. On touching it, a thought echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
+   "tl": "A magic circle seals the way. On touching it, a thought-form echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
   },
   {
    "id": "RES#6:15d9d",
@@ -2345,9 +2345,9 @@
    "jp": "{1c:63}魔{e0af}陣で道が{e0b1}{e0b2}されている。\n{e0b3}れると『我は{e0b4}の{e0b1}{e0b2}なり。\n道を求めし者よ、{e0b4}の力を示せ』\nという思念が頭に直接響いてくる。",
    "read": "{1c:63}魔法陣で道が封印されている。\n触れると『我は氷の封印なり。\n道を求めし者よ、氷の力を示せ』\nという思念が頭に直接響いてくる。",
    "raw": null,
-   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought echoes directly in your\nhead: 'I am the seal of ice. Seeker of the\nway, show thy power of ice.'",
+   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought-form echoes directly in\nyour head: 'I am the seal of ice. Seeker\nof the way, show thy power of ice.'",
    "status": "done",
-   "tl": "A magic circle seals the way. On touching it, a thought echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
+   "tl": "A magic circle seals the way. On touching it, a thought-form echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
   },
   {
    "id": "RES#6:15df9",
@@ -2357,9 +2357,9 @@
    "jp": "{1c:63}魔{e0af}陣で道が{e0b1}{e0b2}されている。\n{e0b3}れると『我は{e0b4}の{e0b1}{e0b2}なり。\n道を求めし者よ、{e0b4}の力を示せ』\nという思念が頭に直接響いてくる。",
    "read": "{1c:63}魔法陣で道が封印されている。\n触れると『我は氷の封印なり。\n道を求めし者よ、氷の力を示せ』\nという思念が頭に直接響いてくる。",
    "raw": null,
-   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought echoes directly in your\nhead: 'I am the seal of ice. Seeker of the\nway, show thy power of ice.'",
+   "en": "{1c:63}A magic circle seals the way. On touching\nit, a thought-form echoes directly in\nyour head: 'I am the seal of ice. Seeker\nof the way, show thy power of ice.'",
    "status": "done",
-   "tl": "A magic circle seals the way. On touching it, a thought echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
+   "tl": "A magic circle seals the way. On touching it, a thought-form echoes directly in your head: 'I am the seal of ice. Seeker of the way, show thy power of ice.'"
   }
  ],
  "entry": 6

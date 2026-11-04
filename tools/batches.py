@@ -246,8 +246,12 @@ def glossary():
     return plates, terms
 
 
+NOT_TERM = re.compile(r"エステル化|新しい世界地図|デューラー公国")  # chemistry, a plain new map, the Duchy of Durer: not Esther, the New World, the Duke
+
+
 def term_hits(jp_text, terms):
     """Glossary rows whose JP stands in the text as a whole kana run (ミン never matches inside タイミング)."""
+    jp_text = NOT_TERM.sub("", jp_text)
     hits = []
     for row in terms:
         jp = row[0]

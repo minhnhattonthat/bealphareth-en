@@ -329,7 +329,22 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 煉獄 | Purgatory | | | |
 | 贖罪の関 | Gate of Atonement | | | |
 | 清火の宮 | Palace of Cleansing Fire | | | |
-| 七罰の宮 | Palace of Seven Punishments | | | |
+| 七罪の宮 | Palace of Seven Sins | | | |
+| 門天宮 | Palace of the Gate Heaven | | | |
+| 炎氷天宮 | Palace of the Fire and Ice Heaven | | | |
+| 光天宮 | Palace of the Light Heaven | | | |
+| 力天宮 | Palace of the Power Heaven | | | |
+| 人天宮 | Palace of the Human Heaven | | | |
+| 人天離宮 | Detached Palace of the Human Heaven | | | |
+| 遊魂層 | Wandering Soul Layer | | | |
+| 闇魂層 | Dark Soul Layer | | | |
+| 沈魂層 | Sunken Soul Layer | | | |
+| 精魂層 | Pure Soul Layer | | | |
+| 至魂層 | Supreme Soul Layer | | | |
+| 遊魂離層 | Wandering Soul Outer Layer | | | |
+| 邪面の間 | Chamber of the Evil Face | | | |
+| 聖面の間 | Chamber of the Holy Face | | | |
+| 永劫の間 | Chamber of Eternity | | | |
 | 時の回廊 | Corridor of Time | | | |
 | 裁魂門 | Soul Judgment Gate | | | |
 | 封神門 | God-Sealing Gate | | | |
@@ -344,6 +359,55 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 十三聖者 | Thirteen Saints | | a single one: Saint | |
 | 太陽帝国 | Sun Empire | | | Solar Empire |
 | 新しい世界 | New World | | | |
+| セルツ鋼 | Seltz steel | | | |
+| 魔物図鑑 | Monster Guide | | | |
+| 円卓の騎士 | Knights of the Round Table | | | |
+| 天風の道 | Way of the Heavenly Wind | | | |
+| 四天王 | Four Kings | | of Asroit | |
+| 元老院 | Senate | | | |
+| 四十人委員会 | Committee of Forty | | | |
+| 共和国国会 | Republican Assembly | | | |
+| 海の都 | City of the Sea | | | |
+| 砂漠の民 | People of the Desert | | | |
+| ウェッティン | Wettin | | | |
+| ファルモス | Falmos | | | |
+| イラデヤ | Iradeya | | | |
+| クリクス | Crixus | | | |
+| モルドレッド | Mordred | | | |
+| ティンタエル | Tintagel | | | |
+| 北方の戦姫 | War Princess of the North | | | |
+| アキーヌの悪魔 | Devil of Aquine | | | |
+| アキーヌの聖戦士 | Holy Warrior of Aquine | | | |
+| 西方の賢女 | Wise Woman of the West | | | |
+| 西方の戦神 | War God of the West | | | |
+| ロドリゴ | Rodrigo | | | |
+| ジースドルフ | Siesdorf | | | |
+| 聖ルシア | Saint Lucia | | | |
+| 異教徒審問会 | heretic inquisition | | | |
+| マテリアル合成の女神 | Goddess of Material Synthesis | | | |
+| ヴァハナの根 | Vahana Root | | | |
+| デモンズクラブ | Demon's Club | | | |
+| ドラゴンテイル | Dragon Tail | | | |
+| 青猫 | Blue Cat | | Jessica's alias | |
+| 神聖裁判 | Holy Tribunal | | | |
+| 7月戦争 | July War | | | |
+| 神の代理人 | Vicar of God | | | |
+| 教皇庁 | Holy See | | | |
+| 大バイレステ | Great Baileste | | | |
+| レノス帝国 | Lenos Empire | | | |
+| 永遠の都市 | Eternal City | | | |
+| 死の山脈 | Mountains of Death | | | |
+| カルス山脈 | Kars Mountains | | | |
+| キベルト | Kibert | | Qumran's surname | |
+| クラスダール東方正教 | Krasdar Eastern Orthodox Church | | | |
+| 聖母 | Holy Mother | | | |
+| 免罪符 | indulgence | | | |
+| ゼメンの日 | Zemen's Day | | | |
+| ゼウェアクの日 | Zeweak's Day | | | |
+| ロムル | Romul | | wood | |
+| シームス | Seamus | | wood | |
+| ファルツ家 | House Pfalz | | | |
+| ツヴァイブリュッケン家 | House Zweibrucken | | | |
 | 太陽の宝玉 | Sun Jewel | | | |
 | 時の行路図 | Chart of Time | | | |
 | アザレの石 | Azare Stone | | | |
