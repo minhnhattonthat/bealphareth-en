@@ -177,7 +177,7 @@ def stream(blocks_, qs):
     bits += "0" * (-len(bits) % 32)
     words = [int(bits[i:i + 16], 2) for i in range(0, len(bits), 16)]
     codes = sum(len(ac) + 2 for _, ac in blocks_)
-    head = (codes // 2 + 31) // 32 * 32
+    head = ((codes + 1) // 2 + 31) // 32 * 32  # round up: one code short leaves the MDEC waiting, which hangs on hardware timing
     return struct.pack("<HHHH", head, 0x3800, qs, 2) + np.array(words, dtype="<u2").tobytes()
 
 

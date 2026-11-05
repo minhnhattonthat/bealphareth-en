@@ -42,6 +42,14 @@ def test_edit_keeps_what_it_did_not_touch():
     assert abs(y2 - y).max() < 40
 
 
+def test_header_never_cuts_an_odd_code_count():
+    px = np.random.default_rng(2).integers(-120, 120, (8, 8)).astype(float)
+    dc, ac = bs.dct_block(px, 1)
+    assert len(ac) >= 61
+    head = struct.unpack_from("<H", bs.stream([(dc, ac[:61]), (0, [])], 1), 0)[0]  # 63 + 2 = 65 codes
+    assert head * 2 >= 65
+
+
 def test_colour_round_trip_is_close():
     rgb = np.random.default_rng(1).integers(40, 200, (32, 32, 3), dtype=np.uint8)
     rgb = rgb.repeat(2, axis=0).repeat(2, axis=1)  # flat 2x2 cells survive the chroma average
