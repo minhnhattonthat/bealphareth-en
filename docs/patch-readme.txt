@@ -31,7 +31,7 @@ See https://github.com/minhnhattonthat/bealphareth-en/issues. A few item cards w
 given a clean description rather than a literal reading.
 
 TESTED ON
-PCSX-Redux. Real hardware not tested.
+PCSX-Redux and DuckStation. Real hardware not tested.
 
 CREDITS
 Translation and tools made with AI assistance (Claude), directed by the project owner. Fonts: Liberation Serif (SIL Open Font Licence).
