@@ -13,13 +13,13 @@ helps most.
 
 | Part | Status |
 |---|---|
-| Dialogue / story | Not started |
-| Menus, items, skills, system messages | Not started |
-| Item cards, documents, mission title cards, endings (drawn as graphics) | Not started |
-| Prologue video subtitles | Not started |
-| Name entry | Not started |
+| Dialogue / story | English |
+| Menus, items, skills, system messages | English |
+| Item cards, documents, mission title cards, endings (drawn as graphics) | English |
+| Prologue video subtitles | English |
+| Name entry | English |
 
-Work in progress: no patch is available yet. Known issues: none (no build).
+Version 1.0 is out. Tested on PCSX-Redux and DuckStation, not on real hardware. Full battles, shops, the Game Over screen and many later events haven't been played through by hand, so please report anything odd.
 
 ## What's here
 
@@ -45,7 +45,7 @@ cd bealphareth-en
 git config core.hooksPath tools/hooks
 # copy your dump to: rom/Bealphareth (Japan).bin and .cue
 #   (.bin: 706733664 bytes, SHA-1 81c2845c671f57f8937748b39ba809ac2c050aaa; the build refuses any other dump, see rom.sha1)
-python -X utf8 tools/build.py                          # -> build/bealphareth_en.cue/.bin (not written yet)
+python -X utf8 tools/build.py                          # -> build/bealphareth_en.cue/.bin
 python -X utf8 tools/check.py                          # tests + text lint
 ```
 
