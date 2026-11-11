@@ -47,7 +47,8 @@ MARKER_FILLS = (1.0, 0.6, 0.3, 0.0)
 def dump(dest):
     """Unpack the original disc into dest/tree with dest/layout.xml."""
     dest.mkdir(parents=True, exist_ok=True)
-    subprocess.run([TOOLS / "dumpsxiso.exe", "-q", "-x", dest / "tree", "-s", dest / "layout.xml", CUE], check=True)
+    # relative paths: dumpsxiso writes -x verbatim into layout.xml, and pack() needs it relative to the copy in work/en
+    subprocess.run([TOOLS / "dumpsxiso.exe", "-q", "-x", "tree", "-s", "layout.xml", CUE], cwd=dest, check=True)
 
 
 def pack(disc, out):
