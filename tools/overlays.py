@@ -1,9 +1,14 @@
 """overlays.py: data patches in scene overlays that are not message banks. Offsets are in the part before the first bank,
 which never shifts. RES#1023 holds the name entry screen (docs/re/vwf.md): every page becomes the ASCII grid."""
 import struct
+import subprocess
+import tempfile
 from pathlib import Path
 
-NAMES = Path(__file__).resolve().parents[1] / "tbl/loose_names.tsv"
+ROOT = Path(__file__).resolve().parents[1]
+NAMES = ROOT / "tbl/loose_names.tsv"
+ARMIPS = ROOT / "tools/armips/armips.exe"
+NAME_CURSOR = ROOT / "asm/name_cursor.asm"
 
 # Names the aging man refuses, in 20-byte slots, each glyph a (mode, code) pair like a typed name.
 RESERVED = {
@@ -41,7 +46,15 @@ def patch_name_entry(blob):
         _name(out, off, name, DRAW_MODES - off if off < DRAW_MODES else 20)
     for off, name in DEFAULTS.items():
         _name(out, off, name, 16)
-    return bytes(out)
+    return assemble(bytes(out), NAME_CURSOR, "RES1023")
+
+
+def assemble(blob, asm, name):
+    """blob with asm applied by armips (the asm opens `name`)."""
+    with tempfile.TemporaryDirectory() as tmp:
+        (Path(tmp) / name).write_bytes(blob)
+        subprocess.run([ARMIPS, asm, "-root", tmp], check=True)
+        return (Path(tmp) / name).read_bytes()
 
 
 def patch_loose_name(out, base, off, words, en, pool, pool_end):

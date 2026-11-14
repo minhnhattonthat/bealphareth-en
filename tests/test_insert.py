@@ -222,6 +222,9 @@ def test_name_entry_is_ascii_and_keeps_its_slots():
     assert out[0xFAA8:0xFAB1] == b"\1W\1e\1l\1d\0"
     assert struct.unpack_from("<I", out, overlays.GRID_PAGE_0)[0] == struct.unpack_from("<I", blob, overlays.GRID_PAGE_0 + 4)[0]
     assert out[0xC5E8:0xC5F4] == blob[0xC5E8:0xC5F4]  # the other page words stay
+    # asm/name_cursor.asm: the cursor's x sums the VWF widths of the row (lui t2 from the table's address)
+    assert out[0x500:0x504] == bytes.fromhex("1c800a3c")
+    assert out[:0x500] == blob[:0x500] and out[0x56C:0xC5E4] == blob[0x56C:0xC5E4]
     assert overlays.apply(1024, blob) == blob
 
 

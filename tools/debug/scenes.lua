@@ -61,6 +61,7 @@ S.menu_main = field("120 -;6 start;60 -")
 S.menu_tabs = field("120 -;6 start;30 -;6 circle;60 -")
 S.menu_item = field("120 -;6 start;30 -;6 circle;30 -;6 circle;60 -")
 S.menu_status = field("120 -;6 start;30 -;6 circle;30 -;6 right;30 -;6 circle;60 -")
+S.menu_hero = field("120 -;6 start;30 -;6 down;30 -;6 circle;30 -;6 circle;90 -") -- Status > hero, issue #1
 S.menu_help = field("120 -;6 start;30 -;6 circle;30 -;6 right;30 -;6 right;30 -;6 circle;60 -")
 S.menu_party = field("120 -;6 start;30 -;6 down;30 -;6 circle;60 -")
 S.menu_system = field("120 -;6 start;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 circle;60 -")

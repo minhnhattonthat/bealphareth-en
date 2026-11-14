@@ -200,6 +200,37 @@ SUB_POOL_MAGIC equ 0x424F5046      ; insert.SUB_POOL_MAGIC
     addiu v1, zero, 3
     addiu v1, zero, 2
 
+; --- big outlined text 0x8006C804 (Profile page, issue #1): one 13 px cell a letter. ASCII takes the VWF cells and widths.
+.org 0x8006C964
+    jal   big_glyph
+    lw    a2, 0x4B0(gp)
+    nop
+.org 0x8006C970
+    j     big_advance
+    nop
+; its half-width unpacker (only English reaches it) skips the 1 px bold: the outline pass already thickens the VWF cells
+.org 0x8006D568
+    move  v0, zero
+; Profile page columns: equipment icon and name 12 px right of the labels, which run past the kanji's 3 cells
+.org 0x8006BF00
+    addiu a0, s1, 0x44             ; name, was 0x38
+.org 0x8006BF0C
+    addiu a0, s1, 0x44             ; -Not Equipped- (s1 - 12), was 0x38
+.org 0x8006BFC4
+    addiu s1, s1, 0x34             ; icon, was 0x28
+; Weak/Half/Null rows: labels 10 px left (Exp's numbers end at 155), elements from label + 40 (was 36), 31 px apart (were
+; 20, one kanji each): the last ends at 317
+.org 0x8006CB40
+    addiu s6, v0, 40
+.org 0x8006CBDC
+    addiu fp, s6, 31
+.org 0x8009A650
+    .halfword 158
+.org 0x8009A658
+    .halfword 158
+.org 0x8009A660
+    .halfword 158
+
 ; --- 0x80050A8C finds a bank's base id after its offset table: M2 only, English can turn a bank into an M4 of strings -------
 .org 0x80050AB4
     j     m_head
@@ -364,6 +395,40 @@ m_head:
     addu  v0, v0, v1
     j     0x80050ACC
     addu  v0, s0, v0
+
+; big text: s0 = code, s2 = full-width flag ({0e} clears it), s3 = mode (0 ASCII). An ASCII byte draws the half-width cell.
+big_glyph:
+    move  a3, s2
+    bnez  s3, @@go
+    sltiu v0, s0, 0x80
+    beqz  v0, @@go
+    nop
+    move  a3, zero
+@@go:
+    j     0x8006D69C
+    nop
+
+; pen 0x10(sp): an ASCII byte (space too) moves by its VWF width plus 1 px of outline; anything else keeps 13 or 7
+big_advance:
+    lhu   v0, 0x10(sp)
+    bnez  s3, @@cells
+    sltiu v1, s0, 0x80
+    beqz  v1, @@cells
+    lui   v1, hi(WIDTHS - 0x20)
+    addu  v1, v1, s0
+    lbu   v1, lo(WIDTHS - 0x20)(v1)
+    nop
+    addu  v0, v0, v1
+    j     0x8006C99C
+    addiu v0, v0, 1
+@@cells:
+    bnez  s2, @@full
+    nop
+    j     0x8006C978
+    nop
+@@full:
+    j     0x8006C984
+    nop
 
 ; name labels. The painter's cell goes to label_cell instead of the name's buffer.
 vwf_paint:
