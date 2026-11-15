@@ -19,7 +19,7 @@ helps most.
 | Prologue video subtitles | English |
 | Name entry | English |
 
-Version 1.2 is out (fixes the overlapping character Profile page and the name entry cursor). Tested on PCSX-Redux, not on real hardware. Full battles, shops, the Game Over screen and many later events haven't been played through by hand, so please report anything odd.
+Version 1.3 is out (fixes the hang at Sadiya's room, the shop's Details hint and lone lines on extra dialogue pages). Tested on PCSX-Redux, not on real hardware. Full battles, shops, the Game Over screen and many later events haven't been played through by hand, so please report anything odd.
 
 ## What's here
 
