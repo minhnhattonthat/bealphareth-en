@@ -12,7 +12,7 @@ RETURN_NEXT equ 0x8004F360         ; after the pen moved: wait, flush test, next
 FLUSH    equ 0x8004F480            ; end the block
 KANA_PATH equ 0x8004F23C           ; original one-byte path (kana modes)
 SUB_RAM  equ 0x80136C00            ; a sub-scene's load address
-SUB_POOL_RAM equ 0x8017EA00        ; insert.SUB_POOL_RAM
+SUB_POOL_RAM equ 0x801974C0        ; insert.SUB_POOL_RAM
 SUB_POOL_MAGIC equ 0x424F5046      ; insert.SUB_POOL_MAGIC
 
 .open "MAIN.EXE", 0x80010000 - 0x800

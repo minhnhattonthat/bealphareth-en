@@ -77,11 +77,11 @@ def test_map_parts_stay_below_a_sub_scene_only_where_one_loads():
 def test_sub_scene_keeps_what_it_cannot_hold_in_its_own_file():
     doc = next(d for d in docs() if d.get("entry") == 1195)
     blob = bytes(scene(doc))
-    s = next(s for s in doc["strings"] if s["len"] > 20)
-    big = b"A" * 0x8000
+    s, filler = [s for s in doc["strings"] if s["len"] > 20][:2]
+    big = b"A" * (insert.SUB_POOL_SIZE - 1)  # just fits the pool; the filler takes the file's room below the line
     report = []
-    out, pool = insert.fit_scene(blob, doc, {s["off"]: big}, b"", report)
-    assert pool == b"" and "sub pool" in report[0] and len(out) == len(blob)
+    out, pool = insert.fit_scene(blob, doc, {s["off"]: big, filler["off"]: b"B" * 0x1000}, b"", report)
+    assert pool == b"" and "1 strings" in report[0] and "sub pool" in report[0] and len(out) == len(blob)
     end = struct.unpack_from("<I", out, 4)[0]
     assert end % 4 == 0
     magic, size = struct.unpack_from("<II", out, end - 8)

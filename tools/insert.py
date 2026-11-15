@@ -27,7 +27,10 @@ SCENE_LOAD = {0xA0000: 0x800D6C00, 0x40000: 0x80136C00}  # RAM address of a scen
 # whose own code calls the sub-scene load (SUB_LOAD_JAL) have one; nothing else in MAIN.EXE, PSX.EXE or a sub-scene calls it.
 LOAD_LINE = {0x40000: 0x20000, 0xA0000: 0x60000}
 SUB_LOAD_JAL = struct.pack("<I", 0x0C000000 | (0x800279A0 & 0x0FFFFFFF) >> 2)  # jal 0x800279A0
-SUB_POOL_RAM, SUB_POOL_SIZE = 0x8017EA00, 0x9600  # stays zero through the whole Japanese tour (tools/lua/free_probe.lua)
+# Gap between resident RES#1002 data (ends 0x801974BE) and RES#3367 (0x8019B000): zero in the 311-scene JP tour and in
+# field play with NPCs. Not 0x8017EA00: that is inside the three NPC sprite slots (0x8017C000 + 3 x 0x4000, 0x8001647C);
+# sub-scene 571's pool there broke the church NPC sprite and the corridor (map 184) crashed.
+SUB_POOL_RAM, SUB_POOL_SIZE = 0x801974C0, 0x3B40
 SUB_POOL_MAGIC = 0x424F5046  # asm/vwf.asm sub_far: a sub-scene file ending in [pool, magic, pool length]
 # Every base-font glyph English draws, in new cell order: `{code}` (0x8080 + index) is what the encoder emits.
 KEPT = "【】○×△□→←▽"
