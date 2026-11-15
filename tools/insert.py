@@ -22,8 +22,11 @@ MAIN_FILE_BASE = 0x8000F800  # RAM address of MAIN.EXE file offset 0
 SYSTEM_RAM = 0x801B9000
 SCENE_LOAD = {0xA0000: 0x800D6C00, 0x40000: 0x80136C00}  # RAM address of a scene by slot size (docs/re/disc.md)
 # Sub-scenes: 0x80019A24 loads over 0x80156C00 as one starts, and the game reads some parts after that (#4107's map texture),
-# so a part that ended below this line must stay below it. Maps have the same at 0x60000 (a sub-scene over 0x80136C00), not seen to matter.
-LOAD_LINE = {0x40000: 0x20000}
+# so a part that ended below this line must stay below it. Maps: a sub-scene loads over map offset 0x60000 (0x80136C00), and
+# the map reads its parts after that (#188: Sadiya's room 189 read sub-scene bytes as room data and hung the GPU). Only maps
+# whose own code calls the sub-scene load (SUB_LOAD_JAL) have one; nothing else in MAIN.EXE, PSX.EXE or a sub-scene calls it.
+LOAD_LINE = {0x40000: 0x20000, 0xA0000: 0x60000}
+SUB_LOAD_JAL = struct.pack("<I", 0x0C000000 | (0x800279A0 & 0x0FFFFFFF) >> 2)  # jal 0x800279A0
 SUB_POOL_RAM, SUB_POOL_SIZE = 0x8017EA00, 0x9600  # stays zero through the whole Japanese tour (tools/lua/free_probe.lua)
 SUB_POOL_MAGIC = 0x424F5046  # asm/vwf.asm sub_far: a sub-scene file ending in [pool, magic, pool length]
 # Every base-font glyph English draws, in new cell order: `{code}` (0x8080 + index) is what the encoder emits.
@@ -227,6 +230,8 @@ def rebuild_scene(blob, doc, new, drop_glyphs=False, far=None, share=False):
     if remap(sec2) != sec2:
         raise ValueError("a bank before the part table")
     limit = LOAD_LINE.get(len(blob))
+    if limit == 0x60000 and not any(blob[k:k + 4] == SUB_LOAD_JAL for k in range(0x10, sec2, 4)):
+        limit = None  # a map that never has a sub-scene over it
     if limit:
         ends = [base + v for v in offs[1:]] + [base + size] + [bank_end(blob, b) for b in doc["banks"] if b["kind"] != "raw"]
         for end in ends:
@@ -292,7 +297,7 @@ def fit_scene(blob, doc, new, pool, report):
         return out, pool
     except Overflow as e:
         last = e
-    if len(blob) in LOAD_LINE:
+    if len(blob) == 0x40000:
         try:
             return sub_pool(blob, doc, new, report), pool
         except Overflow as e:  # RES#361: its file is full to the slot's end

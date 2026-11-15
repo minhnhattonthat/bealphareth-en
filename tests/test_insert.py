@@ -61,6 +61,19 @@ def test_sub_scene_text_stays_below_the_buffer():
         insert.rebuild_scene(scene(doc), doc, {s["off"]: b"x" * 0x10000})
 
 
+def test_map_parts_stay_below_a_sub_scene_only_where_one_loads():
+    """#188 loads Sadiya's sub-scene over its offset 0x60000: its room data must stay below. #108 loads none."""
+    for entry, grows in ((188, False), (108, True)):
+        doc = next(d for d in docs() if d.get("entry") == entry)
+        s = next(s for s in doc["strings"] if s["len"] > 20)
+        new = {s["off"]: b"x" * 0x4000}
+        if grows:
+            insert.rebuild_scene(scene(doc), doc, new)
+        else:
+            with pytest.raises(insert.Overflow):
+                insert.rebuild_scene(scene(doc), doc, new)
+
+
 def test_sub_scene_keeps_what_it_cannot_hold_in_its_own_file():
     doc = next(d for d in docs() if d.get("entry") == 1195)
     blob = bytes(scene(doc))
