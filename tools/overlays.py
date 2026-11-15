@@ -5,10 +5,14 @@ import subprocess
 import tempfile
 from pathlib import Path
 
+import vwf_font
+
 ROOT = Path(__file__).resolve().parents[1]
 NAMES = ROOT / "tbl/loose_names.tsv"
 ARMIPS = ROOT / "tools/armips/armips.exe"
-NAME_CURSOR = ROOT / "asm/name_cursor.asm"
+NAME_GRID = ROOT / "asm/name_grid.asm"
+RES1023_RAM = 0x800D6C00
+GRID_ROWS, GRID_COLS, ROW_LEN, CELL, MAX_MOVE = 6, 15, 46, 18, 24  # ROW_LEN: name_grid.asm
 
 # Names the aging man refuses, in 20-byte slots, each glyph a (mode, code) pair like a typed name.
 RESERVED = {
@@ -46,13 +50,39 @@ def patch_name_entry(blob):
         _name(out, off, name, DRAW_MODES - off if off < DRAW_MODES else 20)
     for off, name in DEFAULTS.items():
         _name(out, off, name, 16)
-    return assemble(bytes(out), NAME_CURSOR, "RES1023")
+    return assemble(bytes(out), NAME_GRID, "RES1023", {"name_rows.bin": grid_rows(blob)})
 
 
-def assemble(blob, asm, name):
-    """blob with asm applied by armips (the asm opens `name`)."""
+def grid_rows(blob, font=None):
+    """The ASCII grid's rows as drawn strings: each glyph at the left of its kana cell, 18*col + 6*(col/5), where the
+    cursor's own copy of the letter lands, reached by `7F n` pen moves (n-0x20 px); spaces are left out. ROW_LEN bytes
+    a row, zero padded."""
+    widths = vwf_font.widths(font)
+    grid = blob[GRID_ASCII - RES1023_RAM:][:GRID_ROWS * GRID_COLS].decode("ascii")
+    out = bytearray()
+    for r in range(GRID_ROWS):
+        row, pen = bytearray(), 0
+        for col, c in enumerate(grid[r * GRID_COLS:(r + 1) * GRID_COLS]):
+            if c == " ":
+                continue
+            x = CELL * col + 6 * (col // 5)
+            while x > pen:  # one move of 90 px garbled the row in the emulator; 24 px steps draw clean
+                step = min(x - pen, MAX_MOVE)
+                row += bytes((0x7F, 0x20 + step))
+                pen += step
+            row.append(ord(c))
+            pen = x + widths[ord(c) - 0x20]
+        assert len(row) < ROW_LEN, len(row)
+        out += row.ljust(ROW_LEN, b"\0")
+    return bytes(out)
+
+
+def assemble(blob, asm, name, files=None):
+    """blob with asm applied by armips (the asm opens `name`; files are written beside it for .incbin)."""
     with tempfile.TemporaryDirectory() as tmp:
         (Path(tmp) / name).write_bytes(blob)
+        for fname, data in (files or {}).items():
+            (Path(tmp) / fname).write_bytes(data)
         subprocess.run([ARMIPS, asm, "-root", tmp], check=True)
         return (Path(tmp) / name).read_bytes()
 

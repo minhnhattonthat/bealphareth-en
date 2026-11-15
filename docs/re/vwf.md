@@ -10,7 +10,7 @@
 - `0x800507A0` measures a string in half-cells for centring and window sizes (31 callers through `0x80050700`).
 - Three more drawers (`0x8003A354`, `0x8003C80C`, `0x8003DE10`) lay out name labels in fixed 8 px VRAM cells; they use the half-width painter. See "Open" below.
 - Profile pages (Status > a character): `0x8006C804(x, y, id)` lays out big outlined text one glyph at a time (`0x8006D69C` paints a 16x16 cell: `0x8006D4FC` unpacks a half-width cell with 1 px bold, `0x8006D594` paints outline then colour). Pen +13 a glyph, +7 for one-byte glyphs after `{0e}`. Columns: equipment `0x8006BEA8` (icon x+0x28, name x+0x38), stats `{14}{0e}{01}:%4d` at x 30/100, Weak/Halved/Immune rows from the table at `0x8009A64C`, elements from `0x8006CB04` (start label x+0x24, 20 px apart). English patch: D18.
-- Name entry (RES#1023): the grid row is one string, each cell `c {0e} space {0f}`; the cursor box was at `21 + 18*col + 6*(col/5)` (`0x800D7114`).
+- Name entry (RES#1023): the grid row is one string, each cell `c {0e} space {0f}`; the cursor box was at `21 + 18*col + 6*(col/5)` (`0x800D7114`). English (D19, `asm/name_grid.asm`): the builder at `0x800D6E9C` is replaced by six prebuilt rows (`overlays.grid_rows`) that put each letter at the left of the original cell with the VWF code `7F n` (move the pen n-0x20 px), so the original cursor code fits. One 90 px move garbled the row in PCSX-Redux; moves are split at 24 px (20 px tested clean in every row). The page is always 1 (`0x800D8304`; 3 <-> 4 only toggle).
 
 ## The patch (`asm/vwf.asm`)
 

@@ -300,6 +300,13 @@ vwf_char:
     j     FLUSH
     nop
 @@ascii:
+    addiu t0, zero, 0x7F           ; `7F n`: move the pen n-0x20 px (name entry grid, asm/name_grid.asm)
+    bne   a1, t0, @@glyph
+    lbu   t4, 1(s1)
+    addiu s1, s1, 2
+    b     @@advance
+    addiu t4, t4, -0x20
+@@glyph:
     la    t0, WIDTHS - 0x20
     addu  t0, t0, a1
     lbu   t4, (t0)

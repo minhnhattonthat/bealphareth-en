@@ -235,9 +235,11 @@ def test_name_entry_is_ascii_and_keeps_its_slots():
     assert out[0xFAA8:0xFAB1] == b"\1W\1e\1l\1d\0"
     assert struct.unpack_from("<I", out, overlays.GRID_PAGE_0)[0] == struct.unpack_from("<I", blob, overlays.GRID_PAGE_0 + 4)[0]
     assert out[0xC5E8:0xC5F4] == blob[0xC5E8:0xC5F4]  # the other page words stay
-    # asm/name_cursor.asm: the cursor's x sums the VWF widths of the row (lui t2 from the table's address)
-    assert out[0x500:0x504] == bytes.fromhex("1c800a3c")
-    assert out[:0x500] == blob[:0x500] and out[0x56C:0xC5E4] == blob[0x56C:0xC5E4]
+    # asm/name_grid.asm: prebuilt rows after the 6-instruction stub; the cursor code (0x500) stays the original
+    rows = overlays.grid_rows(blob)
+    assert out[0x2B4:0x2B4 + len(rows)] == rows
+    assert rows[:3] == b"A\x7f\x2a"  # 'A' at the cell's left, then 18 px less its advance
+    assert out[:0x238] == blob[:0x238] and out[0x41C:0xC5E4] == blob[0x41C:0xC5E4]
     assert overlays.apply(1024, blob) == blob
 
 
