@@ -868,7 +868,7 @@
    "jp": "{0c:52ffff82ffff8a}{1c:1f}{0b:08}{e080} アーサーの父 {e081}{0b:09}\n黙れ、悪魔に魂を売った男め!\n恩あるルイトガルド{e0cb}を裏切った上に\nこのワシを非難するか!{1a}{0c:52ffff92ffff9a}ガゥエイン、\nこやつを殺せ、殺せっ!!{0c:2b5f09fe}",
    "read": "{0c:52ffff82ffff8a}{1c:1f}{0b:08}【 アーサーの父 】{0b:09}\n黙れ、悪魔に魂を売った男め!\n恩あるルイトガルド家を裏切った上に\nこのワシを非難するか!{1a}{0c:52ffff92ffff9a}ガゥエイン、\nこやつを殺せ、殺せっ!!{0c:2b5f09fe}",
    "raw": null,
-   "en": "{0c:52ffff82ffff8a}{1c:1f}{0b:08}【 Arthur's Father 】{0b:09}\nSilence, you who sold your soul to a devil!\nYou betray the House of Luitgard that\nyou owe so much, and now you dare{1a}reproach me!{1a}{0c:52ffff92ffff9a}Gawain, kill this man, kill him!!{0c:2b5f09fe}",
+   "en": "{0c:52ffff82ffff8a}{1c:1f}{0b:08}【 Arthur's Father 】{0b:09}\nSilence, you who sold your soul to a devil!\nYou betray the House of Luitgard that{1a}you owe so much, and now you dare\nreproach me!{1a}{0c:52ffff92ffff9a}Gawain, kill this man, kill him!!{0c:2b5f09fe}",
    "status": "done",
    "tl": "Silence, you who sold your soul to a devil! You betray the House of Luitgard that you owe so much, and now you dare reproach me! // [1]Gawain, kill this man, kill him!!"
   },
@@ -1171,7 +1171,7 @@
    "jp": "{0c:52ff12ff1a}{1c:25}{0b:08}{e080} {10}の虚{e0e8} {e081}{0b:09}\n冷静になって考えてみて。\n{0c:2b512351e02b5d1000}{0c:2b502351202b5d1000}誰があなたのような\n単純な正義感を{e0e9}り回す\n単細胞男に心を{e0eb}くと思う?{0c:fe}",
    "read": "{0c:52ff12ff1a}{1c:25}{0b:08}【 {10}の虚像 】{0b:09}\n冷静になって考えてみて。\n{0c:2b512351e02b5d1000}{0c:2b502351202b5d1000}誰があなたのような\n単純な正義感を振り回す\n単細胞男に心を開くと思う?{0c:fe}",
    "raw": null,
-   "en": "{0c:52ff12ff1a}{1c:25}{0b:08}【 {10}'s Phantom 】{0b:09}\nThink it over calmly. {0c:2b512351e02b5d1000}{0c:2b502351202b5d1000}Who do you suppose\nwould open up to a simple-minded man\nwho brandishes his naive sense{1a}of justice?{0c:fe}",
+   "en": "{0c:52ff12ff1a}{1c:25}{0b:08}【 {10}'s Phantom 】{0b:09}\nThink it over calmly. {0c:2b512351e02b5d1000}{0c:2b502351202b5d1000}Who do you suppose\nwould open up to a simple-minded man{1a}who brandishes his naive sense\nof justice?{0c:fe}",
    "status": "done",
    "tl": "Think it over calmly. [1]Who do you suppose would open up to a simple-minded man who brandishes his naive sense of justice?"
   },
@@ -1520,7 +1520,7 @@
    "jp": "{1c:1b}{0b:08}{e080} 聖者バルカイル {e081}{0b:09}\n『{e09f}しい世{e088}』の声を聞き、\n『始原の地』への扉を{e0eb}く者、\nそれが第二の預言者・・・{1a}汝はその預言者になったのだ。\n何を悲嘆する?{0c:2b5a09fe}",
    "read": "{1c:1b}{0b:08}【 聖者バルカイル 】{0b:09}\n『新しい世界』の声を聞き、\n『始原の地』への扉を開く者、\nそれが第二の預言者・・・{1a}汝はその預言者になったのだ。\n何を悲嘆する?{0c:2b5a09fe}",
    "raw": null,
-   "en": "{1c:1b}{0b:08}【 Saint Barkail 】{0b:09}\nThe one who hears the voice of the\n'New World' and opens the door to the\n'Land of Origin': that is the{1a}second Prophet...{1a}You have become that Prophet. Why do\nyou grieve?{0c:2b5a09fe}",
+   "en": "{1c:1b}{0b:08}【 Saint Barkail 】{0b:09}\nThe one who hears the voice of the\n'New World' and opens the door to the{1a}'Land of Origin': that is the\nsecond Prophet...{1a}You have become that Prophet. Why do\nyou grieve?{0c:2b5a09fe}",
    "status": "done",
    "tl": "The one who hears the voice of the 'New World' and opens the door to the 'Land of Origin': that is the second Prophet... // You have become that Prophet. Why do you grieve?"
   },
@@ -2212,7 +2212,7 @@
    "jp": "{0c:2b512351ffa92b531000}{0c:2b502351002b531000}{1c:10}{0b:08}{e080} クムラン {e081}{0b:09}\nアーサーさんには\n{e19a}死{e19b}{e19c}になってもらいました。{1a}{0c:5170}聖{e190}の文面からこうなる事を察知し、\n刺さった{e19f}間に{e1a0}結魔{e1a1}が\n{e1a2}所的に{e1a3}動する{e084}を、\nガイウスさんと{e0a3}同で造ったのです。{1a}彼らを騙せるかどうかは\n賭けでしたが・・・{0c:2b5109fe}",
    "read": "{0c:2b512351ffa92b531000}{0c:2b502351002b531000}{1c:10}{0b:08}【 クムラン 】{0b:09}\nアーサーさんには\n仮死状態になってもらいました。{1a}{0c:5170}聖書の文面からこうなる事を察知し、\n刺さった瞬間に凍結魔法が\n局所的に作動する槍を、\nガイウスさんと共同で造ったのです。{1a}彼らを騙せるかどうかは\n賭けでしたが・・・{0c:2b5109fe}",
    "raw": null,
-   "en": "{0c:2b512351ffa92b531000}{0c:2b502351002b531000}{1c:10}{0b:08}【 Qumran 】{0b:09}\nI put Arthur-san into a state of\nsuspended animation.{1a}{0c:5170}The wording of the Scriptures warned\nme of this, so together with Gaius-san I\nmade a spear that casts a freezing spell\non just the spot it pierces, the instant{1a}it strikes.{1a}Whether it would deceive them was a\ngamble, I admit...{0c:2b5109fe}",
+   "en": "{0c:2b512351ffa92b531000}{0c:2b502351002b531000}{1c:10}{0b:08}【 Qumran 】{0b:09}\nI put Arthur-san into a state of\nsuspended animation.{1a}{0c:5170}The wording of the Scriptures warned\nme of this, so together with Gaius-san I\nmade a spear that casts a freezing{1a}spell on just the spot it pierces, the\ninstant it strikes.{1a}Whether it would deceive them was a\ngamble, I admit...{0c:2b5109fe}",
    "status": "done",
    "tl": "I put Arthur-san into a state of suspended animation. // [1]The wording of the Scriptures warned me of this, so together with Gaius-san I made a spear that casts a freezing spell on just the spot it pierces, the instant it strikes. // Whether it would deceive them was a gamble, I admit..."
   },

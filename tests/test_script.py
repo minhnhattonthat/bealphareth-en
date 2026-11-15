@@ -62,6 +62,28 @@ def test_lone_last_word_is_pulled_down():
     assert sum(r.count(" ") + 1 for p in pages for r in p) == 401
 
 
+def test_spill_is_spread_over_its_pages():
+    text = ("In time the Sedik took on the strong character not merely of a minority people, but of a secret society "
+            "handing down special arts from one generation to the next.")  # Sadiya's Talk, 2026-11-15 playtest
+    assert batches.wrap_pages(text)[-1] == ["to the next."]
+    assert [len(p) for p in batches.balanced_pages(text)] == [3, 2]
+    assert batches.orphan_pages(text) == []
+    four_and_a_bit = ("What is it? Three men together is not truly to my liking, I daresay. Well, that's rare, you takin' up an "
+                      "invite from men. A good idea has come to me. A way to conquer Rebecca-san. ...? Her? First, I shall kill "
+                      "you in the ruins... Then, when I return, I shall tell her: 'Pasca-kun was brave to the last. But despite "
+                      "my support, he fell before the monster's fangs. With his dying breath he said: Orpheus, take care of "
+                      "Rebecca.' She will weep and throw her arms around me. D-don't you joke about that! Why the hell should I, "
+                      "for her... Such a good idea, though... It will not do? You only came to look at my face? How creepy. "
+                      "Do not invite. Until later.")  # RES#335:d0d1 before its rewrite: too long to spread
+    assert batches.orphan_pages(four_and_a_bit) == ["invite. Until later."]
+
+
+def test_shop_hint_has_its_measured_width():
+    e = {"text": "[1]詳細表示", "form": "menu", "limit": f"{batches.EXE_W['PSX.EXE:1b6e2']}px"}
+    assert batches.check_entry(e, "[1] Show Details", [], set())
+    assert not batches.check_entry(e, "[1] Details", [], set())
+
+
 def test_lone_word_on_a_new_page_takes_a_word_from_the_page_before():
     pages = batches.wrap_pages(" ".join(["aaaa"] * 17), widths=[5] * 95, box=50, last=50, max_rows=4)
     assert len(pages) == 3 and pages[-1] == ["aaaa aaaa"] and pages[-2][-1] == "aaaa"

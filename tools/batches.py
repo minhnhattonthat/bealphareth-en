@@ -38,6 +38,8 @@ PLATE_W = 180
 BOOK_W = 252  # original rows run 21-22 kanji (252-264 px); not measured at the limit yet (phase 8)
 PARTY_NAME_W = 72
 ITEM_NAME_W = 103  # status grid: value x 200, frame x 304, 1 px clear (docs/re/windows.md)
+# System strings in a box narrower than MENU_W, measured in game. Shop right panel: text after the triangle x 241, frame x 298.
+EXE_W = {"PSX.EXE:1b6e2": 56}
 SPELL_NAME_W = 124
 
 # Width to reserve for a printed variable: longest hero name, item name, number.
@@ -376,6 +378,32 @@ def wrap_pages(tl, plate_first=False, widths=None, box=BOX_W, last=LAST_W, max_r
     return pages
 
 
+def balanced_pages(text, plate_first=False, w=None):
+    """wrap_pages, but text that spills onto extra pages is spread over them with fewer rows each, so the last page is
+    not one short row ("to the next." alone on a page)."""
+    pages = wrap_pages(text, plate_first, w)
+    for rows in range(ROWS - 1, 1 + plate_first, -1):
+        fewer = wrap_pages(text, plate_first, w, max_rows=rows)
+        if len(fewer) != len(pages):
+            break
+        pages = fewer
+    return pages
+
+
+def orphan_pages(tl, plate_first=False):
+    """Pages of dialogue tl that a box's text spills onto as one short row: the lint flags them for a rewrite."""
+    w = vwf_font.widths()
+    bad = []
+    for piece in re.split(r"\s*(?://|\|)\s*", tl):
+        for k, part in enumerate(re.split(r"\[[^\[\]]*:\]", piece)):
+            if part.strip():
+                pages = balanced_pages(part.strip(), plate_first or k > 0, w)
+                if len(pages) > 1 and len(pages[-1]) == 1 and page_px(pages[-1][0], w) < BOX_W // 2:
+                    bad.append(pages[-1][0])
+        plate_first = False
+    return bad
+
+
 def pull_widow(pages, limit_rows, box, last, w):
     """A lone word ending the text takes the previous row's last word with it, on its row or from the page before."""
     rows = pages[-1]
@@ -491,7 +519,7 @@ def wrap_dialog(m, tl, plates, plate_first):
         text = piece.strip()
         if not text:
             continue
-        pages = wrap_pages(text, plate, w)
+        pages = balanced_pages(text, plate, w)
         rendered = "{1a}".join("\n".join(rows) for rows in pages)
         out.append(rendered)
         plate = False
@@ -589,6 +617,8 @@ def exe_limit(doc, idx, s):
     0.2 is name, help, name, help."""
     if doc["kind"] != "exe" or s is None or doc["source"] != "PSX.EXE":
         return MENU_W
+    if s["id"] in EXE_W:
+        return EXE_W[s["id"]]
     bank = [x for x in doc["strings"] if x["bank"] == s["bank"]]
     pos = bank.index(s)
     if s["bank"] == "0.0":
@@ -728,6 +758,8 @@ def check_entry(e, en, terms, plates):
         return errs + [f"glossary: {r[0]} -> {r[1]}" for r in term_hits(jp, terms) if r[1].lower() not in en.lower()]
     if e["form"] == "menu" and jp.count(r"\n") != en.count(r"\n"):
         errs.append("line count differs from the original (menu text keeps its \\n)")
+    if e["form"] == "dlg" and not errs:  # wrapping needs clean ASCII
+        errs += [f"{row!r} alone on a page: shorten that box or split it with //" for row in orphan_pages(en, e["limit"].endswith("3r"))]
     if e["form"] == "choice" or e["form"] == "menu":
         limit = int(e["limit"].rstrip("px").split("*")[0])
         for opt in re.split(r"\||\\n", en):
@@ -869,7 +901,7 @@ def cmd_placeholders(_args):
 
 
 def cmd_fit(args):
-    pages = wrap_pages(args.text, args.plate)
+    pages = balanced_pages(args.text, args.plate)
     for p, rows in enumerate(pages, 1):
         for row in rows:
             print(f"p{p} {page_px(row):3d}px {row}")

@@ -322,7 +322,7 @@
    "jp": "{1c:10}あれ、{03}マレフィクス{02}も一緒{01}?\n{10}{02}と一緒だったら安心だね。\nみんなでがんばろうね{01}!\n{02}・・・・・・\nいつもありがと、{10}。\n弟をよろしくね。",
    "read": "{1c:10}あれ、{03}マレフィクス{02}も一緒{01}?\n{10}{02}と一緒だったら安心だね。\nみんなでがんばろうね{01}!\n{02}・・・・・・\nいつもありがと、{10}。\n弟をよろしくね。",
    "raw": null,
-   "en": "{1c:10}Oh, is Maleficus with you too? With\n{10} along, I can relax. Let's all do\nour best! ...... Thanks as always,\n{10}. Please look after{1a}my brother.",
+   "en": "{1c:10}Oh, is Maleficus with you too? With\n{10} along, I can relax. Let's all do\nour best! ...... Thanks as always,{1a}{10}. Please look after my brother.",
    "status": "done",
    "tl": "Oh, is Maleficus with you too? With [HERO] along, I can relax. Let's all do our best! ...... Thanks as always, [HERO]. Please look after my brother."
   },
@@ -853,7 +853,7 @@
    "jp": "{1c:10}こんばんは、{10}。\nマレフィクスも\n{10}と一緒なら安心だね。\nうん、いいよ!\nがんばろうね!\nありがと、{10}。\n弟をよろしくね。",
    "read": "{1c:10}こんばんは、{10}。\nマレフィクスも\n{10}と一緒なら安心だね。\nうん、いいよ!\nがんばろうね!\nありがと、{10}。\n弟をよろしくね。",
    "raw": null,
-   "en": "{1c:10}Good evening, {10}. With\n{10} along, I can relax about\nMaleficus too. Sure! Let's do our best!\nThanks, {10}. Please look after{1a}my brother.",
+   "en": "{1c:10}Good evening, {10}. With\n{10} along, I can relax about\nMaleficus too. Sure! Let's do our best!{1a}Thanks, {10}. Please look after\nmy brother.",
    "status": "done",
    "tl": "Good evening, [HERO]. With [HERO] along, I can relax about Maleficus too. Sure! Let's do our best! Thanks, [HERO]. Please look after my brother."
   },
@@ -1909,7 +1909,7 @@
    "jp": "{0c:520102}{1c:10}あっ、弟を誘ってくれたんだ。\nえっと、{10}だったよね。\nあたしの{e095}前はステラ・ミラ。\n弟のマレフィクスと一緒に、\nサディーヤさんていうセディク{e090}の\n女の人に{e096}いに来たんだ。{1a}みんなよろしくね。{0c:15}",
    "read": "{0c:520102}{1c:10}あっ、弟を誘ってくれたんだ。\nえっと、{10}だったよね。\nあたしの名前はステラ・ミラ。\n弟のマレフィクスと一緒に、\nサディーヤさんていうセディク族の\n女の人に会いに来たんだ。{1a}みんなよろしくね。{0c:15}",
    "raw": null,
-   "en": "{0c:520102}{1c:10}Oh, you invited my brother. Um, you're\n{10}, aren't you? My name is\nStella Mira. I came here with my brother\nMaleficus to see a Sedik woman{1a}named Sadiya-san.{1a}Nice to meet you all.{0c:15}",
+   "en": "{0c:520102}{1c:10}Oh, you invited my brother. Um, you're\n{10}, aren't you? My name is\nStella Mira. I came here with my brother{1a}Maleficus to see a Sedik woman\nnamed Sadiya-san.{1a}Nice to meet you all.{0c:15}",
    "status": "done",
    "tl": "Oh, you invited my brother. Um, you're [HERO], aren't you? My name is Stella Mira. I came here with my brother Maleficus to see a Sedik woman named Sadiya-san. // Nice to meet you all."
   },
