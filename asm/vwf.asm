@@ -211,6 +211,10 @@ SUB_POOL_MAGIC equ 0x424F5046      ; insert.SUB_POOL_MAGIC
 ; its half-width unpacker (only English reaches it) skips the 1 px bold: the outline pass already thickens the VWF cells
 .org 0x8006D568
     move  v0, zero
+; its painter 0x8006D69C writes VRAM unclipped: a letter past screen x 320 lands on the hero portrait (VRAM 320,256).
+; Both unpack paths meet here; big_clip masks the 16x16 cell's columns at x >= 319 before the outline and colour passes.
+.org 0x8006D81C
+    jal   big_clip                 ; does the `move a1, s0` it replaces
 ; Profile page columns: equipment icon and name 12 px right of the labels, which run past the kanji's 3 cells
 .org 0x8006BF00
     addiu a0, s1, 0x44             ; name, was 0x38
@@ -525,6 +529,40 @@ vwf_label:
 @@send:
     j     0x80090690
     move  a1, t2
+
+; Profile painter, after the unpack: s0 = 16 rows of a 16 px cell (big-endian halfwords, bit 15 = column 0), the cell's
+; x = rect x 0x18(sp) + s3. Keep columns below 319 - x: the outline pass grows a pixel one column right, so 319 stays clear.
+big_clip:
+    lhu   t0, 0x18(sp)
+    move  a1, s0
+    addu  t0, t0, s3
+    addiu t1, zero, 319
+    subu  t1, t1, t0               ; columns kept
+    slti  t2, t1, 16
+    beqz  t2, @@done
+    move  t3, zero
+    blez  t1, @@mask
+    addiu t2, zero, 16
+    subu  t2, t2, t1
+    ori   t3, zero, 0xFFFF
+    sllv  t3, t3, t2               ; the kept columns' bits
+@@mask:
+    srl   t4, t3, 8
+    move  t5, s0
+    addiu t6, s0, 32
+@@row:
+    lbu   t7, (t5)
+    lbu   t8, 1(t5)
+    and   t7, t7, t4
+    and   t8, t8, t3
+    sb    t7, (t5)
+    sb    t8, 1(t5)
+    addiu t5, t5, 2
+    bne   t5, t6, @@row
+    nop
+@@done:
+    jr    ra
+    nop
 
 label_pen:
     .word 0

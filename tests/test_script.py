@@ -28,6 +28,21 @@ def test_every_merged_line_passes_the_lint():
     assert not bad, "\n".join(bad[:40])
 
 
+def test_en_is_what_rewrap_builds_from_tl():
+    # `batches.py rewrap` rebuilds every `en` from `tl`: an `en`-only edit is lost on the next rewrap (3654b3a lost
+    # the D18 Profile labels so). Edit `tl`, then rewrap.
+    plates, _ = batches.glossary()
+    bad = []
+    for path, doc in batches.load_docs():
+        for s in doc["strings"]:
+            if s.get("tl"):
+                read = batches.read_of(s)
+                m = batches.Masked(read, batches.form_of(doc, read))
+                if not batches.is_placeholder(m, doc) and batches.unmask(m, s["tl"], plates) != s.get("en"):
+                    bad.append(f"{path.name} {s['id']}: en {s.get('en')!r} is not built from tl {s['tl']!r}")
+    assert not bad, "\n".join(bad[:40])
+
+
 def test_loose_name_fits_in_place_else_goes_to_the_pool():
     blob = bytearray(16)
     blob[4:9] = b"\x03abc\0"
