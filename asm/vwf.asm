@@ -305,6 +305,8 @@ SUB_POOL_MAGIC equ 0x424F5046      ; insert.SUB_POOL_MAGIC
 ; --- load/save info box (builder 0x80037FD0..): line 1 padded to the Japanese width, the box sizes itself from it ----------
 .org 0x800380D8
     jal   slot_pad                 ; was strcat(end, " "); fp = the line buffer
+.org 0x80037DE8
+    jal   slot_row                 ; was jal 0x800514B0, the slot list row's title copy
 
 .close
 
@@ -712,36 +714,16 @@ elem_steps:
 ; space draws 12 px (full-width) but measures 4: SLOT_TEXT 40 puts the time's ink at x 275, as the Japanese.
 SLOT_TEXT equ 40
 SLOT_BOX  equ 44
+SLOT_LIST equ 236                  ; slot list rows: px from the row's start to the time's end (ink at x 282, Japanese 283)
 slot_pad:
-    addiu sp, sp, -24
+    addiu sp, sp, -32
     sw    ra, 16(sp)
     sw    s0, 20(sp)
-    move  a0, fp
-    jal   slot_find
-    li    a1, 0x3A01               ; "{01}:"
-    beqz  v0, @@nocolon
-    nop
-    jal   slot_ins                 ; "1: Weld"
-    addiu a0, v0, 2
-@@nocolon:
-    move  a0, fp
-    jal   slot_find
-    li    a1, 0x2001               ; last "{01} ": before the time
-    beqz  v1, @@notime
-    nop
-    jal   slot_ins                 ; "Lv.01  00:28"
-    addiu a0, v1, 2
-@@notime:
-    move  a0, fp
-    jal   slot_find
-    li    a1, 0x4C01               ; last "{01}L": Lv
-    bnez  v1, @@mid
-    move  s0, v1
-    move  s0, t0                   ; no Lv: pad at the end
-@@mid:
-    jal   slot_fill
+    sw    s1, 24(sp)
+    move  s1, fp
+    jal   slot_layout
     li    a1, SLOT_TEXT
-    move  a0, fp
+    move  a0, s1
     jal   slot_find                ; t0 = the NUL
     li    a1, 0
     move  s0, t0
@@ -749,16 +731,115 @@ slot_pad:
     li    a1, SLOT_BOX
     lw    ra, 16(sp)
     lw    s0, 20(sp)               ; load delay: ra is ready by jr (DuckStation/hardware honour it, Redux's dynarec doesn't)
+    lw    s1, 24(sp)
+    jr    ra
+    addiu sp, sp, 32
+
+; Slot list rows (builder 0x80037D2C), hooked on its copy call 0x800514B0(a0 = row, a1 = title): the same title, same
+; layout, but the gap before Lv is one `7F n` pen move: ~35 padding spaces a row left the list's header and help windows
+; on screen after a load (some text store the list goes through overflows). The row is all {01} ASCII: px = sum of WIDTHS.
+slot_row:
+    addiu sp, sp, -32
+    sw    ra, 16(sp)
+    sw    s0, 20(sp)
+    sw    s1, 24(sp)
+    jal   0x800514B0
+    move  s1, a0
+    move  s0, zero
+    jal   slot_layout              ; s0 = Lv, or 0
+    move  a1, zero                 ; no space fill
+    beqz  s0, @@out
+    move  t0, s1
+    move  t1, zero
+    la    t2, WIDTHS - 0x20
+@@sum:
+    lbu   t3, (t0)
+    nop
+    beqz  t3, @@summed
+    sltiu t4, t3, 0x20
+    bnez  t4, @@next               ; control codes ({01}) take no room
+    addu  t4, t2, t3
+    lbu   t4, (t4)
+    nop
+    addu  t1, t1, t4
+@@next:
+    b     @@sum
+    addiu t0, t0, 1
+@@summed:
+    addiu t3, zero, SLOT_LIST      ; (armips equ is textual and case-blind: SLOT_ROW would hit slot_row)
+    subu  t3, t3, t1               ; gap px
+    blez  t3, @@out
+    slti  t4, t3, 0xE0
+    bnez  t4, @@fits
+    nop
+    addiu t3, zero, 0xDF
+@@fits:
+    sw    t3, 28(sp)
+    jal   slot_ins
+    move  a0, s0
+    jal   slot_ins
+    move  a0, s0
+    lw    t3, 28(sp)
+    addiu t4, zero, 0x7F
+    sb    t4, (s0)
+    addiu t3, t3, 0x20
+    sb    t3, 1(s0)
+@@out:
+    lw    ra, 16(sp)
+    lw    s0, 20(sp)
+    lw    s1, 24(sp)
+    jr    ra
+    addiu sp, sp, 32
+
+; s1 = a title line. Nothing unless it has Lv ("{01}L"): "1: Name", two spaces before the time, s0 = Lv, then (a1 > 0)
+; spaces before Lv until the line measures a1 half-cells. Clobbers s0 (callers saved it).
+slot_layout:
+    addiu sp, sp, -24
+    sw    ra, 16(sp)
+    sw    a1, 20(sp)
+    move  a0, s1
+    jal   slot_find
+    li    a1, 0x4C01               ; last "{01}L": Lv
+    beqz  v1, @@done
+    move  a0, s1
+    jal   slot_find
+    li    a1, 0x3A01               ; "{01}:"
+    beqz  v0, @@nocolon
+    nop
+    jal   slot_ins                 ; "1: Weld"
+    addiu a0, v0, 2
+@@nocolon:
+    move  a0, s1
+    jal   slot_find
+    li    a1, 0x2001               ; last "{01} ": before the time
+    beqz  v1, @@notime
+    nop
+    jal   slot_ins                 ; "Lv.01  00:28"
+    addiu a0, v1, 2
+@@notime:
+    move  a0, s1
+    jal   slot_find
+    li    a1, 0x4C01
+    move  s0, v1
+    lw    a1, 20(sp)
+    nop
+    beqz  a1, @@done               ; a1 = 0: the caller fills
+    nop
+    jal   slot_fill
+    nop
+@@done:
+    lw    ra, 16(sp)
+    nop
     jr    ra
     addiu sp, sp, 24
 
-; insert spaces at s0 until fp measures a1 half-cells
+; insert spaces at s0 until s1 measures a1 half-cells
 slot_fill:
     addiu sp, sp, -24
     sw    ra, 16(sp)
     sw    a1, 20(sp)
 @@loop:
-    move  a0, fp
+    move  a0, s1
     move  a1, zero
     move  a2, zero
     jal   0x80050700               ; measure, half-cells

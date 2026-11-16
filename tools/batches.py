@@ -54,7 +54,10 @@ SLOTS = ["Hero (male)", "Hero (female)", "Ash", "Arthur", "Leia", "Eleanor", "Pa
 DEV_STRINGS = {"PSX.EXE:20b13", "PSX.EXE:20b84", "PSX.EXE:20c0d"}
 # Default hero name, same 15 bytes as the original record ({00} ends the name, spaces pad it); an empty trap slot's filler.
 # PSX.EXE:206d3 closes the load/save box's party line: its ~ must be drawn in full-width mode after the ASCII names.
-FIXED_EN = {"PSX.EXE:1b514": "{01}Weld{00}         ", "MAIN.EXE:3de0": "...", "PSX.EXE:206d3": " {02}{75}"}
+# Memory card slot lists centre each item: the digit goes in a 6 px {0e} cell so "Slot 1" is as wide as "Slot 2".
+SLOTS_EN = "Memory Card Slot{0e}1{0f}|Memory Card Slot{0e}2{0f}"
+FIXED_EN = {"PSX.EXE:1b514": "{01}Weld{00}         ", "MAIN.EXE:3de0": "...", "PSX.EXE:206d3": " {02}{75}",
+            "PSX.EXE:2033b": SLOTS_EN, "PSX.EXE:20388": SLOTS_EN, "PSX.EXE:2035d": SLOTS_EN + "|Quick Save"}
 
 TOKEN = re.compile(r"\{[^{}]*\}")
 JP = re.compile(r"[぀-ヿ一-鿿々]")

@@ -14270,9 +14270,9 @@
    "jp": "    {0e} {0f}セーブ",
    "read": "    {0e} {0f}セーブ",
    "raw": null,
-   "en": "    {0e} {0f}Save",
+   "en": "          {0e} {0f}Save",
    "status": "done",
-   "tl": "    [1] [2]Save"
+   "tl": "          [1] [2]Save"
   },
   {
    "id": "PSX.EXE:20100",
@@ -14282,9 +14282,9 @@
    "jp": "    {0e} {0f}ロード",
    "read": "    {0e} {0f}ロード",
    "raw": null,
-   "en": "    {0e} {0f}Load",
+   "en": "          {0e} {0f}Load",
    "status": "done",
-   "tl": "    [1] [2]Load"
+   "tl": "          [1] [2]Load"
   },
   {
    "id": "PSX.EXE:2010c",
@@ -14437,9 +14437,8 @@
    "jp": "メモリーカード差込口1|メモリーカード差込口2",
    "read": "メモリーカード差込口1|メモリーカード差込口2",
    "raw": null,
-   "en": "Memory Card Slot 1|Memory Card Slot 2",
-   "status": "done",
-   "tl": "Memory Card Slot 1|Memory Card Slot 2"
+   "en": "Memory Card Slot{0e}1{0f}|Memory Card Slot{0e}2{0f}",
+   "status": "recoded"
   },
   {
    "id": "PSX.EXE:2035d",
@@ -14449,9 +14448,8 @@
    "jp": "メモリーカード差込口1|メモリーカード差込口2|クイックセーブ",
    "read": "メモリーカード差込口1|メモリーカード差込口2|クイックセーブ",
    "raw": null,
-   "en": "Memory Card Slot 1|Memory Card Slot 2|Quick Save",
-   "status": "done",
-   "tl": "Memory Card Slot 1|Memory Card Slot 2|Quick Save"
+   "en": "Memory Card Slot{0e}1{0f}|Memory Card Slot{0e}2{0f}|Quick Save",
+   "status": "recoded"
   },
   {
    "id": "PSX.EXE:20388",
@@ -14461,9 +14459,8 @@
    "jp": "メモリーカード差込口1|メモリーカード差込口2",
    "read": "メモリーカード差込口1|メモリーカード差込口2",
    "raw": null,
-   "en": "Memory Card Slot 1|Memory Card Slot 2",
-   "status": "done",
-   "tl": "Memory Card Slot 1|Memory Card Slot 2"
+   "en": "Memory Card Slot{0e}1{0f}|Memory Card Slot{0e}2{0f}",
+   "status": "recoded"
   },
   {
    "id": "PSX.EXE:203aa",
