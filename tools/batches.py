@@ -37,7 +37,7 @@ MENU_W = 276
 PLATE_W = 180
 BOOK_W = 252  # original rows run 21-22 kanji (252-264 px); not measured at the limit yet (phase 8)
 PARTY_NAME_W = 72
-ITEM_NAME_W = 124  # item row (status grid moved to give 127, D21; docs/re/windows.md)
+ITEM_NAME_W = 108  # equip item list: the count is padded in 6 px half-cells, 19 (>108 px) leaves no space (D21)
 # System strings in a box narrower than MENU_W, measured in game. Shop right panel: text after the triangle x 241, frame x 298.
 EXE_W = {"PSX.EXE:1b6e2": 56}
 SPELL_NAME_W = 124

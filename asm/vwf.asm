@@ -222,37 +222,40 @@ SUB_POOL_MAGIC equ 0x424F5046      ; insert.SUB_POOL_MAGIC
     addiu a0, s1, 0x44             ; -Not Equipped- (s1 - 12), was 0x38
 .org 0x8006BFC4
     addiu s1, s1, 0x34             ; icon, was 0x28
-; Status grid (Equip window) layout records {x, y, 0, 0, id} at 0x80097C9C: stat labels and numbers 6 px left (10 touched
-; the portrait), equipment labels and values 24 px left, so item names get 127 px before the frame at 304 (D21)
+; Status grid (Equip window) layout records {x, y, 0, 0, id} at 0x80097C9C, x relative to the window: stat labels 4 px
+; left so Atk/Def clear a 2-digit number (numbers stay), equipment labels and values 16 px left: item names get 119 px
+; before the frame at 304 (D21; the equip screen's list holds 111)
 .org 0x80097C9C
-    .halfword 28                   ; HP, was 34
+    .halfword 30                   ; HP, was 34
 .org 0x80097CA8
-    .halfword 78                   ; MP, was 84
+    .halfword 80                   ; MP, was 84
 .org 0x80097CB4
-    .halfword 28                   ; Atk
+    .halfword 30                   ; Atk
 .org 0x80097CC0
-    .halfword 78                   ; Def
+    .halfword 80                   ; Def
 .org 0x80097CCC
-    .halfword 112                  ; Arms, was 136
+    .halfword 120                  ; Arms, was 136
 .org 0x80097CD8
-    .halfword 112                  ; Mail
+    .halfword 120                  ; Mail
 .org 0x80097CE4
-    .halfword 112                  ; Gear
-.org 0x80097CF0
-    .halfword 40                   ; HP number, was 46
-.org 0x80097CFC
-    .halfword 90                   ; MP number
-.org 0x80097D08
-    .halfword 40                   ; Atk number
-.org 0x80097D14
-    .halfword 90                   ; Def number
+    .halfword 120                  ; Gear
 .org 0x80097D20
-    .halfword 142                  ; equipped item, was 166
+    .halfword 150                  ; equipped item, was 166
 .org 0x80097D2C
-    .halfword 142
+    .halfword 150
 .org 0x80097D38
-    .halfword 142
-; Equip detail (left panel at 16,39, items under each label): panel 10 px wider, names at the labels' x 8 (were 16)
+    .halfword 150
+; Equip screen: left panel (16,39) shows each slot's item under its label, right panel lists items with icon and count
+; (count fixed near the right edge, x 287). Names at the labels' x 8 (were 16), left panel 3 px narrower, list panel
+; 7 px left with one more column: both hold 111 px. Its stat labels 3 px left so Atk/Def clear a 2-digit number.
+.org 0x80097DD4
+    .halfword 39                   ; HP, was 42
+.org 0x80097DE0
+    .halfword 81                   ; MP, was 84
+.org 0x80097DEC
+    .halfword 39                   ; Atk
+.org 0x80097DF8
+    .halfword 81                   ; Def
 .org 0x80097E64
     .halfword 8
 .org 0x80097E70
@@ -262,13 +265,13 @@ SUB_POOL_MAGIC equ 0x424F5046      ; insert.SUB_POOL_MAGIC
 .org 0x80097E88
     .halfword 8
 .org 0x800A0FAC
-    .halfword 134                  ; panel width, was 124
+    .halfword 121                  ; panel width, was 124
 .org 0x800A0FB4
-    .halfword 124                  ; name box width, was 110
+    .halfword 112                  ; name box width, was 110
 .org 0x800A0F74
-    .halfword 156                  ; item list panel x, was 146
+    .halfword 139                  ; item list panel x, was 146
 .org 0x800A0F78
-    .halfword 22                   ; its columns, was 23
+    .halfword 24                   ; its columns, was 23
 
 ; Weak/Half/Null rows: labels 12 px left (Exp's numbers end at 155, ink starts 3 px right of x), no colon; elements from
 ; label + 34 (was 36), each column its word's pen width + 2 (were 20, one kanji each), so Poison's ink ends at 318
