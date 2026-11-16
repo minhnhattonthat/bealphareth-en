@@ -22,7 +22,7 @@ L.on_frame(function(n)
     local txt = ffi.string(m + POOL, 40):gsub("[^%g ]", ".")
     L.log(string.format("WATCH f%d pool changed map %d [%s]", n, map, txt)); last_pool = pool
   end
-  if n % 60 == 0 then
+  if n % 60 == 0 and map ~= 0 then -- map 0: boot is still loading MAIN.EXE; warp.lua's own patches also show here
     local c = sum(0x18000, 0x58000)
     if code and c ~= code then L.log(string.format("WATCH f%d CODE CHANGED map %d", n, map)) end
     code = c
