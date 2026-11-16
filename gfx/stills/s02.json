@@ -1,16 +1,16 @@
 [
 {"entry": 2647, "blocks": [
  {"box": [78, 46, 202, 72], "ink": "light", "text": "Dried Meat", "align": "center", "bold": true, "size": 18},
- {"box": [55, 186, 172, 300], "ink": "light", "text": "Animal meat, smoked and dried.\n\nRestores 50 HP when eaten."}]},
+ {"box": [55, 186, 172, 300], "ink": "light", "text": "Animal meat, smoked and dried.\n\n{Restores 50 HP} when eaten."}]},
 {"entry": 2648, "blocks": [
  {"box": [78, 46, 202, 72], "ink": "light", "text": "Potion", "align": "center", "bold": true, "size": 18},
- {"box": [62, 176, 208, 285], "ink": "light", "text": "A bottle of water that heals a wounded body.\n\nRestores 100 HP when used."}]},
+ {"box": [62, 176, 208, 285], "ink": "light", "text": "A bottle of water that heals a wounded body.\n\n{Restores 100 HP} when used."}]},
 {"entry": 2649, "blocks": [
  {"box": [78, 46, 202, 72], "ink": "light", "text": "High Potion", "align": "center", "bold": true, "size": 18},
- {"box": [58, 148, 204, 312], "ink": "light", "text": "A bottle of water that heals a wounded body.\n\nMore potent than an ordinary Potion.\nRestores 500 HP when used."}]},
+ {"box": [58, 148, 204, 312], "ink": "light", "text": "A bottle of water that heals a wounded body.\n\nMore potent than an ordinary Potion.\n{Restores 500 HP} when used."}]},
 {"entry": 2650, "blocks": [
  {"box": [78, 46, 202, 72], "ink": "light", "text": "Aquavit", "align": "center", "bold": true, "size": 18},
- {"box": [60, 148, 176, 285], "ink": "light", "text": "A pouch of powder that soothes a weary mind.\n\nRestores 100 MP when used."}]},
+ {"box": [60, 148, 176, 285], "ink": "light", "text": "A pouch of powder that soothes a weary mind.\n\n{Restores 100 MP} when used."}]},
 {"entry": 2651, "erase": [{"box": [54, 254, 176, 278], "ink": "light"}], "blocks": [
  {"box": [78, 46, 202, 72], "ink": "light", "text": "Poison Cure", "align": "center", "bold": true, "size": 18},
  {"box": [54, 136, 180, 262], "ink": "light", "text": "A pouch of special powder.\n\nWhen used, it clears away the poison afflicting you."},
@@ -64,14 +64,14 @@
 {"entry": 2666, "erase": [{"box": [190, 124, 208, 146], "ink": "light"}], "blocks": [
  {"box": [84, 46, 198, 72], "ink": "light", "text": "Green Truecrystal", "align": "center", "bold": true, "size": 18},
  {"box": [54, 112, 188, 202], "ink": "light", "text": "A beautiful, round green solid, sometimes called the \"core\" of a monster's body."},
- {"box": [54, 206, 186, 300], "ink": "light", "text": "A valuable that human hands cannot make. Shops will exchange it for money."},
+ {"box": [54, 206, 186, 300], "ink": "light", "text": "A valuable that human hands cannot make. {Shops will exchange it for money.}"},
  {"box": [54, 306, 250, 345], "ink": "light", "text": "Besides green, there are said to be blue cores as well."}]},
 {"entry": 2667, "blocks": [
  {"box": [84, 46, 198, 72], "ink": "light", "text": "Trinity Gold Coin", "align": "center", "bold": true, "size": 18},
- {"box": [135, 150, 292, 300], "ink": "light", "text": "Whether it comes from the Sun Empire, and from what age, is unknown, but this gold coin is rare and valuable.\n\nShops will exchange it for money."}]},
+ {"box": [135, 150, 292, 300], "ink": "light", "text": "Whether it comes from the Sun Empire, and from what age, is unknown, but this gold coin is rare and valuable.\n\n{Shops will exchange it for money.}"}]},
 {"entry": 2668, "blocks": [
  {"box": [78, 46, 202, 72], "ink": "light", "text": "Blue Truecrystal", "align": "center", "bold": true, "size": 18},
- {"box": [54, 112, 194, 335], "ink": "light", "text": "A beautiful blue solid, sometimes called the \"core\" of a monster's body.\n\nA valuable that human hands cannot make, it seems to fetch a high price among merchants."}]},
+ {"box": [54, 112, 194, 335], "ink": "light", "text": "A beautiful blue solid, sometimes called the \"core\" of a monster's body.\n\nA valuable that human hands cannot make, it seems to {fetch a high price} among merchants."}]},
 {"entry": 2669, "blocks": [
  {"box": [78, 46, 202, 72], "ink": "light", "text": "Bottle", "align": "center", "bold": true, "size": 18},
  {"box": [62, 218, 166, 262], "ink": "light", "text": "A bottle with a handle."}]},

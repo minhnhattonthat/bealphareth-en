@@ -31,6 +31,11 @@ import res  # noqa: E402
 FONT = {False: ROOT / "fonts/LiberationSerif-Regular.ttf", True: ROOT / "fonts/LiberationSerif-Bold.ttf"}
 CACHE = ROOT / "work/gfx/stills"
 SIZE_DEFAULT, SIZE_MIN = 15, 10
+SCALE = 1.6  # a block's size starts this much taller (a half-width page's Japanese stands ~20 px), shrinks to SIZE_MIN px
+WIDE = 2  # pages are 320 px shown 640 wide: text is laid out on a canvas this many times wider, then squeezed back
+CYAN = (140, 212, 210)  # the cards' stat and effect lines; `{..}` marks a cyan span, a block the Japanese drew all cyan is cyan
+CYAN_SHARE = 0.6
+LEAD = 1.1  # line step / size: the Japanese stat lines sit about this tight
 ERASE_MARGIN = 8
 JP = re.compile(r"[぀-ヿ一-鿿々]")
 THIN_STEPS = [(1, c) for c in (64, 48, 32, 24, 16, 12, 8, 6, 4, 3, 2, 1)] + [(2, c) for c in (8, 4, 2, 1)]  # (level, from zigzag position): see bs.thin
@@ -41,6 +46,19 @@ DIM_PAGES = range(3968, 3978)  # the controls pages: pale red and blue text on a
 
 def font(size, bold):
     return ImageFont.truetype(str(FONT[bold]), size)
+
+
+def length(fnt, s):
+    return fnt.getlength(s.replace("{", "").replace("}", ""))
+
+
+def cyan_share(rgb, box):
+    """Share of the Japanese lettering in the box that is cyan."""
+    x0, y0, x1, y1 = box
+    r = rgb[y0:y1, x0:x1].astype(int)
+    cy = (r[:, :, 1] > r[:, :, 0] + 40) & (r[:, :, 2] > r[:, :, 0] + 40) & (r[:, :, 1] > 120)
+    white = (r @ np.array([299, 587, 114]) // 1000 > 150) & ~cy & (r.max(axis=2) - r.min(axis=2) < 50)
+    return cy.sum() / max(1, cy.sum() + white.sum())
 
 
 def text_mask(a, box, ink, dim=False):
@@ -83,11 +101,11 @@ def balance(words, fnt, width, count):
         for i in range(len(words) - 1, -1, -1):
             for j in range(i + 1, len(words) + 1):
                 row = " ".join(words[i:j])
-                length = fnt.getlength(row)
-                if j > i + 1 and length > width:
+                n = length(fnt, row)
+                if j > i + 1 and n > width:
                     break
                 if (j, rows - 1) in best:
-                    cost = best[(j, rows - 1)][0] + (width - length) ** 2 + (width ** 2 if j == i + 1 else 0)
+                    cost = best[(j, rows - 1)][0] + (width - n) ** 2 + (width ** 2 if j == i + 1 else 0)
                     if (i, rows) not in best or cost < best[(i, rows)][0]:
                         best[(i, rows)] = (cost, j)
     out, i = [], 0
@@ -105,7 +123,7 @@ def wrap(text, fnt, width):
         cur = ""
         for word in para.split(" "):
             trial = f"{cur} {word}" if cur else word
-            if cur and fnt.getlength(trial) > width:
+            if cur and length(fnt, trial) > width:
                 rows.append(cur)
                 cur = word
             else:
@@ -117,41 +135,54 @@ def wrap(text, fnt, width):
 
 def layout(block):
     """(font, lines, line height, fits) at the largest size up to the block's that fits its box."""
+    """Widths are on the WIDE canvas."""
     x0, y0, x1, y1 = block["box"]
     w, h = x1 - x0, y1 - y0
     bold = block.get("bold", False)
-    top = block.get("size", SIZE_DEFAULT)
+    top = round(block.get("size", SIZE_DEFAULT) * SCALE)
     if block.get("align") == "center" and y0 == PLATE_Y:
         w = min(w, PLATE_W)
+    w *= WIDE
     if block.get("align") == "center":  # a title stays on one line while it can
         for size in range(top, SIZE_MIN - 1, -1):
             fnt = font(size, bold)
-            if fnt.getlength(block["text"]) <= w and "\n" not in block["text"]:
-                return fnt, [block["text"]], round(size * 1.2), True
+            if length(fnt, block["text"]) <= w and "\n" not in block["text"]:
+                return fnt, [block["text"]], round(size * LEAD), True
     for size in range(top, SIZE_MIN - 1, -1):
         fnt = font(size, bold)
         lines = wrap(block["text"], fnt, w)
-        step = round(size * 1.2)
-        if step * len(lines) <= h + 2 and all(fnt.getlength(s) <= w for s in lines):
+        step = round(size * LEAD)
+        if step * len(lines) <= h + 2 and all(length(fnt, s) <= w for s in lines):
             return fnt, lines, step, True
     return fnt, lines, step, False
 
 
-def draw_block(img, block):
+def draw_block(img, block, cyan=False):
+    """Draw on a WIDE canvas, squeeze it back to the page: the screen stretches it out again. cyan: start in cyan."""
     x0, y0, x1, y1 = block["box"]
     fnt, lines, step, _ = layout(block)
-    d = ImageDraw.Draw(img)
+    layer = Image.new("RGBA", (img.width * WIDE, img.height), (0, 0, 0, 0))
+    d = ImageDraw.Draw(layer)
     light = block["ink"] == "light"
     y = y0
     if block.get("align") == "center":
         y = y0 + max(0, (y1 - y0 - step * len(lines)) // 2)
     for s in lines:
-        x = x0 + (x1 - x0 - fnt.getlength(s)) / 2 if block.get("align") == "center" else x0
-        if light:
-            d.text((x, y), s, font=fnt, fill=(240, 240, 235), stroke_width=1, stroke_fill=(10, 10, 12))
-        else:
-            d.text((x, y), s, font=fnt, fill=(38, 28, 18))
+        x = WIDE * x0 + ((x1 - x0) * WIDE - length(fnt, s)) / 2 if block.get("align") == "center" else WIDE * x0
+        for part in re.split(r"([{}])", s):
+            if part in ("{", "}"):
+                cyan = part == "{"
+            if part in ("{", "}", ""):
+                continue
+            if light:  # outline 1 px each way on the page: WIDE px across on the canvas
+                for dx in range(-WIDE, WIDE + 2):
+                    for dy in (-1, 0, 1):
+                        d.text((x + dx, y + dy), part, font=fnt, fill=(10, 10, 12))
+            for dx in range(WIDE):  # stems one page px wider, or the squeeze leaves them grey
+                d.text((x + dx, y), part, font=fnt, fill=(CYAN if cyan else (240, 240, 235)) if light else (38, 28, 18))
+            x += fnt.getlength(part)
         y += step
+    img.alpha_composite(layer.resize(img.size, Image.LANCZOS))
 
 
 def render(page, rgb):
@@ -160,12 +191,13 @@ def render(page, rgb):
     for block in page.get("erase", []) + page.get("blocks", []):
         dim = block.get("dim", False) or page["entry"] in DIM_PAGES
         a = inpaint(a, text_mask(a, block["box"], block["ink"], dim))
-    img = Image.fromarray(a)
+    img = Image.fromarray(a).convert("RGBA")
     for block in page.get("blocks", []):
-        draw_block(img, block)
+        whole = "{" not in block["text"] and cyan_share(rgb, block["box"]) >= CYAN_SHARE
+        draw_block(img, block, whole)
     for line in page.get("lines", []):  # art an erase took with the text
         ImageDraw.Draw(img).line(line, fill=(190, 190, 190))
-    new = np.array(img)
+    new = np.array(img.convert("RGB"))
     return new, (new != a).any(axis=2)
 
 

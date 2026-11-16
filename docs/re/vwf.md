@@ -17,6 +17,7 @@
 The pens are in **pixels**. Patches to the draw loop: sprite x is the pen; the block flush test allows 8 px more; the wrap test compares against `W*6`; `0x8004F854` now copies at any pixel with OR; the kana path moves the pen by 6/12. One-byte codes jump to `vwf_char`:
 
 - **ASCII mode (`01`)**: the glyph is read from the half-width cells (index `c-0x21`, 11 rows, 1 byte per row, 8 px max) and painted straight into the block, then the pen moves by the width table. Space only moves the pen.
+- **`{0e}` (half-width on: draw `s3` bit 0, measure `s1` = 0; default from the global mode bit 2 in both) snaps the pen up to the 6 px grid** (`half_on`, hooked at 0x8004EF34), and in it spaces and digits take the Japanese 6 px cell (ASCII still draws VWF; digits are 6 px in `fonts/vwf.txt`, '1' centred). Verified with a probe on `vwf_char`: before, pad spaces moved 4 and digits 7. The shop list row (builder 0x8004B9C0) is `icon name {0b:01}{01}{0e}` + (W - name - digits) spaces + price + `{0b:02}{01}G`, W the field in half-cells (0x8004AB44 code 0xE) and name width from measure, which rounds English px up to half-cells: without the snap the prices sat 0-5 px off the column.
 - **kana modes**: the original path. Untranslated Japanese still draws, which is what makes a partial build readable.
 
 Measure counts pixels too and returns half-cells rounded up, so its callers keep working. A printed variable is multiplied back to pixels on the way through.

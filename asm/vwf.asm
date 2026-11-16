@@ -7,6 +7,7 @@ WIDTHS   equ FONT_RES + 0x14 + 94*11 + 2   ; 95 advances, overwriting unused hal
 RESIDENT equ WIDTHS + 96           ; code, same area (cells end at FONT_RES+0xBFC)
 BLOCK    equ 48                    ; px per text block
 NARROW_MAX equ 8                   ; widest VWF advance
+HALF     equ 6                     ; half-width cell after {0e}; fonts/vwf.txt digits are 6 ('1' 4, centred)
 WIDE_WORDS equ 10                  ; trap label field in 32-bit words: 80 px, its box shows 76
 RETURN_NEXT equ 0x8004F360         ; after the pen moved: wait, flush test, next char
 FLUSH    equ 0x8004F480            ; end the block
@@ -42,6 +43,10 @@ SUB_POOL_MAGIC equ 0x424F5046      ; insert.SUB_POOL_MAGIC
     slti  v0, s7, BLOCK - 12 + 1
     beqz  v0, FLUSH
     sll   v0, a1, 0x18
+
+; {0e}: the pen snaps to the 6 px grid (half_on)
+.org 0x8004EF34
+    j     half_on
 
 ; the kana path moves the pen in px
 .org 0x8004F284
@@ -223,8 +228,9 @@ SUB_POOL_MAGIC equ 0x424F5046      ; insert.SUB_POOL_MAGIC
 .org 0x8006BFC4
     addiu s1, s1, 0x34             ; icon, was 0x28
 ; Status grid (Equip window) layout records {x, y, 0, 0, id} at 0x80097C9C, x relative to the window: stat labels 4 px
-; left so Atk/Def clear a 2-digit number (numbers stay), equipment labels and values 16 px left: item names get 119 px
-; before the frame at 304 (D21; the equip screen's list holds 111)
+; left so Atk/Def clear a 2-digit number (numbers stay), equipment labels and values 10 px left: item names get 113 px
+; before the frame at 304 (D21; the equip screen's list holds 111). MP/Def's ` %3d` field ends at 120 (6 px cells after
+; {0e}), 6 px before Mail/Gear.
 .org 0x80097C9C
     .halfword 30                   ; HP, was 34
 .org 0x80097CA8
@@ -234,17 +240,17 @@ SUB_POOL_MAGIC equ 0x424F5046      ; insert.SUB_POOL_MAGIC
 .org 0x80097CC0
     .halfword 80                   ; Def
 .org 0x80097CCC
-    .halfword 120                  ; Arms, was 136
+    .halfword 126                  ; Arms, was 136
 .org 0x80097CD8
-    .halfword 120                  ; Mail
+    .halfword 126                  ; Mail
 .org 0x80097CE4
-    .halfword 120                  ; Gear
+    .halfword 126                  ; Gear
 .org 0x80097D20
-    .halfword 150                  ; equipped item, was 166
+    .halfword 156                  ; equipped item, was 166
 .org 0x80097D2C
-    .halfword 150
+    .halfword 156
 .org 0x80097D38
-    .halfword 150
+    .halfword 156
 ; Equip screen: left panel (16,39) shows each slot's item under its label, right panel lists items with icon and count
 ; (count fixed near the right edge, x 287). Names at the labels' x 8 (were 16), left panel 3 px narrower, list panel
 ; 7 px left with one more column: both hold 111 px. Its stat labels 3 px left so Atk/Def clear a 2-digit number.
@@ -365,6 +371,27 @@ vwf_char:
     la    t0, WIDTHS - 0x20
     addu  t0, t0, a1
     lbu   t4, (t0)
+    andi  v0, s3, 1                ; {0e}: spaces and digits take the Japanese 6 px half-width cell (padded numbers)
+    beqz  v0, @@prop
+    addiu v0, a1, -0x30
+    sltiu v0, v0, 10
+    bnez  v0, @@cell
+    addiu v1, zero, 0x20
+    bne   a1, v1, @@prop
+    nop
+    b     @@prop
+    addiu t4, zero, HALF           ; a space
+@@cell:                            ; a digit, centred ('1' is 4 px)
+    addiu v0, zero, HALF
+    subu  v0, v0, t4
+    sra   v0, v0, 1
+    addu  s7, s7, v0
+    lw    v1, 0x28(sp)
+    addiu t4, zero, HALF
+    subu  t4, t4, v0
+    addu  v1, v1, v0
+    sw    v1, 0x28(sp)
+@@prop:
     addiu t0, zero, 0x20
     beq   a1, t0, @@advance
     addiu s1, s1, 1
@@ -428,14 +455,42 @@ vwf_measure_var:
     j     0x80050880
     addu  v0, s2, v0
 
-; a0 = one-byte code
+; a0 = one-byte code; s1 = 0 after {0e}: spaces and digits 6 px, as the draw takes them
 vwf_measure_char:
     la    v0, WIDTHS - 0x20
     andi  a0, a0, 0xFF
     addu  v0, v0, a0
+    bnez  s1, @@own
     lbu   v0, (v0)
+    addiu v1, a0, -0x30
+    sltiu v1, v1, 10
+    bnez  v1, @@half
+    addiu v1, zero, 0x20
+    bne   a0, v1, @@own
+    nop
+@@half:
+    addiu v0, zero, HALF
+@@own:
     j     0x80050880
     addu  v0, s2, v0
+
+; {0e} (half-width on): the pen goes up to the next 6 px. Callers pad a field with half-width spaces counted from a
+; measure that rounds the English up to half-cells (shop prices: name, then W - name - digits spaces), so the field
+; lines up on that grid as in Japanese. 0x8004F444 then flushes a block past 40 px.
+half_on:
+    lw    v0, 0x28(sp)
+    addiu t0, zero, 6
+    div   v0, t0
+    mfhi  v1
+    nop
+    beqz  v1, @@done
+    subu  v1, t0, v1
+    addu  v0, v0, v1
+    sw    v0, 0x28(sp)
+    addu  s7, s7, v1
+@@done:
+    j     0x8004F444
+    nop
 
 ; s2 = px; lw s4 already done
 vwf_measure_ret:

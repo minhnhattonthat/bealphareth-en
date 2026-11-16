@@ -51,7 +51,7 @@
 {"entry": 2781, "erase": [{"box": [55, 300, 290, 342], "ink": "light"}, {"box": [58, 384, 117, 426], "ink": "light"}, {"box": [133, 392, 150, 412], "ink": "light", "dim": true}, {"box": [135, 394, 150, 412], "ink": "dark"}, {"box": [130, 424, 138, 426], "ink": "light", "dim": true}], "blocks": [
  {"box": [78, 46, 202, 72], "ink": "light", "text": "Anote's Rapier", "align": "center", "bold": true, "size": 18},
  {"box": [55, 212, 290, 312], "ink": "light", "text": "A weapon said to have been made by the mage Anote, hero of Eastern myth.\n\nEasy to handle, and it seems able to send foes flying as well."},
- {"box": [56, 322, 160, 376], "ink": "light", "text": "Attack 18\nDexterity +20\nKnockback +2"}]},
+ {"box": [56, 322, 160, 376], "ink": "light", "text": "{Attack 18\nDexterity +20\nKnockback +2}"}]},
 {"entry": 2782, "blocks": [
  {"box": [78, 46, 202, 72], "ink": "light", "text": "Gaius's Rapier", "align": "center", "bold": true, "size": 18},
  {"box": [70, 118, 200, 308], "ink": "light", "text": "A slender sword made by the master smith Gaius. Plain and unadorned, yet it settles into the hand as if made for you alone."},
@@ -64,7 +64,7 @@
 {"entry": 2784, "erase": [{"box": [38, 386, 114, 412], "ink": "light"}, {"box": [170, 336, 296, 352], "ink": "light"}], "blocks": [
  {"box": [78, 46, 202, 72], "ink": "light", "text": "Arlail's Parrier", "align": "center", "bold": true, "size": 18},
  {"box": [38, 246, 296, 338], "ink": "light", "text": "A parrier said to have been made by the angel Arlail to carry out God's judgment. (Left hand only.)\nIt can give the sword in your right hand the Lightning attribute as well."},
- {"box": [38, 340, 170, 376], "ink": "light", "text": "Attack +11\nLightning attribute"}]},
+ {"box": [38, 340, 170, 376], "ink": "light", "text": "{Attack +11\nLightning attribute}"}]},
 {"entry": 2785, "erase": [{"box": [128, 340, 150, 366], "ink": "light", "dim": true}, {"box": [66, 384, 117, 396], "ink": "light"},{"box": [133, 392, 152, 400], "ink": "light", "dim": true}, {"box": [135, 394, 152, 400], "ink": "dark"}], "blocks": [
  {"box": [84, 46, 196, 72], "ink": "light", "text": "Astaras's Rapier", "align": "center", "bold": true, "size": 18},
  {"box": [62, 114, 165, 188], "ink": "light", "text": "A magic sword made of a strange material."},
@@ -84,7 +84,7 @@
 {"entry": 2789, "erase": [{"box": [250, 320, 305, 342], "ink": "light"}, {"box": [133, 392, 210, 412], "ink": "light", "dim": true}, {"box": [146, 392, 195, 412], "ink": "light", "dim": true}, {"box": [135, 394, 212, 412], "ink": "dark"}, {"box": [146, 414, 200, 418], "ink": "light", "dim": true}, {"box": [150, 380, 190, 384], "ink": "light", "dim": true}, {"box": [146, 430, 212, 434], "ink": "light"}], "blocks": [
  {"box": [78, 46, 202, 72], "ink": "light", "text": "Revelation Parrier", "align": "center", "bold": true, "size": 18},
  {"box": [148, 196, 312, 322], "ink": "light", "text": "One of the magic arms, holding a strange magical power.\n(Left hand only.)\nIt can give the sword in your right hand the Fire attribute as well."},
- {"box": [150, 324, 250, 376], "ink": "light", "text": "Attack +10\nFire attribute\nCold Resist -"}]},
+ {"box": [150, 324, 250, 376], "ink": "light", "text": "{Attack +10\nFire attribute\nCold Resist -}"}]},
 {"entry": 2790, "erase": [{"box": [32, 222, 42, 414], "ink": "light", "dim": true}, {"box": [238, 392, 246, 412], "ink": "light", "dim": true}, {"box": [42, 338, 190, 350], "ink": "light", "dim": true},{"box": [42, 356, 128, 376], "ink": "light", "dim": true}, {"box": [42, 384, 110, 414], "ink": "light", "dim": true}, {"box": [226, 368, 268, 376], "ink": "light"}, {"box": [200, 392, 232, 412], "ink": "light", "dim": true}, {"box": [224, 396, 234, 412], "ink": "light", "dim": true}, {"box": [200, 394, 232, 412], "ink": "dark"}, {"box": [250, 384, 300, 420], "ink": "light"}], "blocks": [
  {"box": [78, 46, 202, 72], "ink": "light", "text": "Nether Parrier", "align": "center", "bold": true, "size": 18},
  {"box": [42, 222, 200, 350], "ink": "light", "text": "A weapon that rules ice and cold.\n(Left hand only.)\nIt can freeze any foe it wounds, but it lowers its user's Heat Resist."},
