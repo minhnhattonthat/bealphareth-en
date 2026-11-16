@@ -213,6 +213,7 @@ SUB_POOL_MAGIC equ 0x424F5046      ; insert.SUB_POOL_MAGIC
 .org 0x8006C970
     j     big_advance
     nop
+
 ; its half-width unpacker (only English reaches it) skips the 1 px bold: the outline pass already thickens the VWF cells
 .org 0x8006D568
     move  v0, zero
@@ -530,11 +531,32 @@ big_glyph:
     nop
 
 ; pen 0x10(sp): an ASCII byte (space too) moves by its VWF width plus 1 px of outline; anything else keeps 13 or 7
+; After {0e} (s2 = 0) digits and spaces keep the Japanese 7 px cell, so printf fields right-align. The stats
+; `{14}{0e}{01}:%4d` (Atk Will Def Dex, labels 18-23 px): the space after the colon puts the field at line start + 21
+; (s4), so every value ends at +49 whatever the label, where a 2-digit Atk ended before.
 big_advance:
     lhu   v0, 0x10(sp)
     bnez  s3, @@cells
     sltiu v1, s0, 0x80
     beqz  v1, @@cells
+    nop
+    bnez  s2, @@prop
+    addiu v1, s0, -0x30
+    sltiu v1, v1, 10
+    bnez  v1, @@cell7
+    addiu v1, zero, 0x20
+    bne   s0, v1, @@prop
+    nop
+    lbu   v1, -1(s1)               ; a space: right after the colon?
+    nop
+    xori  v1, v1, 0x3A
+    bnez  v1, @@cell7
+    nop
+    addiu v0, s4, 21
+@@cell7:
+    j     0x8006C99C
+    addiu v0, v0, 7
+@@prop:
     lui   v1, hi(WIDTHS - 0x20)
     addu  v1, v1, s0
     lbu   v1, lo(WIDTHS - 0x20)(v1)
