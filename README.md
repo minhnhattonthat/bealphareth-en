@@ -19,7 +19,7 @@ helps most.
 | Prologue video subtitles | English |
 | Name entry | English |
 
-Version 1.5 is out (fixes the freeze when leaving a church room for the corridor). Tested on PCSX-Redux, not on real hardware. Full battles, shops, the Game Over screen and many later events haven't been played through by hand, so please report anything odd.
+Version 1.6 is out (fixes the hero's portrait getting garbled after browsing the Status pages). Tested on PCSX-Redux, not on real hardware. Full battles, shops, the Game Over screen and many later events haven't been played through by hand, so please report anything odd.
 
 ## What's here
 
