@@ -480,7 +480,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 
 ## Families (names not listed row by row)
 - Traps (`MAIN.EXE`, `PSX.EXE`): サンダー Thunder, フレイム Flame, アイス Ice, ウォータ/ウォーター Water, オイル Oil, バキューム Vacuum, ポール Pole, フリップパネル Flip Panel. ボム Bomb, ロック Rock (a pillar), オイルブロック Oil Block. Tier digits stay: Ice Rock 2. サンダーロック Shock Rock and サンダーボム Shock Bomb only: the top bar's label holds 76 px (D15).
-- Allowed short forms, equipment 103 px (D15): Valdes Greatsword, Hermit Greatsword, Anote Greatsword, Nakiel Greatsword; Radamael Claymore, Astaras Claymore, Nameless Claymore, Accursed Claymore; Drakehead Blade; Storm God's Staff; Brother's Armor; Empty Tube.
+- Equipment names hold 124 px (D21; the D15 short forms are full again). Only short form left: 兄の形見の鎧 Brother's Keepsake.
 - Object names outside the banks (boss gauge, `tbl/loose_names.tsv`): エンダール Endal, フロストマム Frost Mum, フロストダッド Frost Dad, クモガミ Spider God, ヤミムシ Dark Bug.
 - Trap trait tags, one kanji each in the original: 障 Obstacle, 起 Trigger, 爆 Burst, 踏 Step, 空 Air, 地 Ground.
 - Spells (`PSX.EXE` bank 0.2) are German: ハイス Heiss, カルト Kalt, ブリッツ Blitz + ナーデル Nadel, ボム Bomb, クーゲル Kugel, スピス Spiess, ゲショス Geschoss, エーダ Erde, ボンバー Bomber, リッター Ritter, カノーネ Kanone, ミサイル Missile, ズィガー Zieger, スターツ Sturz. アインホルン Einhorn.
