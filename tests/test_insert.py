@@ -341,3 +341,29 @@ def test_main_pointers_are_all_strings():
     pointers = extract.main_pointers(blob)
     assert len(pointers) == 172
     assert all((slot - extract.MAIN_TABLE[0]) % 0x3C in (0, 0x38) for slot, _ in pointers)
+
+
+def test_asm_has_no_load_use_hazard():
+    """PS1 loads have a delay slot: the next instruction still sees the old register. DuckStation and hardware honour it,
+    Redux's dynarec does not (a `lw ra` then `jr ra` froze loading a save in DuckStation only)."""
+    load = re.compile(r"\s*(lw|lh|lhu|lb|lbu|lwl|lwr)\s+(\w+)\s*,")
+    op = re.compile(r"\s*([a-z]+)\s*(.*)")
+    bad = []
+    for path in (ROOT / "asm").glob("*.asm"):
+        pending = None
+        for n, line in enumerate(path.read_text(encoding="utf8").splitlines(), 1):
+            code = line.split(";")[0].strip()
+            if not code:
+                continue
+            if code.endswith(":") or code.startswith("."):
+                pending = None
+                continue
+            m = op.match(code)
+            if pending and m:
+                name, args = m.group(1), [a.strip() for a in m.group(2).split(",")]
+                reads = args if name.startswith(("s", "b", "j", "mt")) else args[1:]
+                if any(re.search(rf"\b{pending[0]}\b", a) for a in reads):
+                    bad.append(f"{path.name}:{n} uses {pending[0]} loaded at line {pending[1]}")
+            lm = load.match(code)
+            pending = (lm.group(2), n) if lm and lm.group(2) != "zero" else None
+    assert not bad, bad

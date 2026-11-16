@@ -301,6 +301,10 @@ SUB_POOL_MAGIC equ 0x424F5046      ; insert.SUB_POOL_MAGIC
 .org 0x80027948
     jal   sub_far
 
+; --- load/save info box (builder 0x80037FD0..): line 1 padded to the Japanese width, the box sizes itself from it ----------
+.org 0x800380D8
+    jal   slot_pad                 ; was strcat(end, " "); fp = the line buffer
+
 .close
 
 ; --- resident code, in RES#3927 (loaded at 0x801B9000, always there while text draws) ----------------------------------
@@ -679,6 +683,121 @@ elem_step:
     addu  fp, s6, t0
 elem_steps:
     .byte 31, 28, 28, 0
+
+; Save slot line 1 (" {01}1{01}:{01}W..{01}L{01}v{01}.{01}0.."), laid out like the Japanese full-width line:
+; "1: Name" left, "Lv.01 00:28" ending SLOT_TEXT half-cells in, then trailing spaces to SLOT_BOX half-cells, so the box is
+; 268 px as in Japanese whatever the name. The party line below centres on it ({0e} spaces, 6 px each). The leading
+; space draws 12 px (full-width) but measures 4: SLOT_TEXT 40 puts the time's ink at x 275, as the Japanese.
+SLOT_TEXT equ 40
+SLOT_BOX  equ 44
+slot_pad:
+    addiu sp, sp, -24
+    sw    ra, 16(sp)
+    sw    s0, 20(sp)
+    move  a0, fp
+    jal   slot_find
+    li    a1, 0x3A01               ; "{01}:"
+    beqz  v0, @@nocolon
+    nop
+    jal   slot_ins                 ; "1: Weld"
+    addiu a0, v0, 2
+@@nocolon:
+    move  a0, fp
+    jal   slot_find
+    li    a1, 0x2001               ; last "{01} ": before the time
+    beqz  v1, @@notime
+    nop
+    jal   slot_ins                 ; "Lv.01  00:28"
+    addiu a0, v1, 2
+@@notime:
+    move  a0, fp
+    jal   slot_find
+    li    a1, 0x4C01               ; last "{01}L": Lv
+    bnez  v1, @@mid
+    move  s0, v1
+    move  s0, t0                   ; no Lv: pad at the end
+@@mid:
+    jal   slot_fill
+    li    a1, SLOT_TEXT
+    move  a0, fp
+    jal   slot_find                ; t0 = the NUL
+    li    a1, 0
+    move  s0, t0
+    jal   slot_fill
+    li    a1, SLOT_BOX
+    lw    ra, 16(sp)
+    lw    s0, 20(sp)               ; load delay: ra is ready by jr (DuckStation/hardware honour it, Redux's dynarec doesn't)
+    jr    ra
+    addiu sp, sp, 24
+
+; insert spaces at s0 until fp measures a1 half-cells
+slot_fill:
+    addiu sp, sp, -24
+    sw    ra, 16(sp)
+    sw    a1, 20(sp)
+@@loop:
+    move  a0, fp
+    move  a1, zero
+    move  a2, zero
+    jal   0x80050700               ; measure, half-cells
+    move  a3, zero
+    lw    a1, 20(sp)
+    nop
+    slt   v0, v0, a1
+    beqz  v0, @@done
+    nop
+    jal   slot_ins
+    move  a0, s0
+    b     @@loop
+    nop
+@@done:
+    lw    ra, 16(sp)
+    nop                            ; load delay
+    jr    ra
+    addiu sp, sp, 24
+
+; a0 = string, a1 = two bytes (low first): v0 = first match, v1 = last match (0 if none), t0 = the NUL. Leaf.
+slot_find:
+    move  v0, zero
+    move  v1, zero
+    move  t0, a0
+@@loop:
+    lbu   t1, (t0)
+    lbu   t2, 1(t0)
+    beqz  t1, @@done
+    sll   t2, t2, 8
+    or    t1, t1, t2
+    bne   t1, a1, @@next
+    nop
+    bnez  v0, @@last
+    move  v1, t0
+    move  v0, t0
+@@last:
+@@next:
+    b     @@loop
+    addiu t0, t0, 1
+@@done:
+    jr    ra
+    nop
+
+; insert a space at a0, moving [a0, NUL] one byte right. Leaf.
+slot_ins:
+    move  t0, a0
+@@end:
+    lbu   t1, (t0)
+    nop
+    bnez  t1, @@end
+    addiu t0, t0, 1
+    addiu t0, t0, -1               ; t0 = the NUL
+@@shift:
+    lbu   t1, (t0)
+    nop
+    sb    t1, 1(t0)
+    bne   t0, a0, @@shift
+    addiu t0, t0, -1
+    li    t1, 0x20
+    jr    ra
+    sb    t1, (a0)
 
 label_pen:
     .word 0
