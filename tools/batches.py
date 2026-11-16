@@ -53,7 +53,8 @@ SLOTS = ["Hero (male)", "Hero (female)", "Ash", "Arthur", "Leia", "Eleanor", "Pa
 # Developer leftovers: phase 7 blanks these to reclaim bank space, nobody translates them.
 DEV_STRINGS = {"PSX.EXE:20b13", "PSX.EXE:20b84", "PSX.EXE:20c0d"}
 # Default hero name, same 15 bytes as the original record ({00} ends the name, spaces pad it); an empty trap slot's filler.
-FIXED_EN = {"PSX.EXE:1b514": "{01}Weld{00}         ", "MAIN.EXE:3de0": "..."}
+# PSX.EXE:206d3 closes the load/save box's party line: its ~ must be drawn in full-width mode after the ASCII names.
+FIXED_EN = {"PSX.EXE:1b514": "{01}Weld{00}         ", "MAIN.EXE:3de0": "...", "PSX.EXE:206d3": " {02}{75}"}
 
 TOKEN = re.compile(r"\{[^{}]*\}")
 JP = re.compile(r"[぀-ヿ一-鿿々]")
