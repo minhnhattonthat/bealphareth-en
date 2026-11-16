@@ -21,6 +21,16 @@ def docs():
         yield json.loads(path.read_text(encoding="utf8"))
 
 
+def test_profile_labels_stay_short():
+    # D18: the Profile page paints past x 320 into VRAM (the hero portrait) when these grow. The rewrap rebuilds `en`
+    # from `tl`, so both must hold the short form (3654b3a lost them that way).
+    want = {0x21D69: "Arms:", 0x21D74: "Mail:", 0x21D7F: "Gear:", 0x21D8A: "Parrier:", 0x226E6: "Half{0e}:",
+            0x226EE: "Null{0e}:", 0x226FC: "Bolt", 0x22705: "Pois", 0x22708: "Atk", 0x2270D: "Def", 0x22717: "Dex"}
+    doc = json.loads((ROOT / "script/psx_exe.json").read_text(encoding="utf8"))
+    got = {s["off"]: (s["en"], s["tl"].replace("[1]", "{0e}")) for s in doc["strings"] if s["off"] in want}
+    assert got == {k: (v, v) for k, v in want.items()}
+
+
 def scene(doc):
     d = res.load()
     o, s = res.table(d)[doc["entry"]]
