@@ -222,18 +222,18 @@ SUB_POOL_MAGIC equ 0x424F5046      ; insert.SUB_POOL_MAGIC
     addiu a0, s1, 0x44             ; -Not Equipped- (s1 - 12), was 0x38
 .org 0x8006BFC4
     addiu s1, s1, 0x34             ; icon, was 0x28
-; Weak/Half/Null rows: labels 10 px left (Exp's numbers end at 155), elements from label + 40 (was 36), 31 px apart (were
-; 20, one kanji each): the last ends at 317
+; Weak/Half/Null rows: labels 12 px left (Exp's numbers end at 155, ink starts 3 px right of x), no colon; elements from
+; label + 34 (was 36), each column its word's pen width + 2 (were 20, one kanji each), so Poison's ink ends at 318
 .org 0x8006CB40
-    addiu s6, v0, 40
+    addiu s6, v0, 34
 .org 0x8006CBDC
-    addiu fp, s6, 31
+    jal   elem_step                ; fp = next column x; ra is on the stack, the delay slot's lw v0 survives
 .org 0x8009A650
-    .halfword 158
+    .halfword 156
 .org 0x8009A658
-    .halfword 158
+    .halfword 156
 .org 0x8009A660
-    .halfword 158
+    .halfword 156
 
 ; --- 0x80050A8C finds a bank's base id after its offset table: M2 only, English can turn a bank into an M4 of strings -------
 .org 0x80050AB4
@@ -563,6 +563,16 @@ big_clip:
 @@done:
     jr    ra
     nop
+
+; Profile element columns: s0 = element 0-3 (Heat Cold Bolt Poison), s6 = its x. tests/test_insert.py checks the steps
+elem_step:
+    la    t0, elem_steps
+    addu  t0, t0, s0
+    lbu   t0, (t0)
+    jr    ra
+    addu  fp, s6, t0
+elem_steps:
+    .byte 31, 28, 28, 0
 
 label_pen:
     .word 0

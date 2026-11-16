@@ -1,5 +1,6 @@
 """Text insertion: an empty rebuild gives the original bytes; new text lands in the right bank; the font is sound."""
 import json
+import re
 import struct
 import sys
 from pathlib import Path
@@ -24,11 +25,23 @@ def docs():
 def test_profile_labels_stay_short():
     # D18: the Profile page paints past x 320 into VRAM (the hero portrait) when these grow. The rewrap rebuilds `en`
     # from `tl`, so both must hold the short form (3654b3a lost them that way).
-    want = {0x21D69: "Arms:", 0x21D74: "Mail:", 0x21D7F: "Gear:", 0x21D8A: "Parrier:", 0x226E6: "Half{0e}:",
-            0x226EE: "Null{0e}:", 0x226FC: "Bolt", 0x22705: "Pois", 0x22708: "Atk", 0x2270D: "Def", 0x22717: "Dex"}
+    want = {0x21D69: "Arms:", 0x21D74: "Mail:", 0x21D7F: "Gear:", 0x21D8A: "Parrier:", 0x226DE: "Weak{0e}",
+            0x226E6: "Half{0e}", 0x226EE: "Null{0e}", 0x226F6: "Heat", 0x226F9: "Cold", 0x226FC: "Bolt",
+            0x22705: "Poison", 0x22708: "Atk", 0x2270D: "Def", 0x22717: "Dex"}
     doc = json.loads((ROOT / "script/psx_exe.json").read_text(encoding="utf8"))
     got = {s["off"]: (s["en"], s["tl"].replace("[1]", "{0e}")) for s in doc["strings"] if s["off"] in want}
     assert got == {k: (v, v) for k, v in want.items()}
+    # element columns (asm elem_steps): labels at 156, elements from 190; pen width = VWF width + 1 outline column,
+    # ink starts 2 px right of x (measured, work/qa/prof_poison)
+    w = vwf_font.widths()
+    pen = lambda s: sum(w[ord(c) - 32] + 1 for c in s.replace("{0e}", ""))
+    steps = [int(n) for n in re.search(r"elem_steps:\s*\.byte ([\d, ]+)", (ROOT / "asm/vwf.asm").read_text()).group(1).split(",")]
+    x = 156 + 34
+    assert max(pen(want[o]) for o in (0x226DE, 0x226E6, 0x226EE)) <= 34 - 2
+    for o, step in zip((0x226F6, 0x226F9, 0x226FC), steps):
+        assert pen(want[o]) <= step - 2, want[o]
+        x += step
+    assert x + 2 + pen(want[0x22705]) <= 319  # last column; big_clip cuts at 319
 
 
 def scene(doc):
